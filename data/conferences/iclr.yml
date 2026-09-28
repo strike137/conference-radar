@@ -1,0 +1,74 @@
+id: iclr
+name: ICLR
+full_name: International Conference on Learning Representations
+type: conference
+tier: top
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICLR (independent board)
+proceedings: OpenReview
+indexing: [DBLP]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 27.4% (2026, 5355/19525 valid submissions)
+typical:
+  deadline_months: [9]
+  conference_months: [4, 5]
+links:
+  website: https://iclr.cc/
+notes:
+- Deep learning focused flagship venue; fully open review on OpenReview (reviews and discussion are public)
+- 'Rotates globally: Kigali 2023, Vienna 2024, Singapore 2025, Rio de Janeiro 2026, California 2027'
+- Newly listed as CCF A in the 2026 CCF list (not listed in 2022); CORE A*
+- Abstract deadline in mid September, full paper about a week later; final decisions in December or January
+- Acceptance dropped from about 32% (2025) to 27.4% (2026)
+editions:
+- year: 2026
+  start: 2026-04-23
+  end: 2026-04-27
+  location: Rio de Janeiro, Brazil
+  url: https://iclr.cc/Conferences/2026
+  deadlines:
+  - kind: abstract
+    date: 2025-09-19
+    tz: AoE
+  - kind: submission
+    date: 2025-09-24
+    tz: AoE
+  - kind: notification
+    date: 2026-01-25
+    tz: AoE
+- year: 2027
+  start: 2027-04-26
+  end: 2027-04-30
+  location: California, USA
+  url: https://iclr.cc/Conferences/2027
+  deadlines:
+  - kind: abstract
+    date: 2026-09-18
+    tz: AoE
+  - kind: submission
+    date: 2026-09-25
+    tz: AoE
+  - kind: other
+    date: 2026-11-05
+    label: Reviews released
+  - kind: notification
+    date: 2026-12-16
+    label: Final decisions
+sources:
+- https://iclr.cc/
+- https://iclr.cc/Conferences/2027/Dates
+- https://iclr.cc/Conferences/2026
+- https://iclr.cc/Conferences/2026/Dates
+- https://iclr.cc/Conferences/FutureMeetings
+- https://blog.iclr.cc/2026/03/31/a-retrospective-on-the-iclr-2026-review-process/
+- https://portal.core.edu.au/conf-ranks/?search=ICLR&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 and 2022 list PDFs)
+unverified:
+- 'Exact ICLR 2027 city and venue: official site says only ''California'' / ''West Coast North America''; a homepage
+  image caption and third-party sources point to San Francisco (Moscone Center)'
+last_verified: 2026-09-28

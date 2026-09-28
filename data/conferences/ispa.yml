@@ -1,0 +1,77 @@
+id: ispa
+name: IEEE ISPA
+full_name: IEEE International Symposium on Parallel and Distributed Processing with Applications
+type: conference
+tier: minor
+areas: [systems, security, data]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE (2024 and 2025 editions held within the IEEE International Congress on AI for Science with BDCloud,
+  SocialCom, SustainCom and SpaCCS)
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: C
+  ccf: C
+typical:
+  deadline_months: [7, 9]
+  conference_months: [10, 11, 12]
+links:
+  website: https://ieee-ai-for-science.org/2026/ispa/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202911
+notes:
+- Held annually since 2003; 23rd edition in 2025
+- 2024 (Kaifeng) and 2025 (Shenyang) editions ran inside the IEEE AI for Science Congress together with BDCloud,
+  SocialCom, SustainCom and SpaCCS (a security and privacy conference)
+- CCF C and CORE C; has a security and blockchain track
+- 8 pages IEEE CS format for regular papers, 6 for short/workshop papers; submission via EDAS
+- 2026 (24th) edition listed on WikiCFP by the organizer account for Kuala Lumpur, Malaysia with a 2026-09-30 deadline;
+  the official site was unreachable when checked
+editions:
+- year: 2025
+  start: 2025-10-10
+  end: 2025-10-12
+  location: Shenyang, China
+  url: http://www.ieee-ai-for-science.org/2025/ispa/
+  deadlines:
+  - kind: submission
+    date: 2025-07-31
+    tz: AoE
+    label: Paper submission (extended from 2025-07-25)
+  - kind: notification
+    date: 2025-08-31
+    label: Author notification (extended from 2025-08-25)
+  - kind: camera_ready
+    date: 2025-09-18
+    label: Camera-ready (extended from 2025-09-14)
+- year: 2026
+  start: 2026-12-27
+  end: 2026-12-30
+  location: Kuala Lumpur, Malaysia
+  url: https://ieee-ai-for-science.org/2026/ispa/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+    label: Paper submission (per WikiCFP)
+  - kind: notification
+    date: 2026-10-30
+    label: Per WikiCFP
+sources:
+- https://web.archive.org/web/2026/http://www.ieee-ai-for-science.org/2025/ispa/
+- https://web.archive.org/web/2025/https://ieee-ai-for-science.org/2025/
+- https://web.archive.org/web/2025/https://ieee-ai-for-science.org/2024/
+- https://api.crossref.org/works?query.bibliographic=IEEE+International+Symposium+on+Parallel+and+Distributed+Processing+with+Applications+ISPA&filter=type:proceedings
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202911
+- https://portal.core.edu.au/conf-ranks/?search=ISPA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- The 2026 official site (ieee-ai-for-science.org) did not resolve on 2026-09-28 (its name servers do not respond),
+  so 2026 facts could not be checked on an official page
+- 2026 location (Kuala Lumpur), Sep 30 deadline and Oct 30 notification come from the WikiCFP entry posted by the
+  organizer account; the Dec 27 start comes only from ccf-deadlines (WikiCFP shows Aug 28 to Dec 30)
+- Whether ISPA 2026 is again joint with BDCloud/SocialCom/SustainCom/SpaCCS
+- Acceptance rate and registration fee
+last_verified: 2026-09-28

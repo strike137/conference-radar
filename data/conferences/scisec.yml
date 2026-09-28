@@ -1,0 +1,75 @@
+id: scisec
+name: SciSec
+full_name: International Conference on Science of Cyber Security
+type: conference
+tier: minor
+areas: [security, data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: 'Rotating host institutions (2026: Beijing Institute of Technology); IIE of the Chinese Academy of Sciences
+  listed as sponsor'
+proceedings: Springer LNCS
+indexing: [EI, DBLP]
+rank:
+  core: Unranked
+fee: 4000 RMB (about 580 USD) (2026, paper registration); 1500 RMB non-paper
+typical:
+  deadline_months: [3, 4, 5]
+  conference_months: [5, 6, 8]
+links:
+  website: https://scisec.org/
+  dblp: https://dblp.org/db/conf/scisec/index.html
+notes:
+- Started in 2018 in Beijing; topics include cybersecurity metrics, modeling, data analytics and AI for security
+- Proceedings in Springer LNCS
+- Mostly held in China, with editions abroad (Matsue 2022, Melbourne 2023, Copenhagen 2024, Gjovik 2027); no 2020
+  edition
+- Single submission deadline in spring, extended in 2025 and 2026; anonymous submissions, full papers up to 18 pages
+  and short papers up to 12 pages
+- Not ranked by CORE or CCF
+editions:
+- year: 2026
+  start: 2026-05-29
+  end: 2026-05-31
+  location: Beijing, China
+  url: https://scisec.org/scisec2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-03-31
+    tz: AoE
+    label: Extended from 2026-03-10
+  - kind: notification
+    date: 2026-04-27
+    label: Extended from 2026-04-25
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Extended from 2026-05-10
+- year: 2027
+  start: 2027-06-22
+  end: 2027-06-24
+  location: Gjovik, Norway
+  url: https://scisec.org/
+  deadlines:
+  - kind: submission
+    date: 2027-04-02
+  - kind: notification
+    date: 2027-05-14
+  - kind: camera_ready
+    date: 2027-05-21
+sources:
+- https://scisec.org/
+- https://scisec.org/scisec2026/index.html
+- https://scisec.org/scisec2026/Registration.html
+- https://scisec.org/scisec2026/Papersubmission2025.html
+- https://scisec.org/scisec2025/index.html
+- https://www.ieee-security.org/Calendar/cfps/cfp-SciSec2026.html
+- https://api.crossref.org/works?query.bibliographic=Science+of+Cyber+Security&filter=type:book,from-pub-date:2023
+- https://portal.core.edu.au/conf-ranks/?search=SciSec&by=acronym&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 'SciSec 2026 dates: the homepage says 28-30 May 2026 while the registration page and the IEEE Cipher CFP say 29-31
+  May 2026 (29-31 used here)'
+- SciSec 2027 deadline time zone and host institution
+- Acceptance rate
+- Best paper or best student paper awards (not stated on the current official pages)
+last_verified: 2026-09-28

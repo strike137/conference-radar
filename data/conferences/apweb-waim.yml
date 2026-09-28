@@ -1,0 +1,81 @@
+id: apweb-waim
+name: APWeb-WAIM
+full_name: APWeb-WAIM Joint International Conference on Web and Big Data
+type: conference
+tier: minor
+areas: [data]
+region: china
+language: english
+frequency: annual
+organizer: APWeb-WAIM Steering Committee (2026 organized with SIGAPP.fr)
+proceedings: Springer LNCS (main conference), CCIS (workshops)
+indexing: [Scopus, EI, DBLP]
+rank:
+  core: C
+  core_source: ICORE2026, as APWeb (Web and Big Data)
+  ccf: C
+acceptance_rate: 29% for full papers (2025, 136/472)
+fee: About 650 EUR (2026, author)
+typical:
+  deadline_months: [3, 5]
+  conference_months: [8, 9]
+links:
+  website: https://conferences.sigappfr.org/apweb2026/
+  dblp: https://dblp.org/db/conf/apweb/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=210
+notes:
+- Joint conference of APWeb (Asia-Pacific Web Conference) and WAIM (Web-Age Information Management) since 2017
+- Two submission rounds per year; papers rejected in round 1 cannot be resubmitted to round 2
+- Main proceedings in Springer LNCS, workshops in CCIS; 15 pages, double-blind review via Microsoft CMT
+- Usually held in China (2022 Nanjing to 2025 Shenyang); 2026 moved to Danang, Vietnam, and allowed online presentation
+- Topics include data security and privacy, web security, and LLMs for data management
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-09
+  location: Danang, Vietnam
+  url: https://conferences.sigappfr.org/apweb2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-31
+    time: '23:59'
+    tz: AoE
+    label: Round 1 (extended from 2026-03-09)
+  - kind: notification
+    date: 2026-05-09
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2026-05-24
+    time: '23:59'
+    tz: AoE
+    label: Round 2 (extended from 2026-05-14)
+  - kind: camera_ready
+    date: 2026-06-20
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2026-06-22
+    time: '23:59'
+    tz: AoE
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-07-06
+    time: '23:59'
+    tz: AoE
+    label: Round 2
+sources:
+- https://conferences.sigappfr.org/apweb2026/
+- https://conferences.sigappfr.org/apweb2026/call-for-papers/
+- https://conferences.sigappfr.org/apweb2026/registration-fees/
+- https://conferences.sigappfr.org/apweb2026/proceedings/
+- https://apweb2025.sau.edu.cn/important_date.html
+- https://link.springer.com/book/9789819556397
+- https://portal.core.edu.au/conf-ranks/?search=APWeb&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- APWeb-WAIM 2027 location and dates not announced (no 2027 site found)
+- DBLP key (listed under conf/apweb per ccf-deadlines; DBLP also has a conf/waim page)
+- 2025 acceptance figures come from the Springer volume page, which could not be reopened during fact-checking
+last_verified: 2026-09-28

@@ -1,0 +1,76 @@
+id: ccl
+name: CCL
+full_name: China National Conference on Computational Linguistics
+name_local: 中国计算语言学大会
+type: conference
+tier: domestic
+areas: [nlp]
+region: china
+language: mixed
+frequency: annual
+organizer: CIPS (Chinese Information Processing Society of China), Technical Committee on Computational Linguistics;
+  2026 hosted by Wuhan University and China Three Gorges University
+proceedings: Data Intelligence journal (English papers, 2026); Journal of Chinese Information Processing (Chinese
+  papers)
+indexing: [DBLP]
+rank:
+  core: Unranked
+fee: 2000 CNY CIPS member / 2600 CNY non-member / 1700 CNY student member, main conference early (2026)
+typical:
+  deadline_months: [4, 5, 6]
+  conference_months: [7, 8, 10]
+links:
+  website: http://cips-cl.org/static/CCL2026/index.html
+  dblp: https://dblp.org/db/conf/cncl/
+notes:
+- Largest national NLP conference in China, organized by CIPS; accepts both Chinese and English papers
+- Double-blind review, up to 10 pages of body text; fast-track for ARR papers with meta-review of 2.5 or higher;
+  parallel submission allowed if the other venue permits it
+- '2026: accepted English papers go to the Data Intelligence journal (APC 8000 CNY); in 2025 they were in Springer
+  LNAI and the ACL Anthology'
+- Includes technical evaluations (shared tasks) and tutorials; location changes each year within China
+editions:
+- year: 2025
+  start: 2025-08-11
+  end: 2025-08-14
+  location: Jinan, China
+  url: http://cips-cl.org/static/CCL2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-05-11
+    label: Extended from 2025-04-22
+  - kind: submission
+    date: 2025-05-31
+    label: ARR commitment
+  - kind: notification
+    date: 2025-06-22
+  - kind: camera_ready
+    date: 2025-06-30
+- year: 2026
+  start: 2026-10-15
+  end: 2026-10-18
+  location: Yichang, China
+  url: http://cips-cl.org/static/CCL2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    label: Extended from 2026-06-06
+  - kind: notification
+    date: 2026-08-30
+    label: Delayed from 2026-07-31
+  - kind: camera_ready
+    date: 2026-09-20
+    label: Delayed from 2026-08-16
+  - kind: other
+    date: 2026-10-09
+    label: Early registration
+sources:
+- http://cips-cl.org/static/CCL2026/index.html
+- http://cips-cl.org/static/CCL2026/cclEssay/notice/index.html
+- http://cips-cl.org/static/CCL2026/cclRegistration/registration/index.html
+- http://cips-cl.org/static/CCL2025/index.html
+- http://cips-cl.org/static/CCL2025/cclEssay/notice/index.html
+unverified:
+- Acceptance rate
+- CCL 2027 location and dates
+last_verified: 2026-09-28

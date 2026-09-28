@@ -1,0 +1,84 @@
+id: wise-ifip
+name: WISE (IFIP)
+full_name: IFIP WG 11.8 World Conference on Information Security Education
+type: conference
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: IFIP TC11 Working Group 11.8 (Information Security Education)
+proceedings: Springer IFIP AICT
+archival: true
+indexing: [Scopus]
+rank:
+  core: Unranked
+fee: 1210 AUD author / 1100 AUD student author (2026, standard rate incl. GST; registration is through IFIP SEC
+  2026 and covers SEC and WISE)
+typical:
+  deadline_months: [1, 2, 3]
+  conference_months: [5, 6]
+links:
+  website: https://www.ifiptc11.org/wg118-wise
+notes:
+- Organized by IFIP WG 11.8 (Information Security Education); co-located with IFIP SEC, and one registration covers
+  both events
+- Proceedings in the Springer IFIP AICT series, indexed in Scopus
+- Double-blind review, reviewed separately from SEC; full papers up to 14 pages in LNCS format including references,
+  plus working group discussion topics
+- Biennial from 1999 to 2017; since 2018 held almost every year (2018 at the IFIP World Computer Congress in Poznan,
+  2019 onward alongside IFIP SEC), with no edition in 2023; 2026 edition was in Perth, Australia
+- Small education-focused venue; first deadline usually late Jan or mid Feb, and it was extended by 2 to 3 weeks
+  in each of 2024, 2025 and 2026
+editions:
+- year: 2025
+  label: 17th WISE (WISE 2025)
+  start: 2025-05-21
+  end: 2025-05-23
+  location: Maribor, Slovenia
+  url: https://web.archive.org/web/20250401/https://www.ifiptc11.org/wg118-wise
+  deadlines:
+  - kind: submission
+    date: 2025-02-14
+    label: Full papers and working group abstracts (extended from 2025-01-31)
+  - kind: notification
+    date: 2025-03-14
+  - kind: camera_ready
+    date: 2025-03-28
+- year: 2026
+  label: 18th WISE (WISE 2026)
+  start: 2026-06-09
+  end: 2026-06-11
+  location: Perth, Australia
+  url: https://www.ifiptc11.org/wg118-wise
+  deadlines:
+  - kind: submission
+    date: 2026-02-25
+    label: Full papers and working group abstracts (extended from 2026-02-13)
+  - kind: notification
+    date: 2026-03-27
+    label: Notification (moved from 2026-03-13)
+  - kind: camera_ready
+    date: 2026-04-09
+    label: Camera-ready (moved from 2026-03-30)
+sources:
+- https://www.ifiptc11.org/wg118-wise
+- https://www.ifiptc11.org/wg118
+- https://www.ifiptc11.org/wg118-events
+- https://ifipsec.org/
+- https://ifipsec.org/registration.html
+- https://ifipsec.org/dates.html
+- https://history.ifipsec.org/
+- https://web.archive.org/web/20250401/https://www.ifiptc11.org/wg118-wise
+- https://web.archive.org/web/20240301/https://www.ifiptc11.org/wg118-wise
+- https://api.crossref.org/works/10.1007/978-3-032-28350-4
+- https://api.crossref.org/works?query.bibliographic=IFIP+WG+11.8+World+Conference+WISE&rows=30&filter=type:book
+- https://portal.core.edu.au/conf-ranks/?search=WISE&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- WISE 2027 not announced yet; the IFIP SEC 2026 site says SEC 2027 will be in Linkoping, Sweden, but WISE co-location,
+  dates and deadlines are not announced
+- Acceptance rate not published on the official pages (Springer front matter not reachable behind a bot challenge)
+- DBLP venue key could not be checked (dblp.org blocked by bot challenge)
+- CORE ICORE2026 search for 'WISE' and 'Information Security Education' only returns Web Information Systems Engineering
+  (a different venue), so this WISE is treated as unranked; not in the CCF list
+last_verified: 2026-09-28

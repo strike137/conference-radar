@@ -1,0 +1,85 @@
+id: soict
+name: SoICT
+full_name: International Symposium on Information and Communication Technology
+type: conference
+tier: minor
+areas: [ai, networking, communications, security, data, vision]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: School of Information and Communication Technology, Hanoi University of Science and Technology (HUST);
+  co-organized by VNU-HCM University of Science (HCMUS) in 2025 and 2026
+proceedings: Springer CCIS
+indexing: [DBLP, Scopus, EI Compendex, Google Scholar]
+rank:
+  core: Unranked
+fee: 550 USD per author registration on or before 2026-10-23, 650 USD after (2026); one full registration covers
+  up to two papers of the same author
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://soict.org/
+  dblp: https://dblp.org/db/conf/soict/
+notes:
+- Organized by SoICT, Hanoi University of Science and Technology; held in Vietnam every December (2023 Ho Chi Minh
+  City, 2024 Da Nang, 2025 Nha Trang, 2026 Ho Chi Minh City)
+- Proceedings in Springer CCIS since 2024 (ACM ICPS up to 2023)
+- Tracks include Recent Advances in Cyber Security, Networking and Communication Technologies, AI Foundations and
+  Big Data, and Generative AI
+- Selected papers invited to a Multimedia Tools and Applications special issue; late-deadline Lifelogging track
+editions:
+- year: 2025
+  label: SoICT 2025
+  start: 2025-12-12
+  end: 2025-12-14
+  location: Nha Trang, Vietnam
+  url: https://soict.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-23
+    label: Abstract and full paper
+  - kind: notification
+    date: 2025-10-19
+    label: Author notification
+  - kind: camera_ready
+    date: 2025-10-30
+    label: Camera-ready
+- year: 2026
+  label: SoICT 2026
+  start: 2026-12-04
+  end: 2026-12-05
+  location: Ho Chi Minh City, Vietnam
+  url: https://soict.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-09
+    label: Abstract (original)
+  - kind: submission
+    date: 2026-09-16
+    label: Full paper (original)
+  - kind: submission
+    date: 2026-09-20
+    label: Abstract and full paper (extended; system open until 2026-09-25)
+  - kind: submission
+    date: 2026-10-05
+    label: Lifelogging, Event Retrieval and Personal Data Analytics track
+  - kind: notification
+    date: 2026-10-12
+    label: Author notification
+  - kind: camera_ready
+    date: 2026-10-23
+    label: Camera-ready
+sources:
+- https://soict.org/
+- https://soict.org/2025/
+- https://soict.org/registration/
+- https://api.crossref.org/works/10.1007/978-981-92-2584-2
+- https://api.crossref.org/works/10.1007/978-981-96-4282-3
+- https://doi.org/10.1145/3628797
+- https://portal.core.edu.au/conf-ranks/?search=SoICT&by=all&source=all
+unverified:
+- Acceptance rate
+- Whether the SoICT 2025 deadline was extended
+- DBLP key not checked live (DBLP blocks automated access)
+last_verified: 2026-09-28

@@ -1,0 +1,76 @@
+id: ijcai
+name: IJCAI
+full_name: International Joint Conference on Artificial Intelligence
+type: conference
+tier: top
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IJCAI Organization
+proceedings: IJCAI Proceedings (ijcai.org, open access)
+indexing: [DBLP]
+rank:
+  core: A*
+  ccf: B
+typical:
+  deadline_months: [1]
+  conference_months: [8]
+links:
+  website: https://www.ijcai.org/
+notes:
+- One of the oldest general AI conferences; held jointly with ECAI when in Europe (IJCAI-ECAI 2026 in Bremen)
+- 'IJCAI 2027 will be held in Kyoto, Japan (Aug 7 to 13) plus Hengqin, China (Aug 15 to 17): very accessible from
+  JAIST'
+- 'Two-phase review: two reviews in Phase 1 with summary rejection, author response only in Phase 2; max 8 submissions
+  per author (2026)'
+- CORE A*, but moved from CCF A (2022 list) to CCF B in the 2026 CCF list
+- Deadline in mid January, conference in August
+editions:
+- year: 2026
+  label: IJCAI-ECAI 2026 (joint with ECAI)
+  start: 2026-08-15
+  end: 2026-08-21
+  location: Bremen, Germany
+  url: https://2026.ijcai.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-12
+    time: '23:59'
+    tz: AoE
+  - kind: submission
+    date: 2026-01-19
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-03-04
+    time: '23:59'
+    tz: AoE
+    label: Summary reject notification
+  - kind: other
+    date: 2026-04-07
+    label: Author response period (until Apr 10)
+  - kind: notification
+    date: 2026-04-29
+    time: '23:59'
+    tz: AoE
+- year: 2027
+  start: 2027-08-07
+  end: 2027-08-17
+  location: Kyoto, Japan (Aug 7 to 13) and Hengqin, China (Aug 15 to 17)
+  url: https://www.ijcai.org/
+  deadlines: []
+sources:
+- https://www.ijcai.org/
+- https://2026.ijcai.org/
+- https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-main-track/
+- https://www.ijcai.org/proceedings/2026/
+- https://portal.core.edu.au/conf-ranks/?search=IJCAI&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 and 2022 list PDFs)
+- https://csconfstats.xoveexu.com/conferences/ijcai/
+unverified:
+- IJCAI 2027 submission deadlines not announced (2027.ijcai.org is password protected); past pattern suggests mid
+  January 2027
+- 'IJCAI-ECAI 2026 main track acceptance: a third-party aggregator reports 13.6% (713/5233); the official proceedings
+  list 693 main track papers but no official submission count was found, so the acceptance_rate field is left empty'
+last_verified: 2026-09-28

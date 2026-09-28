@@ -1,0 +1,82 @@
+id: sigir
+name: SIGIR
+full_name: International ACM SIGIR Conference on Research and Development in Information Retrieval
+type: conference
+tier: top
+areas: [data, nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGIR
+proceedings: ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://sigir.org/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2666
+notes:
+- ACM SIGIR flagship information retrieval conference (search, recommendation, RAG); proceedings in ACM DL
+- SIGIR 2026 was held in Melbourne; SIGIR 2027 is the 50th anniversary edition in San Jose, USA
+- Full paper abstract deadline mid January, paper one week later; full papers moved to OpenReview in 2026 while
+  other tracks stayed on EasyChair
+- Full paper acceptance around 20%; short paper and other tracks have separate later deadlines
+- Asia-Pacific sister conference SIGIR-AP is a more accessible regional option
+editions:
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-24
+  location: Melbourne, Australia
+  url: https://sigir2026.org/en-AU
+  deadlines:
+  - kind: abstract
+    date: 2026-01-15
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-01-22
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2026-04-02
+    tz: AoE
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-04-29
+    tz: AoE
+- year: 2027
+  start: 2027-07-18
+  end: 2027-07-24
+  location: San Jose, USA
+  url: https://sigir2027.org/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-14
+    label: Full papers
+  - kind: submission
+    date: 2027-01-21
+    label: Full papers
+  - kind: notification
+    date: 2027-04-05
+    label: Full papers
+  - kind: camera_ready
+    date: 2027-04-30
+sources:
+- https://sigir2027.org/
+- https://sigir2026.org/en-AU
+- https://sigir2026.org/en-AU/pages/submissions/full-papers-track
+- https://portal.core.edu.au/conf-ranks/?search=SIGIR&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- http://www.wikicfp.com/cfp/program?id=2666
+- https://csconfstats.xoveexu.com/conferences/sigir/
+unverified:
+- SIGIR 2027 page title says July 19 to 24 while the body says July 18 to 24, 2027 (Signia by Hilton San Jose);
+  the site labels its dates as 'confirmed milestones and organizer placeholders'
+- Timezone of SIGIR 2027 deadlines not stated (previous editions used AoE)
+- 'SIGIR 2026 full paper acceptance: a third-party aggregator reports 18.3% (233/1271) and the program lists 234
+  accepted full papers; no official submission count found, so the acceptance_rate field is left empty'
+last_verified: 2026-09-28

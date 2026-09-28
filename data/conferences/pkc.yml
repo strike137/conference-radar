@@ -1,0 +1,89 @@
+id: pkc
+name: PKC
+full_name: IACR International Conference on Practice and Theory of Public-Key Cryptography
+type: conference
+tier: major
+areas: [crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: IACR (International Association for Cryptologic Research)
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: B
+  ccf: B
+acceptance_rate: 25% (2026, 65/259)
+fee: 960 USD regular, 570 USD student (2026, early, incl. IACR dues)
+typical:
+  deadline_months: [8, 10]
+  conference_months: [3, 4, 5]
+links:
+  website: https://pkc.iacr.org/
+  dblp: https://dblp.org/db/conf/pkc/index.html
+notes:
+- IACR area conference on public-key cryptography; symmetric-key and pure information-theoretic topics are out of
+  scope
+- PKC 2027 is in Taipei (general chairs from Academia Sinica), PC co-chaired by Tung Chou (Academia Sinica) and
+  Ryo Nishimaki (NTT); PKC 2022 was Yokohama, Japan
+- Two-round review with a rebuttal phase; proceedings in Springer LNCS
+- Deadline moved earlier for 2027 (16 Aug 2026 AoE instead of October)
+- Students presenting accepted papers get registration waived; limited stipends via the general chairs
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-28
+  location: West Palm Beach, USA
+  url: https://pkc.iacr.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-10-24
+    label: Paper submission
+  - kind: notification
+    date: 2025-12-16
+    label: First round notification
+  - kind: other
+    date: 2025-12-23
+    label: Rebuttal deadline
+  - kind: notification
+    date: 2026-02-13
+    label: Final notification
+  - kind: camera_ready
+    date: 2026-03-06
+    label: Final versions due
+- year: 2027
+  start: 2027-03-01
+  end: 2027-03-04
+  location: Taipei, Taiwan
+  url: https://pkc.iacr.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-08-16
+    time: '23:59'
+    tz: AoE
+    label: Paper submission
+  - kind: notification
+    date: 2026-10-09
+    label: First round notification
+  - kind: other
+    date: 2026-10-16
+    label: Rebuttal deadline
+  - kind: notification
+    date: 2026-11-26
+    label: Final notification
+  - kind: camera_ready
+    date: 2026-12-17
+    label: Final versions due
+sources:
+- https://pkc.iacr.org/2027/callforpapers.php
+- https://pkc.iacr.org/2027/
+- https://pkc.iacr.org/2026/
+- https://pkc.iacr.org/2026/callforpapers.php
+- https://pkc.iacr.org/2026/registration.php
+- https://iacr.org/meetings/pkc/
+- https://portal.core.edu.au/conf-ranks/?search=PKC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://link.springer.com/book/10.1007/978-3-032-26734-4
+unverified:
+- Time zone of the PKC 2026 submission deadline not stated on its CFP page
+- Whether PKC 2022 (listed as Yokohama by IACR) was held in person or online not checked
+last_verified: 2026-09-28

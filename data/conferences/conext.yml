@@ -1,0 +1,107 @@
+id: conext
+name: CoNEXT
+full_name: ACM International Conference on emerging Networking EXperiments and Technologies
+type: conference
+tier: major
+areas: [networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCOMM
+proceedings: ACM DL (Proceedings of the ACM on Networking, PACMNET)
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 18.5% (2024, 34/184 long papers)
+fee: 850 EUR ACM member early, full conference (2026); ACM student member 600 EUR
+typical:
+  deadline_months: [6, 12]
+  conference_months: [12]
+links:
+  website: https://conferences.sigcomm.org/co-next/2026/
+  dblp: https://dblp.org/db/conf/conext/
+notes:
+- Organized by ACM SIGCOMM; single-track conference held every December
+- Accepted papers appear in the journal Proceedings of the ACM on Networking (PACMNET)
+- Two submission cycles (December and June, AoE) with one-shot major revision; double-anonymous review; long (16
+  pages) and short papers
+- CoNEXT 2025 was at HKUST, Hong Kong; 2026 Utrecht; 2027 planned for Rio de Janeiro
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-04
+  location: Hong Kong, China
+  url: https://conferences.sigcomm.org/co-next/2025/
+  deadlines:
+  - kind: abstract
+    date: 2024-11-28
+    tz: AoE
+    label: December cycle
+  - kind: submission
+    date: 2024-12-05
+    tz: AoE
+    label: December cycle
+  - kind: notification
+    date: 2025-04-04
+    label: December cycle
+  - kind: abstract
+    date: 2025-05-29
+    tz: AoE
+    label: June cycle
+  - kind: submission
+    date: 2025-06-05
+    tz: AoE
+    label: June cycle
+  - kind: notification
+    date: 2025-09-12
+    label: June cycle
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-10
+  location: Utrecht, Netherlands
+  url: https://conferences.sigcomm.org/co-next/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-05
+    tz: AoE
+    label: December cycle
+  - kind: submission
+    date: 2025-12-12
+    tz: AoE
+    label: December cycle
+  - kind: notification
+    date: 2026-03-31
+    label: December cycle
+  - kind: abstract
+    date: 2026-05-29
+    tz: AoE
+    label: June cycle
+  - kind: submission
+    date: 2026-06-05
+    tz: AoE
+    label: June cycle
+  - kind: notification
+    date: 2026-09-11
+    label: June cycle
+- year: 2027
+  start: 2027-12-06
+  end: 2027-12-09
+  location: Rio de Janeiro, Brazil
+  url: https://conferences.sigcomm.org/co-next/2027/
+  status: tentative
+  deadlines: []
+sources:
+- https://conferences.sigcomm.org/co-next/2026/partials/cfp.html
+- https://conferences.sigcomm.org/co-next/2026/partials/home.html
+- https://conferences.sigcomm.org/co-next/2026/partials/registration.html
+- https://conferences.sigcomm.org/co-next/2027/js/variables.js
+- https://conferences.sigcomm.org/co-next/2027/partials/cfp.html
+- https://conferences.sigcomm.org/co-next/2025/partials/cfp.html
+- https://conferences.sigcomm.org/co-next/2025/js/variables.js
+- https://sites.cs.ucsb.edu/~almeroth/conf/stats/
+- https://portal.core.edu.au/conf-ranks/?search=CoNEXT&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CoNEXT 2027 dates are marked 'to be confirmed'
+- CoNEXT 2027 December cycle deadline (CFP says 'more information soon')
+last_verified: 2026-09-28

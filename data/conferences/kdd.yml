@@ -1,0 +1,97 @@
+id: kdd
+name: KDD
+full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+type: conference
+tier: top
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGKDD
+proceedings: ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [2, 7]
+  conference_months: [8]
+links:
+  website: https://kdd.org/
+notes:
+- ACM SIGKDD flagship data mining conference; proceedings in ACM DL; CCF A, CORE A*
+- 'Two submission cycles per year: a July/August deadline and a February deadline, with a Resubmit decision between
+  cycles'
+- KDD 2026 was held in Jeju, Korea; KDD 2027 goes to San Jose, USA (Aug 1 to 5, 2027)
+- Double-blind review on OpenReview; research track acceptance around 20%; max 7 research submissions per author
+  per cycle (2027)
+- Separate Applied Data Science (ADS), Datasets and Benchmarks, and AI for Sciences tracks
+editions:
+- year: 2026
+  start: 2026-08-09
+  end: 2026-08-13
+  location: Jeju, South Korea
+  url: https://kdd2026.kdd.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-24
+    tz: AoE
+    label: Research track, cycle 1
+  - kind: submission
+    date: 2025-07-31
+    tz: AoE
+    label: Research track, cycle 1
+  - kind: notification
+    date: 2025-11-23
+    tz: AoE
+    label: Research track, cycle 1
+  - kind: abstract
+    date: 2026-02-01
+    tz: AoE
+    label: Research track, cycle 2
+  - kind: submission
+    date: 2026-02-08
+    tz: AoE
+    label: Research track, cycle 2
+  - kind: notification
+    date: 2026-05-16
+    tz: AoE
+    label: Research track, cycle 2
+  - kind: camera_ready
+    date: 2026-06-01
+    tz: AoE
+    label: Research track, cycle 2
+- year: 2027
+  start: 2027-08-01
+  end: 2027-08-05
+  location: San Jose, USA
+  url: https://kdd2027.kdd.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-19
+    tz: AoE
+    label: Research track, cycle 1
+  - kind: submission
+    date: 2026-07-26
+    tz: AoE
+    label: Research track, cycle 1
+  - kind: other
+    date: 2026-09-29
+    label: Author rebuttal period, cycle 1 (until Oct 13)
+  - kind: notification
+    date: 2026-11-14
+    tz: AoE
+    label: Research track, cycle 1
+sources:
+- https://kdd2027.kdd.org/
+- https://kdd2027.kdd.org/research-track-call-for-papers/
+- https://kdd2026.kdd.org/
+- https://kdd2026.kdd.org/research-track-call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=KDD&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- https://csconfstats.xoveexu.com/conferences/kdd/
+unverified:
+- KDD 2027 second cycle deadlines (expected around February 2027) not yet announced
+- 'KDD 2026 research track acceptance: a third-party aggregator reports 18.5% (602/3252); no official figure found,
+  so the acceptance_rate field is left empty'
+last_verified: 2026-09-28

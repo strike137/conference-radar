@@ -1,0 +1,93 @@
+id: satml
+name: SaTML
+full_name: IEEE Conference on Secure and Trustworthy Machine Learning
+type: conference
+tier: major
+areas: [security, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society Technical Committee on Security and Privacy
+proceedings: IEEE Computer Society Digital Library
+indexing: [DBLP]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [9]
+  conference_months: [3, 4, 5]
+links:
+  website: https://satml.org/
+  dblp: https://dblp.org/db/conf/satml/index.html
+notes:
+- Young IEEE venue (first edition 2023) dedicated to ML security, privacy and trustworthiness; sponsored by the
+  IEEE CS Technical Committee on Security and Privacy
+- Double-blind review with early rejection, interactive discussion and a revision outcome; mandatory abstract registration
+  from 2027
+- Accepts research, SoK and position papers (up to 12 pages); from 2027 submitted papers cannot be withdrawn mid-review;
+  in-person presentation required
+- Not yet ranked by CORE or CCF but well regarded in the adversarial ML community
+- Held in North America (Raleigh 2023, Toronto 2024) and Europe (Copenhagen 2025, Munich 2026, Reykjavik 2027)
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-25
+  location: Munich, Germany
+  url: https://satml.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-09-24
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2025-10-29
+    tz: AoE
+    label: Early rejection notification
+  - kind: notification
+    date: 2025-12-10
+    tz: AoE
+- year: 2027
+  location: Reykjavik, Iceland
+  url: https://satml.org/
+  status: tentative
+  deadlines:
+  - kind: abstract
+    date: 2026-09-22
+    time: '23:59'
+    tz: AoE
+    label: Mandatory abstract registration
+  - kind: submission
+    date: 2026-09-29
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-10-02
+    tz: AoE
+    label: Anonymized artifacts due
+  - kind: other
+    date: 2026-11-04
+    tz: AoE
+    label: Early rejection notification
+  - kind: notification
+    date: 2026-12-16
+    tz: AoE
+  - kind: other
+    date: 2027-01-21
+    tz: AoE
+    label: Revisions due
+  - kind: other
+    date: 2027-02-01
+    tz: AoE
+    label: Revision notification
+sources:
+- https://satml.org/
+- https://satml.org/call-for-papers/
+- https://satml.org/2026/
+- https://satml.org/2026/call-for-papers/
+- https://satml.org/past/
+- https://portal.core.edu.au/conf-ranks/?search=SaTML&by=all&source=all&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- SaTML 2027 exact dates (site says 'Early May, 2027') and camera-ready date (mid-February 2027, exact date TBC)
+  not fixed
+- Acceptance rate and fees not found on official pages
+last_verified: 2026-09-28

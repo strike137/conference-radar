@@ -1,0 +1,68 @@
+id: colm
+name: COLM
+full_name: Conference on Language Modeling
+type: conference
+tier: major
+areas: [nlp, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: COLM (independent board)
+proceedings: OpenReview
+indexing: [DBLP]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [3]
+  conference_months: [10]
+links:
+  website: https://colm.cc/
+notes:
+- New venue (first edition 2024) dedicated to language model research; quickly became competitive
+- Double-blind review on OpenReview with abstract deadline a few days before the full paper; accepted papers and
+  reviews are made public
+- Single-track, three-day main program plus a workshop day
+- All editions so far in North America (Philadelphia 2024, Montreal 2025, San Francisco 2026)
+- Not ranked in ICORE2026 and not in the CCF list
+editions:
+- year: 2025
+  start: 2025-10-07
+  end: 2025-10-10
+  location: Montreal, Canada
+  url: https://colmweb.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-22
+    time: '23:59'
+    tz: AoE
+  - kind: submission
+    date: 2025-03-28
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2025-07-07
+- year: 2026
+  start: 2026-10-06
+  end: 2026-10-09
+  location: San Francisco, USA
+  url: https://colm.cc/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-26
+    time: '23:59'
+    tz: AoE
+  - kind: submission
+    date: 2026-03-31
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2026-07-08
+sources:
+- https://colm.cc/
+- https://colm.cc/Conferences/2026/CallForPapers
+- https://colmweb.org/2025/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=Language+Modeling&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not confirmed from an official source (418 papers accepted in 2025)
+- COLM 2027 dates and location not announced
+last_verified: 2026-09-28

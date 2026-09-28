@@ -1,0 +1,77 @@
+id: sdm
+name: SDM
+full_name: SIAM International Conference on Data Mining
+type: conference
+tier: major
+areas: [data, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: SIAM (Society for Industrial and Applied Mathematics)
+proceedings: SIAM (SIAM Publications Library)
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [4, 9, 10]
+  conference_months: [4, 5, 11]
+links:
+  website: https://www.siam.org/conferences-events/siam-conferences/sdm26/
+  dblp: https://dblp.org/db/conf/sdm/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2595
+notes:
+- SIAM's data mining conference, held in the US; traditionally late April or early May with an autumn deadline
+- SDM26 moved to November 2026 (Salt Lake City) with an April deadline, held jointly with SIAM MDS26 and IS26
+- Triple-blind review; 8 pages with unlimited references and appendices; SDM26 used OpenReview
+- Smaller than KDD or ICDM but well regarded in the data mining community; has a doctoral forum for PhD students
+editions:
+- year: 2025
+  start: 2025-05-01
+  end: 2025-05-03
+  location: Alexandria, Virginia, USA
+  url: https://www.siam.org/conferences-events/past-event-archive/sdm25/
+  deadlines:
+  - kind: abstract
+    date: 2024-09-27
+    time: '23:59'
+    tz: PDT
+  - kind: submission
+    date: 2024-10-04
+    time: '23:59'
+    tz: PDT
+  - kind: notification
+    date: 2024-12-20
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-20
+  location: Salt Lake City, Utah, USA
+  url: https://www.siam.org/conferences-events/siam-conferences/sdm26/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-10
+    time: '23:59'
+    tz: AoE
+  - kind: submission
+    date: 2026-04-17
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-05-15
+    label: Doctoral forum application
+sources:
+- https://www.siam.org/conferences-events/siam-conferences/sdm26/
+- http://web.archive.org/web/20260331213941/https://www.siam.org/conferences-events/siam-conferences/sdm26/submissions/
+- https://groups.google.com/g/ml-news/c/K0gI_9aldQg
+- https://easychair.org/cfp/SDM2025
+- https://www.siam.org/conferences-events/past-event-archive/sdm25/
+- http://www.wikicfp.com/cfp/program?id=2595
+- https://portal.core.edu.au/conf-ranks/?search=SDM&by=acronym&source=ICORE2026
+unverified:
+- SDM26 notification date (CFP says early July 2026; the same page also mentions late July)
+- SDM acceptance rate (no official figure found)
+- Whether SDM returns to a spring schedule in 2027 (no SDM27 announcement found; siam.org blocks direct fetch)
+- SIAM pages returned HTTP 403 to direct fetch; SDM26 details confirmed via the official CFP mailing and a Web Archive
+  copy of the submissions page
+last_verified: 2026-09-28

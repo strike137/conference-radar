@@ -1,0 +1,81 @@
+id: icdf2c
+name: ICDF2C
+full_name: EAI International Conference on Digital Forensics and Cyber Crime
+type: conference
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: EAI (European Alliance for Innovation)
+proceedings: Springer LNICST
+indexing: [Scopus, EI, DBLP]
+rank:
+  core: Unranked
+  ccf: C
+fee: 895 USD (2026, early author package, EAI member; membership is free); 1119 USD early non-member
+typical:
+  deadline_months: [1, 4, 5, 12]
+  conference_months: [6, 9, 11]
+links:
+  website: https://icdf2c.eai-conferences.org/
+  dblp: https://dblp.org/db/conf/icdf2c/index.html
+notes:
+- Organized by EAI; proceedings in Springer LNICST
+- CCF C; not ranked in CORE
+- Location moves between Europe and the USA (Miami 2025, Reykjavik 2026, New York 2027); hybrid option
+- Several submission rounds (main track plus a later final round); deadline month has shifted a lot between editions
+- 50% discount on a second paper by the same presenting author; student registration does not cover paper upload
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-10
+  location: Reykjavik, Iceland
+  url: https://icdf2c.eai-conferences.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-20
+    label: Main track
+  - kind: notification
+    date: 2026-04-25
+    label: Main track
+  - kind: submission
+    date: 2026-04-25
+    label: Final round
+  - kind: notification
+    date: 2026-05-07
+    label: Main track round 2
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Main track
+  - kind: notification
+    date: 2026-05-17
+    label: Final round
+  - kind: camera_ready
+    date: 2026-05-30
+    label: Final round
+- year: 2027
+  start: 2027-06-25
+  end: 2027-06-27
+  location: New York, USA
+  url: https://icdf2c.eai-conferences.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-12-15
+    label: Full papers
+  - kind: notification
+    date: 2027-02-18
+  - kind: camera_ready
+    date: 2027-03-20
+sources:
+- https://icdf2c.eai-conferences.org/2026/
+- https://icdf2c.eai-conferences.org/2026/call-for-papers/
+- https://icdf2c.eai-conferences.org/2026/registration/
+- https://icdf2c.eai-conferences.org/2027/
+- https://icdf2c.eai-conferences.org/2027/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=ICDF2C&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Deadline time zone not stated on the CFP (ccf-deadlines assumes UTC-12)
+- Indexing is as 'submitted for inclusion' per EAI; acceptance rate not published
+- 2027 CFP page still shows stale 2024 late-track dates; no 2027 late track listed
+last_verified: 2026-09-28

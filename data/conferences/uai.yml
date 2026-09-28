@@ -1,0 +1,58 @@
+id: uai
+name: UAI
+full_name: Conference on Uncertainty in Artificial Intelligence
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Association for Uncertainty in Artificial Intelligence (AUAI)
+proceedings: PMLR
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [2]
+  conference_months: [7, 8]
+links:
+  website: https://www.auai.org/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2888
+notes:
+- Organized by AUAI; focus on probabilistic reasoning, causality, Bayesian methods and uncertainty in ML; proceedings
+  in PMLR
+- Single deadline in February (OpenReview), conference in July or August
+- Acceptance around 30%; smaller community than NeurIPS/ICML
+- 'Recent venues: Barcelona 2024, Rio de Janeiro 2025, Amsterdam 2026'
+editions:
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-21
+  location: Amsterdam, Netherlands
+  url: https://www.auai.org/uai2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-25
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-04-23
+    label: Reviews released, discussion until May 2
+  - kind: notification
+    date: 2026-06-01
+    time: '23:59'
+    tz: AoE
+sources:
+- https://www.auai.org/uai2026/
+- https://www.auai.org/uai2026/call_for_papers
+- https://www.auai.org/uai2026/accepted_papers
+- https://portal.core.edu.au/conf-ranks/?search=UAI&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- http://www.wikicfp.com/cfp/program?id=2888
+- https://csconfstats.xoveexu.com/conferences/uai/
+unverified:
+- UAI 2027 location, dates and deadlines not announced (auai.org/uai2027 returns 404)
+- 'UAI 2026 acceptance: a third-party aggregator reports 30.5% (332/1087); the official accepted papers page lists
+  330 papers but no official submission count was found, so the acceptance_rate field is left empty'
+last_verified: 2026-09-28

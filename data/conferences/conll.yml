@@ -1,0 +1,57 @@
+id: conll
+name: CoNLL
+full_name: Conference on Computational Natural Language Learning
+type: conference
+tier: major
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACL SIGNLL
+proceedings: ACL Anthology
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 18% (2026, 47/257 archival)
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7, 8]
+links:
+  website: https://www.conll.org/
+notes:
+- SIGNLL conference focused on cognitively and linguistically motivated NLP; small, two-day, single venue
+- Co-located with ACL since 2025 (Vienna 2025, San Diego 2026); earlier co-located with EMNLP (Abu Dhabi 2022, Singapore
+  2023, Miami 2024)
+- Direct submission via OpenReview, with a non-archival track for recently published work
+- 'Selective: about 18% in 2025 and 2026; online presentation allowed for authors with visa problems'
+editions:
+- year: 2026
+  start: 2026-07-03
+  end: 2026-07-04
+  location: San Diego, USA
+  url: https://www.conll.org/2026
+  deadlines:
+  - kind: submission
+    date: 2026-02-19
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2026-04-21
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-12
+    time: '23:59'
+    tz: AoE
+sources:
+- https://www.conll.org/2026
+- https://www.conll.org/previous-editions
+- https://list.elra.info/mailman3/hyperkitty/list/corpora@list.elra.info/thread/BDW4FPXENUKPTACOYMT5PXZSDZHJ5LB4/
+- https://aclanthology.org/2026.conll-main.0.pdf
+- https://aclanthology.org/2025.conll-1.0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=CoNLL&by=acronym&source=ICORE2026
+unverified:
+- CoNLL 2027 not announced; likely co-located with ACL 2027 (Kyoto) but not confirmed
+- HF seed gives camera-ready May 18, 2026; the official final CFP says May 12, 2026 (CFP used)
+last_verified: 2026-09-28

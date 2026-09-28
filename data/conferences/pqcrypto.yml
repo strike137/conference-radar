@@ -1,0 +1,64 @@
+id: pqcrypto
+name: PQCrypto
+full_name: International Conference on Post-Quantum Cryptography
+type: conference
+tier: minor
+areas: [crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: 'Local host each year (2026: IRISA with Inria and IRMAR, Rennes)'
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: C
+acceptance_rate: 41% (2026, 27/66)
+fee: 300 EUR academic, 250 EUR student, 450 EUR industry (2026, until 28 Feb)
+typical:
+  deadline_months: [11]
+  conference_months: [4, 6]
+links:
+  website: https://pqcrypto.org/conferences.html
+  dblp: https://dblp.org/db/conf/pqcrypto/index.html
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2396
+notes:
+- Main conference series dedicated to post-quantum cryptography; proceedings in Springer LNCS
+- Location rotates worldwide; Asia hosted it in 2011 and 2025 (Taipei), 2016 (Fukuoka), 2019 (Chongqing) and 2021
+  (Daejeon)
+- Submissions are not anonymous (title, author names and affiliations on the paper); title and abstract must be
+  registered one week before the full paper deadline
+- 'Acceptance around 40% (2026: 27/66), higher than the IACR general conferences'
+editions:
+- year: 2026
+  start: 2026-04-14
+  end: 2026-04-16
+  location: Saint-Malo, France
+  url: https://pqcrypto2026.irisa.fr/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-31
+    tz: AoE
+    label: Title and abstract (initial submission)
+  - kind: submission
+    date: 2025-11-07
+    tz: AoE
+    label: Full paper (final submission)
+  - kind: notification
+    date: 2026-01-12
+    label: Notification
+  - kind: camera_ready
+    date: 2026-01-29
+    label: Final versions due
+sources:
+- https://pqcrypto2026.irisa.fr/
+- https://pqcrypto2026.irisa.fr/papersubmission.html
+- https://pqcrypto2026.irisa.fr/registration.html
+- https://pqcrypto.org/conferences.html
+- https://portal.core.edu.au/conf-ranks/?search=PQCrypto&by=all&source=ICORE2026&sort=atitle&page=1
+- https://link.springer.com/book/10.1007/978-3-032-22695-2
+unverified:
+- PQCrypto 2027 location and dates not announced (not on pqcrypto.org or the IACR calendar)
+- Deadline months for editions before 2026 not re-checked (PQCrypto 2025 site offline)
+- Springer titles the proceedings 'International Workshop on Post-Quantum Cryptography'; the series name used on
+  the official sites varies
+last_verified: 2026-09-28

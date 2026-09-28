@@ -1,0 +1,84 @@
+id: eurosp
+name: EuroS&P
+full_name: IEEE European Symposium on Security and Privacy
+type: conference
+tier: major
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: IEEE Computer Society Technical Community on Security and Privacy
+proceedings: IEEE Xplore
+indexing: [Scopus, DBLP, EI]
+rank:
+  core: A
+  ccf: C
+acceptance_rate: 19% (2026, 82/427)
+fee: About 955 EUR early for IEEE members, 1150 EUR early non-members; students 670 EUR (member) / 805 EUR (non-member)
+  early (2026)
+typical:
+  deadline_months: [11, 12]
+  conference_months: [7]
+links:
+  website: https://eurosp2027.ieee-security.org/
+  dblp: https://dblp.org/db/conf/eurosp/index.html
+notes:
+- European counterpart of IEEE S&P, run by the IEEE TC on Security and Privacy since 2016
+- Single deadline (late November or early December) with mandatory paper registration one week before; double-blind;
+  early rejection and rebuttal
+- 'Held in a European city every July: Lisbon (2026), Madrid (2027)'
+- Every accepted paper gets a short talk plus a poster; at most 7 submissions per author
+- CORE A but CCF C
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-10
+  location: Lisbon, Portugal
+  url: https://eurosp2026.ieee-security.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-13
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2025-11-20
+    tz: AoE
+  - kind: other
+    date: 2026-01-16
+    label: Early reject notification
+  - kind: notification
+    date: 2026-03-05
+  - kind: camera_ready
+    date: 2026-04-23
+- year: 2027
+  start: 2027-07-05
+  end: 2027-07-09
+  location: Madrid, Spain
+  url: https://eurosp2027.ieee-security.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-25
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-12-02
+    tz: AoE
+  - kind: other
+    date: 2027-01-28
+    label: Early reject notification
+  - kind: notification
+    date: 2027-03-18
+  - kind: camera_ready
+    date: 2027-04-15
+    label: Tentative
+sources:
+- https://eurosp2027.ieee-security.org/cfp.html
+- https://eurosp2027.ieee-security.org/
+- https://eurosp2026.ieee-security.org/
+- https://eurosp2026.ieee-security.org/cfp.html
+- https://eurosp2026.ieee-security.org/registration.html
+- https://portal.core.edu.au/conf-ranks/?search=EuroS&by=all&source=ICORE2026&sort=atitle&page=1
+- http://jianying.space/conference-ranking.html
+unverified:
+- Acceptance rate taken from Jianying Zhou's statistics page
+last_verified: 2026-09-28

@@ -1,0 +1,61 @@
+id: icufn
+name: ICUFN
+full_name: International Conference on Ubiquitous and Future Networks
+type: conference
+tier: minor
+areas: [networking, communications, ai, security]
+region: europe
+language: english
+frequency: annual
+organizer: KICS (Korean Institute of Communications and Information Sciences)
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP]
+rank:
+  core: Unranked
+fee: 700 USD (2026, author registration)
+typical:
+  deadline_months: [2, 3, 4, 5]
+  conference_months: [7]
+links:
+  website: https://icufn.org/
+  dblp: https://dblp.org/db/conf/icufn/
+notes:
+- Organized by KICS (Korea) but held in Europe every July since 2016, except 2021 (Jeju, August); first editions
+  (2009 to 2015) were in Asia
+- Full (6 pages) and short (3 pages) papers via EDAS, published in IEEE Xplore
+- Tracks include AI, B5G/6G networks, and security/military/defense
+- 'Deadline usually extended several times (2026: Feb -> Mar -> May)'
+- 2026 site announced it meets Korea's BK21 conference requirements
+editions:
+- year: 2026
+  start: 2026-07-07
+  end: 2026-07-10
+  location: Milan, Italy
+  url: https://icufn.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    label: Papers (original)
+  - kind: submission
+    date: 2026-03-27
+    label: Papers (1st extension)
+  - kind: submission
+    date: 2026-05-08
+    label: Papers (final extension)
+  - kind: notification
+    date: 2026-05-29
+  - kind: camera_ready
+    date: 2026-06-10
+sources:
+- https://icufn.org/
+- https://icufn.org/cfp_cfp
+- https://icufn.org/registration_reg
+- https://icufn.org/history_pastConf?year=2025
+- https://2025.icufn.org/
+- https://api.crossref.org/works?query.bibliographic=Ubiquitous+and+Future+Networks
+- https://portal.core.edu.au/conf-ranks/?search=ICUFN&by=all&source=ICORE2026
+unverified:
+- ICUFN 2027 dates and location
+- Acceptance rate
+last_verified: 2026-09-28

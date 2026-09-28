@@ -1,0 +1,88 @@
+id: icdm
+name: ICDM
+full_name: IEEE International Conference on Data Mining
+type: conference
+tier: major
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: A*
+  ccf: B
+acceptance_rate: 13.5% regular papers, 22.4% including short papers (2025, 785 submissions)
+typical:
+  deadline_months: [6]
+  conference_months: [11, 12]
+links:
+  website: http://icdm2026.neu.edu.cn/
+  dblp: https://dblp.org/db/conf/icdm/
+notes:
+- IEEE's flagship data mining conference; ranked CORE A* although CCF lists it as B
+- Very selective for regular papers (about 9 to 14% over 2021 to 2025); roughly 20% overall once short papers are
+  counted
+- Research track uses triple-blind review; 10-page IEEE two-column limit including references; single full-paper
+  deadline in early June with no separate abstract deadline; regular or short status decided after acceptance
+- 2026 edition in Shenyang, China (Northeastern University); Shanghai hosted in 2023
+- 2026 adds a single-blind Applied Track with the same deadline; best papers invited to the KAIS journal
+editions:
+- year: 2025
+  start: 2025-11-12
+  end: 2025-11-15
+  location: Washington DC, USA
+  url: https://www3.cs.stonybrook.edu/~icdm2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-06
+    tz: AoE
+  - kind: notification
+    date: 2025-08-25
+  - kind: camera_ready
+    date: 2025-09-25
+- year: 2026
+  start: 2026-11-12
+  end: 2026-11-15
+  location: Shenyang, China
+  url: http://icdm2026.neu.edu.cn/
+  deadlines:
+  - kind: submission
+    date: 2026-06-06
+    time: '23:59'
+    tz: AoE
+    label: Research and Applied track full papers
+  - kind: other
+    date: 2026-06-26
+    label: PhD forum
+  - kind: notification
+    date: 2026-08-16
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-08-20
+    time: '23:59'
+    tz: AoE
+    label: Workshop papers and demos
+  - kind: camera_ready
+    date: 2026-09-09
+    time: '23:59'
+    tz: AoE
+    label: Research track
+  - kind: camera_ready
+    date: 2026-09-16
+    tz: AoE
+    label: Applied track
+sources:
+- http://icdm2026.neu.edu.cn/
+- http://icdm2026.neu.edu.cn/dates/list.htm
+- http://icdm2026.neu.edu.cn/CallforResearchTrack/list.htm
+- http://icdm2026.neu.edu.cn/CallforAppliedTrack/list.htm
+- http://icdm2026.neu.edu.cn/CallforPhDForum/list.htm
+- https://www3.cs.stonybrook.edu/~icdm2025/
+- https://www3.cs.stonybrook.edu/~icdm2025/keydates.html
+- http://icdm.zhonghuapu.com/ICDMAcceptanceRates.shtml
+- https://portal.core.edu.au/conf-ranks/?search=ICDM&by=acronym&source=ICORE2026
+last_verified: 2026-09-28

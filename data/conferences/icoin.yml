@@ -1,0 +1,78 @@
+id: icoin
+name: ICOIN
+full_name: International Conference on Information Networking
+type: conference
+tier: minor
+areas: [networking, communications]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: KIISE (Korean Institute of Information Scientists and Engineers), technically co-sponsored by IEEE
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP]
+rank:
+  core: Unranked
+fee: 650 USD (2026, author, IEEE/KIISE/IEICE member); 720 USD non-member
+typical:
+  deadline_months: [9, 10]
+  conference_months: [1]
+links:
+  website: https://www.icoin.org/
+  dblp: https://dblp.org/db/conf/icoin/
+notes:
+- Organized by KIISE (Korea); runs since 1986 (started as the Joint Workshop on Computer Communication)
+- Held every January, since 2023 in Southeast Asia (Bangkok 2023, Ho Chi Minh City 2024, Chiang Mai 2025, Hanoi
+  2026, Nha Trang 2027)
+- Full (5 to 6 pages) and short (3 to 4 pages) papers go to IEEE Xplore; 1 to 2 page abstract papers are presented
+  but not in Xplore
+- Deadline in September with one or more extensions
+- Not ranked by CORE itself; CORE's B entry 'AINA (was ICOIN)' belongs to a separate conference series
+editions:
+- year: 2026
+  start: 2026-01-14
+  end: 2026-01-16
+  location: Hanoi, Vietnam
+  url: https://public.thinkonweb.com/sites/icoin2026
+  deadlines:
+  - kind: submission
+    date: 2025-09-26
+    label: Papers (original)
+  - kind: submission
+    date: 2025-10-24
+    label: Papers (extended)
+  - kind: submission
+    date: 2025-11-07
+    label: Extended submission track
+  - kind: notification
+    date: 2025-11-24
+  - kind: camera_ready
+    date: 2025-12-05
+- year: 2027
+  start: 2027-01-13
+  end: 2027-01-15
+  location: Nha Trang, Vietnam
+  url: https://www.icoin.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-18
+    label: Papers (original)
+  - kind: submission
+    date: 2026-10-02
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-11-13
+  - kind: camera_ready
+    date: 2026-12-04
+sources:
+- https://www.icoin.org/
+- https://icoin.org/about_info
+- https://icoin.org/registration_reg
+- https://icoin.org/history_pastConf?year=2025
+- https://public.thinkonweb.com/sites/icoin2026
+- https://api.crossref.org/works?query.bibliographic=Information+Networking+ICOIN
+- https://portal.core.edu.au/conf-ranks/?search=ICOIN&by=all&source=ICORE2026
+unverified:
+- Acceptance rate
+- Fee table on icoin.org is the ICOIN 2026 one; 2027 fees not yet posted
+last_verified: 2026-09-28

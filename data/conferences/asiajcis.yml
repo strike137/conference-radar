@@ -1,0 +1,77 @@
+id: asiajcis
+name: AsiaJCIS
+full_name: Asia Joint Conference on Information Security
+type: conference
+tier: minor
+areas: [security, crypto]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Security communities of Japan, Korea, Taiwan and China (IEICE ICSS, KIISC, CCISA and Chinese partners),
+  host rotates by country
+proceedings: EasyChair EPiC Series in Computing (IEEE CPS until 2024)
+indexing: [DBLP]
+rank:
+  core: Unranked
+fee: 500 USD general, 400 USD student (2026, in person; online 50 USD less)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8]
+links:
+  website: https://asiajcis.github.io/www/
+  dblp: https://dblp.org/db/conf/asiajcis/index.html
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202719
+notes:
+- Rotates among Japan, Korea, Taiwan and China (Seoul 2025, Dongguan 2026, Urayasu near Tokyo 2027)
+- Supported by IEICE ICSS (Japan), KIISC (Korea) and CCISA (Taiwan); many Japanese university and NICT authors
+- Double-blind review; regular and short papers; online presentation allowed in 2026
+- Proceedings moved from IEEE CPS to EasyChair EPiC Series in Computing from 2025
+- Small two-day conference (9 regular and 9 short papers in 2025); realistic and low-cost venue for students
+editions:
+- year: 2026
+  start: 2026-08-04
+  end: 2026-08-05
+  location: Dongguan, China
+  url: https://asiajcis.github.io/www/archive/2026-china/
+  deadlines:
+  - kind: submission
+    date: 2026-05-14
+  - kind: notification
+    date: 2026-06-19
+  - kind: camera_ready
+    date: 2026-07-19
+- year: 2027
+  start: 2027-08-03
+  end: 2027-08-04
+  location: Urayasu, Japan
+  url: https://asiajcis.github.io/www/2027/
+  deadlines:
+  - kind: submission
+    date: 2027-04-16
+    time: '23:59'
+    tz: AoE
+    label: Regular and short papers (tentative)
+  - kind: notification
+    date: 2027-05-28
+    label: Tentative
+  - kind: camera_ready
+    date: 2027-06-18
+    time: '23:59'
+    tz: AoE
+    label: Tentative
+sources:
+- https://asiajcis.github.io/www/
+- https://asiajcis.github.io/www/2027/
+- https://asiajcis.github.io/www/archive/2026-china/
+- https://asiajcis.github.io/www/archive/2026-china/callforpapers.html
+- https://asiajcis.github.io/www/archive/2026-china/registration.html
+- https://asiajcis.github.io/www/archive/2025-korea/
+- https://easychair.org/publications/volume/AsiaJCIS_2025/preface
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202719
+- https://api.crossref.org/works?query.bibliographic=Asia+Joint+Conference+on+Information+Security+AsiaJCIS
+- https://portal.core.edu.au/conf-ranks/?search=AsiaJCIS&by=all&source=ICORE2026
+unverified:
+- 2027 submission, notification and camera-ready dates are marked tentative by the organizers (conference dates
+  confirmed)
+- Acceptance rate not published
+last_verified: 2026-09-28

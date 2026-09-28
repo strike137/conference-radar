@@ -1,0 +1,83 @@
+id: icisc
+name: ICISC
+full_name: International Conference on Information Security and Cryptology
+type: conference
+tier: minor
+areas: [security, crypto]
+region: korea
+language: english
+frequency: annual
+organizer: KIISC (Korea Institute of Information Security and Cryptology) and NSR (National Security Research Institute)
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  core: 'National: Korea'
+acceptance_rate: 38% (2025, 28/74); 40% (2024, 23/58)
+fee: 550 USD general, 350 USD student (2025, international registration)
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11]
+links:
+  website: https://www.icisc.org/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=1397
+notes:
+- Hosted by KIISC (Korea Institute of Information Security and Cryptology) with NSR; held in Seoul every year since
+  1998 (only 2006 was in Busan), late November or early December
+- Proceedings in Springer LNCS; anonymous submission, up to 20 LNCS pages excluding bibliography and appendices
+- 'Regarded as mid-tier, but relatively high-level among the Korean-society security venues; ICORE2026 lists it
+  as National: Korea (it was CORE B in 2018)'
+- 'Not in the CCF list: the CCF-C venue with the same full name is Inscrypt (China), a different conference'
+- 'Deadline usually extended twice (2025: Sep 5 -> Sep 19 -> Sep 24; 2026: Aug 28 -> Sep 11 -> Sep 27), 18:00 KST'
+editions:
+- year: 2025
+  start: 2025-11-19
+  end: 2025-11-21
+  location: Seoul, South Korea
+  url: https://public.thinkonweb.com/sites/icisc2025
+  deadlines:
+  - kind: submission
+    date: 2025-09-24
+    time: '18:00'
+    tz: KST
+    label: Regular papers (final; extended from 2025-09-05 and 2025-09-19)
+  - kind: notification
+    date: 2025-10-29
+  - kind: camera_ready
+    date: 2025-11-07
+  - kind: other
+    date: 2025-11-07
+    label: Author registration deadline
+- year: 2026
+  start: 2026-11-18
+  end: 2026-11-20
+  location: Seoul, South Korea
+  url: https://www.icisc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-27
+    time: '18:00'
+    tz: KST
+    label: Regular papers (final; extended from 2026-08-28 and 2026-09-11)
+  - kind: notification
+    date: 2026-10-26
+  - kind: camera_ready
+    date: 2026-11-04
+  - kind: other
+    date: 2026-11-04
+    label: Author registration deadline
+sources:
+- https://www.icisc.org/
+- https://www.icisc.org/sites/icisc2026/static/submission
+- https://www.icisc.org/sites/icisc2026/static/venue
+- https://www.icisc.org/sites/icisc2026/static/pastconferences
+- https://public.thinkonweb.com/sites/icisc2025
+- https://public.thinkonweb.com/sites/icisc2025/static/registration
+- https://link.springer.com/book/10.1007/978-981-95-8034-7
+- https://link.springer.com/book/10.1007/978-981-96-5566-3
+- https://portal.core.edu.au/conf-ranks/?search=ICISC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://csse.szu.edu.cn/staff/CCF/International_Recommended_Directory.pdf
+- http://www.wikicfp.com/cfp/program?id=1397
+unverified:
+- ICISC 2026 registration fee (page says TBA)
+- ICISC 2026 acceptance rate
+last_verified: 2026-09-28

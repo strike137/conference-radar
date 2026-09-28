@@ -1,0 +1,81 @@
+id: aina
+name: AINA
+full_name: International Conference on Advanced Information Networking and Applications
+type: conference
+tier: major
+areas: [networking, communications, systems, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: Fukuoka Institute of Technology (steering committee chair Leonard Barolli) with a different host university
+  each year
+proceedings: Springer LNDECT (Lecture Notes on Data Engineering and Communications Technologies)
+indexing: [Scopus, EI, DBLP]
+rank:
+  core: B
+fee: USD 600 per paper for author registration (2026 and 2027); student participants USD 400 early (2026 and 2027)
+typical:
+  deadline_months: [11, 12]
+  conference_months: [3, 4]
+links:
+  website: https://voyager.ce.fit.ac.jp/conf/aina/2027/
+  dblp: https://dblp.org/db/conf/aina/
+notes:
+- Flagship of the Barolli (Fukuoka Institute of Technology) conference family; the CORE entry reads 'was ICOIN',
+  and 2026 was the 40th edition
+- 'CORE B but very large: AINA-2026 proceedings filled 8 Springer LNDECT volumes, and 20 co-located workshops were
+  listed for 2026'
+- Security workshops include NetSMM, AI-SEC (AI for Cybersecurity) and INTRICATE-SEC; the main conference has a
+  Security, Privacy and Trust track
+- 'Rotates worldwide: Kitakyushu 2024, Barcelona 2025, Wellington 2026, Tirana 2027'
+- 12-page limit for main papers (10 for workshop papers in 2027), up to 2 extra pages at USD 100 each; registration
+  through EDAS in USD; at least one author must register and present each paper
+editions:
+- year: 2026
+  start: 2026-04-08
+  end: 2026-04-10
+  location: Wellington, New Zealand
+  url: https://voyager.ce.fit.ac.jp/conf/aina/2026/
+  deadlines:
+  - kind: other
+    date: 2025-10-31
+    label: Workshop proposals
+  - kind: submission
+    date: 2025-12-20
+    label: Regular papers (hard deadline)
+  - kind: notification
+    date: 2026-01-15
+  - kind: camera_ready
+    date: 2026-01-31
+- year: 2027
+  start: 2027-03-24
+  end: 2027-03-26
+  location: Tirana, Albania
+  url: https://voyager.ce.fit.ac.jp/conf/aina/2027/
+  deadlines:
+  - kind: other
+    date: 2026-10-31
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-11-25
+    label: Regular papers
+  - kind: notification
+    date: 2027-01-10
+  - kind: camera_ready
+    date: 2027-01-25
+sources:
+- https://voyager.ce.fit.ac.jp/conf/aina/2027/
+- https://voyager.ce.fit.ac.jp/conf/aina/2026/
+- https://voyager.ce.fit.ac.jp/conf/aina/2025/
+- http://voyager.ce.fit.ac.jp/conf/aina/2024/
+- https://link.springer.com/book/10.1007/978-3-032-23260-1
+- https://api.crossref.org/works?query.bibliographic=Advanced+Information+Networking+and+Applications+AINA+2026&filter=from-pub-date:2026-01,until-pub-date:2026-12,type:book,prefix:10.1007
+- https://portal.core.edu.au/conf-ranks/?search=AINA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://sparql.dblp.org/sparql
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- 'Acceptance rate: not published in the AINA-2026 proceedings preface'
+- AINA-2027 submission deadline (2026-11-25) is the first announced date; past cycles ended with a later 'hard deadline'
+  (2025-12-25 for AINA-2025, 2025-12-20 for AINA-2026), so an extension is likely but not confirmed
+- Not in the CCF list according to the CCFrank4dblp data (updated 2026-04-06); official CCF site was behind a captcha
+last_verified: 2026-09-28

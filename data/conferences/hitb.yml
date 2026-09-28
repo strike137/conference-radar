@@ -1,0 +1,65 @@
+id: hitb
+name: HITB SecConf
+full_name: Hack In The Box Security Conference
+type: industry
+tier: major
+areas: [security]
+region: southeast-asia
+language: english
+frequency: multiple-per-year
+organizer: Hack In The Box (Kuala Lumpur, Malaysia)
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+typical:
+  conference_months: [2, 4, 8]
+links:
+  website: https://conference.hitb.org/
+notes:
+- Long-running hacker conference from Malaysia, historically held in Kuala Lumpur and Amsterdam, later Singapore,
+  Phuket, Bangkok, Dubai, Beijing and Abu Dhabi
+- The final Amsterdam edition was HITBSecConf2023 (April 2023); the last HITBSecConf listed on the official site
+  is Bangkok, 26-30 August 2024
+- 'Since 2025 the same team runs the smaller ''Out Of The Box'' (OOTB) offensive-security conferences (about 150
+  attendees): Jakarta Feb 2025, Bangkok Aug 2025, Jakarta Apr 2026'
+- 'Format: multi-day trainings plus multi-track talks, CTFs and villages; slides and videos posted online'
+editions:
+- year: 2024
+  label: HITBSecConf2024 Bangkok
+  start: 2024-08-26
+  end: 2024-08-30
+  location: Bangkok, Thailand
+  url: https://conference.hitb.org/hitbsecconf2024bkk/
+  deadlines: []
+- year: 2025
+  label: Out Of The Box Bangkok
+  start: 2025-08-20
+  end: 2025-08-21
+  location: Bangkok, Thailand
+  url: https://ootb2025bkk.ootb.net/
+  deadlines: []
+- year: 2026
+  label: Out Of The Box Jakarta
+  start: 2026-04-29
+  end: 2026-04-30
+  location: Jakarta, Indonesia
+  url: https://ootb.net/
+  deadlines: []
+sources:
+- https://conference.hitb.org/
+- https://conference.hitb.org/hitbsecconf2024bkk/
+- https://conference.hitb.org/hitbsecconf2023ams/
+- https://ootb.net/
+- https://ootb.net/api/events
+- https://ootb2025jkt.ootb.net/
+- https://ootb2025bkk.ootb.net/
+- https://asrg.io/events/hack-in-the-box-security-conference-2026
+unverified:
+- A third-party listing (ASRG) gives HITB Bangkok for 25-29 August 2026, but the official HITB site does not list
+  it
+- CFP deadlines for recent HITB and OOTB events not found (the OOTB event API has no CFP deadline)
+- 'OOTB Jakarta 2026 venue: the HITB site says Alila SCBD, while the OOTB registration system lists Grand Hyatt
+  Jakarta'
+- Status of the Abu Dhabi events (HITB+ CyberWeek / HITB+in{:cyber}) after 2024
+last_verified: 2026-09-28

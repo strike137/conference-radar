@@ -1,0 +1,88 @@
+id: sacmat
+name: SACMAT
+full_name: ACM Symposium on Access Control Models and Technologies
+type: conference
+tier: major
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGSAC
+proceedings: ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: C
+  ccf: C
+typical:
+  deadline_months: [2, 3, 10]
+  conference_months: [7]
+links:
+  website: https://www.sacmat.org/2027/
+  dblp: https://dblp.org/db/conf/sacmat/index.html
+notes:
+- Sponsored by ACM SIGSAC; running since 1995 (ACM Workshop on Role-Based Access Control until 2000)
+- Two review cycles (October and February/March) with double-blind review; Cycle 1 major revisions can be resubmitted
+  to Cycle 2, Cycle 1 rejects cannot
+- Tracks for main research (10 pages), BlueSky, dataset/tool, SoK and work-in-progress papers
+- Mostly held in North America with some European editions (Trento 2023, Durham 2027)
+editions:
+- year: 2026
+  start: 2026-07-08
+  end: 2026-07-10
+  location: Waterloo, Canada
+  url: https://www.sacmat.org/2026/index.php
+  deadlines:
+  - kind: submission
+    date: 2025-10-31
+    tz: AoE
+    label: Cycle 1 (extended from 2025-10-27)
+  - kind: notification
+    date: 2025-12-19
+    label: Cycle 1 (extended)
+  - kind: submission
+    date: 2026-03-06
+    tz: AoE
+    label: Cycle 2 (extended from 2026-03-02)
+  - kind: notification
+    date: 2026-04-10
+    label: Cycle 2 (extended)
+  - kind: camera_ready
+    date: 2026-05-10
+    label: Both cycles (extended)
+- year: 2027
+  start: 2027-07-19
+  end: 2027-07-21
+  location: Durham, United Kingdom
+  url: https://www.sacmat.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    time: '23:59'
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2026-12-21
+    label: Cycle 1
+  - kind: submission
+    date: 2027-02-12
+    time: '23:59'
+    tz: AoE
+    label: Cycle 2
+  - kind: notification
+    date: 2027-03-29
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2027-05-03
+    label: Both cycles
+sources:
+- https://www.sacmat.org/2027/call-for-papers.php
+- https://www.sacmat.org/2027/index.php
+- https://www.sacmat.org/2027/history.php
+- https://www.sacmat.org/2026/index.php
+- https://www.sacmat.org/2026/call-for-papers.php
+- https://portal.core.edu.au/conf-ranks/?search=SACMAT&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- Acceptance rate not found on official pages
+- Registration fee table on the 2026 site could not be mapped to categories reliably
+last_verified: 2026-09-28

@@ -1,0 +1,84 @@
+id: fcs-cn
+name: FCS
+full_name: International Conference on Frontiers in Cyber Security
+type: conference
+tier: minor
+areas: [security]
+region: china
+language: english
+frequency: annual
+organizer: Rotating Chinese host universities; 2026 City University of Macau and Hubei University of Technology,
+  2025 Guizhou Normal University and Southwest Minzu University
+proceedings: Springer CCIS
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: Unranked
+acceptance_rate: 41% (2025, 31/75)
+fee: HKD 4,500 (about 580 USD) author registration (2026)
+typical:
+  deadline_months: [1, 4, 7]
+  conference_months: [7, 8, 10]
+links:
+  website: https://ishbut.github.io/fcs2026/home.html
+notes:
+- Chinese-run series; proceedings in Springer CCIS (EI indexed); acceptance around 40% (31/75 in 2025, 47/121 in
+  2024)
+- Mostly in Chinese cities (Chengdu 2023, Chongqing 2024, Guiyang 2025, Macau 2026); 2022 edition held in Kumasi,
+  Ghana
+- 2026 edition co-located with CSS 2026 in Macau (shared secretariat and venue)
+- Two submission rounds in 2026; anonymous submissions in LNCS format; EasyChair
+editions:
+- year: 2025
+  start: 2025-10-24
+  end: 2025-10-26
+  location: Guiyang, China
+  url: https://www.icfcs.org/
+  deadlines:
+  - kind: submission
+    date: 2025-07-21
+  - kind: notification
+    date: 2025-08-21
+  - kind: camera_ready
+    date: 2025-09-21
+- year: 2026
+  start: 2026-08-03
+  end: 2026-08-05
+  location: Macau, China
+  url: https://ishbut.github.io/fcs2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-16
+    time: '23:59'
+    tz: UTC+8
+    label: Round 1
+  - kind: notification
+    date: 2026-03-13
+    label: Round 1
+  - kind: submission
+    date: 2026-04-20
+    time: '23:59'
+    tz: UTC+8
+    label: Round 2 (extended from Apr 10)
+  - kind: notification
+    date: 2026-06-12
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-06-30
+sources:
+- https://ishbut.github.io/fcs2026/home.html
+- https://ishbut.github.io/fcs2026/callForPaper.html
+- https://ishbut.github.io/fcs2026/registration.html
+- https://ishbut.github.io/fcs2026/venue.html
+- https://link.springer.com/book/10.1007/978-981-95-9514-3
+- https://link.springer.com/book/10.1007/978-981-96-0151-6
+- https://link.springer.com/book/10.1007/978-981-99-9331-4
+- https://link.springer.com/book/10.1007/978-981-19-8445-7
+- https://web.archive.org/web/20250717084317/https://icfcs.org/dates.html
+- https://web.archive.org/web/20250623021606/https://icfcs.org/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=Frontiers+in+Cyber&by=all&source=ICORE2026
+unverified:
+- FCS 2025 deadlines come from a July 2025 archived snapshot; they may have been extended later (icfcs.org returned
+  HTTP 503 on 2026-09-28)
+- 2026 CFP page also mentions Springer LNDECT in a leftover paragraph; the homepage states CCIS
+- FCS 2027 plans not found
+last_verified: 2026-09-28

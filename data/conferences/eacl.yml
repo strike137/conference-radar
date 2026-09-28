@@ -1,0 +1,81 @@
+id: eacl
+name: EACL
+full_name: Conference of the European Chapter of the Association for Computational Linguistics
+type: conference
+tier: major
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: irregular
+organizer: EACL (European Chapter of the ACL)
+proceedings: ACL Anthology
+indexing: [DBLP]
+rank:
+  core: A
+acceptance_rate: 20.2% main (2026, 445/2200)
+typical:
+  deadline_months: [8, 10]
+  conference_months: [3]
+links:
+  website: https://2027.eacl.org/
+notes:
+- ACL European chapter conference; ARR only (August 2026 cycle for EACL 2027)
+- Held in Europe and neighbouring regions (2024 Malta, 2026 Rabat, Morocco, 2027 Athens); hybrid
+- Main acceptance about 20% in 2024 and 2026, plus Findings (16.1% in 2026)
+- Not listed in the CCF recommended list despite CORE A
+editions:
+- year: 2026
+  start: 2026-03-24
+  end: 2026-03-29
+  location: Rabat, Morocco
+  url: https://2026.eacl.org/
+  deadlines:
+  - kind: submission
+    date: 2025-10-06
+    time: '23:59'
+    tz: AoE
+    label: ARR October 2025 cycle
+  - kind: other
+    date: 2025-12-14
+    time: '23:59'
+    tz: AoE
+    label: Commitment to EACL
+  - kind: notification
+    date: 2026-01-03
+    time: '23:59'
+    tz: AoE
+- year: 2027
+  start: 2027-03-09
+  end: 2027-03-14
+  location: Athens, Greece
+  url: https://2027.eacl.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-03
+    time: '23:59'
+    tz: AoE
+    label: ARR August 2026 cycle
+  - kind: other
+    date: 2026-10-11
+    time: '23:59'
+    tz: AoE
+    label: Commitment to EACL
+  - kind: notification
+    date: 2026-11-12
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-26
+    time: '23:59'
+    tz: AoE
+sources:
+- https://2027.eacl.org/calls/papers/
+- https://2027.eacl.org/calls/workshops/
+- https://2027.eacl.org/
+- https://2026.eacl.org/calls/papers/
+- https://2026.eacl.org/
+- https://aclanthology.org/2026.eacl-long.0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=EACL&by=acronym&source=ICORE2026
+unverified:
+- EACL 2026 camera-ready date not found on the CFP page
+last_verified: 2026-09-28

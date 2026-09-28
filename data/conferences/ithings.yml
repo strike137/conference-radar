@@ -1,0 +1,76 @@
+id: ithings
+name: IEEE iThings
+full_name: IEEE International Conference on Internet of Things (iThings), part of the IEEE Cybermatics Congress
+  (iThings/GreenCom/CPSCom/SmartData/Blockchain)
+type: conference
+tier: minor
+areas: [networking, systems, data, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Cybermatics Congress
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: Unranked
+fee: EUR 620 IEEE member, EUR 745 non-member, early until 2026-10-15 (2026); students EUR 435 / 525
+typical:
+  deadline_months: [5, 6, 7, 8]
+  conference_months: [8, 10, 11, 12]
+links:
+  website: https://ieee-cybermatics2026.org/
+notes:
+- Runs inside the IEEE Cybermatics Congress with GreenCom, CPSCom, SmartData and Blockchain, sharing one submission
+  system and registration
+- Describes itself as the earliest IEEE conference on IoT; 18th edition in 2025
+- Not ranked by CORE or CCF; proceedings via IEEE CS Press (CPS) into IEEE Xplore
+- 'Rotates worldwide: 2023 Danzhou (Hainan), 2024 Copenhagen, 2025 Zhengzhou, 2026 Montbeliard (France)'
+- '8 pages regular (10 with overlength charge), 6 pages short; deadlines are extended substantially (2025: about
+  4 weeks, 2026: about 2.5 months)'
+editions:
+- year: 2025
+  start: 2025-10-30
+  end: 2025-11-02
+  location: Zhengzhou, China
+  url: https://ieee-cybermatics.org/2025/ithings/
+  deadlines:
+  - kind: submission
+    date: 2025-08-10
+    tz: AoE
+    label: Paper submission (extended from 2025-07-15)
+  - kind: notification
+    date: 2025-09-10
+  - kind: camera_ready
+    date: 2025-09-30
+- year: 2026
+  start: 2026-11-30
+  end: 2026-12-04
+  location: Montbeliard, France
+  url: https://ieee-cybermatics2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    time: '23:59'
+    tz: CEST
+    label: Paper submission (extended from 2026-06-15)
+  - kind: notification
+    date: 2026-09-22
+  - kind: camera_ready
+    date: 2026-10-15
+    label: Camera-ready and registration
+sources:
+- https://ieee-cybermatics2026.org/
+- https://ieee-cybermatics2026.org/assets/index-sKqVTMXG.js
+- https://ieee-smc-2026.web.app/
+- https://ieee-cybermatics.org/2025/ithings/
+- https://ieee-cybermatics.org/2025/
+- https://ieee-cybermatics.org/2024/
+- https://api.crossref.org/works?query.bibliographic=IEEE+Internet+of+Things+iThings+GreenCom+CPSCom+SmartData&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=iThings&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- dblp key conf/ithings (dblp was unreachable)
+- Acceptance rate
+- 2026 deadlines and fees were read from the site's JavaScript bundle (single-page app); the conference dates also
+  appear in the page's HTML metadata
+last_verified: 2026-09-28

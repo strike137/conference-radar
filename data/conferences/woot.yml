@@ -1,0 +1,76 @@
+id: woot
+name: WOOT
+full_name: USENIX WOOT Conference on Offensive Technologies
+type: conference
+tier: major
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: USENIX Association
+proceedings: USENIX
+archival: true
+indexing: [DBLP]
+rank:
+  core: Unranked
+fee: 650 USD early bird, 400 USD early student (2026); authors must register at full rate
+typical:
+  deadline_months: [3, 12]
+  conference_months: [8]
+links:
+  website: https://www.usenix.org/conference/woot26
+  dblp: https://dblp.org/db/conf/woot/index.html
+notes:
+- Held annually since 2007 (founded as the Workshop on Offensive Technologies); 20th edition in 2026
+- Co-located with USENIX Security in August (2024 to 2026); earlier editions were workshops co-located with IEEE
+  S&P (for example May 2023)
+- From 2026 two submission cycles (December and March); an 'up-and-coming' track gives shepherding to new or non-academic
+  researchers
+- Double-blind review; full papers up to 13 pages; artifacts expected
+- Regarded as the main academic venue for offensive security research, though unranked in CORE and CCF
+editions:
+- year: 2026
+  start: 2026-08-10
+  end: 2026-08-11
+  location: Baltimore, USA
+  url: https://www.usenix.org/conference/woot26
+  deadlines:
+  - kind: submission
+    date: 2025-12-12
+    time: '23:59'
+    tz: AoE
+    label: Cycle 1 (academic track)
+  - kind: notification
+    date: 2026-01-27
+    label: Cycle 1
+  - kind: submission
+    date: 2026-03-03
+    time: '23:59'
+    tz: AoE
+    label: Cycle 2 (academic and up-and-coming tracks)
+  - kind: notification
+    date: 2026-04-09
+    label: Cycle 2
+  - kind: other
+    date: 2026-05-07
+    time: '23:59'
+    tz: AoE
+    label: Artifact submission
+  - kind: camera_ready
+    date: 2026-06-09
+    time: '23:59'
+    tz: AoE
+    label: All tracks
+sources:
+- https://www.usenix.org/conference/woot26
+- https://www.usenix.org/conference/woot26/call-for-papers
+- https://www.usenix.org/conference/woot26/registration-information
+- https://www.usenix.org/conference/woot25/call-for-papers
+- https://www.usenix.org/conference/woot25
+- https://www.usenix.org/conference/woot24
+- https://www.usenix.org/conference/woot23
+- https://portal.core.edu.au/conf-ranks/?search=WOOT&by=all&source=all
+unverified:
+- WOOT 2027 dates, venue and deadlines not announced (usenix.org/conference/woot27 returns page not found)
+- Acceptance rate not published on the official site
+last_verified: 2026-09-28

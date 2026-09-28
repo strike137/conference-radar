@@ -1,0 +1,121 @@
+id: issta
+name: ISSTA
+full_name: ACM SIGSOFT International Symposium on Software Testing and Analysis
+type: conference
+tier: top
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGSOFT
+proceedings: ACM DL (PACMSE journal issue)
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: A
+acceptance_rate: 19% (2025, 107/550)
+typical:
+  deadline_months: [1, 10]
+  conference_months: [6, 9, 10]
+links:
+  website: https://conf.researchr.org/series/issta
+  dblp: https://dblp.org/db/conf/issta/
+notes:
+- Leading venue for software testing and program analysis (fuzzing, verification, bug detection); CORE A, CCF A
+- Papers published in PACMSE since 2025; 18 pages plus unlimited references
+- Double-anonymous review with a major revision round
+- Co-located with FSE in 2025 and with SPLASH in 2026; ISSTA 2027 will be in Singapore (September 2027)
+- ACM open access APC may apply (USD 250 member / 350 non-member in 2026) unless covered by ACM Open
+editions:
+- year: 2025
+  start: 2025-06-25
+  end: 2025-06-28
+  location: Trondheim, Norway
+  url: https://conf.researchr.org/home/issta-2025
+  deadlines:
+  - kind: submission
+    date: 2024-10-31
+    tz: AoE
+    label: Full paper
+  - kind: notification
+    date: 2024-12-19
+    label: Initial notification
+  - kind: other
+    date: 2025-02-27
+    tz: AoE
+    label: Major revision due
+  - kind: notification
+    date: 2025-03-31
+    label: Final notification (major revisions)
+  - kind: camera_ready
+    date: 2025-04-24
+- year: 2026
+  start: 2026-10-04
+  end: 2026-10-09
+  location: Oakland, California, USA
+  url: https://conf.researchr.org/home/issta-2026
+  deadlines:
+  - kind: submission
+    date: 2026-01-29
+    tz: AoE
+    label: Research papers
+  - kind: other
+    date: 2026-03-24
+    tz: AoE
+    label: Author response (Mar 24 to 26)
+  - kind: notification
+    date: 2026-04-16
+    label: Initial notification
+  - kind: other
+    date: 2026-05-21
+    tz: AoE
+    label: Major revision due
+  - kind: notification
+    date: 2026-06-25
+    label: Final notification
+  - kind: camera_ready
+    date: 2026-07-23
+- year: 2027
+  start: 2027-09-07
+  end: 2027-09-10
+  location: Singapore
+  url: https://conf.researchr.org/home/issta-2027
+  deadlines:
+  - kind: abstract
+    date: 2027-01-08
+    tz: AoE
+    label: Mandatory abstract
+  - kind: submission
+    date: 2027-01-11
+    tz: AoE
+    label: Full paper
+  - kind: other
+    date: 2027-03-22
+    tz: AoE
+    label: Author response (Mar 22 to 25)
+  - kind: notification
+    date: 2027-04-20
+    label: Initial notification (including early reject)
+  - kind: other
+    date: 2027-05-20
+    label: Major revision due
+  - kind: notification
+    date: 2027-06-17
+    label: Final notification
+  - kind: camera_ready
+    date: 2027-07-22
+sources:
+- https://conf.researchr.org/home/issta-2027
+- https://conf.researchr.org/dates/issta-2027
+- https://conf.researchr.org/home/issta-2026
+- https://conf.researchr.org/track/issta-2026/issta-2026-research-papers
+- https://conf.researchr.org/track/issta-2025/issta-2025-papers
+- https://conf.researchr.org/home/issta-2025
+- https://conf.researchr.org/attending/issta-2025/registration
+- https://portal.core.edu.au/conf-ranks/?search=ISSTA&by=acronym&source=ICORE2026
+- https://github.com/emeryberger/csconferences
+unverified:
+- ISSTA 2025 acceptance figure (107/550) comes from the csconferences dataset; not visible on the current ISSTA
+  2025 pages
+- Registration fee for ISSTA 2026 (co-located with SPLASH) not checked; 2025 fees were joint with FSE in NOK
+last_verified: 2026-09-28

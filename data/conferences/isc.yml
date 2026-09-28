@@ -1,0 +1,81 @@
+id: isc
+name: ISC
+full_name: Information Security Conference
+type: conference
+tier: minor
+areas: [security, crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: ISC Steering Committee (hosted by a local university each year)
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: C
+  ccf: C
+acceptance_rate: 36.4% (2025, 28/77)
+fee: 400 EUR regular, 350 EUR student (2026, early)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10]
+links:
+  website: https://isc2026.github.io/
+  dblp: https://dblp.org/db/conf/isw/index.html
+notes:
+- Running since 1997; first held as the Information Security Workshop (ISW'97) in Tatsunokuchi, Ishikawa, Japan;
+  proceedings in Springer LNCS
+- Anonymous submission, up to 16 pages excluding bibliography and appendices (20 pages total); the 2025 edition
+  had a rebuttal phase
+- Location rotates worldwide; held in Groningen (2023), Arlington (2024), Seoul (2025) and Rennes (2026)
+- CORE C and CCF C; acceptance rate around 28 to 36% (33/120 in 2024, 28/77 in 2025)
+editions:
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-22
+  location: Seoul, South Korea
+  url: https://isc25.skku.edu/
+  deadlines:
+  - kind: submission
+    date: 2025-06-11
+    tz: AoE
+    label: Extended from June 4
+  - kind: other
+    date: 2025-07-13
+    tz: AoE
+    label: Rebuttal period (until 2025-07-16)
+  - kind: notification
+    date: 2025-07-29
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-13
+    tz: AoE
+- year: 2026
+  start: 2026-10-28
+  end: 2026-10-30
+  location: Rennes, France
+  url: https://isc2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-02
+    time: '23:59'
+    tz: AoE
+    label: Extended from June 22, firm
+  - kind: notification
+    date: 2026-08-31
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-14
+sources:
+- https://isc2026.github.io/
+- https://isc2026.github.io/call-for-papers/
+- https://isc2026.github.io/registration/
+- https://isc25.skku.edu/
+- http://web.archive.org/web/20250713111150/https://isc25.skku.edu/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=Information%20Security%20Conference&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- Acceptance rates 28/77 (2025) and 33/120 (2024) taken from the ccf-deadlines compilation of the Springer front
+  matter; not independently checked
+- ISC 2027 not yet announced (no isc2027 site found)
+last_verified: 2026-09-28

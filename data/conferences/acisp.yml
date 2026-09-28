@@ -1,0 +1,98 @@
+id: acisp
+name: ACISP
+full_name: Australasian Conference on Information Security and Privacy
+type: conference
+tier: major
+areas: [security, crypto]
+region: oceania
+language: english
+frequency: annual
+organizer: 'Rotating Australian host universities (2026: University of Western Australia and Edith Cowan University;
+  2027: Monash University)'
+proceedings: Springer LNCS
+indexing: [Scopus, DBLP]
+rank:
+  core: Australasian B
+  ccf: C
+fee: AUD 1,150 (2026, author registration)
+typical:
+  deadline_months: [2, 3, 11]
+  conference_months: [7]
+links:
+  website: https://acisp.org/
+  dblp: https://dblp.org/db/conf/acisp/index.html
+notes:
+- Running since 1996; held in Australia almost every year (2025 Wollongong, 2026 Perth, 2027 Melbourne hosted by
+  Monash University)
+- Proceedings in Springer LNCS (three volumes in 2024, 2025 and 2026)
+- Two submission rounds (late November and late February/early March); round 1 can return major revision for resubmission
+  to round 2, but round 1 rejects cannot be resubmitted
+- Anonymous (double-blind) submissions; SoK papers welcome; deadlines 23:59 AoE
+- ICORE2026 rank is Australasian B (national category); CCF C; regarded as a solid mid-tier crypto and security
+  venue
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-09
+  location: Perth, Australia
+  url: https://acisp-conference.github.io/acisp2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-11-27
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2026-01-15
+    label: Round 1
+  - kind: submission
+    date: 2026-02-26
+    time: '23:59'
+    tz: AoE
+    label: Round 2
+  - kind: notification
+    date: 2026-04-16
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-04-30
+- year: 2027
+  start: 2027-07-07
+  end: 2027-07-10
+  location: Melbourne, Australia
+  url: https://acisp.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2027-01-15
+    label: Round 1
+  - kind: submission
+    date: 2027-03-01
+    time: '23:59'
+    tz: AoE
+    label: Round 2
+  - kind: notification
+    date: 2027-04-16
+    label: Round 2
+  - kind: camera_ready
+    date: 2027-04-30
+sources:
+- https://acisp.org/
+- https://acisp.org/data/config.csv
+- https://acisp.org/data/dates.csv
+- https://acisp-conference.github.io/acisp2026/index.html
+- https://acisp-conference.github.io/acisp2026/cfp.html
+- https://acisp-conference.github.io/acisp2026/reg.html
+- https://api.crossref.org/works?query.bibliographic=Information+Security+and+Privacy+ACISP&filter=type:book,from-pub-date:2023
+- https://portal.core.edu.au/conf-ranks/?search=ACISP&by=acronym&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/conference/SC/acisp.yml
+- https://github.com/WenyanLiu/CCFrank4dblp/blob/master/data/ccfRankUrl.js
+unverified:
+- ACISP 2027 registration fees (listed as opening soon)
+- Acceptance rate (no official submission count found)
+- ACISP 2027 venue within Melbourne (to be announced); the static homepage fallback shows dates as to be announced
+  while the site data file loaded by the page gives 7-10 July 2027
+last_verified: 2026-09-28

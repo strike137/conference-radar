@@ -1,0 +1,88 @@
+id: ispec
+name: ISPEC
+full_name: International Conference on Information Security Practice and Experience
+type: conference
+tier: minor
+areas: [security, crypto]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: 'Rotating host institutions (2025: UESTC with IEEE Reliability Society; 2026: Xi''an University of Posts
+  and Telecommunications and Shaanxi Normal University)'
+proceedings: Springer LNCS
+indexing: [Scopus, DBLP]
+rank:
+  core: C
+fee: 4000 CNY / 600 USD (2025, author registration)
+typical:
+  deadline_months: [6, 7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://ispec2026.github.io/
+  dblp: https://dblp.org/db/conf/ispec/index.html
+  wikicfp: http://www.wikicfp.com/cfp/program?id=1744
+notes:
+- Started in 2005 in Singapore; mostly held in China, occasionally Australia, Korea (Seoul 2010), Japan (Tokyo 2018),
+  Malaysia, Taiwan and Denmark (Copenhagen 2023); no 2020 edition
+- Proceedings in Springer LNCS
+- Two submission rounds (about late June/July and August); in 2026 both deadlines were extended by about a week
+- Applied and practical security focus; topics include AI security, mobile and cloud security, applied cryptography
+- CORE C (was B up to CORE2021); not in the CCF list
+editions:
+- year: 2025
+  start: 2025-11-07
+  end: 2025-11-09
+  location: Chengdu, China
+  url: https://ispec2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-07-07
+    label: First round
+  - kind: notification
+    date: 2025-07-31
+    label: First round
+  - kind: camera_ready
+    date: 2025-08-15
+    label: First round
+  - kind: submission
+    date: 2025-08-15
+    label: Second round
+  - kind: other
+    date: 2025-10-16
+    label: Early registration (all authors)
+- year: 2026
+  start: 2026-11-06
+  end: 2026-11-08
+  location: Xi'an, China
+  url: https://ispec2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    label: First round (extended from 2026-06-26)
+  - kind: notification
+    date: 2026-07-27
+    label: First round (moved from 2026-07-24)
+  - kind: submission
+    date: 2026-08-14
+    label: Second round (extended from 2026-08-07)
+  - kind: notification
+    date: 2026-09-06
+    label: Second round (moved from 2026-08-31)
+  - kind: camera_ready
+    date: 2026-09-15
+  - kind: other
+    date: 2026-10-09
+    label: Author registration
+sources:
+- https://ispec2026.github.io/
+- https://ispec2025.github.io/
+- https://api.crossref.org/works?query.bibliographic=Information+Security+Practice+and+Experience&filter=type:book,from-pub-date:2023
+- https://portal.core.edu.au/conf-ranks/?search=ISPEC&by=acronym&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=ISPEC&by=acronym&source=CORE2021&sort=atitle&page=1
+- http://www.wikicfp.com/cfp/program?id=1744
+unverified:
+- Deadline time zone (not stated on the CFP)
+- ISPEC 2026 registration fee (registration page says awaiting evaluation)
+- Acceptance rate
+- ISPEC 2027 location and dates (not announced)
+last_verified: 2026-09-28

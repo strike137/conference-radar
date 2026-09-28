@@ -1,0 +1,62 @@
+id: apnoms
+name: APNOMS
+full_name: Asia-Pacific Network Operations and Management Symposium
+type: conference
+tier: minor
+areas: [networking, communications]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: KICS KNOM (Korea) and IEICE ICM (Japan), technically co-sponsored by IEEE ComSoc
+proceedings: IEEE Xplore (2025) plus IEICE and KICS Proceedings Series
+archival: true
+indexing: [EI, DBLP]
+rank:
+  core: C
+  ccf: C
+fee: 90,000 JPY (2026, author full, early bird); 50,000 JPY student author
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://apnoms.org/
+  dblp: https://dblp.org/db/conf/apnoms/
+notes:
+- Sponsored by KICS KNOM (Korea) and IEICE ICM (Japan); mostly rotates among Japan, Korea and Taiwan (also Sydney
+  2001, Beijing 2008), usually in September
+- Ranked CORE C and CCF C; the main Asia-Pacific venue for network operations and management
+- Papers are 3 to 6 pages in IEEE format; innovation session (slide style) papers are not indexed
+- No APNOMS in 2004, 2010, 2018 or 2024; in those years IEEE/IFIP NOMS itself met in Seoul, Osaka, Taipei and Seoul
+- 2026 edition required on-site presentation (online only for unavoidable reasons)
+editions:
+- year: 2026
+  start: 2026-09-09
+  end: 2026-09-11
+  location: Kumamoto, Japan
+  url: https://www.ieice.org/cs/icm/apnoms/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    label: Papers (original)
+  - kind: submission
+    date: 2026-06-19
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-07-21
+  - kind: camera_ready
+    date: 2026-08-03
+sources:
+- https://apnoms.org/
+- https://www.ieice.org/cs/icm/apnoms/2026/
+- https://www.ieice.org/cs/icm/apnoms/2026/callForPaper.html
+- https://www.ieice.org/cs/icm/apnoms/2026/callForParticipation.html
+- https://sites.google.com/view/apnoms2025/call-for-papers
+- https://portal.core.edu.au/conf-ranks/?search=APNOMS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+- https://api.crossref.org/works?query.bibliographic=APNOMS
+unverified:
+- Whether APNOMS 2026 papers go to IEEE Xplore (the 2026 CFP names only the IEICE and KICS Proceedings Series; 2025
+  was in IEEE Xplore)
+- APNOMS 2027 host city and dates
+- Acceptance rate
+last_verified: 2026-09-28

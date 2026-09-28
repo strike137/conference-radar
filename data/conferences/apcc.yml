@@ -1,0 +1,81 @@
+id: apcc
+name: APCC
+full_name: Asia-Pacific Conference on Communications
+type: conference
+tier: minor
+areas: [communications, networking]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: APCC Steering Committee (IEICE Communications Society, KICS, China Institute of Communications)
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: C
+fee: 72,000 JPY (2025, member of CIC/IEICE/KICS/ComSoc, early); 80,000 JPY non-member early
+typical:
+  deadline_months: [6, 7, 8, 9]
+  conference_months: [11]
+links:
+  website: https://apcc2026.org/
+  dblp: https://dblp.org/db/conf/apcc/
+notes:
+- Held since 1993, rotating among Korea, Japan, China, Australia, Indonesia, Malaysia and others; usually November
+- Steering committee drawn from IEICE-CS (Japan), KICS (Korea) and CIC (China); member rates for CIC, IEICE, KICS
+  and IEEE ComSoc
+- CORE C (was B up to CORE2020)
+- Papers up to 6 pages via EDAS; APCC 2026 also takes abstract-only presentations that are not published
+- 2025 edition in Osaka was co-located with ICETC 2025
+editions:
+- year: 2025
+  start: 2025-11-26
+  end: 2025-11-28
+  location: Osaka, Japan
+  url: https://www.ieice.org/cs/apcc/
+  deadlines:
+  - kind: submission
+    date: 2025-06-05
+    label: Papers (original)
+  - kind: submission
+    date: 2025-07-15
+    label: Papers (extended)
+  - kind: submission
+    date: 2025-07-31
+    label: Papers (firm)
+  - kind: notification
+    date: 2025-09-10
+  - kind: camera_ready
+    date: 2025-10-15
+- year: 2026
+  start: 2026-11-10
+  end: 2026-11-12
+  location: Xi'an, China
+  url: https://apcc2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    label: Papers (original)
+  - kind: submission
+    date: 2026-09-20
+    time: '23:59'
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-10-15
+  - kind: camera_ready
+    date: 2026-10-25
+sources:
+- https://apcc2026.org/
+- https://apcc2026.org/sub.html
+- https://apcc2026.org/reg.html
+- https://www.ieice.org/cs/apcc/
+- https://www.ieice.org/cs/apcc/registration
+- https://www.ieice.org/cs/apcc/apcc-steering-committee-asc
+- https://portal.core.edu.au/conf-ranks/?search=APCC&by=acronym&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=APCC&by=acronym&source=CORE2020
+unverified:
+- APCC 2026 registration fee (the fee table on apcc2026.org still shows 2025 template dates)
+- APCC 2027 host and dates
+- Acceptance rate
+last_verified: 2026-09-28

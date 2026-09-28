@@ -1,0 +1,106 @@
+id: imc
+name: IMC
+full_name: ACM Internet Measurement Conference
+type: conference
+tier: major
+areas: [networking, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCOMM
+proceedings: ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 26.4% (2022, 56/212)
+fee: 860 EUR ACM member early, main conference (2026); ACM student member 680 EUR
+typical:
+  deadline_months: [4, 5, 11]
+  conference_months: [10, 11]
+links:
+  website: https://conferences.sigcomm.org/imc/2026/
+  dblp: https://dblp.org/db/conf/imc/
+notes:
+- Sponsored by ACM SIGCOMM; the main venue for Internet measurement, including security and privacy measurement
+  studies
+- Two deadlines per year since IMC 2025 (November and April/May, AoE) with a one-shot revision across cycles
+- Full papers up to 13 pages and short papers up to 6 pages (plus references and appendix); replicability track
+- 'Alternates between North America and elsewhere: Madison 2025, Karlsruhe 2026, Atlanta 2027; travel grants and
+  a student workshop'
+editions:
+- year: 2025
+  start: 2025-10-28
+  end: 2025-10-31
+  location: Madison, USA
+  url: https://conferences.sigcomm.org/imc/2025/
+  deadlines:
+  - kind: abstract
+    date: 2024-11-14
+    label: Cycle 1
+  - kind: submission
+    date: 2024-11-21
+    label: Cycle 1
+  - kind: notification
+    date: 2025-03-26
+    label: Cycle 1
+  - kind: abstract
+    date: 2025-05-08
+    label: Cycle 2
+  - kind: submission
+    date: 2025-05-15
+    label: Cycle 2
+  - kind: notification
+    date: 2025-08-18
+    label: Cycle 2
+- year: 2026
+  start: 2026-10-12
+  end: 2026-10-16
+  location: Karlsruhe, Germany
+  url: https://conferences.sigcomm.org/imc/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-13
+    time: '23:59'
+    tz: AoE
+    label: Cycle 1
+  - kind: submission
+    date: 2025-11-20
+    time: '23:59'
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2026-03-17
+    label: Cycle 1
+  - kind: abstract
+    date: 2026-04-22
+    time: '23:59'
+    tz: AoE
+    label: Cycle 2
+  - kind: submission
+    date: 2026-04-29
+    time: '23:59'
+    tz: AoE
+    label: Cycle 2
+  - kind: notification
+    date: 2026-08-04
+    label: Cycle 2
+- year: 2027
+  location: Atlanta, USA
+  status: tentative
+  deadlines: []
+sources:
+- https://conferences.sigcomm.org/imc/2026/
+- https://conferences.sigcomm.org/imc/2026/cfp
+- https://conferences.sigcomm.org/imc/2026/submission-instructions
+- https://conferences.sigcomm.org/imc/2026/registration
+- https://conferences.sigcomm.org/imc/2025/
+- https://conferences.sigcomm.org/imc/2025/cfp/
+- https://www.sigcomm.org/news/november-2025-sigcomm-newsletter
+- https://sites.cs.ucsb.edu/~almeroth/conf/stats/
+- https://portal.core.edu.au/conf-ranks/?search=IMC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- IMC 2027 dates and deadlines (only the Atlanta location is announced, via the SIGCOMM newsletter)
+- Time zone of IMC 2025 deadlines
+- Acceptance rates after 2022
+last_verified: 2026-09-28

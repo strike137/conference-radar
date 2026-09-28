@@ -1,0 +1,115 @@
+id: fse-se
+name: FSE
+full_name: ACM International Conference on the Foundations of Software Engineering
+type: conference
+tier: top
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGSOFT
+proceedings: ACM DL (PACMSE journal issue)
+indexing: [DBLP, Scopus]
+rank:
+  core: A*
+  ccf: A
+fee: About 840 USD (2026, early, ACM member; 970 USD non-member)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [6, 7]
+links:
+  website: https://conf.researchr.org/series/fse
+  dblp: https://dblp.org/db/conf/sigsoft/
+notes:
+- Premier ACM SIGSOFT conference; called ESEC/FSE until 2023 and FSE since 2024; CORE A*, CCF A
+- Accepted papers form an issue of PACMSE (Proceedings of the ACM on Software Engineering); 18 pages plus 4 pages
+  of references
+- Double-anonymous review with a major revision round
+- FSE 2027 will be held in Shenzhen, China (July 2027); research deadline 2 Oct 2026
+- 'ACM is fully open access: authors outside ACM Open institutions pay an APC (USD 500 member / 750 non-member,
+  2027 subsidized rate) unless a waiver applies'
+editions:
+- year: 2026
+  start: 2026-07-05
+  end: 2026-07-09
+  location: Montreal, Canada
+  url: https://conf.researchr.org/home/fse-2026
+  deadlines:
+  - kind: abstract
+    date: 2025-09-04
+    time: '23:59'
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2025-09-11
+    time: '23:59'
+    tz: AoE
+    label: Research papers
+  - kind: other
+    date: 2025-11-21
+    tz: AoE
+    label: Author response (Nov 21 to 25)
+  - kind: notification
+    date: 2025-12-22
+    label: Initial notification
+  - kind: other
+    date: 2026-02-24
+    label: Major revision due
+  - kind: notification
+    date: 2026-03-24
+    label: Final notification (major revisions)
+  - kind: camera_ready
+    date: 2026-04-23
+- year: 2027
+  start: 2027-07-12
+  end: 2027-07-16
+  location: Shenzhen, China
+  url: https://conf.researchr.org/home/fse-2027
+  deadlines:
+  - kind: submission
+    date: 2026-10-02
+    tz: AoE
+    label: Research papers
+  - kind: other
+    date: 2026-10-15
+    tz: AoE
+    label: Workshop proposals
+  - kind: other
+    date: 2026-12-14
+    label: Author response (Dec 14 to 18)
+  - kind: notification
+    date: 2027-01-22
+    label: Initial notification
+  - kind: submission
+    date: 2027-01-23
+    tz: AoE
+    label: Industry papers
+  - kind: submission
+    date: 2027-01-29
+    tz: AoE
+    label: Software Engineering Education track
+  - kind: submission
+    date: 2027-02-11
+    tz: AoE
+    label: Workshop papers
+  - kind: other
+    date: 2027-03-05
+    label: Major revision due
+  - kind: notification
+    date: 2027-03-31
+    label: Final notification
+sources:
+- https://conf.researchr.org/home/fse-2027
+- https://conf.researchr.org/track/fse-2027/fse-2027-papers
+- https://conf.researchr.org/dates/fse-2027
+- https://conf.researchr.org/track/fse-2027/fse-2027-industry-papers
+- https://conf.researchr.org/track/fse-2027/fse-2027-workshops
+- https://conf.researchr.org/track/fse-2026/fse-2026-research-papers
+- https://conf.researchr.org/home/fse-2026
+- https://conf.researchr.org/attending/fse-2026/registration
+- https://portal.core.edu.au/conf-ranks/?search=FSE&by=acronym&source=ICORE2026
+unverified:
+- 'FSE 2025 acceptance rate: csconferences dataset lists 135/515 (26%) without a cited source; not confirmed against
+  official front matter'
+- FSE 2027 separate paper registration (abstract) deadline, none listed yet
+last_verified: 2026-09-28

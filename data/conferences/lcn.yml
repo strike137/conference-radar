@@ -1,0 +1,85 @@
+id: lcn
+name: LCN
+full_name: IEEE Conference on Local Computer Networks
+type: conference
+tier: major
+areas: [networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society (Technical Community on Computer Communications, TCCC)
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+fee: 875 USD IEEE member, 1,050 USD non-member (2026, author registration)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [10]
+links:
+  website: https://www.ieeelcn.org/
+notes:
+- One of the oldest networking conferences (51st edition in 2026); general computer networking scope
+- Full regular papers 8 pages plus references go to the LCN Proceedings; short papers 6 pages plus references go
+  to the Companion Proceedings (both IEEE Xplore)
+- AoE deadlines, paper registration and submission usually extended from April to early May
+- Traditionally in North America; now rotates worldwide (Singapore 2017, Caen 2024, Sydney 2025, Coimbra 2026);
+  TCCC student participation grants
+editions:
+- year: 2025
+  start: 2025-10-14
+  end: 2025-10-16
+  location: Sydney, Australia
+  url: https://www.ieeelcn.org/prior/LCN50/index.html
+  deadlines:
+  - kind: abstract
+    date: 2025-05-11
+    tz: AoE
+    label: Paper registration (extended; originally 2025-04-20)
+  - kind: submission
+    date: 2025-05-11
+    tz: AoE
+    label: Papers (extended; originally 2025-04-27)
+  - kind: notification
+    date: 2025-07-01
+    tz: AoE
+    label: Papers
+  - kind: camera_ready
+    date: 2025-08-01
+    tz: AoE
+    label: Final papers
+- year: 2026
+  start: 2026-10-07
+  end: 2026-10-09
+  location: Coimbra, Portugal
+  url: https://www.ieeelcn.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-04
+    tz: AoE
+    label: Paper registration (extended; originally 2026-04-13)
+  - kind: submission
+    date: 2026-05-04
+    tz: AoE
+    label: Papers (extended; originally 2026-04-20)
+  - kind: notification
+    date: 2026-06-29
+    tz: AoE
+    label: Papers
+  - kind: camera_ready
+    date: 2026-07-27
+    tz: AoE
+    label: Final papers
+sources:
+- https://www.ieeelcn.org/
+- https://www.ieeelcn.org/Author_CfP.html
+- https://www.ieeelcn.org/Attendee_Conference_Registration.html
+- https://www.ieeelcn.org/Annals_Prior_LCN.html
+- https://www.ieeelcn.org/prior/LCN50/index.html
+- https://portal.core.edu.au/conf-ranks/?search=LCN&by=all&source=ICORE2026
+unverified:
+- LCN 2027 location and dates not yet announced
+- Acceptance rate not found in an official source
+- Review model (single or double blind) not stated on the CFP page fetched
+last_verified: 2026-09-28

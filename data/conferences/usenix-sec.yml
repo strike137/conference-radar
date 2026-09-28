@@ -1,0 +1,119 @@
+id: usenix-sec
+name: USENIX Security
+full_name: USENIX Security Symposium
+type: conference
+tier: top
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: USENIX Association
+proceedings: USENIX
+indexing: [Scopus, DBLP]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 13% (2026, 362/2750)
+fee: About 1100 USD early, 1400 USD standard; students 625 USD early, 775 USD standard (2026)
+typical:
+  deadline_months: [1, 2, 8]
+  conference_months: [8]
+links:
+  website: https://www.usenix.org/conference/usenixsecurity27
+  dblp: https://dblp.org/db/conf/uss/index.html
+notes:
+- Organized by the USENIX Association; one of the 'Big 4' security conferences, held in the USA every August
+- Two submission cycles (late August and late January/early February) with mandatory registration one week before;
+  double-blind; early-reject round and rebuttal; Open Science appendix required
+- All papers are open access on usenix.org; at most 7 papers per author per cycle; papers rejected in Cycle 1 cannot
+  go to Cycle 2 of the same year
+- Largest of the Big 4 by paper count; about 13% acceptance in 2026 (362/2750)
+editions:
+- year: 2026
+  start: 2026-08-12
+  end: 2026-08-14
+  location: Baltimore, USA
+  url: https://www.usenix.org/conference/usenixsecurity26
+  deadlines:
+  - kind: abstract
+    date: 2025-08-19
+    time: '23:59'
+    tz: AoE
+    label: Cycle 1 registration
+  - kind: submission
+    date: 2025-08-26
+    time: '23:59'
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2025-12-04
+    label: Cycle 1
+  - kind: camera_ready
+    date: 2026-01-15
+    label: Cycle 1
+  - kind: abstract
+    date: 2026-01-29
+    time: '23:59'
+    tz: AoE
+    label: Cycle 2 registration
+  - kind: submission
+    date: 2026-02-05
+    time: '23:59'
+    tz: AoE
+    label: Cycle 2
+  - kind: notification
+    date: 2026-05-14
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2026-06-11
+    label: Cycle 2
+- year: 2027
+  start: 2027-08-11
+  end: 2027-08-13
+  location: Denver, USA
+  url: https://www.usenix.org/conference/usenixsecurity27
+  deadlines:
+  - kind: abstract
+    date: 2026-08-18
+    tz: AoE
+    label: Cycle 1 registration
+  - kind: submission
+    date: 2026-08-25
+    tz: AoE
+    label: Cycle 1
+  - kind: other
+    date: 2026-10-06
+    label: 'Cycle 1: early reject notification'
+  - kind: notification
+    date: 2026-12-03
+    label: Cycle 1
+  - kind: camera_ready
+    date: 2027-01-14
+    label: Cycle 1
+  - kind: abstract
+    date: 2027-01-19
+    tz: AoE
+    label: Cycle 2 registration
+  - kind: submission
+    date: 2027-01-26
+    tz: AoE
+    label: Cycle 2
+  - kind: other
+    date: 2027-03-09
+    label: 'Cycle 2: early reject notification'
+  - kind: notification
+    date: 2027-05-06
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2027-06-03
+    label: Cycle 2
+sources:
+- https://www.usenix.org/conference/usenixsecurity27/call-for-papers
+- https://www.usenix.org/conference/usenixsecurity26/call-for-papers
+- https://www.usenix.org/conference/usenixsecurity26/registration-information
+- https://portal.core.edu.au/conf-ranks/?search=USENIX&by=all&source=ICORE2026&sort=atitle&page=1
+- http://jianying.space/conference-ranking.html
+unverified:
+- Acceptance rate taken from Jianying Zhou's statistics page
+- 2027 registration fee not yet published
+last_verified: 2026-09-28

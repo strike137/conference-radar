@@ -1,0 +1,68 @@
+id: lamps
+name: LAMPS
+full_name: ACM Workshop on Large AI Systems and Models with Privacy and Security Analysis
+type: workshop
+tier: minor
+areas: [security, ai, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGSAC (co-located with ACM CCS)
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11]
+links:
+  website: https://lamps2026-ccs.github.io/home/
+notes:
+- New CCS workshop on LLM and large-model security, first held in 2024 (Oct 14, Salt Lake City); the 2024 name said
+  "Privacy and Safety Analysis" (still used on the CCS 2026 workshop list), the workshop site now says "Privacy
+  and Security Analysis"
+- Proceedings in the ACM Digital Library; research and SoK papers up to 8 pages of body text, short and position
+  papers up to 4 pages
+- 2026 edition focuses on agentic AI security and formally grounded defenses
+- Organizers report over 80 attendees at each of the 2024 and 2025 editions; 2025 was held in Taipei with CCS
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Taipei, Taiwan
+  url: https://lamps-ccs.github.io/home/
+  deadlines:
+  - kind: submission
+    date: 2025-07-11
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2025-08-15
+  - kind: camera_ready
+    date: 2025-08-22
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: The Hague, Netherlands
+  url: https://lamps2026-ccs.github.io/home/
+  deadlines:
+  - kind: submission
+    date: 2026-07-19
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2026-08-24
+  - kind: camera_ready
+    date: 2026-09-07
+sources:
+- https://lamps2026-ccs.github.io/home/
+- https://lamps-ccs.github.io/home/
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://www.sigsac.org/ccs/CCS2024/workshops/workshops.html
+- https://dl.acm.org/doi/10.1145/3719027.3767670
+- https://dl.acm.org/doi/10.1145/3658644.3691335
+unverified:
+- Acceptance rates not published
+- The attendance figure (over 80 per edition) is self-reported in the 2026 CFP
+last_verified: 2026-09-28

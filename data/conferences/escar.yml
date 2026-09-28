@@ -1,0 +1,102 @@
+id: escar
+name: escar
+full_name: 'escar: Embedded Security in Cars Conference (escar Europe and escar USA)'
+type: industry
+tier: major
+areas: [security, systems]
+region: europe
+language: english
+frequency: multiple-per-year
+organizer: isits AG (International School of IT Security), with ETAS as event partner and US organizer
+proceedings: escar proceedings (papers get Zenodo DOIs)
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [1, 5, 6]
+  conference_months: [5, 6, 11]
+links:
+  website: https://www.escar.info/
+notes:
+- Started in Germany in 2003 as the first conference on embedded security in cars; widely seen as the main automotive
+  cybersecurity industry event
+- 'Two annual editions: escar Europe (November, hybrid, mostly in German cities such as Frankfurt, Dortmund, Hamburg
+  and Bonn) and escar USA (May or June, Detroit area: Plymouth, Michigan until 2025, Novi, Michigan from 2026)'
+- Mostly industry talks from OEMs and suppliers; escar Europe has a scientific track with anonymous peer-reviewed
+  full papers up to 15 pages plus a presentation and industry track (2 to 3 page descriptions)
+- Scientific-track papers get a citable Zenodo DOI (opt-out possible, copyright stays with the authors); escar USA
+  has an industry track plus a dedicated academic session
+- Deadlines usually extended by one to three weeks
+editions:
+- year: 2025
+  label: escar Europe 2025 (23rd)
+  start: 2025-11-05
+  end: 2025-11-06
+  location: Frankfurt am Main, Germany
+  url: https://escar.info/escar-europe/history
+  deadlines:
+  - kind: submission
+    date: 2025-06-20
+    label: escar Europe papers (extended from Jun 1)
+  - kind: notification
+    date: 2025-08-20
+    label: escar Europe
+  - kind: camera_ready
+    date: 2025-09-15
+    label: escar Europe final paper
+- year: 2026
+  label: escar USA 2026 (13th)
+  start: 2026-05-19
+  end: 2026-05-21
+  location: Novi, Michigan, USA
+  url: https://escar.info/escar-usa/program
+  deadlines:
+  - kind: submission
+    date: 2026-01-28
+    label: escar USA (extended from Jan 19)
+  - kind: notification
+    date: 2026-03-30
+    label: escar USA speaker notification
+- year: 2026
+  label: escar Europe 2026 (24th)
+  start: 2026-11-17
+  end: 2026-11-18
+  location: Bonn, Germany
+  url: https://escar.info/escar-europe
+  deadlines:
+  - kind: submission
+    date: 2026-05-19
+    label: escar Europe papers (extended from May 10)
+  - kind: notification
+    date: 2026-08-03
+    label: escar Europe
+  - kind: camera_ready
+    date: 2026-08-31
+    label: escar Europe final paper
+- year: 2027
+  label: escar USA 2027 (14th)
+  start: 2027-06-08
+  end: 2027-06-10
+  location: Novi, Michigan, USA
+  url: https://escar.info/escar-usa
+  deadlines: []
+sources:
+- https://escar.info/
+- https://escar.info/escar-europe
+- https://escar.info/escar-europe/call-for-papers
+- https://escar.info/escar-europe/history
+- https://escar.info/escar-europe/location
+- https://escar.info/escar-usa
+- https://escar.info/escar-usa/call-for-papers
+- https://escar.info/escar-usa/program
+- https://escar.info/escar-usa/papers
+- https://web.archive.org/web/20260301000000/https://escar.info/escar-usa
+- https://web.archive.org/web/20260201000000/https://escar.info/escar-usa/call-for-papers
+- https://web.archive.org/web/20250401000000/https://escar.info/escar-usa
+- https://web.archive.org/web/20240401000000/https://escar.info/escar-usa
+- https://web.archive.org/web/20250701000000/https://escar.info/escar-europe/call-for-papers
+unverified:
+- Registration fees (ticket shop requires JavaScript)
+- escar USA 2027 CFP deadlines not yet announced (page says 2027 event details coming soon)
+- Whether escar Asia is still held (site mentions Asia but the escar-asia page returns 404)
+last_verified: 2026-09-28

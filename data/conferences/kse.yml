@@ -1,0 +1,96 @@
+id: kse
+name: KSE
+full_name: International Conference on Knowledge and Systems Engineering
+type: conference
+tier: minor
+areas: [ai, data, nlp, software, security]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: 'VNU University of Engineering and Technology (VNU-UET) with a rotating co-organizer (2025: Dalat University;
+  2026: JAIST); endorsed by Vietnam''s FISU'
+proceedings: IEEE Xplore
+indexing: [Scopus, DBLP]
+rank:
+  core: Unranked
+fee: 54,400 JPY regular non-IEEE early, 46,400 JPY student non-IEEE early (2026, on or before 2026-09-30)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://kse2026.kse-conferences.org/
+  dblp: https://dblp.org/db/conf/kse/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195178&copyownerid=174234
+notes:
+- Mostly held in Vietnam (2022 Nha Trang, 2023 Hanoi, 2025 Da Lat) with occasional editions abroad (2024 Kuala Lumpur,
+  2026 Kanazawa)
+- KSE 2026 is in Kanazawa, co-organized by JAIST and VNU-UET, with IEEE Nagoya Section technical support
+- 6-page IEEE format (up to 2 paid extra pages); at least three reviewers; many special sessions and co-located
+  workshops
+- Security appears in the main topics (cryptography and cybersecurity) and in 2026 special sessions AI for Security
+  and Security for AI (ASSA) and Modern Cryptography and Information Security (MC-IS-SDS); selected papers to Vietnam
+  Journal of Computer Science
+editions:
+- year: 2025
+  label: KSE 2025
+  start: 2025-11-06
+  end: 2025-11-08
+  location: Da Lat, Vietnam
+  url: https://kse2025.kse-conferences.org/
+  deadlines:
+  - kind: submission
+    date: 2025-07-31
+    tz: AoE
+    label: Paper submission (original)
+  - kind: submission
+    date: 2025-08-15
+    tz: AoE
+    label: Paper submission (extended, firm)
+  - kind: notification
+    date: 2025-09-20
+    label: Acceptance notification
+  - kind: camera_ready
+    date: 2025-09-30
+    label: Camera-ready
+- year: 2026
+  label: KSE 2026
+  start: 2026-11-11
+  end: 2026-11-14
+  location: Kanazawa, Japan
+  url: https://kse2026.kse-conferences.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    tz: AoE
+    label: Paper submission (first extension)
+  - kind: submission
+    date: 2026-08-03
+    tz: AoE
+    label: Paper submission (final extension, firm)
+  - kind: notification
+    date: 2026-09-05
+    tz: AoE
+    label: Acceptance notification
+  - kind: camera_ready
+    date: 2026-09-15
+    tz: AoE
+    label: Camera-ready
+  - kind: other
+    date: 2026-09-30
+    tz: AoE
+    label: Paper registration and early-bird deadline
+sources:
+- https://kse2026.kse-conferences.org/
+- https://kse2026.kse-conferences.org/call-for-papers/
+- https://kse2026.kse-conferences.org/registration/
+- https://kse2025.kse-conferences.org/
+- https://api.crossref.org/works/10.1109/kse63888.2024
+- https://doi.org/10.1109/kse56063.2022.9953760
+- https://doi.org/10.1109/kse59128.2023.10299459
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195178&copyownerid=174234
+- https://portal.core.edu.au/conf-ranks/?search=Knowledge%20and%20Systems&by=all&source=ICORE2026
+unverified:
+- Acceptance rate
+- Original KSE 2026 deadline before the 2026-07-05 extension announcement (WikiCFP lists 2026-07-15)
+- DBLP key not checked live (DBLP blocks automated access)
+last_verified: 2026-09-28

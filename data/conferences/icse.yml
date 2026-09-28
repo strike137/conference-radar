@@ -1,0 +1,134 @@
+id: icse
+name: ICSE
+full_name: IEEE/ACM International Conference on Software Engineering
+type: conference
+tier: top
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGSOFT and IEEE Computer Society TCSE
+proceedings: IEEE Xplore / ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 22% (2026, 321/1469, both cycles combined)
+fee: About 800 USD (2026, early, ACM/IEEE member; 1000 USD non-member; 500 USD student member)
+typical:
+  deadline_months: [3, 6, 7, 8]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/series/icse
+  dblp: https://dblp.org/db/conf/icse/
+notes:
+- Flagship software engineering conference; CORE A*, CCF A
+- ICSE 2027 goes back to a single submission cycle (end of June); ICSE 2024 to 2026 used two cycles
+- Double-anonymous review with a major revision round; 10 pages plus 2 pages of references
+- Hosts many co-located conferences (MSR, ICPC, CAIN, FORGE, SEAMS) and workshops whose deadlines fall in Oct/Nov
+- 'Student entry points: ACM Student Research Competition, Doctoral Symposium, student volunteers, Student Mentoring
+  Workshop'
+editions:
+- year: 2026
+  start: 2026-04-12
+  end: 2026-04-18
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/icse-2026
+  deadlines:
+  - kind: abstract
+    date: 2025-03-07
+    time: '23:59'
+    tz: AoE
+    label: Research track, first cycle (mandatory abstract)
+  - kind: submission
+    date: 2025-03-14
+    time: '23:59'
+    tz: AoE
+    label: Research track, first cycle
+  - kind: notification
+    date: 2025-06-20
+    label: First cycle
+  - kind: abstract
+    date: 2025-07-11
+    time: '23:59'
+    tz: AoE
+    label: Research track, second cycle (optional abstract)
+  - kind: submission
+    date: 2025-07-18
+    time: '23:59'
+    tz: AoE
+    label: Research track, second cycle
+  - kind: notification
+    date: 2025-10-17
+    label: Second cycle
+  - kind: notification
+    date: 2025-12-19
+    label: Second cycle, final decision on revised papers
+  - kind: camera_ready
+    date: 2026-01-16
+    label: Second cycle, revised papers
+- year: 2027
+  start: 2027-04-25
+  end: 2027-05-01
+  location: Dublin, Ireland
+  url: https://conf.researchr.org/home/icse-2027
+  deadlines:
+  - kind: abstract
+    date: 2026-06-23
+    time: '23:59'
+    tz: AoE
+    label: Research track (mandatory abstract)
+  - kind: submission
+    date: 2026-06-30
+    time: '23:59'
+    tz: AoE
+    label: Research track (single cycle)
+  - kind: other
+    date: 2026-09-23
+    tz: AoE
+    label: Author response (Sep 23 to 25)
+  - kind: notification
+    date: 2026-10-20
+    label: Research track
+  - kind: submission
+    date: 2026-10-23
+    tz: AoE
+    label: NIER, SEIP, SEIS, SEET, Tool Demo and Data Showcase tracks
+  - kind: submission
+    date: 2026-10-30
+    tz: AoE
+    label: Journal-first papers
+  - kind: submission
+    date: 2026-11-13
+    tz: AoE
+    label: Co-located workshop papers and ACM SRC
+  - kind: submission
+    date: 2026-11-14
+    tz: AoE
+    label: Doctoral Symposium
+  - kind: other
+    date: 2026-11-17
+    label: Major revision due
+  - kind: camera_ready
+    date: 2026-11-24
+    label: Directly accepted papers
+  - kind: notification
+    date: 2026-12-18
+    label: Final decision for major revision papers
+  - kind: camera_ready
+    date: 2027-01-25
+    label: Accepted major revision papers
+sources:
+- https://conf.researchr.org/track/icse-2027/icse-2027-research-track
+- https://conf.researchr.org/dates/icse-2027
+- https://conf.researchr.org/home/icse-2027
+- https://conf.researchr.org/track/icse-2026/icse-2026-research-track
+- https://conf.researchr.org/home/icse-2026
+- https://conf.researchr.org/attending/icse-2026/registration
+- https://portal.core.edu.au/conf-ranks/?search=ICSE&by=acronym&source=ICORE2026
+- https://github.com/emeryberger/csconferences
+unverified:
+- ICSE 2026 acceptance figure (321/1469) taken from the csconferences dataset, which cites the ICSE 2026 site; the
+  figure is not visible on the current ICSE 2026 pages
+- ICSE 2028 page exists on researchr but is not public yet
+last_verified: 2026-09-28

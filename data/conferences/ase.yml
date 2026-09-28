@@ -1,0 +1,111 @@
+id: ase
+name: ASE
+full_name: IEEE/ACM International Conference on Automated Software Engineering
+type: conference
+tier: top
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society and ACM SIGSOFT
+proceedings: IEEE Xplore / ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 21% (2025, 246/1181)
+fee: About 680 USD (2025, early, IEEE/ACM member; 840 USD non-member; 445 USD student member)
+typical:
+  deadline_months: [3, 5, 6]
+  conference_months: [10, 11]
+links:
+  website: https://conf.researchr.org/series/ase
+  dblp: https://dblp.org/db/conf/kbse/
+notes:
+- Flagship venue for automated software engineering and AI for SE; CORE A*, CCF A
+- ASE 2025 was held in Seoul, Korea; ASE 2026 is in Munich (October 2026)
+- Double-anonymous review with a major revision round; 10 pages plus 2 pages of references
+- Early rejection stage introduced in 2026 for papers with all-negative reviews
+- Because of the large number of submissions, ASE 2025 used a poster-first format (short teaser talk plus a poster
+  session for every paper)
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-20
+  location: Seoul, South Korea
+  url: https://conf.researchr.org/home/ase-2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-30
+    tz: AoE
+    label: Research papers
+  - kind: other
+    date: 2025-07-22
+    tz: AoE
+    label: Author response (Jul 22 to 25)
+  - kind: notification
+    date: 2025-08-14
+    label: Initial notification
+  - kind: other
+    date: 2025-09-11
+    tz: AoE
+    label: Major revision due
+  - kind: notification
+    date: 2025-09-25
+    label: Major revision notification
+  - kind: camera_ready
+    date: 2025-10-03
+- year: 2026
+  start: 2026-10-12
+  end: 2026-10-16
+  location: Munich, Germany
+  url: https://conf.researchr.org/home/ase-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-26
+    tz: AoE
+    label: Research papers
+  - kind: abstract
+    date: 2026-04-23
+    label: Industry Showcase
+  - kind: submission
+    date: 2026-04-30
+    label: Industry Showcase
+  - kind: submission
+    date: 2026-05-11
+    tz: AoE
+    label: Tools and Datasets track
+  - kind: submission
+    date: 2026-05-12
+    tz: AoE
+    label: NIER track
+  - kind: other
+    date: 2026-05-25
+    label: Early rejection notification; author response May 25 to 27
+  - kind: notification
+    date: 2026-06-18
+    label: Initial notification
+  - kind: other
+    date: 2026-07-16
+    label: Major revision due
+  - kind: notification
+    date: 2026-07-29
+    label: Major revision notification
+  - kind: camera_ready
+    date: 2026-08-03
+sources:
+- https://conf.researchr.org/home/ase-2026
+- https://conf.researchr.org/track/ase-2026/ase-2026-research-track
+- https://conf.researchr.org/dates/ase-2026
+- https://conf.researchr.org/home/ase-2025
+- https://conf.researchr.org/track/ase-2025/ase-2025-papers
+- https://conf.researchr.org/attending/ase-2025/registration
+- https://portal.core.edu.au/conf-ranks/?search=ASE&by=acronym&source=ICORE2026
+- https://github.com/emeryberger/csconferences
+unverified:
+- ASE 2025 acceptance figure comes from the csconferences dataset (personal communication with the PC chair), not
+  from official front matter
+- Claim that ASE 2025 submissions roughly doubled relies only on csconferences figures (587 in 2024 vs 1181 in 2025);
+  official site only says 'large number of submissions'
+- ASE 2027 dates and location not announced as of 2026-09-28 (researchr ase-2027 page returns 404)
+last_verified: 2026-09-28

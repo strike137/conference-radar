@@ -1,0 +1,79 @@
+id: eurocrypt
+name: EUROCRYPT
+full_name: Annual International Conference on the Theory and Applications of Cryptographic Techniques
+type: conference
+tier: top
+areas: [crypto]
+region: europe
+language: english
+frequency: annual
+organizer: IACR (International Association for Cryptologic Research)
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 21% (2026, 142/675)
+fee: 1160 USD regular, 580 USD student (2026, before 18 April, incl. IACR dues)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [4, 5]
+links:
+  website: https://eurocrypt.iacr.org/
+  dblp: https://dblp.org/db/conf/eurocrypt/index.html
+notes:
+- Flagship IACR general conference, held in a European city every spring
+- Two-round review with early rejection and a rebuttal phase; proceedings in Springer LNCS
+- Deadline moved earlier for 2027 (17 Sep 2026 AoE instead of early October)
+- Students presenting accepted papers get registration waived; limited IACR stipends for others
+editions:
+- year: 2026
+  start: 2026-05-10
+  end: 2026-05-14
+  location: Rome, Italy
+  url: https://eurocrypt.iacr.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-10-02
+    time: '23:59'
+    tz: AoE
+    label: Paper submission
+  - kind: other
+    date: 2025-12-12
+    label: Rebuttal period ends (starts 8 Dec)
+  - kind: notification
+    date: 2026-01-29
+    label: Final notification
+- year: 2027
+  start: 2027-04-11
+  end: 2027-04-15
+  location: Eindhoven, Netherlands
+  url: https://eurocrypt.iacr.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-09-17
+    time: '23:59'
+    tz: AoE
+    label: Paper submission
+  - kind: notification
+    date: 2026-11-30
+    label: Early rejection notification, rebuttal starts
+  - kind: other
+    date: 2026-12-05
+    label: Rebuttal period ends
+  - kind: notification
+    date: 2027-01-18
+    label: Final notification
+  - kind: camera_ready
+    date: 2027-02-08
+    label: Camera-ready
+sources:
+- https://eurocrypt.iacr.org/2027/
+- https://eurocrypt.iacr.org/2027/callforpapers.php
+- https://eurocrypt.iacr.org/2026/
+- https://eurocrypt.iacr.org/2026/callforpapers.php
+- https://eurocrypt.iacr.org/2026/registration.php
+- https://iacr.org/meetings/eurocrypt/
+- https://portal.core.edu.au/conf-ranks/?search=EUROCRYPT&by=all&source=ICORE2026&sort=atitle&page=1
+- https://link.springer.com/book/10.1007/978-3-032-25336-1
+last_verified: 2026-09-28

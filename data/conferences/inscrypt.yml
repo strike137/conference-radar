@@ -1,0 +1,101 @@
+id: inscrypt
+name: Inscrypt
+full_name: International Conference on Information Security and Cryptology
+type: conference
+tier: minor
+areas: [crypto, security]
+region: china
+language: english
+frequency: annual
+organizer: 'Chinese host institutions in the SKLOIS (IIE, Chinese Academy of Sciences) lineage (2025: Xidian University
+  ISN lab with SKLCSD of IIE CAS; 2026: RCBT and Department of Computing, The Hong Kong Polytechnic University)'
+proceedings: Springer LNCS
+indexing: [Scopus, DBLP]
+rank:
+  core: 'National: China'
+  ccf: C
+fee: 700 USD / 5460 HKD (2026, author registration)
+typical:
+  deadline_months: [4, 5, 6, 7]
+  conference_months: [10, 11, 12]
+links:
+  website: https://inscrypt2026.comp.polyu.edu.hk/
+  dblp: https://dblp.org/db/conf/cisc/index.html
+notes:
+- 'Held in China every year (Beijing 2022, Hangzhou 2023, Kunming 2024, Xi''an 2025, Hong Kong 2026); listed by
+  CORE as the SKLOIS Conference on Information Security and Cryptology (National: China)'
+- Proceedings in Springer LNCS, published as revised selected papers after the conference; 2026 edition in cooperation
+  with IACR
+- Two submission rounds; in 2026 round 2 only considers papers invited by the PC to revise and resubmit
+- Separate crypto track and security track; anonymous submissions, 16 pages LNCS
+- CCF C
+editions:
+- year: 2025
+  start: 2025-10-19
+  end: 2025-10-22
+  location: Xi'an, China
+  url: https://inscrypt2025.xidian.edu.cn/
+  deadlines:
+  - kind: submission
+    date: 2025-04-15
+    time: '23:59'
+    tz: UTC-8
+    label: 1st round
+  - kind: notification
+    date: 2025-06-01
+    label: 1st round
+  - kind: submission
+    date: 2025-06-30
+    time: '23:59'
+    tz: UTC-8
+    label: 2nd round
+  - kind: notification
+    date: 2025-09-01
+    label: 2nd round
+  - kind: camera_ready
+    date: 2025-09-15
+- year: 2026
+  start: 2026-11-07
+  end: 2026-11-09
+  location: Hong Kong SAR, China
+  url: https://inscrypt2026.comp.polyu.edu.hk/
+  deadlines:
+  - kind: submission
+    date: 2026-05-08
+    time: '23:59'
+    tz: AoE
+    label: 1st round (extended from 2026-05-01)
+  - kind: notification
+    date: 2026-06-22
+    label: 1st round
+  - kind: submission
+    date: 2026-07-08
+    time: '23:59'
+    tz: AoE
+    label: 2nd round (extended from 2026-07-01)
+  - kind: notification
+    date: 2026-09-15
+    label: 2nd round
+  - kind: camera_ready
+    date: 2026-09-15
+    label: 1st round
+  - kind: camera_ready
+    date: 2026-09-18
+    label: 2nd round
+  - kind: other
+    date: 2026-10-01
+    time: '23:59'
+    tz: UTC+8
+    label: Author registration
+sources:
+- https://inscrypt2026.comp.polyu.edu.hk/
+- https://inscrypt2026.comp.polyu.edu.hk/call-for-papers
+- https://inscrypt2026.comp.polyu.edu.hk/registration
+- https://inscrypt2025.xidian.edu.cn/
+- https://api.crossref.org/works?query.bibliographic=Information+Security+and+Cryptology+Inscrypt+2024&filter=from-pub-date:2023
+- https://portal.core.edu.au/conf-ranks/?search=Inscrypt&by=acronym&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/conference/SC/inscrypt.yml
+unverified:
+- Acceptance rate
+- Inscrypt 2027 location and dates (not announced)
+last_verified: 2026-09-28

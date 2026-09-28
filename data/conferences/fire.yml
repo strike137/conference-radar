@@ -1,0 +1,86 @@
+id: fire
+name: FIRE
+full_name: Forum for Information Retrieval Evaluation
+type: conference
+tier: minor
+areas: [data, nlp, ai]
+region: south-asia
+language: english
+frequency: annual
+organizer: IRSI (Information Retrieval Society of India)
+proceedings: ACM ICPS (ACM DL) for the conference track; shared-task working notes in CEUR-WS
+archival: true
+indexing: [DBLP, ACM DL]
+rank:
+  core: Unranked
+fee: 450 USD non-Indian non-ACM, 350 USD non-Indian ACM member; Indian students from 5900 INR (2026, online registration
+  incl. GST)
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://fire.irsi.org.in/
+  dblp: https://dblp.org/db/conf/fire/index.html
+notes:
+- Organized by IRSI; started in 2008 as a South Asian counterpart to TREC, CLEF and NTCIR
+- Peer-reviewed conference track (regular and perspective papers double-blind, up to 9 pages) plus about 15 shared-task
+  evaluation tracks and an industry track
+- Conference papers published in ACM ICPS (2023 to 2025); shared-task working notes go to CEUR-WS
+- Held every December in India with a rotating host (Goa 2023, Gandhinagar 2024, Varanasi 2025, Kolkata 2026); in
+  person only, non-Indian nationals need a visa
+- ACM SIGIR student travel grants (up to 6000 INR, travel within India)
+editions:
+- year: 2025
+  start: 2025-12-17
+  end: 2025-12-20
+  location: Varanasi, India
+  url: https://fire.irsi.org.in/fire/2025/home
+  deadlines:
+  - kind: submission
+    date: 2025-09-18
+    time: '23:59'
+    tz: AoE
+    label: Conference track (extended from Aug 31)
+  - kind: notification
+    date: 2025-11-15
+    label: Conference track (moved from Oct 15)
+  - kind: camera_ready
+    date: 2025-11-20
+    label: Conference track (moved from Nov 5)
+- year: 2026
+  start: 2026-12-17
+  end: 2026-12-20
+  location: Kolkata, India
+  url: https://fire.irsi.org.in/fire/2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-09-07
+    time: '23:59'
+    tz: AoE
+    label: Conference track (extended from Aug 15)
+  - kind: notification
+    date: 2026-10-15
+    label: Conference track
+  - kind: camera_ready
+    date: 2026-10-31
+    label: Conference track
+  - kind: other
+    date: 2026-10-31
+    label: ACM SIGIR student travel grant application
+sources:
+- https://fire.irsi.org.in/
+- https://fire.irsi.org.in/fire/2026/home
+- https://fire.irsi.org.in/fire/2026/call_for_papers
+- https://fire.irsi.org.in/fire/2026/Registration_details
+- https://fire.irsi.org.in/fire/2026/student_grants
+- https://fire.irsi.org.in/fire/2025/home
+- https://fire.irsi.org.in/fire/2025/call_for_papers
+- https://fire.irsi.org.in/fire/2024/home
+- https://fire.irsi.org.in/fire/2024/call_for_papers
+- https://fire.irsi.org.in/fire/2023/home
+- https://portal.core.edu.au/conf-ranks/?search=FIRE&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Publisher of FIRE 2026 conference proceedings (site says to be announced; CFP requires the ACM ICPS template)
+- DBLP venue page not re-checked (dblp bot wall)
+- Acceptance rate not published
+last_verified: 2026-09-28

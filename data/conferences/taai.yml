@@ -1,0 +1,88 @@
+id: taai
+name: TAAI
+full_name: International Conference on Technologies and Applications of Artificial Intelligence
+name_local: 人工智慧技術與應用國際研討會
+type: conference
+tier: minor
+areas: [ai]
+region: taiwan
+language: mixed
+frequency: annual
+organizer: 'TAAI (Taiwanese Association for Artificial Intelligence), with a host university each year (2026: National
+  Taipei University)'
+proceedings: Springer CCIS (international track, post-proceedings); domestic proceedings for domestic track
+indexing: [Scopus, DBLP]
+rank:
+  core: Unranked
+acceptance_rate: 33% (2024, 49/147, international track)
+fee: About 13,200 TWD (2026, non-member, international session early); 11,000 TWD for TAAI/JSAI members; 4,700 TWD
+  student non-member
+typical:
+  deadline_months: [9]
+  conference_months: [11, 12]
+links:
+  website: https://www.taai.org.tw/
+  dblp: https://dblp.org/db/conf/taai/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/tool.search?q=TAAI&year=a
+notes:
+- Annual national AI conference of Taiwan run by TAAI; 31st edition in 2026, hosted by a different Taiwanese institution
+  each year (2025 NTNU in Taipei, 2026 NTPU at Sanxia, New Taipei)
+- International track (English, 10-15 pages LNCS, Springer CCIS post-proceedings) plus a domestic track in Chinese
+  or English (up to 6 pages or a 2-page extended abstract)
+- Single-blind review on OpenReview; late September deadline with October notification
+- Has an exchange with JSAI; JSAI members pay the member rate
+editions:
+- year: 2025
+  start: 2025-12-13
+  end: 2025-12-14
+  location: Taipei, Taiwan
+  url: https://www.taai2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-09-27
+    label: International and domestic tracks (extended from 2025-09-07)
+  - kind: notification
+    date: 2025-10-13
+  - kind: camera_ready
+    date: 2025-11-08
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-21
+  location: Sanxia, New Taipei City, Taiwan
+  url: https://taai2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-09-28
+    time: '23:59'
+    tz: AoE
+    label: International and domestic tracks (final extension from 2026-09-21)
+  - kind: submission
+    date: 2026-09-30
+    time: '23:59'
+    tz: AoE
+    label: High school session
+  - kind: notification
+    date: 2026-10-16
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-30
+    tz: AoE
+  - kind: other
+    date: 2026-10-30
+    label: Early registration (23:59 Taipei time)
+sources:
+- https://taai2026.github.io/zh/cfp.html
+- https://taai2026.github.io/zh/registration.html
+- https://taai2026.github.io/zh/about.html
+- https://taai2026.github.io/zh/venue.html
+- https://www.taai.org.tw/
+- https://www.taai2025.org/
+- https://www.taai2025.org/page/4
+- https://www.taai2025.org/page/7
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190018
+- https://link.springer.com/book/10.1007/978-981-96-4589-3
+- https://portal.core.edu.au/conf-ranks/?search=TAAI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- TAAI 2025 international-track proceedings volume (assumed Springer CCIS as in 2024 and 2026)
+- 2024 acceptance figures come from the Springer volume page, which could not be reopened during fact-checking
+last_verified: 2026-09-28

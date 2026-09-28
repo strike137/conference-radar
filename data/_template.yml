@@ -1,0 +1,61 @@
+# Copy this file to data/conferences/<id>.yml and fill it in.
+# Only id, name, full_name, type, tier, areas and region are required.
+# Delete the lines you do not know. See CONTRIBUTING.md for every field.
+
+id: example-conf            # must equal the file name, lowercase letters, digits and "-"
+name: EXCONF                # short name as people write it
+full_name: International Conference on Example Security
+# name_local: 例示セキュリティシンポジウム   # Japanese/Korean/Chinese name for domestic venues
+
+type: conference            # conference | workshop | industry | meeting
+tier: minor                 # top | major | minor | domestic
+areas: [security, ai]       # security crypto ai nlp data vision networking communications systems software general
+region: japan               # japan korea taiwan china southeast-asia south-asia asia-pacific oceania
+                            # europe north-america latin-america middle-east africa worldwide online
+language: english           # english | japanese | korean | chinese | mixed
+frequency: annual           # annual | biennial | multiple-per-year | irregular
+organizer: IEEE Example Society
+proceedings: Springer LNCS  # or IEEE Xplore, ACM DL, SCITEPRESS, None (non-archival), ...
+archival: true
+indexing: [Scopus, DBLP]
+
+rank:
+  core: C                   # A*, A, B, C, National, Regional, Unranked (edition in config.yml)
+  ccf: null                 # A, B, C or null
+
+acceptance_rate: 30% (2025)
+fee: About 350 USD (2025, regular)
+
+typical:
+  deadline_months: [7]      # months (1-12) when the main deadline usually falls
+  conference_months: [11]
+
+links:
+  website: https://example.org/
+  dblp: https://dblp.org/db/conf/example/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=0000
+
+notes:                      # quote a note that contains ": " or " #"
+  - Organized by the Example Society
+  - Proceedings in Springer LNCS
+  - Held in Japan every year, usually Tokyo
+
+editions:
+  - year: 2026
+    start: 2026-11-20
+    end: 2026-11-22
+    location: Tokyo, Japan
+    url: https://example.org/2026/
+    status: confirmed        # confirmed | tentative
+    deadlines:
+      - kind: submission     # abstract | submission | notification | camera_ready | other
+        date: 2026-07-15
+        time: "23:59"        # optional, quote it
+        tz: AoE              # optional: AoE, UTC, UTC+9, JST, KST, CET, CEST, PST, PDT, EST, EDT, ...
+        label: Regular papers
+      - kind: notification
+        date: 2026-09-01
+
+sources:
+  - https://example.org/2026/cfp
+last_verified: 2026-09-28

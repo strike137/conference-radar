@@ -1,0 +1,89 @@
+id: ccnc
+name: CCNC
+full_name: IEEE Consumer Communications and Networking Conference
+type: conference
+tier: major
+areas: [networking, communications]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Communications Society
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: B
+fee: 840 USD ComSoc member, 880 USD IEEE or sister society member, 1,090 USD non-member (2027, full author registration)
+typical:
+  deadline_months: [8, 10]
+  conference_months: [1]
+links:
+  website: https://ccnc2027.ieee-ccnc.org/
+notes:
+- Held every January in Las Vegas; large multi-track ComSoc conference (38 technical sessions in 2026), running
+  since 2004
+- 6-page papers (10 pt), up to 3 extra pages at 100 USD each
+- 'Second chance in October: workshop papers, work-in-progress papers, posters and demos'
+- Students presenting a paper must register at the author rate
+editions:
+- year: 2026
+  start: 2026-01-09
+  end: 2026-01-12
+  location: Las Vegas, USA
+  url: https://ccnc2026.ieee-ccnc.org/
+  deadlines:
+  - kind: submission
+    date: 2025-08-31
+    label: Technical papers (firm)
+  - kind: notification
+    date: 2025-10-01
+    label: Technical papers (extended)
+  - kind: submission
+    date: 2025-10-05
+    label: Work-in-progress papers and demonstration proposals (firm)
+  - kind: submission
+    date: 2025-10-19
+    label: Workshop papers (firm)
+  - kind: submission
+    date: 2025-10-19
+    label: Posters (firm)
+  - kind: camera_ready
+    date: 2025-11-16
+    label: Technical papers
+- year: 2027
+  start: 2027-01-09
+  end: 2027-01-12
+  location: Las Vegas, USA
+  url: https://ccnc2027.ieee-ccnc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    label: Technical papers (firm)
+  - kind: notification
+    date: 2026-10-01
+    label: Technical papers
+  - kind: submission
+    date: 2026-10-04
+    label: Workshop papers
+  - kind: submission
+    date: 2026-10-05
+    label: Work-in-progress papers (firm)
+  - kind: submission
+    date: 2026-10-05
+    label: Demonstration proposals (extended)
+  - kind: camera_ready
+    date: 2026-10-15
+    label: Technical papers
+  - kind: submission
+    date: 2026-10-15
+    label: Posters (firm)
+sources:
+- https://ccnc2027.ieee-ccnc.org/
+- https://ccnc2027.ieee-ccnc.org/authors
+- https://ccnc2027.ieee-ccnc.org/registration
+- https://ccnc2026.ieee-ccnc.org/
+- https://ccnc2026.ieee-ccnc.org/authors
+- https://portal.core.edu.au/conf-ranks/?search=CCNC&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not found in an official source
+- dblp key not verified (dblp blocked automated access)
+last_verified: 2026-09-28

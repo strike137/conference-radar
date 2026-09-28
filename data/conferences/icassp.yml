@@ -1,0 +1,95 @@
+id: icassp
+name: ICASSP
+full_name: IEEE International Conference on Acoustics, Speech and Signal Processing
+type: conference
+tier: major
+areas: [communications, ai, nlp, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Signal Processing Society
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: Multiconference
+  ccf: B
+typical:
+  deadline_months: [9]
+  conference_months: [4, 5]
+links:
+  website: https://2027.ieeeicassp.org/
+  dblp: https://dblp.org/db/conf/icassp/
+notes:
+- Flagship conference of the IEEE Signal Processing Society; very large, covering speech, audio, image and communications
+  signal processing and ML
+- ICORE2026 lists ICASSP as a 'Multiconference' without a letter rank (it was CORE B in CORE2023)
+- 4-page papers plus an optional fifth page for references; acceptance historically in the 40 to 50% range; no single
+  author on more than 9 submissions
+- Joint OJSP track for 8+1 page papers, and published journal papers can be presented
+- 'Often in Asia: Seoul 2024, Hyderabad 2025, and Tokyo 2028'
+editions:
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-08
+  location: Barcelona, Spain
+  url: https://2026.ieeeicassp.org/
+  deadlines:
+  - kind: submission
+    date: 2025-09-17
+    label: Regular papers
+  - kind: submission
+    date: 2025-09-24
+    label: OJSP-ICASSP papers
+  - kind: notification
+    date: 2026-01-16
+  - kind: camera_ready
+    date: 2026-02-13
+- year: 2027
+  start: 2027-05-16
+  end: 2027-05-21
+  location: Toronto, Canada
+  url: https://2027.ieeeicassp.org/
+  deadlines:
+  - kind: other
+    date: 2026-07-24
+    label: Special session proposals
+  - kind: submission
+    date: 2026-09-23
+    time: '23:59'
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2026-11-02
+    label: Tutorial proposals
+  - kind: other
+    date: 2027-01-06
+    label: Published journal papers and letters due
+  - kind: notification
+    date: 2027-01-13
+  - kind: camera_ready
+    date: 2027-01-27
+  - kind: other
+    date: 2027-02-10
+    label: Author registration deadline
+- year: 2028
+  start: 2028-05-28
+  end: 2028-06-02
+  location: Tokyo, Japan
+  url: https://2028.ieeeicassp.org/
+  deadlines: []
+sources:
+- https://2027.ieeeicassp.org/
+- https://2027.ieeeicassp.org/important-dates/
+- https://2027.ieeeicassp.org/call-for-papers/
+- https://cmsworkshops.com/ICASSP2027/papers.php
+- https://2026.ieeeicassp.org/call-for-papers/
+- https://2028.ieeeicassp.org/
+- https://signalprocessingsociety.org/events/2027-ieee-international-conference-acoustics-speech-and-signal-processing-icassp
+- https://portal.core.edu.au/conf-ranks/?search=ICASSP&by=acronym&source=ICORE2026
+unverified:
+- ICASSP 2026 acceptance rate (third-party reports say about 40% of roughly 11,000 submissions)
+- Whether the ICASSP 2027 paper deadline was ever extended (some third-party trackers listed 16 September 2026;
+  official pages now show 23 September 2026 and say no extension should be expected)
+- Time and time zone of the ICASSP 2026 deadline
+last_verified: 2026-09-28

@@ -1,0 +1,62 @@
+id: ifip-sec
+name: IFIP SEC
+full_name: IFIP International Conference on ICT Systems Security and Privacy Protection
+type: conference
+tier: major
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: IFIP TC11 (Security and Privacy Protection in Information Processing Systems)
+proceedings: Springer IFIP AICT
+indexing: [DBLP, Scopus]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 23.8% (2026, 39/164)
+fee: 1,210 AUD author standard rate, 1,089 AUD IFIP member rate (2026, incl. 10% GST)
+typical:
+  deadline_months: [1, 12]
+  conference_months: [5, 6]
+links:
+  website: https://ifipsec.org/
+  dblp: https://dblp.org/db/conf/sec/index.html
+notes:
+- Flagship conference of IFIP TC11, running since 1983 (41st edition in 2026)
+- Submissions are not anonymized; at most 14 pages in LNCS format including references; in-person presentation required
+- Proceedings in Springer IFIP AICT; selected papers invited to Computers and Security
+- Mostly held in Europe; 2026 edition was in Perth, Australia, and 2027 is planned for Linköping, Sweden
+- Acceptance rate around 24 to 26% (28/109 in 2025, 39/164 in 2026)
+editions:
+- year: 2026
+  start: 2026-06-09
+  end: 2026-06-11
+  location: Perth, Australia
+  url: https://ifipsec.org/
+  deadlines:
+  - kind: submission
+    date: 2025-12-19
+    tz: AoE
+  - kind: notification
+    date: 2026-02-22
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-13
+    tz: AoE
+    label: Including registration and payment
+- year: 2027
+  location: Linköping, Sweden
+  url: https://ifipsec.org/
+  status: tentative
+  deadlines: []
+sources:
+- https://ifipsec.org/
+- https://ifipsec.org/cfp.html
+- https://ifipsec.org/dates.html
+- https://ifipsec.org/registration.html
+- https://history.ifipsec.org/
+- https://portal.core.edu.au/conf-ranks/?search=IFIP%20SEC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- IFIP SEC 2027 dates and deadlines not announced (only 'Linköping, Sweden next year' on the 2026 site)
+last_verified: 2026-09-28

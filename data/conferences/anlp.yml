@@ -1,0 +1,61 @@
+id: anlp
+name: NLP (ANLP)
+full_name: Annual Meeting of the Association for Natural Language Processing
+name_local: 言語処理学会年次大会
+type: conference
+tier: domestic
+areas: [nlp, ai]
+region: japan
+language: japanese
+frequency: annual
+organizer: ANLP (The Association for Natural Language Processing, Japan)
+proceedings: ANLP (open proceedings, CC BY 4.0)
+archival: false
+rank:
+  core: Unranked
+fee: 12,000 JPY member, 3,500 JPY student member, 24,000 JPY non-member, 8,000 JPY student non-member (2026, advance
+  registration)
+typical:
+  deadline_months: [1]
+  conference_months: [3]
+links:
+  website: https://www.anlp.jp/guide/nenji.html
+notes:
+- Largest NLP meeting in Japan, organized by ANLP every March (tutorials, 4-day main meeting, workshops on the last
+  day)
+- No acceptance review; optional review for awards; since 2026 on-site posters are the default format and top reviewed
+  papers are invited to a single-track oral session
+- General-session presenters must be ANLP members (theme sessions are open to non-members); 4-page body, up to 5
+  pages with references, plus a 1-page appendix; Japanese or English
+- Proceedings are published openly on the ANLP site under CC BY 4.0, marked as not peer reviewed
+- Application with full paper is due in early January at 15:00
+editions:
+- year: 2026
+  label: NLP2026 (32nd)
+  start: 2026-03-09
+  end: 2026-03-13
+  location: Utsunomiya, Japan
+  url: https://www.anlp.jp/nlp2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-09
+    time: '15:00'
+    tz: JST
+    label: Presentation application and full paper
+- year: 2027
+  label: NLP2027 (33rd)
+  start: 2027-03-15
+  end: 2027-03-19
+  location: Fukuoka, Japan
+  url: https://www.anlp.jp/guide/nenji.html
+  deadlines: []
+sources:
+- https://www.anlp.jp/guide/nenji.html
+- https://www.anlp.jp/nlp2026/
+- https://www.anlp.jp/nlp2026/submit.html
+- https://anlp.jp/nlp2025/
+- https://portal.core.edu.au/conf-ranks/?search=Natural+Language+Processing&by=all&source=ICORE2026
+unverified:
+- NLP2027 deadlines not yet announced (www.anlp.jp/nlp2027/ not open as of 2026-09-28; past deadlines were in early
+  January)
+last_verified: 2026-09-28

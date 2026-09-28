@@ -1,0 +1,115 @@
+id: acml
+name: ACML
+full_name: Asian Conference on Machine Learning
+type: conference
+tier: minor
+areas: [ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ACML Steering Committee
+proceedings: PMLR (conference track); Springer Machine Learning journal (journal track)
+indexing: [DBLP]
+rank:
+  core: C
+  ccf: C
+acceptance_rate: 29% (2025, 79/272, conference track)
+fee: About 550 USD (2025, regular early); 350 USD student early
+typical:
+  deadline_months: [6, 7]
+  conference_months: [11, 12]
+links:
+  website: https://www.acml-conf.org/
+  dblp: https://dblp.org/db/conf/acml/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=40
+notes:
+- Annual since 2009, rotating around the Asia-Pacific (2024 Hanoi, 2025 Taipei, 2026 Melbourne)
+- 'Two tracks: conference track (PMLR, 16 pages, double-blind on OpenReview) and journal track (Machine Learning
+  journal, single-blind, deadline about a month earlier)'
+- Each submission must nominate an author as reviewer; accepted papers must be presented in person
+- Ranked only C by CORE and CCF, but regarded as the main machine learning conference based in Asia; acceptance
+  around 26-33% (2021-2025)
+- 2026 adds a non-archival Encore track for papers already published at major venues (rolling until 2026-10-18 AoE)
+editions:
+- year: 2025
+  start: 2025-12-09
+  end: 2025-12-12
+  location: Taipei, Taiwan
+  url: https://www.acml-conf.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-30
+    time: '23:59'
+    tz: AoE
+    label: Journal track
+  - kind: submission
+    date: 2025-06-26
+    time: '23:59'
+    tz: AoE
+    label: Conference track (extended)
+  - kind: notification
+    date: 2025-09-01
+    time: '23:59'
+    tz: AoE
+    label: Conference and journal tracks
+  - kind: camera_ready
+    date: 2025-09-22
+    time: '23:59'
+    tz: AoE
+    label: Conference track
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-04
+  location: Melbourne, Australia
+  url: https://www.acml-conf.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-20
+    time: '23:59'
+    tz: AoE
+    label: Journal track
+  - kind: submission
+    date: 2026-07-05
+    time: '23:59'
+    tz: AoE
+    label: Conference track (extended from 2026-06-26)
+  - kind: notification
+    date: 2026-09-22
+    time: '23:59'
+    tz: AoE
+    label: Conference track (revised from 2026-09-15)
+  - kind: camera_ready
+    date: 2026-09-29
+    time: '23:59'
+    tz: AoE
+    label: Conference track (to be adjusted per CFP)
+  - kind: notification
+    date: 2026-09-30
+    time: '23:59'
+    tz: AoE
+    label: Journal track (revised from 2026-09-22)
+  - kind: camera_ready
+    date: 2026-10-13
+    time: '23:59'
+    tz: AoE
+    label: Journal track, conditional camera-ready
+  - kind: other
+    date: 2026-10-18
+    time: '23:59'
+    tz: AoE
+    label: Encore track (rolling, previously published papers)
+sources:
+- https://www.acml-conf.org/2026/calls/papers/
+- https://www.acml-conf.org/2026/venues/venue/
+- https://www.acml-conf.org/2025/papers.htm
+- https://www.acml-conf.org/2025/agenda.htm
+- https://www.acml-conf.org/2025/registration.htm
+- https://www.acml-conf.org/2025/index.htm
+- https://proceedings.mlr.press/v304/
+- https://portal.core.edu.au/conf-ranks/?search=ACML&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ACML 2026 conference-track camera-ready date is marked 'to be adjusted soon' on the CFP page
+- ACML 2026 registration fees not yet published
+- 2025 submission count (272) comes from the ccf-deadlines accept_rates data; the accepted count (79) matches the
+  number of papers in PMLR volume 304
+last_verified: 2026-09-28

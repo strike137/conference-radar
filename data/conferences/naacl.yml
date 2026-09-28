@@ -1,0 +1,93 @@
+id: naacl
+name: NAACL
+full_name: Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics
+type: conference
+tier: major
+areas: [nlp, ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: NAACL (Nations of the Americas Chapter of the ACL)
+proceedings: ACL Anthology
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 22% main (2025, estimate for October 2024 ARR papers targeting NAACL; 719 main papers)
+typical:
+  deadline_months: [10, 12]
+  conference_months: [4, 5, 6]
+links:
+  website: https://2027.naacl.org/
+notes:
+- ACL chapter conference for the Americas (renamed from North American to Nations of the Americas Chapter)
+- 'Not held every year: typically skipped when ACL itself is in the Americas (no NAACL in 2023 and 2026)'
+- ARR only; the October 2026 ARR cycle is shared with COLING 2027 and authors choose the venue after meta-reviews
+- Main acceptance around 22%, plus Findings (about 15% more in 2025)
+editions:
+- year: 2025
+  start: 2025-04-29
+  end: 2025-05-04
+  location: Albuquerque, USA
+  url: https://2025.naacl.org/
+  deadlines:
+  - kind: submission
+    date: 2024-10-15
+    time: '23:59'
+    tz: AoE
+    label: ARR October 2024 cycle
+  - kind: other
+    date: 2024-12-16
+    time: '23:59'
+    tz: AoE
+    label: Commitment to NAACL
+  - kind: notification
+    date: 2025-01-22
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-02-08
+    time: '23:59'
+    tz: AoE
+- year: 2027
+  start: 2027-06-01
+  end: 2027-06-05
+  location: San Francisco, USA
+  url: https://2027.naacl.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-12
+    time: '23:59'
+    tz: AoE
+    label: ARR October 2026 cycle
+  - kind: submission
+    date: 2026-10-31
+    time: '23:59'
+    tz: AoE
+    label: Industry track
+  - kind: submission
+    date: 2026-12-04
+    time: '23:59'
+    tz: AoE
+    label: System demos
+  - kind: other
+    date: 2026-12-23
+    time: '23:59'
+    tz: AoE
+    label: Commitment to NAACL
+  - kind: notification
+    date: 2027-02-10
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-03-03
+    time: '23:59'
+    tz: AoE
+sources:
+- https://2027.naacl.org/
+- https://2025.naacl.org/calls/papers/
+- https://2027.coling-iccl.org/calls/main_conference_papers/
+- https://aclrollingreview.org/dates
+- https://aclanthology.org/2025.naacl-long.0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=NAACL&by=acronym&source=ICORE2026
+last_verified: 2026-09-28

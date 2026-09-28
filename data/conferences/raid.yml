@@ -1,0 +1,78 @@
+id: raid
+name: RAID
+full_name: International Symposium on Research in Attacks, Intrusions and Defenses
+type: conference
+tier: major
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: RAID Steering Committee
+proceedings: Springer LNCS
+indexing: [Scopus, DBLP]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 22% (2025, 62/282)
+fee: About 700 USD early, 800 USD regular; students without paper 550/650 USD (2026)
+typical:
+  deadline_months: [4]
+  conference_months: [10]
+links:
+  website: https://raid2026.org/
+  dblp: https://dblp.org/db/conf/raid/index.html
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2455
+notes:
+- 29th edition in 2026 (formerly Recent Advances in Intrusion Detection); focus on attacks, intrusion detection
+  and defenses
+- Single deadline in April, conference in October; double-blind; no major/minor revision option
+- 'Location rotates worldwide: Hong Kong (2023), Padua (2024), Gold Coast (2025), Lancaster (2026)'
+- 'Publisher has changed: ACM (2024), IEEE CS (2025), Springer LNCS (2026)'
+- CORE A, CCF B; acceptance around 22%
+editions:
+- year: 2025
+  start: 2025-10-19
+  end: 2025-10-22
+  location: Gold Coast, Australia
+  url: https://raid2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-04-24
+    time: '23:59'
+    tz: AoE
+    label: Extended from 2025-04-17
+  - kind: notification
+    date: 2025-07-09
+  - kind: camera_ready
+    date: 2025-08-14
+- year: 2026
+  start: 2026-10-11
+  end: 2026-10-14
+  location: Lancaster, UK
+  url: https://raid2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-16
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2026-07-10
+  - kind: camera_ready
+    date: 2026-08-13
+sources:
+- https://raid2026.org/
+- https://raid2026.org/call.html
+- https://raid2026.org/registration.html
+- https://raid2025.github.io/
+- https://raid2025.github.io/call.html
+- https://www.computer.org/csdl/proceedings/raid/2025/2dHmg9j28g0
+- https://dl.acm.org/doi/proceedings/10.1145/3678890
+- https://media.springernature.com/original/springer-cms-alt/rest/v1/content/27852192/data/LNCS%20Forthcoming%20Proceedings%20PDF
+- https://portal.core.edu.au/conf-ranks/?search=RAID&by=all&source=ICORE2026&sort=atitle&page=1
+- http://jianying.space/conference-ranking.html
+unverified:
+- RAID 2027 location and dates not yet announced
+- RAID 2026 CFP still shows the publisher as a placeholder ('Published by XXX'); Springer LNCS is taken from Springer's
+  LNCS forthcoming proceedings list, which includes RAID 2026
+- Acceptance rate taken from Jianying Zhou's statistics page
+last_verified: 2026-09-28

@@ -1,0 +1,67 @@
+id: ispacs
+name: ISPACS
+full_name: International Symposium on Intelligent Signal Processing and Communication Systems
+type: conference
+tier: minor
+areas: [communications]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: 'Rotating local hosts (2026: KICS Busan-Ulsan-Gyeongnam Chapter)'
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, DBLP]
+rank:
+  core: Unranked
+fee: 500 USD (2026, international author, early bird); 300 USD student author
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11, 12]
+links:
+  website: https://ispacs2026.com/
+  dblp: https://dblp.org/db/conf/ispacs/
+notes:
+- Held since 1992, rotating within Asia-Pacific (Kaohsiung 2024, Bandung 2025, Busan 2026)
+- Covers signal processing and communication systems plus circuits and systems, VLSI and HCI
+- 2026 edition organized by the KICS Busan-Ulsan-Gyeongnam Chapter; regular papers up to 4 pages via EDAS; 1 to
+  2 page work-in-progress papers are not in the proceedings
+- Regular papers submitted to IEEE Xplore and Scopus; selected papers invited to ICT Express and JCN (2026)
+editions:
+- year: 2025
+  start: 2025-11-04
+  end: 2025-11-07
+  location: Bandung, Indonesia
+  url: https://doi.org/10.1109/ispacs68724.2025
+  deadlines: []
+- year: 2026
+  start: 2026-10-27
+  end: 2026-10-30
+  location: Busan, South Korea
+  url: https://ispacs2026.com/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    label: Papers (original)
+  - kind: submission
+    date: 2026-07-15
+    label: Papers (extended, firm)
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-09-11
+  - kind: other
+    date: 2026-09-11
+    label: Author registration
+sources:
+- https://ispacs2026.com/
+- https://ispacs2026.com/about
+- https://ispacs2026.com/cfp
+- https://ispacs2026.com/paperSubmission
+- https://ispacs2026.com/registration
+- https://api.crossref.org/works?query.bibliographic=Intelligent+Signal+Processing+and+Communication+Systems&filter=type:proceedings
+unverified:
+- ISPACS 2025 website and deadlines
+- Standing steering body of the series
+- ISPACS 2027 host and dates
+- Acceptance rate
+last_verified: 2026-09-28

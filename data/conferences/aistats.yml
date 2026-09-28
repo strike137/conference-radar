@@ -1,0 +1,77 @@
+id: aistats
+name: AISTATS
+full_name: International Conference on Artificial Intelligence and Statistics
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Society for Artificial Intelligence and Statistics
+proceedings: PMLR
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: C
+typical:
+  deadline_months: [9, 10]
+  conference_months: [5]
+links:
+  website: https://aistats.org/
+notes:
+- Mid-size ML conference with a statistics and theory flavor; proceedings in PMLR
+- 'AISTATS 2027: abstract deadline Sep 29, 2026 and full paper Oct 6, 2026 (AoE); conference in Montreal, May 3
+  to 6, 2027'
+- 'Location rotates: Valencia 2024, Mai Khao (Thailand) 2025, Tangier 2026, Montreal 2027'
+- CORE A but only CCF C; acceptance typically around 30%
+editions:
+- year: 2026
+  start: 2026-05-02
+  end: 2026-05-05
+  location: Tangier, Morocco
+  url: https://virtual.aistats.org/Conferences/2026
+  deadlines:
+  - kind: abstract
+    date: 2025-09-25
+    tz: AoE
+  - kind: submission
+    date: 2025-10-02
+    tz: AoE
+  - kind: notification
+    date: 2026-01-22
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-31
+    tz: AoE
+- year: 2027
+  start: 2027-05-03
+  end: 2027-05-06
+  location: Montreal, Canada
+  url: https://virtual.aistats.org/Conferences/2027
+  deadlines:
+  - kind: abstract
+    date: 2026-09-29
+    tz: AoE
+  - kind: submission
+    date: 2026-10-06
+    tz: AoE
+  - kind: other
+    date: 2026-11-16
+    label: Reviews released (provisional)
+  - kind: notification
+    date: 2027-01-20
+    label: Provisional
+sources:
+- https://virtual.aistats.org/Conferences/2027
+- https://virtual.aistats.org/Conferences/2026
+- https://virtual.aistats.org/Conferences/2026/Dates
+- https://aistats.org/
+- https://portal.core.edu.au/conf-ranks/?search=AISTATS&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- https://csconfstats.xoveexu.com/conferences/aistats/
+unverified:
+- 'AISTATS 2026 acceptance: a third-party aggregator reports 28.1% (590/2102); no official figure found, so the
+  acceptance_rate field is left empty'
+- AISTATS 2027 reviews release and notification dates are marked with an asterisk (provisional) on the official
+  page
+last_verified: 2026-09-28

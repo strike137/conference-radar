@@ -1,0 +1,58 @@
+id: dbsec
+name: DBSec
+full_name: IFIP WG 11.3 Conference on Data and Applications Security and Privacy
+type: conference
+tier: major
+areas: [security, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IFIP WG 11.3
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  core: B
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6, 7]
+links:
+  website: https://spdp.di.unimi.it/~ifip113/conferences
+  dblp: https://dblp.org/db/conf/dbsec/index.html
+  wikicfp: http://www.wikicfp.com/cfp/program?id=661
+notes:
+- Annual working conference of IFIP WG 11.3, running since 1987 (40th edition in 2026)
+- Submissions are not anonymous; full papers up to 16 pages LNCS (20 total) plus short papers up to 12 pages
+- Proceedings in Springer LNCS; best paper and best student paper awards; 18 full and 10 short papers accepted in
+  2026
+- Alternates between North America and Europe (Sophia Antipolis 2023, San Jose 2024, Gjøvik 2025, Arlington 2026)
+editions:
+- year: 2026
+  start: 2026-07-28
+  end: 2026-07-30
+  location: Arlington, VA, USA
+  url: https://dbsec2026.gmu.edu/
+  deadlines:
+  - kind: submission
+    date: 2026-04-10
+    label: Extended from March 27 (AoE), firm
+  - kind: notification
+    date: 2026-05-19
+  - kind: camera_ready
+    date: 2026-05-30
+    label: Camera-ready and author registration (extended from May 26)
+- year: 2027
+  url: https://spdp.di.unimi.it/~ifip113/conferences
+  status: tentative
+  deadlines: []
+sources:
+- https://dbsec2026.gmu.edu/
+- https://dbsec2026.gmu.edu/call-for-papers/
+- https://dbsec2026.gmu.edu/program-accepted-papers/
+- https://spdp.di.unimi.it/~ifip113/conferences
+- https://portal.core.edu.au/conf-ranks/?search=DBSec&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- DBSec 2027 location and exact dates not announced (WG 11.3 page says July 2027)
+- Registration page on the 2026 site mixes in WiSec text, so fees could not be read reliably; number of submissions
+  (and so acceptance rate) not found
+last_verified: 2026-09-28

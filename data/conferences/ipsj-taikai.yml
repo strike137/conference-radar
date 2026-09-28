@@ -1,0 +1,87 @@
+id: ipsj-taikai
+name: IPSJ National Convention
+full_name: National Convention of the Information Processing Society of Japan
+name_local: 情報処理学会全国大会
+type: conference
+tier: domestic
+areas: [general, ai, security, networking, software, systems, data]
+region: japan
+language: japanese
+frequency: annual
+organizer: IPSJ (Information Processing Society of Japan)
+proceedings: IPSJ
+archival: false
+rank:
+  core: Unranked
+fee: 12,100 JPY regular member, 6,600 JPY student member, 28,600 JPY non-member, 16,500 JPY student non-member,
+  free for junior members (2027 edition, per presentation, includes attendance and PDF proceedings)
+typical:
+  deadline_months: [1, 12]
+  conference_months: [3]
+links:
+  website: https://www.ipsj.or.jp/event/taikai/89/
+notes:
+- Organized by IPSJ; its largest yearly event, held every early or mid March at a different university (2025 Ibaraki,
+  Osaka; 2026 Matsuyama; 2027 Nagoya)
+- No peer review; 2-page paper, 15 min talk + 5 min Q&A in general sessions, 12 + 3 min in student sessions
+- Student sessions (up to master level) with a Student Encouragement Award in every session; awards only for IPSJ
+  members
+- Japanese or English; hybrid, but presenters must present on site
+- Application deadline in early December (extended by a few days in 2024 and 2025), manuscript upload in early January
+editions:
+- year: 2026
+  label: 88th
+  start: 2026-03-06
+  end: 2026-03-08
+  location: Matsuyama, Japan
+  url: https://www.ipsj.or.jp/event/taikai/88/
+  deadlines:
+  - kind: submission
+    date: 2025-12-08
+    time: '15:00'
+    tz: JST
+    label: Presentation application (extended from 2025-12-05)
+  - kind: camera_ready
+    date: 2026-01-09
+    time: '15:00'
+    tz: JST
+    label: Manuscript upload / replacement
+  - kind: other
+    date: 2026-02-20
+    label: Proceedings published online (planned)
+- year: 2027
+  label: 89th
+  start: 2027-03-04
+  end: 2027-03-06
+  location: Nagoya, Japan
+  url: https://www.ipsj.or.jp/event/taikai/89/
+  deadlines:
+  - kind: other
+    date: 2026-10-09
+    label: Application site opens (planned)
+  - kind: submission
+    date: 2026-12-04
+    time: '15:00'
+    tz: JST
+    label: Presentation application
+  - kind: camera_ready
+    date: 2027-01-08
+    time: '15:00'
+    tz: JST
+    label: Manuscript upload / replacement
+  - kind: other
+    date: 2027-02-18
+    label: Proceedings published online (planned)
+sources:
+- https://www.ipsj.or.jp/event/taikai/89/
+- https://www.ipsj.or.jp/event/taikai/89/appli_paper.html
+- https://www.ipsj.or.jp/event/taikai/89/appli_fee_payment.html
+- https://www.ipsj.or.jp/event/taikai/88/
+- https://www.ipsj.or.jp/event/taikai/88/appli_paper.html
+- https://www.ipsj.or.jp/event/taikai/87/
+- https://www.ipsj.or.jp/event/taikai/87/appli_paper.html
+- https://portal.core.edu.au/conf-ranks/?search=IPSJ&by=all&source=ICORE2026
+unverified:
+- Opening date of the 89th application site is marked as planned
+- Whether the 89th deadline will be extended as in the two previous years
+last_verified: 2026-09-28

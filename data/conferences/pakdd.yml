@@ -1,0 +1,86 @@
+id: pakdd
+name: PAKDD
+full_name: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+type: conference
+tier: major
+areas: [data, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: PAKDD Steering Committee
+proceedings: Springer LNCS/LNAI
+indexing: [Scopus, EI, DBLP]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 25% (2026, 184/728)
+typical:
+  deadline_months: [11, 12]
+  conference_months: [5, 6]
+links:
+  website: https://www.pakdd2027.org/
+  dblp: https://dblp.org/db/conf/pakdd/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2299
+notes:
+- One of the longest-running data mining conferences, rotating around the Pacific-Asia region (2024 Taipei, 2025
+  Sydney, 2026 Hong Kong, 2027 Wellington)
+- 'Competitive: acceptance around 18-25% (2021-2026); double-blind review, Springer LNCS template'
+- Deadline usually in November, conference in May to early July
+- 2027 has Research, Applied Data Science, Survey and a Special Track on LLMs and Agentic AI with one shared deadline;
+  security, privacy and fraud detection are listed topics
+- 2027 is in-person only
+editions:
+- year: 2026
+  start: 2026-06-09
+  end: 2026-06-12
+  location: Hong Kong, China
+  url: https://www.pakdd2026.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-25
+    time: '23:59'
+    tz: PST
+    label: Main, Survey and LLM tracks (extended from 2025-11-15)
+  - kind: notification
+    date: 2026-02-08
+    time: '23:59'
+    tz: PST
+  - kind: submission
+    date: 2026-02-22
+    time: '23:59'
+    tz: PST
+    label: Workshop papers
+  - kind: camera_ready
+    date: 2026-03-01
+    time: '23:59'
+    tz: PST
+- year: 2027
+  start: 2027-06-29
+  end: 2027-07-02
+  location: Wellington, New Zealand
+  url: https://www.pakdd2027.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-20
+    time: '23:59'
+    tz: AoE
+    label: Research, ADS, Survey and LLM/Agentic AI tracks
+  - kind: notification
+    date: 2027-02-26
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-03-19
+    time: '23:59'
+    tz: AoE
+sources:
+- https://www.pakdd2027.org/pages/dates
+- https://www.pakdd2027.org/pages/calls/research
+- https://www.pakdd2026.org/important-dates
+- https://www.pakdd2026.org/registration
+- https://portal.core.edu.au/conf-ranks/?search=PAKDD&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Registration fees for PAKDD 2026 (only in the external portal)
+- PAKDD 2027 page limit and submission site (still being confirmed)
+- 2026 acceptance figure is from ccf-deadlines accept_rates data citing Springer
+last_verified: 2026-09-28

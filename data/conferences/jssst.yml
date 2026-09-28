@@ -1,0 +1,57 @@
+id: jssst
+name: JSSST
+full_name: JSSST Annual Conference (Japan Society for Software Science and Technology)
+name_local: 日本ソフトウェア科学会大会
+type: conference
+tier: domestic
+areas: [software, systems]
+region: japan
+language: japanese
+frequency: annual
+organizer: JSSST (Japan Society for Software Science and Technology)
+proceedings: JSSST
+archival: false
+rank:
+  core: Unranked
+fee: 10,000 JPY member, free for student members, 25,000 JPY non-member, 10,000 JPY student non-member (2026)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [9]
+links:
+  website: https://www.jssst.or.jp/taikai/
+notes:
+- Annual conference of JSSST, held every September at a university, with a tutorial and PPL summer school on the
+  day before
+- Talk track (general and software papers) and a demo/poster track; non-members can give a talk if a co-author is
+  a JSSST member
+- Own previously published work may be presented; papers can be submitted at the same time to the JSSST journal
+  Computer Software
+- 'Awards: Takahashi Encouragement Award, Student Encouragement Award, Best Presentation and Best Demo/Poster awards'
+- Registration was free for student members in 2026
+editions:
+- year: 2026
+  label: 43rd
+  start: 2026-09-08
+  end: 2026-09-10
+  location: Hakodate, Japan
+  url: https://jssst2026.wordpress.com/
+  deadlines:
+  - kind: submission
+    date: 2026-07-24
+    label: Talk application (extended from 2026-07-10)
+  - kind: camera_ready
+    date: 2026-08-10
+    label: Paper manuscript
+  - kind: other
+    date: 2026-08-10
+    label: Demo/poster application
+sources:
+- https://www.jssst.or.jp/taikai/
+- https://jssst2026.wordpress.com/
+- https://jssst2026.wordpress.com/cfp/
+- https://jssst2026.wordpress.com/participation/
+- https://jssst2025.wordpress.com/cfp/
+- https://portal.core.edu.au/conf-ranks/?search=JSSST&by=all&source=ICORE2026
+unverified:
+- 44th JSSST Annual Conference (2027) not yet announced (no jssst2027 site found)
+last_verified: 2026-09-28

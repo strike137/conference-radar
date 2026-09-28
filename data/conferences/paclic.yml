@@ -1,0 +1,72 @@
+id: paclic
+name: PACLIC
+full_name: Pacific Asia Conference on Language, Information and Computation
+type: conference
+tier: minor
+areas: [nlp]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: PACLIC Steering Committee (site hosted by ISLI, Kyung Hee University); a different local university hosts
+  each year
+proceedings: ACL Anthology
+indexing: [Scopus, DBLP]
+rank:
+  core: C
+acceptance_rate: 48.1% (2025, 76/158)
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: http://isli.khu.ac.kr/paclic/conference.html
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2289
+notes:
+- Long-running Asia-Pacific series (40th edition in 2026) mixing linguistics and computational linguistics
+- 'Rotates in East and Southeast Asia: Hong Kong 2023, Tokyo 2024, Hanoi 2025, Taipei 2026 (National Taiwan University)'
+- Acceptance around 50%; realistic venue for student papers; double-blind review via Microsoft CMT
+- Proceedings listed in ACL Anthology and indexed in Scopus since PACLIC 19 (2005)
+- Deadlines are often extended by about two weeks
+editions:
+- year: 2025
+  start: 2025-12-05
+  end: 2025-12-07
+  location: Hanoi, Vietnam
+  url: https://vlsp.org.vn/paclic2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-16
+    label: Extended from Aug 2
+  - kind: notification
+    date: 2025-09-20
+  - kind: camera_ready
+    date: 2025-10-04
+- year: 2026
+  start: 2026-12-10
+  end: 2026-12-12
+  location: Taipei, Taiwan
+  url: https://paclic2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-15
+    tz: AoE
+    label: Extended from Aug 1
+  - kind: notification
+    date: 2026-10-08
+    label: Moved from Sep 30
+  - kind: camera_ready
+    date: 2026-10-17
+    label: Moved from Oct 9
+  - kind: other
+    date: 2026-11-20
+    label: Early registration ends
+sources:
+- https://paclic2026.github.io/
+- https://paclic2026.github.io/cfp.html
+- http://isli.khu.ac.kr/paclic/conference.html
+- https://vlsp.org.vn/paclic2025/
+- https://aclanthology.org/2025.paclic-1.0.pdf
+- https://aclanthology.org/volumes/2024.paclic-1/
+- https://portal.core.edu.au/conf-ranks/?search=PACLIC&by=acronym&source=ICORE2026
+unverified:
+- PACLIC 2026 registration fees are TBA
+last_verified: 2026-09-28

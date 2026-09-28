@@ -1,0 +1,77 @@
+id: cscloud
+name: IEEE CSCloud
+full_name: IEEE International Conference on Cyber Security and Cloud Computing
+type: conference
+tier: minor
+areas: [security, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: Unranked
+  ccf: C
+typical:
+  deadline_months: [5, 9]
+  conference_months: [6, 7, 11, 12]
+links:
+  website: https://www.cloud-conf.net/cscloud/2026/cscloud/
+notes:
+- Security and cloud focused; co-located with IEEE EdgeCom (Edge Computing and Scalable Cloud), with joint proceedings
+  in 2021 to 2023
+- Alternates mainly between the US and China (2023 Xiangtan, 2024 Shanghai, 2025 New York, 2026 Shanghai); 13th
+  edition in 2026
+- CCF C, not ranked by CORE
+- Single-blind; 6 free pages, up to 12 with USD 150 per extra page
+- Schedule moved from June/July (deadline around May) up to 2024 to November/December with September deadlines in
+  2025 and 2026; notification within 2 to 4 weeks
+editions:
+- year: 2025
+  start: 2025-11-07
+  end: 2025-11-09
+  location: New York, USA
+  url: https://www.cloud-conf.net/cscloud/2025/cscloud/
+  deadlines:
+  - kind: submission
+    date: 2025-09-08
+    label: Paper submission (firm)
+  - kind: notification
+    date: 2025-09-22
+  - kind: camera_ready
+    date: 2025-10-15
+    label: Camera-ready and registration
+- year: 2026
+  start: 2026-12-19
+  end: 2026-12-21
+  location: Shanghai, China
+  url: https://www.cloud-conf.net/cscloud/2026/cscloud/
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+    label: Paper submission (extended, firm)
+  - kind: notification
+    date: 2026-10-12
+  - kind: camera_ready
+    date: 2026-11-08
+    label: Camera-ready and registration
+sources:
+- https://www.cloud-conf.net/cscloud/2026/cscloud/
+- https://www.cloud-conf.net/cscloud/2026/cscloud/u-banner.html
+- https://www.cloud-conf.net/cscloud/2026/cscloud/an-important-date.html
+- https://www.cloud-conf.net/cscloud/2026/cscloud/submission.html
+- https://www.cloud-conf.net/cscloud/2026/cscloud/colocatedevent.html
+- https://www.cloud-conf.net/cscloud/2026/cscloud/committee.html
+- https://www.cloud-conf.net/cscloud/2025/cscloud/
+- https://www.cloud-conf.net/cscloud/2025/cscloud/registration.html
+- https://www.cloud-conf.net/cscloud/2024/cscloud/
+- https://api.crossref.org/works?query.bibliographic=International+Conference+on+Cyber+Security+and+Cloud+Computing+CSCloud&filter=type:proceedings
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+- https://portal.core.edu.au/conf-ranks/?search=CSCloud&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Original 2026 deadline before the extension (ccf-deadlines lists 2026-08-01)
+- Registration fee (2026 registration page says TBD; 2025 amounts only inside the online registration system)
+- Acceptance rate
+last_verified: 2026-09-28

@@ -1,0 +1,125 @@
+id: adma
+name: ADMA
+full_name: International Conference on Advanced Data Mining and Applications
+type: conference
+tier: minor
+areas: [data, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ADMA Steering Committee
+proceedings: Springer LNAI
+indexing: [EI, DBLP]
+rank:
+  core: C
+  ccf: C
+acceptance_rate: 45% (2025, 147/327)
+fee: About 6,000 HKD, about 770 USD (2026, full paper author)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://adma2026.github.io/
+  dblp: https://dblp.org/db/conf/adma/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=63
+notes:
+- Held mostly in China and Australia, recently also Japan (2023 Shenyang, 2024 Sydney, 2025 Kyoto, 2026 Hong Kong;
+  2027 announced for Osaka)
+- Proceedings in Springer LNAI; double-blind review; 15 pages max
+- 'Many tracks with staggered deadlines: main, industry, special session, short paper, then poster and encore in
+  August or September'
+- Acceptance roughly 36-45% (2022-2025); deadlines are routinely extended
+editions:
+- year: 2025
+  start: 2025-10-22
+  end: 2025-10-24
+  location: Kyoto, Japan
+  url: https://adma2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-06-05
+    tz: AoE
+    label: Research and special session papers (extended twice from 2025-05-08)
+  - kind: submission
+    date: 2025-06-12
+    tz: AoE
+    label: Industry papers (extended from 2025-05-08)
+  - kind: submission
+    date: 2025-07-22
+    tz: AoE
+    label: Short papers (extended from 2025-07-15)
+  - kind: notification
+    date: 2025-08-04
+    tz: AoE
+    label: Research, industry and special session papers
+  - kind: camera_ready
+    date: 2025-08-12
+    tz: AoE
+    label: Research, industry and special session papers
+  - kind: notification
+    date: 2025-08-14
+    tz: AoE
+    label: Short papers
+  - kind: other
+    date: 2025-08-21
+    tz: AoE
+    label: Poster and encore papers
+- year: 2026
+  start: 2026-11-13
+  end: 2026-11-15
+  location: Hong Kong, China
+  url: https://adma2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-17
+    tz: AoE
+    label: Main track
+  - kind: submission
+    date: 2026-07-31
+    tz: AoE
+    label: Industry track and special session papers
+  - kind: submission
+    date: 2026-08-07
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2026-09-02
+    tz: AoE
+    label: Main track
+  - kind: notification
+    date: 2026-09-06
+    tz: AoE
+    label: Industry track and special session papers
+  - kind: camera_ready
+    date: 2026-09-11
+    tz: AoE
+    label: Main, industry and special session
+  - kind: other
+    date: 2026-09-11
+    tz: AoE
+    label: Poster and encore papers
+  - kind: other
+    date: 2026-09-20
+    tz: AoE
+    label: Author registration
+- year: 2027
+  start: 2027-10-22
+  end: 2027-10-24
+  location: Osaka, Japan
+  url: https://adma2027.github.io/
+  status: tentative
+  deadlines: []
+sources:
+- https://adma2026.github.io/important_date.html
+- https://adma2026.github.io/call_for_papers.html
+- https://adma2026.github.io/reg.html
+- https://adma2026.github.io/
+- https://adma2025.github.io/important_date.html
+- https://adma2025.github.io/
+- https://adma2027.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=ADMA&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Whether 2026 main-track deadline was extended from an earlier date
+- ADMA 2027 site was initialized on 2026-09-25 from the 2025 template; Osaka and 2027-10-22..24 are stated, but
+  its listed deadlines are copied 2025 dates, so 2027 deadlines are not yet known
+last_verified: 2026-09-28

@@ -1,0 +1,80 @@
+id: icnp
+name: ICNP
+full_name: IEEE International Conference on Network Protocols
+type: conference
+tier: major
+areas: [networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+proceedings: IEEE Xplore
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: B
+  ccf: B
+acceptance_rate: 20% (2016, 46/230)
+fee: 850 USD IEEE member early (2026); student IEEE member 595 USD
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10]
+links:
+  website: http://www.ieee-icnp.org/
+  dblp: https://dblp.org/db/conf/icnp/
+notes:
+- Held since 1993; covers design, analysis, verification and implementation of network protocols
+- One deadline per year in May (abstract one week earlier, AoE); double-blind review with shepherding of accepted
+  papers; ICNP 2025 introduced a rebuttal phase
+- Papers up to 10 pages excluding references and appendices, IEEE format
+- ICNP 2025 was held in Seoul, Korea; 2026 in Tempe, Arizona, USA; co-located workshops (e.g., AgentNet, NIPA)
+editions:
+- year: 2025
+  start: 2025-09-22
+  end: 2025-09-25
+  location: Seoul, South Korea
+  url: https://ieeeicnp2025.pages.dev/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-09
+    tz: AoE
+  - kind: submission
+    date: 2025-05-16
+    tz: AoE
+  - kind: other
+    date: 2025-07-07
+    tz: AoE
+    label: Rebuttal period (July 7-10)
+  - kind: notification
+    date: 2025-07-25
+  - kind: camera_ready
+    date: 2025-08-18
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-08
+  location: Tempe, USA
+  url: https://icnp26.cs.ucr.edu/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-15
+    tz: AoE
+  - kind: submission
+    date: 2026-05-22
+    tz: AoE
+  - kind: notification
+    date: 2026-07-21
+  - kind: camera_ready
+    date: 2026-08-25
+sources:
+- https://icnp26.cs.ucr.edu/
+- https://icnp26.cs.ucr.edu/cfp.html
+- https://icnp26.cs.ucr.edu/registration.html
+- https://ieeeicnp2025.pages.dev/
+- https://ieeeicnp2025.pages.dev/cfp.html
+- http://www.ieee-icnp.org/
+- https://sites.cs.ucsb.edu/~almeroth/conf/stats/
+- https://portal.core.edu.au/conf-ranks/?search=ICNP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ICNP 2027 location and dates
+- Acceptance rates after 2016
+- Whether ICNP 2026 kept the rebuttal phase (not mentioned in the 2026 CFP)
+last_verified: 2026-09-28

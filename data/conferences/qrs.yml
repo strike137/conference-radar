@@ -1,0 +1,77 @@
+id: qrs
+name: QRS
+full_name: International Conference on Software Quality, Reliability, and Security
+type: conference
+tier: minor
+areas: [software, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: QRS Steering Committee; 2026 technical sponsors include IEEE Reliability Society Japan Joint Chapter,
+  IFIP WG 10.4, EWICS and REAJ; CCF collaborative partner
+proceedings: Springer LNCS (2026); IEEE CPS / IEEE Xplore through 2025
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: C
+  ccf: C
+acceptance_rate: 25.5% (2026, 71/278 regular papers)
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://qrs26.techconf.org/
+  dblp: https://dblp.org/db/conf/qrs/index.html
+notes:
+- Formed in 2015 by merging QSIC and SERE; traces back to the Asia-Pacific Conference on Quality Software (Hong
+  Kong, 2000)
+- Regular paper acceptance rate stable at about 23 to 27% (2021 to 2026)
+- Proceedings were published by IEEE CPS (IEEE Xplore) through 2025; the 2026 proceedings moved to Springer LNCS
+  (announced July 2026)
+- Often held in China (Guangzhou 2022, Hangzhou 2025) but also elsewhere (Chiang Mai 2023, Cambridge 2024, Florence
+  2026)
+- Regular papers 12 pages, short papers 10; abstract registration one to two weeks before the paper deadline; many
+  side tracks (fast abstracts, industry, posters, workshops)
+editions:
+- year: 2026
+  start: 2026-07-22
+  end: 2026-07-25
+  location: Florence, Italy
+  url: https://qrs26.techconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-08
+    label: Regular and short papers
+  - kind: submission
+    date: 2026-04-22
+    label: Regular and short papers (extended from Apr 15)
+  - kind: other
+    date: 2026-05-15
+    label: Workshop and special track papers
+  - kind: notification
+    date: 2026-06-01
+    label: Regular and short papers
+  - kind: other
+    date: 2026-06-03
+    label: Fast abstracts, industry track and posters
+  - kind: notification
+    date: 2026-06-15
+    label: Other tracks
+  - kind: camera_ready
+    date: 2026-06-25
+    label: Camera-ready and author registration
+sources:
+- https://qrs26.techconf.org/
+- https://qrs26.techconf.org/track/regular
+- https://qrs26.techconf.org/track/proceeding
+- https://qrs26.techconf.org/track/workshops
+- https://qrs26.techconf.org/previous_conferences
+- https://qrs26.techconf.org/download/CFP-QRS-2026.pdf
+- https://qrs25.techconf.org/
+- https://qrs24.techconf.org/track/regular
+- https://portal.core.edu.au/conf-ranks/?search=QRS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- QRS 2027 not yet announced (qrs27.techconf.org not reachable)
+- Deadline time zone not stated on site (ccf-deadlines assumes AoE)
+- Registration fee not found
+- Whether QRS 2027 keeps Springer LNCS or returns to IEEE is not stated
+last_verified: 2026-09-28

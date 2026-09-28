@@ -1,0 +1,84 @@
+id: cans
+name: CANS
+full_name: International Conference on Cryptology and Network Security
+type: conference
+tier: major
+areas: [crypto, security, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: 'Rotating host institutions (2025: Osaka University; 2026: University of Wollongong)'
+proceedings: Springer LNCS
+indexing: [Scopus, DBLP]
+rank:
+  core: B
+acceptance_rate: 29% (2026, 41/141)
+fee: 1,200 AUD (2026, author registration); student 600 AUD early
+typical:
+  deadline_months: [4, 6]
+  conference_months: [9, 11]
+links:
+  website: https://uow-ic2.github.io/cans2026/index.html
+  dblp: https://dblp.org/db/conf/cans/index.html
+  wikicfp: http://www.wikicfp.com/cfp/program?id=355
+notes:
+- Long-running cryptology and network security conference (25th edition in 2026)
+- Rotates globally; recent editions in Cambridge UK (2024), Osaka (2025) and Wollongong (2026)
+- Proceedings in Springer LNCS; 2026 submissions are double-blind, up to 20 pages plus references and appendices
+- Single submission deadline between April and June (AoE), extended in both 2025 and 2026; 2025 had 33 papers presented
+  and a student travel grant program
+- CORE B; not in the CCF list
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-20
+  location: Osaka, Japan
+  url: https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-28
+    tz: AoE
+    label: New submissions (extended from 2025-04-17)
+  - kind: other
+    date: 2025-05-01
+    tz: AoE
+    label: Paper updates allowed until
+  - kind: notification
+    date: 2025-07-10
+  - kind: camera_ready
+    date: 2025-08-14
+- year: 2026
+  start: 2026-11-23
+  end: 2026-11-25
+  location: Wollongong, Australia
+  url: https://uow-ic2.github.io/cans2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-06-19
+    tz: AoE
+    label: Extended from 2026-06-10
+  - kind: notification
+    date: 2026-08-10
+    label: Planned date; site news says decisions went out around 12 August
+  - kind: camera_ready
+    date: 2026-09-12
+  - kind: other
+    date: 2026-09-12
+    label: Author registration
+  - kind: other
+    date: 2026-10-01
+    label: Early bird registration (non-author)
+sources:
+- https://uow-ic2.github.io/cans2026/index.html
+- https://uow-ic2.github.io/cans2026/reg.html
+- https://uow-ic2.github.io/cans2026/cfp.html
+- https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/
+- https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/call-for-papers/
+- https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/venue/
+- https://api.crossref.org/works/10.1007/978-981-95-4434-9
+- https://portal.core.edu.au/conf-ranks/?search=CANS&by=acronym&source=ICORE2026&sort=atitle&page=1
+- http://www.wikicfp.com/cfp/program?id=355
+unverified:
+- CANS 2027 location and dates (not announced)
+- CANS 2025 submission count (81 reported by a secondary source; the official site only confirms 33 oral presentations)
+last_verified: 2026-09-28

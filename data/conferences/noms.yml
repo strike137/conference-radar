@@ -1,0 +1,78 @@
+id: noms
+name: NOMS
+full_name: IEEE/IFIP Network Operations and Management Symposium
+type: conference
+tier: major
+areas: [networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Communications Society (CNOM) and IFIP
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: B
+fee: 900 EUR ComSoc member, 950 EUR IEEE or sister society member, 1,200 EUR non-member (2026, full author registration,
+  incl. 22% VAT)
+typical:
+  deadline_months: [9, 10, 11]
+  conference_months: [5]
+links:
+  website: https://noms2027.ieee-noms.org/
+notes:
+- ComSoc's primary forum for network and service management (per the CFP); NOMS has merged with its sister conference
+  IM, so it is now held every year (before 2022 NOMS was in even years and IM in odd years)
+- 'Full papers: 8 pages main text, up to 12 pages with references and appendix; short papers 4 (+2); optional artifact
+  evaluation with badges'
+- Many side tracks (workshops, demos, experience session, doctoral symposium, dissertation digest) with later deadlines
+  than the main track
+- 'Rotates globally: Seoul 2024, Honolulu 2025, Rome 2026, Montreal 2027; 2026 theme was AI for Management and Management
+  for AI'
+- 'Submission deadlines have been extended twice in recent years (2026: Oct 13 -> Oct 27 -> Nov 10)'
+editions:
+- year: 2026
+  start: 2026-05-18
+  end: 2026-05-22
+  location: Rome, Italy
+  url: https://noms2026.ieee-noms.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-10
+    label: Technical session papers (final extension; originally 2025-10-13)
+  - kind: notification
+    date: 2026-01-21
+    label: Technical session papers
+  - kind: camera_ready
+    date: 2026-02-14
+    label: Technical session papers
+- year: 2027
+  start: 2027-05-10
+  end: 2027-05-14
+  location: Montreal, Canada
+  url: https://noms2027.ieee-noms.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-09
+    label: Technical session papers (registration and submission)
+  - kind: camera_ready
+    date: 2027-02-28
+    label: Technical session papers
+sources:
+- https://noms2027.ieee-noms.org/
+- https://noms2027.ieee-noms.org/authors/call-technical-session-paper
+- https://noms2027.ieee-noms.org/registration
+- https://noms2026.ieee-noms.org/
+- https://noms2026.ieee-noms.org/call-technical-session-paper
+- https://noms2026.ieee-noms.org/registration
+- https://noms2024.ieee-noms.org/
+- https://noms2025.ieee-noms.org/
+- https://noms2022.ieee-noms.org/
+- https://noms2023.ieee-noms.org/
+- https://portal.core.edu.au/conf-ranks/?search=NOMS&by=all&source=ICORE2026
+unverified:
+- 'NOMS 2026 notification: the Important Dates box says 2026-01-21 but the CFP text says 2026-01-18'
+- 'NOMS 2027 notification: homepage box says 2027-01-15 but CFP text says 2027-02-15; omitted'
+- Deadline time zone not stated on the official pages (ccfddl seed claims AoE for 2027)
+- NOMS 2027 registration fees not yet published (registration page says it opens soon)
+- Acceptance rate not found in an official source
+last_verified: 2026-09-28

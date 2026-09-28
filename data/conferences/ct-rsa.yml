@@ -1,0 +1,70 @@
+id: ct-rsa
+name: CT-RSA
+full_name: Cryptographers' Track at the RSAC Conference (CT-RSA, renamed CT-RSAC from 2026)
+type: conference
+tier: major
+areas: [crypto, security]
+region: north-america
+language: english
+frequency: annual
+organizer: RSAC Conference (Cryptographers' Track program committee)
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 32% (2026, 12/37)
+typical:
+  deadline_months: [10]
+  conference_months: [3, 4, 5]
+links:
+  website: https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/
+  dblp: https://dblp.org/db/conf/ctrsa/index.html
+  wikicfp: http://www.wikicfp.com/cfp/program?id=620
+notes:
+- Academic cryptography track inside the RSAC industry show in San Francisco; website moves with the PC chair each
+  year
+- Small program (12 papers in 2026); proceedings in Springer LNCS
+- Presenters receive a free RSAC conference pass; in-person presentation strongly preferred
+- Single deadline in October, conference in spring
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-26
+  location: San Francisco, USA
+  url: https://conference.wsu.edu/ct-rsa-2026/
+  deadlines:
+  - kind: submission
+    date: 2025-10-24
+    tz: AoE
+    label: Paper submission
+  - kind: notification
+    date: 2025-12-07
+    label: Notification (tentative)
+- year: 2027
+  start: 2027-04-05
+  end: 2027-04-08
+  location: San Francisco, USA
+  url: https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/
+  deadlines:
+  - kind: submission
+    date: 2026-10-22
+    tz: AoE
+    label: Paper submission
+  - kind: notification
+    date: 2026-12-03
+    label: Notification (tentative)
+  - kind: camera_ready
+    date: 2027-01-12
+    label: Camera-ready
+sources:
+- https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/
+- https://conference.wsu.edu/ct-rsa-2026/
+- https://iacr.org/events/
+- https://portal.core.edu.au/conf-ranks/?search=CT-RSA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://link.springer.com/book/10.1007/978-3-032-22931-1
+unverified:
+- The CT-RSAC 2027 page labels its important dates as tentative
+- CT-RSAC 2026 camera-ready date on the official site reads January 10, 2025 (apparent typo), so it is omitted
+- Registration fee not published (presenters get a free pass)
+last_verified: 2026-09-28

@@ -1,0 +1,84 @@
+id: ica3pp
+name: ICA3PP
+full_name: International Conference on Algorithms and Architectures for Parallel Processing
+type: conference
+tier: minor
+areas: [systems, networking, security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: 'Steering committee with rotating host university (2025: Zhengzhou University; 2026: University of Exeter)'
+proceedings: Springer LNCS
+archival: true
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: C
+  ccf: C
+acceptance_rate: 29% for full papers (2025, 158/543); 310 of 543 counting research and session papers
+fee: GBP 670 per paper author registration (about USD 900), GBP 400 participant registration (2026)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://hpcn.exeter.ac.uk/ica3pp2026/
+notes:
+- Series running since 1995 (26th edition in 2026); most editions in China and the Asia-Pacific, but 2022 was Copenhagen
+  and 2026 is Exeter, UK
+- Proceedings in Springer LNCS (EI indexed); single-blind review; regular papers up to 20 LNCS pages, short/workshop
+  papers 12
+- CCF C and CORE C; very large program (310 papers in the 2025 proceedings), regarded as a lower-tier parallel/distributed
+  systems venue
+- 'Usually co-located with a congress: 2025 inside the IEEE Cybermatics Congress in Zhengzhou, 2026 with IUCC, CIT,
+  DSCI and IOI in Exeter'
+- Has a security track (service dependability and security in distributed systems); deadlines are usually extended
+  by a few weeks, and 2025 also had a late-breaking (LBI) round
+editions:
+- year: 2025
+  start: 2025-10-30
+  end: 2025-11-02
+  location: Zhengzhou, China
+  url: https://ieee-cybermatics.org/2025/ica3pp/
+  deadlines:
+  - kind: submission
+    date: 2025-08-10
+    tz: AoE
+    label: Paper submission (extended from 2025-07-15)
+  - kind: submission
+    date: 2025-08-31
+    label: Late-breaking (LBI) papers
+  - kind: notification
+    date: 2025-09-10
+  - kind: notification
+    date: 2025-09-15
+    label: LBI notification
+  - kind: camera_ready
+    date: 2025-09-30
+    label: Camera-ready and registration
+- year: 2026
+  start: 2026-10-26
+  end: 2026-10-28
+  location: Exeter, United Kingdom
+  url: https://hpcn.exeter.ac.uk/ica3pp2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-25
+    label: Paper submission (extended from 2026-07-10)
+  - kind: notification
+    date: 2026-08-30
+  - kind: camera_ready
+    date: 2026-10-12
+    label: Final manuscript and registration
+sources:
+- https://hpcn.exeter.ac.uk/ica3pp2026/
+- https://hpcn.exeter.ac.uk/ica3pp2026/call4paper.php
+- https://hpcn.exeter.ac.uk/ica3pp2026/reg.php
+- https://ieee-cybermatics.org/2025/ica3pp/
+- https://ieee-cybermatics.org/2025/ica3pp/ICA3PP2025-CFP.pdf
+- https://ieee-cybermatics.org/2025/
+- https://link.springer.com/book/10.1007/978-981-95-8399-7
+- https://portal.core.edu.au/conf-ranks/?search=ICA3PP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- Deadline timezone for 2026 (ccf-deadlines says AoE; the official page does not state it)
+- Whether an ICA3PP 2027 host has been chosen
+last_verified: 2026-09-28

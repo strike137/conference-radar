@@ -1,0 +1,79 @@
+id: soups
+name: SOUPS
+full_name: Symposium on Usable Privacy and Security
+type: conference
+tier: major
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: SOUPS Steering Committee, in cooperation with USENIX
+proceedings: USENIX
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: C
+acceptance_rate: 19.1% (2025, 30/157)
+typical:
+  deadline_months: [2]
+  conference_months: [8]
+links:
+  website: https://soups.page/
+  dblp: https://dblp.org/db/conf/soups/index.html
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2739
+notes:
+- Premier venue for usable security and privacy (human factors, user studies); CORE A
+- Anonymous review with early rejection and an author response period; mandatory paper registration one week before
+  the February deadline
+- Papers published open access by USENIX; usually co-located with USENIX Security in August
+- 2026 edition held separately in Hannover, Germany (in collaboration with CISPA); 2027 edition in Denver, co-located
+  with USENIX Security '27
+- Acceptance rate around 20%; also has posters, lightning talks and workshops
+editions:
+- year: 2026
+  start: 2026-08-23
+  end: 2026-08-26
+  location: Hannover, Germany
+  url: https://soups.page/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-12
+    time: '23:59'
+    tz: AoE
+    label: Mandatory paper registration
+  - kind: submission
+    date: 2026-02-19
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-03-26
+    tz: AoE
+    label: Early rejection notification
+  - kind: other
+    date: 2026-04-23
+    label: Author response period (until 2026-04-30)
+  - kind: notification
+    date: 2026-05-19
+  - kind: camera_ready
+    date: 2026-06-15
+- year: 2027
+  start: 2027-08-08
+  end: 2027-08-10
+  location: Denver, CO, USA
+  url: https://www.usenix.org/conference/soups2027
+  deadlines: []
+sources:
+- https://soups.page/
+- https://soups.page/cfp.html
+- https://www.usenix.org/conferences/upcoming
+- https://www.usenix.org/conference/soups2027
+- https://www.usenix.org/conference/usenixsecurity27
+- https://www.usenix.org/conference/soups2026
+- https://www.usenix.org/sites/default/files/soups2025_message.pdf
+- https://portal.core.edu.au/conf-ranks/?search=SOUPS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- SOUPS 2027 CFP deadlines not yet announced (typically mid February)
+- SOUPS 2026 acceptance rate not found (full proceedings front matter not checked)
+- Registration fee not found
+last_verified: 2026-09-28

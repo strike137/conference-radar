@@ -1,0 +1,61 @@
+id: lrec
+name: LREC
+full_name: Language Resources and Evaluation Conference
+type: conference
+tier: major
+areas: [nlp, data]
+region: europe
+language: english
+frequency: biennial
+organizer: ELRA (ELRA Language Resources Association)
+proceedings: ACL Anthology
+indexing: [DBLP]
+rank:
+  core: B
+acceptance_rate: 52.9% (2026, 944/1786)
+fee: 790 EUR regular / 340 EUR student, early, in person, non-member (2026); lower for ELRA members, remote option
+  available
+typical:
+  deadline_months: [10]
+  conference_months: [5]
+links:
+  website: https://www.elra.info/elra-events/lrec/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=1978
+notes:
+- Biennial (even years) conference on language resources, corpora, datasets and evaluation, organized by ELRA
+- High acceptance (about 53% in 2026); good venue for dataset and resource papers
+- 2024 edition was held jointly with COLING (LREC-COLING 2024, Turin)
+- Direct submission via START (not ARR); oral and poster papers appear in the same proceedings
+- LREC 2028 host not chosen yet; ELRA called for expressions of interest (2028 or 2030) in 2026
+editions:
+- year: 2026
+  start: 2026-05-11
+  end: 2026-05-16
+  location: Palma de Mallorca, Spain
+  url: https://lrec2026.info/
+  deadlines:
+  - kind: submission
+    date: 2025-10-24
+    time: '23:59'
+    tz: AoE
+    label: Main papers (extended from Oct 17)
+  - kind: notification
+    date: 2026-02-13
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-15
+    time: '23:59'
+    tz: AoE
+sources:
+- https://lrec2026.info/
+- https://lrec2026.info/calls/
+- https://lrec2026.info/registration-fees/
+- https://list.elra.info/mailman3/hyperkitty/list/corpora@list.elra.info/thread/2TFINXQSH2WTSARQITYUNC4JEIGRSQFL/
+- https://aclanthology.org/2026.lrec-main.0.pdf
+- https://www.elra.info/wp-content/uploads/2026/06/LREC-Expression-of-Interest-v042.pdf
+- https://portal.core.edu.au/conf-ranks/?search=LREC&by=acronym&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- LREC 2028 dates and location not announced
+last_verified: 2026-09-28

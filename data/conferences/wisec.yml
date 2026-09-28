@@ -1,0 +1,72 @@
+id: wisec
+name: WiSec
+full_name: ACM Conference on Security and Privacy in Wireless and Mobile Networks
+type: conference
+tier: major
+areas: [security, communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGSAC
+proceedings: ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [3, 11]
+  conference_months: [5, 6, 7]
+links:
+  website: https://www.sigsac.org/wisec/
+  dblp: https://dblp.org/db/conf/wisec/index.html
+notes:
+- Sponsored by ACM SIGSAC; dedicated to wireless, mobile, IoT and cellular security (physical layer up to apps)
+- Two submission cycles (November and March) with firm deadlines; double-blind review
+- Full papers up to 10 pages (12 total), short papers up to 6 pages, SoK papers up to 15 pages total; proceedings
+  in ACM DL
+- Held in Seoul, Korea (KAIST) in 2024; otherwise mostly USA and Europe
+- Regarded as competitive; acceptance rate around 20%
+editions:
+- year: 2026
+  start: 2026-06-30
+  end: 2026-07-03
+  location: Saarbrücken, Germany
+  url: https://wisec26.events.cispa.de/
+  deadlines:
+  - kind: submission
+    date: 2025-11-18
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2026-01-13
+    label: Cycle 1
+  - kind: camera_ready
+    date: 2026-02-03
+    label: Cycle 1
+  - kind: submission
+    date: 2026-03-03
+    tz: AoE
+    label: Cycle 2
+  - kind: other
+    date: 2026-04-07
+    tz: AoE
+    label: Posters and demos submission
+  - kind: notification
+    date: 2026-04-14
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2026-05-05
+    label: Cycle 2
+sources:
+- https://wisec26.events.cispa.de/
+- https://wisec26.events.cispa.de/call-for-papers/
+- https://www.sigsac.org/wisec/
+- https://wisec2024.kaist.ac.kr/
+- https://portal.core.edu.au/conf-ranks/?search=WiSec&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- WiSec 2027 dates, location and deadlines not yet announced (SIGSAC WiSec page lists up to WiSec '26; no 2027 site
+  found)
+- 'Exact acceptance rate: 2026 figures conflict (23/121 vs 31/145 in different sources); 2025 reported as 28/123
+  in the ccf-deadlines compilation, not independently checked'
+last_verified: 2026-09-28

@@ -1,0 +1,74 @@
+id: ksc
+name: KSC
+full_name: Korea Software Congress
+name_local: 한국소프트웨어종합학술대회
+type: conference
+tier: domestic
+areas: [general, ai, software, systems, data, security, networking]
+region: korea
+language: korean
+frequency: annual
+organizer: KIISE (Korean Institute of Information Scientists and Engineers)
+proceedings: KIISE proceedings (Korean)
+rank:
+  core: Unranked
+fee: 180,000 KRW graduate student member, 280,000 KRW regular member (2025, early registration)
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://www.kiise.or.kr/conference/main/index.do?CC=ksc&CS=2026
+notes:
+- Organized by KIISE; the December counterpart of KCC
+- Held in December at a regional convention center (Yeosu Expo Convention Center 2025, Gyeongju Hwabaek Convention
+  Center 2026)
+- General papers plus an undergraduate/junior paper competition
+- Papers in the 'AI application' track are poster-only and not eligible for best paper awards (2025, 2026)
+- Deadline extended three times in 2025 (Oct 13 -> Oct 30); includes a Top Conference session and young researcher
+  sessions
+editions:
+- year: 2025
+  start: 2025-12-16
+  end: 2025-12-19
+  location: Yeosu, South Korea
+  url: https://www.kiise.or.kr/conference/main/index.do?CC=ksc&CS=2025
+  deadlines:
+  - kind: submission
+    date: 2025-10-30
+    time: '23:59'
+    label: Final extension (originally 2025-10-13)
+    tz: KST
+  - kind: notification
+    date: 2025-11-14
+  - kind: camera_ready
+    date: 2025-11-24
+    label: Final paper and presenter registration
+- year: 2026
+  start: 2026-12-21
+  end: 2026-12-23
+  location: Gyeongju, South Korea
+  url: https://www.kiise.or.kr/conference/main/index.do?CC=ksc&CS=2026
+  deadlines:
+  - kind: submission
+    date: 2026-10-12
+  - kind: other
+    date: 2026-10-23
+    label: Tutorial, workshop, young researcher and Top Conference session proposals
+  - kind: notification
+    date: 2026-11-16
+  - kind: camera_ready
+    date: 2026-11-25
+    label: Final paper and presenter registration
+sources:
+- https://www.kiise.or.kr/conference/main/index.do?CC=ksc&CS=2026
+- https://www.kiise.or.kr/conference/board/boardview.do?CC=ksc&CS=2026&PARENT_ID=040100&NUM=427
+- https://www.kiise.or.kr/conference/main/getContent.do?CC=ksc&CS=2026&content_no=2572&PARENT_ID=010100
+- https://www.kiise.or.kr/conference/main/index.do?CC=ksc&CS=2025
+- https://www.kiise.or.kr/conference/board/boardview.do?CC=kcc&CS=2026&PARENT_ID=040100&NUM=401
+- https://www.kiise.or.kr/conference/board/boardview.do?CC=kcc&CS=2026&PARENT_ID=040100&NUM=406
+- https://www.kiise.or.kr/conference/main/getContent.do?CC=ksc&CS=2025&content_no=2335&PARENT_ID=040100
+unverified:
+- KSC 2026 registration fee (not yet published)
+- Page limit and paper language rules for KSC papers
+- Whether KSC best papers are recommended to KIISE journals as at KCC
+last_verified: 2026-09-28

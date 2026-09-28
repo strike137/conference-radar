@@ -1,0 +1,106 @@
+id: hicss
+name: HICSS
+full_name: Hawaii International Conference on System Sciences
+type: conference
+tier: major
+areas: [general, ai, security, software, data]
+region: north-america
+language: english
+frequency: annual
+organizer: University of Hawaii at Manoa (HICSS Conference Office, Department of IT Management, Shidler College
+  of Business)
+proceedings: ScholarSpace (open access) and AIS eLibrary
+rank:
+  core: A
+  core_source: CORE2018
+fee: 850 USD early (before Oct 2), 940 USD regular, 1,055 USD late; active full-time students 20% off (HICSS-60,
+  2027)
+typical:
+  deadline_months: [6]
+  conference_months: [1]
+links:
+  website: https://hicss.hawaii.edu/
+  dblp: https://dblp.org/db/conf/hicss/
+notes:
+- Long-running information systems conference (since 1968); held every January in Hawaii, venue rotating among islands
+- Double-blind review; papers up to 10 pages including references; each author limited to 5 submissions; conditional
+  accept with a revision round
+- Organized in tracks and minitracks; security papers go to minitracks such as AI-Powered Cyber Attacks and Countermeasures
+  in the Software Technology track
+- Open-access proceedings via ScholarSpace since HICSS-50, also in the AIS eLibrary; many minitracks offer journal
+  fast-track
+- Ranked A in CORE2018 but not listed in later CORE editions; not in the CCF list
+editions:
+- year: 2026
+  label: HICSS-59
+  start: 2026-01-06
+  end: 2026-01-09
+  location: Maui, Hawaii, USA
+  url: https://hicss.hawaii.edu/
+  deadlines:
+  - kind: submission
+    date: 2025-06-15
+    time: '23:59'
+    tz: UTC-10
+    label: Paper submission
+  - kind: notification
+    date: 2025-08-17
+    time: '23:59'
+    tz: UTC-10
+    label: Notification
+  - kind: camera_ready
+    date: 2025-09-22
+    time: '23:59'
+    tz: UTC-10
+    label: Final manuscript
+  - kind: other
+    date: 2025-10-01
+    time: '23:59'
+    tz: UTC-10
+    label: Author registration
+- year: 2027
+  label: HICSS-60
+  start: 2027-01-05
+  end: 2027-01-08
+  location: Waikoloa (Big Island), Hawaii, USA
+  url: https://hicss.hawaii.edu/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    time: '23:59'
+    tz: UTC-10
+    label: Paper submission
+  - kind: notification
+    date: 2026-08-17
+    time: '23:59'
+    tz: UTC-10
+    label: Notification
+  - kind: other
+    date: 2026-09-04
+    time: '23:59'
+    tz: UTC-10
+    label: Revised manuscript for conditionally accepted papers
+  - kind: notification
+    date: 2026-09-11
+    time: '23:59'
+    tz: UTC-10
+    label: Decision on conditionally accepted papers
+  - kind: camera_ready
+    date: 2026-09-22
+    time: '23:59'
+    tz: UTC-10
+    label: Final manuscript
+  - kind: other
+    date: 2026-10-01
+    label: Author registration
+sources:
+- https://hicss.hawaii.edu/
+- https://hicss.hawaii.edu/authors/
+- https://hicss.hawaii.edu/registration/
+- https://hicss.hawaii.edu/proceedings/
+- https://hicss.hawaii.edu/tracks-and-minitracks/software-technology/
+- http://web.archive.org/web/20251001000000/https://hicss.hawaii.edu/
+- https://portal.core.edu.au/conf-ranks/?search=Hawaii&by=all&source=all
+unverified:
+- Acceptance rate (not found on an official page)
+last_verified: 2026-09-28

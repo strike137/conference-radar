@@ -1,0 +1,95 @@
+id: icmla
+name: ICMLA
+full_name: IEEE International Conference on Machine Learning and Applications
+type: conference
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: AMLA (Association for Machine Learning and Applications), technically co-sponsored by IEEE
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP]
+rank:
+  core: C
+fee: 650 USD regular, 575 USD IEEE SMC member or full-time student (2026, before 2026-07-25; +100 USD late)
+typical:
+  deadline_months: [5, 7]
+  conference_months: [10, 12]
+links:
+  website: https://www.icmla-conference.org/icmla26/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192856&copyownerid=837
+notes:
+- Organized annually by AMLA with host universities (official list of past editions starts at 2003); technically
+  co-sponsored by IEEE
+- Held in the USA, often Florida (Boca Raton 2025); 2026 edition at Oakland University, Rochester, Michigan
+- Double-blind review; 6-page regular papers (+2 paid pages at 50 USD), 4-page short papers presented as posters
+- Fully in person, no virtual track; many special sessions and workshops with later deadlines
+- Application-oriented ML venue; CORE C, not in the CCF list
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Boca Raton, USA
+  url: https://www.icmla-conference.org/icmla25/
+  deadlines:
+  - kind: submission
+    date: 2025-07-15
+    time: '23:59'
+    tz: PDT
+    label: Workshop papers
+  - kind: submission
+    date: 2025-07-28
+    time: '23:59'
+    tz: PDT
+    label: Main conference papers (extended from 2025-07-15)
+  - kind: submission
+    date: 2025-08-20
+    time: '23:59'
+    tz: PDT
+    label: Special session papers
+  - kind: notification
+    date: 2025-09-10
+    label: Main conference and special sessions
+  - kind: camera_ready
+    date: 2025-09-25
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-07
+  location: Rochester, USA
+  url: https://www.icmla-conference.org/icmla26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    time: '23:59'
+    tz: PDT
+    label: Main conference papers (extended from 2026-05-15)
+  - kind: submission
+    date: 2026-06-15
+    time: '23:59'
+    tz: PDT
+    label: Workshop papers (extended from 2026-05-15)
+  - kind: submission
+    date: 2026-06-20
+    time: '23:59'
+    tz: PDT
+    label: Special session papers
+  - kind: notification
+    date: 2026-07-15
+  - kind: camera_ready
+    date: 2026-07-25
+sources:
+- https://www.icmla-conference.org/icmla26/keydates.html
+- https://www.icmla-conference.org/icmla26/conferencesites.html
+- https://www.icmla-conference.org/icmla26/registration.html
+- https://www.icmla-conference.org/icmla26/howtosubmit.html
+- https://www.icmla-conference.org/icmla25/keydates.html
+- https://www.icmla-conference.org/icmla25/conferencesites.html
+- https://www.icmla-conference.org/
+- https://www.icmla-conference.org/icmla27/
+- https://portal.core.edu.au/conf-ranks/?search=ICMLA&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Acceptance rate not found on official pages
+- Edition number for 2026 not confirmed
+- ICMLA 2027 website (icmla-conference.org/icmla27/) is online but gives no dates, location or deadlines as of 2026-09-28
+last_verified: 2026-09-28

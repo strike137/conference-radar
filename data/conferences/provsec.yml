@@ -1,0 +1,60 @@
+id: provsec
+name: ProvSec
+full_name: International Conference on Provable and Practical Security
+type: conference
+tier: minor
+areas: [crypto, security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Rotating host institutions (2026 supported by Springer, Monash FinTech Lab and MDPI Cryptography)
+proceedings: Springer LNCS
+indexing: [Scopus, DBLP]
+rank:
+  core: C
+fee: 1,700 NZD (2026, author full registration)
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9, 10]
+links:
+  website: https://provsec-2026.github.io/Provsec2026-base/
+  dblp: https://dblp.org/db/conf/provsec/index.html
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2417
+notes:
+- Focus on provable security and applied cryptography; 20th edition in 2026
+- Held in the Asia-Pacific region (Wuhan 2023, Gold Coast 2024, Yokohama 2025, Queenstown 2026)
+- Proceedings in Springer LNCS; extended versions of 2026 papers can go to the journal Cryptography (MDPI)
+- 'Single submission deadline in May or June, AoE (2025: 20 June; 2026: 31 May, extended to 15 June)'
+- CORE C (was B up to CORE2021); not in the CCF list
+editions:
+- year: 2026
+  start: 2026-09-24
+  end: 2026-09-26
+  location: Queenstown, New Zealand
+  url: https://provsec-2026.github.io/Provsec2026-base/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    tz: AoE
+    label: Paper submission (extended from 2026-05-31, firm)
+  - kind: notification
+    date: 2026-07-15
+  - kind: camera_ready
+    date: 2026-07-31
+  - kind: other
+    date: 2026-08-10
+    label: Author registration (AEST)
+sources:
+- https://provsec-2026.github.io/Provsec2026-base/
+- https://provsec-2026.github.io/Provsec2026-base/cfp.html
+- https://provsec-2026.github.io/Provsec2026-base/registration.html
+- https://sulab-sever.u-aizu.ac.jp/provsec2025/index.html
+- https://api.crossref.org/works?query.bibliographic=Provable+and+Practical+Security&filter=type:book,from-pub-date:2023
+- https://portal.core.edu.au/conf-ranks/?search=ProvSec&by=acronym&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=ProvSec&by=acronym&source=CORE2021&sort=atitle&page=1
+- http://www.wikicfp.com/cfp/program?id=2417
+unverified:
+- ProvSec 2027 location and dates (not announced)
+- Acceptance rate
+- Review model (double-blind not stated explicitly on the 2026 CFP)
+last_verified: 2026-09-28

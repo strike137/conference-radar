@@ -1,0 +1,88 @@
+id: interspeech
+name: INTERSPEECH
+full_name: Annual Conference of the International Speech Communication Association
+type: conference
+tier: major
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ISCA (International Speech Communication Association)
+proceedings: ISCA Archive (open access)
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 43% (2025, 1164/2694 submissions; 2333 went to review)
+typical:
+  deadline_months: [2, 3]
+  conference_months: [8, 9]
+links:
+  website: https://interspeech2027.org/
+  dblp: https://dblp.org/db/conf/interspeech/
+notes:
+- Flagship ISCA conference and the largest venue for speech science and spoken language technology
+- Regular papers are 4 pages plus up to 2 pages for references and acknowledgments (2026; it was 4+1 in 2025); double-blind
+  with a rebuttal period
+- 2026 added a Long Paper track (8 pages) with acceptance capped at 30%
+- Record 2,694 submissions in 2025; ISCA requires at least one co-author to review if qualified
+- 2026 edition in Sydney (Asia-Pacific); 2027 in Sao Paulo, the first Interspeech in South America
+editions:
+- year: 2026
+  label: Tutorial day 27 Sep; main conference 28 Sep to 1 Oct
+  start: 2026-09-27
+  end: 2026-10-01
+  location: Sydney, Australia
+  url: https://interspeech2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-25
+    time: '23:59'
+    tz: AoE
+    label: Regular and long papers
+  - kind: other
+    date: 2026-03-04
+    time: '23:59'
+    tz: AoE
+    label: Paper update deadline
+  - kind: notification
+    date: 2026-06-05
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-19
+    tz: AoE
+- year: 2027
+  start: 2027-08-29
+  end: 2027-09-02
+  location: Sao Paulo, Brazil
+  url: https://interspeech2027.org/
+  deadlines:
+  - kind: other
+    date: 2026-11-03
+    label: Challenge proposals
+  - kind: other
+    date: 2026-11-10
+    label: Special session proposals
+  - kind: other
+    date: 2027-02-05
+    label: Tutorial proposals
+  - kind: submission
+    date: 2027-02-09
+  - kind: other
+    date: 2027-02-16
+    label: Paper update deadline
+  - kind: notification
+    date: 2027-06-02
+  - kind: camera_ready
+    date: 2027-06-09
+sources:
+- https://interspeech2026.org/
+- https://interspeech2027.org/
+- https://www.isca-archive.org/interspeech_2025/
+- https://www.isca-archive.org/interspeech_2025/booklet.pdf
+- https://portal.core.edu.au/conf-ranks/?search=INTERSPEECH&by=acronym&source=ICORE2026
+unverified:
+- Interspeech 2026 acceptance rate (no official figure found yet)
+- Time zone of Interspeech 2027 deadlines (not stated yet)
+last_verified: 2026-09-28

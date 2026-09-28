@@ -1,0 +1,105 @@
+id: acns
+name: ACNS
+full_name: International Conference on Applied Cryptography and Network Security
+type: conference
+tier: major
+areas: [security, crypto, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACNS Steering Committee (hosted by a local university each year)
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 20.9% (2026, 59/282)
+typical:
+  deadline_months: [1, 9]
+  conference_months: [6, 7]
+links:
+  website: https://acns2027.isg.rhul.ac.uk/
+  dblp: https://dblp.org/db/conf/acns/index.html
+notes:
+- Two submission cycles per year (September and January) with anonymous submissions; papers rejected in the September
+  cycle cannot be resubmitted in the January cycle
+- Proceedings in Springer LNCS; co-located satellite workshops (AIBlock, AIHWS, SCI, etc.) get their own LNCS post-proceedings
+- Location rotates worldwide; held in Kyoto, Japan in 2023 and Abu Dhabi in 2024
+- Regarded as a solid mid-tier applied crypto and security venue; acceptance rate around 20 to 23%
+- In-person presentation required; best student paper award (1,500 EUR in 2027)
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-25
+  location: Stony Brook, NY, USA
+  url: https://acns2026.github.io/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-09-26
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2025-11-20
+    tz: AoE
+    label: Cycle 1
+  - kind: submission
+    date: 2026-01-23
+    tz: AoE
+    label: Cycle 2
+  - kind: notification
+    date: 2026-03-19
+    tz: AoE
+    label: Cycle 2
+- year: 2027
+  start: 2027-06-28
+  end: 2027-07-01
+  location: Egham, United Kingdom
+  url: https://acns2027.isg.rhul.ac.uk/
+  deadlines:
+  - kind: other
+    date: 2026-09-22
+    tz: AoE
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-09-24
+    time: '23:59'
+    tz: AoE
+    label: Cycle 1
+  - kind: other
+    date: 2026-10-09
+    tz: AoE
+    label: Workshop proposal notification
+  - kind: notification
+    date: 2026-11-26
+    tz: AoE
+    label: Cycle 1
+  - kind: submission
+    date: 2027-01-21
+    time: '23:59'
+    tz: AoE
+    label: Cycle 2
+  - kind: notification
+    date: 2027-03-25
+    tz: AoE
+    label: Cycle 2
+  - kind: other
+    date: 2027-04-05
+    tz: AoE
+    label: Poster submission
+  - kind: other
+    date: 2027-04-19
+    tz: AoE
+    label: Poster notification
+sources:
+- https://acns2027.isg.rhul.ac.uk/
+- https://acns2027.isg.rhul.ac.uk/calls/papers
+- https://acns2026.github.io/index.html
+- https://acns2026.github.io/cycle1.html
+- https://acns2026.github.io/cycle2.html
+- https://portal.core.edu.au/conf-ranks/?search=ACNS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- Acceptance rate 59/282 (2026) taken from the ccf-deadlines compilation of the Springer front matter; not independently
+  checked (Springer blocked access)
+- ACNS 2026 site lists the Cycle 2 notification as 'Mar 19, 2025', an obvious typo for 2026
+last_verified: 2026-09-28

@@ -1,0 +1,68 @@
+id: eccv
+name: ECCV
+full_name: European Conference on Computer Vision
+type: conference
+tier: top
+areas: [vision, ai]
+region: europe
+language: english
+frequency: biennial
+organizer: European Computer Vision Association (ECVA)
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: A*
+  ccf: B
+typical:
+  deadline_months: [3]
+  conference_months: [9, 10]
+links:
+  website: https://eccv.ecva.net/
+notes:
+- Biennial (even years), alternating with ICCV; organized by ECVA; proceedings in Springer LNCS
+- 'Held in Europe or its vicinity: Tel Aviv 2022, Milan 2024, Malmo 2026'
+- CORE A* but only CCF B
+- Paper registration late February, submission early March; conference in September or October
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-12
+  location: Malmo, Sweden
+  url: https://eccv.ecva.net/Conferences/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-02-26
+    time: '22:00'
+    tz: UTC
+    label: Paper registration
+  - kind: submission
+    date: 2026-03-05
+    time: '22:00'
+    tz: UTC
+  - kind: other
+    date: 2026-03-12
+    time: '22:00'
+    tz: UTC
+    label: Supplementary material
+  - kind: other
+    date: 2026-05-11
+    time: '21:00'
+    tz: UTC
+    label: Rebuttal deadline
+  - kind: notification
+    date: 2026-06-17
+    label: Final decisions
+  - kind: camera_ready
+    date: 2026-06-30
+    tz: AoE
+sources:
+- https://eccv.ecva.net/
+- https://eccv.ecva.net/Conferences/2026/Dates
+- https://portal.core.edu.au/conf-ranks/?search=ECCV&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- https://csconfstats.xoveexu.com/conferences/eccv/2026/
+unverified:
+- ECCV 2028 location and dates not confirmed officially (a third-party listing says Bucharest, Romania)
+- 'ECCV 2026 acceptance: a third-party aggregator reports 27.5% (2883/10473); no official figure found on the ECCV
+  site, so the acceptance_rate field is left empty'
+last_verified: 2026-09-28

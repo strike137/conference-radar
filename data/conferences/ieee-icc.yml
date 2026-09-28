@@ -1,0 +1,73 @@
+id: ieee-icc
+name: IEEE ICC
+full_name: IEEE International Conference on Communications
+type: conference
+tier: major
+areas: [communications, networking, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Communications Society
+proceedings: IEEE Xplore
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: Unranked
+  ccf: C
+acceptance_rate: about 39% (2019, about 1010/2590)
+fee: 1,040 USD IEEE member author, full conference (2026)
+typical:
+  deadline_months: [10, 11]
+  conference_months: [5, 6]
+links:
+  website: https://icc2027.ieee-icc.org/
+  dblp: https://dblp.org/db/conf/icc/
+notes:
+- Flagship conference of IEEE ComSoc; very large, with about 12 symposia plus Selected Areas in Communications tracks
+- One deadline around October, often extended; submissions via EDAS
+- Has a Communication and Information System Security symposium
+- Acceptance rate historically around 38-40%
+- Not listed in ICORE2026 or CORE2023 (CORE2018 ranked it B); CCF C
+editions:
+- year: 2026
+  start: 2026-05-24
+  end: 2026-05-28
+  location: Glasgow, UK
+  url: https://icc2026.ieee-icc.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-10
+    label: Symposium papers (final firm deadline after extensions from 2025-09-29)
+  - kind: notification
+    date: 2026-01-19
+  - kind: camera_ready
+    date: 2026-02-13
+- year: 2027
+  start: 2027-05-30
+  end: 2027-06-03
+  location: Washington DC, USA
+  url: https://icc2027.ieee-icc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-02
+    label: Symposium papers
+  - kind: notification
+    date: 2027-01-15
+  - kind: submission
+    date: 2027-01-17
+    label: Workshop papers
+  - kind: camera_ready
+    date: 2027-02-19
+sources:
+- https://icc2027.ieee-icc.org/authors
+- https://icc2027.ieee-icc.org/authors/call-symposium-papers
+- https://icc2027.ieee-icc.org/
+- https://icc2026.ieee-icc.org/authors/call-symposia-papers
+- https://icc2026.ieee-icc.org/registration
+- https://sites.cs.ucsb.edu/~almeroth/conf/stats/
+- https://portal.core.edu.au/conf-ranks/?search=ICC&by=acronym&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=ICC&by=acronym&source=CORE2018&sort=atitle&page=1
+unverified:
+- Deadline time and time zone (not stated on the CFP page)
+- Recent acceptance rates (after 2019)
+- Whether the 2027 symposium deadline will be extended
+last_verified: 2026-09-28

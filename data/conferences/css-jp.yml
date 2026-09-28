@@ -1,0 +1,91 @@
+id: css-jp
+name: CSS
+full_name: Computer Security Symposium
+name_local: コンピュータセキュリティシンポジウム
+type: conference
+tier: domestic
+areas: [security, crypto]
+region: japan
+language: japanese
+frequency: annual
+organizer: IPSJ CSEC (Special Interest Group on Computer Security), co-organized by IPSJ SPT (Security Psychology
+  and Trust)
+proceedings: CSS proceedings in the IPSJ Digital Library (Joho Gakkai Hiroba), not peer-reviewed; paid access, free
+  after about 2 years
+archival: false
+rank:
+  core: Unranked
+fee: 15,400 JPY student member, 18,700 JPY student non-member, 33,000 JPY CSEC/SPT member, 36,300 JPY IPSJ/IEICE
+  member, 39,600 JPY general (2026, early rate until 2026-09-11; same rates as 2025)
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://www.iwsec.org/css/2026/
+notes:
+- Organized by IPSJ CSEC; held in mid or late October in various cities across Japan (Okayama 2025, Hamamatsu 2026)
+- 8 workshops held jointly in 2026 (MWS, PWS, UWS, OWS, BWS, AWS, FWS, TWS); the CFP has tracks for MWS, PWS, UWS,
+  OWS, BWS, AWS and TWS plus system and cryptography tracks
+- Papers (up to 8 pages plus 5 pages appendix) are work in progress and not peer-reviewed; they appear in the IPSJ
+  Digital Library as the CSS proceedings; many presenters are students
+- Abstract/application deadline early August, final manuscript late August; demonstration (poster) session is first
+  come, first served
+- Hybrid (online viewing), but oral and poster presentations must be given on-site; English papers accepted, most
+  talks in Japanese
+editions:
+- year: 2025
+  start: 2025-10-27
+  end: 2025-10-31
+  location: Okayama, Japan
+  url: https://www.iwsec.org/css/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-08-01
+    label: Presentation application with abstract
+  - kind: submission
+    date: 2025-08-22
+    time: '17:00'
+    tz: JST
+    label: Final manuscript (camera-ready, no review)
+  - kind: other
+    date: 2025-08-25
+    time: '17:00'
+    tz: JST
+    label: Demonstration (poster) session application
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-23
+  location: Hamamatsu, Japan
+  url: https://www.iwsec.org/css/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-03
+    time: '23:59'
+    tz: JST
+    label: Presentation application with abstract
+  - kind: submission
+    date: 2026-08-21
+    time: '17:00'
+    tz: JST
+    label: Final manuscript (camera-ready, no review)
+  - kind: other
+    date: 2026-08-24
+    time: '17:00'
+    tz: JST
+    label: Demonstration (poster) session application
+  - kind: other
+    date: 2026-09-11
+    label: Early registration ends
+sources:
+- https://www.iwsec.org/css/2026/
+- https://www.iwsec.org/css/2026/cfp.html
+- https://www.iwsec.org/css/2026/fee.html
+- https://www.iwsec.org/css/2026/writing.html
+- https://www.iwsec.org/css/2026/english/
+- https://www.iwsec.org/css/2025/
+- https://www.iwsec.org/css/2025/cfp.html
+- https://www.iwsec.org/css/2025/fee.html
+- https://ipsj.ixsq.nii.ac.jp/api/records/2009046
+unverified:
+- CSS 2027 dates and location (no 2027 site yet on 2026-09-28)
+last_verified: 2026-09-28

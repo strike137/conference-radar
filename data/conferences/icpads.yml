@@ -1,0 +1,73 @@
+id: icpads
+name: ICPADS
+full_name: IEEE International Conference on Parallel and Distributed Systems
+type: conference
+tier: major
+areas: [systems, networking, ai, security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: B
+  ccf: C
+fee: USD 750 IEEE member, USD 900 non-member author registration, early bird until 2026-10-01 (late USD 950 / 1,100)
+  (2026)
+typical:
+  deadline_months: [6, 8]
+  conference_months: [10, 11, 12]
+links:
+  website: https://www.cloud-conf.net/icpads2026/
+notes:
+- IEEE Computer Society conference; 32nd edition in 2026
+- Mostly held in Asia (2023 Hainan, 2025 Hefei), but 2024 was Belgrade, Serbia; 2026 edition at Waseda University,
+  Tokyo (Nov 22-26)
+- CORE B, CCF C; 2026 tracks include Web3.0 Security and Privacy, Agentic Design for System and Network, AI Infrastructure
+  and Edge Intelligence
+- Single-blind; 8 pages IEEE CS format, submissions over 10 pages rejected without review
+- 'Deadlines are routinely extended (2025: Aug 15 -> Aug 31; 2026: Jun 30 -> Aug 15)'
+editions:
+- year: 2025
+  start: 2025-12-14
+  end: 2025-12-18
+  location: Hefei, China
+  url: http://ieee-icpads.org.cn/
+  deadlines:
+  - kind: submission
+    date: 2025-08-31
+    label: Research paper submission (extended from 2025-08-15)
+  - kind: notification
+    date: 2025-10-15
+  - kind: camera_ready
+    date: 2025-10-31
+- year: 2026
+  start: 2026-11-22
+  end: 2026-11-26
+  location: Tokyo, Japan
+  url: https://www.cloud-conf.net/icpads2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-15
+    label: Research paper submission (extended from 2026-06-30)
+  - kind: notification
+    date: 2026-09-15
+  - kind: camera_ready
+    date: 2026-10-15
+    label: Camera-ready and registration
+sources:
+- https://www.cloud-conf.net/icpads2026/
+- https://www.cloud-conf.net/icpads2026/cfp-research-paper.html
+- https://www.cloud-conf.net/icpads2026/registration.html
+- https://www.cloud-conf.net/icpads2026/venue.html
+- https://web.archive.org/web/20260330203227/https://www.cloud-conf.net/icpads2026/
+- https://web.archive.org/web/20251109092048/http://ieee-icpads.org.cn/
+- https://web.archive.org/web/20250815203411/http://ieee-icpads.org.cn/registration.html
+- https://api.crossref.org/works?query.bibliographic=IEEE+International+Conference+on+Parallel+and+Distributed+Systems+ICPADS&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ICPADS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Acceptance rate
+- Deadline timezone (ccf-deadlines says AoE for 2026; the official page does not state it)
+last_verified: 2026-09-28

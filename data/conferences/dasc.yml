@@ -1,0 +1,87 @@
+id: dasc
+name: IEEE DASC
+full_name: IEEE International Conference on Dependable, Autonomic and Secure Computing (joint with PICom, CBDCom
+  and CyberSciTech)
+type: conference
+tier: minor
+areas: [security, systems, ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE (CyberSciTech/DASC/PICom/CBDCom joint congress)
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: C
+fee: AUD 1,080 IEEE member, AUD 1,300 non-member; students AUD 760 / 915 (2026, advance/author rate)
+typical:
+  deadline_months: [6, 7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://cyber-science.org/
+notes:
+- Joint event CyberSciTech/DASC/PICom/CBDCom; DASC reaches its 24th edition in 2026
+- 'Strong Japanese involvement: 2025 held in Hakodate, Japan; 2026 general executive chair from Kyushu Sangyo University
+  and an advisory committee mostly from Japan (Osaka, Tohoku, Kyoto Sangyo, NICT)'
+- CORE C, not in the CCF list; IEEE CS proceedings (EI indexed); has a security, privacy and trust track
+- 'Hybrid format: online presenters pay the same fee; separate regular, WiP/poster/workshop and late-breaking (LBI)
+  paper deadlines'
+- 'Rotates worldwide: 2022 Falerna (Italy), 2023 Abu Dhabi, 2024 Boracay (Philippines), 2025 Hakodate, 2026 Melbourne'
+editions:
+- year: 2025
+  start: 2025-10-21
+  end: 2025-10-24
+  location: Hakodate, Japan
+  url: https://cyber-science.org/2025/dasc/
+  deadlines:
+  - kind: submission
+    date: 2025-07-11
+    label: Regular papers (extended from 2025-06-10)
+  - kind: submission
+    date: 2025-07-31
+    label: WiP/Poster/Workshop/SS papers (extended from 2025-06-20)
+  - kind: submission
+    date: 2025-08-10
+    label: Late-breaking (LBI) papers
+  - kind: notification
+    date: 2025-08-16
+  - kind: camera_ready
+    date: 2025-09-20
+    label: Camera-ready (firm, moved from 2025-09-12)
+- year: 2026
+  start: 2026-11-09
+  end: 2026-11-13
+  location: Melbourne, Australia
+  url: https://cyber-science.org/2026/dasc/
+  deadlines:
+  - kind: submission
+    date: 2026-08-15
+    label: Regular papers (extended from 2026-07-15)
+  - kind: submission
+    date: 2026-08-25
+    label: WiP/Poster/Workshop/SS papers (extended from 2026-08-15)
+  - kind: submission
+    date: 2026-08-25
+    label: Late-breaking (LBI) papers
+  - kind: notification
+    date: 2026-09-01
+  - kind: other
+    date: 2026-09-24
+    label: Paper registration due
+  - kind: camera_ready
+    date: 2026-10-01
+sources:
+- https://cyber-science.org/2026/
+- https://cyber-science.org/2026/dasc/
+- https://cyber-science.org/2026/registration/
+- http://cyber-science.org/2026/assets/files/DASC2026_CFP.pdf
+- https://cyber-science.org/2025/dasc/
+- https://cyber-science.org/2025/
+- https://api.crossref.org/works?query.bibliographic=Dependable+Autonomic+Secure+Computing+DASC&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=DASC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- dblp key conf/dasc (dblp was unreachable)
+- Acceptance rate
+- '2026 LBI deadline: the website says 2026-08-25, while the CFP PDF (updated 18 Jul) says 2026-08-20'
+last_verified: 2026-09-28

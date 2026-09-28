@@ -1,0 +1,72 @@
+id: netsoft
+name: NetSoft
+full_name: IEEE International Conference on Network Softwarization
+type: conference
+tier: major
+areas: [networking, systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Communications Society
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: B
+fee: 750 EUR ComSoc member, 775 EUR IEEE member, 900 EUR non-member (2026, full author registration)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7]
+links:
+  website: https://netsoft2026.ieee-netsoft.org/
+notes:
+- Focused on SDN, NFV, programmable and intent-based networking; mostly single-track
+- Full papers 9 pages, short papers 6 pages including references; author names on submissions (not double-blind)
+- '2026: 23 long and 20 short papers presented, 6 co-located workshops (including SecSoft)'
+- Mostly in Europe (Milan 2022, Madrid 2023, Budapest 2025, Berlin 2026) but also St. Louis 2024 and Tokyo 2021
+  (virtual); NetSoft 2027 general co-chairs are from SKKU (Korea) and Tokyo City University
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  location: Berlin, Germany
+  url: https://netsoft2026.ieee-netsoft.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-06
+    label: Technical papers (hard deadline after extension from 2026-01-26)
+  - kind: notification
+    date: 2026-03-23
+    label: Technical papers
+  - kind: camera_ready
+    date: 2026-04-24
+    label: Technical papers
+- year: 2027
+  url: https://netsoft2027.ieee-netsoft.org/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+    label: Technical papers
+  - kind: notification
+    date: 2027-03-26
+    label: Technical papers
+  - kind: camera_ready
+    date: 2027-04-23
+    label: Technical papers
+sources:
+- https://netsoft2026.ieee-netsoft.org/
+- https://netsoft2026.ieee-netsoft.org/call-technical-session-papers
+- https://netsoft2026.ieee-netsoft.org/registration
+- https://netsoft2025.ieee-netsoft.org/
+- https://netsoft2024.ieee-netsoft.org/
+- https://netsoft2023.ieee-netsoft.org/
+- https://netsoft2022.ieee-netsoft.org/
+- https://netsoft2021.ieee-netsoft.org/
+- https://nfvsdn2026.ieee-nfvsdn.org/call-papers
+- https://portal.core.edu.au/conf-ranks/?search=NetSoft&by=all&source=ICORE2026
+unverified:
+- NetSoft 2027 location and dates not published; the netsoft2027 site is password protected (HTTP 401)
+- NetSoft 2027 deadlines come from a NetSoft 2027 CFP page that is served (apparently by mistake) under the NFV-SDN
+  2026 site; treat as tentative
+- Acceptance rate (submission count) not published
+last_verified: 2026-09-28

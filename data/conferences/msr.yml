@@ -1,0 +1,114 @@
+id: msr
+name: MSR
+full_name: International Conference on Mining Software Repositories
+type: conference
+tier: major
+areas: [software, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE/ACM, co-located with ICSE
+proceedings: IEEE Xplore / ACM DL (alternates; IEEE format in 2027, ACM format in 2026)
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: C
+fee: About 480 USD (2026, early, ACM/IEEE member, two-day co-located registration at ICSE 2026; 600 USD non-member)
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4]
+links:
+  website: https://2027.msrconf.org/
+  dblp: https://dblp.org/db/conf/msr/
+notes:
+- Main venue for mining software repositories and empirical SE data; co-located with ICSE every year
+- Two-day conference with Technical, Data and Tool Showcase, Mining Challenge, Industry and Registered Reports tracks
+- Junior PC program puts early-career researchers (PhD students, postdocs) on the Technical track PC
+- CORE A but only CCF C; double-anonymous review; 10 pages plus 2 pages of references
+- MSR 2027 technical track adds an early reject stage before the author response
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-14
+  location: Rio de Janeiro, Brazil
+  url: https://2026.msrconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-20
+    tz: AoE
+    label: Technical papers
+  - kind: submission
+    date: 2025-10-23
+    tz: AoE
+    label: Technical papers
+  - kind: other
+    date: 2025-12-08
+    tz: AoE
+    label: Author response (Dec 8 to 11)
+  - kind: notification
+    date: 2026-01-07
+    label: Technical papers
+  - kind: camera_ready
+    date: 2026-01-26
+- year: 2027
+  start: 2027-04-26
+  end: 2027-04-27
+  location: Dublin, Ireland
+  url: https://2027.msrconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-20
+    tz: AoE
+    label: Technical papers
+  - kind: submission
+    date: 2026-10-23
+    tz: AoE
+    label: Technical papers
+  - kind: abstract
+    date: 2026-11-05
+    tz: AoE
+    label: Data and Tool Showcase
+  - kind: submission
+    date: 2026-11-10
+    tz: AoE
+    label: Data and Tool Showcase
+  - kind: abstract
+    date: 2026-11-13
+    tz: AoE
+    label: Registered Reports (initial report abstract)
+  - kind: submission
+    date: 2026-11-20
+    tz: AoE
+    label: Registered Reports (initial report)
+  - kind: other
+    date: 2026-12-03
+    label: Technical papers early reject notification; author response Dec 4 to 8
+  - kind: abstract
+    date: 2026-12-18
+    tz: AoE
+    label: Mining Challenge
+  - kind: submission
+    date: 2026-12-18
+    tz: AoE
+    label: Industry track
+  - kind: submission
+    date: 2026-12-23
+    tz: AoE
+    label: Mining Challenge
+  - kind: notification
+    date: 2027-01-08
+    label: Technical papers
+  - kind: camera_ready
+    date: 2027-01-26
+    label: Technical papers
+sources:
+- https://2027.msrconf.org/track/msr-2027-technical-papers
+- https://conf.researchr.org/dates/icse-2027
+- https://2027.msrconf.org/
+- https://2026.msrconf.org/track/msr-2026-technical-papers
+- https://2026.msrconf.org/
+- https://conf.researchr.org/attending/icse-2026/registration
+- https://portal.core.edu.au/conf-ranks/?search=MSR&by=acronym&source=ICORE2026
+unverified:
+- Recent acceptance rate not found in an official source
+last_verified: 2026-09-28

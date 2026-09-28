@@ -1,0 +1,65 @@
+id: sac-crypto
+name: SAC
+full_name: Selected Areas in Cryptography
+type: conference
+tier: major
+areas: [crypto]
+region: north-america
+language: english
+frequency: annual
+organizer: 'Hosted by a Canadian university each year (2026: University of Ottawa, 2027: University of Victoria)'
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 26% (2026, 29/113)
+fee: 600 CAD regular, 400 CAD student, plus 13% HST (2026)
+typical:
+  deadline_months: [1, 2, 5]
+  conference_months: [8]
+links:
+  website: https://sacworkshop.org/
+  dblp: https://dblp.org/db/conf/sacrypt/index.html
+notes:
+- Canada's annual cryptography conference, held since 1994
+- Two submission cycles (late January or February, and May); proceedings in Springer LNCS
+- 'Preceded by a two-day SAC Summer School; each year adds a special selected topic (2026: lattice-based and code-based
+  cryptography)'
+- SAC 2026 was co-located with PST 2026; partial support available for students and postdocs
+editions:
+- year: 2026
+  start: 2026-08-26
+  end: 2026-08-28
+  location: Ottawa, Canada
+  url: https://sacworkshop.org/SAC26/
+  deadlines:
+  - kind: submission
+    date: 2026-02-02
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2026-03-19
+    label: Cycle 1 notification
+  - kind: submission
+    date: 2026-05-11
+    tz: AoE
+    label: Cycle 2
+  - kind: notification
+    date: 2026-06-29
+    label: Cycle 2 notification (delayed from 25 Jun)
+- year: 2027
+  location: Victoria, Canada
+  url: https://sacworkshop.org/SAC27/
+  status: tentative
+  deadlines: []
+sources:
+- https://sacworkshop.org/SAC26/
+- https://sacworkshop.org/SAC27/
+- https://sacworkshop.org/SAC26/registration.html
+- https://sacworkshop.org/SAC25/
+- https://sacworkshop.org/historical-acceptance.html
+- https://portal.core.edu.au/conf-ranks/?search=SAC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- SAC 2027 dates, special topic and deadlines are still 'to be announced'
+last_verified: 2026-09-28

@@ -1,0 +1,90 @@
+id: ecml-pkdd
+name: ECML PKDD
+full_name: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+type: conference
+tier: major
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: ECML PKDD Association (IVZW)
+proceedings: Springer LNCS (LNAI); journal track in Machine Learning and Data Mining and Knowledge Discovery
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: B
+fee: 750 EUR regular or author early, 550 EUR student early (2026, full five-day ticket, includes 30 EUR association
+  membership)
+typical:
+  deadline_months: [3]
+  conference_months: [9]
+links:
+  website: https://ecmlpkdd.org/
+  dblp: https://dblp.org/db/conf/pkdd/
+notes:
+- Flagship European machine learning and data mining conference, held in Europe every late August or September
+- Research and Applied Data Science tracks share one March deadline (abstract a week earlier); double-blind; 16
+  pages including references in Springer LNCS format
+- 'Journal track with earlier deadlines (October and January for 2026): papers are reviewed by Machine Learning
+  or DMKD (single-blind) and presented at the conference'
+- Registration was capped at 1,500 in 2026; in-person presentation required
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-11
+  location: Naples, Italy
+  url: https://ecmlpkdd.org/2026/
+  deadlines:
+  - kind: other
+    date: 2025-10-30
+    time: '23:59'
+    tz: AoE
+    label: Journal track, 1st deadline
+  - kind: other
+    date: 2026-01-15
+    time: '23:59'
+    tz: AoE
+    label: Journal track, 2nd deadline
+  - kind: abstract
+    date: 2026-03-05
+    time: '23:59'
+    tz: AoE
+    label: Research and ADS tracks
+  - kind: submission
+    date: 2026-03-12
+    time: '23:59'
+    tz: AoE
+    label: Research and ADS tracks
+  - kind: notification
+    date: 2026-05-27
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-20
+    time: '23:59'
+    tz: AoE
+    label: Moved from 18 June
+- year: 2027
+  start: 2027-08-30
+  end: 2027-09-03
+  location: Eindhoven, Netherlands
+  url: https://ecmlpkdd.org/2027/
+  deadlines: []
+sources:
+- https://ecmlpkdd.org/2027/
+- https://ecmlpkdd.org/
+- https://ecmlpkdd.org/2026/
+- https://ecmlpkdd.org/2026/submissions-research-track/
+- https://ecmlpkdd.org/2026/submissions-ads-track/
+- https://ecmlpkdd.org/2026/submissions-journal-track/
+- https://ecmlpkdd.org/2026/attending-registration/
+- https://ecmlpkdd.org/2026/proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=ECML&by=acronym&source=ICORE2026
+unverified:
+- Research-track acceptance rate for 2025 and 2026 (a Springer pre-order page reportedly lists 280/1150 for 2026;
+  not confirmed, Springer pages blocked)
+- ECML PKDD 2027 deadlines, including the 2027 journal track, not yet published
+- Some trackers list ECML PKDD 2027 as 20 to 24 September 2027; the official site says 30 August to 3 September
+  2027
+last_verified: 2026-09-28

@@ -1,0 +1,94 @@
+id: dsn
+name: DSN
+full_name: IEEE/IFIP International Conference on Dependable Systems and Networks
+type: conference
+tier: major
+areas: [systems, security, networking, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society TC on Dependable Computing and Fault Tolerance and IFIP WG 10.4
+proceedings: IEEE Xplore
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 19.8% (2026, 65/329)
+fee: 900 USD (2026, IEEE/IFIP member author, advance); 1,080 USD non-member
+typical:
+  deadline_months: [11, 12]
+  conference_months: [6]
+links:
+  website: https://dsn2027-berlin.github.io/
+  dblp: https://dblp.org/db/conf/dsn/index.html
+notes:
+- Flagship venue for dependability and resilience; CORE A, CCF B
+- Double-blind review with early reject, rebuttal and a one-round paper revision phase
+- Abstract registration one week before the early December paper deadline; conference in late June
+- Location rotates worldwide; held in Brisbane, Australia in 2024 and Taipei (virtual) in 2021
+- Acceptance rate steady around 20%; student travel grants and mentoring program offered
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-25
+  location: Charlotte, NC, USA
+  url: https://dsn2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-27
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2025-12-04
+    tz: AoE
+    label: Research track
+  - kind: other
+    date: 2026-01-27
+    tz: AoE
+    label: Early reject notification
+  - kind: notification
+    date: 2026-03-19
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-28
+    tz: AoE
+- year: 2027
+  start: 2027-06-22
+  end: 2027-06-25
+  location: Berlin, Germany
+  url: https://dsn2027-berlin.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-25
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2026-12-02
+    tz: AoE
+    label: Research track
+  - kind: other
+    date: 2027-01-26
+    tz: AoE
+    label: Early reject notification
+  - kind: other
+    date: 2027-02-12
+    tz: AoE
+    label: Author rebuttal and revision period starts (until 2027-02-26)
+  - kind: notification
+    date: 2027-03-18
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-04-24
+    tz: AoE
+sources:
+- https://dsn2027-berlin.github.io/call-for-contributions/
+- https://dsn2027-berlin.github.io/
+- https://dsn2026.github.io/
+- https://dsn2026.github.io/cfpapers.html
+- https://dsn2026.github.io/registration.html
+- https://www.dependability.org/?page_id=808
+- https://portal.core.edu.au/conf-ranks/?search=DSN&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- Deadlines for DSN 2027 workshops, industry, Disrupt and doctoral forum tracks not yet published
+last_verified: 2026-09-28

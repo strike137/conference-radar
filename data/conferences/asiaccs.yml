@@ -1,0 +1,112 @@
+id: asiaccs
+name: ASIA CCS
+full_name: ACM Asia Conference on Computer and Communications Security
+type: conference
+tier: major
+areas: [security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ACM SIGSAC
+proceedings: ACM DL
+indexing: [Scopus, DBLP, EI]
+rank:
+  core: A
+  ccf: C
+acceptance_rate: 22% (2026, 120/536)
+fee: About 1050 USD early full registration for ACM members, 1150 USD non-members, 750 USD ACM student members,
+  plus 18% GST (2026, international delegates)
+typical:
+  deadline_months: [1, 8, 9, 12]
+  conference_months: [6, 7, 8]
+links:
+  website: https://asiaccs2027.cityu.edu.mo/
+  dblp: https://dblp.org/db/conf/asiaccs/index.html
+notes:
+- Asia-based sister conference of ACM CCS under SIGSAC, started in Taipei in 2006; proceedings in ACM DL
+- Two cycles (around August/September and December/January); double-blind; 7 technical tracks; early rejection,
+  rebuttal and major revision option
+- 'Rotates within Asia-Pacific: Hanoi (2025), Bangalore (2026), Macau (2027); a realistic Asia-based target for
+  the lab'
+- CORE A but only CCF C; acceptance around 22%
+editions:
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-05
+  location: Bangalore, India
+  url: https://asiaccs2026.cse.iitkgp.ac.in/
+  deadlines:
+  - kind: submission
+    date: 2025-08-25
+    time: '23:59'
+    tz: AoE
+    label: Cycle 1
+  - kind: other
+    date: 2025-10-01
+    label: 'Cycle 1: early rejection'
+  - kind: notification
+    date: 2025-11-19
+    label: Cycle 1
+  - kind: submission
+    date: 2025-12-12
+    time: '23:59'
+    tz: AoE
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2025-12-17
+    label: Cycle 1
+  - kind: other
+    date: 2026-01-21
+    label: 'Cycle 2: early rejection'
+  - kind: notification
+    date: 2026-03-10
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2026-04-07
+    label: Cycle 2
+- year: 2027
+  start: 2027-07-12
+  end: 2027-07-16
+  location: Macau, China
+  url: https://asiaccs2027.cityu.edu.mo/
+  deadlines:
+  - kind: submission
+    date: 2026-08-21
+    tz: AoE
+    label: Cycle 1
+  - kind: other
+    date: 2026-09-25
+    label: 'Cycle 1: early rejection'
+  - kind: notification
+    date: 2026-11-13
+    label: Cycle 1
+  - kind: camera_ready
+    date: 2026-12-11
+    label: Cycle 1
+  - kind: submission
+    date: 2026-12-11
+    tz: AoE
+    label: Cycle 2
+  - kind: other
+    date: 2027-02-05
+    label: 'Cycle 2: early rejection'
+  - kind: notification
+    date: 2027-03-31
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2027-05-07
+    label: Cycle 2
+sources:
+- https://asiaccs2027.cityu.edu.mo/home/index.html
+- https://asiaccs2027.cityu.edu.mo/call-for-papers/index.html
+- https://asiaccs2027.cityu.edu.mo/important-dates/index.html
+- https://asiaccs2026.cse.iitkgp.ac.in/
+- https://asiaccs2026.cse.iitkgp.ac.in/registration/
+- https://asiaccs2025.hust.edu.vn/
+- https://portal.core.edu.au/conf-ranks/?search=ASIACCS&by=all&source=ICORE2026&sort=atitle&page=1
+- http://jianying.space/conference-ranking.html
+unverified:
+- Acceptance rate taken from Jianying Zhou's statistics page
+- ASIA CCS 2027 first-round major revision deadline differs between the important-dates page (10 Feb 2027) and the
+  CFP (12 Feb 2027); left out
+last_verified: 2026-09-28

@@ -1,0 +1,78 @@
+id: wise
+name: WISE
+full_name: International Conference on Web Information Systems Engineering
+type: conference
+tier: major
+areas: [data]
+region: worldwide
+language: english
+frequency: annual
+organizer: WISE Society
+proceedings: Springer LNCS
+indexing: [Scopus, EI, DBLP]
+rank:
+  core: B
+  ccf: B
+acceptance_rate: 54% (2025, 76/140)
+fee: About 700 EUR (2026, regular)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [11, 12]
+links:
+  website: https://conferences.sigappfr.org/wise2026/
+  dblp: https://dblp.org/db/conf/wise/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=3088
+notes:
+- Started in Asia-Pacific (2000 Hong Kong) but now rotates worldwide (2023 Australia, 2024 Doha, 2025 Marrakech,
+  2026 Venice)
+- Proceedings in Springer LNCS; 15 pages, double-blind review via Microsoft CMT
+- CCF B and CORE B, but acceptance has been high recently (45-54%, 2023-2025)
+- 2026 has special tracks on security and runtime governance of AI-driven critical systems, and on knowledge graphs
+  and RAG; online presentation possible
+editions:
+- year: 2025
+  start: 2025-12-15
+  end: 2025-12-18
+  location: Marrakech, Morocco
+  url: https://www.ficloud.org/wise2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-17
+  - kind: notification
+    date: 2025-09-03
+  - kind: camera_ready
+    date: 2025-09-20
+- year: 2026
+  start: 2026-11-01
+  end: 2026-11-05
+  location: Venice, Italy
+  url: https://conferences.sigappfr.org/wise2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    time: '23:59'
+    tz: AoE
+    label: Research papers (extended from 2026-06-17)
+  - kind: notification
+    date: 2026-08-10
+    time: '23:59'
+    tz: AoE
+    label: Revised from 2026-07-20
+  - kind: camera_ready
+    date: 2026-08-25
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-09-05
+    label: Author registration (research, special, demo, industrial tracks)
+sources:
+- https://conferences.sigappfr.org/wise2026/
+- https://conferences.sigappfr.org/wise2026/call-for-papers/
+- https://conferences.sigappfr.org/wise2026/registration-fees/
+- https://www.ficloud.org/wise2025
+- https://www.ficloud.org/wise2025/cfp.php
+- https://portal.core.edu.au/conf-ranks/?search=WISE&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- WISE 2025 deadline timezone and whether it was extended
+- WISE 2027 location not announced (no 2027 site found)
+last_verified: 2026-09-28

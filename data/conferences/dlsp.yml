@@ -1,0 +1,55 @@
+id: dlsp
+name: DLSP
+full_name: IEEE Deep Learning Security and Privacy Workshop
+type: workshop
+tier: minor
+areas: [security, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Computer Society Technical Community on Security and Privacy (co-located with IEEE S&P)
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://dlsp2025.ieee-security.org/
+notes:
+- Co-located with the IEEE Symposium on Security and Privacy in San Francisco; started in 2018 as DLS (Deep Learning
+  and Security Workshop), renamed DLSP in 2023
+- 'Two tracks: archival full papers (6 pages plus references) in the IEEE S&P workshop proceedings, and non-archival
+  extended abstracts (3 pages) posted on the website'
+- Last held as the 8th edition on 2025-05-15; not on the list of IEEE S&P 2026 co-located workshops, so there was
+  no 2026 edition
+- 'Short deadline-to-event cycle: submission in February (usually extended by about a week), workshop in May'
+editions:
+- year: 2025
+  start: 2025-05-15
+  end: 2025-05-15
+  location: San Francisco, USA
+  url: https://dlsp2025.ieee-security.org/
+  deadlines:
+  - kind: submission
+    date: 2025-02-14
+    time: '23:59'
+    tz: AoE
+    label: Extended from Feb 9
+  - kind: notification
+    date: 2025-03-14
+  - kind: camera_ready
+    date: 2025-04-18
+sources:
+- https://dlsp2025.ieee-security.org/
+- https://dlsp2024.ieee-security.org/
+- https://dls2023.ieee-security.org/
+- https://www.ieee-security.org/TC/SPW2022/DLS/
+- https://sp2025.ieee-security.org/workshops.html
+- https://sp2026.ieee-security.org/workshops.html
+unverified:
+- Whether DLSP will return with IEEE S&P 2027 (no announcement found)
+- Acceptance rates not published
+last_verified: 2026-09-28

@@ -1,0 +1,68 @@
+id: dicomo
+name: DICOMO
+full_name: Multimedia, Distributed, Cooperative, and Mobile Symposium
+name_local: マルチメディア、分散、協調とモバイルシンポジウム
+type: conference
+tier: domestic
+areas: [networking, communications, systems, security]
+region: japan
+language: japanese
+frequency: annual
+organizer: 'IPSJ SIGs: DPS, CN, MBL, CSEC, ITS, UBI, IOT, SPT, CDS, DCC'
+proceedings: IPSJ (Symposium Series)
+rank:
+  core: Unranked
+fee: 64,900 JPY organizing-SIG member, 75,900 JPY IPSJ member, 46,200 JPY IPSJ student member, 88,000 JPY non-member,
+  55,000 JPY student non-member (2026, includes lodging and meals)
+typical:
+  deadline_months: [3, 5]
+  conference_months: [6]
+links:
+  website: https://dicomo.org/
+notes:
+- Organized by 10 IPSJ SIGs, including CSEC (computer security) and SPT (security psychology and trust)
+- Retreat-style (gasshuku) symposium held every late June at a resort or hot spring hotel; the fee includes lodging
+  and meals and is the same without staying overnight
+- Acceptance decided on a 1-page abstract in March; full paper in IPSJ journal format with no page limit due in
+  May
+- Regular talks about 20 min incl. Q&A, plus demo presentations; strong papers are recommended to IPSJ journal/transactions
+- Goes back to the DiCoMo'97 workshop (July 1997); DICOMO2026 carried a 30th anniversary theme
+editions:
+- year: 2026
+  start: 2026-06-24
+  end: 2026-06-26
+  location: Munakata, Japan
+  url: https://dicomo.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-19
+    time: '23:59'
+    tz: JST
+    label: 1-page abstract submission
+  - kind: notification
+    date: 2026-04-10
+  - kind: camera_ready
+    date: 2026-05-20
+    time: '23:59'
+    tz: JST
+    label: Full paper (extended from 2026-05-13)
+  - kind: other
+    date: 2026-06-01
+    time: '23:59'
+    tz: JST
+    label: Participant registration
+sources:
+- https://dicomo.org/
+- https://dicomo.org/cfp/
+- https://dicomo.org/registration/
+- https://dicomo.org/faq/
+- https://dicomo.org/2026/04/20/%e5%8f%82%e5%8a%a0%e7%99%bb%e9%8c%b2%e3%81%ae%e5%8f%97%e4%bb%98%e3%82%92%e9%96%8b%e5%a7%8b%e3%81%97%e3%81%be%e3%81%97%e3%81%9f-7/
+- https://dicomo.org/2025/
+- https://cir.nii.ac.jp/opensearch/all?q=DiCoMo%2797
+- https://portal.core.edu.au/conf-ranks/?search=DICOMO&by=all&source=ICORE2026
+unverified:
+- DICOMO 2027 not yet announced (dicomo.org/2027/ returns 404)
+- Acceptance rate not published
+- Whether proceedings are treated as archival (reviewed only at abstract level)
+- Whether 1997 was the very first edition (earliest records found are DiCoMo'97 workshop papers)
+last_verified: 2026-09-28

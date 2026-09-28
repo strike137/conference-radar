@@ -1,0 +1,78 @@
+id: tcc
+name: TCC
+full_name: IACR Theory of Cryptography Conference
+type: conference
+tier: major
+areas: [crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: IACR (International Association for Cryptologic Research)
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: B
+  ccf: B
+acceptance_rate: 29% (2025, 70/242)
+fee: 720 USD regular, 360 USD student (2025, before 15 Nov, incl. IACR dues)
+typical:
+  deadline_months: [5]
+  conference_months: [11, 12]
+links:
+  website: https://tcc.iacr.org/
+  dblp: https://dblp.org/db/conf/tcc/index.html
+notes:
+- IACR area conference on the theoretical foundations of cryptography; proceedings in Springer LNCS
+- ICORE2026 lowered it from A (CORE2023) to B; no ranking submission was made and CORE chose the lower rank where
+  data were ambiguous. Still widely regarded as the main theory-of-crypto venue
+- Single deadline in May, conference in November or December; location rotates (TCC 2023 was in Taipei)
+- At least one author must present in person; Young Researcher Award for papers authored solely by early-career
+  researchers
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-05
+  location: Aarhus, Denmark
+  url: https://tcc.iacr.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-27
+    time: '23:59'
+    tz: AoE
+    label: Paper submission
+  - kind: notification
+    date: 2025-08-28
+    label: Final notification
+  - kind: camera_ready
+    date: 2025-09-25
+    label: Final versions due
+- year: 2026
+  start: 2026-11-10
+  end: 2026-11-13
+  location: New York City, USA
+  url: https://tcc.iacr.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-19
+    label: Paper submission
+  - kind: notification
+    date: 2026-08-20
+    label: Notification
+  - kind: camera_ready
+    date: 2026-09-15
+    label: Camera-ready
+sources:
+- https://tcc.iacr.org/2026/callforpapers.php
+- https://tcc.iacr.org/2026/registration.php
+- https://tcc.iacr.org/2025/
+- https://tcc.iacr.org/2025/callforpapers.php
+- https://tcc.iacr.org/2025/registration.php
+- https://iacr.org/meetings/tcc/
+- https://portal.core.edu.au/conf-ranks/1815/
+- https://portal.core.edu.au/core/media/filesToDisplay/missing-submissions-process2026.pdf
+- https://link.springer.com/book/10.1007/978-3-032-12287-2
+unverified:
+- Time zone of the TCC 2026 submission deadline not stated on its CFP page
+- TCC 2026 registration fees still TBD on the official page; fee shown is from 2025
+- TCC 2027 not yet announced
+last_verified: 2026-09-28

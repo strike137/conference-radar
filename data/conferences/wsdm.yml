@@ -1,0 +1,135 @@
+id: wsdm
+name: WSDM
+full_name: ACM International Conference on Web Search and Data Mining
+type: conference
+tier: major
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (SIGIR, SIGKDD, SIGMOD, SIGWEB)
+proceedings: ACM DL
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [8]
+  conference_months: [2, 3]
+links:
+  website: https://wsdm-conference.org/2027/
+  dblp: https://dblp.org/db/conf/wsdm/
+notes:
+- Selective ACM venue for web search, recommender systems and web/social data mining; full-paper acceptance usually
+  below 20%
+- Short paper track (4 pages) added in 2026 for the first time; WSDM 2027 also adds 'Findings of WSDM', decided
+  within the main-track review and presented as posters
+- Double-blind for PC and senior PC; associate chairs see author metadata
+- WSDM 2027 is in Hong Kong in February; earlier Asian edition in Singapore (2023)
+- In-person only; in 2026 every accepted paper also paid a presentation fee (150 USD full, 75 USD short/demo); in
+  2027 an extra fee applies only when one registration covers several papers
+editions:
+- year: 2026
+  start: 2026-02-22
+  end: 2026-02-26
+  location: Boise, Idaho, USA
+  url: https://wsdm-conference.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-08-07
+    time: '23:59'
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2025-08-14
+    time: '23:59'
+    tz: AoE
+    label: Full papers
+  - kind: abstract
+    date: 2025-09-18
+    time: '23:59'
+    tz: AoE
+    label: Short papers (extended)
+  - kind: submission
+    date: 2025-09-25
+    time: '23:59'
+    tz: AoE
+    label: Short papers (extended)
+  - kind: notification
+    date: 2025-10-23
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2025-11-27
+    tz: AoE
+    label: Short papers
+- year: 2027
+  start: 2027-02-15
+  end: 2027-02-19
+  location: Hong Kong, China
+  url: https://wsdm-conference.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-17
+    time: '23:59'
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-08-24
+    time: '23:59'
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2026-10-06
+    time: '23:59'
+    tz: AoE
+    label: Tutorial proposals
+  - kind: other
+    date: 2026-10-10
+    time: '23:59'
+    tz: AoE
+    label: Workshop proposals
+  - kind: other
+    date: 2026-10-15
+    time: '23:59'
+    tz: AoE
+    label: Demonstration papers
+  - kind: other
+    date: 2026-10-30
+    time: '23:59'
+    tz: AoE
+    label: Industry day talks
+  - kind: notification
+    date: 2026-11-02
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2026-11-12
+    time: '23:59'
+    tz: AoE
+    label: Doctoral consortium
+  - kind: submission
+    date: 2026-11-17
+    time: '23:59'
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2026-12-18
+    tz: AoE
+    label: Short papers
+sources:
+- https://wsdm-conference.org/2027/
+- https://wsdm-conference.org/2027/cffp.html
+- https://wsdm-conference.org/2027/cfsp.html
+- https://wsdm-conference.org/2026/index.php/call-for-papers/
+- https://wsdm-conference.org/2026/index.php/call-for-short-papers/
+- https://wsdm-conference.org/2026/index.php/registration/
+- https://portal.core.edu.au/conf-ranks/?search=WSDM&by=acronym&source=ICORE2026
+- https://csconfstats.xoveexu.com/conferences/wsdm/2026/
+unverified:
+- WSDM 2026 full-paper acceptance rate (reported as 16.3%, 100/613, by the csconfstats aggregator; no official figure
+  found)
+- WSDM 2027 camera-ready date (TBD on site)
+- WSDM Cup 2027 proposal deadline (20 October 2026, marked tentative on site)
+last_verified: 2026-09-28

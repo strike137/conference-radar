@@ -1,0 +1,64 @@
+id: hitcon
+name: HITCON
+full_name: Hacks in Taiwan Conference
+name_local: 台灣駭客年會
+type: industry
+tier: major
+areas: [security]
+region: taiwan
+language: mixed
+frequency: annual
+organizer: Association of Hackers in Taiwan (HIT) with CHROOT and the Institute of Information Science, Academia
+  Sinica
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+fee: 6,000 TWD regular, 5,000 TWD early bird, 2,500 TWD student (2026)
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://hitcon.org/2026/en-US/
+notes:
+- Taiwan's main hacker conference, first held in 2005 by the CHROOT group; the community conference is in August
+  at the Academia Sinica Humanities and Social Sciences building, Taipei
+- CFP via Sessionize from late March to mid-May; 40-minute talks and 80-minute Hacking 101 tutorials; a Future Star
+  program encourages student submissions
+- Speakers get an honorarium (400 USD regular, 100 USD Hacking 101) and hotel nights
+- Student ticket 2,500 TWD (valid student ID, age 24 or under); a separate student subsidy program gives free entry
+  with a teacher's recommendation
+- 'Yearly theme; 2026 was ''When AI Acts: Hacking the Age of Agentic Systems''. The separate HITCON Enterprise conference
+  was last listed for 2024; HIT now runs a closed-door HITCON CISO Summit (Oct 21, 2026, Taipei)'
+editions:
+- year: 2025
+  start: 2025-08-15
+  end: 2025-08-16
+  location: Taipei, Taiwan
+  url: https://hitcon.org/2025/en-US/
+  deadlines: []
+- year: 2026
+  start: 2026-08-21
+  end: 2026-08-22
+  location: Taipei, Taiwan
+  url: https://hitcon.org/2026/en-US/
+  deadlines:
+  - kind: submission
+    date: 2026-05-18
+    time: '19:59'
+    tz: UTC+8
+sources:
+- https://sessionize.com/hitcon-2026/
+- https://hitcon.kktix.cc/events/hitcon-2026
+- https://hitcon.kktix.cc/events/hitcon-2025
+- https://hitcon.org/2026/en-US/cfp/
+- https://hacker.org.tw/en/conference/hitcon-community/
+- https://hacker.org.tw/en/conference/hitcon-enterprise/
+- https://blog.hitcon.org/2026/04/hitcon-ciso-summit-2026.html
+unverified:
+- 2026 notification dates (search snippets mention May 17 or May 24 depending on AI-review opt-in, and an earlier
+  May 3 deadline that appears to have been extended)
+- HITCON 2025 CFP deadline (hitcon.org blocked by Cloudflare)
+- Talk languages (Mandarin and English assumed from past programs)
+- HITCON 2027 dates not announced
+last_verified: 2026-09-28

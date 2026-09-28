@@ -1,0 +1,98 @@
+id: space-conf
+name: SPACE
+full_name: International Conference on Security, Privacy, and Applied Cryptographic Engineering
+type: conference
+tier: minor
+areas: [security, crypto]
+region: south-asia
+language: english
+frequency: annual
+organizer: 'Rotating Indian host (2025: IIT Guwahati; 2026: CDAC Bangalore)'
+proceedings: Springer LNCS
+indexing: [Scopus, DBLP]
+rank:
+  core: Unranked
+acceptance_rate: About 21% (2025, 22/103)
+typical:
+  deadline_months: [5, 6, 7, 9, 10]
+  conference_months: [12]
+links:
+  website: https://space2026.isec.tugraz.at/
+  dblp: https://dblp.org/db/conf/space/index.html
+notes:
+- Held in India every December since 2011; strong in hardware security, side channels and cryptographic engineering
+- Two submission cycles per year; double-blind review; LNCS format up to 20 pages including bibliography and appendices
+- The 2026 call targets real-world security and privacy; purely theoretical crypto papers and papers mainly on blockchain
+  or ML are discouraged
+- Proceedings in Springer LNCS; recent editions ran a poster session for work in progress where the first author
+  must be a student
+- Not ranked by CORE and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-12-16
+  end: 2025-12-19
+  location: Guwahati, India
+  url: https://event.iitg.ac.in/space2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-02
+    label: Cycle 1 (extended)
+  - kind: submission
+    date: 2025-05-08
+    label: Cycle 1 (extended)
+  - kind: notification
+    date: 2025-06-22
+    label: Cycle 1
+  - kind: abstract
+    date: 2025-09-15
+    label: Cycle 2 (extended)
+  - kind: submission
+    date: 2025-09-15
+    label: Cycle 2 (extended)
+  - kind: notification
+    date: 2025-10-29
+    label: Cycle 2
+- year: 2026
+  start: 2026-12-16
+  end: 2026-12-19
+  location: Bengaluru, India
+  url: https://space2026.isec.tugraz.at/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-07
+    tz: AoE
+    label: Cycle 1 (extended)
+  - kind: submission
+    date: 2026-07-10
+    tz: AoE
+    label: Cycle 1 (extended)
+  - kind: notification
+    date: 2026-08-14
+    tz: AoE
+    label: Cycle 1
+  - kind: abstract
+    date: 2026-09-25
+    tz: AoE
+    label: Cycle 2 (extended, firm)
+  - kind: submission
+    date: 2026-10-02
+    tz: AoE
+    label: Cycle 2 (extended, firm)
+  - kind: notification
+    date: 2026-11-09
+    tz: AoE
+    label: Cycle 2
+sources:
+- https://space2026.isec.tugraz.at/
+- https://space2026.isec.tugraz.at/call-for-papers/
+- http://web.archive.org/web/20250916015528/https://event.iitg.ac.in/space2025/
+- https://link.springer.com/book/10.1007/978-3-032-16342-4
+- https://link.springer.com/conference/space
+- https://www.iacr.org/events/
+- https://portal.core.edu.au/conf-ranks/?search=SPACE&by=all&source=ICORE2026
+unverified:
+- Registration fee, call for posters and fellowship details for SPACE 2026 not yet published (pages say coming soon)
+- Official SPACE 2025 site returns HTTP 403; its dates were read from a Wayback Machine snapshot of 2025-09-16
+- Claim that selected SPACE 2025 papers were invited to the Springer journal Cryptography and Communications could
+  not be found on the archived 2025 site or the Springer book page
+last_verified: 2026-09-28

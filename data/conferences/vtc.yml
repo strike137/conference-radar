@@ -1,0 +1,115 @@
+id: vtc
+name: IEEE VTC
+full_name: IEEE Vehicular Technology Conference (VTC-Spring and VTC-Fall)
+type: conference
+tier: major
+areas: [communications]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: IEEE Vehicular Technology Society
+proceedings: IEEE Xplore
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: B
+acceptance_rate: about 47% (2015 Spring, 421 of about 900)
+fee: 835 USD IEEE member early, with workshops (VTC2026-Fall); VTS member 780 USD
+typical:
+  deadline_months: [1, 2, 3, 4, 9]
+  conference_months: [6, 9, 10]
+links:
+  website: https://events.vtsociety.org/
+  dblp: https://dblp.org/db/conf/vtc/
+notes:
+- Semi-annual flagship conference of the IEEE Vehicular Technology Society (Spring edition in June, Fall edition
+  in September/October)
+- VTC2027-Fall will be held in Osaka, Japan (Sep 27-30, 2027); VTC2025-Fall was in Chengdu, China
+- Regular papers are 5 pages (up to 7 with overlength charges); a later Recent Results track and workshops
+- High acceptance rate, historically around 45-55%; not in the CCF list
+editions:
+- year: 2026
+  label: VTC2026-Spring
+  start: 2026-06-09
+  end: 2026-06-12
+  location: Nice, France
+  url: https://events.vtsociety.org/vtc2026-spring/
+  deadlines:
+  - kind: submission
+    date: 2026-01-04
+    label: Regular papers (extended from 2025-12-10)
+  - kind: submission
+    date: 2026-02-16
+    label: Recent Results papers (extended)
+  - kind: notification
+    date: 2026-04-10
+    label: Recent Results papers (extended)
+  - kind: camera_ready
+    date: 2026-04-17
+    label: All final papers (extended)
+- year: 2026
+  label: VTC2026-Fall
+  start: 2026-09-06
+  end: 2026-09-09
+  location: Boston, USA
+  url: https://events.vtsociety.org/vtc2026-fall/
+  deadlines:
+  - kind: submission
+    date: 2026-03-21
+    label: Regular papers (extended)
+  - kind: notification
+    date: 2026-05-12
+    label: Regular papers
+  - kind: submission
+    date: 2026-05-19
+    label: Recent results and workshop papers (extended)
+  - kind: camera_ready
+    date: 2026-06-30
+    label: Regular papers (extended from 2026-05-30)
+  - kind: notification
+    date: 2026-07-03
+    label: Recent results and workshop papers
+- year: 2027
+  label: VTC2027-Spring
+  start: 2027-06-20
+  end: 2027-06-23
+  location: Hamburg, Germany
+  url: https://events.vtsociety.org/vtc2027-spring/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+    label: Regular papers (extended)
+  - kind: notification
+    date: 2026-12-20
+  - kind: camera_ready
+    date: 2027-03-15
+    label: Paper revisions due
+- year: 2027
+  label: VTC2027-Fall
+  start: 2027-09-27
+  end: 2027-09-30
+  location: Osaka, Japan
+  url: https://events.vtsociety.org/vtc2027-fall/
+  deadlines:
+  - kind: submission
+    date: 2027-02-01
+    label: Regular papers
+  - kind: notification
+    date: 2027-04-14
+sources:
+- https://events.vtsociety.org/vtc2027-fall/
+- https://events.vtsociety.org/vtc2027-spring/
+- https://events.vtsociety.org/vtc2027-spring/call-for-papers-2/
+- https://events.vtsociety.org/vtc2026-fall/
+- https://events.vtsociety.org/vtc2026-fall/authors/call-for-papers-2/
+- https://events.vtsociety.org/vtc2026-fall/registration/registration-2/
+- https://events.vtsociety.org/vtc2026-spring/
+- https://events.vtsociety.org/vtc2026-spring/authors/call-for-papers-2/
+- https://events.vtsociety.org/vtc2026-spring/authors/call-for-papers/
+- https://events.vtsociety.org/vtc2025-fall/
+- https://sites.cs.ucsb.edu/~almeroth/conf/stats/
+- https://portal.core.edu.au/conf-ranks/?search=VTC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- VTC2026-Spring regular paper notification date
+- Deadline time zones
+- Recent acceptance rates (after 2015)
+last_verified: 2026-09-28

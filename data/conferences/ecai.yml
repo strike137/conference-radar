@@ -1,0 +1,102 @@
+id: ecai
+name: ECAI
+full_name: European Conference on Artificial Intelligence
+type: conference
+tier: major
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: European Association for Artificial Intelligence (EurAI)
+proceedings: IOS Press (Frontiers in Artificial Intelligence and Applications, open access)
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 23% (2025, main track, 2667 full papers from 3266 abstracts)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [10]
+links:
+  website: https://ecai2027.org/
+notes:
+- Main European general AI conference under EurAI; open-access proceedings by IOS Press
+- Annual since 2023 (biennial in even years before that); held jointly with IJCAI in some years when IJCAI is in
+  Europe (Stockholm 2018, Vienna 2022, Bremen 2026)
+- ECAI 2027 in Athens, Oct 2 to 7, 2027; full paper deadline Apr 14, 2027
+- Double-blind review, 7 pages plus 1 page of references (2025); record 3266 abstracts in 2025, main track acceptance
+  23%
+- Co-hosts PAIS (Prestigious Applications of Intelligent Systems) as an applications track
+editions:
+- year: 2025
+  start: 2025-10-25
+  end: 2025-10-30
+  location: Bologna, Italy
+  url: https://ecai2025.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-04-29
+    tz: AoE
+    label: Main track
+  - kind: submission
+    date: 2025-05-06
+    tz: AoE
+    label: Main track
+  - kind: other
+    date: 2025-06-23
+    label: Rebuttal period (until Jun 25)
+  - kind: notification
+    date: 2025-07-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-26
+    tz: AoE
+- year: 2026
+  label: Joint IJCAI-ECAI 2026
+  start: 2026-08-15
+  end: 2026-08-21
+  location: Bremen, Germany
+  url: https://2026.ijcai.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-12
+    time: '23:59'
+    tz: AoE
+  - kind: submission
+    date: 2026-01-19
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2026-04-29
+    time: '23:59'
+    tz: AoE
+- year: 2027
+  start: 2027-10-02
+  end: 2027-10-07
+  location: Athens, Greece
+  url: https://ecai2027.org/
+  deadlines:
+  - kind: submission
+    date: 2027-04-14
+    label: Full papers
+  - kind: other
+    date: 2027-05-15
+    label: Phase 1 notification
+  - kind: other
+    date: 2027-06-15
+    label: Rebuttal period (until Jun 18)
+  - kind: notification
+    date: 2027-07-15
+sources:
+- https://ecai2027.org/
+- https://ecai2025.org/
+- https://ecai2025.org/call-for-papers/
+- https://ecai2025.org/deadlines/
+- https://ebooks.iospress.nl/doi/10.3233/FAIA413
+- https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-main-track/
+- https://portal.core.edu.au/conf-ranks/?search=ECAI&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Timezone of ECAI 2027 deadlines not stated (previous editions used AoE)
+- Whether ECAI 2027 has a separate abstract deadline before Apr 14, 2027
+last_verified: 2026-09-28

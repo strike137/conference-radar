@@ -1,0 +1,104 @@
+id: icde
+name: ICDE
+full_name: IEEE International Conference on Data Engineering
+type: conference
+tier: top
+areas: [data, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society (Technical Committee on Data Engineering)
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [6, 10, 11]
+  conference_months: [5]
+links:
+  website: https://icde2027.github.io/
+  dblp: https://dblp.org/db/conf/icde/
+notes:
+- One of the three flagship database conferences, with SIGMOD and VLDB
+- Two research submission rounds a year (June and October/November); deadlines at 5 pm US Pacific Time
+- Single-blind review; at most 5 research submissions per author per round; a paper rejected in one round cannot
+  be resubmitted until a year later
+- 'ICDE 2027 drops the revise-and-resubmit phase: each round is accept or reject after a rebuttal'
+- Rotates worldwide; Hong Kong hosted in 2025
+editions:
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-08
+  location: Montreal, Canada
+  url: https://icde2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-06-18
+    time: '17:00'
+    tz: PDT
+    label: Research papers, round 1
+  - kind: notification
+    date: 2025-10-20
+    label: Round 1 final decision
+  - kind: camera_ready
+    date: 2025-10-22
+    label: Round 1
+  - kind: submission
+    date: 2025-10-27
+    time: '17:00'
+    tz: PDT
+    label: Research papers, round 2 (also industry track)
+  - kind: notification
+    date: 2026-02-23
+    label: Round 2 final decision
+  - kind: camera_ready
+    date: 2026-03-09
+    label: Round 2
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-21
+  location: Copenhagen, Denmark
+  url: https://icde2027.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-11
+    time: '17:00'
+    tz: PDT
+    label: Research papers, round 1
+  - kind: notification
+    date: 2026-09-10
+    label: Round 1
+  - kind: camera_ready
+    date: 2026-10-10
+    label: Round 1
+  - kind: other
+    date: 2026-10-15
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-11-11
+    time: '17:00'
+    tz: PST
+    label: Research papers, round 2
+  - kind: other
+    date: 2026-11-20
+    label: Tutorial proposals
+  - kind: notification
+    date: 2027-02-10
+    label: Round 2
+  - kind: camera_ready
+    date: 2027-03-10
+    label: Round 2
+sources:
+- https://icde2027.github.io/
+- https://icde2027.github.io/important-dates.html
+- https://icde2027.github.io/cf-research-papers.html
+- https://icde2026.github.io/
+- https://icde2026.github.io/important-dates.html
+- https://icde2026.github.io/cf-research-papers.html
+- https://portal.core.edu.au/conf-ranks/?search=ICDE&by=acronym&source=ICORE2026
+unverified:
+- ICDE acceptance rate (no official figure found)
+- ICDE 2027 industry, demo, TKDE poster and PhD symposium deadlines (TBD on site)
+last_verified: 2026-09-28

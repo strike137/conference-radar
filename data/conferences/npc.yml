@@ -1,0 +1,59 @@
+id: npc
+name: NPC
+full_name: IFIP International Conference on Network and Parallel Computing
+type: conference
+tier: minor
+areas: [systems, networking]
+region: china
+language: english
+frequency: annual
+organizer: IFIP WG 10.3
+proceedings: Springer LNCS
+archival: true
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: C
+  ccf: C
+acceptance_rate: 34% (2025, 76/223)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [9, 11, 12]
+links:
+  website: https://npc-2025.github.io/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188034
+notes:
+- IFIP WG 10.3 conference; 21st edition in 2025
+- Mostly held in China (2022 Jinan, 2024 Haikou); exceptions include Muroran, Japan (2018), Paris (2021) and Nha
+  Trang, Vietnam (2025)
+- Proceedings in Springer LNCS; single-blind review; 12 pages LNCS format including references (2025)
+- CCF C and CORE C; acceptance around 34% in 2025
+- 'Not strictly annual: the 19th edition was 2022 and the 20th was 2024, so there was no 2023 edition; no 2026 edition
+  had been announced by late September 2026'
+editions:
+- year: 2025
+  start: 2025-11-14
+  end: 2025-11-16
+  location: Nha Trang, Vietnam
+  url: https://npc-2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    label: Paper submission (extended from 2025-07-15)
+  - kind: notification
+    date: 2025-09-01
+  - kind: camera_ready
+    date: 2025-09-15
+    label: Camera-ready and registration
+sources:
+- https://npc-2025.github.io/index.html
+- https://npc-2025.github.io/call.html
+- https://npc-2025.github.io/registration.html
+- https://link.springer.com/book/10.1007/978-3-032-10459-5
+- https://api.crossref.org/works?query.bibliographic=Network+and+Parallel+Computing+IFIP+WG+10.3&filter=type:book
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188034
+- https://portal.core.edu.au/conf-ranks/?search=NPC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- NPC 2026 dates, location and deadlines (no website found; npc-2026.github.io returns 404; not on WikiCFP)
+- Registration fee (the 2025 site links to an external registration system without listing amounts)
+last_verified: 2026-09-28

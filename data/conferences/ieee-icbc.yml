@@ -1,0 +1,86 @@
+id: ieee-icbc
+name: IEEE ICBC
+full_name: IEEE International Conference on Blockchain and Cryptocurrency
+type: conference
+tier: minor
+areas: [security, crypto, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Communications Society
+proceedings: IEEE Xplore
+rank:
+  core: C
+typical:
+  deadline_months: [1, 12]
+  conference_months: [5, 6]
+links:
+  website: https://icbc2027.ieee-icbc.org/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203412
+notes:
+- Sponsored by IEEE ComSoc; 8th edition in 2026, 9th in 2027
+- Double-blind review with a rebuttal period; full papers 8 pages, short 4, posters 2, SoK 16 (excluding references)
+- CORE C; not in the CCF list
+- Location rotates globally (Brisbane 2026, Toronto 2027)
+- Deadline in December or January for a late May or early June conference; ComSoc and student travel grants offered
+editions:
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-05
+  location: Brisbane, Australia
+  url: https://icbc2026.ieee-icbc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-01-14
+    tz: AoE
+    label: Papers and posters (extended from Jan 7)
+  - kind: other
+    date: 2026-02-27
+    label: Demos
+  - kind: other
+    date: 2026-02-28
+    label: Tutorial proposals (extended from Feb 14)
+  - kind: notification
+    date: 2026-03-18
+    label: Papers and posters
+  - kind: other
+    date: 2026-03-30
+    label: Workshop papers (extended from Mar 25)
+  - kind: camera_ready
+    date: 2026-04-21
+    label: Papers and posters
+- year: 2027
+  start: 2027-05-31
+  end: 2027-06-04
+  location: Toronto, Canada
+  url: https://icbc2027.ieee-icbc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-12-03
+    tz: AoE
+    label: Papers and posters
+  - kind: notification
+    date: 2027-02-19
+  - kind: other
+    date: 2027-03-12
+    time: '23:59'
+    tz: AoE
+    label: Student travel grant applications
+  - kind: camera_ready
+    date: 2027-03-26
+    label: Camera-ready and registration
+sources:
+- https://icbc2027.ieee-icbc.org/
+- https://icbc2027.ieee-icbc.org/authors/call-papers
+- https://icbc2027.ieee-icbc.org/authors/submission-guidelines
+- https://icbc2027.ieee-icbc.org/hotel-travel/student-travel-grants
+- https://icbc2026.ieee-icbc.org/important-dates
+- https://icbc2026.ieee-icbc.org/
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203412
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189341
+- https://portal.core.edu.au/conf-ranks/?search=ICBC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Acceptance rate and registration fees not published yet (2027 registration not open; 2026 fee page not retrieved)
+- AoE for paper deadlines taken from the organizer CFP text posted on WikiCFP, not the official site
+- dblp key not confirmed (dblp blocked automated access)
+last_verified: 2026-09-28

@@ -1,0 +1,72 @@
+id: ieee-ickg
+name: IEEE ICKG
+full_name: IEEE International Conference on Knowledge Graph
+type: conference
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society and local committee (2026 with BigKE Lab and Wannan Medical College)
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [6, 7]
+  conference_months: [11, 12]
+links:
+  website: https://ickg2026.github.io/
+  dblp: https://dblp.org/db/conf/ickg/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194469
+notes:
+- IEEE CS conference focused on knowledge graphs and graph learning; 17th edition in 2026; the series ran as IEEE
+  ICBK (Big Knowledge) until 2021
+- 'Location rotates worldwide: Orlando (2022), Shanghai (2023), Abu Dhabi (2024), Limassol, Cyprus (2025), Shenyang
+  (2026)'
+- Single-blind review, 8 pages IEEE 2-column including references, submissions via CyberChair; no separate abstract
+  deadline
+- Special tracks (KG construction, KG reasoning, KG and LLMs, GNNs) are included in the main proceedings
+- Not ranked by CORE or CCF; 2026 allowed presentation on site or remotely
+editions:
+- year: 2025
+  start: 2025-11-13
+  end: 2025-11-14
+  location: Limassol, Cyprus
+  url: https://cyprusconferences.org/ickg2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-04
+    tz: AoE
+    label: Extended from 2025-06-20
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-20
+- year: 2026
+  start: 2026-11-12
+  end: 2026-11-13
+  location: Shenyang, China
+  url: https://ickg2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-19
+    tz: AoE
+  - kind: notification
+    date: 2026-08-31
+  - kind: camera_ready
+    date: 2026-09-18
+sources:
+- https://ickg2026.github.io/
+- https://ickg2026.github.io/call-for-papers.html
+- https://ickg2026.github.io/registration.html
+- https://ickg2026.scimeeting.cn/
+- https://cyprusconferences.org/ickg2025/
+- https://api.crossref.org/works?query.bibliographic=IEEE+International+Conference+on+Knowledge+Graph+ICKG&filter=type:proceedings
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=185678
+- http://www.wikicfp.com/cfp/servlet/tool.search?q=ICKG&year=a
+unverified:
+- Registration fee (registration portal ickg2026.scimeeting.cn does not show fees without starting registration)
+- Acceptance rate
+- dblp key
+last_verified: 2026-09-28

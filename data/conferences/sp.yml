@@ -1,0 +1,132 @@
+id: sp
+name: IEEE S&P
+full_name: IEEE Symposium on Security and Privacy
+type: conference
+tier: top
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Computer Society Technical Community on Security and Privacy (in cooperation with IACR)
+proceedings: IEEE Xplore
+indexing: [Scopus, DBLP, EI]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 13% (2026, 254/1995)
+typical:
+  deadline_months: [6, 11]
+  conference_months: [5]
+links:
+  website: https://sp2027.ieee-security.org/
+  dblp: https://dblp.org/db/conf/sp/index.html
+notes:
+- Flagship venue of the IEEE TC on Security and Privacy, held since 1980; one of the 'Big 4' security conferences
+  (nicknamed 'Oakland')
+- Two submission cycles per year (June and November) with mandatory abstract registration one week earlier; double-blind;
+  early-reject round and interactive rebuttal; no conditional accepts, accepted papers carry a public meta-review
+- Held in San Francisco for many years; the 48th edition (2027) moves to Montreal, Canada, with workshops on the
+  last day
+- Very competitive (about 13% in 2026); at most 6 papers per author per cycle; rejected papers must wait one year
+  before resubmission
+- Proceedings are open access in the IEEE CS Digital Library; student travel grants are offered
+editions:
+- year: 2026
+  start: 2026-05-18
+  end: 2026-05-21
+  location: San Francisco, USA
+  url: https://sp2026.ieee-security.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-29
+    time: '23:59'
+    tz: AoE
+    label: First deadline
+  - kind: submission
+    date: 2025-06-05
+    time: '23:59'
+    tz: AoE
+    label: First deadline
+  - kind: other
+    date: 2025-07-21
+    label: 'First deadline: early-reject notification'
+  - kind: notification
+    date: 2025-09-09
+    label: First deadline
+  - kind: camera_ready
+    date: 2025-10-17
+    label: First deadline
+  - kind: abstract
+    date: 2025-11-06
+    time: '23:59'
+    tz: AoE
+    label: Second deadline
+  - kind: submission
+    date: 2025-11-13
+    time: '23:59'
+    tz: AoE
+    label: Second deadline
+  - kind: other
+    date: 2026-01-19
+    label: 'Second deadline: early-reject notification'
+  - kind: notification
+    date: 2026-03-09
+    label: Second deadline
+  - kind: camera_ready
+    date: 2026-04-17
+    label: Second deadline
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-20
+  location: Montreal, Canada
+  url: https://sp2027.ieee-security.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-04
+    time: '23:59'
+    tz: AoE
+    label: First deadline
+  - kind: submission
+    date: 2026-06-11
+    time: '23:59'
+    tz: AoE
+    label: First deadline
+  - kind: other
+    date: 2026-07-27
+    label: 'First deadline: early-reject notification'
+  - kind: notification
+    date: 2026-09-11
+    label: First deadline
+  - kind: camera_ready
+    date: 2026-10-16
+    label: First deadline
+  - kind: abstract
+    date: 2026-11-10
+    time: '23:59'
+    tz: AoE
+    label: Second deadline
+  - kind: submission
+    date: 2026-11-17
+    time: '23:59'
+    tz: AoE
+    label: Second deadline
+  - kind: other
+    date: 2027-01-18
+    label: 'Second deadline: early-reject notification'
+  - kind: notification
+    date: 2027-03-05
+    label: Second deadline
+  - kind: camera_ready
+    date: 2027-04-08
+    label: Second deadline
+sources:
+- https://sp2027.ieee-security.org/
+- https://sp2027.ieee-security.org/cfpapers.html
+- https://sp2026.ieee-security.org/
+- https://sp2026.ieee-security.org/cfpapers.html
+- https://portal.core.edu.au/conf-ranks/?search=Security+and+Privacy&by=all&source=ICORE2026&sort=atitle&page=1
+- http://jianying.space/conference-ranking.html
+unverified:
+- Registration fee for 2026/2027 not found on the official site (2027 registration not open)
+- Acceptance rate taken from Jianying Zhou's conference statistics page, not an official S&P announcement
+last_verified: 2026-09-28

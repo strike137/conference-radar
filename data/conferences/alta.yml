@@ -1,0 +1,95 @@
+id: alta
+name: ALTA
+full_name: Annual Workshop of the Australasian Language Technology Association
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: oceania
+language: english
+frequency: annual
+organizer: Australasian Language Technology Association (ALTA)
+proceedings: ACL Anthology
+archival: true
+indexing: [DBLP, ACL Anthology]
+rank:
+  core: C
+fee: A$180 non-student early (A$200 late) plus A$5 booking fee; free for students (2026)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [11, 12]
+links:
+  website: https://www.alta.asn.au/
+  dblp: https://dblp.org/db/conf/alta/index.html
+notes:
+- Organized by ALTA; the main local NLP and computational linguistics forum for Australia and New Zealand
+- ICORE2026 rank is Australasian C (a regional category, not international C)
+- Archival long (8 pages) and short (4 pages) papers, double-blind via OpenReview, published in the ACL Anthology;
+  separate non-archival track for abstracts, industry papers and work published elsewhere
+- Student registration free in 2026 (sponsor funded); program includes a shared task, a tutorial day and industry
+  demos
+- Held late November or early December, usually in an Australian city (Canberra 2024, Sydney 2025, Melbourne 2026),
+  occasionally in New Zealand (Dunedin 2018)
+editions:
+- year: 2025
+  start: 2025-11-26
+  end: 2025-11-28
+  location: Sydney, Australia
+  url: https://alta2025.alta.asn.au
+  deadlines:
+  - kind: submission
+    date: 2025-09-17
+    time: '23:59'
+    tz: AoE
+    label: Archival long/short papers (postponed from Sep 10)
+  - kind: submission
+    date: 2025-10-07
+    time: '23:59'
+    tz: AoE
+    label: Non-archival submissions and ARR commitment
+  - kind: notification
+    date: 2025-10-22
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-05
+    time: '23:59'
+    tz: AoE
+    label: Moved from Nov 4
+- year: 2026
+  start: 2026-11-30
+  end: 2026-12-02
+  location: Melbourne, Australia
+  url: https://alta2026.alta.asn.au
+  deadlines:
+  - kind: submission
+    date: 2026-09-18
+    time: '23:59'
+    tz: AoE
+    label: Archival long/short papers (extended from Sep 11)
+  - kind: submission
+    date: 2026-10-09
+    time: '23:59'
+    tz: AoE
+    label: Non-archival papers, presentation abstracts and industry papers
+  - kind: notification
+    date: 2026-10-23
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-06
+    time: '23:59'
+    tz: AoE
+sources:
+- https://alta2026.alta.asn.au
+- https://alta2026.alta.asn.au/calls/papers
+- https://alta2026.alta.asn.au/registration
+- https://alta2025.alta.asn.au
+- https://alta2025.alta.asn.au/calls/papers
+- https://alta2024.alta.asn.au
+- https://www.alta.asn.au/events/
+- https://aclanthology.org/U18-1000/
+- https://portal.core.edu.au/conf-ranks/?search=ALTA&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- DBLP venue page not re-checked (dblp bot wall)
+- Acceptance rate not published
+last_verified: 2026-09-28

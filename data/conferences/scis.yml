@@ -1,0 +1,70 @@
+id: scis
+name: SCIS
+full_name: Symposium on Cryptography and Information Security
+name_local: 暗号と情報セキュリティシンポジウム
+type: conference
+tier: domestic
+areas: [security, crypto]
+region: japan
+language: japanese
+frequency: annual
+organizer: IEICE ISEC (Technical Committee on Information Security)
+proceedings: None (non-archival; proceedings distributed to participants only)
+archival: false
+rank:
+  core: Unranked
+fee: 20,000 JPY student, 36,000 JPY general (2026, early registration and payment by 2026-01-05; banquet extra,
+  8,000 / 12,000 JPY); 33,000 / 53,000 JPY late
+typical:
+  deadline_months: [12]
+  conference_months: [1]
+links:
+  website: https://www.iwsec.org/scis/2026/
+notes:
+- Organized by IEICE ISEC; held every year since 1984 in various cities across Japan (Nagasaki 2024, Kitakyushu
+  2025, Hakodate 2026)
+- Security in general with a strong cryptography focus; no peer review (every application is accepted), papers up
+  to 8 pages, English or Japanese style files, most talks in Japanese
+- Late January, normally 4 days (Jan 23 to 26 in 2024, Jan 28 to 31 in 2025); SCIS 2026 was extended to 5 days (Jan
+  26 to 30); presentation application early December, manuscript mid-December
+- On-site only; poster session and night session; SCIS Paper Award for young presenters (mainly within 10 years
+  of undergraduate graduation) and Innovation Paper Award
+editions:
+- year: 2026
+  start: 2026-01-26
+  end: 2026-01-30
+  location: Hakodate, Japan
+  url: https://www.iwsec.org/scis/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-01
+    time: '12:00'
+    tz: JST
+    label: Presentation application (after registration)
+  - kind: abstract
+    date: 2025-12-16
+    time: '10:00'
+    tz: JST
+    label: Web abstract (extended from 2025-12-08)
+  - kind: submission
+    date: 2025-12-16
+    time: '10:00'
+    tz: JST
+    label: Paper manuscript, no review (extended from 2025-12-15 17:00)
+  - kind: other
+    date: 2026-01-05
+    label: Early registration and payment
+sources:
+- https://www.iwsec.org/scis/2026/outline.html
+- https://www.iwsec.org/scis/2026/cfp.html
+- https://www.iwsec.org/scis/2026/registration.html
+- https://www.iwsec.org/scis/2026/information.html
+- https://www.iwsec.org/scis/2027/
+- https://www.iwsec.org/scis/2025/
+- https://www.iwsec.org/scis/2024/
+- https://www.ieice.org/~isec/main.html
+- https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7%E3%81%A8%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0
+unverified:
+- SCIS 2027 dates, location and deadlines (the 2027 site was still under construction on 2026-09-28 and the IEICE
+  ISEC page does not list it yet)
+last_verified: 2026-09-28

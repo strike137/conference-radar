@@ -1,0 +1,62 @@
+id: trustcom
+name: IEEE TrustCom
+full_name: IEEE International Conference on Trust, Security and Privacy in Computing and Communications
+type: conference
+tier: major
+areas: [security, networking, communications, ai]
+region: china
+language: english
+frequency: annual
+organizer: IEEE, IEEE Computer Society, IEEE TCSC (Technical Committee on Scalable Computing); 2025 local host Guizhou
+  University
+proceedings: IEEE Xplore
+indexing: [Scopus, DBLP]
+rank:
+  core: B
+  ccf: C
+fee: RMB 6000 / USD 840 IEEE member, RMB 7200 / USD 1010 non-member (2025, regular author registration)
+typical:
+  deadline_months: [7, 8, 9]
+  conference_months: [11, 12]
+links:
+  website: https://ieee-aiplus-2025.org/
+  dblp: https://dblp.org/db/conf/trustcom/index.html
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188674&copyownerid=193934
+notes:
+- IEEE series since 2002; in recent years usually held in China (Wuhan 2022, Sanya 2024, Guiyang 2025) with occasional
+  editions abroad (Exeter 2023)
+- 'Held as part of a cluster of co-located IEEE conferences (2025: IEEE AI+ Congress with BigDataSE, CSE, EUC, iSCI)'
+- Proceedings in IEEE Xplore; single-blind review; 8 pages IEEE CS format (up to 12 with overlength charge), submission
+  via EDAS
+- 'Six tracks: trust, security, privacy, forensics and analytics, emerging tech, AI trust'
+- CORE B, CCF C; regarded as a high-volume venue
+editions:
+- year: 2025
+  start: 2025-11-14
+  end: 2025-11-17
+  location: Guiyang, China
+  url: https://ieee-aiplus-2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-08-01
+    label: Paper submission (original CFP date; later extended)
+  - kind: notification
+    date: 2025-10-01
+  - kind: other
+    date: 2025-10-21
+    label: Registration
+sources:
+- https://ieee-aiplus-2025.org/
+- https://ieee-aiplus-2025.org/images/Trustcom-.jpg
+- https://ieee-aiplus-2025.org/registration/registrationInstructions.html
+- https://web.archive.org/web/20250615063902/https://ieee-aiplus-2025.org/callFoePapers/Trustcom-2025.pdf
+- https://api.crossref.org/works?query.bibliographic=Trust+Security+Privacy+Computing+Communications+TrustCom&filter=from-pub-date:2023
+- http://www.wikicfp.com/cfp/servlet/tool.search?q=trustcom&year=a
+- https://portal.core.edu.au/conf-ranks/?search=TrustCom&by=acronym&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/conference/SC/trustcom.yml
+unverified:
+- 'TrustCom 2026 (25th): a third-party listing mentions Hong Kong SAR in November 2026, but no official website
+  or CFP was found (ieee-aiplus-2026.org does not resolve; WikiCFP and ccf-deadlines have no 2026 entry)'
+- Final extended 2025 submission deadline (WikiCFP lists 2025-08-16; ccf-deadlines lists 2025-08-25 as firm)
+- Acceptance rate
+last_verified: 2026-09-28

@@ -1,0 +1,83 @@
+id: neurips
+name: NeurIPS
+full_name: Conference on Neural Information Processing Systems
+type: conference
+tier: top
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: NeurIPS Foundation
+proceedings: NeurIPS Proceedings (proceedings.neurips.cc), reviews on OpenReview
+indexing: [DBLP]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 24.5% (2025, main track, 5290/21575)
+typical:
+  deadline_months: [5]
+  conference_months: [12]
+links:
+  website: https://neurips.cc/
+notes:
+- Flagship machine learning venue together with ICML and ICLR; CCF A, CORE A*
+- Double-blind review on OpenReview; main track acceptance has stayed around 25% for years
+- 'Multi-site since 2025: San Diego plus Mexico City (2025); Sydney as main venue with satellites in Atlanta and
+  Paris (2026); 2027 announced for Europe, 2028 for the Western United States'
+- Abstract deadline in early May, full paper a few days later; notification in late September
+- Also runs a Datasets and Benchmarks track and (since 2025) a position paper track
+editions:
+- year: 2025
+  start: 2025-12-02
+  end: 2025-12-07
+  location: San Diego, USA (satellite site in Mexico City, Mexico)
+  url: https://neurips.cc/Conferences/2025
+  deadlines:
+  - kind: abstract
+    date: 2025-05-11
+    tz: AoE
+    label: Main track
+  - kind: submission
+    date: 2025-05-15
+    tz: AoE
+    label: Main track
+  - kind: notification
+    date: 2025-09-18
+    tz: AoE
+- year: 2026
+  start: 2026-12-06
+  end: 2026-12-12
+  location: Sydney, Australia (satellites in Atlanta, USA and Paris, France, Dec 9 to 13)
+  url: https://neurips.cc/Conferences/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-04
+    tz: AoE
+    label: Main track
+  - kind: submission
+    date: 2026-05-06
+    tz: AoE
+    label: Main track
+  - kind: notification
+    date: 2026-09-24
+    tz: AoE
+- year: 2027
+  location: Europe (city TBA)
+  url: https://neurips.cc/Conferences/FutureMeetings
+  status: tentative
+  deadlines: []
+sources:
+- https://neurips.cc/
+- https://neurips.cc/Conferences/2026
+- https://neurips.cc/Conferences/2026/Dates
+- https://neurips.cc/Conferences/2025/Dates
+- https://neurips.cc/Conferences/FutureMeetings
+- https://blog.neurips.cc/2025/09/30/reflections-on-the-2025-review-process-from-the-program-committee-chairs/
+- https://portal.core.edu.au/conf-ranks/?search=NeurIPS&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- 'NeurIPS 2026 acceptance rate: a third-party aggregator reports 25.7% (7900/30709), not confirmed from an official
+  source'
+- Exact dates of the 2025 Mexico City satellite (official page gives Dec 2 to 7 for the event as a whole)
+- NeurIPS 2027 city, dates and deadlines not announced (Future Meetings page says only 'Europe')
+last_verified: 2026-09-28

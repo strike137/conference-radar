@@ -1,0 +1,60 @@
+id: icml
+name: ICML
+full_name: International Conference on Machine Learning
+type: conference
+tier: top
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: International Machine Learning Society (IMLS)
+proceedings: PMLR
+indexing: [DBLP]
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://icml.cc/
+notes:
+- One of the three flagship ML conferences; proceedings in PMLR; CCF A, CORE A*
+- ICML 2026 was held in Seoul (COEX), July 6 to 11, 2026
+- 'Future meetings: 2027 in South America, 2028 in the Eastern United States (cities not yet announced)'
+- Double-blind review on OpenReview; acceptance has been roughly 26 to 28% in recent years
+- Abstract deadline in late January, full paper about a week later; conference in July
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-11
+  location: Seoul, South Korea
+  url: https://icml.cc/Conferences/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-01-23
+    tz: AoE
+  - kind: submission
+    date: 2026-01-28
+    tz: AoE
+  - kind: notification
+    date: 2026-04-30
+    tz: AoE
+- year: 2027
+  location: South America (city TBA)
+  url: https://icml.cc/Conferences/FutureMeetings
+  status: tentative
+  deadlines: []
+sources:
+- https://icml.cc/
+- https://icml.cc/Conferences/2026
+- https://icml.cc/Conferences/2026/Dates
+- https://icml.cc/Conferences/FutureMeetings
+- https://portal.core.edu.au/conf-ranks/?search=ICML&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- https://csconfstats.xoveexu.com/conferences/icml/2026/
+unverified:
+- ICML 2027 city, dates and deadlines not announced (only 'South America')
+- 'ICML 2026 acceptance: a third-party aggregator reports 26.6% (6352/23918); no official ICML figure found, so
+  the acceptance_rate field is left empty'
+last_verified: 2026-09-28

@@ -1,0 +1,69 @@
+id: smartworld
+name: IEEE SmartWorld
+full_name: 'IEEE Smart World Congress (SWC): UIC, ATC, ScalCom, Digital Twin, Metaverse and co-located events'
+type: conference
+tier: minor
+areas: [systems, ai, security, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Smart World Congress steering committee
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: Unranked
+fee: USD 800 IEEE member, USD 910 non-member author registration, early bird (2026)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8, 9, 12]
+links:
+  website: https://swc-ieee-2026.github.io/
+notes:
+- Umbrella congress (12th edition in 2026) bundling UIC, ATC, ScalCom, Digital Twin, Metaverse plus workshops, with
+  a shared registration and proceedings submitted to IEEE Xplore
+- 'Rank belongs to member conferences: UIC is CORE C and CCF C, ATC is CORE C; the congress name itself is not ranked'
+- 'Rotates worldwide: 2023 Portsmouth, 2024 Nadi (Fiji), 2025 Calgary, 2026 Rende (Italy); 2027 planned (tentative)
+  for Zhengzhou, China'
+- '2026 page limits: full papers 6 pages, short 4, poster/demo 2, plus up to 2 extra pages with overlength charge;
+  deadlines usually April to May'
+- ATC (Autonomous and Trusted Computing) covers trustworthy and secure AI and privacy-preserving learning, the most
+  security-relevant member conference
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-11
+  location: Rende, Italy
+  url: https://swc-ieee-2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    label: Paper submission (SWC, UIC, ATC)
+  - kind: notification
+    date: 2026-07-01
+  - kind: camera_ready
+    date: 2026-07-31
+- year: 2027
+  start: 2027-10-29
+  end: 2027-11-02
+  location: Zhengzhou, China
+  url: https://swc-ieee-2026.github.io/
+  status: tentative
+  deadlines: []
+sources:
+- https://swc-ieee-2026.github.io/
+- https://swc-ieee-2026.github.io/uic/
+- https://swc-ieee-2026.github.io/atc/
+- https://swc-ieee-2026.github.io/registration/
+- https://ieee-swc-2025.github.io/
+- https://api.crossref.org/works?query.bibliographic=IEEE+Smart+World+Congress+SWC&filter=type:proceedings
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194418
+- https://portal.core.edu.au/conf-ranks/?search=UIC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=ATC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- 'dblp key: joint proceedings assumed to be indexed under conf/uic (dblp was unreachable; since 2023 the proceedings
+  are titled IEEE Smart World Congress (SWC))'
+- 2027 dates and city are marked tentative by the organizers; no 2027 deadlines yet
+- Acceptance rate
+last_verified: 2026-09-28

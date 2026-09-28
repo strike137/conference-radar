@@ -1,0 +1,72 @@
+id: nbis
+name: NBiS
+full_name: International Conference on Network-Based Information Systems
+type: conference
+tier: minor
+areas: [networking, communications, systems, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: Fukuoka Institute of Technology (steering committee chair Leonard Barolli) with a host university each
+  year
+proceedings: Springer LNDECT (Lecture Notes on Data Engineering and Communications Technologies)
+indexing: [Scopus, EI, DBLP]
+rank:
+  core: Unranked
+fee: USD 500 per paper for author registration (2026); student participants USD 400 early
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://voyager.ce.fit.ac.jp/conf/nbis/2027/
+  dblp: https://dblp.org/db/conf/nbis/
+notes:
+- Part of the Barolli (Fukuoka Institute of Technology) conference family; always co-located with INCoS (shared
+  venue, dates and keynotes)
+- 'Often held in Asia: Chiang Mai 2023, Asan (Korea) 2024, Taichung 2025, Kwansei Gakuin University (Nishinomiya,
+  Japan) 2026; 2027 moves to Timisoara, Romania'
+- Not ranked by CORE or CCF; regarded as a lower-tier venue with a short review cycle (notification about 5 days
+  after the hard deadline in 2025 and 2026)
+- Co-located workshops include TwCSec (Trustworthy Computing and Security) and INWC (Information Networking and
+  Wireless Communications); main conference has a Network Security and Privacy track
+- 12-page limit; registration through EDAS in USD; selected papers invited to journal special issues
+editions:
+- year: 2026
+  start: 2026-09-09
+  end: 2026-09-11
+  location: Nishinomiya, Japan
+  url: https://voyager.ce.fit.ac.jp/conf/nbis/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+    label: Regular papers (hard deadline)
+  - kind: notification
+    date: 2026-06-10
+  - kind: camera_ready
+    date: 2026-06-25
+- year: 2027
+  start: 2027-09-08
+  end: 2027-09-10
+  location: Timisoara, Romania
+  url: https://voyager.ce.fit.ac.jp/conf/nbis/2027/
+  deadlines:
+  - kind: submission
+    date: 2027-05-15
+    label: Regular papers
+  - kind: notification
+    date: 2027-06-15
+  - kind: camera_ready
+    date: 2027-06-30
+sources:
+- https://voyager.ce.fit.ac.jp/conf/nbis/2027/
+- https://voyager.ce.fit.ac.jp/conf/nbis/2026/
+- https://voyager.ce.fit.ac.jp/conf/nbis/2025/
+- https://link.springer.com/book/10.1007/978-3-032-05892-8
+- https://portal.core.edu.au/conf-ranks/?search=NBiS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://sparql.dblp.org/sparql
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- Acceptance rate not published
+- NBiS-2027 deadline (2027-05-15) is the first announced date and may be extended; the 2027 registration page still
+  carries dates copied from 2026, so fees for 2027 are not yet final
+last_verified: 2026-09-28

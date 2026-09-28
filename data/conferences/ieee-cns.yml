@@ -1,0 +1,60 @@
+id: ieee-cns
+name: IEEE CNS
+full_name: IEEE Conference on Communications and Network Security
+type: conference
+tier: major
+areas: [security, networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Communications Society (ComSoc)
+proceedings: IEEE Xplore
+indexing: [DBLP, Scopus]
+rank:
+  core: Unranked
+fee: 850 USD ComSoc member, 900 USD IEEE member, 1,150 USD non-member (2026, author full registration)
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10]
+links:
+  website: https://cns2026.ieee-cns.org/
+  dblp: https://dblp.org/db/conf/cns/index.html
+notes:
+- The only IEEE ComSoc conference dedicated to security; topics from the physical layer (wireless/6G) to applications,
+  including AI/LLM security
+- Single paper deadline in May, conference in September or October; double-blind review, 9 pages including references,
+  submission via EDAS
+- Mostly held in the USA; also Beijing (2018), Taipei (2024) and Avignon (2025)
+- Not ranked by CORE or CCF; co-located workshops such as CPS-Sec and the Cyber Resilience Workshop; good fit for
+  network and wireless security work
+editions:
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-17
+  location: Newark, DE, USA
+  url: https://cns2026.ieee-cns.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-18
+    label: Main track (extended from 2026-05-11)
+  - kind: notification
+    date: 2026-07-18
+  - kind: camera_ready
+    date: 2026-08-14
+    label: Main and workshop papers
+sources:
+- https://cns2026.ieee-cns.org/
+- https://cns2026.ieee-cns.org/authors/call-papers
+- https://cns2026.ieee-cns.org/registration
+- https://cns2026.ieee-cns.org/authors/submission-guidelines
+- http://web.archive.org/web/20260414085459/https://cns2026.ieee-cns.org/
+- https://cns2025.ieee-cns.org/
+- https://cns2024.ieee-cns.org/
+- http://web.archive.org/web/20200520172844/https://cns2018.ieee-cns.org/
+- https://www.tacc.tw/en/news/detail?id=33
+- https://portal.core.edu.au/conf-ranks/?search=CNS&by=all&source=all&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- IEEE CNS 2027 dates and location not announced (cns2027.ieee-cns.org returns HTTP 401)
+- Deadline time zone and acceptance rate not found
+last_verified: 2026-09-28

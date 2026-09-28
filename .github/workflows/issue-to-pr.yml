@@ -1,0 +1,115 @@
+name: Issue form to pull request
+
+# When someone submits the "Add a conference" form, write the YAML file and open a PR.
+# Needs: Settings -> Actions -> General -> "Allow GitHub Actions to create and approve pull requests".
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+defaults:
+  run:
+    shell: bash  # runs with -eo pipefail
+
+concurrency:
+  group: issue-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  convert:
+    # Only form issues, and on edits only when the body (the form content) changed.
+    if: >-
+      contains(github.event.issue.labels.*.name, 'new-conference') &&
+      github.event.issue.state == 'open' &&
+      (github.event.action == 'opened' || github.event.changes.body != null)
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # full history, to compare the bot branch with main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+
+      - name: Convert the form to YAML
+        id: convert
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+        run: python scripts/issue_to_yaml.py
+
+      - name: Validate
+        id: validate
+        run: python scripts/build.py --check 2>&1 | tee validate.log
+
+      - name: Open or update the pull request
+        id: pr
+        env:
+          CONF_NAME: ${{ steps.convert.outputs.name }}
+          CONF_PATH: ${{ steps.convert.outputs.path }}
+        run: |
+          branch="add/issue-${ISSUE_NUMBER}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Never overwrite commits a maintainer pushed to the bot's branch.
+          lease=""
+          if git fetch --quiet origin "refs/heads/${branch}"; then
+            remote_sha=$(git rev-parse FETCH_HEAD)
+            others=$(git log "origin/${GITHUB_REF_NAME}..${remote_sha}" --format='%ae' | grep -v 'github-actions\[bot\]' || true)
+            if [ -n "$others" ]; then
+              gh issue comment "$ISSUE_NUMBER" --body "The form was edited, but the pull request branch \`${branch}\` already has commits from a maintainer, so it was not regenerated. Please change the file in the pull request directly."
+              exit 0
+            fi
+            lease="--force-with-lease=${branch}:${remote_sha}"
+          fi
+
+          git checkout -B "$branch"
+          git add "$CONF_PATH"
+          git commit -m "Add ${CONF_NAME}" -m "From issue #${ISSUE_NUMBER}."
+          git push ${lease:---force} origin "$branch"
+
+          url=$(gh pr list --head "$branch" --state open --json url --jq '.[0].url // empty')
+          if [ -z "$url" ]; then
+            url=$(gh pr create --head "$branch" --title "Add ${CONF_NAME}" \
+              --body "Adds \`${CONF_PATH}\` from the form in #${ISSUE_NUMBER}. Closes #${ISSUE_NUMBER}.")
+          fi
+          gh issue comment "$ISSUE_NUMBER" --body "Thanks! Pull request: ${url}. A maintainer will review and merge it. If you edit this issue's form, the file is regenerated."
+
+      - name: Report a problem on the issue
+        if: failure()
+        env:
+          FORM_ERROR: ${{ steps.convert.outputs.error }}
+          CONVERT: ${{ steps.convert.outcome }}
+          VALIDATE: ${{ steps.validate.outcome }}
+          CONF_PATH: ${{ steps.convert.outputs.path }}
+        run: |
+          {
+            if [ "$CONVERT" = "failure" ]; then
+              echo "The bot could not turn this form into a file."
+              echo
+              echo "**Problem:** ${FORM_ERROR:-see the workflow log}"
+              echo
+              echo "Edit the issue to fix it and the bot will try again."
+            elif [ "$VALIDATE" = "failure" ]; then
+              echo "The generated file does not pass validation:"
+              echo
+              echo '```'
+              grep -E '^error' validate.log | grep -F "${CONF_PATH:-data/conferences}" | head -20 || true
+              echo '```'
+              echo
+              echo "Edit the issue to fix it and the bot will try again."
+            else
+              echo "The file was generated, but the pull request could not be opened. A maintainer will look at the workflow run:"
+              echo "${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+            fi
+          } > comment.md
+          gh issue comment "$ISSUE_NUMBER" --body-file comment.md

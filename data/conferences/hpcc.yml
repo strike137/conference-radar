@@ -1,0 +1,75 @@
+id: hpcc
+name: IEEE HPCC
+full_name: IEEE International Conference on High Performance Computing and Communications
+type: conference
+tier: minor
+areas: [systems, networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE, IEEE Computer Society and IEEE Technical Committee on Scalable Computing (TCSC)
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus, DBLP]
+rank:
+  core: C
+  ccf: C
+fee: USD 750 (RMB 5,050) IEEE member, USD 900 (RMB 6,050) non-member regular author registration (2026); 2025 Exeter
+  edition was GBP 600 / 700
+typical:
+  deadline_months: [5, 7, 8]
+  conference_months: [8, 10, 11, 12]
+links:
+  website: https://ieee-hyper-intelligence.org/2026/hpcc/
+notes:
+- Series since 2005 (27th edition in 2025); sponsored by IEEE, IEEE CS and IEEE TCSC
+- 'Runs as a joint congress: 2025 with DSS/SmartCity/DependSys/ICESS in Exeter, 2026 inside the IEEE Hyper Intelligence
+  Congress (HPCC/DSS/SmartCity/DependSys/Embodied AI/ICESS) in Luoyang'
+- Rotates between China and elsewhere (2023 Melbourne, 2024 Wuhan, 2025 Exeter, 2026 Luoyang)
+- CCF C and CORE C; single-blind, 8 pages (10 with overlength charge), submission via EDAS
+- Has a communications and networking track including trust, security and privacy topics
+editions:
+- year: 2025
+  start: 2025-08-13
+  end: 2025-08-15
+  location: Exeter, United Kingdom
+  url: https://hpcn.exeter.ac.uk/hpcc2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-18
+    label: Paper submission (extended from 2025-04-30, firm)
+  - kind: notification
+    date: 2025-06-15
+  - kind: camera_ready
+    date: 2025-07-15
+    label: Final manuscript and registration
+- year: 2026
+  start: 2026-10-29
+  end: 2026-11-02
+  location: Luoyang, China
+  url: https://ieee-hyper-intelligence.org/2026/hpcc/
+  deadlines:
+  - kind: submission
+    date: 2026-08-05
+    label: Paper submission (extended from 2026-07-15)
+  - kind: notification
+    date: 2026-09-15
+    label: Author notification (moved from 2026-09-10)
+  - kind: camera_ready
+    date: 2026-09-30
+  - kind: other
+    date: 2026-10-20
+    label: Registration due (moved from 2026-09-30)
+sources:
+- https://ieee-hyper-intelligence.org/2026/hpcc/
+- https://ieee-hyper-intelligence.org/2026/
+- https://ieee-hyper-intelligence.org/2026/register-instruction.htm
+- https://hpcn.exeter.ac.uk/hpcc2025/
+- https://hpcn.exeter.ac.uk/hpcc2025/reg.php
+- https://api.crossref.org/works?query.bibliographic=High+Performance+Computing+Communications+HPCC&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=HPCC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- Acceptance rate
+- Deadline timezone (ccf-deadlines says AoE; official pages do not state it)
+last_verified: 2026-09-28

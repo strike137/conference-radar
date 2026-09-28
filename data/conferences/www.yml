@@ -1,0 +1,105 @@
+id: www
+name: WWW
+full_name: The ACM Web Conference
+type: conference
+tier: top
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM
+proceedings: ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [10]
+  conference_months: [4, 5]
+links:
+  website: https://www2027.thewebconf.org/
+notes:
+- The ACM Web Conference (formerly International World Wide Web Conference, WWW); web mining, search, social computing,
+  web security and privacy
+- WWW 2026 in Dubai was postponed from April 13 to 17 to June 29 to July 3, 2026
+- 'WWW 2027: Dublin, May 10 to 14, 2027; full paper deadline Oct 25, 2026 and short paper deadline Nov 16, 2026
+  (AoE)'
+- Double-blind review (OpenReview from 2027, EasyChair in 2026); research track acceptance around 20%
+- CCF A in the interdisciplinary category; CORE A*
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  location: Dubai, United Arab Emirates
+  url: https://www2026.thewebconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-30
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2025-10-07
+    tz: AoE
+    label: Research track
+  - kind: notification
+    date: 2026-01-13
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-25
+    tz: AoE
+- year: 2027
+  start: 2027-05-10
+  end: 2027-05-14
+  location: Dublin, Ireland
+  url: https://www2027.thewebconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-18
+    time: '23:59'
+    tz: AoE
+    label: Research and industry track full papers
+  - kind: submission
+    date: 2026-10-25
+    time: '23:59'
+    tz: AoE
+    label: Research and industry track full papers
+  - kind: abstract
+    date: 2026-11-09
+    time: '23:59'
+    tz: AoE
+    label: Short papers
+  - kind: submission
+    date: 2026-11-16
+    time: '23:59'
+    tz: AoE
+    label: Short papers
+  - kind: other
+    date: 2026-12-15
+    label: Result release and rebuttal period (until Dec 20)
+  - kind: notification
+    date: 2027-01-04
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-31
+    time: '23:59'
+    tz: AoE
+sources:
+- https://www2027.thewebconf.org/
+- https://www2027.thewebconf.org/important-dates/
+- https://www2027.thewebconf.org/call-for-industry-submissions/
+- https://www2027.thewebconf.org/research-track-papers/
+- https://www2026.thewebconf.org/
+- https://www2026.thewebconf.org/calls/research-tracks.html
+- https://www2026.thewebconf.org/attending/registration.html
+- https://portal.core.edu.au/conf-ranks/?search=WWW&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- https://csconfstats.xoveexu.com/conferences/www/
+unverified:
+- Whether WWW 2026 was finally held in person in Dubai or virtually (organizers said the format decision would be
+  made in May 2026)
+- WWW 2027 venue not confirmed (the Venues page still carries text copied from ACM MM 2025 about the Dublin Royal
+  Convention Centre)
+- 'WWW 2026 research track acceptance: a third-party aggregator reports 20.1% (678/3370); no official figure found,
+  so the acceptance_rate field is left empty'
+last_verified: 2026-09-28

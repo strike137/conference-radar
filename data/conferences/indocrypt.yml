@@ -1,0 +1,69 @@
+id: indocrypt
+name: INDOCRYPT
+full_name: International Conference on Cryptology in India
+type: conference
+tier: minor
+areas: [crypto, security]
+region: south-asia
+language: english
+frequency: annual
+organizer: 'CRSI (Cryptology Research Society of India) with a local host (2026: CDAC Bangalore)'
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: 'National: India'
+acceptance_rate: 23% (2025, 19/83)
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://indocrypt2026.cdacb.in/
+  dblp: https://dblp.org/db/conf/indocrypt/index.html
+notes:
+- 'Held in India every December under CRSI; CORE lists it as National: India, not in the CCF list'
+- Double-blind review, 20-page LNCS limit; proceedings in Springer LNCS
+- 'Deadline is usually extended by one to two weeks (2025: 1 Sep -> 10 Sep; 2026: 15 Aug -> 27 Aug)'
+- In 2025 and 2026 it started two days after Asiacrypt ended, so both can be combined in one December trip
+editions:
+- year: 2025
+  start: 2025-12-14
+  end: 2025-12-17
+  location: Bhubaneswar, India
+  url: https://www.indocrypt2025.in/
+  deadlines:
+  - kind: submission
+    date: 2025-09-10
+    time: '23:59'
+    tz: AoE
+    label: Paper submission (extended from 1 Sep)
+  - kind: notification
+    date: 2025-10-10
+    label: Notification
+  - kind: camera_ready
+    date: 2025-10-15
+    label: Final manuscripts due
+- year: 2026
+  start: 2026-12-13
+  end: 2026-12-16
+  location: Bengaluru, India
+  url: https://indocrypt2026.cdacb.in/
+  deadlines:
+  - kind: submission
+    date: 2026-08-27
+    time: '23:59'
+    tz: AoE
+    label: Paper submission (extended from 15 Aug)
+  - kind: notification
+    date: 2026-10-10
+    label: Final notification
+sources:
+- https://indocrypt2026.cdacb.in/
+- https://easychair.org/cfp/Indocrypt2025
+- https://iacr.org/events/
+- https://portal.core.edu.au/conf-ranks/?search=INDOCRYPT&by=all&source=ICORE2026&sort=atitle&page=1
+- https://link.springer.com/book/10.1007/978-3-032-13301-4
+unverified:
+- Registration fees not posted ('To be updated soon' on the 2026 site)
+- INDOCRYPT 2025 deadline taken from its EasyChair CFP; the 2025 website no longer serves content
+- Original INDOCRYPT 2026 deadline (15 Aug) taken from the IACR calendar
+last_verified: 2026-09-28

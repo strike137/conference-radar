@@ -1,0 +1,71 @@
+id: ifip-networking
+name: IFIP Networking
+full_name: IFIP Networking Conference (IFIP International Conference on Networking)
+type: conference
+tier: major
+areas: [networking, communications, security]
+region: europe
+language: english
+frequency: annual
+organizer: IFIP TC6 (Communication Systems), co-sponsored by IEEE ComSoc
+proceedings: IFIP Digital Library and IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+fee: 855 EUR IEEE/IFIP member, 950 EUR non-member (2026, author workshops + conference)
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://networking.ifip.org/
+notes:
+- IFIP TC6 flagship networking conference since 2000; tracks include architectures, modeling and operation, security
+  and privacy, wireless
+- Double-blind review; 9 pages including references and appendix
+- Almost always in Europe, late May or June (2027 host not yet announced)
+- Top papers fast-tracked to an Elsevier Computer Communications special issue; in-person presentation required
+editions:
+- year: 2026
+  start: 2026-05-24
+  end: 2026-05-27
+  location: Lugano, Switzerland
+  url: https://networking.ifip.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-28
+    time: '23:59'
+    tz: AoE
+    label: Main track full papers (firm; originally 2026-02-08)
+  - kind: notification
+    date: 2026-04-08
+    label: Main track full papers (originally 2026-04-02)
+  - kind: submission
+    date: 2026-04-10
+    time: '23:59'
+    tz: AoE
+    label: Demo/poster papers (firm)
+  - kind: submission
+    date: 2026-04-14
+    time: '23:59'
+    tz: AoE
+    label: Workshop papers (firm)
+  - kind: submission
+    date: 2026-04-16
+    time: '23:59'
+    tz: AoE
+    label: PhD forum extended abstracts (firm)
+  - kind: camera_ready
+    date: 2026-05-04
+    label: All papers
+sources:
+- https://networking.ifip.org/
+- https://networking.ifip.org/2026/
+- https://networking.ifip.org/2026/index.php/calls/call-for-papers.html
+- https://networking.ifip.org/2026/index.php/registration.html
+- https://portal.core.edu.au/conf-ranks/?search=Networking&by=all&source=ICORE2026
+unverified:
+- IFIP Networking 2027 host city and dates (the series site only invites proposals; networking.ifip.org/2027/ returns
+  404)
+- Acceptance rate not found in an official source
+last_verified: 2026-09-28

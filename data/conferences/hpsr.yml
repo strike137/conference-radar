@@ -1,0 +1,77 @@
+id: hpsr
+name: HPSR
+full_name: IEEE International Conference on High Performance Switching and Routing
+type: conference
+tier: minor
+areas: [networking, communications, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Communications Society
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [1, 11]
+  conference_months: [5, 6]
+links:
+  website: https://hpsr2027.ieee-hpsr.org/
+notes:
+- Started as a workshop (CORE still lists it as IEEE Workshop on HPSR); small ComSoc conference on switching, routing,
+  optical and data center networks
+- Rotates globally; 2025 edition was in Suita (Osaka), Japan, with Eiji Oki (Kyoto University) among the general
+  co-chairs
+- 6-page papers, up to 2 extra pages at 100 USD each; posters and demos have a later deadline
+- 2026 CFP explicitly welcomed intent-based and zero-touch networking; 2027 CFP adds tracks on autonomous networks
+  and network security
+editions:
+- year: 2026
+  start: 2026-06-17
+  end: 2026-06-19
+  location: Montreal, Canada
+  url: https://hpsr2026.ieee-hpsr.org/
+  deadlines:
+  - kind: submission
+    date: 2026-01-30
+    label: Technical papers (extended)
+  - kind: notification
+    date: 2026-03-03
+    label: Technical papers
+  - kind: submission
+    date: 2026-03-20
+    label: Posters and demos (extended)
+  - kind: camera_ready
+    date: 2026-04-15
+    label: Technical papers
+- year: 2027
+  start: 2027-06-15
+  end: 2027-06-18
+  location: Paris, France
+  url: https://hpsr2027.ieee-hpsr.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    label: Technical papers
+  - kind: notification
+    date: 2027-03-01
+    label: Technical papers
+  - kind: camera_ready
+    date: 2027-04-19
+    label: Technical papers
+sources:
+- https://hpsr2027.ieee-hpsr.org/
+- https://hpsr2027.ieee-hpsr.org/call-papers
+- https://hpsr2027.ieee-hpsr.org/submission-guidelines
+- https://hpsr2026.ieee-hpsr.org/
+- https://hpsr2026.ieee-hpsr.org/authors
+- https://hpsr2026.ieee-hpsr.org/call-papers
+- https://hpsr2026.ieee-hpsr.org/registration
+- https://hpsr2025.ieee-hpsr.org/
+- https://portal.core.edu.au/conf-ranks/?search=HPSR&by=all&source=ICORE2026
+unverified:
+- Registration fee amounts (not shown on the 2026 registration page; only on the external registration site)
+- Original (pre-extension) HPSR 2026 deadline
+- HPSR 2025 TPC co-chairs (names not shown on the fetched page)
+- Acceptance rate not found
+last_verified: 2026-09-28

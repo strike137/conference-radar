@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conference Radar</title>
+<meta name="description" content="Security, AI, networking and general EECS conferences with deadlines, CORE/CCF rankings and notes, curated by the Cybersecurity Lab at JAIST.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='none' stroke='%232f5bd3' stroke-width='3'/%3E%3Ccircle cx='16' cy='16' r='7' fill='none' stroke='%232f5bd3' stroke-width='3'/%3E%3Ccircle cx='16' cy='16' r='2.5' fill='%232f5bd3'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+<script>
+  try { var t = localStorage.getItem('cr-theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}
+</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <div class="brand">
+      <h1 id="site-title">Conference Radar</h1>
+      <p id="site-subtitle">Security, AI, networking and general EECS venues with deadlines, rankings and notes.</p>
+    </div>
+    <div class="header-actions">
+      <a class="btn primary" id="add-link" href="#contribute">+ Add a conference</a>
+      <a class="btn" id="repo-link" href="#" hidden>GitHub</a>
+      <button class="btn icon" id="theme-toggle" type="button" aria-label="Switch color theme" title="Switch color theme">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.39 5.39 0 0 1-4.4 2.26 5.4 5.4 0 0 1-3.14-9.8c-.44-.06-.9-.1-1.36-.1z"/></svg>
+      </button>
+    </div>
+  </div>
+  <nav class="wrap tabs" aria-label="Views">
+    <button type="button" data-view="table" aria-current="page">Table</button>
+    <button type="button" data-view="calendar">Calendar</button>
+    <button type="button" data-view="timeline">Timeline</button>
+    <button type="button" data-view="resources">Other sites</button>
+    <button type="button" data-view="contribute">How to contribute</button>
+  </nav>
+</header>
+
+<main class="wrap">
+  <section id="filters" class="filters" aria-label="Filters">
+    <div class="filter-row">
+      <label class="search">
+        <span class="sr-only">Search</span>
+        <input id="q" type="search" placeholder="Search name, organizer, location, notes..." autocomplete="off">
+      </label>
+      <button type="button" class="btn filters-toggle" id="filters-toggle" aria-expanded="false" aria-controls="filters">Filters</button>
+      <label class="field collapsible">
+        <span>Region</span>
+        <select id="f-region"></select>
+      </label>
+      <label class="field collapsible">
+        <span>CORE</span>
+        <select id="f-core"></select>
+      </label>
+      <label class="field collapsible">
+        <span>CCF</span>
+        <select id="f-ccf"></select>
+      </label>
+    </div>
+    <div class="filter-row chips-row collapsible">
+      <div class="chip-group" id="f-area" role="group" aria-label="Area"></div>
+    </div>
+    <div class="filter-row chips-row collapsible">
+      <div class="chip-group" id="f-tier" role="group" aria-label="Tier"></div>
+      <div class="chip-group" id="f-type" role="group" aria-label="Type"></div>
+    </div>
+    <div class="filter-row dates-row collapsible">
+      <fieldset class="range">
+        <legend>Deadline between</legend>
+        <input id="dl-from" type="date" aria-label="Deadline from">
+        <span aria-hidden="true">and</span>
+        <input id="dl-to" type="date" aria-label="Deadline to">
+        <span class="quick" id="dl-quick" role="group" aria-label="Deadline within the next">
+          <span class="sub">or within the next</span>
+          <button type="button" data-days="30" aria-pressed="false">30 days</button>
+          <button type="button" data-days="90" aria-pressed="false">90 days</button>
+          <button type="button" data-days="180" aria-pressed="false">6 months</button>
+        </span>
+      </fieldset>
+      <fieldset class="range">
+        <legend>Conference held between</legend>
+        <input id="cf-from" type="date" aria-label="Conference from">
+        <span aria-hidden="true">and</span>
+        <input id="cf-to" type="date" aria-label="Conference to">
+      </fieldset>
+    </div>
+    <div class="filter-row options-row">
+      <label class="toggle collapsible"><input id="opt-est" type="checkbox" checked> Include estimated dates</label>
+      <label class="toggle collapsible"><input id="opt-upcoming" type="checkbox"> Only with an upcoming deadline</label>
+      <label class="field sort-phone">
+        <span>Sort</span>
+        <select id="sort-sel">
+          <option value="deadline">Next deadline</option>
+          <option value="conf">Conference date</option>
+          <option value="name">Name</option>
+          <option value="tier">Tier</option>
+          <option value="core">CORE rank</option>
+          <option value="ccf">CCF rank</option>
+          <option value="" hidden>Custom</option>
+        </select>
+      </label>
+      <span class="spacer"></span>
+      <span id="count" class="count" aria-live="polite"></span>
+      <button type="button" class="btn small" id="ics-btn" title="Download the upcoming announced deadlines (not estimates) of the filtered conferences as an .ics calendar file">Export .ics</button>
+      <button type="button" class="btn small" id="reset-btn">Reset</button>
+    </div>
+  </section>
+
+  <section id="view-table" class="view" aria-label="Table">
+    <div class="table-wrap">
+      <table class="conf-table">
+        <thead>
+          <tr>
+            <th data-sort="name" scope="col"><button type="button">Conference</button></th>
+            <th data-sort="tier" scope="col"><button type="button">Tier</button></th>
+            <th scope="col">Areas</th>
+            <th data-sort="core" scope="col" id="th-core"><button type="button">CORE</button></th>
+            <th data-sort="ccf" scope="col" id="th-ccf"><button type="button">CCF</button></th>
+            <th data-sort="deadline" scope="col" aria-sort="ascending"><button type="button">Deadline</button></th>
+            <th data-sort="conf" scope="col"><button type="button">Held</button></th>
+            <th data-sort="region" scope="col"><button type="button">Location</button></th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <p class="empty" id="empty" hidden>No conference matches these filters.</p>
+  </section>
+
+  <section id="view-calendar" class="view" aria-label="Calendar" hidden>
+    <div class="cal-toolbar">
+      <div class="cal-nav">
+        <button type="button" class="btn small" id="cal-prev" aria-label="Previous month">&lsaquo;</button>
+        <h2 id="cal-title"></h2>
+        <button type="button" class="btn small" id="cal-next" aria-label="Next month">&rsaquo;</button>
+        <button type="button" class="btn small" id="cal-today">Today</button>
+      </div>
+      <div class="cal-options">
+        <label class="toggle"><input type="checkbox" id="cal-dl" checked> <span class="dot dl"></span>Deadlines</label>
+        <label class="toggle"><input type="checkbox" id="cal-conf" checked> <span class="dot cf"></span>Conferences</label>
+        <label class="toggle"><input type="checkbox" id="cal-notif"> <span class="dot nt"></span>Notifications</label>
+      </div>
+    </div>
+    <div class="cal-grid" id="cal-grid"></div>
+    <p class="legend">Faded items with <em>~</em> are estimated from the previous edition; struck-through items are past. Click an item for details, or a day to list everything on it.</p>
+    <div id="cal-agenda" class="agenda"></div>
+  </section>
+
+  <section id="view-timeline" class="view" aria-label="Timeline" hidden>
+    <div class="cal-toolbar">
+      <div class="cal-nav">
+        <button type="button" class="btn small" id="tl-prev" aria-label="Earlier">&lsaquo;</button>
+        <h2 id="tl-title"></h2>
+        <button type="button" class="btn small" id="tl-next" aria-label="Later">&rsaquo;</button>
+        <button type="button" class="btn small" id="tl-today">Today</button>
+      </div>
+      <p class="legend"><span class="mk dl"></span> submission deadline &nbsp; <span class="mk cf"></span> conference &nbsp; hollow = estimated</p>
+    </div>
+    <div class="timeline" id="timeline"></div>
+  </section>
+
+  <section id="view-resources" class="view prose" aria-label="Other sites" hidden>
+    <h2>Other sites that track deadlines and rankings</h2>
+    <p>Use these to double-check dates, or to find venues this site does not list yet (then please add them).</p>
+    <div class="res-grid" id="res-grid"></div>
+  </section>
+
+  <section id="view-contribute" class="view prose" aria-label="How to contribute" hidden>
+    <h2>How to add or fix a conference</h2>
+    <p>Every conference is one small YAML file in <code>data/conferences/</code>. Pick whichever way is easiest for you.</p>
+    <ol class="steps">
+      <li>
+        <h3>Fill in a form (no Git needed)</h3>
+        <p>Open the <a id="c-issue-add" href="#">"Add a conference" form</a>, fill in what you know and submit. A bot turns it into a pull request, and a maintainer merges it.</p>
+        <p>Found a wrong or outdated date? Every conference has a <strong>Report outdated info</strong> button that opens a prefilled form.</p>
+      </li>
+      <li>
+        <h3>Edit the file on GitHub</h3>
+        <p>Open a conference in the table and press <strong>Edit on GitHub</strong>. GitHub opens the file in its editor; change it and choose "Propose changes". People without write access get a fork and a pull request automatically.</p>
+        <p>New conference: <a id="c-new-file" href="#">create a new file from the template</a>, rename it to <code>&lt;id&gt;.yml</code> and fill it in.</p>
+      </li>
+      <li>
+        <h3>Locally</h3>
+<pre><code>git clone <span id="c-clone">https://github.com/OWNER/REPO.git</span>
+cp data/_template.yml data/conferences/myconf.yml   # edit it
+pip install pyyaml
+python3 scripts/build.py --serve                     # check at http://localhost:8000</code></pre>
+      </li>
+    </ol>
+    <h3>What to write</h3>
+    <ul>
+      <li><strong>tier</strong>: <code>top</code> flagship of its field, <code>major</code> well-established and competitive, <code>minor</code> smaller or regional, <code>domestic</code> national conference in a local language.</li>
+      <li><strong>notes</strong>: short facts people need when choosing a venue, like the lab seminar slides: organizer, proceedings, where it is held, reputation, acceptance rate, fee, anything unusual.</li>
+      <li><strong>editions</strong>: the latest edition and the next one when announced, with every submission deadline. Dates are <code>YYYY-MM-DD</code>; add <code>time</code> and <code>tz</code> (for example <code>AoE</code>) when the call for papers states them.</li>
+      <li><strong>rank</strong>: CORE from the <a href="https://portal.core.edu.au/conf-ranks/" rel="noopener">CORE portal</a> (<span class="core-ed">ICORE2026</span>) and the CCF list (<span class="ccf-ed">CCF 2026</span>). Leave empty if not listed.</li>
+      <li><strong>sources</strong> and <strong>last_verified</strong>: where you checked and when, so others know how fresh it is.</li>
+    </ul>
+    <p>The full field guide is in <a id="c-guide" href="#">CONTRIBUTING.md</a>. When no confirmed date exists yet, the site estimates the next one from the previous edition and marks it with <em>~</em>.</p>
+  </section>
+</main>
+
+<footer class="wrap site-footer">
+  <p id="footer-meta"></p>
+</footer>
+
+<dialog id="detail" aria-labelledby="detail-title">
+  <form method="dialog" class="dialog-close"><button class="btn icon" aria-label="Close">&times;</button></form>
+  <div id="detail-body"></div>
+</dialog>
+
+<script src="app.js" defer></script>
+</body>
+</html>

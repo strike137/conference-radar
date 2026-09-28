@@ -1,0 +1,66 @@
+id: iccv
+name: ICCV
+full_name: IEEE/CVF International Conference on Computer Vision
+type: conference
+tier: top
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IEEE Computer Society and the Computer Vision Foundation (CVF)
+proceedings: IEEE Xplore and CVF Open Access
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 24% (2025, 2699/11239)
+typical:
+  deadline_months: [3]
+  conference_months: [10]
+links:
+  website: https://iccv.thecvf.com/
+notes:
+- Biennial (odd years), alternating with ECCV; one of the top three vision conferences
+- 'ICCV 2027 will be held at the Hong Kong Convention and Exhibition Centre, Oct 2 to 8, 2027: the closest top vision
+  venue for Asia-based students'
+- Submission deadline usually in early March, conference in October
+- ICCV 2025 (Honolulu) accepted 2699 of 11239 valid submissions (24%)
+editions:
+- year: 2025
+  start: 2025-10-19
+  end: 2025-10-23
+  location: Honolulu, USA
+  url: https://iccv.thecvf.com/Conferences/2025
+  deadlines:
+  - kind: abstract
+    date: 2025-03-03
+    time: '23:59'
+    tz: UTC-10
+    label: Paper registration (HST)
+  - kind: submission
+    date: 2025-03-07
+    time: '23:59'
+    tz: UTC-10
+    label: HST
+  - kind: notification
+    date: 2025-06-25
+    time: '23:59'
+    tz: UTC-10
+    label: Final decisions (HST)
+- year: 2027
+  start: 2027-10-02
+  end: 2027-10-08
+  location: Hong Kong, China
+  url: https://iccv.thecvf.com/Conferences/2027
+  deadlines: []
+sources:
+- https://iccv.thecvf.com/Conferences/2027
+- https://iccv.thecvf.com/Conferences/2025/Dates
+- https://x.com/ICCVConference/status/1937932919063851077
+- https://portal.core.edu.au/conf-ranks/?search=ICCV&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- ICCV 2027 submission deadlines not announced (expected around March 2027)
+- The ICCV 2027 Dates page still shows placeholder dates (Oct 19 to 23) that conflict with the homepage (Oct 2 to
+  8, 2027); homepage used here
+last_verified: 2026-09-28

@@ -1,0 +1,80 @@
+id: cnsm
+name: CNSM
+full_name: International Conference on Network and Service Management
+type: conference
+tier: major
+areas: [networking, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Technical co-sponsors IFIP, IEEE and IEEE ComSoc; in cooperation with ACM SIGCOMM
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: B
+fee: 800 EUR IFIP/ACM/IEEE member, 850 EUR non-member (2026, author registration covering up to 2 papers; same rates
+  in 2025)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: http://www.cnsm-conf.org/
+notes:
+- Selective single-track conference on network and service management; evolved from the MANWEEK workshops (DSOM,
+  MMSN, IPOM)
+- Single-blind review followed by a rebuttal phase; full papers 9 pages including references, short papers 5
+- Selected papers invited to IEEE TNSM (and IJNM in 2026)
+- Mostly in Europe or Canada (Tokyo in 2017); 2026 adds an experimental track for papers written entirely by LLM
+  agents
+editions:
+- year: 2025
+  start: 2025-10-27
+  end: 2025-10-31
+  location: Bologna, Italy
+  url: http://www.cnsm-conf.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-06
+    label: Main track papers (extended, firm)
+  - kind: other
+    date: 2025-08-21
+    label: Rebuttal period (Aug 21 to 23)
+  - kind: notification
+    date: 2025-08-27
+    label: Main track papers
+  - kind: camera_ready
+    date: 2025-09-21
+    label: Main track papers
+- year: 2026
+  start: 2026-10-26
+  end: 2026-10-30
+  location: Alcala de Henares (Madrid), Spain
+  url: http://www.cnsm-conf.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-29
+    label: Main track papers (extended; originally 2026-06-15)
+  - kind: other
+    date: 2026-08-18
+    label: Rebuttal period (Aug 18 to 21, until 12:00 Madrid time)
+  - kind: notification
+    date: 2026-08-26
+    label: Main track papers
+  - kind: camera_ready
+    date: 2026-09-14
+    label: Main track papers
+sources:
+- http://www.cnsm-conf.org/2026/
+- http://www.cnsm-conf.org/2026/cfp.html
+- http://www.cnsm-conf.org/2026/about.html
+- http://www.cnsm-conf.org/2026/registration.html
+- http://www.cnsm-conf.org/2025/
+- http://www.cnsm-conf.org/2025/cfp.html
+- http://www.cnsm-conf.org/2025/registration.html
+- https://portal.core.edu.au/conf-ranks/?search=CNSM&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) CNSM 2025 submission deadline
+- CNSM 2027 not yet announced (cnsm-conf.org/2027/ returns 404)
+- Acceptance rate not found in an official source
+- dblp key not verified (dblp blocked automated access)
+last_verified: 2026-09-28

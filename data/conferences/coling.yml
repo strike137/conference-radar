@@ -1,0 +1,93 @@
+id: coling
+name: COLING
+full_name: International Conference on Computational Linguistics
+type: conference
+tier: major
+areas: [nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ICCL (International Committee on Computational Linguistics)
+proceedings: ACL Anthology
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: B
+acceptance_rate: 30.1% (2025, 760 accepted; 2,530 direct submissions plus 193 ARR commitments)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [1, 5]
+links:
+  website: https://2027.coling-iccl.org/
+notes:
+- Traditionally biennial; recent editions 2022 (Gyeongju), 2024 (joint LREC-COLING, Turin), 2025 (Abu Dhabi), 2027
+  (Macau)
+- COLING 2027 in Macau is ARR only, sharing the October 2026 ARR cycle with NAACL 2027; hybrid with virtual days
+  May 6-7, 2027
+- COLING 2025 still took direct submissions with double-blind review; overall acceptance about 30%
+- Generally seen as a solid second-tier NLP venue with higher acceptance than ACL/EMNLP
+editions:
+- year: 2025
+  start: 2025-01-19
+  end: 2025-01-24
+  location: Abu Dhabi, UAE
+  url: https://coling2025.org/
+  deadlines:
+  - kind: submission
+    date: 2024-09-16
+    time: '23:59'
+    tz: AoE
+    label: Direct submission
+  - kind: other
+    date: 2024-10-20
+    time: '23:59'
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2024-11-29
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-12-15
+    time: '23:59'
+    tz: AoE
+- year: 2027
+  start: 2027-05-09
+  end: 2027-05-14
+  location: Macau, China
+  url: https://2027.coling-iccl.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-12
+    time: '23:59'
+    tz: AoE
+    label: ARR October 2026 cycle
+  - kind: submission
+    date: 2026-11-30
+    time: '23:59'
+    tz: AoE
+    label: Industry track
+  - kind: other
+    date: 2026-12-23
+    time: '23:59'
+    tz: AoE
+    label: Commitment to COLING
+  - kind: notification
+    date: 2027-02-10
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2027-03-15
+    time: '23:59'
+    tz: AoE
+    label: Industry track
+sources:
+- https://2027.coling-iccl.org/
+- https://2027.coling-iccl.org/calls/main_conference_papers/
+- https://2027.coling-iccl.org/calls/industry_track/
+- https://coling2025.org/calls/main_conference_papers/
+- https://aclanthology.org/2025.coling-main.0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=COLING&by=acronym&source=ICORE2026
+unverified:
+- COLING 2027 camera-ready date not yet announced (TBD for industry track too)
+last_verified: 2026-09-28

@@ -1,0 +1,70 @@
+id: blackhat-asia
+name: Black Hat Asia
+full_name: Black Hat Asia (Briefings and Trainings), Singapore
+type: industry
+tier: major
+areas: [security]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Black Hat (Informa Festivals, Informa PLC)
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+typical:
+  deadline_months: [10, 12]
+  conference_months: [2, 3, 4]
+links:
+  website: https://www.blackhat.com/asia-26/
+notes:
+- 'Asian edition of Black Hat, held at Marina Bay Sands, Singapore: four days with Trainings, a Summit Day and two
+  days of Briefings'
+- CFP deadlines are in Singapore time (UTC+8); the 2027 CFP opened Sep 4 and closes Oct 20, 2026, as the event moves
+  earlier to Feb 28 to Mar 3, 2027
+- DEF CON Singapore first ran Apr 28-30, 2026 (the week after Black Hat Asia); DEF CON Singapore 2 is set for 4-6
+  March 2027, directly after Black Hat
+- Closest Black Hat venue for Japan-based researchers; industry talks, no archival proceedings
+editions:
+- year: 2026
+  start: 2026-04-21
+  end: 2026-04-24
+  location: Singapore
+  url: https://www.blackhat.com/asia-26/
+  deadlines:
+  - kind: submission
+    date: 2025-12-11
+    time: '23:59'
+    tz: UTC+8
+    label: Briefings CFP
+  - kind: notification
+    date: 2026-02-20
+- year: 2027
+  start: 2027-02-28
+  end: 2027-03-03
+  location: Singapore
+  url: https://www.blackhat.com/call-for-papers.html
+  deadlines:
+  - kind: submission
+    date: 2026-10-20
+    time: '23:59'
+    tz: UTC+8
+    label: Briefings CFP (Briefings on Mar 2-3, 2027)
+  - kind: notification
+    date: 2027-01-05
+sources:
+- https://www.blackhat.com/call-for-papers.html
+- https://www.blackhat.com/upcoming.html
+- https://www.blackhat.com/asia-26/
+- https://i.blackhat.com/Asia-26/BHAS26-CFP-Preparation.pdf
+- http://web.archive.org/web/20260916013251/https://blackhat.com/call-for-papers.html
+- http://web.archive.org/web/20260916013251/https://blackhat.com/upcoming.html
+- http://web.archive.org/web/20260823174628/https://blackhat.com/asia-26/
+- https://defcon.org/
+- https://defcon.org/html/defcon-singapore/dc-singapore-index.html
+unverified:
+- The 2026 CFP document gives the notification date as 'February 20, 2025', which is presumably a typo for 2026
+- 2027 Trainings and Summit days within Feb 28 to Mar 3 not broken down yet
+- DEF CON's news post (2026-09-24) calls the 2027 event 'Black Hat Singapore' while blackhat.com still says 'Black
+  Hat Asia 2027'; possible rebranding not confirmed
+last_verified: 2026-09-28

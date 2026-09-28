@@ -1,0 +1,76 @@
+id: acl
+name: ACL
+full_name: Annual Meeting of the Association for Computational Linguistics
+type: conference
+tier: top
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACL (Association for Computational Linguistics)
+proceedings: ACL Anthology
+indexing: [DBLP]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 18.9% main (2026, 2296/12148)
+fee: About 1,050 USD academic / 750 USD student, early, presenting author, full conference, in person (2026), plus
+  ACL membership (100 USD / 50 USD student)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [7, 8]
+links:
+  website: https://www.aclweb.org/
+notes:
+- Flagship NLP venue; all papers go through ACL Rolling Review (ARR), then are committed to ACL
+- ACL 2027 will be held in Kyoto, Japan (Aug 17-22, 2027); ARR lists January 2027 as the final ARR cycle for it
+- Acceptance rate around 19-21% for the main track; a separate Findings volume takes more papers (17.8% in 2026)
+- ACL 2026 accepted papers from both the ARR October 2025 and January 2026 cycles
+- All attendees must hold ACL membership; virtual registration is available
+editions:
+- year: 2026
+  start: 2026-07-02
+  end: 2026-07-07
+  location: San Diego, USA
+  url: https://2026.aclweb.org/
+  deadlines:
+  - kind: submission
+    date: 2025-10-06
+    time: '23:59'
+    tz: AoE
+    label: ARR October 2025 cycle (also usable for ACL 2026)
+  - kind: submission
+    date: 2026-01-05
+    time: '23:59'
+    tz: AoE
+    label: ARR January 2026 cycle
+  - kind: other
+    date: 2026-03-14
+    time: '23:59'
+    tz: AoE
+    label: Commitment to ACL 2026
+  - kind: notification
+    date: 2026-04-04
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-19
+    time: '23:59'
+    tz: AoE
+- year: 2027
+  start: 2027-08-17
+  end: 2027-08-22
+  location: Kyoto, Japan
+  url: https://2027.aclweb.org/
+  deadlines: []
+sources:
+- https://2026.aclweb.org/calls/main_conference_papers/
+- https://2027.aclweb.org/
+- https://2026.aclweb.org/registration/
+- https://aclrollingreview.org/dates
+- https://aclanthology.org/2026.acl-long.0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ACL&by=acronym&source=ICORE2026
+unverified:
+- ACL 2027 ARR submission and commitment dates are TBA (ARR dates page lists only 'January, 2027' as the final ARR
+  submission for ACL 2027)
+last_verified: 2026-09-28

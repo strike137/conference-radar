@@ -1,0 +1,64 @@
+id: ieice-society
+name: IEICE Society Conference
+full_name: IEICE Society Conference (The Institute of Electronics, Information and Communication Engineers)
+name_local: 電子情報通信学会ソサイエティ大会
+type: conference
+tier: domestic
+areas: [general, communications, networking, security, crypto, ai, systems]
+region: japan
+language: japanese
+frequency: annual
+organizer: IEICE (The Institute of Electronics, Information and Communication Engineers)
+proceedings: IEICE
+archival: false
+rank:
+  core: Unranked
+fee: 13,000 JPY member, 4,000 JPY student member, 28,600 JPY non-member (2026, presenter fee per paper)
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://www.ieice.org/jpn_r/activities/taikai/society/2027/
+notes:
+- Organized by IEICE; held every September, the counterpart of the March General Conference
+- No peer review; 1-page paper for general sessions, up to 2 pages for symposium and poster sessions
+- Application and manuscript share one strict deadline in late June (17:00)
+- Japanese or English; presenters must present on site
+- The 2026 edition ran 3 days instead of the usual 4
+editions:
+- year: 2026
+  start: 2026-09-23
+  end: 2026-09-25
+  location: Sapporo, Japan
+  url: https://www.ieice.org/jpn_r/activities/taikai/society/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-26
+    time: '17:00'
+    tz: JST
+    label: Presentation application and manuscript (general, symposium, organized sessions)
+  - kind: other
+    date: 2026-09-08
+    label: Proceedings published (public disclosure date)
+- year: 2027
+  start: 2027-09-07
+  end: 2027-09-10
+  location: Nonoichi (Ishikawa), Japan
+  url: https://www.ieice.org/jpn_r/activities/taikai/society/2027/
+  deadlines: []
+sources:
+- https://www.ieice.org/jpn_r/activities/taikai/society/2027/
+- https://www.ieice.org/jpn_r/activities/taikai/society/2026/
+- https://www.ieice.org/jpn_r/activities/taikai/society/2026/announcement.html
+- https://www.ieice.org/jpn_r/activities/taikai/society/2026/fee_table.html
+- https://www.ieice.org/jpn_r/activities/taikai/society/2026/news_schedule.html
+- https://www.ieice.org/jpn_r/activities/taikai/society/2025/
+- https://www.ieice.org/jpn_r/activities/taikai/society/2025/news_schedule.html
+- https://www.ieice.org/jpn_r/activities/taikai/upcoming/tpl/upcoming.html
+- https://portal.core.edu.au/conf-ranks/?search=IEICE&by=all&source=ICORE2026
+unverified:
+- '2027 deadline: the 2027 announcement page still shows a template date (2027-06-26 labelled Friday, but that day
+  is a Saturday), so it is not used'
+- The 2027 site overview block shows 9 to 12 September (weekday labels inconsistent); the header and the IEICE upcoming
+  list both give 7 to 10 September, used here
+last_verified: 2026-09-28

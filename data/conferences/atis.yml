@@ -1,0 +1,73 @@
+id: atis
+name: ATIS
+full_name: International Conference on Applications and Techniques in Information Security
+type: conference
+tier: minor
+areas: [security, crypto, communications, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: 'ATIS Foundation (Deakin University, Australia) with local hosts (2026: CMR University, Bengaluru)'
+proceedings: Springer CCIS
+indexing: [Scopus]
+rank:
+  core: Unranked
+fee: 200 USD (2026, foreign delegates); INR 10,000 for students in India
+typical:
+  deadline_months: [8, 9, 11]
+  conference_months: [11, 12]
+links:
+  website: https://atis2026.com/
+notes:
+- Series started in 2010, run by the ATIS Foundation with Deakin University; 16th edition in 2026
+- Proceedings in Springer CCIS (not LNCS)
+- Held mostly in Australia and India, sometimes China or New Zealand; 2025 was a multi-location event (Melbourne,
+  Abu Dhabi, Kufa); no 2023 edition
+- Late deadline (August to November), short papers up to 12 pages, anonymised; low registration fees; regarded as
+  a minor venue
+- Not ranked by CORE or CCF
+editions:
+- year: 2025
+  start: 2025-12-17
+  end: 2025-12-19
+  location: Melbourne, Australia
+  url: https://quantconf.com/
+  deadlines:
+  - kind: submission
+    date: 2025-09-09
+    label: Extended from 2025-08-31
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-15
+  location: Bengaluru, India
+  url: https://atis2026.com/
+  deadlines:
+  - kind: submission
+    date: 2026-11-07
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2026-11-30
+  - kind: other
+    date: 2026-12-05
+    time: '23:59'
+    tz: AoE
+    label: Registration and payment
+  - kind: camera_ready
+    date: 2026-12-08
+    time: '23:59'
+    tz: AoE
+sources:
+- https://atis2026.com/
+- https://atis2026.com/important-dates/
+- https://atis2026.com/registration/
+- https://atis2026.com/call-for-papers/
+- https://www.atis.conferences.academy/
+- https://quantconf.com/
+- https://api.crossref.org/works?query.bibliographic=Applications+and+Techniques+in+Information+Security+ATIS&filter=type:book
+- https://portal.core.edu.au/conf-ranks/?search=Applications+and+Techniques&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ATIS 2025 notification and camera-ready dates
+- Acceptance rate
+- dblp page URL (dblp blocked automated access during checking)
+last_verified: 2026-09-28

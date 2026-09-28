@@ -1,0 +1,122 @@
+id: ccs
+name: ACM CCS
+full_name: ACM Conference on Computer and Communications Security
+type: conference
+tier: top
+areas: [security, crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGSAC (Special Interest Group on Security, Audit and Control)
+proceedings: ACM DL
+indexing: [Scopus, DBLP, EI]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 14% (2025, 316/2186)
+fee: About 1200 EUR early for ACM/SIG members, 1400 EUR non-members, 850 EUR students (2026, main conference)
+typical:
+  deadline_months: [1, 4]
+  conference_months: [10, 11]
+links:
+  website: https://www.sigsac.org/ccs/CCS2026/
+  dblp: https://dblp.org/db/conf/ccs/index.html
+notes:
+- Flagship conference of ACM SIGSAC; one of the 'Big 4' security conferences
+- Two review cycles (January and April) with mandatory abstract submission one week before; double-blind; minor
+  revision decisions possible; at most 7 papers per author per cycle
+- 'Location rotates worldwide: Taipei (2025), The Hague (2026), Atlanta (2027)'
+- Papers rejected in the first cycle cannot be resubmitted to the second cycle of the same year
+- Many co-located workshops (e.g., AISec, CCSW) that are easier entry points for students; student conference grants
+  offered
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-17
+  location: Taipei, Taiwan
+  url: https://www.sigsac.org/ccs/CCS2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-01-02
+    time: '23:59'
+    tz: AoE
+    label: Cycle A
+  - kind: submission
+    date: 2025-01-09
+    time: '23:59'
+    tz: AoE
+    label: Cycle A
+  - kind: notification
+    date: 2025-03-28
+    label: Cycle A
+  - kind: abstract
+    date: 2025-04-07
+    time: '23:59'
+    tz: AoE
+    label: Cycle B
+  - kind: submission
+    date: 2025-04-14
+    time: '23:59'
+    tz: AoE
+    label: Cycle B
+  - kind: notification
+    date: 2025-07-01
+    label: Cycle B
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-19
+  location: The Hague, Netherlands
+  url: https://www.sigsac.org/ccs/CCS2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-07
+    time: '23:59'
+    tz: AoE
+    label: First review cycle
+  - kind: submission
+    date: 2026-01-14
+    time: '23:59'
+    tz: AoE
+    label: First review cycle
+  - kind: notification
+    date: 2026-04-09
+    label: First review cycle
+  - kind: abstract
+    date: 2026-04-22
+    time: '23:59'
+    tz: AoE
+    label: Second review cycle
+  - kind: submission
+    date: 2026-04-29
+    time: '23:59'
+    tz: AoE
+    label: Second review cycle
+  - kind: notification
+    date: 2026-07-17
+    label: Second review cycle
+  - kind: camera_ready
+    date: 2026-08-09
+    label: First review cycle
+  - kind: camera_ready
+    date: 2026-09-13
+    label: Second review cycle
+- year: 2027
+  start: 2027-10-11
+  end: 2027-10-15
+  location: Atlanta, USA
+  url: https://www.sigsac.org/ccs/CCS2027/
+  deadlines: []
+sources:
+- https://www.sigsac.org/ccs/CCS2026/
+- https://www.sigsac.org/ccs/CCS2026/call-for/call-for-papers.html
+- https://www.sigsac.org/ccs/CCS2026/attending/registration.html
+- https://www.sigsac.org/ccs/CCS2025/
+- https://www.sigsac.org/ccs/CCS2025/call-for-papers/
+- https://www.sigsac.org/ccs/CCS2027/
+- https://portal.core.edu.au/conf-ranks/?search=CCS&by=all&source=ICORE2026&sort=atitle&page=1
+- http://jianying.space/conference-ranking.html
+unverified:
+- CCS 2027 submission deadlines not yet announced (site says 'Coming Soon')
+- CCS 2025 camera-ready dates not stated in the CFP
+- Acceptance rate taken from Jianying Zhou's statistics page
+last_verified: 2026-09-28

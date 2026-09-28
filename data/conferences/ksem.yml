@@ -1,0 +1,63 @@
+id: ksem
+name: KSEM
+full_name: International Conference on Knowledge Science, Engineering and Management
+type: conference
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: KSEM Steering Committee (2026 hosted by Beihang University)
+proceedings: Springer LNAI
+indexing: [Scopus, EI, DBLP]
+rank:
+  core: C
+  ccf: C
+acceptance_rate: 41% (2026, 285/695 incl. 99 special track papers); 27% for regular papers only
+fee: About 750 USD / 5,500 CNY (2026, author early); 550 USD student early
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7, 8]
+links:
+  website: https://ksem2026.rosc.org.cn/
+  dblp: https://dblp.org/db/conf/ksem/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=1923
+notes:
+- Proceedings in Springer LNAI; regular papers 12 pages plus up to 4 paid extra pages, special track papers 10 pages;
+  double-blind review via EasyChair
+- 2026 edition emphasized applied knowledge science in networking and cybersecurity, including LLMs
+- Very large proceedings (seven LNAI volumes for the main conference in 2026)
+- Location varies (2021 Tokyo, 2022 Singapore, 2023 Guangzhou, 2024 Birmingham, 2025 Macao, 2026 Beijing), but most
+  editions are in China
+- Co-located AICom2 symposium with a later deadline (2026-04-01); its papers form volumes 8 and 9 of the Springer
+  proceedings
+editions:
+- year: 2026
+  start: 2026-07-17
+  end: 2026-07-19
+  location: Beijing, China
+  url: https://ksem2026.rosc.org.cn/
+  deadlines:
+  - kind: submission
+    date: 2026-02-28
+    label: Regular and special track papers
+  - kind: notification
+    date: 2026-03-31
+  - kind: submission
+    date: 2026-04-01
+    label: AICom2 symposium
+  - kind: camera_ready
+    date: 2026-04-30
+sources:
+- https://ksem2026.rosc.org.cn/
+- 'https://ksem2026.rosc.org.cn/assets/index-DNmn_-G8.js (site content bundle: dates, fees, history, review policy)'
+- http://www.wikicfp.com/cfp/servlet/tool.search?q=KSEM&year=a
+- https://link.springer.com/book/10.1007/978-981-92-2859-1
+- https://portal.core.edu.au/conf-ranks/?search=KSEM&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- KSEM 2027 location and dates not announced
+- Whether 2026-02-28 was an extension of an earlier deadline (ccf-deadlines seed lists 2026-01-15; the official
+  site and WikiCFP show only 2026-02-28)
+- Deadline timezone not stated
+- 2026 acceptance figures come from the Springer volume page, which could not be reopened during fact-checking
+last_verified: 2026-09-28

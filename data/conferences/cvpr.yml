@@ -1,0 +1,76 @@
+id: cvpr
+name: CVPR
+full_name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+type: conference
+tier: top
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Computer Society and the Computer Vision Foundation (CVF)
+proceedings: IEEE Xplore and CVF Open Access
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 25.4% (2026, 4090/16092)
+typical:
+  deadline_months: [11]
+  conference_months: [6]
+links:
+  website: https://cvpr.thecvf.com/
+notes:
+- Largest computer vision conference; papers open access on the CVF site plus IEEE Xplore
+- 'Held in North America every June: Denver 2026, Seattle 2027'
+- Paper registration and submission deadlines in early to mid November (AoE); decisions in late February
+- About 16k reviewed submissions and 25% acceptance in 2026
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-07
+  location: Denver, USA
+  url: https://cvpr.thecvf.com/Conferences/2026
+  deadlines:
+  - kind: abstract
+    date: 2025-11-07
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2025-11-13
+    tz: AoE
+  - kind: notification
+    date: 2026-02-20
+    tz: AoE
+- year: 2027
+  start: 2027-06-20
+  end: 2027-06-25
+  location: Seattle, USA
+  url: https://cvpr.thecvf.com/Conferences/2027
+  deadlines:
+  - kind: abstract
+    date: 2026-11-10
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-11-16
+    tz: AoE
+  - kind: other
+    date: 2026-11-23
+    tz: AoE
+    label: Supplementary materials
+  - kind: other
+    date: 2027-01-25
+    tz: AoE
+    label: Reviews released
+  - kind: notification
+    date: 2027-02-25
+    tz: AoE
+    label: Final decisions
+sources:
+- https://cvpr.thecvf.com/
+- https://cvpr.thecvf.com/Conferences/2027/Dates
+- https://cvpr.thecvf.com/Conferences/2026/Dates
+- https://x.com/CVPR/status/2025091165477810319
+- https://portal.core.edu.au/conf-ranks/?search=CVPR&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+last_verified: 2026-09-28

@@ -1,0 +1,140 @@
+name: Add a conference
+description: Suggest a conference, workshop or domestic meeting. A bot turns this form into a pull request.
+title: "[Add] "
+labels: [new-conference]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in what you know; only the first four fields are required and a maintainer can complete the rest.
+        Dates are `YYYY-MM-DD`. After you submit, a bot opens a pull request and comments here with the link.
+  - type: input
+    id: name
+    attributes:
+      label: Short name
+      placeholder: ICISSP
+    validations:
+      required: true
+  - type: input
+    id: full_name
+    attributes:
+      label: Full name
+      placeholder: International Conference on Information Systems Security and Privacy
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Official website
+      placeholder: https://icissp.scitevents.org/
+    validations:
+      required: true
+  - type: dropdown
+    id: areas
+    attributes:
+      label: Areas
+      multiple: true
+      options: [security, crypto, ai, nlp, data, vision, networking, communications, systems, software, general]
+    validations:
+      required: true
+  - type: dropdown
+    id: tier
+    attributes:
+      label: Tier
+      description: "top = flagship of its field, major = well-established and competitive, minor = smaller or regional, domestic = national conference in a local language"
+      options: [minor, major, top, domestic]
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options: [conference, workshop, industry, meeting]
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: region
+    attributes:
+      label: Where it is usually held
+      options: [japan, korea, taiwan, china, southeast-asia, south-asia, asia-pacific, oceania, europe, north-america, latin-america, middle-east, africa, worldwide, online]
+    validations:
+      required: true
+  - type: input
+    id: organizer
+    attributes:
+      label: Organizer
+      placeholder: KIISC, IEEE Computer Society, INSTICC, ...
+  - type: input
+    id: proceedings
+    attributes:
+      label: Proceedings
+      placeholder: Springer LNCS, IEEE Xplore, ACM DL, None (non-archival), ...
+  - type: dropdown
+    id: core
+    attributes:
+      label: CORE rank
+      description: Look it up on https://portal.core.edu.au/conf-ranks/
+      options: [Not sure, A*, A, B, C, National, Unranked]
+      default: 0
+  - type: dropdown
+    id: ccf
+    attributes:
+      label: CCF rank
+      options: [Not listed or not sure, A, B, C]
+      default: 0
+  - type: input
+    id: year
+    attributes:
+      label: Edition year
+      description: The edition the dates below belong to (the conference year).
+      placeholder: "2027"
+  - type: input
+    id: dates
+    attributes:
+      label: Conference dates
+      placeholder: 2027-02-03 to 2027-02-05
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: Tokyo, Japan
+  - type: textarea
+    id: deadlines
+    attributes:
+      label: Deadlines
+      description: "One per line: date, optional time and time zone, kind (abstract, submission, notification, camera_ready), optional label."
+      placeholder: |
+        2026-10-02 23:59 AoE submission Regular papers
+        2026-11-13 submission Position papers
+        2026-12-01 notification
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: One per line, like the lab seminar slides (organizer, proceedings, reputation, acceptance rate, anything unusual).
+      placeholder: |
+        Organized by KIISC; proceedings in Springer LNCS
+        Regarded as mid-tier; acceptance rate around 30%
+  - type: input
+    id: acceptance_rate
+    attributes:
+      label: Acceptance rate
+      placeholder: 28% (2025)
+  - type: input
+    id: fee
+    attributes:
+      label: Registration fee
+      placeholder: About 350 USD (2025, regular)
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Links where you checked this information (CFP page first), one per line.
+  - type: input
+    id: slug
+    attributes:
+      label: File id (optional)
+      description: Lowercase id for the file name. Leave empty to derive it from the short name.
+      placeholder: icissp

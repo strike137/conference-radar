@@ -1,0 +1,148 @@
+id: candar
+name: CANDAR
+full_name: International Symposium on Computing and Networking
+type: conference
+tier: minor
+areas: [systems, networking, security, crypto, ai, software]
+region: japan
+language: english
+frequency: annual
+organizer: CANDAR steering committee (Hiroshima University)
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, IEEE CSDL, EI Compendex, INSPEC, DBLP]
+rank:
+  core: Unranked
+acceptance_rate: 38.4% (2025, 25/65; long papers only 13.8%, 9/65)
+fee: 50,000 JPY speaker registration by credit card, 70,000 JPY by bank transfer (2026); 40,000 JPY by card in 2025
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://is-candar.org/
+  dblp: https://dblp.org/db/conf/candar/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=173639&copyownerid=36915
+notes:
+- Held every year in late November in a different Japanese city (2024 Naha, 2025 Yamagata, 2026 Ishigaki); steering
+  committee based at Hiroshima University
+- 'Four tracks including Track D: Information and Communication Security; co-located workshops (WICS, CSA, GCA,
+  PDAA, ASON, WANC) go to IEEE Xplore, while the NCSS workshop is non-reviewed and not in IEEE Xplore'
+- Proceedings via IEEE CPS in IEEE Xplore and CSDL; selected papers invited to IJNC, IEICE Trans. and Concurrency
+  and Computation special issues
+- Main-track acceptance roughly 33 to 39% every year since 2013; long papers roughly 8 to 15%
+- 2026 is in-person only; no-show papers are removed from IEEE Xplore
+editions:
+- year: 2025
+  start: 2025-11-25
+  end: 2025-11-28
+  location: Yamagata, Japan
+  url: http://is-candar.org/candar25/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-25
+    time: '23:59'
+    tz: UTC
+    label: Main abstract (original)
+  - kind: submission
+    date: 2025-07-30
+    time: '23:59'
+    tz: UTC
+    label: Main paper (original)
+  - kind: abstract
+    date: 2025-08-15
+    time: '23:59'
+    tz: UTC
+    label: Main abstract (extended, firm)
+  - kind: submission
+    date: 2025-08-20
+    time: '23:59'
+    tz: UTC
+    label: Main paper (extended, firm)
+  - kind: submission
+    date: 2025-09-06
+    time: '23:59'
+    tz: UTC
+    label: Workshop paper (extended, firm)
+  - kind: notification
+    date: 2025-09-25
+    label: Main symposium
+  - kind: notification
+    date: 2025-10-01
+    label: Workshops
+  - kind: camera_ready
+    date: 2025-10-23
+    time: '23:59'
+    tz: UTC
+- year: 2026
+  start: 2026-11-24
+  end: 2026-11-27
+  location: Ishigaki, Okinawa, Japan
+  url: https://is-candar.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-20
+    time: '23:59'
+    tz: UTC
+    label: Main abstract (original)
+  - kind: submission
+    date: 2026-07-25
+    time: '23:59'
+    tz: UTC
+    label: Main paper (original)
+  - kind: abstract
+    date: 2026-08-03
+    time: '23:59'
+    tz: UTC
+    label: Main abstract (extended)
+  - kind: submission
+    date: 2026-08-08
+    time: '23:59'
+    tz: UTC
+    label: Main paper (extended)
+  - kind: abstract
+    date: 2026-08-25
+    time: '23:59'
+    tz: UTC
+    label: Workshop abstract (extended)
+  - kind: submission
+    date: 2026-08-31
+    time: '23:59'
+    tz: UTC
+    label: Workshop paper (extended)
+  - kind: notification
+    date: 2026-09-20
+    label: Main symposium
+  - kind: notification
+    date: 2026-09-25
+    label: Workshops
+  - kind: abstract
+    date: 2026-10-15
+    time: '23:59'
+    tz: UTC
+    label: NCSS workshop abstract
+  - kind: camera_ready
+    date: 2026-10-15
+    time: '23:59'
+    tz: UTC
+  - kind: other
+    date: 2026-10-16
+    time: '23:59'
+    tz: UTC
+    label: Speaker registration/payment
+  - kind: submission
+    date: 2026-11-10
+    time: '23:59'
+    tz: UTC
+    label: NCSS workshop PDF
+sources:
+- https://is-candar.org/
+- https://is-candar.org/schedule
+- https://is-candar.org/registration
+- https://is-candar.org/workshops
+- https://is-candar.org/organization
+- https://is-candar.org/conference_archive
+- http://is-candar.org/candar25/schedule
+- http://is-candar.org/candar25/registration
+- https://portal.core.edu.au/conf-ranks/?search=CANDAR&by=all&source=ICORE2026
+unverified:
+- IEEE technical sponsorship details (e.g., which IEEE committee) not confirmed
+last_verified: 2026-09-28

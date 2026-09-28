@@ -1,0 +1,55 @@
+id: spaic
+name: SPAIC
+full_name: Security and Privacy for Asian Internet Communities Workshop
+type: workshop
+tier: minor
+areas: [security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Workshop chairs from CISPA Helmholtz Center and IIT Kharagpur (co-located with ACM AsiaCCS)
+proceedings: ACM DL
+archival: true
+rank:
+  core: Unranked
+fee: 'AsiaCCS 2026 workshop-only registration (early): 600 USD non-ACM, 550 USD ACM member, 400 USD non-ACM student,
+  350 USD ACM student (2026, plus 18% GST); each paper needs a regular workshop-only registration'
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://spaicworkshop.github.io/
+notes:
+- First edition in 2026 as a half-day workshop co-located with ACM AsiaCCS in Bengaluru, India
+- 'Human-centered and usable security and privacy in Asian contexts: shared devices, national ID and biometrics,
+  multilingual users, affordability'
+- Accepts position papers (1 to 2 pages) and short WiP papers (4 to 6 pages) in ACM sigconf format; 5 papers presented
+  in 2026, published in the ACM DL as workshop proceedings
+- Attendance requires AsiaCCS registration (workshop-only option available)
+- Program committee includes NII (Japan); the 2026 deadline was extended from January 20 to February 28
+editions:
+- year: 2026
+  start: 2026-06-02
+  end: 2026-06-02
+  location: Bengaluru, India
+  url: https://spaicworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-28
+    label: Position and short papers (extended from Jan 20)
+  - kind: notification
+    date: 2026-03-16
+  - kind: camera_ready
+    date: 2026-04-01
+sources:
+- https://spaicworkshop.github.io/
+- https://spaicworkshop.github.io/cfp.html
+- https://spaicworkshop.github.io/program.html
+- https://asiaccs2026.cse.iitkgp.ac.in/workshops/
+- https://asiaccs2026.cse.iitkgp.ac.in/registration/
+- https://doi.org/10.1145/3803632.3807889
+- https://api.crossref.org/works?query.bibliographic=Sector-wise+Investigation+of+CAPTCHAs+on+South+Asian+Websites
+unverified:
+- Whether a 2027 edition will be held (AsiaCCS 2027 workshops not yet announced)
+- Acceptance rate
+last_verified: 2026-09-28

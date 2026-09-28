@@ -1,0 +1,118 @@
+id: ijckg
+name: IJCKG
+full_name: International Joint Conference on Knowledge Graphs
+type: conference
+tier: minor
+areas: [data, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IJCKG Steering Committee; 2026 hosted by NECTEC and AIAT (Artificial Intelligence Association of Thailand)
+proceedings: Springer LNCS/LNAI
+indexing: [Scopus, DBLP]
+rank:
+  core: Unranked
+fee: USD 400 presenting non-member / USD 350 AIAT or JSAI member / USD 225 student non-member, early (2026)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11, 12]
+links:
+  website: https://ijckg2026.aiat.or.th/
+  dblp: https://dblp.org/db/conf/jist/
+notes:
+- Asian knowledge graph conference that evolved from JIST (Joint International Semantic Technology Conference)
+- Mostly held in Asia (Bangkok 2021 online, Tokyo 2023, Bangkok 2026); 2025 edition in Crete was the first in Europe
+- Full papers in Springer LNAI; posters, demos and workshops in CEUR-WS
+- Single-blind review (2025); research deadlines were extended by several weeks in both 2025 and 2026
+- JSAI members get the member registration rate
+editions:
+- year: 2025
+  start: 2025-10-15
+  end: 2025-10-17
+  location: Heraklion, Greece
+  url: https://ijckg2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-07-24
+    time: '23:59'
+    tz: AoE
+    label: Research track (extended from 2025-06-15)
+  - kind: submission
+    date: 2025-08-03
+    time: '23:59'
+    tz: AoE
+    label: Posters and Demos
+  - kind: notification
+    date: 2025-08-07
+    label: Research track
+  - kind: camera_ready
+    date: 2025-09-07
+    label: Research track
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-21
+  location: Bangkok, Thailand
+  url: https://ijckg2026.aiat.or.th/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-17
+    time: '23:59'
+    tz: AoE
+    label: Research / In-Use / Education (extended from 2026-06-23)
+  - kind: submission
+    date: 2026-07-24
+    time: '23:59'
+    tz: AoE
+    label: Research / In-Use / Education (extended from 2026-06-30)
+  - kind: submission
+    date: 2026-08-10
+    time: '23:59'
+    tz: AoE
+    label: Posters and Demos, 1st round
+  - kind: notification
+    date: 2026-08-31
+    label: Research / In-Use / Education (delayed from 2026-08-26)
+  - kind: notification
+    date: 2026-09-01
+    label: Posters and Demos, 1st round
+  - kind: abstract
+    date: 2026-09-04
+    time: '23:59'
+    tz: AoE
+    label: Industrial track
+  - kind: camera_ready
+    date: 2026-09-10
+    label: Research / In-Use / Education
+  - kind: submission
+    date: 2026-09-10
+    time: '23:59'
+    tz: AoE
+    label: Posters and Demos, 2nd round
+  - kind: submission
+    date: 2026-09-11
+    time: '23:59'
+    tz: AoE
+    label: Industrial track
+  - kind: notification
+    date: 2026-09-25
+    label: Posters and Demos, 2nd round
+  - kind: notification
+    date: 2026-09-25
+    label: Industrial track
+  - kind: camera_ready
+    date: 2026-10-04
+    label: Industrial track
+sources:
+- https://ijckg2026.aiat.or.th/
+- https://ijckg2026.aiat.or.th/call-for-papers
+- https://ijckg2026.aiat.or.th/camera-ready
+- https://ijckg2025.github.io/
+- https://ijckg2025.github.io/dates/important_dates.html
+- https://ijckg2025.github.io/calls/full_papers.html
+- https://ijckg2025.github.io/participants/registration.html
+- http://www.wikicfp.com/cfp/servlet/tool.search?q=IJCKG&year=a
+unverified:
+- dblp key (believed to be listed under conf/jist)
+- Location of the 2022 (hybrid) and 2024 (13th) editions
+- Review model for 2026 (single-blind stated only for 2025)
+last_verified: 2026-09-28

@@ -1,0 +1,102 @@
+id: icccn
+name: ICCCN
+full_name: International Conference on Computer Communications and Networks
+type: conference
+tier: major
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: Technically co-sponsored by IEEE Communications Society
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7, 8]
+links:
+  website: http://www.icccn.org/
+notes:
+- Single-blind review; 9 pages including references, borderline papers may be accepted as 6-page short papers
+- Often held in Hawaii; 2025 edition was in Tokyo, 2027 moves to Rome
+- Abstract registration one week before the full paper; separate later deadlines for posters and workshops
+- In-person presentation required; CORE B, CCF C
+editions:
+- year: 2026
+  start: 2026-07-27
+  end: 2026-07-30
+  location: Honolulu, USA
+  url: http://www.icccn.org/ICCCN26/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-07
+    time: '23:59'
+    tz: UTC-10
+    label: Main conference
+  - kind: submission
+    date: 2026-03-13
+    time: '23:59'
+    tz: UTC-10
+    label: Main conference full papers (extended; originally 2026-02-13)
+  - kind: submission
+    date: 2026-03-29
+    time: '23:59'
+    tz: UTC-10
+    label: Poster papers
+  - kind: submission
+    date: 2026-04-05
+    time: '23:59'
+    tz: UTC-10
+    label: Workshop papers (extended; originally 2026-03-01)
+  - kind: notification
+    date: 2026-04-24
+    label: Main conference and posters
+  - kind: camera_ready
+    date: 2026-05-11
+    label: All papers (hard deadline)
+- year: 2027
+  start: 2027-07-12
+  end: 2027-07-15
+  location: Rome, Italy
+  url: http://www.icccn.org/ICCCN27/
+  deadlines:
+  - kind: abstract
+    date: 2027-02-12
+    time: '23:59'
+    tz: AoE
+    label: Main conference
+  - kind: submission
+    date: 2027-02-19
+    time: '23:59'
+    tz: AoE
+    label: Main conference full papers
+  - kind: submission
+    date: 2027-03-05
+    time: '23:59'
+    tz: AoE
+    label: Poster papers
+  - kind: submission
+    date: 2027-03-26
+    time: '23:59'
+    tz: AoE
+    label: Workshop papers
+  - kind: notification
+    date: 2027-04-16
+    label: Main conference and posters
+  - kind: camera_ready
+    date: 2027-05-07
+    label: All papers (hard deadline)
+sources:
+- http://www.icccn.org/ICCCN27/
+- http://www.icccn.org/ICCCN27/call-for-papers/index.html
+- http://www.icccn.org/ICCCN26/
+- http://www.icccn.org/ICCCN26/call-for-papers/index.html
+- http://web.archive.org/web/20251212192355/http://icccn.org/ICCCN26/call-for-papers/index.html
+- http://www.icccn.org/ICCCN25/
+- https://portal.core.edu.au/conf-ranks/?search=ICCCN&by=all&source=ICORE2026
+unverified:
+- Registration fees (the 2026 registration page shows stale 2018 content)
+- Acceptance rate not found in an official source
+last_verified: 2026-09-28

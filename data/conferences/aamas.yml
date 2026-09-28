@@ -1,0 +1,112 @@
+id: aamas
+name: AAMAS
+full_name: International Conference on Autonomous Agents and Multiagent Systems
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IFAAMAS (International Foundation for Autonomous Agents and Multiagent Systems)
+proceedings: IFAAMAS (also in ACM DL)
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 25.5% full papers (2026, 338 full papers from 1359 reviewed submissions); about 40% including extended
+  abstracts
+typical:
+  deadline_months: [10]
+  conference_months: [5]
+links:
+  website: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+  dblp: https://dblp.org/db/conf/atal/
+notes:
+- Main venue for agents and multi-agent systems research, increasingly including LLM-based and agentic AI
+- Double-blind with rebuttal; 8 pages plus references; reciprocal reviewer policy
+- AAMAS 2027 is in Hanoi (May 2027); it drops the 2-page extended abstracts used up to 2026 and introduces 'Findings
+  of AAMAS' for sound papers not selected for the main proceedings
+- Rank moved from CORE A* (CORE2023) to A in ICORE2026
+- AAMAS 2027 also has Blue Sky Ideas and AAAI fast tracks with later deadlines
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-29
+  location: Paphos, Cyprus
+  url: https://cyprusconferences.org/aamas2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-01
+    time: '23:59'
+    tz: AoE
+    label: Main track
+  - kind: submission
+    date: 2025-10-08
+    time: '23:59'
+    tz: AoE
+    label: Main track
+  - kind: notification
+    date: 2025-12-22
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-11
+    tz: AoE
+- year: 2027
+  start: 2027-05-03
+  end: 2027-05-07
+  location: Hanoi, Vietnam
+  url: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-01
+    time: '23:59'
+    tz: AoE
+    label: Main track
+  - kind: submission
+    date: 2026-10-08
+    time: '23:59'
+    tz: AoE
+    label: Main track
+  - kind: other
+    date: 2026-10-29
+    label: Workshop proposals
+  - kind: abstract
+    date: 2026-11-05
+    time: '23:59'
+    tz: AoE
+    label: Blue Sky Ideas track
+  - kind: submission
+    date: 2026-11-12
+    time: '23:59'
+    tz: AoE
+    label: Blue Sky Ideas track
+  - kind: other
+    date: 2026-12-10
+    label: Tutorial proposals
+  - kind: other
+    date: 2026-12-11
+    label: AAAI fast track
+  - kind: notification
+    date: 2026-12-21
+    tz: AoE
+    label: Main track
+  - kind: camera_ready
+    date: 2027-01-25
+    tz: AoE
+    label: Main track
+sources:
+- https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+- https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/
+- https://warwick.ac.uk/fac/sci/dcs/aamas2027/guidelines-and-policies/findings/
+- https://warwick.ac.uk/fac/sci/dcs/aamas2027/guidelines-and-policies/qa/
+- https://warwick.ac.uk/fac/sci/dcs/aamas2027/guidelines-and-policies/instructions/
+- http://web.archive.org/web/20251011102945/https://cyprusconferences.org/aamas2026/
+- http://web.archive.org/web/20250812191309/https://cyprusconferences.org/aamas2026/call-for-papers-main-track/
+- https://www.ifaamas.org/Proceedings/aamas2026/pdfs/welcome.pdf
+- https://portal.core.edu.au/conf-ranks/?search=AAMAS&by=acronym&source=ICORE2026
+unverified:
+- AAMAS 2027 author registration deadline (TBD on site); early registration 17 March 2027 is marked tentative
+- The AAMAS 2026 website now returns 'page not found'; 2026 dates confirmed via Web Archive copies and the IFAAMAS
+  proceedings
+last_verified: 2026-09-28

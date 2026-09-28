@@ -1,0 +1,84 @@
+id: ijcnn
+name: IJCNN
+full_name: International Joint Conference on Neural Networks
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computational Intelligence Society and INNS (International Neural Network Society)
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7]
+links:
+  website: https://ijcnn.org/2027
+  dblp: https://dblp.org/db/conf/ijcnn/
+notes:
+- Flagship neural network conference of IEEE CIS and INNS; broad scope and a relatively high acceptance rate compared
+  with top ML venues
+- In even years it runs inside IEEE WCCI together with FUZZ-IEEE and IEEE CEC (WCCI 2026 in Maastricht)
+- 6-page IEEE two-column papers; one regular deadline at the end of January, with a later late-breaking paper call
+- Asian editions include WCCI 2024 in Yokohama; IJCNN 2027 is in Cape Town
+editions:
+- year: 2026
+  label: Part of IEEE WCCI 2026
+  start: 2026-06-21
+  end: 2026-06-26
+  location: Maastricht, Netherlands
+  url: https://attend.ieee.org/wcci-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    time: '23:59'
+    tz: AoE
+    label: Regular papers (no extension)
+  - kind: other
+    date: 2026-03-10
+    label: Late-breaking papers
+  - kind: notification
+    date: 2026-03-16
+    label: Notifications sent 16 to 22 March
+  - kind: camera_ready
+    date: 2026-04-15
+    label: Also presenter registration deadline
+- year: 2027
+  start: 2027-06-14
+  end: 2027-06-18
+  location: Cape Town, South Africa
+  url: https://ijcnn.org/2027
+  deadlines:
+  - kind: other
+    date: 2026-11-15
+    label: Special session and workshop proposals
+  - kind: other
+    date: 2026-11-30
+    label: Competition and tutorial proposals
+  - kind: other
+    date: 2026-12-15
+    label: Proposal acceptance notification
+  - kind: submission
+    date: 2027-01-31
+    label: Regular papers
+  - kind: notification
+    date: 2027-03-15
+    label: Regular papers
+  - kind: camera_ready
+    date: 2027-04-12
+    label: All tracks
+sources:
+- https://ijcnn.org/2027
+- https://ijcnn.org/2027/authors/call-for-papers
+- https://attend.ieee.org/wcci-2026/
+- https://attend.ieee.org/wcci-2026/important-dates/
+- https://portal.core.edu.au/conf-ranks/?search=IJCNN&by=acronym&source=ICORE2026
+unverified:
+- IJCNN acceptance rate (no official figure found)
+- Time zone of IJCNN 2027 deadlines (not stated on the site)
+last_verified: 2026-09-28

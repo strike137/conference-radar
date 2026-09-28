@@ -1,0 +1,111 @@
+id: nsdi
+name: NSDI
+full_name: USENIX Symposium on Networked Systems Design and Implementation
+type: conference
+tier: top
+areas: [networking, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: USENIX
+proceedings: USENIX
+indexing: [DBLP, Scopus]
+rank:
+  core: 'National: USA'
+  ccf: A
+acceptance_rate: 22.8% (2026, 150/659)
+fee: 1000 USD early, 1200 USD standard, 625 USD student (2026)
+typical:
+  deadline_months: [4, 9]
+  conference_months: [4, 5]
+links:
+  website: https://www.usenix.org/conferences/byname/178
+  dblp: https://dblp.org/db/conf/nsdi/
+notes:
+- Sponsored by USENIX; proceedings are open access
+- Two deadlines per year (spring in April, fall in September) with one-shot revision to the next deadline
+- Always held in the USA; acceptance 22.8% in 2026 (spring 24.2%, fall 22.1%)
+- 'ICORE2026 lists it as ''National: USA'', but it is widely regarded as a top networked systems venue (CCF A)'
+- Student and professional grants offered by USENIX
+editions:
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-06
+  location: Renton, USA
+  url: https://www.usenix.org/conference/nsdi26
+  deadlines:
+  - kind: abstract
+    date: 2025-04-18
+    time: '23:59'
+    tz: PDT
+    label: Spring deadline
+  - kind: submission
+    date: 2025-04-25
+    time: '23:59'
+    tz: PDT
+    label: Spring deadline
+  - kind: notification
+    date: 2025-07-24
+    label: Spring deadline
+  - kind: abstract
+    date: 2025-09-11
+    time: '23:59'
+    tz: PDT
+    label: Fall deadline
+  - kind: submission
+    date: 2025-09-18
+    time: '23:59'
+    tz: PDT
+    label: Fall deadline
+  - kind: notification
+    date: 2025-12-09
+    label: Fall deadline
+- year: 2027
+  start: 2027-05-11
+  end: 2027-05-13
+  location: Providence, USA
+  url: https://www.usenix.org/conference/nsdi27
+  deadlines:
+  - kind: abstract
+    date: 2026-04-16
+    time: '23:59'
+    tz: EDT
+    label: Spring deadline
+  - kind: submission
+    date: 2026-04-23
+    time: '23:59'
+    tz: EDT
+    label: Spring deadline
+  - kind: notification
+    date: 2026-07-23
+    label: Spring deadline
+  - kind: abstract
+    date: 2026-09-10
+    time: '23:59'
+    tz: EDT
+    label: Fall deadline
+  - kind: submission
+    date: 2026-09-17
+    time: '23:59'
+    tz: EDT
+    label: Fall deadline
+  - kind: camera_ready
+    date: 2026-10-20
+    label: Spring deadline
+  - kind: notification
+    date: 2026-12-08
+    label: Fall deadline
+  - kind: camera_ready
+    date: 2027-03-04
+    label: Fall deadline
+sources:
+- https://www.usenix.org/conference/nsdi27/call-for-papers
+- https://www.usenix.org/conference/nsdi27
+- https://www.usenix.org/conference/nsdi26
+- https://www.usenix.org/conference/nsdi26/call-for-papers
+- https://www.usenix.org/conference/nsdi26/registration-information
+- https://www.usenix.org/sites/default/files/nsdi26-message.pdf
+- https://portal.core.edu.au/conf-ranks/?search=NSDI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- NSDI 2027 registration fees
+last_verified: 2026-09-28

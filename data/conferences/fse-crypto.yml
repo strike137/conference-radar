@@ -1,0 +1,97 @@
+id: fse-crypto
+name: FSE
+full_name: IACR Fast Software Encryption (IACR Transactions on Symmetric Cryptology)
+type: conference
+tier: major
+areas: [crypto]
+region: europe
+language: english
+frequency: annual
+organizer: IACR (International Association for Cryptologic Research)
+proceedings: IACR Transactions on Symmetric Cryptology (ToSC, open access)
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: B
+fee: 960 USD regular, 490 USD student (2026, early, incl. IACR dues)
+typical:
+  deadline_months: [3, 6, 9, 11, 12]
+  conference_months: [3, 5]
+links:
+  website: https://fse.iacr.org/
+  dblp: https://dblp.org/db/conf/fse/index.html
+notes:
+- IACR area conference on symmetric cryptology (block ciphers, hash functions, AEAD, cryptanalysis)
+- 'Journal-conference hybrid: four ToSC deadlines a year with rebuttal and major-revision decisions; accepted papers
+  must be presented at the corresponding FSE'
+- Usually held in Europe, sometimes in Asia (Beijing 2023, Singapore 2026)
+- FSE 2026 and 2027 PCs co-chaired by Yosuke Todo (NTT)
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-27
+  location: Singapore
+  url: https://fse.iacr.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-09-01
+    label: ToSC 2025 Issue 4
+  - kind: notification
+    date: 2025-11-01
+    label: ToSC 2025 Issue 4 decisions
+  - kind: submission
+    date: 2025-11-23
+    label: ToSC 2026 Issue 1
+  - kind: notification
+    date: 2026-01-23
+    label: ToSC 2026 Issue 1 decisions
+- year: 2027
+  start: 2027-05-24
+  end: 2027-05-28
+  location: Maastricht, Netherlands
+  url: https://fse.iacr.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-03-01
+    time: '23:59'
+    tz: AoE
+    label: ToSC 2026 Issue 2
+  - kind: notification
+    date: 2026-05-01
+    label: ToSC 2026 Issue 2 decisions
+  - kind: submission
+    date: 2026-06-01
+    time: '23:59'
+    tz: AoE
+    label: ToSC 2026 Issue 3
+  - kind: notification
+    date: 2026-08-01
+    label: ToSC 2026 Issue 3 decisions
+  - kind: submission
+    date: 2026-09-01
+    time: '23:59'
+    tz: AoE
+    label: ToSC 2026 Issue 4
+  - kind: notification
+    date: 2026-11-01
+    label: ToSC 2026 Issue 4 decisions
+  - kind: submission
+    date: 2026-12-01
+    time: '23:59'
+    tz: AoE
+    label: ToSC 2027 Issue 1
+  - kind: notification
+    date: 2027-02-01
+    label: ToSC 2027 Issue 1 decisions
+sources:
+- https://fse.iacr.org/2027/callforpapers.php
+- https://fse.iacr.org/2026/callforpapers.php
+- https://fse.iacr.org/2026/registration.php
+- https://iacr.org/meetings/fse/
+- https://portal.core.edu.au/conf-ranks/?search=FSE&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Time zone for FSE 2026 cycle deadlines not stated on the FSE 2026 page
+- ToSC 2025 Issue 2 and 3 deadlines (also presented at FSE 2026) not confirmed; the FSE 2025 CFP page no longer
+  shows its schedule
+- No official acceptance rate for ToSC found; Scopus indexing of ToSC not checked
+last_verified: 2026-09-28

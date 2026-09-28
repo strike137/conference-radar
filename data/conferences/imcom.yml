@@ -1,0 +1,101 @@
+id: imcom
+name: IMCOM
+full_name: International Conference on Ubiquitous Information Management and Communication
+type: conference
+tier: minor
+areas: [networking, data, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Sungkyunkwan University (SKKU), co-hosted with Universiti Kuala Lumpur and the ICT Research and Education
+  Foundation
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, EI]
+rank:
+  core: Unranked
+fee: About 500 USD in person, 200 USD online (regular, first paper; listed on imcom.org in 2026)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [1]
+links:
+  website: https://www.imcom.org/
+notes:
+- Run by Sungkyunkwan University (SKKU); started in 2007 as ICUIMC; proceedings were in the ACM DL up to 2018 and
+  in IEEE Xplore since 2020
+- Held every early January; Korea in 2021 to 2023, recently mostly Southeast Asia (Kuala Lumpur 2024, Bangkok 2025,
+  Hanoi 2026), Taipei in 2027
+- Two submission rounds (mid September and mid October)
+- Regular papers up to 8 pages, short papers up to 4; IEEE Xplore, Scopus and EI; online presentation option
+- Broad scope (information management, networks, AI, HCI); selected papers invited to journal special issues
+editions:
+- year: 2026
+  start: 2026-01-04
+  end: 2026-01-06
+  location: Hanoi, Vietnam
+  url: https://imcom.org/2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-09-16
+    time: '23:59'
+    tz: EST
+    label: Round 1
+  - kind: submission
+    date: 2025-10-15
+    time: '23:59'
+    tz: EST
+    label: Round 2
+  - kind: notification
+    date: 2025-10-15
+    label: Round 1 (delayed from Oct 5)
+  - kind: camera_ready
+    date: 2025-11-15
+    label: Round 1
+  - kind: notification
+    date: 2025-11-24
+    label: Round 2 (delayed from Nov 20)
+  - kind: camera_ready
+    date: 2025-12-07
+    label: Round 2
+- year: 2027
+  start: 2027-01-04
+  end: 2027-01-06
+  location: Taipei, Taiwan
+  url: https://www.imcom.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-16
+    time: '23:59'
+    tz: EST
+    label: Round 1
+  - kind: submission
+    date: 2026-10-15
+    time: '23:59'
+    tz: EST
+    label: Round 2
+  - kind: notification
+    date: 2026-10-15
+    label: Round 1
+  - kind: camera_ready
+    date: 2026-11-15
+    label: Round 1
+  - kind: notification
+    date: 2026-11-20
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-11-30
+    label: Round 2
+sources:
+- https://www.imcom.org/gnu/home.html
+- https://www.imcom.org/gnu/cfp.htm
+- https://www.imcom.org/gnu/history.htm
+- https://www.imcom.org/gnu/registration.htm
+- https://imcom.org/2026/gnu/home.html
+- https://api.crossref.org/works?query.bibliographic=International+Conference+on+Ubiquitous+Information+Management+and+Communication&filter=type:proceedings
+unverified:
+- Whether the fee table on imcom.org is for the 2027 edition
+- Publisher of the 2019 (13th) proceedings
+- Acceptance rate (2026 round 1 had 161 submissions from 16 countries)
+- CFP text still marks the 2027 dates as TBD in one place
+- DBLP key
+last_verified: 2026-09-28

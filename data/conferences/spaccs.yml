@@ -1,0 +1,74 @@
+id: spaccs
+name: SpaCCS
+full_name: IEEE International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage
+type: conference
+tier: minor
+areas: [security, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Part of the IEEE AI for Science Congress (with IEEE ISPA, BDCloud, SocialCom, SustainCom)
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, EI, DBLP]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [7, 8, 9]
+  conference_months: [10, 12]
+links:
+  website: https://ieee-ai-for-science.org/2026/spaccs/
+notes:
+- Co-located with IEEE ISPA, BDCloud, SocialCom and SustainCom as a federated congress (IEEE AI for Science Congress);
+  19th edition in 2026
+- Proceedings by IEEE CPS (IEEE Xplore, EI) in recent years; 2016 to 2020 editions were in Springer LNCS
+- Single-blind review via EDAS (2024); deadlines are usually extended by several weeks
+- Mostly held in China (Kaifeng 2024, Shenyang 2025); 2026 edition in Kuala Lumpur, Malaysia
+- Not ranked by CORE or CCF
+editions:
+- year: 2025
+  start: 2025-10-10
+  end: 2025-10-12
+  location: Shenyang, China
+  url: https://www.ieee-ai-for-science.org/2025/spaccs/
+  deadlines:
+  - kind: submission
+    date: 2025-08-25
+    tz: AoE
+    label: Papers (extended from Jul 31)
+  - kind: notification
+    date: 2025-08-31
+    label: Extended from Aug 25
+  - kind: camera_ready
+    date: 2025-09-18
+- year: 2026
+  start: 2026-12-27
+  end: 2026-12-30
+  location: Kuala Lumpur, Malaysia
+  url: https://ieee-ai-for-science.org/2026/spaccs/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+    tz: AoE
+    label: Regular papers
+  - kind: notification
+    date: 2026-10-30
+  - kind: camera_ready
+    date: 2026-11-30
+  - kind: other
+    date: 2026-11-30
+    label: Paper registration due
+sources:
+- https://ieee-ai-for-science.org/2026/spaccs/
+- https://ieee-ai-for-science.org/2026/
+- https://www.ieee-ai-for-science.org/2025/spaccs/
+- https://www.ieee-ai-for-science.org/2025/
+- https://www.ieee-ispa.org/2024/spaccs/
+- https://link.springer.com/conference/spaccs
+- https://api.crossref.org/works?query.bibliographic=Security+Privacy+and+Anonymity+in+Computation+Communication+and+Storage&filter=type:book
+- https://portal.core.edu.au/conf-ranks/?search=SpaCCS&by=all&source=ICORE2026
+unverified:
+- SpaCCS 2026 CFP and submission pages are still marked Coming Soon; the listed deadlines are identical to the congress-wide
+  dates and may be extended
+- Whether SpaCCS 2026 review is single-blind as in 2024
+- Registration fee and acceptance rate not found
+last_verified: 2026-09-28

@@ -1,0 +1,86 @@
+id: dfrws-apac
+name: DFRWS APAC
+full_name: DFRWS Asia-Pacific Conference (Digital Forensic Research Workshop APAC)
+type: conference
+tier: minor
+areas: [security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: DFRWS (Digital Forensic Research Workshop, non-profit)
+proceedings: 'Forensic Science International: Digital Investigation (Elsevier)'
+rank:
+  core: Unranked
+  ccf: C
+fee: 695 USD (2025, in-person speaker, early bird); 495 USD student; 150 USD virtual
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10, 11]
+links:
+  website: https://dfrws.org/conferences/dfrws-apac-2026/
+notes:
+- Asia-Pacific edition of DFRWS, a well-known research community for digital forensics (sister events in the USA
+  and Europe); first held 2021 (2026 is the sixth)
+- 'Full research papers get double-blind review; accepted papers can appear in a special issue of Forensic Science
+  International: Digital Investigation (Elsevier)'
+- 'Two-step submission from 2026: abstract registration, then full paper one week later (AoE)'
+- Also accepts practitioner talks, demos, posters and hands-on workshops with rolling notification
+- Rotates within APAC (Seoul 2025, Singapore 2026); hybrid with satellite sites, presenters on-site
+editions:
+- year: 2025
+  start: 2025-11-10
+  end: 2025-11-12
+  location: Seoul, South Korea
+  url: https://dfrws.org/conferences/dfrws-apac-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-23
+    label: Full research papers (extended)
+  - kind: notification
+    date: 2025-07-07
+  - kind: camera_ready
+    date: 2025-07-28
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-23
+  location: Singapore
+  url: https://dfrws.org/conferences/dfrws-apac-2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-29
+    time: '23:59'
+    tz: AoE
+    label: 'Full papers: abstract registration (extended from May 22)'
+  - kind: submission
+    date: 2026-06-05
+    time: '23:59'
+    tz: AoE
+    label: 'Full papers: paper upload (extended)'
+  - kind: notification
+    date: 2026-07-10
+  - kind: camera_ready
+    date: 2026-07-24
+    label: Camera-ready and presenter registration
+  - kind: other
+    date: 2026-09-07
+    time: '23:59'
+    tz: AoE
+    label: Workshops, presentations, demos, posters (rolling)
+  - kind: other
+    date: 2026-09-30
+    time: '23:59'
+    tz: AoE
+    label: Posters (no DOI)
+sources:
+- http://web.archive.org/web/20260603053119/https://dfrws.org/conferences/dfrws-apac-2026/
+- https://web.archive.org/web/20260601024118/https://dfrws.org/conferences/dfrws-apac-2025/
+- https://dfrws.org/conferences/dfrws-apac-2026/
+- https://github.com/ccfddl/ccf-deadlines/pull/1715
+- https://portal.core.edu.au/conf-ranks/?search=DFRWS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Official site blocks direct access (HTTP 403); 2026 details taken from the Wayback snapshot of 2026-06-03
+- Official page (June) says Oct 19 to 23, 2026; ccf-deadlines and some listings say Oct 19 to 22
+- 'CCF C: the 2026 CCF list names ''DFRWS'' (dblp conf/dfrws); ccf-deadlines applies it to DFRWS APAC'
+- 2026 registration fees not confirmed
+- DFRWS APAC 2027 not yet announced (no 2027 APAC page in the Aug 2026 site snapshot)
+last_verified: 2026-09-28

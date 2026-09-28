@@ -1,0 +1,96 @@
+id: codaspy
+name: CODASPY
+full_name: ACM Conference on Data and Application Security and Privacy
+type: conference
+tier: major
+areas: [security, data, software]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGSAC
+proceedings: ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: Unranked
+  ccf: C
+fee: 900 EUR ACM member, 1,000 EUR non-member, 650 EUR student (2026, early, after a fee reduction)
+typical:
+  deadline_months: [1, 11, 12]
+  conference_months: [6]
+links:
+  website: https://www.codaspy.org/
+  dblp: https://dblp.org/db/conf/codaspy/index.html
+notes:
+- Sponsored by ACM SIGSAC; single deadline per year with abstract registration one week before the paper deadline
+- Anonymized submissions for research (12 pages) and dataset/tool (6 pages) papers; BlueSky and SoK tracks are by
+  invitation only in 2027; rebuttal phase
+- Mostly held in the USA, with recent editions in Europe (Porto 2024, Frankfurt 2026)
+- Not ranked in CORE; added to the CCF list as C in March 2026; student travel grants offered in 2026
+editions:
+- year: 2026
+  start: 2026-06-23
+  end: 2026-06-25
+  location: Frankfurt am Main, Germany
+  url: https://www.codaspy.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-26
+    tz: AoE
+    label: Extended from 2025-12-12
+  - kind: submission
+    date: 2026-01-02
+    tz: AoE
+    label: Research and dataset/tool papers (extended from 2025-12-19)
+  - kind: other
+    date: 2026-02-18
+    label: Rebuttal phase (until 2026-02-20)
+  - kind: notification
+    date: 2026-02-27
+  - kind: camera_ready
+    date: 2026-04-12
+    tz: AoE
+    label: Extended from 2026-03-13
+- year: 2027
+  start: 2027-06-14
+  end: 2027-06-17
+  location: Fort Collins, CO, USA
+  url: https://www.codaspy.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-16
+    tz: AoE
+  - kind: submission
+    date: 2026-11-23
+    tz: AoE
+    label: Research, dataset/tool, BlueSky and SoK papers
+  - kind: other
+    date: 2027-01-18
+    tz: AoE
+    label: Rebuttal phase (until 2027-01-22)
+  - kind: notification
+    date: 2027-01-25
+    tz: AoE
+  - kind: other
+    date: 2027-02-15
+    tz: AoE
+    label: Poster submission
+  - kind: other
+    date: 2027-03-10
+    tz: AoE
+    label: Poster notification (rolling, no later than)
+  - kind: camera_ready
+    date: 2027-03-26
+    tz: AoE
+sources:
+- https://www.codaspy.org/2027/important-dates.html
+- https://www.codaspy.org/2027/cfp.html
+- https://www.codaspy.org/2027/
+- https://www.codaspy.org/2026/
+- https://www.codaspy.org/2026/important-dates.html
+- https://www.codaspy.org/2026/registration.html
+- https://www.codaspy.org/2025/index.html
+- https://portal.core.edu.au/conf-ranks/?search=CODASPY&by=all&source=all&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- Acceptance rate not found on official pages
+last_verified: 2026-09-28

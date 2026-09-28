@@ -1,0 +1,102 @@
+id: icics
+name: ICICS
+full_name: International Conference on Information and Communications Security
+type: conference
+tier: minor
+areas: [security, crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: 'Rotating host institutions (2025: Southeast University with Swinburne University of Technology and University
+  of Wollongong; 2026: general chairs from University of Tsukuba and Institute of Science Tokyo, program co-chair
+  and organizing chairs from University of Aizu and University of Fukui among others)'
+proceedings: Springer LNCS
+indexing: [Scopus, DBLP]
+rank:
+  core: C
+  ccf: C
+fee: JPY 100,000 (2026, author registration); JPY 70,000 early attendee
+typical:
+  deadline_months: [2, 3, 5, 6]
+  conference_months: [8, 10, 11]
+links:
+  website: https://sulab-sever.u-aizu.ac.jp/icics2026/index.html
+  dblp: https://dblp.org/db/conf/icics/index.html
+notes:
+- Started in 1997 in China; recent editions alternate between China and other countries (Canterbury 2022, Tianjin
+  2023, Mytilene 2024, Nanjing 2025, Fukui 2026)
+- 2026 edition is in Fukui, Japan, next door to Ishikawa (JAIST)
+- Proceedings in Springer LNCS (two volumes in 2024, three in 2025)
+- Two submission rounds (about February/March and May/June); anonymous submissions; papers rejected in round 1 may
+  be resubmitted to round 2 with a response letter; in-person presentation required
+- CORE C and CCF C; regarded as a mid-to-lower tier security venue
+editions:
+- year: 2025
+  start: 2025-10-29
+  end: 2025-10-31
+  location: Nanjing, China
+  url: https://www.icics2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-03-09
+    time: '23:59'
+    tz: UTC+8
+    label: First round (extended from 2025-02-28)
+  - kind: notification
+    date: 2025-04-28
+    label: First round
+  - kind: submission
+    date: 2025-05-23
+    time: '23:59'
+    tz: UTC+8
+    label: Second round
+  - kind: notification
+    date: 2025-07-21
+    label: Second round
+- year: 2026
+  start: 2026-10-27
+  end: 2026-10-30
+  location: Fukui, Japan
+  url: https://sulab-sever.u-aizu.ac.jp/icics2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-03-12
+    time: '23:59'
+    tz: AoE
+    label: First round (extended from 2026-02-28)
+  - kind: notification
+    date: 2026-05-01
+    label: First round (moved from 2026-04-28)
+  - kind: submission
+    date: 2026-06-01
+    time: '23:59'
+    tz: AoE
+    label: Second round (extended from 2026-05-23, firm)
+  - kind: other
+    date: 2026-06-25
+    time: '23:59'
+    tz: JST
+    label: Author registration (round 1 papers)
+  - kind: notification
+    date: 2026-07-25
+    label: Second round (moved from 2026-07-21)
+  - kind: other
+    date: 2026-09-01
+    time: '23:59'
+    tz: JST
+    label: Early attendee registration
+sources:
+- https://sulab-sever.u-aizu.ac.jp/icics2026/index.html
+- https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html
+- https://sulab-sever.u-aizu.ac.jp/icics2026/registration.html
+- https://sulab-sever.u-aizu.ac.jp/icics2026/Organization.html
+- https://www.icics2025.org/
+- https://api.crossref.org/works?query.bibliographic=Information+and+Communications+Security+ICICS&filter=type:book,from-pub-date:2023
+- https://portal.core.edu.au/conf-ranks/?search=ICICS&by=acronym&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/conference/SC/icics.yml
+unverified:
+- ICICS 2027 location and dates (not announced on the 2026 site)
+- Acceptance rate
+- ICICS 2025 registration fee amounts
+- ICICS 2026 camera-ready date (listed as TBA)
+last_verified: 2026-09-28

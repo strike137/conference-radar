@@ -1,0 +1,80 @@
+id: ictai
+name: ICTAI
+full_name: IEEE International Conference on Tools with Artificial Intelligence
+type: conference
+tier: major
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP]
+rank:
+  core: B
+  ccf: C
+fee: 800 USD IEEE member or IEEE student member, 960 USD non-member or non-member student (2026; same rate for authors
+  and non-authors, no separate student discount)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://ictai.computer.org/2026/
+notes:
+- Annual IEEE Computer Society AI conference running since 1989 (38th edition in 2026)
+- Usually held in the USA (Herndon 2024, Boca Raton 2026); 2025 edition was in Athens, Greece
+- Double-blind review; 8-page IEEE papers, up to 2 extra pages at 100 USD each
+- Deadlines are usually extended by a few weeks (final deadlines in mid/late July in 2024 to 2026); in-person only
+  in 2026
+- CORE B and CCF C; financial awards for the top 5 student papers and journal special issues for selected papers
+editions:
+- year: 2025
+  start: 2025-11-03
+  end: 2025-11-05
+  location: Athens, Greece
+  url: https://ictai.computer.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-15
+    tz: AoE
+    label: Paper submission (extended; original given as 2025-06-12 on the organizer site, 2025-06-30 on the IEEE
+      CS site)
+  - kind: notification
+    date: 2025-09-09
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-30
+    label: Camera-ready (updated date on organizer site)
+  - kind: other
+    date: 2025-10-10
+    label: Author registration
+- year: 2026
+  start: 2026-11-02
+  end: 2026-11-04
+  location: Boca Raton, USA
+  url: https://ictai.computer.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-21
+    tz: AoE
+    label: Paper submission (final extension; CFP originally 2026-06-30)
+  - kind: notification
+    date: 2026-09-06
+    label: Notification (moved from 2026-09-10)
+  - kind: camera_ready
+    date: 2026-09-25
+  - kind: other
+    date: 2026-09-30
+    label: Author registration closes (11:59 PM US Eastern)
+sources:
+- https://ictai.computer.org/2026/
+- https://ictai.computer.org/2026/registration/
+- https://ictai.computer.org/2026/wp-content/uploads/sites/7/2026/04/ICTAI-CFP-2026.pdf
+- https://ictai.computer.org/2025/
+- https://web.archive.org/web/20260118065718/https://easyconferences.eu/ictai2025/
+- https://portal.core.edu.au/conf-ranks/?search=ICTAI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 'ICTAI 2025 camera-ready date: organizer site (easyconferences.eu, now offline, archived) says 2025-09-30 (updated),
+  IEEE CS page says 2025-09-25'
+- Acceptance rate not published on the official sites
+last_verified: 2026-09-28

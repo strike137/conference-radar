@@ -1,0 +1,138 @@
+id: ches
+name: CHES
+full_name: Conference on Cryptographic Hardware and Embedded Systems (IACR TCHES)
+type: conference
+tier: major
+areas: [crypto, security, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IACR (International Association for Cryptologic Research)
+proceedings: IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES, open access)
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: B
+fee: 990 USD regular (910 + 80 IACR dues), 495 USD student (2026, early)
+typical:
+  deadline_months: [1, 4, 7, 10]
+  conference_months: [9, 10]
+links:
+  website: https://ches.iacr.org/
+  dblp: https://dblp.org/db/conf/ches/index.html
+notes:
+- 'Main venue for cryptographic engineering: side channels, fault attacks, hardware and embedded implementations'
+- 'Journal-conference hybrid: four TCHES deadlines a year (15 Jan, 15 Apr, 15 Jul, 15 Oct, AoE) with rebuttal and
+  revision decisions; accepted papers are presented at the next CHES'
+- CHES 2027 introduces an extended-review long paper format whose review can span two TCHES issues
+- Location rotates worldwide (2025 Kuala Lumpur, 2026 Antalya, 2027 Cancun)
+- Presenting students can get a registration fee waiver; stipends on request
+editions:
+- year: 2025
+  start: 2025-09-14
+  end: 2025-09-18
+  location: Kuala Lumpur, Malaysia
+  url: https://ches.iacr.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2024-07-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2025/1
+  - kind: submission
+    date: 2024-10-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2025/2
+  - kind: submission
+    date: 2025-01-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2025/3
+  - kind: submission
+    date: 2025-04-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2025/4
+- year: 2026
+  start: 2026-10-11
+  end: 2026-10-15
+  location: Antalya, Turkey
+  url: https://ches.iacr.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-07-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2026/1
+  - kind: submission
+    date: 2025-10-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2026/2
+  - kind: submission
+    date: 2026-01-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2026/3
+  - kind: submission
+    date: 2026-04-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2026/4
+  - kind: notification
+    date: 2026-06-15
+    label: TCHES 2026/4 notification
+- year: 2027
+  start: 2027-09-06
+  end: 2027-09-09
+  location: Cancun, Mexico
+  url: https://ches.iacr.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2027/1
+  - kind: notification
+    date: 2026-09-15
+    label: TCHES 2027/1 notification
+  - kind: submission
+    date: 2026-10-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2027/2
+  - kind: notification
+    date: 2026-12-15
+    label: TCHES 2027/2 notification
+  - kind: submission
+    date: 2027-01-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2027/3
+  - kind: notification
+    date: 2027-03-15
+    label: TCHES 2027/3 notification
+  - kind: submission
+    date: 2027-04-15
+    time: '23:59'
+    tz: AoE
+    label: TCHES 2027/4
+  - kind: notification
+    date: 2027-06-15
+    label: TCHES 2027/4 notification
+sources:
+- https://ches.iacr.org/2027/
+- https://ches.iacr.org/2027/callforpapers.php
+- https://ches.iacr.org/2026/
+- https://ches.iacr.org/2026/callforpapers.php
+- https://ches.iacr.org/2026/registration.php
+- https://ches.iacr.org/2025/
+- https://iacr.org/meetings/ches/
+- https://iacr.org/events/
+- https://portal.core.edu.au/conf-ranks/?search=CHES&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- The CHES 2027 site labels the TCHES 2027 deadline schedule as tentative
+- No official acceptance rate for CHES/TCHES found
+- Scopus indexing of TCHES not checked
+last_verified: 2026-09-28

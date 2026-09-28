@@ -1,0 +1,73 @@
+id: sigcomm
+name: SIGCOMM
+full_name: ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication
+  (ACM SIGCOMM)
+type: conference
+tier: top
+areas: [networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCOMM
+proceedings: ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: A*
+  ccf: A
+fee: 925 USD ACM/SIGCOMM member early, main conference only (2026); student member 635 USD
+typical:
+  deadline_months: [1, 2]
+  conference_months: [8, 9]
+links:
+  website: https://conferences.sigcomm.org/sigcomm/
+  dblp: https://dblp.org/db/conf/sigcomm/
+notes:
+- Flagship conference of ACM SIGCOMM; 110 papers accepted in 2026, presented in two parallel tracks
+- One deadline per year (abstract late January, paper early February, AoE); anonymous submissions with early reject,
+  rebuttal and one-shot revision
+- Location rotates worldwide (Sydney 2024, Coimbra 2025, Denver 2026); SIGCOMM 2027 will be in Bangkok, Thailand
+- Co-located workshops, tutorials, posters and a student research competition; student travel grants available
+editions:
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-21
+  location: Denver, USA
+  url: https://conferences.sigcomm.org/sigcomm/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-30
+    tz: AoE
+    label: Abstract registration
+  - kind: submission
+    date: 2026-02-06
+    tz: AoE
+    label: Paper submission
+  - kind: other
+    date: 2026-04-02
+    label: Early notification
+  - kind: notification
+    date: 2026-05-11
+    label: Review results notification
+  - kind: other
+    date: 2026-06-19
+    label: One-shot revision deadline
+  - kind: camera_ready
+    date: 2026-07-03
+- year: 2027
+  start: 2027-08-08
+  end: 2027-08-12
+  location: Bangkok, Thailand
+  url: https://conferences.sigcomm.org/sigcomm/2027/
+  deadlines: []
+sources:
+- https://conferences.sigcomm.org/sigcomm/2026/
+- https://conferences.sigcomm.org/sigcomm/2026/cfp/
+- https://conferences.sigcomm.org/sigcomm/2026/registration/
+- https://conferences.sigcomm.org/sigcomm/2026/accepted/
+- https://conferences.sigcomm.org/sigcomm/2026/program/papers/
+- https://conferences.sigcomm.org/sigcomm/2027/
+- https://portal.core.edu.au/conf-ranks/?search=SIGCOMM&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- SIGCOMM 2027 submission deadlines (listed as TBA on the 2027 site)
+- SIGCOMM 2026 submission count, so no official acceptance rate recorded
+last_verified: 2026-09-28

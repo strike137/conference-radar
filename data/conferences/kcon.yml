@@ -1,0 +1,56 @@
+id: kcon
+name: KCon
+full_name: KCon Hacker Conference
+name_local: KCon 黑客大会
+type: industry
+tier: domestic
+areas: [security, ai]
+region: china
+language: chinese
+frequency: irregular
+organizer: Knownsec (co-organized in 2026 by TGO Kunpeng AI Workshop)
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+typical:
+  deadline_months: [10]
+  conference_months: [8, 10]
+links:
+  website: https://kcon.knownsec.com/
+notes:
+- Organized by the Chinese security company Knownsec since 2012; Chinese-language hacker conference in Beijing with
+  about 1,000 attendees
+- 2026 edition is the security forum of the national 2026 AI+ conference (GAI+ C), late October at Zhongguancun
+  International Innovation Center; morning on AI security risks, afternoon on secure AI applications
+- Talks are submitted by email and reviewed by the KCon technical committee; 20 to 25 minute talks, product or sales
+  pitches rejected
+- Speakers get lifetime free KCon attendance plus travel and accommodation during the event
+- 'Recent editions were in August (2023: Aug 19-20; 2024: Aug 24-25); no 2025 edition appears in the official history'
+editions:
+- year: 2024
+  start: 2024-08-24
+  end: 2024-08-25
+  location: Beijing, China
+  url: https://kcon.knownsec.com/kcon2024.html
+  deadlines: []
+- year: 2026
+  location: Beijing, China
+  url: https://kcon.knownsec.com/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-10-08
+    time: '18:00'
+    label: Talk submissions (email to kcon@knownsec.com)
+    tz: UTC+8
+sources:
+- https://kcon.knownsec.com/
+- https://kcon.knownsec.com/history.html
+- https://kcon.knownsec.com/kcon2024.html
+- https://kcon.knownsec.com/kcon2023.html
+unverified:
+- Exact dates of KCon 2026 (only 'late October 2026' is announced)
+- Whether a 2025 edition took place (not listed in the official history)
+- Time zone of the 2026 submission deadline (presumably China Standard Time, not stated)
+last_verified: 2026-09-28

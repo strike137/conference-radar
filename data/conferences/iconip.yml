@@ -1,0 +1,79 @@
+id: iconip
+name: ICONIP
+full_name: International Conference on Neural Information Processing
+type: conference
+tier: major
+areas: [ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: APNNS (Asia Pacific Neural Network Society)
+proceedings: Springer LNCS and CCIS
+indexing: [Scopus, EI, DBLP]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 61% (2024, 790/1301, LNCS and CCIS combined)
+fee: About 1,250 AUD (2026, non-member early); 1,100 AUD APNNS member early
+typical:
+  deadline_months: [5, 6, 7]
+  conference_months: [11, 12]
+links:
+  website: https://www.apnns.org/
+  dblp: https://dblp.org/db/conf/iconip/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=1438
+notes:
+- Annual conference of APNNS; the 2025 Okinawa edition was held jointly with the Japanese Neural Network Society
+  (JNNS) annual meeting
+- Rotates around the Asia-Pacific (2023 Changsha, 2024 Auckland, 2025 Okinawa, 2026 Melbourne)
+- Proceedings split between Springer LNCS and CCIS depending on review score; 12-15 pages in LNCS format (2026)
+- Single-blind review via EasyChair (2026); at least one presenter must attend in person
+- 'Large and inclusive: about 61% acceptance in 2024; deadline usually May with extensions, notification often delayed'
+editions:
+- year: 2025
+  start: 2025-11-20
+  end: 2025-11-24
+  location: Okinawa, Japan
+  url: https://iconip2025.apnns.org/
+  deadlines:
+  - kind: submission
+    date: 2025-05-22
+    tz: AoE
+    label: Papers (extended from 2025-05-15)
+  - kind: notification
+    date: 2025-07-25
+    tz: AoE
+    label: Extended from 2025-07-15
+  - kind: camera_ready
+    date: 2025-08-25
+    tz: AoE
+- year: 2026
+  start: 2026-11-23
+  end: 2026-11-27
+  location: Melbourne, Australia
+  url: https://www.iconip2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    label: Papers (extended from 2026-05-10)
+  - kind: notification
+    date: 2026-08-14
+    label: Extended twice (2026-07-15 -> 2026-08-10 -> 2026-08-14)
+  - kind: camera_ready
+    date: 2026-09-15
+    label: Brought forward from 2026-09-30
+  - kind: other
+    date: 2026-09-30
+    label: Early-bird registration
+sources:
+- https://www.iconip2026.org/
+- 'https://www.iconip2026.org/main-CCQLUJT4.js (site content bundle: dates, news, review mode, fees)'
+- https://iconip2025.apnns.org/
+- https://iconip2025.apnns.org/registration/
+- https://link.springer.com/book/10.1007/978-981-95-4088-4
+- https://portal.core.edu.au/conf-ranks/?search=ICONIP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ICONIP 2026 deadline timezone not stated on the site
+- 'ICONIP 2025 overall acceptance rate: Springer lists 197 CCIS full papers from 1092 submissions, but the LNCS
+  share was not checked'
+last_verified: 2026-09-28

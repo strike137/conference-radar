@@ -1,0 +1,84 @@
+id: ecrime
+name: eCrime
+full_name: APWG Symposium on Electronic Crime Research
+type: conference
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: APWG (Anti-Phishing Working Group); IEEE Computer Society Technical Community on Security and Privacy
+  as technical sponsor
+proceedings: IEEE Xplore
+rank:
+  core: Unranked
+fee: 350 USD (2026, general ticket; discounts for students and IEEE members on request)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 11]
+links:
+  website: https://apwg.org/events/ecrime2026
+  dblp: https://dblp.org/db/conf/ecrime/index.html
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=186333
+notes:
+- Organized by APWG; 2026 is the 21st edition
+- Mixes peer-reviewed papers with industry, law-enforcement and policy sessions; strong focus on phishing, fraud
+  and cybercrime measurement
+- Papers up to 12 pages in IEEE format; submissions list authors but are otherwise anonymized
+- Accepted papers go through shepherding; camera-ready is due after the symposium; limited travel stipends with
+  priority for student presenters
+- Held in the USA or Europe in recent years (Boston 2024, San Diego 2025, Lisbon 2026)
+editions:
+- year: 2025
+  start: 2025-11-04
+  end: 2025-11-07
+  location: San Diego, USA
+  url: https://apwg.org/events/ecrime2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-29
+    label: Research papers (extended)
+  - kind: notification
+    date: 2025-09-05
+    label: Acceptance notifications sent Sep 5 to 9
+  - kind: camera_ready
+    date: 2025-11-30
+    label: Camera-ready
+- year: 2026
+  start: 2026-11-02
+  end: 2026-11-06
+  location: Lisbon, Portugal
+  url: https://apwg.org/events/ecrime2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    time: 00:00
+    tz: EDT
+    label: Full paper registration and full draft
+  - kind: other
+    date: 2026-06-15
+    label: Training session proposals
+  - kind: notification
+    date: 2026-08-07
+    label: Acceptance and shepherding decisions
+  - kind: other
+    date: 2026-09-03
+    label: General session talk proposals
+  - kind: camera_ready
+    date: 2026-11-30
+    label: Camera-ready
+sources:
+- https://apwg.org/events/ecrime2026
+- https://apwg.org/events/ecrime2025
+- https://apwg.org/events/ecrime2024
+- https://www.newswire.com/news/apwg-2025-cybercrime-research-conference-extends-submission-deadline-22610339
+- http://wikicfp.com/cfp/servlet/event.showcfp?eventid=186333
+- https://portal.core.edu.au/conf-ranks/?search=eCrime&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 2026 deadline is written as 'June 12, 2026, 12 AM EDT'; unclear whether this means the start or end of June 12
+- 2025 deadline of July 29 comes from an APWG press release and WikiCFP, not the CFP page
+- Proceedings venue (IEEE Xplore) inferred from past editions; the 2026 page only names IEEE CS TC on Security and
+  Privacy as technical sponsor
+- Acceptance rate not published
+- '2026 program: training Nov 2, conference Nov 3 to 5, policy roundtable Nov 6'
+last_verified: 2026-09-28

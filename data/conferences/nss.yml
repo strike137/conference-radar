@@ -1,0 +1,82 @@
+id: nss
+name: NSS
+full_name: International Conference on Network and System Security
+type: conference
+tier: major
+areas: [security, networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: 'Rotating host institutions (2025: Central China Normal University and Wuhan University; 2026: Zhejiang
+  Sci-Tech University)'
+proceedings: Springer LNCS
+indexing: [Scopus]
+rank:
+  core: B
+fee: 3900 CNY / 560 USD (2025, full registration for paper authors)
+typical:
+  deadline_months: [6, 7, 9]
+  conference_months: [10, 11, 12]
+links:
+  website: https://nsclab.org/nss2026/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2242
+notes:
+- Series started in 2007 (Dalian); held jointly with SocialSec (security and privacy in social networks and big
+  data) as NSS-SocialSec
+- Proceedings in Springer LNCS (22 papers in the 2025 volume)
+- Mostly held in China and the Asia-Pacific (Sapporo 2019, Melbourne 2020, Fiji 2022), sometimes Europe, the USA
+  or the Middle East (Canterbury 2023, Abu Dhabi 2024)
+- CORE B but a small venue; the 2025 deadline was extended twice; anonymous submissions, deadlines AoE
+- Not in the CCF list
+editions:
+- year: 2025
+  start: 2025-12-05
+  end: 2025-12-07
+  location: Wuhan, China
+  url: https://nsclab.org/nss-socialsec2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-14
+    label: NSS papers (extended from 2025-06-15 and 2025-07-06, firm)
+  - kind: notification
+    date: 2025-08-20
+  - kind: camera_ready
+    date: 2025-09-15
+    label: Extended from 2025-09-01
+  - kind: other
+    date: 2025-09-15
+    label: Author registration (extended from 2025-09-01)
+- year: 2026
+  start: 2026-10-30
+  end: 2026-11-01
+  location: Hangzhou, China
+  url: https://nsclab.org/nss2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2026-10-20
+  - kind: camera_ready
+    date: 2026-10-27
+sources:
+- https://nsclab.org/nss2026/
+- https://nsclab.org/nss2026/authors.html
+- https://nsclab.org/nss2026/committees.html
+- https://nsclab.org/nss2026/registration.html
+- https://nsclab.org/nss-socialsec2025/
+- https://api.crossref.org/works/10.1007/978-981-95-6419-4
+- https://api.crossref.org/works?filter=isbn:9789819564194,type:book-chapter&rows=100
+- https://portal.core.edu.au/conf-ranks/?search=NSS&by=acronym&source=ICORE2026&sort=atitle&page=1
+- http://www.wikicfp.com/cfp/program?id=2242
+unverified:
+- NSS 2026 site is incomplete; the single 30 September 2026 deadline only one month before the conference may still
+  change
+- 'NSS 2026 registration fee: the page says TBD next to USD 490 / RMB 3500 author figures that appear to be left
+  over from another event''s template (form due date Dec 11, 2025)'
+- dblp page URL (dblp blocked automated access during checking)
+- '2025 acceptance rate: Springer''s book description reportedly gives 22 full papers from 74 submissions (30%);
+  the 22 papers match Crossref''s chapter count, but the submission count could not be checked because Springer
+  pages are behind a bot check'
+last_verified: 2026-09-28

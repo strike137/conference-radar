@@ -1,0 +1,101 @@
+id: seccon
+name: SECCON
+full_name: 'SECCON (Security Contest) Denno Kaigi: CTF finals and Open Conference'
+name_local: SECCON 電脳会議
+type: industry
+tier: domestic
+areas: [security]
+region: japan
+language: mixed
+frequency: annual
+organizer: SECCON Executive Committee (secretariat at JNSA, Japan Network Security Association)
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+typical:
+  deadline_months: [1, 10, 11]
+  conference_months: [2, 3]
+links:
+  website: https://www.seccon.jp/
+notes:
+- Japan's largest CTF and security event; the main 'Denno Kaigi' weekend in Tokyo (Asakusabashi) hosts the SECCON
+  CTF finals plus talks and workshops
+- Open Conference takes 20 or 50 minute talks in English or Japanese; talks presented elsewhere are welcome; review
+  by a board from academia and industry
+- Call for talks runs in several rounds (October, November, sometimes January) and may close early once slots are
+  filled
+- SECCON CTF quals are online in December; top 8 international and top 8 domestic teams go to the finals
+- Related programs include SECCON Beginners, CTF for GIRLS and regional workshops; non-archival, recordings posted
+  on YouTube
+editions:
+- year: 2026
+  label: SECCON 14 Denno Kaigi
+  start: 2026-02-28
+  end: 2026-03-01
+  location: Tokyo, Japan
+  url: https://www.seccon.jp/14/ep260228.html
+  deadlines:
+  - kind: submission
+    date: 2025-10-17
+    time: '23:59'
+    tz: JST
+    label: Open Conference talks, round 1
+  - kind: notification
+    date: 2025-10-27
+    label: Round 1
+  - kind: submission
+    date: 2025-11-21
+    time: '23:59'
+    tz: JST
+    label: Open Conference talks, round 2
+  - kind: notification
+    date: 2025-12-01
+    label: Round 2
+  - kind: other
+    date: 2025-12-13
+    label: SECCON CTF 14 Quals (online, 24h from 05:00 UTC)
+  - kind: submission
+    date: 2026-01-16
+    time: '23:59'
+    tz: JST
+    label: Open Conference talks, final round
+  - kind: notification
+    date: 2026-01-26
+    label: Final round
+- year: 2027
+  label: SECCON 15 Denno Kaigi
+  start: 2027-02-20
+  end: 2027-02-21
+  location: Tokyo, Japan
+  url: https://www.seccon.jp/15/seccon_conference/open_conference_en.html
+  deadlines:
+  - kind: submission
+    date: 2026-10-11
+    time: '23:59'
+    tz: JST
+    label: Open Conference talks, round 1
+  - kind: notification
+    date: 2026-10-25
+    label: Round 1
+  - kind: submission
+    date: 2026-11-08
+    time: '23:59'
+    tz: JST
+    label: Open Conference talks, round 2
+  - kind: notification
+    date: 2026-11-22
+    label: Round 2 (final)
+sources:
+- https://www.seccon.jp/15/
+- https://www.seccon.jp/15/seccon_conference/open_conference_en.html
+- https://www.seccon.jp/15/seccon/schedule.html
+- https://www.seccon.jp/15/seccon/about.html
+- https://www.seccon.jp/15/seccon_conference/seccon_14_open_conference_en.html
+- https://www.seccon.jp/14/ep260228.html
+- https://www.seccon.jp/14/seccon_conference/open_conference_en.html
+- https://www.seccon.jp/14/seccon_ctf/quals_en.html
+unverified:
+- SECCON CTF 15 qualifier date (listed as TBA)
+- Admission fee for Denno Kaigi (pre-registration required in 2026; workshops stated as free)
+last_verified: 2026-09-28

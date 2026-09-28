@@ -1,0 +1,59 @@
+id: knom
+name: KNOM Conference
+full_name: KNOM Conference (KICS Committee on Korean Network Operations and Management)
+name_local: 통신망운용관리학술대회
+type: conference
+tier: domestic
+areas: [networking, communications, security, ai]
+region: korea
+language: korean
+frequency: annual
+organizer: KICS KNOM (Committee on Korean Network Operations and Management)
+proceedings: KNOM Conference proceedings (PDF); accepted papers are published in KNOM Review (KCI-listed journal)
+  after additional review
+archival: true
+rank:
+  core: Unranked
+fee: 300,000 KRW general, 150,000 KRW student (2026, online or on-site)
+typical:
+  deadline_months: [3, 4]
+  conference_months: [4, 5]
+links:
+  website: http://www.knom.or.kr/
+notes:
+- Organized by KNOM, a KICS research committee founded in 1996; KNOM also sponsors the international APNOMS symposium
+  and publishes KNOM Review twice a year
+- Papers up to 5 pages; all accepted papers are published in KNOM Review (KCI-listed) after additional review
+- '2026 topics: 6G network operations, AIOps and autonomous networks (intent-based networking, agentic AI, network
+  digital twins), AI network security, network open APIs'
+- Rotating host (KISTI Daejeon 2025, Chonnam National University Gwangju 2026); no conference listed for 2024 (only
+  a KNOM Tutorial)
+editions:
+- year: 2026
+  start: 2026-05-08
+  end: 2026-05-09
+  location: Gwangju, Korea
+  url: https://cnlab.kmu.ac.kr/conf/knom2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-15
+    label: Review paper (extended from Apr 8)
+  - kind: notification
+    date: 2026-04-22
+    label: Extended from Apr 17
+  - kind: camera_ready
+    date: 2026-04-29
+  - kind: other
+    date: 2026-04-30
+    label: Pre-registration
+sources:
+- https://cnlab.kmu.ac.kr/conf/knom2026/main.html
+- https://cnlab.kmu.ac.kr/conf/knom2026/cfp.html
+- https://cnlab.kmu.ac.kr/conf/knom2026/registration.html
+- https://cnlab.kmu.ac.kr/conf/knom2025/main.html
+- https://cnlab.kmu.ac.kr/conf/knom2025/cfp.html
+- http://www.knom.or.kr/news.htm
+unverified:
+- KNOM Conference 2027 dates and location not announced
+- Acceptance rate not published
+last_verified: 2026-09-28

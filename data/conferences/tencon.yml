@@ -1,0 +1,93 @@
+id: tencon
+name: TENCON
+full_name: IEEE Region 10 Conference
+type: conference
+tier: minor
+areas: [general, communications, networking, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE Region 10 (hosted by a different IEEE Section each year)
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP, Scopus]
+rank:
+  core: C
+fee: 750 USD (2026, non-IEEE member, early); non-IEEE student 550 USD
+typical:
+  deadline_months: [3, 4, 5, 6]
+  conference_months: [10, 11, 12]
+links:
+  website: https://www.ieeer10.org/
+  dblp: https://dblp.org/db/conf/tencon/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191835&copyownerid=13149
+notes:
+- Flagship conference of IEEE Region 10 (Asia-Pacific); host city rotates every year
+- 2025 Kota Kinabalu (IEEE Malaysia Section), 2026 Bali, 2027 Busan (organized by IEEE Seoul Section)
+- Very broad EE/CS scope; 3 to 5 page papers in IEEE format; CORE C
+- Student authors can enter the R10 Student Innovation Poster Competition (fee waiver prizes)
+- In-person only; papers not presented are removed from IEEE Xplore
+editions:
+- year: 2025
+  start: 2025-10-27
+  end: 2025-10-30
+  location: Kota Kinabalu, Malaysia
+  url: https://ieeemy.org/tencon2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-30
+    label: Full paper (original)
+  - kind: submission
+    date: 2025-06-15
+    label: Full paper (second extension)
+  - kind: submission
+    date: 2025-06-30
+    label: Full paper (final extension)
+  - kind: notification
+    date: 2025-07-31
+    label: From this date
+  - kind: camera_ready
+    date: 2025-08-31
+    label: Final manuscript; also early-bird registration
+- year: 2026
+  start: 2026-10-10
+  end: 2026-10-13
+  location: Bali, Indonesia
+  url: https://tencon2026.ieee.id/
+  deadlines:
+  - kind: submission
+    date: 2026-03-17
+    label: Full paper (original)
+  - kind: submission
+    date: 2026-04-28
+    label: Full paper (first extension)
+  - kind: submission
+    date: 2026-05-19
+    label: Full paper (final extension)
+  - kind: notification
+    date: 2026-06-27
+  - kind: camera_ready
+    date: 2026-08-31
+    label: Extended from July 27
+- year: 2027
+  start: 2027-11-07
+  end: 2027-11-10
+  location: Busan, Korea
+  url: https://tencon2027.org/
+  deadlines: []
+sources:
+- https://tencon2026.ieee.id/
+- https://tencon2026.ieee.id/registration-fee/
+- https://tencon2027.org/
+- https://tencon2027.org/tencon-2027/
+- https://ieeemy.org/tencon2025/
+- https://web.archive.org/web/20250802145149/https://ieeemy.org/tencon2025/
+- https://web.archive.org/web/20250402074652/https://ieeemy.org/tencon2025/
+- https://www.ieeer10.org/
+- https://portal.core.edu.au/conf-ranks/?search=TENCON&by=all&source=ICORE2026
+unverified:
+- TENCON 2025 first extension date not captured (only original April 30, second extension June 15 and final June
+  30 are archived); the IEEE R10 site gave 28 to 31 October 2025 but the official TENCON 2025 site says 27 to 30
+  October
+- TENCON 2027 submission deadlines not yet announced (paper submission page is empty)
+- Acceptance rate not published
+last_verified: 2026-09-28

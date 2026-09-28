@@ -1,0 +1,78 @@
+id: jsai
+name: JSAI
+full_name: Annual Conference of the Japanese Society for Artificial Intelligence
+name_local: 人工知能学会全国大会
+type: conference
+tier: domestic
+areas: [ai, nlp, data]
+region: japan
+language: mixed
+frequency: annual
+organizer: JSAI (Japanese Society for Artificial Intelligence)
+proceedings: JSAI (J-STAGE, Proceedings of the Annual Conference of JSAI)
+archival: false
+rank:
+  core: Unranked
+fee: 8,800 JPY non-member student early (13,200 JPY same-day), 24,200 JPY non-member adult early, plus 4,400 JPY
+  presentation fee for non-members (2026); student members 5,000 JPY plus 3,000 JPY
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://www.ai-gakkai.or.jp/
+notes:
+- Annual conference of JSAI, late May or early June, held in various cities in Japan (Osaka 2025, Takasaki/Gunma
+  2026, Nagasaki 2027); hybrid with online participation
+- Very large (the 2026 registration page warns it may close if applicants exceed 4,000); general sessions (Japanese
+  or English, 2 to 4 pages) only get a light screening and are generally regarded as non-refereed
+- International session in English is reviewed (work-in-progress 1 to 2 pages, regular 2 to 8 pages); excellent
+  regular papers are recommended to the journal New Generation Computing
+- All papers are free on J-STAGE; selected JSAI 2022 international session papers appeared in Springer LNCS 13859
+  (LNAI) together with the co-located JSAI-isAI 2022 workshops, but the 2025 and 2026 CFPs mention only the New
+  Generation Computing recommendation
+- Presentation application mid or late January, paper deadline mid or late February; one presentation per presenter
+editions:
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-12
+  location: Takasaki (Gunma), Japan
+  url: https://www.ai-gakkai.or.jp/jsai2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-28
+    time: '14:00'
+    tz: JST
+    label: Presentation application and abstract (general and international sessions)
+  - kind: submission
+    date: 2026-02-18
+    time: '14:00'
+    tz: JST
+    label: Paper submission (general and international sessions)
+  - kind: notification
+    date: 2026-03-18
+    label: Acceptance notification (all sessions)
+  - kind: other
+    date: 2026-04-24
+    time: '18:00'
+    tz: JST
+    label: Early pre-registration ends
+- year: 2027
+  start: 2027-06-08
+  end: 2027-06-11
+  location: Nagasaki, Japan
+  url: https://conf.ai-gakkai.or.jp/jsai2027/
+  deadlines: []
+sources:
+- https://www.ai-gakkai.or.jp/jsai2026/
+- https://www.ai-gakkai.or.jp/jsai2026/cfp/
+- https://www.ai-gakkai.or.jp/jsai2026/en/important-dates/
+- https://www.ai-gakkai.or.jp/jsai2026/en/cfp/
+- https://www.ai-gakkai.or.jp/jsai2026/en/attendance/
+- https://conf.ai-gakkai.or.jp/jsai2027/
+- https://www.ai-gakkai.or.jp/jsai2025/
+- https://www.ai-gakkai.or.jp/jsai2025/en/cfp/
+- https://www.jstage.jst.go.jp/browse/pjsai/-char/en
+- https://link.springer.com/book/10.1007/978-3-031-29168-5
+unverified:
+- JSAI 2027 submission deadlines (not yet announced on 2026-09-28)
+last_verified: 2026-09-28

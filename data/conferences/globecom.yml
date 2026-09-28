@@ -1,0 +1,79 @@
+id: globecom
+name: GLOBECOM
+full_name: IEEE Global Communications Conference
+type: conference
+tier: major
+areas: [communications, networking, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Communications Society
+proceedings: IEEE Xplore
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 38% (2019, 973/2560)
+fee: 990 USD IEEE member author, full conference (2026)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [12]
+links:
+  website: https://globecom2026.ieee-globecom.org/
+  dblp: https://dblp.org/db/conf/globecom/
+notes:
+- Flagship conference of IEEE ComSoc, held every December; very large, many parallel symposia
+- One deadline around April or May, usually extended; submissions via EDAS
+- Has a Communication and Information System Security symposium
+- 'Often held in Asia: Kuala Lumpur 2023, Taipei 2025, Macau 2026'
+- Acceptance rate historically around 35-38%
+editions:
+- year: 2025
+  start: 2025-12-08
+  end: 2025-12-12
+  location: Taipei, Taiwan
+  url: https://globecom2025.ieee-globecom.org/
+  deadlines:
+  - kind: submission
+    date: 2025-05-02
+    label: Symposium papers (final extension; original 2025-04-01)
+  - kind: notification
+    date: 2025-08-01
+  - kind: camera_ready
+    date: 2025-09-01
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-11
+  location: Macau, China
+  url: https://globecom2026.ieee-globecom.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-03
+    label: Symposium papers (firm)
+  - kind: notification
+    date: 2026-08-01
+  - kind: submission
+    date: 2026-08-19
+    label: Workshop papers (extended)
+  - kind: camera_ready
+    date: 2026-09-08
+    label: Final paper upload and registration
+  - kind: notification
+    date: 2026-09-27
+    label: Workshop papers
+  - kind: camera_ready
+    date: 2026-10-05
+    label: Workshop papers
+sources:
+- https://globecom2026.ieee-globecom.org/
+- https://globecom2026.ieee-globecom.org/authors/call-symposium-papers
+- https://globecom2026.ieee-globecom.org/authors
+- https://globecom2026.ieee-globecom.org/registration
+- https://globecom2025.ieee-globecom.org/call-symposium-papers
+- https://sites.cs.ucsb.edu/~almeroth/conf/stats/
+- https://portal.core.edu.au/conf-ranks/?search=GLOBECOM&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- GLOBECOM 2027 location and dates (2027 site not public)
+- Deadline time zone
+- Recent acceptance rates (after 2019)
+last_verified: 2026-09-28

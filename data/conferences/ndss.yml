@@ -1,0 +1,104 @@
+id: ndss
+name: NDSS
+full_name: Network and Distributed System Security Symposium
+type: conference
+tier: top
+areas: [security, networking]
+region: north-america
+language: english
+frequency: annual
+organizer: Internet Society (ISOC)
+proceedings: NDSS (Internet Society)
+indexing: [Scopus, DBLP]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 18% (2026, 265/1481)
+typical:
+  deadline_months: [4, 5, 8]
+  conference_months: [2, 3]
+links:
+  website: https://www.ndss-symposium.org/ndss2027/
+  dblp: https://dblp.org/db/conf/ndss/index.html
+notes:
+- Organized by the Internet Society; one of the 'Big 4' security conferences, focused on practical network and system
+  security
+- Two review cycles (summer around April/May, fall in August); double-blind; two-round review with early reject;
+  minor and major revision options; at most 6 submissions per author per cycle
+- Usually held in San Diego, USA; NDSS 2027 moves to Seoul, Korea (22 to 26 March 2027), a rare chance to attend
+  in Asia
+- Open access proceedings; many co-located workshops (e.g., SpaceSec, MADWeb)
+editions:
+- year: 2026
+  start: 2026-02-23
+  end: 2026-02-27
+  location: San Diego, USA
+  url: https://www.ndss-symposium.org/ndss2026/
+  deadlines:
+  - kind: submission
+    date: 2025-04-23
+    time: '23:59'
+    tz: AoE
+    label: Summer cycle
+  - kind: notification
+    date: 2025-07-02
+    label: Summer cycle
+  - kind: submission
+    date: 2025-08-06
+    time: '23:59'
+    tz: AoE
+    label: Fall cycle
+  - kind: camera_ready
+    date: 2025-09-10
+    label: Summer cycle
+  - kind: notification
+    date: 2025-10-22
+    label: Fall cycle
+  - kind: camera_ready
+    date: 2025-12-17
+    label: Fall cycle
+- year: 2027
+  start: 2027-03-22
+  end: 2027-03-26
+  location: Seoul, Korea
+  url: https://www.ndss-symposium.org/ndss2027/
+  deadlines:
+  - kind: submission
+    date: 2026-05-06
+    time: '23:59'
+    tz: AoE
+    label: Summer cycle
+  - kind: other
+    date: 2026-06-18
+    label: 'Summer cycle: early reject / Round 2 notification'
+  - kind: notification
+    date: 2026-07-29
+    label: Summer cycle (tentative)
+  - kind: submission
+    date: 2026-08-19
+    time: '23:59'
+    tz: AoE
+    label: Fall cycle
+  - kind: camera_ready
+    date: 2026-09-30
+    label: Summer cycle
+  - kind: other
+    date: 2026-10-16
+    label: 'Fall cycle: Round 2 notification'
+  - kind: notification
+    date: 2026-11-24
+    label: Fall cycle
+  - kind: camera_ready
+    date: 2027-02-01
+    label: Fall cycle
+sources:
+- https://www.ndss-symposium.org/ndss2027/
+- https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/
+- https://www.ndss-symposium.org/ndss2026/
+- https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=NDSS&by=all&source=ICORE2026&sort=atitle&page=1
+- http://jianying.space/conference-ranking.html
+unverified:
+- Registration fee not found on the official site
+- Acceptance rate taken from Jianying Zhou's statistics page
+last_verified: 2026-09-28

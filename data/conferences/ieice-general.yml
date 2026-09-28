@@ -1,0 +1,78 @@
+id: ieice-general
+name: IEICE General Conference
+full_name: IEICE General Conference (The Institute of Electronics, Information and Communication Engineers)
+name_local: 電子情報通信学会総合大会
+type: conference
+tier: domestic
+areas: [general, communications, networking, security, crypto, ai, systems]
+region: japan
+language: japanese
+frequency: annual
+organizer: IEICE (The Institute of Electronics, Information and Communication Engineers)
+proceedings: IEICE
+archival: false
+rank:
+  core: Unranked
+fee: 13,000 JPY member, 4,000 JPY student member, 14,300 JPY partner-society member (4,400 JPY student), 28,600
+  JPY non-member including students (2027 fee table, presenter fee per paper); 2026 was 11,000 JPY member, 2,000
+  JPY student member, 24,200 JPY non-member
+typical:
+  deadline_months: [1]
+  conference_months: [3]
+links:
+  website: https://www.ieice.org/jpn_r/activities/taikai/general/2027/
+notes:
+- Organized by IEICE; the larger of its two yearly conferences, held every March at a university that rotates around
+  Japan
+- No peer review; general session paper is 1 page with a 10 min talk + 5 min Q&A; symposium and poster sessions
+  allow 2 pages
+- 'Covers all IEICE societies: communications, electronics, information and systems, fundamentals (security and
+  cryptography included)'
+- Japanese or English; presenters must present on site; in 2026 the GlobalNet Workshop and an International Reception
+  were held on the first day, which had no regular sessions
+- Application and manuscript share one strict deadline in early January (17:00)
+editions:
+- year: 2026
+  start: 2026-03-09
+  end: 2026-03-13
+  location: Fukuoka, Japan
+  url: https://www.ieice.org/jpn_r/activities/taikai/general/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-06
+    time: '17:00'
+    tz: JST
+    label: Presentation application and manuscript (general, symposium, poster sessions)
+  - kind: other
+    date: 2026-02-24
+    label: Proceedings published (public disclosure date)
+- year: 2027
+  start: 2027-03-09
+  end: 2027-03-12
+  location: Tokyo, Japan
+  url: https://www.ieice.org/jpn_r/activities/taikai/general/2027/
+  deadlines:
+  - kind: other
+    date: 2026-11-05
+    label: Presentation and attendance registration opens
+  - kind: submission
+    date: 2027-01-06
+    time: '17:00'
+    tz: JST
+    label: Presentation application and manuscript (strict)
+sources:
+- https://www.ieice.org/jpn_r/activities/taikai/general/2027/
+- https://www.ieice.org/jpn_r/activities/taikai/general/2027/announcement.html
+- https://www.ieice.org/jpn_r/activities/taikai/general/2027/2027-kikaku-session.html
+- https://www.ieice.org/jpn_r/activities/taikai/general/2027/fee_table.html
+- https://www.ieice.org/jpn_r/activities/taikai/general/2026/
+- https://www.ieice.org/jpn_r/activities/taikai/general/2026/announcement.html
+- https://www.ieice.org/jpn_r/activities/taikai/general/2026/fee_table.html
+- https://www.ieice.org/jpn_r/activities/taikai/general/2026/news_schedule.html
+- https://www.ieice.org/jpn_r/activities/taikai/upcoming/tpl/upcoming.html
+- https://portal.core.edu.au/conf-ranks/?search=IEICE&by=all&source=ICORE2026
+unverified:
+- The 2027 schedule page on the conference site is still empty; the 2027-01-06 deadline and 2026-11-05 opening come
+  from the 2027 announcement page and the organized-session guide
+- 2027 proceedings publication date not yet announced
+last_verified: 2026-09-28

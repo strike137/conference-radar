@@ -1,0 +1,118 @@
+id: pets
+name: PETS
+full_name: Privacy Enhancing Technologies Symposium
+type: conference
+tier: major
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: PETS community (Proceedings on Privacy Enhancing Technologies, self-published)
+proceedings: PoPETs (open-access journal, self-published)
+indexing: [Scopus, DBLP]
+rank:
+  core: A
+  ccf: C
+acceptance_rate: 23% (2026 volume, 160/706)
+fee: About 700 CAD early, 850 CAD late for main conference only; full package 1000/1200 CAD (2026)
+typical:
+  deadline_months: [2, 5, 8, 11]
+  conference_months: [7]
+links:
+  website: https://petsymposium.org/2027/
+  dblp: https://dblp.org/db/conf/pet/index.html
+notes:
+- Main venue for privacy technology research; papers appear in the open-access journal PoPETs with no APC
+- Four submission deadlines per year (end of February, May, August, November) with journal-style accept/revise/reject
+  decisions and a rebuttal period
+- Rejected papers must skip one full issue before resubmission; revise decisions allow up to four months of revision
+  with a revision editor
+- 'Held every July, mostly in Europe or North America: Calgary (2026), Delft (2027); HotPETs and workshops co-located'
+editions:
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-25
+  location: Calgary, Canada
+  url: https://petsymposium.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-05-31
+    time: '23:59'
+    tz: AoE
+    label: Issue 1
+  - kind: notification
+    date: 2025-08-01
+    label: Issue 1
+  - kind: submission
+    date: 2025-08-31
+    time: '23:59'
+    tz: AoE
+    label: Issue 2
+  - kind: notification
+    date: 2025-11-01
+    label: Issue 2
+  - kind: submission
+    date: 2025-11-30
+    time: '23:59'
+    tz: AoE
+    label: Issue 3
+  - kind: notification
+    date: 2026-02-01
+    label: Issue 3
+  - kind: submission
+    date: 2026-02-28
+    time: '23:59'
+    tz: AoE
+    label: Issue 4
+  - kind: notification
+    date: 2026-05-01
+    label: Issue 4
+- year: 2027
+  start: 2027-07-19
+  end: 2027-07-24
+  location: Delft, Netherlands
+  url: https://petsymposium.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    time: '23:59'
+    tz: AoE
+    label: Issue 1
+  - kind: notification
+    date: 2026-08-01
+    label: Issue 1
+  - kind: submission
+    date: 2026-08-31
+    time: '23:59'
+    tz: AoE
+    label: Issue 2
+  - kind: notification
+    date: 2026-11-01
+    label: Issue 2
+  - kind: submission
+    date: 2026-11-30
+    time: '23:59'
+    tz: AoE
+    label: Issue 3
+  - kind: notification
+    date: 2027-02-01
+    label: Issue 3
+  - kind: submission
+    date: 2027-02-28
+    time: '23:59'
+    tz: AoE
+    label: Issue 4
+  - kind: notification
+    date: 2027-05-01
+    label: Issue 4
+sources:
+- https://petsymposium.org/cfp27.php
+- https://petsymposium.org/2027/
+- https://petsymposium.org/2026/
+- https://petsymposium.org/cfp26.php
+- https://petsymposium.org/2026/registration.php
+- https://portal.core.edu.au/conf-ranks/?search=PETS&by=all&source=ICORE2026&sort=atitle&page=1
+- http://jianying.space/conference-ranking.html
+unverified:
+- Acceptance rate taken from Jianying Zhou's statistics page
+last_verified: 2026-09-28

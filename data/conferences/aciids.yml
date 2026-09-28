@@ -1,0 +1,80 @@
+id: aciids
+name: ACIIDS
+full_name: Asian Conference on Intelligent Information and Database Systems
+type: conference
+tier: major
+areas: [ai, data]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: 'Wroclaw University of Science and Technology (Dept. of Applied Informatics) with local co-organizers
+  (2027: IEEE Computer Society Indonesia Chapter, BINUS University, International Institute of Applied Informatics);
+  in cooperation with IEEE SMC TC on Computational Collective Intelligence'
+proceedings: Springer LNAI (full papers) and CCIS (poster papers)
+indexing: [Scopus, Web of Science, DBLP]
+rank:
+  core: B
+fee: About 600 USD (2026, author early); 550 USD student early
+typical:
+  deadline_months: [9, 12]
+  conference_months: [4]
+links:
+  website: https://aciids.pwr.edu.pl/
+  dblp: https://dblp.org/db/conf/aciids/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=30
+notes:
+- Run from Poland (Wroclaw University of Science and Technology) but held in a different Asian city every year (2025
+  Kitakyushu, 2026 Kaohsiung, 2027 Bali)
+- Full papers go to Springer LNAI, poster papers to CCIS; 12-15 pages, at least three reviews per paper
+- Many special sessions; 2026 had one on information security and cryptology (ISCrypt)
+- 'Deadlines are often extended substantially (2026: 2025-09-30 -> 2025-12-15 hard deadline)'
+- CORE B since 2021; generally seen as mid-tier despite the rank
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-15
+  location: Kaohsiung, Taiwan
+  url: https://aciids.pwr.edu.pl/2026/
+  deadlines:
+  - kind: other
+    date: 2025-09-15
+    label: Special session proposals
+  - kind: submission
+    date: 2025-12-15
+    label: Papers (hard deadline, after extension)
+- year: 2027
+  start: 2027-04-05
+  end: 2027-04-07
+  location: Bali, Indonesia
+  url: https://aciids.pwr.edu.pl/2027/
+  deadlines:
+  - kind: other
+    date: 2026-08-16
+    time: '23:59'
+    tz: AoE
+    label: Special session proposals (extended from 2026-07-31)
+  - kind: submission
+    date: 2026-09-30
+    time: '23:59'
+    tz: AoE
+    label: Full (LNAI) and poster (CCIS) papers
+sources:
+- https://aciids.pwr.edu.pl/2027/
+- https://aciids.pwr.edu.pl/2027/dates.html
+- https://aciids.pwr.edu.pl/2027/about.html
+- https://aciids.pwr.edu.pl/2027/submit.html
+- https://aciids.pwr.edu.pl/2026/
+- https://aciids.pwr.edu.pl/2026/dates.php
+- https://aciids.pwr.edu.pl/2026/fee.php
+- https://aciids.pwr.edu.pl/2026/session.php?acronym=ISCrypt
+- https://aciids.pwr.edu.pl/2025/
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189823
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200320
+- https://link.springer.com/book/10.1007/978-981-92-0071-9
+- https://portal.core.edu.au/conf-ranks/?search=ACIIDS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Exact notification and camera-ready dates for 2026 and 2027 (site only says January)
+- 'Acceptance rate: Springer says 75 full papers from 431 submissions for LNAI Part I of 2026; unclear whether that
+  covers the whole LNAI set'
+- Original 2026 deadline of 2025-09-30 comes from WikiCFP
+last_verified: 2026-09-28

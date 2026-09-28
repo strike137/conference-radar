@@ -1,0 +1,84 @@
+id: rocling
+name: ROCLING
+full_name: Conference on Computational Linguistics and Speech Processing
+type: conference
+tier: minor
+areas: [nlp]
+region: taiwan
+language: mixed
+frequency: annual
+organizer: ACLCLP (Association for Computational Linguistics and Chinese Language Processing, Taiwan)
+proceedings: ACL Anthology
+indexing: [DBLP]
+rank:
+  core: Unranked
+fee: NT$6,000 regular / NT$2,500 student, early, ACLCLP non-member (2025); each paper needs one regular registration
+typical:
+  deadline_months: [8, 9]
+  conference_months: [10, 11]
+links:
+  website: https://www.aclclp.org.tw/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2494
+notes:
+- Taiwan's national NLP and speech processing conference (annual conference of ACLCLP), held every year in Taiwan
+  (Taipei 2025, Hsinchu 2026)
+- Papers may be written and presented in Chinese or English (2023 to 2025 CFPs); double-blind review via EasyChair
+- Archival track goes to the ACL Anthology; a non-archival track (introduced in 2025) accepts work under review
+  elsewhere
+- Selected papers invited to a special issue of IJCLCLP; runs shared tasks and special sessions
+- Deadlines usually extended by several weeks
+editions:
+- year: 2025
+  start: 2025-11-20
+  end: 2025-11-22
+  location: Taipei, Taiwan
+  url: https://rocling2025.aclclp.org.tw/
+  deadlines:
+  - kind: submission
+    date: 2025-09-21
+    time: '23:59'
+    tz: UTC+8
+    label: Extended (original Aug 31, then Sep 7 and Sep 12)
+  - kind: notification
+    date: 2025-10-12
+    time: '23:59'
+    tz: UTC+8
+  - kind: other
+    date: 2025-10-17
+    label: Early registration ends
+  - kind: camera_ready
+    date: 2025-10-23
+    time: '23:59'
+    tz: UTC+8
+- year: 2026
+  start: 2026-11-06
+  end: 2026-11-07
+  location: Hsinchu, Taiwan
+  url: https://rocling2026.github.io/NTHU_rocling_2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    label: Extended from Jul 20
+  - kind: notification
+    date: 2026-09-18
+  - kind: camera_ready
+    date: 2026-10-05
+  - kind: other
+    date: 2026-10-11
+    label: Early registration ends
+sources:
+- https://rocling2026.github.io/NTHU_rocling_2026/
+- https://rocling2025.aclclp.org.tw/
+- https://rocling2025.aclclp.org.tw/templates/dates.tpl
+- https://rocling2025.aclclp.org.tw/templates/call.tpl
+- https://rocling2025.aclclp.org.tw/templates/registrations.tpl
+- https://aclanthology.org/2025.rocling-main.0.pdf
+- https://rocling2024.github.io/
+- https://rocling2023.github.io/
+- http://www.wikicfp.com/cfp/program?id=2494
+unverified:
+- Chinese name of the conference (previously given as a local name) could not be confirmed from an official page
+- Whether ROCLING 2026 still accepts Chinese-language papers (2025 CFP explicitly allowed Chinese and English; 2026
+  CFP does not say)
+- ROCLING 2026 registration fee amounts (published only as an image)
+last_verified: 2026-09-28

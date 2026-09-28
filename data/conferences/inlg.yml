@@ -1,0 +1,84 @@
+id: inlg
+name: INLG
+full_name: International Natural Language Generation Conference
+type: conference
+tier: major
+areas: [nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACL SIGGEN
+proceedings: ACL Anthology
+indexing: [DBLP]
+rank:
+  core: B
+acceptance_rate: 39% (2025, 50/127 conference papers)
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10, 11]
+links:
+  website: https://2026.inlgmeeting.org/
+notes:
+- Main venue of ACL SIGGEN for natural language generation; small (about 130 submissions)
+- 'Recently held in Asia: Tokyo 2024, Hanoi 2025; 2026 in Utrecht just before EMNLP'
+- 'Two routes: direct submission or commitment of ARR-reviewed papers (OpenReview in 2026, START in 2025)'
+- 2026 also has a non-archival submission track; in-person attendance expected (2025 allowed exceptions for visa
+  or health)
+editions:
+- year: 2025
+  start: 2025-10-29
+  end: 2025-11-02
+  location: Hanoi, Vietnam
+  url: https://2025.inlgmeeting.org/
+  deadlines:
+  - kind: submission
+    date: 2025-07-18
+    tz: AoE
+    label: Regular papers (extended from Jul 14)
+  - kind: submission
+    date: 2025-07-24
+    tz: AoE
+    label: Demo papers
+  - kind: other
+    date: 2025-08-07
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2025-08-21
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-15
+    tz: AoE
+- year: 2026
+  start: 2026-10-17
+  end: 2026-10-21
+  location: Utrecht, Netherlands
+  url: https://2026.inlgmeeting.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-18
+    tz: AoE
+    label: Regular and demo papers (extended from Jul 15)
+  - kind: other
+    date: 2026-08-05
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-08-15
+    tz: AoE
+  - kind: submission
+    date: 2026-08-22
+    tz: AoE
+    label: Non-archival submissions
+  - kind: camera_ready
+    date: 2026-09-07
+    tz: AoE
+sources:
+- https://2026.inlgmeeting.org/
+- https://2025.inlgmeeting.org/
+- https://aclanthology.org/volumes/2024.inlg-main/
+- https://aclanthology.org/2025.inlg-main.0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=INLG&by=acronym&source=ICORE2026
+unverified:
+- INLG 2027 not announced
+last_verified: 2026-09-28

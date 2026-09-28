@@ -1,0 +1,66 @@
+id: icce-asia
+name: ICCE-Asia
+full_name: IEEE/IEIE International Conference on Consumer Electronics-Asia
+type: conference
+tier: minor
+areas: [general, communications, ai]
+region: korea
+language: english
+frequency: annual
+organizer: IEEE Consumer Technology Society and IEIE (Institute of Electronics and Information Engineers, Korea)
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+fee: 610 USD (2026, IEEE/IEIE member, pre-registration); 760 USD non-member
+typical:
+  deadline_months: [9]
+  conference_months: [10, 11]
+links:
+  website: https://icce-asia2026.org/2026/
+notes:
+- Jointly organized by IEEE Consumer Technology Society and IEIE (Korea); Asian counterpart of IEEE ICCE
+- Mostly held in Korea in late October or November (Busan 2023 and 2025, Da Nang 2024, Gangneung 2026)
+- Regular papers 2 to 6 pages; broad scope including AI, security and privacy of CE, IoT and wireless
+- Very late deadline with rolling notification in order of submission (2026)
+- Best papers recommended to JSTS or IEIE Transactions on Smart Processing and Computing
+editions:
+- year: 2025
+  start: 2025-10-27
+  end: 2025-10-29
+  location: Busan, South Korea
+  url: https://doi.org/10.1109/icce-asia67487.2025
+  deadlines: []
+- year: 2026
+  start: 2026-10-28
+  end: 2026-10-30
+  location: Gangneung, South Korea
+  url: https://icce-asia2026.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-13
+    label: Full papers / special session proposals (CFP flyer dated 2026-09-04)
+  - kind: submission
+    date: 2026-09-20
+    label: Full papers / special session proposals (final extension)
+  - kind: notification
+    date: 2026-09-28
+    label: Sent sequentially in order of submission (moved from Sept 18)
+  - kind: camera_ready
+    date: 2026-09-30
+  - kind: other
+    date: 2026-10-09
+    label: Pre-registration deadline
+sources:
+- https://icce-asia2026.org/2026/
+- https://icce-asia2026.org/2026/pages/welcome.vm
+- https://icce-asia2026.org/2026/pages/submission_info.vm
+- https://icce-asia2026.org/2026/pages/registration.vm
+- https://icce-asia2026.org/2026/download/ICCE_Asia_2026_CFP_20260904.pdf
+- https://api.crossref.org/works?query.bibliographic=International+Conference+on+Consumer+Electronics-Asia&filter=type:proceedings
+unverified:
+- Any 2026 submission deadline earlier than 2026-09-13
+- ICCE-Asia 2025 deadlines and website
+- DBLP key
+- Acceptance rate
+last_verified: 2026-09-28

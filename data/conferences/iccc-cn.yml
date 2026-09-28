@@ -1,0 +1,62 @@
+id: iccc-cn
+name: IEEE/CIC ICCC
+full_name: IEEE/CIC International Conference on Communications in China
+type: conference
+tier: minor
+areas: [communications, networking]
+region: china
+language: english
+frequency: annual
+organizer: IEEE Communications Society and China Institute of Communications (CIC)
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP]
+rank:
+  core: Unranked
+fee: 750 USD (2026, author, ComSoc/CIC member); 950 USD non-member
+typical:
+  deadline_months: [3, 4, 5]
+  conference_months: [8]
+links:
+  website: https://www.ieee-iccc.org/
+  dblp: https://dblp.org/db/conf/iccchina/
+notes:
+- Regional IEEE ComSoc conference in China, co-organized with the China Institute of Communications; held since
+  2012 and follows the IEEE ICC format
+- Held every August in a Chinese city (Dalian 2023, Hangzhou 2024, Shanghai 2025, Wuhan 2026)
+- Max 6 pages via EDAS; 12 technical tracks including communication and information security
+- Large workshop program with a later deadline (July)
+editions:
+- year: 2026
+  start: 2026-08-07
+  end: 2026-08-09
+  location: Wuhan, China
+  url: https://iccc2026.ieee-iccc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-23
+    label: Technical symposia
+  - kind: submission
+    date: 2026-05-15
+    label: Full papers (date shown under Important Dates)
+  - kind: notification
+    date: 2026-06-30
+  - kind: submission
+    date: 2026-07-02
+    label: Workshop papers
+  - kind: camera_ready
+    date: 2026-07-10
+sources:
+- https://iccc2026.ieee-iccc.org/
+- https://iccc2026.ieee-iccc.org/authors
+- https://iccc2026.ieee-iccc.org/authors/call-papers
+- https://iccc2026.ieee-iccc.org/authors/call-workshop-papers
+- https://iccc2026.ieee-iccc.org/registration/registration
+- https://iccc2026.ieee-iccc.org/about-us
+- https://iccc2025.ieee-iccc.org/authors/call-papers
+- https://api.crossref.org/works?query.bibliographic=Communications+in+China&filter=type:proceedings
+unverified:
+- Whether the 2026-05-15 date is an extension of the 2026-03-23 symposium deadline (the site lists both)
+- ICCC 2027 host and dates
+- Acceptance rate
+last_verified: 2026-09-28

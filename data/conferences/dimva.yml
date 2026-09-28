@@ -1,0 +1,60 @@
+id: dimva
+name: DIMVA
+full_name: Conference on Detection of Intrusions and Malware, and Vulnerability Assessment
+type: conference
+tier: major
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: GI SIG SIDAR (Security, Intrusion Detection and Response group of the German Informatics Society)
+proceedings: Springer LNCS
+indexing: [Scopus, DBLP, EI]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 24% (2025, 25/103 full papers)
+fee: About 380 EUR early, 460 EUR late (2026)
+typical:
+  deadline_months: [2, 12]
+  conference_months: [7]
+links:
+  website: https://www.dimva.org/
+  dblp: https://dblp.org/db/conf/dimva/index.html
+notes:
+- Organized by GI SIG SIDAR (German Informatics Society) since 2004; proceedings in Springer LNCS
+- Focus on intrusion detection, malware analysis and vulnerability assessment
+- Two cycles (December and February); double-blind; rejected Cycle 1 papers cannot go to Cycle 2
+- 'Held in Europe every summer (usually July): Graz (2025), Chania (2026); small event with comparatively low fees'
+- CORE B, CCF C; about 25 full papers per year
+editions:
+- year: 2026
+  start: 2026-07-01
+  end: 2026-07-03
+  location: Chania, Greece
+  url: https://www.dimva.org/dimva2026/
+  deadlines:
+  - kind: submission
+    date: 2025-12-10
+    tz: AoE
+    label: Cycle 1 (extended from 2025-12-03)
+  - kind: notification
+    date: 2026-01-27
+    label: Cycle 1
+  - kind: submission
+    date: 2026-02-18
+    tz: AoE
+    label: Cycle 2 (extended from 2026-02-11)
+  - kind: notification
+    date: 2026-04-03
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2026-05-28
+sources:
+- https://www.dimva.org/dimva2026/
+- https://www.dimva.org/
+- https://link.springer.com/book/10.1007/978-3-031-97623-0
+- https://portal.core.edu.au/conf-ranks/?search=DIMVA&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- DIMVA 2027 location and dates not yet announced (dimva2027 page returns 403; dimva.org lists nothing after 2026)
+last_verified: 2026-09-28

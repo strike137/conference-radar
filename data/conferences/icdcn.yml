@@ -1,0 +1,76 @@
+id: icdcn
+name: ICDCN
+full_name: International Conference on Distributed Computing and Networking
+type: conference
+tier: minor
+areas: [networking, systems]
+region: south-asia
+language: english
+frequency: annual
+organizer: ICDCN steering committee, in cooperation with ACM, ACM SIGMOBILE and ACM SIGOPS
+proceedings: ACM DL
+indexing: [ACM DL, DBLP, Scopus]
+rank:
+  core: 'National: India'
+typical:
+  deadline_months: [7, 8]
+  conference_months: [1]
+links:
+  website: https://sites.google.com/view/icdcn2026
+  dblp: https://dblp.org/db/conf/icdcn/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=173277&copyownerid=166171
+notes:
+- Held every early January, usually in India; the 2026 edition was in Nara, Japan (hosted by NAIST and The University
+  of Osaka with IPSJ SIGs)
+- Covers both distributed computing theory and networking; double-blind; regular 10 pages, short 5 pages (ACM format)
+- Proceedings in ACM ICPS; selected papers fast-tracked to Theoretical Computer Science and Pervasive and Mobile
+  Computing
+- 'CORE rank National: India; well-established and selective'
+- Authors must register at the regular rate even if they are students; one registration covers two papers
+editions:
+- year: 2026
+  start: 2026-01-06
+  end: 2026-01-09
+  location: Nara, Japan
+  url: https://sites.google.com/view/icdcn2026
+  deadlines:
+  - kind: submission
+    date: 2025-07-25
+    tz: AoE
+    label: Main conference (original)
+  - kind: submission
+    date: 2025-08-07
+    tz: AoE
+    label: Main conference (extended, hard)
+  - kind: notification
+    date: 2025-09-26
+    tz: AoE
+    label: Main conference
+  - kind: submission
+    date: 2025-10-20
+    tz: AoE
+    label: Workshops (per homepage table)
+  - kind: submission
+    date: 2025-10-27
+    tz: AoE
+    label: Posters, demos and doctoral symposium (per homepage table)
+  - kind: camera_ready
+    date: 2025-10-30
+    tz: AoE
+    label: Main conference
+  - kind: other
+    date: 2025-11-30
+    label: Author registration
+sources:
+- https://sites.google.com/view/icdcn2026
+- https://sites.google.com/view/icdcn2026/submissions/call-for-paper
+- https://sites.google.com/view/icdcn2026/participate/registration
+- https://cse.iith.ac.in/icdcn-2025/
+- https://portal.core.edu.au/conf-ranks/?search=ICDCN&by=all&source=ICORE2026
+unverified:
+- ICDCN 2027 location, dates and CFP not found (no public site found)
+- 'ICDCN 2026 workshop and poster deadlines: news posts mention earlier extended dates (Oct 6) than the homepage
+  table'
+- ICDCN 2026 registration fee amounts (shown only as an embedded table)
+- Acceptance rate not published
+last_verified: 2026-09-28

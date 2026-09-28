@@ -1,0 +1,32 @@
+name: Report outdated or wrong information
+description: A date, rank or note is wrong, or a new edition has been announced.
+title: "[Update] "
+labels: [update]
+body:
+  - type: input
+    id: conference
+    attributes:
+      label: Conference id
+      description: The file name without .yml (filled in automatically when you come from the site).
+      placeholder: icissp
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What should change?
+      placeholder: |
+        The 2027 CFP is out: submission deadline 2026-10-09 (AoE), conference 2027-02-24 to 2027-02-26 in Porto.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      placeholder: https://...
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Faster: open the conference on the site and press **Edit on GitHub** to change the file directly.

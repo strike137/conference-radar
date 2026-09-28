@@ -1,0 +1,96 @@
+id: emnlp
+name: EMNLP
+full_name: Conference on Empirical Methods in Natural Language Processing
+type: conference
+tier: top
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACL SIGDAT
+proceedings: ACL Anthology
+indexing: [DBLP]
+rank:
+  core: A*
+  ccf: B
+acceptance_rate: 22.2% main (2025, 1811/8174)
+fee: Author/presenter rate 850 USD academic / 550 USD student, in person (2026), plus a paper presentation fee (200
+  USD for 1-2 papers); general early rate 650 / 350 USD; ACL membership required
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10, 11]
+links:
+  website: https://2026.emnlp.org/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=883
+notes:
+- One of the two flagship NLP venues with ACL; submissions only via ARR (May cycle), then commitment
+- EMNLP 2025 was held in Suzhou, China; EMNLP 2026 is in Budapest (Oct 24-29, 2026)
+- The May ARR cycle is shared with AACL-IJCNLP, so papers not taken by EMNLP can be committed to AACL
+- Main acceptance around 21-22%; Findings of EMNLP adds a second tier (17.3% in 2025)
+- EMNLP 2027 is planned for Mexico or Central America, tentatively early November 2027
+editions:
+- year: 2025
+  start: 2025-11-05
+  end: 2025-11-09
+  location: Suzhou, China
+  url: https://2025.emnlp.org/
+  deadlines:
+  - kind: submission
+    date: 2025-05-19
+    time: '23:59'
+    tz: AoE
+    label: ARR May 2025 cycle
+  - kind: other
+    date: 2025-08-01
+    time: '23:59'
+    tz: AoE
+    label: Commitment to EMNLP
+  - kind: notification
+    date: 2025-08-20
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-19
+    time: '23:59'
+    tz: AoE
+- year: 2026
+  start: 2026-10-24
+  end: 2026-10-29
+  location: Budapest, Hungary
+  url: https://2026.emnlp.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    time: '23:59'
+    tz: AoE
+    label: ARR May 2026 cycle
+  - kind: other
+    date: 2026-08-02
+    time: '23:59'
+    tz: AoE
+    label: Commitment to EMNLP
+  - kind: notification
+    date: 2026-08-20
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-30
+    time: '23:59'
+    tz: AoE
+- year: 2027
+  location: Mexico or Central America (city TBD)
+  url: https://2027.eacl.org/calls/workshops/
+  status: tentative
+  deadlines: []
+sources:
+- https://2026.emnlp.org/calls/main_conference_papers/
+- https://2026.emnlp.org/
+- https://2025.emnlp.org/calls/main_conference_papers/
+- https://2026.emnlp.org/registration/
+- https://2027.eacl.org/calls/workshops/
+- https://aclanthology.org/2025.emnlp-main.0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=EMNLP&by=acronym&source=ICORE2026
+unverified:
+- EMNLP 2027 exact dates and city not announced (joint workshop call says early November 2027, Mexico or Central
+  America)
+last_verified: 2026-09-28

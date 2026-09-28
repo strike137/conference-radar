@@ -1,0 +1,57 @@
+id: k-cap
+name: K-CAP
+full_name: International Conference on Knowledge Capture
+type: conference
+tier: major
+areas: [ai, data]
+region: north-america
+language: english
+frequency: biennial
+organizer: K-CAP Steering Committee; proceedings sponsored by ACM SIGAI
+proceedings: ACM DL
+indexing: [ACM DL, DBLP]
+rank:
+  core: B
+typical:
+  deadline_months: [7, 8]
+  conference_months: [12]
+links:
+  website: https://www.k-cap.org/
+  dblp: https://dblp.org/db/conf/kcap/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=1900
+notes:
+- Small biennial conference (odd years, recently in December); 59 to 70 attendees per edition from 2015 to 2021
+- 'Not double-blind: author names on submissions; full papers up to 8 pages, short papers 4 pages, visionary papers
+  2 pages'
+- Proceedings in the ACM Digital Library (ACM SIGAI sponsored)
+- Held in North America (earlier in Banff and Whistler, Canada; Pensacola 2023, Dayton 2025); in-person only
+- Student travel support has been offered through ACM SIGAI
+editions:
+- year: 2025
+  start: 2025-12-10
+  end: 2025-12-12
+  location: Dayton, Ohio, USA
+  url: https://www.k-cap.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-28
+    tz: AoE
+  - kind: submission
+    date: 2025-08-04
+    tz: AoE
+  - kind: notification
+    date: 2025-09-22
+  - kind: camera_ready
+    date: 2025-10-20
+    label: Extended from 2025-10-06
+sources:
+- https://www.k-cap.org/
+- https://www.k-cap.org/2025/
+- https://www.k-cap.org/2025/cfp.html
+- https://api.crossref.org/works/10.1145/3731443
+- https://dl.acm.org/doi/proceedings/10.1145/3731443
+- https://portal.core.edu.au/conf-ranks/?search=K-CAP&by=all&source=ICORE2026
+unverified:
+- K-CAP 2027 (no call to host or dates found)
+- Acceptance rate and registration fee
+last_verified: 2026-09-28

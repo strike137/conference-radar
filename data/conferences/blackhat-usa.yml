@@ -1,0 +1,61 @@
+id: blackhat-usa
+name: Black Hat USA
+full_name: Black Hat USA (Briefings and Trainings)
+type: industry
+tier: top
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: Black Hat (Informa Festivals, Informa PLC)
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+typical:
+  deadline_months: [3, 4]
+  conference_months: [8]
+links:
+  website: https://www.blackhat.com/us-26/
+notes:
+- 'Flagship industry security conference, six days at Mandalay Bay, Las Vegas: four days of Trainings (Aug 1-4 in
+  2026), a Summit Day, then two days of Briefings (Aug 5-6); DEF CON starts on the last Briefings day'
+- Talk proposals go through a CFP portal reviewed by the Black Hat Review Board; tool demos go to the separate Arsenal
+  track
+- 2026 CFP opened Jan 27 and closed Mar 23 (the preparation document said Mar 20), with notification by May 22;
+  at most two speakers per talk
+- 'Speaker benefits (USA): 1,000 USD honorarium, airfare up to 1,500 USD (international) and 3 hotel nights for
+  one speaker per session'
+- Recordings go public on YouTube about 90 to 120 days after the event; no archival proceedings
+editions:
+- year: 2026
+  start: 2026-08-01
+  end: 2026-08-06
+  location: Las Vegas, USA
+  url: https://www.blackhat.com/us-26/
+  deadlines:
+  - kind: submission
+    date: 2026-03-23
+    label: Briefings CFP (closing date on the official CFP page; the CFP preparation document gave Mar 20, 23:59
+      PST)
+  - kind: notification
+    date: 2026-05-22
+- year: 2027
+  start: 2027-07-31
+  end: 2027-08-05
+  location: Las Vegas, USA
+  url: https://www.blackhat.com/upcoming.html
+  deadlines: []
+sources:
+- https://www.blackhat.com/us-26/
+- https://www.blackhat.com/call-for-papers.html
+- https://www.blackhat.com/upcoming.html
+- https://i.blackhat.com/BHUS26/BHUS26-CFP-Preparation-Doc.pdf
+- http://web.archive.org/web/20260916013252/https://blackhat.com/us-26/
+- http://web.archive.org/web/20260916013251/https://blackhat.com/call-for-papers.html
+- http://web.archive.org/web/20260916013251/https://blackhat.com/upcoming.html
+unverified:
+- Exact closing time of the Mar 23, 2026 deadline (only the date is on the CFP page)
+- 2027 CFP dates not yet announced
+- April deadline month is based on earlier USA cycles (2024, 2025) and was not re-checked
+last_verified: 2026-09-28

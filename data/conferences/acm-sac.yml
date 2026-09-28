@@ -1,0 +1,87 @@
+id: acm-sac
+name: ACM SAC
+full_name: ACM/SIGAPP Symposium on Applied Computing
+type: conference
+tier: major
+areas: [general, security, ai, software, systems, networking, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGAPP
+proceedings: ACM DL
+rank:
+  core: Unranked
+fee: 900 USD for ACM/SIGAPP member paper authors, 1,000 USD non-member (2026, early)
+typical:
+  deadline_months: [10]
+  conference_months: [3, 4]
+links:
+  website: https://www.sigapp.org/sac/sac2027/
+  dblp: https://dblp.org/db/conf/sac/
+notes:
+- Sponsored by ACM SIGAPP; a multi-track symposium (39 tracks in 2027) including Computer Security (SEC), AI-enabled
+  Cybersecurity and Privacy for Emerging Systems (ACE), Safe, Secure and Robust AI (S2RAI) and Selected Area of
+  Wireless Communications and Networking (WCN)
+- Double-blind review by at least three reviewers; full papers limited to 8 pages plus up to 2 paid extra pages
+  (80 USD per page in 2026); some rejected papers are recommended as posters
+- Rotates worldwide; SAC 2027 will be in Gwangju, South Korea (supporters include Chonnam National University)
+- Student Research Competition (SRC) and Student Travel Award Program (STAP)
+- ICORE2026 lists it as a Multiconference rather than ranking it; not in the CCF list; ACM open-access APC may apply
+  to authors outside ACM Open institutions
+editions:
+- year: 2026
+  label: SAC 2026
+  start: 2026-03-23
+  end: 2026-03-27
+  location: Thessaloniki, Greece
+  url: https://www.sigapp.org/sac/sac2026/
+  deadlines:
+  - kind: submission
+    date: 2025-10-10
+    label: Regular papers and SRC abstracts (original)
+  - kind: submission
+    date: 2025-10-17
+    time: '23:59'
+    tz: EDT
+    label: Regular papers and SRC abstracts (extended)
+  - kind: notification
+    date: 2025-11-21
+    label: Paper notification (moved from 2025-10-24)
+  - kind: camera_ready
+    date: 2025-12-12
+    label: Camera-ready
+- year: 2027
+  label: SAC 2027
+  start: 2027-04-05
+  end: 2027-04-09
+  location: Gwangju, South Korea
+  url: https://www.sigapp.org/sac/sac2027/
+  deadlines:
+  - kind: submission
+    date: 2026-10-02
+    tz: EST
+    label: Regular papers and SRC abstracts
+  - kind: notification
+    date: 2026-11-13
+    label: Paper notification
+  - kind: camera_ready
+    date: 2026-11-28
+    label: Camera-ready
+  - kind: other
+    date: 2026-12-05
+    label: Author registration
+sources:
+- https://www.sigapp.org/sac/sac2027/
+- https://www.sigapp.org/sac/sac2027/submission.php
+- https://www.sigapp.org/sac/sac2027/tracks.php
+- https://www.sigapp.org/sac/sac2027/authorkit.php
+- https://www.sigapp.org/sac/sac2026/
+- https://www.sigapp.org/sac/sac2026/registration.php
+- https://api.crossref.org/works/10.1145/3748522
+- https://portal.core.edu.au/conf-ranks/?search=Applied%20Computing&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- Acceptance rate (commonly cited around 25% but not confirmed from an official source)
+- SAC 2027 registration fees not yet published
+- DBLP key not checked live (DBLP blocks automated access)
+last_verified: 2026-09-28

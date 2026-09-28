@@ -1,0 +1,100 @@
+id: ieee-smc
+name: IEEE SMC
+full_name: IEEE International Conference on Systems, Man, and Cybernetics
+type: conference
+tier: major
+areas: [ai, systems, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Systems, Man, and Cybernetics Society
+proceedings: IEEE Xplore
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [3, 4, 5]
+  conference_months: [10]
+links:
+  website: https://www.ieeesmc2026.org/
+  dblp: https://dblp.org/db/conf/smc/
+notes:
+- Flagship annual conference of the IEEE SMC Society; rotates worldwide (2024 Kuching, 2025 Vienna, 2026 Bellevue,
+  2027 Ho Chi Minh City)
+- Single-blind review by at least two referees; regular papers up to 6 pages plus up to 2 paid extra pages; submission
+  via PaperCept
+- Also takes 4-page work-in-progress/industry papers, special session and workshop papers, and journal presentation-only
+  papers
+- Paper deadline is usually extended by several weeks; travel grants offered
+- CORE B (ICORE2026), CCF C
+editions:
+- year: 2025
+  label: SMC 2025
+  start: 2025-10-05
+  end: 2025-10-08
+  location: Vienna, Austria
+  url: https://www.ieeesmc2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-05-04
+    label: Regular and special session papers (extended)
+  - kind: submission
+    date: 2025-05-23
+    label: Work-in-progress and industry papers (extended)
+  - kind: notification
+    date: 2025-06-29
+    label: Notification
+  - kind: camera_ready
+    date: 2025-08-03
+    label: Camera-ready
+- year: 2026
+  label: SMC 2026
+  start: 2026-10-04
+  end: 2026-10-07
+  location: Bellevue, WA, USA
+  url: https://www.ieeesmc2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-22
+    label: Regular/special session/workshop papers (original)
+  - kind: submission
+    date: 2026-04-12
+    label: Work-in-progress and industry papers (original)
+  - kind: submission
+    date: 2026-04-19
+    label: Regular/special session/workshop papers (first extension)
+  - kind: submission
+    date: 2026-05-03
+    label: Regular/special session/workshop papers (final extension)
+  - kind: submission
+    date: 2026-05-17
+    label: Work-in-progress and industry papers (extended, after 2026-05-03)
+  - kind: other
+    date: 2026-05-31
+    label: Journal presentation-only papers
+  - kind: notification
+    date: 2026-06-28
+    label: Notification (moved from 2026-04-26)
+  - kind: other
+    date: 2026-07-12
+    label: Two-page abstracts
+- year: 2027
+  label: SMC 2027
+  location: Ho Chi Minh City, Vietnam
+  url: https://www.ieeesmc.org/conferences/calendar/smc-society-conferences
+  status: tentative
+  deadlines: []
+sources:
+- https://www.ieeesmc2026.org/Important-Dates
+- https://www.ieeesmc2026.org/call-for-papers
+- https://www.ieeesmc2026.org/
+- https://www.ieeesmc2025.org/important-dates.html
+- https://www.ieeesmc.org/conferences/calendar/smc-society-conferences
+- https://portal.core.edu.au/conf-ranks/?search=Systems%2C%20Man&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- SMC 2026 camera-ready deadline shown as both 2026-08-02 and 2026-08-09 on the official site
+- SMC 2026 registration fees (the 2026 registration page still shows the 2025 Vienna fee table in EUR)
+- SMC 2027 dates not yet announced (ieeesmc2027.org is a parked domain)
+- Acceptance rate
+last_verified: 2026-09-28

@@ -1,0 +1,79 @@
+id: ieee-dsc
+name: IEEE DSC
+full_name: IEEE Conference on Dependable and Secure Computing
+type: conference
+tier: minor
+areas: [security, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE (Reliability Society); steering committee chaired by Shiuhpyng Shieh (National Yang Ming Chiao Tung
+  University, Taiwan); 2026 hosted by Fordham University, co-sponsored by NICT Japan
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP]
+rank:
+  core: Unranked
+fee: 800 USD IEEE member, 950 USD non-member, 580 to 680 USD student (2026, author registration)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://attend.ieee.org/dsc/
+  dblp: https://dblp.org/db/conf/desec/index.html
+notes:
+- Founded in Taiwan (first edition Taipei 2017); steering committee chaired by Shiuhpyng Shieh (NYCU)
+- 'Location rotates between East Asia, Europe and the US: Hangzhou 2019, Aizuwakamatsu 2021 (Jan), Edinburgh 2022,
+  Tampa 2023, Tokyo 2024, Taipei 2025, New York 2026'
+- Sponsored by the IEEE Reliability Society; 2026 edition co-sponsored by NICT (Japan), with many Japanese PC members
+- Anonymous review; regular papers up to 8 pages, 2-page experience/practice papers, 6-page workshop papers (e.g.,
+  Trustworthy and Secure AI for Cyber Defense)
+- Not ranked by CORE or CCF; the 2026 paper deadline was extended by about 3 weeks (June -> July)
+editions:
+- year: 2025
+  start: 2025-10-18
+  end: 2025-10-20
+  location: Taipei, Taiwan
+  url: https://attend.ieee.org/dsc-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-05
+    tz: AoE
+    label: Regular papers (firm)
+  - kind: notification
+    date: 2025-08-30
+  - kind: camera_ready
+    date: 2025-09-15
+- year: 2026
+  start: 2026-10-09
+  end: 2026-10-11
+  location: New York, USA
+  url: https://attend.ieee.org/dsc/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-08
+    label: Regular papers (extended from Jun 19)
+  - kind: submission
+    date: 2026-07-15
+    label: Regular/short papers (extended from Jun 26)
+  - kind: submission
+    date: 2026-07-15
+    label: Workshop papers
+  - kind: notification
+    date: 2026-08-17
+  - kind: camera_ready
+    date: 2026-09-14
+sources:
+- https://attend.ieee.org/dsc/
+- https://attend.ieee.org/dsc/wp-content/uploads/sites/859/IEEE-DSC-2026-CFP.pdf
+- https://web.cvent.com/event/3f612470-1233-4aae-8d65-a2d3021e5b99/websitePage:fccdd446-cd58-4b0d-ac59-10c376231453
+- https://attend.ieee.org/dsc-2025/
+- https://attend.ieee.org/dsc-2025/call-for-papers
+- https://api.crossref.org/works?query.bibliographic=IEEE+Conference+on+Dependable+and+Secure+Computing+DSC
+- https://portal.core.edu.au/conf-ranks/?search=Dependable+and+Secure&by=all&source=ICORE2026
+unverified:
+- '2026 notification/camera-ready: homepage says Aug 17 / Sep 14, the CFP PDF says Aug 7 / Sep 4; homepage values
+  used'
+- '2026 workshop deadline: homepage says Jul 15, CFP PDF says Jul 17'
+- Acceptance rate not published
+- No DSC 2027 announcement found (attend.ieee.org/dsc-2027/ returns 404)
+last_verified: 2026-09-28
