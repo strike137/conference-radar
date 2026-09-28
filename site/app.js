@@ -226,7 +226,8 @@
     const { hits, text } = primary(raw);
     const series = SERIES.exec(text);
     const names = hits.map(([k, name]) => (k === 'springer' && series ? `Springer ${series[1]}`
-      : k === 'ieee' && /Xplore/i.test(text) ? 'IEEE Xplore' : k === 'acm' && /\bDL\b|Digital Library/.test(text) ? 'ACM DL'
+      : k === 'ieee' && /Xplore/i.test(text) ? 'IEEE Xplore'
+      : k === 'ieee' && /CS Digital Library|Computer Society Digital Library|CSDL/i.test(text) ? 'IEEE CSDL' : k === 'acm' && /\bDL\b|Digital Library/.test(text) ? 'ACM DL'
       : k === 'korea' ? text.match(KOREAN_SOC)[0] : name));
     // Show every outlet the filter uses (at most three), so a filter hit is always visible in the label.
     const shown = names.slice(0, 3);
