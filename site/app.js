@@ -8,7 +8,7 @@
   };
   const TIERS = { top: 'Top', major: 'Major', minor: 'Minor', domestic: 'Domestic' };
   const TIER_ORDER = { top: 0, major: 1, minor: 2, domestic: 3 };
-  const TYPES = { conference: 'Conference', workshop: 'Workshop', industry: 'Industry', meeting: 'Meeting' };
+  const TYPES = { conference: 'Conference', workshop: 'Workshop', industry: 'Industry' };
   const REGIONS = {
     japan: 'Japan', korea: 'Korea', taiwan: 'Taiwan', china: 'China', 'southeast-asia': 'Southeast Asia',
     'south-asia': 'South Asia', 'asia-pacific': 'Asia-Pacific (rotating)', oceania: 'Oceania',
@@ -144,7 +144,7 @@
       if (ed.start) items.push(mk(c, ed, 'conf', ed.start, { end: ed.end, location: ed.location, tentative }));
     }
     const est = [];
-    if (c.type !== 'meeting') {
+    {
       const hasFutureSub = items.some((i) => isSub(i.kind) && i.t >= now);
       const withSubs = c.editions.filter((e) => (e.deadlines || []).some((d) => isSub(d.kind)));
       if (!hasFutureSub && withSubs.length) {
@@ -857,7 +857,7 @@
   }
   const TEMPLATE_HINT = [
     'id: new-conference   # rename the file to <id>.yml and use the same id here',
-    'name: ACRONYM', 'full_name: Full Conference Name', 'type: conference   # conference | workshop | industry | meeting',
+    'name: ACRONYM', 'full_name: Full Conference Name', 'type: conference   # conference | workshop | industry',
     'tier: minor        # top | major | minor | domestic', 'areas: [security]  # security crypto ai nlp data vision networking communications systems software general',
     'region: japan      # japan korea taiwan china southeast-asia south-asia asia-pacific oceania europe north-america worldwide ...',
     'organizer: ', 'proceedings: ', 'rank:', '  core:   # A*, A, B, C, Unranked', '  ccf:    # A, B, C',

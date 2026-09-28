@@ -1,5 +1,5 @@
 name: Add a conference
-description: Suggest a conference, workshop or domestic meeting. A bot turns this form into a pull request.
+description: Suggest a conference or workshop (domestic conferences too). A bot turns this form into a pull request.
 title: "[Add] "
 labels: [new-conference]
 body:
@@ -50,7 +50,7 @@ body:
     id: type
     attributes:
       label: Type
-      options: [conference, workshop, industry, meeting]
+      options: [conference, workshop, industry]
       default: 0
     validations:
       required: true

@@ -23,7 +23,7 @@ instead; a bot converts it into a pull request.
 | `name` | yes | Short name as people write it: `ICISSP`, `IEEE S&P` |
 | `full_name` | yes | Official full name |
 | `name_local` | no | Japanese / Korean / Chinese name for domestic venues |
-| `type` | yes | `conference`, `workshop` (co-located), `industry` (hacker or practitioner conference), `meeting` (recurring technical committee meeting such as an IEICE kenkyukai) |
+| `type` | yes | `conference`, `workshop` (co-located), `industry` (hacker or practitioner conference). Recurring society meetings such as IEICE/IPSJ kenkyukai are not listed; the site covers conferences only. |
 | `tier` | yes | `top` (flagship of its field, usually CORE A*), `major` (well-established and competitive, CORE A/B or CCF A/B), `minor` (smaller or regional, CORE C or unranked, high acceptance), `domestic` (national conference in a local language) |
 | `areas` | yes | Any of `security` (incl. privacy), `crypto`, `ai`, `nlp`, `data` (data mining, databases, web, knowledge graphs), `vision`, `networking` (incl. network management), `communications` (wireless, telecom, EE), `systems`, `software`, `general` (broad CS/EE) |
 | `region` | yes | Where it is usually held: `japan`, `korea`, `taiwan`, `china`, `southeast-asia`, `south-asia`, `asia-pacific` (rotates within Asia/Oceania), `oceania`, `europe`, `north-america`, `latin-america`, `middle-east`, `africa`, `worldwide` (rotates globally), `online` |
@@ -72,8 +72,6 @@ editions:
 Without `tz` the site assumes AoE (and 23:59 when `time` is missing too), the latest possible moment, and
 marks the deadline with "AoE?" so readers know the time zone was not stated. Use `status: tentative` for an
 edition whose dates are announced as tentative; the site labels its dates "tentative".
-For technical committee meetings (`type: meeting`) add each upcoming meeting as its own edition with a
-`label` such as `Nov 2026 meeting`.
 
 ## Writing notes
 

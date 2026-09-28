@@ -30,7 +30,7 @@ SITE = ROOT / "site"
 AREAS = ["security", "crypto", "ai", "nlp", "data", "vision", "networking",
          "communications", "systems", "software", "general"]
 TIERS = ["top", "major", "minor", "domestic"]
-TYPES = ["conference", "workshop", "industry", "meeting"]
+TYPES = ["conference", "workshop", "industry"]
 REGIONS = ["japan", "korea", "taiwan", "china", "southeast-asia", "south-asia", "asia-pacific",
            "oceania", "europe", "north-america", "latin-america", "middle-east", "africa",
            "worldwide", "online"]
