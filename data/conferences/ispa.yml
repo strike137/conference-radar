@@ -56,10 +56,17 @@ editions:
   deadlines:
   - kind: submission
     date: 2026-09-30
-    label: Paper submission (per WikiCFP)
+    tz: AoE
+    label: Regular paper submission
   - kind: notification
     date: 2026-10-30
-    label: Per WikiCFP
+    label: Author notification
+  - kind: other
+    date: 2026-11-30
+    label: Paper registration
+  - kind: camera_ready
+    date: 2026-11-30
+    label: Camera-ready
 sources:
 - https://web.archive.org/web/2026/http://www.ieee-ai-for-science.org/2025/ispa/
 - https://web.archive.org/web/2025/https://ieee-ai-for-science.org/2025/

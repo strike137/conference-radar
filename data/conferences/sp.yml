@@ -100,6 +100,8 @@ editions:
     label: First deadline
   - kind: camera_ready
     date: 2026-10-16
+    time: '23:59'
+    tz: AoE
     label: First deadline
   - kind: abstract
     date: 2026-11-10
@@ -119,6 +121,8 @@ editions:
     label: Second deadline
   - kind: camera_ready
     date: 2027-04-08
+    time: '23:59'
+    tz: AoE
     label: Second deadline
 sources:
 - https://sp2027.ieee-security.org/

@@ -95,33 +95,57 @@ editions:
     time: '23:59'
     tz: AoE
     label: TCHES 2027/1
+  - kind: other
+    date: 2026-08-23
+    label: TCHES 2027/1 rebuttal period (until 2026-08-28)
   - kind: notification
     date: 2026-09-15
     label: TCHES 2027/1 notification
+  - kind: camera_ready
+    date: 2026-10-14
+    label: TCHES 2027/1 camera-ready
   - kind: submission
     date: 2026-10-15
     time: '23:59'
     tz: AoE
     label: TCHES 2027/2
+  - kind: other
+    date: 2026-11-23
+    label: TCHES 2027/2 rebuttal period (until 2026-11-28)
   - kind: notification
     date: 2026-12-15
     label: TCHES 2027/2 notification
+  - kind: camera_ready
+    date: 2027-01-14
+    label: TCHES 2027/2 camera-ready
   - kind: submission
     date: 2027-01-15
     time: '23:59'
     tz: AoE
     label: TCHES 2027/3
+  - kind: other
+    date: 2027-02-23
+    label: TCHES 2027/3 rebuttal period (until 2027-02-28)
   - kind: notification
     date: 2027-03-15
     label: TCHES 2027/3 notification
+  - kind: camera_ready
+    date: 2027-04-14
+    label: TCHES 2027/3 camera-ready
   - kind: submission
     date: 2027-04-15
     time: '23:59'
     tz: AoE
     label: TCHES 2027/4
+  - kind: other
+    date: 2027-05-23
+    label: TCHES 2027/4 rebuttal period (until 2027-05-28)
   - kind: notification
     date: 2027-06-15
     label: TCHES 2027/4 notification
+  - kind: camera_ready
+    date: 2027-07-14
+    label: TCHES 2027/4 camera-ready
 sources:
 - https://ches.iacr.org/2027/
 - https://ches.iacr.org/2027/callforpapers.php

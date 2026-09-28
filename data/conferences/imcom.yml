@@ -76,15 +76,33 @@ editions:
     label: Round 2
   - kind: notification
     date: 2026-10-15
+    time: '23:59'
+    tz: EST
     label: Round 1
+  - kind: other
+    date: 2026-10-31
+    time: '23:59'
+    tz: EST
+    label: Paper registration, Round 1
   - kind: camera_ready
     date: 2026-11-15
+    time: '23:59'
+    tz: EST
     label: Round 1
   - kind: notification
     date: 2026-11-20
+    time: '23:59'
+    tz: EST
     label: Round 2
+  - kind: other
+    date: 2026-11-30
+    time: '23:59'
+    tz: EST
+    label: Paper registration, Round 2
   - kind: camera_ready
     date: 2026-11-30
+    time: '23:59'
+    tz: EST
     label: Round 2
 sources:
 - https://www.imcom.org/gnu/home.html

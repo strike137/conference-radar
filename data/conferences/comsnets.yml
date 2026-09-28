@@ -73,40 +73,47 @@ editions:
     label: Main conference (extended, hard deadline, 5:00 PM IST)
   - kind: submission
     date: 2026-10-16
+    tz: AoE
     label: Workshops
   - kind: notification
     date: 2026-11-05
     label: Main conference
   - kind: submission
-    date: 2026-11-08
+    date: 2026-11-09
+    tz: AoE
     label: Graduate forum
   - kind: submission
     date: 2026-11-10
+    tz: AoE
     label: Demos and exhibits
   - kind: submission
     date: 2026-11-12
     label: Posters
   - kind: notification
     date: 2026-11-15
+    tz: AoE
     label: Workshops
   - kind: camera_ready
     date: 2026-11-15
     label: Main conference
   - kind: camera_ready
     date: 2026-11-30
+    tz: AoE
     label: Workshops
   - kind: notification
     date: 2026-12-05
     label: Posters, demos and exhibits
   - kind: notification
-    date: 2026-12-06
+    date: 2026-12-07
+    tz: AoE
+    label: Graduate forum
+  - kind: camera_ready
+    date: 2026-12-14
+    tz: AoE
     label: Graduate forum
   - kind: camera_ready
     date: 2026-12-15
     label: Posters, demos and exhibits
-  - kind: camera_ready
-    date: 2026-12-16
-    label: Graduate forum
 sources:
 - https://www.comsnets.org/
 - https://www.comsnets.org/call_for_papers

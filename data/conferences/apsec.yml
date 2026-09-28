@@ -86,10 +86,25 @@ editions:
   - kind: submission
     date: 2026-10-05
     tz: AoE
+    label: Doctoral Symposium
+  - kind: submission
+    date: 2026-10-05
+    tz: UTC+8
+    label: Local Student Forum (students in Indonesia)
+  - kind: notification
+    date: 2026-10-12
+    label: Tool demo and posters
+  - kind: notification
+    date: 2026-10-19
     label: Doctoral Symposium and Local Student Forum
   - kind: camera_ready
     date: 2026-10-19
+    tz: AoE
     label: Technical, ERA and SEIP tracks
+  - kind: camera_ready
+    date: 2026-10-31
+    tz: AoE
+    label: Tool demo and posters
 sources:
 - https://conf.researchr.org/home/apsec-2026
 - https://conf.researchr.org/track/apsec-2026/apsec-2026-technical-track
