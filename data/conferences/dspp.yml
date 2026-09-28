@@ -1,0 +1,88 @@
+id: dspp
+name: DSPP
+full_name: International Conference on Data Security and Privacy Protection
+type: conference
+tier: minor
+areas: [security, crypto, data]
+region: china
+language: english
+frequency: annual
+organizer: Steering committee from Xidian University, NUAA and Swinburne University; 2026 hosted by Nanjing University
+  of Aeronautics and Astronautics
+organizer_country: [china]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: Unranked
+acceptance_rate: 45% (2025, 47/105 including 11 short papers)
+fee: 700 USD or 4500 CNY author registration; 350 USD attendee (2026)
+typical:
+  deadline_months: [3, 4, 6, 8]
+  conference_months: [10, 11]
+links:
+  website: http://www.dspp2026.com/
+notes:
+- 'Young conference: first edition 2023 in Xi''an (IEEE proceedings), Springer LNCS proceedings from 2024'
+- Held in Xi'an (Xidian University) 2023 to 2025, moved to Nanjing (NUAA) for 2026
+- Anonymous submission, up to 16 pages in LNCS format; papers can be presented online or in person
+- 2024 and 2025 had two submission rounds (spring and early summer); 2026 had a single August deadline
+- Acceptance rate about 45% (2025, 47/105); 2026 honorary chairs are Elisa Bertino and Moti Yung
+editions:
+- year: 2025
+  start: 2025-10-16
+  end: 2025-10-18
+  location: Xi'an, China
+  url: https://dspp2025.xidian.edu.cn/
+  deadlines:
+  - kind: submission
+    date: 2025-04-15
+    time: '23:59'
+    tz: UTC-8
+    label: First round
+  - kind: notification
+    date: 2025-05-31
+    label: First round notification
+  - kind: submission
+    date: 2025-06-30
+    time: '23:59'
+    tz: UTC-8
+    label: Second round
+  - kind: notification
+    date: 2025-08-12
+    label: Second round notification
+  - kind: camera_ready
+    date: 2025-08-21
+    label: Camera-ready
+  - kind: other
+    date: 2025-09-15
+    label: Author registration due
+- year: 2026
+  start: 2026-11-06
+  end: 2026-11-08
+  location: Nanjing, China
+  url: http://www.dspp2026.com/
+  deadlines:
+  - kind: submission
+    date: 2026-08-22
+    time: '23:59'
+    tz: UTC+8
+    label: Paper submission
+  - kind: notification
+    date: 2026-09-22
+    label: Author notification
+sources:
+- http://www.dspp2026.com/
+- https://dspp2025.xidian.edu.cn/
+- https://dspp2024.xidian.edu.cn/
+- https://link.springer.com/book/10.1007/978-981-95-3182-0
+- https://doi.org/10.1109/dspp58763.2023
+- 'https://api.crossref.org (Springer ConferenceInfo for DSPP 2024: Xi''an Oct 25-28; DSPP 2025: Xi''an Oct 16-18,
+  3rd edition)'
+- https://portal.core.edu.au/conf-ranks/?search=DSPP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 2026 author registration deadline (homepage says Oct 8, registration section says Sep 18)
+- Springer LNCS forthcoming list (19 Aug 2026) still shows DSPP 2026 as 16-18 October in Nanjing; the official site
+  says 6-8 November
+- 2025 deadline time zone is printed as UTC-8 on the 2025 site (possibly a typo for UTC+8)
+- DBLP venue page
+last_verified: 2026-09-28

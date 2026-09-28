@@ -1,0 +1,95 @@
+id: asianhost
+name: AsianHOST
+full_name: Asian Hardware Oriented Security and Trust Symposium
+type: conference
+tier: minor
+areas: [security, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: 'Sponsored by IEEE CEDA and HSTTC; local host changes each year (2026: IIT Kharagpur)'
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP, IEEE Xplore]
+rank:
+  core: Unranked
+fee: 500 USD IEEE member, 600 USD non-member, 150 USD IEEE student member (2025, early registration)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [12]
+links:
+  website: https://www.asianhost.org/2026/
+  dblp: https://dblp.org/db/conf/asianhost/index.html
+notes:
+- Asia-Pacific counterpart of IEEE HOST; aims to build the hardware security community in Asia and the Pacific
+- 'Held every December in a different Asian city: 2022 Singapore (hybrid), 2023 Tianjin, 2024 Kobe, 2025 Nanjing,
+  2026 Kolkata'
+- 6-page IEEE double-column papers with anonymous (double-blind) submission; selected 4-page short papers go to
+  a poster session; PhD forum
+- Proceedings in IEEE Xplore; best paper award is reserved for papers whose first author is a full-time student
+- 'Deadline in mid or late July, usually extended once or twice into August (2023: Jul 24 -> Aug 14; 2026: Jul 14
+  -> Aug 9)'
+editions:
+- year: 2025
+  start: 2025-12-19
+  end: 2025-12-21
+  location: Nanjing, China
+  url: https://www.asianhost.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-14
+    time: '23:59'
+    tz: UTC+8
+    label: Paper submission (original)
+  - kind: submission
+    date: 2025-07-28
+    time: '23:59'
+    tz: UTC+8
+    label: Paper submission (first extension)
+  - kind: submission
+    date: 2025-08-04
+    time: '23:59'
+    tz: UTC+8
+    label: Paper submission (final extension)
+  - kind: notification
+    date: 2025-09-11
+    label: Acceptance notification
+- year: 2026
+  start: 2026-12-11
+  end: 2026-12-13
+  location: Kolkata, India
+  url: https://www.asianhost.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-14
+    label: Paper submission (original)
+  - kind: submission
+    date: 2026-07-28
+    label: Paper submission (first extension)
+  - kind: submission
+    date: 2026-08-09
+    label: Paper submission (final extension)
+  - kind: notification
+    date: 2026-09-13
+    label: Acceptance notification (moved from Sep 4)
+  - kind: camera_ready
+    date: 2026-10-30
+    label: Camera-ready
+sources:
+- https://www.asianhost.org/2026/
+- https://www.asianhost.org/2026/authors.htm
+- https://www.asianhost.org/2026/registration.htm
+- https://www.asianhost.org/2025/
+- https://www.asianhost.org/2025/registration.htm
+- https://www.asianhost.org/2025/authors.htm
+- https://www.asianhost.org/2024/
+- https://www.asianhost.org/2023/
+- https://www.asianhost.org/2022/
+- https://portal.core.edu.au/conf-ranks/?search=AsianHOST&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- '2026 deadline time zone: homepage says 23:59:59 CST, CFP/author page says AoE'
+- 2025 camera-ready date (homepage says Oct 30, author page says Oct 31)
+- 2026 registration fees (page says TBA)
+- Acceptance rate
+last_verified: 2026-09-28

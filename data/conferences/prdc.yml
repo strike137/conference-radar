@@ -1,0 +1,91 @@
+id: prdc
+name: PRDC
+full_name: IEEE Pacific Rim International Symposium on Dependable Computing
+type: conference
+tier: minor
+areas: [systems, software, security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE Computer Society (dependable computing and fault tolerance community)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://prdc.dependability.org/PRDC2025/
+  dblp: https://dblp.org/db/conf/prdc/index.html
+  wikicfp: http://www.wikicfp.com/cfp/servlet/tool.search?q=PRDC&year=a
+notes:
+- Dependability and fault-tolerance symposium that grew out of the Pacific Rim International Symposium on Fault-Tolerant
+  Systems (1991 edition in Kawasaki); 2025 was the 30th edition
+- 'Pacific Rim sibling of DSN, EDCC and LADC in the dependability community; rotates around the Pacific Rim: 2022
+  Beijing (hybrid), 2023 Singapore, 2024 Osaka, 2025 Seoul'
+- CORE rank dropped from B (CORE2021) to C (CORE2023 and ICORE2026); not in the CCF list
+- Regular papers plus industry track, fast abstracts and co-located workshops; proceedings in IEEE Xplore
+- Paper deadline in July; in 2025 it was extended several times, finally to Aug 30; conference in October or November
+editions:
+- year: 2025
+  start: 2025-11-03
+  end: 2025-11-05
+  location: Seoul, South Korea
+  url: https://prdc.dependability.org/PRDC2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-11
+    time: '23:59'
+    tz: AoE
+    label: Regular papers, abstract (original)
+  - kind: submission
+    date: 2025-07-25
+    time: '23:59'
+    tz: AoE
+    label: Regular papers (original)
+  - kind: submission
+    date: 2025-08-15
+    time: '23:59'
+    tz: AoE
+    label: Regular papers (extended)
+  - kind: submission
+    date: 2025-08-30
+    time: '23:59'
+    tz: AoE
+    label: Regular papers and abstracts (final extension)
+  - kind: camera_ready
+    date: 2025-09-26
+    label: Regular papers camera-ready
+  - kind: submission
+    date: 2025-10-04
+    time: '23:59'
+    tz: AoE
+    label: AID'25 workshop (final extension)
+  - kind: submission
+    date: 2025-10-07
+    time: '23:59'
+    tz: AoE
+    label: Industry track and fast abstracts (final extension)
+sources:
+- https://prdc.dependability.org/PRDC2025/ (live site refused connections on 2026-09-28)
+- https://web.archive.org/web/20250710091203/http://prdc.dependability.org/PRDC2025/
+- https://web.archive.org/web/20250815130042/https://prdc.dependability.org/PRDC2025/
+- https://web.archive.org/web/20251003031806/https://prdc.dependability.org/PRDC2025/index.html
+- https://doi.org/10.1109/prdc67299.2025
+- https://doi.org/10.1109/prdc63035.2024
+- https://doi.org/10.1109/prdc59308.2023
+- https://doi.org/10.1109/rfts.1991
+- http://www.wikicfp.com/cfp/servlet/tool.search?q=PRDC&year=a
+- https://portal.core.edu.au/conf-ranks/?search=PRDC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=PRDC&by=all&source=CORE2021&sort=atitle&page=1
+unverified:
+- 'PRDC 2026 dates and location: official site prdc.dependability.org refused connections on 2026-09-28, no PRDC2026
+  page in the Web Archive, and no announcement found elsewhere'
+- Final 2025 notification date after the Aug 30 extension (Aug 15 capture still showed Aug 29)
+- Acceptance rate and registration fees
+- Exact sponsoring IEEE technical committee
+- Year of the very first edition (1989 is implied by the edition count but not confirmed)
+last_verified: 2026-09-28

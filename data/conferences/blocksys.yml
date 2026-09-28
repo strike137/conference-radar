@@ -1,0 +1,66 @@
+id: blocksys
+name: BlockSys
+full_name: International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems
+type: conference
+tier: minor
+areas: [security, ai, systems]
+region: china
+language: english
+frequency: annual
+organizer: Steering committee from Sun Yat-sen University, HKBU, PolyU and UESTC; 2026 hosted by UESTC
+organizer_country: [china]
+proceedings: Springer CCIS
+archival: true
+indexing: [DBLP, EI, Scopus]
+rank:
+  core: Unranked
+  ccf: C
+acceptance_rate: 43% (2025, 110/254)
+typical:
+  deadline_months: [3, 4, 12]
+  conference_months: [5, 7]
+links:
+  website: http://blocksys.info/2026/
+  dblp: https://dblp.org/db/conf/blocksys/index.html
+notes:
+- CCF C conference (network and information security, CCF 2026 list); not ranked by CORE
+- 'Held in China every year: 2023 Haikou, 2024 Hangzhou, 2025 Zhuhai, 2026 Chengdu (Dujiangyan), 2027 Guangzhou'
+- Proceedings in Springer CCIS (three volumes, 110 papers in 2025); acceptance rate around 43%
+- Called the International Conference on Blockchain and Trustworthy Systems up to 2024 (2024 proceedings titled
+  Blockchain, Metaverse and Trustworthy Systems); AI added to the name from 2025
+- 2025 used two submission rounds (Dec and Mar); 2026 had a single April deadline
+editions:
+- year: 2026
+  start: 2026-07-29
+  end: 2026-07-31
+  location: Chengdu, China
+  url: http://blocksys.info/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-20
+    label: Paper submission
+  - kind: notification
+    date: 2026-06-15
+    label: Notification (between May 30 and Jun 15)
+- year: 2027
+  location: Guangzhou, China
+  url: http://blocksys.info/2027/
+  status: tentative
+  deadlines: []
+sources:
+- http://blocksys.info/2026/
+- http://blocksys.info/2026/call-for-papers/
+- http://blocksys.info/2026/history/
+- http://blocksys.info/2026/attending/
+- http://blocksys.info/2026/organizing-committee/
+- http://blocksys.info/2027/
+- http://blocksys.info/2027/call-for-papers/
+- http://blocksys.info/2025/call-for-papers/
+- https://link.springer.com/book/10.1007/978-981-95-3477-7
+- 'https://api.crossref.org (Springer ConferenceInfo: BlockSys 2023 and 2024 named International Conference on Blockchain
+  and Trustworthy Systems)'
+unverified:
+- 2027 dates and deadlines (home page says TBD; CFP page posted 2026-09-27 still leaves the dates blank)
+- Registration fee
+- Deadline time zone (ccf-deadlines lists UTC+8 but the CFP does not state it)
+last_verified: 2026-09-28
