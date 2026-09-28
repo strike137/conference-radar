@@ -1,0 +1,88 @@
+id: wi-iat
+name: WI-IAT
+full_name: IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology
+type: conference
+tier: major
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Web Intelligence Consortium (WIC) and IEEE Computer Society (TCII)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: B
+fee: About 1,640 AUD (2026, author registration, IEEE member); 1,980 AUD non-member
+typical:
+  deadline_months: [7]
+  conference_months: [11, 12]
+links:
+  website: https://www.wi-iat.com/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192526
+notes:
+- Series started in 2001 in Maebashi, Japan; ran as WI only from 2016 to 2019, joint WI-IAT brand resumed in 2020
+- Rotates worldwide (London 2025, Brisbane 2026); hybrid format; 2026 edition held in conjunction with Brain Informatics
+  2026
+- CORE lists it as WI (rank B); not in the CCF list
+- Single-blind review; long papers up to 8 pages in IEEE format, with at most 2 paid extra pages (165 AUD per page
+  in 2026)
+- Proceedings in IEEE Xplore; selected papers invited to the Web Intelligence journal and other journals
+editions:
+- year: 2025
+  start: 2025-11-15
+  end: 2025-11-18
+  location: London, United Kingdom
+  url: https://www.wi-iat.com/wi-iat2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-07-25
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2025-08-20
+    tz: AoE
+    label: Workshop/special session proposals
+  - kind: notification
+    date: 2025-09-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-20
+    tz: AoE
+- year: 2026
+  start: 2026-12-03
+  end: 2026-12-06
+  location: Brisbane, Australia
+  url: https://www.wi-iat.com/wi-iat2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    tz: AoE
+    label: Full papers (extended)
+  - kind: other
+    date: 2026-07-15
+    tz: AoE
+    label: Workshop/special session proposals
+  - kind: notification
+    date: 2026-08-31
+    tz: AoE
+  - kind: submission
+    date: 2026-09-17
+    label: Workshop and special session papers
+  - kind: camera_ready
+    date: 2026-09-30
+    tz: AoE
+    label: Camera-ready and author registration (extended)
+sources:
+- https://www.wi-iat.com/wi-iat2026/index.html
+- https://wi-iat.com/wi-iat2026/Registration.html
+- https://www.wi-iat.com/wi-iat2025/index.html
+- https://portal.core.edu.au/conf-ranks/?search=Web%20Intelligence&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192526
+unverified:
+- Original (pre-extension) 2026 full paper deadline
+- Short and workshop paper page limits for 2026 (homepage says 4 pages each; registration page says 5 and 6 pages)
+- Acceptance rate
+- dblp key 'webi' not rechecked (dblp was not reachable)
+last_verified: 2026-09-28

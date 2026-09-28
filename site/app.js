@@ -15,7 +15,14 @@
     europe: 'Europe', 'north-america': 'North America', 'latin-america': 'Latin America',
     'middle-east': 'Middle East', africa: 'Africa', worldwide: 'Worldwide (rotating)', online: 'Online',
   };
+  const ORG = {
+    japan: 'Japan', korea: 'Korea', taiwan: 'Taiwan', china: 'China', singapore: 'Singapore', india: 'India',
+    vietnam: 'Vietnam', thailand: 'Thailand', indonesia: 'Indonesia', malaysia: 'Malaysia', philippines: 'Philippines',
+    australia: 'Australia', 'new-zealand': 'New Zealand', usa: 'USA', canada: 'Canada', europe: 'Europe',
+    international: 'International', other: 'Other',
+  };
   const ASIA = new Set(['japan', 'korea', 'taiwan', 'china', 'southeast-asia', 'south-asia', 'asia-pacific']);
+  const ASIA_ORG = new Set(['japan', 'korea', 'taiwan', 'china', 'singapore', 'india', 'vietnam', 'thailand', 'indonesia', 'malaysia', 'philippines']);
   const CORE_ORDER = { 'A*': 0, A: 1, B: 2, C: 3, National: 4, Regional: 5, Unranked: 6 };
   const CCF_ORDER = { A: 0, B: 1, C: 2 };
   const KIND = { abstract: 'Abstract', submission: 'Paper', notification: 'Notification', camera_ready: 'Camera-ready', other: 'Other' };
@@ -35,7 +42,9 @@
     ['ndss', 'NDSS', /\bNDSS\b|Internet Society/], ['iacr', 'IACR', /\bIACR\b/], ['aaai', 'AAAI', /\bAAAI\b/],
     ['ijcai', 'IJCAI', /\bIJCAI\b/], ['neurips', 'NeurIPS', /NeurIPS/], ['elsevier', 'Elsevier', /Elsevier/i],
     ['ios', 'IOS Press', /IOS Press/i], ['siam', 'SIAM', /\bSIAM\b/], ['isca', 'ISCA', /\bISCA\b/],
-    ['ieice', 'IEICE', /\bIEICE\b/], ['ipsj', 'IPSJ', /\bIPSJ\b/], ['iaria', 'IARIA', /\bIARIA\b/],
+    ['jstage', 'J-STAGE', /J-STAGE/i], ['ipsjdl', 'IPSJ Digital Library', /IPSJ Digital Library|Joho Gakkai Hiroba/i],
+    ['anlp', 'ANLP website', /\bANLP\b/], ['ieice', 'IEICE', /\bIEICE\b/], ['ipsj', 'IPSJ', /\bIPSJ\b/],
+    ['iaria', 'IARIA', /\bIARIA\b/],
   ];
   const SERIES = /\b(LNCS|LNAI|CCIS|LNICST|LNDECT|AICT)\b/;
   const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -112,7 +121,7 @@
 
   // ---------------------------------------------------------------- state
   const DEFAULT_FILTERS = () => ({
-    q: '', areas: new Set(), tiers: new Set(), types: new Set(), region: '', core: '', ccf: '', proc: '',
+    q: '', areas: new Set(), tiers: new Set(), types: new Set(), region: '', org: '', core: '', ccf: '', proc: '',
     dlFrom: '', dlTo: '', cfFrom: '', cfTo: '', within: 0, est: true, upcoming: false,
   });
   const now0 = Date.now();
@@ -135,6 +144,7 @@
   function prepare(c) {
     c.areas = c.areas || []; c.notes = c.notes || []; c.editions = c.editions || [];
     c.rank = c.rank || {}; c.typical = c.typical || {}; c.links = c.links || {}; c.sources = c.sources || [];
+    c.organizer_country = c.organizer_country || [];
     const step = c.frequency === 'biennial' ? 2 : 1;
     const now = state.now;
     const items = [];
@@ -188,20 +198,25 @@
     c._proc = procInfo(c);
     const locs = c.editions.map((e) => e.location).filter(Boolean).join(' ');
     c._hay = [c.id, c.name, c.full_name, c.name_local, c.organizer, c.proceedings, locs, REGIONS[c.region],
-      c.areas.map((a) => AREAS[a]).join(' '), c.notes.join(' '), (c.indexing || []).join(' ')].join(' \u0001 ').toLowerCase();
+      c.areas.map((a) => AREAS[a]).join(' '), c.notes.join(' '), (c.indexing || []).join(' '),
+      c.organizer_country.map((o) => ORG[o]).join(' ')].join(' \u0001 ').toLowerCase();
   }
 
+  // has: papers are published somewhere (even if not peer-reviewed); refereed: not marked archival: false.
   function procInfo(c) {
     const raw = c.proceedings || '';
-    if (c.archival === false || /^none\b/i.test(raw)) return { has: false, keys: [], label: 'None', raw: raw || 'Non-archival' };
     if (!raw) return { has: null, keys: [], label: '', raw: '' };
-    const hits = PUBS.filter(([, , re]) => re.test(raw));
+    if (/^none\b/i.test(raw)) {
+      return { has: false, keys: [], label: /participants only/i.test(raw) ? 'Participants only' : 'None', raw };
+    }
+    const hits = PUBS.filter(([, , re]) => re.test(raw)).filter(([k], i, all) => !(k === 'ipsj' && all.some(([x]) => x === 'ipsjdl')));
     const keys = hits.map(([k]) => k);
     const series = SERIES.exec(raw);
     const names = hits.map(([k, name]) => (k === 'springer' && series ? `Springer ${series[1]}`
       : k === 'ieee' && /Xplore/i.test(raw) ? 'IEEE Xplore' : k === 'acm' && /\bDL\b|Digital Library/.test(raw) ? 'ACM DL' : name));
-    const label = names.length ? names.slice(0, 2).join(' / ') : raw.split(/\s*[(;,]\s*/)[0].slice(0, 32);
-    return { has: true, keys: keys.length ? keys : ['other'], label, raw, lncs: /\bLNCS\b/.test(raw) };
+    let label = names.length ? names.slice(0, 2).join(' / ') : raw.split(/\s*[(;,]\s*/)[0];
+    if (label.length > 30) label = `${label.slice(0, 30).replace(/\s+\S*$/, '')}\u2026`;
+    return { has: true, refereed: c.archival !== false, keys: keys.length ? keys : ['other'], label, raw, lncs: /\bLNCS\b/.test(raw) };
   }
 
   // Nearest month in `months` that has not ended yet (end of month, AoE).
@@ -271,12 +286,18 @@
       else if (f.core === 'none' && o <= 3) return false;
       else if (['A*', 'A', 'B', 'C'].includes(f.core) && core !== f.core) return false;
     }
+    if (f.org) {
+      if (f.org === 'asia') { if (!c.organizer_country.some((o) => ASIA_ORG.has(o))) return false; }
+      else if (!c.organizer_country.includes(f.org)) return false;
+    }
     if (f.proc) {
       const p = c._proc;
       if (f.proc === 'yes' && p.has !== true) return false;
+      else if (f.proc === 'refereed' && !(p.has === true && p.refereed)) return false;
+      else if (f.proc === 'nonref' && !(p.has === true && !p.refereed)) return false;
       else if (f.proc === 'no' && p.has !== false) return false;
       else if (f.proc === 'lncs' && !p.lncs) return false;
-      else if (!['yes', 'no', 'lncs'].includes(f.proc) && !p.keys.includes(f.proc)) return false;
+      else if (!['yes', 'refereed', 'nonref', 'no', 'lncs'].includes(f.proc) && !p.keys.includes(f.proc)) return false;
     }
     const ccf = c.rank.ccf;
     if (f.ccf) {
@@ -303,6 +324,7 @@
       case 'core': return coreOrder(c.rank.core);
       case 'ccf': return c.rank.ccf in CCF_ORDER ? CCF_ORDER[c.rank.ccf] : 99;
       case 'region': return (REGIONS[c.region] || 'zz').toLowerCase();
+      case 'org': return c.organizer_country.length ? c.organizer_country.map((o) => ORG[o]).join('+').toLowerCase() : '~~~';
       case 'proc': return c._proc.has === true ? c._proc.label.toLowerCase() : c._proc.has === false ? '~~none' : '~~~';
       case 'conf': { const i = shownConf(c); return i ? i.t : Infinity; }
       default: {
@@ -358,11 +380,15 @@
   // ---------------------------------------------------------------- rendering helpers
   function tierBadge(c) { return `<span class="badge tier-${esc(c.tier)}">${esc(TIERS[c.tier] || c.tier)}</span>`; }
   function typeBadge(c) { return c.type && c.type !== 'conference' ? ` <span class="badge type-badge">${esc(TYPES[c.type] || c.type)}</span>` : ''; }
+  function orgCell(c) {
+    if (!c.organizer_country.length) return '<span class="rank none" title="not recorded">&middot;</span>';
+    return `<span class="org" title="${esc(c.organizer || '')}">${c.organizer_country.map((o) => esc(ORG[o] || o)).join(' + ')}</span>`;
+  }
   function procCell(c) {
     const p = c._proc;
-    if (p.has === false) return `<span class="proc none" title="${esc(p.raw)}">None</span><div class="sub">non-archival</div>`;
+    if (p.has === false) return `<span class="proc none" title="${esc(p.raw)}">${esc(p.label)}</span>`;
     if (p.has === null) return '<span class="rank none" title="not recorded">&middot;</span>';
-    return `<span class="proc" title="${esc(p.raw)}">${esc(p.label)}</span>`;
+    return `<span class="proc" title="${esc(p.raw)}">${esc(p.label)}</span>${p.refereed ? '' : '<div class="sub">not peer-reviewed</div>'}`;
   }
   function rankCell(v, title) { return v ? `<span class="rank" title="${esc(title)}">${esc(v)}</span>` : `<span class="rank none" title="not listed">&middot;</span>`; }
   function deadlineHTML(it) {
@@ -418,9 +444,9 @@
         `<td><ul class="dl-list">${(ed.deadlines || []).map((d) => deadlineLi(d, ed)).join('')}</ul></td></tr>`;
     }
     const facts = [
-      ['Organizer', c.organizer], ['Type', TYPES[c.type]], ['Region', REGIONS[c.region]], ['Language', LANG[c.language]],
+      ['Organizer', c.organizer], ['Run by', c.organizer_country.map((o) => ORG[o] || o).join(', ')], ['Type', TYPES[c.type]], ['Region', REGIONS[c.region]], ['Language', LANG[c.language]],
       ['Held', FREQ[c.frequency]],
-      ['Proceedings', c.proceedings ? `${c.proceedings}${c.archival === false && !/non-archival/i.test(c.proceedings) ? ' (non-archival)' : ''}` : (c.archival === false ? 'Non-archival' : '')],
+      ['Proceedings', c.proceedings ? `${c.proceedings}${c.archival === false && !/non-archival|not peer-reviewed|non-refereed/i.test(c.proceedings) ? ' (not peer-reviewed, non-archival)' : ''}` : (c.archival === false ? 'Non-archival' : '')],
       ['Indexing', (c.indexing || []).join(', ')],
       [`CORE`, c.rank.core ? `${c.rank.core} (${c.rank.core_source || state.meta.core_edition || 'CORE'})` : ''],
       [`CCF`, c.rank.ccf ? `${c.rank.ccf} (${state.meta.ccf_edition || 'CCF'})` : ''],
@@ -469,6 +495,7 @@
         <td class="name-cell"><button type="button" class="name-btn" aria-expanded="${open}"><span class="caret" aria-hidden="true">&#9654;</span><strong>${esc(c.name)}</strong>${typeBadge(c)}</button>
           <div class="full">${esc(c.full_name)}</div>${c.name_local ? `<div class="local">${esc(c.name_local)}</div>` : ''}</td>
         <td data-label="Tier">${tierBadge(c)}</td>
+        <td data-label="Run by">${orgCell(c)}</td>
         <td class="areas-cell" data-label="Areas"><div class="tags">${c.areas.map((a) => `<span class="tag">${esc(AREAS[a] || a)}</span>`).join('')}</div></td>
         <td data-label="CORE">${rankCell(c.rank.core, c.rank.core_source || state.meta.core_edition)}</td>
         <td data-label="CCF">${rankCell(c.rank.ccf, state.meta.ccf_edition)}</td>
@@ -477,7 +504,7 @@
         <td data-label="Conference">${confHTML(cf)}</td>
         <td data-label="Location">${locationHTML(c, cf)}</td>
       </tr>`);
-      if (open) rows.push(`<tr class="detail-row" data-for="${esc(c.id)}"><td colspan="9">${detailsHTML(c)}</td></tr>`);
+      if (open) rows.push(`<tr class="detail-row" data-for="${esc(c.id)}"><td colspan="10">${detailsHTML(c)}</td></tr>`);
     }
     $('#rows').innerHTML = rows.join('');
     $('#empty').hidden = list.length > 0;
@@ -645,7 +672,7 @@
     if (f.areas.size) p.set('area', [...f.areas].join(','));
     if (f.tiers.size) p.set('tier', [...f.tiers].join(','));
     if (f.types.size) p.set('type', [...f.types].join(','));
-    for (const [k, v] of [['region', f.region], ['core', f.core], ['ccf', f.ccf], ['proc', f.proc], ['dlf', f.dlFrom], ['dlt', f.dlTo], ['cff', f.cfFrom], ['cft', f.cfTo]]) if (v) p.set(k, v);
+    for (const [k, v] of [['region', f.region], ['org', f.org], ['core', f.core], ['ccf', f.ccf], ['proc', f.proc], ['dlf', f.dlFrom], ['dlt', f.dlTo], ['cff', f.cfFrom], ['cft', f.cfTo]]) if (v) p.set(k, v);
     if (f.within) p.set('within', String(f.within));
     if (!f.est) p.set('est', '0');
     if (f.upcoming) p.set('up', '1');
@@ -657,7 +684,7 @@
     const p = new URLSearchParams(location.search); const f = state.f;
     const set = (s) => new Set((s || '').split(',').filter(Boolean));
     f.q = p.get('q') || ''; f.areas = set(p.get('area')); f.tiers = set(p.get('tier')); f.types = set(p.get('type'));
-    f.region = p.get('region') || ''; f.core = p.get('core') || ''; f.ccf = p.get('ccf') || ''; f.proc = p.get('proc') || '';
+    f.region = p.get('region') || ''; f.org = p.get('org') || ''; f.core = p.get('core') || ''; f.ccf = p.get('ccf') || ''; f.proc = p.get('proc') || '';
     f.dlFrom = p.get('dlf') || ''; f.dlTo = p.get('dlt') || ''; f.cfFrom = p.get('cff') || ''; f.cfTo = p.get('cft') || '';
     f.within = [30, 90, 180].includes(Number(p.get('within'))) ? Number(p.get('within')) : 0;
     f.est = p.get('est') !== '0'; f.upcoming = p.get('up') === '1';
@@ -686,8 +713,16 @@
       .map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join('');
     $('#f-ccf').innerHTML = [['', 'Any'], ['A', 'A'], ['B', 'B'], ['C', 'C'], ['listed', 'Listed (A/B/C)'], ['none', 'Not listed']]
       .map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join('');
+    const oc = count((c) => c.organizer_country);
+    const asiaOrgN = state.all.filter((c) => c.organizer_country.some((o) => ASIA_ORG.has(o))).length;
+    $('#f-org').innerHTML = [['', 'Any'], ['asia', `Asian institutions (${asiaOrgN})`]]
+      .concat(Object.keys(ORG).filter((k) => oc.get(k)).map((k) => [k, `${ORG[k]} (${oc.get(k)})`]))
+      .map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join('');
     const pc = (fn) => state.all.filter((c) => fn(c._proc)).length;
-    $('#f-proc').innerHTML = [['', 'Any'], ['yes', `Has proceedings (${pc((p) => p.has === true)})`], ['no', `None, non-archival (${pc((p) => p.has === false)})`],
+    $('#f-proc').innerHTML = [['', 'Any'], ['yes', `Published proceedings (${pc((p) => p.has === true)})`],
+      ['refereed', `Peer-reviewed proceedings (${pc((p) => p.has === true && p.refereed)})`],
+      ['nonref', `Published but not peer-reviewed (${pc((p) => p.has === true && !p.refereed)})`],
+      ['no', `No public proceedings (${pc((p) => p.has === false)})`],
       ['ieee', `IEEE (${pc((p) => p.keys.includes('ieee'))})`], ['springer', `Springer (${pc((p) => p.keys.includes('springer'))})`],
       ['lncs', `Springer LNCS (${pc((p) => p.lncs)})`], ['acm', `ACM (${pc((p) => p.keys.includes('acm'))})`],
       ['acl', `ACL Anthology (${pc((p) => p.keys.includes('acl'))})`], ['other', `Other publishers (${pc((p) => p.keys.includes('other'))})`]]
@@ -698,13 +733,13 @@
   function syncControls() {
     const f = state.f;
     const q = $('#q'); if (document.activeElement !== q && q.value.trim() !== f.q) q.value = f.q;
-    $('#f-region').value = f.region; $('#f-proc').value = f.proc; $('#f-core').value = f.core; $('#f-ccf').value = f.ccf;
+    $('#f-region').value = f.region; $('#f-proc').value = f.proc; $('#f-org').value = f.org; $('#f-core').value = f.core; $('#f-ccf').value = f.ccf;
     $('#dl-from').value = f.dlFrom; $('#dl-to').value = f.dlTo; $('#cf-from').value = f.cfFrom; $('#cf-to').value = f.cfTo;
     $('#opt-est').checked = f.est; $('#opt-upcoming').checked = f.upcoming;
     document.querySelectorAll('#dl-quick button').forEach((b) => b.setAttribute('aria-pressed', String(Number(b.dataset.days) === f.within)));
     const sortSel = $('#sort-sel'); const sv = `${state.sort.key}${state.sort.dir < 0 ? '-' : ''}`;
     sortSel.value = [...sortSel.options].some((o) => o.value === sv) ? sv : '';
-    const active = f.areas.size + f.tiers.size + f.types.size + [f.region, f.core, f.ccf, f.proc, f.dlFrom || f.dlTo || f.within, f.cfFrom || f.cfTo, f.upcoming, !f.est].filter(Boolean).length;
+    const active = f.areas.size + f.tiers.size + f.types.size + [f.region, f.org, f.core, f.ccf, f.proc, f.dlFrom || f.dlTo || f.within, f.cfFrom || f.cfTo, f.upcoming, !f.est].filter(Boolean).length;
     $('#filters-toggle').innerHTML = `Filters${active ? ` <span class="n">${active}</span>` : ''}`;
     document.querySelectorAll('.chip').forEach((b) => b.setAttribute('aria-pressed', String(f[b.dataset.group].has(b.dataset.key))));
     document.querySelectorAll('.tabs button').forEach((b) => { if (b.dataset.view === state.view) b.setAttribute('aria-current', 'page'); else b.removeAttribute('aria-current'); });
@@ -726,7 +761,7 @@
 
   function bind() {
     $('#q').addEventListener('input', (e) => { state.f.q = e.target.value.trim(); renderSoon(); });
-    for (const [id, key] of [['#f-region', 'region'], ['#f-core', 'core'], ['#f-ccf', 'ccf'], ['#f-proc', 'proc'], ['#dl-from', 'dlFrom'], ['#dl-to', 'dlTo'], ['#cf-from', 'cfFrom'], ['#cf-to', 'cfTo']]) {
+    for (const [id, key] of [['#f-region', 'region'], ['#f-org', 'org'], ['#f-core', 'core'], ['#f-ccf', 'ccf'], ['#f-proc', 'proc'], ['#dl-from', 'dlFrom'], ['#dl-to', 'dlTo'], ['#cf-from', 'cfFrom'], ['#cf-to', 'cfTo']]) {
       $(id).addEventListener('change', (e) => {
         state.f[key] = e.target.value;
         if (key === 'dlFrom' || key === 'dlTo') state.f.within = 0;
@@ -875,7 +910,7 @@
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       data = await res.json();
     } catch (err) {
-      $('#rows').innerHTML = `<tr><td colspan="9" class="empty">Could not load conferences.json (${esc(err.message)}). Run <code>python3 scripts/build.py --serve</code>.</td></tr>`;
+      $('#rows').innerHTML = `<tr><td colspan="10" class="empty">Could not load conferences.json (${esc(err.message)}). Run <code>python3 scripts/build.py --serve</code>.</td></tr>`;
       return;
     }
     state.meta = data.meta || {};

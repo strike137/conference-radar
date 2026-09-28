@@ -1,0 +1,70 @@
+id: cicai
+name: CICAI
+full_name: CAAI International Conference on Artificial Intelligence
+name_local: CAAI国际人工智能会议
+type: conference
+tier: minor
+areas: [ai]
+region: china
+language: english
+frequency: irregular
+organizer: Chinese Association for Artificial Intelligence (CAAI)
+organizer_country: [china]
+proceedings: Springer LNAI
+archival: true
+indexing: [EI]
+rank:
+  core: Unranked
+fee: 3,000 CNY per paper author (2023, covers up to 2 papers); 2,000 CNY attendee
+typical:
+  deadline_months: [5, 6]
+  conference_months: [6, 7, 8, 10]
+links:
+  website: https://cicai.caai.cn/
+notes:
+- Organized by the Chinese Association for Artificial Intelligence (CAAI); CAAI lists it as a class A recommended
+  conference
+- Editions in 2021 (Hangzhou, June), 2022 (Beijing, August), 2023 (Fuzhou, July) and 2026 (Zhejiang University Haining
+  International Campus, October); no 2024 or 2025 edition found
+- Double-blind review via OpenReview; English only, Springer single-column format, 10 pages plus 2 pages of references
+- Proceedings by Springer (2021 to 2023 volumes in the LNCS family, EI indexed per CAAI); outstanding papers recommended
+  to CAAI Transactions on Intelligence Technology
+editions:
+- year: 2023
+  start: 2023-07-22
+  end: 2023-07-23
+  location: Fuzhou, China
+  deadlines: []
+- year: 2026
+  start: 2026-10-17
+  end: 2026-10-19
+  location: Haining, China
+  url: https://cicai.caai.cn/
+  deadlines:
+  - kind: submission
+    date: 2026-06-08
+    label: Papers (extended from May 25)
+  - kind: notification
+    date: 2026-07-15
+  - kind: camera_ready
+    date: 2026-07-31
+  - kind: other
+    date: 2026-08-25
+    label: Early-bird registration
+sources:
+- https://cicai.caai.cn/
+- http://cicai.caai.cn/15967/list.html
+- http://cicai.caai.cn/15958/202601/11129.html
+- http://cicai.caai.cn/20710/list.html
+- https://www.caai.cn/site/content/5469.html
+- https://www.caai.cn/site/content/7847.html
+- https://link.springer.com/conference/cicai
+- https://api.crossref.org/works/10.1007/978-3-030-93046-2
+unverified:
+- Whether CICAI editions were held in 2024 or 2025 (Springer lists proceedings only through 2023)
+- CICAI 2023 submission deadlines
+- CICAI 2026 registration fee (site still shows 2023 fees)
+- Springer series for the 2026 proceedings
+- LNAI sublibrary label (Crossref shows the 2021 to 2023 volumes under Lecture Notes in Computer Science)
+- Acceptance rate
+last_verified: 2026-09-28

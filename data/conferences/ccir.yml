@@ -1,0 +1,57 @@
+id: ccir
+name: CCIR
+full_name: China Conference on Information Retrieval
+name_local: 全国信息检索学术会议
+type: conference
+tier: domestic
+areas: [data, nlp]
+region: china
+language: mixed
+frequency: annual
+organizer: CIPS (Chinese Information Processing Society of China), Information Retrieval committee
+organizer_country: [china]
+proceedings: Springer LNCS (English track, revised selected papers)
+archival: true
+rank:
+  core: Unranked
+acceptance_rate: 69% for the English LNCS track (2025, 9/13); 42% (2024, 11/26)
+typical:
+  conference_months: [8, 9, 10]
+links:
+  website: https://link.springer.com/conference/ccir
+notes:
+- Main national IR meeting in China, run under CIPS; held in a different Chinese city each year (2022 Chongqing,
+  2024 Wuhan, 2025 Shihezi)
+- English-language papers go to a small Springer LNCS volume of revised selected papers (9 of 13 submissions accepted
+  in 2025, 11 of 26 in 2024)
+- Not in the CCF list and not CORE-ranked; mainly a domestic community event
+- No LNCS volume appears for 2023 in the Springer series listing
+editions:
+- year: 2024
+  label: 30th CCIR
+  start: 2024-10-18
+  end: 2024-10-20
+  location: Wuhan, China
+  url: https://link.springer.com/book/10.1007/978-981-96-1710-4
+  deadlines: []
+- year: 2025
+  label: 31st CCIR
+  start: 2025-08-15
+  end: 2025-08-17
+  location: Shihezi, China
+  url: http://www.cipsc.org.cn/ccir2025/
+  deadlines: []
+sources:
+- https://link.springer.com/conference/ccir
+- https://link.springer.com/book/10.1007/978-981-95-5637-3
+- https://link.springer.com/book/10.1007/978-981-96-1710-4
+- http://www.cipsc.org.cn/ccir2025/
+- https://portal.core.edu.au/conf-ranks/?search=CCIR&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Official CCIR site (cipsc.org.cn) blocks automated access (anti-bot challenge, then 403), so submission deadlines
+  for 2024 and 2025 could not be confirmed
+- CCIR 2026 (32nd) dates, location and deadlines not found
+- Chinese name (全国信息检索学术会议) and the existence of a separate Chinese-language track with journal publication are
+  from general knowledge, not from a fetched source
+- DBLP key not checked (DBLP blocked automated access)
+last_verified: 2026-09-28

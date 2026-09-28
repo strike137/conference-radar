@@ -1,0 +1,82 @@
+id: ccks
+name: CCKS
+full_name: China Conference on Knowledge Graph and Semantic Computing
+name_local: 全国知识图谱与语义计算大会
+type: conference
+tier: domestic
+areas: [data, nlp, ai]
+region: china
+language: mixed
+frequency: annual
+organizer: CIPS (Chinese Information Processing Society of China) Language and Knowledge Computing Committee
+organizer_country: [china]
+proceedings: Springer CCIS (English papers)
+archival: true
+rank:
+  core: Unranked
+fee: 2,100 CNY (2026, early, CIPS professional member, main conference); 1,900 CNY CIPS student member; 2,500 CNY
+  non-member
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9]
+links:
+  website: https://sigkg.cn/ccks2026/
+notes:
+- Organized by the CIPS Language and Knowledge Computing committee; formed in 2016 by merging CKGS and CSWS; 20th
+  edition (2026) hosted by Xi'an Jiaotong University
+- Accepts English papers (12 pages, Springer LNCS format) and Chinese papers (8 pages); English papers appear in
+  a Springer CCIS volume, Chinese papers are recommended to Chinese journals
+- Double-blind review for research and application papers, single-blind for open-resource papers; submission via
+  OpenReview
+- Program includes tutorials, shared evaluation tasks, industry and young scholar forums; the main domestic knowledge
+  graph venue in China
+editions:
+- year: 2025
+  start: 2025-09-19
+  end: 2025-09-21
+  location: Fuzhou, China
+  url: https://sigkg.cn/ccks2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: '23:59'
+    tz: UTC+8
+  - kind: notification
+    date: 2025-07-30
+    time: '23:59'
+    tz: UTC+8
+  - kind: camera_ready
+    date: 2025-08-10
+    time: '23:59'
+    tz: UTC+8
+- year: 2026
+  start: 2026-08-21
+  end: 2026-08-23
+  location: Xi'an, China
+  url: https://sigkg.cn/ccks2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-07
+    time: '23:59'
+    tz: UTC+8
+    label: Full papers (extended from May 30)
+  - kind: notification
+    date: 2026-06-30
+    time: '23:59'
+    tz: UTC+8
+  - kind: camera_ready
+    date: 2026-07-10
+    time: '23:59'
+    tz: UTC+8
+sources:
+- https://sigkg.cn/ccks2026/
+- https://sigkg.cn/ccks2026/%E8%AE%BA%E6%96%87%E5%BE%81%E9%9B%86/
+- https://sigkg.cn/ccks2026/%E6%B3%A8%E5%86%8C%E4%B8%8E%E9%82%80%E8%AF%B7%E5%87%BD/
+- https://sigkg.cn/ccks2025/
+- http://sigkg.cn/ccks2025/callpapers-en/
+- https://link.springer.com/conference/ccks
+- https://api.crossref.org/works?query.bibliographic=Knowledge+Graph+and+Semantic+Computing&filter=type:book,from-pub-date:2019&rows=15
+unverified:
+- CCKS 2027 location and dates
+- Acceptance rate
+last_verified: 2026-09-28

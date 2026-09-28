@@ -1,0 +1,106 @@
+id: iiai-aai
+name: IIAI AAI
+full_name: IIAI International Congress on Advanced Applied Informatics
+type: conference
+tier: minor
+areas: [ai, data, general]
+region: japan
+language: english
+frequency: multiple-per-year
+organizer: International Institute of Applied Informatics (IIAI)
+organizer_country: [japan]
+proceedings: IEEE CPS / IEEE Xplore (ICT papers) and IIAI Letters / IIAI OCPS (other papers)
+archival: true
+rank:
+  core: Unranked
+fee: 86,800 JPY (560 USD) non-member, 70,800 JPY (460 USD) student non-member (2026, early)
+typical:
+  deadline_months: [4, 10, 11]
+  conference_months: [7, 12]
+links:
+  website: https://iaiai.org/conference/aai2026/
+notes:
+- 'Umbrella congress run by IIAI: about nine small conferences in summer (ESKM, LTLE, DSIR, SCAI, BMOT, SBIT, IDDC,
+  DSTM, CDEF), four in the Winter edition (ESKM, LTLE, DSIR, SCAI)'
+- Summer congress in a Japanese regional city every July (2023 Koriyama, 2024 Takamatsu, 2025 Kitakyushu, 2026 Fukui);
+  a Winter edition in December elsewhere in Asia (2023 Bali, 2024 Jakarta after a move from Ho Chi Minh City, 2025
+  Phuket, 2026 Kaohsiung)
+- ICT papers (6 pages full, 4 short, 2 poster) go to CPS proceedings, which appear in IEEE Xplore (including 2025-Winter
+  and 2026); education and management papers go to IIAI Letters
+- Blind review; submission deadlines are often extended; registration is relatively expensive and every attendee
+  must register
+- Not ranked by CORE or CCF
+editions:
+- year: 2026
+  label: 20th IIAI AAI (summer)
+  start: 2026-07-12
+  end: 2026-07-17
+  location: Fukui, Japan
+  url: https://iaiai.org/conference/aai2026/
+  deadlines:
+  - kind: other
+    date: 2026-03-09
+    label: Workshop/special session proposals (2nd round)
+  - kind: submission
+    date: 2026-04-30
+    tz: PST
+    label: Full/short/poster papers (extended from Apr 15)
+  - kind: notification
+    date: 2026-05-18
+    tz: PST
+  - kind: camera_ready
+    date: 2026-05-30
+    tz: PST
+  - kind: other
+    date: 2026-05-30
+    tz: PST
+    label: Early registration
+- year: 2026
+  label: 21st IIAI AAI 2026-Winter
+  start: 2026-11-30
+  end: 2026-12-02
+  location: Kaohsiung, Taiwan
+  url: https://iaiai.org/conference/aai2026-winter/
+  deadlines:
+  - kind: other
+    date: 2026-09-05
+    tz: PST
+    label: Special session proposals
+  - kind: submission
+    date: 2026-10-05
+    tz: PST
+    label: Full/short/poster papers
+  - kind: notification
+    date: 2026-10-30
+    tz: PST
+  - kind: other
+    date: 2026-11-10
+    tz: PST
+    label: Early registration
+  - kind: camera_ready
+    date: 2026-12-10
+    tz: PST
+    label: ICT papers (post-proceedings)
+  - kind: camera_ready
+    date: 2026-12-31
+    tz: PST
+    label: INT papers (IIAI Letters)
+sources:
+- https://iaiai.org/conference/aai2026/
+- https://iaiai.org/conference/aai2026/paper-submission/
+- https://iaiai.org/conference/aai2026/registration/
+- https://iaiai.org/conference/aai2026-winter/
+- https://iaiai.org/conference/aai2026-winter/paper-submission/
+- https://iaiai.org/conference/aai2026-winter/past-conferences/
+- https://iaiai.org/conference/aai2024-winter/
+- https://iaiai.org/conference/aai2025-winter/
+- https://iaiai.org/conference/aai2025/
+- https://api.crossref.org/works/10.23919/iiai-aaicps00095.2026
+- https://api.crossref.org/works?query.bibliographic=International+Congress+on+Advanced+Applied+Informatics&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=IIAI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Acceptance rate not published
+- EI Compendex indexing is not guaranteed according to the organizers
+- IIAI AAI 2027 summer venue not yet announced (no aai2027 page as of 2026-09-28)
+- DBLP key not checked (DBLP blocked automated access)
+last_verified: 2026-09-28

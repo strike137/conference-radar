@@ -1,0 +1,64 @@
+id: tensymp
+name: IEEE TENSYMP
+full_name: IEEE Region 10 Symposium
+type: conference
+tier: minor
+areas: [general, communications, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: 'IEEE Region 10 (Asia-Pacific); hosted by a different IEEE section each year (2026: IEEE Malaysia Section)'
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+rank:
+  core: Unranked
+fee: 300 USD IEEE member / 400 USD non-member / 200 USD IEEE student member, early bird (2026)
+typical:
+  deadline_months: [3, 4, 5]
+  conference_months: [6, 7, 9]
+links:
+  website: https://ieeemy.org/tensymp2026/
+notes:
+- One of the flagship conferences of IEEE Region 10 (Asia-Pacific), alongside TENCON
+- 'Hosted by a different IEEE section each year: 2023 Canberra, 2024 Delhi, 2025 Christchurch, 2026 Penang'
+- Very broad scope (AI, communications, signal processing, power, biomedical, materials)
+- 5-page papers in IEEE Xplore, up to 3 extra pages at 50 USD each
+- Registration is cheap for an IEEE conference (300 USD early bird for IEEE members in 2026)
+editions:
+- year: 2025
+  start: 2025-07-07
+  end: 2025-07-09
+  location: Christchurch, New Zealand
+  deadlines: []
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-01
+  location: Penang, Malaysia
+  url: https://ieeemy.org/tensymp2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-15
+    label: Regular papers (extended from 2026-03-16)
+  - kind: submission
+    date: 2026-04-20
+    label: Workshop and special session papers
+  - kind: notification
+    date: 2026-05-15
+    label: Extended from 2026-04-30
+  - kind: camera_ready
+    date: 2026-05-31
+    label: Extended from 2026-05-20
+sources:
+- https://ieeemy.org/tensymp2026/
+- https://ieeemy.org/tensymp2026/for-authors/
+- https://ieeemy.org/tensymp2026/registration-fee/
+- https://www.ieeer10.org/r10-flagship-events/
+- https://api.crossref.org/works?query.bibliographic=IEEE+Region+10+Symposium+TENSYMP&filter=type:proceedings
+- http://www.wikicfp.com/cfp/servlet/tool.search?q=TENSYMP&year=a
+unverified:
+- TENSYMP 2025 (Christchurch) submission deadlines and official URL
+- TENSYMP 2027 host and dates (not listed on the IEEE R10 flagship events page)
+- DBLP venue page
+last_verified: 2026-09-28

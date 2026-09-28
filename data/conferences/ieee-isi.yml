@@ -1,0 +1,79 @@
+id: ieee-isi
+name: IEEE ISI
+full_name: IEEE International Conference on Intelligence and Security Informatics
+type: conference
+tier: minor
+areas: [security, ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Intelligent Transportation Systems Society (ITSS)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+fee: About 550 USD (2026, early, IEEE member); 750 USD non-member; student from 250 USD
+typical:
+  deadline_months: [3, 5]
+  conference_months: [7, 8]
+links:
+  website: https://ieee-isi.org/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195155
+notes:
+- Sponsored by the IEEE ITS Society; interdisciplinary venue on IT for intelligence, safety and security, recent
+  calls stress AI, LLM and multimodal model security
+- Papers limited to 6 pages in IEEE format, submitted via PaperCept; in-person only, one full registration per paper
+- Proceedings in IEEE Xplore; selected papers recommended to journal special issues
+- Ranked CORE C; not in the CCF list; location changes each year (Hong Kong 2025, University of Cambridge 2026)
+editions:
+- year: 2025
+  start: 2025-07-12
+  end: 2025-07-13
+  location: Hong Kong, China
+  url: https://ieee-isi.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-31
+    time: '23:59'
+    tz: PDT
+  - kind: notification
+    date: 2025-05-01
+  - kind: camera_ready
+    date: 2025-05-31
+    label: Final paper and early registration
+- year: 2026
+  start: 2026-08-12
+  end: 2026-08-14
+  location: Cambridge, United Kingdom
+  url: https://ieee-isi.org/2026/
+  deadlines:
+  - kind: other
+    date: 2026-05-06
+    label: Tutorial/workshop and special session proposals
+  - kind: submission
+    date: 2026-05-31
+    label: Regular, special session and demo papers
+  - kind: camera_ready
+    date: 2026-06-30
+    label: Final paper and early registration (per registration page)
+sources:
+- https://ieee-isi.org/
+- https://ieee-isi.org/2026/contributions/call-for-papers/
+- https://ieee-isi.org/2026/attend/registration/
+- https://ieee-isi.org/2026/attend/venue/
+- https://ieee-isi.org/2025/
+- https://ieee-isi.org/2025/contributions/call-for-papers/
+- https://ieee-isi.org/2025/attend/registration/
+- https://portal.core.edu.au/conf-ranks/?search=Intelligence%20and%20Security%20Informatics&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195155
+unverified:
+- 'ISI 2025 dates: the 2025 site says July 12-13, the series homepage says 12-14 July'
+- 'ISI 2026 final paper deadline: registration page says 30 June 2026, CFP sidebar lists final submissions June
+  15 to August 14'
+- 'ISI 2026 early registration cutoff: registration text says 30 June, fee table says advanced rate until 31 July'
+- ISI 2026 notification date
+- ISI 2027 location and dates (not announced)
+- Acceptance rate
+last_verified: 2026-09-28

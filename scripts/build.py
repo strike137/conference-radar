@@ -35,6 +35,9 @@ REGIONS = ["japan", "korea", "taiwan", "china", "southeast-asia", "south-asia", 
            "oceania", "europe", "north-america", "latin-america", "middle-east", "africa",
            "worldwide", "online"]
 LANGUAGES = ["english", "japanese", "korean", "chinese", "mixed"]
+ORG_COUNTRIES = ["japan", "korea", "taiwan", "china", "singapore", "india", "vietnam", "thailand", "indonesia",
+                 "malaysia", "philippines", "australia", "new-zealand", "usa", "canada", "europe", "international",
+                 "other"]
 FREQUENCIES = ["annual", "biennial", "multiple-per-year", "irregular"]
 CORE_RANKS = ["A*", "A", "B", "C", "National", "Regional", "Unranked"]
 # Other ICORE2026 values: "National: USA", "National/Regional", "Australasian C", "Journal Published", "Multiconference".
@@ -49,7 +52,7 @@ TIMEZONES = ["AoE", "UTC", "GMT", "JST", "KST", "CET", "CEST", "WET", "WEST", "E
              "AEST", "AEDT", "ICT", "WIB"]
 TZ_OFFSET = re.compile(r"^(UTC|GMT)\s*[+-]\s*\d{1,2}(:?\d{2})?$")
 
-TOP_KEYS = {"id", "name", "full_name", "name_local", "type", "tier", "areas", "region",
+TOP_KEYS = {"id", "name", "full_name", "name_local", "type", "tier", "areas", "region", "organizer_country",
             "language", "frequency", "organizer", "proceedings", "archival", "indexing",
             "rank", "acceptance_rate", "fee", "typical", "links", "notes", "editions",
             "sources", "last_verified", "unverified", "added_by"}
@@ -240,6 +243,11 @@ def validate(path: Path, doc, rep: Report) -> dict | None:
     for a in areas:
         check_enum(a, AREAS, f"{where} areas", rep)
     rec["areas"] = [a for a in areas if a in AREAS]
+
+    org = str_list(doc.get("organizer_country"), f"{where} organizer_country", rep)
+    for o in org:
+        check_enum(o, ORG_COUNTRIES, f"{where} organizer_country", rep)
+    rec["organizer_country"] = [o for o in dict.fromkeys(org) if o in ORG_COUNTRIES]
 
     rank = mapping(doc.get("rank"), f"{where} rank", rep, {"core", "core_source", "ccf"})
     core = rank.get("core")

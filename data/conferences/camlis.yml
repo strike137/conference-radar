@@ -1,0 +1,73 @@
+id: camlis
+name: CAMLIS
+full_name: Conference on Applied Machine Learning in Information Security
+type: conference
+tier: minor
+areas: [security, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: CAMLIS organizing committee and governing board (independent; practitioners from industry, academia and
+  government)
+organizer_country: [usa]
+proceedings: PMLR
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10]
+links:
+  website: https://www.camlis.org/
+notes:
+- Independent academic/industry conference on machine learning for information security, held since 2017 (no 2020
+  edition); held in Arlington, VA (Washington DC area) every year since 2021
+- Accepts full papers (10 pages minimum) or extended abstracts (up to 4 pages) for talks or posters; only full papers
+  are eligible for the proceedings, published in PMLR since 2025 (CAMLIS 2025 is PMLR vol. 299; 2021 to 2024 proceedings
+  were in CEUR-WS)
+- Double-blind review via Microsoft CMT; all presentations must be in person
+- Limited to 200 in-person attendees with a free Zoom livestream; student scholarships available
+- Strong practitioner audience (organizers from NVIDIA, Google, CrowdStrike, Meta); the separate CAMLIS Red red-teaming
+  day of 2025 was merged into the main program in 2026
+editions:
+- year: 2025
+  start: 2025-10-22
+  end: 2025-10-24
+  location: Arlington, VA, USA
+  url: https://www.camlis.org/camlis-2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-04
+    label: Papers and extended abstracts (extended from June 27)
+  - kind: notification
+    date: 2025-08-01
+    label: Extended from July 25
+- year: 2026
+  start: 2026-10-21
+  end: 2026-10-23
+  location: Arlington, VA, USA
+  url: https://www.camlis.org/cfp
+  deadlines:
+  - kind: submission
+    date: 2026-07-05
+    tz: AoE
+    label: Papers and extended abstracts (extended from June 26)
+  - kind: notification
+    date: 2026-08-08
+    label: Extended from July 31
+sources:
+- https://www.camlis.org/
+- https://www.camlis.org/cfp
+- https://www.camlis.org/event-registration
+- https://www.camlis.org/about
+- https://www.camlis.org/past-conferences
+- https://web.archive.org/web/20250824062520/https://www.camlis.org/cfp-faq-1
+- https://web.archive.org/web/20250408150957/https://www.camlis.org/cfp-faq-1
+- https://proceedings.mlr.press/v299/
+- https://ceur-ws.org/
+- https://portal.core.edu.au/conf-ranks/?search=CAMLIS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Registration fee amounts (early bird discounts until May 31 are mentioned without figures)
+- Acceptance rate
+- DBLP entry (dblp.org blocked automated access)
+last_verified: 2026-09-28

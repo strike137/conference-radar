@@ -1,0 +1,63 @@
+id: agent-sec
+name: AGENT-SEC
+full_name: Workshop on Security, Privacy, and Safety of Agentic AI Systems
+type: workshop
+tier: minor
+areas: [security, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: CSIRO Data61 with NTU Singapore (Dusit Niyato), UNSW Sydney and UIUC; co-located with ACM CCS
+organizer_country: [australia, singapore, usa]
+proceedings: ACM DL
+archival: true
+rank:
+  core: Unranked
+fee: 430 EUR ACM member, 530 EUR non-member, 370 EUR student (2026, CCS pre-conference workshop, early rate until
+  Sep 28); 480 / 580 EUR late
+typical:
+  deadline_months: [7]
+  conference_months: [11]
+links:
+  website: https://sites.google.com/view/agent-sec-2026/
+notes:
+- New workshop at ACM CCS 2026; it was not among the CCS 2025 workshops
+- Same organizing team as the AsiaCCS LM-SHIELD workshop (CSIRO Data61, NTU Singapore, UNSW)
+- Up to 12 pages in ACM format including references and appendices; double-blind review; a mandatory ethics declaration
+  section
+- 'Scope: prompt injection, memory poisoning, attacks on agent protocols (MCP, A2A), multi-agent safety, agent red
+  teaming and benchmarks'
+- Half-day afternoon program with two keynotes (Mario Fritz, Eugene Bagdasarian); CCS 2026 workshops get ACM DL
+  proceedings with a separate ISBN
+editions:
+- year: 2026
+  label: 1st edition, with ACM CCS 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: The Hague, Netherlands
+  url: https://sites.google.com/view/agent-sec-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-23
+    tz: AoE
+    label: Extended from July 15
+  - kind: notification
+    date: 2026-08-17
+    tz: AoE
+    label: Extended from August 8
+  - kind: camera_ready
+    date: 2026-09-17
+    tz: AoE
+sources:
+- https://sites.google.com/view/agent-sec-2026/
+- https://sites.google.com/view/agent-sec-2026/organizers-tpc
+- https://sites.google.com/view/agent-sec-2026/program
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://www.sigsac.org/ccs/CCS2026/call-for/call-for-workshops.html
+- https://www.sigsac.org/ccs/CCS2026/attending/registration.html
+- https://www.sigsac.org/ccs/CCS2025/events/
+unverified:
+- Workshop CFP itself does not name the publisher (ACM DL inferred from the CCS 2026 call for workshops)
+- Whether 2026 is strictly the first edition (only confirmed absent from CCS 2025)
+- Acceptance rate
+last_verified: 2026-09-28

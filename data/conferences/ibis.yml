@@ -1,0 +1,76 @@
+id: ibis
+name: IBIS
+full_name: Information-Based Induction Sciences Workshop
+name_local: 情報論的学習理論ワークショップ
+type: conference
+tier: domestic
+areas: [ai]
+region: japan
+language: mixed
+frequency: annual
+organizer: IEICE Technical Committee on Information-based Induction Sciences and Machine Learning (IBISML)
+organizer_country: [japan]
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+fee: 21,000 JPY general, 4,000 JPY student, onsite (2026); online free for students
+typical:
+  deadline_months: [9, 10]
+  conference_months: [10, 11]
+links:
+  website: https://ibisml.org/ibis2026/
+notes:
+- Run by the IEICE IBISML technical committee; describes itself as Japan's largest interdisciplinary machine learning
+  forum
+- Poster-only with no paper submission; applications are first come first served up to a cap (up to 608 posters
+  planned in 2026) and the call can close early
+- Program is invited talks, tutorials and organized sessions plus a large poster session; outstanding poster awards
+- 2026 adds an English poster track and an International Day (Oct 28) with invited talks and organized sessions
+  in English
+- Student onsite fee is 4,000 JPY (2026); venue changes every year (2025 Naha, 2026 Saitama)
+editions:
+- year: 2025
+  label: 28th IBIS (IBIS2025)
+  start: 2025-11-12
+  end: 2025-11-15
+  location: Naha, Japan
+  url: https://ibisml.org/ibis2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-30
+    label: Poster application (closed early on 2025-09-18 at the cap)
+  - kind: other
+    date: 2025-11-05
+    time: '23:59'
+    label: Poster PDF upload
+    tz: JST
+- year: 2026
+  label: 29th IBIS (IBIS2026)
+  start: 2026-10-26
+  end: 2026-10-29
+  location: Saitama, Japan (Sonic City) and Online
+  url: https://ibisml.org/ibis2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-18
+    label: Poster application (original)
+  - kind: submission
+    date: 2026-10-02
+    label: Poster application (extended)
+  - kind: other
+    date: 2026-10-25
+    time: '23:59'
+    label: Participant registration closes
+    tz: JST
+sources:
+- https://ibisml.org/ibis2026/
+- https://ibisml.org/ibis2026/cfp/
+- https://ibisml.org/ibis2026/registration/
+- https://ibisml.org/ibis2025/
+- https://ibisml.org/ibis2025/cfp/
+- https://portal.core.edu.au/conf-ranks/?search=IBIS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- IBIS2026 poster PDF upload deadline (TBA on the site)
+- IBIS2027 not yet announced
+last_verified: 2026-09-28

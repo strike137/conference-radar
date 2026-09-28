@@ -1,0 +1,78 @@
+id: apnet
+name: APNet
+full_name: Asia-Pacific Workshop on Networking
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ACM SIGCOMM-affiliated (ACM)
+organizer_country: [china]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL, DBLP]
+rank:
+  core: Unranked
+  ccf: C
+fee: USD 600 early, ACM non-member; student non-member USD 400 (2026; charged in HKD)
+typical:
+  deadline_months: [3]
+  conference_months: [8]
+links:
+  website: https://conferences.sigcomm.org/events/apnet2026/
+notes:
+- SIGCOMM-affiliated short-paper venue (up to 6 pages excluding references) for early-stage networking ideas; proceedings
+  in the ACM Digital Library, ACM Open Access from 2026
+- Double-blind review; single deadline in March, workshop in August (2024 Sydney with SIGCOMM, 2025 Shanghai, 2026
+  Singapore as a standalone event; SIGCOMM 2026 was in Denver)
+- Ranked CCF C; most accepted papers come from Chinese universities and industry labs
+- An extended version may be submitted to another venue at the same time; student travel grants available
+editions:
+- year: 2025
+  label: APNet 2025 (9th)
+  start: 2025-08-07
+  end: 2025-08-08
+  location: Shanghai, China
+  url: https://conferences.sigcomm.org/events/apnet2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-06
+    tz: AoE
+  - kind: submission
+    date: 2025-03-13
+    tz: AoE
+  - kind: notification
+    date: 2025-04-25
+  - kind: camera_ready
+    date: 2025-05-16
+- year: 2026
+  label: APNet 2026 (10th)
+  start: 2026-08-06
+  end: 2026-08-07
+  location: Singapore
+  url: https://conferences.sigcomm.org/events/apnet2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-11
+    tz: AoE
+    label: Papers (extended from Mar 6; no abstract registration)
+  - kind: notification
+    date: 2026-04-22
+  - kind: other
+    date: 2026-05-22
+    label: Poster submission
+  - kind: camera_ready
+    date: 2026-05-29
+sources:
+- https://conferences.sigcomm.org/events/apnet2026/
+- https://conferences.sigcomm.org/events/apnet2026/cfp.php
+- https://conferences.sigcomm.org/events/apnet2026/registration.php
+- https://conferences.sigcomm.org/events/apnet2026/accept.php
+- https://conferences.sigcomm.org/events/apnet2025/
+- https://conferences.sigcomm.org/sigcomm/2026/
+- https://portal.core.edu.au/conf-ranks/?search=APNet&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- APNet 2027 dates and location not yet announced
+- Acceptance rate not published
+last_verified: 2026-09-28

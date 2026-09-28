@@ -1,0 +1,84 @@
+id: pacis
+name: PACIS
+full_name: Pacific Asia Conference on Information Systems
+type: conference
+tier: major
+areas: [general, ai, security, data]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Association for Information Systems (AIS), Region 3
+organizer_country: [international]
+proceedings: AIS eLibrary (AISeL)
+archival: true
+rank:
+  core: A
+  core_source: CORE2018
+fee: 550 USD (2026, early, AIS academic member); 350 USD AIS doctoral student; AIS membership required
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://aisnet.org/conferences/pacis/
+notes:
+- The only AIS conference dedicated to the Pacific Asia region, governed by the AIS Region 3 Board; first held in
+  1993 (Kaohsiung), annual since 2000, usually early July
+- Information systems (business school) venue rather than core CS; 2026 tracks include AI and machine learning,
+  data analytics, and digital security, privacy, ethics and resilience
+- Registration requires current AIS membership; at least one author per paper must register and present
+- Last listed in CORE2018 (rank A); not in ICORE2026 or the CCF list
+- 'Upcoming hosts: Auckland 2027, Kaohsiung (Taiwan) 2028, Ningbo 2029 (tentative); 2026 offered fast-track options
+  to PAJAIS and AIS THCI'
+editions:
+- year: 2026
+  start: 2026-07-04
+  end: 2026-07-08
+  location: Jakarta, Indonesia
+  url: https://pacis2026.aisconferences.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-08
+    label: Papers (extended from March 1)
+  - kind: notification
+    date: 2026-05-01
+  - kind: camera_ready
+    date: 2026-05-15
+  - kind: other
+    date: 2026-05-25
+    label: Final acceptance notification
+  - kind: other
+    date: 2026-06-13
+    label: Early-bird registration (extended from June 6)
+- year: 2027
+  start: 2027-07-05
+  end: 2027-07-09
+  location: Auckland, New Zealand
+  url: https://pacis2027.aisconferences.org/
+  deadlines:
+  - kind: other
+    date: 2026-11-15
+    label: Submission system and registration open
+  - kind: submission
+    date: 2027-03-01
+  - kind: notification
+    date: 2027-04-30
+  - kind: camera_ready
+    date: 2027-05-14
+  - kind: other
+    date: 2027-06-01
+    label: Early-bird and presenter registration close
+sources:
+- https://pacis2026.aisconferences.org/
+- https://pacis2026.aisconferences.org/submissions/call-for-papers/
+- https://pacis2026.aisconferences.org/register/
+- https://pacis2027.aisconferences.org/
+- https://pacis2027.aisconferences.org/submissions/call-for-papers/
+- https://aisnet.org/conferences/pacis/
+- https://aisel.aisnet.org/pacis2026/
+- https://portal.core.edu.au/conf-ranks/?search=PACIS&by=all&source=all&sort=atitle&page=1
+unverified:
+- 'PACIS 2026 camera-ready date: the main Important Dates block says May 15, 2026, while a second date list on the
+  same CFP page says June 1, 2026 (camera-ready and registration)'
+- Deadline time zone (not stated on CFP page)
+- Acceptance rate
+last_verified: 2026-09-28

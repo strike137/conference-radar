@@ -1,0 +1,86 @@
+id: iconi
+name: ICONI
+full_name: International Conference on Internet
+type: conference
+tier: minor
+areas: [networking, ai, security, data, general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Korean Society for Internet Information (KSII)
+organizer_country: [korea]
+proceedings: ICONI proceedings (KSII); selected papers to KSII TIIS, Springer CCIS or JICS
+archival: true
+rank:
+  core: Unranked
+fee: 650 USD early for KSII members plus 100 USD non-member fee (2026)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://iconi.org/
+notes:
+- Organized by KSII (Korean Society for Internet Information); international in name, most authors are from Korea
+- Held every December in a different Asian city (Ho Chi Minh City 2023, Taipei 2024, Okinawa 2025, Singapore 2026)
+- Short (2 pages) or full (3 to 6 pages) papers, double-blind review; abstract then paper deadline, both extended
+  by roughly 10 to 18 days in 2025 and 2026
+- Selected full papers are invited to extended versions in KSII TIIS (SCIE), Springer CCIS or JICS (KCI)
+- In-person presentation required for inclusion in the proceedings; no-shows are listed and lose the early rate
+  for two years
+editions:
+- year: 2025
+  label: ICONI 2025 (17th)
+  start: 2025-12-14
+  end: 2025-12-17
+  location: Okinawa, Japan
+  url: https://2025.iconi.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-10
+    label: Abstract (extended from Sep 30)
+  - kind: submission
+    date: 2025-10-29
+    label: Paper (extended from Oct 20)
+  - kind: notification
+    date: 2025-11-10
+    label: Extended from Nov 5
+  - kind: camera_ready
+    date: 2025-11-15
+    label: Extended from Nov 10
+- year: 2026
+  label: ICONI 2026 (18th), Amara Singapore
+  start: 2026-12-13
+  end: 2026-12-16
+  location: Singapore
+  url: https://iconi.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-07
+    label: Abstract (extended from Sep 21)
+  - kind: submission
+    date: 2026-10-18
+    label: Paper (extended from Sep 30)
+  - kind: notification
+    date: 2026-10-27
+    label: Extended from Oct 15
+  - kind: camera_ready
+    date: 2026-11-06
+    label: Extended from Oct 25
+sources:
+- https://iconi.org/
+- https://iconi.org/about_overview
+- https://iconi.org/about_dates
+- https://iconi.org/registration_fee
+- https://iconi.org/journal_publishing
+- https://iconi.org/info_submission
+- https://iconi.org/info_topic
+- https://iconi.org/program_policy
+- https://iconi.org/venue_info
+- https://iconi.org/history_pastConf?year=2025
+- https://2025.iconi.org/about_dates
+- https://portal.core.edu.au/conf-ranks/?search=ICONI&by=all&source=all
+unverified:
+- Whether the ICONI proceedings themselves are indexed (Scopus/EI)
+- Acceptance rate
+- DBLP coverage
+last_verified: 2026-09-28

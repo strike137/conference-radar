@@ -1,0 +1,90 @@
+id: ieee-msn
+name: MSN
+full_name: International Conference on Mobility, Sensing and Networking
+type: conference
+tier: minor
+areas: [networking, communications, systems, security, ai]
+region: china
+language: english
+frequency: annual
+organizer: Technically co-sponsored by IEEE; local organizers change each year
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, EI, DBLP]
+rank:
+  core: Unranked
+  ccf: C
+fee: 700 USD IEEE member / 750 USD non-member, author registration (2025)
+typical:
+  deadline_months: [7, 8, 9]
+  conference_months: [12]
+links:
+  website: https://ieee-msn.org/2026/
+  dblp: https://dblp.org/db/conf/msn/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=2143
+notes:
+- Started in 2005 as the International Conference on Mobile Ad-hoc and Sensor Networks; renamed Mobility, Sensing
+  and Networking; 2026 is the 22nd edition
+- CCF C; proceedings published by IEEE in IEEE Xplore (2020 to 2025 editions); the 2026 site states accepted papers
+  go to EI Compendex
+- Held every December, mostly in China (2023 Nanjing, 2024 Harbin, 2026 Ningbo), sometimes abroad (2020 Tokyo, 2021
+  Exeter, 2025 Bandung)
+- 8-page limit at submission, up to 10 pages in camera-ready with extra fees; double-blind from 2026 (2025 was single-blind)
+- Deadlines are usually extended by about 10 to 14 days
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-06
+  location: Bandung, Indonesia
+  url: https://ieee-msn.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-29
+    tz: AoE
+    label: Regular papers (extended from 2025-09-15)
+  - kind: notification
+    date: 2025-10-29
+    label: Extended from 2025-10-15
+  - kind: other
+    date: 2025-11-09
+    label: Author registration deadline
+  - kind: camera_ready
+    date: 2025-11-10
+    label: Extended from 2025-10-31
+- year: 2026
+  start: 2026-12-18
+  end: 2026-12-20
+  location: Ningbo, China
+  url: https://ieee-msn.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-30
+    tz: AoE
+    label: Regular papers (extended from 2026-08-20)
+  - kind: submission
+    date: 2026-08-30
+    tz: AoE
+    label: Industry papers and posters (extended from 2026-08-25)
+  - kind: notification
+    date: 2026-10-16
+  - kind: camera_ready
+    date: 2026-11-07
+  - kind: other
+    date: 2026-11-17
+    label: Registration deadline
+sources:
+- https://ieee-msn.org/2026/
+- https://ieee-msn.org/2026/cf-papers.php
+- https://ieee-msn.org/2025/
+- https://ieee-msn.org/2025/cf-papers.php
+- https://ieee-msn.org/2025/registration.php
+- https://api.crossref.org/works?query.bibliographic=International+Conference+on+Mobility+Sensing+and+Networking+MSN&filter=type:proceedings
+- http://www.wikicfp.com/cfp/program?id=2143
+- https://portal.core.edu.au/conf-ranks/?search=MSN&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- MSN 2026 registration fees (the 2026 registration page still shows 2025 content)
+- Local host institution for MSN 2026 (contact address is at nbt.edu.cn, NingboTech University, but no host is named)
+- Whether MSN 2026 proceedings will appear in IEEE Xplore (the Xplore sentence is commented out on the 2026 CFP
+  page)
+last_verified: 2026-09-28

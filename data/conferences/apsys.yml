@@ -1,0 +1,84 @@
+id: apsys
+name: APSys
+full_name: ACM SIGOPS Asia-Pacific Workshop on Systems
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ACM SIGOPS
+organizer_country: [international]
+proceedings: ACM DL
+indexing: [DBLP]
+rank:
+  core: Unranked
+fee: 475 USD ACM member, 525 USD non-member (2026, early, by Aug 27); students 400/450 USD
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9, 10]
+links:
+  website: https://apsys26.github.io/
+notes:
+- ACM SIGOPS workshop held annually in Asia-Pacific since 2010 (Kyoto 2024, Seoul 2025 co-located with SOSP, Bangkok
+  2026)
+- 'Short papers: 5 pages excluding references, ACM sigconf format, double-blind review via HotCRP'
+- Accepts preliminary results, new directions and position papers; proceedings in the ACM Digital Library
+- Separate poster track with a later deadline; student travel grants offered in some years
+- 'Small workshop: 19 papers accepted in 2026, from Asian, US and European groups'
+editions:
+- year: 2025
+  start: 2025-10-12
+  end: 2025-10-13
+  location: Seoul, Korea
+  url: https://apsys2025.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-29
+    tz: AoE
+  - kind: submission
+    date: 2025-06-05
+    tz: AoE
+  - kind: notification
+    date: 2025-08-04
+  - kind: camera_ready
+    date: 2025-09-03
+- year: 2026
+  start: 2026-09-17
+  end: 2026-09-18
+  location: Bangkok, Thailand
+  url: https://apsys26.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-13
+    tz: AoE
+    label: Papers
+  - kind: submission
+    date: 2026-05-20
+    tz: AoE
+    label: Papers
+  - kind: notification
+    date: 2026-07-29
+    label: Papers
+  - kind: submission
+    date: 2026-08-11
+    tz: AoE
+    label: Poster abstracts (extended from Aug 4)
+  - kind: notification
+    date: 2026-08-18
+    tz: AoE
+    label: Posters (extended from Aug 11)
+  - kind: camera_ready
+    date: 2026-08-20
+sources:
+- https://apsys26.github.io/
+- https://apsys26.github.io/call_for_papers.html
+- https://apsys26.github.io/registration.html
+- https://apsys26.github.io/past.html
+- https://apsys26.github.io/accepted_papers.html
+- https://apsys2025.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=APSys&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Acceptance rate not published (submission count not given)
+- APSys 2027 venue and dates not announced yet
+last_verified: 2026-09-28

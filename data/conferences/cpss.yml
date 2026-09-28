@@ -1,0 +1,85 @@
+id: cpss
+name: CPSS
+full_name: ACM Cyber-Physical System Security Workshop
+type: workshop
+tier: minor
+areas: [security, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Co-located with ACM AsiaCCS; steering committee chaired by Jianying Zhou (SUTD, Singapore)
+organizer_country: [singapore]
+proceedings: ACM DL
+archival: true
+rank:
+  core: Unranked
+acceptance_rate: 33% (2026)
+fee: 'Via AsiaCCS workshop-only registration: USD 550 ACM member / USD 600 non-member early, plus 18% GST (2026)'
+typical:
+  deadline_months: [1, 3]
+  conference_months: [6, 7, 8]
+links:
+  website: http://jianying.space/cpss/
+notes:
+- Workshop co-located with ACM AsiaCCS every year since 2015 (12th edition in 2026)
+- Covers ICS/SCADA, smart grid, IoT, automotive and maritime security; position papers and testbed papers welcome
+- Double-blind, up to 12 pages in ACM format; acceptance rate between 25% and 45% since 2015 (40% in 2025, 33% in
+  2026)
+- Used two submission rounds in 2024 and 2025; 2026 had a single round
+- Proceedings in ACM DL; best paper award
+editions:
+- year: 2025
+  start: 2025-08-26
+  end: 2025-08-26
+  location: Hanoi, Vietnam
+  url: http://jianying.space/cpss/CPSS2025/
+  deadlines:
+  - kind: submission
+    date: 2025-01-20
+    tz: AoE
+    label: 1st round (extended from Jan 10)
+  - kind: notification
+    date: 2025-02-15
+    label: 1st round
+  - kind: submission
+    date: 2025-03-25
+    tz: AoE
+    label: 2nd round (extended from Mar 15)
+  - kind: notification
+    date: 2025-04-25
+    label: 2nd round
+  - kind: camera_ready
+    date: 2025-05-25
+    label: Both rounds
+- year: 2026
+  start: 2026-06-02
+  end: 2026-06-02
+  location: Bangalore, India
+  url: https://cpss26.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    time: '23:59'
+    tz: AoE
+    label: Paper (extended from Jan 24)
+  - kind: notification
+    date: 2026-03-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-01
+    tz: AoE
+sources:
+- http://jianying.space/cpss/
+- http://jianying.space/cpss/CPSS2025/
+- http://web.archive.org/web/20260508122954/https://cpss26.github.io/
+- https://asiaccs2026.cse.iitkgp.ac.in/registration/
+- https://asiaccs2027.cityu.edu.mo/workshops/index.html
+- https://asiaccs2027.cityu.edu.mo/call-for-workshops/index.html
+- https://portal.core.edu.au/conf-ranks/?search=CPSS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CPSS 2027 not announced; AsiaCCS 2027 is Jul 12-16, 2027 in Macau and its call for workshops sets the workshop
+  day to Jul 13, 2027, but the workshop list is still TBA
+- The 2026 site cpss26.github.io was offline on 2026-09-28; 2026 dates come from a Wayback Machine snapshot (May
+  2026)
+- dblp venue page not confirmed (dblp was unreachable)
+last_verified: 2026-09-28

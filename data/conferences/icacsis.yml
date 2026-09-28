@@ -1,0 +1,108 @@
+id: icacsis
+name: ICACSIS
+full_name: International Conference on Advanced Computer Science and Information Systems
+type: conference
+tier: minor
+areas: [general, ai, software, networking, data]
+region: southeast-asia
+language: english
+frequency: irregular
+organizer: Faculty of Computer Science, Universitas Indonesia
+organizer_country: [indonesia]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, Scopus]
+rank:
+  core: Unranked
+fee: 400 USD on-site early for non-IEEE members, 350 USD students (2026, international); virtual option cheaper
+typical:
+  deadline_months: [6, 7, 8]
+  conference_months: [10]
+links:
+  website: https://icacsis.cs.ui.ac.id/
+notes:
+- Organized by the Faculty of Computer Science, Universitas Indonesia; held in Indonesia (Bali, Jakarta, Malang
+  and Depok in past years)
+- Annual up to the 14th edition in 2022; no editions 2023 to 2025; 15th edition in October 2026 on the UI campus
+  in Depok
+- Proceedings in IEEE Xplore (IEEE volumes found for 2013 to 2022) and indexed by Scopus; double-blind review, 6-page
+  IEEE format (up to 10 pages with a 50 USD per page fee)
+- Several submission batches; student travel support for partial lodging; virtual presentation option
+editions:
+- year: 2022
+  label: ICACSIS 2022 (14th)
+  start: 2022-10-01
+  end: 2022-10-03
+  location: Depok, Indonesia
+  url: https://icacsis.cs.ui.ac.id/front/?page_id=2445
+  deadlines:
+  - kind: submission
+    date: 2022-06-12
+    time: '23:59'
+    tz: UTC-10
+    label: Round 1
+  - kind: notification
+    date: 2022-07-07
+    label: Round 1
+  - kind: submission
+    date: 2022-07-17
+    label: Round 2 (extended from Jul 10)
+  - kind: notification
+    date: 2022-08-14
+    label: Round 2
+  - kind: camera_ready
+    date: 2022-08-15
+    label: Round 1
+  - kind: camera_ready
+    date: 2022-09-04
+    label: Round 2
+- year: 2026
+  label: ICACSIS 2026 (15th), Faculty of Computer Science UI
+  start: 2026-10-16
+  end: 2026-10-18
+  location: Depok, Indonesia
+  url: https://icacsis.cs.ui.ac.id/front/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    time: '23:59'
+    tz: UTC+7
+    label: Batch 1
+  - kind: submission
+    date: 2026-07-15
+    time: '23:59'
+    tz: UTC+7
+    label: Batch 2
+  - kind: notification
+    date: 2026-08-06
+    label: Batches 1 and 2
+  - kind: submission
+    date: 2026-08-10
+    time: '23:59'
+    tz: UTC+7
+    label: Batch 3
+  - kind: notification
+    date: 2026-09-01
+    label: Batch 3 (extended from Aug 17)
+  - kind: camera_ready
+    date: 2026-09-14
+    label: Hard deadline (extended from Aug 23 and Sep 7)
+sources:
+- https://icacsis.cs.ui.ac.id/front/
+- https://icacsis.cs.ui.ac.id/front/?page_id=2917
+- https://icacsis.cs.ui.ac.id/front/?page_id=2932
+- https://icacsis.cs.ui.ac.id/front/?page_id=2928
+- https://icacsis.cs.ui.ac.id/front/?page_id=2908
+- https://icacsis.cs.ui.ac.id/front/?page_id=2920
+- https://icacsis.cs.ui.ac.id/front/?page_id=2930
+- https://icacsis.cs.ui.ac.id/front/?page_id=2445
+- https://api.crossref.org/works?query.container-title=International+Conference+on+Advanced+Computer+Science+and+Information+Systems&filter=member:263
+- http://www.wikicfp.com/cfp/servlet/tool.search?q=icacsis&year=a
+- https://portal.core.edu.au/conf-ranks/?search=ICACSIS&by=all&source=all
+unverified:
+- Whether proceedings before 2013 (2009 to 2012) are in IEEE Xplore
+- For 2022, which round dates were struck through (Jul 17 and Jul 7 assumed to be the extended ones); the 23:59
+  Hawaii time was stated for the original dates
+- Acceptance rate
+- DBLP coverage
+last_verified: 2026-09-28

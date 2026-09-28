@@ -7,10 +7,11 @@ the Asian and smaller venues that students actually attend. Maintained by member
 
 ## What you can do on the site
 
-- **Table**: every venue with its tier, areas, CORE and CCF rank, proceedings (publisher, or None when
-  non-archival), next deadline (with countdown), next conference dates and location. Click a column header to sort (on phones use the Sort menu), click a row for
+- **Table**: every venue with its tier, who runs it, areas, CORE and CCF rank, proceedings (where papers are
+  published, marked "not peer-reviewed" for non-archival venues such as most domestic conferences), next deadline (with countdown), next conference dates and location. Click a column header to sort (on phones use the Sort menu), click a row for
   notes, all editions and deadlines, sources and edit links.
-- **Search and filters**: free text, area, tier, type, region (including "Asia (all)"), CORE, CCF, proceedings
+- **Search and filters**: free text, area, tier, type, region where it is held (including "Asia (all)"), who runs it
+  (Korean, Japanese, Chinese, Taiwanese, ... institutions), CORE, CCF, proceedings
   (has / none / IEEE / Springer / LNCS / ACM / ACL Anthology),
   "deadline between" and "conference held between" date ranges (dates as written in the call for papers), and
   "deadline within the next 30 days / 90 days / 6 months" (counted from now, so a deadline that is still open

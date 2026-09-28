@@ -1,0 +1,92 @@
+id: scis-isis
+name: SCIS&ISIS
+full_name: Joint International Conference on Soft Computing and Intelligent Systems and International Symposium
+  on Advanced Intelligent Systems
+type: conference
+tier: minor
+areas: [ai]
+region: japan
+language: english
+frequency: biennial
+organizer: SOFT (Japan Society for Fuzzy Theory and Intelligent Informatics); technical co-sponsors KIIS (Korean
+  Institute of Intelligent Systems) and IEEE SMC Society
+organizer_country: [japan, korea]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+fee: 75,000 JPY non-member, 55,000 JPY student non-member (2026, early)
+typical:
+  deadline_months: [7]
+  conference_months: [11, 12]
+links:
+  website: https://soft-cr.org/scis/2026/
+notes:
+- Biennial, held in Japan in even years (2018 Toyama, 2022 Ise, 2024 Himeji, 2026 Hachioji); organized by SOFT with
+  KIIS (Korea) as technical co-sponsor; ISIS numbering also advances in odd years
+- Full papers (4 to 6 pages, IEEE style) are archived in IEEE Xplore; abstract-only and late-breaking papers are
+  distributed but not archived
+- Describes itself as attracting several hundred participants; deadlines usually extended (2024 Jul 5 -> Jul 19,
+  2026 Jul 3 -> Jul 17)
+- Registration includes welcome reception and banquet; one registration covers one paper
+editions:
+- year: 2024
+  label: Joint 13th SCIS and 25th ISIS
+  start: 2024-11-09
+  end: 2024-11-12
+  location: Himeji, Japan
+  url: http://soft-cr.org/scis/2024/
+  deadlines:
+  - kind: other
+    date: 2024-05-17
+    label: Special session proposals (extended)
+  - kind: submission
+    date: 2024-07-19
+    label: Papers (extended from Jul 5)
+  - kind: notification
+    date: 2024-08-23
+  - kind: camera_ready
+    date: 2024-09-09
+- year: 2026
+  label: Joint 14th SCIS and 27th ISIS
+  start: 2026-11-02
+  end: 2026-11-05
+  location: Hachioji, Tokyo, Japan
+  url: https://soft-cr.org/scis/2026/
+  deadlines:
+  - kind: other
+    date: 2026-05-20
+    label: Special session proposals (extended from Apr 22)
+  - kind: submission
+    date: 2026-07-17
+    label: Papers (final extension; originally Jul 3, then Jul 10)
+  - kind: notification
+    date: 2026-09-08
+    label: Sent after delay (planned Aug 28)
+  - kind: camera_ready
+    date: 2026-09-18
+  - kind: submission
+    date: 2026-09-18
+    label: Late-breaking papers (abstract only, not in IEEE Xplore)
+  - kind: notification
+    date: 2026-09-24
+    label: Late-breaking papers
+  - kind: other
+    date: 2026-09-24
+    label: Early registration (extended from Sep 18)
+sources:
+- https://soft-cr.org/scis/2026/
+- https://soft-cr.org/scis/2026/SCIS2026_CFP_v3.pdf
+- https://soft-cr.org/scis/2026/submission.html
+- https://soft-cr.org/scis/2026/registration.html
+- https://soft-cr.org/scis/2026/late_breaking_submission.html
+- http://soft-cr.org/scis/2024/
+- https://api.crossref.org/works?query.bibliographic=SCIS+ISIS&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=Soft+Computing&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- IEEE technical sponsorship for 2026 was described as planned on the home page
+- Time zone of the extended early registration deadline (Sep 24); the original Sep 18 deadline was 23:59 AoE
+- Where and whether ISIS is held separately in odd years
+- Acceptance rate not published
+- SCIS&ISIS 2028 not yet announced
+last_verified: 2026-09-28

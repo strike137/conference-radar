@@ -1,0 +1,94 @@
+id: mmasia
+name: ACM MM Asia
+full_name: ACM Multimedia Asia (ACM International Conference on Multimedia in Asia)
+type: conference
+tier: minor
+areas: [vision, ai, data]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ACM SIGMM
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+  ccf: C
+fee: About 700 USD (2025, early, ACM/SIG member); 800 USD non-member; each paper needs a full registration
+typical:
+  deadline_months: [7, 8]
+  conference_months: [12]
+links:
+  website: https://www.acmmmasia.org/
+notes:
+- Asia-Pacific sister conference of ACM Multimedia under ACM SIGMM, annual since 2019 and usually held in December
+  (the 2020 edition took place in March 2021); rotates around the region (Tokyo 2022, Tainan 2023, Kuala Lumpur
+  2025, Hanoi 2026 at VinUniversity)
+- Regular papers 6 pages plus up to 2 pages of references; double-blind review via Microsoft CMT
+- Ranked CORE C and CCF C; proceedings in ACM DL, best papers invited to an ACM TOMM special issue
+- Paper deadlines were extended in both 2025 (by 5 days) and 2026 (by 11 days); SIGMM student travel grants offered,
+  applications in October
+editions:
+- year: 2025
+  start: 2025-12-09
+  end: 2025-12-12
+  location: Kuala Lumpur, Malaysia
+  url: https://mmasia2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-08-13
+    time: '23:59'
+    tz: PDT
+    label: Regular, short and special session papers (extended from Aug 8)
+  - kind: submission
+    date: 2025-09-13
+    time: '23:59'
+    tz: PDT
+    label: Tutorial, demo, BNI, panel and doctoral symposium (extended from Aug 30)
+  - kind: notification
+    date: 2025-10-01
+    label: Regular, short and special session papers (extended from Sep 27)
+  - kind: camera_ready
+    date: 2025-10-13
+    time: '23:59'
+    tz: PDT
+    label: Extended
+- year: 2026
+  start: 2026-12-15
+  end: 2026-12-18
+  location: Hanoi, Vietnam
+  url: https://www.mmasia2026.org/
+  deadlines:
+  - kind: other
+    date: 2026-08-03
+    tz: AoE
+    label: Special session, workshop and tutorial proposals
+  - kind: submission
+    date: 2026-08-14
+    time: '23:59'
+    tz: AoE
+    label: Regular, short and BNI papers (extended from Aug 3)
+  - kind: submission
+    date: 2026-08-21
+    tz: AoE
+    label: Special session papers
+  - kind: submission
+    date: 2026-09-01
+    tz: AoE
+    label: Demo and industry
+  - kind: notification
+    date: 2026-10-02
+sources:
+- https://www.mmasia2026.org/
+- https://mmasia2025.org/
+- https://mmasia2025.org/important_dates
+- https://mmasia2025.org/registration
+- https://mmasia2025.org/regular_papers
+- https://www.acmmmasia.org/
+- https://www.acmmmasia.org/2020/
+- https://portal.core.edu.au/conf-ranks/?search=Multimedia%20Asia&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- MM Asia 2026 camera-ready deadline and registration fee (TBA)
+- Acceptance rate
+last_verified: 2026-09-28

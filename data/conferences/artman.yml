@@ -1,0 +1,82 @@
+id: artman
+name: ARTMAN
+full_name: Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN systems
+type: workshop
+tier: minor
+areas: [security, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Program chairs from Telecom SudParis, NICT (Japan) and IMT Nord Europe; co-located with ACM CCS or IEEE
+  ACSAC
+organizer_country: [europe, japan]
+proceedings: ACM DL (CCS years) / IEEE Xplore (ACSAC years)
+archival: true
+rank:
+  core: Unranked
+fee: 480 USD regular, 340 USD student (2026, ACSAC one-day workshop rate until Nov 16) plus 125 USD author surcharge
+  per paper
+typical:
+  deadline_months: [6, 7, 9]
+  conference_months: [10, 11, 12]
+links:
+  website: https://artman-workshop.gitlab.io/
+notes:
+- 'Alternates host conference: ACM CCS 2023 (Copenhagen), ACSAC 2024 (Honolulu), ACM CCS 2025 (Taipei), ACSAC 2026
+  (Los Angeles); the 2023 edition was titled Workshop on Recent Advances in Resilient and Trustworthy ML Systems
+  in Autonomous Networks'
+- Program co-chaired by Takeshi Takahashi (NICT, Japan); the TPC has included Japanese members (NTT in 2026; Fujitsu
+  and Kobe University in 2025)
+- Regular papers 10 pages plus up to 5 pages of references/appendices, short papers 4 pages; anonymous submission
+- Proceedings in ACM DL when at CCS; IEEE CS CPS ACSAC Workshops volume (IEEE Xplore) when at ACSAC
+- Deadlines usually extended by about two weeks
+editions:
+- year: 2025
+  label: 3rd edition, with ACM CCS 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Taipei, Taiwan
+  url: https://web.archive.org/web/20251006170311/https://artman-workshop.gitlab.io/
+  deadlines:
+  - kind: submission
+    date: 2025-07-03
+    tz: AoE
+    label: Extended from June 20
+  - kind: notification
+    date: 2025-08-15
+    tz: AoE
+    label: Extended from August 8
+  - kind: camera_ready
+    date: 2025-09-03
+    label: Extended from August 22
+- year: 2026
+  label: 4th edition, with IEEE ACSAC 2026
+  start: 2026-12-08
+  end: 2026-12-08
+  location: Los Angeles, CA, USA
+  url: https://artman-workshop.gitlab.io/
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+    label: Extended from August 31
+  - kind: notification
+    date: 2026-10-06
+    label: Extended from September 28
+  - kind: camera_ready
+    date: 2026-10-20
+sources:
+- https://artman-workshop.gitlab.io/
+- https://www.acsac.org/2026/workshops/
+- https://www.acsac.org/2026/registration/
+- https://web.archive.org/web/20251006170311/https://artman-workshop.gitlab.io/
+- https://web.archive.org/web/20241107094722/https://artman-workshop.gitlab.io/
+- https://web.archive.org/web/20230523203713/https://artman-workshop.gitlab.io/
+- https://www.sigsac.org/ccs/CCS2025/events/
+- https://www.sigsac.org/ccs/CCS2023/workshops.html
+- https://www.acsac.org/2024/workshops/
+- https://api.crossref.org/works/10.1145/3733821
+- https://api.crossref.org/works/10.1145/3605772
+unverified:
+- Acceptance rate
+- Time zone of the 2026 deadlines (not stated on the site)
+last_verified: 2026-09-28

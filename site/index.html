@@ -47,6 +47,10 @@
         <span>Region</span>
         <select id="f-region"></select>
       </label>
+      <label class="field collapsible" title="Country of the society or institution that runs the venue">
+        <span>Run by</span>
+        <select id="f-org"></select>
+      </label>
       <label class="field collapsible">
         <span>CORE</span>
         <select id="f-core"></select>
@@ -97,6 +101,7 @@
           <option value="conf">Conference date</option>
           <option value="name">Name</option>
           <option value="tier">Tier</option>
+          <option value="org">Run by</option>
           <option value="core">CORE rank</option>
           <option value="ccf">CCF rank</option>
           <option value="proc">Proceedings</option>
@@ -117,10 +122,11 @@
           <tr>
             <th data-sort="name" scope="col"><button type="button">Conference</button></th>
             <th data-sort="tier" scope="col"><button type="button">Tier</button></th>
+            <th data-sort="org" scope="col" title="Country of the society or institution that runs the venue (not where it is held)"><button type="button">Run by</button></th>
             <th scope="col">Areas</th>
             <th data-sort="core" scope="col" id="th-core"><button type="button">CORE</button></th>
             <th data-sort="ccf" scope="col" id="th-ccf"><button type="button">CCF</button></th>
-            <th data-sort="proc" scope="col" title="Where the papers are published; None = non-archival"><button type="button">Proceedings</button></th>
+            <th data-sort="proc" scope="col" title="Where the papers are published; 'not peer-reviewed' marks non-archival venues"><button type="button">Proceedings</button></th>
             <th data-sort="deadline" scope="col" aria-sort="ascending"><button type="button">Deadline</button></th>
             <th data-sort="conf" scope="col"><button type="button">Held</button></th>
             <th data-sort="region" scope="col"><button type="button">Location</button></th>

@@ -15,6 +15,8 @@ region: japan               # japan korea taiwan china southeast-asia south-asia
 language: english           # english | japanese | korean | chinese | mixed
 frequency: annual           # annual | biennial | multiple-per-year | irregular
 organizer: IEEE Example Society
+organizer_country: [japan]  # who runs it (not where it is held): japan korea taiwan china singapore india vietnam
+                            # thailand indonesia malaysia philippines australia new-zealand usa canada europe international other
 proceedings: Springer LNCS  # or IEEE Xplore, ACM DL, SCITEPRESS, None (non-archival), ...
 archival: true
 indexing: [Scopus, DBLP]

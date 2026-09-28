@@ -1,0 +1,91 @@
+id: apkc
+name: APKC
+full_name: ACM ASIA Public-Key Cryptography Workshop
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Co-located with ACM AsiaCCS (ACM SIGSAC); 2026 PC co-chairs Keita Emura (Kanazawa University) and Hiraku
+  Morita (University of Southern Denmark)
+organizer_country: [japan]
+proceedings: ACM DL
+archival: true
+indexing: [DBLP]
+rank:
+  core: Unranked
+acceptance_rate: 19% (2026, 5/26)
+fee: 'Via AsiaCCS workshop-only registration: USD 550 ACM member / USD 600 non-member early, plus 18% GST (2026);
+  each paper needs one regular (non-student) registration'
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7, 8]
+links:
+  website: https://iseclab.ec.t.kanazawa-u.ac.jp/en/APKC2026.html
+  dblp: https://dblp.org/db/conf/asiapkc/
+notes:
+- One-day workshop co-located with ACM AsiaCCS since 2013 (no edition in 2015), so it moves with AsiaCCS (Singapore
+  2024, Hanoi 2025, Bangalore 2026)
+- Web site hosted by Kanazawa University; many authors and PC members are Japanese, and 4 of the 7 best paper awards
+  listed for 2021 to 2026 went to Japanese groups
+- Double-blind; short papers (8 pages plus references, 10 pages total); two-round review in which some papers get
+  a resubmit-with-response-letter decision
+- 'Very small: 5 of 26 accepted in 2026, 7 of 18 in 2025, 6 of 10 in 2024'
+- Proceedings in ACM DL; attending requires AsiaCCS registration (workshop-only rate available)
+editions:
+- year: 2025
+  start: 2025-08-26
+  end: 2025-08-26
+  location: Hanoi, Vietnam
+  url: https://iseclab.ec.t.kanazawa-u.ac.jp/en/APKC2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-02-17
+    tz: AoE
+    label: Paper (extended from Jan 27)
+  - kind: notification
+    date: 2025-03-17
+    label: 1st notification (postponed from Mar 10)
+  - kind: other
+    date: 2025-03-24
+    label: Re-submission
+  - kind: notification
+    date: 2025-04-08
+    label: 2nd notification
+  - kind: camera_ready
+    date: 2025-05-25
+    label: Proceedings version (extended from Apr 28)
+- year: 2026
+  start: 2026-06-02
+  end: 2026-06-02
+  location: Bangalore, India
+  url: https://iseclab.ec.t.kanazawa-u.ac.jp/en/APKC2026.html
+  deadlines:
+  - kind: submission
+    date: 2026-02-10
+    tz: AoE
+    label: Paper (extended from Jan 20)
+  - kind: notification
+    date: 2026-03-09
+    label: 1st notification
+  - kind: other
+    date: 2026-03-16
+    label: Re-submission
+  - kind: notification
+    date: 2026-03-30
+    label: 2nd notification
+  - kind: camera_ready
+    date: 2026-04-07
+    label: Proceedings version
+sources:
+- https://iseclab.ec.t.kanazawa-u.ac.jp/en/APKC2026.html
+- https://iseclab.ec.t.kanazawa-u.ac.jp/en/APKC2025.html
+- https://asiaccs2026.cse.iitkgp.ac.in/registration/
+- https://asiaccs2027.cityu.edu.mo/workshops/index.html
+- https://asiaccs2027.cityu.edu.mo/call-for-workshops/index.html
+- https://portal.core.edu.au/conf-ranks/?search=APKC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- APKC 2027 not announced; AsiaCCS 2027 is Jul 12-16, 2027 in Macau and its call for workshops sets the workshop
+  day to Jul 13, 2027, but the workshop list is still TBA
+last_verified: 2026-09-28

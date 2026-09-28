@@ -1,0 +1,84 @@
+id: isai-nlp
+name: iSAI-NLP
+full_name: International Joint Symposium on Artificial Intelligence and Natural Language Processing
+type: conference
+tier: minor
+areas: [ai, nlp, vision, security]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Artificial Intelligence Association of Thailand (AIAT)
+organizer_country: [thailand]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+rank:
+  core: Unranked
+fee: 18,000 THB early non-member (includes 1-year AIAT membership), 13,500 THB student (2026)
+typical:
+  deadline_months: [3, 8, 9]
+  conference_months: [11]
+links:
+  website: https://isai-nlp2026.aiat.or.th/
+notes:
+- Organized by AIAT (Artificial Intelligence Association of Thailand); 21st edition in 2026
+- Held in Thailand every November in a different city (Chiang Mai 2022, Bangkok 2023, Chonburi 2024, Phuket 2025,
+  Bangkok 2026); 2025 was hybrid, 2026 is in person only
+- 'Broad AI scope despite the name: NLP, robotics and IoT, signal/image/speech, IoT security, AI governance'
+- IEEE format, max 6 pages, double-anonymous review; no-show papers are excluded from IEEE Xplore
+- JSAI members get the member registration rate; 2025 had two submission rounds
+editions:
+- year: 2025
+  label: iSAI-NLP 2025 (20th)
+  start: 2025-11-12
+  end: 2025-11-14
+  location: Phuket, Thailand
+  url: https://isai-nlp2025.aiat.or.th/
+  deadlines:
+  - kind: submission
+    date: 2025-03-30
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2025-05-20
+    label: Round 1 (extended from May 15)
+  - kind: submission
+    date: 2025-09-01
+    time: '23:59'
+    tz: AoE
+    label: Round 2 (extended from Aug 24)
+  - kind: notification
+    date: 2025-10-03
+    label: Round 2 (extended from Sep 24)
+  - kind: camera_ready
+    date: 2025-10-10
+- year: 2026
+  label: iSAI-NLP 2026 (21st)
+  start: 2026-11-19
+  end: 2026-11-21
+  location: Bangkok, Thailand
+  url: https://isai-nlp2026.aiat.or.th/
+  deadlines:
+  - kind: submission
+    date: 2026-09-08
+    label: Papers, final call (extended from Aug 15 and Sep 1)
+  - kind: notification
+    date: 2026-10-03
+    label: Extended from Sep 15
+  - kind: camera_ready
+    date: 2026-10-10
+    label: Extended from Sep 30
+sources:
+- https://isai-nlp2026.aiat.or.th/
+- https://isai-nlp2026.aiat.or.th/submission
+- https://isai-nlp2026.aiat.or.th/registration
+- https://isai-nlp2026.aiat.or.th/venue
+- https://isai-nlp2025.aiat.or.th/
+- https://api.crossref.org/works?query.container-title=Joint+Symposium+on+Artificial+Intelligence+and+Natural+Language+Processing&filter=member:263
+- https://portal.core.edu.au/conf-ranks/?search=iSAI-NLP&by=all&source=all
+unverified:
+- Deadline time zone for 2026 (2025 used 23:59 AoE)
+- Acceptance rate
+- DBLP coverage
+last_verified: 2026-09-28

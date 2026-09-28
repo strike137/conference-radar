@@ -1,0 +1,65 @@
+id: iwqos
+name: IWQoS
+full_name: IEEE/ACM International Symposium on Quality of Service
+type: conference
+tier: major
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE and ACM (website hosted by IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, DBLP]
+rank:
+  core: B
+  ccf: B
+fee: 900 USD ComSoc member / 1,120 USD non-member, early (2026, full conference)
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://iwqos2026.ieee-iwqos.org/
+  dblp: https://dblp.org/db/conf/iwqos/
+  wikicfp: http://www.wikicfp.com/cfp/program?id=1855
+notes:
+- Long-running QoS venue (since 1993, originally the International Workshop on Quality of Service); CORE B and CCF
+  B
+- Double-blind review, 10-page limit including references; abstract deadline one week before the full paper deadline,
+  usually in February
+- Location rotates globally with frequent Asia-Pacific editions (2024 Guangzhou, 2025 Gold Coast); 2026 was moved
+  from Dubai to Istanbul
+- Has workshops and a poster track in addition to the main symposium
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-02
+  location: Istanbul, Türkiye
+  url: https://iwqos2026.ieee-iwqos.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-16
+    label: Extended
+  - kind: submission
+    date: 2026-02-23
+    label: Full paper (extended)
+  - kind: notification
+    date: 2026-04-30
+    label: Extended
+  - kind: camera_ready
+    date: 2026-05-20
+    label: Extended
+sources:
+- https://iwqos2026.ieee-iwqos.org/
+- https://iwqos2026.ieee-iwqos.org/call-papers
+- https://iwqos2026.ieee-iwqos.org/registration
+- https://iwqos2026.ieee-iwqos.org/important-notice-about-symposium-location
+- https://portal.core.edu.au/conf-ranks/?search=IWQoS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://api.crossref.org/works?query.bibliographic=IWQoS+International+Workshop+on+Quality+of+Service&filter=type:proceedings,until-pub-date:2000
+- http://www.wikicfp.com/cfp/program?id=1855
+unverified:
+- Acceptance rate
+- IWQoS 2027 dates and location (iwqos2027.ieee-iwqos.org not public yet)
+- Deadline time zone for 2026 (seed data says AoE, not stated on the official page)
+last_verified: 2026-09-28

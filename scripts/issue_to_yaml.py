@@ -23,6 +23,7 @@ DATA = ROOT / "data" / "conferences"
 LABELS = {
     "Short name": "name", "Full name": "full_name", "Official website": "website", "Areas": "areas",
     "Tier": "tier", "Type": "type", "Where it is usually held": "region", "Organizer": "organizer",
+    "Run by (country of the organizing society or institution)": "organizer_country",
     "Proceedings": "proceedings", "CORE rank": "core", "CCF rank": "ccf", "Edition year": "year",
     "Conference dates": "dates", "Location": "location", "Deadlines": "deadlines", "Notes": "notes",
     "Acceptance rate": "acceptance_rate", "Registration fee": "fee", "Sources": "sources",
@@ -141,6 +142,8 @@ def build_record(form: dict[str, str], author: str | None) -> dict:
     for key in ("organizer", "proceedings"):
         if form.get(key):
             rec[key] = form[key]
+    if form.get("organizer_country"):
+        rec["organizer_country"] = [x.strip() for x in form["organizer_country"].split(",") if x.strip()]
     rank = {}
     if form.get("core"):
         rank["core"] = form["core"]

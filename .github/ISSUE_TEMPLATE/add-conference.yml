@@ -66,6 +66,13 @@ body:
     attributes:
       label: Organizer
       placeholder: KIISC, IEEE Computer Society, INSTICC, ...
+  - type: dropdown
+    id: organizer_country
+    attributes:
+      label: Run by (country of the organizing society or institution)
+      description: Not where it is held. ICAIIC is held in Japan but run by the Korean KICS, so pick korea.
+      multiple: true
+      options: [japan, korea, taiwan, china, singapore, india, vietnam, thailand, indonesia, malaysia, philippines, australia, new-zealand, usa, canada, europe, international, other]
   - type: input
     id: proceedings
     attributes:

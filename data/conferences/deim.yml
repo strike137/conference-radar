@@ -1,0 +1,69 @@
+id: deim
+name: DEIM
+full_name: DEIM Forum (Forum on Data Engineering and Information Management), annual conference of the Database
+  Society of Japan
+name_local: データ工学と情報マネジメントに関するフォーラム
+type: conference
+tier: domestic
+areas: [data]
+region: japan
+language: japanese
+frequency: annual
+organizer: DBSJ (Database Society of Japan), IEICE Technical Committee on Data Engineering, IPSJ SIG on Database
+  and Data Science
+organizer_country: [japan]
+proceedings: None (non-archival; papers posted on the Confit event site)
+archival: false
+rank:
+  core: Unranked
+typical:
+  deadline_months: [1, 12]
+  conference_months: [2, 3]
+links:
+  website: https://dbsj.org/events/host/deim2026/
+notes:
+- Annual DBSJ forum co-organized with IEICE DE and IPSJ DBS; Japan's main meeting for databases, data engineering
+  and web/IR, usually 400+ presentations
+- 'Serial hybrid format: online oral sessions first, then onsite interactive (poster) sessions, tutorials and the
+  DBSJ hour a few days later'
+- In principle every presentation is an online oral talk plus an onsite interactive presentation; interactive-only
+  submissions are not accepted; long (about 8 pages) or short (about 4 pages) papers
+- Onsite venue rotates (2025 Fukuoka, 2026 Kobe); mostly student presentations in Japanese
+editions:
+- year: 2025
+  label: DEIM2025
+  start: 2025-02-27
+  end: 2025-03-04
+  location: Fukuoka, Japan (onsite Mar 3-4) and Online (Feb 27-Mar 1)
+  url: https://dbsj.org/events/host/deim2025/
+  deadlines: []
+- year: 2026
+  label: DEIM2026 (18th forum, 24th DBSJ annual meeting)
+  start: 2026-02-28
+  end: 2026-03-05
+  location: Kobe, Japan (onsite Mar 4-5) and Online (Feb 28-Mar 2)
+  url: https://pub.confit.atlas.jp/ja/event/deim2026
+  deadlines:
+  - kind: abstract
+    date: 2025-12-17
+    label: Paper registration
+  - kind: submission
+    date: 2026-01-07
+    label: First draft
+  - kind: camera_ready
+    date: 2026-02-11
+    label: Proceedings version
+  - kind: other
+    date: 2026-03-18
+    label: Final paper
+sources:
+- https://dbsj.org/events/host/deim2026/
+- https://dbsj.org/events/host/deim2025/
+- https://dbsj.org/events/host/deim2024/
+- https://portal.core.edu.au/conf-ranks/?search=DEIM&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- DEIM2025 submission deadlines (Confit site returns 403 to automated access)
+- DEIM2027 dates and venue not yet announced on dbsj.org (no deim2027 page as of 2026-09-28)
+- Registration fees
+- Whether English-language presentations are accepted
+last_verified: 2026-09-28

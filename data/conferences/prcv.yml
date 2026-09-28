@@ -1,0 +1,99 @@
+id: prcv
+name: PRCV
+full_name: Chinese Conference on Pattern Recognition and Computer Vision
+name_local: 中国模式识别与计算机视觉大会
+type: conference
+tier: minor
+areas: [vision, ai]
+region: china
+language: english
+frequency: annual
+organizer: CAAI, CCF, CAA and CSIG (Chinese Association for Artificial Intelligence, China Computer Federation,
+  Chinese Association of Automation, China Society of Image and Graphics)
+organizer_country: [china]
+proceedings: Springer LNCS
+archival: true
+indexing: [EI, ISTP, DBLP]
+rank:
+  core: Unranked
+  ccf: C
+acceptance_rate: 29% (2025, 692/2370)
+fee: 3,600 CNY paper registration; 1,600 CNY student early (2025)
+typical:
+  deadline_months: [4, 5, 6]
+  conference_months: [8, 10]
+links:
+  website: https://www.prcv.cn/
+notes:
+- Jointly organized by CAAI, CCF, CAA and CSIG; moves to a different Chinese city each year (2024 Urumqi, 2025 Shanghai,
+  2026 Harbin)
+- CCF-C; papers must be in English (14 pages LNCS, double-blind) and appear in Springer LNCS, indexed by EI
+- 'Very large for a C-ranked venue: 2,370 submissions and 692 accepted (about 29%) in 2025, split over 18 LNCS volumes'
+- 'Special session papers go through the same review but have a later deadline than the main track; main deadlines
+  are usually extended (2025: Jun 3 -> Jun 30; 2026: Apr 15 -> May 30)'
+- Audience is mostly from Chinese universities and industry; registration is paid in CNY
+editions:
+- year: 2025
+  label: 8th PRCV
+  start: 2025-10-15
+  end: 2025-10-18
+  location: Shanghai, China
+  url: http://2025.prcv.cn/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: '23:59'
+    tz: UTC+8
+    label: Regular papers (final extension)
+  - kind: submission
+    date: 2025-07-10
+    time: '23:59'
+    tz: UTC+8
+    label: Special session papers
+  - kind: notification
+    date: 2025-08-23
+  - kind: camera_ready
+    date: 2025-08-31
+- year: 2026
+  label: 9th PRCV
+  start: 2026-08-22
+  end: 2026-08-25
+  location: Harbin, China
+  url: https://www.prcv.cn/
+  deadlines:
+  - kind: submission
+    date: 2026-05-30
+    time: '23:59'
+    tz: AoE
+    label: Regular papers (extended from Apr 15)
+  - kind: submission
+    date: 2026-06-20
+    time: '23:59'
+    tz: UTC+8
+    label: Special session papers
+  - kind: notification
+    date: 2026-07-10
+    label: Main track (postponed from Jun 20)
+  - kind: camera_ready
+    date: 2026-07-15
+    label: Main track
+  - kind: notification
+    date: 2026-07-15
+    label: Special session papers
+  - kind: camera_ready
+    date: 2026-07-20
+    label: Special session papers
+sources:
+- https://www.prcv.cn/api/wxapp/meeting/get_home_data
+- https://oss.ausite.cn/xcxkf307/admin/20260628/94a87af511b39d2867387396c9b83078.png
+- https://www.prcv.cn/api/wxapp/public/find_setting (name=call_special_paper, call_paper)
+- https://www.prcv.cn/api/wxapp/news/get_news
+- https://www.prcv.cn/web/#/calls/callForPapers
+- http://2025.prcv.cn/ImportantDates/
+- http://2025.prcv.cn/Registration/
+- https://link.springer.com/book/10.1007/978-981-95-5699-1
+- https://portal.core.edu.au/conf-ranks/?search=PRCV&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- PRCV 2026 registration fees
+- PRCV 2027 location and dates not yet announced
+last_verified: 2026-09-28

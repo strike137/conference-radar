@@ -1,0 +1,71 @@
+id: indicon
+name: IEEE INDICON
+full_name: IEEE India Council International Conference
+type: conference
+tier: minor
+areas: [general, communications, ai]
+region: south-asia
+language: english
+frequency: annual
+organizer: 'IEEE India Council, with a host IEEE section each year (2025: IEEE Bangalore Section)'
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+rank:
+  core: Unranked
+fee: 400 USD IEEE member / 500 USD non-member / 300 USD IEEE student member for foreign delegates, plus 18% GST
+  (2025)
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://www.ieeeindicon.org
+notes:
+- Flagship annual conference of the IEEE India Council; successor of the Annual Convention and Exhibition (ACE),
+  first INDICON in 2004
+- Held in India, usually in December, at a different host each year (2024 IIT Kharagpur, 2025 IIIT Bangalore, 2026
+  Chennai)
+- Broad EE and CS scope with about ten tracks; 4 to 6 page papers, double-blind review
+- Accepted and presented papers are submitted to IEEE Xplore
+editions:
+- year: 2025
+  start: 2025-12-18
+  end: 2025-12-20
+  location: Bangalore, India
+  url: https://www.ieeeindicon.org
+  deadlines:
+  - kind: submission
+    date: 2025-08-31
+    tz: AoE
+  - kind: notification
+    date: 2025-11-10
+    tz: AoE
+  - kind: other
+    date: 2025-12-05
+    label: Registration window closes
+- year: 2026
+  start: 2026-12-18
+  end: 2026-12-20
+  location: Chennai, India
+  url: https://ieeeindiacouncil.org/ieee-india-council-international-conference-indicon-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+  - kind: notification
+    date: 2026-11-02
+  - kind: camera_ready
+    date: 2026-11-16
+sources:
+- https://www.ieeeindicon.org
+- https://ieeeindicon.org/register/
+- https://ieeeindicon.org/guidelines-and-policies/
+- https://ieeeindicon.org/call-for-papers/
+- https://ieeeindiacouncil.org/ieee-india-council-international-conference-indicon-2026/
+- https://ieeeindiacouncil.org/indicon-2-2/
+- https://api.crossref.org/works?query.bibliographic=IEEE+India+Council+International+Conference+INDICON&filter=type:proceedings
+unverified:
+- INDICON 2025 camera-ready date (official pages list both 2025-12-02 and 2025-12-05)
+- Dedicated INDICON 2026 website and host section (venue announced as Sri Sai Ram Engineering College, Chennai)
+- DBLP venue page
+last_verified: 2026-09-28
