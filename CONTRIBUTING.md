@@ -14,6 +14,7 @@ instead; a bot converts it into a pull request.
 - Quote a note that contains `: ` or ` #`, otherwise YAML reads it as something else:
   `- "Acceptance rate: 24% (2025)"`.
 - Run `python3 scripts/build.py --check` (or let the "Check data" action do it).
+- `python3 scripts/stale.py` lists venues whose next call for papers is due, so you know what to update first.
 
 ## Fields
 
