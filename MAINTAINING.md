@@ -38,8 +38,8 @@ should follow it too. Field definitions are in [CONTRIBUTING.md](CONTRIBUTING.md
   a local language.
 - `proceedings`: where papers are published (`IEEE Xplore`, `Springer LNCS`, `J-STAGE`, `ANLP website`, ...).
   Use `None` only when nothing is published, `None (participants only)` when only attendees get it. Set
-  `archival: false` for venues that are not peer-reviewed or do not count as publications; the site then
-  shows "not peer-reviewed".
+  `archival: false` for venues whose papers do not count as formal publications (no peer review, or only
+  preliminary proceedings with selected papers published later); the site then shows "non-archival".
 - Notes: short factual bullets like a lab seminar slide (organizer, proceedings, where it is held,
   reputation, acceptance rate, cost, anything unusual). Plain English. Never use em dashes or en dashes;
   write arrows as `->`. Quote a note that contains `: ` or ` #`.

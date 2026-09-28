@@ -33,7 +33,7 @@ instead; a bot converts it into a pull request.
 | `organizer` | no | `KIISC`, `IEEE ComSoc`, `INSTICC`, ... |
 | `organizer_country` | no | Country of the society or institution that runs it, not where it is held: `japan`, `korea`, `taiwan`, `china`, `singapore`, `india`, `vietnam`, `thailand`, `indonesia`, `malaysia`, `philippines`, `australia`, `new-zealand`, `usa`, `canada`, `europe`, `international` (global society flagships with a worldwide steering committee), `other`. Several are allowed: `[korea, japan]`. ICAIIC is held in Japan but run by KICS, so it is `[korea]`. |
 | `proceedings` | no | Where the papers are published: `Springer LNCS`, `IEEE Xplore`, `ACM DL`, `SCITEPRESS`, `J-STAGE`, `IPSJ Digital Library`, ... Write `None` only when nothing is published, or `None (participants only)` when the proceedings are handed to attendees only. |
-| `archival` | no | `false` for venues whose papers are not peer-reviewed or do not count as a publication (most domestic conferences); the site then marks the proceedings "not peer-reviewed". |
+| `archival` | no | `false` for venues whose papers do not count as a formal publication (no peer review, as at most domestic conferences, or only preliminary proceedings); the site then marks the proceedings "non-archival". |
 | `indexing` | no | `[Scopus, DBLP, EI]` |
 | `rank.core` | no | `A*`, `A`, `B`, `C`, `National`, `Regional`, `Unranked` from the [CORE portal](https://portal.core.edu.au/conf-ranks/). The edition shown on the site is set in `config.yml`; use `rank.core_source` if you had to take an older edition. |
 | `rank.ccf` | no | `A`, `B`, `C`, or leave empty if the CCF list does not include it |

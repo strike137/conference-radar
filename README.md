@@ -8,7 +8,7 @@ the Asian and smaller venues that students actually attend. Maintained by Jongmi
 ## What you can do on the site
 
 - **Table**: every venue with its tier, who runs it, areas, CORE and CCF rank, proceedings (where papers are
-  published, marked "not peer-reviewed" for non-archival venues such as most domestic conferences), next deadline (with countdown), next conference dates and location. Click a column header to sort (on phones use the Sort menu), click a row for
+  published, marked "non-archival" when it does not count as a formal publication, as at most domestic conferences), next deadline (with countdown), next conference dates and location. Click a column header to sort (on phones use the Sort menu), click a row for
   notes, all editions and deadlines, sources and edit links.
 - **Search and filters**: free text, area, tier, type, region where it is held (including "Asia (all)"), who runs it
   (Korean, Japanese, Chinese, Taiwanese, ... institutions), CORE, CCF, proceedings

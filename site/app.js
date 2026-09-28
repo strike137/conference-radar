@@ -34,19 +34,24 @@
     PST: -480, PDT: -420, MST: -420, MDT: -360, EST: -300, EDT: -240, IST: 330, SGT: 480, HKT: 480,
     AEST: 600, AEDT: 660, ICT: 420, WIB: 420,
   };
-  // Publisher detection for the Proceedings column and filter (first match gives the short label).
+  // Publisher detection for the Proceedings column and filter. Label and filter keys both use the
+  // current main outlet: the first ";" segment, ignoring parentheses about past or additional outlets.
+  const KOREAN_SOC = /\b(KIISE|KIPS|KICS|KSII|IEIE|KIISC|KIICE|KMMS|KMIS|KSCI|KIIS|KAIA)\b/;
   const PUBS = [
-    ['ieee', 'IEEE', /\bIEEE\b/i], ['springer', 'Springer', /\bSpringer\b|\b(LNCS|LNAI|CCIS|LNICST|LNDECT|AICT)\b/],
+    ['ieee', 'IEEE', /\bIEEE\b/i], ['springer', 'Springer', /\bSpringer\b|\b(LNCS|LNAI|CCIS|LNICST|LNDECT|AICT|LNNS)\b/],
     ['acm', 'ACM', /\bACM\b/], ['usenix', 'USENIX', /\bUSENIX\b/i], ['acl', 'ACL Anthology', /ACL Anthology/i],
     ['pmlr', 'PMLR', /\bPMLR\b/], ['openreview', 'OpenReview', /OpenReview/i], ['scitepress', 'SCITEPRESS', /SCITEPRESS/i],
     ['ndss', 'NDSS', /\bNDSS\b|Internet Society/], ['iacr', 'IACR', /\bIACR\b/], ['aaai', 'AAAI', /\bAAAI\b/],
-    ['ijcai', 'IJCAI', /\bIJCAI\b/], ['neurips', 'NeurIPS', /NeurIPS/], ['elsevier', 'Elsevier', /Elsevier/i],
-    ['ios', 'IOS Press', /IOS Press/i], ['siam', 'SIAM', /\bSIAM\b/], ['isca', 'ISCA', /\bISCA\b/],
+    ['ijcai', 'IJCAI', /\bIJCAI\b/], ['neurips', 'NeurIPS', /NeurIPS/], ['ifaamas', 'IFAAMAS', /IFAAMAS/],
+    ['elsevier', 'Elsevier', /Elsevier/i], ['ios', 'IOS Press', /IOS Press/i], ['siam', 'SIAM', /\bSIAM\b/],
+    ['isca', 'ISCA', /\bISCA\b/], ['easychair', 'EasyChair', /EasyChair/i], ['ceur', 'CEUR-WS', /CEUR/i],
     ['jstage', 'J-STAGE', /J-STAGE/i], ['ipsjdl', 'IPSJ Digital Library', /IPSJ Digital Library|Joho Gakkai Hiroba/i],
     ['anlp', 'ANLP website', /\bANLP\b/], ['ieice', 'IEICE', /\bIEICE\b/], ['ipsj', 'IPSJ', /\bIPSJ\b/],
+    ['korea', 'Korean society', KOREAN_SOC],
     ['iaria', 'IARIA', /\bIARIA\b/],
   ];
-  const SERIES = /\b(LNCS|LNAI|CCIS|LNICST|LNDECT|AICT)\b/;
+  const SERIES = /\b(LNCS|LNAI|CCIS|LNICST|LNDECT|AICT|LNNS)\b/;
+  const HIST = /\([^()]*\b(until|through|previously|formerly|also|before|since|earlier|not in)\b[^()]*\)/gi;
   const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
   const MONTHS_LONG = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   const DAY = 86400000;
@@ -202,21 +207,32 @@
       c.organizer_country.map((o) => ORG[o]).join(' ')].join(' \u0001 ').toLowerCase();
   }
 
-  // has: papers are published somewhere (even if not peer-reviewed); refereed: not marked archival: false.
+  // has: papers are published somewhere; refereed: counts as a formal publication (not marked archival: false).
+  function primary(raw) {
+    // Drop parentheticals about other or past outlets, keep the first ';' segment (the current main outlet).
+    const first = raw.replace(HIST, ' ').split(';')[0];
+    const bare = first.replace(/\([^()]*\)/g, ' ').replace(/\s+/g, ' ').trim();
+    for (const text of [bare, first]) {
+      const hits = PUBS.map((p) => [p, text.search(p[2])]).filter(([, i]) => i >= 0).sort((a, b) => a[1] - b[1]).map(([p]) => p)
+        .filter(([k], _, all) => !(k === 'ipsj' && all.some(([x]) => x === 'ipsjdl')));
+      if (hits.length) return { hits, text };
+    }
+    return { hits: [], text: bare };
+  }
   function procInfo(c) {
     const raw = c.proceedings || '';
     if (!raw) return { has: null, keys: [], label: '', raw: '' };
-    if (/^none\b/i.test(raw)) {
-      return { has: false, keys: [], label: /participants only/i.test(raw) ? 'Participants only' : 'None', raw };
-    }
-    const hits = PUBS.filter(([, , re]) => re.test(raw)).filter(([k], i, all) => !(k === 'ipsj' && all.some(([x]) => x === 'ipsjdl')));
-    const keys = hits.map(([k]) => k);
-    const series = SERIES.exec(raw);
+    if (/^none\b/i.test(raw)) return { has: false, keys: [], label: /participants only/i.test(raw) ? 'Participants only' : 'None', raw };
+    const { hits, text } = primary(raw);
+    const series = SERIES.exec(text);
     const names = hits.map(([k, name]) => (k === 'springer' && series ? `Springer ${series[1]}`
-      : k === 'ieee' && /Xplore/i.test(raw) ? 'IEEE Xplore' : k === 'acm' && /\bDL\b|Digital Library/.test(raw) ? 'ACM DL' : name));
-    let label = names.length ? names.slice(0, 2).join(' / ') : raw.split(/\s*[(;,]\s*/)[0];
-    if (label.length > 30) label = `${label.slice(0, 30).replace(/\s+\S*$/, '')}\u2026`;
-    return { has: true, refereed: c.archival !== false, keys: keys.length ? keys : ['other'], label, raw, lncs: /\bLNCS\b/.test(raw) };
+      : k === 'ieee' && /Xplore/i.test(text) ? 'IEEE Xplore' : k === 'acm' && /\bDL\b|Digital Library/.test(text) ? 'ACM DL'
+      : k === 'korea' ? text.match(KOREAN_SOC)[0] : name));
+    // Show every outlet the filter uses (at most three), so a filter hit is always visible in the label.
+    const shown = names.slice(0, 3);
+    let label = shown.length ? shown.join(' / ') : text.split(/\s*,\s*/)[0];
+    if (!shown.length && label.length > 30) label = `${label.slice(0, 30).replace(/\s+\S*$/, '')}…`;
+    return { has: true, refereed: c.archival !== false, keys: hits.length ? hits.slice(0, 3).map(([k]) => k) : ['other'], label, raw, lncs: /\bLNCS\b/.test(text) };
   }
 
   // Nearest month in `months` that has not ended yet (end of month, AoE).
@@ -388,7 +404,7 @@
     const p = c._proc;
     if (p.has === false) return `<span class="proc none" title="${esc(p.raw)}">${esc(p.label)}</span>`;
     if (p.has === null) return '<span class="rank none" title="not recorded">&middot;</span>';
-    return `<span class="proc" title="${esc(p.raw)}">${esc(p.label)}</span>${p.refereed ? '' : '<div class="sub">not peer-reviewed</div>'}`;
+    return `<span class="proc" title="${esc(p.raw)}">${esc(p.label)}</span>${p.refereed ? '' : '<div class="sub" title="Does not count as a formal publication: no peer review, or only preliminary proceedings">non-archival</div>'}`;
   }
   function rankCell(v, title) { return v ? `<span class="rank" title="${esc(title)}">${esc(v)}</span>` : `<span class="rank none" title="not listed">&middot;</span>`; }
   function deadlineHTML(it) {
@@ -446,7 +462,7 @@
     const facts = [
       ['Organizer', c.organizer], ['Run by', c.organizer_country.map((o) => ORG[o] || o).join(', ')], ['Type', TYPES[c.type]], ['Region', REGIONS[c.region]], ['Language', LANG[c.language]],
       ['Held', FREQ[c.frequency]],
-      ['Proceedings', c.proceedings ? `${c.proceedings}${c.archival === false && !/non-archival|not peer-reviewed|non-refereed/i.test(c.proceedings) ? ' (not peer-reviewed, non-archival)' : ''}` : (c.archival === false ? 'Non-archival' : '')],
+      ['Proceedings', c.proceedings ? `${c.proceedings}${c.archival === false && !/non-archival|not peer-reviewed|non-refereed/i.test(c.proceedings) ? ' (non-archival)' : ''}` : (c.archival === false ? 'Non-archival' : '')],
       ['Indexing', (c.indexing || []).join(', ')],
       [`CORE`, c.rank.core ? `${c.rank.core} (${c.rank.core_source || state.meta.core_edition || 'CORE'})` : ''],
       [`CCF`, c.rank.ccf ? `${c.rank.ccf} (${state.meta.ccf_edition || 'CCF'})` : ''],
@@ -719,14 +735,22 @@
       .concat(Object.keys(ORG).filter((k) => oc.get(k)).map((k) => [k, `${ORG[k]} (${oc.get(k)})`]))
       .map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join('');
     const pc = (fn) => state.all.filter((c) => fn(c._proc)).length;
+    const pubCount = new Map();
+    for (const c of state.all) if (c._proc.has) for (const k of c._proc.keys) pubCount.set(k, (pubCount.get(k) || 0) + 1);
+    const pubName = new Map(PUBS.map(([k, name]) => [k, name]));
+    pubName.set('korea', 'Korean society proceedings'); pubName.set('other', 'Other outlets');
+    const pubOpts = [...pubCount.entries()].sort((a, b) => (a[0] === 'other') - (b[0] === 'other') || b[1] - a[1])
+      .flatMap(([k, n]) => {
+        const row = [[k, `${pubName.get(k) || k} (${n})`]];
+        if (k === 'springer') row.push(['lncs', `Springer LNCS only (${pc((p) => p.lncs)})`]);
+        return row;
+      });
     $('#f-proc').innerHTML = [['', 'Any'], ['yes', `Published proceedings (${pc((p) => p.has === true)})`],
-      ['refereed', `Peer-reviewed proceedings (${pc((p) => p.has === true && p.refereed)})`],
-      ['nonref', `Published but not peer-reviewed (${pc((p) => p.has === true && !p.refereed)})`],
-      ['no', `No public proceedings (${pc((p) => p.has === false)})`],
-      ['ieee', `IEEE (${pc((p) => p.keys.includes('ieee'))})`], ['springer', `Springer (${pc((p) => p.keys.includes('springer'))})`],
-      ['lncs', `Springer LNCS (${pc((p) => p.lncs)})`], ['acm', `ACM (${pc((p) => p.keys.includes('acm'))})`],
-      ['acl', `ACL Anthology (${pc((p) => p.keys.includes('acl'))})`], ['other', `Other publishers (${pc((p) => p.keys.includes('other'))})`]]
-      .map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join('');
+      ['refereed', `Archival proceedings (${pc((p) => p.has === true && p.refereed)})`],
+      ['nonref', `Published, non-archival (${pc((p) => p.has === true && !p.refereed)})`],
+      ['no', `No public proceedings (${pc((p) => p.has === false)})`]]
+      .map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join('') +
+      `<optgroup label="Published by">${pubOpts.map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join('')}</optgroup>`;
     $('#th-core').title = `CORE rank (${state.meta.core_edition || ''})`;
     $('#th-ccf').title = `CCF rank (${state.meta.ccf_edition || ''})`;
   }
