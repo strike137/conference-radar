@@ -1,7 +1,7 @@
 # Conference Radar
 
 Deadlines, rankings and notes for security, AI, networking and general EECS conferences, with a focus on
-the Asian and smaller venues that students actually attend. Maintained by members of the Cybersecurity Lab at JAIST.
+the Asian and smaller venues that students actually attend. Maintained by Jongmin Lee.
 
 **Site:** https://strike137.github.io/conference-radar/
 
