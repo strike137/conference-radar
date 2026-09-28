@@ -55,6 +55,10 @@
         <span>CCF</span>
         <select id="f-ccf"></select>
       </label>
+      <label class="field collapsible">
+        <span>Proceedings</span>
+        <select id="f-proc"></select>
+      </label>
     </div>
     <div class="filter-row chips-row collapsible">
       <div class="chip-group" id="f-area" role="group" aria-label="Area"></div>
@@ -95,6 +99,7 @@
           <option value="tier">Tier</option>
           <option value="core">CORE rank</option>
           <option value="ccf">CCF rank</option>
+          <option value="proc">Proceedings</option>
           <option value="" hidden>Custom</option>
         </select>
       </label>
@@ -115,6 +120,7 @@
             <th scope="col">Areas</th>
             <th data-sort="core" scope="col" id="th-core"><button type="button">CORE</button></th>
             <th data-sort="ccf" scope="col" id="th-ccf"><button type="button">CCF</button></th>
+            <th data-sort="proc" scope="col" title="Where the papers are published; None = non-archival"><button type="button">Proceedings</button></th>
             <th data-sort="deadline" scope="col" aria-sort="ascending"><button type="button">Deadline</button></th>
             <th data-sort="conf" scope="col"><button type="button">Held</button></th>
             <th data-sort="region" scope="col"><button type="button">Location</button></th>

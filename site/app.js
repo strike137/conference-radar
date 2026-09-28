@@ -27,6 +27,17 @@
     PST: -480, PDT: -420, MST: -420, MDT: -360, EST: -300, EDT: -240, IST: 330, SGT: 480, HKT: 480,
     AEST: 600, AEDT: 660, ICT: 420, WIB: 420,
   };
+  // Publisher detection for the Proceedings column and filter (first match gives the short label).
+  const PUBS = [
+    ['ieee', 'IEEE', /\bIEEE\b/i], ['springer', 'Springer', /\bSpringer\b|\b(LNCS|LNAI|CCIS|LNICST|LNDECT|AICT)\b/],
+    ['acm', 'ACM', /\bACM\b/], ['usenix', 'USENIX', /\bUSENIX\b/i], ['acl', 'ACL Anthology', /ACL Anthology/i],
+    ['pmlr', 'PMLR', /\bPMLR\b/], ['openreview', 'OpenReview', /OpenReview/i], ['scitepress', 'SCITEPRESS', /SCITEPRESS/i],
+    ['ndss', 'NDSS', /\bNDSS\b|Internet Society/], ['iacr', 'IACR', /\bIACR\b/], ['aaai', 'AAAI', /\bAAAI\b/],
+    ['ijcai', 'IJCAI', /\bIJCAI\b/], ['neurips', 'NeurIPS', /NeurIPS/], ['elsevier', 'Elsevier', /Elsevier/i],
+    ['ios', 'IOS Press', /IOS Press/i], ['siam', 'SIAM', /\bSIAM\b/], ['isca', 'ISCA', /\bISCA\b/],
+    ['ieice', 'IEICE', /\bIEICE\b/], ['ipsj', 'IPSJ', /\bIPSJ\b/], ['iaria', 'IARIA', /\bIARIA\b/],
+  ];
+  const SERIES = /\b(LNCS|LNAI|CCIS|LNICST|LNDECT|AICT)\b/;
   const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
   const MONTHS_LONG = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   const DAY = 86400000;
@@ -101,7 +112,7 @@
 
   // ---------------------------------------------------------------- state
   const DEFAULT_FILTERS = () => ({
-    q: '', areas: new Set(), tiers: new Set(), types: new Set(), region: '', core: '', ccf: '',
+    q: '', areas: new Set(), tiers: new Set(), types: new Set(), region: '', core: '', ccf: '', proc: '',
     dlFrom: '', dlTo: '', cfFrom: '', cfTo: '', within: 0, est: true, upcoming: false,
   });
   const now0 = Date.now();
@@ -174,9 +185,23 @@
     c._nextSubEst = est.find((i) => isSub(i.kind) && i.t >= now) || null;
     c._nextConf = items.find((i) => i.kind === 'conf' && i.tEnd > now) || null;
     c._nextConfEst = est.find((i) => i.kind === 'conf' && i.tEnd > now) || null;
+    c._proc = procInfo(c);
     const locs = c.editions.map((e) => e.location).filter(Boolean).join(' ');
     c._hay = [c.id, c.name, c.full_name, c.name_local, c.organizer, c.proceedings, locs, REGIONS[c.region],
       c.areas.map((a) => AREAS[a]).join(' '), c.notes.join(' '), (c.indexing || []).join(' ')].join(' \u0001 ').toLowerCase();
+  }
+
+  function procInfo(c) {
+    const raw = c.proceedings || '';
+    if (c.archival === false || /^none\b/i.test(raw)) return { has: false, keys: [], label: 'None', raw: raw || 'Non-archival' };
+    if (!raw) return { has: null, keys: [], label: '', raw: '' };
+    const hits = PUBS.filter(([, , re]) => re.test(raw));
+    const keys = hits.map(([k]) => k);
+    const series = SERIES.exec(raw);
+    const names = hits.map(([k, name]) => (k === 'springer' && series ? `Springer ${series[1]}`
+      : k === 'ieee' && /Xplore/i.test(raw) ? 'IEEE Xplore' : k === 'acm' && /\bDL\b|Digital Library/.test(raw) ? 'ACM DL' : name));
+    const label = names.length ? names.slice(0, 2).join(' / ') : raw.split(/\s*[(;,]\s*/)[0].slice(0, 32);
+    return { has: true, keys: keys.length ? keys : ['other'], label, raw, lncs: /\bLNCS\b/.test(raw) };
   }
 
   // Nearest month in `months` that has not ended yet (end of month, AoE).
@@ -246,6 +271,13 @@
       else if (f.core === 'none' && o <= 3) return false;
       else if (['A*', 'A', 'B', 'C'].includes(f.core) && core !== f.core) return false;
     }
+    if (f.proc) {
+      const p = c._proc;
+      if (f.proc === 'yes' && p.has !== true) return false;
+      else if (f.proc === 'no' && p.has !== false) return false;
+      else if (f.proc === 'lncs' && !p.lncs) return false;
+      else if (!['yes', 'no', 'lncs'].includes(f.proc) && !p.keys.includes(f.proc)) return false;
+    }
     const ccf = c.rank.ccf;
     if (f.ccf) {
       if (f.ccf === 'listed' && !ccf) return false;
@@ -271,6 +303,7 @@
       case 'core': return coreOrder(c.rank.core);
       case 'ccf': return c.rank.ccf in CCF_ORDER ? CCF_ORDER[c.rank.ccf] : 99;
       case 'region': return (REGIONS[c.region] || 'zz').toLowerCase();
+      case 'proc': return c._proc.has === true ? c._proc.label.toLowerCase() : c._proc.has === false ? '~~none' : '~~~';
       case 'conf': { const i = shownConf(c); return i ? i.t : Infinity; }
       default: {
         const i = shownDeadline(c);
@@ -325,6 +358,12 @@
   // ---------------------------------------------------------------- rendering helpers
   function tierBadge(c) { return `<span class="badge tier-${esc(c.tier)}">${esc(TIERS[c.tier] || c.tier)}</span>`; }
   function typeBadge(c) { return c.type && c.type !== 'conference' ? ` <span class="badge type-badge">${esc(TYPES[c.type] || c.type)}</span>` : ''; }
+  function procCell(c) {
+    const p = c._proc;
+    if (p.has === false) return `<span class="proc none" title="${esc(p.raw)}">None</span><div class="sub">non-archival</div>`;
+    if (p.has === null) return '<span class="rank none" title="not recorded">&middot;</span>';
+    return `<span class="proc" title="${esc(p.raw)}">${esc(p.label)}</span>`;
+  }
   function rankCell(v, title) { return v ? `<span class="rank" title="${esc(title)}">${esc(v)}</span>` : `<span class="rank none" title="not listed">&middot;</span>`; }
   function deadlineHTML(it) {
     if (!it) return '<span class="sub">no date yet</span>';
@@ -433,11 +472,12 @@
         <td class="areas-cell" data-label="Areas"><div class="tags">${c.areas.map((a) => `<span class="tag">${esc(AREAS[a] || a)}</span>`).join('')}</div></td>
         <td data-label="CORE">${rankCell(c.rank.core, c.rank.core_source || state.meta.core_edition)}</td>
         <td data-label="CCF">${rankCell(c.rank.ccf, state.meta.ccf_edition)}</td>
+        <td data-label="Proceedings">${procCell(c)}</td>
         <td data-label="Deadline">${deadlineHTML(dl)}</td>
         <td data-label="Conference">${confHTML(cf)}</td>
         <td data-label="Location">${locationHTML(c, cf)}</td>
       </tr>`);
-      if (open) rows.push(`<tr class="detail-row" data-for="${esc(c.id)}"><td colspan="8">${detailsHTML(c)}</td></tr>`);
+      if (open) rows.push(`<tr class="detail-row" data-for="${esc(c.id)}"><td colspan="9">${detailsHTML(c)}</td></tr>`);
     }
     $('#rows').innerHTML = rows.join('');
     $('#empty').hidden = list.length > 0;
@@ -605,7 +645,7 @@
     if (f.areas.size) p.set('area', [...f.areas].join(','));
     if (f.tiers.size) p.set('tier', [...f.tiers].join(','));
     if (f.types.size) p.set('type', [...f.types].join(','));
-    for (const [k, v] of [['region', f.region], ['core', f.core], ['ccf', f.ccf], ['dlf', f.dlFrom], ['dlt', f.dlTo], ['cff', f.cfFrom], ['cft', f.cfTo]]) if (v) p.set(k, v);
+    for (const [k, v] of [['region', f.region], ['core', f.core], ['ccf', f.ccf], ['proc', f.proc], ['dlf', f.dlFrom], ['dlt', f.dlTo], ['cff', f.cfFrom], ['cft', f.cfTo]]) if (v) p.set(k, v);
     if (f.within) p.set('within', String(f.within));
     if (!f.est) p.set('est', '0');
     if (f.upcoming) p.set('up', '1');
@@ -617,7 +657,7 @@
     const p = new URLSearchParams(location.search); const f = state.f;
     const set = (s) => new Set((s || '').split(',').filter(Boolean));
     f.q = p.get('q') || ''; f.areas = set(p.get('area')); f.tiers = set(p.get('tier')); f.types = set(p.get('type'));
-    f.region = p.get('region') || ''; f.core = p.get('core') || ''; f.ccf = p.get('ccf') || '';
+    f.region = p.get('region') || ''; f.core = p.get('core') || ''; f.ccf = p.get('ccf') || ''; f.proc = p.get('proc') || '';
     f.dlFrom = p.get('dlf') || ''; f.dlTo = p.get('dlt') || ''; f.cfFrom = p.get('cff') || ''; f.cfTo = p.get('cft') || '';
     f.within = [30, 90, 180].includes(Number(p.get('within'))) ? Number(p.get('within')) : 0;
     f.est = p.get('est') !== '0'; f.upcoming = p.get('up') === '1';
@@ -646,19 +686,25 @@
       .map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join('');
     $('#f-ccf').innerHTML = [['', 'Any'], ['A', 'A'], ['B', 'B'], ['C', 'C'], ['listed', 'Listed (A/B/C)'], ['none', 'Not listed']]
       .map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join('');
+    const pc = (fn) => state.all.filter((c) => fn(c._proc)).length;
+    $('#f-proc').innerHTML = [['', 'Any'], ['yes', `Has proceedings (${pc((p) => p.has === true)})`], ['no', `None, non-archival (${pc((p) => p.has === false)})`],
+      ['ieee', `IEEE (${pc((p) => p.keys.includes('ieee'))})`], ['springer', `Springer (${pc((p) => p.keys.includes('springer'))})`],
+      ['lncs', `Springer LNCS (${pc((p) => p.lncs)})`], ['acm', `ACM (${pc((p) => p.keys.includes('acm'))})`],
+      ['acl', `ACL Anthology (${pc((p) => p.keys.includes('acl'))})`], ['other', `Other publishers (${pc((p) => p.keys.includes('other'))})`]]
+      .map(([v, l]) => `<option value="${esc(v)}">${esc(l)}</option>`).join('');
     $('#th-core').title = `CORE rank (${state.meta.core_edition || ''})`;
     $('#th-ccf').title = `CCF rank (${state.meta.ccf_edition || ''})`;
   }
   function syncControls() {
     const f = state.f;
     const q = $('#q'); if (document.activeElement !== q && q.value.trim() !== f.q) q.value = f.q;
-    $('#f-region').value = f.region; $('#f-core').value = f.core; $('#f-ccf').value = f.ccf;
+    $('#f-region').value = f.region; $('#f-proc').value = f.proc; $('#f-core').value = f.core; $('#f-ccf').value = f.ccf;
     $('#dl-from').value = f.dlFrom; $('#dl-to').value = f.dlTo; $('#cf-from').value = f.cfFrom; $('#cf-to').value = f.cfTo;
     $('#opt-est').checked = f.est; $('#opt-upcoming').checked = f.upcoming;
     document.querySelectorAll('#dl-quick button').forEach((b) => b.setAttribute('aria-pressed', String(Number(b.dataset.days) === f.within)));
     const sortSel = $('#sort-sel'); const sv = `${state.sort.key}${state.sort.dir < 0 ? '-' : ''}`;
     sortSel.value = [...sortSel.options].some((o) => o.value === sv) ? sv : '';
-    const active = f.areas.size + f.tiers.size + f.types.size + [f.region, f.core, f.ccf, f.dlFrom || f.dlTo || f.within, f.cfFrom || f.cfTo, f.upcoming, !f.est].filter(Boolean).length;
+    const active = f.areas.size + f.tiers.size + f.types.size + [f.region, f.core, f.ccf, f.proc, f.dlFrom || f.dlTo || f.within, f.cfFrom || f.cfTo, f.upcoming, !f.est].filter(Boolean).length;
     $('#filters-toggle').innerHTML = `Filters${active ? ` <span class="n">${active}</span>` : ''}`;
     document.querySelectorAll('.chip').forEach((b) => b.setAttribute('aria-pressed', String(f[b.dataset.group].has(b.dataset.key))));
     document.querySelectorAll('.tabs button').forEach((b) => { if (b.dataset.view === state.view) b.setAttribute('aria-current', 'page'); else b.removeAttribute('aria-current'); });
@@ -680,7 +726,7 @@
 
   function bind() {
     $('#q').addEventListener('input', (e) => { state.f.q = e.target.value.trim(); renderSoon(); });
-    for (const [id, key] of [['#f-region', 'region'], ['#f-core', 'core'], ['#f-ccf', 'ccf'], ['#dl-from', 'dlFrom'], ['#dl-to', 'dlTo'], ['#cf-from', 'cfFrom'], ['#cf-to', 'cfTo']]) {
+    for (const [id, key] of [['#f-region', 'region'], ['#f-core', 'core'], ['#f-ccf', 'ccf'], ['#f-proc', 'proc'], ['#dl-from', 'dlFrom'], ['#dl-to', 'dlTo'], ['#cf-from', 'cfFrom'], ['#cf-to', 'cfTo']]) {
       $(id).addEventListener('change', (e) => {
         state.f[key] = e.target.value;
         if (key === 'dlFrom' || key === 'dlTo') state.f.within = 0;
@@ -829,7 +875,7 @@
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       data = await res.json();
     } catch (err) {
-      $('#rows').innerHTML = `<tr><td colspan="8" class="empty">Could not load conferences.json (${esc(err.message)}). Run <code>python3 scripts/build.py --serve</code>.</td></tr>`;
+      $('#rows').innerHTML = `<tr><td colspan="9" class="empty">Could not load conferences.json (${esc(err.message)}). Run <code>python3 scripts/build.py --serve</code>.</td></tr>`;
       return;
     }
     state.meta = data.meta || {};
