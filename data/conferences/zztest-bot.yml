@@ -1,0 +1,34 @@
+id: zztest-bot
+name: ZZTEST
+full_name: Bot Test Conference (please ignore)
+type: conference
+tier: minor
+areas:
+- security
+- ai
+region: japan
+organizer: Test Society
+proceedings: Springer LNCS
+organizer_country:
+- japan
+links:
+  website: https://example.org/zztest/
+notes:
+- Automated test of the issue bot; will be deleted
+editions:
+- year: 2027
+  start: '2027-02-03'
+  end: '2027-02-05'
+  location: Kanazawa, Japan
+  deadlines:
+  - kind: submission
+    date: '2026-11-06'
+    time: '23:59'
+    tz: AoE
+    label: Regular papers (extended)
+  - kind: notification
+    date: '2026-12-10'
+sources:
+- https://example.org/zztest/cfp
+last_verified: '2026-09-28'
+added_by: strike137
