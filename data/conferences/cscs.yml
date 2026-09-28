@@ -1,0 +1,74 @@
+id: cscs
+name: CSCS
+full_name: Cyber Security in Cars Workshop
+type: workshop
+tier: minor
+areas: [security, systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: General chair Hans-Joachim Hof (TH Ingolstadt); PC co-chairs Mario Fritz (CISPA) and Christoph Krauss
+  (Darmstadt University of Applied Sciences)
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10]
+links:
+  website: https://www.acm-cscs.org/
+notes:
+- Successor of the ACM Computer Science in Cars Symposium (7 editions, 2017 to 2023, held in Germany; online in
+  2020 and 2021)
+- 'Moved to ACM CCS as a workshop: 1st at CCS 2024 (Salt Lake City), 2nd at CCS 2025 (Taipei)'
+- Double-blind; in 2025 full papers up to 10 pages, short or WIP papers up to 6 pages (ACM sigconf)
+- Chairs and many authors come from German universities and the German automotive industry
+- Not in the ACM CCS 2026 workshop list; no 2026 edition announced as of Sep 2026
+editions:
+- year: 2024
+  start: 2024-10-18
+  end: 2024-10-18
+  location: Salt Lake City, USA
+  url: https://acm-cscs.org/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-07-04
+    time: '23:59'
+    tz: AoE
+    label: Full papers (extended from 2024-06-20)
+  - kind: notification
+    date: 2024-08-12
+  - kind: camera_ready
+    date: 2024-09-09
+    label: Extended from 2024-08-28
+- year: 2025
+  start: 2025-10-17
+  end: 2025-10-17
+  location: Taipei, Taiwan
+  url: https://www.acm-cscs.org/
+  deadlines:
+  - kind: submission
+    date: 2025-06-29
+    tz: AoE
+    label: Paper submission (extended from 2025-06-20)
+  - kind: notification
+    date: 2025-08-04
+    label: Moved from 2025-07-28
+  - kind: camera_ready
+    date: 2025-09-03
+    label: Moved from 2025-08-19
+sources:
+- https://www.acm-cscs.org/
+- https://acm-cscs.org/2024/
+- https://acm-cscs.org/2023/
+- https://acm-cscs.org/2020/
+- https://acm-cscs.org/2021/
+- https://www.sigsac.org/ccs/CCS2025/events/
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://doi.org/10.1145/3689936
+- https://doi.org/10.1145/3736130
+unverified:
+- Whether CSCS continues in 2026 or 2027 at another venue
+last_verified: 2026-09-28

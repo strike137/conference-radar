@@ -1,0 +1,87 @@
+id: icpr
+name: ICPR
+full_name: International Conference on Pattern Recognition
+type: conference
+tier: major
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IAPR (International Association for Pattern Recognition)
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [Scopus, DBLP]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 50% (2026, 710/1432)
+fee: 980 EUR (2026, early author registration, non-IAPR member); 500 EUR student
+typical:
+  deadline_months: [1, 3, 4]
+  conference_months: [8, 10, 12]
+links:
+  website: https://icpr2026.org/
+notes:
+- Flagship conference of IAPR, held in person every two years (2024 Kolkata, 2026 Lyon, 2028 Sydney)
+- IAPR adds a first virtual 29th ICPR (ICPRv) in October 2027 between in-person editions, with the same paper length,
+  reviewing and Springer LNCS proceedings; all its dates are still marked tentative
+- Proceedings in Springer LNCS for the 2024 and 2026 editions; the 2028 preliminary CFP asks for LNCS papers of
+  at most 15 pages
+- Single-blind review with at least two reviews per paper; acceptance around 50% (710 of 1432 in 2026)
+editions:
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-22
+  location: Lyon, France
+  url: https://icpr2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-01-10
+    tz: AoE
+    label: Main conference papers
+  - kind: notification
+    date: 2026-03-31
+  - kind: camera_ready
+    date: 2026-05-04
+- year: 2027
+  label: ICPRv 2027 (29th ICPR, virtual; sessions Oct 4 to 6 and Oct 14 to 15)
+  start: 2027-10-04
+  end: 2027-10-15
+  location: Online
+  url: https://www.icpr2027.com/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2027-03-01
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2027-04-16
+    label: Author rebuttal (provisional)
+  - kind: notification
+    date: 2027-05-24
+  - kind: camera_ready
+    date: 2027-06-07
+- year: 2028
+  start: 2028-08-20
+  end: 2028-08-24
+  location: Sydney, Australia
+  url: https://icpr2028.org/
+  deadlines: []
+sources:
+- https://icpr2026.org/dates.html
+- https://icpr2026.org/registration
+- https://icpr2026.org/proceedings.html
+- https://icpr2026.org/files/icpr2026-booklet.pdf
+- https://www.icpr2027.com/web/dates
+- https://iapr.org/icpr2027
+- https://iapr.org/conferences/conference-schedule/
+- https://icpr2028.org/
+- http://icpr2028.org/wp-content/uploads/2026/08/ICPR-2028-CALL-FOR-PAPERS.pdf
+- https://icpr2024.org/important%20dates.html
+- https://portal.core.edu.au/conf-ranks/?search=ICPR&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- All ICPRv 2027 dates are marked tentative on the official dates page
+- ICPR 2028 exact submission date (the preliminary CFP says only January 2028)
+- ICPR 2028 fees and review model not yet announced
+last_verified: 2026-09-28

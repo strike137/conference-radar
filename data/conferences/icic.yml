@@ -1,0 +1,93 @@
+id: icic
+name: ICIC
+full_name: International Conference on Intelligent Computing
+type: conference
+tier: minor
+areas: [ai, data]
+region: china
+language: english
+frequency: annual
+organizer: 'Hosted by The Society of International Computing with a host university each year (2026: York University,
+  Canada); financially supported by the National Natural Science Foundation of China'
+organizer_country: [china]
+proceedings: Springer LNCS/LNAI/LNBI (oral papers); poster papers on poster-openaccess.com
+indexing: [EI Compendex, Scopus, DBLP]
+rank:
+  core: Unranked
+  ccf: C
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7, 8]
+links:
+  website: http://www.ic-icc.cn/2026/
+notes:
+- Annual since 2005, usually held in China (2025 Ningbo); the 2026 edition was hybrid at York University Markham
+  Campus near Toronto
+- Oral papers in Springer LNCS/LNAI/LNBI (40 volumes for 2026), which points to a very large acceptance volume;
+  poster papers appear only on poster-openaccess.com
+- CCF C since December 2022; not ranked by CORE
+- Deadlines are routinely extended; camera-ready must be prepared in Word (the organizers discourage LaTeX)
+editions:
+- year: 2025
+  label: 21st ICIC
+  start: 2025-07-26
+  end: 2025-07-29
+  location: Ningbo, China
+  url: http://www.ic-icc.cn/2025/index.php
+  deadlines: []
+- year: 2026
+  label: 22nd ICIC
+  start: 2026-07-22
+  end: 2026-07-26
+  location: Toronto (Markham), Canada
+  url: http://www.ic-icc.cn/2026/
+  deadlines:
+  - kind: other
+    date: 2026-03-10
+    label: Special session proposals
+  - kind: submission
+    date: 2026-04-04
+    time: '12:00'
+    tz: UTC+8
+    label: Regular papers (extended from 2026-03-20)
+  - kind: notification
+    date: 2026-04-26
+    label: Extended from 2026-04-20
+  - kind: camera_ready
+    date: 2026-05-15
+    time: '12:00'
+    tz: UTC+8
+    label: Camera-ready and registration (extended from 2026-05-05)
+  - kind: submission
+    date: 2026-06-10
+    label: Poster papers
+  - kind: notification
+    date: 2026-06-25
+    label: Poster papers
+  - kind: other
+    date: 2026-07-05
+    label: Poster paper registration
+- year: 2027
+  label: 23rd ICIC
+  start: 2027-07-24
+  end: 2027-07-27
+  url: http://www.ic-icc.cn/2027/
+  status: tentative
+  deadlines: []
+sources:
+- http://www.ic-icc.cn/2026/
+- http://www.ic-icc.cn/2026/file/html/ICIC2026%20Important%20Dates.htm
+- http://www.ic-icc.cn/2026/What's%20New.php
+- http://www.ic-icc.cn/2026/Indexing.php
+- http://www.ic-icc.cn/2026/file/html/ICIC%202026%20%E2%80%93%20Venue%20%26%20Local%20Information.htm
+- http://www.ic-icc.cn/2026/file/html/ICIC%202026%20Sponsors.htm
+- http://www.ic-icc.cn/2026/file/html/ICIC2026_Registration_1.htm
+- http://www.ic-icc.cn/2027/
+- https://api.crossref.org/works/10.1007/978-981-96-9872-1
+- https://portal.core.edu.au/conf-ranks/?search=ICIC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 2027 location not announced; only dates on the 2027 site, no important dates yet
+- 2025 submission deadline (2025-04-10 noon UTC+8 per ccf-deadlines seed); the official 2025 pages are blocked by
+  the JAIST firewall
+- Registration fee (fee pages returned server errors)
+last_verified: 2026-09-28

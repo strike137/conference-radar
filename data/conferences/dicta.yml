@@ -1,0 +1,89 @@
+id: dicta
+name: DICTA
+full_name: 'International Conference on Digital Image Computing: Techniques and Applications'
+type: conference
+tier: minor
+areas: [vision, ai]
+region: oceania
+language: english
+frequency: annual
+organizer: APRS (Australian Pattern Recognition Society)
+organizer_country: [australia]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, Scopus, DBLP]
+rank:
+  core: Australasian C
+fee: 970 AUD author non-member, 720 AUD student author non-member (2026, early, incl. GST); APRS/IEEE members 40
+  AUD less
+typical:
+  deadline_months: [7]
+  conference_months: [11, 12]
+links:
+  website: https://dicta2026.dictaconference.org/
+  dblp: https://dblp.org/db/conf/dicta/
+notes:
+- Flagship conference of the Australian Pattern Recognition Society (APRS), established in 1991; annual since 2007
+  (roughly biennial before), held in Australia (1997 edition in Auckland)
+- Proceedings in IEEE Xplore; double-blind review, 8 pages including references, no extra page charges
+- Ranked Australasian C in ICORE2026 (was Australasian B in CORE2021)
+- CORE-funded student travel grants (five grants of AUD 300 in 2026); award papers invited to a Pattern Recognition
+  Letters special section
+- Includes workshops, tutorials, industry sessions and a journal-to-conference track
+editions:
+- year: 2025
+  start: 2025-12-02
+  end: 2025-12-05
+  location: Adelaide, Australia
+  url: https://dicta2025.dictaconference.org/
+  deadlines:
+  - kind: submission
+    date: 2025-07-20
+    time: '23:59'
+    tz: AoE
+    label: Full papers (extended from Jul 1)
+  - kind: notification
+    date: 2025-08-25
+  - kind: camera_ready
+    date: 2025-09-15
+  - kind: other
+    date: 2025-09-30
+    time: '23:59'
+    tz: AoE
+    label: Early-bird and author registration
+- year: 2026
+  label: 28th DICTA
+  start: 2026-12-01
+  end: 2026-12-04
+  location: Sydney, Australia
+  url: https://dicta2026.dictaconference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    label: Full papers (extended from Jul 1)
+  - kind: notification
+    date: 2026-09-01
+  - kind: other
+    date: 2026-10-04
+    time: '23:59'
+    tz: AoE
+    label: Early-bird and author registration
+sources:
+- https://dicta2026.dictaconference.org/
+- https://dicta2026.dictaconference.org/important-dates.html
+- https://dicta2026.dictaconference.org/call-papers.html
+- https://dicta2026.dictaconference.org/registration.html
+- https://dicta2026.dictaconference.org/author-instructions.html
+- https://dicta2025.dictaconference.org/
+- https://dicta2025.dictaconference.org/important-dates.html
+- https://dicta2025.dictaconference.org/registration.html
+- https://web.archive.org/web/2025/https://dblp.org/db/conf/dicta/index.html
+- https://portal.core.edu.au/conf-ranks/?search=DICTA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=DICTA&by=all&source=CORE2021&sort=atitle&page=1
+unverified:
+- DICTA 2026 home page still shows a July 20 deadline and August 25 notification (in a hidden block), while the
+  Important Dates and CFP pages say July 15 (extended) and September 1; the latter were used
+- 2026 camera-ready deadline not stated
+- 'Edition numbering is inconsistent: 2025 site says 26th, 2026 site says 28th; the past-conference list on the
+  site counts 27 editions up to 2025'
+- Acceptance rate not published
+last_verified: 2026-09-28

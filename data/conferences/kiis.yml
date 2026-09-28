@@ -1,0 +1,94 @@
+id: kiis
+name: KIIS Conference
+full_name: Korean Institute of Intelligent Systems Spring and Fall Conferences
+name_local: 한국지능시스템학회 춘계/추계학술대회
+type: conference
+tier: domestic
+areas: [ai, vision, data, security]
+region: korea
+language: korean
+frequency: multiple-per-year
+organizer: Korean Institute of Intelligent Systems (KIIS)
+organizer_country: [korea]
+proceedings: KIIS conference proceedings (web proceedings, Korean)
+rank:
+  core: Unranked
+fee: 170,000 KRW member, 230,000 KRW non-member; graduate/undergraduate students 90,000 KRW member, 120,000 KRW
+  non-member (2026 fall, pre-registration)
+typical:
+  deadline_months: [4, 10, 11]
+  conference_months: [4, 5, 11]
+links:
+  website: https://www.kiis.or.kr/
+notes:
+- Two domestic conferences a year (spring and fall), hosted by a different university each time
+- 'Abstract-first process: short abstract (300 characters), then a 2-page paper (Korean template) after acceptance;
+  undergraduate capstone design track'
+- Topics include ML, deep learning, generative AI, fuzzy systems, control and robotics, computer vision, and an
+  information security and cryptography track
+- Society publishes IJFIS (International Journal of Fuzzy Logic and Intelligent Systems); co-organizes the international
+  SCIS&ISIS (with Japan SOFT) and ISIS conferences, and KIIS membership gives ISIS fee discounts
+- Deadlines are often extended by several weeks (fall 2025 abstract 2025-09-26 -> 2025-11-02; spring 2026 abstract
+  2026-04-10 -> 2026-04-27)
+editions:
+- year: 2025
+  label: Fall 2025
+  start: 2025-11-27
+  end: 2025-11-29
+  location: Seoul (Seokyeong University), Korea
+  url: https://www.kiis.or.kr/conf/2025f/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-02
+    label: Abstract (extended from 2025-09-26)
+  - kind: notification
+    date: 2025-11-09
+    label: Extended from 2025-10-10
+  - kind: camera_ready
+    date: 2025-11-16
+    label: Final 2-page paper (extended from 2025-10-31)
+- year: 2026
+  label: Spring 2026
+  start: 2026-05-14
+  end: 2026-05-16
+  location: Jeju (Jeju National University), Korea
+  url: https://www.kiis.or.kr/conf/2026s/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-27
+    label: Abstract (extended from 2026-04-10)
+  - kind: notification
+    date: 2026-04-28
+    label: Extended from 2026-04-17
+  - kind: camera_ready
+    date: 2026-04-30
+    label: Final 2-page paper (extended from 2026-04-24)
+- year: 2026
+  label: Fall 2026
+  start: 2026-11-26
+  end: 2026-11-28
+  location: Gimpo (Gimpo University Global Campus), Korea
+  url: https://www.kiis.or.kr/conf/2026f/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-02
+  - kind: notification
+    date: 2026-10-09
+  - kind: camera_ready
+    date: 2026-10-23
+    label: Final 2-page paper
+  - kind: other
+    date: 2026-11-13
+    label: Pre-registration closes (opens 2026-10-12)
+sources:
+- https://www.kiis.or.kr/conf/2026f/post.asp
+- https://www.kiis.or.kr/conf/2026f/sub05_1.asp
+- https://www.kiis.or.kr/conf/2026f/sub07_1.asp
+- https://www.kiis.or.kr/conf/2026f/sub06_1.asp
+- https://www.kiis.or.kr/conf/2026s/post.asp
+- https://www.kiis.or.kr/conf/2025f/post.asp
+- https://www.kiis.or.kr/main/
+- https://portal.core.edu.au/conf-ranks/?search=KIIS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Whether the 2026 fall abstract deadline will be extended
+last_verified: 2026-09-28

@@ -1,0 +1,143 @@
+id: sigmod
+name: SIGMOD
+full_name: ACM SIGMOD/PODS International Conference on Management of Data
+type: conference
+tier: top
+areas: [data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGMOD
+organizer_country: [international]
+proceedings: ACM DL (PACMMOD journal)
+indexing: [Scopus, DBLP]
+rank:
+  core: A*
+  ccf: A
+fee: 850 USD (2026, early, ACM member, international); 500 USD ACM student member
+typical:
+  deadline_months: [1, 4, 7, 10]
+  conference_months: [5, 6]
+links:
+  website: https://2027.sigmod.org/
+notes:
+- Flagship database conference of ACM SIGMOD, held jointly with PODS
+- Four submission rounds a year (January, April, July, October); accepted papers appear in PACMMOD journal issues,
+  with a revision option
+- Double-anonymous review; for 2027 an author may submit at most 10 research papers, and rejected papers face a
+  one-year embargo
+- 2026 edition was held in Bengaluru, India; student travel grants are offered each year
+editions:
+- year: 2026
+  start: 2026-05-31
+  end: 2026-06-05
+  location: Bengaluru, India
+  url: https://2026.sigmod.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-01-10
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2025-01-17
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: abstract
+    date: 2025-04-10
+    time: '23:59'
+    tz: AoE
+    label: Round 2
+  - kind: submission
+    date: 2025-04-17
+    time: '23:59'
+    tz: AoE
+    label: Round 2
+  - kind: abstract
+    date: 2025-07-10
+    time: '23:59'
+    tz: AoE
+    label: Round 3
+  - kind: submission
+    date: 2025-07-17
+    time: '23:59'
+    tz: AoE
+    label: Round 3
+  - kind: abstract
+    date: 2025-10-10
+    time: '23:59'
+    tz: AoE
+    label: Round 4
+  - kind: submission
+    date: 2025-10-17
+    time: '23:59'
+    tz: AoE
+    label: Round 4
+- year: 2027
+  start: 2027-06-13
+  end: 2027-06-19
+  location: Huntington Beach, USA
+  url: https://2027.sigmod.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-10
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2026-01-17
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: abstract
+    date: 2026-04-10
+    time: '23:59'
+    tz: AoE
+    label: Round 2
+  - kind: submission
+    date: 2026-04-17
+    time: '23:59'
+    tz: AoE
+    label: Round 2
+  - kind: abstract
+    date: 2026-07-10
+    time: '23:59'
+    tz: AoE
+    label: Round 3
+  - kind: submission
+    date: 2026-07-17
+    time: '23:59'
+    tz: AoE
+    label: Round 3
+  - kind: abstract
+    date: 2026-10-10
+    time: '23:59'
+    tz: AoE
+    label: Round 4
+  - kind: submission
+    date: 2026-10-17
+    time: '23:59'
+    tz: AoE
+    label: Round 4
+  - kind: notification
+    date: 2026-10-19
+    label: Round 3 (accept/reject/revision)
+  - kind: notification
+    date: 2027-01-19
+    label: Round 4 (accept/reject/revision)
+  - kind: notification
+    date: 2027-03-12
+    label: Round 4 final decision
+sources:
+- https://2027.sigmod.org/calls_papers_sigmod_research.shtml
+- https://2027.sigmod.org/
+- https://2026.sigmod.org/
+- https://2026.sigmod.org/calls_papers_sigmod_research.shtml
+- https://2026.sigmod.org/registrations.shtml
+- https://2026.sigmod.org/travel_awards.shtml
+- https://portal.core.edu.au/conf-ranks/?search=SIGMOD&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- SIGMOD 2026 acceptance rate
+- SIGMOD 2028 location and dates (2028.sigmod.org is under construction)
+last_verified: 2026-09-28

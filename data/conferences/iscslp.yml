@@ -1,0 +1,89 @@
+id: iscslp
+name: ISCSLP
+full_name: International Symposium on Chinese Spoken Language Processing
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: asia-pacific
+language: english
+frequency: biennial
+organizer: ISCA SIG-CSLP; 2026 edition organized by National Taiwan University, Universiti Sains Malaysia, ACLCLP
+  and Academia Sinica IIS
+organizer_country: [china, taiwan, singapore]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP]
+rank:
+  core: Unranked
+fee: USD 585 regular non-member, USD 520 IEEE/ISCA member, USD 195 student non-member (2026, early bird)
+typical:
+  deadline_months: [6]
+  conference_months: [11, 12]
+links:
+  website: https://iscslp.org/2026/
+notes:
+- Flagship conference of ISCA SIG-CSLP; nominally biennial since 1998 (2018 Taipei, 2021 Hong Kong, 2022 Singapore,
+  2024 Beijing, 2026 Penang)
+- Double-blind review; 4-page regular or 8-page long papers plus up to 2 pages of references; arXiv preprints allowed
+- Focus on Chinese speech, but other languages and general NLP topics are welcome; working language English
+- Technical sponsors IEEE, IEEE CIS and ISCA; one regular registration covers up to two papers, student registration
+  cannot cover a paper
+- '2026: three days of main conference (Nov 14 to 16) plus a tutorial day (Nov 17)'
+editions:
+- year: 2024
+  label: 14th ISCSLP
+  start: 2024-11-07
+  end: 2024-11-10
+  location: Beijing, China
+  url: http://www.iscslp2024.com/
+  deadlines: []
+- year: 2026
+  label: 15th ISCSLP
+  start: 2026-11-14
+  end: 2026-11-17
+  location: Penang (George Town), Malaysia
+  url: https://iscslp.org/2026/
+  deadlines:
+  - kind: other
+    date: 2026-06-08
+    label: Special session and challenge proposals
+  - kind: other
+    date: 2026-06-18
+    label: Tutorial proposals
+  - kind: submission
+    date: 2026-06-21
+    time: '23:59'
+    tz: AoE
+    label: Regular papers (extended from 2026-06-12)
+  - kind: submission
+    date: 2026-08-09
+    label: Special session and challenge papers (extended from 2026-08-03)
+  - kind: notification
+    date: 2026-08-21
+    tz: AoE
+    label: Regular papers (extended from 2026-08-14)
+  - kind: notification
+    date: 2026-08-31
+    label: Special session and challenge papers
+  - kind: camera_ready
+    date: 2026-09-04
+    tz: AoE
+    label: Regular papers
+  - kind: camera_ready
+    date: 2026-09-21
+    label: Special session and challenge papers
+  - kind: other
+    date: 2026-09-23
+    label: Early bird registration (extended from 2026-09-21)
+sources:
+- https://iscslp.org/2026/
+- https://iscslp.org/2026/CallForPapers
+- https://iscslp.org/2026/registration
+- https://iscslp.org/2026/venue
+- https://api.crossref.org/works?query.bibliographic=International+Symposium+on+Chinese+Spoken+Language+Processing+ISCSLP+2024
+- http://www.wikicfp.com/cfp/servlet/tool.search?q=ISCSLP&year=a
+- https://portal.core.edu.au/conf-ranks/?search=ISCSLP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 2026 proceedings publisher not stated on the 2026 site (2021, 2022 and 2024 proceedings were in IEEE Xplore)
+- 2024 submission deadlines (2024 site is a JavaScript app not readable in archives)
+- Next edition (2028) not announced
+last_verified: 2026-09-28

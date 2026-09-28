@@ -1,0 +1,65 @@
+id: nana
+name: NaNA
+full_name: International Conference on Networking and Network Applications
+type: conference
+tier: minor
+areas: [networking, security, ai, communications]
+region: china
+language: english
+frequency: annual
+organizer: NaNA steering chairs from Xidian University, Future University Hakodate and University of Waterloo; 2026
+  hosted by City University of Macau
+organizer_country: [china, japan]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, EI]
+rank:
+  core: Unranked
+fee: 550 USD or 3,500 RMB (2026, regular paper up to 7 pages); co-author 350 USD
+typical:
+  deadline_months: [4]
+  conference_months: [8]
+links:
+  website: http://www.nana-conference.org/
+notes:
+- China-led annual networking conference since 2016 (first held in Hakodate, Japan; 2017 Kathmandu, 2019 Daegu,
+  2025 Tashkent); otherwise held in China (2023 Qingdao, 2024 Yinchuan, 2026 Macau)
+- 'Japanese involvement: Suwa University of Science and Future University Hakodate are technical sponsors; honorary
+  general chair Norio Shiratori'
+- Tracks include network management and automation, AI/ML in networks, and industrial control network security
+- Proceedings in IEEE Xplore via IEEE CPS with EI indexing; submission via EasyChair; online presentation option
+  offered
+- No-show papers are not sent to IEEE Xplore; extra pages cost 100 USD each
+editions:
+- year: 2026
+  start: 2026-08-13
+  end: 2026-08-16
+  location: Macau, China
+  url: http://www.nana-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-06
+    label: Full paper (original)
+  - kind: submission
+    date: 2026-04-20
+    label: Full paper (extended)
+  - kind: notification
+    date: 2026-05-16
+  - kind: camera_ready
+    date: 2026-05-31
+  - kind: other
+    date: 2026-06-30
+    label: Registration deadline
+sources:
+- http://www.nana-conference.org/
+- http://www.nana-conference.org/cfp2026.html
+- http://www.nana-conference.org/pc2026.html
+- http://www.nana-conference.org/registration2026.html
+- http://www.nana-conference.org/submission2026.html
+- http://www.nana-conference.org/news2026.html
+- http://www.nana-conference.org/index2025.html
+- https://api.crossref.org/works?query.bibliographic=International+Conference+on+Networking+and+Network+Applications+NaNA
+unverified:
+- NaNA 2027 location and dates not announced (index2027/cfp2027 pages return 404)
+- Acceptance rate
+- DBLP stream
+last_verified: 2026-09-28

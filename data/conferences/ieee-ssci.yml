@@ -1,0 +1,93 @@
+id: ieee-ssci
+name: IEEE SSCI
+full_name: IEEE Symposium Series on Computational Intelligence
+type: conference
+tier: minor
+areas: [ai, nlp, security]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IEEE Computational Intelligence Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+rank:
+  core: Unranked
+fee: About 9,250 NOK (2025, non-IEEE-member advance rate incl. 25% tax); 8,000 NOK for IEEE members
+typical:
+  deadline_months: [8, 9]
+  conference_months: [2, 3]
+links:
+  website: https://attend.ieee.org/ssci-2027/
+  dblp: https://dblp.org/db/conf/ssci/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195447
+notes:
+- Large multi-symposium meeting of the IEEE Computational Intelligence Society; since 2025 it is organized as ten
+  applied CI symposia under one roof
+- Biennial since the 2025 restructuring (Trondheim 2025, Gold Coast 2027); earlier editions were annual, usually
+  in December, and rotated worldwide
+- Includes symposia on CI in Security, Defence and Biometrics (CISDB) and on CI in NLP and Social Media (CI-NLPSoMe)
+- Full papers up to 6 pages plus 1 page of references (short papers 4 plus 1); also late-breaking (2 pages), poster-only
+  abstract and journal-to-conference tracks that are not in the proceedings
+- SSCI itself is not listed in CORE; several of its former constituent symposia (e.g. CICS, CIDM) are CORE C. Proceedings
+  in IEEE Xplore; 2027 is primarily in person with a remote presentation option
+editions:
+- year: 2025
+  start: 2025-03-17
+  end: 2025-03-20
+  location: Trondheim, Norway
+  url: https://ieee-ssci.org/
+  deadlines:
+  - kind: submission
+    date: 2024-09-10
+    label: Full and short papers
+  - kind: notification
+    date: 2024-11-19
+  - kind: other
+    date: 2024-12-10
+    label: Late-breaking papers, poster-only abstracts, journal paper presentations
+  - kind: camera_ready
+    date: 2024-12-18
+- year: 2027
+  start: 2027-02-14
+  end: 2027-02-17
+  location: Gold Coast, Australia
+  url: https://attend.ieee.org/ssci-2027/
+  deadlines:
+  - kind: other
+    date: 2026-08-02
+    label: Competition proposals
+  - kind: submission
+    date: 2026-08-10
+    label: Main track and special session papers (initial deadline)
+  - kind: submission
+    date: 2026-09-10
+    label: Main track and special session papers (extended deadline)
+  - kind: other
+    date: 2026-10-01
+    label: Tutorial proposals
+  - kind: notification
+    date: 2026-10-26
+    label: Main track
+  - kind: submission
+    date: 2026-11-01
+    label: Late-breaking papers, poster-only abstracts, journal-to-conference
+  - kind: camera_ready
+    date: 2026-11-10
+sources:
+- https://attend.ieee.org/ssci-2027/
+- https://attend.ieee.org/ssci-2027/submissions/call-for-papers/
+- https://ieee-ssci.org/
+- https://ieee-ssci.org/?ui=call-for-papers
+- https://ieee-ssci.org/assets/files/SSCI-2025-call-4-papers.pdf
+- https://ieee-ssci.org/?ui=registration
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181492
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195447
+- https://portal.core.edu.au/conf-ranks/?search=Computational+Intelligence&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- SSCI 2025 full-paper submission (Sep 10, 2024) and notification (Nov 19, 2024) dates come from WikiCFP only; the
+  camera-ready (Dec 18, 2024) and late-breaking (Dec 10, 2024) dates are confirmed by the official 2025 CFP PDF
+- SSCI 2027 official pages list both 10 Aug 2026 and 10 Sep 2026 for main track submission; read as an extension,
+  but the strikethrough could not be confirmed in the fetched text
+- SSCI 2027 registration fees not yet published
+- DBLP URL not re-checked (dblp.org blocked automated access)
+last_verified: 2026-09-28

@@ -1,0 +1,139 @@
+id: acsw
+name: ACSW
+full_name: Australasian Computer Science Week
+type: conference
+tier: minor
+areas: [general, security, systems, ai]
+region: oceania
+language: english
+frequency: annual
+organizer: CORE (Computing Research and Education Association of Australasia) and ACDICT (Australian Council of
+  Deans of ICT)
+organizer_country: [australia, new-zealand]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [9, 11, 12]
+  conference_months: [1, 2]
+links:
+  website: https://acsw.core.edu.au/
+notes:
+- Annual umbrella event of the Australian and New Zealand computing community since 1978, held in late January or
+  February
+- 'Hosts several co-located conferences with separate CFPs: ACE (education), AISC (information security), AusPDC
+  (parallel/distributed), ALIS (AI), ITCSREC'
+- ACSW itself is not ranked; in ICORE2026 ACE is Australasian B and AISC and AusPDC are Australasian C
+- Papers published in the ACM Digital Library (ICPS); under ACM's open access model, authors from institutions outside
+  ACM Open may have to pay an APC
+- AISC 2027 has two submission rounds (Sep and Nov 2026); the 2027 edition at ANU Canberra marks the 50th ACSW
+editions:
+- year: 2026
+  label: ACSW 2026
+  start: 2026-02-09
+  end: 2026-02-13
+  location: Melbourne, Australia
+  url: https://acsw.core.edu.au/2026-acsw
+  deadlines:
+  - kind: abstract
+    date: 2025-12-14
+    label: AISC 2026 research papers (extended)
+  - kind: submission
+    date: 2025-12-21
+    label: AISC 2026 research papers (extended)
+  - kind: notification
+    date: 2026-01-20
+    label: AISC 2026
+  - kind: camera_ready
+    date: 2026-01-25
+    label: AISC 2026
+- year: 2027
+  label: ACSW 2027 (50th)
+  start: 2027-02-01
+  end: 2027-02-05
+  location: Canberra, Australia
+  url: https://acsw.core.edu.au/
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+    tz: AoE
+    label: AISC 2027 round 1 (extended from 2026-08-31)
+  - kind: notification
+    date: 2026-10-15
+    tz: AoE
+    label: AISC 2027 round 1
+  - kind: submission
+    date: 2026-11-02
+    tz: AoE
+    label: ACE 2027 papers
+  - kind: submission
+    date: 2026-11-08
+    time: '23:59'
+    tz: AoE
+    label: AusPDC 2027 papers
+  - kind: submission
+    date: 2026-11-15
+    tz: AoE
+    label: AISC 2027 round 2
+  - kind: submission
+    date: 2026-11-15
+    tz: AEST
+    label: ITCSREC 2027 papers
+  - kind: abstract
+    date: 2026-11-20
+    label: ALIS 2027
+  - kind: submission
+    date: 2026-11-27
+    label: ALIS 2027
+  - kind: notification
+    date: 2026-12-10
+    tz: AoE
+    label: AISC 2027 round 2
+  - kind: notification
+    date: 2026-12-15
+    time: '23:59'
+    tz: AoE
+    label: AusPDC 2027
+  - kind: notification
+    date: 2026-12-15
+    tz: AEST
+    label: ITCSREC 2027
+  - kind: notification
+    date: 2026-12-17
+    tz: AoE
+    label: ACE 2027
+  - kind: camera_ready
+    date: 2026-12-20
+    time: '23:59'
+    tz: AoE
+    label: AusPDC 2027
+  - kind: camera_ready
+    date: 2026-12-20
+    tz: AEST
+    label: ITCSREC 2027
+  - kind: camera_ready
+    date: 2026-12-23
+    tz: AoE
+    label: AISC 2027
+  - kind: notification
+    date: 2027-01-10
+    label: ALIS 2027 (tentative)
+sources:
+- https://acsw.core.edu.au/
+- https://acsw.core.edu.au/2026-acsw
+- https://acsw.core.edu.au/past
+- https://sites.google.com/view/aisc2027
+- https://sites.google.com/view/aisc2027/important-dates
+- https://sites.google.com/view/aisc2026/important-dates
+- https://aceconference2027.github.io/authors.html
+- https://sites.google.com/monash.edu/auspdc2027/important-dates
+- https://sites.google.com/view/alis2027
+- https://itcsrec.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=Australasian&by=all&source=ICORE2026
+unverified:
+- Registration fees
+- Acceptance rates of the co-located conferences
+- ACE 2027 camera-ready date
+last_verified: 2026-09-28

@@ -1,0 +1,53 @@
+id: icsp-cn
+name: IEEE ICSP
+full_name: IEEE International Conference on Signal Processing
+type: conference
+tier: minor
+areas: [communications, vision, ai]
+region: china
+language: english
+frequency: biennial
+organizer: Beijing Jiaotong University (Institute of Information Science); the 2016 edition was sponsored by IEEE
+  Beijing Section, IET Beijing Local Network and Beijing Jiaotong University
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, EI]
+rank:
+  core: Unranked
+typical:
+  conference_months: [10, 12]
+notes:
+- Long-running signal processing conference series that began in Beijing in 1990; held every two years in even years
+- Held in China, mostly Beijing (Hangzhou 2014, Chengdu 2016, Beijing 2018/2020/2022, Suzhou 2024)
+- Proceedings in IEEE Xplore; the 2016 organizers stated all past editions were indexed by EI and ISTP; broad scope
+  covering DSP, image, speech, communications signal processing, pattern recognition and SP for security
+- Do not confuse with the annual International Conference on Intelligent Computing and Signal Processing (also ICSP)
+  held in Xi'an and Hefei
+- Former website icsp.bjtu.edu.cn no longer resolves; no 2026 (18th) edition announcement could be found as of September
+  2026
+editions:
+- year: 2024
+  label: 17th ICSP
+  start: 2024-10-28
+  end: 2024-10-31
+  location: Suzhou, China
+  url: https://doi.org/10.1109/icsp62129.2024
+  deadlines: []
+sources:
+- https://ieeexplore.ieee.org/xpl/conhome/1000669/all-proceedings
+- https://api.crossref.org/works?query.bibliographic=IEEE+International+Conference+on+Signal+Processing+ICSP&filter=type:proceedings
+- https://doi.org/10.1109/icsp62129.2024
+- https://doi.org/10.1109/icsp56322.2022
+- https://doi.org/10.1109/icsp48669.2020
+- http://web.archive.org/web/20160608045508/http://icsp.bjtu.edu.cn/
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=37709
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=19343
+- https://portal.core.edu.au/conf-ranks/?search=ICSP&by=all&source=ICORE2026
+unverified:
+- '18th ICSP (expected 2026): dates, location, CFP deadlines and website; whether the series continues after 2024'
+- 2018 to 2024 submission deadlines (2012, 2014 and 2016 CFPs had mid-June deadlines)
+- Current official website
+- Sponsors of the 2018 to 2024 editions (the 2016 sponsor list is the latest confirmed)
+- Acceptance rate and fees
+last_verified: 2026-09-28

@@ -1,0 +1,89 @@
+id: apnic-conf
+name: APNIC Conference
+full_name: APNIC Conference (Asia Pacific Network Information Centre)
+type: industry
+tier: minor
+areas: [networking, security]
+region: asia-pacific
+language: english
+frequency: multiple-per-year
+organizer: APNIC (Asia Pacific Network Information Centre), with a local host each time
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+fee: 'APNIC 62 (2026): conference 75 USD for non-members, workshops 200 USD early bird (non-member); first conference
+  ticket free for APNIC Members; online participation free'
+typical:
+  deadline_months: [1, 6]
+  conference_months: [2, 3, 9]
+links:
+  website: https://www.apnic.net/events/conferences/
+notes:
+- 'Meeting of the Regional Internet Registry community for the Asia Pacific: policy meeting (OPM), SIGs, technical
+  talks and hands-on training workshops'
+- 'Twice a year: in February/March as part of APRICOT, and as a standalone meeting in early September'
+- Call for presentations reviewed by a program committee from draft slides; non-archival, and talks already given
+  elsewhere are accepted
+- Fellowships (professional, youth and returning categories, plus a policy stream since 2025) cover travel for selected
+  applicants from the region; remote participation is free
+- 'Recent standalone venues: Kyoto 2023, Wellington 2024, Da Nang 2025, Mumbai 2026; Ulaanbaatar planned for Sep
+  2027'
+editions:
+- year: 2026
+  label: APNIC 62
+  start: 2026-09-04
+  end: 2026-09-10
+  location: Mumbai, India
+  url: https://conference.apnic.net/62/
+  deadlines:
+  - kind: notification
+    date: 2026-05-15
+    label: Presentations, first round acceptance
+  - kind: submission
+    date: 2026-06-30
+    label: Presentations, final deadline
+  - kind: notification
+    date: 2026-07-17
+    label: Presentations, final round acceptance
+  - kind: submission
+    date: 2026-09-08
+    time: '12:00'
+    tz: UTC+5:30
+    label: Lightning talks
+- year: 2027
+  label: APNIC 63 with APRICOT 2027
+  start: 2027-02-24
+  end: 2027-03-04
+  location: Hong Kong, China
+  url: https://2027.apricot.net/
+  deadlines:
+  - kind: other
+    date: 2026-10-12
+    time: '23:59'
+    tz: UTC+8
+    label: APRICOT 2027 fellowship applications
+- year: 2027
+  label: APNIC 64
+  start: 2027-09-02
+  end: 2027-09-09
+  location: Ulaanbaatar, Mongolia
+  url: https://www.apnic.net/events/conferences/
+  deadlines: []
+sources:
+- https://www.apnic.net/events/conferences/
+- https://conference.apnic.net/62/
+- https://conference.apnic.net/62/program/callforpresentations
+- https://conference.apnic.net/62/register/register
+- https://2027.apricot.net/
+- https://2027.apricot.net/fellowship/keydates
+- https://2026.apricot.net/programme/callforpresentations
+- https://www.apnic.net/community/fellowship/
+unverified:
+- APRICOT 2027 call for presentations dates (not yet posted; APRICOT 2026 final CFP deadline was 2026-01-05)
+- APNIC events page lists APRICOT 2027 as 28 Feb to 4 Mar, while the APRICOT site says 24 Feb to 4 Mar (MasterClasses
+  24 to 26 Feb, summit 1 to 4 Mar)
+- Edition number APNIC 64 for the Ulaanbaatar meeting (inferred from sequence; APNIC page lists it only by city
+  and date)
+last_verified: 2026-09-28

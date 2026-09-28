@@ -1,0 +1,84 @@
+id: prima
+name: PRIMA
+full_name: International Conference on Principles and Practice of Multi-Agent Systems
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+organizer_country: [international]
+language: english
+frequency: annual
+proceedings: Springer LNAI
+indexing: [Scopus, DBLP]
+rank:
+  core: B
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11, 12]
+links:
+  website: https://www.prima2026.org/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199947
+notes:
+- Started as the Pacific Rim International Workshop on Multi-Agents (conference name since 2009); recent editions
+  were held in Japan or Europe (2022 Valencia, 2024 Kyoto, 2025 Modena, 2026 Kumamoto)
+- Proceedings in Springer LNAI; full papers 16 pages, short papers 6, posters 3 (plus references)
+- Double-blind review in 2025 and 2026; the July deadline was extended by one week in 2025 and by two weeks in 2026
+  (to Aug 3)
+- 2026 edition is co-located with IEEE ICA 2026 (shared registration) and explicitly invites LLM-based and agentic
+  AI work; cybersecurity is listed among application topics
+editions:
+- year: 2025
+  start: 2025-12-16
+  end: 2025-12-19
+  location: Modena, Italy
+  url: https://conferences-website.github.io/prima2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-22
+    time: '23:59'
+    tz: AoE
+    label: Extended from Jul 15
+  - kind: submission
+    date: 2025-07-29
+    time: '23:59'
+    tz: AoE
+    label: Extended from Jul 22
+  - kind: notification
+    date: 2025-09-29
+  - kind: camera_ready
+    date: 2025-10-13
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Kumamoto, Japan
+  url: https://www.prima2026.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-03
+    tz: AoE
+    label: Extended from Jul 13
+  - kind: submission
+    date: 2026-08-03
+    tz: AoE
+    label: Extended from Jul 20
+  - kind: notification
+    date: 2026-09-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-09
+    tz: AoE
+sources:
+- https://www.prima2026.org/
+- https://www.prima2026.org/calls-main-track
+- https://www.prima2026.org/attending-registration
+- https://conferences-website.github.io/prima2025/
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199947
+- http://www.wikicfp.com/cfp/servlet/tool.search?q=PRIMA&year=a
+- https://portal.core.edu.au/conf-ranks/?search=PRIMA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- Registration fees for 2026 (shown only as images on the site)
+- Acceptance rate
+- Venue still listed as Kumamoto-Jo Hall on 2026-09-28; recheck after the large Kumamoto earthquake of 2026-07-28
+  (reported on the MIRU 2026 site)
+last_verified: 2026-09-28

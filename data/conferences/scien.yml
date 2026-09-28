@@ -1,0 +1,79 @@
+id: scien
+name: SCIEN
+full_name: International Workshop on Secure Cryptographic Implementations and Engineering
+type: workshop
+tier: minor
+areas: [security, crypto, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: SCIEN Steering Committee (Jiwu Jing, Cetin Kaya Koc, Jingqiang Lin); 2026 edition co-located with Inscrypt
+  2026 (Hong Kong PolyU)
+organizer_country: [china]
+proceedings: Springer LNCS (2020 to 2025, ACNS workshop volumes); 2026 post-proceedings plan to be announced
+rank:
+  core: Unranked
+fee: HKD 5,460 (2026, Inscrypt 2nd round author registration required for SCIEN authors)
+typical:
+  deadline_months: [3, 8, 12]
+  conference_months: [3, 6, 11]
+links:
+  website: https://scien-conf.github.io/
+notes:
+- Formerly the ACNS Workshop on Secure Cryptographic Implementation (SCI), held with ACNS from 2020 to 2025 (2023
+  Kyoto, 2024 Abu Dhabi, 2025 Munich)
+- 'Renamed SCIEN in 2026 and moved to Inscrypt: 7th edition on Nov 8, 2026 in Hong Kong; one author must register
+  for Inscrypt at the author rate and present in person'
+- 'Scope: implementation security of crypto algorithms and protocols, side channels, PKI/TLS, RNGs, PQC implementations;
+  welcomes position papers and initial findings'
+- Small workshop (6 accepted papers in 2026); LNCS format, up to 16 pages; run mainly by the Chinese crypto-engineering
+  community (UCAS, USTC)
+- Schedule follows the host conference, so deadline and conference months shift from year to year
+editions:
+- year: 2025
+  label: 6th ACNS-SCI
+  start: 2025-06-25
+  end: 2025-06-25
+  location: Munich, Germany
+  url: https://scien-conf.github.io/2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-03-22
+    time: '23:59'
+    tz: AoE
+    label: Papers (extended from Mar 15)
+  - kind: notification
+    date: 2025-04-20
+  - kind: camera_ready
+    date: 2025-05-12
+- year: 2026
+  label: 7th SCIEN (with Inscrypt 2026)
+  start: 2026-11-08
+  end: 2026-11-08
+  location: Hong Kong, China
+  url: https://scien-conf.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    label: Papers (extended from Aug 1)
+  - kind: notification
+    date: 2026-09-08
+  - kind: camera_ready
+    date: 2026-09-18
+  - kind: other
+    date: 2026-10-01
+    label: Author registration
+sources:
+- https://scien-conf.github.io/
+- https://scien-conf.github.io/2025/index.html
+- https://scien-conf.github.io/2024/index.html
+- https://scien-conf.github.io/2023/index.html
+- https://inscrypt2026.comp.polyu.edu.hk/
+- https://portal.core.edu.au/conf-ranks/?search=SCIEN&by=all&source=all&sort=atitle&page=1
+unverified:
+- Number of submissions and acceptance rate
+- Proceedings venue for the 2026 edition (post-proceedings plan not yet announced)
+- Deadline time zone for 2026
+- DBLP key (SCI papers appear in ACNS workshop volumes)
+- 2027 edition (not announced)
+last_verified: 2026-09-28

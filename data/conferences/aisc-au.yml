@@ -1,0 +1,93 @@
+id: aisc-au
+name: AISC
+full_name: Australasian Information Security Conference
+type: conference
+tier: minor
+areas: [security, crypto]
+region: oceania
+language: english
+frequency: annual
+organizer: Part of the Australasian Computer Science Week (ACSW), jointly sponsored by CORE and ACDICT
+organizer_country: [australia, new-zealand]
+proceedings: ACM DL
+indexing: [ACM DL, DBLP]
+rank:
+  core: Australasian C
+typical:
+  deadline_months: [9, 11, 12]
+  conference_months: [2]
+links:
+  website: https://sites.google.com/view/aisc2027
+  dblp: https://dblp.org/db/conf/acsw/
+notes:
+- Held as part of the Australasian Computer Science Week (ACSW), run by CORE and ACDICT, in late January or February;
+  host city rotates, usually within Australia
+- Proceedings in the ACM Digital Library (as part of the ACSW proceedings)
+- Scope covers system, network, software and ML security, applied cryptography and privacy; research papers 5 to
+  10 pages, industry papers 4 to 6, anonymous submission via EasyChair
+- 2027 edition has two submission rounds (September and November 2026)
+- Ranked Australasian C in ICORE2026; small regional venue
+editions:
+- year: 2026
+  label: 17th AISC (ACSW 2026)
+  start: 2026-02-11
+  end: 2026-02-12
+  location: Melbourne, Australia
+  url: https://sites.google.com/view/aisc2026
+  deadlines:
+  - kind: abstract
+    date: 2025-12-14
+    label: Research and industry papers (extended from Dec 7)
+  - kind: submission
+    date: 2025-12-21
+    label: Research and industry papers (extended from Dec 14)
+  - kind: notification
+    date: 2026-01-20
+    label: Extended from Jan 15
+  - kind: camera_ready
+    date: 2026-01-25
+- year: 2027
+  label: 18th AISC (ACSW 2027)
+  start: 2027-02-01
+  end: 2027-02-04
+  location: Canberra, Australia
+  url: https://sites.google.com/view/aisc2027
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+    tz: AoE
+    label: Round 1 (extended from Aug 31)
+  - kind: notification
+    date: 2026-10-15
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2026-11-15
+    tz: AoE
+    label: Round 2
+  - kind: notification
+    date: 2026-12-10
+    tz: AoE
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-12-23
+    tz: AoE
+sources:
+- https://sites.google.com/view/aisc2027
+- https://sites.google.com/view/aisc2027/important-dates
+- https://sites.google.com/view/aisc2027/call-for-papers
+- https://sites.google.com/view/aisc2026
+- https://sites.google.com/view/aisc2026/important-dates
+- https://acsw.core.edu.au/
+- https://acsw.core.edu.au/2026-acsw
+- https://web.archive.org/web/2025/https://dblp.org/db/conf/aisc/index.html
+- https://web.archive.org/web/2025/https://dblp.org/db/conf/acsw/index.html
+- https://portal.core.edu.au/conf-ranks/?search=AISC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ACSW 2027 runs 1 to 5 February 2027 at ANU; AISC's own site says 1 to 4 February, exact AISC session days not
+  confirmed
+- Registration fees handled by ACSW; 2027 fees still TBA
+- Acceptance rate not published
+- DBLP has no separate AISC stream (dblp conf/aisc is Artificial Intelligence and Symbolic Computation); recent
+  AISC papers appear within ACSW proceedings under conf/acsw, not individually confirmed
+last_verified: 2026-09-28

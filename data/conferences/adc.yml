@@ -1,0 +1,131 @@
+id: adc
+name: ADC
+full_name: Australasian Database Conference
+type: conference
+tier: minor
+areas: [data]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ADC Steering Committee (UQ and City University of Macau in 2026)
+organizer_country: [australia]
+proceedings: Springer LNCS
+indexing: [Scopus, DBLP]
+rank:
+  core: Australasian B
+typical:
+  deadline_months: [7, 9]
+  conference_months: [12]
+links:
+  website: https://adc-conference.github.io/
+  dblp: https://dblp.org/db/conf/adc/
+notes:
+- Annual since 1990; proceedings in Springer LNCS
+- Recent editions split across an Australian and an Asian site (2024 Gold Coast and Tokyo, 2025 Sydney and Bali,
+  2026 Brisbane and Hengqin)
+- Two research rounds plus a Shepherding Track for honours, master and early PhD students; single-blind review,
+  12 pages excluding references
+- Ranked Australasian B in ICORE2026; CORE student travel awards up to AUD 300
+- Best papers recommended to the World Wide Web Journal
+editions:
+- year: 2025
+  label: 36th ADC
+  start: 2025-12-04
+  end: 2025-12-06
+  location: Sydney, Australia and Bali, Indonesia
+  url: https://adc-conference.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-26
+    time: '23:59'
+    tz: AoE
+    label: Research track (extended from Sep 12)
+  - kind: submission
+    date: 2025-09-26
+    time: '23:59'
+    tz: AoE
+    label: Shepherding track (extended from Sep 12)
+  - kind: notification
+    date: 2025-10-21
+    label: Shepherding track (extended from Oct 4)
+  - kind: submission
+    date: 2025-10-21
+    time: '23:59'
+    tz: AoE
+    label: Encore track (continuous until)
+  - kind: notification
+    date: 2025-10-24
+    label: Research track (extended from Oct 21)
+  - kind: camera_ready
+    date: 2025-10-28
+    time: '23:59'
+    tz: AoE
+    label: Shepherding track (extended from Oct 18)
+  - kind: camera_ready
+    date: 2025-10-30
+    time: '23:59'
+    tz: AoE
+    label: Research track (extended from Oct 28)
+- year: 2026
+  label: 37th ADC
+  start: 2026-12-15
+  end: 2026-12-17
+  location: Brisbane, Australia and Hengqin, China
+  url: https://adc-conference.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    time: '23:59'
+    tz: AoE
+    label: Research track, first round
+  - kind: notification
+    date: 2026-08-09
+    label: Research track, first round
+  - kind: camera_ready
+    date: 2026-09-06
+    time: '23:59'
+    tz: AoE
+    label: Research track, first round (extended from Aug 16)
+  - kind: submission
+    date: 2026-09-11
+    time: '23:59'
+    tz: AoE
+    label: Research track, second round
+  - kind: submission
+    date: 2026-09-11
+    time: '23:59'
+    tz: AoE
+    label: Demo track
+  - kind: submission
+    date: 2026-09-25
+    time: '23:59'
+    tz: AoE
+    label: Shepherding track (extended from Sep 11)
+  - kind: notification
+    date: 2026-10-19
+    label: Second round and shepherding track
+  - kind: camera_ready
+    date: 2026-10-26
+    time: '23:59'
+    tz: AoE
+    label: Second round and shepherding track
+  - kind: submission
+    date: 2026-11-10
+    time: '23:59'
+    tz: AoE
+    label: Encore track (continuous until; already published papers)
+sources:
+- https://adc-conference.github.io/2026/
+- https://adc-conference.github.io/2026/research-track
+- https://adc-conference.github.io/2026/shepherding-track
+- https://adc-conference.github.io/2026/encore-track
+- https://adc-conference.github.io/2026/attend/student-travel-awards
+- https://adc-conference.github.io/2025/
+- https://adc-conference.github.io/2025/research-track
+- https://adc-conference.github.io/2025/attend/registration
+- https://web.archive.org/web/2025/https://dblp.org/db/conf/adc/index.html
+- https://portal.core.edu.au/conf-ranks/?search=Australasian+Database&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Registration fees (handled on an external registration site) not confirmed
+- Acceptance rate not published
+last_verified: 2026-09-28

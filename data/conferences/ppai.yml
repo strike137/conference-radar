@@ -1,0 +1,66 @@
+id: ppai
+name: PPAI
+full_name: AAAI Workshop on Privacy-Preserving Artificial Intelligence
+type: workshop
+tier: minor
+areas: [ai, security, data]
+region: north-america
+language: english
+frequency: annual
+organizer: AAAI workshop program; chaired by Ferdinando Fioretto (University of Virginia) with co-organizers
+organizer_country: [usa]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [11]
+  conference_months: [2, 3]
+links:
+  website: https://ppai-workshop.github.io/
+notes:
+- One-day workshop co-located with AAAI; six editions from PPAI-20 (2020) to PPAI-25 (2025)
+- Accepts technical papers (up to 9 pages), 1-page extended abstracts, and a fast track for rejected NeurIPS/AAAI
+  papers submitted with their prior reviews
+- Anonymous submissions, each reviewed by at least two PC members; at least one author must attend in person
+- Runs a student scholarship program with partial travel support
+- Not in the AAAI-26 workshop program (Singapore, Jan 2026); no later edition announced as of Sep 2026
+editions:
+- year: 2024
+  start: 2024-02-26
+  end: 2024-02-26
+  location: Vancouver, Canada
+  url: https://aaai-ppai24.github.io/
+  deadlines:
+  - kind: submission
+    date: 2023-11-22
+    label: Regular submission (extended)
+  - kind: other
+    date: 2023-12-12
+    label: NeurIPS/AAAI fast track submission
+  - kind: notification
+    date: 2023-12-22
+- year: 2025
+  start: 2025-03-03
+  end: 2025-03-03
+  location: Philadelphia, USA
+  url: https://ppai-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2024-11-29
+    label: Regular submission
+  - kind: other
+    date: 2024-12-11
+    label: NeurIPS/AAAI fast track submission
+  - kind: notification
+    date: 2024-12-31
+sources:
+- https://ppai-workshop.github.io/
+- https://aaai-ppai24.github.io/
+- https://aaai-ppai23.github.io/
+- https://aaai.org/conference/aaai/aaai-26/workshops-program/
+- https://aaai.org/conference/aaai/aaai-27/
+- https://aaai.org/conference/aaai/aaai-27/workshops-call/
+unverified:
+- 'Archival status: the PPAI-25 site does not mention proceedings'
+- 'Whether PPAI returns at AAAI-27 (Montreal, Feb 2027): AAAI notified accepted workshop proposals on 2026-09-25,
+  but the accepted workshop list was not public when checked'
+last_verified: 2026-09-28

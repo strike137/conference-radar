@@ -1,0 +1,74 @@
+id: internet-week-jp
+name: Internet Week
+full_name: Internet Week (JPNIC)
+name_local: インターネットウィーク
+type: industry
+tier: domestic
+areas: [networking, security]
+region: japan
+language: japanese
+frequency: annual
+organizer: JPNIC (Japan Network Information Center), with the Internet Week executive and program committees
+organizer_country: [japan]
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+fee: 16,500 JPY (2026, tax incl.); free for students aged 30 or under; hands-on sessions 3,300 JPY each; reception
+  5,500 JPY
+typical:
+  deadline_months: [11]
+  conference_months: [11]
+links:
+  website: https://internetweek.jp/2026/
+notes:
+- JPNIC's annual event for Internet infrastructure engineers and operators, held every November in Tokyo
+- Tutorials, trend seminars, hands-on sessions and BoFs by invited speakers, mostly in Japanese; no paper submissions
+- Split into an online week and an on-site conference week at KFC Hall and Rooms, Tokyo
+- Free registration for students aged 30 or under (student ID required); slides and videos published online afterwards
+- Co-located with the JPNIC Open Policy Meeting (JPOPM 49 in 2025, JPOPM 51 in 2026)
+editions:
+- year: 2025
+  start: 2025-11-18
+  end: 2025-11-27
+  location: Tokyo, Japan (plus online)
+  url: https://www.nic.ad.jp/iw2025/
+  deadlines:
+  - kind: other
+    date: 2025-11-07
+    time: '17:00'
+    tz: JST
+    label: Registration with bank transfer closes
+  - kind: other
+    date: 2025-11-27
+    time: '23:59'
+    tz: JST
+    label: Registration with credit card closes
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-27
+  location: Tokyo, Japan (plus online)
+  url: https://internetweek.jp/2026/
+  deadlines:
+  - kind: other
+    date: 2026-09-17
+    label: Registration opens
+  - kind: other
+    date: 2026-11-06
+    time: '17:00'
+    tz: JST
+    label: Registration with bank transfer closes
+  - kind: other
+    date: 2026-11-27
+    time: '23:59'
+    tz: JST
+    label: Registration with credit card closes (student free registration also until this time)
+sources:
+- https://internetweek.jp/2026/
+- https://internetweek.jp/2026/notes
+- https://internetweek.jp/2026/application
+- https://internetweek.jp/2026/program
+- https://www.nic.ad.jp/iw2025/
+unverified:
+- Whether any open call for program or BoF proposals exists (none found)
+last_verified: 2026-09-28

@@ -1,0 +1,106 @@
+id: ausdm
+name: AusDM
+full_name: Australasian Data Science and Machine Learning Conference (formerly Australasian Data Mining Conference)
+type: conference
+tier: minor
+areas: [data, ai]
+region: oceania
+language: english
+frequency: annual
+organizer: AusDM Steering Committee (host university varies; UTS in 2026)
+organizer_country: [australia]
+proceedings: Springer CCIS
+indexing: [Scopus, DBLP]
+rank:
+  core: Australasian C
+fee: 900 AUD non-student, 500 AUD student (2026, early, plus 10% GST)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11, 12]
+links:
+  website: https://ausdm.org/
+  dblp: https://dblp.org/db/conf/ausdm/
+notes:
+- Running since 2002 (started as a workshop); renamed from Australasian Data Mining Conference to Data Science and
+  Machine Learning Conference
+- Proceedings in Springer CCIS; double-blind review
+- Usually held in Australia in late November or early December (2023 edition in Auckland, NZ)
+- Ranked Australasian C in ICORE2026; steering committee manages a student financial award
+- Tracks for research, application, late-breaking work and a doctoral consortium; best papers invited to a Journal
+  of Big Data special issue
+editions:
+- year: 2025
+  label: 23rd AusDM
+  start: 2025-11-26
+  end: 2025-11-28
+  location: Brisbane, Australia
+  url: https://ausdm25.ausdm.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-08-17
+    time: '23:59'
+    tz: AoE
+    label: Extended from Aug 10
+  - kind: submission
+    date: 2025-08-24
+    time: '23:59'
+    tz: AoE
+    label: Extended from Aug 17
+  - kind: notification
+    date: 2025-09-21
+    label: Extended from Sep 7
+  - kind: camera_ready
+    date: 2025-10-05
+    label: Extended from Sep 21
+  - kind: other
+    date: 2025-10-05
+    label: Author registration
+- year: 2026
+  label: 24th AusDM
+  start: 2026-12-02
+  end: 2026-12-04
+  location: Sydney, Australia
+  url: https://ausdm26.ausdm.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-26
+    time: '23:59'
+    tz: AoE
+    label: Research and application tracks
+  - kind: submission
+    date: 2026-08-23
+    time: '23:59'
+    tz: AoE
+    label: Doctoral consortium
+  - kind: notification
+    date: 2026-08-24
+    label: Research and application tracks
+  - kind: submission
+    date: 2026-08-30
+    time: '23:59'
+    tz: AoE
+    label: Late-breaking work track
+  - kind: notification
+    date: 2026-09-14
+    label: Late-breaking work and doctoral consortium
+  - kind: camera_ready
+    date: 2026-09-21
+  - kind: other
+    date: 2026-09-25
+    time: '23:59'
+    tz: UTC+10
+    label: Early-bird registration (author registration deadline, Sydney time)
+sources:
+- https://ausdm26.ausdm.org/
+- https://ausdm26.ausdm.org/Registration.html
+- https://ausdm26.ausdm.org/Conference%20Policies.html
+- https://ausdm25.ausdm.org/
+- https://ausdm25.ausdm.org/Registration.html
+- https://ausdm.org/
+- https://ausdm.org/conferences.html
+- https://ausdm.org/publication.html
+- https://web.archive.org/web/2025/https://dblp.org/db/conf/ausdm/index.html
+- https://portal.core.edu.au/conf-ranks/?search=AusDM&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Acceptance rate not published
+last_verified: 2026-09-28

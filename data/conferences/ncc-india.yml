@@ -1,0 +1,80 @@
+id: ncc-india
+name: NCC
+full_name: National Conference on Communications
+type: conference
+tier: minor
+areas: [communications, networking]
+region: south-asia
+language: english
+frequency: annual
+organizer: Joint Telematics Group (JTG) of the IITs and IISc
+organizer_country: [india]
+proceedings: IEEE Xplore
+rank:
+  core: Unranked
+typical:
+  deadline_months: [11, 12]
+  conference_months: [2, 3]
+links:
+  website: https://www.ncc.org.in/
+  dblp: https://dblp.org/db/conf/ncc/
+notes:
+- India's main annual communications conference, organized since 1995 by the Joint Telematics Group of the IITs
+  and IISc
+- Host institution rotates every year (2025 IIT Delhi jointly with IIIT Delhi, IIT Jammu and IIT Jodhpur; 2026 IIT
+  Hyderabad); recently late February or early March
+- Despite the name it is an English-language, international-format conference; technically co-sponsored by IEEE
+  ComSoc, proceedings in IEEE Xplore
+- Double-blind review via EDAS; 4 to 6 page IEEE-format papers; symposia on communications, signal processing, networks,
+  and RF/optical
+- Paper deadline is typically late November, often extended by about a week
+editions:
+- year: 2025
+  label: 31st NCC, held at IIT Delhi
+  start: 2025-03-06
+  end: 2025-03-09
+  location: New Delhi, India
+  url: https://ncc2025.iiitd.ac.in/
+  deadlines:
+  - kind: submission
+    date: 2024-12-07
+    label: Papers (extended from Nov 30, hard deadline)
+  - kind: notification
+    date: 2025-02-06
+  - kind: camera_ready
+    date: 2025-02-14
+- year: 2026
+  label: 32nd NCC, IIT Hyderabad
+  start: 2026-02-26
+  end: 2026-03-01
+  location: Hyderabad, India
+  url: https://ee.iith.ac.in/NCC2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-28
+    tz: AoE
+    label: Papers (extended from Nov 21, hard deadline)
+  - kind: other
+    date: 2025-12-31
+    label: Tutorial proposals
+  - kind: notification
+    date: 2026-01-22
+  - kind: camera_ready
+    date: 2026-02-06
+    time: '23:59'
+    tz: AoE
+sources:
+- https://www.ncc.org.in/
+- https://www.ncc.org.in/history-of-jtg.html
+- https://web.archive.org/web/20260218001238/https://ee.iith.ac.in/NCC2026/
+- https://ncc2025.iiitd.ac.in/
+- https://ncc2025.iiitd.ac.in/submission
+- https://ncc2025.iiitd.ac.in/registration
+- https://portal.core.edu.au/conf-ranks/?search=National+Conference+on+Communications&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- NCC 2027 host and dates not yet announced on ncc.org.in (it still lists NCC 2026 as upcoming)
+- The NCC 2026 site (ee.iith.ac.in/NCC2026/) now returns 404; 2026 dates taken from the Wayback Machine copy of
+  Feb 2026
+- Registration fees not captured (2025 fee table is an image; 18% GST on top of INR base fees)
+- DBLP URL not re-checked (dblp.org blocked automated access)
+last_verified: 2026-09-28

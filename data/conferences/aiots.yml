@@ -1,0 +1,71 @@
+id: aiots
+name: AIoTS
+full_name: International Workshop on Artificial Intelligence and Industrial IoT Security
+type: workshop
+tier: minor
+areas: [security, ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACNS satellite workshop; 2026 PC co-chairs Sudipta Chattopadhyay (UMKC, USA) and Zeyu Yang (SUTD, Singapore)
+organizer_country: [singapore, usa]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: Unranked
+fee: About 750 USD early-bird (2026, single flat ACNS registration that covers workshops)
+typical:
+  deadline_months: [1, 3]
+  conference_months: [6]
+links:
+  website: https://aiots26.github.io/main/
+notes:
+- ACNS satellite workshop held every year since 2019 (8th edition in 2026); post-proceedings in Springer LNCS
+- Two submission rounds (January and March); both 2026 rounds were extended by one week
+- LNCS format, 18 pages main body including references (30 pages total), anonymous submission
+- 'Scope: AI and industrial IoT/CPS security, critical infrastructure, adversarial ML, applied crypto for IIoT;
+  5 papers in a single late-morning session in 2026'
+- Program chairs change every year; ACNS rotates worldwide (Kyoto 2023, Abu Dhabi 2024, Munich 2025, Stony Brook
+  2026)
+editions:
+- year: 2026
+  start: 2026-06-23
+  end: 2026-06-23
+  location: Stony Brook, USA
+  url: https://aiots26.github.io/main/
+  deadlines:
+  - kind: submission
+    date: 2026-01-30
+    time: '23:59'
+    tz: AoE
+    label: Round 1 (extended from Jan 23)
+  - kind: notification
+    date: 2026-02-20
+    tz: AoE
+    label: Round 1
+  - kind: camera_ready
+    date: 2026-03-06
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2026-03-13
+    time: '23:59'
+    tz: AoE
+    label: Round 2 (extended from Mar 6)
+  - kind: notification
+    date: 2026-04-03
+    tz: AoE
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-04-17
+    tz: AoE
+    label: Round 2
+sources:
+- https://aiots26.github.io/main/
+- https://acns2026.github.io/workshops.html
+- https://acns2026.github.io/registration.html
+- http://jianying.space/acns/acns-workshops.html
+unverified:
+- AIoTS 2027 not announced yet
+- Acceptance rate not published
+last_verified: 2026-09-28

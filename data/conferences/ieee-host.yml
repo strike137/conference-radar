@@ -1,0 +1,138 @@
+id: ieee-host
+name: IEEE HOST
+full_name: IEEE International Symposium on Hardware Oriented Security and Trust
+type: conference
+tier: major
+areas: [security, crypto, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: 'IEEE Computer Society (technical co-sponsors listed: IEEE TTTC, IEEE TCSP; NSF support)'
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [7, 8, 9, 11, 12]
+  conference_months: [5]
+links:
+  website: https://host.conferences.computer.org/2027/
+  dblp: https://dblp.org/db/conf/host/index.html
+notes:
+- Regarded as the main venue dedicated to hardware security (Trojans, side channels, fault injection, PUFs/TRNGs,
+  SoC and architecture security); not listed by CORE or CCF
+- 'Held every year in the USA: San Jose, CA (2025), McLean, VA near Washington DC (2026), Washington DC (2027);
+  2027 is the 20th edition'
+- Two submission windows (Fall and Winter) with a first-round decision and a major-revision round; double-blind
+  review, rebuttal for long papers
+- 2027 accepts long (10 pages + 2 refs) and short (5 pages + 1 ref) papers in IEEE format
+- NSF student travel grants are limited to full-time students at US institutions; a separate AsianHOST symposium
+  is held in Asia
+editions:
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-07
+  location: McLean, VA, USA (Washington DC area)
+  url: https://host.conferences.computer.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-01
+    tz: UTC
+    label: Fall cycle (extended from 19 Aug 2025)
+  - kind: submission
+    date: 2025-09-01
+    tz: UTC
+    label: Fall cycle (extended from 26 Aug 2025)
+  - kind: notification
+    date: 2025-10-07
+    label: Fall cycle, first round
+  - kind: other
+    date: 2025-11-07
+    label: Fall cycle, major revision due
+  - kind: notification
+    date: 2025-11-28
+    label: Fall cycle, final
+  - kind: abstract
+    date: 2025-12-15
+    tz: AoE
+    label: Winter cycle (extended from 1 Dec 2025)
+  - kind: submission
+    date: 2025-12-15
+    tz: AoE
+    label: Winter cycle (extended from 8 Dec 2025)
+  - kind: notification
+    date: 2026-02-04
+    label: Winter cycle, first round
+  - kind: other
+    date: 2026-03-14
+    label: Winter cycle, major revision due
+  - kind: notification
+    date: 2026-03-21
+    label: Winter cycle, final
+  - kind: camera_ready
+    date: 2026-04-15
+- year: 2027
+  start: 2027-05-03
+  end: 2027-05-06
+  location: Washington DC, USA
+  url: https://host.conferences.computer.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-22
+    time: '23:59'
+    tz: UTC
+    label: Fall cycle (extended from 15 Jul 2026)
+  - kind: submission
+    date: 2026-07-29
+    time: '23:59'
+    tz: UTC
+    label: Fall cycle (extended from 22 Jul 2026)
+  - kind: notification
+    date: 2026-09-01
+    label: Fall cycle, first round
+  - kind: other
+    date: 2026-10-01
+    label: Fall cycle, major revision due
+  - kind: notification
+    date: 2026-10-22
+    label: Fall cycle, final
+  - kind: abstract
+    date: 2026-11-01
+    tz: AoE
+    label: Winter cycle
+  - kind: submission
+    date: 2026-11-08
+    tz: AoE
+    label: Winter cycle
+  - kind: notification
+    date: 2026-12-16
+    label: Winter cycle, first round
+  - kind: other
+    date: 2027-01-16
+    label: Winter cycle, major revision due
+  - kind: notification
+    date: 2027-02-09
+    label: Winter cycle, final
+  - kind: camera_ready
+    date: 2027-02-23
+sources:
+- https://host.conferences.computer.org/2027/
+- https://host.conferences.computer.org/2027/call-for-papers/
+- https://host.conferences.computer.org/2027/about/
+- https://host.conferences.computer.org/2026/
+- https://host.conferences.computer.org/2026/call-for-papers/
+- https://host.conferences.computer.org/2026/venue/
+- https://host.conferences.computer.org/2026/travel-grant/
+- https://host.conferences.computer.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=HOST&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- 'HOST 2027 winter-cycle years: the homepage lists the revision, final notification and camera-ready as Jan 16
+  / Feb 9 / Feb 23, 2026 and the CFP lists the first-round notification as Dec 16, 2027; both are evident typos,
+  recorded here as 2026-12-16, 2027-01-16, 2027-02-09 and 2027-02-23 (the CFP page''s years)'
+- 'HOST 2026 fall-cycle deadline time: the CFP says ''11:59 GMT'' without AM/PM, so no time is recorded'
+- Exact HOST 2027 venue within Washington DC
+- Acceptance rate and registration fees
+last_verified: 2026-09-28

@@ -1,0 +1,84 @@
+id: icdcs
+name: IEEE ICDCS
+full_name: IEEE International Conference on Distributed Computing Systems
+type: conference
+tier: major
+areas: [systems, networking, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: B
+fee: 1,100 USD early author registration for IEEE members, 1,320 USD non-members (2026, main conference)
+typical:
+  deadline_months: [1, 12]
+  conference_months: [6, 7]
+links:
+  website: https://icdcs2026.icdcs.org/
+  dblp: https://dblp.org/db/conf/icdcs/index.html
+notes:
+- One of the IEEE Computer Society flagship conferences; 46th edition in 2026; CORE A, CCF B
+- 'Rotates between North America, Europe and Asia-Pacific: Glasgow, UK (2025), Seoul, Korea (2026), Melbourne, Australia
+  (2027)'
+- Double-blind review; up to 11 pages including references; one main deadline per year (Dec or Jan)
+- Has a Security, Privacy and Trust track; co-located workshops, posters/demos and a doctoral consortium with April
+  deadlines
+- In-person presentation required; selected papers invited to extend for IEEE TPDS
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-25
+  location: Seoul, South Korea
+  url: https://icdcs2026.icdcs.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-21
+    tz: AoE
+    label: Research papers (extended)
+  - kind: submission
+    date: 2026-01-21
+    tz: AoE
+    label: Research papers (extended)
+  - kind: submission
+    date: 2026-04-20
+    tz: AoE
+    label: Doctoral consortium
+  - kind: submission
+    date: 2026-04-23
+    tz: AoE
+    label: Workshop papers
+  - kind: submission
+    date: 2026-04-24
+    tz: AoE
+    label: Posters and demos
+  - kind: notification
+    date: 2026-04-27
+    tz: AoE
+    label: Research papers
+  - kind: camera_ready
+    date: 2026-05-14
+    tz: AoE
+- year: 2027
+  start: 2027-07-05
+  end: 2027-07-08
+  location: Melbourne, Australia
+  url: https://icdcs2027.icdcs.org/
+  deadlines: []
+sources:
+- https://icdcs2026.icdcs.org/
+- https://icdcs2026.icdcs.org/calls/call-for-papers/
+- https://icdcs2026.icdcs.org/registration/
+- https://icdcs2027.icdcs.org/
+- https://portal.core.edu.au/conf-ranks/?search=ICDCS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- ICDCS 2027 deadlines (all TBD on the official site as of 2026-09-28)
+- Original (pre-extension) ICDCS 2026 paper deadline (site only says it was extended on 23 Nov 2025)
+- Acceptance rate
+last_verified: 2026-09-28

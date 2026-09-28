@@ -1,0 +1,77 @@
+id: 3d-sec
+name: 3D-Sec
+full_name: ACM Deepfake, Deception, and Disinformation Security Workshop
+type: workshop
+tier: minor
+areas: [security, ai, vision, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: Program and organisational chairs Simon S. Woo (Sungkyunkwan University, Korea), Shahroz Tariq, Kristen
+  Moore and Sharif Abuadbba (CSIRO Data61, Australia), Sangyup Lee (Incheon National University) and Tim Walita
+  (CISPA); steering committee Mario Fritz (CISPA) and Bimal Viswanath (Virginia Tech)
+organizer_country: [korea, australia]
+proceedings: ACM DL
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://sites.google.com/view/3d-sec2026/
+notes:
+- Co-located with ACM CCS; 1st edition at CCS 2025 in Taipei, 2nd at CCS 2026 in The Hague
+- Double-blind; full papers up to 8 pages plus 2 appendix pages, short papers 6 pages, and 2-4 page discussion,
+  demo, vision and poster papers
+- 2026 edition has two submission rounds (June and July)
+- 'Proceedings in the ACM Digital Library (2025 volume: ISBN 979-8-4007-1902-8)'
+- Organizers and program committee are largely from Korea (Sungkyunkwan University) and Australia (CSIRO Data61)
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Taipei, Taiwan
+  url: https://sites.google.com/view/3d-sec2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-20
+    tz: AoE
+    label: Paper submission (extended from 2025-06-20)
+  - kind: notification
+    date: 2025-08-12
+  - kind: camera_ready
+    date: 2025-08-22
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: The Hague, Netherlands
+  url: https://sites.google.com/view/3d-sec2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-24
+    time: '23:59'
+    tz: AoE
+    label: Round 1 (final extension from 2026-06-10)
+  - kind: submission
+    date: 2026-07-25
+    tz: AoE
+    label: Round 2 (no extensions)
+  - kind: notification
+    date: 2026-07-29
+    label: Round 1 (moved from 2026-07-15)
+  - kind: notification
+    date: 2026-08-15
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-08-22
+sources:
+- https://sites.google.com/view/3d-sec2026/submission
+- https://sites.google.com/view/3d-sec2026/organizers
+- https://sites.google.com/view/3d-sec2025/submission
+- https://sites.google.com/view/3d-sec2025/organizers
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://www.sigsac.org/ccs/CCS2025/events/
+- https://doi.org/10.1145/3733813
+- https://api.crossref.org/works/10.1145/3733813
+last_verified: 2026-09-28

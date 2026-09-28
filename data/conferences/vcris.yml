@@ -1,0 +1,84 @@
+id: vcris
+name: VCRIS
+full_name: International Conference on Cryptography and Information Security (VCRIS)
+type: conference
+tier: minor
+areas: [crypto, security, ai]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Academy of Cryptography Techniques (Vietnam Government Information Security Commission), with VIASM,
+  FISU Vietnam and the Information Security Journal
+organizer_country: [vietnam]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+rank:
+  core: Unranked
+fee: 300 USD non-IEEE member, 250 USD IEEE member (2026, one paper, before Sep 25)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 12]
+links:
+  website: https://vcris.org/
+  wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194368
+notes:
+- Held every year at the Academy of Cryptography Techniques in Hanoi, Vietnam, since the 1st edition in Dec 2024;
+  technical sponsor IEEE Vietnam Section
+- Endorsed by JAIST, University of Lorraine and KU Leuven COSIC
+- Max 6 pages in IEEE format, double-blind review by at least three PC members; the 2024 and 2025 proceedings are
+  in IEEE Xplore (about 35 and 44 papers)
+- 'Five tracks in 2026: theoretical and post-quantum crypto, applied crypto and privacy, systems and network security,
+  AI-driven security, emerging technologies'
+- In-person presentation required (no virtual talks); listed on the IACR calendar; deadlines usually extended by
+  two to four weeks
+editions:
+- year: 2025
+  start: 2025-10-30
+  end: 2025-10-31
+  location: Hanoi, Vietnam
+  url: https://vcris.org/previous-conferences/vcris2025/homepage/
+  deadlines:
+  - kind: submission
+    date: 2025-07-25
+    label: Full paper (extended from Jun 30)
+  - kind: notification
+    date: 2025-08-20
+    label: Extended from Aug 15
+  - kind: other
+    date: 2025-09-30
+    label: Registration deadline
+- year: 2026
+  start: 2026-10-29
+  end: 2026-10-30
+  location: Hanoi, Vietnam
+  url: https://vcris.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-24
+    label: Full paper (extended from Jun 30)
+  - kind: notification
+    date: 2026-08-31
+    label: Extended from Jul 31
+  - kind: camera_ready
+    date: 2026-09-20
+  - kind: other
+    date: 2026-09-25
+    label: Early registration deadline
+sources:
+- https://vcris.org/
+- https://vcris.org/paper-submission/
+- https://vcris.org/call-for-papers/
+- https://vcris.org/camera-ready-submission/
+- https://vcris.org/registration-2026/
+- https://vcris.org/previous-conferences/vcris2025/homepage/
+- https://vcris.org/previous-conferences/vcris2024/homepage/
+- https://doi.org/10.1109/vcris63677.2024.10813438
+- https://doi.org/10.1109/vcris68011.2025.11250565
+- https://www.iacr.org/events/
+- http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194368
+- https://portal.core.edu.au/conf-ranks/?search=VCRIS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Acceptance rate
+- Exact paper counts in IEEE Xplore (the 35 and 44 figures are Crossref record counts)
+last_verified: 2026-09-28

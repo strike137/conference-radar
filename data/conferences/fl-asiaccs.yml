@@ -1,0 +1,100 @@
+id: fl-asiaccs
+name: FL-AsiaCCS
+full_name: International Workshop on Secure and Efficient Federated Learning (in conjunction with ACM AsiaCCS)
+type: workshop
+tier: minor
+areas: [security, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Workshop chairs Huaxiong Wang (NTU), Mikael Skoglund (KTH), Stanislav Kruglik (DTU); co-located with
+  ACM AsiaCCS
+organizer_country: [singapore, europe]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [2, 4]
+  conference_months: [6, 8]
+links:
+  website: https://federated-learning.org/fl-asiaccs-2026/
+notes:
+- Half-day workshop co-located with ACM AsiaCCS; first held in 2025 (Hanoi), then 2026 (Bangalore), so location
+  follows AsiaCCS
+- Proceedings in the ACM Digital Library as a separate workshop proceedings volume
+- Double-blind review; up to 6 pages including references in ACM sigconf format, submitted via EDAS
+- 'Deadlines have been extended every year so far (2025: 21 Feb -> 30 Mar -> 25 Apr; 2026: 13 Feb -> 22 Feb)'
+- 'Very small program: 7 papers in 2025 and 5 papers plus invited plenary talks and a Flower tutorial in 2026, several
+  presented online'
+editions:
+- year: 2025
+  start: 2025-08-26
+  end: 2025-08-26
+  location: Hanoi, Vietnam
+  url: https://federated-learning.org/fl-asiaccs-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-21
+    time: '23:59'
+    tz: AoE
+    label: Initial deadline (later extended)
+  - kind: submission
+    date: 2025-03-30
+    time: '23:59'
+    tz: AoE
+    label: First extension (later extended again)
+  - kind: submission
+    date: 2025-04-25
+    time: '23:59'
+    tz: AoE
+    label: Final extended deadline
+  - kind: notification
+    date: 2025-05-17
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-25
+    time: '23:59'
+    tz: AoE
+- year: 2026
+  start: 2026-06-02
+  end: 2026-06-02
+  location: Bangalore, India
+  url: https://federated-learning.org/fl-asiaccs-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    time: '23:59'
+    tz: AoE
+    label: Initial deadline (later extended)
+  - kind: submission
+    date: 2026-02-22
+    time: '23:59'
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2026-03-22
+    time: '23:59'
+    tz: AoE
+    label: Notification (originally 16 March)
+  - kind: camera_ready
+    date: 2026-04-01
+    time: '23:59'
+    tz: AoE
+sources:
+- https://federated-learning.org/fl-asiaccs-2026/
+- https://federated-learning.org/fl-asiaccs-2025/
+- https://federated-learning.org/
+- https://web.archive.org/web/20251106203927/https://federated-learning.org/fl-asiaccs-2026/
+- https://web.archive.org/web/20241114081037/https://federated-learning.org/fl-asiaccs-2025/
+- https://web.archive.org/web/20250322222827/https://federated-learning.org/fl-asiaccs-2025/
+- https://dl.acm.org/doi/proceedings/10.1145/3803630
+- https://dl.acm.org/doi/proceedings/10.1145/3709023
+unverified:
+- Number of submissions, so no acceptance rate
+- Whether a 2027 edition will be held (federated-learning.org/fl-asiaccs-2027/ returns 404 as of 2026-09-28)
+- DBLP indexing (DBLP not reachable during research)
+- ACM DL proceedings pages could not be opened directly (bot check); DOIs taken from the official workshop pages
+last_verified: 2026-09-28

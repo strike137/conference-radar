@@ -1,0 +1,72 @@
+id: mva
+name: MVA
+full_name: International Conference on Machine Vision Applications
+type: conference
+tier: minor
+areas: [vision, ai]
+region: japan
+language: english
+frequency: biennial
+organizer: MVA Organization (Japan)
+organizer_country: [japan]
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: 'National: Japan'
+acceptance_rate: 54% (2025, 64/119); orals 17%
+fee: 90,000 JPY (2025, early, non-member participant); 55,000 JPY student non-member
+typical:
+  deadline_months: [1, 3, 4]
+  conference_months: [5, 7]
+links:
+  website: https://www.mva-org.jp/
+notes:
+- Held in Japan every two years since 1988 (even years until 2002, odd years since 2005); 2023 Hamamatsu, 2025 Kyoto,
+  2027 Fukuoka
+- Often co-located with MIRU (2023 and 2025) and features IAPR invited talks
+- 4-page papers with double-blind review; acceptance around 55% (70/126 in 2023, 64/119 in 2025)
+- Proceedings in IEEE Xplore; for 2027 they go to the IEICE Proceeding Series and are submitted to IEEE Xplore
+- ICORE2026 lists it as National (Japan); 2027 moves to May, so the deadline moves up to January 14, 2027
+editions:
+- year: 2025
+  start: 2025-07-26
+  end: 2025-07-28
+  location: Kyoto, Japan
+  url: https://www.mva-org.jp/mva2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-14
+    time: '23:59'
+    tz: AoE
+    label: Papers (extended from Mar 31)
+  - kind: notification
+    date: 2025-06-13
+  - kind: camera_ready
+    date: 2025-06-30
+- year: 2027
+  start: 2027-05-12
+  end: 2027-05-14
+  location: Fukuoka, Japan
+  url: https://www.mva-org.jp/mva2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-14
+    time: '23:59'
+    tz: AoE
+    label: Papers (4 pages excluding references)
+  - kind: notification
+    date: 2027-03-30
+sources:
+- https://www.mva-org.jp/
+- https://www.mva-org.jp/mva2027/
+- https://www.mva-org.jp/mva2027/cfp/
+- https://www.mva-org.jp/mva2027/submission/
+- https://www.mva-org.jp/mva2025/
+- https://mva-org.jp/mva2025/registration
+- http://www.mva-org.jp/mva2023/
+- https://www.mva-org.jp/archives.php
+- https://portal.core.edu.au/conf-ranks/?search=MVA&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- MVA 2027 fees and submission system not yet announced
+- dblp key conf/mva (dblp was unreachable during checking)
+last_verified: 2026-09-28

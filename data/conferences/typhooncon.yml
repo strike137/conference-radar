@@ -1,0 +1,78 @@
+id: typhooncon
+name: TyphoonCon
+full_name: 'TyphoonCon: All-Offensive Security Conference (with the TyphoonPWN hacking contest)'
+type: industry
+tier: minor
+areas: [security]
+region: korea
+language: english
+frequency: annual
+organizer: SSD Secure Disclosure
+organizer_country: [korea]
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+fee: 2-day conference 1,150,000 KRW (2026 regular; 50% early bird sold out); trainings 4,600,000 to 6,000,000 KRW
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5]
+links:
+  website: https://typhooncon.com/
+notes:
+- Offensive security conference run by SSD Secure Disclosure, held every May in Myeongdong, Seoul (2025 at Le Meridien
+  Seoul Myeongdong, 2026 at Moxy Seoul Myeongdong)
+- Two-day conference (talks in English or Korean, 30 or 60 min) preceded by 3 to 4 days of paid trainings
+- Hosts TyphoonPWN, a live hacking contest; 2025 payouts exceeded 500,000 USD (top item 250,000 USD for Chrome RCE
+  plus sandbox escape)
+- Talk CFP closes 1 March at 08:00 KST (trainings 1 February); accepted speakers get 3 hotel nights and up to 1,500
+  USD airfare
+- Small event (organizers cite 150+ attendees); deep technical focus on exploitation and reverse engineering
+editions:
+- year: 2025
+  start: 2025-05-29
+  end: 2025-05-30
+  location: Seoul, South Korea
+  url: https://typhooncon.com/home-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-01
+    time: 08:00
+    tz: KST
+    label: Call for Training
+  - kind: submission
+    date: 2025-03-01
+    time: 08:00
+    tz: KST
+    label: Call for Papers (talks)
+- year: 2026
+  start: 2026-05-28
+  end: 2026-05-29
+  location: Seoul, South Korea
+  url: https://typhooncon.com/
+  deadlines:
+  - kind: submission
+    date: 2026-02-01
+    time: 08:00
+    tz: KST
+    label: Call for Training
+  - kind: submission
+    date: 2026-03-01
+    time: 08:00
+    tz: KST
+    label: Call for Papers (talks)
+sources:
+- https://typhooncon.com/
+- https://typhooncon.com/call-for-papers-2026/
+- https://typhooncon.com/call-for-training-2026/
+- https://typhooncon.com/register-and-pay-in-krw-2026/
+- https://typhooncon.com/typhoonpwn-2026/
+- https://typhooncon.com/venue/
+- https://typhooncon.com/call-for-papers-2025/
+- https://typhooncon.com/call-for-training-2025/
+- https://typhooncon.com/home-2025/
+unverified:
+- Dates for a 2027 edition (not announced)
+- Edition count (the official site gives no edition number)
+- 2025 conference days inferred as 29 to 30 May from the 26 to 30 May event span and 26 to 28 May trainings
+last_verified: 2026-09-28

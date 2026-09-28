@@ -1,0 +1,73 @@
+id: acm-turc
+name: ACM TURC
+full_name: ACM Turing Celebration Conference - China
+name_local: ACM中国图灵大会
+type: conference
+tier: minor
+areas: [ai, networking, communications, security, data, general]
+region: china
+language: mixed
+frequency: annual
+organizer: ACM (with the ACM China Council), co-organized by CCF
+organizer_country: [china]
+proceedings: ACM DL (ICPS, open access with APC)
+rank:
+  core: Unranked
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7, 10]
+links:
+  website: https://www.acmturc.com/
+notes:
+- Annual celebration of the ACM Turing Award in China with keynotes by Turing laureates; the paper track runs as
+  SIG China symposia (SIGAI, SIGCOMM, SIGMOBILE, SIGSAC, SIGMOD, SIGWEB, SIGCSE, SIGSPATIAL in 2026)
+- 'Paper format changes by year: full papers up to 6 pages (2026) or 5 pages (2024) in ACM double-column format
+  plus references, and 2-page poster papers; the 2025 call asked only for 2-page poster papers'
+- Single-blind review; accepted papers go to the ACM Digital Library
+- 'Held in a different Chinese city each year: Changsha 2024, Shenzhen 2025 (postponed to October), Hangzhou 2026'
+- Program pages are mainly in Chinese; mostly attended by the Chinese research community; not in the CCF list or
+  CORE
+editions:
+- year: 2025
+  start: 2025-10-11
+  end: 2025-10-12
+  location: Shenzhen, China
+  url: https://www.acmturc.com/2025/cn/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-06-10
+    label: Poster papers (2-page abstracts)
+  - kind: notification
+    date: 2025-06-24
+  - kind: camera_ready
+    date: 2025-06-30
+- year: 2026
+  start: 2026-07-11
+  end: 2026-07-12
+  location: Hangzhou, China
+  url: https://www.acmturc.com/2026/en/callforpaper.html
+  deadlines:
+  - kind: submission
+    date: 2026-06-10
+    label: Full papers and poster papers
+  - kind: notification
+    date: 2026-06-30
+  - kind: camera_ready
+    date: 2026-07-07
+sources:
+- https://www.acmturc.com/2026/en/callforpaper.html
+- https://www.acmturc.com/2026/cn/callforpaper.html
+- https://www.acmturc.com/2026/cn/program.html
+- https://www.acmturc.com/2026/cn/venue.html
+- https://www.acmturc.com/2026/cn/history.html
+- https://www.acmturc.com/2025/cn/index.html
+- https://www.acmturc.com/2025/cn/callforpaper.html
+- https://www.acmturc.com/2024/
+unverified:
+- dblp key (dblp blocked automated access during checking)
+- Registration fees
+- ACM TURC 2027 dates and location not announced as of 2026-09-28
+- The official history page lists no 2022 edition; not confirmed whether it was skipped
+- The 2025 CFP page still carries intro text from the 2023 Wuhan edition; whether 2025 also had a full-paper track
+  is not confirmed
+last_verified: 2026-09-28

@@ -1,0 +1,78 @@
+id: llm4sec
+name: LLM4Sec
+full_name: Workshop on the Use of Large Language Models for Cybersecurity
+type: workshop
+tier: minor
+areas: [security, ai, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICAR-CNR and IMATI-CNR (Italy) with PBS University (Poland)
+organizer_country: [europe]
+proceedings: Springer LNCS
+rank:
+  core: Unranked
+fee: Registration through ESORICS (Full or Workshop-only); onsite one-day workshop pass 300 EUR (2026)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [9, 11]
+links:
+  website: https://llm4sec-workshop.github.io/
+notes:
+- 'Young workshop that moves between host conferences: 1st edition at IEEE ICDM 2025 (Washington DC, IEEE ICDMW
+  proceedings), 2nd edition at ESORICS 2026 (Rome, Springer LNCS)'
+- 'Topics: LLMs for secure code generation, vulnerability and malware detection, phishing, forensics, anomaly detection
+  and security policy generation'
+- '2026: papers up to 16 pages in LNCS format, single-blind review, submitted through the ESORICS EasyChair; in-person
+  presentation required (2025 used 8-page IEEE format with triple-blind review)'
+- Half-day format; 10 papers in the 2026 program, including one from Yokohama National University
+editions:
+- year: 2025
+  label: 1st edition, at IEEE ICDM 2025
+  start: 2025-11-13
+  end: 2025-11-13
+  location: Washington DC, USA
+  url: https://llm4sec-workshop.github.io/2025
+  deadlines:
+  - kind: submission
+    date: 2025-08-29
+    tz: AoE
+    label: Papers
+  - kind: notification
+    date: 2025-09-18
+    tz: AoE
+    label: Extended from September 15
+  - kind: camera_ready
+    date: 2025-10-05
+    tz: AoE
+    label: Extended from September 25
+- year: 2026
+  label: 2nd edition, at ESORICS 2026
+  start: 2026-09-18
+  end: 2026-09-18
+  location: Rome, Italy
+  url: https://llm4sec-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    tz: AoE
+    label: Papers
+  - kind: notification
+    date: 2026-07-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-22
+    tz: AoE
+sources:
+- https://llm4sec-workshop.github.io/
+- https://llm4sec-workshop.github.io/call_for_papers
+- https://llm4sec-workshop.github.io/program
+- https://llm4sec-workshop.github.io/organizers
+- https://llm4sec-workshop.github.io/history
+- https://llm4sec-workshop.github.io/2025
+- https://sites.google.com/di.uniroma1.it/esorics2026/program/accepted-workshops
+- https://sites.google.com/di.uniroma1.it/esorics2026/attend/registration
+unverified:
+- Host conference and dates of a 2027 edition not announced as of 2026-09-28
+- Number of submissions (acceptance rate not published)
+last_verified: 2026-09-28

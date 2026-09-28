@@ -1,0 +1,77 @@
+id: sats
+name: SaTS
+full_name: ACM Workshop on Security and Safety of AI-Empowered Mobile Super Apps
+type: workshop
+tier: minor
+areas: [security, software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: PC chairs Yuqing Yang (Macau University of Science and Technology) and Yue Xiao (William & Mary); steering
+  committee Zhiqiang Lin (Ohio State), Ben Stock (CISPA), Yan Shoshitaishvili (Arizona State), Luyi Xing (UIUC)
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://superappsec.github.io/
+notes:
+- Co-located with ACM CCS every year since 2023 (Copenhagen 2023, Salt Lake City 2024, Taipei 2025, The Hague 2026)
+- 'Name history: Secure and Trustworthy Superapps (2023, 2024); Security and Privacy of AI-Empowered Mobile Super
+  Apps (2025); Security and Safety of AI-Empowered Mobile Super Apps (2026, listed on the CCS 2026 site as Security
+  of Agentic and Miniapp Empowered Mobile Apps)'
+- Double-blind; regular papers up to 7 pages, short or WIP papers up to 4, demos up to 2 (ACM sigconf, plus references
+  and up to 2 appendix pages)
+- Focus on mini-app ecosystems (WeChat, Alipay, TikTok, Grab) and agentic AI on mobile; about a third of the 2026
+  PC is from mainland China or Macao
+- Best paper award; the deadline was extended in 2025 (June 20 -> July 16) and in 2026 (July 15 -> July 22)
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Taipei, Taiwan
+  url: https://superappsec.github.io/sats2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-07-16
+    tz: AoE
+    label: Paper submission (extended from 2025-06-20, then 2025-07-09)
+  - kind: notification
+    date: 2025-08-17
+    label: Moved from 2025-08-08
+  - kind: camera_ready
+    date: 2025-08-22
+    tz: AoE
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-19
+  location: The Hague, Netherlands
+  url: https://superappsec.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-22
+    tz: AoE
+    label: Paper submission (extended from 2026-07-15)
+  - kind: notification
+    date: 2026-09-01
+  - kind: camera_ready
+    date: 2026-09-15
+    tz: AoE
+sources:
+- https://superappsec.github.io/
+- https://superappsec.github.io/sats2025.html
+- https://superappsec.github.io/2024/
+- https://superappsec.github.io/2023/
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://www.sigsac.org/ccs/CCS2025/events/
+- https://doi.org/10.1145/3605762
+- https://doi.org/10.1145/3689941
+- https://doi.org/10.1145/3719027.3768538
+unverified:
+- 2025 proceedings volume not found in Crossref (the 2023 and 2024 volumes are in the ACM DL; the 2025 workshop
+  summary appears in the CCS 2025 proceedings)
+last_verified: 2026-09-28

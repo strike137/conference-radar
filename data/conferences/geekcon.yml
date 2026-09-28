@@ -1,0 +1,64 @@
+id: geekcon
+name: GEEKCON
+full_name: GEEKCON (formerly GeekPwn)
+name_local: GEEKCON·新极棒
+type: industry
+tier: minor
+areas: [security, ai]
+region: china
+language: mixed
+frequency: annual
+organizer: GEEKCON Committee (founded by DARKNAVY)
+organizer_country: [china]
+proceedings: None (non-archival)
+rank:
+  core: Unranked
+typical:
+  deadline_months: [9]
+  conference_months: [10]
+links:
+  website: https://geekcon.top/
+notes:
+- Hacking contest and conference running since 2014 (originally GeekPwn), now GEEKCON founded by DARKNAVY; 18 editions
+  held worldwide
+- Main event on October 24 in Shanghai (West Bund) in 2025 and 2026; past editions also in Beijing, Singapore (2024),
+  Hong Kong, Macau, Silicon Valley and Las Vegas
+- 'Tracks in 2026: AI Security Challenge, DAF Vulnerability and Exploitation Challenge, 30+5 In-depth Sharing (30
+  min talk plus 5 min live demo), DARKNAVY Insight special disclosure'
+- Submissions by email (cfp@geekcon.top), reviewed in order of arrival; winning DAF exploits are disclosed to vendors
+  responsibly
+- Practitioner venue with no proceedings; recent focus on AI, robots, drones and autonomous systems
+editions:
+- year: 2025
+  label: GEEKCON 2025 Shanghai
+  start: 2025-10-24
+  end: 2025-10-24
+  location: Shanghai, China
+  url: https://geekcon.top/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-01
+    time: '23:59'
+    tz: UTC+8
+    label: Contest entries and 30+5 talk proposals
+- year: 2026
+  label: GEEKCON 2026 Shanghai
+  start: 2026-10-24
+  end: 2026-10-24
+  location: Shanghai, China
+  url: https://geekcon.top/
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+    time: '23:59'
+    tz: UTC+8
+    label: All tracks (contests, talks, disclosures)
+sources:
+- https://geekcon.top/
+- https://geekcon.top/2025/
+unverified:
+- Attendance fee
+- Whether a 2025 Dubai edition took place (the 2025 CFP mentions October in Dubai, but the official archive lists
+  only 2025 Shanghai)
+- Year of the rename from GeekPwn to GEEKCON
+last_verified: 2026-09-28

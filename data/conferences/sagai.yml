@@ -1,0 +1,90 @@
+id: sagai
+name: SAGAI
+full_name: Workshop on Secure Agents for Generative Artificial Intelligence
+type: workshop
+tier: minor
+areas: [security, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE S&P (Security and Privacy Workshops); 2026 general chairs Earlence Fernandes (UCSD) and Mihai Christodorescu
+  (Google)
+organizer_country: [usa]
+rank:
+  core: Unranked
+acceptance_rate: 50% (2026, 10/20)
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5]
+links:
+  website: https://sites.google.com/view/sagai-2026
+notes:
+- Co-located with IEEE S&P on the Security and Privacy Workshops day in San Francisco; one-day workshop in May
+- Started in 2024 as Security Architectures for Generative AI with a paper call (CFP said papers go into the IEEE
+  workshop proceedings); 2025 was an invited-talk, Dagstuhl-style discussion format with no paper call; 2026 returned
+  to peer-reviewed papers
+- '2026: papers up to 6 pages plus references, IEEE two-column format, anonymized; 10 of 20 submissions accepted'
+- Focus on security and privacy of LLM agents (prompt injection, tool integration, data exfiltration, red-teaming);
+  2026 program had 4 keynotes from Gray Swan, Google DeepMind and Snowflake
+- IEEE S&P 2027 moves to Montreal, Canada, with the workshops day on May 20, 2027
+editions:
+- year: 2024
+  label: 1st edition, as Security Architectures for Generative AI
+  start: 2024-05-23
+  end: 2024-05-23
+  location: San Francisco, USA
+  url: https://sites.google.com/view/sagai2024/home
+  deadlines:
+  - kind: submission
+    date: 2024-03-01
+    tz: AoE
+    label: Extended from Feb 5
+  - kind: notification
+    date: 2024-03-17
+    tz: AoE
+    label: Extended from Feb 19
+  - kind: camera_ready
+    date: 2024-03-26
+    tz: AoE
+    label: Extended from Mar 5
+- year: 2025
+  label: Invited-talk format, no paper call
+  start: 2025-05-15
+  end: 2025-05-15
+  location: San Francisco, USA
+  url: https://sites.google.com/ucsd.edu/sagai25-ieee-sp/
+  deadlines: []
+- year: 2026
+  start: 2026-05-21
+  end: 2026-05-21
+  location: San Francisco, USA
+  url: https://sites.google.com/view/sagai-2026
+  deadlines:
+  - kind: submission
+    date: 2026-02-19
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2026-03-19
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-31
+    tz: AoE
+sources:
+- https://sites.google.com/view/sagai-2026/main
+- https://hotcrp.sagai26.ieee-security.org/
+- https://sp2026.ieee-security.org/workshops.html
+- https://sites.google.com/ucsd.edu/sagai25-ieee-sp/
+- https://sites.google.com/ucsd.edu/sagai25-ieee-sp/workshop-format
+- https://sp2025.ieee-security.org/workshops.html
+- https://sites.google.com/view/sagai2024/home
+- https://sites.google.com/view/sagai2024/important-dates
+- https://sites.google.com/view/sagai2024/call-for-papers
+- https://sp2024.ieee-security.org/workshops.html
+- https://sp2027.ieee-security.org/workshops.html
+unverified:
+- Whether SAGAI 2026 papers appear in the IEEE SPW proceedings (IEEE Xplore); the 2026 CFP does not say
+- 'SAGAI 2027: the S&P 2027 workshops page lists SAGAI, but that list is identical to 2026 and looks like a placeholder;
+  no 2027 CFP yet'
+- Registration fee not found
+last_verified: 2026-09-28

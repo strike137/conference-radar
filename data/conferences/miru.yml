@@ -1,0 +1,67 @@
+id: miru
+name: MIRU
+full_name: Meeting on Image Recognition and Understanding
+name_local: 画像の認識・理解シンポジウム
+type: conference
+tier: domestic
+areas: [vision, ai]
+region: japan
+language: mixed
+frequency: annual
+organizer: IEICE PRMU and IPSJ SIG-CVIM
+organizer_country: [japan]
+proceedings: None (non-archival)
+rank:
+  core: Unranked
+fee: 49,500 JPY (2026, early, non-member); 11,000 JPY student
+typical:
+  deadline_months: [3, 6]
+  conference_months: [7, 8]
+links:
+  website: https://miru-committee.github.io/miru2026/
+notes:
+- Largest domestic computer vision symposium in Japan, organized by IEICE PRMU with IPSJ CVIM; held in late July
+  or early August
+- Oral candidate papers (4 pages, single-blind review) are due in March; poster and demo papers are accepted until
+  June without selection
+- 'Non-archival: the Extended Abstract collection is shared only with participants, so the work can still go to
+  CVPR and similar venues'
+- Papers may be in Japanese or English; oral candidates can opt into concurrent review for an IEICE Transactions
+  letter
+- 30th MIRU (2027) will be held in Takamatsu, July 26 to 29
+editions:
+- year: 2026
+  start: 2026-08-03
+  end: 2026-08-06
+  location: Nagasaki, Japan
+  url: https://miru-committee.github.io/miru2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-09
+    label: Oral candidate papers
+  - kind: submission
+    date: 2026-03-16
+    label: Oral candidate papers
+  - kind: notification
+    date: 2026-05-29
+    label: Oral selection (planned)
+  - kind: submission
+    date: 2026-06-22
+    label: General (poster) and demo papers
+  - kind: camera_ready
+    date: 2026-06-22
+- year: 2027
+  start: 2027-07-26
+  end: 2027-07-29
+  location: Takamatsu, Japan
+  url: https://cvim.ipsj.or.jp/MIRU2027/
+  deadlines: []
+sources:
+- https://miru-committee.github.io/miru2026/
+- https://miru-committee.github.io/miru2026/author/submission/
+- https://miru-committee.github.io/miru2026/attend/registration/
+- https://cvim.ipsj.or.jp/MIRU2027/
+- https://cvim.ipsj.or.jp/MIRU2025/
+unverified:
+- MIRU 2027 submission deadlines and fees not yet announced
+last_verified: 2026-09-28

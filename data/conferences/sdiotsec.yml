@@ -1,0 +1,59 @@
+id: sdiotsec
+name: SDIoTSec
+full_name: Workshop on Security and Privacy in Standardized IoT
+type: workshop
+tier: minor
+areas: [security, networking, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop chairs, co-located with the NDSS Symposium (Internet Society)
+organizer_country: [usa]
+proceedings: NDSS (Internet Society)
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [1, 12]
+  conference_months: [2]
+links:
+  website: https://sdiotsec.github.io/
+notes:
+- Co-located with the NDSS Symposium since 2024 (2024, 2025, 2026 editions all in San Diego); papers published by
+  the Internet Society
+- 'Focus on IoT standards and shared implementations: Matter, FCC IoT cybersecurity labeling, SBOM/CBOM/HBOM and
+  supply chain rules'
+- Double-blind review; regular papers up to 8 pages, short or work-in-progress papers up to 4 pages (NDSS format)
+- 'Small one-day workshop: 10 accepted papers in 2026; deadlines have been extended every year'
+- 2027 edition not announced yet; the NDSS 2027 call for co-located workshops is still open, and NDSS 2027 is in
+  Seoul (22-26 Mar 2027)
+editions:
+- year: 2026
+  start: 2026-02-23
+  end: 2026-02-23
+  location: San Diego, CA, USA
+  url: https://sdiotsec.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-12-18
+    tz: AoE
+    label: Papers (extended from 10 Dec 2025)
+  - kind: notification
+    date: 2026-01-16
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-30
+    tz: AoE
+sources:
+- https://sdiotsec.github.io/
+- https://www.ndss-symposium.org/ndss2026/submissions/cfp-sdiotsec/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/sdiotsec/
+- https://sdiotsec.github.io/2025/
+- https://sdiotsec.github.io/2024/
+- https://www.ndss-symposium.org/ndss2027/
+- https://www.ndss-symposium.org/ndss2027/submissions/
+unverified:
+- Whether SDIoTSec will run in 2027 (NDSS 2027 workshop list not yet published)
+- Acceptance rate (only the count of 10 accepted papers in 2026 is known)
+- The 2026 CFP calls it the 'second' workshop although 2024 and 2025 editions exist
+last_verified: 2026-09-28
