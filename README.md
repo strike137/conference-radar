@@ -44,6 +44,13 @@ Each venue is one YAML file in [`data/conferences/`](data/conferences/). Three w
 
 Field-by-field guidance is in [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Monthly refresh
+
+On the 1st of every month a scheduled Claude agent follows [MAINTAINING.md](MAINTAINING.md): it checks venues
+whose next call for papers is due (`python3 scripts/stale.py`), re-checks deadlines in the next 30 days,
+handles "Report outdated info" issues and form submissions, adds a few missing venues, validates everything
+and publishes the update directly.
+
 ## How it works
 
 ```
@@ -53,7 +60,9 @@ config.yml                 site title, repository name, ranking editions
 site/                      static page: index.html, app.js, style.css (no framework, no build step)
 scripts/build.py           validates every YAML file and writes _site/ with conferences.json
 scripts/issue_to_yaml.py   turns an "Add a conference" issue into a YAML file
-.github/workflows/         check.yml (validate PRs), deploy.yml (publish to Pages), issue-to-pr.yml
+scripts/stale.py           lists venues that need an update (used by the monthly refresh)
+.github/workflows/         check.yml (validate PRs), deploy.yml (publish to Pages), issue-to-pr.yml,
+                           auto-merge.yml (merges update/* pull requests that validate)
 ```
 
 Pushing to `main` runs `deploy.yml`, which builds `_site/` and publishes it with GitHub Pages. Pull requests

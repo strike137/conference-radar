@@ -1,0 +1,38 @@
+name: Auto-merge data updates
+
+# Pull requests from branches named update/* (the monthly maintenance run) are merged automatically once the
+# data validates, then the site is redeployed. Only branches in this repository qualify, never forks.
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches: [main]
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+
+defaults:
+  run:
+    shell: bash  # runs with -eo pipefail
+
+jobs:
+  merge:
+    if: startsWith(github.head_ref, 'update/') && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PR: ${{ github.event.pull_request.number }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Validate
+        run: python scripts/build.py --check
+      - name: Merge
+        run: gh pr merge "$PR" --squash --delete-branch -R "$GITHUB_REPOSITORY"
+      - name: Redeploy the site
+        # A merge made with GITHUB_TOKEN does not trigger other workflows, so start the deploy explicitly.
+        run: gh workflow run deploy.yml --ref main -R "$GITHUB_REPOSITORY"
