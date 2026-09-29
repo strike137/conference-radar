@@ -430,10 +430,42 @@
     return `<span class="nowrap${it.est ? ' est' : ''}">${it.est ? '~' : ''}${fmtRange(it.date, it.end)}</span>` +
       (it.est ? `<div class="sub">estimated from ${it.basedOn}</div>` : running ? '<div class="left urgent">happening now</div>' : it.tentative ? '<div class="sub">tentative</div>' : '');
   }
+  // Country (last part of "City, Country") -> region code, to tell when an edition is outside the usual region.
+  const COUNTRY_REGION = (() => {
+    const m = new Map();
+    const add = (r, list) => list.split('|').forEach((n) => m.set(n, r));
+    add('japan', 'japan'); add('korea', 'korea|south korea|republic of korea'); add('taiwan', 'taiwan');
+    add('china', 'china|hong kong|macau|macao|pr china');
+    add('southeast-asia', 'singapore|malaysia|thailand|vietnam|viet nam|indonesia|philippines|cambodia|laos|myanmar|brunei');
+    add('south-asia', 'india|sri lanka|bangladesh|nepal|pakistan'); add('oceania', 'australia|new zealand|fiji'); add('asia-pacific', 'mongolia');
+    add('north-america', 'usa|us|u.s.a.|united states|united states of america|canada|mexico');
+    add('latin-america', 'brazil|chile|argentina|colombia|peru|uruguay|costa rica|panama|barbados|saint kitts and nevis|south america');
+    add('middle-east', 'uae|united arab emirates|israel|qatar|saudi arabia|turkey|jordan|oman|bahrain|kuwait|egypt');
+    add('africa', 'south africa|morocco|tunisia|nigeria|kenya|algeria|ghana|rwanda|ethiopia');
+    add('europe', 'europe|uk|united kingdom|england|scotland|wales|ireland|france|germany|italy|spain|portugal|netherlands|the netherlands|belgium|luxembourg|switzerland|austria|denmark|sweden|norway|finland|iceland|poland|czech republic|czechia|slovakia|hungary|romania|bulgaria|greece|cyprus|malta|croatia|slovenia|serbia|estonia|latvia|lithuania|ukraine|monaco');
+    return m;
+  })();
+  const US_STATE = /,\s*(A[KLRZ]|C[AOT]|D[CE]|FL|GA|HI|I[ADLN]|K[SY]|LA|M[ADEINOST]|N[CDEHJMVY]|O[HKR]|PA|RI|S[CD]|T[NX]|UT|V[AT]|W[AIVY])\b/;
+  function locationRegion(loc) {
+    if (!loc) return null;
+    if (/^\s*(online|virtual)\b/i.test(loc)) return 'online';
+    if (US_STATE.test(loc)) return 'north-america';
+    const parts = loc.toLowerCase().split(/[,()]/).map((x) => x.replace(/\(.*$/, '').trim()).filter(Boolean);
+    for (let i = parts.length - 1; i >= 0; i--) if (COUNTRY_REGION.has(parts[i])) return COUNTRY_REGION.get(parts[i]);
+    return null;
+  }
+  function withinRegion(region, lr) {
+    if (!lr || lr === 'online' || region === 'worldwide' || region === 'online' || region === lr) return true;
+    return region === 'asia-pacific' && (ASIA.has(lr) || lr === 'oceania');
+  }
   function locationHTML(c, conf) {
-    const region = `<div class="sub">${esc(REGIONS[c.region] || '')}</div>`;
-    if (conf && !conf.est && conf.location) return `${esc(conf.location)}${region}`;
+    const shown = conf && !conf.est && conf.location ? conf.location : null;
     const last = c.editions.slice().reverse().find((e) => e.location);
+    const loc = shown || (last && last.location);
+    // The second line is where the venue is usually held; say "usually" when this edition is elsewhere.
+    const usual = REGIONS[c.region] || '';
+    const region = `<div class="sub">${withinRegion(c.region, locationRegion(loc)) ? esc(usual) : `usually ${esc(usual)}`}</div>`;
+    if (shown) return `${esc(shown)}${region}`;
     return last ? `<span class="sub">${esc(last.year)}: ${esc(last.location)}</span>${region}` : region;
   }
 
