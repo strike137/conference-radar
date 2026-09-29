@@ -139,10 +139,16 @@
   };
 
   // ---------------------------------------------------------------- data preparation
+  // Zone used when a deadline states none: local time for domestic conferences and local industry events
+  // (a Korean domestic deadline "Sep 28" means Sep 28 in Korea), AoE otherwise (the usual CFP convention).
+  const LOCAL_TZ = { korea: 'KST', japan: 'JST', china: 'UTC+8', taiwan: 'UTC+8' };
+  function defaultTz(c) {
+    return (c.tier === 'domestic' || c.type === 'industry') && LOCAL_TZ[c.region] ? LOCAL_TZ[c.region] : 'AoE';
+  }
   function mk(c, ed, kind, date, extra) {
     const it = Object.assign({ c, ed, kind, date, est: false }, extra || {});
     if (kind === 'conf') { it.end = it.end || date; it.t = isoUTC(date); it.tEnd = isoUTC(it.end) + DAY; }
-    else if (!it.monthOnly) it.t = instant(date, it.time, it.tz);
+    else if (!it.monthOnly) { it.tzUsed = it.tz || defaultTz(c); it.t = instant(date, it.time, it.tzUsed); }
     return it;
   }
 
@@ -167,7 +173,7 @@
         const subs = src.deadlines.filter((d) => isSub(d.kind));
         const last = subs[subs.length - 1];
         let k = step;
-        while (instant(shiftYears(last.date, k), last.time, last.tz) < now) k += step;
+        while (instant(shiftYears(last.date, k), last.time, last.tz || defaultTz(c)) < now) k += step;
         const year = src.year + k;
         for (const d of src.deadlines) {
           est.push(mk(c, src, d.kind, shiftYears(d.date, k), { time: d.time, tz: d.tz, label: d.label, est: true, estYear: year, basedOn: src.year }));
@@ -411,9 +417,9 @@
   function deadlineHTML(it) {
     if (!it) return '<span class="sub">no date yet</span>';
     if (it.monthOnly) return `<span class="est">${fmtMonthOnly(it)}</span><div class="sub">estimated from usual month</div>`;
-    const lbl = [KIND[it.kind], it.label, it.tentative ? 'tentative' : '', it.est ? `estimated from ${it.basedOn}` : ''].filter(Boolean).join(' \u00b7 ');
+    const lbl = [KIND[it.kind], redundantLabel(it) ? '' : it.label, it.tentative ? 'tentative' : '', it.est ? `estimated from ${it.basedOn}` : ''].filter(Boolean).join(' \u00b7 ');
     const left = leftText(it.t);
-    const aoe = it.tz ? '' : ` <span class="sub" title="${it.time ? 'No time zone stated' : 'No time stated'} in the call for papers; 23:59 AoE assumed">(AoE?)</span>`;
+    const aoe = it.tz ? '' : ` <span class="sub" title="${it.time ? 'No time zone stated' : 'No time stated'} in the call for papers; ${it.time || '23:59'} ${it.tzUsed} assumed${it.tzUsed === 'AoE' ? '' : ' (local time of a domestic event)'}">(${it.tzUsed}?)</span>`;
     return `<span class="nowrap${it.est ? ' est' : ''}" ${it.est ? `title="Estimated from the ${it.basedOn} edition"` : ''}>${it.est ? '~' : ''}${fmtDate(it.date)}</span>` +
       `<div class="sub">${esc(lbl)}</div><div><span class="left ${left.cls}" data-t="${it.t}">${left.text}</span>${aoe}</div>`;
   }
@@ -431,12 +437,18 @@
     return last ? `<span class="sub">${esc(last.year)}: ${esc(last.location)}</span>${region}` : region;
   }
 
-  function deadlineLi(d, ed) {
-    const t = instant(d.date, d.time, d.tz);
+  // A label that only repeats the kind ("Paper" under kind submission) adds nothing.
+  function redundantLabel(x) {
+    const l = String(x.label || '').trim().toLowerCase().replace(/[^a-z ]/g, '');
+    return !l || l === String(KIND[x.kind] || '').toLowerCase() || /^(full |regular )?(papers?|submissions?|paper submissions?|abstracts?|abstract submissions?|notifications?)( deadline)?$/.test(l);
+  }
+  function deadlineLi(d, ed, c) {
+    const tzUsed = d.tz || defaultTz(c);
+    const t = instant(d.date, d.time, tzUsed);
     const past = t < state.now;
-    const when = `${fmtDate(d.date)}${d.time ? ` ${esc(d.time)}` : ''}${d.tz ? ` ${esc(d.tz)}` : ' AoE?'}`;
-    const local = `Your time: ${fmtLocal.format(t)}${d.tz ? '' : d.time ? ' (no time zone stated, AoE assumed)' : ' (no time stated, 23:59 AoE assumed)'}`;
-    return `<li class="${past ? 'past' : ''}" title="${esc(local)}"><span class="kind">${esc(KIND[d.kind] || d.kind)}</span>${when}${d.label ? ` \u00b7 ${esc(d.label)}` : ''}</li>`;
+    const when = `${fmtDate(d.date)}${d.time ? ` ${esc(d.time)}` : ''}${d.tz ? ` ${esc(d.tz)}` : ` ${tzUsed}?`}`;
+    const local = `Your time: ${fmtLocal.format(t)}${d.tz ? '' : d.time ? ` (no time zone stated, ${tzUsed} assumed)` : ` (no time stated, 23:59 ${tzUsed} assumed)`}`;
+    return `<li class="${past ? 'past' : ''}" title="${esc(local)}"><span class="kind">${esc(KIND[d.kind] || d.kind)}</span>${when}${redundantLabel(d) ? '' : ` \u00b7 ${esc(d.label)}`}</li>`;
   }
 
   function detailsHTML(c) {
@@ -451,14 +463,14 @@
         const dls = g.filter((i) => i.kind !== 'conf');
         edRows += `<tr class="est"><td>~${g[0].estYear}<div class="sub">estimated from ${g[0].basedOn}</div></td>` +
           `<td>${conf ? `~${fmtRange(conf.date, conf.end)}` : ''}</td><td></td>` +
-          `<td><ul class="dl-list">${dls.map((i) => `<li><span class="kind">${esc(KIND[i.kind])}</span>~${fmtDate(i.date)}${i.label ? ` \u00b7 ${esc(i.label)}` : ''}</li>`).join('')}</ul></td></tr>`;
+          `<td><ul class="dl-list">${dls.map((i) => `<li><span class="kind">${esc(KIND[i.kind])}</span>~${fmtDate(i.date)}${redundantLabel(i) ? '' : ` \u00b7 ${esc(i.label)}`}</li>`).join('')}</ul></td></tr>`;
       }
     }
     for (const ed of eds) {
       edRows += `<tr><td>${isURL(ed.url) ? `<a href="${esc(ed.url)}" target="_blank" rel="noopener">${esc(ed.year)}</a>` : esc(ed.year)}` +
         `${ed.label ? `<div class="sub">${esc(ed.label)}</div>` : ''}${ed.status === 'tentative' ? '<div class="sub">tentative</div>' : ''}</td>` +
         `<td>${ed.start ? fmtRange(ed.start, ed.end) : ''}</td><td>${esc(ed.location || '')}</td>` +
-        `<td><ul class="dl-list">${(ed.deadlines || []).map((d) => deadlineLi(d, ed)).join('')}</ul></td></tr>`;
+        `<td><ul class="dl-list">${(ed.deadlines || []).map((d) => deadlineLi(d, ed, c)).join('')}</ul></td></tr>`;
     }
     const facts = [
       ['Organizer', c.organizer], ['Run by', c.organizer_country.map((o) => ORG[o] || o).join(', ')], ['Type', TYPES[c.type]], ['Region', REGIONS[c.region]], ['Language', LANG[c.language]],
@@ -555,7 +567,7 @@
     const it = ev.it;
     const title = it.kind === 'conf'
       ? `${it.c.name}${it.est ? ' (estimated)' : ''}${it.tentative ? ' (tentative)' : ''}: ${fmtRange(it.date, it.end)}${it.location ? `, ${it.location}` : ''}`
-      : `${it.c.name} ${KIND[it.kind]}${it.label ? ` (${it.label})` : ''}${it.est ? ' (estimated)' : ''}${it.tentative ? ' (tentative)' : ''}: ${fmtDate(it.date)}${it.time ? ` ${it.time}` : ''} ${it.tz || 'AoE?'}`;
+      : `${it.c.name} ${KIND[it.kind]}${it.label ? ` (${it.label})` : ''}${it.est ? ' (estimated)' : ''}${it.tentative ? ' (tentative)' : ''}: ${fmtDate(it.date)}${it.time ? ` ${it.time}` : ''} ${it.tz || `${it.tzUsed}?`}`;
     const past = (it.kind === 'conf' ? it.tEnd : it.t) < state.now;
     return `<button type="button" class="ev ${ev.cls}${it.est ? ' est' : ''}${past ? ' past' : ''}" data-id="${esc(it.c.id)}" title="${esc(title)}${past ? ' (past)' : ''}">${it.est ? '~' : ''}${esc(ev.text)}</button>`;
   }
@@ -664,7 +676,7 @@
         const year = it.ed ? it.ed.year : '';
         const summary = `${c.name} ${year} ${KIND[it.kind].toLowerCase()} deadline${it.label ? ` (${it.label})` : ''}${it.tentative ? ' (tentative)' : ''}`;
         const slug = String(it.label || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-        const desc = `${c.full_name}\n${fmtDate(it.date)} ${it.time || '23:59'} ${it.tz || 'AoE'}${it.ed && it.ed.url ? `\n${it.ed.url}` : ''}`;
+        const desc = `${c.full_name}\n${fmtDate(it.date)} ${it.time || '23:59'} ${it.tz || `${it.tzUsed} (assumed)`}${it.ed && it.ed.url ? `\n${it.ed.url}` : ''}`;
         lines.push('BEGIN:VEVENT', fold(`UID:${c.id}-${year}-${it.kind}-${it.date}-${slug}-${(it.time || '').replace(':', '')}@conference-radar`), `DTSTAMP:${stamp}`,
           `DTSTART:${fmt(it.t)}`, `DTEND:${fmt(it.t)}`, fold(`SUMMARY:${escT(summary)}`), fold(`DESCRIPTION:${escT(desc)}`));
         if (it.tentative) lines.push('STATUS:TENTATIVE');

@@ -20,7 +20,7 @@ should follow it too. Field definitions are in [CONTRIBUTING.md](CONTRIBUTING.md
   under `unverified`.
 - Dates `YYYY-MM-DD`. Add `time` (quoted, `"23:59"`) and `tz` only when the page states them. For domestic
   Japanese/Korean/Chinese/Taiwanese events that state a time without a zone, use the local zone (JST, KST,
-  UTC+8).
+  UTC+8). When no zone is given the site already assumes local time for domestic events and AoE otherwise.
 - Keep old editions that are needed for estimates (at least the latest one that took place); add the next
   edition as soon as anything is announced. Mark announced-as-tentative editions `status: tentative`.
 - Set `last_verified` to the date you checked.

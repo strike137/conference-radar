@@ -71,8 +71,9 @@ editions:
         label: Regular papers  # use labels for multiple cycles or tracks
 ```
 
-Without `tz` the site assumes AoE (and 23:59 when `time` is missing too), the latest possible moment, and
-marks the deadline with "AoE?" so readers know the time zone was not stated. Use `status: tentative` for an
+Without `tz` the site assumes a zone and shows it with a question mark: local time for domestic conferences and
+local industry events in Japan, Korea, China and Taiwan (`JST?`, `KST?`, `UTC+8?`), because a domestic deadline
+"Sep 28" means Sep 28 in that country; AoE (`AoE?`) for everything else. It uses 23:59 when `time` is missing too. Use `status: tentative` for an
 edition whose dates are announced as tentative; the site labels its dates "tentative".
 
 ## Writing notes
