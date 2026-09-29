@@ -40,8 +40,12 @@ should follow it too. Field definitions are in [CONTRIBUTING.md](CONTRIBUTING.md
   a local language.
 - `proceedings`: where papers are published (`IEEE Xplore`, `Springer LNCS`, `J-STAGE`, `ANLP website`, ...).
   Use `None` only when nothing is published, `None (participants only)` when only attendees get it. Set
-  `archival: false` for venues whose papers do not count as formal publications (no peer review, or only
-  preliminary proceedings with selected papers published later); the site then shows "non-archival".
+  Post-proceedings count: when the (revised) papers appear in a formal series or digital library after the event
+  (Springer LNCS/LNAI/CCIS/IFIP AICT, PMLR, IEEE Xplore, ACM DL, ...), even as "revised selected papers", name
+  that series first and set `archival: true` (JSAI-isAI -> Springer LNAI, WISA -> Springer LNCS). Set
+  `archival: false` only when papers stay in participant-only or informal proceedings, when there is no peer
+  review (most domestic conferences), or when only journal special issues pick up selected papers; the site
+  then shows "non-archival".
 - Notes: short factual bullets like a lab seminar slide (organizer, proceedings, where it is held,
   reputation, acceptance rate, cost, anything unusual). Plain English. Never use em dashes or en dashes;
   write arrows as `->`. Quote a note that contains `: ` or ` #`.
