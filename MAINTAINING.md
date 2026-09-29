@@ -33,6 +33,8 @@ should follow it too. Field definitions are in [CONTRIBUTING.md](CONTRIBUTING.md
 - `organizer_country`: the country of the society or institution that runs the venue, not where it is held
   (ICAIIC is held in Japan but run by the Korean KICS -> `[korea]`). Global society flagships with a worldwide
   steering committee -> `[international]`. Several values for joint organizers.
+- `region`: where the venue is usually held, from the last six editions: a country or region that hosts at least
+  five of them, else `asia-pacific` (rotates within Asia/Oceania) or `worldwide`. One edition abroad does not change it.
 - `tier`: `top` flagship of its field (usually CORE A*), `major` established and competitive (CORE A/B or
   CCF A/B), `minor` smaller or regional (CORE C, national rank or unranked), `domestic` national conference in
   a local language.
