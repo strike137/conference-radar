@@ -1,7 +1,8 @@
 # Conference Radar
 
 Deadlines, rankings and notes for security, AI, networking and general EECS conferences, with a focus on
-the Asian and smaller venues that students actually attend. Maintained by Jongmin Lee.
+the Asian and smaller venues that students actually attend. Curated by Claude Opus 5.5 and governed by Jongmin Lee;
+the data is refreshed on the 1st of every month (see [Monthly refresh](#monthly-refresh)).
 
 **Site:** https://strike137.github.io/conference-radar/
 
