@@ -1,0 +1,82 @@
+id: aintec
+name: AINTEC
+full_name: Asian Internet Engineering Conference
+type: conference
+tier: minor
+areas: [networking, security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: intERLab (Asian Institute of Technology) and the WIDE Project; ACM SIGCOMM sponsored from 2026
+organizer_country: [thailand, japan]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL, DBLP]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11, 12]
+links:
+  website: https://interlab.ait.ac.th/aintec2026/
+  dblp: https://dblp.org/db/conf/aintec/
+notes:
+- Internet engineering conference for the Asia-Pacific region, run by intERLab at AIT (Thailand) and the WIDE
+  Project (Japan); first held in 2005
+- Rotates within Asia-Pacific (2022 Hiroshima, 2023 Hanoi, 2024 Sydney with SIGCOMM, 2025 Manila, 2026 Taipei at
+  National Taiwan University)
+- In cooperation with ACM SIGCOMM up to 2025, a SIGCOMM-sponsored ACM conference from 2026; proceedings in ACM DL
+- Technical and position papers up to 8 pages in the 10pt ACM SIGCOMM format (references not counted), double-blind,
+  submitted via the WIDE CFP system; separate poster track for students and young researchers
+- Best paper student or early-career author gets an ACM SIGCOMM travel grant to attend SIGCOMM the following year;
+  travel grants up to 800 USD for authors, aimed especially at Southeast and South Asia
+- Small venue mixing academics and network operators; topics include measurement, developing regions, disaster
+  networking, LEO satellites and network security
+editions:
+- year: 2025
+  label: 20th AINTEC
+  start: 2025-11-25
+  end: 2025-11-27
+  location: Manila, Philippines (De La Salle University)
+  url: https://interlab.ait.ac.th/aintec2025/
+  deadlines: []
+- year: 2026
+  label: 21st AINTEC
+  start: 2026-12-01
+  end: 2026-12-03
+  location: Taipei, Taiwan (National Taiwan University)
+  url: https://interlab.ait.ac.th/aintec2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-21
+  - kind: submission
+    date: 2026-08-21
+  - kind: notification
+    date: 2026-09-22
+  - kind: submission
+    date: 2026-09-28
+    label: Poster abstracts
+  - kind: other
+    date: 2026-10-09
+    label: Poster notification
+  - kind: other
+    date: 2026-10-12
+    label: Travel grant applications
+  - kind: camera_ready
+    date: 2026-10-16
+sources:
+- https://interlab.ait.ac.th/aintec2026/
+- https://interlab.ait.ac.th/aintec2026/paper-submission
+- https://interlab.ait.ac.th/aintec2026/poster-submission
+- https://interlab.ait.ac.th/aintec2026/travel-grant
+- https://api.crossref.org/works/10.1145/3763400
+- https://api.crossref.org/works?query.bibliographic=Asian+Internet+Engineering+Conference&filter=type:proceedings,from-pub-date:2021
+- https://portal.core.edu.au/conf-ranks/?search=AINTEC&by=all&source=ICORE2026
+unverified:
+- The 2026 paper page also says abstracts must be registered by 31 July 2026 while its timeline shows 21 August
+  2026 for both abstract and full paper (probably an extension, not stated)
+- 2025 deadlines (the 2025 site is a script-only page); 2025 dates taken from the ACM proceedings and the CFP text
+- 2026 registration fees not announced yet
+- Acceptance rate not published
+- DBLP key not checked live (DBLP blocks automated access)
+last_verified: 2026-09-29

@@ -1,0 +1,85 @@
+id: hipc
+name: HiPC
+full_name: IEEE International Conference on High Performance Computing (until 2025 IEEE International Conference on
+  High Performance Computing, Data, and Analytics)
+type: conference
+tier: minor
+areas: [systems, ai]
+region: south-asia
+language: english
+frequency: annual
+organizer: HiPC steering committee (chair Viktor Prasanna), sponsored by the IEEE Computer Society
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, DBLP]
+rank:
+  core: 'National: India'
+  ccf: C
+fee: 'Outside India: 750 USD member, 950 USD non-member, 600 USD student member (2026, on or before Nov 20); authors
+  from India 65,000 INR member (technical paper)'
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://hipc.org/
+  dblp: https://dblp.org/db/conf/hipc/
+notes:
+- India's main high performance computing conference since 1994, held every December in an Indian city (2020 Pune,
+  2021 Bengaluru, 2025 Hyderabad, 2026 Bengaluru)
+- CCF C (computer architecture and parallel computing), CORE National India
+- From 2026 organized around five themes (HPC systems, AI systems, hardware and accelerators, edge computing,
+  quantum computing), so AI systems and edge work fit
+- Double-blind review with abstract registration, a rebuttal period and shepherding; proceedings in IEEE Xplore,
+  selected papers invited to a JPDC special issue
+- Also a Student Research Symposium, posters and workshops; registration is expensive for international
+  authors
+editions:
+- year: 2025
+  label: 32nd HiPC
+  start: 2025-12-17
+  end: 2025-12-20
+  location: Hyderabad, India
+  deadlines: []
+- year: 2026
+  label: 33rd HiPC
+  start: 2026-12-16
+  end: 2026-12-19
+  location: Bengaluru, India
+  url: https://hipc.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-01
+    tz: AoE
+  - kind: submission
+    date: 2026-07-08
+    tz: AoE
+  - kind: other
+    date: 2026-09-02
+    tz: AoE
+    label: Rebuttal period Aug 28 to Sep 2
+  - kind: notification
+    date: 2026-09-18
+  - kind: other
+    date: 2026-10-02
+    tz: AoE
+    label: Shepherded paper submission
+  - kind: notification
+    date: 2026-10-09
+    label: Final author notification
+  - kind: camera_ready
+    date: 2026-10-31
+    tz: AoE
+sources:
+- https://hipc.org/
+- https://hipc.org/papers/
+- https://hipc.org/attendee-registration/
+- https://hipc.org/steering-committee/
+- https://api.crossref.org/works?query.bibliographic=2025+IEEE+32nd+International+Conference+on+High+Performance+Computing+Data+Analytics+HiPC&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=HiPC&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- 2025 deadlines (the 2025 site is no longer online; dates of the 2025 conference from the IEEE proceedings record)
+- Acceptance rate
+- DBLP key not checked live (DBLP blocks automated access)
+last_verified: 2026-09-29

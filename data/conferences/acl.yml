@@ -25,7 +25,8 @@ links:
   website: https://www.aclweb.org/
 notes:
 - Flagship NLP venue; all papers go through ACL Rolling Review (ARR), then are committed to ACL
-- ACL 2027 will be held in Kyoto, Japan (Aug 17-22, 2027); ARR lists January 2027 as the final ARR cycle for it
+- ACL 2027 will be held in Kyoto, Japan (Aug 17-22, 2027); final ARR deadline Jan 4, 2027; theme track on homogenization
+  and knowledge collapse in LLMs
 - Acceptance rate around 19-21% for the main track; a separate Findings volume takes more papers (17.8% in 2026)
 - ACL 2026 accepted papers from both the ARR October 2025 and January 2026 cycles
 - All attendees must hold ACL membership; virtual registration is available
@@ -64,15 +65,20 @@ editions:
   end: 2027-08-22
   location: Kyoto, Japan
   url: https://2027.aclweb.org/
-  deadlines: []
+  deadlines:
+  - kind: submission
+    date: 2027-01-04
+    time: '23:59'
+    tz: AoE
+    label: ARR January 2027 cycle (final ARR deadline for ACL 2027)
 sources:
 - https://2026.aclweb.org/calls/main_conference_papers/
 - https://2027.aclweb.org/
+- https://2027.aclweb.org/calls/main/
 - https://2026.aclweb.org/registration/
 - https://aclrollingreview.org/dates
 - https://aclanthology.org/2026.acl-long.0.pdf
 - https://portal.core.edu.au/conf-ranks/?search=ACL&by=acronym&source=ICORE2026
 unverified:
-- ACL 2027 ARR submission and commitment dates are TBA (ARR dates page lists only 'January, 2027' as the final ARR
-  submission for ACL 2027)
-last_verified: 2026-09-28
+- ACL 2027 commitment, notification and camera-ready dates are TBA (first call published 2026-09-29)
+last_verified: 2026-09-29

@@ -7,7 +7,8 @@ areas: [security, networking]
 region: china
 language: english
 frequency: annual
-organizer: Jiangsu University of Technology, Lancaster University and SPTAGE Lab (2025)
+organizer: Rotating Chinese host with Lancaster University and SPTAGE Lab (2025 Jiangsu University of Technology, 2026
+  Zhejiang Gongshang University)
 organizer_country: [china, europe]
 proceedings: Springer LNCS
 archival: true
@@ -19,12 +20,12 @@ typical:
   deadline_months: [7, 9, 10]
   conference_months: [9, 11, 12]
 links:
-  website: http://sptagelab.org/conferences/ADIoT2025/
+  website: https://adiot.sptagelab.org/2026/
   dblp: https://dblp.org/db/conf/adiot/
   wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189488
 notes:
 - Began as a workshop (IEEE CNS 2018 in Beijing, then ESORICS workshops in Europe 2019 to 2023, e.g. Copenhagen
-  2022); standalone conference held in China since 2024 (Hangzhou 2024, Changzhou 2025)
+  2022); standalone conference held in China since 2024 (Hangzhou 2024, Changzhou 2025, Hangzhou 2026)
 - Proceedings in Springer LNCS; full papers up to 20 pages, short papers up to 14 pages (12 in 2024), at least three
   reviews
 - Hybrid; online presentation allowed
@@ -63,7 +64,27 @@ editions:
   - kind: other
     date: 2025-10-30
     label: Registration deadline
+- year: 2026
+  start: 2026-12-18
+  end: 2026-12-20
+  location: Hangzhou, China
+  url: https://adiot.sptagelab.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-10-15
+    tz: AoE
+  - kind: notification
+    date: 2026-11-30
+  - kind: other
+    date: 2026-11-30
+    label: Registration deadline
+  - kind: camera_ready
+    date: 2026-12-10
 sources:
+- https://adiot.sptagelab.org/2026/
+- https://adiot.sptagelab.org/2026/submission.html
+- https://adiot.sptagelab.org/2026/registration.html
+- https://adiot.sptagelab.org/
 - http://sptagelab.org/conferences/ADIoT2025/
 - http://sptagelab.org/conferences/ADIoT2025/submission.html
 - http://sptagelab.org/conferences/ADIoT2025/registration.html
@@ -77,10 +98,10 @@ sources:
 - http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=72595
 - https://portal.core.edu.au/conf-ranks/?search=ADIoT&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- ADIoT 2026 not announced as of 2026-09-28 (no 2026 site at sptagelab.org or adiot.compute.dtu.dk, no WikiCFP entry)
+- ADIoT 2026 registration fees (the site says they will be posted in October 2026)
 - WikiCFP lists ADIoT 2025 as Nov 8-9 with an Aug 20 deadline and the 2025 site header says 1-2 November; the site
   body and the LNCS volume say Nov 14-16 (used)
 - 'ADIoT 2024 dates: the official site says 26-27 December 2024 (moved on 20 Sep 2024) but the LNCS volume subtitle
   says December 13-14, 2024'
 - Acceptance rate; dblp page could not be fetched (bot protection)
-last_verified: 2026-09-28
+last_verified: 2026-09-29

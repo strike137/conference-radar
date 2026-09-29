@@ -16,17 +16,19 @@ rank:
   core: Unranked
 fee: NT$3,000 student early bird, NT$3,500 general early bird, NT$4,000 regular (2024)
 typical:
-  deadline_months: [6, 7]
+  deadline_months: [4, 5, 7]
   conference_months: [5, 6, 8]
 links:
-  website: https://ccisa.org.tw/
+  website: https://cisc2026.twisc.ncku.edu.tw/
 notes:
 - Annual national conference of CCISA (Taiwan's academic security society), held since 1991; 34th edition in 2024
 - Papers in Chinese or English; abstract-only or full-paper (up to 6 pages) submissions; anonymous review via EasyChair
 - Several hundred participants per edition (per organizers); best paper, best student paper and best presentation
   awards (paper awards need CCISA membership)
 - Traditionally held in late May or June; 2020, 2021 and 2024 editions were in August or September; host university
-  changes each year (NTUT in Taipei for 2024)
+  changes each year (NTUT in Taipei 2024, Feng Chia University in Taichung 2025, NCKU in Tainan 2026)
+- '2026 submission types: main paper (up to 6 pages, oral or poster, best paper eligible), thesis abstract (1 page,
+  lightning talk) and project results abstract'
 - Selected full papers recommended to Journal of Information Science and Engineering or Journal of Internet Technology
   (2024)
 editions:
@@ -45,14 +47,34 @@ editions:
   - kind: camera_ready
     date: 2024-08-19
     label: Extended from Aug 4
+- year: 2026
+  start: 2026-05-20
+  end: 2026-05-21
+  location: Tainan, Taiwan
+  url: https://cisc2026.twisc.ncku.edu.tw/
+  deadlines:
+  - kind: submission
+    date: 2026-04-06
+    label: Paper and abstract submission
+  - kind: notification
+    date: 2026-04-17
+    label: Sent between Apr 13 and Apr 17
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Final paper and copyright form upload
 sources:
+- https://cisc2026.twisc.ncku.edu.tw/
+- https://cisc2026.twisc.ncku.edu.tw/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF
+- https://cisc2026.twisc.ncku.edu.tw/register
+- https://ccisa.org.tw/default.html
 - https://cisc2024.ccisa.org.tw/
 - https://ccisa.org.tw/ism1.html
 - https://ccisa.org.tw/chronicle.html
 - https://ccisa.org.tw/indexen.html
 - https://portal.core.edu.au/conf-ranks/?search=CISC&by=all&source=ICORE2026
 unverified:
-- CISC 2025 (35th) is listed by CCISA as hosted by Feng Chia University (cisc2025.ccisa.org.tw points to cisc2025.fcu.edu.tw)
-  but the site refused connections on 2026-09-28; dates and deadlines unknown
-- No information on CISC 2026 found (no cisc2026.ccisa.org.tw DNS record)
-last_verified: 2026-09-28
+- 'CISC 2025 (35th, Feng Chia University, Taichung, 2025-05-28 to 29, submissions Mar 24 to Apr 27 extended to May 9)
+  is known only from CCISA news; cisc2025.fcu.edu.tw did not respond on 2026-09-29'
+- CISC 2026 registration deadline (the registration page says 2026-05-11, the CFP table 2026-05-15)
+- CISC 2027 (37th) host and dates not announced as of 2026-09-29
+last_verified: 2026-09-29

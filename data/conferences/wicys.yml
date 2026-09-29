@@ -54,14 +54,17 @@ editions:
   - kind: submission
     date: 2026-09-30
     time: '17:00'
+    tz: UTC-5
     label: Call for presenters (presentations, panels, workshops, lightning talks)
   - kind: other
     date: 2026-09-30
     time: '17:00'
+    tz: UTC-5
     label: Scholarship applications
   - kind: submission
     date: 2026-11-04
     time: '17:00'
+    tz: UTC-6
     label: Student posters
   - kind: notification
     date: 2026-11-18
@@ -72,6 +75,7 @@ editions:
   - kind: other
     date: 2026-12-09
     time: '10:00'
+    tz: UTC-6
     label: General registration opens
 sources:
 - https://www.wicys.org/events/wicys-2027/
@@ -83,5 +87,6 @@ unverified:
 - Registration fees (shown only as an image on the official page)
 - Acceptance rate for presentations and posters
 - Dates of a WiCyS 2027 virtual edition
-- Source gives times as 'CT'; recorded as CDT or CST according to the date
-last_verified: 2026-09-28
+- Source gives times as 'CT'; 2027 deadlines recorded as UTC-5 (CDT) before Nov 1, 2026 and UTC-6 (CST) after; the
+  2026 edition times could not be rechecked for a zone
+last_verified: 2026-09-29

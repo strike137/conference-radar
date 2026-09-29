@@ -24,10 +24,10 @@ links:
   dblp: https://dblp.org/db/conf/wpmc/
 notes:
 - Founded 1998 in Yokosuka, Japan; supported by NICT and CTIF Global Capsule; rotates worldwide (Tampa 2023, Greater
-  Noida 2024, Sofia 2025)
+  Noida 2024, Sofia 2025, Natal 2026)
 - Technical papers of 5 pages in the 2025 CFP (the 2025 website says 6); selected papers invited to Springer Wireless
   Personal Communications
-- Acceptance around 50% in 2025; deadlines extended twice
+- Acceptance around 50% in 2025; deadlines are extended repeatedly (2026 paper deadline moved from July to Sep 2)
 - Was ranked C only in ERA2010; absent from later CORE lists
 editions:
 - year: 2025
@@ -54,7 +54,31 @@ editions:
   - kind: camera_ready
     date: 2025-10-10
     label: Final
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-11
+  location: Natal, Brazil
+  url: https://wpmc.imd.ufrn.br/
+  deadlines:
+  - kind: submission
+    date: 2026-09-02
+    tz: UTC-4
+    label: Full papers (firm; extended from 2026-07-24)
+  - kind: notification
+    date: 2026-09-20
+    tz: UTC-4
+  - kind: other
+    date: 2026-09-30
+    tz: UTC-4
+    label: Accepted paper registration
+  - kind: camera_ready
+    date: 2026-10-01
+    tz: UTC-4
 sources:
+- https://wpmc.imd.ufrn.br/
+- https://wpmc.imd.ufrn.br/authors/call-for-papers/
+- https://wpmc.imd.ufrn.br/registration/
+- https://wpmc.imd.ufrn.br/wpmc-2026-call-for-papers-extended-to-24-july/
 - https://wpmc-home.com/
 - https://wpmc-home.com/past-wpmc/
 - https://wpmc-home.com/about-wpmc/
@@ -65,6 +89,7 @@ sources:
 - https://wpmc-2025.tu-sofia.bg/how-to-submit/
 - https://portal.core.edu.au/conf-ranks/?search=Wireless+Personal&by=title&source=ERA2010
 unverified:
-- WPMC 2026 host, dates and deadlines (a Brazil proposal was discussed at the Nov 2025 steering board meeting; nothing
-  announced as of Sept 2026)
-last_verified: 2026-09-28
+- WPMC 2026 original paper deadline before the Jul 24 extension (aggregators say Jul 3) and the date of the second
+  extension announced on Jul 26
+- WPMC 2026 local host institution (the site is hosted by UFRN IMD and registration is run by SBC)
+last_verified: 2026-09-29

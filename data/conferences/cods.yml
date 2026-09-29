@@ -1,0 +1,77 @@
+id: cods
+name: CODS
+full_name: ACM IKDD International Conference on Data Science (formerly CODS-COMAD, ACM India Joint International
+  Conference on Data Science and Management of Data)
+type: conference
+tier: minor
+areas: [data, ai]
+region: south-asia
+language: english
+frequency: annual
+organizer: ACM India / ACM IKDD (India SIGKDD chapter), with a host institute (DA-IICT Gandhinagar in 2026)
+organizer_country: [india]
+proceedings: ACM DL (archival track)
+archival: true
+indexing: [ACM DL, DBLP]
+rank:
+  core: 'National: India'
+fee: 'Author registration for foreign delegates: 250 USD professional ACM member, 150 USD academic ACM member, 100
+  USD student ACM member (2026, plus 18% GST); Indian rates 5,000 to 18,000 INR'
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://ikdd.acm.org/cods-2026/
+  dblp: https://dblp.org/db/conf/comad/
+notes:
+- India's main data science and data management conference, run by ACM IKDD; CODS started in 2014 and merged with
+  COMAD (since 1989) as CODS-COMAD from 2018 to 2024, renamed CODS from the 2025 edition
+- CORE lists it as COMAD with rank National India
+- Held in India each year at a rotating host (Dec 2024 IIT Jodhpur, 2025 IISER Pune, 2026 DA-IICT Gandhinagar);
+  moved from early January to December from the 2024 edition
+- Archival papers 8 pages plus 2 of references (published in ACM DL); non-archival 2-page track for early ideas;
+  submission via OpenReview
+- Also a Young Researchers' Symposium, demo track, AI for Biology track and Rising Star Award; partial travel
+  grants for students with accepted papers
+- Deadlines are usually extended by one to two weeks
+editions:
+- year: 2025
+  label: 13th CODS
+  start: 2025-12-17
+  end: 2025-12-20
+  location: Pune, India (IISER Pune)
+  url: https://ikdd.acm.org/cods-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-17
+    label: Research and Applied Data Science tracks (extended from 2025-08-01)
+  - kind: notification
+    date: 2025-10-06
+    label: Research and Applied Data Science tracks (extended from 2025-09-22)
+- year: 2026
+  label: 14th CODS
+  start: 2026-12-13
+  end: 2026-12-16
+  location: Gandhinagar, India (DA-IICT)
+  url: https://ikdd.acm.org/cods-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-20
+    tz: AoE
+    label: Main Track, AI for Biology and Young Researchers' Symposium (extended from 2026-08-13)
+  - kind: notification
+    date: 2026-10-06
+  - kind: camera_ready
+    date: 2026-11-18
+sources:
+- https://ikdd.acm.org/cods-2026/
+- https://ikdd.acm.org/cods-2026/call-for-main-track-papers.php
+- https://ikdd.acm.org/cods-2026/registration.php
+- https://ikdd.acm.org/cods-2025/
+- https://api.crossref.org/works?query.bibliographic=Proceedings+13th+ACM+IKDD+CODS+2025&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=COMAD&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not published
+- Whether the 2026 archival papers go to ACM DL again (2025 proceedings are in ACM DL, doi 10.1145/3799830)
+- DBLP key not checked live (DBLP blocks automated access)
+last_verified: 2026-09-29

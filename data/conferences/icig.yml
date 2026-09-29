@@ -1,0 +1,86 @@
+id: icig
+name: ICIG
+full_name: International Conference on Image and Graphics
+type: conference
+tier: minor
+areas: [vision, ai]
+region: china
+language: english
+frequency: irregular
+organizer: China Society of Image and Graphics (CSIG)
+organizer_country: [china]
+proceedings: Springer LNCS
+archival: true
+indexing: [EI, DBLP]
+rank:
+  core: 'National: China'
+  ccf: C
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9, 10, 11]
+links:
+  website: https://icig.csig.org.cn/
+  dblp: https://dblp.org/db/conf/icig/
+notes:
+- International conference of the China Society of Image and Graphics on image, video and graphics processing,
+  computer vision and related AI
+- Biennial in odd years up to 2025 (2019 Beijing, 2021 Haikou, 2023 Nanjing, 2025 Xuzhou), then a 14th edition in
+  2026 in Singapore
+- CCF C; full papers of 10 to 12 pages in Springer LNCS format including references, double-blind review via
+  Microsoft CMT; proceedings in Springer LNCS
+- ICIG 2025 accepted 138 of 420 submissions (about 33%) in three LNCS volumes
+- Selected papers recommended to journals such as Pattern Recognition Letters, Signal Processing Letters and
+  Multimedia Systems; paper deadlines are usually extended by two to three weeks
+editions:
+- year: 2025
+  label: 13th ICIG
+  start: 2025-10-31
+  end: 2025-11-02
+  location: Xuzhou, China (China University of Mining and Technology)
+  url: https://icig.csig.org.cn/ICIG2025/5419/list.html
+  deadlines:
+  - kind: submission
+    date: 2025-06-02
+    tz: UTC+8
+    label: Full papers (extended from 2025-05-10)
+  - kind: notification
+    date: 2025-07-15
+    label: Extended from 2025-06-25
+  - kind: camera_ready
+    date: 2025-07-25
+    label: Extended from 2025-07-10
+- year: 2026
+  label: 14th ICIG
+  start: 2026-10-01
+  end: 2026-10-05
+  location: Singapore
+  url: https://icig.csig.org.cn/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    tz: UTC+8
+    label: Full papers (extended from 2026-06-15)
+  - kind: other
+    date: 2026-07-10
+    tz: UTC+8
+    label: Workshop proposals
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-17
+sources:
+- https://icig.csig.org.cn/2026/
+- https://icig.csig.org.cn/2026/10827/list.html
+- https://icig.csig.org.cn/2026/12348/list.html
+- https://icig.csig.org.cn/ICIG2025/5419/list.html
+- https://icig.csig.org.cn/ICIG2025/5411/list.html
+- https://link.springer.com/book/10.1007/978-981-95-3393-0
+- https://portal.core.edu.au/conf-ranks/?search=ICIG&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- Whether ICIG is now annual (2025 site says biennial, but a 2026 edition followed) and when ICIG 2027 or 2028 will
+  be held
+- ICIG 2025 acceptance figures (138 of 420) taken from the Springer proceedings description
+- Registration fees (not shown as text on the 2025 or 2026 site)
+- DBLP key not checked live (DBLP blocks automated access)
+last_verified: 2026-09-29

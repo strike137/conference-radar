@@ -7,7 +7,8 @@ areas: [networking, systems]
 region: south-asia
 language: english
 frequency: annual
-organizer: ICDCN steering committee, in cooperation with ACM, ACM SIGMOBILE and ACM SIGOPS
+organizer: International Society for Distributed Computing and Networking (ISDCN), in cooperation with ACM, ACM SIGMOBILE
+  and ACM SIGOPS
 organizer_country: [india]
 proceedings: ACM DL (ACM ICPS); selected papers extended in a Pervasive and Mobile Computing special issue
 archival: true
@@ -18,12 +19,12 @@ typical:
   deadline_months: [7, 8]
   conference_months: [1]
 links:
-  website: https://sites.google.com/view/icdcn2026
+  website: https://cs3-lab.github.io/icdcn/index.html
   dblp: https://dblp.org/db/conf/icdcn/
   wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=173277&copyownerid=166171
 notes:
 - Held every early January, usually in India; the 2026 edition was in Nara, Japan (hosted by NAIST and The University
-  of Osaka with IPSJ SIGs)
+  of Osaka with IPSJ SIGs); 2027 returns to India (NIT Karnataka, Surathkal)
 - Covers both distributed computing theory and networking; double-blind; regular 10 pages, short 5 pages (ACM format)
 - Proceedings in ACM ICPS; selected papers fast-tracked to Theoretical Computer Science and Pervasive and Mobile
   Computing
@@ -63,16 +64,54 @@ editions:
   - kind: other
     date: 2025-11-30
     label: Author registration
+- year: 2027
+  start: 2027-01-04
+  end: 2027-01-07
+  location: Surathkal (Mangaluru), India
+  url: https://cs3-lab.github.io/icdcn/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-08-13
+    tz: AoE
+    label: Main conference (extended from 2026-07-30, firm)
+  - kind: notification
+    date: 2026-10-01
+    tz: AoE
+    label: Main conference
+  - kind: submission
+    date: 2026-09-20
+    tz: AoE
+    label: Workshop papers (extended from 2026-09-01, firm)
+  - kind: submission
+    date: 2026-10-08
+    tz: AoE
+    label: Demos and exhibits
+  - kind: submission
+    date: 2026-10-15
+    tz: AoE
+    label: Doctoral symposium, posters and tutorials
+  - kind: notification
+    date: 2026-10-15
+    tz: AoE
+    label: Workshop papers
+  - kind: camera_ready
+    date: 2026-10-29
+    tz: AoE
+    label: Main conference and workshops
+  - kind: notification
+    date: 2026-11-07
+    tz: AoE
+    label: Doctoral symposium, posters, tutorials, demos
 sources:
+- https://cs3-lab.github.io/icdcn/index.html
 - https://sites.google.com/view/icdcn2026
 - https://sites.google.com/view/icdcn2026/submissions/call-for-paper
 - https://sites.google.com/view/icdcn2026/participate/registration
 - https://cse.iith.ac.in/icdcn-2025/
 - https://portal.core.edu.au/conf-ranks/?search=ICDCN&by=all&source=ICORE2026
 unverified:
-- ICDCN 2027 location, dates and CFP not found (no public site found)
 - 'ICDCN 2026 workshop and poster deadlines: news posts mention earlier extended dates (Oct 6) than the homepage
   table'
 - ICDCN 2026 registration fee amounts (shown only as an embedded table)
 - Acceptance rate not published
-last_verified: 2026-09-28
+last_verified: 2026-09-29

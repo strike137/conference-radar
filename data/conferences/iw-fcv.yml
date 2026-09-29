@@ -1,0 +1,75 @@
+id: iw-fcv
+name: IW-FCV
+full_name: International Workshop on Frontiers of Computer Vision
+type: conference
+tier: minor
+areas: [vision, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Joint Japan-Korea steering committee; The Institute of Electrical Engineers of Japan (IEEJ) was the organizer
+  of the 2026 edition
+organizer_country: [japan, korea]
+proceedings: Springer CCIS (post-workshop proceedings of selected revised papers); participant-only workshop papers
+archival: true
+indexing: [DBLP]
+rank:
+  core: Unranked
+fee: 35,000 JPY general, 20,000 JPY student (2026, early bird until Sep 16); 40,000 / 25,000 JPY after
+typical:
+  deadline_months: [7, 8]
+  conference_months: [9, 10]
+links:
+  website: https://sites.me.tokushima-u.ac.jp/IW-FCV2026/
+  dblp: https://dblp.org/db/conf/iwfcv/
+notes:
+- Japan-Korea computer vision workshop dating back to 1995 (FCV), international since 2017; host alternates each
+  year between Japan and Korea (2023 Yeosu, 2024 Tokyo, 2025 Seoul, 2026 Tokushima)
+- Traditionally held in February; moved to late September / early October from 2026
+- Long papers 12 to 15 pages or short papers 2 to 11 pages in Springer format, not anonymous, submitted via
+  Microsoft CMT
+- Workshop papers are shared with participants only; long papers that opt in get a second post-workshop review for
+  the Springer CCIS proceedings
+- Small and student friendly, hybrid format in 2026; 2026 submission deadline was extended twice (Jul 31 -> Aug 17
+  -> Aug 31)
+editions:
+- year: 2025
+  label: 31st IW-FCV
+  start: 2025-02-10
+  end: 2025-02-12
+  location: Seoul, South Korea (Sogang University)
+  deadlines: []
+- year: 2026
+  label: 32nd IW-FCV
+  start: 2026-09-30
+  end: 2026-10-02
+  location: Tokushima, Japan (Tokushima University), hybrid
+  url: https://sites.me.tokushima-u.ac.jp/IW-FCV2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    label: Workshop papers (extended from 2026-07-31, then 2026-08-17)
+  - kind: notification
+    date: 2026-09-04
+    label: Workshop papers (extended from 2026-08-21)
+  - kind: notification
+    date: 2026-10-30
+    label: Post-workshop proceedings
+  - kind: camera_ready
+    date: 2026-11-30
+    label: Post-workshop proceedings final manuscript
+sources:
+- https://sites.me.tokushima-u.ac.jp/IW-FCV2026/
+- https://sites.me.tokushima-u.ac.jp/IW-FCV2026/information.html
+- https://sites.me.tokushima-u.ac.jp/IW-FCV2026/submission.html
+- https://sites.me.tokushima-u.ac.jp/IW-FCV2026/registration.html
+- https://sites.me.tokushima-u.ac.jp/IW-FCV2026/committee.html
+- https://link.springer.com/book/10.1007/978-981-95-4578-0
+- https://api.crossref.org/works/10.1007/978-981-95-4578-0
+- https://portal.core.edu.au/conf-ranks/?search=Frontiers%20of%20Computer%20Vision&by=all&source=ICORE2026
+unverified:
+- IW-FCV 2025 dates taken from the Springer proceedings title (the 2025 official site was not found)
+- IW-FCV 2027 host and dates not announced
+- Acceptance rate not published
+- DBLP key not checked live (DBLP blocks automated access)
+last_verified: 2026-09-29

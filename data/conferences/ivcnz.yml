@@ -1,0 +1,69 @@
+id: ivcnz
+name: IVCNZ
+full_name: International Conference on Image and Vision Computing New Zealand
+type: conference
+tier: minor
+areas: [vision, ai]
+region: oceania
+language: english
+frequency: annual
+organizer: A New Zealand university each year (University of Otago School of Computing in 2026, Victoria University
+  of Wellington in 2025); technically sponsored by IEEE
+organizer_country: [new-zealand]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI Compendex, DBLP]
+rank:
+  core: Australasian C
+fee: 650 NZD general non-IEEE early registration (2025, by Oct 16); 750 NZD late, 810 NZD onsite
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11]
+links:
+  website: https://ivcnz.github.io/
+  dblp: https://dblp.org/db/conf/ivcnz/
+notes:
+- New Zealand's main visual computing conference, 41st edition in 2026; hosted by a different New Zealand university
+  each year (2025 Wellington, 2026 Dunedin)
+- Covers computer vision, image processing, graphics, XR and visualisation; general AI papers without a vision
+  application are rejected as out of scope
+- Six-page IEEE format papers including references, single-blind review via EasyChair; proceedings in IEEE Xplore
+- Ranked Australasian C by CORE; small, friendly and hybrid in 2025, when it was co-hosted with PRICAI
+- 2025 submission deadline was extended by three weeks
+editions:
+- year: 2025
+  label: 40th IVCNZ
+  start: 2025-11-19
+  end: 2025-11-21
+  location: Wellington, New Zealand (co-hosted with PRICAI 2025)
+  url: https://ecs.wgtn.ac.nz/Events/IVCNZ2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-11
+    label: Full papers (extended from 2025-08-21)
+  - kind: notification
+    date: 2025-10-13
+    label: Extended from 2025-10-08
+  - kind: camera_ready
+    date: 2025-10-16
+- year: 2026
+  label: 41st IVCNZ
+  start: 2026-11-18
+  end: 2026-11-20
+  location: Dunedin, New Zealand (University of Otago)
+  url: https://ivcnz.github.io/
+  deadlines: []
+sources:
+- https://ivcnz.github.io/
+- https://ivcnz.github.io/cfp.html
+- https://ecs.wgtn.ac.nz/Events/IVCNZ2025/
+- https://ecs.wgtn.ac.nz/Events/IVCNZ2025/Submissions
+- https://ecs.wgtn.ac.nz/Events/IVCNZ2025/Registration
+- https://portal.core.edu.au/conf-ranks/?search=IVCNZ&by=all&source=ICORE2026
+unverified:
+- 2026 deadlines are not on the official site; aggregators list submission 2026-09-07, notification 2026-10-05 and
+  camera-ready 2026-10-18
+- 2026 registration fees
+- Acceptance rate
+- DBLP key not checked live (DBLP blocks automated access)
+last_verified: 2026-09-29

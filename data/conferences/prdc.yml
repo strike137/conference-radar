@@ -15,20 +15,23 @@ indexing: [IEEE Xplore, DBLP]
 rank:
   core: C
 typical:
-  deadline_months: [7, 8]
-  conference_months: [10, 11]
+  deadline_months: [7, 8, 9]
+  conference_months: [10, 11, 12]
 links:
-  website: https://prdc.dependability.org/PRDC2025/
+  website: https://prdc-symposium.org/2026/
   dblp: https://dblp.org/db/conf/prdc/index.html
   wikicfp: http://www.wikicfp.com/cfp/servlet/tool.search?q=PRDC&year=a
 notes:
 - Dependability and fault-tolerance symposium that grew out of the Pacific Rim International Symposium on Fault-Tolerant
   Systems (1991 edition in Kawasaki); 2025 was the 30th edition
 - 'Pacific Rim sibling of DSN, EDCC and LADC in the dependability community; rotates around the Pacific Rim: 2022
-  Beijing (hybrid), 2023 Singapore, 2024 Osaka, 2025 Seoul'
+  Beijing (hybrid), 2023 Singapore, 2024 Osaka, 2025 Seoul, 2026 Hong Kong'
 - CORE rank dropped from B (CORE2021) to C (CORE2023 and ICORE2026); not in the CCF list
 - Regular papers plus industry track, fast abstracts and co-located workshops; proceedings in IEEE Xplore
-- Paper deadline in July; in 2025 it was extended several times, finally to Aug 30; conference in October or November
+- 'Double-blind in 2026 (EasyChair): main track regular papers 10 pages, case studies 6 pages; industry track regular
+  papers 6 pages, position papers 2 pages (IEEE double column, references excluded)'
+- Paper deadline in July or August and usually extended (finally Aug 30 in 2025, Sep 17 in 2026); conference in October
+  to December
 editions:
 - year: 2025
   start: 2025-11-03
@@ -69,7 +72,25 @@ editions:
     time: '23:59'
     tz: AoE
     label: Industry track and fast abstracts (final extension)
+- year: 2026
+  start: 2026-12-02
+  end: 2026-12-04
+  location: Hong Kong SAR, China
+  url: https://prdc-symposium.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-17
+    tz: AoE
+    label: Paper submission (extended from 2026-08-21)
+  - kind: notification
+    date: 2026-10-12
+    tz: AoE
+    label: Moved from 2026-10-05
+  - kind: camera_ready
+    date: 2026-10-20
+    tz: AoE
 sources:
+- https://prdc-symposium.org/2026/
 - https://prdc.dependability.org/PRDC2025/ (live site refused connections on 2026-09-28)
 - https://web.archive.org/web/20250710091203/http://prdc.dependability.org/PRDC2025/
 - https://web.archive.org/web/20250815130042/https://prdc.dependability.org/PRDC2025/
@@ -82,10 +103,9 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=PRDC&by=all&source=ICORE2026&sort=atitle&page=1
 - https://portal.core.edu.au/conf-ranks/?search=PRDC&by=all&source=CORE2021&sort=atitle&page=1
 unverified:
-- 'PRDC 2026 dates and location: official site prdc.dependability.org refused connections on 2026-09-28, no PRDC2026
-  page in the Web Archive, and no announcement found elsewhere'
+- PRDC 2026 industry track, fast abstract and AID 2026 workshop deadlines (not listed on the 2026 homepage)
 - Final 2025 notification date after the Aug 30 extension (Aug 15 capture still showed Aug 29)
 - Acceptance rate and registration fees
 - Exact sponsoring IEEE technical committee
 - Year of the very first edition (1989 is implied by the edition count but not confirmed)
-last_verified: 2026-09-28
+last_verified: 2026-09-29

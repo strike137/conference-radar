@@ -1,0 +1,60 @@
+id: offbyone
+name: Off-By-One
+full_name: Off-By-One Conference (OB1)
+type: industry
+tier: minor
+areas: [security]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: STAR Labs SG Pte. Ltd. and friends
+organizer_country: [singapore]
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+fee: 588 early bird, 707 general admission, 388 student (2026, ticket shop prices, SGD assumed)
+typical:
+  deadline_months: [7]
+  conference_months: [5, 6, 9]
+links:
+  website: https://offbyone.sg/
+notes:
+- Offensive security conference in Singapore run by STAR Labs SG, first held in 2024 (2024 M Hotel, 2025 Pan Pacific,
+  2026 Grand Copthorne Waterfront)
+- Single track, two days, about 500 attendees; no vendor pitches, talks chosen by a peer review board of practising
+  researchers
+- Topics are exploitation, hardware and firmware, vulnerability research, malware and reverse engineering, AI, cloud
+  and post-quantum attack surfaces; CTF, villages and hardware badges
+- CFP via pretalx, open about two months; talk videos and slides published free on YouTube and GitHub
+- Held in June 2024, May 2025 and September 2026, so the month moves between editions
+editions:
+- year: 2025
+  start: 2025-05-08
+  end: 2025-05-09
+  location: Singapore (Pan Pacific Singapore)
+  url: https://offbyone.sg/archive
+  deadlines: []
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-15
+  location: Singapore (Grand Copthorne Waterfront)
+  url: https://offbyone.sg/
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    time: "18:00"
+    tz: SGT
+    label: Talk proposals (CFP opened 2026-05-01)
+  - kind: notification
+    date: 2026-07-15
+sources:
+- https://offbyone.sg/
+- https://offbyone.sg/cfp
+- https://offbyone.sg/archive
+- https://merch.starlabs.sg/products/ob1-2026
+unverified:
+- Currency of the ticket prices (the shop does not show it in the product data; SGD assumed)
+- 2025 CFP deadline
+- 2027 dates not announced
+last_verified: 2026-09-29
