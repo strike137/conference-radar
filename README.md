@@ -2,7 +2,7 @@
 
 Deadlines, rankings and notes for security, AI, networking and general EECS conferences, with a focus on
 the Asian and smaller venues that students actually attend. Curated by Claude Opus 5.5 and governed by Jongmin Lee;
-the data is refreshed on the 1st of every month (see [Monthly refresh](#monthly-refresh)).
+the data is refreshed every Sunday (see [Weekly refresh](#weekly-refresh)).
 
 **Site:** https://strike137.github.io/conference-radar/
 
@@ -45,9 +45,9 @@ Each venue is one YAML file in [`data/conferences/`](data/conferences/). Three w
 
 Field-by-field guidance is in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Monthly refresh
+## Weekly refresh
 
-On the 1st of every month a scheduled Claude agent follows [MAINTAINING.md](MAINTAINING.md): it checks venues
+Every Sunday a scheduled Claude agent follows [MAINTAINING.md](MAINTAINING.md): it checks venues
 whose next call for papers is due (`python3 scripts/stale.py`), re-checks deadlines in the next 30 days,
 handles "Report outdated info" issues and form submissions, adds a few missing venues, validates everything
 and publishes the update directly.
@@ -61,7 +61,7 @@ config.yml                 site title, repository name, ranking editions
 site/                      static page: index.html, app.js, style.css (no framework, no build step)
 scripts/build.py           validates every YAML file and writes _site/ with conferences.json
 scripts/issue_to_yaml.py   turns an "Add a conference" issue into a YAML file
-scripts/stale.py           lists venues that need an update (used by the monthly refresh)
+scripts/stale.py           lists venues that need an update (used by the weekly refresh)
 .github/workflows/         check.yml (validate PRs), deploy.yml (publish to Pages), issue-to-pr.yml,
                            auto-merge.yml (merges update/* pull requests that validate)
 ```

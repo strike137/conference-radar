@@ -1,6 +1,6 @@
 # Maintaining the data
 
-How the data is kept current. A scheduled Claude agent runs this procedure on the 1st of every month and
+How the data is kept current. A scheduled Claude agent runs this procedure every Sunday and
 publishes the result without manual review, so every rule below matters. Anyone doing a bulk update by hand
 should follow it too. Field definitions are in [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -53,7 +53,7 @@ should follow it too. Field definitions are in [CONTRIBUTING.md](CONTRIBUTING.md
 - Do not reformat files you did not otherwise change.
 - `python3 scripts/build.py --check` must report 0 errors before you open a pull request.
 
-## Monthly update procedure
+## Weekly update procedure
 
 1. `pip install pyyaml` and run `python3 scripts/stale.py --limit 60` for the work queue: venues whose next
    call for papers is due or overdue but not recorded, venues with a deadline in the next 30 days, and venues
@@ -70,8 +70,8 @@ should follow it too. Field definitions are in [CONTRIBUTING.md](CONTRIBUTING.md
    source: tier, areas, region, organizer, organizer_country, proceedings, rank, typical months, notes,
    editions, sources.
 5. Run `python3 scripts/build.py --check` until it reports 0 errors.
-6. Commit to `main` and push; the site redeploys by itself. Use one commit titled `Monthly update YYYY-MM`
+6. Commit to `main` and push; the site redeploys by itself. Use one commit titled `Weekly update YYYY-MM-DD`
    whose message lists venues updated (what changed), venues added, issues and pull requests handled, and
-   anything you could not verify. If pushing to `main` is not allowed, push the branch `update/YYYY-MM` and
+   anything you could not verify. If pushing to `main` is not allowed, push the branch `update/YYYY-MM-DD` and
    open a pull request with the same title and text instead: the "Auto-merge data updates" workflow merges it
    once the data validates and redeploys the site.

@@ -1,6 +1,6 @@
 name: Auto-merge data updates
 
-# Pull requests from branches named update/* (the monthly maintenance run) are merged automatically once the
+# Pull requests from branches named update/* (the weekly maintenance run) are merged automatically once the
 # data validates, then the site is redeployed. Only branches in this repository qualify, never forks.
 on:
   pull_request:
