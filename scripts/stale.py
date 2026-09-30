@@ -3,6 +3,7 @@
 
     python3 scripts/stale.py               table of the top 40
     python3 scripts/stale.py --limit 100
+    python3 scripts/stale.py --all         the whole queue (the weekly update uses this)
     python3 scripts/stale.py --json        machine-readable
 
 Reasons:
@@ -69,6 +70,7 @@ def assess(rec: dict, today: dt.date) -> list[dict]:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--limit", type=int, default=40)
+    ap.add_argument("--all", action="store_true", help="list the whole queue, ignoring --limit")
     ap.add_argument("--json", action="store_true")
     ap.add_argument("--today", help="YYYY-MM-DD (default: today)")
     args = ap.parse_args()
@@ -85,7 +87,8 @@ def main() -> int:
             rows.append({"id": rec["id"], "name": rec["name"], "file": f"data/conferences/{rec['id']}.yml",
                          "website": rec["links"].get("website"), **it})
     rows.sort(key=lambda r: (r["score"], r["id"]))
-    rows = rows[: args.limit]
+    if not args.all:
+        rows = rows[: args.limit]
     if args.json:
         print(json.dumps(rows, ensure_ascii=False, indent=1))
         return 0

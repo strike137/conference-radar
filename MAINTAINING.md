@@ -55,23 +55,28 @@ should follow it too. Field definitions are in [CONTRIBUTING.md](CONTRIBUTING.md
 
 ## Weekly update procedure
 
-1. `pip install pyyaml` and run `python3 scripts/stale.py --limit 60` for the work queue: venues whose next
+1. `pip install pyyaml` and run `python3 scripts/stale.py --all` for the work queue: venues whose next
    call for papers is due or overdue but not recorded, venues with a deadline in the next 30 days, and venues
    not verified for a long time.
-2. Work through the queue (most urgent first): open the official site, add the new edition and its
-   deadlines, fix anything that changed, update `sources` and `last_verified`.
+2. Work through the whole queue (most urgent first): open the official site, add the new edition and its
+   deadlines, fix anything that changed, update `sources` and `last_verified`. There is no cap on how many
+   venues one run handles; split the queue across parallel agents when it is long, each editing only its own
+   files, and have a second agent re-check every changed date against the official page before committing.
 3. Handle open GitHub issues labeled `update` (reports from the site): apply what the official source
    confirms, then close the issue with a short comment. Review open pull requests from the issue bot
    (branches `add/issue-*`): check the file against the official site, fix it on that branch if needed, run
    the validator, then merge it (`gh pr merge N --squash --delete-branch`). Close submissions that are out of
    scope or cannot be verified, with a comment saying why.
-4. Add up to 10 missing venues that fit the scope (search for Asian and regional security, AI, networking
-   and communications conferences not yet in `data/conferences/`). Each new file needs every field you can
-   source: tier, areas, region, organizer, organizer_country, proceedings, rank, typical months, notes,
-   editions, sources.
+4. Add every missing venue that fits the scope; there is no cap. Search from several angles (by country or
+   region, by area, by organizing society, by proceedings series) and repeat until a search round finds
+   nothing new. Check each candidate against the existing files (id and full name) before writing it, so a
+   venue is never added twice. Each new file needs every field you can source: tier, areas, region,
+   organizer, organizer_country, proceedings, rank, typical months, notes, editions, sources. Drop a
+   candidate whose dates or proceedings cannot be sourced from an official page.
 5. Run `python3 scripts/build.py --check` until it reports 0 errors.
 6. Commit to `main` and push; the site redeploys by itself. Use one commit titled `Weekly update YYYY-MM-DD`
    whose message lists venues updated (what changed), venues added, issues and pull requests handled, and
-   anything you could not verify. If pushing to `main` is not allowed, push the branch `update/YYYY-MM-DD` and
+   anything you could not verify. A long run may push the queue updates first and the new venues in a second
+   commit titled `Weekly update YYYY-MM-DD: new venues`, so finished work is not lost. If pushing to `main` is not allowed, push the branch `update/YYYY-MM-DD` and
    open a pull request with the same title and text instead: the "Auto-merge data updates" workflow merges it
    once the data validates and redeploys the site.
