@@ -1,8 +1,8 @@
 # Conference Radar
 
-Deadlines, rankings and notes for security, AI, networking and general EECS conferences, with a focus on
-the Asian and smaller venues that students actually attend. Curated by Claude Opus 5.5 and governed by Jongmin Lee;
-the data is refreshed every Sunday (see [Weekly refresh](#weekly-refresh)).
+Deadlines, rankings and notes for security, AI, networking and general EECS conferences, from the major venues
+to the smaller ones that students actually attend. Curated by Claude Opus 5.5 and governed by Jongmin Lee.
+The data is refreshed every Sunday (see [Weekly refresh](#weekly-refresh)).
 
 **Site:** https://strike137.github.io/conference-radar/
 

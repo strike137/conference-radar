@@ -9,8 +9,8 @@ should follow it too. Field definitions are in [CONTRIBUTING.md](CONTRIBUTING.md
 - Conferences only: `type` is `conference`, `workshop` (co-located academic workshop) or `industry`
   (hacker/practitioner conference). Do not add recurring society meetings (IEICE/IPSJ kenkyukai),
   network operators' group meetings (JANOG, SANOG, ...), trade shows, or chapter paper meetings.
-- Focus: security, AI, networking, communications and general EECS, with emphasis on venues held or run in
-  Asia and on smaller venues students can realistically attend. Major venues are listed for reference.
+- Focus: security, AI, networking, communications and general EECS venues anywhere in the world, from the
+  major venues to the smaller ones students can realistically attend.
 - Skip venues with no edition since 2023 (discontinued or dormant).
 
 ## Rules for every change
