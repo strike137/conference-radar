@@ -95,15 +95,29 @@ editions:
     tz: AoE
     label: Workshop papers
   - kind: camera_ready
+    date: 2026-10-20
+    tz: AoE
+    label: Main conference (camera-ready and author registration)
+  - kind: camera_ready
     date: 2026-10-29
     tz: AoE
-    label: Main conference and workshops
+    label: Workshop papers
   - kind: notification
     date: 2026-11-07
     tz: AoE
     label: Doctoral symposium, posters, tutorials, demos
+  - kind: camera_ready
+    date: 2026-11-14
+    tz: AoE
+    label: Doctoral symposium, posters, demos
 sources:
 - https://cs3-lab.github.io/icdcn/index.html
+- https://cs3-lab.github.io/icdcn/submission/call-for-paper.html
+- https://cs3-lab.github.io/icdcn/submission/call-for-demo.html
+- https://cs3-lab.github.io/icdcn/submission/call-for-poster.html
+- https://cs3-lab.github.io/icdcn/submission/call-for-doctoral-symposium.html
+- https://cs3-lab.github.io/icdcn/submission/call-for-tutorial.html
+- https://cs3-lab.github.io/icdcn/submission/camera-ready-instructions.html
 - https://sites.google.com/view/icdcn2026
 - https://sites.google.com/view/icdcn2026/submissions/call-for-paper
 - https://sites.google.com/view/icdcn2026/participate/registration
@@ -114,4 +128,6 @@ unverified:
   table'
 - ICDCN 2026 registration fee amounts (shown only as an embedded table)
 - Acceptance rate not published
-last_verified: 2026-09-29
+- 'ICDCN 2027 tutorial dates conflict: the homepage table shows submission Oct 15, notification Nov 7, camera-ready
+  Nov 14, but the tutorial call page shows proposals Oct 1 and notification Oct 15'
+last_verified: 2026-10-04
