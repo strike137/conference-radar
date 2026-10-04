@@ -1,0 +1,78 @@
+id: ieee-mass
+name: IEEE MASS
+full_name: IEEE International Conference on Mobile Ad-Hoc and Smart Systems
+type: conference
+tier: major
+areas: [networking, communications, systems, security, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society and its Technical Community on Distributed Processing (TCDP)
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP]
+rank:
+  core: B
+  ccf: C
+fee: 800 USD IEEE member / 960 USD non-member, author registration (2026)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9, 10]
+links:
+  website: https://mass-conf.github.io/2026/
+  dblp: https://dblp.org/db/conf/mass/
+notes:
+- Sponsored by the IEEE Computer Society and its TCDP; running since 2004, 2026 is the 23rd edition
+- Formerly the IEEE International Conference on Mobile Ad-hoc and Sensor Systems; CORE and CCF still list it under
+  that name (ICORE2026 B, CCF C)
+- Proceedings in IEEE Xplore; papers not presented in person by an author are removed from Xplore
+- Single-blind review; 9-page regular papers, some accepted as 5-page short papers or 2-page posters
+- Mostly held in North America, with editions in Asia (2020 Delhi, 2024 Seoul, 2026 Hong Kong)
+- Around ten co-located workshops each year (6-page papers, later deadline), plus posters and demos
+- Main submission deadline was extended by three weeks in 2026
+- Student authors must pay the full author registration rate
+editions:
+- year: 2025
+  start: 2025-10-06
+  end: 2025-10-08
+  location: Chicago, USA
+- year: 2026
+  start: 2026-10-21
+  end: 2026-10-23
+  location: The Hong Kong Polytechnic University, Hong Kong SAR, China
+  url: https://mass-conf.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-24
+    label: Main conference papers (extended from 2026-05-03)
+  - kind: other
+    date: 2026-07-24
+    label: Poster and demo submission
+  - kind: notification
+    date: 2026-08-14
+    label: Main conference (extended from 2026-08-06)
+  - kind: other
+    date: 2026-08-31
+    label: Workshop paper submission (extended from 2026-07-31)
+  - kind: camera_ready
+    date: 2026-08-31
+  - kind: other
+    date: 2026-09-20
+    label: Author registration deadline
+sources:
+- https://mass-conf.github.io/2026/
+- https://mass-conf.github.io/2026/callforpapers.html
+- https://mass-conf.github.io/2026/callforposters.html
+- https://mass-conf.github.io/2026/about.html
+- https://mass-conf.github.io/2026/registration.html
+- https://mass-conf.github.io/2026/organizingcommittee.html
+- https://mass-conf.github.io/2026/listofworkshops.html
+- https://portal.core.edu.au/conf-ranks/?search=MASS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- MASS 2025 deadlines (the 2025 website is no longer online; dates of the 2025 edition come from the 2026 past
+  conferences list)
+- Acceptance rate (not stated on the official site)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- MASS 2027 dates and location (not announced yet)
+last_verified: 2026-10-04

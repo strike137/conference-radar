@@ -1,0 +1,83 @@
+id: aft
+name: AFT
+full_name: Conference on Advances in Financial Technologies
+type: conference
+tier: major
+areas: [security, crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: IFCA (Stichting Financial Cryptography / International Financial Cryptography Association)
+organizer_country: [international]
+proceedings: LIPIcs (Dagstuhl, open access)
+indexing: [DBLP]
+rank:
+  core: B
+fee: 550 GBP regular, 300 GBP student (2026, by 31 Aug); 550 USD regular, 300 USD student (2025)
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10]
+links:
+  website: https://aft.ifca.ai/
+  dblp: https://dblp.org/db/conf/aft/index.html
+notes:
+- Annual conference of IFCA, the association that also runs Financial Cryptography (FC); first held in 2019
+- Focus on blockchains, cryptocurrencies, DeFi, consensus, MEV, CBDCs and exchanges, from theory to measurement
+- Proceedings are open access in Dagstuhl LIPIcs; authors may opt to publish only a 3 page extended abstract
+  with a link to the full paper
+- Anonymous submission, up to 20 pages in LIPIcs format; SoK papers welcome
+- Held in person with no remote option; recent hosts were universities and central banks (Princeton 2023, Vienna
+  2024, CMU 2025, LSE London 2026)
+- 'AFT 2026 allowed simultaneous submission to WINE 2026 (withdraw from WINE if accepted at AFT)'
+editions:
+- year: 2025
+  start: 2025-10-07
+  end: 2025-10-10
+  location: Pittsburgh, PA, USA (Carnegie Mellon University)
+  url: https://aft.ifca.ai/aft25/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-28
+    tz: AoE
+  - kind: submission
+    date: 2025-05-28
+    tz: AoE
+    label: Paper submission (firm)
+  - kind: notification
+    date: 2025-07-16
+  - kind: camera_ready
+    date: 2025-08-06
+- year: 2026
+  start: 2026-10-06
+  end: 2026-10-09
+  location: London, UK (London School of Economics)
+  url: https://aft.ifca.ai/aft26/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-20
+    tz: AoE
+  - kind: submission
+    date: 2026-05-27
+    tz: AoE
+  - kind: notification
+    date: 2026-07-15
+  - kind: camera_ready
+    date: 2026-08-09
+sources:
+- https://aft.ifca.ai/
+- https://aft.ifca.ai/aft26/index.html
+- https://aft.ifca.ai/aft26/CFP.html
+- https://aft.ifca.ai/aft26/attend.html
+- https://aft.ifca.ai/aft25/index.html
+- https://aft.ifca.ai/aft25/CFP.html
+- https://aft.ifca.ai/aft25/attend.html
+- https://aft.ifca.ai/aft24/index.html
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-354
+- https://portal.core.edu.au/conf-ranks/?search=AFT&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CCF 2026 list could not be checked (ccf.org.cn behind a captcha); rank.ccf left out
+- Acceptance rate not found on the official pages
+- 2025 and 2026 edition dates include the co-located workshop day (main program Oct 8 to 10, 2025 and Oct 7 to
+  9, 2026)
+- AFT 2027 not announced yet
+last_verified: 2026-10-04

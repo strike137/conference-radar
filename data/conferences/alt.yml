@@ -1,0 +1,83 @@
+id: alt
+name: ALT
+full_name: International Conference on Algorithmic Learning Theory
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AALT (Association for Algorithmic Learning Theory)
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [9, 10]
+  conference_months: [2, 3]
+links:
+  website: https://algorithmiclearningtheory.org/
+  dblp: https://dblp.org/db/conf/alt/
+notes:
+- Run by AALT (Association for Algorithmic Learning Theory), an international association created in 2018; sister
+  conference of COLT
+- Covers all theoretical and algorithmic aspects of machine learning (online learning, statistical learning,
+  optimization, RL theory, privacy, theory of deep learning and LLMs)
+- Proceedings in PMLR (ALT 2026 -> Volume 313, ALT 2025 -> Volume 272); authors may opt for a one-page extended
+  abstract instead of the full paper
+- Submission on OpenReview; no page limit but reviewers may not read beyond 12 pages; not fully double-blind (senior
+  PC member sees author names)
+- Held in person; at least one author of each accepted paper is expected to register and present in person
+- 'Location rotates worldwide: Paris 2022, Singapore 2023, La Jolla (San Diego) 2024, Milan 2025, Toronto 2026, Leiden 2027'
+- Regarded as the second learning theory venue after COLT; CORE B and CCF C
+editions:
+- year: 2026
+  start: 2026-02-23
+  end: 2026-02-26
+  location: Toronto, Canada (Fields Institute)
+  url: https://algorithmiclearningtheory.org/alt2026/
+  deadlines:
+  - kind: submission
+    date: 2025-10-02
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2025-11-17
+    label: Author feedback period (until 2025-11-23)
+  - kind: notification
+    date: 2025-12-18
+- year: 2027
+  start: 2027-03-09
+  end: 2027-03-12
+  location: Leiden, Netherlands
+  url: https://algorithmiclearningtheory.org/alt2027/
+  deadlines:
+  - kind: submission
+    date: 2026-10-12
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-11-30
+    label: Author feedback period (until 2026-12-06)
+  - kind: notification
+    date: 2027-01-05
+sources:
+- https://algorithmiclearningtheory.org/
+- https://algorithmiclearningtheory.org/alt2027/
+- https://algorithmiclearningtheory.org/alt2027/call-for-papers/
+- https://algorithmiclearningtheory.org/alt2027/submission-instructions/
+- https://algorithmiclearningtheory.org/alt2026/
+- https://algorithmiclearningtheory.org/alt2026/call-for-papers/
+- https://algorithmiclearningtheory.org/alt2026/registration-2/
+- https://proceedings.mlr.press/v313/
+- https://proceedings.mlr.press/
+- https://portal.core.edu.au/conf-ranks/?search=ALT&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror and CCFrank4dblp data, not on ccf.org.cn directly (behind a captcha)
+- Registration fees and official acceptance rate not published on the ALT 2026 or ALT 2027 sites
+- ALT 2027 camera-ready deadline not announced yet
+last_verified: 2026-10-04

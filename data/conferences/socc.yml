@@ -1,0 +1,107 @@
+id: socc
+name: SoCC
+full_name: ACM Symposium on Cloud Computing
+type: conference
+tier: major
+areas: [systems, networking, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGMOD and ACM SIGOPS (co-sponsored)
+organizer_country: [international]
+proceedings: ACM DL
+indexing: [DBLP]
+rank:
+  ccf: B
+typical:
+  deadline_months: [2, 7]
+  conference_months: [11]
+links:
+  website: https://acmsocc.org/2026/index.html
+notes:
+- Annual ACM symposium on cloud computing since 2010, the only conference co-sponsored by ACM SIGMOD and ACM SIGOPS
+- Covers cloud systems and data management; full research (12 pages), short research (6 pages), industry (12 pages)
+  and vision (6 pages) papers, plus unlimited references
+- Dual-anonymous review with an author response period; accepted papers are shepherded
+- Proceedings in the ACM Digital Library, linked from the official site as free and open access
+- Two submission rounds from 2026 (February and July); a paper rejected in the first round cannot be resubmitted in the
+  second round
+- Usually held in the USA (Seattle 2021, San Francisco 2022, Santa Cruz 2023, Redmond 2024); 2025 was fully virtual and
+  2026 is in Singapore
+- Not listed in ICORE2026; CCF B (computer architecture, parallel and distributed computing, storage systems)
+- Requires a senior author of each paper to register as a reserve reviewer (2026)
+editions:
+- year: 2025
+  start: 2025-11-19
+  end: 2025-11-21
+  location: Online
+  url: https://acmsocc.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-07
+    time: "17:00"
+    tz: EDT
+  - kind: submission
+    date: 2025-07-14
+    time: "17:00"
+    tz: EDT
+  - kind: notification
+    date: 2025-09-26
+  - kind: camera_ready
+    date: 2025-10-17
+- year: 2026
+  start: 2026-11-18
+  end: 2026-11-20
+  location: Singapore
+  url: https://acmsocc.org/2026/index.html
+  deadlines:
+  - kind: abstract
+    date: 2026-02-06
+    time: "23:59"
+    tz: AoE
+    label: First round
+  - kind: submission
+    date: 2026-02-13
+    time: "23:59"
+    tz: AoE
+    label: First round
+  - kind: notification
+    date: 2026-04-29
+    label: First round
+  - kind: abstract
+    date: 2026-07-07
+    time: "23:59"
+    tz: AoE
+    label: Second round
+  - kind: submission
+    date: 2026-07-14
+    time: "23:59"
+    tz: AoE
+    label: Second round
+  - kind: notification
+    date: 2026-09-26
+    label: Second round
+  - kind: camera_ready
+    date: 2026-10-17
+sources:
+- https://acmsocc.org/2026/index.html
+- https://acmsocc.org/2026/papers.html
+- https://acmsocc.org/2026/accepted-papers.html
+- https://acmsocc.org/2025/
+- https://acmsocc.org/2025/papers.html
+- https://acmsocc.org/2024/
+- https://acmsocc.org/2024/schedule.html
+- https://acmsocc.org/2023/
+- https://acmsocc.org/2022/
+- https://acmsocc.org/2021/
+- https://dl.acm.org/doi/proceedings/10.1145/3620678
+- https://portal.core.edu.au/conf-ranks/?search=SoCC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/ARCH_DCP_SS/
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- https://acmsocc.org/2025/schedule.html
+last_verified: 2026-10-04
+unverified:
+- SoCC 2027 dates and deadlines (not announced yet)
+- Acceptance rate and registration fees not published on the official site
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- Scopus indexing not checked; DBLP from the CCF 2026 list entry (dblp conf/cloud)

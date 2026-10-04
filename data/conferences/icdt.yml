@@ -1,0 +1,118 @@
+id: icdt
+name: ICDT
+full_name: International Conference on Database Theory
+type: conference
+tier: major
+areas: [data]
+region: europe
+language: english
+frequency: annual
+organizer: ICDT Council, held jointly with EDBT (International Conference on Extending Database Technology)
+organizer_country: [europe]
+proceedings: LIPIcs (Leibniz International Proceedings in Informatics, Schloss Dagstuhl, open access)
+archival: true
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: B
+fee: 580 EUR regular, 460 EUR student (2026, early bird, joint EDBT/ICDT registration)
+typical:
+  deadline_months: [3, 9]
+  conference_months: [3, 4]
+links:
+  website: https://edbticdt2027.github.io/
+  dblp: https://dblp.org/db/conf/icdt/
+notes:
+- Theory of data management (query languages, data models, algorithms, provenance, logic); held jointly with EDBT
+  following the SIGMOD/PODS model
+- Held jointly with EDBT every year since 2009, always in Europe (Ioannina 2023, Paestum 2024, Barcelona 2025,
+  Tampere 2026, Lille 2027)
+- Proceedings in the LIPIcs series by Schloss Dagstuhl, open access and free of charge; authors keep the rights
+- Two submission cycles per year; a paper rejected in cycle 1 cannot go to cycle 2 unless the reviewers ask for it
+- Regular papers up to 15 pages in LIPIcs style plus references, anonymized submission; also a 4-page non-anonymous
+  Database Theory in Action track
+- Best Paper and Best Newcomer (or Best Student) Paper awards, plus an ICDT Test-of-Time award
+- At least one author per accepted paper had to register and present in person (2026, onsite only)
+editions:
+- year: 2026
+  start: 2026-03-24
+  end: 2026-03-27
+  location: Tampere, Finland
+  url: https://edbticdt2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-13
+    tz: AoE
+    label: Cycle 1
+  - kind: submission
+    date: 2025-03-20
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2025-06-01
+    tz: AoE
+    label: Cycle 1
+  - kind: abstract
+    date: 2025-09-03
+    tz: AoE
+    label: Cycle 2
+  - kind: submission
+    date: 2025-09-10
+    tz: AoE
+    label: Cycle 2
+  - kind: notification
+    date: 2025-12-01
+    tz: AoE
+    label: Cycle 2
+- year: 2027
+  start: 2027-04-06
+  end: 2027-04-08
+  location: Lille, France
+  url: https://edbticdt2027.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-03
+    tz: AoE
+    label: Cycle 1
+  - kind: submission
+    date: 2026-03-10
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2026-06-01
+    tz: AoE
+    label: Cycle 1
+  - kind: abstract
+    date: 2026-09-03
+    tz: AoE
+    label: Cycle 2
+  - kind: submission
+    date: 2026-09-10
+    tz: AoE
+    label: Cycle 2
+  - kind: other
+    date: 2026-11-07
+    tz: AoE
+    label: Cycle 2 rebuttal (November 3 to 7)
+  - kind: notification
+    date: 2026-12-01
+    tz: AoE
+    label: Cycle 2
+sources:
+- https://edbticdt2027.github.io/
+- https://edbticdt2027.github.io/?contents=ICDT_CFP.html
+- https://edbticdt2027.github.io/?contents=important_dates.html
+- https://edbticdt2026.github.io/
+- https://edbticdt2026.github.io/?contents=ICDT_CFP.html
+- https://edbticdt2026.github.io/?contents=important_dates.html
+- https://edbticdt2026.github.io/?contents=program_overview.html
+- https://edbticdt2026.github.io/?contents=registration.html
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-365
+- https://databasetheory.org/icdt-pages
+- https://portal.core.edu.au/conf-ranks/?search=ICDT&by=all&source=ICORE2026&sort=atitle&page=1
+- https://ccf.atom.im/
+unverified:
+- CCF rank read from a mirror of the CCF 2026 list (ccf.atom.im); the official ccf.org.cn list page is behind a captcha
+- ICDT 2027 runs April 6 to 8 per the ICDT call; the joint EDBT/ICDT 2027 conference runs April 6 to 9
+- ICDT acceptance rate and EDBT/ICDT 2027 registration fees (not found on the official pages)
+last_verified: 2026-10-04

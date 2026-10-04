@@ -1,0 +1,87 @@
+id: fuzz-ieee
+name: FUZZ-IEEE
+full_name: IEEE International Conference on Fuzzy Systems
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computational Intelligence Society (CIS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: B
+fee: EUR 950 IEEE/INNS member, EUR 550 member student, early bird (2026, WCCI registration, in person or online)
+typical:
+  deadline_months: [1]
+  conference_months: [6, 7]
+links:
+  website: https://attend.ieee.org/fuzz-2027/
+  dblp: https://dblp.org/db/conf/fuzzIEEE/
+notes:
+- Flagship fuzzy systems conference of IEEE CIS; covers fuzzy sets and logic plus hybrids with other CI and AI methods
+- In even years it runs inside IEEE WCCI together with IJCNN and IEEE CEC (WCCI 2026 in Maastricht); in odd years it
+  is held on its own
+- Proceedings in IEEE Xplore; a paper appears only if an author registers and presents it, in person or online (WCCI 2026)
+- WCCI 2026 allowed in-person or online presentation at the same fee; one regular registration covers up to two papers
+- FUZZ-IEEE 2027 is in Sydney, Australia (10 to 13 July 2027), organized by the University of Technology Sydney
+editions:
+- year: 2026
+  label: Part of IEEE WCCI 2026
+  start: 2026-06-21
+  end: 2026-06-26
+  location: Maastricht, Netherlands
+  url: https://attend.ieee.org/wcci-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    time: '23:59'
+    tz: AoE
+    label: Regular papers (no extension)
+  - kind: other
+    date: 2026-03-10
+    label: Late-breaking papers
+  - kind: notification
+    date: 2026-03-16
+    label: Notifications sent 16 to 22 March
+  - kind: camera_ready
+    date: 2026-04-15
+    label: Also presenter registration deadline
+- year: 2027
+  start: 2027-07-10
+  end: 2027-07-13
+  location: Sydney, Australia
+  url: https://attend.ieee.org/fuzz-2027/
+  deadlines:
+  - kind: other
+    date: 2026-11-01
+    label: Special session proposals
+  - kind: other
+    date: 2026-12-01
+    label: Special session acceptance notification
+  - kind: submission
+    date: 2027-01-15
+    label: Full papers
+  - kind: notification
+    date: 2027-04-01
+  - kind: camera_ready
+    date: 2027-05-01
+sources:
+- https://attend.ieee.org/fuzz-2027/
+- https://attend.ieee.org/wcci-2026/
+- https://attend.ieee.org/wcci-2026/important-dates-deadlines/
+- https://attend.ieee.org/wcci-2026/fuzz-ieee-2026/
+- https://attend.ieee.org/wcci-2026/final-author-instructions/
+- https://attend.ieee.org/wcci-2026/registrations/
+- https://cis.ieee.org/conferences/conference-calendar
+- http://ewh.ieee.org/conf/fuzz/
+- https://portal.core.edu.au/conf-ranks/?search=FUZZ-IEEE&by=all&source=ICORE2026
+unverified:
+- FUZZ-IEEE acceptance rate (no official figure found)
+- Time zone of FUZZ-IEEE 2027 deadlines and specific venue in Sydney (not stated on the site yet)
+- Page limit and extra page fee (not stated on the current WCCI 2026 pages)
+- CCF rank (not found in the CCFrank4dblp mirror; ccf.org.cn is behind a captcha)
+last_verified: 2026-10-04

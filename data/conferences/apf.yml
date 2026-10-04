@@ -1,0 +1,70 @@
+id: apf
+name: APF
+full_name: Annual Privacy Forum
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: APF Scientific Steering Board; hosted by a different European university each year (2026 University of Salzburg with Goethe University Frankfurt)
+organizer_country: [europe]
+proceedings: Springer LNCS (Privacy Technologies and Policy)
+indexing: [DBLP]
+rank:
+  core: Unranked
+fee: 384 EUR early bird, 434 EUR full rate (2026, regular ticket)
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://privacyforum.eu/
+  dblp: https://dblp.org/db/conf/apf/
+notes:
+- European privacy and data protection conference running since 2012; brings together researchers, policymakers, lawyers, data protection authorities and industry
+- Proceedings published as Springer LNCS "Privacy Technologies and Policy" (open access in 2026, LNCS 16847)
+- Held in a different European city each year (2023 Lyon, 2024 Karlstad, 2025 Frankfurt, 2026 Salzburg, 2027 Tilburg)
+- Interdisciplinary call covering law, policy, engineering and ethics; full papers up to 8,000 words, student and short papers up to 4,000 words, Springer LNCS style
+- Abstract registration about one week before the full paper deadline; deadlines were extended by about two weeks in 2026
+- Co-located with an IPEN (EDPS Internet Privacy Engineering Network) event in 2026
+- Not listed in ICORE2026 (portal search returns no results)
+editions:
+- year: 2026
+  start: 2026-09-09
+  end: 2026-09-10
+  location: Salzburg, Austria
+  url: https://privacyforum.eu/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-15
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-01
+  - kind: submission
+    date: 2026-04-22
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended from 2026-04-10)
+  - kind: notification
+    date: 2026-05-22
+  - kind: camera_ready
+    date: 2026-06-12
+- year: 2027
+  start: 2027-09-23
+  end: 2027-09-24
+  location: Tilburg, Netherlands
+  url: https://privacyforum.eu/
+sources:
+- https://privacyforum.eu/
+- https://privacyforum.eu/callforpapers.html
+- https://privacyforum.eu/news.html
+- https://privacyforum.eu/registration.html
+- https://privacyforum.eu/previous_editions.html
+- https://privacyforum.eu/scientific_steering_board.html
+- https://link.springer.com/book/10.1007/978-3-032-35899-8
+- https://portal.core.edu.au/conf-ranks/?search=APF&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- APF 2027 deadlines and website (only the save-the-date for Tilburg, 2027-09-23 to 2027-09-24, is announced)
+- Acceptance rate (not stated on the official site)
+- CCF 2026 listing (ccf.org.cn page blocked by a captcha); rank.ccf left out as APF is not known to be listed
+last_verified: 2026-10-04

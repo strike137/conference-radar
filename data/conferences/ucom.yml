@@ -1,0 +1,84 @@
+id: ucom
+name: Ucom
+full_name: International Conference on Ubiquitous Communication
+type: conference
+tier: minor
+areas: [communications, networking]
+region: china
+language: english
+frequency: annual
+organizer: Xidian University School of Telecommunications Engineering (founder); 2026 organizer The Hong Kong Polytechnic
+  University
+organizer_country: [china]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [7, 10]
+  conference_months: [7, 9, 12]
+links:
+  website: https://www.ucom.org.cn/
+notes:
+- Started in 2023 by the School of Telecommunications Engineering of Xidian University; steering committee chaired by
+  Xidian, Pengcheng Laboratory, China Institute of Communications and HKUST members
+- Held in China (2023 and 2024 Xi'an, 2025 Hangzhou, 2026 Hong Kong at PolyU); timing has moved from July to
+  September to December
+- Papers in IEEE conference proceedings on IEEE Xplore (2023 to 2025 volumes published); EI Compendex and Scopus
+  indexing is stated as submitted, not guaranteed
+- "2026 flyer lists PolyU as organizer, Xidian University as supporter and China Institute of Communications as advisor"
+- Selected papers may be recommended to the Journal of Electronics and Information Technology
+- Tracks on communication theory, signal and image processing, networking, optical communication, ML for wireless
+  and emerging technologies, plus several 6G themed workshops
+- Papers up to 6 pages in IEEE format (6th page charged extra); at least one author must register and present
+  onsite; similarity score must be at most 30%
+- Not listed in ICORE2026; young venue with no established ranking
+editions:
+- year: 2025
+  label: 3rd Ucom
+  start: 2025-09-19
+  end: 2025-09-21
+  location: Hangzhou, China
+  url: https://ieeexplore.ieee.org/xpl/conhome/11335412/proceeding
+  deadlines:
+  - kind: submission
+    date: 2025-07-20
+  - kind: notification
+    date: 2025-08-10
+  - kind: camera_ready
+    date: 2025-08-30
+- year: 2026
+  start: 2026-12-16
+  end: 2026-12-18
+  location: Hong Kong, China
+  url: https://www.ucom.org.cn/
+  deadlines:
+  - kind: submission
+    date: 2026-10-10
+  - kind: notification
+    date: 2026-11-10
+  - kind: other
+    date: 2026-11-25
+    label: Early-bird registration
+  - kind: other
+    date: 2026-11-29
+    label: Young Scientist and Excellent Graduate Student award applications
+sources:
+- https://www.ucom.org.cn/
+- https://www.ucom.org.cn/cfp.html
+- https://www.ucom.org.cn/sub.html
+- https://www.ucom.org.cn/reg.html
+- https://www.ucom.org.cn/venue.html
+- https://www.ucom.org.cn/Ucom2026_cfp.pdf
+- https://ieeexplore.ieee.org/xpl/conhome/11335412/proceeding
+- https://api.crossref.org/works/10.1109/ucom67224.2025
+- https://api.crossref.org/works/10.1109/ucom62433.2024
+- https://api.crossref.org/works/10.1109/ucom59132.2023
+- https://portal.core.edu.au/conf-ranks/?search=Ucom&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 2025 deadlines are from the 2025 dates still shown on the official submission page; 2025 edition dates and city
+  are from the IEEE proceedings metadata (Crossref), as IEEE Xplore blocked automated access
+- 2026 submission deadline has no time or time zone stated; it may still be extended
+- Registration fee table on the official site still shows an August 31 early-bird cutoff (apparently from 2025), so
+  the 2026 fee was not recorded
+- CCF 2026 list could not be loaded for checking; rank.ccf left out (a 2023 venue is unlikely to be listed)
+- Acceptance rate not published
+last_verified: 2026-10-04

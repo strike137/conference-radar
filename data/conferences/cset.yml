@@ -1,0 +1,77 @@
+id: cset
+name: CSET
+full_name: Workshop on Cyber Security Experimentation and Test
+type: workshop
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: USC Information Sciences Institute (ISI), sponsored by ACSAC (co-located with ACSAC)
+organizer_country: [usa]
+proceedings: IEEE Computer Society
+archival: true
+indexing: [DBLP]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://cset26.isi.edu/
+  dblp: https://dblp.org/db/conf/cset/index.html
+notes:
+- Long-running workshop (first held 2008, 19th edition in 2026) on the science of security experiments, testbeds, datasets,
+  measurement, reproducibility, ethics and security education
+- Website hosted by USC/ISI; since 2025 sponsored by and held the day before ACSAC (2025 Honolulu, 2026 Los Angeles)
+- Proceedings published through IEEE Computer Society (2025 and 2026); IEEE conference template, compsoc format
+- Short papers up to 4 pages and long papers up to 8 pages, excluding references and appendices
+- Research, position, experience, preliminary work and extended work papers; extended versions of previously published
+  work are welcome
+- Double-blind review; artifact sharing strongly encouraged; at least one author must register and present
+- Held in the USA or Canada every year except 2020 to 2022, which were virtual
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-08
+  end: 2025-12-08
+  location: Honolulu, Hawaii, USA
+  url: https://cset25.isi.edu/
+  deadlines:
+  - kind: submission
+    date: 2025-09-17
+    label: Extended deadline
+  - kind: notification
+    date: 2025-10-15
+  - kind: camera_ready
+    date: 2025-11-15
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-07
+  location: Los Angeles, California, USA
+  url: https://cset26.isi.edu/
+  deadlines:
+  - kind: submission
+    date: 2026-09-17
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2026-10-22
+    label: Extended
+  - kind: camera_ready
+    date: 2026-11-15
+sources:
+- https://cset25.isi.edu/cfp.html
+- https://cset25.isi.edu/
+- https://cset25.isi.edu/program.html
+- https://cset26.isi.edu/
+- https://cset26.isi.edu/cfp.html
+- https://cset26.isi.edu/past.html
+- https://portal.core.edu.au/conf-ranks/?search=CSET&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) submission and notification deadlines for 2025 and 2026 not shown on the CFP pages
+- Whether the IEEE Computer Society proceedings appear in IEEE Xplore (CFP says only "published through IEEE Computer
+  Society")
+- CCF 2026 list could not be checked (site blocked by a captcha); CSET is not believed to be listed
+- Workshop fee and acceptance rate not stated on the official site
+last_verified: 2026-10-04

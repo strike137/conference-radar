@@ -1,0 +1,88 @@
+id: osdi
+name: OSDI
+full_name: USENIX Symposium on Operating Systems Design and Implementation
+type: conference
+tier: top
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: USENIX, in cooperation with ACM SIGOPS
+organizer_country: [usa]
+proceedings: USENIX
+indexing: [DBLP, Scopus]
+rank:
+  core: A*
+  ccf: A
+acceptance_rate: 20% (2026, 134/669)
+fee: 1000 USD early, 1200 USD standard, 625 USD student (2026)
+typical:
+  deadline_months: [12]
+  conference_months: [7]
+links:
+  website: https://www.usenix.org/conference/osdi26
+  dblp: https://dblp.org/db/conf/osdi/
+notes:
+- Sponsored by USENIX in cooperation with ACM SIGOPS; proceedings are open access on the USENIX site
+- Held in July in the USA (2021 edition was virtual); co-located with USENIX ATC from 2021 to 2025 (Seattle 2026, Baltimore 2027)
+- Double-blind review, 12 pages plus references (14 pages in the final version), abstract registration one week before the paper deadline
+- Since 2026 has an Operational Systems track, at most eight submissions per author and conditional accept instead of revise and resubmit
+- "Acceptance rate: 20% (2026, 134/669); 2026 was the first multi-track OSDI"
+- Widely regarded as one of the two top systems venues together with SOSP (ICORE2026 A*, CCF A)
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-15
+  location: Seattle, USA
+  url: https://www.usenix.org/conference/osdi26
+  deadlines:
+  - kind: abstract
+    date: 2025-12-04
+    time: "17:59"
+    tz: EST
+  - kind: submission
+    date: 2025-12-11
+    time: "17:59"
+    tz: EST
+  - kind: notification
+    date: 2026-03-26
+  - kind: camera_ready
+    date: 2026-06-09
+- year: 2027
+  start: 2027-07-07
+  end: 2027-07-09
+  location: Baltimore, USA
+  url: https://www.usenix.org/conference/osdi27
+  deadlines:
+  - kind: abstract
+    date: 2026-12-01
+    time: "17:59"
+    tz: EST
+  - kind: submission
+    date: 2026-12-08
+    time: "17:59"
+    tz: EST
+  - kind: notification
+    date: 2027-03-16
+  - kind: camera_ready
+    date: 2027-06-03
+sources:
+- https://www.usenix.org/conference/osdi27
+- https://www.usenix.org/conference/osdi27/call-for-papers
+- https://www.usenix.org/conference/osdi26
+- https://www.usenix.org/conference/osdi26/call-for-papers
+- https://www.usenix.org/conference/osdi26/registration-information
+- https://www.usenix.org/conference/osdi26/technical-sessions
+- https://www.usenix.org/sites/default/files/osdi26-message.pdf
+- https://www.usenix.org/conference/osdi25
+- https://www.usenix.org/conference/osdi24
+- https://www.usenix.org/conference/osdi23
+- https://www.usenix.org/conference/osdi22
+- https://www.usenix.org/conference/osdi21
+- https://portal.core.edu.au/conf-ranks/?search=OSDI&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/TCSE_SS_PDL/
+- https://github.com/ccfddl/ccf-deadlines (CCF list mirror)
+unverified:
+- OSDI 2027 call for papers is marked preliminary; registration fees for 2027 not announced yet
+- CCF rank (class A, software engineering / system software category) read from a CCF list mirror because the ccf.org.cn page renders by script; list year not shown there
+last_verified: 2026-10-04

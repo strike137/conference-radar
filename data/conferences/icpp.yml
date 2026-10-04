@@ -1,0 +1,68 @@
+id: icpp
+name: ICPP
+full_name: International Conference on Parallel Processing
+type: conference
+tier: major
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IACC (International Association for Computers and Communications), in cooperation with ACM SIGHPC
+organizer_country: [international]
+proceedings: ACM DL (ACM ICPS)
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: B
+fee: SGD 1,200 regular, SGD 600 student early bird; SGD 1,400 / 800 regular rate (2026)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8, 9]
+links:
+  website: https://icpp2026.github.io/
+  dblp: https://dblp.org/db/conf/icpp/index.html
+notes:
+- One of the oldest continuously running parallel computing conferences (55th edition in 2026); organized by IACC
+  with ACM SIGHPC in cooperation
+- Proceedings in the ACM ICPS series (ACM DL); ACM open access model may require an APC for authors outside ACM Open
+  institutions
+- CORE B and CCF B; well regarded mid-to-upper venue for parallel and distributed systems, HPC and accelerators
+- Seven tracks (algorithms, applications, architecture, multidisciplinary, performance, software, quantum computing);
+  double-anonymous review, 10 pages including references in ACM sigconf format
+- Abstract registration one week before the full paper deadline; one full registration required per accepted paper
+  and in-person presentation expected
+- Location rotates worldwide (2023 Salt Lake City, 2024 Gotland, 2025 San Diego, 2026 Singapore); workshops on the
+  first day
+editions:
+- year: 2026
+  start: 2026-09-28
+  end: 2026-10-01
+  location: Singapore (NTU@one-north)
+  url: https://icpp2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-24
+    tz: AoE
+  - kind: submission
+    date: 2026-05-01
+    tz: AoE
+  - kind: notification
+    date: 2026-06-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-30
+    tz: AoE
+sources:
+- https://icpp2026.github.io/
+- https://icpp2026.github.io/call-for-papers/
+- https://icpp2026.github.io/registration/
+- https://icpp2026.github.io/previous-icpps/
+- https://portal.core.edu.au/conf-ranks/?search=ICPP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- ICPP 2027 location, dates and deadlines (not announced on the 2026 site)
+- Acceptance rate (not stated on the official site)
+- Country of IACC, the organizing association (listed as international)
+- Scopus and EI indexing (not stated on the official site)
+last_verified: 2026-10-04

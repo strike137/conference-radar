@@ -1,0 +1,104 @@
+id: milcom
+name: IEEE MILCOM
+full_name: IEEE Military Communications Conference
+type: conference
+tier: minor
+areas: [communications, networking, security]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Communications Society
+organizer_country: [usa]
+proceedings: IEEE Xplore
+indexing: [DBLP]
+fee: 900 USD IEEE member author, 1100 USD non-member author, unclassified paper (2026)
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10]
+links:
+  website: https://milcom2026.ieee-milcom.org/
+  dblp: https://dblp.org/db/conf/milcom/
+notes:
+- Run by IEEE ComSoc; held in the USA (Boston 2023, Washington DC 2024, Los Angeles 2025, Washington DC
+  area 2026), every October
+- Unclassified technical papers are published in IEEE Xplore; separate restricted (CUI) and classified programs
+  are not public
+- Five unclassified tracks (waveforms and signal processing, networking, cybersecurity, network architecture,
+  AI/ML for communications) plus many co-located workshops with a later August deadline
+- Unclassified papers are 6 pages max, up to 2 extra pages at 100 USD each; submission via EDAS
+- Audience is largely US government, military and defense industry; also has a vendor exhibition
+- Not ranked in ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-06
+  end: 2025-10-10
+  location: Los Angeles, CA, USA
+  url: https://milcom2025.ieee-milcom.org/
+  deadlines:
+  - kind: submission
+    date: 2025-06-01
+    tz: AoE
+    label: Unclassified technical papers (extended, firm)
+  - kind: submission
+    date: 2025-06-20
+    tz: AoE
+    label: Restricted and classified papers (extended)
+  - kind: notification
+    date: 2025-08-08
+    label: Unclassified technical papers
+  - kind: submission
+    date: 2025-08-17
+    tz: AoE
+    label: Workshop papers (extended)
+  - kind: camera_ready
+    date: 2025-08-29
+    tz: AoE
+    label: Unclassified technical papers
+- year: 2026
+  start: 2026-10-12
+  end: 2026-10-16
+  location: Rockville (Washington DC area), MD, USA
+  url: https://milcom2026.ieee-milcom.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    tz: AoE
+    label: Unclassified technical papers (firm, extended from 2026-05-15)
+  - kind: submission
+    date: 2026-06-19
+    tz: AoE
+    label: Restricted and classified papers (extended from 2026-06-05)
+  - kind: notification
+    date: 2026-08-09
+    label: Unclassified technical papers
+  - kind: submission
+    date: 2026-08-16
+    tz: AoE
+    label: Workshop papers
+  - kind: camera_ready
+    date: 2026-09-11
+    label: Unclassified technical papers (extended from 2026-08-30)
+  - kind: notification
+    date: 2026-09-13
+    label: Workshop papers
+  - kind: camera_ready
+    date: 2026-09-20
+    label: Workshop papers
+sources:
+- https://milcom2026.ieee-milcom.org/
+- https://milcom2026.ieee-milcom.org/authors
+- https://milcom2026.ieee-milcom.org/call-for-papers/call-unclassified-technical-papers
+- https://milcom2026.ieee-milcom.org/call-workshop-papers
+- https://milcom2026.ieee-milcom.org/pages/submission-guidelines-0
+- https://milcom2026.ieee-milcom.org/registration
+- https://milcom2026.ieee-milcom.org/venue-hotel-travel
+- https://milcom2026.ieee-milcom.org/about-us
+- https://milcom2025.ieee-milcom.org/
+- https://milcom2025.ieee-milcom.org/authors/call-unclassified-technical-papers
+- https://portal.core.edu.au/conf-ranks/?search=MILCOM&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-04
+unverified:
+- MILCOM 2027 location and dates (not announced yet)
+- Acceptance rate (not published on the official site)
+- CCF 2026 listing not checked directly (ccf.org.cn behind a captcha); believed not listed
+- Indexing beyond DBLP not confirmed

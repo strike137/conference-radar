@@ -1,0 +1,106 @@
+id: ieee-mdm
+name: IEEE MDM
+full_name: IEEE International Conference on Mobile Data Management
+type: conference
+tier: major
+areas: [data, systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+fee: 800 EUR IEEE member, 960 EUR non-member author registration (2026)
+typical:
+  deadline_months: [1, 2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://mdm2027.github.io/
+  dblp: https://dblp.org/db/conf/mdm/index.html
+notes:
+- IEEE conference series on data management for mobile, ubiquitous and pervasive computing, running since 1999; 28th
+  edition in 2027
+- Proceedings published by IEEE via Conference Publishing Services and included in IEEE Xplore
+- 'Rotates worldwide: Brussels (2024), Irvine, USA (2025), Athens, Greece (2026), Hamilton, New Zealand (2027)'
+- Single-blind review; regular papers 10 pages and short papers 6 pages, references not counted
+- Research and industry tracks plus workshops, demos and posters, doctoral forum, PhD dissertation showcase and
+  advanced seminars
+- Research deadline has been extended several times in recent years (2026 moved from January 30 to March 6)
+- One author registration at the full rate is required per paper, also for students
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-02
+  location: Athens, Greece
+  url: https://mdm-2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-01-16
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-02-20
+    time: "23:59"
+    tz: AoE
+    label: Industry track papers (extended from 2026-01-30)
+  - kind: submission
+    date: 2026-03-06
+    time: "23:59"
+    tz: AoE
+    label: Research papers (extended from 2026-01-30, then 2026-02-20)
+  - kind: notification
+    date: 2026-04-17
+    tz: AoE
+    label: Research papers (moved from 2026-03-20)
+  - kind: submission
+    date: 2026-04-26
+    label: Demo and poster papers (extended from 2026-04-04)
+  - kind: camera_ready
+    date: 2026-05-17
+    time: "23:59"
+    tz: PDT
+    label: Camera-ready and copyright form
+- year: 2027
+  start: 2027-06-28
+  end: 2027-07-01
+  location: Hamilton, New Zealand
+  url: https://mdm2027.github.io/
+  deadlines:
+  - kind: submission
+    date: 2027-01-25
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2027-03-25
+    tz: AoE
+    label: Research papers
+  - kind: camera_ready
+    date: 2027-04-30
+    tz: AoE
+    label: Research papers
+sources:
+- https://mdm2027.github.io/
+- https://mdm2027.github.io/callsResearch.html
+- https://mdm2027.github.io/prev.html
+- https://mdm-2026.github.io/
+- https://mdm-2026.github.io/callsResearch.html
+- https://mdm-2026.github.io/callsIndustry.html
+- https://mdm-2026.github.io/callsWorkshop.html
+- https://mdm-2026.github.io/callsDemo.html
+- https://mdm-2026.github.io/camera.html
+- https://mdm-2026.github.io/registration.html
+- https://mdm2025.github.io/
+- https://mdm2024.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=MDM&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- CCF rank checked via the CCFrank4dblp mirror (full name matched), not on ccf.org.cn directly (captcha)
+- Acceptance rate not stated on the official sites
+- MDM 2027 deadlines for workshops, industry, demo and doctoral tracks not announced yet
+- The 2026 research call listed camera-ready as April 30 while the camera-ready page gave May 17; May 17 is recorded
+last_verified: 2026-10-04

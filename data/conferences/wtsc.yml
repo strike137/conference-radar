@@ -1,0 +1,76 @@
+id: wtsc
+name: WTSC
+full_name: Workshop on Trusted Smart Contracts
+type: workshop
+tier: minor
+areas: [security, crypto, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Program chairs Andrea Bracciali (University of Turin), Massimiliano Sala (University of Trento) and Daniele
+  Friolo (Sapienza University of Rome), in association with FC (IFCA)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+indexing: [DBLP]
+typical:
+  deadline_months: [1, 2]
+  conference_months: [3, 4]
+links:
+  website: https://fc26.ifca.ai/wtsc/
+notes:
+- Co-located workshop of Financial Cryptography and Data Security (FC), held since FC 2017 in Malta; 2026 was the 10th edition
+- Topics are smart contract programming, verification, security and trust, plus blockchain theory and applications
+- Two submission rounds (early deadline in January, late deadline in early February); abstract registration requested
+  before each
+- Regular papers up to 15 pages in LNCS format excluding references and appendices, anonymous submission
+- Revised papers appear in the FC workshops post-proceedings volume of Springer LNCS (2025 -> LNCS 15753, shared with
+  CAAW)
+- At least one registration at the FC general or academic rate is required per accepted paper
+- Held at the FC venue, which rotates worldwide (2025 Miyakojima, Japan; 2026 St. Kitts)
+editions:
+- year: 2025
+  start: 2025-04-18
+  end: 2025-04-18
+  location: Miyakojima, Japan
+  url: https://fc25.ifca.ai/wtsc/
+- year: 2026
+  start: 2026-03-06
+  end: 2026-03-06
+  location: St. Kitts, Saint Kitts and Nevis
+  url: https://fc26.ifca.ai/wtsc/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-07
+    label: Early abstract registration
+  - kind: submission
+    date: 2026-01-09
+    label: Early paper submission
+  - kind: notification
+    date: 2026-01-26
+    label: Early notification
+  - kind: abstract
+    date: 2026-01-30
+    label: Late abstract registration
+  - kind: submission
+    date: 2026-02-02
+    tz: AoE
+    label: Late paper submission
+  - kind: notification
+    date: 2026-02-18
+    label: Late notification (moved from 13 Feb)
+sources:
+- https://fc26.ifca.ai/wtsc/
+- https://fc26.ifca.ai/wtsc/cfp.html
+- https://fc26.ifca.ai/wtsc/program.html
+- https://fc26.ifca.ai/workshops.html
+- https://fc25.ifca.ai/wtsc/
+- https://link.springer.com/book/10.1007/978-3-032-00492-5
+- https://fc27.ifca.ai/
+- https://portal.core.edu.au/conf-ranks/?search=WTSC&by=all&source=ICORE2026
+last_verified: 2026-10-04
+unverified:
+- WTSC 2027 not yet announced; FC 2027 (Barbados, Feb 2027) has not published its workshop list
+- The 2026 CFP gives the final pre-proceedings date as February 26, 2025 (year typo), so it is left out
+- WTSC 2026 post-proceedings volume not yet found
+- Not listed in ICORE2026 (no result for WTSC) and not found in the CCF 2026 list

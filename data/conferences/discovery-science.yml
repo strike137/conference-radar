@@ -1,0 +1,68 @@
+id: discovery-science
+name: DS
+full_name: International Conference on Discovery Science
+type: conference
+tier: major
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: Discovery Science Steering Committee (2025 local organization by Jozef Stefan Institute)
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  core: B
+fee: 700 EUR regular, 500 EUR student (2025, early-bird, covers all AI for Science events)
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10]
+links:
+  website: https://ds2025.ijs.si/
+notes:
+- Long-running machine learning and data mining venue focused on AI for scientific discovery; 28th edition in 2025
+- Held in Europe in recent editions (2022 Montpellier, 2023 Porto, 2024 Pisa, 2025 Ljubljana)
+- Springer LNCS proceedings; 15 pages in LNCS format, single-blind review via Microsoft CMT
+- Selected and extended papers can go to a special issue of the Springer Machine Learning journal
+- 2025 edition was part of the AI for Science umbrella event with co-located one-day workshops
+- ICORE2026 rank B
+editions:
+- year: 2025
+  start: 2025-09-23
+  end: 2025-09-25
+  location: Ljubljana, Slovenia
+  url: https://ds2025.ijs.si/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-24
+    time: '23:59'
+    tz: AoE
+    label: Extended from 2025-05-17
+  - kind: submission
+    date: 2025-05-31
+    time: '23:59'
+    tz: AoE
+    label: Full paper (extended from 2025-05-24)
+  - kind: notification
+    date: 2025-07-07
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-18
+    time: '23:59'
+    tz: AoE
+    label: Camera-ready and author registration
+sources:
+- https://ds2025.ijs.si/
+- https://ds2025.ijs.si/calls/
+- https://ds2025.ijs.si/registration/
+- https://ds2025.ijs.si/organization/
+- https://ds2025.ijs.si/specialIssue/
+- https://link.springer.com/book/10.1007/978-3-032-05461-6
+- https://link.springer.com/conference/dis
+- https://portal.core.edu.au/conf-ranks/?search=Discovery+Science&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- DS 2026 dates, location and deadlines (no official 2026 site found)
+- CCF 2026 rank not checked (CCF list pages could not be loaded)
+- Acceptance rate for 2025 (not stated on the official site)
+last_verified: 2026-10-04

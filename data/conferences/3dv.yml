@@ -1,0 +1,113 @@
+id: 3dv
+name: 3DV
+full_name: International Conference on 3D Vision
+type: conference
+tier: major
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: 3DV Steering Committee; technically co-sponsored by IEEE Computer Society (2026)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, DBLP]
+rank:
+  core: Unranked
+  ccf: C
+fee: 1000 CAD regular, 750 CAD student (2026, early until 2026-03-01, plus 5% GST); 1300 CAD / 850 CAD late
+typical:
+  deadline_months: [8]
+  conference_months: [3, 4]
+links:
+  website: https://3dvconf.github.io/
+  dblp: https://dblp.org/db/conf/3dim/
+notes:
+- Main venue for 3D computer vision and graphics (reconstruction, SLAM, geometry, rendering); successor of 3DIM and 3DIMPVT, named 3DV since 2013
+- Run by a steering committee, location rotates worldwide (2022 Prague, 2024 Davos, 2025 Singapore, 2026 Vancouver, 2027 Thessaloniki)
+- No 2023 edition; the conference moved from autumn to spring, so 3DV 2023 became 3DV 2024
+- Proceedings in IEEE Xplore; papers limited to 8 pages plus references, double-blind review on OpenReview
+- In person only; every accepted paper needs an on-site presenter or it is removed from the proceedings (2026)
+- Not listed in ICORE2026; CCF C (computer graphics and multimedia)
+- Nectar track presents 3D papers already accepted at top venues (CVPR, ICCV, ECCV, NeurIPS, SIGGRAPH, ...)
+editions:
+- year: 2026
+  start: 2026-03-20
+  end: 2026-03-23
+  location: Vancouver, Canada
+  url: https://3dvconf.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-08-18
+    time: '23:59'
+    tz: PDT
+  - kind: other
+    date: 2025-08-21
+    time: '23:59'
+    tz: PDT
+    label: Supplementary material
+  - kind: notification
+    date: 2025-11-05
+    time: '23:59'
+    tz: PST
+  - kind: other
+    date: 2026-01-20
+    label: Author registration deadline
+  - kind: other
+    date: 2026-02-15
+    time: '23:59'
+    tz: PST
+    label: Nectar track submissions
+- year: 2027
+  start: 2027-04-06
+  end: 2027-04-09
+  location: Thessaloniki, Greece
+  url: https://3dvconf.github.io/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-28
+    time: '23:59'
+    tz: AoE
+    label: Abstract registration
+  - kind: submission
+    date: 2026-08-28
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-09-02
+    time: '23:59'
+    tz: AoE
+    label: Supplementary material
+  - kind: notification
+    date: 2026-10-27
+    time: '11:00'
+    tz: PDT
+    label: Preliminary notification (accept, reject or rebuttal request)
+  - kind: notification
+    date: 2026-12-02
+    time: '11:00'
+    tz: PST
+    label: Final notification (page says 11:00 am Pacific Time)
+  - kind: other
+    date: 2027-02-15
+    label: Nectar track and Exploration Edge track submissions
+sources:
+- https://3dvconf.github.io/2027/
+- https://3dvconf.github.io/2027/dates
+- https://3dvconf.github.io/2027/call-for-papers
+- https://3dvconf.github.io/2027/author-guidelines
+- https://3dvconf.github.io/2027/call-for-nectar-track
+- https://3dvconf.github.io/2026/
+- https://3dvconf.github.io/2026/dates
+- https://3dvconf.github.io/2026/registration/
+- https://3dvconf.github.io/2026/accepted-papers/
+- https://3dvconf.github.io/2025/
+- https://3dvconf.github.io/2024/
+- https://3dvconf.github.io/2022/
+- https://portal.core.edu.au/conf-ranks/?search=3DV&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- Acceptance rate not stated on the official site
+- 3DV 2027 camera-ready and registration deadlines not announced yet
+last_verified: 2026-10-04

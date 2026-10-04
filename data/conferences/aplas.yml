@@ -1,0 +1,89 @@
+id: aplas
+name: APLAS
+full_name: Asian Symposium on Programming Languages and Systems
+type: conference
+tier: major
+areas: [software]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: AAFS (Asian Association for Foundation of Software)
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 46% (2025, 13/28); 49% (2024, 18/37)
+fee: HKD 4,300 non-student early bird, HKD 2,350 student early bird (2026, covers APLAS and ATVA, workshops and banquet)
+typical:
+  deadline_months: [6]
+  conference_months: [10, 11, 12]
+links:
+  website: https://conf.researchr.org/series/aplas
+  dblp: https://dblp.org/db/conf/aplas/
+notes:
+- Main Asian programming languages venue, organized by AAFS (Asian Association for Foundation of Software)
+- Proceedings in Springer LNCS; 17 pages plus bibliography in LNCS format
+- Light double-blind review with a rebuttal phase; accepted papers must be presented at the conference
+- 'Recent hosts: Taipei (2023), Kyoto (2024), Bengaluru (2025), Hong Kong (2026)'
+- Co-located with ATVA in 2025 and 2026; also has an SRC and poster session and the NIER workshop
+- Small, around 30 to 40 research paper submissions per year (28 in 2025, 37 in 2024)
+- CORE B, CCF C
+editions:
+- year: 2025
+  start: 2025-10-27
+  end: 2025-10-30
+  location: Bengaluru, India
+  url: https://conf.researchr.org/home/aplas-2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-07
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2025-07-18
+    label: Research papers
+  - kind: camera_ready
+    date: 2025-09-01
+    tz: AoE
+    label: Research papers
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-04
+  location: Hong Kong, China
+  url: https://conf.researchr.org/home/aplas-atva-2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-22
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2026-08-04
+    label: Research papers
+  - kind: camera_ready
+    date: 2026-09-04
+    tz: AoE
+    label: Research papers
+  - kind: other
+    date: 2026-11-07
+    label: SRC and posters, poster and revised extended abstract submission
+sources:
+- https://conf.researchr.org/series/aplas
+- https://conf.researchr.org/home/aplas-atva-2026
+- https://conf.researchr.org/track/aplas-atva-2026/aplas-2026
+- https://conf.researchr.org/dates/aplas-atva-2026
+- https://conf.researchr.org/attending/aplas-atva-2026/registration-for-aplas-and-atva-2025
+- https://conf.researchr.org/home/aplas-2025
+- https://conf.researchr.org/track/aplas-2025/aplas-2025-aplas-2025
+- https://conf.researchr.org/dates/aplas-2025
+- https://link.springer.com/conference/aplas
+- https://link.springer.com/book/10.1007/978-981-95-3585-9
+- https://link.springer.com/book/10.1007/978-981-97-8943-6
+- https://portal.core.edu.au/conf-ranks/?search=APLAS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- APLAS 2027 not announced yet
+- Indexing (DBLP, Scopus) inferred from the LNCS series, not stated on the official site
+last_verified: 2026-10-04

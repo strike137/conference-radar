@@ -1,0 +1,54 @@
+id: cbt
+name: CBT
+full_name: International Workshop on Cryptocurrencies and Blockchain Technology
+type: workshop
+tier: minor
+areas: [security, crypto]
+region: europe
+language: english
+frequency: annual
+organizer: Program chairs from Universitat Autonoma de Barcelona and Universitat Oberta de Catalunya (J. Herrera-Joancomarti,
+  C. Perez-Sola, V. Garcia-Font), co-located with ESORICS
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+acceptance_rate: 44% (2025, 8/18)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://cbtworkshop.org/
+notes:
+- Co-located with ESORICS every year since 2017; 10th edition in 2026 (Rome)
+- Springer LNCS post-proceedings (revised selected papers), in the ESORICS workshops volumes together with DPM and CyberICPS
+- Full papers up to 16 pages, short papers up to 8 pages in LNCS format; double-blind review
+- Submitted through the ESORICS EasyChair site, selecting the CBT track
+- One-day workshop; at least one author must hold a full (non-student) registration and present
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-17
+  end: 2026-09-17
+  location: Rome, Italy
+  url: https://cbtworkshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    tz: AoE
+    label: Paper submission (extended from 2026-06-17)
+  - kind: notification
+    date: 2026-07-22
+  - kind: camera_ready
+    date: 2026-08-24
+sources:
+- https://cbtworkshop.org/
+- https://cbtworkshop.org/CFP-CBT2026.txt
+- https://link.springer.com/book/9783032160881
+- https://link.springer.com/book/10.1007/978-3-031-82349-7
+- https://portal.core.edu.au/conf-ranks/?search=CBT&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CBT 2027 dates and deadlines (not announced yet)
+- CCF listing checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- Registration fee not stated on the official pages (registration is through ESORICS)
+last_verified: 2026-10-04

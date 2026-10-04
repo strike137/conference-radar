@@ -1,0 +1,91 @@
+id: uasc
+name: uASC
+full_name: Microarchitecture Security Conference
+type: conference
+tier: minor
+areas: [security, systems]
+region: europe
+language: english
+frequency: annual
+organizer: uASC Steering Committee (mostly European universities)
+organizer_country: [europe]
+proceedings: Proceedings of the Microarchitecture Security Conference (Ruhr University Bochum, diamond open access)
+archival: true
+typical:
+  deadline_months: [7, 10]
+  conference_months: [2]
+links:
+  website: https://uasc.cc/
+notes:
+- Young venue dedicated to microarchitecture security (side channels, transient execution, hardware attacks and defenses); first edition 2025
+- Run by a steering committee of mostly European academics (TU Graz, KU Leuven, ETH Zurich, RUB, VU Amsterdam, ...) plus Google
+- Held in Europe so far (2025 Bochum, 2026 Leuven, 2027 Amsterdam)
+- Proceedings published by Ruhr University Bochum as diamond open access, free at the start of the conference
+- Two submission cycles per edition; cycle 2 also accepts posters with an optional two-page abstract
+- Double-blind review, USENIX Security template, up to 13 pages excluding bibliography and appendices
+- At least one author must present in person for the paper to be included in the proceedings
+- uASC 2026 was fully booked with more than 150 participants
+- Not listed in ICORE2026 or the CCF 2026 list, so no rank is given
+editions:
+- year: 2026
+  start: 2026-02-03
+  end: 2026-02-03
+  location: Leuven, Belgium
+  url: https://uasc.cc/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-07-15
+    label: Cycle 1 (papers only)
+  - kind: notification
+    date: 2025-09-01
+    label: Cycle 1
+  - kind: camera_ready
+    date: 2025-09-15
+    label: Cycle 1 shepherding and camera-ready
+  - kind: submission
+    date: 2025-11-04
+    label: Cycle 2 (papers, posters, talks)
+  - kind: notification
+    date: 2025-12-15
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2026-01-09
+    label: Cycle 2 shepherding and camera-ready
+- year: 2027
+  start: 2027-02-03
+  end: 2027-02-04
+  location: Amsterdam, Netherlands
+  url: https://uasc.cc/
+  deadlines:
+  - kind: submission
+    date: 2026-08-04
+    tz: AoE
+    label: Cycle 1, papers only (extended from 2026-07-28)
+  - kind: notification
+    date: 2026-09-15
+    tz: AoE
+    label: Cycle 1
+  - kind: submission
+    date: 2026-10-27
+    tz: AoE
+    label: Cycle 2 (papers, posters)
+  - kind: notification
+    date: 2026-12-07
+    tz: AoE
+    label: Cycle 2
+sources:
+- https://uasc.cc/
+- https://uasc.cc/cfp.html
+- https://uasc.cc/venue.html
+- https://uasc.cc/committee.html
+- https://uasc.cc/imprint.html
+- https://uasc.cc/2026/
+- https://uasc.cc/2026/cfp.html
+- https://uasc.cc/2025/
+- https://ojs.ub.rub.de/index.php/uASC/issue/archive
+- https://portal.core.edu.au/conf-ranks/?search=uASC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- uASC 2027 camera-ready deadlines and exact venue in Amsterdam (not announced yet)
+- Registration fee (not stated on the official pages)
+- Indexing in DBLP or Scopus not checked
+last_verified: 2026-10-04

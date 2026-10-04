@@ -1,0 +1,105 @@
+id: icmi
+name: ICMI
+full_name: ACM International Conference on Multimodal Interaction
+type: conference
+tier: major
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+fee: 720 EUR ACM member, 800 EUR non-member, 400 EUR ACM student member (2026, early bird, full registration)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [10, 11]
+links:
+  website: https://icmi.acm.org/2026/
+  dblp: https://dblp.org/db/conf/icmi/
+notes:
+- ACM conference on multimodal AI and social interaction (formerly International Conference on Multimodal Interfaces); 28th edition in 2026
+- Rated B in ICORE2026 and C in the CCF list (human-computer interaction)
+- Main proceedings published by ACM in the ACM DL; workshop papers and late-breaking results go into separate adjunct proceedings
+- Long papers up to 8 pages, short papers up to 4 pages, ACM double-column format, references not counted
+- Double-blind review with a rebuttal period; abstract registration about ten days before the paper deadline
+- ACM moved to full open access in 2026, so an article processing charge applies unless the institution is in ACM Open (250 USD members, 350 USD non-members subsidized rate for 2026)
+- One full non-student registration covers up to two papers, a student registration covers one
+- Rotates worldwide (Bengaluru 2022, Paris 2023, San Jose Costa Rica 2024, Canberra 2025, Naples 2026)
+- Workshops, tutorials, grand challenges and the doctoral consortium are held on the days before and after the main conference
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-17
+  location: Canberra, Australia
+  url: https://icmi.acm.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-04-25
+  - kind: submission
+    date: 2025-05-02
+  - kind: other
+    date: 2025-06-07
+    label: Rebuttal period starts
+  - kind: notification
+    date: 2025-07-07
+  - kind: camera_ready
+    date: 2025-08-01
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-09
+  location: Naples, Italy
+  url: https://icmi.acm.org/2026/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-04-13
+    time: "23:59"
+    tz: PDT
+  - kind: submission
+    date: 2026-04-23
+    time: "23:59"
+    tz: AoE
+    label: Long and short papers (extended)
+  - kind: submission
+    date: 2026-05-08
+    time: "23:59"
+    tz: PDT
+    label: Blue Sky papers
+  - kind: other
+    date: 2026-06-08
+    label: Rebuttal period starts
+  - kind: submission
+    date: 2026-06-21
+    time: "23:59"
+    tz: PDT
+    label: Late-breaking results and demos
+  - kind: notification
+    date: 2026-07-01
+  - kind: camera_ready
+    date: 2026-07-23
+sources:
+- https://icmi.acm.org/2026/
+- https://icmi.acm.org/2026/important-dates/
+- https://icmi.acm.org/2026/call-for-papers/
+- https://icmi.acm.org/2026/guidelines/
+- https://icmi.acm.org/2026/registration/
+- https://icmi.acm.org/2025/
+- https://icmi.acm.org/2025/important-dates/
+- https://icmi.acm.org/2024/
+- https://icmi.acm.org/2023/
+- https://icmi.acm.org/2022/
+- https://portal.core.edu.au/conf-ranks/?search=ICMI&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- The 2026 important dates page says all deadlines are 23:59 PDT but marks the extended paper deadline as AoE; AoE kept for the paper deadline
+- 2025 deadline times not stated on the 2025 important dates page
+- ICMI 2027 not announced yet (icmi.acm.org/2027/ not found)
+- Acceptance rate not stated on the official site
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
+- SIGCHI as sponsoring SIG taken from the sponsor logo on the 2026 site
+last_verified: 2026-10-04

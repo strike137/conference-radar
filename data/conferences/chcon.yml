@@ -1,0 +1,74 @@
+id: chcon
+name: CHCon
+full_name: CHCon (Christchurch Hacker Conference)
+type: industry
+tier: minor
+areas: [security]
+region: oceania
+language: english
+frequency: annual
+organizer: Swamp Chicken Cyber Industries Ltd.
+organizer_country: [new-zealand]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [8, 9]
+  conference_months: [10, 11]
+links:
+  website: https://2026.chcon.nz/
+notes:
+- Hacker and security practitioner conference in Christchurch, New Zealand, held at the Majestic on Durham
+- One training day followed by two conference days
+- Talks and trainings selected through a Call for Papers on pretalx; talk slots of 25, 45 or 60 minutes with a
+  preference for 25 minutes
+- No papers or proceedings; highlights of past editions are posted on the CHCon YouTube channel
+- 2026 edition marks its 10th birthday according to the Call for Papers
+editions:
+- year: 2025
+  start: 2025-10-29
+  end: 2025-10-31
+  location: Christchurch, New Zealand
+  url: https://2025.chcon.nz/
+  deadlines:
+  - kind: other
+    date: 2025-07-01
+    label: Call for Training closes
+  - kind: submission
+    date: 2025-08-15
+    label: Call for Presentations closes
+  - kind: other
+    date: 2025-09-24
+    label: Conference schedule released
+- year: 2026
+  start: 2026-11-18
+  end: 2026-11-20
+  location: Christchurch, New Zealand
+  url: https://2026.chcon.nz/
+  deadlines:
+  - kind: other
+    date: 2026-07-31
+    label: Call for Training closes
+  - kind: other
+    date: 2026-08-08
+    label: Training selections announced
+  - kind: submission
+    date: 2026-09-15
+    time: "23:30"
+    tz: UTC+12
+    label: Call for Talks closes (Pacific/Auckland)
+  - kind: notification
+    date: 2026-09-30
+    label: Talk selection emails sent
+sources:
+- https://2026.chcon.nz/
+- https://pretalx.com/chcon-2026/cfp
+- https://2025.chcon.nz/
+- https://2025.chcon.nz/about/
+- https://2025.chcon.nz/call-for/
+- https://portal.core.edu.au/conf-ranks/?search=CHCon&by=all&source=ICORE2026
+unverified:
+- Ticket prices (Humanitix ticket page not readable)
+- Year of the first edition
+- Whether a 2027 edition will be held
+- Not listed on the CORE portal (ICORE2026 search for CHCon returns no results)
+last_verified: 2026-10-04

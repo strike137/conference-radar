@@ -1,0 +1,130 @@
+id: sensys
+name: SenSys
+full_name: ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems
+type: conference
+tier: top
+areas: [networking, systems, ai, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM and IEEE, co-located with CPS-IoT Week
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [DBLP]
+rank:
+  core: Unranked
+  ccf: B
+typical:
+  deadline_months: [6, 11]
+  conference_months: [5]
+links:
+  website: https://sensys.acm.org/2027/
+  dblp: https://dblp.org/db/conf/sensys/
+notes:
+- Formerly the ACM Conference on Embedded Networked Sensor Systems (last edition under that name in 2025);
+  from 2026 SenSys, IPSN and IoTDI merged into one flagship conference jointly sponsored by ACM and IEEE
+- Held in May as part of CPS-IoT Week since 2025 (in November before that); location rotates worldwide
+- Regular papers in the ACM DL (open access, APC unless covered by ACM Open); demo and poster abstracts in IEEE Xplore
+- Two submission deadlines per edition (around June and November, AoE), double-blind; full papers 12 pages, short
+  papers 6 pages for visions, experiences, tools, datasets and benchmarks
+- At least one author must present in person and one full (non-student) registration per paper is required
+- "ICORE2026 lists the old SenSys entry as 'unranked: merged' (it was A* in CORE2023); the CCF list (B, networking)
+  still uses the old full name"
+editions:
+- year: 2026
+  start: 2026-05-11
+  end: 2026-05-14
+  location: Saint-Malo, France
+  url: https://sensys.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-01
+    time: '23:59'
+    tz: AoE
+    label: First deadline (extended from 2025-06-24)
+  - kind: submission
+    date: 2025-07-01
+    time: '23:59'
+    tz: AoE
+    label: First deadline
+  - kind: notification
+    date: 2025-09-21
+    label: First deadline
+  - kind: abstract
+    date: 2025-11-06
+    time: '23:59'
+    tz: AoE
+    label: Second deadline
+  - kind: submission
+    date: 2025-11-13
+    time: '23:59'
+    tz: AoE
+    label: Second deadline
+  - kind: notification
+    date: 2026-01-29
+    label: Second deadline
+  - kind: other
+    date: 2026-02-20
+    time: '23:59'
+    tz: AoE
+    label: Demos and posters submission (extended from 2026-02-13)
+  - kind: camera_ready
+    date: 2026-03-31
+    time: '23:59'
+    tz: AoE
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-20
+  location: Boulder, CO, USA
+  url: https://sensys.acm.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-29
+    time: '23:59'
+    tz: AoE
+    label: First deadline
+  - kind: submission
+    date: 2026-06-05
+    time: '23:59'
+    tz: AoE
+    label: First deadline
+  - kind: other
+    date: 2026-07-17
+    label: First deadline early notification
+  - kind: notification
+    date: 2026-08-31
+    label: First deadline
+  - kind: abstract
+    date: 2026-10-29
+    time: '23:59'
+    tz: AoE
+    label: Second deadline
+  - kind: submission
+    date: 2026-11-05
+    time: '23:59'
+    tz: AoE
+    label: Second deadline
+  - kind: other
+    date: 2026-12-17
+    label: Second deadline early notification
+  - kind: notification
+    date: 2027-01-28
+    label: Second deadline
+sources:
+- https://sensys.acm.org/2027/
+- https://sensys.acm.org/2027/cfp.html
+- https://sensys.acm.org/2026/
+- https://sensys.acm.org/2026/cfp.html
+- https://sensys.acm.org/2026/organization.html
+- https://sensys.acm.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=SenSys&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl and CCFrank4dblp mirrors, not on ccf.org.cn directly (captcha)
+- ICORE2026 has no entry under the new full name; rank.core set to Unranked because the portal label is 'unranked
+  merged'
+- SenSys 2027 demo, poster and camera-ready deadlines (TBD on the official site)
+- Acceptance rate and registration fees for 2026 and 2027
+- 2027 first deadline early notification is listed as "Wednesday, July 17, 2026" but that date is a Friday
+last_verified: 2026-10-04

@@ -1,0 +1,75 @@
+id: icprai
+name: ICPRAI
+full_name: International Conference on Pattern Recognition and Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: biennial
+organizer: CENPARMI (Centre for Pattern Recognition and Machine Intelligence), Concordia University
+organizer_country: [canada]
+proceedings: Springer LNCS
+archival: true
+indexing: [Scopus]
+fee: 500 USD general, 400 USD IAPR or CENPARMI member, 200 USD student (2026, early onsite)
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://users.encs.concordia.ca/~icprai26/
+notes:
+- Run by CENPARMI at Concordia University (Montreal) with general chair Ching Y. Suen; biennial, held in even years
+- Recent hosts are Zhongshan (2020), Paris (2022), Jeju (2024) and Montreal (2026)
+- Springer LNCS proceedings; papers limited to 10 pages in LNCS format, extra pages charged 100 USD each
+- Best papers invited to a special issue of the International Journal of Pattern Recognition and Artificial Intelligence
+- Small venue; the 2026 program had about 70 technical papers plus 8 competition papers
+- Not listed in ICORE2026
+- Remote registration is available, but each main paper needs one general (non-student, non-remote) registration
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-18
+  location: Montreal, Canada
+  url: https://users.encs.concordia.ca/~icprai26/
+  deadlines:
+  - kind: other
+    date: 2025-10-01
+    tz: EDT
+    label: Special session proposals
+  - kind: submission
+    date: 2026-02-08
+    tz: EDT
+    label: Paper submission (extended)
+  - kind: other
+    date: 2026-02-15
+    tz: EDT
+    label: Competition deadline
+  - kind: notification
+    date: 2026-03-14
+    tz: EDT
+  - kind: camera_ready
+    date: 2026-03-20
+    tz: EDT
+  - kind: other
+    date: 2026-04-05
+    tz: EDT
+    label: Registration for publication
+sources:
+- https://users.encs.concordia.ca/~icprai26/
+- https://users.encs.concordia.ca/~icprai26/icprai2026CFP.html
+- https://users.encs.concordia.ca/~icprai26/icprai2026Dates.html
+- https://users.encs.concordia.ca/~icprai26/icprai2026Registration.html
+- https://users.encs.concordia.ca/~icprai26/icprai2026CameraReady.html
+- https://users.encs.concordia.ca/~icprai26/icprai2026Organizers.html
+- https://users.encs.concordia.ca/~icprai26/icprai2026Program.html
+- https://link.springer.com/conference/icprai
+- https://portal.core.edu.au/conf-ranks/?search=ICPRAI&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- Original 2026 submission deadline before the extension to 2026-02-08
+- Dates page labels times as Eastern Standard Time (GMT-04:00), which is actually EDT; EDT used here
+- ICPRAI 2026 Springer volumes not yet listed on the Springer series page
+- ICPRAI 2028 host city and dates (not announced yet)
+- CCF status checked via the ccfddl mirror (no ICPRAI entry), not on ccf.org.cn directly (captcha)
+last_verified: 2026-10-04

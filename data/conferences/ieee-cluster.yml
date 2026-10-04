@@ -1,0 +1,84 @@
+id: ieee-cluster
+name: IEEE CLUSTER
+full_name: IEEE International Conference on Cluster Computing
+type: conference
+tier: major
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society (TCHPC), in cooperation with ACM SIGHPC
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: C
+  ccf: B
+fee: USD 650 IEEE member, 780 non-member, 455 IEEE student member (2026, early registration)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9]
+links:
+  website: https://clustercomp.org/2026/
+  dblp: https://dblp.org/db/conf/cluster/index.html
+notes:
+- IEEE Computer Society conference series on cluster computing and HPC systems, sponsored by TCHPC; 28th edition in
+  2026
+- Proceedings in IEEE Xplore; accepted papers must be presented in person to be included
+- CCF B but only CORE C in ICORE2026; well known mid-level HPC systems venue
+- Four topic areas (applications and algorithms; architecture, networks and management; programming and system
+  software; data, storage and visualization); dual-anonymous review, 10 pages excluding references
+- Abstract and full paper deadlines, author rebuttal period, plus a separate poster track and co-located workshops
+- Location rotates worldwide (2021 Portland, 2022 Heidelberg, 2023 Santa Fe, 2024 Kobe, 2025 Edinburgh, 2026
+  Alexandria, Virginia)
+editions:
+- year: 2025
+  start: 2025-09-02
+  end: 2025-09-05
+  location: Edinburgh, United Kingdom
+  url: https://clustercomp.org/2025/
+  deadlines:
+  - kind: notification
+    date: 2025-07-04
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-25
+  location: Alexandria, Virginia, USA
+  url: https://clustercomp.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-07
+    tz: AoE
+    label: Extended from 2026-04-23
+  - kind: submission
+    date: 2026-05-07
+    tz: AoE
+    label: Full papers (extended from 2026-04-30)
+  - kind: notification
+    date: 2026-07-05
+    tz: AoE
+  - kind: other
+    date: 2026-07-20
+    tz: AoE
+    label: Poster submission (extended from 2026-07-10)
+  - kind: camera_ready
+    date: 2026-08-06
+    tz: AoE
+sources:
+- https://clustercomp.org/2026/
+- https://clustercomp.org/2026/papers/
+- https://clustercomp.org/2026/posters/
+- https://clustercomp.org/2026/registration/
+- https://clustercomp.org/2025/
+- https://clustercomp.org/2025/papers/
+- https://clustercomp.org/committee/past/
+- https://doi.org/10.1109/CLUSTER59342.2025.11186494
+- https://portal.core.edu.au/conf-ranks/?search=CLUSTER&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- IEEE CLUSTER 2027 location, dates and deadlines (not announced on the series site yet)
+- IEEE CLUSTER 2025 submission deadlines (only notification and conference dates checked)
+- Acceptance rate (not stated on the official site)
+- Scopus and EI indexing (not stated on the official site)
+last_verified: 2026-10-04

@@ -1,0 +1,95 @@
+id: kr
+name: KR
+full_name: International Conference on Principles of Knowledge Representation and Reasoning
+type: conference
+tier: top
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: KR Inc. (Principles of Knowledge Representation and Reasoning, Incorporated)
+organizer_country: [international]
+proceedings: KR Proceedings (proceedings.kr.org, open access, published by the IJCAI Organization)
+indexing: [DBLP]
+rank:
+  core: A*
+  ccf: B
+acceptance_rate: 24.4% (2026, 112/459 across the three technical tracks; main track 24.8%)
+typical:
+  deadline_months: [2, 5]
+  conference_months: [7, 11]
+links:
+  website: https://kr.org/
+  dblp: https://dblp.org/db/conf/kr/
+notes:
+- Leading forum on knowledge representation and reasoning, run by KR Inc. (active since 1989)
+- Open access proceedings at proceedings.kr.org with an ISSN and ISBN, published by the IJCAI Organization
+- Annual; rotates worldwide and is often co-located (FLoC 2026 in Lisbon, with ICAPS and CPAIOR in Melbourne 2025)
+- Main track plus special tracks (KR in the Wild, KR meets Machine Learning and Explanation in 2026), a Recently
+  Published Research track, a Video track, workshops and a Doctoral Consortium
+- Deadline month varies with the conference date (February for July 2026, May for November 2025)
+- "Acceptance rate: 24.4% in 2026 (112 of 459 submissions)"
+editions:
+- year: 2025
+  start: 2025-11-11
+  end: 2025-11-17
+  location: Melbourne, Australia
+  url: https://kr.org/KR2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-07
+    tz: AoE
+    label: Main track
+  - kind: submission
+    date: 2025-05-12
+    tz: AoE
+    label: Main track
+  - kind: notification
+    date: 2025-07-10
+    tz: AoE
+    label: Main track
+  - kind: camera_ready
+    date: 2025-08-15
+    tz: AoE
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-23
+  location: Lisbon, Portugal (part of FLoC 2026)
+  url: https://kr.org/KR2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-08
+    tz: AoE
+    label: Main track and KR in the Wild
+  - kind: submission
+    date: 2026-02-13
+    tz: AoE
+    label: Main track and KR in the Wild
+  - kind: abstract
+    date: 2026-02-12
+    tz: AoE
+    label: KR meets Machine Learning and Explanation
+  - kind: submission
+    date: 2026-02-19
+    tz: AoE
+    label: KR meets Machine Learning and Explanation
+  - kind: notification
+    date: 2026-04-13
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-03
+    tz: AoE
+sources:
+- https://kr.org/KR2026/
+- https://kr.org/KR2026/dates.html
+- https://kr.org/KR2025/
+- https://kr.org/KR2025/dates.html
+- https://proceedings.kr.org/
+- https://proceedings.kr.org/2026/
+- https://proceedings.kr.org/2026/kr2026-preface.pdf
+- https://portal.core.edu.au/conf-ranks/?search=KR&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- KR 2027 dates, location and deadlines (not announced yet; kr.org/KR2027/ is not public)
+- CCF rank taken from the ccfddl copy of the CCF list; the official CCF page could not be loaded
+last_verified: 2026-10-04

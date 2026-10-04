@@ -1,0 +1,99 @@
+id: ecir
+name: ECIR
+full_name: European Conference on Information Retrieval
+type: conference
+tier: major
+areas: [data, nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: BCS IRSG (BCS Information Retrieval Specialist Group)
+organizer_country: [europe]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: C
+fee: 635 GBP regular, 375 GBP student (2027, early registration until 2026-12-21)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [3, 4]
+links:
+  website: https://www.ecir2027.co.uk/
+  dblp: https://dblp.org/db/conf/ecir/
+notes:
+- Europe's main information retrieval conference (search, recommendation, RAG, evaluation), run under the BCS
+  Information Retrieval Specialist Group; grew out of the BCS-IRSG Colloquium started in 1979
+- Proceedings in Springer LNCS (Advances in Information Retrieval); ECIR 2026 filled four LNCS volumes with 209
+  papers
+- Usually held before or soon after Easter, hosted by a European university; ECIR 2027 is in Southampton, UK
+- Full papers up to 12 pages plus references, double-blind; abstract deadline about two weeks before the paper
+  deadline; high-quality rejected full papers may be invited as findings papers
+- Many tracks with later deadlines (short, reproducibility, IR for Good, resource, demo, doctoral consortium,
+  industry day); in-person presentation required
+- Organizers state a strong tradition of supporting early-career researchers and welcome student submissions
+editions:
+- year: 2026
+  start: 2026-03-29
+  end: 2026-04-02
+  location: Delft, The Netherlands
+  url: https://ecir2026.eu/
+- year: 2027
+  start: 2027-03-21
+  end: 2027-03-25
+  location: Southampton, UK
+  url: https://www.ecir2027.co.uk/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-21
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-10-05
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: abstract
+    date: 2026-10-05
+    label: Short papers
+  - kind: submission
+    date: 2026-10-12
+    label: Short papers
+  - kind: other
+    date: 2026-10-05
+    time: "23:59"
+    tz: AoE
+    label: IR for Good paper submission
+  - kind: other
+    date: 2026-10-19
+    label: Reproducibility paper submission
+  - kind: other
+    date: 2026-11-02
+    label: Demo, resource, doctoral consortium, industry day and tutorial submissions
+  - kind: notification
+    date: 2026-12-07
+  - kind: other
+    date: 2026-12-21
+    label: Author registration deadline
+sources:
+- https://www.ecir2027.co.uk/
+- https://www.ecir2027.co.uk/call-for-full-papers
+- https://www.ecir2027.co.uk/call-for-short-papers
+- https://www.ecir2027.co.uk/call-for-ir-for-good-papers
+- https://www.ecir2027.co.uk/call-for-reproducibility-papers
+- https://www.ecir2027.co.uk/registration
+- https://link.springer.com/conference/ecir
+- https://link.springer.com/book/10.1007/978-3-032-21289-4
+- https://www.bcs.org/membership-and-registrations/member-communities/information-retrieval-specialist-group/conferences-and-events/european-conference-on-information-retrieval/
+- https://portal.core.edu.au/conf-ranks/?search=ECIR&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- ECIR 2026 deadlines (the ecir2026.eu site was offline when checked; dates and location taken from the Springer
+  ECIR conference page)
+- ECIR 2027 home page calls the deadlines "current proposed deadlines"; timezone stated (AoE) only for the full
+  paper and IR for Good tracks
+- ECIR 2027 home page says both 48th and 49th ECIR; BCS IRSG lists it as the 49th
+- Full paper acceptance rate not stated on an official page
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-04

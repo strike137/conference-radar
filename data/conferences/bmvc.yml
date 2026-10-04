@@ -1,0 +1,101 @@
+id: bmvc
+name: BMVC
+full_name: British Machine Vision Conference
+type: conference
+tier: major
+areas: [vision, ai]
+region: europe
+language: english
+frequency: annual
+organizer: BMVA (British Machine Vision Association and Society for Pattern Recognition)
+organizer_country: [europe]
+proceedings: BMVA online proceedings (open access on the conference website)
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: C
+fee: 550 GBP early, 600 GBP late (2026, normal full-conference registration)
+typical:
+  deadline_months: [5]
+  conference_months: [11]
+links:
+  website: https://bmvc2026.bmva.org/
+  dblp: https://dblp.org/db/conf/bmvc/
+notes:
+- Annual conference of the British Machine Vision Association (BMVA), a UK charity; held at a different UK university
+  city each year (2025 Sheffield, 2026 Lancaster)
+- Single-track meeting with oral and poster presentations; workshop sessions on the last day
+- Double-blind review on OpenReview; 14 pages excluding references; community reviewing (authors must review)
+- Proceedings published by BMVA on the conference website (open access); top papers invited to an IJCV special issue
+- ICORE2026 rank A; CCF C (artificial intelligence)
+- One full registration covers up to two papers; registration accessibility grants offered for fee waivers
+editions:
+- year: 2025
+  start: 2025-11-24
+  end: 2025-11-27
+  location: Sheffield, UK
+  url: https://bmvc2025.bmva.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-13
+    time: '23:59'
+    tz: UTC
+  - kind: submission
+    date: 2025-05-16
+    time: '23:59'
+    tz: UTC
+    label: Paper and supplementary material
+  - kind: notification
+    date: 2025-07-25
+    time: '23:59'
+    tz: UTC
+  - kind: camera_ready
+    date: 2025-08-29
+    time: '23:59'
+    tz: UTC
+- year: 2026
+  start: 2026-11-23
+  end: 2026-11-26
+  location: Lancaster, UK
+  url: https://bmvc2026.bmva.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-22
+    time: '23:59'
+    tz: AoE
+  - kind: submission
+    date: 2026-05-29
+    time: '23:59'
+    tz: AoE
+    label: Paper and supplementary material
+  - kind: notification
+    date: 2026-08-07
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-28
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-08-28
+    time: '23:59'
+    tz: AoE
+    label: Author registration and early registration deadline
+sources:
+- https://bmvc2026.bmva.org/
+- https://bmvc2026.bmva.org/dates/
+- https://bmvc2026.bmva.org/calls/call-for-papers/
+- https://bmvc2026.bmva.org/attending/registration/
+- https://bmvc2025.bmva.org/
+- https://bmvc2025.bmva.org/dates/
+- https://bmvc2025.bmva.org/proceedings/conference-proceedings/
+- https://bmva-archive.org.uk/bmvc/
+- https://portal.core.edu.au/conf-ranks/?search=BMVC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+- Acceptance rate not stated on the official 2025 or 2026 pages
+- 2025 deadlines from the 2025 dates page (stated as 23:59 GMT); the 2025 abstract deadline there is the
+  extended one (originally 2025-05-09)
+- BMVC 2027 host and dates not announced
+last_verified: 2026-10-04

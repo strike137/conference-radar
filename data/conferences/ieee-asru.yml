@@ -1,0 +1,70 @@
+id: ieee-asru
+name: IEEE ASRU
+full_name: IEEE Automatic Speech Recognition and Understanding Workshop
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IEEE Signal Processing Society (Speech and Language Processing Technical Committee)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [5]
+  conference_months: [12]
+links:
+  website: https://2025.ieeeasru.org/
+  dblp: https://dblp.org/db/conf/asru/
+notes:
+- Flagship workshop of the IEEE SPS Speech and Language Processing Technical Committee; held in odd years, alternating
+  with IEEE SLT
+- Despite the workshop name it is a standalone peer-reviewed event with keynotes, special sessions, challenges and
+  tutorials; all papers are presented as posters
+- Papers are published in IEEE Xplore; 6 pages of content plus up to 2 pages of references only (2025)
+- Has an author rebuttal period and a separate later deadline for demo, system, data and challenge papers
+- Well regarded in the speech community although ICORE2026 ranks it C
+- Location rotates worldwide (2025 Honolulu, USA)
+editions:
+- year: 2025
+  start: 2025-12-06
+  end: 2025-12-10
+  location: Honolulu, Hawaii, USA
+  url: https://2025.ieeeasru.org/
+  deadlines:
+  - kind: other
+    date: 2025-04-11
+    label: Challenge and special session proposals
+  - kind: submission
+    date: 2025-05-28
+    label: Regular and special session papers
+  - kind: other
+    date: 2025-06-04
+    label: Paper revision due
+  - kind: other
+    date: 2025-06-25
+    label: Challenge and demo paper submission
+  - kind: other
+    date: 2025-07-18
+    label: Author rebuttal period (2025-07-13 to 2025-07-18)
+  - kind: notification
+    date: 2025-08-06
+  - kind: camera_ready
+    date: 2025-08-20
+sources:
+- https://2025.ieeeasru.org/
+- https://2025.ieeeasru.org/calls/call-for-papers/
+- https://2025.ieeeasru.org/authors/important-dates/
+- https://2025.ieeeasru.org/authors/camera-ready-paper-instructions/
+- https://portal.core.edu.au/conf-ranks/?search=ASRU&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/AI/
+- https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/
+unverified:
+- ASRU 2027 dates, location and deadlines (not announced on an official page yet)
+- Time zone of the 2025 deadlines (not stated on the official pages)
+- ASRU 2025 acceptance rate (no official figure found)
+last_verified: 2026-10-04

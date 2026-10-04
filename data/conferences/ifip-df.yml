@@ -1,0 +1,70 @@
+id: ifip-df
+name: IFIP WG 11.9
+full_name: Annual IFIP WG 11.9 International Conference on Digital Forensics
+type: conference
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: IFIP Working Group 11.9 on Digital Forensics (IFIP TC11)
+organizer_country: [international]
+proceedings: Springer IFIP AICT (Advances in Digital Forensics book series, revised selected papers)
+indexing: [DBLP]
+rank:
+  ccf: C
+acceptance_rate: 40% (2025 edited volume, 10/25 per Springer)
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: https://www.ifip119.org/
+  dblp: https://dblp.org/db/conf/ifip11-9/index.html
+notes:
+- Annual conference of IFIP Working Group 11.9 on Digital Forensics, running since 2005 (23rd edition in 2027)
+- Usually held in early January; New Delhi, India since 2024 (also 2020), Arlington, USA in 2023, virtual in 2021 and 2022
+- Revised papers appear after the event as the Advances in Digital Forensics volume in Springer IFIP AICT
+- Small and discussion oriented (limited to about 100 participants in 2027); papers and panel proposals are both solicited
+- Submissions up to 30 pages double spaced via EasyChair, with a cover page listing the authors (not anonymized)
+- From 2027, extended versions of outstanding papers are published in Computers and Security (Elsevier)
+- CCF C (listed as IFIP WG 11.9); not found in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-01-05
+  end: 2026-01-06
+  location: New Delhi, India
+  url: https://www.ifip119.org/Conferences/
+  deadlines:
+  - kind: submission
+    date: 2025-10-31
+    label: Papers and panel proposals
+  - kind: notification
+    date: 2025-11-30
+- year: 2027
+  start: 2027-01-07
+  end: 2027-01-08
+  location: New Delhi, India
+  url: https://www.ifip119.org/Conferences/
+  deadlines:
+  - kind: submission
+    date: 2026-10-10
+    label: Papers and panel proposals
+  - kind: notification
+    date: 2026-11-10
+sources:
+- https://www.ifip119.org/
+- https://www.ifip119.org/Conferences/
+- https://www.ifip119.org/Conferences/WG11-9-CFP-2026.pdf
+- https://www.ifip119.org/Conferences/WG11-9-CFP-2027.pdf
+- https://www.ifip119.org/Publications/
+- https://link.springer.com/book/10.1007/978-3-032-09802-3
+- https://link.springer.com/book/10.1007/978-3-031-71025-4
+- https://link.springer.com/book/10.1007/978-3-031-42991-0
+- https://portal.core.edu.au/conf-ranks/?search=IFIP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Deadline time and time zone not stated in the CFPs
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- Acceptance rate for the conference itself not stated; the 10/25 figure is for the 2025 post-conference volume
+- Indexing beyond DBLP (Scopus) not stated on the official site
+last_verified: 2026-10-04

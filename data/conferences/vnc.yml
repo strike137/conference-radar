@@ -1,0 +1,95 @@
+id: vnc
+name: IEEE VNC
+full_name: IEEE Vehicular Networking Conference
+type: conference
+tier: minor
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE ComSoc, with IEEE ITSS (Intelligent Transportation Systems Society)
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP]
+rank:
+  core: Unranked
+fee: 825 to 975 USD author registration, 650 to 800 USD student non-author (2026)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://vnc2026.ieee-vnc.org/
+  dblp: https://dblp.org/db/conf/vnc/index.html
+notes:
+- Run by IEEE ComSoc with IEEE ITSS; describes itself as the primary venue for vehicular networking, V2X
+  communications and connected and automated driving
+- Held since 2009 (2026 was the 17th edition); no edition in 2022; moved from November or December to a spring or
+  June slot from 2023
+- Rotates between Europe, North America and Asia (2024 Kobe, 2025 Porto, 2026 Montreal, 2027 Fukuoka)
+- Proceedings in IEEE Xplore; full papers up to 8 pages, short papers up to 4 pages, posters and demos 2 pages
+- Not double-blind; submission via EDAS; at least one author must present in person
+- Paper deadlines are extended in steps every year (2025 and 2026 both ended with a firm deadline in mid February)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-06-02
+  end: 2025-06-04
+  location: Porto, Portugal
+  url: https://vnc2025.ieee-vnc.org/
+  deadlines:
+  - kind: submission
+    date: 2025-02-14
+    label: Full/short papers (firm; extended from 2025-01-15 and 2025-01-31)
+  - kind: notification
+    date: 2025-03-28
+    label: Full/short papers (moved from 2025-03-21)
+  - kind: other
+    date: 2025-04-06
+    label: Poster/demo submission (firm; extended from 2025-03-28 and 2025-04-04)
+  - kind: notification
+    date: 2025-04-22
+    label: Posters/demos (moved from 2025-04-15)
+  - kind: camera_ready
+    date: 2025-05-02
+    label: Moved from 2025-04-25
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-10
+  location: Montreal, Canada
+  url: https://vnc2026.ieee-vnc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    label: Full/short papers (firm; extended on 2026-01-14 to 2026-01-30, then again on 2026-01-28)
+  - kind: notification
+    date: 2026-03-20
+    label: Full/short papers
+  - kind: other
+    date: 2026-04-01
+    label: Poster/demo submission (firm; extended)
+  - kind: notification
+    date: 2026-04-20
+    label: Posters/demos
+  - kind: camera_ready
+    date: 2026-04-30
+    label: Final papers and author registration
+- year: 2027
+  location: Fukuoka, Japan
+  url: https://vnc2026.ieee-vnc.org/
+  deadlines: []
+sources:
+- https://vnc2026.ieee-vnc.org/
+- https://vnc2026.ieee-vnc.org/call-papers
+- https://vnc2026.ieee-vnc.org/about-us
+- https://vnc2026.ieee-vnc.org/registration
+- https://vnc2025.ieee-vnc.org/
+- https://vnc2025.ieee-vnc.org/call-papers
+- https://portal.core.edu.au/conf-ranks/?search=VNC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+- https://dblp.org/db/conf/vnc/index.html
+unverified:
+- VNC 2027 dates and deadlines (only the Fukuoka location announced on the 2026 site; no 2027 site yet)
+- Original 2026 full paper deadline before the first extension (not shown on the 2026 site)
+- CCF absence checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+- Acceptance rate not published on the official sites
+last_verified: 2026-10-04

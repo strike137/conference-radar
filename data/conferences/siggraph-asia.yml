@@ -1,0 +1,132 @@
+id: siggraph-asia
+name: SIGGRAPH Asia
+full_name: ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia
+type: conference
+tier: top
+areas: [vision, general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ACM SIGGRAPH (sponsor); organized by Koelnmesse
+organizer_country: [international]
+proceedings: ACM DL (SIGGRAPH Asia Conference Papers); journal track papers in ACM Transactions on Graphics (TOG)
+archival: true
+indexing: [DBLP]
+rank:
+  core: A*
+acceptance_rate: About 20 to 30% (historical range stated in the 2026 call for technical papers)
+fee: 875 USD ACM member, 975 USD non-member, 475 USD ACM student member (2026, Full Access early-bird)
+typical:
+  deadline_months: [5]
+  conference_months: [12]
+links:
+  website: https://asia.siggraph.org/2026/
+  dblp: https://dblp.org/db/conf/siggrapha/
+notes:
+- Asian edition of ACM SIGGRAPH, sponsored by ACM SIGGRAPH and organized by Koelnmesse; conference plus exhibition every December
+- Rotates within Asia-Pacific (Tokyo 2024, Hong Kong 2025, Kuala Lumpur 2026, Tokyo 2027)
+- Rated A* in ICORE2026 (as SiggraphA); not listed separately in the CCF list, which rates only SIGGRAPH (A)
+- "Two technical paper tracks: journal papers in a SIGGRAPH Asia issue of ACM TOG (no page limit) and conference papers in the ACM DL proceedings (7 pages)"
+- Double-blind, four full reviews per paper, rebuttal phase, then conditional acceptance with a second review of the revised paper
+- ACM moved to full open access in 2026, so article processing charges apply unless the institution is in ACM Open
+- At least one author must present in person; also has posters, technical communications, courses and Real-Time Live! with later deadlines
+- Graphics, animation, rendering, imaging, geometry and interactive techniques; listed here for reference as a top vision and graphics venue
+editions:
+- year: 2025
+  start: 2025-12-15
+  end: 2025-12-18
+  location: Hong Kong
+  url: https://asia.siggraph.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-16
+    time: "23:59"
+    tz: AoE
+    label: Technical papers submission form
+  - kind: submission
+    date: 2025-05-23
+    time: "23:59"
+    tz: AoE
+    label: Technical papers
+  - kind: other
+    date: 2025-05-24
+    time: "23:59"
+    tz: AoE
+    label: Upload deadline (MD5 checksum submissions)
+  - kind: other
+    date: 2025-07-19
+    label: Rebuttals due
+  - kind: notification
+    date: 2025-08-10
+  - kind: other
+    date: 2025-09-19
+    label: Revised paper for final review
+  - kind: camera_ready
+    date: 2025-09-25
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-04
+  location: Kuala Lumpur, Malaysia
+  url: https://asia.siggraph.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-05
+    time: "23:59"
+    tz: AoE
+    label: Technical papers submission form
+  - kind: submission
+    date: 2026-05-12
+    time: "23:59"
+    tz: AoE
+    label: Technical papers
+  - kind: other
+    date: 2026-05-13
+    time: "23:59"
+    tz: AoE
+    label: Upload deadline (MD5 checksum submissions)
+  - kind: other
+    date: 2026-07-03
+    time: "23:59"
+    tz: AoE
+    label: Rebuttals due
+  - kind: notification
+    date: 2026-07-19
+  - kind: other
+    date: 2026-07-27
+    label: Technical communications
+  - kind: other
+    date: 2026-07-31
+    label: Posters
+  - kind: other
+    date: 2026-08-28
+    time: "23:59"
+    tz: AoE
+    label: Revised paper for final review
+  - kind: camera_ready
+    date: 2026-09-03
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-11-30
+  end: 2027-12-03
+  location: Tokyo, Japan
+  url: https://asia.siggraph.org/2026/about-the-event/siggraph-asia-2027/
+  deadlines: []
+sources:
+- https://asia.siggraph.org/2026/
+- https://asia.siggraph.org/2026/submissions/technical-papers/
+- https://asia.siggraph.org/2026/about-the-event/
+- https://asia.siggraph.org/2026/about-the-event/siggraph-asia-2027/
+- https://asia.siggraph.org/2026/plan-to-attend/registration-categories-fees/full-access/
+- https://asia.siggraph.org/2025/
+- https://asia.siggraph.org/2025/submissions/technical-papers/
+- https://asia.siggraph.org/2025/program/conference-proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=SIGGRAPH&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- SIGGRAPH Asia 2027 call for papers and deadlines not announced yet
+- The 2025 FAQ gives different weekdays (Sunday, Sunday, Monday) for the 16, 23 and 24 May deadlines than the 2025 timeline
+- Posters and technical communications deadlines for 2026 taken from the official site summary without stated time zone
+- Scopus indexing not checked
+- CCF absence of SIGGRAPH Asia checked via the CCFrank4dblp mirror (lists only conf/siggraph as A), not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-04

@@ -1,0 +1,83 @@
+id: comsys-jp
+name: ComSys
+full_name: Computer System Symposium (IPSJ)
+name_local: コンピュータシステム・シンポジウム
+type: conference
+tier: domestic
+areas: [systems]
+region: japan
+language: japanese
+frequency: annual
+organizer: IPSJ SIGOS (Special Interest Group on System Software and Operating Systems)
+organizer_country: [japan]
+proceedings: IPSJ Digital Library (Joho Gakkai Hiroba), ComSys proceedings (Computer System Symposium Ronbunshu),
+  paid for two years then free; not peer-reviewed
+archival: false
+fee: 8,800 JPY SIGOS member, 13,200 JPY IPSJ member, 22,000 JPY non-member, 1,100 JPY student member, 5,500 JPY
+  student non-member (2025, on-site, early rate until 2025-11-24); 2,200 JPY or free online
+typical:
+  deadline_months: [10, 11]
+  conference_months: [12]
+links:
+  website: https://sigos.ipsj.or.jp/event/comsys2026/
+notes:
+- Flagship annual symposium of IPSJ SIGOS (system software and operating systems), held since 1987; the 2026
+  edition is the 38th
+- Held in early December in a different Japanese city each year (Hiroshima 2023, Yokohama 2024, Nagoya 2025,
+  Kanazawa 2026); hybrid for general talks, posters on-site only
+- General talks with a paper, with a paper plus written comment feedback from the program committee (feedback, not
+  peer review), or abstract only; abstract-only talks suit work already published at international venues
+- Only papers from general talks go into the online proceedings in the IPSJ Digital Library, published one week
+  before the symposium; poster and demo papers (1 to 2 pages) are posted on the SIGOS site
+- Invited talks include "top conference return talks" by authors of recent papers at venues such as ACM CCS, VLDB
+  and HPDC; best young presentation and best poster awards
+- Small and student friendly (10 paper talks in 2025); papers use the IPSJ technical report format, and poster and
+  demo papers may be in Japanese or English
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-02
+  location: Nagoya Institute of Technology, Nagoya, Japan
+  url: https://sigos.ipsj.or.jp/event/comsys2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-31
+    time: '23:59'
+    tz: JST
+    label: Presentation application
+  - kind: submission
+    date: 2025-11-04
+    time: '23:59'
+    tz: JST
+    label: Paper manuscript; poster and demo application with paper
+- year: 2026
+  start: 2026-12-02
+  end: 2026-12-04
+  location: IT Business Plaza Musashi, Kanazawa, Japan
+  url: https://sigos.ipsj.or.jp/event/comsys2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-16
+    time: '23:59'
+    tz: JST
+    label: Presentation application
+  - kind: submission
+    date: 2026-10-30
+    time: '23:59'
+    tz: JST
+    label: Paper manuscript; poster and student tech talk application
+sources:
+- https://sigos.ipsj.or.jp/event/comsys2026/
+- https://sigos.ipsj.or.jp/event/comsys2025/
+- https://sigos.ipsj.or.jp/event/comsys2024/
+- https://sigos.ipsj.or.jp/event/comsys2023/
+- https://sigos.ipsj.or.jp/event/
+- https://www.ipsj.or.jp/kenkyukai/event/ComSys2025.html
+- https://ipsj.ixsq.nii.ac.jp/api/records/2005943
+- https://portal.core.edu.au/conf-ranks/?search=ComSys&by=all&source=ICORE2026
+unverified:
+- The 2026 CFP lists the paper deadline as 2026-10-30 in the schedule but as October 31 (Friday) in the notes; the
+  schedule date is used
+- ComSys 2026 registration fees (not yet announced on 2026-10-04)
+last_verified: 2026-10-04

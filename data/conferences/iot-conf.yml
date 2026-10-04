@@ -1,0 +1,88 @@
+id: iot-conf
+name: IoT
+full_name: International Conference on the Internet of Things
+type: conference
+tier: minor
+areas: [networking, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Host university each year (2026 National Edge AI Hub at Newcastle University; 2025 TU Wien), in cooperation with ACM
+organizer_country: [europe]
+proceedings: ACM DL (ACM ICPS)
+indexing: [DBLP]
+fee: 800 GBP non-member, 750 GBP ACM member, 700 GBP student for author registration (2026, early bird)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://iot-conference.org/iot2026/
+notes:
+- Running since 2008 (biennial until 2014, annual since 2015); hosted by a different university each year, mostly in Europe (earlier editions also in the USA, Korea, China and Japan)
+- Proceedings in the ACM International Conference Proceedings Series (ACM DL); workshop papers go into companion proceedings
+- Double-blind review by at least three PC members; 8 pages in ACM sigconf format plus references
+- Not listed in ICORE2026 or the CCF 2026 list
+- Fully in-person; at least one author per paper needs a full (non-student) registration
+- Not the IEEE iThings or IEEE WF-IoT, which are separate venues
+editions:
+- year: 2025
+  start: 2025-11-18
+  end: 2025-11-21
+  location: Vienna, Austria
+  url: https://iot-conference.org/iot2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-01
+    tz: AoE
+    label: Extended from 2025-07-18
+  - kind: notification
+    date: 2025-09-13
+    tz: AoE
+    label: Extended from 2025-09-03
+  - kind: camera_ready
+    date: 2025-10-03
+    tz: AoE
+  - kind: other
+    date: 2025-09-30
+    tz: AoE
+    label: Posters and demos
+- year: 2026
+  start: 2026-11-17
+  end: 2026-11-20
+  location: Newcastle upon Tyne, UK
+  url: https://iot-conference.org/iot2026/
+  deadlines:
+  - kind: other
+    date: 2026-07-15
+    tz: AoE
+    label: Workshop proposals (extended from 2026-06-30)
+  - kind: submission
+    date: 2026-08-22
+    tz: AoE
+    label: Extended from 2026-07-30, then 2026-08-15
+  - kind: notification
+    date: 2026-09-28
+    tz: AoE
+    label: Extended several times (CFP page still says 2026-09-24)
+  - kind: other
+    date: 2026-09-30
+    tz: AoE
+    label: Posters and demos (extended from 2026-09-11)
+  - kind: camera_ready
+    date: 2026-10-08
+    tz: AoE
+    label: Extended from 2026-10-02
+sources:
+- https://iot-conference.org/iot2026/
+- https://iot-conference.org/iot2026/call-for-papers/
+- https://iot-conference.org/iot2026/registration/
+- https://iot-conference.org/iot2026/organisers/
+- https://iot-conference.org/iot2025/
+- https://iot-conference.org/iot2025/call-for-papers/
+- https://iot-conference.org/iot2025/conference-program/
+- https://iot-conference.org/iot2024/
+- https://portal.core.edu.au/conf-ranks/?search=IoT&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not published on the official site
+- IoT 2027 host and dates not announced yet
+last_verified: 2026-10-04

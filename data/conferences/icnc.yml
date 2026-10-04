@@ -1,0 +1,91 @@
+id: icnc
+name: ICNC
+full_name: International Conference on Computing, Networking and Communications
+type: conference
+tier: minor
+areas: [networking, communications, ai, security]
+region: north-america
+language: english
+frequency: annual
+organizer: Technology Innovation Association (TIA)
+proceedings: IEEE Xplore
+fee: 750 USD IEEE member, 800 USD non-member (2026, full author registration covering up to two papers); 150 USD
+  late fee after the author registration deadline
+typical:
+  deadline_months: [9, 10]
+  conference_months: [2]
+links:
+  website: http://www.conf-icnc.org/
+notes:
+- Sponsored by the Technology Innovation Association (TIA); held every February in Hawaii (Honolulu, Maui or Big
+  Island), with occasional California editions before 2018
+- Papers go into the conference proceedings and are submitted to IEEE Xplore; only papers presented onsite are included
+- Organized as technical symposia (AI, machine learning for networking, security, edge/cloud, wireless, optical,
+  signal processing and more) plus workshops, keynotes and many invited talks
+- 5 pages via EDAS in IEEE double column format; up to 2 extra pages at 100 USD per page
+- One full registration covers up to two accepted papers by a common author; in-person presentation is required
+- Not listed in ICORE2026 (the ICORE 'ICNC' entry is the Chinese International Conference on Natural Computation, a
+  different venue) and not in the CCF list
+- No editions were held in 2021 and 2022
+editions:
+- year: 2026
+  start: 2026-02-16
+  end: 2026-02-19
+  location: Maui, Hawaii, USA
+  url: http://www.conf-icnc.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-09-12
+    label: Papers (original)
+  - kind: submission
+    date: 2025-10-12
+    label: Papers (extended, firm)
+  - kind: notification
+    date: 2025-11-15
+  - kind: camera_ready
+    date: 2025-11-30
+  - kind: other
+    date: 2025-12-05
+    label: Author registration
+- year: 2027
+  start: 2027-02-15
+  end: 2027-02-18
+  location: Honolulu, Hawaii, USA
+  url: http://www.conf-icnc.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-09-19
+    label: Papers (original)
+  - kind: submission
+    date: 2026-10-18
+    label: Papers (extended, firm)
+  - kind: notification
+    date: 2026-11-15
+  - kind: camera_ready
+    date: 2026-11-30
+  - kind: other
+    date: 2026-12-05
+    label: Author registration
+sources:
+- http://www.conf-icnc.org/
+- http://www.conf-icnc.org/2026/body.htm
+- http://www.conf-icnc.org/2026/cfp.htm
+- http://www.conf-icnc.org/2026/author.htm
+- http://www.conf-icnc.org/2026/reg.htm
+- http://www.conf-icnc.org/2026/ICNC2026-Reg-Author-Form.pdf
+- http://www.conf-icnc.org/2027/body.html
+- http://www.conf-icnc.org/2027/cfp.html
+- http://www.conf-icnc.org/2027/ICNC27_CFPs.pdf
+- http://www.conf-icnc.org/2027/author.html
+- http://www.conf-icnc.org/2027/reg.html
+- https://portal.core.edu.au/conf-ranks/?search=ICNC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=Computing%2C+Networking+and+Communications&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Country of the Technology Innovation Association (TIA) is not stated on the official site, so organizer_country is left out
+- ICNC 2027 CFP PDF lists the paper submission deadline as 2026-08-03 and camera-ready as 2026-11-29, while the
+  CFP web page gives 2026-09-19 (extended to 2026-10-18, firm) and 2026-11-30; the web page dates are used
+- No deadline time or time zone is stated
+- ICNC 2027 registration fee (the 2027 author registration form link returns 404)
+- Acceptance rate is not published
+- DBLP and IEEE Xplore listing of the 2025 and 2026 proceedings not checked directly (both sites blocked automated access)
+last_verified: 2026-10-04

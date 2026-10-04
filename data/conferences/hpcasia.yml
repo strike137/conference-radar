@@ -1,0 +1,76 @@
+id: hpcasia
+name: HPC Asia
+full_name: International Conference on High Performance Computing in Asia-Pacific Region
+type: conference
+tier: minor
+areas: [systems, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: HPC Asia series with a rotating local host; 2026 held jointly with SupercomputingAsia (SCA), with IPSJ among
+  the co-organisers and in cooperation with ACM and ACM SIGHPC
+organizer_country: [international]
+proceedings: ACM DL (ICPS)
+rank:
+  core: C
+fee: 'JPY 60,000 non-member, 50,000 ACM/IPSJ member, 20,000 student (2026, early bird)'
+typical:
+  deadline_months: [9]
+  conference_months: [1, 2]
+links:
+  website: https://www.sc-asia.org/2026/
+notes:
+- Long-running Asia-Pacific HPC conference series (7th edition in Tokyo in 2004); recent editions in Japan (2024 Nagoya, 2026 Osaka),
+  Taiwan (2025 Hsinchu) and Singapore (2023)
+- 2026 edition was a joint event with SupercomputingAsia (SCA) in Osaka, with an exhibition and many co-located
+  workshops
+- Proceedings and separate workshop proceedings in the ACM Digital Library (ICPS); ACM open access APC applies to
+  authors from institutions outside ACM Open
+- Double-blind, one-pass review with no rebuttal; papers up to 18 pages in ACM single-column format
+- Tracks cover applications and algorithms, architectures and networks, ML/AI and emerging technologies,
+  programming models and system software, and data, storage and visualization
+- CORE C (ICORE2026); not in the CCF list
+- SCA2027 (Singapore, 1 to 4 March 2027) is announced under the SCA name, but its CFP says accepted papers go into the
+  SCA/HPCAsia 2027 proceedings (see the sca-asia entry)
+editions:
+- year: 2026
+  label: SCA/HPCAsia 2026
+  start: 2026-01-26
+  end: 2026-01-29
+  location: Osaka, Japan
+  url: https://www.sc-asia.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-19
+    tz: AoE
+    label: Extended from 2025-08-29
+  - kind: submission
+    date: 2025-09-19
+    tz: AoE
+    label: Extended from 2025-09-05
+  - kind: notification
+    date: 2025-10-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-12-15
+    tz: AoE
+sources:
+- https://www.sc-asia.org/2026/
+- https://www.sc-asia.org/2026/submit/papers.html
+- https://www.sc-asia.org/2026/submit/deadlines.html
+- https://www.sc-asia.org/2026/program.html
+- https://www.sc-asia.org/2026/registration.html
+- https://www.sc-asia.org/2026/committee_o.html
+- https://www.sc-asia.org/
+- https://sc-asia.org/sca2027-call-for-papers/
+- https://dl.acm.org/doi/proceedings/10.1145/3773656
+- https://dl.acm.org/doi/proceedings/10.1145/3784828
+- https://api.crossref.org/works?query.bibliographic=International+Conference+on+High+Performance+Computing+in+Asia-Pacific+Region&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=HPC+Asia&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- Whether SCA2027 (Singapore) is formally the 2027 HPC Asia edition (only the CFP proceedings line says SCA/HPCAsia 2027)
+- Indexing (Scopus and DBLP not checked live; DBLP blocks automated access)
+- Acceptance rate
+- Deadlines and exact dates of the 2025 (Hsinchu) and 2024 (Nagoya) editions
+last_verified: 2026-10-04

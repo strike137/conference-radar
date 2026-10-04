@@ -1,0 +1,84 @@
+id: icme
+name: ICME
+full_name: IEEE International Conference on Multimedia and Expo
+type: conference
+tier: major
+areas: [vision, ai, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE (sponsored by four societies, CAS, ComSoc, Computer Society and SPS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, DBLP]
+rank:
+  core: A
+  ccf: B
+fee: 1,030 USD author full registration, IEEE member (2026); 895 USD for sponsoring society members, 1,235 USD non-member
+typical:
+  deadline_months: [12]
+  conference_months: [7]
+links:
+  website: https://2026.ieeeicme.org/
+  dblp: https://dblp.org/db/conf/icme/
+notes:
+- Flagship multimedia conference since 2000, jointly sponsored by four IEEE societies (CAS, ComSoc, Computer
+  Society, SPS)
+- Main track, special session, industry, workshop, demo and grand challenge papers all go to IEEE Xplore and are
+  indexed by EI Compendex
+- Main track papers have an author rebuttal phase; camera-ready limit of 6 pages (2026)
+- One author full registration covers up to two papers, and every paper must be presented in person
+- Venue rotates worldwide (Taipei 2022, Brisbane 2023, Niagara Falls 2024, Nantes 2025, Bangkok 2026, Xiamen 2027)
+- Rated A in ICORE2026 and B in the CCF list
+editions:
+- year: 2026
+  start: 2026-07-05
+  end: 2026-07-09
+  location: Bangkok, Thailand
+  url: https://2026.ieeeicme.org/
+  deadlines:
+  - kind: submission
+    date: 2025-12-31
+    tz: AoE
+    label: Regular papers incl. special sessions (extended from 2025-12-12)
+  - kind: other
+    date: 2026-02-22
+    label: Author rebuttal starts
+  - kind: other
+    date: 2026-02-26
+    label: Author rebuttal ends
+  - kind: notification
+    date: 2026-03-13
+  - kind: camera_ready
+    date: 2026-04-05
+  - kind: other
+    date: 2026-04-01
+    label: Workshop paper submission (extended from 2026-03-25; some workshops differ)
+  - kind: other
+    date: 2026-04-25
+    label: Author registration deadline
+- year: 2027
+  start: 2027-07-13
+  end: 2027-07-17
+  location: Xiamen, China
+  url: https://ieee-cas.org/event/conference/2027-ieee-international-conference-multimedia-expo-icme
+  deadlines: []
+sources:
+- https://2026.ieeeicme.org/
+- https://2026.ieeeicme.org/icme-2026-call-for-papers/
+- https://2026.ieeeicme.org/important-dates/
+- https://2026.ieeeicme.org/registration/
+- https://2026.ieeeicme.org/camera-ready-instructions/
+- https://2025.ieeeicme.org/
+- https://2024.ieeeicme.org/
+- https://2022.ieeeicme.org/
+- https://ieee-cas.org/event/conference/2027-ieee-international-conference-multimedia-expo-icme
+- https://portal.core.edu.au/conf-ranks/?search=ICME&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- ICME 2027 website, call for papers and deadlines not found yet (dates and city taken from the IEEE CAS Society
+  event page)
+- ICME 2026 acceptance rate not stated on the official site
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-04

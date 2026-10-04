@@ -1,0 +1,84 @@
+id: ictir
+name: ICTIR
+full_name: ACM SIGIR International Conference on Innovative Concepts and Theories in Information Retrieval
+type: conference
+tier: minor
+areas: [data, nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGIR
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: Unranked
+fee: 650 AUD full non-member, 550 AUD full ACM member, 450 AUD student or retiree non-member, 400 AUD student or retiree ACM member (2026, incl. GST, flat rate, added to a SIGIR registration)
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://sigir.org/conferences/ictir/
+notes:
+- ACM SIGIR conference on foundational and theoretical IR (models of relevance, ranking, representation, evaluation);
+  formerly the ACM SIGIR International Conference on the Theory of Information Retrieval, renamed in 2025
+- One-day conference held the day after SIGIR at the same venue, so it moves with SIGIR (Padua 2025, Melbourne 2026)
+- Proceedings in ACM DL; 2 to 9 pages plus references, length judged against contribution; lightweight double-blind
+  review on OpenReview (2026)
+- Accepts SIGIR Revise-and-Resubmit submissions from papers rejected at the SIGIR full and short paper tracks of the
+  same year
+- Experimental results are not required; purely theoretical and perspective papers are welcome
+- All accepted papers are presented as posters, with a selection also given oral slots (2026)
+- At least one author per accepted paper must register for ICTIR; registration is a flat add-on to SIGIR registration
+editions:
+- year: 2025
+  start: 2025-07-18
+  end: 2025-07-18
+  location: Padua, Italy
+  url: https://ictir2025.cs.umass.edu/
+  deadlines:
+  - kind: submission
+    date: 2025-04-24
+    tz: AoE
+    label: Papers (or two weeks after the SIGIR 2025 full paper notification, whichever is later)
+  - kind: notification
+    date: 2025-06-05
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-26
+    tz: AoE
+- year: 2026
+  start: 2026-07-25
+  end: 2026-07-25
+  location: Melbourne, Australia
+  url: https://sigir-ictir.github.io/ictir2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-16
+    tz: AoE
+    label: Papers (regular and SIGIR-RR)
+  - kind: notification
+    date: 2026-05-31
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-14
+    tz: AoE
+  - kind: other
+    date: 2026-06-14
+    time: "23:59"
+    tz: AEST
+    label: Presenting author registration
+sources:
+- https://sigir.org/conferences/ictir/
+- https://ictir2025.cs.umass.edu/
+- https://sigir-ictir.github.io/ictir2026/
+- https://sigir-ictir.github.io/ictir2026/cfp/
+- https://sigir-ictir.github.io/ictir2026/program/
+- https://sigir2026.org/en-AU/pages/attending/registration/
+- https://portal.core.edu.au/conf-ranks/?search=ICTIR&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ICTIR 2027 dates and deadlines (not announced yet)
+- CCF 2026 rank (CCF list page was not reachable)
+- Acceptance rate (not stated on the official pages)
+- dblp venue page (dblp was not reachable)
+last_verified: 2026-10-04

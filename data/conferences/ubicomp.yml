@@ -1,0 +1,79 @@
+id: ubicomp
+name: UbiComp/ISWC
+full_name: ACM International Joint Conference on Pervasive and Ubiquitous Computing / International Symposium on Wearable Computers
+type: conference
+tier: top
+areas: [systems, networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (SIGCHI and SIGMOBILE), UbiComp steering committee
+organizer_country: [international]
+proceedings: ACM DL (main track papers in the IMWUT journal; ISWC Notes and Briefs and adjunct proceedings)
+archival: true
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: Journal Published
+  ccf: A
+fee: 1250 USD non-member, 1000 USD ACM member, 700 USD student non-member (2026, early bird, full conference)
+typical:
+  deadline_months: [5]
+  conference_months: [10]
+links:
+  website: https://ubicomp.org/
+  dblp: https://dblp.org/db/conf/huc/
+notes:
+- Joint venue of UbiComp (merger of Pervasive and UbiComp) and ISWC, co-located since 2013
+- Main track presents papers already published in the journal IMWUT (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies), which has three submission deadlines a year (1 February, 1 May, 1 November)
+- ISWC Notes (up to 6 pages) and Briefs are reviewed by the conference and published in the ACM Digital Library
+- Posters, demos and workshop papers go into the adjunct proceedings in the ACM DL, described by the organizers as non-archival
+- Held every October, rotating worldwide (Cancun 2023, Melbourne 2024, Espoo 2025, Shanghai 2026)
+- "CORE ICORE2026: journal published (UbiComp and ISWC); CCF A (human-computer interaction and pervasive computing)"
+- Each IMWUT paper needs its own author registration at the non-student rate
+editions:
+- year: 2025
+  start: 2025-10-12
+  end: 2025-10-16
+  location: Espoo, Finland
+  url: https://ubicomp.org/ubicomp-iswc-2025/
+- year: 2026
+  start: 2026-10-11
+  end: 2026-10-15
+  location: Shanghai, China
+  url: https://ubicomp.org/ubicomp-iswc-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-24
+    time: "23:59"
+    tz: AoE
+    label: ISWC Notes and Briefs
+  - kind: other
+    date: 2026-06-06
+    tz: AoE
+    label: Posters and Demos (extended from 2026-05-23)
+  - kind: notification
+    date: 2026-07-01
+    label: ISWC Notes and Briefs
+  - kind: camera_ready
+    date: 2026-07-31
+    label: ISWC Notes and Briefs (extended from 2026-07-24)
+sources:
+- https://ubicomp.org/ubicomp-iswc-2026/
+- https://ubicomp.org/ubicomp-iswc-2026/imwut-papers/
+- https://ubicomp.org/ubicomp-iswc-2026/iswc-cfp/
+- https://ubicomp.org/ubicomp-iswc-2026/posters-demos-2026/
+- https://ubicomp.org/ubicomp-iswc-2026/author/
+- https://ubicomp.org/ubicomp-iswc-2026/registration/
+- https://ubicomp.org/ubicomp-iswc-2026/past-conferences/
+- https://ubicomp.org/ubicomp-iswc-2025/
+- https://portal.core.edu.au/conf-ranks/?search=UbiComp&by=all&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=ISWC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF list, not on ccf.org.cn directly
+- CORE portal shows the label in lowercase ("journal published") for UbiComp
+- ISWC 2025 Notes and Briefs deadlines (2025 CFP page not reachable)
+- UbiComp/ISWC 2027 location and dates not announced yet
+- Acceptance rate (not stated on the official pages)
+- Indexing (Scopus, EI) not stated on the official pages
+last_verified: 2026-10-04

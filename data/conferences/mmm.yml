@@ -1,0 +1,105 @@
+id: mmm
+name: MMM
+full_name: International Conference on MultiMedia Modeling
+type: conference
+tier: major
+areas: [vision, ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: MMM Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [Scopus, EI, DBLP]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: About 58% (2026, 168 papers from 291 valid submissions, per the Springer volume)
+fee: 18,000 CZK regular author, 2,500 CZK student (2026, early bird; same for online and onsite)
+typical:
+  deadline_months: [8, 9]
+  conference_months: [1]
+links:
+  website: https://mmm2027.net/
+  dblp: https://dblp.org/db/conf/mmm/
+notes:
+- Long-running annual multimedia conference (33rd edition in 2027) run by an international steering committee
+- Proceedings in Springer LNCS (several volumes per year); double-blind review, 12 pages plus 2 pages of references
+- Rotates between Asia and Europe, usually held in January (2025 Nara, 2026 Prague, 2027 Siem Reap)
+- Hosts the Video Browser Showdown (VBS) interactive video retrieval competition, plus special sessions and demos
+- Each accepted paper needs one full (non-student) registration; online presentation was allowed in 2026
+- ICORE2026 rank B; CCF C
+editions:
+- year: 2026
+  start: 2026-01-29
+  end: 2026-01-31
+  location: Prague, Czech Republic
+  url: https://mmm2026.cz/
+  deadlines:
+  - kind: submission
+    date: 2025-09-02
+    time: '23:59'
+    tz: AoE
+    label: Regular and special session papers (extended from 2025-08-19)
+  - kind: other
+    date: 2025-10-05
+    time: '23:59'
+    tz: AoE
+    label: VBS papers (extended from 2025-09-19)
+  - kind: other
+    date: 2025-10-12
+    time: '23:59'
+    tz: AoE
+    label: Demo papers (extended from 2025-10-05)
+  - kind: notification
+    date: 2025-10-29
+    time: '23:59'
+    tz: AoE
+    label: Regular, special session and VBS papers (extended from 2025-10-22)
+  - kind: camera_ready
+    date: 2025-11-07
+    time: '23:59'
+    tz: AoE
+    label: Camera ready and author registration
+- year: 2027
+  start: 2027-01-05
+  end: 2027-01-08
+  location: Siem Reap, Cambodia
+  url: https://mmm2027.net/
+  deadlines:
+  - kind: submission
+    date: 2026-08-30
+    time: '23:59'
+    tz: AoE
+    label: Regular and special session papers (extended from 2026-08-16)
+  - kind: other
+    date: 2026-09-22
+    time: '23:59'
+    tz: AoE
+    label: Demo and VBS papers (extended from 2026-09-07)
+  - kind: notification
+    date: 2026-10-16
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-28
+    time: '23:59'
+    tz: AoE
+sources:
+- https://mmm2027.net/
+- https://mmm2027.net/author_information.html
+- https://mmm2026.cz/
+- https://mmm2026.cz/importantDates.html
+- https://mmm2026.cz/authors.html
+- https://mmm2026.cz/registrationInfo.html
+- https://mmm2026.cz/organisation.html
+- https://mmm2025.net/
+- https://link.springer.com/conference/mmm
+- https://link.springer.com/book/10.1007/978-981-95-6950-2
+- https://portal.core.edu.au/conf-ranks/?search=MMM&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- MMM 2027 registration fees not announced yet
+- Acceptance rate derived from the Springer volume blurb; it may include demo and VBS papers
+last_verified: 2026-10-04

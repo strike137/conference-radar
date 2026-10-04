@@ -1,0 +1,91 @@
+id: secon
+name: IEEE SECON
+full_name: IEEE International Conference on Sensing, Communication, and Networking
+type: conference
+tier: major
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Communications Society (ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+rank:
+  core: B
+  ccf: B
+fee: 750 EUR ComSoc member, 800 EUR IEEE member, 950 EUR non-member (2026, early author registration, incl. 22% VAT)
+typical:
+  deadline_months: [11, 12]
+  conference_months: [5, 6]
+links:
+  website: https://ieee-secon.org/
+  dblp: https://dblp.org/db/conf/secon/index.html
+notes:
+- IEEE ComSoc conference on sensor, ad hoc, mesh and wireless networks, IoT, mobile systems and integrated sensing and
+  communication
+- Full papers up to 9 pages including references and appendices, double-blind review, submitted via EDAS
+- Accepted and presented papers go to IEEE Xplore; one full author registration covers up to 3 papers
+- Poster track with 2-page papers that also appear in the proceedings (2026)
+- Held in Europe or the USA recently (2023 Madrid, 2024 Phoenix, 2026 Pisa, 2027 Lisbon); 2020 to 2022 were virtual
+- No 2025 edition; timing moved from September/December to May/June
+- CORE B (ICORE2026) and CCF B (computer networks)
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-05
+  location: Pisa, Italy
+  url: https://secon2026.ieee-secon.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-30
+    time: "23:59"
+    tz: AoE
+    label: Abstract registration (extended from 2025-12-08)
+  - kind: submission
+    date: 2025-12-30
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2026-03-06
+  - kind: camera_ready
+    date: 2026-03-13
+  - kind: other
+    date: 2026-04-16
+    label: Final camera-ready deadline
+- year: 2027
+  start: 2027-05-05
+  end: 2027-05-07
+  location: Lisbon, Portugal
+  url: https://secon2027.ieee-secon.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    label: Full papers
+  - kind: notification
+    date: 2027-02-15
+  - kind: camera_ready
+    date: 2027-03-15
+sources:
+- https://ieee-secon.org/
+- https://secon2027.ieee-secon.org/call-papers
+- https://secon2027.ieee-secon.org/submission-guidelines
+- https://secon2027.ieee-secon.org/about-us
+- https://secon2026.ieee-secon.org/
+- https://secon2026.ieee-secon.org/important-dates
+- https://secon2026.ieee-secon.org/call-papers
+- https://secon2026.ieee-secon.org/call-posters
+- https://secon2026.ieee-secon.org/registration
+- https://secon2024.ieee-secon.org/
+- https://secon2023.ieee-secon.org/
+- https://secon2022.ieee-secon.org/
+- https://secon2021.ieee-secon.org/
+- https://secon2020.ieee-secon.org/
+- https://portal.core.edu.au/conf-ranks/?search=SECON&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- 2027 submission deadline time and zone not stated on the official pages; no separate abstract deadline announced yet
+- 2027 registration fees not posted yet
+- Acceptance rate not published on the official site
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-04

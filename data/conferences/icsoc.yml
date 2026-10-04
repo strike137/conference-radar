@@ -1,0 +1,109 @@
+id: icsoc
+name: ICSOC
+full_name: International Conference on Service-Oriented Computing
+type: conference
+tier: major
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICSOC Steering Committee (hosted by a local university each year)
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 19% full papers (2025, 42/219; plus 21 short papers)
+fee: 650 EUR regular, 500 EUR student (2026, conference only, early)
+typical:
+  deadline_months: [5, 7]
+  conference_months: [12]
+links:
+  website: https://icsoc2026.it.p.lodz.pl/
+  dblp: https://dblp.org/db/conf/icsoc/index.html
+notes:
+- Run by the ICSOC Steering Committee; each edition is hosted by a local university (Lodz University of Technology
+  in 2026, Harbin Institute of Technology in 2025)
+- Proceedings in Springer LNCS (LNCS 16320 and 16321 for 2025); workshops, PhD symposium and demos have separate
+  calls later in the year
+- Location rotates worldwide; recent editions were Sevilla (2022), Rome (2023), Tunis (2024), Shenzhen (2025)
+  and Lodz (2026)
+- Two review rounds (early submission in May, regular submission in July); early-round papers can get a revision
+  decision and resubmit in the regular round
+- Double-blind review; submissions 10 to 15 pages in LNCS format, accepted papers are full (up to 15 pages) or
+  short (up to 8 pages)
+- In-person event; the 2025 site states that papers of no-show authors are removed from the proceedings
+- Main venue of the services computing community; CORE A and CCF B
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-04
+  location: Shenzhen, China
+  url: https://icsoc2025.hit.edu.cn/
+  deadlines:
+  - kind: submission
+    date: 2025-05-09
+    label: Early round
+  - kind: abstract
+    date: 2025-07-14
+    label: Regular round (extended from 2025-07-07)
+  - kind: submission
+    date: 2025-07-21
+    label: Regular round (extended from 2025-07-14)
+  - kind: notification
+    date: 2025-09-15
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-04
+  location: Lodz, Poland
+  url: https://icsoc2026.it.p.lodz.pl/
+  deadlines:
+  - kind: submission
+    date: 2026-05-10
+    time: "23:59"
+    tz: AoE
+    label: Early round
+  - kind: notification
+    date: 2026-06-25
+    label: Early round
+  - kind: abstract
+    date: 2026-07-12
+    time: "23:59"
+    tz: AoE
+    label: Regular round (extended from 2026-07-05)
+  - kind: submission
+    date: 2026-07-19
+    time: "23:59"
+    tz: AoE
+    label: Regular round (extended from 2026-07-12)
+  - kind: notification
+    date: 2026-09-18
+    label: Final notification (extended from 2026-09-13)
+  - kind: camera_ready
+    date: 2026-09-27
+  - kind: other
+    date: 2026-10-15
+    time: "23:59"
+    tz: AoE
+    label: Workshop paper, PhD symposium and demo submission (extended)
+sources:
+- https://icsoc2026.it.p.lodz.pl/
+- https://icsoc2026.it.p.lodz.pl/important-dates.html
+- https://icsoc2026.it.p.lodz.pl/call-research-papers.html
+- https://icsoc2026.it.p.lodz.pl/proceedings.html
+- https://icsoc2026.it.p.lodz.pl/registration.html
+- https://icsoc2026.it.p.lodz.pl/steering-committee.html
+- https://icsoc2025.hit.edu.cn/main.htm
+- https://icsoc2025.hit.edu.cn/ImportantDates/list.htm
+- https://icsoc2025.hit.edu.cn/19949/list.htm
+- https://icsoc2025.hit.edu.cn/19941/list.htm
+- https://link.springer.com/book/9789819550111
+- https://link.springer.com/book/9789819550142
+- https://portal.core.edu.au/conf-ranks/?search=ICSOC&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF list mirror)
+unverified:
+- ICSOC 2025 deadline time zone (the 2025 Important Dates page gives dates only)
+- ICSOC 2027 host and dates (not announced yet; a call for bids is open on the 2026 site)
+- CCF rank checked via the ccfddl mirror of the CCF list (full name matches), not on ccf.org.cn directly
+last_verified: 2026-10-04

@@ -1,0 +1,99 @@
+id: internetware
+name: Internetware
+full_name: International Conference on Internetware
+type: conference
+tier: minor
+areas: [software, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Internetware Steering Committee (co-chaired by Peking University and Nanjing University), in cooperation with ACM SIGSOFT
+organizer_country: [china]
+proceedings: ACM DL
+indexing: [DBLP]
+rank:
+  ccf: C
+fee: AUD 1,400 ACM member, AUD 1,500 non-member, AUD 1,080 ACM student member (2026, early bird, incl. GST)
+typical:
+  deadline_months: [3, 4, 5]
+  conference_months: [6, 7, 8]
+links:
+  website: https://conf.researchr.org/series/internetware
+  dblp: https://dblp.org/db/conf/internetware/
+notes:
+- Software engineering conference on software for open, dynamic Internet environments (AI, IoT, cloud, services)
+- Named Asia-Pacific Symposium on Internetware until 2024; renamed International Conference on Internetware from
+  the 16th edition (2025)
+- Steering committee co-chaired by Hong Mei (Peking University) and Jian Lu (Nanjing University); mostly Chinese
+  community with European members and one US member
+- Proceedings published by ACM (ACM DL); ACM SIGSOFT Distinguished Paper Awards for the best research papers
+- Research track has two submission cycles with mandatory abstracts and a major revision round; double-anonymous
+  review; 10 pages plus 2 pages of references in ACM double column format
+- Selected papers invited to special issues of Springer EMSE and Automated Software Engineering
+- Also has New Idea and Tool Demonstration tracks and a Future of Internetware Workshop
+- 'Recent hosts: Hangzhou (2023), Macau (2024), Trondheim with FSE (2025), Gold Coast (2026)'
+- Not ranked in ICORE2026; CCF C (listed under its former name Asia-Pacific Symposium on Internetware)
+editions:
+- year: 2026
+  start: 2026-07-18
+  end: 2026-07-20
+  location: Gold Coast, Australia
+  url: https://conf.researchr.org/home/internetware-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-03-28
+    tz: AoE
+    label: Research track, first cycle (mandatory)
+  - kind: submission
+    date: 2026-04-04
+    tz: AoE
+    label: Research track, first cycle
+  - kind: abstract
+    date: 2026-04-27
+    tz: AoE
+    label: Research track, second cycle (mandatory)
+  - kind: submission
+    date: 2026-05-04
+    tz: AoE
+    label: Research track, second cycle
+  - kind: notification
+    date: 2026-05-07
+    tz: AoE
+    label: Research track, first cycle initial notification (incl. major revision)
+  - kind: submission
+    date: 2026-05-09
+    label: Tool demonstration
+  - kind: submission
+    date: 2026-05-14
+    label: New idea track
+  - kind: other
+    date: 2026-05-18
+    tz: AoE
+    label: Research track, first cycle major revision due
+  - kind: notification
+    date: 2026-05-31
+    tz: AoE
+    label: Research track, final (first cycle revisions and second cycle)
+  - kind: camera_ready
+    date: 2026-06-10
+    tz: AoE
+    label: All tracks
+sources:
+- https://conf.researchr.org/home/internetware-2026
+- https://conf.researchr.org/dates/internetware-2026
+- https://conf.researchr.org/track/internetware-2026/internetware-2026-research-track
+- https://conf.researchr.org/attending/internetware-2026/registration
+- https://conf.researchr.org/series/internetware
+- https://conf.researchr.org/home/internetware-2025
+- https://conf.researchr.org/track/internetware-2025/internetware-2025-research-track
+- https://internetware2022.github.io/
+- https://doi.org/10.1145/3755881
+- https://portal.core.edu.au/conf-ranks/?search=Internetware&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/conference/SE/internetware.yml
+unverified:
+- Internetware 2027 not announced yet (researchr internetware-2027 page returns 404 as of 2026-10-04)
+- CCF rank checked via a copy of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- Whether the 2026 proceedings are already in the ACM DL (2025 proceedings confirmed via DOI 10.1145/3755881)
+- Acceptance rate not stated on the official site
+- Time zone of the tool demonstration and new idea deadlines (only the research track page states AoE)
+last_verified: 2026-10-04

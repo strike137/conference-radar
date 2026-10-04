@@ -1,0 +1,74 @@
+id: mt-summit
+name: MT Summit
+full_name: Machine Translation Summit
+type: conference
+tier: minor
+areas: [nlp]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IAMT (International Association for Machine Translation), hosted in turn by its regional associations
+  EAMT, AMTA and AAMT; 2025 run by EAMT with the University of Geneva
+organizer_country: [international]
+proceedings: ACL Anthology
+indexing: [DBLP]
+rank:
+  core: C
+fee: CHF 535 participant / CHF 295 student, early bird member rate (2025, in person)
+typical:
+  deadline_months: [2]
+  conference_months: [6, 9]
+links:
+  website: https://mtsummit2025.unige.ch/
+  dblp: https://dblp.org/db/conf/mtsummit/
+notes:
+- Biennial flagship of IAMT, first held in 1987 in Hakone, Japan; rotates between Europe, the Americas and Asia
+- 20th edition in Geneva, Switzerland (June 2025), organized by EAMT; 2023 edition was in Macau, China
+- Proceedings in the ACL Anthology (two volumes in 2025); co-located workshops also publish there
+- 'Four tracks: research technical, research translators and users (up to 10 pages each), implementations and case
+  studies, and products and projects; submission via EasyChair with a rebuttal period'
+- Research track papers are anonymized; implementations and case studies papers need not be
+- Mix of academic researchers, MT developers and translation industry professionals
+- In person only in 2025; discounted rate for EAMT, AMTA and AAMT members
+- ICORE2026 rank C
+editions:
+- year: 2025
+  start: 2025-06-23
+  end: 2025-06-27
+  location: Geneva, Switzerland
+  url: https://mtsummit2025.unige.ch/
+  deadlines:
+  - kind: submission
+    date: 2025-02-10
+    time: '23:59'
+    tz: AoE
+    label: Extended from 2025-02-03
+  - kind: notification
+    date: 2025-03-31
+    time: '23:59'
+    tz: AoE
+    label: Final notification (first notification 2025-03-19, rebuttal 2025-03-19 to 2025-03-24)
+  - kind: camera_ready
+    date: 2025-04-17
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2025-04-30
+    time: '23:59'
+    tz: AoE
+    label: Author registration
+sources:
+- https://mtsummit2025.unige.ch/
+- https://mtsummit2025.unige.ch/calls.html
+- https://mtsummit2025.unige.ch/about.html
+- https://mtsummit2025.unige.ch/attending.html
+- https://mtsummit2025.unige.ch/proceedings.html
+- https://aclanthology.org/events/mtsummit-2025/
+- https://eamt.org/mt-summit-biannual-conference/
+- https://portal.core.edu.au/conf-ranks/?search=MT+Summit&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- MT Summit 2027 host, dates and deadlines (EAMT says details will be announced by IAMT and the host regional
+  association)
+- Acceptance rate
+- CCF 2026 list not checked directly (ccf.org.cn behind a captcha); MT Summit not expected to be listed
+last_verified: 2026-10-04

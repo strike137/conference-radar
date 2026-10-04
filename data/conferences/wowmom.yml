@@ -1,0 +1,101 @@
+id: wowmom
+name: IEEE WoWMoM
+full_name: IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks
+type: conference
+tier: minor
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: C
+  ccf: C
+fee: 750 EUR author IEEE member, 900 EUR author non-member (2026)
+typical:
+  deadline_months: [12]
+  conference_months: [6]
+links:
+  website: https://www.cs.unibo.it/wowmom2026/
+  dblp: https://dblp.org/db/conf/wowmom/
+notes:
+- Annual IEEE symposium on wireless, mobile, IoT and multimedia networking, usually held in June (27th edition in 2026)
+- Sponsored by the IEEE Computer Society; accepted papers published in IEEE Xplore
+- Double-blind review; regular papers up to 10 pages, work-in-progress papers up to 4 pages (prefix WIP), IEEE two-column format
+- One main deadline in early December (extended by about ten days in 2026); co-located workshops have a later common deadline
+- Selected papers fast-tracked to the Elsevier Pervasive and Mobile Computing journal
+- Rotates between Europe, North America and Oceania (Belfast 2022, Boston 2023, Perth 2024, Fort Worth 2025, Bologna 2026, Irvine 2027)
+- Renamed from 2027 to IEEE Symposium on a World of Wireless Mobility, IoT and Machine Learning (acronym unchanged)
+- 2027 edition requires in-person presentation by an author
+- Rated C in ICORE2026 and C in the CCF list (computer networks category)
+editions:
+- year: 2026
+  start: 2026-06-16
+  end: 2026-06-19
+  location: Bologna, Italy
+  url: https://www.cs.unibo.it/wowmom2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-05
+    time: "23:59"
+    tz: EST
+    label: Paper registration (extended from 2025-11-28)
+  - kind: submission
+    date: 2025-12-15
+    time: "23:59"
+    tz: EST
+    label: Regular and WIP papers (extended from 2025-12-05)
+  - kind: notification
+    date: 2026-03-09
+    label: Extended from 2026-02-19
+  - kind: camera_ready
+    date: 2026-05-05
+    label: Extended from 2026-04-18
+  - kind: other
+    date: 2026-03-22
+    label: Workshop paper submission
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-24
+  location: Irvine, California, USA
+  url: https://wowmom2027.dii.unipi.it/
+  deadlines:
+  - kind: submission
+    date: 2026-12-01
+    time: "23:59"
+    tz: AoE
+    label: Regular and WIP papers
+  - kind: notification
+    date: 2027-02-10
+  - kind: camera_ready
+    date: 2027-05-05
+  - kind: other
+    date: 2026-11-16
+    time: "23:59"
+    tz: AoE
+    label: Workshop proposals
+  - kind: other
+    date: 2027-02-19
+    time: "23:59"
+    tz: AoE
+    label: Workshop paper submission
+sources:
+- https://www.cs.unibo.it/wowmom2026/
+- https://www.cs.unibo.it/wowmom2026/call_for_papers.html
+- https://www.cs.unibo.it/wowmom2026/committees.html
+- https://www.cs.unibo.it/wowmom2026/RegistrationBologna.html
+- https://www.cs.unibo.it/wowmom2026/past_conferences.html
+- https://wowmom2027.dii.unipi.it/index.html
+- https://wowmom2027.dii.unipi.it/call-for-papers.html
+- https://wowmom2027.dii.unipi.it/data/conference.js
+- https://coe.northeastern.edu/Groups/wowmom2023/
+- https://portal.core.edu.au/conf-ranks/?search=WoWMoM&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
+- WoWMoM 2026 camera-ready deadline (CFP text says 2026-04-26, the important dates box says 2026-05-05)
+- Acceptance rate (not stated on the official sites)
+last_verified: 2026-10-04

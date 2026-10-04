@@ -1,0 +1,99 @@
+id: asplos
+name: ASPLOS
+full_name: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+type: conference
+tier: top
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (SIGARCH, SIGPLAN and SIGOPS)
+organizer_country: [international]
+proceedings: ACM DL
+indexing: [ACM DL, DBLP, Scopus]
+rank:
+  core: A*
+  ccf: A
+fee: 1025 USD non-member, 925 USD ACM member, 600 USD student non-member, 550 USD student member (2026, early, main conference only)
+typical:
+  deadline_months: [3, 4, 8, 9]
+  conference_months: [3, 4]
+links:
+  website: https://www.asplos-conference.org/
+  dblp: https://dblp.org/db/conf/asplos/index.html
+notes:
+- Premier multidisciplinary venue spanning computer architecture, programming languages and operating systems
+- ACM conference with SIGARCH, SIGPLAN and SIGOPS as technical sponsors; proceedings in the ACM Digital Library
+- Two submission cycles per year; papers from each cycle are published in separate proceedings volumes before the conference
+- 2027 adds a rapid review round that reads only the first two pages; a majority of submissions may not pass it
+- Double-blind review, 11 pages excluding references, author response, major revision option, optional artifact evaluation
+- Rotates mainly between North America and Europe (Vancouver 2023, San Diego 2024, Rotterdam 2025, Pittsburgh 2026, Heraklion 2027)
+- Regarded as a top systems and architecture venue (ICORE2026 A*, CCF A)
+editions:
+- year: 2026
+  start: 2026-03-22
+  end: 2026-03-26
+  location: Pittsburgh, USA
+  url: https://www.asplos-conference.org/asplos2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-05
+    time: "23:59"
+    tz: EST
+    label: Spring
+  - kind: submission
+    date: 2025-03-12
+    label: Spring
+  - kind: notification
+    date: 2025-06-24
+    label: Spring
+  - kind: abstract
+    date: 2025-08-13
+    time: "23:59"
+    tz: EDT
+    label: Summer
+  - kind: submission
+    date: 2025-08-20
+    label: Summer
+  - kind: notification
+    date: 2025-11-24
+    label: Summer
+- year: 2027
+  start: 2027-04-11
+  end: 2027-04-15
+  location: Heraklion, Crete, Greece
+  url: https://www.asplos-conference.org/asplos2027/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-04-15
+    tz: AoE
+    label: April cycle
+  - kind: notification
+    date: 2026-07-27
+    tz: AoE
+    label: April cycle
+  - kind: submission
+    date: 2026-09-09
+    tz: AoE
+    label: September cycle
+  - kind: notification
+    date: 2026-12-21
+    tz: AoE
+    label: September cycle
+sources:
+- https://www.asplos-conference.org/
+- https://www.asplos-conference.org/asplos2027/
+- https://www.asplos-conference.org/asplos2027/cfp/
+- https://www.asplos-conference.org/asplos2026/
+- https://www.asplos-conference.org/asplos2026/cfp/
+- https://www.asplos-conference.org/asplos2026/registration/
+- https://portal.core.edu.au/conf-ranks/?search=ASPLOS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- Time zone of the ASPLOS 2026 full paper and notification dates (only the abstract deadline states 11:59pm Eastern)
+- Acceptance rate not published on the official site
+- ASPLOS 2027 registration fees and camera-ready dates not announced yet
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
+- ACM DL proceedings pages not checked directly; proceedings stated in the CFP
+last_verified: 2026-10-04

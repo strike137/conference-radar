@@ -1,0 +1,93 @@
+id: cvm
+name: CVM
+full_name: Computational Visual Media Conference
+type: conference
+tier: minor
+areas: [vision, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Tsinghua University with a rotating local host university, in cooperation with ASIAGRAPHICS and the CCF
+  CAD and Graphics Technical Committee
+organizer_country: [china]
+proceedings: Springer LNCS (poster papers); full papers in journals (IEEE TVCG, JCST, Computational Visual Media)
+archival: true
+indexing: [DBLP]
+rank:
+  ccf: C
+fee: 650 USD full, 360 USD student (2026, early bird, non AsiaGraphics member)
+typical:
+  deadline_months: [10]
+  conference_months: [4]
+links:
+  website: https://iccvm.org/2027/
+  dblp: https://dblp.org/db/conf/cvm/
+notes:
+- Annual conference on visual media combining computer graphics, computer vision, image and video processing,
+  visualization and geometric computing; run with Tsinghua University and a local host each year
+- Accepted full papers go through a revision round and are published in journals (IEEE TVCG, JCST, Computational
+  Visual Media); accepted poster papers appear in the Springer LNCS conference proceedings
+- Papers up to 14 pages including references, anonymous submission; a separate 2 page technical brief track is not
+  formally published
+- Usually held in April; most editions so far were in China, recent ones rotate around Asia-Pacific (2023 Shenzhen, 2024
+  Wellington, 2025 Hong Kong, 2026 Seoul, 2027 Singapore)
+- Every accepted paper needs one full (non student) registration by the early bird deadline
+- Not listed in the CORE ICORE2026 portal; CCF C (graphics and multimedia)
+editions:
+- year: 2026
+  start: 2026-04-10
+  end: 2026-04-12
+  location: Seoul, South Korea
+  url: http://iccvm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-10
+    time: "23:59"
+    tz: UTC
+  - kind: submission
+    date: 2025-10-13
+    time: "23:59"
+    tz: UTC
+    label: Full papers
+  - kind: notification
+    date: 2025-12-22
+    label: Extended from 2025-12-15
+  - kind: other
+    date: 2025-12-29
+    time: "23:59"
+    tz: UTC
+    label: Technical brief submission (abstract 2025-12-26)
+- year: 2027
+  start: 2027-04-09
+  end: 2027-04-11
+  location: Nanyang Technological University, Singapore
+  url: https://iccvm.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-23
+    time: "23:59"
+    tz: UTC
+  - kind: submission
+    date: 2026-10-26
+    time: "23:59"
+    tz: UTC
+    label: Full papers
+  - kind: notification
+    date: 2026-12-15
+sources:
+- https://iccvm.org/2027/
+- https://iccvm.org/2027/callPaper.htm
+- https://iccvm.org/2027/submission.htm
+- http://iccvm.org/2026/
+- http://iccvm.org/2026/callPaper.htm
+- http://iccvm.org/2026/submission.htm
+- http://iccvm.org/2026/registration.htm
+- https://link.springer.com/conference/cvm
+- https://link.springer.com/book/10.1007/978-981-96-5809-1
+- https://portal.core.edu.au/conf-ranks/?search=CVM&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/
+unverified:
+- CCF rank checked via the ccfddl and CCFrank4dblp mirrors of the CCF list, not on ccf.org.cn directly (site behind a captcha)
+- CVM 2027 technical brief deadlines (TBD on the official page), registration fees and camera ready dates
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-04

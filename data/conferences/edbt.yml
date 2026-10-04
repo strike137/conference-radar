@@ -1,0 +1,154 @@
+id: edbt
+name: EDBT
+full_name: International Conference on Extending Database Technology
+type: conference
+tier: major
+areas: [data, systems]
+region: europe
+language: english
+frequency: annual
+organizer: EDBT Association, held jointly with ICDT (International Conference on Database Theory)
+organizer_country: [europe]
+proceedings: OpenProceedings.org (Advances in Database Technology, open access)
+archival: true
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: B
+fee: 580 EUR regular, 460 EUR student (2026, early bird, in person)
+typical:
+  deadline_months: [2, 6, 10]
+  conference_months: [3, 4]
+links:
+  website: https://edbticdt2027.github.io/
+  dblp: https://dblp.org/db/conf/edbt/
+notes:
+- Run by the EDBT Association (a non-profit association under Italian law); held jointly with the database theory
+  conference ICDT every year since 2009
+- Proceedings published open access on OpenProceedings.org since 2014 (ISSN 2367-2005); workshop papers go to CEUR-WS
+- Three research submission rounds a year, each with a possible revise decision and a revised submission
+- Research papers up to 12 pages (short and vision papers 6 pages) plus references; also experiments, analysis and
+  benchmarks papers
+- Single-anonymous review; at most three submissions per author per round; artifacts are expected with submissions
+- A paper rejected in one round cannot be resubmitted in the next two rounds
+- Held in Europe every year (Ioannina 2023, Paestum 2024, Barcelona 2025, Tampere 2026, Lille 2027)
+- Separate industrial and application, demo and tutorial tracks
+- Onsite only in 2026; at least one author per accepted paper must register and present
+editions:
+- year: 2026
+  start: 2026-03-24
+  end: 2026-03-27
+  location: Tampere, Finland
+  url: https://edbticdt2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-02-05
+    tz: AoE
+    label: Research papers, round 1
+  - kind: notification
+    date: 2025-03-27
+    tz: AoE
+    label: Round 1 accept/revise/reject
+  - kind: submission
+    date: 2025-06-04
+    tz: AoE
+    label: Research papers, round 2
+  - kind: notification
+    date: 2025-07-31
+    tz: AoE
+    label: Round 2 accept/revise/reject
+  - kind: submission
+    date: 2025-10-08
+    tz: AoE
+    label: Research papers, round 3
+  - kind: notification
+    date: 2025-11-27
+    tz: AoE
+    label: Round 3 accept/revise/reject
+  - kind: submission
+    date: 2025-11-28
+    tz: AoE
+    label: Industrial and application papers
+  - kind: submission
+    date: 2025-12-10
+    label: Demos (extended from 2025-12-03, midnight CET)
+  - kind: notification
+    date: 2026-02-03
+    tz: AoE
+    label: Round 3 final decision on revised papers
+- year: 2027
+  start: 2027-04-06
+  end: 2027-04-09
+  location: Lille, France
+  url: https://edbticdt2027.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-04
+    time: '17:00'
+    tz: PST
+    label: Research papers, round 1
+  - kind: notification
+    date: 2026-04-04
+    label: Round 1 accept/revise/reject
+  - kind: submission
+    date: 2026-06-10
+    time: '17:00'
+    tz: PDT
+    label: Research papers, round 2
+  - kind: notification
+    date: 2026-08-08
+    label: Round 2 accept/revise/reject
+  - kind: other
+    date: 2026-09-17
+    tz: AoE
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-10-07
+    time: '17:00'
+    tz: PDT
+    label: Research papers, round 3
+  - kind: submission
+    date: 2026-11-18
+    time: '17:00'
+    tz: PST
+    label: Demos
+  - kind: submission
+    date: 2026-11-27
+    tz: AoE
+    label: Industrial and application papers
+  - kind: notification
+    date: 2026-12-05
+    label: Round 3 accept/revise/reject
+  - kind: other
+    date: 2026-12-10
+    label: Tutorial proposals
+  - kind: other
+    date: 2027-01-04
+    label: Round 3 revised paper submission
+  - kind: notification
+    date: 2027-01-27
+    label: Round 3 final decision
+  - kind: camera_ready
+    date: 2027-02-10
+    label: Round 3
+sources:
+- https://edbticdt2027.github.io/
+- https://edbticdt2027.github.io/?contents=important_dates.html
+- https://edbticdt2027.github.io/?contents=EDBT_CFP.html
+- https://edbticdt2027.github.io/?contents=call_for_demos.html
+- https://edbticdt2027.github.io/?contents=call_for_IAP.html
+- https://edbticdt2027.github.io/?contents=call_for_WP.html
+- https://edbticdt2026.github.io/
+- https://edbticdt2026.github.io/?contents=important_dates.html
+- https://edbticdt2026.github.io/?contents=registration.html
+- https://openproceedings.org/html/pages/2026_edbt.html
+- https://edbt.org/
+- https://portal.core.edu.au/conf-ranks/?search=EDBT&by=all&source=ICORE2026&sort=atitle&page=1
+- https://ccf.atom.im/
+unverified:
+- CCF rank read from a mirror of the CCF 2026 list (ccf.atom.im); the official ccf.org.cn list page was not reachable
+- EDBT 2027 research and demo deadlines are given as 5 pm PT (the research call says 5pm PST); PDT assumed for June
+  and October
+- EDBT 2026 round 3 revised paper deadline (listed as January 5, 2025 on the official page, an apparent typo)
+- EDBT 2027 registration fees and acceptance rate (not announced)
+last_verified: 2026-10-04

@@ -1,0 +1,66 @@
+id: plas
+name: PLAS
+full_name: Workshop on Programming Languages and Analysis for Security
+type: workshop
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGSAC (co-located with ACM CCS)
+organizer_country: [international]
+proceedings: None (participants only)
+archival: false
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://plas26.github.io/
+  dblp: https://dblp.org/db/conf/plas/index.html
+notes:
+- One-day workshop co-located with ACM CCS; location follows CCS (2023 Copenhagen, 2024 Salt Lake City, 2025 Taipei,
+  2026 The Hague)
+- Long-running series (21st edition in 2026); labeled an ACM SIGPLAN workshop up to 2018 and ACM SIGSAC since 2019
+- 'Non-archival: no published proceedings, papers are made available to participants only and can
+  be published elsewhere'
+- Long papers with no page limit and short papers of at most 2 pages plus references; single-blind review via HotCRP
+- Topics include side channels, software isolation, compiler hardening, program and binary analysis, fuzzing,
+  protocol verification and information flow
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Taipei, Taiwan
+  url: https://plas25.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-07-04
+    tz: AoE
+    label: Extended from 2025-06-20
+  - kind: notification
+    date: 2025-08-08
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-19
+  location: The Hague, Netherlands
+  url: https://plas26.github.io/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-06-26
+    tz: AoE
+    label: Extended from 2026-06-20
+  - kind: notification
+    date: 2026-08-07
+sources:
+- https://plas26.github.io/
+- https://plas25.github.io/
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=PLAS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CCF list page could not be loaded (captcha); PLAS is not known to be on the CCF list
+- Whether older editions had ACM DL proceedings not checked (DBLP page could not be read)
+- Acceptance rate and registration fee not stated on the workshop site
+- PLAS 2027 not announced yet
+last_verified: 2026-10-04

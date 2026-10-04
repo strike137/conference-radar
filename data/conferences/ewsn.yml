@@ -1,0 +1,106 @@
+id: ewsn
+name: EWSN
+full_name: International Conference on Embedded Wireless Systems and Networks
+type: conference
+tier: major
+areas: [networking, communications, systems]
+region: europe
+language: english
+frequency: annual
+organizer: EWSN Steering Committee (series site hosted at TU Graz)
+organizer_country: [europe]
+proceedings: ACM DL
+indexing: [ACM DL, Scopus, DBLP]
+rank:
+  core: B
+fee: 450 EUR full, 350 EUR student (2026, early bird)
+typical:
+  deadline_months: [12, 3]
+  conference_months: [9]
+links:
+  website: https://ewsn.org/
+  dblp: https://dblp.org/db/conf/ewsn/index.html
+notes:
+- Single-track conference on networked embedded systems, wireless sensor networks, IoT and cyber-physical systems
+- Founded in 2004 as the European Workshop on Wireless Sensor Networks, renamed European Conference on Wireless
+  Sensor Networks in 2007 and International Conference on Embedded Wireless Systems and Networks in 2016
+- Run by a steering committee (chair at TU Graz); held in Europe in most years (2024 in Abu Dhabi, 2019 in Beijing)
+- Proceedings in the ACM Digital Library, also indexed in Scopus and DBLP
+- Two submission rounds (winter and spring) with accept, reject or one-shot revision decisions; double-blind review
+- Full papers up to 12 pages and short papers up to 6 pages; at least one author must register at the full
+  (non-student) rate and present in person
+- Moved from February to autumn in 2022 (October 2022, September since 2023 except December 2024)
+- ICORE2026 rank B; not in the CCF list
+editions:
+- year: 2026
+  start: 2026-09-16
+  end: 2026-09-18
+  location: Dresden, Germany
+  url: https://ewsn26.netd.cs.tu-dresden.de/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-02-04
+    time: "23:59"
+    tz: AoE
+    label: Winter round (extended from 2026-01-30)
+  - kind: submission
+    date: 2026-02-04
+    time: "23:59"
+    tz: AoE
+    label: Winter round
+  - kind: notification
+    date: 2026-03-09
+    label: Winter round
+  - kind: camera_ready
+    date: 2026-03-30
+    label: Winter round
+  - kind: abstract
+    date: 2026-05-03
+    time: "23:59"
+    tz: AoE
+    label: Spring round (extended from 2026-04-24)
+  - kind: submission
+    date: 2026-05-03
+    time: "23:59"
+    tz: AoE
+    label: Spring round (extended from 2026-05-01)
+  - kind: notification
+    date: 2026-06-15
+    label: Spring round
+  - kind: camera_ready
+    date: 2026-07-06
+    label: Spring round
+  - kind: other
+    date: 2026-07-15
+    label: Posters and demos submission (extended)
+- year: 2027
+  start: 2027-09-27
+  end: 2027-09-30
+  location: Thessaloniki, Greece
+  url: https://ewsn27.diag.uniroma1.it/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-12-10
+    label: Winter round
+  - kind: submission
+    date: 2027-03-25
+    label: Spring round
+sources:
+- https://ewsn.org/
+- https://ewsn26.netd.cs.tu-dresden.de/
+- https://ewsn26.netd.cs.tu-dresden.de/calls/papers
+- https://ewsn26.netd.cs.tu-dresden.de/registration
+- https://ewsn26.netd.cs.tu-dresden.de/calls/posters-demos
+- https://ewsn27.diag.uniroma1.it/
+- https://ewsn27.diag.uniroma1.it/call-for-papers
+- https://portal.core.edu.au/conf-ranks/?search=EWSN&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- EWSN 2027 abstract, notification and camera-ready dates and the deadline time zone (only the two submission dates
+  are announced so far)
+- Absence from the CCF list checked via a mirror of the CCF list, not on ccf.org.cn directly (site blocks automated
+  access)
+- Acceptance rate (not stated on the official pages)
+last_verified: 2026-10-04

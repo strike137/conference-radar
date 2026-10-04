@@ -1,0 +1,75 @@
+id: sectl
+name: SecTL
+full_name: ACM Workshop on Secure and Trustworthy Deep Learning Systems
+type: workshop
+tier: minor
+areas: [security, ai]
+region: asia-pacific
+language: english
+frequency: irregular
+organizer: Australian academics (steering committee from the University of Melbourne and CSIRO Data61; 2025 chairs
+  from UQ and Swinburne); co-located with ACM AsiaCCS, sponsored by ACM SIGSAC
+organizer_country: [australia]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [12, 4]
+  conference_months: [7, 8]
+links:
+  website: https://asiaccs-sectl.github.io/
+notes:
+- 'Half-day workshop co-located with ACM AsiaCCS: 2023 Melbourne (first edition), 2024 Singapore, 2025 Hanoi'
+- Proceedings published in the ACM Digital Library as a separate workshop volume each year (2023, 2024, 2025)
+- Double-blind review; up to 12 pages in double-column ACM format including references and appendices; position and
+  work-in-progress papers welcome
+- 'Two submission cycles in 2025 (December and April), with the second deadline extended'
+- 'Small program: 5 papers plus 2 keynotes and a poster session in 2025'
+- Not among the AsiaCCS 2026 co-located workshops (Bangalore), so the series may have paused
+editions:
+- year: 2025
+  label: With ACM AsiaCCS 2025
+  start: 2025-08-26
+  end: 2025-08-26
+  location: Hanoi, Vietnam
+  url: https://asiaccs-sectl.github.io/
+  deadlines:
+  - kind: submission
+    date: 2024-12-22
+    time: "23:59"
+    tz: AoE
+    label: First cycle
+  - kind: notification
+    date: 2025-02-03
+    label: First cycle
+  - kind: submission
+    date: 2025-04-25
+    time: "23:59"
+    tz: AoE
+    label: Second cycle (extended)
+  - kind: notification
+    date: 2025-05-20
+    label: Second cycle
+  - kind: camera_ready
+    date: 2025-05-27
+    label: Second cycle (first cycle 2025-05-16)
+sources:
+- https://asiaccs-sectl.github.io/
+- https://asiaccs-sectl.github.io/cfp/
+- https://asiaccs-sectl.github.io/agenda/
+- https://asiaccs-sectl.github.io/committee/
+- https://asiaccs-sectl.github.io/2023/
+- https://asiaccs2025.hust.edu.vn/workshops/
+- https://asiaccs2026.cse.iitkgp.ac.in/workshops/
+- https://api.crossref.org/works/10.1145/3709021
+- https://api.crossref.org/works/10.1145/3665451
+- https://api.crossref.org/works/10.1145/3591197
+- https://portal.core.edu.au/conf-ranks/?search=SecTL&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found and no 2027 edition announced; the official site still shows the 2025 edition
+- Not found in the ICORE2026 portal (0 results for SecTL), so listed as Unranked; not in the CCF 2026 list
+- 2024 edition details (the linked 2024 site www.sectl.com is now a parked domain)
+- Acceptance rate and fee
+last_verified: 2026-10-04

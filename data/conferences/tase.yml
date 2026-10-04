@@ -1,0 +1,70 @@
+id: tase
+name: TASE
+full_name: International Symposium on Theoretical Aspects of Software Engineering
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: TASE Steering Committee
+organizer_country: [china]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  core: 'National: China'
+  ccf: C
+acceptance_rate: 44% (2026, 28/64 incl. 5 short papers); 32% (2025, 21/66)
+fee: 550 USD author or early regular, 620 USD regular after 2026-06-20 (2026)
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7]
+links:
+  website: https://tase2026.github.io/
+  dblp: https://dblp.org/db/conf/tase/
+notes:
+- Formal methods and theory applied to software engineering (verification, model checking, program analysis,
+  testing, semantics)
+- Steering committee mostly from East China Normal University (Jifeng He, Huibiao Zhu), plus members from Japan,
+  Ireland and Xidian University
+- Proceedings in Springer LNCS; long papers up to 16 pages and short papers up to 6 pages (excluding bibliography)
+  in LNCS format, submitted via EasyChair
+- Selected papers invited to a special issue of Science of Computer Programming
+- Alternates between China and Europe in recent years (Cluj-Napoca 2022, Bristol 2023, Guiyang 2024, Limassol
+  2025, Shanghai 2026)
+- 'ICORE2026 lists it as National: China; CCF C (software engineering category)'
+- Registration about 4000 RMB (550 USD) for authors in 2026; at least one author must register per accepted paper
+editions:
+- year: 2026
+  start: 2026-07-04
+  end: 2026-07-06
+  location: Shanghai, China
+  url: https://tase2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-01
+    label: Extended from 2026-02-15
+  - kind: submission
+    date: 2026-03-07
+    label: Extended from 2026-02-21
+  - kind: notification
+    date: 2026-04-18
+    label: Extended from 2026-04-01
+  - kind: camera_ready
+    date: 2026-05-01
+sources:
+- https://tase2026.github.io/
+- https://tase2026.github.io/c_impd.html
+- https://tase2026.github.io/c_cfp.html
+- https://tase2026.github.io/c_chair.html
+- https://tase2026.github.io/c_reg.html
+- https://link.springer.com/book/10.1007/978-3-032-30693-7
+- https://link.springer.com/book/10.1007/978-3-031-98208-8
+- https://link.springer.com/conference/tase
+- https://portal.core.edu.au/conf-ranks/?search=TASE&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- TASE 2027 dates, location and deadlines (no official 2027 site found)
+- Time zone of the 2026 deadlines (not stated on the important dates page; earlier editions used AoE)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-04

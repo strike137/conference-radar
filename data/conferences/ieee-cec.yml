@@ -1,0 +1,100 @@
+id: ieee-cec
+name: IEEE CEC
+full_name: IEEE Congress on Evolutionary Computation
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computational Intelligence Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+fee: About 950 to 1,350 EUR (2026, as part of WCCI, early member to on-site non-member, incl. 21% VAT); students 550 to 900 EUR
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7]
+links:
+  website: https://ieeecec.org/2027
+  dblp: https://dblp.org/db/conf/cec/
+notes:
+- Flagship evolutionary computation conference of the IEEE Computational Intelligence Society, held annually since 1994
+- In even years it runs inside IEEE WCCI together with IJCNN and FUZZ-IEEE (WCCI 2026 in Maastricht); in odd years
+  it is held on its own (CEC 2025 Hangzhou, CEC 2027 Edinburgh)
+- Rotates worldwide; recent Asian editions are Yokohama 2024 (WCCI) and Hangzhou 2025
+- Proceedings in IEEE Xplore; at least one author must register and present, in person or virtually (2026)
+- 2027 has full papers (8 pages) plus a separate 4-page short paper track published in the CEC Companion
+  Proceedings, and conference-to-journal and journal-to-conference tracks with IEEE TEVC
+- Deadlines are firm; the official pages state that no extension will be given
+- Main IEEE venue for evolutionary computation; the ACM counterpart GECCO is ranked higher by CORE (A vs B)
+editions:
+- year: 2026
+  label: Part of IEEE WCCI 2026
+  start: 2026-06-21
+  end: 2026-06-26
+  location: Maastricht, Netherlands
+  url: https://attend.ieee.org/wcci-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    time: '23:59'
+    tz: AoE
+    label: Regular papers (no extension)
+  - kind: other
+    date: 2026-03-10
+    label: Late-breaking papers
+  - kind: notification
+    date: 2026-03-16
+    label: Notifications sent 16 to 22 March
+  - kind: camera_ready
+    date: 2026-04-15
+    label: Also presenter registration deadline
+- year: 2027
+  start: 2027-07-25
+  end: 2027-07-28
+  location: Edinburgh, United Kingdom
+  url: https://ieeecec.org/2027
+  deadlines:
+  - kind: other
+    date: 2026-11-15
+    label: Special session and workshop proposals
+  - kind: other
+    date: 2026-12-15
+    label: Competition and tutorial proposals
+  - kind: submission
+    date: 2027-02-28
+    label: Full papers (no extension)
+  - kind: submission
+    date: 2027-03-15
+    time: '23:59'
+    tz: AoE
+    label: Short papers (no extension)
+  - kind: notification
+    date: 2027-04-07
+  - kind: camera_ready
+    date: 2027-05-01
+    label: Also early registration deadline
+sources:
+- https://ieeecec.org/2027
+- https://ieeecec.org/2027/authors/call-for-papers
+- https://ieeecec.org/2027/call-for-short-papers
+- https://ieeecec.org/2027/about/history
+- https://cis.ieee.org/conferences/conference-calendar
+- https://attend.ieee.org/wcci-2026/
+- https://attend.ieee.org/wcci-2026/important-dates/
+- https://attend.ieee.org/wcci-2026/ieee-cec-2025/
+- https://attend.ieee.org/wcci-2026/final-author-instructions/
+- https://attend.ieee.org/wcci-2026/registrations/
+- https://portal.core.edu.au/conf-ranks/?search=CEC&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF, AI conferences class C)
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- CCF 2026 rank checked via a copy of the CCF 2026 list PDF and the CCFrank4dblp mirror, not on ccf.org.cn directly
+- Time zone of the CEC 2027 full paper deadline (not stated on the home page; short papers are 23:59 AoE)
+- CEC acceptance rate (no official figure found)
+- CEC 2027 registration fees not yet published
+last_verified: 2026-10-04

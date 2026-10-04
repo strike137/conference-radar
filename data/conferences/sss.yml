@@ -1,0 +1,132 @@
+id: sss
+name: SSS
+full_name: International Symposium on Stabilization, Safety, and Security of Distributed Systems
+type: conference
+tier: minor
+areas: [systems, security, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: SSS Steering Committee (self-stabilization community)
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  core: C
+fee: 4,300 SEK regular/author, 3,000 SEK student (2026, early, incl. VAT); 500 USD author, 350 USD student (2025, early)
+typical:
+  deadline_months: [3, 5, 7]
+  conference_months: [10]
+links:
+  website: https://sss2026.conf.lip6.fr/
+  dblp: https://dblp.org/db/conf/sss/
+notes:
+- Long-running symposium (28th edition in 2026) on self-stabilizing, fault-tolerant and secure distributed systems,
+  rooted in the self-stabilization workshops (WSS) that started in 1989
+- Run by an international steering committee; location rotates worldwide (Jersey City 2023, Nagoya 2024, Kathmandu
+  2025, Gothenburg 2026)
+- Proceedings in Springer LNCS; selected papers invited to a journal special issue (Theoretical Computer Science
+  for 2025)
+- Three non-overlapping submission rounds per year (two in 2024); papers rejected in an early round may be revised and
+  resubmitted with the earlier reviews passed on
+- Double-blind (relaxed, arXiv allowed); regular papers up to 15 pages in LNCS format, brief announcements up to 5
+  pages
+- Best paper and best student paper awards; student scholarships offered in 2026
+- 'CORE rank C (ICORE2026); not in the CCF 2026 list'
+- Each accepted paper needs a full regular/author registration, even when the presenter is a student
+editions:
+- year: 2025
+  start: 2025-10-09
+  end: 2025-10-11
+  location: Kathmandu, Nepal
+  url: https://sss2025.conf.lip6.fr/
+  deadlines:
+  - kind: submission
+    date: 2025-03-21
+    time: "23:59"
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2025-04-30
+    label: Round 1
+  - kind: submission
+    date: 2025-05-15
+    time: "23:59"
+    tz: AoE
+    label: Round 2
+  - kind: notification
+    date: 2025-06-30
+    label: Round 2
+  - kind: submission
+    date: 2025-07-22
+    time: "23:59"
+    tz: AoE
+    label: Round 3 (extended from 2025-07-15)
+  - kind: notification
+    date: 2025-08-30
+    label: Round 3
+  - kind: camera_ready
+    date: 2025-09-10
+    label: Round 3
+- year: 2026
+  start: 2026-10-09
+  end: 2026-10-11
+  location: Gothenburg, Sweden
+  url: https://sss2026.conf.lip6.fr/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-03-31
+    time: "23:59"
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2026-04-30
+    label: Round 1
+  - kind: submission
+    date: 2026-05-22
+    time: "23:59"
+    tz: AoE
+    label: Round 2
+  - kind: notification
+    date: 2026-06-30
+    label: Round 2
+  - kind: abstract
+    date: 2026-07-25
+    time: "23:59"
+    tz: AoE
+    label: Round 3
+  - kind: submission
+    date: 2026-07-26
+    time: "23:59"
+    tz: AoE
+    label: Round 3
+  - kind: notification
+    date: 2026-08-31
+    label: Round 3
+  - kind: camera_ready
+    date: 2026-07-31
+    label: Rounds 1 and 2
+  - kind: camera_ready
+    date: 2026-09-10
+    label: Round 3
+  - kind: other
+    date: 2026-09-09
+    time: "23:59"
+    tz: CEST
+    label: Author registration
+sources:
+- https://sss2026.conf.lip6.fr/
+- https://sss2025.conf.lip6.fr/
+- https://sss2024.github.io/
+- https://selfstabilization.org/
+- https://link.springer.com/conference/sss
+- https://link.springer.com/book/10.1007/978-3-032-11127-2
+- https://portal.core.edu.au/conf-ranks/?search=SSS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- SSS 2026 proceedings series (the 2026 CFP says only "published by Springer"; LNCS in 2023 to 2025)
+- SSS 2027 dates and location (not announced yet)
+- Acceptance rate not published
+- Whether the SSS 2026 deadlines were extended (none shown on the site)
+last_verified: 2026-10-04

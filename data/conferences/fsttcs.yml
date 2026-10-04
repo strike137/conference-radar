@@ -1,0 +1,78 @@
+id: fsttcs
+name: FSTTCS
+full_name: IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science
+type: conference
+tier: minor
+areas: [general, software]
+region: south-asia
+language: english
+frequency: annual
+organizer: IARCS (Indian Association for Research in Computing Science), in association with ACM India
+organizer_country: [india]
+proceedings: LIPIcs (Leibniz International Proceedings in Informatics, Dagstuhl)
+indexing: [DBLP, Scopus]
+rank:
+  core: 'National: India'
+  ccf: C
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://www.fsttcs.org.in/
+  dblp: https://dblp.org/db/conf/fsttcs/
+notes:
+- Held every December since 1981 at a rotating Indian host institution; organized by IARCS in association with ACM
+  India; described by its organizers as the premier international computer science conference in India
+- Proceedings in LIPIcs (open access, CC-BY) since 2008; Springer LNCS from 1984 to 2007
+- 'Two tracks: Track A (algorithms, complexity, cryptography, learning theory) and Track B (logic, automata, formal
+  methods, programming languages, verification)'
+- Double-blind review with a rebuttal phase; papers up to 15 pages in LIPIcs style plus optional appendix
+- At least one author must present in person for the paper to appear in the proceedings
+- Pre- and post-conference workshops and tutorials around the main conference
+- Ranked CCF C (theory) and National India in ICORE2026; well regarded in the theory and formal methods community
+editions:
+- year: 2025
+  label: 45th FSTTCS
+  start: 2025-12-17
+  end: 2025-12-19
+  location: BITS Pilani K K Birla Goa Campus, Goa, India
+  url: https://www.fsttcs.org.in/archives/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-11
+    tz: AoE
+  - kind: notification
+    date: 2025-09-15
+- year: 2026
+  label: 46th FSTTCS
+  start: 2026-12-16
+  end: 2026-12-18
+  location: IIT Delhi, New Delhi, India
+  url: https://www.fsttcs.org.in/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-04
+    tz: AoE
+  - kind: submission
+    date: 2026-07-11
+    tz: AoE
+  - kind: notification
+    date: 2026-09-15
+  - kind: other
+    date: 2026-09-27
+    label: Workshop and tutorial proposals (extended from 2026-09-20)
+sources:
+- https://www.fsttcs.org.in/
+- https://www.fsttcs.org.in/2026/
+- https://www.fsttcs.org.in/archives/index.php
+- https://www.fsttcs.org.in/archives/2025/
+- https://fmindia.cmi.ac.in/fsttcs2026-local/index.html
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-360
+- https://portal.core.edu.au/conf-ranks/?search=FST%26TCS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/TCS/
+last_verified: 2026-10-04
+unverified:
+- CORE lists the venue under the acronym FST&TCS (searching FSTTCS returns no result)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (captcha)
+- Camera-ready deadlines, registration fees and acceptance rates are not published on the official pages
+- FSTTCS 2025 abstract deadline (the 2025 page lists July 4 but says there was no separate abstract deadline)

@@ -1,0 +1,79 @@
+id: systex
+name: SysTEX
+full_name: Workshop on System Software for Trusted Execution
+type: workshop
+tier: minor
+areas: [security, systems]
+region: europe
+language: english
+frequency: annual
+organizer: SysTEX workshop organizers (co-located with EuroSys or IEEE EuroS&P)
+proceedings: ACM DL
+typical:
+  deadline_months: [2, 3]
+  conference_months: [4, 7]
+links:
+  website: https://systex-workshop.github.io/
+notes:
+- One-day workshop on Trusted Execution Environments (TEEs) and system software for trustworthy systems; 9th
+  edition in 2026
+- Co-location host changes; EuroSys 2026 (Edinburgh), IEEE EuroS&P 2025 (Venice) and 2024 (Vienna), EuroSys 2023
+  (Rome), ASPLOS 2022 (Lausanne), SOSP 2019
+- Proceedings follow the host; ACM Digital Library in 2026, IEEE Xplore in 2024 and 2025
+- Double-blind review with at least three reviews per paper; regular papers (6 pages), short research statements
+  (1-2 pages) and tool papers (4 pages); short statements and tool papers may opt out of the proceedings
+- Optional artifact evaluation with badges
+- Not listed in ICORE2026 (portal search returns no result)
+editions:
+- year: 2025
+  start: 2025-07-04
+  end: 2025-07-04
+  location: Venice, Italy
+  url: https://systex-workshop.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-03-24
+  - kind: camera_ready
+    date: 2025-04-07
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Edinburgh, UK
+  url: https://systex-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-20
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-02-15
+  - kind: notification
+    date: 2026-03-16
+  - kind: camera_ready
+    date: 2026-03-27
+  - kind: other
+    date: 2026-03-23
+    time: "23:59"
+    tz: AoE
+    label: Artifact submission
+sources:
+- https://systex-workshop.github.io/
+- https://systex-workshop.github.io/2026/
+- https://systex-workshop.github.io/2026/cfp.html
+- https://systex-workshop.github.io/2026/committee.html
+- https://systex-workshop.github.io/2025/
+- https://systex-workshop.github.io/2025/cfp.html
+- https://systex24.github.io/
+- https://systex24.github.io/cfp.html
+- https://systex.cs.fau.de/systex23/
+- https://systex22.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=SysTEX&by=all&source=ICORE2026
+unverified:
+- SysTEX 2027 host conference, dates and deadlines (not announced yet)
+- organizer_country (no formal organizing society or steering committee named on the site)
+- Acceptance rate and registration fee (not stated; registration goes through the host conference)
+- Not in the CCF 2026 list as far as checked
+last_verified: 2026-10-04

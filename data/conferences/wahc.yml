@@ -1,0 +1,65 @@
+id: wahc
+name: WAHC
+full_name: Workshop on Encrypted Computing and Applied Homomorphic Cryptography
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: HomomorphicEncryption.org (Homomorphic Encryption Standardization consortium), co-located with ACM CCS
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL, DBLP]
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11]
+links:
+  website: https://homomorphicencryption.org/wahc-2026/
+  dblp: https://dblp.org/db/conf/wahc/index.html
+notes:
+- One-day workshop co-located with ACM CCS; location follows CCS (2025 Taipei, 2026 The Hague); 2026 is the 14th edition
+- Run by the HomomorphicEncryption.org standardization consortium (open industry, government and academic group);
+  organizing committee from Duality Technologies and Optalysys
+- Proceedings published by ACM in the ACM Digital Library
+- Focus on practical fully homomorphic encryption, encrypted computing, FHE compilers and applications; strong
+  industry participation
+- Anonymous submissions up to 12 pages in ACM double-column format including references and appendices; demo papers
+  up to 6 pages
+- At least one author per accepted paper is expected to attend in person; registration is through CCS
+- Small program (7 accepted papers in 2025 and 7 in 2026)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Taipei, Taiwan
+  url: https://homomorphicencryption.org/wahc-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-27
+  - kind: notification
+    date: 2025-09-08
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-19
+  location: The Hague, Netherlands
+  url: https://homomorphicencryption.org/wahc-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-19
+    tz: AoE
+  - kind: notification
+    date: 2026-09-25
+sources:
+- https://homomorphicencryption.org/wahc-2025/
+- https://homomorphicencryption.org/wahc-2026/
+- https://doi.org/10.1145/3733811.3767310
+- https://portal.core.edu.au/conf-ranks/?search=WAHC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CCF 2026 listing not checked (ccf.org.cn not reachable); rank.ccf left out, the venue is not expected to be listed
+- Acceptance rates not stated (only accepted paper lists are published); fees follow ACM CCS workshop registration
+- Camera-ready deadlines not stated on the workshop pages
+- Locations of editions before 2025 not checked; region set from co-location with ACM CCS, which rotates worldwide
+last_verified: 2026-10-04

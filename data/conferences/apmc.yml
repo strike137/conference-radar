@@ -1,0 +1,91 @@
+id: apmc
+name: APMC
+full_name: Asia-Pacific Microwave Conference
+type: conference
+tier: minor
+areas: [communications]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Host-country society in rotation (2026 IEICE, Japan; 2025 KIEES, Korea); technically sponsored by IEEE
+  MTT-S, EuMA and URSI
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore]
+fee: 100,000 JPY member, 135,000 JPY non-member, 45,000 JPY student member (2026, early, Superpass incl. workshops);
+  650 USD member early (2025, conference only)
+typical:
+  deadline_months: [5, 6, 7]
+  conference_months: [11, 12]
+links:
+  website: https://www.apmc2026.org/
+notes:
+- Held since 1986 and described by its organizers as the premier microwave event in the Asia-Pacific region; rotates
+  among more than 10 countries
+- Each edition is run by a society of the host country (IEICE in 2026, KIEES in 2025) with technical sponsorship from
+  IEEE MTT-S, EuMA and URSI
+- Covers microwave, millimeter-wave and terahertz devices, circuits, antennas, propagation, systems and applications
+- Short papers (3 to 4 pages in 2026, up to 3 pages in 2025) via EDAS; peer reviewed; accepted and presented papers
+  go to IEEE Xplore
+- 2026 papers also appear in the IEICE Proceedings Series; selected papers can go to IEEE MWTL or an IEICE
+  Transactions on Electronics special issue
+- Late Breaking News track with a short deadline in August (camera-ready on submission, no revision)
+- At least one author must register and present the paper at the conference, or it is dropped from the proceedings
+- Not listed in ICORE2026 or the CCF list; microwave engineering venue outside the usual CS rankings
+editions:
+- year: 2025
+  start: 2025-12-02
+  end: 2025-12-05
+  location: Jeju, South Korea
+  url: https://www.apmc2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-07-13
+    time: '23:59'
+    tz: KST
+    label: Papers (extended from 2025-06-29)
+  - kind: notification
+    date: 2025-08-21
+  - kind: camera_ready
+    date: 2025-10-03
+    label: Final manuscript and copyright transfer
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-11
+  location: Fukuoka, Japan
+  url: https://www.apmc2026.org/
+  deadlines:
+  - kind: other
+    date: 2026-03-25
+    label: Workshop, short course and special session proposals (extended from 2026-03-02)
+  - kind: submission
+    date: 2026-06-02
+    time: '23:59'
+    tz: UTC-10
+    label: Papers (extended from 2026-05-18)
+  - kind: notification
+    date: 2026-08-12
+  - kind: other
+    date: 2026-08-17
+    label: Late Breaking News papers
+  - kind: camera_ready
+    date: 2026-08-31
+    time: '23:59'
+    tz: UTC-10
+    label: Final manuscript and presenter registration
+sources:
+- https://www.apmc2026.org/
+- https://www.apmc2026.org/paper-submission.html
+- https://www.apmc2026.org/final-paper-submission.html
+- https://www.apmc2026.org/latebreakingnews_papersubmission.html
+- https://www.apmc2026.org/registration.html
+- https://www.apmc2025.org/
+- https://www.apmc2025.org/paperSub
+- https://www.apmc2025.org/reg
+- https://portal.core.edu.au/conf-ranks/?search=APMC&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- APMC 2027 host and dates (not found)
+- Acceptance rate
+- Host countries of editions before 2025 (region inferred from the stated rotation among Asia-Pacific countries)
+last_verified: 2026-10-04

@@ -1,0 +1,95 @@
+id: atva
+name: ATVA
+full_name: International Symposium on Automated Technology for Verification and Analysis
+type: conference
+tier: major
+areas: [software]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ATVA Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  core: B
+  ccf: C
+acceptance_rate: 36% (2025, 21/59 incl. 4 short papers)
+fee: HKD 4,300 non-student early bird, HKD 2,350 student early bird (2026, covers APLAS and ATVA, workshops and banquet)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [10, 11, 12]
+links:
+  website: https://atva-conference.org/
+  dblp: https://dblp.org/db/conf/atva/
+notes:
+- Formal methods venue on automated analysis, verification and synthesis of hardware and software systems
+- Run by an international steering committee; contact address at Academia Sinica, Taiwan
+- Proceedings in Springer LNCS; 18 pages plus references in LNCS format
+- Regular papers double-blind, tool papers single-blind with mandatory artifact evaluation; author response period
+- 'Mostly held in Asia or Oceania; recent hosts: Gold Coast (2021), Beijing (2022), Singapore (2023), Kyoto (2024),
+  Bengaluru (2025), Hong Kong (2026)'
+- Co-located with APLAS since 2025; 2026 adds the Spotlights of Verification talks (no proceedings)
+- CORE B, CCF C
+editions:
+- year: 2025
+  start: 2025-10-27
+  end: 2025-10-31
+  location: Bengaluru, India
+  url: https://conf.researchr.org/home/atva-2025
+  deadlines:
+  - kind: submission
+    date: 2025-04-25
+    tz: AoE
+    label: Abstract and paper
+  - kind: notification
+    date: 2025-07-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-07
+    tz: AoE
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-04
+  location: Hong Kong, China
+  url: https://conf.researchr.org/track/aplas-atva-2026/atva-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-19
+    tz: AoE
+  - kind: submission
+    date: 2026-05-21
+    tz: AoE
+  - kind: other
+    date: 2026-05-28
+    tz: AoE
+    label: Tool paper artifact submission
+  - kind: notification
+    date: 2026-07-23
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-10
+    tz: AoE
+  - kind: other
+    date: 2026-10-08
+    label: Spotlights of Verification abstract submission
+sources:
+- https://atva-conference.org/
+- https://atva-conference.org/previous-events/
+- https://atva-conference.org/organization/
+- https://conf.researchr.org/home/aplas-atva-2026
+- https://conf.researchr.org/track/aplas-atva-2026/atva-2026
+- https://conf.researchr.org/dates/aplas-atva-2026
+- https://conf.researchr.org/attending/aplas-atva-2026/registration-for-aplas-and-atva-2025
+- https://conf.researchr.org/home/atva-2025
+- https://conf.researchr.org/dates/atva-2025
+- https://conf.researchr.org/track/atva-2025/atva-2025-research-papers
+- https://link.springer.com/conference/atva
+- https://link.springer.com/book/10.1007/978-3-032-08707-2
+- https://portal.core.edu.au/conf-ranks/?search=ATVA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- ATVA 2027 not announced yet
+- Indexing (DBLP, Scopus) inferred from the LNCS series, not stated on the official site
+last_verified: 2026-10-04

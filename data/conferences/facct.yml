@@ -1,0 +1,112 @@
+id: facct
+name: ACM FAccT
+full_name: ACM Conference on Fairness, Accountability, and Transparency
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (FAccT steering and executive committees)
+organizer_country: [international]
+proceedings: ACM DL (Proceedings of the ACM Conference on Fairness, Accountability, and Transparency)
+indexing: [DBLP]
+fee: 551 CAD regular non-ACM academic, 227 CAD non-ACM student (2026, in-person early bird)
+typical:
+  deadline_months: [11]
+  conference_months: [6]
+links:
+  website: https://facctconference.org/
+  dblp: https://dblp.org/db/conf/fat/
+notes:
+- ACM conference on fairness, accountability and transparency in socio-technical systems; interdisciplinary (CS,
+  law, social sciences, humanities)
+- Started as FAT* (New York 2018, Atlanta 2019, Barcelona 2020); renamed ACM FAccT in 2021
+- Proceedings in the ACM Digital Library; authors may choose a non-archival option where only the abstract appears in
+  the proceedings
+- Up to 14 pages excluding references in ACM format, anonymous review on OpenReview; since 2026 there is a revise and
+  re-review round before the final decision
+- All authors of every paper must sign up to review (2027 CFP)
+- Location rotates globally (online 2021, Seoul 2022, Chicago 2023, Rio de Janeiro 2024, Athens 2025, Montreal 2026,
+  Porto 2027)
+- Deadlines moved from January (2025, 2026) to late October and early November for 2027
+- Tiered registration fees with discounts for ACM economically developing countries
+- Not listed in ICORE2026 and not in the CCF list, but regarded as the main venue for algorithmic fairness and
+  responsible AI research
+editions:
+- year: 2026
+  start: 2026-06-25
+  end: 2026-06-28
+  location: Montreal, Canada
+  url: https://facctconference.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-08
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-01-13
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-03-02
+    label: First notification (accept, revise or reject)
+  - kind: other
+    date: 2026-03-25
+    label: Revision deadline
+  - kind: notification
+    date: 2026-04-15
+    label: Final notification
+  - kind: camera_ready
+    date: 2026-04-24
+    label: Papers accepted in round 1
+  - kind: camera_ready
+    date: 2026-05-11
+    label: Papers accepted after revision
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-24
+  location: Porto, Portugal
+  url: https://facctconference.org/2027/cfp.html
+  deadlines:
+  - kind: abstract
+    date: 2026-10-27
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-11-03
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-12-22
+    label: First round decisions (accept, revise or reject)
+  - kind: other
+    date: 2027-01-28
+    time: "23:59"
+    tz: AoE
+    label: Revision and rebuttal due
+  - kind: notification
+    date: 2027-03-23
+    label: Final notification
+sources:
+- https://facctconference.org/
+- https://facctconference.org/2027/cfp.html
+- https://facctconference.org/2026/
+- https://facctconference.org/2026/cfp.html
+- https://facctconference.org/2026/registration.html
+- https://facctconference.org/2026/acceptedpapers.html
+- https://facctconference.org/2025/
+- https://facctconference.org/2024/
+- https://facctconference.org/2023/
+- https://facctconference.org/2022/
+- https://doi.org/10.1145/3805689
+- https://doi.org/10.1145/3715275
+- https://portal.core.edu.au/conf-ranks/?search=FAccT&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Fairness&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- FAccT 2027 camera-ready deadline (TBD on the CFP)
+- FAccT 2027 venue in Porto not announced yet
+- Acceptance rate not stated on an official page
+- DBLP page could not be loaded (bot check), indexing not rechecked
+last_verified: 2026-10-04

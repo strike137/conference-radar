@@ -1,0 +1,105 @@
+id: iwslt
+name: IWSLT
+full_name: International Conference on Spoken Language Translation
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: SIGSLT (ACL-ISCA-ELRA Special Interest Group on Spoken Language Translation)
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+acceptance_rate: 50% research papers (2026, 3/6); 59% (2025, 13/22); system description papers are reported separately
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7, 8]
+links:
+  website: https://iwslt.org/
+notes:
+- Annual meeting of SIGSLT, supported by ACL, ISCA and ELRA; founded in 2004 out of the C-STAR speech translation
+  consortium (formerly International Workshop on Spoken Language Translation)
+- Two-day event co-located with ACL since 2022 (Dublin 2022, Toronto 2023, Bangkok 2024, Vienna 2025, San Diego 2026,
+  Kyoto 2027); hybrid with virtual presentation from 2022 to 2026
+- Built around evaluation campaigns (shared tasks such as offline, simultaneous, low-resource and Indic speech
+  translation, subtitling, compression, instruction following); most papers are system descriptions
+- Scientific papers 4 to 8 pages in ACL format, double-blind review (system description papers need not be anonymized); also accepts commitments of ARR-reviewed papers
+- Proceedings in the ACL Anthology; registration goes through the ACL registration page
+- From 2027 some shared tasks run as year-round leaderboards
+- The main venue for speech translation; not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-07-03
+  end: 2026-07-04
+  location: San Diego, CA, USA (hybrid, co-located with ACL 2026)
+  url: https://iwslt.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-15
+    time: '23:59'
+    tz: AoE
+    label: Scientific papers
+  - kind: other
+    date: 2026-04-24
+    time: '23:59'
+    tz: AoE
+    label: System description papers (shared tasks)
+  - kind: other
+    date: 2026-05-15
+    label: ARR commitment
+  - kind: notification
+    date: 2026-05-25
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-01
+    time: '23:59'
+    tz: AoE
+- year: 2027
+  start: 2027-08-17
+  end: 2027-08-18
+  location: Kyoto, Japan (co-located with ACL 2027)
+  url: https://iwslt.org/2027/
+  status: tentative
+  deadlines:
+  - kind: other
+    date: 2026-09-30
+    label: Shared task proposals
+  - kind: submission
+    date: 2027-03-15
+    time: '23:59'
+    tz: AoE
+    label: Scientific papers (preliminary)
+  - kind: other
+    date: 2027-05-07
+    time: '23:59'
+    tz: AoE
+    label: System description papers (shared tasks, preliminary)
+  - kind: notification
+    date: 2027-06-07
+    time: '23:59'
+    tz: AoE
+    label: Preliminary
+  - kind: camera_ready
+    date: 2027-06-21
+    time: '23:59'
+    tz: AoE
+    label: Preliminary
+sources:
+- https://iwslt.org/
+- https://iwslt.org/2027/
+- https://iwslt.org/2026/
+- https://iwslt.org/current-calls/
+- https://iwslt.org/history/
+- https://aclanthology.org/venues/iwslt/
+- https://aclanthology.org/2026.iwslt-1.0.pdf
+- https://aclanthology.org/2025.iwslt-1.0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=IWSLT&by=all&source=ICORE2026
+last_verified: 2026-10-04
+unverified:
+- IWSLT 2027 timeline is labeled preliminary and gives dates without a year (taken as 2027); the 2027 page lists
+  August 17 to 22 for the ACL week and August 17 to 18 for IWSLT itself
+- CCF listing not checked on ccf.org.cn (site behind a captcha); not found in the ccfddl mirror
+- DBLP indexing not checked (dblp.org blocked the request)
+- Time zone of the 2026 ARR commitment deadline not stated

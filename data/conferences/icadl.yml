@@ -1,0 +1,80 @@
+id: icadl
+name: ICADL
+full_name: International Conference on Asia-Pacific Digital Libraries
+type: conference
+tier: minor
+areas: [data, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ICADL Steering Committee with a host university each year (Khon Kaen University in 2026)
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [Scopus]
+rank:
+  core: Unranked
+acceptance_rate: 45% overall (2025, 46/102, of which 12 full papers); 35% (2024, 38/110)
+fee: USD 300 international early (by Oct 31), USD 400 late, USD 150 student (2026, joint registration with AP-iConference)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [12]
+links:
+  website: https://icadl.net/
+notes:
+- Started in Hong Kong in 1998 and rotates around Asia-Pacific (2023 Taipei, 2024 Bandar Sunway, 2025 Metro Manila,
+  2026 Khon Kaen)
+- Presents itself as one of the three main digital library venues alongside JCDL and TPDL
+- Springer LNCS proceedings, indexed by Scopus
+- Full (12-14 pages), short, practice and demo/poster papers; double-blind review in 2026
+- Held jointly with the Asia-Pacific iConference since 2016; 2025 was part of the IFDIK 2025 forum with A-LIEP
+- Topics mix computer science (IR, NLP, LLMs, metadata, knowledge graphs) with library and information science
+- Listed as CORE A in CORE2018 but not listed in ICORE2026; not in the CCF list
+- 2026 allows online presentation for authors who cannot travel
+editions:
+- year: 2025
+  label: 27th ICADL
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Bonifacio Global City, Taguig, Metro Manila, Philippines
+  url: https://icadl.net/icadl2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-31
+    label: All paper categories (extended)
+  - kind: notification
+    date: 2025-09-08
+  - kind: camera_ready
+    date: 2025-10-01
+- year: 2026
+  label: 28th ICADL
+  start: 2026-12-02
+  end: 2026-12-04
+  location: Khon Kaen University, Khon Kaen, Thailand
+  url: https://icadl.net/icadl2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    tz: UTC+7
+    label: Full, short and practice papers (extended from Jul 24 and Aug 7)
+  - kind: notification
+    date: 2026-09-08
+    tz: UTC+7
+  - kind: camera_ready
+    date: 2026-10-01
+    tz: UTC+7
+sources:
+- https://icadl.net/
+- https://icadl.net/icadl2026/
+- https://easychair.org/cfp/icadl2026
+- https://icadl.net/icadl2025/
+- https://link.springer.com/book/10.1007/978-981-95-4861-3
+- https://link.springer.com/book/10.1007/978-981-96-0865-2
+- https://portal.core.edu.au/conf-ranks/?search=ICADL&by=all&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=ICADL&by=all&source=CORE2018&sort=atitle&page=1
+unverified:
+- Original ICADL 2025 submission deadline before the extension to Jul 31
+- 2026 site footer says "26th" while the main text says 28th; 28th matches the count of past editions
+- DBLP indexing not checked (dblp.org blocked the check)
+- CCF absence checked on the CCF web list pages, which do not state the list edition
+- ICADL 2027 not announced yet
+last_verified: 2026-10-04

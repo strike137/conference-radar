@@ -1,0 +1,84 @@
+id: a-sscc
+name: IEEE A-SSCC
+full_name: IEEE Asian Solid-State Circuits Conference
+type: conference
+tier: minor
+areas: [general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE Solid-State Circuits Society (SSCS) with an Asian steering committee; local organizing committee
+  rotates (2026 National Yang Ming Chiao Tung University, Taiwan)
+organizer_country: [international]
+proceedings: IEEE Xplore
+fee: TWD 22,500 (about 750 USD) IEEE member author registration; student attendee early bird TWD 11,250 (about
+  375 USD) for IEEE members (2026)
+typical:
+  deadline_months: [6]
+  conference_months: [11]
+links:
+  website: https://a-sscc2026.org/
+notes:
+- Asian integrated circuit design conference supported by IEEE SSCS; 22nd edition in 2026
+- Rotates among Japan, Korea, Taiwan and China (2020 Hiroshima, 2021 Busan, 2022 Taipei, 2023 Haikou, 2024
+  Hiroshima, 2025 Daejeon, 2026 Taichung); held every November
+- Two-page paper submission (plus one optional page of supplementary figures); tracks cover analog, data
+  converters, digital, SoC, wireless, wireline, memory, emerging technologies, FPGA and an industry program
+- Measurement results strongly recommended; papers only describing CAD tools are not considered
+- Papers in IEEE Xplore; extended versions of selected papers go to special issues of IEEE JSSC and IEEE SSC-L
+- Student Design Contest and FPGA demo sessions; student travel grants up to 1000 USD (2026)
+- One author registration per accepted paper, and the registered author must present in person
+- Not listed in ICORE2026; circuits venue outside the usual CS rankings
+editions:
+- year: 2025
+  start: 2025-11-02
+  end: 2025-11-05
+  location: Daejeon, South Korea
+  url: https://ieeexplore.ieee.org/xpl/conhome/11349353/proceeding
+- year: 2026
+  start: 2026-11-01
+  end: 2026-11-04
+  location: Taichung, Taiwan
+  url: https://a-sscc2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-14
+    time: "20:00"
+    tz: UTC
+    label: Paper submission (extended from 2026-06-03)
+  - kind: notification
+    date: 2026-08-08
+  - kind: camera_ready
+    date: 2026-08-31
+    label: Final paper submission
+  - kind: other
+    date: 2026-09-10
+    label: Author registration
+  - kind: other
+    date: 2026-10-01
+    time: "23:59"
+    tz: UTC+8
+    label: Early-bird registration
+  - kind: other
+    date: 2026-10-09
+    label: Student Travel Grant Award application
+sources:
+- https://a-sscc2026.org/
+- https://a-sscc2026.org/registration
+- https://a-sscc2026.org/agenda
+- https://a-sscc2026.org/organizing-committee
+- https://a-sscc2026.org/steering-committee
+- https://a-sscc2026.org/venue-for-the-conference
+- https://ieeexplore.ieee.org/xpl/conhome/11349353/proceeding
+- https://api.crossref.org/works/10.1109/a-sscc67472.2025.11349558
+- https://portal.core.edu.au/conf-ranks/?search=A-SSCC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=Solid-State+Circuits&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- A-SSCC 2025 dates and location taken from the IEEE Xplore and Crossref proceedings record; the 2025 official site
+  (a-sscc2025.org) returned 403
+- A-SSCC 2025 deadlines (2025 call for papers not reachable)
+- A-SSCC 2027 dates and location (not announced yet)
+- CCF 2026 list could not be loaded from ccf.org.cn (captcha); the venue was not found in the mirrors checked, so
+  rank.ccf left out
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-04

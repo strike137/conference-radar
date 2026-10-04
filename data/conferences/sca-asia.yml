@@ -1,0 +1,114 @@
+id: sca-asia
+name: SCA
+full_name: SupercomputingAsia
+type: conference
+tier: minor
+areas: [systems, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: SupercomputingAsia, co-organised by HPC centres in Australia, Japan, Singapore and Thailand (NSCC Singapore,
+  RIKEN R-CCS, RIST, Pawsey, NCI Australia, ThaiSC)
+organizer_country: [singapore, japan, australia, thailand]
+proceedings: ACM DL (ICPS)
+typical:
+  deadline_months: [9, 10, 12]
+  conference_months: [1, 2, 3]
+links:
+  website: https://www.sc-asia.org/
+notes:
+- Annual HPC event established in 2018 with plenary talks, an industry exhibition, workshops, tutorials, BoFs and a
+  peer-reviewed technical paper track
+- Mostly held in Singapore (2021, 2022, 2023, 2025); Sydney in 2024 and Osaka in 2026; SCA2027 returns to Singapore
+- Technical papers published in the ACM International Conference Proceedings Series (SCA '25 had its own ACM
+  volume); ACM open access APC may apply to authors outside ACM Open
+- Held jointly with HPC Asia in 2023 (Singapore) and 2026 (Osaka); the SCA2027 CFP says accepted papers go into the
+  SCA/HPCAsia 2027 proceedings, so its paper track overlaps with HPC Asia (see the hpcasia entry)
+- SCA2027 papers are up to 18 pages in ACM single-column format, double-blind, one-pass review with no rebuttal
+- Not listed in ICORE2026; not in the CCF list (the CCF 'SCA' is the Symposium on Computer Animation)
+editions:
+- year: 2025
+  label: SCA25
+  start: 2025-03-10
+  end: 2025-03-13
+  location: Singapore
+  url: https://sc-asia.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2024-12-10
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2024-12-18
+    tz: AoE
+    label: Extended from 2024-12-16
+  - kind: notification
+    date: 2025-01-24
+    tz: AoE
+    label: Extended
+  - kind: camera_ready
+    date: 2025-02-04
+    tz: AoE
+    label: Extended
+- year: 2026
+  label: SCA/HPCAsia 2026
+  start: 2026-01-26
+  end: 2026-01-29
+  location: Osaka, Japan
+  url: https://www.sc-asia.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-19
+    tz: AoE
+    label: Extended from 2025-08-29
+  - kind: submission
+    date: 2025-09-19
+    tz: AoE
+    label: Extended from 2025-09-05
+  - kind: notification
+    date: 2025-10-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-12-15
+    tz: AoE
+- year: 2027
+  label: SCA2027
+  start: 2027-03-01
+  end: 2027-03-04
+  location: Singapore
+  url: https://sc-asia.org/sca2027-call-for-papers/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-16
+    tz: AoE
+    label: Extended from 2026-09-30
+  - kind: submission
+    date: 2026-10-21
+    tz: AoE
+    label: Extended from 2026-10-07
+  - kind: notification
+    date: 2026-11-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-12-15
+    tz: AoE
+sources:
+- https://www.sc-asia.org/
+- https://sc-asia.org/past-events/
+- https://sc-asia.org/sca2027-call-for-papers/
+- https://sc-asia.org/2025/call-for-papers/
+- https://sc-asia.org/2025/event-deadlines/
+- https://sc-asia.org/2025/steering-committee/
+- https://www.sc-asia.org/2023/
+- https://www.sc-asia.org/2026/submit/deadlines.html
+- https://dl.acm.org/doi/proceedings/10.1145/3718350
+- https://dl.acm.org/doi/proceedings/10.1145/3773656
+- https://portal.core.edu.au/conf-ranks/?search=SCA&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Supercomputing&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- Whether SCA2027 is formally a joint event with HPC Asia 2027 (only the CFP proceedings line says SCA/HPCAsia 2027)
+- Original (pre-extension) SCA25 abstract, notification and camera-ready dates
+- Acceptance rate, registration fee and indexing (Scopus and DBLP not checked)
+- Whether the 2021 and 2022 editions were held in person or online
+last_verified: 2026-10-04

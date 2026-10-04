@@ -1,0 +1,73 @@
+id: vlsp
+name: VLSP
+full_name: International Workshop on Vietnamese Language and Speech Processing
+type: workshop
+tier: minor
+areas: [nlp]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: VLSP (Association for Vietnamese Language and Speech Processing), a chapter of VAIP (Vietnam Association
+  for Information Processing)
+organizer_country: [vietnam]
+proceedings: ACL Anthology
+typical:
+  deadline_months: [8, 10]
+  conference_months: [10, 11, 12]
+links:
+  website: https://vlsp.org.vn/
+notes:
+- Workshop series of the Vietnamese language and speech processing community, run by the VLSP association (a chapter
+  of VAIP)
+- Two parts each year, scientific papers and software demos plus an evaluation campaign of shared tasks (8 shared
+  tasks in 2026); shared task teams present their systems in technical papers
+- Papers in English, 4 to 8 pages recommended, ACL template; VLSP 2025 proceedings published in the ACL Anthology
+  (VLSP 2023 papers went to a special issue of the Journal of Computer Science and Cybernetics)
+- Held in Vietnam, mostly at VIASM in Hanoi (2022, 2023, 2025); no edition in 2024
+- VLSP 2022 was co-located with O-COCOSDA 2022; VLSP 2026 is a one-day hybrid workshop in Ho Chi Minh City held in
+  conjunction with CSoNet 2026
+- 2026 call is for technical papers on shared task systems and software demos only
+- Not listed in the CORE portal (ICORE2026) or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-29
+  end: 2025-10-30
+  location: Hanoi, Vietnam
+  url: https://vlsp.org.vn/vlsp2025
+  deadlines:
+  - kind: submission
+    date: 2025-08-30
+  - kind: notification
+    date: 2025-09-27
+  - kind: camera_ready
+    date: 2025-10-03
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Ho Chi Minh City, Vietnam (hybrid)
+  url: https://vlsp.org.vn/vlsp2026
+  deadlines:
+  - kind: submission
+    date: 2026-10-25
+    label: Technical papers
+  - kind: notification
+    date: 2026-11-05
+  - kind: camera_ready
+    date: 2026-11-12
+sources:
+- https://vlsp.org.vn/
+- https://vlsp.org.vn/vlsp2026
+- https://vlsp.org.vn/vlsp2026/cfp
+- https://vlsp.org.vn/vlsp2026/eval/
+- https://vlsp.org.vn/vlsp2025
+- https://vlsp.org.vn/vlsp2025/cfp
+- https://vlsp.org.vn/vlsp2023/cfp
+- https://vlsp.org.vn/vlsp2022
+- https://aclanthology.org/venues/vlsp/
+- https://aclanthology.org/volumes/2025.vlsp-1/
+- https://portal.core.edu.au/conf-ranks/?search=VLSP&by=all&source=ICORE2026
+unverified:
+- Whether VLSP 2026 papers will appear in the ACL Anthology (the 2026 call only names the ACL template)
+- Submission time and time zone (not stated)
+- Registration fees
+last_verified: 2026-10-04

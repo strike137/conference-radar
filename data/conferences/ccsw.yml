@@ -1,0 +1,58 @@
+id: ccsw
+name: CCSW
+full_name: ACM Cloud Computing Security Workshop
+type: workshop
+tier: minor
+areas: [security, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGSAC (co-located with ACM CCS)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL, DBLP]
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://ccsw.io/
+  dblp: https://dblp.org/db/conf/ccsw/index.html
+notes:
+- One-day workshop co-located with ACM CCS since 2009; location follows CCS (2023 Copenhagen, 2024 Salt Lake City,
+  2025 Taipei)
+- Proceedings in the ACM Digital Library (e.g. 2025 volume doi 10.1145/3733812)
+- Full papers up to 12 pages in double-column ACM format, excluding bibliography and appendices; anonymous submission
+- Topics cover all security aspects of cloud and outsourced computing (virtualization, attestation, outsourced data and
+  computation, side channels, applied crypto for the cloud); panel proposals also solicited
+- Small program (6 papers plus 2 keynotes in 2025); not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-17
+  end: 2025-10-17
+  location: Taipei, Taiwan
+  url: https://ccsw.io/
+  deadlines:
+  - kind: submission
+    date: 2025-06-24
+    tz: AoE
+  - kind: notification
+    date: 2025-08-08
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-22
+sources:
+- https://ccsw.io/
+- https://ccsw.io/2024/
+- https://ccsw.io/2023/
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://doi.org/10.1145/3733812
+- https://doi.org/10.1145/3689938
+- https://portal.core.edu.au/conf-ranks/?search=CCSW&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/NIS/
+unverified:
+- CCSW 2026 not announced; ccsw.io still shows 2025 and CCSW does not appear among the CCS 2026 workshops
+- Acceptance rate not published on the workshop site
+- CCF list page could not be confirmed as the 2026 edition; CCSW was not found in the network and information security
+  category there
+last_verified: 2026-10-04

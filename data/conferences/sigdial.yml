@@ -1,0 +1,104 @@
+id: sigdial
+name: SIGDIAL
+full_name: Annual Meeting of the Special Interest Group on Discourse and Dialogue
+type: conference
+tier: major
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: SIGdial (Special Interest Group on Discourse and Dialogue of ACL and ISCA)
+organizer_country: [international]
+proceedings: ACL Anthology
+indexing: [Web of Science, DBLP]
+rank:
+  core: B
+acceptance_rate: 45.5% (2026, 61/134); 50.8% (2025, 59/116)
+fee: 500 USD regular, 350 USD student, early, main conference plus workshops (2026)
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://www.sigdial.org/
+  dblp: https://dblp.org/db/conf/sigdial/
+notes:
+- Main venue of SIGdial, the joint ACL and ISCA special interest group on discourse and dialogue
+- Small venue; 116 submissions reviewed in 2025, 160 received in 2026 (134 after desk rejections and withdrawals)
+- Proceedings in the ACL Anthology; the SIGdial site says they are indexed by Web of Science
+- 'Two routes: direct submission via Softconf/START (long 8 pages, short 4 pages, demos) or commitment of ARR-reviewed
+  papers; double-blind review'
+- 'Rotates worldwide: Edinburgh 2022, Prague 2023, Kyoto 2024, Avignon 2025, Atlanta 2026'
+- In-person presentation expected; remote only for exceptions such as visa denial
+- Satellite workshops such as YRRSDS (young researchers in spoken dialogue systems) and DSTC are held alongside
+- 2026 edition was moved to August 2 to 5 (workshops on Aug 2) to avoid the FIFA World Cup matches in Atlanta
+- Not in the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-25
+  end: 2025-08-27
+  location: Avignon, France
+  url: https://2025.sigdial.org/
+  deadlines:
+  - kind: submission
+    date: 2025-04-21
+    time: '23:59'
+    tz: UTC-11
+  - kind: other
+    date: 2025-04-28
+    time: '23:59'
+    tz: UTC-11
+    label: Paper update deadline (PDF only)
+  - kind: other
+    date: 2025-06-06
+    time: '23:59'
+    tz: UTC-11
+    label: ARR commitment
+  - kind: notification
+    date: 2025-06-23
+  - kind: camera_ready
+    date: 2025-07-08
+- year: 2026
+  start: 2026-08-03
+  end: 2026-08-05
+  location: Atlanta, Georgia, USA (Emory University)
+  url: https://2026.sigdial.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-13
+    time: '23:59'
+    tz: AoE
+  - kind: submission
+    date: 2026-04-20
+    time: '23:59'
+    tz: AoE
+    label: Paper submission (PDF only)
+  - kind: other
+    date: 2026-05-25
+    time: '23:59'
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-06-01
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-29
+    time: '23:59'
+    tz: AoE
+sources:
+- https://www.sigdial.org/
+- https://www.sigdial.org/earlier-meetings/
+- https://www.sigdial.org/2025/08/21/call-for-proposals-to-organize-sigdial-2027/
+- https://2026.sigdial.org/
+- https://2026.sigdial.org/calls/main_conference/
+- https://2026.sigdial.org/date-reschedule/
+- https://2026.sigdial.org/registration/
+- https://2025.sigdial.org/
+- https://2025.sigdial.org/call-for-papers/
+- https://aclanthology.org/2026.sigdial-1.0.pdf
+- https://aclanthology.org/2025.sigdial-1.0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=SIGDIAL&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- SIGDIAL 2027 location, dates and deadlines (not announced yet; 2027.sigdial.org redirects to the SIGdial home page)
+last_verified: 2026-10-04

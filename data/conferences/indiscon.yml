@@ -1,0 +1,69 @@
+id: indiscon
+name: IEEE INDISCON
+full_name: IEEE India Council International Subsections Conference
+type: conference
+tier: minor
+areas: [general, communications, ai]
+region: south-asia
+language: english
+frequency: annual
+organizer: 'IEEE India Council, with a host IEEE subsection each year (2026: IEEE Rajasthan Subsection)'
+organizer_country: [india]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore]
+fee: 350 to 400 USD foreign author, 11,000 to 15,000 INR Indian author, plus 18% GST (2026)
+typical:
+  deadline_months: [4, 6]
+  conference_months: [8, 9]
+links:
+  website: https://www.ieeeindiscon.org/
+notes:
+- Flagship annual conference of the IEEE India Council run by an IEEE subsection in India; first edition in 2020
+- Sister venue of IEEE INDICON (the India Council conference run by the larger sections, held in December)
+- Held in India every summer at a different host (2023 Mysore, 2024 Chandigarh, 2025 NIT Rourkela, 2026 MNIT Jaipur)
+- Broad EE and CS scope with about ten to twelve tracks (AI, communications and networks, security, VLSI, power,
+  robotics)
+- Accepted and presented papers are submitted to IEEE Xplore; at least one author must register and present
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-08-21
+  end: 2025-08-23
+  location: Rourkela, India
+  url: https://ieeeindiacouncil.org/indiscon-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-30
+  - kind: notification
+    date: 2025-05-31
+  - kind: camera_ready
+    date: 2025-06-20
+- year: 2026
+  start: 2026-09-11
+  end: 2026-09-13
+  location: Jaipur, India
+  url: https://www.ieeeindiscon.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+  - kind: notification
+    date: 2026-08-20
+  - kind: camera_ready
+    date: 2026-09-10
+  - kind: other
+    date: 2026-05-31
+    label: Tutorial and workshop proposals
+sources:
+- https://ieeeindiacouncil.org/indiscon-2025/
+- https://ieeeindiacouncil.org/indiscon-2/
+- https://www.ieeeindiscon.org/
+- https://www.ieeeindiscon.org/about
+- https://www.ieeeindiscon.org/registration
+- https://api.crossref.org/works?query.bibliographic=IEEE+India+Council+International+Subsections+Conference+INDISCON&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=INDISCON&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- INDISCON 2027 host, dates and deadlines (not announced yet)
+- Whether the 2026 submission deadline of 2026-06-15 was extended
+- 2026 proceedings not yet visible in IEEE Xplore
+- DBLP venue page
+last_verified: 2026-10-04

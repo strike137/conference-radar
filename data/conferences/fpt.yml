@@ -1,0 +1,114 @@
+id: fpt
+name: FPT
+full_name: International Conference on Field Programmable Technology
+type: conference
+tier: minor
+areas: [systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: FPT Steering Committee; IEEE financial sponsorship (IEEE Ozark Section in 2026)
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  ccf: C
+fee: 900 USD IEEE member, 1,000 USD non-member, 550 USD IEEE student member (2026, early, until 2026-10-31)
+typical:
+  deadline_months: [6, 7, 8]
+  conference_months: [12]
+links:
+  website: https://www.icfpt.org/
+  dblp: https://dblp.org/db/conf/fpt/
+notes:
+- Describes itself as the premier conference in the Asia-Pacific region on field-programmable technologies, FPGAs and
+  reconfigurable computing; also known as ICFPT
+- Run by an international steering committee; held every December, mostly in Asia and Oceania (Auckland 2021 virtual,
+  Hong Kong 2022, Yokohama 2023, Sydney 2024, Shanghai 2025, Honolulu 2026)
+- Proceedings in IEEE Xplore
+- Conference track takes long papers (8 pages plus references), short papers and posters, with double-blind review and a rebuttal period;
+  an optional artifact evaluation form
+- Also has a journal track with ACM TRETS (earlier deadline), special sessions, a design competition, a PhD forum
+  and work-in-progress papers, workshops and tutorials
+- Paper deadlines are usually extended by one to two weeks
+- CCF C (architecture, parallel and storage category); not listed in the ICORE2026 portal
+- Each author registration covers one paper; extra pages cost 150 USD each (2026)
+editions:
+- year: 2025
+  start: 2025-12-02
+  end: 2025-12-05
+  location: Shanghai, China
+  url: https://fpt2025.shanghaitech.edu.cn/
+  deadlines:
+  - kind: other
+    date: 2025-06-25
+    time: '23:59'
+    label: ACM TRETS journal track submission (extended from 2025-06-15)
+  - kind: abstract
+    date: 2025-07-20
+    time: '23:59'
+    label: Extended from 2025-07-13
+  - kind: submission
+    date: 2025-08-01
+    time: '23:59'
+    label: Conference track (extended from 2025-07-22)
+  - kind: other
+    date: 2025-09-19
+    time: '23:59'
+    label: Rebuttal responses due
+  - kind: notification
+    date: 2025-10-10
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-10
+  location: Honolulu, Hawaii, USA
+  url: https://fpt2026.uark.edu/
+  deadlines:
+  - kind: other
+    date: 2026-05-01
+    tz: AoE
+    label: ACM TRETS journal track submission
+  - kind: abstract
+    date: 2026-06-19
+    tz: AoE
+    label: Extended from 2026-06-05
+  - kind: submission
+    date: 2026-06-19
+    tz: AoE
+    label: Conference track (extended from 2026-06-12)
+  - kind: other
+    date: 2026-08-03
+    tz: AoE
+    label: Artifact form due
+  - kind: notification
+    date: 2026-08-21
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-15
+    tz: AoE
+    label: Camera-ready, copyright and author registration
+sources:
+- https://fpt2026.uark.edu/
+- https://fpt2026.uark.edu/call-for-papers/
+- https://fpt2026.uark.edu/registration/
+- https://fpt2026.uark.edu/author/
+- https://fpt2026.uark.edu/steering-committee/
+- https://fpt2025.shanghaitech.edu.cn/
+- https://fpt2025.shanghaitech.edu.cn/call_for_papers/
+- https://fpt2025.shanghaitech.edu.cn/registration/
+- https://fpt2024.org/
+- https://fpt2023.org/
+- https://fpt22.hkust.edu.hk/
+- https://parallel.auckland.ac.nz/fpt21/
+- https://www.icfpt.org/
+- https://doi.org/10.1109/icfpt67023.2025
+- https://portal.core.edu.au/conf-ranks/?search=FPT&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/ARCH_DCP_SS/
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+- Acceptance rate (not stated on the official pages)
+- FPT 2026 deadlines state AoE but no time of day
+- FPT 2025 deadlines state 23:59 but list both UTC+8 and AoE, so no zone is recorded
+- FPT 2027 dates and location (not announced yet)
+last_verified: 2026-10-04

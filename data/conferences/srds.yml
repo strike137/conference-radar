@@ -1,0 +1,72 @@
+id: srds
+name: SRDS
+full_name: International Symposium on Reliable Distributed Systems
+type: conference
+tier: major
+areas: [systems, security, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: SRDS Steering Committee (2026 edition hosted by Sapienza University of Rome, DIAG)
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: B
+fee: 800 EUR full, 600 EUR student (2026, author/early); 900 EUR / 700 EUR late
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9]
+links:
+  website: https://srds-conference.org/
+  dblp: https://dblp.org/db/conf/srds/index.html
+notes:
+- Long-running symposium on dependable and secure distributed systems, first held in 1981; 45th edition in 2026
+- Run by an international steering committee; location rotates between Europe, North America and other regions
+- Proceedings produced by IEEE CPS and submitted to IEEE Xplore; the 2026 site states it is not sponsored by the IEEE
+- Double-blind review; research papers, practical experience reports and tool papers, 10 pages IEEE two-column plus references
+- Abstract registration one week before the full paper deadline (early May); conference in late September
+- CORE B (ICORE2026), CCF B
+- Each paper needs a non-student full registration and an in-person presentation (no-show policy)
+editions:
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-24
+  location: Rome, Italy
+  url: https://srds-conference.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-01
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-24
+  - kind: submission
+    date: 2026-05-08
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-05-01
+  - kind: notification
+    date: 2026-07-03
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-06
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-08-06
+    label: Author and early registration deadline
+sources:
+- https://srds-conference.org/
+- https://srds-conference.org/index.php/call-for-papers/
+- https://srds-conference.org/index.php/registration/
+- https://srds-conference.org/index.php/about/
+- https://srds-conference.org/index.php/steering-committe/
+- https://portal.core.edu.au/conf-ranks/?search=SRDS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- SRDS 2027 dates, location and deadlines (not announced yet)
+- Acceptance rate not stated on the official site
+- CCF rank checked via the ccfddl mirror and a copy of the CCF 2026 list PDF (Network and Information Security, class B), not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-04

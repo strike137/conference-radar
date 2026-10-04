@@ -1,0 +1,125 @@
+id: eurosys
+name: EuroSys
+full_name: European Conference on Computer Systems
+type: conference
+tier: major
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: EuroSys (European chapter of ACM SIGOPS)
+organizer_country: [europe]
+proceedings: ACM DL
+indexing: [ACM DL, DBLP, Scopus]
+rank:
+  core: A
+  ccf: A
+fee: 625 GBP non-member, 525 GBP ACM member, 395 GBP student non-member, 305 GBP student ACM member (2026, early, full conference incl. workshops)
+typical:
+  deadline_months: [5, 9]
+  conference_months: [3, 4]
+links:
+  website: https://2027.eurosys.org/
+  dblp: https://dblp.org/db/conf/eurosys/index.html
+notes:
+- Annual flagship conference of EuroSys, the European chapter of ACM SIGOPS; 2026 was the 21st edition
+- Broad computer systems scope (operating systems, distributed, cloud, storage, networked, ML systems, systems security)
+- Two submission cycles per year (Spring in May, Fall in September); accepted papers from both appear at the same conference
+- One-shot revise-and-resubmit option to the next cycle; a rejected paper must skip the immediately following cycle
+- 'Double-blind review, 12 pages of technical content excluding references, author response, optional artifact evaluation'
+- Proceedings in the ACM Digital Library (ACM Open Access, APC may apply); co-located workshops and tutorials on the first day
+- Usually held in Europe in spring (Athens 2024, Rotterdam 2025, Edinburgh 2026); 2027 goes to Rabat, Morocco
+- Regarded as a leading systems venue just below OSDI and SOSP (ICORE2026 A, CCF A)
+editions:
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-30
+  location: Edinburgh, UK
+  url: https://2026.eurosys.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-08
+    tz: AoE
+    label: Spring
+  - kind: submission
+    date: 2025-05-15
+    tz: AoE
+    label: Spring
+  - kind: notification
+    date: 2025-08-22
+    tz: AoE
+    label: Spring
+  - kind: camera_ready
+    date: 2025-09-26
+    tz: AoE
+    label: Spring
+  - kind: abstract
+    date: 2025-09-18
+    tz: AoE
+    label: Fall
+  - kind: submission
+    date: 2025-09-25
+    tz: AoE
+    label: Fall
+  - kind: notification
+    date: 2026-01-30
+    tz: AoE
+    label: Fall
+  - kind: camera_ready
+    date: 2026-03-06
+    tz: AoE
+    label: Fall
+- year: 2027
+  start: 2027-04-19
+  end: 2027-04-23
+  location: Rabat, Morocco
+  url: https://2027.eurosys.org/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-05-07
+    tz: AoE
+    label: Spring
+  - kind: submission
+    date: 2026-05-14
+    tz: AoE
+    label: Spring
+  - kind: notification
+    date: 2026-08-21
+    tz: AoE
+    label: Spring
+  - kind: camera_ready
+    date: 2026-09-25
+    tz: AoE
+    label: Spring
+  - kind: abstract
+    date: 2026-09-17
+    tz: AoE
+    label: Fall
+  - kind: submission
+    date: 2026-09-24
+    tz: AoE
+    label: Fall
+  - kind: notification
+    date: 2027-01-29
+    tz: AoE
+    label: Fall
+  - kind: camera_ready
+    date: 2027-03-05
+    tz: AoE
+    label: Fall
+sources:
+- https://2027.eurosys.org/
+- https://2027.eurosys.org/cfp.html
+- https://2026.eurosys.org/
+- https://2026.eurosys.org/cfp.html
+- https://2026.eurosys.org/registration.html
+- https://www.eurosys.org/
+- https://portal.core.edu.au/conf-ranks/?search=EuroSys&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- Acceptance rate not published on the official site
+- EuroSys 2027 registration fees not announced yet
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
+- ACM DL proceedings page not checked directly (dl.acm.org blocks automated access); proceedings stated in the CFP
+last_verified: 2026-10-04

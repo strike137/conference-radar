@@ -1,0 +1,106 @@
+id: dsaa
+name: IEEE DSAA
+full_name: IEEE International Conference on Data Science and Advanced Analytics
+type: conference
+tier: major
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE DSAA Steering Committee (IEEE Task Force on DSAA; supported by IEEE, ACM, ASA and CCF)
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [EI, DBLP]
+rank:
+  core: B
+  ccf: C
+fee: 600 GBP IEEE member, 750 GBP non-member, 300 GBP IEEE student member (2025, early); each paper needs one full
+  registration
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10]
+links:
+  website: https://dsaa.co/
+  dblp: https://dblp.org/db/conf/dsaa/
+notes:
+- Data science conference run by the DSAA steering committee and the IEEE Task Force on DSAA, held every October
+- Rotates worldwide (2020 Sydney, 2021 Porto, 2022 Shenzhen, 2023 Thessaloniki, 2024 San Diego, 2025 Birmingham,
+  2026 New Delhi)
+- Research, Application, Industry, LLM and Survey and Vision tracks in 2026, plus special sessions and a journal track
+  with the Machine Learning journal and JDSA
+- Double-blind review via OpenReview; IEEE two-column format, 7 pages plus references in 2026 (10 pages in 2025)
+- Proceedings in IEEE Xplore, submitted for EI indexing; ICORE2026 lists it as B and CCF lists it as C
+- In-person presentation required; unpresented papers may be removed from IEEE Xplore
+editions:
+- year: 2025
+  start: 2025-10-09
+  end: 2025-10-12
+  location: Birmingham, UK
+  url: https://dsaa.ieee.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-16
+    time: '23:59'
+    tz: AoE
+    label: Full papers (Research, Applications, Industry tracks)
+  - kind: submission
+    date: 2025-06-14
+    time: '23:59'
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2025-08-04
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-28
+    time: '23:59'
+    tz: AoE
+- year: 2026
+  start: 2026-10-06
+  end: 2026-10-09
+  location: New Delhi, India
+  url: https://dsaa2026.dsaa.co/
+  deadlines:
+  - kind: other
+    date: 2026-04-08
+    tz: AoE
+    label: Special session proposals
+  - kind: other
+    date: 2026-05-23
+    tz: AoE
+    label: Tutorial proposals (extended from 2026-04-20)
+  - kind: submission
+    date: 2026-06-07
+    tz: AoE
+    label: Main and special session papers (extended from 2026-05-01)
+  - kind: notification
+    date: 2026-08-21
+    tz: AoE
+    label: Moved from 2026-07-24
+  - kind: camera_ready
+    date: 2026-09-08
+    tz: AoE
+    label: Moved from 2026-08-21
+sources:
+- https://dsaa.co/past-conferences
+- https://dsaa.co/dsaa2026-calls-for-papers/
+- https://dsaa.ieee.org/2025/
+- https://dsaa.ieee.org/2025/sample-page/
+- https://dsaa.ieee.org/2025/applications-track-2/
+- https://dsaa.ieee.org/2025/industrial-track/
+- https://dsaa.ieee.org/2025/attending/
+- https://dsaa.ieee.org/2025/accepted-papers/
+- https://ieeexplore.ieee.org/xpl/conhome/11247920/proceeding
+- https://dsaa2026.dsaa.co/
+- https://dsaa-2026.vercel.app/key-dates
+- https://dsaa-2026.vercel.app/calls/research-track
+- https://portal.core.edu.au/conf-ranks/?search=DSAA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- CCF rank C taken from a CCF list mirror (updated 2026-04); the official CCF page could not be loaded
+- Acceptance rate not published on the official pages
+- Whether the 2025 deadline of 2025-05-16 was already an extension
+- 2026 registration fees (only in the external registration page)
+- DSAA 2027 location and dates (not announced yet)
+last_verified: 2026-10-04

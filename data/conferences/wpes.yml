@@ -1,0 +1,75 @@
+id: wpes
+name: WPES
+full_name: ACM Workshop on Privacy in the Electronic Society
+type: workshop
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGSAC (co-located with ACM CCS)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL, DBLP]
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11]
+links:
+  website: https://wpes2026.github.io/
+  dblp: https://dblp.org/db/conf/wpes/index.html
+notes:
+- Long-running privacy workshop co-located with ACM CCS every year; 2026 is the 25th edition; location follows CCS
+  (2025 Taipei, 2026 The Hague)
+- Proceedings published by ACM in the ACM Digital Library
+- Regular papers up to 12 pages in ACM double-column format (excluding bibliography and appendix); short papers up
+  to 4 pages
+- Broad privacy scope, also open to submissions from law and business communities
+- Steering committee chaired by Pierangela Samarati (University of Milan); program chairs change every year
+- Not listed in the CORE portal (ICORE2026 or older editions)
+- The 2026 CFP says submissions should not be anonymized, while the 2025 CFP required anonymized submissions
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Taipei, Taiwan
+  url: http://jianying.space/WPES2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-21
+    time: '23:59'
+    tz: AoE
+    label: Extended from 2025-07-07
+  - kind: notification
+    date: 2025-08-21
+  - kind: camera_ready
+    date: 2025-08-25
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: The Hague, Netherlands
+  url: https://wpes2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-24
+    time: '23:59'
+    tz: AoE
+    label: Extended from 2026-07-17
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-14
+sources:
+- http://jianying.space/WPES2025/
+- http://jianying.space/WPES2025/cfp.html
+- https://www.sigsac.org/ccs/CCS2025/events/
+- https://dl.acm.org/doi/proceedings/10.1145/3733802
+- https://wpes2026.github.io/
+- https://wpes2026.github.io/cfp.html
+- https://wpes2026.github.io/organization.html
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=WPES&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CCF 2026 listing not confirmed (the CCF security category page did not list WPES but its edition could not be confirmed); rank.ccf left out
+- Acceptance rates and registration fees not stated on the workshop sites
+last_verified: 2026-10-04

@@ -1,0 +1,67 @@
+id: wtmc
+name: WTMC
+full_name: International Workshop on Traffic Measurements for Cybersecurity
+type: workshop
+tier: minor
+areas: [security, networking]
+region: europe
+language: english
+frequency: annual
+organizer: WTMC organizing committee (co-located with IEEE Euro S&P 2020-2025 and ACM CCS in 2026)
+organizer_country: [europe]
+proceedings: ACM DL
+rank:
+  core: Unranked
+typical:
+  deadline_months: [3, 7]
+  conference_months: [6, 11]
+links:
+  website: https://wtmc.info/
+notes:
+- Workshop on measurement-driven security (traffic analysis, DDoS, botnets, phishing, abuse infrastructure, censorship)
+- Co-located with IEEE Euro S&P in 2020 and 2022-2025 (proceedings in IEEE Xplore); moved to ACM CCS for 2026 (proceedings
+  in the ACM Digital Library), so the deadline shifted from March to July
+- Earlier editions were co-located with IEEE S&P, ACM SIGCOMM and ACM AsiaCCS; 2026 is the 11th edition
+- Short (4+2 pages), regular (6+2) and long (10+4) papers; double-blind review in 2026 (single-blind up to 2025)
+- In-person presentation by at least one author is required; organized by researchers from Grenoble Alps, TU Delft,
+  Warsaw University of Technology, ICANN and AIT
+editions:
+- year: 2025
+  start: 2025-06-30
+  end: 2025-06-30
+  location: Venice, Italy
+  url: https://wtmc.info/index2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-03-03
+    tz: AoE
+  - kind: notification
+    date: 2025-04-07
+  - kind: camera_ready
+    date: 2025-04-17
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: The Hague, Netherlands
+  url: https://wtmc.info/
+  deadlines:
+  - kind: submission
+    date: 2026-07-13
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-09-11
+  - kind: camera_ready
+    date: 2026-09-17
+sources:
+- https://wtmc.info/
+- https://wtmc.info/index2025.html
+- https://wtmc.info/index2024.html
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=WTMC&by=all&source=ICORE2026
+unverified:
+- Acceptance rate and fees not published on the workshop site
+- Original (pre-extension) 2026 submission deadline not shown on the site
+- Whether WTMC stays with ACM CCS after 2026 (deadline and conference months may change again)
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list and the CCF NIS category page, not listed
+last_verified: 2026-10-04

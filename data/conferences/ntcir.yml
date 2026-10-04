@@ -1,0 +1,111 @@
+id: ntcir
+name: NTCIR
+full_name: NTCIR Conference on Evaluation of Information Access Technologies (NII Testbeds and Community for Information
+  access Research)
+type: conference
+tier: minor
+areas: [data, nlp, ai]
+region: japan
+language: english
+frequency: irregular
+organizer: NII (National Institute of Informatics)
+organizer_country: [japan]
+proceedings: NTCIR online proceedings (NII, ISBN, papers with DOIs); EVIA satellite workshop papers in the same online
+  proceedings
+archival: false
+typical:
+  deadline_months: [3, 9]
+  conference_months: [6, 12]
+links:
+  website: https://research.nii.ac.jp/ntcir/
+notes:
+- Evaluation campaign run by NII (National Institute of Informatics), Japan; the conference was first held in 1999
+- Runs on an 18-month cycle (task registration, dry run, formal run, then the conference); held in June or December
+  at NII in Tokyo
+- Most papers are task participant papers describing systems for the shared tasks (NTCIR-19 has 14 tasks such as
+  AEOLLM-2, Lifelog-7, MedNLP-CALL and ToT)
+- EVIA (International Workshop on Evaluating Information Access) is a one-day satellite workshop with double-blind
+  review, 2 to 10 pages in ACM format
+- Task participant papers are not peer-reviewed (stated on the NTCIR-19 paper instructions), so the venue is
+  marked non-archival even though NII publishes the proceedings online with an ISBN and per-paper DOIs
+- NTCIR-14 (2019) also had Springer LNCS post-proceedings of revised selected papers
+- Not listed in ICORE2026
+- About 196 attendees from 14 countries at NTCIR-18; remote presentation can be arranged
+editions:
+- year: 2025
+  start: 2025-06-10
+  end: 2025-06-13
+  location: Tokyo, Japan
+  url: https://research.nii.ac.jp/ntcir/ntcir-18/conference.html
+  deadlines:
+  - kind: submission
+    date: 2025-03-01
+    label: Task participant papers (draft)
+  - kind: camera_ready
+    date: 2025-05-01
+    label: Task participant papers
+  - kind: submission
+    date: 2025-05-02
+    tz: AoE
+    label: EVIA 2025
+  - kind: notification
+    date: 2025-05-23
+    tz: AoE
+    label: EVIA 2025
+  - kind: camera_ready
+    date: 2025-05-30
+    tz: AoE
+    label: EVIA 2025
+- year: 2026
+  start: 2026-12-08
+  end: 2026-12-10
+  location: Tokyo, Japan
+  url: https://research.nii.ac.jp/ntcir/ntcir-19/
+  deadlines:
+  - kind: submission
+    date: 2026-09-01
+    label: Task participant papers (draft)
+  - kind: submission
+    date: 2026-09-01
+    tz: AoE
+    label: EVIA 2026
+  - kind: notification
+    date: 2026-09-30
+    tz: AoE
+    label: EVIA 2026
+  - kind: camera_ready
+    date: 2026-11-01
+    label: Task participant papers
+  - kind: camera_ready
+    date: 2026-11-01
+    tz: AoE
+    label: EVIA 2026
+  - kind: other
+    date: 2026-10-31
+    tz: JST
+    label: Early registration
+  - kind: other
+    date: 2026-11-30
+    tz: JST
+    label: Regular registration
+sources:
+- https://research.nii.ac.jp/ntcir/ntcir-19/
+- https://research.nii.ac.jp/ntcir/ntcir-19/conference.html
+- https://research.nii.ac.jp/ntcir/ntcir-19/evia2026.html
+- https://research.nii.ac.jp/ntcir/ntcir-19/papers.html
+- https://research.nii.ac.jp/ntcir/ntcir-18/conference.html
+- https://research.nii.ac.jp/ntcir/ntcir-18/dates.html
+- https://research.nii.ac.jp/ntcir/ntcir-18/papers.html
+- https://research.nii.ac.jp/ntcir/evia2025/index.html
+- https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings18/index.html
+- https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings18/pdf/ntcir/NTCIR18_publicationinfo.pdf
+- https://research.nii.ac.jp/ntcir/publication1-en.html
+- https://research.nii.ac.jp/ntcir/ntcir-14/lncspapers.html
+- https://portal.core.edu.au/conf-ranks/?search=NTCIR&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CCF 2026 list not checked (list page did not load); NTCIR is not known to be listed
+- Registration fee not shown on the public page
+- Time zone of task participant paper deadlines not stated
+- Whether any edition after NTCIR-14 had Springer LNCS post-proceedings
+- DBLP indexing not checked (dblp.org blocked automated access)
+last_verified: 2026-10-04

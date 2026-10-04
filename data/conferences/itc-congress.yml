@@ -1,0 +1,68 @@
+id: itc-congress
+name: ITC
+full_name: International Teletraffic Congress
+type: conference
+tier: minor
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ITC International Advisory Council (IAC)
+organizer_country: [international]
+proceedings: ITC Digital Library (open access, IEEE Xplore compatible format)
+indexing: [DBLP]
+rank:
+  core: Unranked
+fee: 9000 NOK (about 770 EUR) full or author, 4200 NOK (about 360 EUR) student (2025)
+typical:
+  deadline_months: [12, 1]
+  conference_months: [6]
+links:
+  website: https://itc-conference.org/
+notes:
+- Founded in 1955 in Copenhagen; bills itself as the first international conference in networking science and
+  practice; run by the ITC International Advisory Council with a local host university each time
+- Focus on teletraffic models, performance evaluation, network measurements and modelling of communication systems
+- Papers are open access in the ITC digital library; ITC keeps the copyright, and earlier editions were also included
+  in IEEE Xplore and ACM DL
+- The ITC 36 welcome message says the publication process was handled in coordination with IEEE Xplore
+- Single-blind review; full papers up to 9 pages, short papers up to 5 pages, A4 2-column IEEE style
+- Small program in recent years (13 regular papers in 2023); co-located PhD workshop
+- Formerly annual, now irregular (2021, 2022, 2023, then 2025); held mostly in Europe (Trondheim 2025, Turin 2023,
+  Shenzhen virtual 2022, Avignon 2021, Osaka 2020, Budapest 2019)
+- ICORE2026 lists it as Unranked; not the CCF 'ITC' (IEEE International Test Conference)
+editions:
+- year: 2025
+  start: 2025-06-02
+  end: 2025-06-05
+  location: Trondheim, Norway
+  url: https://itc36.itc-conference.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-01-10
+    tz: AoE
+    label: Paper registration (extended from 2024-11-24)
+  - kind: submission
+    date: 2025-01-10
+    tz: AoE
+    label: Papers (extended from 2024-12-01)
+  - kind: notification
+    date: 2025-02-28
+    label: Extended from 2025-02-19
+  - kind: camera_ready
+    date: 2025-03-31
+    label: Extended from 2025-03-25
+sources:
+- https://itc-conference.org/congresses.html
+- https://itc-conference.org/congresses/itc036.html
+- https://itc-conference.org/congresses/itc035.html
+- https://itc36.itc-conference.org/
+- https://itc36.itc-conference.org/cfp.html
+- https://itc36.itc-conference.org/authors.html
+- https://itc36.itc-conference.org/registration.html
+- https://portal.core.edu.au/conf-ranks/?search=ITC&by=all&source=ICORE2026
+unverified:
+- ITC 37 dates, location and deadlines (not announced on itc-conference.org as of 2026-10-04)
+- Whether ITC 35 and ITC 36 papers appeared in IEEE Xplore
+- Acceptance rate
+last_verified: 2026-10-04

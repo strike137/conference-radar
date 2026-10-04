@@ -1,0 +1,82 @@
+id: dai
+name: DAI
+full_name: International Conference on Distributed Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: DAI Steering Committee (Association for Distributed Artificial Intelligence)
+organizer_country: [international]
+proceedings: ACM ICPS (ACM DL)
+archival: true
+fee: 700 USD regular, 500 USD student (2026, early bird; 850/650 USD regular period)
+typical:
+  deadline_months: [8]
+  conference_months: [11, 12]
+links:
+  website: https://www.adai.ai/
+notes:
+- Forum for distributed AI, multi-agent systems, agentic AI, distributed learning and computational game theory;
+  held since 2019
+- Held in China 2019 to 2022, Singapore 2023 and 2024, London 2025, Hong Kong (City University of Hong Kong) 2026
+- 'Proceedings alternate by year: ACM DL (2019, 2023), Springer (2020 to 2022); 2026 Research and Industry papers
+  go to ACM ICPS, open access with an APC unless covered by ACM Open or a waiver'
+- 2026 tracks are Research (8 pages, double blind), Industry (6 pages, single blind), a non-archival AI Paper Track on
+  research written with AI agents, and a non-archival Sister Conference Track for papers accepted at AAMAS, AAAI,
+  IJCAI, NeurIPS and similar venues
+- Submissions via OpenReview; no rebuttal period
+- In-person only since 2023; at least one author per accepted paper must register
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-21
+  end: 2025-11-24
+  location: London, UK (King's College London)
+  url: https://www.adai.ai/dai/2025/
+- year: 2026
+  start: 2026-11-29
+  end: 2026-12-02
+  location: Hong Kong (City University of Hong Kong)
+  url: https://www.adai.ai/dai/2026/
+  status: confirmed
+  deadlines:
+  - kind: other
+    date: 2026-07-30
+    time: "23:59"
+    tz: AoE
+    label: Workshop and tutorial proposals
+  - kind: submission
+    date: 2026-08-03
+    time: "23:59"
+    tz: AoE
+    label: Research and Industry tracks (abstract registration requirement removed)
+  - kind: submission
+    date: 2026-08-10
+    time: "23:59"
+    tz: AoE
+    label: AI Paper Track (non-archival)
+  - kind: notification
+    date: 2026-09-16
+  - kind: camera_ready
+    date: 2026-10-16
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.adai.ai/
+- https://www.adai.ai/dai/2026/
+- https://www.adai.ai/dai/2026/dates.html
+- https://www.adai.ai/dai/2026/research-track.html
+- https://www.adai.ai/dai/2026/camera-ready-guide.html
+- https://www.adai.ai/dai/2026/registration.html
+- https://www.adai.ai/dai/2025/
+- https://www.adai.ai/dai/2025/venue.html
+- https://portal.core.edu.au/conf-ranks/?search=DAI&by=all&source=ICORE2026
+unverified:
+- DAI 2025 deadlines and whether 2024 and 2025 proceedings were published (the official proceedings list stops at
+  2023)
+- CCF listing not confirmed (the CCF AI list page did not load its contents); no DAI entry found
+- Country of the Association for Distributed Artificial Intelligence (not stated on the site)
+- DAI 2027 dates and location (not announced yet)
+last_verified: 2026-10-04

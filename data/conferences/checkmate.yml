@@ -1,0 +1,62 @@
+id: checkmate
+name: CheckMATE
+full_name: Workshop on Research on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks
+type: workshop
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: irregular
+organizer: CheckMATE steering committee (co-located with ACM CCS)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL]
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://checkmate-workshop.github.io/
+notes:
+- One-day workshop on software protection, obfuscation, anti-tampering, reverse engineering and MATE attacks,
+  co-located with ACM CCS; location follows CCS (2024 Salt Lake City, 2025 Taipei)
+- Successor of SSP, PPREW, SSPREW, SPRO and SAD (2020); held as CheckMATE in 2021, 2022, 2024 and 2025 (no 2023
+  edition)
+- Proceedings in the ACM Digital Library (2025 volume doi 10.1145/3733817); authors may opt out
+- Research papers up to 8 pages in double-column ACM format, anonymized; also accepts 2-page replay abstracts of
+  already published work (not anonymous)
+- Small program (5 regular plus 3 replay papers in 2025); selected papers invited to a journal special issue
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-17
+  end: 2025-10-17
+  location: Taipei, Taiwan
+  url: https://checkmate-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-07-08
+    tz: AoE
+    label: Extended from 2025-06-20
+  - kind: notification
+    date: 2025-08-08
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-03
+    tz: AoE
+    label: Extended from 2025-08-22 and 2025-08-29
+sources:
+- https://checkmate-workshop.github.io/
+- https://checkmate-workshop.github.io/call_for_papers
+- https://checkmate-workshop.github.io/history
+- https://checkmate-workshop.github.io/program
+- https://checkmate-workshop.github.io/organizers
+- https://doi.org/10.1145/3733817
+- https://doi.org/10.1145/3689934
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=CheckMATE&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- No CheckMATE 2026 edition announced; it is not among the ACM CCS 2026 co-located workshops and the official site
+  still shows 2025
+- Acceptance rate not published
+last_verified: 2026-10-04

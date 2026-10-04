@@ -1,0 +1,114 @@
+id: icdar
+name: ICDAR
+full_name: International Conference on Document Analysis and Recognition
+type: conference
+tier: major
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IAPR (International Association for Pattern Recognition, TC10 and TC11), local organizing committee
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [Scopus, EI, DBLP]
+rank:
+  core: A
+  ccf: C
+fee: 950 EUR non-IAPR member, 850 EUR IAPR member, 500 EUR student (2026, early bird; a paper needs a regular
+  registration)
+typical:
+  deadline_months: [2]
+  conference_months: [8, 9]
+links:
+  website: https://icdar2027.org/
+  dblp: https://dblp.org/db/conf/icdar/
+notes:
+- The main IAPR conference on document analysis and recognition (OCR, handwriting, layout, tables, historical documents,
+  scene text, document understanding)
+- Biennial until 2023, annual since 2024; rotates worldwide (San Jose 2023, Athens 2024, Wuhan 2025, Vienna 2026, Kuala
+  Lumpur 2027)
+- Proceedings in Springer LNCS (four volumes in 2026); double-blind review with a rebuttal phase; up to 17 pages in LNCS
+  format
+- Separate ICDAR-IJDAR journal track with a November deadline; accepted papers appear in a special issue of IJDAR
+  and get an oral slot
+- Workshops, competitions, tutorials and a doctoral consortium run alongside the main conference
+- Papers must be presented in person; each paper needs one regular (non-student) registration
+- CORE A and CCF C
+editions:
+- year: 2026
+  start: 2026-08-30
+  end: 2026-09-04
+  location: Vienna, Austria
+  url: https://icdar2026.org/
+  deadlines:
+  - kind: other
+    date: 2025-11-14
+    time: "23:59"
+    tz: AoE
+    label: IJDAR journal track submission
+  - kind: abstract
+    date: 2026-02-13
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-02-27
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-04-24
+    time: "23:59"
+    tz: AoE
+    label: Rebuttal
+  - kind: notification
+    date: 2026-05-15
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-15
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-08-18
+  end: 2027-08-22
+  location: Kuala Lumpur, Malaysia
+  url: https://icdar2027.org/
+  deadlines:
+  - kind: other
+    date: 2026-11-15
+    tz: AoE
+    label: IJDAR journal track submission
+  - kind: submission
+    date: 2027-02-28
+    tz: AoE
+  - kind: other
+    date: 2027-04-27
+    tz: AoE
+    label: Rebuttal
+  - kind: notification
+    date: 2027-05-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-06-05
+    tz: AoE
+sources:
+- https://icdar2026.org/
+- https://icdar2026.org/index.php/important-dates/
+- https://icdar2026.org/index.php/call-for-paper/
+- https://icdar2026.org/index.php/call-for-journal-track/
+- https://icdar2026.org/index.php/paper-submission-instruction/
+- https://icdar2026.org/index.php/registration/
+- https://icdar2026.org/index.php/proceedings/
+- https://icdar2027.org/
+- https://icdar2027.org/important-dates
+- https://icdar2027.org/call-for-papers
+- https://icdar2027.org/venue
+- https://www.icdar2025.com/
+- https://icdar2024.net/
+- https://portal.core.edu.au/conf-ranks/?search=ICDAR&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- CCF rank checked via the ccfddl and CCFrank4dblp mirrors, not on ccf.org.cn directly
+- ICDAR 2027 abstract deadline (not listed yet) and deadline time of day (the 2027 page only says AoE)
+- Acceptance rate (not stated on the official pages)
+last_verified: 2026-10-04

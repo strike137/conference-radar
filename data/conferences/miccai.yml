@@ -1,0 +1,83 @@
+id: miccai
+name: MICCAI
+full_name: International Conference on Medical Image Computing and Computer Assisted Intervention
+type: conference
+tier: major
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: MICCAI Society
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 27% (2026, 1167/4402 reviewed)
+fee: 820 EUR member, 950 EUR non-member; students 500 EUR member, 600 EUR non-member (2026, early main conference)
+typical:
+  deadline_months: [2]
+  conference_months: [9, 10]
+links:
+  website: https://conferences.miccai.org/2026/
+  dblp: https://dblp.org/db/conf/miccai/
+notes:
+- Annual flagship conference of the MICCAI Society on medical image computing, medical imaging AI and computer
+  assisted intervention
+- Main conference proceedings in Springer LNCS (19 volumes in 2026); satellite workshop papers also published with
+  Springer
+- 'Held worldwide: Singapore 2022, Vancouver 2023, Marrakesh 2024, Daejeon 2025, Strasbourg 2026, Auckland 2027'
+- Abstract registration and submission in February (23:59 Pacific Time); early accept round, rebuttal in May,
+  final decisions in June
+- Acceptance about 27% (2026, 1167 of 4402 reviewed submissions)
+- Workshops, tutorials and challenges run as satellite events in the conference week, with separate fees
+editions:
+- year: 2026
+  start: 2026-09-27
+  end: 2026-10-01
+  location: Strasbourg, France
+  url: https://conferences.miccai.org/2026/en/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-12
+    time: "23:59"
+    tz: PST
+    label: Abstract registration (intention to submit)
+  - kind: submission
+    date: 2026-02-26
+    time: "23:59"
+    tz: PST
+  - kind: other
+    date: 2026-05-07
+    tz: PDT
+    label: Early acceptance notification and reviews released
+  - kind: notification
+    date: 2026-06-12
+    tz: PDT
+  - kind: camera_ready
+    date: 2026-06-26
+    label: Camera-ready for all other papers (early accepted papers 2026-05-25)
+  - kind: other
+    date: 2026-06-26
+    label: Author registration deadline
+- year: 2027
+  start: 2027-09-27
+  end: 2027-10-01
+  location: Auckland, New Zealand
+  url: https://conferences.miccai.org/2027/en/
+sources:
+- https://conferences.miccai.org/2026/en/
+- https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+- https://conferences.miccai.org/2026/en/CALL-FOR-PAPERS.html
+- https://conferences.miccai.org/2026/en/OPEN-ACCESS-AND-PROCEEDINGS.html
+- https://conferences.miccai.org/2026/en/REGISTRATION.html
+- https://conferences.miccai.org/2027/en/
+- https://miccai.org/index.php/about-miccai/past-conferences/
+- https://link.springer.com/book/10.1007/978-3-032-38059-3
+- https://portal.core.edu.au/conf-ranks/?search=MICCAI&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF list mirror)
+unverified:
+- MICCAI 2027 deadlines (call and submission pages still under construction)
+- CCF rank checked via the ccfddl mirror of the CCF list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-04

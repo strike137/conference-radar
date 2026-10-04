@@ -1,0 +1,60 @@
+id: madweb
+name: MADWeb
+full_name: Workshop on Measurements, Attacks, and Defenses for the Web
+type: workshop
+tier: minor
+areas: [security, data]
+region: north-america
+language: english
+frequency: annual
+organizer: MADWeb steering committee, in cooperation with the NDSS Symposium (Internet Society)
+organizer_country: [usa]
+proceedings: NDSS Symposium website (Internet Society, open access)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [2, 3]
+links:
+  website: https://madweb.work/
+notes:
+- Co-located with the NDSS Symposium in San Diego, held on the Friday after the main conference (Feb 27, 2026; Feb
+  28, 2025)
+- Held since 2019; merged with the SecWeb workshop in 2025
+- 'Topics: web and browser security and privacy, web measurements, browser extensions, JavaScript security, phishing
+  and tracking'
+- Full papers up to 10 pages and work-in-progress papers under 6 pages, excluding references and appendices; double-blind,
+  NDSS template
+- Official proceedings hosted by NDSS; work-in-progress papers are not included, and authors may opt out of the proceedings at submission
+- On-site only; one author per accepted paper must present in person
+- NDSS 2027 moves to Seoul, Korea (March 22 to 26, 2027); a MADWeb 2027 edition there is not announced yet
+editions:
+- year: 2026
+  start: 2026-02-27
+  end: 2026-02-27
+  location: San Diego, USA
+  url: https://madweb.work/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-11
+    tz: AoE
+  - kind: submission
+    date: 2025-12-17
+    tz: AoE
+    label: Papers (extended from 2025-12-11)
+  - kind: notification
+    date: 2026-01-16
+    label: Tentative
+  - kind: camera_ready
+    date: 2026-02-17
+    label: Tentative
+sources:
+- https://madweb.work/
+- https://madweb.work/program25/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/madweb/
+- https://www.ndss-symposium.org/ndss-program/madweb-2026/
+- https://portal.core.edu.au/conf-ranks/?search=MADWeb&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- MADWeb 2027 not announced (NDSS 2027 in Seoul)
+- Not found in the ICORE2026 portal and not in the CCF list, so no rank is given
+- Acceptance rate, registration fee and DBLP indexing not confirmed from an official page
+last_verified: 2026-10-04

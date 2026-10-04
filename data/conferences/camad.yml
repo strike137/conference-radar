@@ -1,0 +1,91 @@
+id: camad
+name: IEEE CAMAD
+full_name: IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks
+type: conference
+tier: minor
+areas: [communications, networking]
+region: europe
+language: english
+frequency: annual
+organizer: IEEE Communications Society (ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore]
+fee: 650 EUR ComSoc member, 850 EUR non-member, 430 EUR ComSoc student member non-author (2026, full conference)
+typical:
+  deadline_months: [5, 6, 7]
+  conference_months: [9, 10, 11]
+links:
+  website: https://camad2026.ieee-camad.org/
+notes:
+- Sponsored by IEEE ComSoc; despite the "workshop" name it is a stand-alone three-day event with its own workshops,
+  special sessions, keynotes and demos
+- Long-running series (2026 is the 31st edition); proceedings in IEEE Xplore
+- Mostly held in Europe (Porto 2021, Paris 2022, Edinburgh 2023, Athens 2024, Nicosia 2026); 2025 was in Tempe, AZ, USA
+- Topics cover modeling, simulation and design of B5G/6G networks, IoT, SDN/NFV, AI-native networking and network
+  security
+- Six page papers via EDAS, up to two extra pages at 100 USD each; one author registration covers up to two papers
+- Hybrid attendance offered in 2026
+- Not listed in the ICORE2026 portal (0 results)
+- Deadlines were extended in both 2025 (three submission dates) and 2026 (May 22 moved to Jun 6)
+editions:
+- year: 2025
+  start: 2025-10-14
+  end: 2025-10-16
+  location: Tempe, AZ, USA
+  url: https://camad2025.ieee-camad.org/
+  deadlines:
+  - kind: submission
+    date: 2025-06-15
+    label: Paper submission (original)
+  - kind: submission
+    date: 2025-06-30
+    label: Paper submission (extended)
+  - kind: submission
+    date: 2025-07-07
+    label: Paper submission (firm)
+  - kind: notification
+    date: 2025-07-30
+  - kind: camera_ready
+    date: 2025-08-27
+    label: Extended from 2025-08-20
+  - kind: other
+    date: 2025-09-19
+    label: Industry session submission
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-09
+  location: Nicosia, Cyprus (hybrid)
+  url: https://camad2026.ieee-camad.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    label: Paper submission (original)
+  - kind: submission
+    date: 2026-06-06
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2026-07-10
+    label: Delayed from 2026-06-30
+  - kind: camera_ready
+    date: 2026-09-04
+    label: Extended from 2026-07-10; also the author registration deadline
+sources:
+- https://camad2026.ieee-camad.org/
+- https://camad2026.ieee-camad.org/authors
+- https://camad2026.ieee-camad.org/authors/call-symposia-papers
+- https://camad2026.ieee-camad.org/sites/default/files/downloads/2026-05/download-the-call-for-papers-here.pdf
+- https://camad2026.ieee-camad.org/authors/submission-guidelines
+- https://camad2026.ieee-camad.org/registration
+- https://camad2026.ieee-camad.org/about-us
+- https://camad2026.ieee-camad.org/committees
+- https://camad2025.ieee-camad.org/
+- https://api.crossref.org/works?query.bibliographic=CAMAD+2025+Computer+Aided+Modeling&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=CAMAD&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CAMAD 2027 dates and location (not announced yet)
+- Acceptance rate
+- No CORE rank given because CAMAD is not in the ICORE2026 portal
+- CCF list checked only via the CCFrank4dblp mirror (ccf.org.cn blocks automated access); CAMAD is not listed there
+- 2021 location (Porto) taken from IEEE Xplore proceedings metadata via Crossref; 2022 to 2025 are listed on the official About Us page
+last_verified: 2026-10-04

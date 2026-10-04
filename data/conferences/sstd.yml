@@ -1,0 +1,79 @@
+id: sstd
+name: SSTD
+full_name: International Symposium on Spatial and Temporal Data
+type: conference
+tier: major
+areas: [data]
+region: worldwide
+language: english
+frequency: biennial
+organizer: SSTD Steering Committee
+organizer_country: [international]
+proceedings: ACM DL
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+fee: 110,000 JPY author or regular early, 60,000 JPY student early (2025)
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://sstd2025.github.io/index.html
+  dblp: https://dblp.org/db/conf/ssd/
+notes:
+- Long-running biennial symposium on spatial, temporal and spatio-temporal data management, held in odd years since 1989
+- Renamed from International Symposium on Spatial and Temporal Databases to Spatial and Temporal Data in 2023;
+  ICORE2026 and CCF 2026 still list the old name
+- Proceedings published by ACM (ACM DL) since 2019; earlier editions appeared in Springer LNCS
+- Rotates worldwide (Vienna 2019, virtual 2021, Calgary 2023, Osaka 2025)
+- Research (long and short), demo, industry, thesis and dissertation workshop and tutorial tracks
+- Outstanding 2025 research papers were invited to a special track of GeoInformatica (Springer)
+- Registration fee covers reception, lunches and banquet
+editions:
+- year: 2025
+  start: 2025-08-25
+  end: 2025-08-27
+  location: Osaka, Japan
+  url: https://sstd2025.github.io/index.html
+  deadlines:
+  - kind: abstract
+    date: 2025-05-11
+    time: '23:59'
+    tz: AoE
+    label: Research / Demo / Industry tracks (extended from 2025-04-27)
+  - kind: submission
+    date: 2025-05-18
+    time: '23:59'
+    tz: AoE
+    label: Research / Demo / Industry tracks (extended from 2025-05-04)
+  - kind: other
+    date: 2025-06-07
+    time: '23:59'
+    tz: AoE
+    label: Thesis and Dissertation Workshop submission (extended)
+  - kind: notification
+    date: 2025-07-01
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-15
+    time: '23:59'
+    tz: AoE
+sources:
+- https://sstd2025.github.io/index.html
+- https://sstd2025.github.io/callResearchs.html
+- https://sstd2025.github.io/officers.html
+- https://sstd2025.github.io/registration.html
+- https://doi.org/10.1145/3748777
+- https://doi.org/10.1145/3609956
+- https://doi.org/10.1145/3469830
+- https://doi.org/10.1145/3340964
+- https://portal.core.edu.au/conf-ranks/?search=SSTD&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+last_verified: 2026-10-04
+unverified:
+- SSTD 2027 dates, location and deadlines (no 2027 website found)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- Earlier Springer LNCS editions (2017 and before) not rechecked on the publisher site
+- Acceptance rate not stated on the official site

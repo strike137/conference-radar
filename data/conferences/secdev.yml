@@ -1,0 +1,93 @@
+id: secdev
+name: ACM SecDev
+full_name: ACM Secure Development Conference
+type: conference
+tier: minor
+areas: [security, software]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGSOFT (IEEE Computer Society TC on Security and Privacy until 2025)
+organizer_country: [usa]
+proceedings: ACM DL
+indexing: [DBLP]
+typical:
+  deadline_months: [1, 2]
+  conference_months: [7]
+links:
+  website: https://conf.researchr.org/home/secdev-2026
+notes:
+- Formerly IEEE SecDev (sponsored by the IEEE Computer Society Technical Committee on Security and Privacy, proceedings
+  in IEEE Xplore); since 2026 an ACM conference sponsored by ACM SIGSOFT with proceedings in the ACM Digital Library
+- 2026 edition co-located with FSE 2026 in Montreal, which moved the conference from October to July and the paper
+  deadline from May to late January
+- Focus on how to build security into systems (tools, languages, processes, secure development), not on finding
+  vulnerabilities; aims to bridge academia, industry and government
+- Long (10 pages) and short (6 pages) research and experience papers, SoK papers and tutorials; accepted papers appear
+  in the formal conference proceedings
+- Light-weight double-blind review; separate calls for practitioner papers and posters (posters are not published in
+  the proceedings)
+- In-person attendance is mandatory for authors of accepted papers and tutorials
+- ACM papers are open access from 2026; authors not covered by ACM OPEN may have to pay an article processing charge
+- Held in North America every year (Atlanta 2022 and 2023, Pittsburgh 2024, Indianapolis 2025, Montreal 2026); 2020 and
+  2021 were virtual
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-14
+  end: 2025-10-16
+  location: Indianapolis, Indiana, USA
+  url: https://secdev.ieee.org/2025/home/
+  deadlines:
+  - kind: submission
+    date: 2025-05-20
+    label: Papers and tutorials (extended from 2025-05-13)
+  - kind: other
+    date: 2025-05-30
+    label: Practitioner abstracts
+  - kind: notification
+    date: 2025-07-11
+  - kind: camera_ready
+    date: 2025-08-10
+  - kind: other
+    date: 2025-09-14
+    label: Poster abstracts (extended from 2025-07-25)
+- year: 2026
+  start: 2026-07-05
+  end: 2026-07-06
+  location: Montreal, Canada (co-located with FSE 2026)
+  url: https://conf.researchr.org/home/secdev-2026
+  deadlines:
+  - kind: submission
+    date: 2026-02-05
+    label: Papers and tutorials (extended from 2026-01-29)
+  - kind: other
+    date: 2026-03-08
+    label: Practitioner papers
+  - kind: notification
+    date: 2026-03-19
+    label: Papers and tutorials
+  - kind: camera_ready
+    date: 2026-03-27
+    label: Papers and tutorials
+  - kind: other
+    date: 2026-04-22
+    label: Poster abstracts (extended from 2026-03-23)
+sources:
+- https://conf.researchr.org/home/secdev-2026
+- https://conf.researchr.org/track/secdev-2026/secdev-2026-papers
+- https://conf.researchr.org/track/secdev-2026/secdev-2026-practitioner-papers
+- https://conf.researchr.org/track/secdev-2026/secdev-2026-posters
+- https://dl.acm.org/doi/proceedings/10.1145/3805773
+- https://secdev.ieee.org/2025/home/
+- https://secdev.ieee.org/2025/cfp/
+- https://secdev.ieee.org/2025/practitioners/
+- https://secdev.ieee.org/2025/posters/
+- https://secdev.ieee.org/2024/home/
+- https://secdev.ieee.org/2023/home/
+- https://portal.core.edu.au/conf-ranks/?search=SecDev&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/NIS/
+unverified:
+- SecDev 2027 dates, venue and whether it stays co-located with FSE (not announced as of 2026-10-04)
+- Acceptance rate and registration fee not stated on the official pages
+last_verified: 2026-10-04

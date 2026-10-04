@@ -1,0 +1,106 @@
+id: asp-dac
+name: ASP-DAC
+full_name: Asia and South Pacific Design Automation Conference
+type: conference
+tier: major
+areas: [systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ASP-DAC Steering Committee; regularly sponsored by IEEE and ACM (member rates for IEEE, ACM SIGDA, IEICE
+  and IPSJ)
+organizer_country: [international]
+proceedings: ACM DL and IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+fee: 110,000 JPY member, 120,000 JPY non-member, 60,000 JPY full-time student (2027, early, until 2026-12-11)
+typical:
+  deadline_months: [7]
+  conference_months: [1]
+links:
+  website: https://www.aspdac.com/
+  dblp: https://dblp.org/db/conf/aspdac/
+notes:
+- Started in 1995; describes itself as the largest conference on electronic design automation (EDA) for VLSI and
+  systems in the Asia and South Pacific region; sister conference of DAC, ICCAD and DATE
+- Held every January; by its bylaws the location alternates between Japan and other countries or areas in the region
+  (Tokyo 2023, Incheon 2024, Tokyo 2025, Hong Kong 2026, Tokyo 2027)
+- Topics include EDA, logic and physical design, test and verification, embedded and CPS systems, AI hardware and
+  hardware security
+- Double-blind review; 6 pages plus 1 page of references; abstract registration one week before the full paper
+  deadline (5 PM AoE)
+- Papers go to the ACM Digital Library and IEEE Xplore; ACM is fully open access, so authors outside ACM Open
+  institutions may pay an APC
+- Accepted papers must be presented on site by an author; each paper needs a separate speaker registration
+- Also has a Designers' Forum, a University Design Contest, special sessions and tutorials
+- ICORE2026 rank B; CCF C
+editions:
+- year: 2026
+  start: 2026-01-19
+  end: 2026-01-22
+  location: Hong Kong Disneyland Hotel, Hong Kong
+  url: https://www.aspdac.com/aspdac2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-04
+    time: '17:00'
+    tz: AoE
+  - kind: submission
+    date: 2025-07-11
+    time: '17:00'
+    tz: AoE
+    label: PDF upload
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-10-31
+    time: '17:00'
+    tz: AoE
+- year: 2027
+  start: 2027-01-25
+  end: 2027-01-28
+  location: Hitotsubashi Hall, Tokyo, Japan
+  url: https://www.aspdac.com/aspdac2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-11
+    time: '17:00'
+    tz: AoE
+  - kind: submission
+    date: 2026-07-18
+    time: '17:00'
+    tz: AoE
+    label: PDF upload
+  - kind: notification
+    date: 2026-09-04
+  - kind: other
+    date: 2026-09-07
+    label: Special session, panel and tutorial proposals
+  - kind: camera_ready
+    date: 2026-10-27
+    time: '17:00'
+    tz: AoE
+sources:
+- https://www.aspdac.com/aspdac2027/
+- https://www.aspdac.com/aspdac2027/cfp
+- https://www.aspdac.com/aspdac2027/pdf/ASPDAC2027-CFP_2026_0706.pdf
+- https://www.aspdac.com/aspdac2027/author/
+- https://www.aspdac.com/aspdac2027/registration
+- https://www.aspdac.com/aspdac2026/
+- https://www.aspdac.com/aspdac2026/cfp/
+- https://www.aspdac.com/aspdac2025/
+- https://www.aspdac.com/aspdac2024/
+- https://www.aspdac.com/aspdac2023/
+- https://www.aspdac.com/aspdac/bylaws/
+- https://portal.core.edu.au/conf-ranks/?search=ASPDAC&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/ARCH_DCP_SS/
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF list, not on ccf.org.cn directly (site blocks automated access)
+- Acceptance rate (not stated on the official pages)
+- The 2027 CFP gives the final version deadline as Oct. 27 (Fri), 2026, but 2026-10-27 is a Tuesday (the author guide
+  says Tue.)
+- ASP-DAC 2028 dates and location (not announced yet)
+last_verified: 2026-10-04

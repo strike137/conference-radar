@@ -1,0 +1,85 @@
+id: cloudnet
+name: IEEE CloudNet
+full_name: IEEE International Conference on Cloud Networking
+type: conference
+tier: minor
+areas: [networking, systems, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Communications Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP]
+fee: 450 EUR ComSoc member, 500 EUR IEEE member, 650 EUR non-member author registration (2026)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://cloudnet2026.ieee-cloudnet.org/
+  dblp: https://dblp.org/db/conf/cloudnet/
+notes:
+- IEEE ComSoc conference on cloud, data center and edge networking, SDN/NFV, network softwarization and cloud security;
+  held since 2012
+- Rotates worldwide (2022 Paris, 2023 New York area, 2024 Rio de Janeiro, 2026 Athens; 2020 and 2021 virtual)
+- No 2025 edition; the 2026 site lists 2024 and 2023 as the previous conferences
+- Proceedings in IEEE Xplore; accepted papers must be registered and presented to be published
+- 2026 limit is 6 pages (up to 8 with 100 USD per extra page), submission via EDAS; 2024 allowed 8-page full papers
+  and 4-page short papers
+- Workshops, special sessions and a demo, datasets and open repositories track run alongside the main conference
+- One full or limited author registration covers up to 3 papers
+- Not listed in ICORE2026 (portal search returns no results) and not in the CCF 2026 list
+editions:
+- year: 2024
+  start: 2024-11-27
+  end: 2024-11-29
+  location: Rio de Janeiro, Brazil
+  url: https://cloudnet2024.ieee-cloudnet.org/
+  deadlines:
+  - kind: submission
+    date: 2024-08-30
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended from 2024-07-22)
+  - kind: notification
+    date: 2024-09-27
+    label: Extended from 2024-09-16
+  - kind: camera_ready
+    date: 2024-10-21
+    label: Extended from 2024-09-30 and 2024-10-07
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-21
+  location: Athens, Greece
+  url: https://cloudnet2026.ieee-cloudnet.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    label: Technical papers
+  - kind: notification
+    date: 2026-09-09
+  - kind: camera_ready
+    date: 2026-09-27
+sources:
+- https://cloudnet2026.ieee-cloudnet.org/
+- https://cloudnet2026.ieee-cloudnet.org/authors
+- https://cloudnet2026.ieee-cloudnet.org/authors/call-papers
+- https://cloudnet2026.ieee-cloudnet.org/submission-guidelines
+- https://cloudnet2026.ieee-cloudnet.org/registration
+- https://cloudnet2026.ieee-cloudnet.org/about-us
+- https://cloudnet2026.ieee-cloudnet.org/committees
+- https://cloudnet2026.ieee-cloudnet.org/call-workshops-and-special-sessions-papers
+- https://cloudnet2024.ieee-cloudnet.org/
+- https://cloudnet2024.ieee-cloudnet.org/about
+- https://cloudnet2024.ieee-cloudnet.org/authors/call-papers
+- https://cloudnet2023.ieee-cloudnet.org/
+- https://api.crossref.org/works?query.bibliographic=IEEE+International+Conference+on+Cloud+Networking+CloudNet+2024&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=CloudNet&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CloudNet 2027 dates and location (not announced yet)
+- Whether the 2026 submission deadline of 2026-07-10 was extended, and its time zone
+- Workshop and demo track deadlines for 2026
+- Acceptance rate
+- CCF absence checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-10-04

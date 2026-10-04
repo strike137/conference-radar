@@ -1,0 +1,60 @@
+id: blp
+name: BLP
+full_name: Workshop on Bangla Language Processing
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: asia-pacific
+language: english
+frequency: irregular
+organizer: Workshop chairs Firoj Alam (QCRI) and Sudipta Kar (Oracle Health AI); co-located with ACL-family conferences
+organizer_country: [other, usa]
+proceedings: ACL Anthology
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://blp-workshop.github.io/
+notes:
+- Workshop on NLP, speech and multimodal processing for Bangla and other low-resource languages
+- First edition co-located with EMNLP 2023 in Singapore; second edition with IJCNLP-AACL 2025 in Mumbai, India
+- Proceedings published in the ACL Anthology (68 papers in 2025); double-blind review in ARR format, long papers 8 pages,
+  short and shared task papers 4 pages
+- Runs shared tasks (2025 hate speech detection and Bangla code generation) and a pre-submission mentoring program
+- Not ranked in ICORE2026 and not on the CCF list
+- So far held in 2023 and 2025; venue follows the host conference
+editions:
+- year: 2025
+  start: 2025-12-23
+  end: 2025-12-23
+  location: Mumbai, India
+  url: https://blp-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-10-04
+    time: '23:59'
+    tz: AoE
+    label: Extended from 2025-09-29
+  - kind: notification
+    date: 2025-11-03
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-17
+    time: '23:59'
+    tz: AoE
+    label: Extended from 2025-11-11
+sources:
+- https://blp-workshop.github.io/
+- https://blp-workshop.github.io/cfp
+- https://blp-workshop.github.io/organizers
+- https://blp-workshop.github.io/2023/
+- https://aclanthology.org/venues/banglalp/
+- https://aclanthology.org/volumes/2025.banglalp-1/
+- https://aclanthology.org/volumes/2023.banglalp-1/
+- https://portal.core.edu.au/conf-ranks/?search=BLP&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-04
+unverified:
+- No third edition (2026 or 2027) announced on the official site as of 2026-10-04
+- Whether the workshop will continue on a fixed (for example biennial) schedule
+- Acceptance rate not published

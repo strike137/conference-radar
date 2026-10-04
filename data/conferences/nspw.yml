@@ -1,0 +1,82 @@
+id: nspw
+name: NSPW
+full_name: New Security Paradigms Workshop
+type: conference
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACSA (Applied Computer Security Associates)
+organizer_country: [usa]
+proceedings: ACM DL (ICPS)
+indexing: [DBLP]
+rank:
+  core: C
+  ccf: C
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8, 9]
+links:
+  website: https://www.nspw.org/
+  dblp: https://dblp.org/db/conf/nspw/index.html
+notes:
+- Small invitation-only workshop run by ACSA (Applied Computer Security Associates), held since 1992, for ideas that
+  challenge mainstream security thinking
+- Standalone event, not co-located; recent editions alternate between North America and Europe (2022 New Hampshire, 2023 Segovia,
+  2024 Pennsylvania, 2025 Aerzen, 2026 Sooke near Victoria BC)
+- Only 10 to 12 papers per year; each gets about one hour of plenary presentation and discussion
+- Participation limited to authors of accepted papers and organizers; at least one author must attend in person, with
+  a strict no-device social contract
+- Double-blind review, then pre-workshop shepherding; final papers revised after the workshop and published in ACM
+  ICPS (open access, APC may apply)
+- Regular, theme and implementation submissions; 6 to 15 pages in ACM sigconf format, plus a separate cover page and a
+  justification statement
+editions:
+- year: 2025
+  start: 2025-08-24
+  end: 2025-08-27
+  location: Aerzen, Germany
+  url: https://www.nspw.org/2025
+  deadlines:
+  - kind: submission
+    date: 2025-04-25
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2025-05-30
+    label: Response date
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-30
+  location: Sooke (near Victoria), BC, Canada
+  url: https://www.nspw.org/2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-14
+    time: '23:59'
+    tz: AoE
+    label: Extended from 2026-04-30
+  - kind: other
+    date: 2026-07-07
+    label: Reviews sent, shepherding starts (moved from 2026-07-01)
+  - kind: notification
+    date: 2026-08-03
+    label: Final acceptance after shepherding
+sources:
+- https://www.nspw.org/
+- https://www.nspw.org/2026
+- https://www.nspw.org/2026/cfp
+- https://www.nspw.org/2026/organizers
+- https://www.nspw.org/2025
+- https://www.nspw.org/2025/cfp
+- https://www.nspw.org/2024/dates
+- https://www.nspw.org/past
+- https://www.nspw.org/proceedings
+- https://portal.core.edu.au/conf-ranks/?search=NSPW&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF list, not on ccf.org.cn directly (site behind a captcha)
+- NSPW 2027 dates and location (not announced yet; nspw.org/2027 returns 404)
+- Acceptance rate and registration fee (not stated on the official site)
+last_verified: 2026-10-04

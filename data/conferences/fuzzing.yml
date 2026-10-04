@@ -1,0 +1,62 @@
+id: fuzzing
+name: FUZZING
+full_name: International Fuzzing Workshop
+type: workshop
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Fuzzing research community (2026 organizers from MPI-SP, CISPA, CMU, Ruhr University Bochum and Google);
+  co-located with NDSS (2022, 2026) or ISSTA (2023 to 2025)
+organizer_country: [europe, usa]
+proceedings: NDSS (Internet Society)
+archival: true
+typical:
+  deadline_months: [3, 12]
+  conference_months: [2, 6]
+links:
+  website: https://www.ndss-symposium.org/ndss2026/co-located-events/fuzzing/
+notes:
+- Workshop dedicated to fuzzing and automated bug finding; started in 2022, 5th edition in 2026
+- 'Host conference alternates: NDSS 2022 (San Diego), ISSTA 2023 (Seattle), ISSTA 2024 (Vienna), ISSTA 2025 (Trondheim),
+  NDSS 2026 (San Diego)'
+- Main track is registered reports (Stage 1); accepted reports are invited as ACM TOSEM Registered Papers, where the
+  full evaluation is reviewed in Stage 2 with artifact evaluation
+- Also a short paper track (Fuzzing Nuggets) for position papers and experience reports, up to 4 pages
+- 2026 papers published in the NDSS workshop proceedings (Internet Society); registered reports go in only if the authors
+  choose; 2025 papers went to the ISSTA'25 workshop proceedings
+- Double-anonymous review; registered reports up to 8 pages excluding references (NDSS template, 2026)
+- Not listed in ICORE2026 or the CCF list
+- 2027 edition not announced yet ("stay tuned" on the workshop site); NDSS 2027 is in Seoul, Korea (March 22 to 26, 2027)
+editions:
+- year: 2026
+  start: 2026-02-27
+  end: 2026-02-27
+  location: San Diego, USA
+  url: https://www.ndss-symposium.org/ndss2026/co-located-events/fuzzing/
+  deadlines:
+  - kind: submission
+    date: 2025-12-11
+    tz: AoE
+  - kind: notification
+    date: 2026-01-16
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-23
+    tz: AoE
+sources:
+- https://www.ndss-symposium.org/ndss2026/co-located-events/fuzzing/
+- https://www.ndss-symposium.org/ndss2026/submissions/cfp-fuzzing/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/fuzzing/accepted-papers/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/fuzzing/leadership/
+- https://www.ndss-symposium.org/ndss-program/fuzzing-2026/
+- https://fuzzing-workshop.github.io/
+- https://fuzzing-workshop.github.io/editions/index.html
+- https://fuzzing-workshop.github.io/editions/2025/index.html
+- https://www.ndss-symposium.org/ndss2027/
+- https://portal.core.edu.au/conf-ranks/?search=fuzzing&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- FUZZING 2027 host conference, dates and deadlines (not announced)
+- Acceptance rate and registration fee not found
+last_verified: 2026-10-04

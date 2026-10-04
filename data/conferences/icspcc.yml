@@ -1,0 +1,73 @@
+id: icspcc
+name: ICSPCC
+full_name: IEEE International Conference on Signal Processing, Communications and Computing
+type: conference
+tier: minor
+areas: [communications]
+region: china
+language: english
+frequency: annual
+organizer: IEEE Xi'an Section and IEEE Hong Kong Section (secretariat at Northwestern Polytechnical University)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+fee: 700 USD regular non-IEEE member, 660 USD IEEE member, 542 to 580 USD student (2026)
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: http://www.icspcc.org/
+notes:
+- Initiated and run by IEEE Xi'an Section and IEEE Hong Kong Section since 2011; 2026 also sponsored by IEEE Wuhan Section
+- Held in China every year except 2024 (Bali, Indonesia); Hong Kong 2025, Wuhan 2026
+- Proceedings in IEEE Xplore; papers of no-show authors are excluded from Xplore
+- Six pages max in IEEE format; tracks for signal processing, communications and computing plus special sessions
+- Has a Best Student Paper Contest
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-07-18
+  end: 2025-07-21
+  location: Hong Kong, China
+  url: http://www.icspcc.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-01
+  - kind: notification
+    date: 2025-05-20
+    label: Notifications start
+  - kind: camera_ready
+    date: 2025-06-20
+  - kind: other
+    date: 2025-07-01
+    label: Author registration deadline
+- year: 2026
+  start: 2026-07-17
+  end: 2026-07-20
+  location: Wuhan, China
+  url: http://www.icspcc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    label: Regular and special session papers
+  - kind: notification
+    date: 2026-05-20
+    label: Notifications start
+  - kind: camera_ready
+    date: 2026-06-20
+sources:
+- http://www.icspcc.org/
+- http://www.icspcc.org/Reg26.html
+- http://www.icspcc.org/Advpro26.html
+- http://www.icspcc.org/papfin26.html
+- http://www.icspcc.org/2025/
+- https://api.crossref.org/works?query.bibliographic=Signal+Processing+Communications+and+Computing+ICSPCC&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ICSPCC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ICSPCC 2027 dates and deadlines (not announced yet)
+- "2026 end date: the home page says July 17 to 21, the program ends on July 20"
+- "2026 author registration deadline: the CFP gives the invalid date 31-Jun-26"
+- Acceptance rate
+- DBLP coverage
+last_verified: 2026-10-04

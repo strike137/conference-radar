@@ -1,0 +1,79 @@
+id: sosp
+name: SOSP
+full_name: ACM Symposium on Operating Systems Principles
+type: conference
+tier: top
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGOPS
+organizer_country: [international]
+proceedings: ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: A*
+  ccf: A
+fee: 1100 EUR ACM member, 1150 EUR non-member, 500 EUR ACM student, 550 EUR student non-member (2026, conference plus workshops, flat rate)
+typical:
+  deadline_months: [3, 4]
+  conference_months: [9, 10, 11]
+links:
+  website: https://sigops.org/s/conferences/sosp/2026/
+  dblp: https://dblp.org/db/conf/sosp/
+notes:
+- Flagship operating systems and systems software conference sponsored by ACM SIGOPS, first held in 1967
+- Biennial until 2021, annual since 2023 (Koblenz 2023, Austin 2024, Seoul 2025, Prague 2026)
+- Rotates between North America, Europe and Asia; proceedings in the ACM Digital Library
+- 'Double-blind review, 12 pages of technical content excluding references, author response period and optional artifact evaluation'
+- Workshops held on the first day; at least one author per accepted paper needs a full (non-student) registration
+- Widely regarded as one of the two top systems venues together with OSDI (ICORE2026 A*, CCF A)
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-16
+  location: Seoul, Korea
+  url: https://sigops.org/s/conferences/sosp/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-04-10
+    time: "23:59"
+    tz: PDT
+  - kind: submission
+    date: 2025-04-17
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2025-07-15
+  - kind: camera_ready
+    date: 2025-09-01
+- year: 2026
+  start: 2026-09-29
+  end: 2026-10-02
+  location: Prague, Czechia
+  url: https://sigops.org/s/conferences/sosp/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-26
+    tz: AoE
+  - kind: submission
+    date: 2026-04-01
+    tz: AoE
+  - kind: notification
+    date: 2026-07-03
+  - kind: camera_ready
+    date: 2026-08-28
+sources:
+- https://sigops.org/s/conferences/sosp/2026/
+- https://sigops.org/s/conferences/sosp/2026/cfp.html
+- https://sigops.org/s/conferences/sosp/2026/accepted.html
+- https://sigops.org/s/conferences/sosp/2025/
+- https://sigops.org/s/conferences/sosp/2025/cfp.html
+- http://www.sosp.org/
+- https://portal.core.edu.au/conf-ranks/?search=SOSP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/TCSE_SS_PDL/
+unverified:
+- Acceptance rate not published on the official site
+- SOSP 2027 dates and location not announced yet
+- CCF rank read from a copy of the CCF 2026 list PDF (software engineering / system software category, class A), not from the ccf.org.cn web page itself
+last_verified: 2026-10-04

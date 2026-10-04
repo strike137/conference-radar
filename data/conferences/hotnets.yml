@@ -1,0 +1,85 @@
+id: hotnets
+name: HotNets
+full_name: ACM Workshop on Hot Topics in Networks
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGCOMM
+organizer_country: [international]
+proceedings: ACM DL
+indexing: [DBLP]
+rank:
+  core: 'National: USA'
+  ccf: C
+acceptance_rate: 22.9% (2026, 43/188); 28.1% (2025, 50/178)
+typical:
+  deadline_months: [7]
+  conference_months: [11]
+links:
+  website: https://conferences.sigcomm.org/hotnets/2026/
+  dblp: https://dblp.org/db/conf/hotnets/
+notes:
+- Standalone workshop sponsored by ACM SIGCOMM; held every November in the USA (2022
+  Austin, 2023 Cambridge MA, 2024 Irvine, 2025 College Park, 2026 Salt Lake City); 2020 and 2021 were virtual
+- Short position and early-stage idea papers (6 pages excluding references, ACM two-column format), blind review;
+  accepted papers appear in the ACM Digital Library
+- Highly regarded in the networking community despite the ranks (ICORE2026 National USA, CCF C); acceptance rate
+  around 23 to 28%
+- Attendance is limited and mostly by invitation; open registration slots are allocated by lottery and one author
+  per accepted paper must attend in person
+- From 2026 there are two paper categories (technical and perspective) and the first review round is based mainly on
+  the abstract and introduction
+- ACM Open Access from 2026; authors from institutions outside ACM Open pay an APC (subsidized to 250 USD for ACM/SIG
+  members, 350 USD for non-members in 2026)
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-18
+  location: College Park, Maryland, USA
+  url: https://conferences.sigcomm.org/hotnets/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-09
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-07-01
+  - kind: notification
+    date: 2025-09-17
+  - kind: camera_ready
+    date: 2025-10-22
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-17
+  location: Salt Lake City, Utah, USA
+  url: https://conferences.sigcomm.org/hotnets/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-16
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-24
+  - kind: camera_ready
+    date: 2026-10-23
+sources:
+- https://conferences.sigcomm.org/hotnets/2026/
+- https://conferences.sigcomm.org/hotnets/2026/cfp.html
+- https://conferences.sigcomm.org/hotnets/2025/
+- https://conferences.sigcomm.org/hotnets/2025/cfp.html
+- https://conferences.sigcomm.org/hotnets/2024/
+- https://conferences.sigcomm.org/hotnets/2023/
+- https://conferences.sigcomm.org/hotnets/2022/
+- https://conferences.sigcomm.org/hotnets/2021/
+- https://hotnets25.hotcrp.com/
+- https://hotnets26.hotcrp.com/
+- https://portal.core.edu.au/conf-ranks/?search=HotNets&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- https://dblp.org/db/conf/hotnets/
+unverified:
+- Registration fee for 2026 not stated on the official site
+- HotNets 2027 dates and location not announced yet
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-10-04

@@ -1,0 +1,82 @@
+id: pst
+name: PST
+full_name: Annual International Conference on Privacy, Security and Trust
+type: conference
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: PST Network, technically co-sponsored by IEEE Computer Society
+organizer_country: [canada]
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: C
+fee: 1,050 CAD IEEE member, 1,100 CAD non-member (2026, author conference pass)
+typical:
+  deadline_months: [4]
+  conference_months: [8]
+links:
+  website: https://pstnet.ca/
+  dblp: https://dblp.org/db/conf/pst/index.html
+notes:
+- Run by the Canadian PST Network (23rd edition in 2026); often held in Fredericton, Canada, with editions abroad (New Zealand 2021
+  virtual, Denmark 2023, Australia 2024, United Kingdom 2027)
+- Proceedings in IEEE Xplore; regular papers up to 10 pages, short papers up to 6 pages, IEEE two-column format
+- Double-blind review; authors pick a Privacy, Security or Trust track, plus a special track on Emerging Technologies
+  and Trends
+- One industry day followed by two days of technical sessions; remote presentation allowed (hybrid support)
+- Optional artifact evaluation with IEEE reproducibility badges (2026)
+- PST 2026 was co-located with SAC 2026 (Selected Areas in Cryptography) in Ottawa
+- Selected papers invited to journal special issues after extension
+- ICORE2026 rank C; not in the CCF list
+editions:
+- year: 2026
+  start: 2026-08-26
+  end: 2026-08-28
+  location: Ottawa, Canada
+  url: https://pstnet.ca/pst2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-04-28
+    time: "23:59"
+    tz: AoE
+    label: Paper submission (extended from 2026-04-10)
+  - kind: other
+    date: 2026-06-01
+    label: Tutorial and workshop proposals
+  - kind: notification
+    date: 2026-06-08
+    label: Extended from 2026-06-01
+  - kind: other
+    date: 2026-06-19
+    label: Artifact submission (extended from 2026-06-10)
+  - kind: camera_ready
+    date: 2026-07-03
+    label: Camera-ready and author registration
+- year: 2027
+  start: 2027-08-25
+  end: 2027-08-27
+  location: Sheffield, United Kingdom
+  url: https://pstnet.ca/pst2027/
+  deadlines:
+  - kind: submission
+    date: 2027-04-10
+  - kind: notification
+    date: 2027-06-07
+sources:
+- https://pstnet.ca/pst2026/index.html
+- https://pstnet.ca/pst2026/callforpapers.html
+- https://pstnet.ca/pst2026/docs/PST2026-CFP.pdf
+- https://pstnet.ca/pst2026/js/config.js
+- https://pstnet.ca/pst2026/registration.html
+- https://pstnet.ca/pst2026/program.html
+- https://pstnet.ca/pst2027/
+- https://pstnet.ca/pst2025/
+- https://portal.core.edu.au/conf-ranks/?search=PST&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-04
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list (not listed), not on ccf.org.cn directly
+- PST 2027 submission time and zone, camera-ready date and full CFP (not published yet)
+- Acceptance rate not stated on the official pages

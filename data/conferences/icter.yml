@@ -1,0 +1,81 @@
+id: icter
+name: ICTer
+full_name: International Conference on Advances in ICT for Emerging Regions
+type: conference
+tier: minor
+areas: [general, ai, security, data, software, systems]
+region: south-asia
+language: english
+frequency: annual
+organizer: University of Colombo School of Computing (UCSC)
+organizer_country: [other]
+proceedings: Springer CCIS
+fee: 250 USD author, 225 USD author early bird or student (2026, international); 60,000 LKR author (2026, local)
+typical:
+  deadline_months: [5, 6]
+  conference_months: [11]
+links:
+  website: https://icter.lk/
+notes:
+- Run by the University of Colombo School of Computing (UCSC), Sri Lanka; held every year in Colombo
+- Successor of the International Information Technology Conference (IITC), held in Sri Lanka since 1998; 2026 is the
+  26th edition
+- Since 2025 full papers appear in Springer CCIS (ICTer 2025 -> CCIS volume 2844); earlier editions were submitted to IEEE
+  Xplore (2022) or the open-access ICTer Journal (2024)
+- Main research track takes 12 to 15 page LNCS-format papers, double-blind; survey-only and literature review papers
+  are not accepted
+- Industry R&D track takes 6 page short papers and 2 page extended abstracts; at least one author must have an industry
+  affiliation
+- Not listed in ICORE2026 or the CCF list
+- Deadlines are 11.59 PM IST as stated on the CFP page; 2026 deadlines were extended by two weeks
+editions:
+- year: 2025
+  start: 2025-11-19
+  end: 2025-11-20
+  location: Marino Beach Hotel, Colombo, Sri Lanka
+  url: https://icter.lk/icter_2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-23
+  - kind: notification
+    date: 2025-08-29
+  - kind: camera_ready
+    date: 2025-09-21
+    label: Revised papers for posters (full paper date given in acceptance email)
+- year: 2026
+  start: 2026-11-04
+  end: 2026-11-05
+  location: Cinnamon Life at City of Dreams, Colombo, Sri Lanka
+  url: https://icter.lk/
+  deadlines:
+  - kind: submission
+    date: 2026-06-14
+    time: "23:59"
+    tz: IST
+    label: Main and Industry R&D tracks (extended from 2026-05-31)
+  - kind: notification
+    date: 2026-09-14
+    time: "23:59"
+    tz: IST
+    label: Extended from 2026-08-31
+  - kind: camera_ready
+    date: 2026-09-21
+    time: "23:59"
+    tz: IST
+    label: Extended from 2026-09-14
+  - kind: other
+    date: 2026-10-12
+    label: Early bird registration
+sources:
+- https://icter.lk/
+- https://icter.lk/call-for-papers/
+- https://icter.lk/industry-rd-track/
+- https://icter.lk/register/
+- https://icter.lk/history/
+- https://icter.lk/icter_2025/
+- https://link.springer.com/book/10.1007/978-981-92-0137-2
+- https://portal.core.edu.au/conf-ranks/?search=ICTer&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- IST on the CFP page presumably means Sri Lanka Standard Time (UTC+5:30), which equals India Standard Time
+- ICTer 2027 dates and deadlines (not announced yet)
+last_verified: 2026-10-04

@@ -1,0 +1,70 @@
+id: isocc
+name: ISOCC
+full_name: International SoC Design Conference
+type: conference
+tier: minor
+areas: [systems, communications, ai]
+region: korea
+language: english
+frequency: annual
+organizer: ISE (The Institute of Semiconductor Engineers, Korea), financially co-sponsored by IEEE CAS Society
+organizer_country: [korea]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP]
+rank:
+  core: Unranked
+fee: Early registration 600 USD (IEEE CAS/ISE member), 630 USD (IEEE member), 675 USD (non-member); students
+  355 to 405 USD (2026, overseas)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10]
+links:
+  website: https://www.isocc.org/
+  dblp: https://dblp.org/db/conf/isocc/
+notes:
+- Annual SoC and circuit design conference run from Korea by ISE (The Institute of Semiconductor Engineers), with
+  financial co-sponsorship from IEEE CAS Society
+- 'Topics: analog, data converter, RF, wireline and digital circuits, architecture, ML/AI accelerators, hardware
+  security circuits, SoC design methodology and CAD, emerging devices'
+- Short papers (2 pages, IEEE double-column) submitted via Microsoft CMT; accepted papers go to IEEE Xplore
+- Invited speakers may submit a 1-page abstract to present without IEEE Xplore publication
+- Usually held in Korea in October or November (often Jeju); the 2024 edition was held in Sapporo, Japan in August
+- Not listed in ICORE2026 or the CCF list
+- Each accepted paper needs one regular registration; extra papers by the same corresponding author can use the
+  student rate, up to four papers per registrant
+- Also runs a Chip Design Contest and U-REF (undergraduate research) track
+editions:
+- year: 2026
+  start: 2026-10-11
+  end: 2026-10-14
+  location: Songdo ConvensiA, Incheon, South Korea
+  url: https://www.isocc.org/2026/
+  deadlines:
+  - kind: other
+    date: 2026-06-26
+    label: Special session and tutorial proposals
+  - kind: submission
+    date: 2026-07-24
+    label: Regular and special session full papers (extended from 2026-06-26)
+  - kind: notification
+    date: 2026-08-07
+    label: Extended from 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-21
+  - kind: other
+    date: 2026-08-21
+    label: Author registration and early registration
+sources:
+- https://www.isocc.org/2026/
+- https://www.isocc.org/2026/pages_introduce/overview.vm
+- https://www.isocc.org/2026/pages_introduce/welcome_message.vm
+- https://www.isocc.org/2026/pages_submission/submission_full_papers.vm
+- https://isocc.org/2026/download/ISOCC_2026_CFP_v2.pdf
+- https://www.isocc.org/2026/pages_registration/isocc_registration.vm
+- https://sparql.dblp.org/sparql
+- https://portal.core.edu.au/conf-ranks/?search=ISOCC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ISOCC 2025 dates, location and deadlines (2025 site no longer online, not yet in DBLP)
+- ISOCC 2027 dates and deadlines (not announced yet)
+- Acceptance rate (not published)
+last_verified: 2026-10-04

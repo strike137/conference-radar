@@ -1,0 +1,73 @@
+id: ieee-mapcon
+name: IEEE MAPCON
+full_name: IEEE Microwaves, Antennas and Propagation Conference
+type: conference
+tier: minor
+areas: [communications]
+region: south-asia
+language: english
+frequency: annual
+organizer: IEEE MTT-S and IEEE AP-S in India (local IEEE section hosts each year, e.g. IEEE Kerala Section for 2025)
+organizer_country: [india]
+proceedings: IEEE Xplore
+fee: 220 to 440 USD foreign delegates, 135 to 255 USD foreign students; 18,000 to 34,000 INR Indian delegates (2026, by membership and registration period)
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://ieeemapcon.org/
+notes:
+- Joint flagship conference of the IEEE MTT and AP societies in India; started in 2022
+- Held in India every December (Bangalore 2022, Ahmedabad 2023, Hyderabad 2024, Kochi 2025, Nagpur 2026)
+- Covers RF and microwave circuits, antennas and propagation, EM theory, metamaterials, THz and photonics, 5G/6G RF,
+  measurements, bioelectromagnetics and EMC
+- Three to four page IEEE two-column papers via EDAS, single-blind review; presented papers go to IEEE Xplore
+- The 2024 and 2025 proceedings are indexed in IEEE Xplore (checked via Crossref DOI metadata)
+- Large event with 1400+ participants in 2025, plus workshops, tutorials, student design contests and industry exhibits
+- Not ranked by CORE or CCF; RF and antennas venue outside the usual CS rankings
+editions:
+- year: 2025
+  start: 2025-12-14
+  end: 2025-12-18
+  location: Kochi, India (Lulu International Convention Centre, Grand Hyatt Bolgatty)
+  url: https://2025.ieeemapcon.org/
+  deadlines:
+  - kind: submission
+    date: 2025-08-04
+  - kind: notification
+    date: 2025-09-15
+  - kind: camera_ready
+    date: 2025-10-15
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-18
+  location: Nagpur, India (IIM Nagpur)
+  url: https://ieeemapcon.org/
+  deadlines:
+  - kind: other
+    date: 2026-05-28
+    label: Accepted special sessions announced
+  - kind: submission
+    date: 2026-08-31
+    label: Regular and special session papers
+  - kind: notification
+    date: 2026-10-03
+  - kind: camera_ready
+    date: 2026-10-10
+  - kind: other
+    date: 2026-10-25
+    label: Early bird registration (as stated on the home page)
+sources:
+- https://ieeemapcon.org/
+- https://ieeemapcon.org/call-for-papers.php
+- https://ieeemapcon.org/mapcon-overview.php
+- https://ieeemapcon.org/registration.php
+- https://2025.ieeemapcon.org/
+- https://2025.ieeemapcon.org/call-for-papers/
+- https://2025.ieeemapcon.org/mapcon-overview/
+- https://portal.core.edu.au/conf-ranks/?search=MAPCON&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Early bird registration deadline for 2026 is inconsistent (home page says 2026-10-25, registration table says 31 Aug or 10 Oct)
+- Whether the 2026 submission deadline of 2026-08-31 was an extension of an earlier date
+- Acceptance rate
+last_verified: 2026-10-04

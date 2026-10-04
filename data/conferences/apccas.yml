@@ -1,0 +1,74 @@
+id: apccas
+name: IEEE APCCAS
+full_name: IEEE Asia Pacific Conference on Circuits and Systems
+type: conference
+tier: minor
+areas: [general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE Circuits and Systems Society (CASS) with local chapters and host universities
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore]
+rank:
+  core: Unranked
+fee: 700 USD CASS member, 800 USD non-member (2026, author/early rate); students 400 to 450 USD early, student rate cannot cover a paper
+typical:
+  deadline_months: [4, 5]
+  conference_months: [10, 11]
+links:
+  website: https://apccas2026.org/
+notes:
+- Regional flagship conference of the IEEE Circuits and Systems Society for Asia and Pacific (Region 10)
+- Rotates within Asia-Pacific (2022 Shenzhen, 2023 Hyderabad, 2024 Taipei, 2025 Busan, 2026 Fukuoka)
+- Covers analog and digital signal processing, VLSI, machine learning circuits, power, sensory, biomedical and
+  nonlinear circuits and systems
+- Proceedings in IEEE Xplore; regular papers up to 4 pages plus 1 page of references, double-blind review (2026)
+- Selected papers invited to IEEE TCAS-I, IEEE OJCAS and IEEE TVLSI (2026)
+- Paper deadline was extended twice in 2026 (2026-04-30 -> 2026-05-15 -> 2026-05-22)
+- One full registration covers up to two papers (2026)
+- Not listed in ICORE2026; also has special sessions, embedded workshops, live demos and tutorials
+editions:
+- year: 2025
+  start: 2025-10-12
+  end: 2025-10-15
+  location: Busan, South Korea
+  url: https://doi.org/10.1109/apccas67402.2025
+  deadlines: []
+- year: 2026
+  start: 2026-10-25
+  end: 2026-10-28
+  location: Fukuoka, Japan
+  url: https://apccas2026.org/
+  deadlines:
+  - kind: other
+    date: 2026-04-10
+    label: Special session and embedded workshop proposals (extended from 2026-03-27)
+  - kind: submission
+    date: 2026-05-22
+    label: Regular, special session, live demo and embedded workshop papers (extended from 2026-04-30 and 2026-05-15)
+  - kind: notification
+    date: 2026-07-15
+    label: Extended from 2026-07-03
+  - kind: camera_ready
+    date: 2026-07-31
+  - kind: other
+    date: 2026-08-04
+    label: Author registration
+sources:
+- https://apccas2026.org/
+- https://apccas2026.org/?page_id=107
+- https://apccas2026.org/?page_id=211
+- https://apccas2026.org/?page_id=198
+- https://apccas2026.org/?page_id=129
+- https://apccas2026.org/?page_id=355
+- https://apccas2026.org/wp-content/uploads/2026/05/Final_CFP_APCCAS2026v3.pdf
+- https://api.crossref.org/works?query.bibliographic=Asia+Pacific+Conference+on+Circuits+and+Systems&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=APCCAS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- APCCAS 2025 website and deadlines (dates and location taken from the IEEE proceedings record)
+- APCCAS 2027 host and dates (not announced yet)
+- CCF 2026 listing (ccf.org.cn behind a captcha; not believed to be listed)
+- Acceptance rate
+last_verified: 2026-10-04

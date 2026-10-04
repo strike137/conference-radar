@@ -1,0 +1,117 @@
+id: corl
+name: CoRL
+full_name: Conference on Robot Learning
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: CoRL Board of Directors
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+indexing: [DBLP]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [4, 5, 6]
+  conference_months: [9, 11]
+links:
+  website: https://www.corl.org/
+  dblp: https://dblp.org/db/conf/corl/
+notes:
+- Annual since 2017, single-track conference at the intersection of robotics and machine learning; papers must focus
+  on a core robotics problem
+- Proceedings in PMLR (2025 -> volume 305, 263 papers)
+- Location rotates worldwide (2021 London, 2022 Auckland, 2023 Atlanta, 2024 Munich, 2025 Seoul, 2026 Austin)
+- Double-blind review on OpenReview; 8-page initial submission, 9 pages for camera-ready; abstract deadline a few
+  days before the full paper; one-page PDF rebuttal, and papers without any weak accept can be rejected before rebuttal
+- Reciprocal reviewing required (at least one qualified author per submission must review)
+- Accepted papers and reviews are made public after decisions
+- Widely regarded as a leading robot learning venue, although ICORE2026 lists it as Unranked and it is not on the CCF
+  list
+- 2025 was co-located with Humanoids 2025 at COEX, Seoul
+- 2026 main conference is November 9 to 11 with workshops on November 12; the end date includes the workshop day
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-30
+  location: Seoul, South Korea
+  url: https://2025.corl.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-04-23
+    time: '23:59'
+    tz: AoE
+  - kind: submission
+    date: 2025-04-30
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2025-05-07
+    time: '23:59'
+    tz: AoE
+    label: Supplementary material
+  - kind: other
+    date: 2025-07-02
+    time: '23:59'
+    tz: AoE
+    label: Rebuttal ends
+  - kind: notification
+    date: 2025-08-01
+  - kind: camera_ready
+    date: 2025-08-28
+    time: '23:59'
+    tz: AoE
+- year: 2026
+  start: 2026-11-09
+  end: 2026-11-12
+  location: Austin, Texas, USA
+  url: https://www.corl.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-25
+    time: '23:59'
+    tz: AoE
+  - kind: submission
+    date: 2026-05-28
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-06-04
+    time: '23:59'
+    tz: AoE
+    label: Supplementary material
+  - kind: other
+    date: 2026-06-18
+    time: '23:59'
+    tz: AoE
+    label: Workshop proposals
+  - kind: other
+    date: 2026-08-11
+    time: '23:59'
+    tz: AoE
+    label: Rebuttal ends
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-10-12
+    time: '23:59'
+    tz: AoE
+sources:
+- https://www.corl.org/
+- https://www.corl.org/contributions/call-for-papers
+- https://www.corl.org/contributions/instruction-for-authors
+- https://www.corl.org/attending/registration
+- https://2025.corl.org/
+- https://2025.corl.org/contributions/instruction-for-authors
+- https://2025.corl.org/about-corl/corl-history
+- https://www.corl.org/about-corl
+- https://proceedings.mlr.press/v305/
+- https://portal.core.edu.au/conf-ranks/?search=CoRL&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror, CoRL not listed)
+unverified:
+- Acceptance rate and registration fees are not stated on the official site
+- CoRL 2027 dates and location not announced yet
+last_verified: 2026-10-04

@@ -1,0 +1,76 @@
+id: voting-fc
+name: Voting
+full_name: Workshop on Advances in Secure Electronic Voting
+type: workshop
+tier: minor
+areas: [security, crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: IFCA (co-located with Financial Cryptography and Data Security, FC)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [3, 4]
+links:
+  website: https://fc26.ifca.ai/voting/
+notes:
+- One-day workshop associated with FC (Financial Cryptography and Data Security); location follows FC (2024 Curacao,
+  2025 Miyakojima, 2026 St. Kitts)
+- 2026 was the 11th edition; also listed as Workshop on Advances in Secure Electronic Voting Schemes
+- Papers appear in the joint Springer LNCS volume of FC workshops (revised selected papers); authors may opt out with
+  an extended abstract only
+- Double-blind; full papers 15 pages including references, short papers 8 pages, SoK papers 15 pages excluding
+  references, LNCS format
+- Topics include end-to-end verifiable voting, internet voting, election auditing and human factors
+- Also runs a discussion panel with 1-page extended abstracts that do not appear in the proceedings
+- Small workshop (about 6 papers in the 2026 program)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-04-18
+  end: 2025-04-18
+  location: Miyakojima, Japan
+  url: https://fc25.ifca.ai/voting/
+  deadlines:
+  - kind: abstract
+    date: 2025-01-19
+    tz: AoE
+  - kind: submission
+    date: 2025-01-29
+    tz: AoE
+    label: Extended from 2025-01-26
+  - kind: notification
+    date: 2025-03-02
+    tz: AoE
+- year: 2026
+  start: 2026-03-06
+  end: 2026-03-06
+  location: St. Kitts, Saint Kitts and Nevis
+  url: https://fc26.ifca.ai/voting/
+  deadlines:
+  - kind: submission
+    date: 2025-12-18
+    tz: AoE
+    label: Extended from 2025-12-15
+  - kind: notification
+    date: 2026-01-19
+    tz: AoE
+sources:
+- https://fc26.ifca.ai/voting/
+- https://fc26.ifca.ai/voting/cfp.html
+- https://fc26.ifca.ai/voting/program.html
+- https://fc26.ifca.ai/workshops.html
+- https://fc25.ifca.ai/voting/
+- https://fc25.ifca.ai/voting/cfp.html
+- https://fc24.ifca.ai/voting/
+- https://link.springer.com/book/10.1007/978-3-031-69231-4
+- https://fc27.ifca.ai/
+- https://portal.core.edu.au/conf-ranks/?search=voting&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Voting 2027 at FC 2027 (Barbados, February 2027) not announced yet; no workshop page or CFP found
+- Springer LNCS volume for the FC 2025 and FC 2026 workshops not checked; LNCS taken from the official CFP
+- Acceptance rate not published
+last_verified: 2026-10-04

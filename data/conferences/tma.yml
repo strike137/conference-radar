@@ -1,0 +1,69 @@
+id: tma
+name: TMA
+full_name: Network Traffic Measurement and Analysis Conference
+type: conference
+tier: minor
+areas: [networking, security]
+region: europe
+language: english
+frequency: annual
+organizer: TMA Steering Committee, technically sponsored by IFIP, IEEE and IEEE ComSoc
+organizer_country: [europe]
+proceedings: IFIP Open Digital Library (also submitted to IEEE Xplore)
+indexing: [DBLP]
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://tma.ifip.org/
+  dblp: https://dblp.org/db/conf/tma/
+notes:
+- Run by a steering committee of European network measurement researchers; technically sponsored by IFIP, IEEE
+  and IEEE ComSoc; held in Europe (online in 2021; Copenhagen 2025, Delft 2026)
+- Formed in 2017 by merging the IFIP/ACM TMA workshop, the IEEE TRAC workshop and the IEEE WNM workshop
+- Papers are open access in the IFIP Open Digital Library and submitted to IEEE Xplore
+- Double-blind review; full papers up to 8 pages in IEEE 2-column format plus 2 pages of references and appendices
+- Co-located with the TMA PhD School (student poster session, travel grants); well regarded in the network
+  measurement community
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-02
+  location: Delft, Netherlands
+  url: https://tma.ifip.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-21
+    time: "23:59"
+    tz: AoE
+    label: Paper registration (extended from 2026-03-13)
+  - kind: submission
+    date: 2026-03-28
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2026-03-20)
+  - kind: notification
+    date: 2026-05-08
+    label: Extended from 2026-05-01
+  - kind: camera_ready
+    date: 2026-06-12
+    label: Extended from 2026-05-22
+  - kind: other
+    date: 2026-05-15
+    time: "23:59"
+    tz: UTC
+    label: PhD School application (extended from 2026-05-10)
+sources:
+- https://tma.ifip.org/
+- https://tma.ifip.org/2026/
+- https://tma.ifip.org/2026/call-for-papers/
+- https://tma.ifip.org/2026/submission-instructions/
+- https://tma.ifip.org/2025/
+- https://dl.ifip.org/db/conf/tma/index.html
+- https://portal.core.edu.au/conf-ranks/?search=TMA&by=all&source=ICORE2026
+unverified:
+- TMA 2027 location and dates (not announced yet)
+- Acceptance rate and registration fee
+- Whether TMA 2025 and 2026 papers appeared in IEEE Xplore
+last_verified: 2026-10-04

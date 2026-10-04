@@ -1,0 +1,78 @@
+id: gecco
+name: GECCO
+full_name: Genetic and Evolutionary Computation Conference
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGEVO (Special Interest Group on Genetic and Evolutionary Computation)
+organizer_country: [international]
+proceedings: ACM DL
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: C
+fee: 'In-person early-bird 800 USD (ACM/SIGEVO member) or 900 USD (non-member); student 475 / 600 USD; online presenter
+  600 / 700 USD (2026)'
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://gecco-2027.sigevo.org/
+  dblp: https://dblp.org/db/conf/gecco/
+notes:
+- Main ACM conference on evolutionary computation, held annually since 1999 (usually in July) and sponsored by ACM SIGEVO
+- Full papers (8 pages excluding references) in the ACM DL main proceedings; poster-only papers (4 pages) and workshop
+  papers in the ACM DL companion proceedings
+- Double-blind review organized per track (genetic algorithms, genetic programming, swarm intelligence, neuroevolution,
+  evolutionary ML, theory, real-world applications, and more)
+- Each track accepts at most 40% of its full paper submissions; rejected full papers can be accepted as posters
+- Mandatory abstract one week before the full paper deadline; both deadlines are non-extensible
+- Rotates worldwide (Boston 2022, Lisbon 2023, Melbourne 2024, Malaga 2025, San Jose Costa Rica 2026); hybrid in
+  recent years, but GECCO 2027 in Krakow is in person only
+- Also has late-breaking abstracts, Hot off the Press, a student workshop, competitions and the Humies awards
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-17
+  location: San José, Costa Rica (hybrid)
+  url: https://gecco-2026.sigevo.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-19
+    label: Full papers
+  - kind: submission
+    date: 2026-01-26
+    label: Full papers and poster-only papers
+  - kind: notification
+    date: 2026-03-20
+  - kind: camera_ready
+    date: 2026-04-10
+  - kind: other
+    date: 2026-05-11
+    label: Mandatory presenter registration
+  - kind: submission
+    date: 2026-04-03
+    label: Workshop papers (extended from 2026-03-27)
+- year: 2027
+  start: 2027-07-12
+  end: 2027-07-16
+  location: Kraków, Poland
+  url: https://gecco-2027.sigevo.org/
+sources:
+- https://gecco-2026.sigevo.org/
+- https://gecco-2026.sigevo.org/Important+Dates
+- https://gecco-2026.sigevo.org/Call+for+Papers
+- https://gecco-2026.sigevo.org/Registration
+- https://gecco-2026.sigevo.org/Paper+Submission+Instructions
+- https://gecco-2025.sigevo.org/Important+Dates
+- https://gecco-2027.sigevo.org/HomePage
+- https://portal.core.edu.au/conf-ranks/?search=GECCO&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- GECCO 2027 deadlines (the 2027 site still shows the 2026 dates on its Important Dates and CFP pages)
+- Deadline time zone (not stated on the CFP)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-04

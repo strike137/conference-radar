@@ -1,0 +1,175 @@
+id: pacificvis
+name: PacificVis
+full_name: IEEE Pacific Visualization Conference
+type: conference
+tier: major
+areas: [data, vision]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE Computer Society VGTC (Visualization and Graphics Technical Committee) sponsored, with a PacificVis
+  steering committee and a rotating local host
+organizer_country: [international]
+proceedings: IEEE Xplore (conference proceedings); journal track papers in IEEE TVCG
+archival: true
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+fee: 700 USD IEEE member, 830 USD non member, 505 USD IEEE student member (2027, early)
+typical:
+  deadline_months: [9, 11]
+  conference_months: [4]
+links:
+  website: https://pacificvis.org/
+  dblp: https://dblp.org/db/conf/apvis/
+notes:
+- IEEE sponsored visualization and visual analytics conference (VGTC), started in Kyoto in 2008; formerly called
+  IEEE Pacific Visualization Symposium (APVIS before that)
+- Rotates within Asia-Pacific, usually in April (2023 Seoul, 2024 Tokyo, 2025 Taipei, 2026 Sydney, 2027 Busan)
+- Several tracks with consecutive deadlines -> TVCG journal track (September), conference paper track (November),
+  VisNotes short papers (January), posters (February)
+- Papers rejected from the TVCG journal track can be revised and resubmitted to the conference track, optionally
+  keeping the same reviewers
+- Two stage review with a revision round for journal and conference tracks; single blind or double blind allowed
+- Conference papers and VisNotes are published in the IEEE Digital Library; journal track papers in a special issue
+  of IEEE TVCG
+- CORE B (ICORE2026), CCF C (computer graphics and multimedia)
+- Each paper needs one full registration; author fee includes publication cost
+editions:
+- year: 2026
+  start: 2026-04-20
+  end: 2026-04-23
+  location: Sydney, Australia
+  url: https://pacificvis2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-01
+    time: "23:59"
+    tz: AoE
+    label: TVCG journal track
+  - kind: submission
+    date: 2025-09-07
+    time: "23:59"
+    tz: AoE
+    label: TVCG journal track
+  - kind: notification
+    date: 2025-10-27
+    time: "23:59"
+    tz: AoE
+    label: TVCG journal track (1st round)
+  - kind: abstract
+    date: 2025-11-01
+    time: "23:59"
+    tz: AoE
+    label: Conference track
+  - kind: submission
+    date: 2025-11-08
+    time: "23:59"
+    tz: AoE
+    label: Conference track
+  - kind: notification
+    date: 2025-12-15
+    time: "23:59"
+    tz: AoE
+    label: Conference track (1st round)
+  - kind: other
+    date: 2026-01-07
+    time: "23:59"
+    tz: AoE
+    label: VisNotes short paper submission
+  - kind: other
+    date: 2026-02-15
+    time: "23:59"
+    tz: AoE
+    label: Poster summary submission
+- year: 2027
+  start: 2027-04-19
+  end: 2027-04-22
+  location: Busan, South Korea
+  url: https://pacificvis2027.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-01
+    time: "23:59"
+    tz: AoE
+    label: TVCG journal track
+  - kind: submission
+    date: 2026-09-08
+    time: "23:59"
+    tz: AoE
+    label: TVCG journal track
+  - kind: notification
+    date: 2026-10-27
+    time: "23:59"
+    tz: AoE
+    label: TVCG journal track (1st round)
+  - kind: camera_ready
+    date: 2027-01-05
+    time: "23:59"
+    tz: AoE
+    label: TVCG journal track
+  - kind: abstract
+    date: 2026-11-02
+    time: "23:59"
+    tz: AoE
+    label: Conference track
+  - kind: submission
+    date: 2026-11-09
+    time: "23:59"
+    tz: AoE
+    label: Conference track
+  - kind: notification
+    date: 2026-12-16
+    time: "23:59"
+    tz: AoE
+    label: Conference track (1st round)
+  - kind: notification
+    date: 2027-01-25
+    time: "23:59"
+    tz: AoE
+    label: Conference track final notification (2nd round)
+  - kind: camera_ready
+    date: 2027-02-08
+    time: "23:59"
+    tz: AoE
+    label: Conference track
+  - kind: other
+    date: 2027-01-04
+    time: "23:59"
+    tz: AoE
+    label: VisNotes short paper submission
+  - kind: notification
+    date: 2027-02-04
+    time: "23:59"
+    tz: AoE
+    label: VisNotes
+  - kind: other
+    date: 2027-02-19
+    time: "23:59"
+    tz: AoE
+    label: Poster summary submission
+sources:
+- https://pacificvis.org/
+- https://pacificvis2027.github.io/
+- https://pacificvis2027.github.io/contribute/common-call-for-papers/
+- https://pacificvis2027.github.io/contribute/tvcg-journal-papers/
+- https://pacificvis2027.github.io/contribute/conference-papers/
+- https://pacificvis2027.github.io/contribute/short-papers/
+- https://pacificvis2027.github.io/contribute/posters/
+- https://pacificvis2027.github.io/contribute/paper-submission-guidelines/
+- https://pacificvis2027.github.io/registration/
+- https://pacificvis2026.github.io/
+- https://pacificvis2026.github.io/common-call-for-papers.html
+- https://pacificvis2026.github.io/conference-papers.html
+- https://pacificvis2026.github.io/TVCG-journal-papers.html
+- https://pacificvis2026.github.io/short-papers.html
+- https://pacificvis2026.github.io/registration.html
+- https://portal.core.edu.au/conf-ranks/?search=PacificVis&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- Acceptance rate not stated on the official site
+- PacificVis 2027 venue within Busan, registration deadlines and workshop deadlines not announced yet
+- Indexing beyond DBLP not checked
+last_verified: 2026-10-04

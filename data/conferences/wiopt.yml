@@ -1,0 +1,97 @@
+id: wiopt
+name: WiOpt
+full_name: International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks
+type: conference
+tier: major
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: WiOpt Steering Committee, with IEEE Control Systems Society and IEEE Information Theory Society technical
+  co-sponsorship and IFIP support
+organizer_country: [international]
+proceedings: IFIP Digital Library and IEEE Xplore
+rank:
+  core: B
+fee: 900 USD author registration for the main conference, 1100 USD conference plus workshops (2026)
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://wiopt2026.github.io/
+  dblp: https://dblp.org/db/conf/wiopt/index.html
+notes:
+- Long-running symposium on modeling, performance evaluation and optimization of wireless, mobile and edge networks;
+  2026 was the 24th edition
+- Technical co-sponsorship of the IEEE Control Systems Society and IEEE Information Theory Society, with support from
+  IFIP
+- Papers go to the IFIP Digital Library (open access, free for authors and readers) and are considered for IEEE Xplore
+- Full papers up to 8 pages in IEEE two-column format, submitted via EDAS; the submission deadline is firm
+- At least one author must register at the full rate and present in person for the paper to be published
+- Best Paper and Best Student Paper winners get a fast-track invitation to IEEE Transactions on Networking (2026)
+- Co-located workshops (for example MOSC, ISAC, RAWNET) with their own deadlines; held on June 6 after the main conference
+  in 2026
+- Location changes every year (2025 Linkoping, Sweden; 2026 Columbus, USA)
+- CORE B (ICORE2026); not on the CCF list
+editions:
+- year: 2025
+  start: 2025-05-26
+  end: 2025-05-29
+  location: Linkoping University, Linkoping, Sweden
+  url: https://wiopt2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-02-09
+    time: "23:59"
+    tz: AoE
+    label: Paper registration and submission (firm)
+  - kind: notification
+    date: 2025-03-15
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-04-07
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2025-03-15
+    time: "23:59"
+    tz: AoE
+    label: Workshop submission
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-06
+  location: The Ohio State University, Columbus, Ohio, USA
+  url: https://wiopt2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-02
+    time: "23:59"
+    tz: AoE
+    label: Paper registration and submission (firm)
+  - kind: notification
+    date: 2026-03-16
+  - kind: camera_ready
+    date: 2026-04-03
+    label: Firm
+sources:
+- https://wiopt2026.github.io/
+- https://wiopt2026.github.io/cfp.html
+- https://wiopt2026.github.io/ifa.html
+- https://wiopt2026.github.io/registration.html
+- https://wiopt2026.github.io/sc.html
+- https://wiopt2026.github.io/venue.html
+- https://wiopt2025.github.io/
+- https://wiopt2025.github.io/cfp.html
+- https://wiopt2025.github.io/ifa.html
+- https://wiopt2025.github.io/registration.html
+- https://portal.core.edu.au/conf-ranks/?search=WiOpt&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- WiOpt 2027 dates and location (not announced yet)
+- 2026 camera-ready date is April 3 on the home page but March 3 on the CFP page; April 3 used since notification was
+  March 16
+- Acceptance rate not published on the official sites
+- Hosts of editions before 2025 not checked on official pages (older edition sites are offline)
+- CCF absence checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-04

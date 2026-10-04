@@ -1,0 +1,67 @@
+id: usec
+name: USEC
+full_name: Symposium on Usable Security and Privacy
+type: workshop
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: Co-located with NDSS Symposium (Internet Society)
+organizer_country: [usa]
+proceedings: NDSS (Internet Society)
+archival: true
+rank:
+  core: 'National: USA'
+typical:
+  deadline_months: [11, 12]
+  conference_months: [2]
+links:
+  website: https://www.ndss-symposium.org/ndss2026/co-located-events/usec/
+notes:
+- One-day symposium co-located with NDSS Symposium in San Diego (Feb 27, 2026; Feb 24, 2025; Feb 26, 2024)
+- 'Topics: human factors and usability in security and privacy; papers must address both a human aspect and security
+  or privacy'
+- Research and Meta-Science tracks (up to 12 pages) plus a Vision track (up to 5 pages) for work in progress and
+  position papers; double-blind, NDSS template
+- Proceedings published by the Internet Society with ISBN and DOIs (10.14722/usec.YYYY.*); papers posted on the
+  NDSS site
+- 22 accepted papers listed for 2026; fast review (about two weeks from deadline to notification)
+- Test of Time award announced in the 2025 and 2026 calls (2026 recipient gave the keynote)
+- Much smaller than SOUPS (CORE A), the main usable security venue; ICORE2026 lists USEC as National USA
+- NDSS 2027 moves to Seoul, Korea (March 22 to 26, 2027); a USEC 2027 edition there is not announced yet
+editions:
+- year: 2026
+  start: 2026-02-27
+  end: 2026-02-27
+  location: San Diego, USA
+  url: https://www.ndss-symposium.org/ndss2026/co-located-events/usec/
+  deadlines:
+  - kind: submission
+    date: 2025-12-05
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2025-12-19
+  - kind: camera_ready
+    date: 2026-01-16
+sources:
+- https://www.ndss-symposium.org/ndss2026/co-located-events/usec/
+- https://www.ndss-symposium.org/ndss2026/submissions/cfp-usec/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/usec/accepted-papers/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/usec/leadership/
+- https://www.ndss-symposium.org/ndss-program/usec-2026/
+- https://www.ndss-symposium.org/wp-content/uploads/usec26-32.pdf
+- https://www.ndss-symposium.org/ndss2025/co-located-events/usec/
+- https://www.ndss-symposium.org/ndss2025/submissions/cfp-usec/
+- https://www.ndss-symposium.org/ndss2024/co-located-events/usec/
+- https://www.ndss-symposium.org/ndss2027/
+- https://www.ndss-symposium.org/ndss2027/submissions/
+- https://portal.core.edu.au/conf-ranks/?search=USEC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- USEC 2027 not announced (NDSS 2027 in Seoul; co-located workshop call was open as of Oct 2026)
+- Not checked against the CCF 2026 list directly (not believed to be listed)
+- Acceptance rate (submission count not published), registration fee and steering committee not found on an official
+  page
+- Location of the 2021 and 2022 editions not rechecked
+last_verified: 2026-10-04

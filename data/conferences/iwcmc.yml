@@ -1,0 +1,77 @@
+id: iwcmc
+name: IWCMC
+full_name: International Wireless Communications and Mobile Computing Conference
+type: conference
+tier: major
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IWCMC steering committee, with IEEE and IEEE ComSoc as technical sponsors
+organizer_country: [international]
+proceedings: IEEE Xplore
+rank:
+  core: B
+fee: 750 USD IEEE member / 850 USD non-member, early author registration (2026)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://iwcmc.net/
+notes:
+- Large multi-symposium wireless and mobile computing conference with many co-located workshops; 6-page papers
+- Accepted papers are submitted to IEEE Xplore; selected papers are invited to special issues of WCMC (Wiley),
+  IJSNet, IJAACS, KSII TIIS and Peer-to-Peer Networking and Applications
+- Held in a different country each year (Cyprus 2024, Abu Dhabi 2025, Shanghai 2026, Barcelona 2027)
+- Submission deadline is often extended (2026 -> moved from Jan 15 to Feb 26)
+- 'Not in the CCF 2026 list (the CCF C entry "Wireless Communications and Mobile Computing" is the Wiley journal)'
+- Each accepted paper needs one author registration at the full rate (students included); a second paper gets 50% off
+editions:
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-06
+  location: Shanghai, China
+  url: https://iwcmc.net/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-26
+    label: Extended from 2026-01-15 (firm)
+  - kind: notification
+    date: 2026-03-30
+  - kind: camera_ready
+    date: 2026-04-30
+  - kind: other
+    date: 2026-04-30
+    label: Author registration deadline
+- year: 2027
+  start: 2027-06-13
+  end: 2027-06-18
+  location: Barcelona, Spain
+  url: https://iwcmc.net/2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+  - kind: notification
+    date: 2027-03-30
+  - kind: camera_ready
+    date: 2027-04-30
+  - kind: other
+    date: 2027-05-15
+    label: Author registration deadline
+sources:
+- https://iwcmc.net/
+- https://iwcmc.net/2027/Symposia.php
+- https://iwcmc.net/2027/committee.php
+- https://iwcmc.net/2026/
+- https://iwcmc.net/2026/registration.php
+- https://iwcmc.net/2025/
+- https://iwcmc.net/2024/
+- https://portal.core.edu.au/conf-ranks/?search=IWCMC&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- Deadline time zone not stated on the official pages
+- 2027 fees not yet published (the 2027 registration page still shows the 2026 rates)
+- Indexing (DBLP, Scopus) not checked (dblp blocked automated access), so left out; IEEE Xplore inclusion taken from the CFP
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+- Locations of the 2021 to 2023 editions not confirmed on the official site (archive pages unavailable)
+last_verified: 2026-10-04

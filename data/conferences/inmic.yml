@@ -1,0 +1,54 @@
+id: inmic
+name: INMIC
+full_name: IEEE International Multi-Topic Conference
+type: conference
+tier: minor
+areas: [ai, software, security, networking, systems, general]
+region: south-asia
+language: english
+frequency: annual
+organizer: Rotating Pakistani host university with IEEE sponsorship (Riphah International University in 2025)
+organizer_country: [other]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore]
+fee: Author 150 USD international non-IEEE member, 100 USD IEEE member; 15,000 PKR national non-member (2025)
+typical:
+  deadline_months: [8]
+  conference_months: [10, 11, 12]
+notes:
+- Long-running Pakistani multi-topic IEEE conference (27th edition in 2025); the host university and city rotate
+  within Pakistan (Islamabad, Lahore, Karachi, Bahawalpur)
+- Proceedings in IEEE Xplore; only papers that are accepted and presented are submitted to IEEE Xplore
+- Broad scope; 2025 tracks were AI and data science, software and systems engineering, cyber and network security,
+  parallel and cloud computing, and biomedical and electrical engineering
+- 6-page IEEE two-column papers submitted through Microsoft CMT
+- Not listed in ICORE2026 or the CCF 2026 list; a small regional venue
+- The 2025 official site (inmic2025.riphah.edu.pk) was compromised with injected gambling spam and a redirect script
+  when checked on 2026-10-04, so it is deliberately not linked here
+editions:
+- year: 2025
+  start: 2025-12-23
+  end: 2025-12-24
+  location: Islamabad, Pakistan
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+  - kind: notification
+    date: 2025-10-30
+    label: Updated date on home page (CFP page said 2025-09-15)
+  - kind: camera_ready
+    date: 2025-11-19
+    label: Updated date on home page (CFP page said 2025-09-25)
+sources:
+- https://doi.org/10.1109/INMIC65900.2025.11348265 2025 proceedings in IEEE Xplore (Islamabad, 2025-12-23 to 24)
+- https://doi.org/10.1109/INMIC64792.2024.11004355 2024 proceedings in IEEE Xplore (Karachi)
+- https://doi.org/10.1109/INMIC60434.2023.10465925 2023 proceedings in IEEE Xplore (Lahore)
+- https://doi.org/10.1109/INMIC56986.2022.9972979 2022 proceedings in IEEE Xplore (Islamabad)
+- https://portal.core.edu.au/conf-ranks/?search=INMIC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 2025 deadlines were read from the official INMIC 2025 site (home, CFP, registration and camera-ready pages), which
+  is not linked because it is compromised; its CFP page and home page disagree on notification and camera-ready dates
+- The 2025 registration page says paper submission closed on 2025-11-19 23:59 PKT, which conflicts with the
+  2025-08-15 submission deadline
+- INMIC 2026 host, dates and deadlines (not found)
+last_verified: 2026-10-04

@@ -1,0 +1,86 @@
+id: icaps
+name: ICAPS
+full_name: International Conference on Automated Planning and Scheduling
+type: conference
+tier: top
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICAPS Inc.
+organizer_country: [international]
+proceedings: AAAI Press (Proceedings of the International Conference on Automated Planning and Scheduling, open access
+  on ojs.aaai.org)
+indexing: [DBLP]
+rank:
+  core: A*
+  ccf: B
+fee: 890 EUR early, 990 EUR late; students 690 EUR early, 790 EUR late (2026)
+typical:
+  deadline_months: [12]
+  conference_months: [6, 7]
+links:
+  website: https://www.icaps-conference.org/
+  dblp: https://dblp.org/db/conf/aips/
+notes:
+- Premier forum for automated planning and scheduling, run by ICAPS Inc.
+- Formed by merging AIPS and the European Conference on Planning (ECP); ICAPS editions since 2003
+- Proceedings published by AAAI Press, open access on ojs.aaai.org with an ISSN
+- Rotates worldwide (Prague 2023, Banff 2024, Melbourne 2025, Dublin 2026, Columbia SC 2027)
+- Long papers (8 pages) and short papers (4 pages) plus references, in AAAI format
+- Deadline in December with an author response period in February; conference late June to early July
+- Summer school, doctoral consortium, workshops and tutorials run alongside the main conference
+- ICAPS 2027 adds a special track on "Planning Under a Different Name" for work from neighboring AI communities
+editions:
+- year: 2026
+  start: 2026-06-27
+  end: 2026-07-02
+  location: Dublin, Ireland
+  url: https://icaps26.icaps-conference.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-02
+    tz: AoE
+  - kind: submission
+    date: 2025-12-08
+    tz: AoE
+  - kind: notification
+    date: 2026-02-20
+    tz: AoE
+- year: 2027
+  start: 2027-06-27
+  end: 2027-07-02
+  location: Columbia, SC, USA
+  url: https://icaps27.icaps-conference.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-07
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-12-14
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-02-26
+    tz: AoE
+sources:
+- https://www.icaps-conference.org/
+- https://www.icaps-conference.org/conference-series/
+- https://www.icaps-conference.org/proceedings/
+- https://icaps26.icaps-conference.org/
+- https://icaps26.icaps-conference.org/dates
+- https://icaps26.icaps-conference.org/calls/cfp
+- https://icaps26.icaps-conference.org/attending/registration
+- https://icaps26.icaps-conference.org/news/update_2026-06-24/
+- https://ojs.aaai.org/index.php/ICAPS/issue/view/736
+- https://icaps27.icaps-conference.org/
+- https://icaps27.icaps-conference.org/dates
+- https://icaps27.icaps-conference.org/calls/cfp
+- https://portal.core.edu.au/conf-ranks/?search=ICAPS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl and CCFrank4dblp mirrors of the CCF list, not on ccf.org.cn directly
+- ICAPS 2027 camera-ready date and registration fees (not announced yet)
+- Acceptance rate not stated on the official pages
+last_verified: 2026-10-04

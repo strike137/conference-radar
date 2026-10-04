@@ -1,0 +1,71 @@
+id: hs3
+name: HS3
+full_name: Workshop on Hardware-Supported Software Security
+type: workshop
+tier: minor
+areas: [security, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Program chairs from IRISA/CentraleSupelec/Inria, CNRS and Universite Libre de Bruxelles, co-located with
+  ESORICS
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+acceptance_rate: 50% (2025, 3 regular and 4 short papers from 14 submissions)
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://hs3-workshop.github.io/
+notes:
+- Co-located with ESORICS since its first edition in 2025 (Toulouse); 2nd edition in 2026 (Rome)
+- Springer LNCS post-proceedings, published in the ESORICS workshops volumes
+- Regular papers up to 20 pages, short, position, WiP and idea papers up to 10 pages, LNCS format incl. references
+- Anonymisation not required (follows the ESORICS rules); submitted through the ESORICS EasyChair site, selecting the
+  HS3 track
+- Topics include TEEs and enclaves, micro-architectural and software side-channel attacks, hardware-assisted monitoring
+  and hardware/software security contracts
+- One-day workshop; at least one author must attend
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-25
+  end: 2025-09-25
+  location: Toulouse, France
+  url: https://hs3-workshop.github.io/2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-06-23
+    time: "23:59"
+    tz: AoE
+    label: Paper submission (extended from 2025-06-20)
+  - kind: notification
+    date: 2025-07-28
+  - kind: camera_ready
+    date: 2025-08-28
+- year: 2026
+  start: 2026-09-17
+  end: 2026-09-17
+  location: Rome, Italy
+  url: https://hs3-workshop.github.io/2026.html
+  deadlines:
+  - kind: submission
+    date: 2026-06-29
+    time: "23:59"
+    tz: AoE
+    label: Paper submission (extended from 2026-06-19)
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-22
+sources:
+- https://hs3-workshop.github.io/2026.html
+- https://hs3-workshop.github.io/2025.html
+- https://link.springer.com/book/10.1007/978-3-032-16165-9
+- https://portal.core.edu.au/conf-ranks/?search=HS3&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- HS3 2027 dates and deadlines (not announced yet)
+- CCF 2026 list could not be read directly (ccf.org.cn captcha); HS3 is assumed not listed
+- Registration fee not stated on the workshop pages (registration is through ESORICS)
+last_verified: 2026-10-04

@@ -1,0 +1,120 @@
+id: icwsm
+name: ICWSM
+full_name: International AAAI Conference on Web and Social Media
+type: conference
+tier: major
+areas: [data, ai, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: Association for the Advancement of Artificial Intelligence (AAAI)
+organizer_country: [usa]
+proceedings: AAAI Digital Library (Proceedings of the International AAAI Conference on Web and Social Media)
+archival: true
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: About 20 to 30% for full papers (stated on the official site, no year given)
+fee: 625 USD AAAI member, 735 USD non-member, 360 USD AAAI student member, 420 USD non-member student (2026, early)
+typical:
+  deadline_months: [1, 5, 9]
+  conference_months: [5, 6]
+links:
+  website: https://www.icwsm.org/2027/
+  dblp: https://dblp.org/db/conf/icwsm/
+notes:
+- Run by AAAI; main venue for computational social science and social computing, mixing CS and social science
+- Three submission rounds per year (15 May, 15 September, 15 January, 23:59 AoE) with a revise and resubmit option
+  for full papers
+- Posters, demos, datasets and workshop/tutorial proposals only in the January round
+- Full papers up to 11 pages at submission, double-blind; mandatory paper checklist
+- Proceedings published by AAAI (ojs.aaai.org); workshop papers go to separate workshop proceedings
+- Social science and sociophysics track publishes only abstracts, so full papers can appear elsewhere
+- Held in late May or June in North America or Europe (Limassol 2023, Buffalo 2024, Copenhagen 2025, Los Angeles
+  2026, Edinburgh 2027)
+- In-person presentation required; Zoom attendance only for residents of developing countries
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  location: Los Angeles, California, USA
+  url: https://www.icwsm.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-05-15
+    time: '23:59'
+    tz: AoE
+    label: Round 1 full papers
+  - kind: notification
+    date: 2025-07-15
+    label: Round 1
+  - kind: submission
+    date: 2025-09-15
+    time: '23:59'
+    tz: AoE
+    label: Round 2 full papers
+  - kind: notification
+    date: 2025-11-15
+    label: Round 2
+  - kind: submission
+    date: 2026-01-15
+    time: '23:59'
+    tz: AoE
+    label: Round 3 full papers, posters, demos, datasets
+  - kind: notification
+    date: 2026-03-15
+    label: Round 3
+  - kind: other
+    date: 2026-01-15
+    time: '23:59'
+    tz: AoE
+    label: Tutorial proposals
+  - kind: other
+    date: 2026-01-30
+    time: '23:59'
+    tz: AoE
+    label: Workshop proposals
+- year: 2027
+  location: Edinburgh, Scotland, UK
+  url: https://www.icwsm.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    time: '23:59'
+    tz: AoE
+    label: Round 1 full papers
+  - kind: notification
+    date: 2026-07-15
+    label: Round 1
+  - kind: submission
+    date: 2026-09-15
+    time: '23:59'
+    tz: AoE
+    label: Round 2 full papers
+  - kind: notification
+    date: 2026-11-15
+    label: Round 2
+  - kind: submission
+    date: 2027-01-15
+    time: '23:59'
+    tz: AoE
+    label: Round 3 full papers, posters, demos, datasets, workshop and tutorial proposals
+  - kind: notification
+    date: 2027-03-15
+    label: Round 3
+sources:
+- https://www.icwsm.org/2027/
+- https://www.icwsm.org/2027/submit/
+- https://www.icwsm.org/2026/
+- https://www.icwsm.org/2026/submit.html
+- https://www.icwsm.org/2026/attend.html
+- https://www.icwsm.org/2025/index.html
+- https://ojs.aaai.org/index.php/ICWSM/issue/archive
+- https://portal.core.edu.au/conf-ranks/?search=ICWSM&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- ICWSM 2027 conference dates (site says Edinburgh, dates not announced yet)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- ICWSM 2026 notification dates have no time zone on the site
+last_verified: 2026-10-04

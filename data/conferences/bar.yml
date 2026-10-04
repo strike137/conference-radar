@@ -1,0 +1,64 @@
+id: bar
+name: BAR
+full_name: Workshop on Binary Analysis Research
+type: workshop
+tier: minor
+areas: [security, software]
+region: north-america
+language: english
+frequency: annual
+organizer: Co-located with NDSS Symposium (Internet Society); steering committee of binary analysis researchers (Arizona
+  State, Purdue, NYU, Utah, Syracuse)
+organizer_country: [usa]
+proceedings: NDSS (Internet Society)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [2]
+links:
+  website: https://www.ndss-symposium.org/ndss2026/co-located-events/bar/
+notes:
+- Co-located with NDSS Symposium in San Diego, held on the Friday after the main conference (Feb 27, 2026; Feb 28,
+  2025)
+- 'Topics: binary analysis building blocks (slicing, taint tracking, binary rewriting), reverse engineering, automated
+  binary hardening, automated exploitation, embedded devices, bytecode analysis, AI and ML for binary analysis'
+- Half paper sessions, half roundtable discussion among researchers, tool developers and practitioners
+- Full papers up to 10 pages and short (work-in-progress) papers up to 6 pages, excluding references and appendices;
+  double-blind, NDSS template
+- Official proceedings with papers posted on the NDSS site; authors may opt out of the proceedings at submission
+- Late deadline (mid January) for a February workshop; camera ready is due after the workshop
+- NDSS 2027 moves to Seoul, Korea (March 22 to 26, 2027); a BAR 2027 edition there is not announced yet
+editions:
+- year: 2026
+  start: 2026-02-27
+  end: 2026-02-27
+  location: San Diego, USA
+  url: https://www.ndss-symposium.org/ndss2026/co-located-events/bar/
+  deadlines:
+  - kind: submission
+    date: 2026-01-16
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2026-01-27
+  - kind: camera_ready
+    date: 2026-03-02
+    label: Post workshop
+sources:
+- https://www.ndss-symposium.org/ndss2026/co-located-events/bar/
+- https://www.ndss-symposium.org/ndss2026/submissions/cfp-bar/
+- https://www.ndss-symposium.org/ndss-program/bar-2026/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/bar/leadership/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/
+- https://www.ndss-symposium.org/ndss2025/co-located-events/bar/
+- https://www.ndss-symposium.org/ndss2025/submissions/cfp-bar/
+- https://www.ndss-symposium.org/ndss-program/bar-2025/
+- https://www.ndss-symposium.org/ndss2024/co-located-events/bar/
+- https://www.ndss-symposium.org/ndss2027/
+- https://www.ndss-symposium.org/ndss2027/submissions/
+- https://portal.core.edu.au/conf-ranks/?search=BAR&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- BAR 2027 not announced (NDSS 2027 in Seoul; co-located workshop call was open as of Oct 2026)
+- Not found in the ICORE2026 portal (0 results for BAR); not in the CCF list
+- Acceptance rate, registration fee, first edition year and DBLP indexing not confirmed from an official page
+last_verified: 2026-10-04

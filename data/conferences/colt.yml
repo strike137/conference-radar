@@ -1,0 +1,74 @@
+id: colt
+name: COLT
+full_name: Conference on Learning Theory
+type: conference
+tier: top
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Association for Computational Learning
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+indexing: [DBLP]
+rank:
+  core: A*
+  ccf: B
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://learningtheory.org/
+  dblp: https://dblp.org/db/conf/colt/
+notes:
+- Leading venue for the theory of machine learning, held annually since 1988 (formerly the Conference on Computational
+  Learning Theory)
+- Run by the Association for Computational Learning, whose board picks locations and program chairs
+- Proceedings in PMLR; authors may opt out in favor of a 1-page extended abstract pointing to an archival full version
+- Double-blind review with a rebuttal phase; main body limited to 12 PMLR pages excluding references and appendices
+- At least one author per accepted paper must attend in person
+- 'Location rotates: London 2022, Bangalore 2023, Edmonton 2024, Lyon 2025, San Diego 2026, Tokyo 2027'
+- CORE A* but only CCF B
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  location: San Diego, California, USA
+  url: https://learningtheory.org/colt2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-04
+    tz: AoE
+  - kind: other
+    date: 2026-04-03
+    label: Reviews released
+  - kind: other
+    date: 2026-04-10
+    label: Initial author response due
+  - kind: notification
+    date: 2026-05-04
+- year: 2027
+  start: 2027-06-28
+  end: 2027-07-02
+  location: Tokyo, Japan
+  url: https://learningtheory.org/colt2027/
+sources:
+- https://learningtheory.org/
+- https://learningtheory.org/colt2026/
+- https://learningtheory.org/colt2026/cfp.html
+- https://learningtheory.org/colt2027/
+- https://learningtheory.org/colt2025/
+- https://learningtheory.org/colt2024/
+- https://learningtheory.org/colt2023/
+- https://learningtheory.org/colt2022/
+- https://proceedings.mlr.press/v291/
+- https://portal.core.edu.au/conf-ranks/?search=COLT&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/AI/
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF 2026 list mirror)
+unverified:
+- COLT 2027 deadlines are all marked "Date TBD" on the official page
+- No official acceptance rate or registration fee found
+- CCF B taken from the CCF AI category page and the CCFrank4dblp mirror updated to the 2026 list; the CCF page lists it
+  under the former name Annual Conference on Computational Learning Theory
+last_verified: 2026-10-04

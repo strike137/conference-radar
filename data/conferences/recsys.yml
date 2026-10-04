@@ -1,0 +1,112 @@
+id: recsys
+name: RecSys
+full_name: ACM Conference on Recommender Systems
+type: conference
+tier: major
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 19% (2025, 49/261 long papers)
+fee: About 800 USD (2026, ACM member early, main conference); 325 USD for ACM student members
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://recsys.acm.org/recsys26/
+  dblp: https://dblp.org/db/conf/recsys/
+notes:
+- Premier venue for recommender systems research, held annually since 2007
+- Proceedings in the ACM Digital Library; long-paper acceptance has stayed around 17 to 22% since 2015
+- Main track takes long (8 pages), short (4 pages) and past/present/future papers; separate reproducibility,
+  resource, industry, demo and Research and Practice Notes tracks with later deadlines
+- Anonymous submission with a rebuttal phase; at least one author must present in person
+- Rotates between Europe, North America and Asia (Singapore 2023, Bari 2024, Prague 2025, Minneapolis 2026,
+  Honolulu 2027)
+- Many co-located workshops and the RecSys Challenge run alongside the main conference
+editions:
+- year: 2026
+  start: 2026-09-28
+  end: 2026-10-02
+  location: Minneapolis, Minnesota, USA
+  url: https://recsys.acm.org/recsys26/
+  deadlines:
+  - kind: other
+    date: 2026-03-10
+    time: '23:59'
+    tz: AoE
+    label: Workshop proposals
+  - kind: abstract
+    date: 2026-04-14
+    time: '23:59'
+    tz: AoE
+    label: Main track (long, short, past/present/future)
+  - kind: submission
+    date: 2026-04-21
+    time: '23:59'
+    tz: AoE
+    label: Main track (long, short, past/present/future)
+  - kind: abstract
+    date: 2026-04-28
+    time: '23:59'
+    tz: AoE
+    label: Reproducibility and resource papers
+  - kind: other
+    date: 2026-05-04
+    time: '23:59'
+    tz: AoE
+    label: Tutorial proposals
+  - kind: submission
+    date: 2026-05-05
+    time: '23:59'
+    tz: AoE
+    label: Reproducibility and resource papers
+  - kind: submission
+    date: 2026-05-21
+    time: '23:59'
+    tz: AoE
+    label: Industry papers
+  - kind: other
+    date: 2026-06-09
+    time: '23:59'
+    tz: AoE
+    label: Doctoral symposium
+  - kind: notification
+    date: 2026-07-09
+    label: Main, reproducibility, resource and industry papers
+  - kind: submission
+    date: 2026-07-15
+    time: '23:59'
+    tz: AoE
+    label: Demos and Research and Practice Notes
+  - kind: camera_ready
+    date: 2026-07-27
+    time: '23:59'
+    tz: AoE
+    label: Main, reproducibility, resource and industry papers
+- year: 2027
+  start: 2027-08-23
+  end: 2027-08-27
+  location: Honolulu, Hawaii, USA
+  url: https://recsys.acm.org/recsys27/
+sources:
+- https://recsys.acm.org/recsys26/
+- https://recsys.acm.org/recsys26/call/
+- https://recsys.acm.org/recsys26/registration/
+- https://recsys.acm.org/recsys27/
+- https://recsys.acm.org/statistics/
+- https://portal.core.edu.au/conf-ranks/?search=RecSys&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/conference/DB/recsys.yml
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- RecSys 2027 call for papers and deadlines not announced yet (only dates and venue are on the site)
+- Scopus and EI indexing not confirmed on an official page
+last_verified: 2026-10-04

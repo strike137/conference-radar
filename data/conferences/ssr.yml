@@ -1,0 +1,81 @@
+id: ssr
+name: SSR
+full_name: Security Standardisation Research Conference
+type: conference
+tier: minor
+areas: [security, crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: SSR steering committee (Liqun Chen, Shin'ichiro Matsuo, Thyla van der Merwe, Chris Mitchell, Bart Preneel)
+  with a different host institution each year (2025 University of Passau, 2026 UMBC, 2027 FBK Trento)
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+fee: 700 USD early, 800 USD regular, 900 USD late; 50% off for students and remote participants (2026)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://ssresearch26.umbc.edu/
+notes:
+- Series launched in 2014 by the SSR steering committee; series home page at ssresearch.eu
+- Focus on research around security standards (ISO/IEC, NIST, IETF, ITU-T, payments and telecom industry standards)
+- Proceedings in Springer LNCS (2023 volume 13895, 2024 volume 15559, 2025 volume 16466); 2019 in ACM DL and 2022
+  in an IEEE EuroS&P companion volume
+- Regular, SoK and Vision papers; double-blind review in 2026, up to 23 pages in LNCS format
+- Small venue (10 accepted papers in 2025); no edition in 2017 and 2021
+- Host rotates; often co-located with a larger event (ACM CCS 2019, EuroS&P 2022, Eurocrypt 2023, Inscrypt 2024)
+- 2026 edition at UMBC, Baltimore with co-located Protocol Analysis and Post-Quantum Cryptography for Blockchains
+  workshops; 2027 edition announced for Trento, Italy
+editions:
+- year: 2025
+  start: 2025-12-04
+  end: 2025-12-05
+  location: Passau, Germany
+  url: https://www.uni-passau.de/ssr2025
+  deadlines:
+  - kind: submission
+    date: 2025-10-12
+    tz: AoE
+    label: Extended from 2025-10-05
+  - kind: notification
+    date: 2025-10-27
+    tz: AoE
+- year: 2026
+  start: 2026-12-13
+  end: 2026-12-15
+  location: Baltimore, MD, USA
+  url: https://ssresearch26.umbc.edu/
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+    tz: AoE
+  - kind: notification
+    date: 2026-10-05
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-15
+    tz: AoE
+- year: 2027
+  start: 2027-12-09
+  end: 2027-12-10
+  location: Trento, Italy
+  url: https://ssresearch26.umbc.edu/about-ssr/
+sources:
+- https://ssresearch26.umbc.edu/
+- https://ssresearch26.umbc.edu/about-ssr/
+- https://ssresearch26.umbc.edu/call-for-papers/
+- https://ssresearch26.umbc.edu/registration/
+- http://ssresearch.eu/
+- https://www.uni-passau.de/ssr2025
+- https://www.uni-passau.de/ssr2025/important-dates
+- https://www.uni-passau.de/ssr2025/cfp/accepted-papers
+- https://doi.org/10.1007/978-3-032-19567-8
+- https://portal.core.edu.au/conf-ranks/?search=SSR&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Not listed in the CORE portal (ICORE2026); rank.core left out
+- CCF 2026 listing not checked (ccf.org.cn list did not render); rank.ccf left out, the venue is not expected to be listed
+- SSR 2027 deadlines and website not announced yet
+- Acceptance rate not stated (only the accepted paper list is published)
+last_verified: 2026-10-04

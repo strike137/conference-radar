@@ -1,0 +1,144 @@
+id: acm-mmsys
+name: ACM MMSys
+full_name: ACM Multimedia Systems Conference
+type: conference
+tier: major
+areas: [networking, systems, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGMM (ACM MMSys steering committee)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [DBLP]
+rank:
+  core: A
+acceptance_rate: 25% (2026, 24/94 research track); 24% (2025, 19/79)
+fee: 715 USD ACM member, 900 USD non-member, 500 USD student ACM member (2026, early bird)
+typical:
+  deadline_months: [9, 11]
+  conference_months: [3, 4]
+links:
+  website: https://2027.acmmmsys.org/
+  dblp: https://dblp.org/db/conf/mmsys/
+notes:
+- ACM conference on multimedia systems (streaming, networking, QoE, immersive and volumetric media, cloud gaming);
+  17th edition in 2026
+- Rated A in ICORE2026; not on the CCF list (the co-located NOSSDAV workshop is CCF B)
+- Papers published in the ACM Digital Library; research papers up to 10 pages plus references, ACM sigconf template,
+  double-blind review on HotCRP
+- Two independent research track rounds (September and November); papers rejected in round one may be revised and
+  resubmitted to round two
+- Co-located workshops such as NOSSDAV and MMVE, plus open source software and dataset, demo and industry tracks,
+  doctoral symposium and grand challenges
+- In-person event; at least one author per paper must attend (2026)
+- Rotates worldwide (Athlone 2022, Vancouver 2023, Bari 2024, Stellenbosch 2025, Hong Kong 2026, Ghent 2027)
+editions:
+- year: 2026
+  start: 2026-04-04
+  end: 2026-04-08
+  location: Hong Kong SAR, China
+  url: https://2026.acmmmsys.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-19
+    time: "23:59"
+    tz: AoE
+    label: Research track round 1 registration
+  - kind: submission
+    date: 2025-09-26
+    time: "23:59"
+    tz: AoE
+    label: Research track round 1
+  - kind: notification
+    date: 2025-10-24
+    label: Research track round 1
+  - kind: abstract
+    date: 2025-11-14
+    time: "23:59"
+    tz: AoE
+    label: Research track round 2 registration
+  - kind: submission
+    date: 2025-11-21
+    time: "23:59"
+    tz: AoE
+    label: Research track round 2
+  - kind: notification
+    date: 2026-01-09
+    label: Research track round 2
+  - kind: submission
+    date: 2026-01-16
+    time: "23:59"
+    tz: AoE
+    label: Demos and industry, workshops, doctoral symposium
+  - kind: submission
+    date: 2026-01-24
+    time: "23:59"
+    tz: AoE
+    label: Open source software and datasets
+  - kind: camera_ready
+    date: 2026-02-28
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-03-30
+  end: 2027-04-02
+  location: Ghent, Belgium
+  url: https://2027.acmmmsys.org/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-09-17
+    label: Research track round 1 registration (extended)
+  - kind: submission
+    date: 2026-09-17
+    label: Research track round 1
+  - kind: notification
+    date: 2026-10-24
+    label: Research track round 1
+  - kind: abstract
+    date: 2026-11-12
+    label: Research track round 2 registration
+  - kind: submission
+    date: 2026-11-19
+    label: Research track round 2
+  - kind: notification
+    date: 2026-12-22
+    label: Research track round 2
+  - kind: other
+    date: 2026-10-25
+    label: Workshop and special session proposals
+  - kind: notification
+    date: 2026-11-10
+    label: Workshop and special session proposals
+  - kind: submission
+    date: 2027-01-11
+    label: Workshop, special session, open source and dataset, demo and industry papers
+  - kind: notification
+    date: 2027-02-01
+    label: Workshop, special session, open source and dataset, demo and industry papers
+  - kind: camera_ready
+    date: 2027-02-19
+sources:
+- https://2027.acmmmsys.org/
+- https://2027.acmmmsys.org/deadlines.html
+- https://2027.acmmmsys.org/research-track.html
+- https://2026.acmmmsys.org/
+- https://2026.acmmmsys.org/important-dates
+- https://2026.acmmmsys.org/call-for-papers
+- https://2026.acmmmsys.org/registration
+- https://acmmmsys.org/
+- https://2022.acmmmsys.org/
+- https://2023.acmmmsys.org/
+- https://2024.acmmmsys.org/
+- https://2025.acmmmsys.org/
+- https://portal.core.edu.au/conf-ranks/?search=MMSys&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- MMSys 2027 deadline times and time zone not stated on the 2027 site (2026 used 23:59 AoE)
+- MMSys 2026 proceedings volume in the ACM DL not checked directly (dl.acm.org blocked); ACM DL publication taken from the CFP pages
+- ACM SIGMM as sponsor inferred from the 2026 site (SIGMM travel grants); not stated as organizer on the 2027 site
+- "2026 acceptance rate from the acmmmsys.org stats table, whose footer still says last updated Sept. 9, 2025"
+- CCF status checked via the ccfddl mirror (listed there as not ranked), not on ccf.org.cn directly
+last_verified: 2026-10-04

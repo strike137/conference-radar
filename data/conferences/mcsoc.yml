@@ -1,0 +1,119 @@
+id: mcsoc
+name: IEEE MCSoC
+full_name: IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip
+type: conference
+tier: minor
+areas: [systems]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: MCSoC Forum steering board, sponsored by the IEEE Computer Society TCMM (Technical Committee on Microprocessors
+  and Microcomputers), with a host university each year
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE CPS conference proceedings, also in the IEEE Computer Society Digital Library)
+indexing: [Scopus, EI, DBLP]
+fee: 620 USD IEEE member, 635 USD non-member (2026, author registration)
+typical:
+  deadline_months: [6, 9]
+  conference_months: [12]
+links:
+  website: https://mcsoc-forum.org/
+  dblp: https://dblp.org/db/conf/mcsoc/
+notes:
+- Started in 2004 at UEC, Tokyo as the International Workshop on Systems-on-Chips (SoC) and renamed MCSoC in 2007; covers
+  embedded multicore and many-core SoC architecture, NoC, chiplets, neuromorphic computing and AI accelerators
+- Proceedings in IEEE Xplore and the IEEE Computer Society Digital Library; selected papers invited to journal special
+  issues
+- Held in Singapore or Malaysia from 2021 to 2025 (2025 in December); 2026 is in Shanghai, China in December and the
+  20th edition (2027) moves to May at UEC, Tokyo
+- 2025 and 2026 had two independent submission rounds (roughly June and September), often extended; 2027 has a single
+  deadline (November 2026)
+- Hybrid format with onsite or online presentation; also accepts short papers and presentation-only contributions
+  (presentation-only work is not included in the proceedings)
+- Not ranked by CORE (not listed in ICORE2026) or CCF; regarded as a smaller venue
+- Has a test, security and trust track for embedded multicore systems
+editions:
+- year: 2025
+  start: 2025-12-15
+  end: 2025-12-18
+  location: Singapore
+  url: https://mcsoc-forum.org/site/index.php/mcsoc-2025-singapore/
+  deadlines:
+  - kind: submission
+    date: 2025-06-20
+    label: Round 1 (extended from 2025-05-31)
+  - kind: notification
+    date: 2025-07-20
+    label: Round 1
+  - kind: camera_ready
+    date: 2025-07-31
+    label: Round 1, with author registration
+  - kind: submission
+    date: 2025-09-10
+    label: Round 2
+  - kind: notification
+    date: 2025-10-31
+    label: Round 2
+  - kind: camera_ready
+    date: 2025-11-08
+    label: Round 2, with author registration
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Shanghai, China
+  url: https://mcsoc-forum.org/site/
+  deadlines:
+  - kind: submission
+    date: 2026-06-20
+    label: Round 1 (extended from 2026-04-30 and 2026-05-31)
+  - kind: notification
+    date: 2026-07-21
+    label: Round 1 (extended from 2026-07-20)
+  - kind: camera_ready
+    date: 2026-08-05
+    label: Round 1, with author registration (extended from 2026-07-31)
+  - kind: submission
+    date: 2026-10-10
+    label: Round 2, final (extended from 2026-09-10)
+  - kind: notification
+    date: 2026-10-31
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-11-08
+    label: Round 2, with author registration
+- year: 2027
+  start: 2027-05-12
+  end: 2027-05-15
+  location: Chofu, Tokyo, Japan
+  url: https://mcsoc-forum.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+  - kind: notification
+    date: 2027-03-31
+  - kind: camera_ready
+    date: 2027-04-10
+    label: With author registration
+sources:
+- https://mcsoc-forum.org/
+- https://mcsoc-forum.org/about.php
+- https://mcsoc-forum.org/archive.php
+- https://mcsoc-forum.org/2027/
+- https://mcsoc-forum.org/2027/wp-content/uploads/2026/09/MCSOC2027_CFP.pdf
+- https://mcsoc-forum.org/site/
+- https://mcsoc-forum.org/site/index.php/cfp/
+- https://mcsoc-forum.org/site/index.php/registration2026/
+- https://mcsoc-forum.org/site/index.php/mcsoc-2025-singapore/
+- https://mcsoc-forum.org/site/index.php/phd-symposium/
+- https://ieeexplore.ieee.org/xpl/conhome/11310785/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=MCSoC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- MCSoC 2025 dates and deadlines taken from the PhD Symposium page on the official site (the 2025 main pages were
+  replaced by the 2026 site)
+- No submission time or time zone stated for 2026 and 2027 deadlines
+- Acceptance rate not published
+- 2027 notification date (2027-03-31) is about four months after submission, as printed on the official CFP
+- The 2026 site (mcsoc-forum.org/site) currently hosts unrelated injected spam posts; conference pages themselves
+  look intact
+last_verified: 2026-10-04

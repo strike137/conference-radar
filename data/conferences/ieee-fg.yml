@@ -1,0 +1,116 @@
+id: ieee-fg
+name: IEEE FG
+full_name: IEEE International Conference on Automatic Face and Gesture Recognition
+type: conference
+tier: major
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Biometrics Council and IEEE Computer Society (co-sponsors)
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: C
+fee: 'Early: 75,000 JPY IEEE member, 90,000 JPY non-member, 55,000 JPY IEEE student member (2026)'
+typical:
+  deadline_months: [9, 10]
+  conference_months: [4, 5]
+links:
+  website: https://fg2027.ieee-biometrics.org/
+  dblp: https://dblp.org/db/conf/fgr/
+notes:
+- Main international venue for face, gesture and body motion analysis; co-sponsored by the IEEE Biometrics Council
+  and the IEEE Computer Society
+- Proceedings in IEEE Xplore; long papers (8 pages plus references) and short papers (4 pages plus 1 page of
+  references) go through the same double-blind review
+- FG 2026 used two review rounds (accept, revise and resubmit, or reject in Round 1); FG 2027 switches to a single
+  review round
+- CORE B (ICORE2026) and CCF C
+- In-person only; no virtual or pre-recorded presentations (2027)
+- In 2026 each main paper needed one full (non-student) registration
+- 2026 edition (20th) was held in Kyoto, Japan; 2027 (21st) is the first edition in Africa (Marrakesh, Morocco)
+- Workshops, competitions, special sessions, demos and a doctoral consortium have their own later deadlines
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-29
+  location: Kyoto, Japan
+  url: https://fg2026.ieee-biometrics.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-25
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2025-10-06
+    tz: AoE
+    label: Round 1 (extended from Oct 2)
+  - kind: notification
+    date: 2025-12-11
+    tz: AoE
+    label: Round 1
+  - kind: other
+    date: 2026-01-25
+    tz: AoE
+    label: Round 1 revisions due
+  - kind: abstract
+    date: 2026-01-09
+    tz: AoE
+    label: Round 2 (new submissions only)
+  - kind: submission
+    date: 2026-01-25
+    tz: AoE
+    label: Round 2 (extended from Jan 15)
+  - kind: notification
+    date: 2026-04-02
+    tz: AoE
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-04-21
+    time: '23:59'
+    tz: JST
+    label: Camera ready and author registration
+- year: 2027
+  start: 2027-04-26
+  end: 2027-04-30
+  location: Marrakesh, Morocco
+  url: https://fg2027.ieee-biometrics.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-09
+    tz: AoE
+  - kind: submission
+    date: 2026-10-16
+    tz: AoE
+  - kind: notification
+    date: 2026-12-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-26
+    tz: AoE
+    label: Camera ready and author registration
+  - kind: other
+    date: 2027-01-11
+    tz: AoE
+    label: Workshop paper submission
+sources:
+- https://fg2027.ieee-biometrics.org/
+- https://fg2027.ieee-biometrics.org/dates/
+- https://fg2027.ieee-biometrics.org/call-for-papers/
+- https://fg2026.ieee-biometrics.org/
+- https://fg2026.ieee-biometrics.org/cfp
+- https://fg2026.ieee-biometrics.org/camera_ready
+- https://fg2026.ieee-biometrics.org/registration
+- https://fg2026.ieee-biometrics.org/location
+- https://fg2026.ieee-biometrics.org/faq/
+- https://fg2025.ieee-biometrics.org/
+- https://portal.core.edu.au/conf-ranks/?search=FG&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Acceptance rate
+- FG 2027 registration fees (not announced yet)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-10-04

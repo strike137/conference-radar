@@ -1,0 +1,87 @@
+id: icodse
+name: ICoDSE
+full_name: IEEE International Conference on Data and Software Engineering
+type: conference
+tier: minor
+areas: [software, data, ai, security]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Knowledge and Software Engineering Research Group, School of Electrical Engineering and Informatics, Institut
+  Teknologi Bandung (STEI ITB), with partner Indonesian universities; technical co-sponsor IEEE Indonesia Section
+organizer_country: [indonesia]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore]
+fee: 400 USD international non-IEEE-member presenter, 300 USD IEEE member or student, 250 USD IEEE student member (2026)
+typical:
+  deadline_months: [8, 9]
+  conference_months: [9, 10]
+links:
+  website: https://icodse.org/
+notes:
+- Run annually since 2014 by the Knowledge and Software Engineering Research Group at STEI ITB (Bandung), often
+  together with other Indonesian universities; 2026 is the 12th edition
+- Held in Indonesia, moving between cities (Toba 2023, Gorontalo 2024, Batam 2025, Bandung 2026); hybrid with
+  online presentation option
+- Proceedings in IEEE Xplore (technical co-sponsor IEEE Indonesia Section)
+- Two main tracks (software engineering and data engineering), plus a trustworthy and secure systems track in 2026
+- 4 to 6 pages in IEEE format, double-blind review (2026)
+- Deadlines are usually extended by about two weeks
+- Not listed in ICORE2026 (no CORE rank) or the CCF list; a small regional venue
+editions:
+- year: 2025
+  label: 11th ICoDSE
+  start: 2025-10-28
+  end: 2025-10-29
+  location: Batam, Indonesia
+  url: https://icodse.org/call-for-papers-4.html
+  deadlines:
+  - kind: submission
+    date: 2025-09-19
+    label: Extended from 2025-09-05
+  - kind: notification
+    date: 2025-10-11
+    label: Extended from 2025-10-04
+  - kind: camera_ready
+    date: 2025-10-21
+    label: Extended from 2025-10-14
+- year: 2026
+  label: 12th ICoDSE
+  start: 2026-10-22
+  end: 2026-10-23
+  location: Bandung, Indonesia
+  url: https://icodse.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-21
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-08-07
+  - kind: notification
+    date: 2026-09-25
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-09-07, then 2026-09-21
+  - kind: camera_ready
+    date: 2026-10-10
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-09-21 (registration also closes 2026-10-10)
+sources:
+- https://icodse.org/
+- https://icodse.org/call-for-papers-2026.html
+- https://icodse.org/important-dates.html
+- https://icodse.org/registration-2.html
+- https://icodse.org/call-for-papers-4.html
+- https://icodse.org/2024-icodse-is-coming.html
+- https://icodse.org/archive-icodse-2023.html
+- https://api.crossref.org/works?query.container-title=International+Conference+on+Data+and+Software+Engineering&filter=type:proceedings-article,from-pub-date:2024-01-01
+- https://portal.core.edu.au/conf-ranks/?search=ICoDSE&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ICoDSE 2027 not announced as of 2026-10-04
+- Acceptance rate not published
+- Scopus and DBLP indexing not checked
+- Locations of editions before 2023 not checked on an official page
+- 2026 camera-ready date differs between the CFP page (2026-10-05) and the newer Important Dates page (2026-10-10);
+  the later page is used
+last_verified: 2026-10-04

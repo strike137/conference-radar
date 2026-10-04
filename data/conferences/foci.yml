@@ -1,0 +1,104 @@
+id: foci
+name: FOCI
+full_name: Free and Open Communications on the Internet
+type: workshop
+tier: minor
+areas: [security, networking]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: FOCI community (co-located with PETS)
+organizer_country: [international]
+proceedings: FOCI proceedings (open access, hosted by PoPETs at petsymposium.org/foci)
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [4, 10, 11]
+  conference_months: [1, 2, 7]
+links:
+  website: https://foci.community/
+  dblp: https://dblp.org/db/conf/foci/index.html
+notes:
+- Interdisciplinary workshop on Internet censorship, surveillance, circumvention, content moderation and press freedom
+  (technology, law and policy)
+- Two issues per year -> Issue 1 is an online-only event (January or February), Issue 2 is a hybrid event co-located
+  with PETS in July
+- Co-located with PETS since 2023 (Lausanne 2023, Bristol 2024, Washington D.C. 2025, Calgary 2026, Delft 2027)
+- Papers are published open access (CC BY 4.0) on the PoPETs site; extended abstracts (2 pages), short (4 pages) and
+  long (8 pages) papers in the PoPETs template
+- Double-blind review; FOCI asks other venues not to treat its 2-page extended abstracts as prior publications
+- Encourages early-stage work and extensions of previously published research; for Issue 1 the PC may shepherd papers
+  to acceptance
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: FOCI 2026 online (Issue 1)
+  start: 2026-02-19
+  end: 2026-02-19
+  location: Online
+  url: https://foci.community/foci26.html
+  deadlines:
+  - kind: submission
+    date: 2025-11-07
+  - kind: notification
+    date: 2026-01-16
+  - kind: camera_ready
+    date: 2026-02-09
+- year: 2026
+  label: FOCI 2026 hybrid (Issue 2)
+  start: 2026-07-20
+  end: 2026-07-20
+  location: Calgary, Canada (with PETS 2026)
+  url: https://foci.community/foci26.html
+  deadlines:
+  - kind: submission
+    date: 2026-04-20
+    tz: AoE
+  - kind: notification
+    date: 2026-06-05
+  - kind: camera_ready
+    date: 2026-06-28
+- year: 2027
+  label: FOCI 2027 online (Issue 1)
+  start: 2027-01-28
+  end: 2027-01-28
+  location: Online
+  url: https://foci.community/
+  deadlines:
+  - kind: submission
+    date: 2026-10-29
+    tz: AoE
+  - kind: notification
+    date: 2026-12-21
+  - kind: camera_ready
+    date: 2027-01-15
+- year: 2027
+  label: FOCI 2027 hybrid (Issue 2)
+  start: 2027-07-19
+  end: 2027-07-19
+  location: Delft, Netherlands (with PETS 2027)
+  url: https://foci.community/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2027-04-15
+  - kind: notification
+    date: 2027-06-07
+  - kind: camera_ready
+    date: 2027-06-29
+sources:
+- https://foci.community/
+- https://foci.community/foci26.html
+- https://foci.community/foci25.html
+- https://foci.community/foci24.html
+- https://foci.community/foci23.html
+- https://www.petsymposium.org/foci/
+- https://www.petsymposium.org/foci/2026/
+- https://portal.core.edu.au/conf-ranks/?search=FOCI&by=all&source=ICORE2026
+last_verified: 2026-10-04
+unverified:
+- FOCI 2027 Issue 2 (in-person) dates are marked tentative on the CFP page
+- Time zone for the 2025-11-07 Issue 1 deadline (the 2026-04-20 deadline is stated as AoE)
+- Host and location of editions before 2023 (not stated on the archive pages)
+- Acceptance rate and registration fee (not published; the hybrid event uses PETS registration)

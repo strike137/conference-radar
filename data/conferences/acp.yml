@@ -1,0 +1,86 @@
+id: acp
+name: ACP
+full_name: Asia Communications and Photonics Conference
+type: conference
+tier: minor
+areas: [communications]
+region: china
+language: english
+frequency: annual
+organizer: Host universities in China (2026 Westlake University and Zhejiang University); technically sponsored
+  by IEEE Photonics Society, Optica, SPIE, Chinese Optical Society, China Institute of Communications and China
+  Institute of Electronics
+organizer_country: [china]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore]
+fee: 490 USD IEEE/Optica/SPIE member, 540 USD non-member, 260 to 270 USD student (2026, early bird); 100 USD per
+  additional paper
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11]
+links:
+  website: https://www.acpconf.com/
+notes:
+- Annual optical communications and photonics conference held since 2001; the organizers call it the largest
+  academic conference in Asia-Pacific on optical communications, optical sensing and photonics
+- Held in a different Chinese city each year (2021 Shanghai, 2022 Shenzhen, 2023 Wuhan, 2024 Beijing, 2025
+  Suzhou, 2026 Hangzhou); earlier editions also in Hong Kong and Busan
+- Technically sponsored by IEEE Photonics Society, Optica, SPIE and Chinese societies; papers in IEEE Xplore
+  (2024 edition held jointly with IPOC)
+- Papers of 2 to 6 pages in IEEE two-column format; double-blind review from 2026; at least one author must
+  register and present in person
+- Late-breaking post-deadline papers (PDP, 3 pages) with a submission deadline about two weeks before the
+  conference
+- Not listed in ICORE2026; optics venue outside the usual CS rankings
+editions:
+- year: 2025
+  start: 2025-11-05
+  end: 2025-11-08
+  location: Suzhou, China
+  url: https://www.acpconf.com/historyList
+- year: 2026
+  start: 2026-11-01
+  end: 2026-11-04
+  location: Hangzhou, China
+  url: https://www.acpconf.com/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    time: "23:59"
+    tz: UTC+8
+    label: Paper submission (extended from 2026-07-01)
+  - kind: other
+    date: 2026-08-01
+    label: Demo proposal submission
+  - kind: notification
+    date: 2026-09-01
+  - kind: other
+    date: 2026-09-30
+    time: "23:59"
+    tz: UTC+8
+    label: Early-bird registration
+  - kind: other
+    date: 2026-10-15
+    time: "23:59"
+    tz: UTC+8
+    label: Post-deadline paper (PDP) submission
+  - kind: camera_ready
+    date: 2026-10-25
+    label: Final accepted paper submission
+sources:
+- https://www.acpconf.com/
+- https://www.acpconf.com/historyList
+- https://www.acpconf.com/news/paper-submission
+- https://www.acpconf.com/news/post-deadline
+- https://www.acpconf.com/news/registration
+- https://ieeexplore.ieee.org/xpl/conhome/11349684/proceeding
+- https://api.crossref.org/works/10.1109/acp66871.2025
+- https://api.crossref.org/works?query.container-title=Asia+Communications+and+Photonics+Conference+IPOC&filter=from-pub-date:2024,until-pub-date:2024
+- https://portal.core.edu.au/conf-ranks/?search=ACP&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Communications+and+Photonics&by=all&source=ICORE2026
+unverified:
+- ACP 2025 deadlines (2025 call for papers no longer on the official site)
+- ACP 2027 dates and location (not announced yet)
+- CCF 2026 list could not be loaded for checking; rank.ccf left out
+- Acceptance rate and indexing beyond IEEE Xplore (EI, Scopus) not stated on the official site
+last_verified: 2026-10-04

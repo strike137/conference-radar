@@ -1,0 +1,76 @@
+id: scored
+name: SCORED
+full_name: Conference on Software Supply Chain Offensive Research and Ecosystem Defenses
+type: conference
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: OpenSSF (Linux Foundation), in cooperation with ACM; 2022 to 2025 editions sponsored by ACM SIGSAC
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL]
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11]
+links:
+  website: https://scored.dev/
+notes:
+- First academic venue focused only on software supply chain security; started in 2022 as an ACM CCS workshop
+- Workshop co-located with ACM CCS from 2022 to 2025 (Los Angeles, Copenhagen, Salt Lake City, Taipei); renamed a
+  conference in 2026 and co-located with OpenSSF Community Day Europe in Prague
+- Proceedings of the 2022 to 2025 editions published by ACM (2025 volume doi 10.1145/3733827)
+- Two tracks -> research papers (original work or SoK, double-column ACM format, 11 pages incl. references in 2026)
+  and 20-minute security-in-practice talks with a 2-page abstract
+- Double-blind review; mixes academic, industry, open source and policy participants
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-17
+  end: 2025-10-17
+  location: Taipei, Taiwan
+  url: https://scored.dev/2025/call_for_papers/
+  deadlines:
+  - kind: submission
+    date: 2025-07-16
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2025-08-08
+  - kind: camera_ready
+    date: 2025-08-22
+- year: 2026
+  start: 2026-10-06
+  end: 2026-10-06
+  location: Prague, Czechia
+  url: https://scored.dev/
+  deadlines:
+  - kind: submission
+    date: 2026-07-19
+    label: Research papers and SiP talks (extended from 2026-07-12)
+  - kind: notification
+    date: 2026-08-29
+    label: Extended from 2026-08-22
+  - kind: camera_ready
+    date: 2026-09-13
+    label: Final papers and talk abstracts (extended from 2026-08-30)
+sources:
+- https://scored.dev/
+- https://scored.dev/call_for_papers/
+- https://scored.dev/conference_information/
+- https://scored.dev/2025/call_for_papers/
+- https://scored.dev/2025/program/
+- https://scored.dev/2024/call_for_papers/
+- https://scored.dev/2023/call_for_papers/
+- https://scored.dev/2022/call_for_papers/
+- https://doi.org/10.1145/3733827
+- https://portal.core.edu.au/conf-ranks/?search=SCORED&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Publisher of the 2026 proceedings (the 2026 CFP mentions a proceedings version but does not name ACM)
+- 2027 dates and location (not announced yet)
+- Acceptance rate and registration fee (not published on the site)
+- ACM DL proceedings DOIs taken from Crossref metadata because ACM DL blocks direct fetch
+- CCF 2026 list not checked on ccf.org.cn (site unreachable); no CCF rank recorded
+last_verified: 2026-10-04

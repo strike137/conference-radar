@@ -1,0 +1,89 @@
+id: vcip
+name: IEEE VCIP
+full_name: IEEE International Conference on Visual Communications and Image Processing
+type: conference
+tier: minor
+areas: [vision, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Circuits and Systems Society (CAS) Visual Signal Processing and Communications Technical Committee, with
+  a local host university (2025 University of Klagenfurt, 2026 SUTD Singapore)
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP, Scopus]
+rank:
+  core: C
+fee: 'Regular non-IEEE member SGD 1380 early, IEEE member SGD 1280 early (2026); 2025: 880 EUR non-member early'
+typical:
+  deadline_months: [6, 7]
+  conference_months: [12]
+links:
+  website: https://vcip-2026.org/
+  dblp: https://dblp.org/db/conf/vcip/index.html
+  wikicfp: http://www.wikicfp.com/cfp/servlet/tool.search?q=VCIP&year=a
+notes:
+- Held since 1986 (SPIE conference before 2011); one of the flagship conferences of the IEEE CAS Visual Signal
+  Processing and Communications Technical Committee
+- Recent editions alternate between Asia and Europe (2020 Macau, 2021 Munich, 2022 Suzhou, 2023 Jeju, 2024 Tokyo, 2025 Klagenfurt,
+  2026 Singapore)
+- Double-blind; 4 pages plus an optional 5th page of references only, two-column IEEE format; submission via Microsoft
+  CMT
+- Selected papers are recommended to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) for
+  extension
+- Each accepted paper needs a regular (non-student) registration and must be presented in person (a qualified
+  surrogate may present if no author can attend)
+- ICORE2026 rank C; not in the CCF 2026 list (only the journal JVCIR is)
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-04
+  location: Klagenfurt, Austria
+  url: https://vcip2025.itec.aau.at/
+  deadlines:
+  - kind: submission
+    date: 2025-07-21
+    tz: AoE
+    label: Papers, regular, special session and demo (extended from 2025-06-30)
+  - kind: notification
+    date: 2025-09-22
+  - kind: camera_ready
+    date: 2025-10-15
+- year: 2026
+  start: 2026-12-13
+  end: 2026-12-16
+  location: Singapore (SUTD)
+  url: https://vcip-2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    tz: AoE
+    label: Papers, regular, special session, demo and grand challenge (extended)
+  - kind: notification
+    date: 2026-09-14
+    tz: AoE
+    label: Extended
+  - kind: camera_ready
+    date: 2026-10-31
+    time: "23:50"
+    tz: UTC+8
+    label: Camera-ready and author registration
+sources:
+- https://vcip2025.itec.aau.at/
+- https://vcip2025.itec.aau.at/wp-content/uploads/2025/06/call-for-paper-new.pdf
+- https://vcip2025.itec.aau.at/paper-submissions/
+- https://vcip2025.itec.aau.at/registration/
+- https://vcip-2026.org/
+- https://vcip-2026.org/important-dates/
+- https://vcip-2026.org/latest-news/
+- https://vcip-2026.org/submissions/
+- https://vcip-2026.org/registration/
+- https://vcip-2026.org/venue/
+- https://api.crossref.org/works?query.bibliographic=IEEE+International+Conference+on+Visual+Communications+and+Image+Processing&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=VCIP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Original VCIP 2026 paper deadline before the extension to 2026-07-03 (not shown on the site)
+- VCIP 2027 location and dates (not announced yet)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-04

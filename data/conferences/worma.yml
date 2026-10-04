@@ -1,0 +1,64 @@
+id: worma
+name: WoRMA
+full_name: Workshop on Rethinking Malware Analysis
+type: workshop
+tier: minor
+areas: [security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: WoRMA steering committee (UCL, TU Berlin, University of Liechtenstein, Gen Digital), co-located with IEEE
+  EuroS&P
+organizer_country: [europe]
+proceedings: IEEE Xplore
+rank:
+  core: Unranked
+typical:
+  deadline_months: [1, 2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://worma.gitlab.io/2026/
+notes:
+- Workshop on malware analysis and detection, ML-based malware detection, adversarial ML, concept drift, attribution and
+  LLMs for malware; aims to bridge academia and industry
+- Co-located with IEEE EuroS&P since 2023 (Delft 2023, Vienna 2024, Venice 2025, Lisbon 2026); 1st edition was at
+  AsiaCCS 2022 in Nagasaki, Japan
+- Accepted papers are published in IEEE Xplore; one author must attend and present for the paper to be included
+- '2026 formats: original research papers with an 8-page main body (12 pages max) and Position papers with a 6-page main
+  body (10 pages max), IEEE EuroS&P template, double-blind review'
+- One-day workshop with two keynotes; small program (4 papers in 2026)
+- Deadlines were extended by about one week in both 2025 and 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 5th edition, at IEEE EuroS&P 2026
+  start: 2026-07-06
+  end: 2026-07-06
+  location: Lisbon, Portugal
+  url: https://worma.gitlab.io/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-02
+    time: "23:59"
+    tz: AoE
+    label: Abstract registration (extended from 2026-01-26)
+  - kind: submission
+    date: 2026-02-06
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2026-01-30)
+  - kind: notification
+    date: 2026-03-18
+  - kind: camera_ready
+    date: 2026-04-16
+    label: Tentative
+sources:
+- https://worma.gitlab.io/2026/
+- https://worma.gitlab.io/2025/
+- https://worma.gitlab.io/2024/
+- https://portal.core.edu.au/conf-ranks/?search=WoRMA&by=all&source=ICORE2026
+unverified:
+- WoRMA 2027 host conference, dates and deadlines (not announced as of 2026-10-04)
+- Registration fee (handled by IEEE EuroS&P, not stated on the workshop site)
+- Number of submissions (acceptance rate not published)
+last_verified: 2026-10-04

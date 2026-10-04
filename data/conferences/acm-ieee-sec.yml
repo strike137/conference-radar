@@ -1,0 +1,102 @@
+id: acm-ieee-sec
+name: ACM/IEEE SEC
+full_name: ACM/IEEE Symposium on Edge Computing
+type: conference
+tier: minor
+areas: [systems, networking]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM and IEEE (IEEE Computer Society)
+organizer_country: [international]
+proceedings: ACM DL / IEEE Xplore (alternating by year)
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: Unranked
+  ccf: C
+fee: 1,100 USD IEEE/ACM member, 1,320 USD non-member (2026, author registration, full conference); student member
+  non-author early 770 USD
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10, 12]
+links:
+  website: https://acm-ieee-sec.org/
+  dblp: https://dblp.org/db/conf/ieeesec/index.html
+notes:
+- Jointly sponsored by ACM and IEEE (IEEE Computer Society); a dedicated systems venue for edge computing, started in 2016
+- Proceedings alternate between ACM DL (2025, ACM template) and IEEE Xplore (2024); posters and demos also appear
+  in the proceedings
+- Double-blind review with a rebuttal phase; 12 pages plus references in the IEEE two-column format, short position
+  papers up to 6 pages
+- Usually held in the USA (Washington D.C. 2025, Wilmington 2023, Seattle 2022); 2024 was in Rome
+- 2026 edition (11th) is at Santa Clara University, co-located with IEEE IC2E 2026
+- CCF C (computer architecture / parallel and distributed computing); Unranked in ICORE2026
+- Several co-located workshops (EdgeSP, Edge Intelligence, DroneSys, EdgeCAV) and a poster/demo track offer easier
+  entry for students
+- At least one author per paper needs a full (non-student rate) registration
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-06
+  location: Washington, D.C., USA
+  url: https://acm-ieee-sec.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-20
+    label: Main paper
+  - kind: other
+    date: 2025-08-12
+    label: Early rejection (if applicable)
+  - kind: notification
+    date: 2025-09-22
+  - kind: other
+    date: 2025-10-06
+    label: One-shot revision submission
+  - kind: camera_ready
+    date: 2025-10-25
+- year: 2026
+  start: 2026-10-13
+  end: 2026-10-16
+  location: Santa Clara, CA, USA
+  url: https://acm-ieee-sec.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-08
+    label: Abstract registration (extended from 2026-04-24)
+  - kind: submission
+    date: 2026-05-08
+    label: Main paper (extended from 2026-05-01)
+  - kind: notification
+    date: 2026-07-29
+  - kind: other
+    date: 2026-08-10
+    label: Poster/demo submission
+  - kind: camera_ready
+    date: 2026-09-04
+  - kind: other
+    date: 2026-09-26
+    time: "23:59"
+    tz: PDT
+    label: Author registration deadline
+sources:
+- https://acm-ieee-sec.org/
+- https://acm-ieee-sec.org/list
+- https://acm-ieee-sec.org/2026/call_for_papers.php
+- https://acm-ieee-sec.org/2026/postersession.php
+- https://acm-ieee-sec.org/2026/workshop.php
+- https://acm-ieee-sec.org/2026/Registration.html
+- https://acm-ieee-sec.org/2025/
+- https://acm-ieee-sec.org/2025/call_for_papers.php
+- https://acm-ieee-sec.org/2025/camera_ready.php
+- https://doi.org/10.1145/3769102
+- https://doi.org/10.1109/SEC62691.2024
+- https://portal.core.edu.au/conf-ranks/?search=SEC&by=acronym&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- Publisher of the SEC 2026 proceedings (poster page says ACM Digital Library / IEEE Xplore; CFP uses the IEEE template)
+- SEC 2027 dates and location not announced
+- Acceptance rates not stated on the official site
+- 2026 camera-ready and venue pages still show 2025 text (Oct 25 camera-ready, Arlington hotel); home page and CFP
+  give Sep 4 camera-ready and Santa Clara University
+last_verified: 2026-10-04

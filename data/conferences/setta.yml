@@ -1,0 +1,94 @@
+id: setta
+name: SETTA
+full_name: 'International Symposium on Dependable Software Engineering: Theories, Tools and Applications'
+type: conference
+tier: minor
+areas: [software]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: SETTA Steering Committee
+organizer_country: [china]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  core: 'National: China'
+  ccf: C
+acceptance_rate: 39% (2025, 18/46 full papers)
+typical:
+  deadline_months: [5, 8]
+  conference_months: [11, 12]
+links:
+  website: https://www.setta2026.sg/
+  dblp: https://dblp.org/db/conf/setta/
+notes:
+- Formal methods meets software engineering; aims to be a flagship formal software engineering venue in Asia
+- Steering committee and advisory board mostly from Chinese institutions (ISCAS, Peking, Nanjing, NUDT), plus
+  members from Europe, Korea and Microsoft Research
+- Proceedings in Springer LNCS; 16 pages max excluding references, double-blind review
+- Two submission rounds since 2025 (spring and August); selected papers invited to a journal special issue
+- Hosted in China (mainland or Hong Kong) through 2024; 2025 in Oxford, UK, was the first edition outside Asia, and
+  2026 is in Singapore
+- 'ICORE2026 lists it as National: China; CCF C (theory category)'
+- Encourages participation of young researchers and students
+editions:
+- year: 2026
+  start: 2026-12-02
+  end: 2026-12-04
+  location: Singapore Management University, Singapore
+  url: https://www.setta2026.sg/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-05-24
+    time: "23:59"
+    tz: AoE
+    label: Round 1 (extended from 2026-05-10)
+  - kind: notification
+    date: 2026-07-14
+    label: Round 1 (postponed from 2026-06-30)
+  - kind: submission
+    date: 2026-08-24
+    time: "23:59"
+    tz: AoE
+    label: Round 2 (extended from 2026-08-10)
+  - kind: notification
+    date: 2026-10-13
+    label: Round 2 (postponed from 2026-09-30)
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-03
+  location: Oxford, United Kingdom
+  url: https://www.setta2025.uk/
+  deadlines:
+  - kind: submission
+    date: 2025-04-30
+    time: "23:59"
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2025-06-16
+    label: Round 1
+  - kind: submission
+    date: 2025-08-30
+    time: "23:59"
+    tz: AoE
+    label: Round 2 (extended from 2025-08-20)
+  - kind: notification
+    date: 2025-10-08
+    label: Round 2
+sources:
+- https://www.setta2026.sg/
+- https://www.setta2026.sg/home/call-for-papers
+- https://www.setta2026.sg/home/organisation
+- https://www.setta2025.uk/
+- https://www.setta2025.uk/call-for-papers
+- https://www.setta2025.uk/organisation
+- https://www.setta2025.uk/accepted-papers
+- https://link.springer.com/book/10.1007/978-981-95-7826-9
+- https://link.springer.com/conference/setta
+- https://portal.core.edu.au/conf-ranks/?search=SETTA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-10-04

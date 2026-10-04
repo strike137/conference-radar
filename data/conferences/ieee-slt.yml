@@ -1,0 +1,66 @@
+id: ieee-slt
+name: IEEE SLT
+full_name: IEEE Spoken Language Technology Workshop
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IEEE Signal Processing Society (Speech and Language Processing Technical Committee)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP]
+typical:
+  deadline_months: [6]
+  conference_months: [12]
+links:
+  website: https://2024.ieeeslt.org/
+notes:
+- Flagship biennial workshop of the IEEE SPS Speech and Language Processing Technical Committee; alternates years with
+  IEEE ASRU
+- Papers up to 6 pages plus up to 2 pages of references; double-blind review with an author rebuttal period
+- Papers appear in IEEE Xplore; papers not presented at the event are left out of Xplore (SPS no-show policy)
+- One author registration covers up to four papers
+- 2024 edition held in Macao; locations rotate worldwide
+- Not listed in ICORE2026; CCF 2026 listing not checked directly
+- Well regarded in the speech community despite having no CORE rank
+fee: 800 USD author registration for IEEE members, 960 USD for non-members (2024)
+editions:
+- year: 2024
+  start: 2024-12-02
+  end: 2024-12-05
+  location: Macao, China
+  url: https://2024.ieeeslt.org/
+  deadlines:
+  - kind: submission
+    date: 2024-06-20
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2024-06-27
+    time: '23:59'
+    tz: AoE
+    label: Paper update deadline
+  - kind: other
+    date: 2024-08-05
+    label: Author rebuttal period (5 to 10 Aug)
+  - kind: notification
+    date: 2024-08-30
+  - kind: other
+    date: 2024-09-25
+    tz: AoE
+    label: Author registration (extended from 2024-09-15)
+sources:
+- https://2024.ieeeslt.org/
+- https://2024.ieeeslt.org/call_for_papers/
+- https://2024.ieeeslt.org/paper_submission/
+- https://2024.ieeeslt.org/conference-policies/
+- https://2024.ieeeslt.org/registration-fees-and-benefits/
+- https://portal.core.edu.au/conf-ranks/?search=SLT&by=all&source=ICORE2026
+unverified:
+- SLT 2026 dates, location and deadlines (no official 2026 site found)
+- Acceptance rate (not stated on the official site)
+- CCF 2026 list status (CCF site not reachable, so rank.ccf is left out)
+last_verified: 2026-10-04

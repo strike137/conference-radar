@@ -1,0 +1,98 @@
+id: percom
+name: PerCom
+full_name: IEEE International Conference on Pervasive Computing and Communications
+type: conference
+tier: top
+areas: [networking, communications, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: PerCom steering committee, technically sponsored by the IEEE Computer Society (in cooperation with ACM SIGMOBILE)
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: A*
+  ccf: B
+fee: 899 EUR author IEEE member, 1080 EUR non-member, 586 EUR student IEEE member (2026, early)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [3]
+links:
+  website: https://www.percom.org/
+  dblp: https://dblp.org/db/conf/percom/
+notes:
+- Premier annual venue for pervasive and ubiquitous computing (IoT, sensing, mobile systems, smart environments)
+- Technically sponsored by the IEEE Computer Society; international steering committee chaired from Italy
+- Papers published in IEEE Xplore; selected papers invited to a Pervasive and Mobile Computing journal special issue
+- Double-blind review with early rejection and a rebuttal phase; 9 pages plus 1 page of references
+- Held every March, rotating between Europe and the USA (Atlanta 2023, Biarritz 2024, Washington DC 2025, Pisa 2026); 2027 in Goa, India
+- In-person only; remote presentations allowed only for visa or health problems
+- Co-located workshops, demos, work-in-progress and PhD forum tracks
+- CORE A*, CCF B (human-computer interaction and pervasive computing category)
+editions:
+- year: 2026
+  start: 2026-03-16
+  end: 2026-03-20
+  location: Pisa, Italy
+  url: https://percom.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-03
+    label: Paper registration (extended from 2025-09-12)
+  - kind: submission
+    date: 2025-10-03
+    label: Extended from 2025-09-19
+  - kind: other
+    date: 2025-11-28
+    label: First stage notification
+  - kind: other
+    date: 2025-12-05
+    label: Rebuttal submission
+  - kind: notification
+    date: 2025-12-22
+  - kind: camera_ready
+    date: 2026-02-02
+- year: 2027
+  start: 2027-03-08
+  end: 2027-03-12
+  location: Goa, India
+  url: https://www.percom.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-11
+    tz: AoE
+    label: Paper registration (extended from 2026-09-04)
+  - kind: submission
+    date: 2026-09-18
+    tz: AoE
+    label: Extended from 2026-09-11
+  - kind: other
+    date: 2026-11-20
+    tz: AoE
+    label: Early rejection or rebuttal invitation
+  - kind: other
+    date: 2026-11-27
+    tz: AoE
+    label: Rebuttal submission
+  - kind: notification
+    date: 2026-12-18
+    tz: AoE
+sources:
+- https://www.percom.org/
+- https://percom.org/call-for-papers/
+- https://percom.org/steering-committee/
+- https://percom.org/2026/
+- https://percom.org/2026/call-for-papers/
+- https://percom.org/2026/registration-instructions/
+- https://percom.org/2025
+- https://percom.org/2024
+- https://percom.org/2023
+- https://portal.core.edu.au/conf-ranks/?search=PerCom&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- PerCom 2027 camera-ready date (CFP says February 2027, exact date to be announced) and registration fees
+- PerCom 2026 deadline time zone (not stated on the 2026 CFP)
+- Acceptance rate (not stated on the official pages)
+last_verified: 2026-10-04

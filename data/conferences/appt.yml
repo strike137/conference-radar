@@ -1,0 +1,82 @@
+id: appt
+name: APPT
+full_name: International Symposium on Advanced Parallel Processing Technologies
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: CCF (China Computer Federation) Technical Committee on Computer Architecture (TCArch)
+organizer_country: [china]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  ccf: C
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://www.appt-conference.com/
+  dblp: https://dblp.org/db/conf/appt/
+notes:
+- Flagship international conference of the CCF Technical Committee on Computer Architecture (TCArch); covers chip
+  design, computer architecture, parallel and computing systems
+- Started in 1995 as a China and Germany bilateral workshop (CCF TCArch and Fraunhofer GMD FIRST); biennial from 2003
+  to 2023, annual since 2025
+- Springer LNCS proceedings since 1999; full papers up to 12 pages in LNCS format, double-blind review with a desk
+  reject filtering stage
+- Recently held in Europe (Athens 2025, Brussels 2026) after mostly Chinese venues; registration runs through the CCF
+  conference platform
+- CCF C (architecture, parallel and storage category); not listed in the ICORE2026 portal
+- Also hosts a PhD forum, posters and WIP papers, workshops, tutorials and a CUDA programming challenge
+editions:
+- year: 2025
+  start: 2025-07-13
+  end: 2025-07-16
+  location: Athens, Greece
+  url: https://www.appt-conference.com/2025
+  deadlines:
+  - kind: abstract
+    date: 2025-04-06
+  - kind: submission
+    date: 2025-04-13
+    label: Full paper
+  - kind: notification
+    date: 2025-04-27
+  - kind: camera_ready
+    date: 2025-06-01
+- year: 2026
+  start: 2026-07-27
+  end: 2026-07-31
+  location: Brussels, Belgium
+  url: https://www.appt-conference.com/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-04-03
+  - kind: submission
+    date: 2026-04-10
+    label: Full paper (home page shows it moved from 2026-04-03)
+  - kind: notification
+    date: 2026-05-27
+  - kind: camera_ready
+    date: 2026-06-15
+sources:
+- https://www.appt-conference.com/
+- https://www.appt-conference.com/2026/contribute/submission-guidelines
+- https://www.appt-conference.com/2026/contribute/camera-ready
+- https://www.appt-conference.com/2026/history
+- https://www.appt-conference.com/2025
+- https://www.appt-conference.com/2025/contribute/submission-guidelines
+- https://www.appt-conference.com/2025/contribute/camera-ready
+- https://doi.org/10.1007/978-981-95-1021-4
+- https://doi.org/10.1007/978-981-92-4805-6
+- https://portal.core.edu.au/conf-ranks/?search=APPT&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- APPT 2027 dates and deadlines (not announced as of 2026-10-04)
+- Deadline time and zone not stated on the official pages (ccf-deadlines lists AoE)
+- CCF rank checked via the ccfddl mirror of the CCF list, not on ccf.org.cn directly (captcha)
+- Acceptance rate and full registration fees not found on the official pages
+- 2026 end date (official home page gives July 27-31 including parallel events; the Springer LNCS volume lists July 27 only)
+last_verified: 2026-10-04

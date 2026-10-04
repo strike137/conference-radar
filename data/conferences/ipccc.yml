@@ -1,0 +1,101 @@
+id: ipccc
+name: IEEE IPCCC
+full_name: IEEE International Performance Computing and Communications Conference
+type: conference
+tier: minor
+areas: [networking, systems, communications]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE, run by the IPCCC Board (steering committee)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: C
+  ccf: C
+fee: USD 895 IEEE member, USD 1075 non-member (2026, regular rate, plus processing); student non-author USD 630
+  / 760
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://www.ipccc.org/
+  dblp: https://dblp.org/db/conf/ipccc/
+notes:
+- Running for over four decades (45th edition in 2026); IEEE conference steered by the IPCCC Board, chaired from the
+  US
+- Held in the US every year recently (2022 Austin, 2023 Anaheim, 2024 Orlando, 2025 and 2026 Austin); 2020 and 2021
+  were virtual
+- Topics span performance evaluation, cloud and edge computing, wireless and 5G/6G networks, IoT, and security and privacy
+- Regular (8 pages), short (6 pages), poster (2 pages) and workshop papers; single-blind review via EDAS
+- CORE C and CCF C
+- In-person presentation required for IEEE Xplore inclusion; remote presentation only with documented reasons and an
+  extra fee (virtual session held the weekend before the in-person conference)
+- In 2026 the paper deadlines were extended by one to two weeks
+editions:
+- year: 2025
+  start: 2025-11-21
+  end: 2025-11-23
+  location: Austin, Texas, USA
+  url: https://www.ipccc.org/ipccc2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-21
+    label: Abstract and paper/poster/workshop submission
+  - kind: notification
+    date: 2025-08-26
+    label: Regular papers (author page says 2025-08-20)
+  - kind: camera_ready
+    date: 2025-09-15
+    label: Final manuscript and fee payment
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-22
+  location: Austin, Texas, USA
+  url: https://www.ipccc.org/ipccc2026/main.php?page=1
+  deadlines:
+  - kind: abstract
+    date: 2026-08-22
+    label: Paper abstract (extended from 2026-08-07)
+  - kind: submission
+    date: 2026-08-22
+    label: Regular, short and workshop papers (extended from 2026-08-15)
+  - kind: other
+    date: 2026-09-11
+    label: Poster submission (extended)
+  - kind: notification
+    date: 2026-09-30
+    label: Regular papers
+  - kind: notification
+    date: 2026-10-07
+    label: Posters and workshop papers
+  - kind: camera_ready
+    date: 2026-10-15
+    label: Final manuscript and fee payment
+  - kind: other
+    date: 2026-11-15
+    label: Virtual conference day (remote presentations; home page says Nov 14 or 15)
+sources:
+- https://www.ipccc.org/
+- https://www.ipccc.org/ipccc2026/main.php?page=1
+- https://www.ipccc.org/ipccc2026/main.php?page=2
+- https://www.ipccc.org/ipccc2026/main.php?page=3
+- https://www.ipccc.org/ipccc2026/main.php?page=7
+- https://www.ipccc.org/ipccc2026/IPCCC_2026_CFP_extended.pdf
+- https://www.ipccc.org/ipccc2025/
+- https://www.ipccc.org/ipccc2025/main.php?page=1
+- https://www.ipccc.org/ipccc2025/main.php?page=3
+- https://www.ipccc.org/ipccc2024/
+- https://www.ipccc.org/ipccc2023/
+- https://www.ipccc.org/ipccc2022/
+- https://portal.core.edu.au/conf-ranks/?search=IPCCC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/CN/
+unverified:
+- CCF rank C seen on the ccf.org.cn computer networks list page, which does not state the list year
+- Acceptance rate not stated on the official site
+- Deadline time zone not stated (site says listed times are Mountain Standard Time, but no deadline times are given)
+- IPCCC 2025 regular paper notification date differs between the main page (2025-08-26) and the author page (2025-08-20)
+- IPCCC 2026 final manuscript deadline is October 15 on the dates list but October 1 in the EDAS upload instructions
+- IPCCC 2027 not announced yet
+last_verified: 2026-10-04

@@ -1,0 +1,95 @@
+id: ismir
+name: ISMIR
+full_name: International Society for Music Information Retrieval Conference
+type: conference
+tier: major
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: International Society for Music Information Retrieval (ISMIR), with a local organizing team each year
+organizer_country: [international]
+proceedings: ISMIR Proceedings (open access on ismir.net and Zenodo, with DOIs and ISBN)
+archival: true
+indexing: [DBLP]
+fee: 500 USD full author, 250 USD student author, plus 5% VAT (2026, in-person or virtual)
+typical:
+  deadline_months: [3, 4]
+  conference_months: [9, 10, 11]
+links:
+  website: https://ismir2026.ismir.net/
+  dblp: https://dblp.org/db/conf/ismir/index.html
+notes:
+- Annual flagship conference of the International Society for Music Information Retrieval, held since 2000
+- Rotates worldwide (2022 Bengaluru, 2023 Milan, 2024 San Francisco, 2025 Daejeon, 2026 Abu Dhabi)
+- Open access proceedings published by ISMIR on ismir.net and Zenodo, each paper with a DOI
+- Double-blind review with at least three reviewers and a meta-reviewer; abstract deadline one week before the full
+  paper deadline
+- Interdisciplinary community (signal processing, machine learning, musicology, library science); also has late
+  breaking demos, tutorials, a music program and satellite workshops
+- 2026 is hybrid; every accepted paper needs one registered author who presents in person or online
+- Not listed in ICORE2026 and not in the CCF list
+- Related journal is TISMIR (Transactions of the International Society for Music Information Retrieval)
+editions:
+- year: 2025
+  label: 26th ISMIR
+  start: 2025-09-21
+  end: 2025-09-25
+  location: Daejeon, South Korea
+  url: https://ismir2025.ismir.net/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-21
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-03-28
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-06-06
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-28
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  label: 27th ISMIR
+  start: 2026-11-08
+  end: 2026-11-12
+  location: Abu Dhabi, UAE
+  url: https://ismir2026.ismir.net/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-20
+    tz: AoE
+  - kind: submission
+    date: 2026-04-27
+    tz: AoE
+  - kind: notification
+    date: 2026-07-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-31
+    tz: AoE
+  - kind: other
+    date: 2026-08-10
+    label: Author registration deadline
+sources:
+- https://ismir2026.ismir.net/
+- https://ismir2026.ismir.net/authors/call-for-papers
+- https://ismir2026.ismir.net/registration
+- https://ismir2025.ismir.net/call-for-papers
+- https://ismir.net/conferences/
+- https://ismir.net/ismir-2025/
+- https://portal.core.edu.au/conf-ranks/?search=ISMIR&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Music+Information+Retrieval&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- Acceptance rate (not stated on the official pages checked)
+- ISMIR 2027 dates and location (not announced yet)
+- Whether the 2026 deadlines were extended (the official page lists only the dates above)
+- CCF absence checked via the ccfddl mirror, not on ccf.org.cn directly
+last_verified: 2026-10-04

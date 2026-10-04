@@ -1,0 +1,105 @@
+id: icmr
+name: ICMR
+full_name: ACM International Conference on Multimedia Retrieval
+type: conference
+tier: major
+areas: [data, vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGMM
+organizer_country: [international]
+proceedings: ACM DL (ACM International Conference Proceedings Series)
+archival: true
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: B
+fee: 750 EUR full author registration, ACM member; 850 EUR non-member (2026); one registration covers one paper
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://www.icmr2027.org/
+  dblp: https://dblp.org/db/conf/mir/
+notes:
+- ACM SIGMM conference on multimedia and multimodal search and retrieval, 17th edition in 2027; successor of ACM MIR
+- Rated B in ICORE2026 and B in the CCF list (Computer Graphics and Multimedia)
+- Proceedings in the ACM International Conference Proceedings Series (ACM DL); ACM moved to full open access in 2026, so article processing charges apply unless the institution is in ACM Open
+- Long papers up to 8 pages and short papers up to 4 pages, plus 2 pages of references, ACM sigconf template; no appendices
+- Double-blind review; all authors must serve as reviewers when invited
+- Also has Brave New Ideas, demonstrations, grand challenges, reproducibility papers, doctoral symposium and co-located workshops
+- Rotates worldwide (Amsterdam 2026, Singapore 2027); hybrid attendance offered in 2026, oral presenters expected onsite
+editions:
+- year: 2026
+  start: 2026-06-16
+  end: 2026-06-19
+  location: Amsterdam, Netherlands
+  url: https://icmr2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    label: Regular papers (long and short)
+  - kind: notification
+    date: 2026-04-15
+  - kind: camera_ready
+    date: 2026-04-25
+  - kind: other
+    date: 2026-05-04
+    label: Author registration
+- year: 2027
+  start: 2027-06-07
+  end: 2027-06-10
+  location: Singapore
+  url: https://www.icmr2027.org/
+  deadlines:
+  - kind: other
+    date: 2026-12-15
+    time: "23:59"
+    tz: AoE
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-12-22
+    time: "23:59"
+    tz: AoE
+    label: Reproducibility papers
+  - kind: submission
+    date: 2027-01-31
+    time: "23:59"
+    tz: AoE
+    label: Regular papers (full and short) and Brave New Ideas
+  - kind: submission
+    date: 2027-02-13
+    time: "23:59"
+    tz: AoE
+    label: Demonstrations and challenges
+  - kind: submission
+    date: 2027-03-01
+    time: "23:59"
+    tz: AoE
+    label: Doctoral symposium
+  - kind: notification
+    date: 2027-04-01
+    label: Regular, BNI, demo and doctoral symposium
+  - kind: camera_ready
+    date: 2027-04-10
+    time: "23:59"
+    tz: AoE
+    label: Camera-ready and author registration
+sources:
+- https://icmr2026.org/
+- https://icmr2026.org/calls.html
+- https://icmr2026.org/registration.html
+- https://www.icmr2027.org/
+- https://www.icmr2027.org/date
+- https://www.icmr2027.org/cfc
+- https://www.icmr2027.org/cfw
+- https://portal.core.edu.au/conf-ranks/?search=ICMR&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly (bot check)
+- Locations of editions before 2026 not confirmed on official sites (Thessaloniki 2023, Phuket 2024, Chicago 2025 per aggregators)
+- 2026 deadline time and zone not stated on the call for papers page
+- Acceptance rate not stated on the official sites
+- 2027 registration fees not announced yet
+last_verified: 2026-10-04

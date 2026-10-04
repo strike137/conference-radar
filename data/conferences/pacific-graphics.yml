@@ -1,0 +1,102 @@
+id: pacific-graphics
+name: PG
+full_name: Pacific Conference on Computer Graphics and Applications (Pacific Graphics)
+type: conference
+tier: major
+areas: [vision, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Asia Graphics Association (Asiagraphics), with a rotating local host university
+organizer_country: [international]
+proceedings: Computer Graphics Forum (Wiley, journal track); Eurographics Digital Library (conference papers, posters
+  and demos)
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: Journal Published
+  ccf: B
+fee: About 1,150 SGD standard, 800 SGD student (2026, early, non member)
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10]
+links:
+  website: https://pacificgraphics2026.github.io/
+  dblp: https://dblp.org/db/conf/pg/
+notes:
+- Annual flagship conference of the Asia Graphics Association on computer graphics, geometry, rendering, animation,
+  imaging and visualization
+- Two integrated tracks with one review process; journal track papers appear in a Computer Graphics Forum special
+  issue, conference track papers in the PG proceedings in the Eurographics Digital Library
+- Double blind review with a rebuttal phase and a revision round; abstract registration about one week before the
+  paper deadline
+- Rotates within Asia-Pacific (2022 Kyoto, 2023 Daejeon, 2024 Huangshan, 2025 Taipei, 2026 Singapore)
+- Each accepted paper needs its own standard (non student) registration
+- ICORE2026 lists it as Journal Published; CCF B (computer graphics and multimedia)
+editions:
+- year: 2025
+  start: 2025-10-14
+  end: 2025-10-17
+  location: Taipei, Taiwan
+  url: https://pacificgraphics2025.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-30
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-06-06
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-10-06
+  end: 2026-10-09
+  location: Singapore Management University, Singapore
+  url: https://pacificgraphics2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-01
+    tz: AoE
+  - kind: submission
+    date: 2026-06-08
+    tz: AoE
+  - kind: other
+    date: 2026-07-15
+    tz: AoE
+    label: Poster and demo submission
+  - kind: notification
+    date: 2026-08-04
+    tz: AoE
+    label: First decision (moved from 2026-07-31)
+  - kind: other
+    date: 2026-08-21
+    time: "23:59"
+    tz: AoE
+    label: Final revision (extended from 2026-08-18)
+  - kind: notification
+    date: 2026-08-25
+    tz: AoE
+    label: Final acceptance (moved from 2026-08-21)
+  - kind: camera_ready
+    date: 2026-08-31
+    tz: AoE
+  - kind: other
+    date: 2026-09-15
+    tz: AoE
+    label: Early and author registration
+sources:
+- https://pacificgraphics2026.github.io/
+- https://pacificgraphics2026.github.io/cfp.html
+- https://pacificgraphics2026.github.io/registration.html
+- https://pacificgraphics2026.github.io/history.html
+- https://pacificgraphics2025.github.io/
+- https://diglib.eg.org/handle/10.2312/3607235
+- https://diglib.eg.org/handle/10.2312/3607236
+- https://portal.core.edu.au/conf-ranks/?search=Pacific+Graphics&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF list, not on ccf.org.cn directly
+- PG 2027 dates and host not announced
+- PG 2025 notification and camera ready dates (not listed on the 2025 site)
+- Acceptance rate not stated on the official sites
+last_verified: 2026-10-04

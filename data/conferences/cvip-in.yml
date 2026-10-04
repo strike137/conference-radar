@@ -1,0 +1,70 @@
+id: cvip-in
+name: CVIP
+full_name: International Conference on Computer Vision and Image Processing
+type: conference
+tier: minor
+areas: [vision, ai]
+region: south-asia
+language: english
+frequency: annual
+organizer: CVIP steering committee with a host institute in India (IIT Ropar in 2025), endorsed by IAPR
+organizer_country: [india]
+proceedings: Springer CCIS
+indexing: [Scopus, DBLP, EI]
+fee: INR 10,620 / USD 300 student, INR 12,980 / USD 400 faculty (2025, early bird, non IAPR/IUPRAI member, incl. GST)
+typical:
+  deadline_months: [5, 8]
+  conference_months: [11, 12]
+links:
+  website: https://www.iitrpr.ac.in/cvip2025
+notes:
+- Indian computer vision conference held at a different Indian institute each year (IIT Roorkee, IIITDM Jabalpur, MNIT
+  Jaipur, IIIT Allahabad, IIT Ropar, VNIT Nagpur, IIT Jammu, IIITDM Kancheepuram); 10th edition in 2025
+- Proceedings in Springer CCIS (Communications in Computer and Information Science), indexed in Scopus and EI
+- Two submission rounds per year (May and August in 2025); papers up to 15 pages in Springer format, extra pages charged
+- Not listed in ICORE2026 or in the CCF list; smaller than ICVGIP, the IUPRAI flagship
+- At least one author must register and present for the paper to appear in the proceedings
+editions:
+- year: 2025
+  label: 10th CVIP
+  start: 2025-12-10
+  end: 2025-12-13
+  location: Rupnagar (IIT Ropar), India
+  url: https://www.iitrpr.ac.in/cvip2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-05
+    label: Round 1
+  - kind: notification
+    date: 2025-06-15
+    label: Round 1
+  - kind: camera_ready
+    date: 2025-08-15
+    label: Round 1
+  - kind: submission
+    date: 2025-08-25
+    label: Round 2
+  - kind: notification
+    date: 2025-10-14
+    label: Round 2
+  - kind: other
+    date: 2025-11-06
+    label: Early-bird registration (Round 2)
+  - kind: camera_ready
+    date: 2025-11-08
+    time: "23:59"
+    tz: PST
+    label: Round 2
+sources:
+- https://www.iitrpr.ac.in/cvip2025
+- https://cvip2025.vercel.app/imp-dates
+- https://cvip2025.vercel.app/submissions/call-for-papers
+- https://cvip2025.vercel.app/submissions/camera-ready-submissions
+- https://cvip2025.vercel.app/registrations
+- https://link.springer.com/conference/cvip
+- https://portal.core.edu.au/conf-ranks/?search=CVIP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CVIP 2026 host, dates and deadlines (not announced on an official page yet; the 2025 site links a 2026 bidding form)
+- CVIP 2025 Springer CCIS volumes not yet listed on the Springer conference page
+- Acceptance rate not published
+last_verified: 2026-10-04

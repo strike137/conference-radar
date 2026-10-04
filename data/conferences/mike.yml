@@ -1,0 +1,113 @@
+id: mike
+name: MIKE
+full_name: International Conference on Mining Intelligence and Knowledge Exploration
+type: conference
+tier: minor
+areas: [ai, data, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: MIKE Conference Series with a host institute (IIIT Bhubaneswar in 2026, Amrita Vishwa Vidyapeetham Chennai in 2025)
+organizer_country: [india]
+proceedings: Springer LNAI
+indexing: [DBLP, Scopus]
+fee: INR 10,000 + GST / USD 440 author early bird, INR 12,000 + GST / USD 510 final (2026)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://www.mike.org.in/
+notes:
+- Conference series on machine learning, data and text mining and knowledge discovery, started in 2013 in India
+- 11th edition in 2026; annual until 2019, then 2021, 2023, 2025 and 2026
+- Held mostly in India, with editions in Ireland, Mexico, Romania, Tunisia and Norway
+- Proceedings in Springer LNAI (earlier volumes up to 2023 on SpringerLink; the 2026 call states LNAI again)
+- Double-blind review, papers up to 10 pages in Springer LNCS format, submission via Microsoft CMT
+- Two submission phases with separate notifications
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  label: 10th MIKE
+  start: 2025-12-09
+  end: 2025-12-13
+  location: Chennai (Amrita Vishwa Vidyapeetham), India
+  url: https://www.mike.org.in/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-14
+    time: "23:59"
+    tz: AoE
+    label: Optional
+  - kind: submission
+    date: 2025-09-21
+    time: "23:59"
+    tz: AoE
+    label: Phase 1
+  - kind: camera_ready
+    date: 2025-11-10
+    time: "23:59"
+    tz: AoE
+    label: Phase 1, with registration
+  - kind: submission
+    date: 2025-11-07
+    time: "23:59"
+    tz: AoE
+    label: Phase 2 (extended from 2025-10-31)
+  - kind: notification
+    date: 2025-11-30
+    label: All submissions
+  - kind: camera_ready
+    date: 2025-12-07
+    label: Phase 2, with registration
+- year: 2026
+  label: 11th MIKE
+  start: 2026-12-08
+  end: 2026-12-12
+  location: Bhubaneswar (IIIT Bhubaneswar), India
+  url: https://www.mike.org.in/2026/
+  status: confirmed
+  deadlines:
+  - kind: other
+    date: 2026-10-09
+    time: "23:59"
+    label: Workshop and tutorial proposals
+  - kind: submission
+    date: 2026-09-24
+    time: "23:59"
+    label: Phase 1
+  - kind: submission
+    date: 2026-10-09
+    time: "23:59"
+    label: Phase 2 (extended)
+  - kind: notification
+    date: 2026-10-24
+    time: "23:59"
+    label: Phase 1
+  - kind: notification
+    date: 2026-10-31
+    time: "23:59"
+    label: Phase 2
+  - kind: camera_ready
+    date: 2026-11-03
+    time: "23:59"
+    label: Early bird camera ready and registration
+  - kind: camera_ready
+    date: 2026-11-09
+    time: "23:59"
+    label: Final camera ready and registration
+sources:
+- https://www.mike.org.in/2026/
+- https://www.mike.org.in/2026/html/dates.html
+- https://www.mike.org.in/2026/html/calls.html
+- https://www.mike.org.in/2026/html/register.html
+- https://www.mike.org.in/2026/html/overview.html
+- https://www.mike.org.in/2025/html/dates.html
+- https://www.mike.org.in/2025/html/calls.html
+- https://link.springer.com/conference/mike
+- https://link.springer.com/book/10.1007/978-3-031-44084-7
+- https://portal.core.edu.au/conf-ranks/?search=MIKE&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 2026 deadline time zone (site says 11:59pm without a zone; 2025 used AoE)
+- MIKE 2025 proceedings volume not yet visible on the Springer series page
+- MIKE 2027 or later editions (not announced yet)
+last_verified: 2026-10-04

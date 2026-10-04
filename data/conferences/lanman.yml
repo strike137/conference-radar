@@ -1,0 +1,87 @@
+id: lanman
+name: IEEE LANMAN
+full_name: IEEE International Symposium on Local and Metropolitan Area Networks
+type: conference
+tier: minor
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Communications Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [DBLP]
+rank:
+  core: C
+fee: 750 USD IEEE society member, 780 USD IEEE member, 930 USD non-member (2026, author full registration)
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6, 7]
+links:
+  website: https://lanman2026.ieee-lanman.org/
+  dblp: https://dblp.org/db/conf/lanman/index.html
+notes:
+- Small single-track IEEE ComSoc symposium on local and metropolitan area networking; 2026 had 22 papers in four
+  technical sessions over two days
+- Each edition has a central theme; 2026 theme was integrated networking, sensing and communications for
+  next-generation wireless networks
+- Papers in IEEE Xplore; 6-page regular papers and 4-page short papers, up to 2 extra pages at 100 USD each
+- Also has tutorials (earlier deadline) and posters, demos, PhD forum and an industry session (later deadlines)
+- Rotates between North America and Europe (2023 London, 2024 Boston, 2025 Lille, 2026 Tempe); 2020 to 2022 were
+  virtual
+- ICORE2026 lists it as IEEE LAN/MAN Workshop, rank C
+editions:
+- year: 2025
+  start: 2025-07-07
+  end: 2025-07-08
+  location: Lille, France
+  url: https://lanman2025.ieee-lanman.org/
+  deadlines:
+  - kind: submission
+    date: 2025-04-12
+    time: "23:59"
+    tz: EDT
+    label: Technical papers (extended from 2025-04-04)
+  - kind: notification
+    date: 2025-05-04
+  - kind: camera_ready
+    date: 2025-05-30
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-16
+  location: Tempe, Arizona, USA
+  url: https://lanman2026.ieee-lanman.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-31
+    label: Technical papers (firm deadline)
+  - kind: notification
+    date: 2026-04-30
+    label: Technical papers
+  - kind: camera_ready
+    date: 2026-05-25
+  - kind: other
+    date: 2026-03-15
+    label: Tutorial proposals
+  - kind: other
+    date: 2026-05-01
+    label: Posters, demos, PhD forum
+  - kind: other
+    date: 2026-05-05
+    label: Industry session papers
+sources:
+- https://lanman2026.ieee-lanman.org/
+- https://lanman2026.ieee-lanman.org/authors
+- https://lanman2026.ieee-lanman.org/call-papers
+- https://lanman2026.ieee-lanman.org/submission-guidelines
+- https://lanman2026.ieee-lanman.org/registration
+- https://lanman2026.ieee-lanman.org/program
+- https://lanman2026.ieee-lanman.org/about-us
+- https://lanman2025.ieee-lanman.org/
+- https://portal.core.edu.au/conf-ranks/?search=LANMAN&by=all&source=ICORE2026
+unverified:
+- LANMAN 2027 dates and location (not announced yet)
+- Acceptance rate not found
+- Whether the 2026 deadline was extended (shown as firm deadline)
+- CCF 2026 list could not be fetched (site blocked automated access), so rank.ccf is left out
+last_verified: 2026-10-04

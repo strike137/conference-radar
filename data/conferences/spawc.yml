@@ -1,0 +1,92 @@
+id: spawc
+name: IEEE SPAWC
+full_name: IEEE International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications
+type: conference
+tier: major
+areas: [communications, ai]
+region: europe
+language: english
+frequency: annual
+organizer: IEEE Signal Processing Society, Signal Processing for Wireless Communications and Networking Technical
+  Committee (SPCOM-TC)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+fee: 'Author registration 590 USD IEEE SPS member, 680 USD IEEE member, 815 USD non-member, plus 24% VAT (2026)'
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7, 9]
+links:
+  website: https://2026.ieeespawc.org/
+notes:
+- Flagship workshop of the IEEE SPS SPCOM Technical Committee; not listed in ICORE2026 or the CCF list but well regarded
+  in signal processing for wireless communications
+- Renamed from Signal Processing Advances in Wireless Communications to Signal Processing and Artificial Intelligence
+  for Wireless Communications from the 2025 edition
+- Proceedings in IEEE Xplore (EI indexed); 5-page papers including references, submitted via Microsoft CMT
+- Mostly held in Europe (Lucca 2021 and 2024, Oulu 2022, Surrey 2025, Athens 2026); Shanghai hosted 2023 and Sapporo
+  2017
+- Paper deadline usually extended by about two weeks; in-person presentation required; one author registration covers
+  up to four papers
+editions:
+- year: 2025
+  label: 26th SPAWC
+  start: 2025-07-07
+  end: 2025-07-10
+  location: Surrey, United Kingdom
+  url: https://2025.ieeespawc.org/
+  deadlines:
+  - kind: submission
+    date: 2025-04-13
+    time: "23:59"
+    tz: UTC+1
+    label: Papers (extended from 2025-03-31)
+  - kind: notification
+    date: 2025-05-25
+    time: "23:59"
+    tz: UTC+1
+    label: Extended from 2025-05-01
+  - kind: camera_ready
+    date: 2025-06-08
+    time: "23:59"
+    tz: UTC+1
+    label: Extended from 2025-05-15
+  - kind: other
+    date: 2025-06-15
+    time: "23:59"
+    tz: UTC+1
+    label: Author registration
+- year: 2026
+  label: 27th SPAWC
+  start: 2026-09-06
+  end: 2026-09-09
+  location: Athens, Greece
+  url: https://2026.ieeespawc.org/
+  deadlines:
+  - kind: other
+    date: 2026-02-28
+    label: Special session proposals (extended from 2026-02-21)
+  - kind: submission
+    date: 2026-04-05
+    label: Papers (extended from 2026-03-22)
+  - kind: notification
+    date: 2026-06-14
+  - kind: camera_ready
+    date: 2026-07-28
+    label: Camera ready and author registration
+sources:
+- https://2026.ieeespawc.org/
+- https://2026.ieeespawc.org/call-for-papers/
+- https://2026.ieeespawc.org/submission/
+- https://2026.ieeespawc.org/registration/
+- https://2025.ieeespawc.org/
+- https://api.crossref.org/works?query.bibliographic=Signal+Processing+Wireless+Communications+SPAWC&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=SPAWC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- SPAWC 2027 host and dates (not announced yet)
+- Acceptance rate
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF (not listed), not on ccf.org.cn directly
+- Past edition locations taken from IEEE Xplore proceedings metadata via Crossref (older official sites are gone)
+last_verified: 2026-10-04

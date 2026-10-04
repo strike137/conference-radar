@@ -1,0 +1,75 @@
+id: wdc
+name: WDC
+full_name: ACM Workshop on Security Implications of Deepfakes and Cheapfakes
+type: workshop
+tier: minor
+areas: [security, ai, vision]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: General chair Simon S. Woo (Sungkyunkwan University, Korea); general co-chair and program co-chairs Shahroz
+  Tariq, Kristen Moore and Sharif Abuadbba (CSIRO Data61, Australia); co-located with ACM AsiaCCS
+organizer_country: [korea, australia]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [12, 1, 2, 4]
+  conference_months: [6, 7, 8]
+links:
+  website: https://sites.google.com/view/wdc-2026/
+notes:
+- Co-located with ACM AsiaCCS since 2022 (Nagasaki 2022, Melbourne 2023, Singapore 2024, Hanoi 2025, Bangalore 2026),
+  so the location follows AsiaCCS
+- Own proceedings volume in the ACM Digital Library each year, sponsored by ACM SIGSAC
+- Double-blind; full papers up to 8 pages plus 2 appendix pages, short papers 6 pages, 2-4 page discussion and demo
+  papers, 1-2 page vision and poster papers; ACM sigconf format, submitted via EasyChair
+- Two submission rounds per year, and deadlines are usually extended
+- One regular (non-student) AsiaCCS registration is required per paper
+- Small program; 6 papers in 2 sessions plus 2 keynotes in 2026
+- Same organizing team as the 3D-Sec workshop at ACM CCS
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-02
+  end: 2026-06-02
+  location: Bangalore, India
+  url: https://sites.google.com/view/wdc-2026/
+  deadlines:
+  - kind: submission
+    date: 2025-12-13
+    tz: AoE
+    label: Round 1 (extended from 2025-11-29)
+  - kind: submission
+    date: 2026-02-10
+    tz: AoE
+    label: Round 2 (extended from 2026-01-20)
+  - kind: notification
+    date: 2026-03-16
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-04-01
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sites.google.com/view/wdc-2026/
+- https://sites.google.com/view/wdc-2026/submission
+- https://sites.google.com/view/wdc-2026/organizers
+- https://sites.google.com/view/wdc-2026/program
+- https://sites.google.com/view/wdc-2026/visa-information
+- https://sites.google.com/view/wdc-2025/submission
+- https://asiaccs2026.cse.iitkgp.ac.in/workshops/
+- https://asiaccs2026.cse.iitkgp.ac.in/program-at-a-glance/
+- https://doi.org/10.1145/3803629
+- https://api.crossref.org/works/10.1145/3803629
+- https://api.crossref.org/works/10.1145/3709022
+- https://api.crossref.org/works/10.1145/3660354
+- https://api.crossref.org/works/10.1145/3595353
+- https://api.crossref.org/works/10.1145/3494109
+- https://portal.core.edu.au/conf-ranks/?search=WDC&by=all&source=ICORE2026
+last_verified: 2026-10-04
+unverified:
+- Round 1 notification date for 2026 is shown as "January 11, 2025" on the official page (an obvious typo), so it is
+  left out
+- 'WDC 2027 is announced on the 2026 site ("See you next year at WDC 27"), but its site (sites.google.com/view/wdc-2027/)
+  is not public yet as of 2026-10-04, so no dates'
+- Acceptance rate and number of submissions not published

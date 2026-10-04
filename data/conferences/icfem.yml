@@ -1,0 +1,87 @@
+id: icfem
+name: ICFEM
+full_name: International Conference on Formal Engineering Methods
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICFEM Steering Committee (chair at East China Normal University)
+organizer_country: [international]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  core: C
+  ccf: C
+typical:
+  deadline_months: [6]
+  conference_months: [11]
+links:
+  website: https://icfem2026.github.io/
+  dblp: https://dblp.org/db/conf/icfem/
+notes:
+- Formal methods and software engineering conference series running since 1997, with an international steering committee
+- Proceedings in Springer LNCS (ICFEM 2025 -> LNCS 16229); full papers up to 16 pages in LNCS format, excluding references and appendix
+- Single-blind review by at least three reviewers; selected papers invited to a Formal Aspects of Computing special issue
+- 'Recent hosts: Madrid (2022), Brisbane (2023), Hiroshima (2024), Hangzhou (2025), Southampton (2026)'
+- Deadlines were extended by about two weeks in both 2025 and 2026
+- Co-located workshops (FMAS in 2026); CORE C, CCF C
+editions:
+- year: 2025
+  start: 2025-11-10
+  end: 2025-11-13
+  location: Hangzhou, China
+  url: https://icfem2025.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-11
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-05-25
+  - kind: submission
+    date: 2025-06-15
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-06-01
+  - kind: notification
+    date: 2025-08-01
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-30
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-08-20
+- year: 2026
+  start: 2026-11-17
+  end: 2026-11-20
+  location: Southampton, UK
+  url: https://icfem2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-22
+    time: "23:59"
+    tz: AoE
+    label: Full paper with abstract (extended from 2026-06-08)
+  - kind: notification
+    date: 2026-08-08
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-07
+    time: "23:59"
+    tz: AoE
+sources:
+- https://icfem2026.github.io/
+- https://icfem2025.github.io/
+- https://link.springer.com/book/10.1007/978-981-95-4213-0
+- https://portal.core.edu.au/conf-ranks/?search=ICFEM&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- Acceptance rate not stated on the official site (removed)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- ICFEM 2027 not announced yet
+- Registration fee for 2026 not stated on the official site
+- Indexing (DBLP, Scopus) inferred from the LNCS series, not stated on the official site
+last_verified: 2026-10-04

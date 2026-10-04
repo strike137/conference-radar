@@ -1,0 +1,81 @@
+id: nossdav
+name: ACM NOSSDAV
+full_name: ACM Workshop on Network and Operating System Support for Digital Audio and Video
+type: workshop
+tier: major
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM NOSSDAV Steering Committee, co-located with ACM MMSys
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [1]
+  conference_months: [4]
+links:
+  website: https://nossdav.org/
+  dblp: https://dblp.org/db/conf/nossdav/
+notes:
+- Long-running multimedia systems workshop (36th edition in 2026), held annually as a one-day single-track workshop co-located with ACM MMSys
+- Rated B in ICORE2026 and B in the CCF list (computer networks)
+- Proceedings published in the ACM Digital Library
+- Short papers up to 6 pages plus 1 page of references, ACM sigconf double-column template, double-blind review on HotCRP
+- Favors high-risk, high-return and exciting-even-if-incomplete ideas on streaming, immersive media, real-time communication and AI for multimedia
+- Deadline in January, after the MMSys research track rounds; same deadlines as the other MMSys workshop, demo and open source tracks
+- Rotates worldwide with MMSys (Athlone 2022, Vancouver 2023, Bari 2024, Stellenbosch 2025, Hong Kong 2026, Ghent 2027)
+editions:
+- year: 2026
+  start: 2026-04-08
+  end: 2026-04-08
+  location: Hong Kong SAR, China
+  url: https://nossdav.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-16
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-01-16
+  - kind: notification
+    date: 2026-02-13
+  - kind: camera_ready
+    date: 2026-02-20
+- year: 2027
+  start: 2027-04-02
+  end: 2027-04-02
+  location: Ghent, Belgium
+  url: https://nossdav.org/2027/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-01-11
+    tz: AoE
+  - kind: notification
+    date: 2027-02-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-02-19
+    tz: AoE
+sources:
+- https://nossdav.org/
+- https://nossdav.org/2026/
+- https://nossdav.org/2027/
+- https://2026.acmmmsys.org/
+- https://2026.acmmmsys.org/schedule
+- https://2027.acmmmsys.org/
+- https://2027.acmmmsys.org/deadlines.html
+- https://portal.core.edu.au/conf-ranks/?search=NOSSDAV&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- "NOSSDAV 2026 date: the 2026 page title says April 4 but its text and the MMSys 2026 schedule say Wednesday April 8, 2026; April 8 used"
+- Deadline times not stated (only AoE)
+- Acceptance rate and registration fee not stated on the official pages
+- NOSSDAV 2026 proceedings volume in the ACM DL not checked directly
+- CCF rank checked via the ccfddl and CCFrank4dblp mirrors, not on ccf.org.cn directly
+last_verified: 2026-10-04

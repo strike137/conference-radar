@@ -1,0 +1,88 @@
+id: icca-bd
+name: ICCA
+full_name: International Conference on Computing Advancements
+type: conference
+tier: minor
+areas: [general, ai, data, networking, security, software]
+region: south-asia
+language: english
+frequency: biennial
+organizer: Department of Computer Science, Faculty of Science and Technology, American International University-Bangladesh
+  (AIUB); in cooperation with ACM SIGAPP
+organizer_country: [other]
+proceedings: ACM DL (ACM ICPS)
+indexing: [Scopus]
+fee: 100 USD academic/industry, 75 USD student or ACM/SIGAPP member (2026, early); 125 / 90 USD late; paid in BDT
+  plus a 3.5% handling fee
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10]
+links:
+  website: https://icca.aiub.edu/
+notes:
+- Run by the Department of Computer Science at AIUB; held every two years on the AIUB campus in Dhaka, Bangladesh (2020,
+  2022, 2024, 2026)
+- Proceedings in the ACM Digital Library (ACM ICPS); 2024 edition in cooperation with ACM SIGAPP; the site says most
+  earlier ICCA papers are indexed in Scopus
+- Extended versions of selected papers go to a special issue of the AIUB Journal of Science and Engineering (AJSE)
+- Broad computer science scope in eight tracks, from AI and data science to networking, security, software engineering
+  and HCI
+- Low registration fees; one author registration required per paper, with 50% off for additional papers by the same
+  author
+- Deadlines are usually extended (2024 deadline moved from 2024-05-15 to 2024-05-25, 2026 from 2026-05-15 to 2026-06-06)
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list; not to be confused with other venues using the ICCA acronym
+editions:
+- year: 2024
+  label: 3rd ICCA
+  start: 2024-10-17
+  end: 2024-10-18
+  location: Dhaka, Bangladesh
+  url: https://icca.aiub.edu/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-05-25
+    label: Extended from 2024-05-15
+  - kind: notification
+    date: 2024-07-31
+    label: Extended from 2024-07-15
+  - kind: camera_ready
+    date: 2024-08-14
+    label: Extended from 2024-07-30
+- year: 2026
+  label: 4th ICCA, AIUB campus
+  start: 2026-10-15
+  end: 2026-10-16
+  location: Dhaka, Bangladesh
+  url: https://icca.aiub.edu/
+  deadlines:
+  - kind: submission
+    date: 2026-06-06
+    label: Final deadline (extended from 2026-05-15)
+  - kind: notification
+    date: 2026-08-05
+  - kind: camera_ready
+    date: 2026-08-20
+  - kind: other
+    date: 2026-09-07
+    label: Early registration deadline
+  - kind: other
+    date: 2026-09-22
+    time: "23:59"
+    tz: UTC+6
+    label: Author registration deadline
+sources:
+- https://icca.aiub.edu/
+- https://icca.aiub.edu/authorregistration.php
+- https://icca.aiub.edu/2024/
+- https://icca.aiub.edu/2022/
+- https://doi.org/10.1145/3723178
+- https://doi.org/10.1145/3542954
+- https://doi.org/10.1145/3377049
+- https://portal.core.edu.au/conf-ranks/?search=ICCA&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Computing+Advancements&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not published
+- DBLP coverage not checked (DBLP blocked automated access); Scopus indexing per the official site only
+- 2024 submission deadline time zone (the site said Pacific Time next to the original date only)
+- ICCA 2028 not announced yet
+last_verified: 2026-10-04

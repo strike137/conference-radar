@@ -1,0 +1,71 @@
+id: wosoc
+name: WOSOC
+full_name: Workshop on SOC Operations and Construction
+type: workshop
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: Steering committee of SOC researchers and operators (USC-ISI, University of Kansas, University of Tulsa,
+  University of South Florida, Walmart, Deloitte), co-located with the NDSS Symposium (Internet Society)
+organizer_country: [usa]
+proceedings: NDSS (Internet Society)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [2]
+links:
+  website: https://www.ndss-symposium.org/ndss2026/co-located-events/wosoc/
+notes:
+- Half-day to one-day workshop co-located with the NDSS Symposium in San Diego (Feb 23, 2026; Feb 24, 2025; Mar 1, 2024; Feb
+  27, 2023)
+- Forum for academic researchers and Security Operations Center (SOC) operators; two tracks, short research papers
+  and operator talk proposals
+- 'Topics: SOC design and workflow, alert triage, incident response case studies, threat hunting, automation and
+  agentic AI in the SOC, human factors and burnout'
+- Short papers of 4 to 8 pages excluding references, NDSS template; talk proposals are a one-paragraph abstract plus
+  outline and bio
+- Papers and talk abstracts published in the NDSS proceedings with ISBN and DOIs (10.14722/wosoc.YYYY.*); talks are
+  not recorded and the workshop follows the Chatham House Rule
+- 10 accepted papers and talks listed for 2026, several from industry (Walmart, Panasonic)
+- NDSS 2027 moves to Seoul, Korea (March 22 to 26, 2027); a WOSOC 2027 edition there is not announced yet
+editions:
+- year: 2026
+  start: 2026-02-23
+  end: 2026-02-23
+  location: San Diego, USA
+  url: https://www.ndss-symposium.org/ndss2026/co-located-events/wosoc/
+  deadlines:
+  - kind: submission
+    date: 2025-12-22
+    tz: AoE
+    label: Talk proposals
+  - kind: submission
+    date: 2025-12-29
+    tz: AoE
+    label: Short papers (extended from 2025-12-22)
+  - kind: notification
+    date: 2026-01-09
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-30
+    tz: AoE
+sources:
+- https://www.ndss-symposium.org/ndss2026/co-located-events/wosoc/
+- https://www.ndss-symposium.org/ndss2026/submissions/cfp-wosoc/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/wosoc/accepted-papers/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/wosoc/leadership/
+- https://www.ndss-symposium.org/ndss-program/wosoc-2026/
+- https://www.ndss-symposium.org/wp-content/uploads/wosoc26-13.pdf
+- https://www.ndss-symposium.org/ndss2025/co-located-events/wosoc/
+- https://www.ndss-symposium.org/ndss2025/submissions/cfp-wosoc/
+- https://www.ndss-symposium.org/ndss2024/submissions/cfp-wosoc/
+- https://www.ndss-symposium.org/ndss2023/program/
+- https://www.ndss-symposium.org/ndss2027/
+- https://portal.core.edu.au/conf-ranks/?search=WOSOC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- WOSOC 2027 not announced (NDSS 2027 in Seoul; co-located workshop call was open as of Oct 2026)
+- Not found in the ICORE2026 portal (0 results for WOSOC); not in the CCF list
+- Acceptance rate, registration fee and DBLP indexing not confirmed from an official page
+last_verified: 2026-10-04

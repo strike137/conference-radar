@@ -1,0 +1,67 @@
+id: iccais
+name: ICCAIS
+full_name: International Conference on Control, Automation and Information Sciences
+type: conference
+tier: minor
+areas: [ai, general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: National Institute of Applied Mechanics and Informatics (AMI), Vietnam Academy of Science and Technology; partner host institution varies
+organizer_country: [vietnam]
+proceedings: IEEE Xplore
+indexing: [Scopus, EI]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [9]
+  conference_months: [10, 11]
+links:
+  website: https://ami.gov.vn/2024iccais/
+notes:
+- Series started in 2012 in Ho Chi Minh City by AMI (National Institute of Applied Mechanics and Informatics, Vietnam)
+- Proceedings in IEEE Xplore, indexed by Scopus and EI Compendex; standard IEEE double-column template, submission via EDAS
+- Often held in Vietnam, otherwise in China, Korea or Thailand (2021 Xi'an, 2022 and 2023 Hanoi, 2024 Ho Chi Minh City, 2025 Jeju hosted by Korea Aerospace University)
+- Topics span control, automation, signal processing, target tracking and information sciences
+- Not in the ICORE2026 ranking; not the Saudi ICCAIS (Computer Applications and Information Security), a different venue
+- Paper deadline is usually extended (2024 page lists a final extension); deadlines are stated in GMT-4 (New York EDT)
+editions:
+- year: 2024
+  start: 2024-11-26
+  end: 2024-11-28
+  location: Ho Chi Minh City, Vietnam
+  url: https://ami.gov.vn/2024iccais/
+  deadlines:
+  - kind: other
+    date: 2024-07-30
+    tz: EDT
+    label: Special session proposal
+  - kind: submission
+    date: 2024-09-15
+    tz: EDT
+    label: Paper submission (final extension)
+  - kind: notification
+    date: 2024-10-03
+    tz: EDT
+  - kind: camera_ready
+    date: 2024-10-20
+    tz: EDT
+- year: 2025
+  start: 2025-10-27
+  end: 2025-10-29
+  location: Jeju, South Korea
+  url: https://ami.gov.vn/2024iccais/
+sources:
+- https://ami.gov.vn/2024iccais/
+- https://ami.gov.vn/2024iccais_committee
+- https://ieeexplore.ieee.org/xpl/conhome/1802677/all-proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/10813991/proceeding
+- https://api.crossref.org/works/10.1109/iccais67508.2025
+- https://api.crossref.org/works/10.1109/iccais63750.2024
+- https://portal.core.edu.au/conf-ranks/?search=ICCAIS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ICCAIS 2025 deadlines (2025 official site not reachable; dates and venue from the AMI 2024 page and IEEE/Crossref metadata)
+- ICCAIS 2026 dates and location (not announced on any reachable official page; former site theiccais.org has lapsed)
+- Original (pre-extension) 2024 submission deadline
+- Acceptance rate and registration fee
+last_verified: 2026-10-04

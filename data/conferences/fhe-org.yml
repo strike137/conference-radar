@@ -1,0 +1,68 @@
+id: fhe-org
+name: FHE.org Conference
+full_name: FHE.org Conference on Fully Homomorphic Encryption
+type: conference
+tier: minor
+areas: [crypto, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: FHE.org community, in cooperation with IACR (ICW-IACR)
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [3, 4]
+links:
+  website: https://fhe.org/conferences/
+notes:
+- One-day annual conference run by the FHE.org community of FHE researchers and developers, held in cooperation with IACR
+- Co-located with Real World Crypto since 2023 (affiliated with Eurocrypt in 2022); location follows RWC (2023 Tokyo,
+  2024 Toronto, 2025 Sofia, 2026 Taipei, 2027 Seattle)
+- No published proceedings; talks and posters may also appear at other venues, and accepted abstracts can link a preprint
+- Submissions are 2 to 4 page extended abstracts proposing a talk or poster, single-blind review via EasyChair
+- 2026 received 55 submissions and accepted 10 talks and 23 posters; 2025 received 56 submissions
+- Students could apply for free registration in 2025 by emailing from an academic address
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-03-08
+  end: 2026-03-08
+  location: Taipei, Taiwan
+  url: https://fhe.org/conferences/conference-2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-01
+    time: "23:58"
+    tz: AoE
+  - kind: notification
+    date: 2025-12-19
+- year: 2027
+  start: 2027-04-04
+  end: 2027-04-04
+  location: Seattle, USA
+  url: https://fhe.org/conferences/conference-2027/
+  deadlines:
+  - kind: submission
+    date: 2026-11-01
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-12-18
+sources:
+- https://fhe.org/conferences/
+- https://fhe.org/conferences/conference-2027/
+- https://fhe.org/conferences/conference-2027/call-for-presentations
+- https://fhe.org/conferences/conference-2026/
+- https://fhe.org/conferences/conference-2026/call-for-presentations
+- https://fhe.org/conferences/conference-2025/
+- https://fhe.org/conferences/conference-2024/
+- https://fhe.org/conferences/conference-2023/
+- https://fhe.org/conferences/conference-2022/
+- https://portal.core.edu.au/conf-ranks/?search=FHE&by=all&source=ICORE2026
+unverified:
+- 2026 submission time is 23:58 AoE on the call for presentations but 23:59 AoE on the conference home page
+- Registration fees not stated on the conference pages checked
+- CCF 2026 listing not checked; the venue is not expected to be listed and rank.ccf is left out
+last_verified: 2026-10-04

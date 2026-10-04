@@ -1,0 +1,94 @@
+id: mobisys
+name: MobiSys
+full_name: ACM International Conference on Mobile Systems, Applications, and Services
+type: conference
+tier: major
+areas: [systems, networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGMOBILE
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: A
+  ccf: B
+fee: 850 GBP ACM/SIGMOBILE member early, 400 GBP ACM student member early (2026, full pass)
+typical:
+  deadline_months: [11, 12]
+  conference_months: [6]
+links:
+  website: https://www.sigmobile.org/mobisys/2026/
+  dblp: https://dblp.org/db/conf/mobisys/
+notes:
+- Sponsored by ACM SIGMOBILE; one of the main venues for mobile and wireless systems research alongside MobiCom
+- Papers published in the ACM Digital Library; ACM Open APC applies to authors outside ACM Open institutions
+- One submission cycle with abstract registration in late November and full paper in early December (AoE),
+  early rejection round and rebuttal
+- Values working implementations and practical evaluation; artifact evaluation, posters, demos and workshops
+  attached
+- Location rotates worldwide (Helsinki 2023, Tokyo 2024, Anaheim 2025, Cambridge UK 2026, Ho Chi Minh City 2027)
+- Each accepted full paper needed a unique non-student full pass registration (2026)
+editions:
+- year: 2026
+  start: 2026-06-21
+  end: 2026-06-25
+  location: Cambridge, UK
+  url: https://www.sigmobile.org/mobisys/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-28
+    time: '23:59'
+    tz: AoE
+  - kind: submission
+    date: 2025-12-05
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-01-26
+    label: Early rejection notification
+  - kind: notification
+    date: 2026-03-02
+  - kind: camera_ready
+    date: 2026-04-13
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-25
+  location: Ho Chi Minh City, Vietnam
+  url: https://www.sigmobile.org/mobisys/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-27
+    time: '23:59'
+    tz: AoE
+  - kind: submission
+    date: 2026-12-04
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2027-01-26
+    label: Early rejection notification
+  - kind: notification
+    date: 2027-03-06
+  - kind: camera_ready
+    date: 2027-04-14
+sources:
+- https://www.sigmobile.org/mobisys/2027/
+- https://www.sigmobile.org/mobisys/2027/call_for_papers/
+- https://www.sigmobile.org/mobisys/2026/
+- https://www.sigmobile.org/mobisys/2026/call_for_papers/
+- https://www.sigmobile.org/mobisys/2026/registration/
+- https://www.sigmobile.org/mobisys/2026/camera_ready/
+- https://www.sigmobile.org/mobisys/2025/
+- https://www.sigmobile.org/mobisys/2024/
+- https://www.sigmobile.org/mobisys/2023/
+- https://portal.core.edu.au/conf-ranks/?search=MobiSys&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- CCF B taken from CCF list mirrors; the official CCF site was behind a captcha and could not be checked
+- Acceptance rate (not stated on the official site)
+- MobiSys 2027 registration fees (not announced yet)
+last_verified: 2026-10-04

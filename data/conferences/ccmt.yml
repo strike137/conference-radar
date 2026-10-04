@@ -1,0 +1,74 @@
+id: ccmt
+name: CCMT
+full_name: China Conference on Machine Translation and Multilingual Technology
+name_local: 全国机器翻译与多语言信息处理大会
+type: conference
+tier: domestic
+areas: [nlp]
+region: china
+language: mixed
+frequency: annual
+organizer: CIPS (Chinese Information Processing Society of China), Technical Committee on Machine Translation and
+  Multilingual Information Processing; 2026 hosted by Kunming University of Science and Technology
+organizer_country: [china]
+proceedings: None (accepted papers are recommended to journals such as MIR, JCST and Journal of Chinese Information
+  Processing for separate review)
+archival: false
+fee: 2100 CNY main conference, early registration, CIPS professional member; 1800 CNY student member (2025)
+typical:
+  deadline_months: [8, 9]
+  conference_months: [9, 10, 11]
+links:
+  website: http://sc.cipsc.org.cn/mt/conference/2026/
+notes:
+- National annual machine translation conference in China run by CIPS since 2005; formerly CWMT (China Workshop on
+  Machine Translation, editions 1 to 14), then China Conference on Machine Translation (editions 15 to 20)
+- Accepts Chinese and English papers; long papers up to 12 pages, short papers up to 6; double-blind review via
+  OpenReview; English papers use the ARR format
+- No conference proceedings; accepted English papers are recommended to MIR, JCST or Large Language Model, Chinese
+  papers to domestic journals, each after separate journal review
+- Parallel submission allowed when the other venue permits it
+- Also runs machine translation evaluation campaigns (shared tasks) and tutorials; location changes each year within
+  China
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-26
+  end: 2025-09-28
+  location: Lanzhou, China
+  url: http://sc.cipsc.org.cn/mt/conference/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-07
+    label: Extended from 2025-08-01
+  - kind: notification
+    date: 2025-09-01
+  - kind: camera_ready
+    date: 2025-09-10
+- year: 2026
+  start: 2026-11-13
+  end: 2026-11-15
+  location: Kunming, China
+  url: http://sc.cipsc.org.cn/mt/conference/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-13
+    label: Extended from 2026-09-06
+  - kind: notification
+    date: 2026-10-19
+  - kind: camera_ready
+    date: 2026-10-28
+sources:
+- http://sc.cipsc.org.cn/mt/conference/2026/
+- http://sc.cipsc.org.cn/mt/conference/2026/docs/call-for-papers
+- http://sc.cipsc.org.cn/mt/conference/2026/en/docs/call-for-papers
+- http://sc.cipsc.org.cn/mt/conference/2025/
+- http://sc.cipsc.org.cn/mt/conference/2025/docs/call-for-papers
+- http://sc.cipsc.org.cn/mt/conference/2025/docs/registration
+- https://portal.core.edu.au/conf-ranks/?search=CCMT&by=all&source=ICORE2026
+unverified:
+- Acceptance rate
+- CCMT 2026 registration details (page says to be updated)
+- CCMT 2027 location and dates
+- CCF 2026 list not checked directly (CCMT not expected to be listed)
+last_verified: 2026-10-04

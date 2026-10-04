@@ -1,0 +1,106 @@
+id: itw
+name: IEEE ITW
+full_name: IEEE Information Theory Workshop
+type: conference
+tier: major
+areas: [communications, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Information Theory Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [4, 5, 10]
+  conference_months: [4, 10, 11]
+links:
+  website: https://2026.ieee-itw.org/
+notes:
+- Workshop of the IEEE Information Theory Society, the smaller companion to ISIT; plenary talks, themed sessions
+  and contributed papers
+- Full papers of up to 5 pages plus a page of references, submitted via EDAS; accepted and presented papers go to
+  IEEE Xplore
+- In person only; papers not presented by an author are left out of the proceedings and IEEE Xplore
+- Rotates worldwide (Sydney 2025, Tempe 2026, Munich 2027); timing varies, so the 2027 edition in April follows
+  the 2026 edition in November
+- Topics include coding theory, communications theory, information-theoretic security, ML theory, network
+  information theory and quantum information and coding
+- First student paper award introduced in 2026
+editions:
+- year: 2025
+  start: 2025-09-29
+  end: 2025-10-03
+  location: Sydney, Australia
+  url: https://www.ieee-itw2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-04-21
+    tz: AoE
+    label: Full papers (extended from 2025-04-18)
+  - kind: notification
+    date: 2025-06-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-25
+    tz: AoE
+  - kind: other
+    date: 2025-07-25
+    label: Early registration
+- year: 2026
+  start: 2026-11-10
+  end: 2026-11-13
+  location: Tempe, Arizona, USA
+  url: https://2026.ieee-itw.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-10
+    label: Full papers (extended from 2026-05-03)
+  - kind: notification
+    date: 2026-07-20
+    label: Postponed from 2026-07-03
+  - kind: camera_ready
+    date: 2026-08-31
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-08-31
+    label: Early registration and registration deadline
+- year: 2027
+  start: 2027-04-05
+  end: 2027-04-08
+  location: Munich, Germany
+  url: https://2027.ieee-itw.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-11
+    time: '23:59'
+    tz: AoE
+    label: Full papers (extended)
+  - kind: notification
+    date: 2026-12-15
+  - kind: camera_ready
+    date: 2027-01-15
+    time: '23:59'
+    tz: AoE
+sources:
+- https://2027.ieee-itw.org/
+- https://2027.ieee-itw.org/call-papers
+- https://2027.ieee-itw.org/information-authors-0
+- https://2026.ieee-itw.org/
+- https://2026.ieee-itw.org/call-papers
+- https://2026.ieee-itw.org/information-authors-0
+- https://www.ieee-itw2025.org/
+- https://www.ieee-itw2025.org/call-for-papers/
+- https://www.ieee-itw2025.org/final-submission-instructions/
+- https://www.ieee-itw2025.org/registration/
+- https://portal.core.edu.au/conf-ranks/?search=ITW&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ITW 2027 original submission deadline before the extension to 2026-10-11 (not shown on the official page)
+- Registration fees for 2026 and 2027 (the 2026 registration page shows stale ISIT 2024 content)
+- Acceptance rate not published
+- Editions before 2025 not checked on official pages; region judged from 2025, 2026 and 2027
+- Not found in the CCF 2026 list (checked via the ccfddl mirror, which lists even ISIT as unranked)
+last_verified: 2026-10-04

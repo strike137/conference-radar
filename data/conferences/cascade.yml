@@ -1,0 +1,98 @@
+id: cascade
+name: CASCADE
+full_name: Constructive Approaches for Security Analysis and Design of Embedded Systems
+type: conference
+tier: minor
+areas: [security, crypto, systems]
+region: europe
+language: english
+frequency: annual
+organizer: CASCADE steering committee (European academia and industry); hosted by a different university each year
+organizer_country: [europe]
+proceedings: Springer LNCS
+fee: 270 EUR early bird, 135 EUR student early bird; 330 EUR and 190 EUR after 28 Feb (2026)
+typical:
+  deadline_months: [7, 12]
+  conference_months: [3, 4]
+links:
+  website: https://cascade-conference.org/
+notes:
+- New conference formed by merging COSADE (Constructive Side-Channel Analysis and Secure Design) and CARDIS (Smart Card
+  Research and Advanced Applications); first edition in 2025
+- Scope is cryptographic implementations and embedded security (side channels, fault attacks, PUFs, PQC implementations,
+  hardware security)
+- Two submission rounds (summer and winter) feed one conference held in late March or early April
+- Proceedings in Springer LNCS; blind review, at most 20 pages in LNCS format; survey, SoK and data papers also invited
+- Constructive review process with rebuttal; explicitly aimed at European PhD students
+- Held in Europe (2025 Saint-Etienne, 2026 Regensburg, 2027 Heilbronn); COSADE editions were also European
+- Low registration fee (270 EUR early bird, 135 EUR student in 2026)
+- Not yet listed in ICORE2026 under this name; predecessor CARDIS is CORE C, COSADE is not listed
+editions:
+- year: 2026
+  start: 2026-03-30
+  end: 2026-04-01
+  location: Regensburg, Germany
+  url: https://cascade-conference.org/Archives/2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-07-03
+    time: '23:59'
+    tz: AoE
+    label: Summer submission (extended from 2025-06-27)
+  - kind: notification
+    date: 2025-09-10
+    label: Summer submission notification
+  - kind: submission
+    date: 2025-12-12
+    time: '23:59'
+    tz: AoE
+    label: Winter submission (extended from 2025-12-05)
+  - kind: notification
+    date: 2026-02-09
+    label: Winter submission notification
+  - kind: other
+    date: 2026-02-28
+    label: Early registration deadline
+- year: 2027
+  start: 2027-04-04
+  end: 2027-04-07
+  location: Heilbronn, Germany
+  url: https://cascade-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    time: '23:59'
+    tz: AoE
+    label: Summer submission (extended from 2026-06-26)
+  - kind: notification
+    date: 2026-09-10
+    label: Summer submission notification
+  - kind: submission
+    date: 2026-11-10
+    time: '23:59'
+    tz: AoE
+    label: Winter submission
+  - kind: notification
+    date: 2027-01-15
+    label: Winter submission notification
+sources:
+- https://cascade-conference.org/
+- https://cascade-conference.org/cfp.html
+- https://cascade-conference.org/steering_committee.html
+- https://cascade-conference.org/archives.html
+- https://cascade-conference.org/Archives/2026/index.html
+- https://cascade-conference.org/Archives/2026/cfp.html
+- https://cascade-conference.org/Archives/2026/registration.html
+- https://cascade-conference.org/Archives/2026/accepted_paper.html
+- https://cascade-conference.org/Archives/2025/index.html
+- https://cascade-conference.org/Archives/2025/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=CASCADE&by=all&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=COSADE&by=all&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=CARDIS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Springer LNCS volume numbers for CASCADE 2025 and 2026 not checked (Springer and DBLP pages not reachable)
+- Indexing (DBLP, Scopus) not checked
+- No CCF 2026 entry found for CASCADE, COSADE or CARDIS in the list mirror checked
+- No official acceptance rate found
+- CASCADE 2027 registration deadlines are TBD
+last_verified: 2026-10-04

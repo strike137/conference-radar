@@ -1,0 +1,78 @@
+id: eurosec
+name: EuroSec
+full_name: European Workshop on Systems Security
+type: workshop
+tier: minor
+areas: [security, systems]
+region: europe
+language: english
+frequency: annual
+organizer: EuroSec steering committee (VU Amsterdam, FORTH, Brown University), co-located with ACM EuroSys
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL, DBLP]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [1, 2]
+  conference_months: [3, 4]
+links:
+  website: https://eurosec-workshop.github.io/
+  dblp: https://dblp.org/db/conf/eurosec/index.html
+notes:
+- One-day systems security workshop held the day before EuroSys every year; 2026 was the 19th edition
+- Proceedings of EuroSec in the ACM Digital Library; one author must attend and present for the paper to be included
+- Short papers of up to 6 pages in double-column ACM sigconf format, excluding the bibliography; anonymized submission
+  via HotCRP
+- Welcomes early ideas, negative results, and reproduction or refutation of previous results; many papers later grow
+  into full papers at top security venues
+- Location follows EuroSys (2024 Athens, 2025 Rotterdam, 2026 Edinburgh); registration goes through EuroSys
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-03-31
+  end: 2025-03-31
+  location: Rotterdam, Netherlands
+  url: https://eurosec-workshop.github.io/eurosec-2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-02-07
+    tz: AoE
+    label: Extended from 2025-01-31
+  - kind: notification
+    date: 2025-02-24
+    label: Extended from 2025-02-20
+  - kind: camera_ready
+    date: 2025-03-10
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Edinburgh, UK
+  url: https://eurosec-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-10
+    tz: AoE
+    label: Extended from 2026-02-03
+  - kind: notification
+    date: 2026-03-06
+    label: Extended from 2026-03-02
+  - kind: camera_ready
+    date: 2026-03-27
+sources:
+- https://eurosec-workshop.github.io/
+- https://eurosec-workshop.github.io/eurosec-2025/index.html
+- https://secopera.eu/eurosec-2024/
+- https://concordia-h2020.eu/eurosec-2023/
+- https://concordia-h2020.eu/eurosec-2022/
+- https://dl.acm.org/doi/proceedings/10.1145/3803525
+- https://dl.acm.org/doi/proceedings/10.1145/3722041
+- https://dl.acm.org/doi/proceedings/10.1145/3642974
+- https://portal.core.edu.au/conf-ranks/?search=EuroSec&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/WenyanLiu/CCFrank4dblp/blob/master/data/ccfRankUrl.js
+unverified:
+- EuroSec 2027 dates and deadlines (not announced yet; EuroSys 2027 is in Rabat, Morocco)
+- Acceptance rate (not published on the workshop site)
+- CCF 2026 list checked via the CCFrank4dblp mirror, not on ccf.org.cn directly (site blocks automated access)
+last_verified: 2026-10-04

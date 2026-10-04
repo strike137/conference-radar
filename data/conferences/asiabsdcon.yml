@@ -1,0 +1,74 @@
+id: asiabsdcon
+name: AsiaBSDCon
+full_name: AsiaBSDCon (Asian BSD Conference)
+type: conference
+tier: minor
+areas: [systems, networking, security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: AsiaBSDCon Organizing Team (BSD Research); 2026 co-organized with Open Culture Foundation and co-hosted by
+  NTNU CSIE
+organizer_country: [japan]
+proceedings: AsiaBSDCon proceedings (self-published, PDF on the conference website)
+archival: false
+rank:
+  core: Unranked
+fee: 2,500 NTD normal, 300 NTD student, tutorials 100 to 200 NTD extra (2026)
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://www.asiabsdcon.org/
+notes:
+- Technical conference for users and developers of FreeBSD, NetBSD, OpenBSD, DragonFlyBSD and macOS/Darwin
+- Four days in March -> two days of tutorials and developer summits, then two days of paper sessions
+- Papers (2 to 12 pages, IEEE template) are selected by a technical program committee; final papers go
+  into the conference's own proceedings, not a formal series
+- Held at Tokyo University of Science for most editions; Taipei in 2024 and 2026, back to Tokyo in 2027
+- Not held 2020 to 2022 (COVID-19); the planned 2025 Tokyo edition was cancelled
+- Travel and hotel support for one speaker per accepted paper has been offered (2024 CFP)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-03-19
+  end: 2026-03-22
+  location: National Taiwan Normal University, Taipei, Taiwan
+  url: https://2026.asiabsdcon.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-30
+    label: Papers and tutorial proposals
+  - kind: notification
+    date: 2025-12-15
+  - kind: camera_ready
+    date: 2026-01-30
+    label: Final papers and tutorial materials (extended from 2026-01-23)
+- year: 2027
+  location: Tokyo, Japan
+  url: https://2027.asiabsdcon.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-20
+    label: Papers and tutorial proposals
+  - kind: notification
+    date: 2026-12-12
+  - kind: camera_ready
+    date: 2027-02-19
+    label: Final papers and tutorial materials
+sources:
+- https://www.asiabsdcon.org/
+- https://2027.asiabsdcon.org/
+- https://2026.asiabsdcon.org/
+- https://2026.asiabsdcon.org/registration.html.en
+- https://2025.asiabsdcon.org/
+- https://2024.asiabsdcon.org/
+- https://2024.asiabsdcon.org/cfp.html.en
+- https://2023.asiabsdcon.org/
+- https://2019.asiabsdcon.org/
+- https://portal.core.edu.au/conf-ranks/?search=AsiaBSDCon&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- AsiaBSDCon 2027 conference dates (only March 2027 in Tokyo is announced) and the 2027 CFP text
+- Whether 2024 and 2026 proceedings PDFs are public on the website (2019 proceedings are online with DOIs)
+- Country of BSD Research (organizer_country set from the Japan based organizing team and general chair)
+last_verified: 2026-10-04

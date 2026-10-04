@@ -1,0 +1,70 @@
+id: flops
+name: FLOPS
+full_name: International Symposium on Functional and Logic Programming
+type: conference
+tier: minor
+areas: [software]
+region: japan
+language: english
+frequency: biennial
+organizer: JSSST SIG-PPL (Japan Society for Software Science and Technology, Special Interest Group on Programming
+  and Programming Languages)
+organizer_country: [japan]
+proceedings: Springer LNCS
+indexing: [DBLP, Scopus]
+rank:
+  core: 'National: Japan'
+acceptance_rate: 56% (2026, 14/25)
+typical:
+  deadline_months: [12]
+  conference_months: [5]
+links:
+  website: https://functional-logic.org/
+  dblp: https://dblp.org/db/conf/flops/
+notes:
+- Sponsored by JSSST SIG-PPL; 2024 edition in cooperation with ACM SIGPLAN
+- Biennial in even years since 2004, always held in Japan (Kochi 2016, Nagoya 2018, Akita 2020 online, Kyoto 2022
+  online, Kumamoto 2024, Tsukuba 2026)
+- Proceedings in Springer LNCS (LNCS 14659 for 2024, LNCS 16533 for 2026); the 2026 CFP said selected
+  papers would be invited to a Science of Computer Programming special issue
+- 2026 proceedings contain 14 papers selected from 25 submissions (Springer volume front page)
+- Covers declarative programming (functional, logic, functional-logic), rewriting, program transformation and
+  verification; accepts regular papers, system descriptions and declarative pearls
+- Up to 15 pages excluding references in Springer format; single-blind review; abstract deadline about a week before
+  the paper deadline
+- At least one author must present in person; no general online presentation option
+- 'ICORE2026 lists it as National: Japan'
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-28
+  location: Tsukuba, Japan
+  url: https://functional-logic.org/events/flops/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-08
+    tz: AoE
+  - kind: submission
+    date: 2025-12-16
+    tz: AoE
+  - kind: notification
+    date: 2026-02-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-02
+    tz: AoE
+sources:
+- https://functional-logic.org/events/flops/2026/
+- https://functional-logic.org/events/flops/2026/cfp/
+- https://conf.researchr.org/home/flops-2026
+- https://functional-logic.org/events/flops/2024/
+- https://conf.researchr.org/home/flops-2024
+- https://link.springer.com/book/10.1007/978-981-92-0184-6
+- https://portal.core.edu.au/conf-ranks/?search=FLOPS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- FLOPS 2028 not announced yet
+- CCF 2026 list could not be loaded from ccf.org.cn (blocked automated access) and the venue is not in the ccfddl
+  mirror; rank.ccf left out
+- Indexing (DBLP, Scopus) inferred from the LNCS series, not stated on the official site
+- Registration fee not stated on the official pages
+last_verified: 2026-10-04

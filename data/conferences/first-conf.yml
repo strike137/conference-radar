@@ -1,0 +1,75 @@
+id: first-conf
+name: FIRST Conference
+full_name: Annual FIRST Conference
+type: industry
+tier: major
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: FIRST (Forum of Incident Response and Security Teams)
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: Unranked
+fee: 'FIRSTCON26: full conference 1,700 USD early bird for FIRST team members, 2,950 USD early bird for liaison
+  members and non-members, up to 3,800 USD late; Sunday training 300 to 500 USD'
+typical:
+  deadline_months: [12]
+  conference_months: [6]
+links:
+  website: https://www.first.org/conference/2026/
+notes:
+- Annual conference of FIRST, the global association of CSIRTs and PSIRTs (800+ member teams in 100+ countries);
+  the main meeting of the incident response community
+- Held every June and rotates worldwide (2022 Dublin, 2023 Montreal, 2024 Fukuoka, 2025 Copenhagen, 2026 Denver,
+  2027 Bangkok); 2021 was virtual; 2022 ran June 26 to July 1
+- 'Six days: Sunday trainings, then a five-day main program in three parallel tracks (technical, management,
+  academic), plus BoFs, a CTF and closed member meetings'
+- Call for speakers opens around October 31 and closes in early to mid December via EasyChair (2025-12-03 for 2026,
+  2024-12-13 for 2025); abstract and outline only, no formal paper; reviewed by an international program committee;
+  notifications from mid February to early March
+- Separate call for Sunday trainings closes in late October
+- No proceedings; slides are posted on the public FIRST website after the event; vendor pitches are not accepted
+- Accepted presenters get one free full registration per talk; FIRST does not pay travel or accommodation
+editions:
+- year: 2026
+  start: 2026-06-14
+  end: 2026-06-19
+  location: Denver, USA
+  url: https://www.first.org/conference/2026/
+  deadlines:
+  - kind: other
+    date: 2025-10-24
+    label: Call for Sunday trainings closes
+  - kind: submission
+    date: 2025-12-03
+    time: "23:59"
+    tz: UTC
+    label: Call for speakers
+  - kind: notification
+    date: 2026-02-27
+    label: Acceptance notifications sent Feb 9 to 27
+- year: 2027
+  start: 2027-06-13
+  end: 2027-06-18
+  location: Bangkok, Thailand
+  url: https://www.first.org/conference/2027/
+  deadlines: []
+sources:
+- https://www.first.org/conference/2026/
+- https://www.first.org/conference/2026/cfs
+- https://www.first.org/conference/2026/registration
+- https://www.first.org/conference/2027/
+- https://www.first.org/conference/2025/
+- https://www.first.org/conference/2025/cfs
+- https://www.first.org/conference/2024/
+- https://www.first.org/conference/2023/
+- https://www.first.org/conference/2022/
+- https://www.first.org/conference/2021/
+- https://portal.core.edu.au/conf-ranks/?search=FIRST&by=all&source=ICORE2026
+unverified:
+- 2027 call for speakers and call for trainings dates (not announced on the official site as of 2026-10-04)
+- CORE portal ICORE2026 search returns no entry for FIRST; Unranked follows the convention for industry venues
+last_verified: 2026-10-04

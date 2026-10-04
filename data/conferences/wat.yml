@@ -1,0 +1,98 @@
+id: wat
+name: WAT
+full_name: Workshop on Asian Translation
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: WAT organizing committee led by Japanese researchers (University of Tokyo, Kyoto University, NICT, NAIST
+  and others); co-located with a major NLP or MT conference
+organizer_country: [japan]
+proceedings: ACL Anthology
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11, 12]
+links:
+  website: https://lotus.kuee.kyoto-u.ac.jp/WAT/
+notes:
+- Open machine translation evaluation campaign for Asian languages, run annually since 2014; 13th edition in 2026
+- Co-located with a different host conference each year (COLING 2022, MT Summit 2023, EMNLP 2024, IJCNLP-AACL 2025,
+  AACL-IJCNLP 2026)
+- Held in Asia in most years (Gyeongju 2022, Macau 2023, Mumbai 2025, Hengqin 2026); 2024 was in Miami with EMNLP
+- Proceedings in the ACL Anthology (published by ICCL in 2022, AAMT in 2023, ACL in 2024 and 2025)
+- Research papers get double-blind review via OpenReview; ARR commitment is also accepted; no long/short distinction
+- Shared task system description papers are single-blind and not reviewed, only given feedback; teams in the human
+  evaluation must submit one and attend
+- Shared tasks in recent years include English-Japanese patent claims translation and English-Indic multimodal
+  translation
+editions:
+- year: 2025
+  label: 12th WAT, with IJCNLP-AACL 2025
+  start: 2025-12-24
+  end: 2025-12-24
+  location: Mumbai, India
+  url: https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-09-29
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: other
+    date: 2025-10-27
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2025-11-03
+  - kind: camera_ready
+    date: 2025-11-17
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-11-11
+- year: 2026
+  label: 13th WAT, with AACL-IJCNLP 2026
+  start: 2026-11-09
+  end: 2026-11-09
+  location: Hengqin, China
+  url: https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-09-17
+    time: "23:59"
+    tz: AoE
+    label: Research papers (extended from 2026-09-14)
+  - kind: other
+    date: 2026-09-21
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-10-01
+  - kind: camera_ready
+    date: 2026-10-12
+    time: "23:59"
+    tz: AoE
+    label: Research and system description papers
+sources:
+- https://lotus.kuee.kyoto-u.ac.jp/WAT/
+- https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2026/index.html
+- https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html
+- https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2024/index.html
+- https://aclanthology.org/volumes/2025.wat-1/
+- https://aclanthology.org/volumes/2024.wat-1/
+- https://aclanthology.org/volumes/2023.wat-1/
+- https://aclanthology.org/volumes/2022.wat-1/
+- https://2026.aaclnet.org/
+- https://portal.core.edu.au/conf-ranks/?search=WAT&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- WAT 2025 date (the WAT 2025 page says 2025-12-24, the previous workshops list on the WAT 2026 page says 2025-12-25)
+- Acceptance rate and registration fee (set by the host conference)
+- Shared task deadlines (listed per task, not on the main page)
+- Not found in ICORE2026 (recorded as Unranked) or the CCF list
+last_verified: 2026-10-04

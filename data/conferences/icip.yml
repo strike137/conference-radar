@@ -1,0 +1,95 @@
+id: icip
+name: ICIP
+full_name: IEEE International Conference on Image Processing
+type: conference
+tier: major
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Signal Processing Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, DBLP, Scopus]
+rank:
+  core: B
+  ccf: C
+fee: 970 USD IEEE SPS member, 1,340 USD non-member (2026, author registration, plus 25.5% VAT)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [9, 10]
+links:
+  website: https://2026.ieeeicip.org/
+  dblp: https://dblp.org/db/conf/icip/
+notes:
+- Flagship image processing conference of the IEEE Signal Processing Society, held annually since 1994
+- Rotates worldwide (2023 Kuala Lumpur, 2024 Abu Dhabi, 2025 Anchorage, 2026 Tampere, 2027 Singapore)
+- Regular papers up to 5 pages plus 1 page of references, published in IEEE Xplore; author rebuttal phase
+- Also has an ICIP review track of the IEEE Open Journal of Signal Processing (8+1 pages, APC applies), satellite
+  workshops, grand challenges, and presentations of recent SPS journal papers
+- One-page work-in-progress abstracts appear only in the proceedings distributed to participants
+- Strict no-show policy; one full author registration covers up to four papers
+- Main paper deadline was extended by two weeks in both 2025 and 2026
+- ICIP 2027 in Singapore is co-located with IEEE CAI 2027 and IEEE ASLI 2027
+editions:
+- year: 2025
+  start: 2025-09-14
+  end: 2025-09-18
+  location: Anchorage, Alaska, USA
+  url: https://2025.ieeeicip.org/
+  deadlines:
+  - kind: submission
+    date: 2025-02-05
+    label: Regular and special session papers (extended from 2025-01-22)
+  - kind: notification
+    date: 2025-05-20
+  - kind: camera_ready
+    date: 2025-05-28
+- year: 2026
+  start: 2026-09-13
+  end: 2026-09-17
+  location: Tampere, Finland
+  url: https://2026.ieeeicip.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-04
+    tz: AoE
+    label: Regular and special session papers (extended from 2026-01-21)
+  - kind: notification
+    date: 2026-04-29
+    tz: AoE
+    label: Extended from 2026-04-22
+  - kind: camera_ready
+    date: 2026-05-13
+    tz: AoE
+  - kind: submission
+    date: 2026-05-20
+    tz: AoE
+    label: One-page abstracts and satellite workshop papers
+  - kind: other
+    date: 2026-06-17
+    tz: AoE
+    label: Author registration deadline
+- year: 2027
+  start: 2027-11-29
+  end: 2027-12-03
+  location: Singapore
+  url: https://2027.ieeeicip.org/
+  deadlines: []
+sources:
+- https://2026.ieeeicip.org/
+- https://2026.ieeeicip.org/call-for-papers/
+- https://2026.ieeeicip.org/important-dates/
+- https://2026.ieeeicip.org/publishing-presentation-options/
+- https://2026.ieeeicip.org/registration/
+- https://2025.ieeeicip.org/
+- https://2025.ieeeicip.org/important-dates/
+- https://2027.ieeeicip.org/
+- https://portal.core.edu.au/conf-ranks/?search=ICIP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- ICIP 2027 deadlines (call for papers not published yet)
+- Acceptance rate not published on the official sites
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly (the page is behind a captcha)
+last_verified: 2026-10-04

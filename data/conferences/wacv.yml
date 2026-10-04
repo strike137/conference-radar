@@ -1,0 +1,105 @@
+id: wacv
+name: WACV
+full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+type: conference
+tier: major
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE and the Computer Vision Foundation (CVF)
+organizer_country: [international]
+proceedings: IEEE Xplore and CVF Open Access
+indexing: [DBLP, Scopus, EI]
+rank:
+  core: A
+fee: 700 USD IEEE/CVF member, 900 USD non-member, 475 USD student member (2026, early in-person author)
+typical:
+  deadline_months: [6, 8]
+  conference_months: [1, 3]
+links:
+  website: https://wacv.thecvf.com/
+  dblp: https://dblp.org/db/conf/wacv/
+notes:
+- Run under IEEE and the Computer Vision Foundation; papers open access on the CVF site, final versions in IEEE
+  Xplore
+- Held in the USA (2026 Tucson, 2027 Buena Vista, Florida); 2027 edition moves from March to early January
+- Two review rounds per year; round 1 papers can be revised and resubmitted in round 2
+- Applications, Algorithms and (from 2027) Evaluations and Datasets tracks
+- Double-blind review on OpenReview; 8 pages plus references
+- Extended versions of WACV 2026 papers invited to a Machine Vision and Applications special issue
+editions:
+- year: 2026
+  start: 2026-03-06
+  end: 2026-03-10
+  location: Tucson, Arizona, USA
+  url: https://wacv.thecvf.com/Conferences/2026
+  deadlines:
+  - kind: abstract
+    date: 2025-07-11
+    time: '23:59'
+    tz: AoE
+    label: Round 1 paper registration
+  - kind: submission
+    date: 2025-07-18
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: abstract
+    date: 2025-09-12
+    time: '23:59'
+    tz: AoE
+    label: Round 2 paper registration
+  - kind: submission
+    date: 2025-09-19
+    time: '23:59'
+    tz: AoE
+    label: Round 2 (and round 1 revisions)
+  - kind: notification
+    date: 2025-11-05
+    label: Final decisions (both rounds)
+- year: 2027
+  start: 2027-01-04
+  end: 2027-01-08
+  location: Disney Springs, Buena Vista, Florida, USA
+  url: https://wacv.thecvf.com/Conferences/2027
+  deadlines:
+  - kind: abstract
+    date: 2026-06-19
+    tz: AoE
+    label: Round 1 paper registration
+  - kind: submission
+    date: 2026-06-26
+    tz: AoE
+    label: Round 1
+  - kind: abstract
+    date: 2026-08-21
+    tz: AoE
+    label: Round 2 paper registration
+  - kind: submission
+    date: 2026-08-28
+    tz: AoE
+    label: Round 2 (and round 1 revisions)
+  - kind: notification
+    date: 2026-10-09
+    tz: AoE
+    label: Final decisions (both rounds)
+  - kind: camera_ready
+    date: 2026-11-02
+    tz: AoE
+sources:
+- https://wacv.thecvf.com/Conferences/2027
+- https://wacv.thecvf.com/Conferences/2027/Dates
+- https://wacv.thecvf.com/Conferences/2027/CallForPapers
+- https://wacv.thecvf.com/Conferences/2027/AuthorGuides
+- https://wacv.thecvf.com/Conferences/2026
+- https://wacv.thecvf.com/Conferences/2026/Dates
+- https://wacv.thecvf.com/Conferences/2026/CallForPapers
+- https://wacv.thecvf.com/Conferences/2026/Pricing2
+- https://openaccess.thecvf.com/WACV2026
+- https://portal.core.edu.au/conf-ranks/?search=WACV&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- WACV 2027 round 1 reviews date differs between the CFP (2026-08-07) and the dates page (2026-08-09), so it is left out
+- CCF 2026 listing not checked on the official CCF page; the ccf-deadlines aggregator marks WACV as not listed, so rank.ccf is left out
+- WACV 2027 registration fees not yet posted; acceptance rate not stated on the official site
+last_verified: 2026-10-04

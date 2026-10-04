@@ -1,0 +1,95 @@
+id: iscas
+name: IEEE ISCAS
+full_name: IEEE International Symposium on Circuits and Systems
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Circuits and Systems Society (CASS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [IEEE Xplore, DBLP, Scopus]
+rank:
+  core: C
+  ccf: B
+typical:
+  deadline_months: [10]
+  conference_months: [5, 6]
+links:
+  website: https://2027.ieee-iscas.org/
+  dblp: https://dblp.org/db/conf/iscas/
+notes:
+- Flagship conference of the IEEE Circuits and Systems Society; covers analog, digital, power, sensory, biomedical
+  and neuromorphic circuits, signal processing, multimedia and circuits for AI and quantum computing
+- Rotates worldwide (2021 Daegu virtual, 2022 Austin, 2023 Monterey, 2024 Singapore, 2025 London, 2026 Shanghai,
+  2027 Bordeaux); held every May or June
+- Regular papers up to 5 pages; also special sessions, tutorials, live demonstrations and cross-society special
+  sessions
+- Proceedings in IEEE Xplore; selected papers invited to IEEE CAS journals (TCAS-I, TCAS-II, TBioCAS, OJCAS,
+  TVLSI and others)
+- Paper deadline usually in October and extended by one or two weeks (2026 edition 2025-10-12 -> 2025-10-26)
+- One full registration covers up to two papers (2026)
+- Large circuits venue; ICORE2026 lists it as C and the 2026 site announces it as CCF-B
+editions:
+- year: 2026
+  start: 2026-05-24
+  end: 2026-05-27
+  location: Shanghai, China
+  url: https://2026.ieee-iscas.org/
+  deadlines:
+  - kind: submission
+    date: 2025-10-26
+    label: Regular and special session papers (extended from 2025-10-12)
+  - kind: other
+    date: 2025-10-27
+    label: Tutorial proposals (extended from 2025-10-20)
+  - kind: notification
+    date: 2026-01-19
+  - kind: camera_ready
+    date: 2026-02-09
+    label: Final paper submission
+- year: 2027
+  start: 2027-06-06
+  end: 2027-06-09
+  location: Bordeaux, France
+  url: https://2027.ieee-iscas.org/
+  deadlines:
+  - kind: other
+    date: 2026-09-22
+    label: Special session proposals (extended from 2026-09-11)
+  - kind: submission
+    date: 2026-10-13
+    label: Regular papers
+  - kind: other
+    date: 2026-10-13
+    label: Tutorial proposals and live demonstrations
+  - kind: notification
+    date: 2027-01-11
+  - kind: camera_ready
+    date: 2027-01-27
+    label: Final paper submission
+sources:
+- https://2026.ieee-iscas.org/
+- https://2026.ieee-iscas.org/cfp/call_for_papers.html
+- https://2026.ieee-iscas.org/assets/img/CALL%20FOR/CALL%20FOR%20PAPERS_v3.pdf
+- https://2026.ieee-iscas.org/about/index.html
+- https://2026.ieee-iscas.org/registration/index.html
+- https://2026.ieee-iscas.org/authors/author-instructions.html
+- https://2025.ieee-iscas.org/
+- https://2025.ieee-iscas.org/about/conference-history
+- https://2027.ieee-iscas.org/
+- https://2027.ieee-iscas.org/call-for-papers
+- https://2027.ieee-iscas.org/submission
+- https://api.crossref.org/works/10.1109/iscas58744.2024.10558698
+- https://api.crossref.org/works/10.1109/iscas66217.2026.11562883
+- https://portal.core.edu.au/conf-ranks/?search=ISCAS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- CCF rank B taken from the ISCAS 2026 news page and the CCFrank4dblp mirror, not from ccf.org.cn directly (captcha)
+- Deadline times and time zones not stated on the 2026 or 2027 call for papers
+- Registration fee not recorded; the 2026 registration page mixes in text from the 2024 Singapore edition
+- 2024 Singapore location taken from the IEEE Xplore and Crossref proceedings record (2024 site unreachable)
+- Acceptance rate not stated on the official sites
+last_verified: 2026-10-04

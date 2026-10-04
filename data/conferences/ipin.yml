@@ -1,0 +1,103 @@
+id: ipin
+name: IPIN
+full_name: International Conference on Indoor Positioning and Indoor Navigation
+type: conference
+tier: minor
+areas: [communications, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IPIN Steering Committee, hosted by a local university each year (Sapienza University of Rome in 2026)
+organizer_country: [international]
+proceedings: IEEE Xplore
+indexing: [Scopus, DBLP]
+rank:
+  core: C
+acceptance_rate: 55% (2025, 59/107 full papers); 60% (2024, 78/130)
+fee: 850 EUR regular, 700 EUR IEEE member, 400 EUR student (2026, early, complete registration)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9, 10]
+links:
+  website: https://ipin-conference.org/2026/
+notes:
+- Run by the IPIN Steering Committee since 2010 (first edition at ETH Zurich); each edition is hosted by a different
+  university, rotating mostly within Europe with some editions in Asia
+- Regular papers are 6 pages in IEEE format, single-blind review by at least two reviewers, published in IEEE
+  Xplore
+- Co-located WCAL workshop (Workshop for Computing and Advanced Localization, which replaced the Work-in-Progress
+  track in 2025) publishes its papers in CEUR-WS
+- Includes the IPIN indoor localization competition, with an on-site track held just before the conference
+- In 2025 the six best papers, sponsored by the IEEE Journal of Indoor and Seamless Positioning and Navigation
+  (J-ISPIN), had the APC waived for extended versions in that journal
+- Paper deadline has been extended by about two to three weeks in recent years (marked hard deadline)
+- 2026 edition is co-located with ICL-GNSS in Rome
+editions:
+- year: 2025
+  start: 2025-09-15
+  end: 2025-09-18
+  location: Tampere, Finland
+  url: https://ipin-conference.org/2025/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2025-05-12
+    tz: AoE
+    label: Regular papers (extended from 2025-04-21)
+  - kind: notification
+    date: 2025-06-16
+    tz: AoE
+    label: Regular papers
+  - kind: camera_ready
+    date: 2025-08-15
+    tz: AoE
+    label: Regular papers
+  - kind: other
+    date: 2025-07-13
+    tz: AoE
+    label: WCAL workshop paper submission
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-08
+  location: Rome, Italy
+  url: https://ipin-conference.org/2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-05-10
+    tz: AoE
+    label: Regular papers (extended from 2026-04-26)
+  - kind: notification
+    date: 2026-06-16
+    tz: AoE
+    label: Regular papers
+  - kind: camera_ready
+    date: 2026-08-31
+    tz: AoE
+    label: Regular papers (extended from 2026-08-15)
+  - kind: other
+    date: 2026-07-19
+    tz: AoE
+    label: WCAL workshop paper submission
+  - kind: other
+    date: 2026-08-12
+    tz: AoE
+    label: WCAL workshop notification
+sources:
+- https://ipin-conference.org/2026/
+- https://ipin-conference.org/2026/cfp_callforpapers.html
+- https://ipin-conference.org/2026/conf_importantdates.html
+- https://ipin-conference.org/2026/conf_about.html
+- https://ipin-conference.org/2026/reg_registrationfees.html
+- https://ipin-conference.org/2025/
+- https://ipin-conference.org/2025/conf_importantdates.html
+- https://ipin-conference.org/2025/cfp_callforpapers.html
+- http://ipin-conference.org/editions.html
+- http://ipin-conference.org/
+- https://ieeexplore.ieee.org/xpl/conhome/11212845/proceeding
+- https://ceur-ws.org/Vol-4047/
+- https://portal.core.edu.au/conf-ranks/?search=IPIN&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- IPIN 2027 host city, dates and deadlines (not announced yet)
+- Not in the CCF 2026 list (checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly)
+last_verified: 2026-10-04
