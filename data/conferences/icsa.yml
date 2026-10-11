@@ -1,0 +1,82 @@
+id: icsa
+name: ICSA
+full_name: IEEE International Conference on Software Architecture
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society TCSE
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [11, 12]
+  conference_months: [3, 4, 6]
+links:
+  website: https://conf.researchr.org/series/icsa
+  dblp: https://dblp.org/db/conf/icsa/index.html
+notes:
+- Main venue for software architecture research and practice; successor of WICSA; IEEE TCSE is the lead sponsor
+- CORE A (ICORE2026)
+- Research papers track (double-anonymous review) and Software Architecture in Practice track
+- 10 pages of main text plus 2 pages of references; main proceedings in IEEE Xplore, short papers and posters in
+  companion proceedings
+- Usually held in spring; recent hosts L'Aquila 2023, Hyderabad 2024, Odense 2025, Amsterdam 2026 (June) and Sydney 2027
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-26
+  location: Amsterdam, Netherlands (Vrije Universiteit Amsterdam)
+  url: https://conf.researchr.org/home/icsa-2026
+  deadlines:
+  - kind: abstract
+    date: 2025-11-28
+    tz: AoE
+  - kind: submission
+    date: 2025-12-08
+    tz: AoE
+  - kind: notification
+    date: 2026-02-06
+  - kind: camera_ready
+    date: 2026-03-06
+- year: 2027
+  start: 2027-03-08
+  end: 2027-03-12
+  location: Sydney, Australia (hosted by CSIRO)
+  url: https://conf.researchr.org/home/icsa-2027
+  status: tentative
+  deadlines:
+  - kind: other
+    date: 2026-10-15
+    label: Working session proposals
+  - kind: abstract
+    date: 2026-10-30
+    tz: AoE
+    label: Research papers and Software Architecture in Practice
+  - kind: submission
+    date: 2026-11-04
+    tz: AoE
+    label: Research papers and Software Architecture in Practice
+  - kind: notification
+    date: 2026-12-15
+    label: Research papers and Software Architecture in Practice
+  - kind: abstract
+    date: 2026-12-16
+    label: New and Emerging Ideas
+sources:
+- https://conf.researchr.org/series/icsa
+- https://conf.researchr.org/home/icsa-2026
+- https://conf.researchr.org/track/icsa-2026/icsa-2026-papers
+- https://conf.researchr.org/home/icsa-2027
+- https://conf.researchr.org/track/icsa-2027/icsa-2027-papers
+- https://portal.core.edu.au/conf-ranks/?search=ICSA&by=all&source=ICORE2026
+unverified:
+- "ICSA 2027 dates: the site text says 8 to 12 March 2027 in Sydney, but the page header still says dates to be announced"
+- CCF rank not set; the CCF list only has the predecessor WICSA (Working IEEE/IFIP Conference on Software Architecture)
+  under a different full name
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-11

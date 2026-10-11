@@ -1,0 +1,90 @@
+id: dsd-seaa
+name: DSD/SEAA
+full_name: Euromicro Conference on Digital System Design (DSD) and Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+type: conference
+tier: major
+areas: [systems, software, ai, security]
+region: europe
+language: english
+frequency: annual
+organizer: EUROMICRO
+organizer_country: [europe]
+proceedings: IEEE CPS (DSD); Springer LNCS (SEAA)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8, 9]
+links:
+  website: https://dsd-seaa.com/
+  dblp: https://dblp.org/db/conf/dsd/index.html
+notes:
+- Two co-located Euromicro conferences with one registration site and venue; Euromicro is based in Hengelo, Netherlands
+- 'DSD: digital and mixed HW/SW system design, embedded and cyber-physical systems, FPGAs, RISC-V, hardware security; 8 pages IEEE format, double-blind; proceedings by IEEE CPS'
+- 'SEAA: software engineering for software-intensive systems in themed tracks (CPS, data and AI driven engineering, model-driven engineering, ...); up to 16 pages in Springer LNCS, single-blind'
+- Ranks differ by conference; CORE B for SEAA and CORE C for DSD (ICORE2026); the B shown here is SEAA's
+- Selected DSD papers are invited to the Elsevier journal MICPRO, selected SEAA papers to the Journal of Systems and Software
+- Strict no-show policy; extra DSD pages cost 80 EUR each
+- Held in Europe every late August or early September (Durres 2023, Paris 2024, Salerno 2025, Krakow 2026)
+editions:
+- year: 2025
+  start: 2025-09-10
+  end: 2025-09-12
+  location: Salerno, Italy
+  url: https://dsd-seaa.com/dsd-seaa-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-20
+    label: DSD full papers (extended from 2025-04-30)
+  - kind: notification
+    date: 2025-06-25
+    label: DSD
+  - kind: camera_ready
+    date: 2025-07-10
+    label: DSD
+- year: 2026
+  start: 2026-09-02
+  end: 2026-09-04
+  location: Krakow, Poland
+  url: https://dsd-seaa.com/
+  deadlines:
+  - kind: submission
+    date: 2026-04-29
+    label: SEAA papers (firm, extended from 2026-04-15)
+  - kind: notification
+    date: 2026-05-28
+    label: SEAA (moved from 2026-05-22)
+  - kind: abstract
+    date: 2026-05-25
+    label: DSD (final extension, from 2026-05-11)
+  - kind: submission
+    date: 2026-06-01
+    label: DSD full papers (final extension, from 2026-05-11)
+  - kind: camera_ready
+    date: 2026-06-15
+    label: SEAA (moved from 2026-06-08)
+  - kind: notification
+    date: 2026-06-29
+    label: DSD
+  - kind: camera_ready
+    date: 2026-07-10
+    tz: AoE
+    label: DSD
+sources:
+- https://dsd-seaa.com/
+- https://dsd-seaa.com/dsd2026/
+- https://dsd-seaa.com/seaa2026/
+- https://dsd-seaa.com/dsd2025/
+- https://dsd-seaa.com/dsd-seaa-2025/
+- https://dsd-seaa.com/dsd-seaa-2024/
+- https://dsd-seaa.com/dsd-seaa-2023-2/
+- https://link.springer.com/book/10.1007/978-3-032-36587-3
+- https://portal.core.edu.au/conf-ranks/?search=SEAA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=DSD&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- DSD/SEAA 2027 dates and location not announced on the official site as of 2026-10-11
+- SEAA 2025 deadlines not recorded (only DSD 2025 dates were checked)
+- Not checked against the CCF list (no match found in the ccfddl mirror)
+- Acceptance rates not published on the official site
+last_verified: 2026-10-11

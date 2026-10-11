@@ -1,0 +1,53 @@
+id: zkproof
+name: ZKProof
+full_name: ZKProof Workshop (zero-knowledge proof standards)
+type: industry
+tier: minor
+areas: [crypto, security]
+region: europe
+language: english
+frequency: annual
+organizer: ZKProof Standards (open community initiative for standardizing zero-knowledge proofs)
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [3, 5]
+links:
+  website: https://zkproof.org/events/
+notes:
+- Community standardization workshop on zero-knowledge proofs run by ZKProof Standards; academics, startups and
+  practitioners attend
+- Calls for proposals and papers with a program committee and HotCRP submission (24 accepted submissions in 2025),
+  but accepted work is presented as talks only, with no proceedings
+- Recent editions co-located with cryptography conferences in Europe (Real World Crypto week in Sofia 2025,
+  Eurocrypt in Rome 2026)
+- Earlier editions in Boston 2018, Berkeley and Amsterdam 2019, Barcelona 2023 (ZK Week) and Berlin 2024
+editions:
+- year: 2025
+  start: 2025-03-23
+  end: 2025-03-25
+  location: Sofia, Bulgaria
+  url: https://zkproof.org/events/zkproof-7-sofia/
+  deadlines:
+  - kind: submission
+    date: 2025-01-15
+    label: Proposals and papers
+  - kind: notification
+    date: 2025-02-03
+    label: Final responses (moved from 2025-01-25)
+- year: 2026
+  start: 2026-05-09
+  end: 2026-05-10
+  location: Rome, Italy
+  url: https://zkproof.org/events/zkproof-8-rome/
+sources:
+- https://zkproof.org/events/
+- https://zkproof.org/events/zkproof-7-sofia/
+- https://zkproof.org/events/zkproof-7-sofia/call-for-papers-7th-zkproof-workshop/
+- https://zkproof.org/events/zkproof-8-rome/
+unverified:
+- Submission deadlines for ZKProof 8 (Rome 2026); no call for papers page was found
+- Next edition (ZKProof 9) not announced yet
+last_verified: 2026-10-11

@@ -1,0 +1,92 @@
+id: iciev
+name: ICIEV
+full_name: International Conference on Informatics, Electronics & Vision
+type: conference
+tier: minor
+areas: [vision, ai, communications, general]
+region: worldwide
+language: english
+frequency: irregular
+organizer: CenNSER (Center for Natural Science & Engineering Research, UK), hosted by Kyushu Institute of Technology
+organizer_country: [europe]
+proceedings: IJCVSP / IJABC journals
+archival: true
+typical:
+  deadline_months: [3, 10]
+  conference_months: [5, 12]
+links:
+  website: https://cennser.org/ICIEV/
+  dblp: https://dblp.org/db/conf/iciev/index.html
+notes:
+- Organized by CenNSER (UK); the 2025 and 2026 editions are hosted by Kyushu Institute of Technology in Kitakyushu
+- Accepted regular papers are published in the International Journal on Computer Vision and Signal Processing (IJCVSP,
+  6 to 10 pages) or the International Journal of Activity and Behavior Computing (IJABC, 10 to 20 pages); both free to publish
+- Short, position and work-in-progress papers (2 to 6 pages) can be presented without publication; 4+ page ones can go to IJCVSP
+- Double-blind review via Microsoft CMT with a rebuttal and resubmission round
+- 'Past locations: Bangladesh, Japan, USA, UK, virtual (2021); now held every year or two (2023, 2025, 2026)'
+editions:
+- year: 2025
+  start: 2025-05-26
+  end: 2025-05-29
+  location: Kitakyushu, Japan (Kyushu Institute of Technology Hibikino campus and Kokura)
+  url: https://cennser.org/ICIEV25/
+  deadlines:
+  - kind: submission
+    date: 2025-03-17
+    label: Regular papers
+  - kind: submission
+    date: 2025-03-20
+    label: Short, position and WIP papers
+  - kind: notification
+    date: 2025-03-31
+    label: First-round review result
+  - kind: other
+    date: 2025-04-08
+    label: Rebuttal and resubmission
+  - kind: notification
+    date: 2025-04-11
+    label: Final decision
+  - kind: camera_ready
+    date: 2025-04-15
+    label: Camera-ready and early-bird registration
+- year: 2026
+  start: 2026-12-21
+  end: 2026-12-24
+  location: Kitakyushu, Japan (Kyushu Institute of Technology, Hibikino campus)
+  url: https://cennser.org/ICIEV/
+  deadlines:
+  - kind: other
+    date: 2026-08-30
+    label: Workshop, special session, competition and tutorial proposals
+  - kind: submission
+    date: 2026-10-20
+    label: Regular papers
+  - kind: submission
+    date: 2026-10-30
+    label: Short, position and WIP papers
+  - kind: notification
+    date: 2026-11-02
+    label: Review result
+  - kind: other
+    date: 2026-11-07
+    label: Rebuttal and resubmission
+  - kind: other
+    date: 2026-11-10
+    label: Early-bird registration (required for authors)
+  - kind: camera_ready
+    date: 2026-11-15
+sources:
+- https://cennser.org/ICIEV/
+- https://cennser.org/ICIEV/important-dates.html
+- https://cennser.org/ICIEV/paper-submission.html
+- https://cennser.org/ICIEV/SpecialJournal.html
+- https://cennser.org/ICIEV25/
+- https://cennser.org/ICIEV25/important-dates.html
+- https://cennser.org/ICIEV25/paper-submission.html
+- https://portal.core.edu.au/conf-ranks/?search=ICIEV&by=all&source=ICORE2026
+unverified:
+- Whether ICIEV 2026 papers also go to IEEE Xplore (IEEE PDF eXpress instructions on the submission page are hidden, not shown)
+- Indexing of IJCVSP and IJABC
+- Not found in the CORE ICORE2026 portal
+- Deadline time zones not stated
+last_verified: 2026-10-11

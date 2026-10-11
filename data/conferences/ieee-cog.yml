@@ -1,0 +1,94 @@
+id: ieee-cog
+name: IEEE CoG
+full_name: IEEE Conference on Games
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE (sponsored by the IEEE Computational Intelligence Society)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3]
+  conference_months: [8, 9]
+links:
+  website: https://cog2026.org/
+notes:
+- IEEE conference on AI and computational intelligence for games (formerly IEEE CIG); sponsored by the IEEE CIS
+- Full papers up to 8 pages including references and appendices; double-anonymous review; proceedings on IEEE Xplore
+- Separate tracks for auxiliary papers, doctoral consortium, competitions, tutorials and workshops
+- CORE C (ICORE2026, listed as "Conference on Games (was Computational Intelligence and Games CIG)")
+- Rotates globally (London 2019, Osaka 2020, Copenhagen 2021, Beijing 2022, Boston 2023, Milan 2024, Lisbon 2025, Madrid 2026)
+editions:
+- year: 2026
+  start: 2026-09-01
+  end: 2026-09-04
+  location: Madrid, Spain
+  url: https://cog2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-17
+    tz: AoE
+    label: Full technical papers
+  - kind: other
+    date: 2026-04-10
+    tz: AoE
+    label: Games industry talk proposals
+  - kind: notification
+    date: 2026-05-01
+    label: Full papers
+  - kind: submission
+    date: 2026-05-14
+    tz: AoE
+    label: Auxiliary papers
+  - kind: camera_ready
+    date: 2026-05-28
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-06-24
+    label: Auxiliary papers
+  - kind: other
+    date: 2026-06-30
+    label: Demos and industry participation
+- year: 2025
+  start: 2025-08-26
+  end: 2025-08-29
+  location: Lisbon, Portugal
+  url: https://cog2025.inesc-id.pt/
+  deadlines:
+  - kind: other
+    date: 2025-01-19
+    tz: AoE
+    label: Competition, tutorial and workshop proposals
+  - kind: submission
+    date: 2025-03-15
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2025-05-16
+    label: Full papers
+  - kind: submission
+    date: 2025-05-30
+    tz: AoE
+    label: Auxiliary papers
+  - kind: camera_ready
+    date: 2025-06-13
+    label: Full papers
+  - kind: camera_ready
+    date: 2025-07-11
+    label: Auxiliary papers
+sources:
+- https://cog2026.org/
+- https://cog2026.org/cfp
+- https://cog2026.org/call-auxiliary
+- https://ieee-cog.org/
+- https://cog2025.inesc-id.pt/
+- https://cog2025.inesc-id.pt/call-for-papers/
+- https://cog2025.inesc-id.pt/organization/
+- https://portal.core.edu.au/conf-ranks/?search=CoG&by=all&source=ICORE2026
+last_verified: 2026-10-11

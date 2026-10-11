@@ -1,0 +1,77 @@
+id: ieee-icma
+name: IEEE ICMA
+full_name: IEEE International Conference on Mechatronics and Automation
+type: conference
+tier: minor
+areas: [ai, systems, general]
+region: china
+language: english
+frequency: annual
+organizer: IEEE RAS (technical sponsor); Kagawa University and Beijing Institute of Technology
+organizer_country: [japan, china]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [8]
+links:
+  website: http://www.ieee-icma.org/
+notes:
+- Mechatronics, robotics and automation conference sponsored by IEEE RAS; held every August since 2007 (October in 2020)
+- Accepted papers are submitted to IEEE Xplore; 6 pages standard, up to 8 pages with an extra page charge
+- Mostly held in Chinese cities (Harbin, Tianjin, Beijing, Changchun, Guilin); returns to Takamatsu, Japan every few
+  years (2021, 2027)
+- ICMA 2027 in Takamatsu is planned as a hybrid event (on-site and online)
+- Organized sessions of at least four papers can be proposed; deadlines are stated in US Pacific Time
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-02
+  end: 2026-08-05
+  location: Changchun, China
+  url: http://2026.ieee-icma.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-20
+    tz: PDT
+    label: Full papers and organized session proposals (extended from 2026-04-10)
+  - kind: other
+    date: 2026-05-01
+    label: Tutorial and workshop proposals
+  - kind: notification
+    date: 2026-05-15
+  - kind: camera_ready
+    date: 2026-06-01
+    tz: PDT
+- year: 2027
+  start: 2027-08-08
+  end: 2027-08-11
+  location: Takamatsu, Kagawa, Japan
+  url: http://2027.ieee-icma.org/
+  deadlines:
+  - kind: submission
+    date: 2027-04-10
+    tz: PDT
+    label: Full papers and organized session proposals
+  - kind: other
+    date: 2027-05-01
+    label: Tutorial and workshop proposals
+  - kind: notification
+    date: 2027-05-15
+  - kind: camera_ready
+    date: 2027-06-01
+    tz: PDT
+- year: 2028
+  start: 2028-08-06
+  end: 2028-08-09
+  location: Guilin, China
+  url: http://www.ieee-icma.org/
+sources:
+- http://www.ieee-icma.org/
+- http://2026.ieee-icma.org/Home/Home.aspx
+- http://2026.ieee-icma.org/CFP/CFP.aspx
+- http://2026.ieee-icma.org/Committees/SaC.aspx
+- http://2027.ieee-icma.org/Home/Home.aspx
+- http://2027.ieee-icma.org/Committees/SaC.aspx
+- https://portal.core.edu.au/conf-ranks/?search=ICMA&by=all&source=ICORE2026
+last_verified: 2026-10-11

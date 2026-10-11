@@ -1,0 +1,71 @@
+id: models
+name: MODELS
+full_name: ACM/IEEE International Conference on Model Driven Engineering Languages and Systems
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGSOFT and IEEE TCSE
+organizer_country: [international]
+proceedings: ACM DL (from 2026); IEEE Xplore in earlier years (e.g. 2025)
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [3]
+  conference_months: [9, 10]
+links:
+  website: https://conf.researchr.org/series/models
+  dblp: https://dblp.org/db/conf/models/index.html
+notes:
+- Main venue for model-driven engineering and software modeling; organized with support from ACM SIGSOFT and IEEE TCSE
+- Started as the UML conference in 1998 and was renamed MODELS in 2005
+- CORE A (ICORE2026), CCF B
+- Foundations track (double-anonymous review with an author response period) and Practice track (single-anonymous)
+- 10 pages of main text plus 2 pages of references; hard deadlines with no extensions
+- Proceedings published by ACM from 2026 (open access, APC for authors outside ACM Open); 2025 papers are in IEEE Xplore
+- Selected papers are invited to an extended version in the SoSyM journal (Springer)
+- Rotates between Europe and North America (Grand Rapids 2025, Malaga 2026, Budapest 2027); co-located with EDTconf
+  since 2024
+editions:
+- year: 2026
+  start: 2026-10-04
+  end: 2026-10-09
+  location: Malaga, Spain
+  url: https://conf.researchr.org/home/models-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-03-20
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-03-27
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-17
+  - kind: camera_ready
+    date: 2026-07-31
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-09-26
+  end: 2027-10-01
+  location: Budapest, Hungary
+  url: https://conf.researchr.org/home/models-2027
+sources:
+- https://conf.researchr.org/series/models
+- https://conf.researchr.org/home/models-2026
+- https://conf.researchr.org/track/models-2026/models-2026-research-papers
+- https://conf.researchr.org/home/models-2027
+- https://conf.researchr.org/track/models-2025/models-2025-research-papers
+- https://portal.core.edu.au/conf-ranks/?search=MODELS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- MODELS 2027 deadlines not yet announced (no calls on the 2027 site as of 2026-10-11)
+- Acceptance rate not stated on the official site
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-11

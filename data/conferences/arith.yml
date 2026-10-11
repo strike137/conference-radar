@@ -1,0 +1,56 @@
+id: arith
+name: ARITH
+full_name: IEEE International Symposium on Computer Arithmetic
+type: conference
+tier: minor
+areas: [systems, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6, 7]
+links:
+  website: https://www.arith2026.org/
+  dblp: https://dblp.org/db/conf/arith/index.html
+notes:
+- Sponsored by the IEEE Computer Society; long-running symposium on computer arithmetic (33rd edition in 2026)
+- Accepted papers appear in the conference proceedings and in IEEE Xplore
+- Full papers up to 8 pages and short industry papers up to 4 pages, IEEE CS conference format, references included
+- Double-blind review; abstract due one week before the full paper
+- CORE C (ICORE2026)
+- Rotates between the USA and Europe (El Paso 2025, Malaga 2024, Portland 2023, Fulda 2026)
+editions:
+- year: 2026
+  start: 2026-06-28
+  end: 2026-07-01
+  location: Fulda, Germany (Fulda University of Applied Sciences)
+  url: https://www.arith2026.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-06
+    label: Extended from 2026-01-23
+  - kind: submission
+    date: 2026-02-13
+    label: Extended from 2026-01-30
+  - kind: notification
+    date: 2026-04-10
+  - kind: camera_ready
+    date: 2026-05-18
+    label: Camera-ready and copyright, extended from 2026-04-30
+sources:
+- https://www.arith2026.org/
+- https://www.arith2026.org/call.html
+- https://www.arith2026.org/venue.html
+- https://www.arith2026.org/archive.html
+- https://portal.core.edu.au/conf-ranks/?search=ARITH&by=all&source=ICORE2026
+unverified:
+- ARITH 2027 dates and location not yet announced as of 2026-10-11 (no 2027 site found)
+- CCF rank not confirmed (not found in the ccfddl mirror of the CCF list)
+last_verified: 2026-10-11

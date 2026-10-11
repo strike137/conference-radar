@@ -1,0 +1,65 @@
+id: esem
+name: ESEM
+full_name: International Symposium on Empirical Software Engineering and Measurement
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ESEM steering committee, within ESEIW (hosted by TUM in 2026; IEEE Computer Society technical co-sponsorship, ACM SIGSOFT in cooperation)
+organizer_country: [international]
+proceedings: Dagstuhl LIPIcs
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10]
+links:
+  website: https://conf.researchr.org/series/esem
+  dblp: https://dblp.org/db/conf/esem/
+notes:
+- Main venue for empirical software engineering; held as part of the Empirical Software Engineering International
+  Week (ESEIW) together with the ISERN meeting, doctoral symposium (IDoESE) and tutorials (IASESE)
+- Called the ACM/IEEE symposium up to 2025; the 2026 proceedings moved to Dagstuhl LIPIcs (open access)
+- Technical track uses double-anonymous review with at least three reviews and a meta-review; 17 pages main content
+  plus up to 3 pages for data availability and references (2026)
+- Also has emerging results/vision, registered reports, industry (SEIP) and journal-first tracks
+- Recent editions in Helsinki 2022, New Orleans 2023, Barcelona 2024, Honolulu 2025, Munich 2026; CORE A, CCF B
+editions:
+- year: 2026
+  start: 2026-10-08
+  end: 2026-10-09
+  location: Munich, Germany
+  url: https://conf.researchr.org/home/eseiw-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-11
+    tz: AoE
+    label: Technical track (mandatory abstract)
+  - kind: submission
+    date: 2026-05-18
+    tz: AoE
+    label: Technical track
+  - kind: notification
+    date: 2026-07-14
+    tz: AoE
+    label: Technical track
+  - kind: camera_ready
+    date: 2026-08-17
+    tz: AoE
+    label: Technical track
+sources:
+- https://conf.researchr.org/series/esem
+- https://conf.researchr.org/home/eseiw-2026
+- https://conf.researchr.org/track/eseiw-2026/eseiw-2026-esem---technical-track
+- https://conf.researchr.org/home/esem-2025
+- https://portal.core.edu.au/conf-ranks/?search=ESEM&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- ESEM 2026 dates are the ESEM days (Oct 8 to 9) of ESEIW 2026 (Oct 4 to 9)
+- ESEIW/ESEM 2027 location and dates not yet announced (no eseiw-2027 page as of 2026-10-11)
+- Acceptance rate not found on an official page
+last_verified: 2026-10-11

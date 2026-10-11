@@ -1,0 +1,60 @@
+id: eaamo
+name: EAAMO
+full_name: ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization
+type: conference
+tier: minor
+areas: [ai, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [10, 11]
+links:
+  website: https://conference.eaamo.org/
+notes:
+- ACM conference on fairness, equity and access in algorithms, mechanisms and optimization; interdisciplinary (CS, economics, OR, social science)
+- Archival track papers go to the proceedings in the ACM Digital Library (at most 14 pages, one-column ACM template); a non-archival track accepts work under submission elsewhere
+- Abstract deadline one week before the full paper deadline; separate work-in-progress poster call
+- Held in the USA in most years (Arlington 2022, Boston 2023, Pittsburgh 2025), San Luis Potosí, Mexico in 2024 and Munich, Germany in 2026; first edition (2021) was virtual
+- Financial assistance offered to attendees
+- Not ranked in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-11-05
+  end: 2025-11-07
+  location: Pittsburgh, PA, USA
+  url: https://conference2025.eaamo.org/
+- year: 2026
+  start: 2026-11-05
+  end: 2026-11-07
+  location: Munich, Germany
+  url: https://conference2026.eaamo.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-08
+    tz: AoE
+    label: Extended from 2026-05-01
+  - kind: submission
+    date: 2026-05-15
+    tz: AoE
+    label: Extended from 2026-05-08
+  - kind: notification
+    date: 2026-08-01
+  - kind: other
+    date: 2026-09-07
+    label: Work-in-progress posters
+sources:
+- https://conference.eaamo.org/
+- https://conference2026.eaamo.org/
+- https://conference2026.eaamo.org/cfp/
+- https://conference.eaamo.org/past_conferences/
+- https://portal.core.edu.au/conf-ranks/?search=EAAMO&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- EAAMO 2027 dates and location not yet announced (call for hosting EAAMO'27 open as of 2026-10-11)
+- Camera-ready date for 2026 not stated on the CFP page
+last_verified: 2026-10-11

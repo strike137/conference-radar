@@ -1,0 +1,70 @@
+id: ieee-escience
+name: IEEE eScience
+full_name: IEEE International Conference on eScience
+type: conference
+tier: major
+areas: [systems, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE (IEEE Computer Society), with an independent steering committee
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE CPS)
+archival: true
+indexing: [Scopus, Web of Science]
+rank:
+  core: B
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9, 10]
+links:
+  website: https://www.escience-conference.org/
+notes:
+- Annual IEEE conference on computing for science (HPC, distributed computing, workflows, research software, data);
+  22nd edition in 2026
+- Full papers up to 8 pages excluding references in IEEE format; single-blind review; proceedings by IEEE CPS
+- Rotates worldwide (Limassol 2023, Osaka 2024, Chicago 2025, Naples 2026); co-located with the Global Research
+  Platform (GRP) workshop
+- "Acceptance rate: 56/186 (30%) in 2026, 33/98 (34%) in 2025, 30/76 (39%) in 2024 (series about page)"
+- CORE B (ICORE2026, listed under the former name IEEE International Conference on e-Science and Grid Computing)
+editions:
+- year: 2025
+  start: 2025-09-15
+  end: 2025-09-18
+  location: Chicago, USA
+  url: https://www.escience-conference.org/2025/
+- year: 2026
+  start: 2026-09-28
+  end: 2026-10-02
+  location: Naples, Italy
+  url: https://www.escience-conference.org/2026/
+  deadlines:
+  - kind: other
+    date: 2026-03-23
+    label: Workshop proposals
+  - kind: other
+    date: 2026-05-04
+    label: Tutorial proposals
+  - kind: submission
+    date: 2026-06-09
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from May 18 and June 1)
+  - kind: notification
+    date: 2026-07-16
+  - kind: other
+    date: 2026-07-27
+    label: Posters
+  - kind: camera_ready
+    date: 2026-08-07
+sources:
+- https://www.escience-conference.org/2026/
+- https://www.escience-conference.org/2026/call-for-papers
+- https://www.escience-conference.org/2026/organizers
+- https://www.escience-conference.org/2025/
+- https://www.escience-conference.org/about/
+- https://portal.core.edu.au/conf-ranks/?search=e-Science&by=all&source=ICORE2026
+unverified:
+- IEEE eScience 2027 dates and location (not announced as of 2026-10-11)
+- CCF rank (not found in the CCF list mirrors checked)
+last_verified: 2026-10-11

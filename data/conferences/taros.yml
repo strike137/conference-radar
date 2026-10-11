@@ -1,0 +1,92 @@
+id: taros
+name: TAROS
+full_name: Towards Autonomous Robotic Systems Conference
+type: conference
+tier: minor
+areas: [ai, systems]
+region: europe
+language: english
+frequency: annual
+organizer: TAROS steering committee with a rotating UK host university (University of Manchester in 2026)
+organizer_country: [europe]
+proceedings: IEEE (2026); Springer LNAI until 2025
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [8, 9]
+links:
+  website: https://taros-conference.org/
+notes:
+- Longest-running UK-hosted international conference on robotics and autonomous systems; started in 1997 as TIMR
+  (Towards Intelligent Mobile Robots)
+- Held at a different UK university each year (Cambridge 2023, Brunel 2024, York 2025, Manchester 2026)
+- Proceedings were in Springer LNAI up to 2025; for 2026 the CFP says the proceedings are published by IEEE
+- 2026 full papers are 6 pages plus 2 optional pages in IEEE format (12 Springer pages until 2025); single-blind review
+- Technical sponsorship from IEEE RAS in 2026; extra PhD / early career researcher day run with UK-RAS
+- "TAROS 2025: 32 full and 4 short papers selected from 74 submissions"
+- Not listed in CORE ICORE2026; friendly venue aimed at research students and young researchers
+editions:
+- year: 2025
+  start: 2025-08-20
+  end: 2025-08-22
+  location: York, UK
+  url: https://taros-conference.org/taros-2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-21
+    tz: AoE
+    label: Abstracts (extended from 2025-02-21)
+  - kind: submission
+    date: 2025-03-28
+    tz: AoE
+    label: Full papers (extended from 2025-02-28)
+  - kind: other
+    date: 2025-05-16
+    label: Poster submission (extended from 2025-05-05)
+  - kind: notification
+    date: 2025-05-19
+    label: Papers
+  - kind: camera_ready
+    date: 2025-06-02
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-09
+  location: Manchester, UK (University of Manchester, Nancy Rothwell Building)
+  url: https://taros-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+    label: Full papers (earlier announced as 2026-03-13)
+  - kind: notification
+    date: 2026-06-16
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-06-23
+    label: Full papers
+  - kind: other
+    date: 2026-06-26
+    label: Poster abstracts
+  - kind: submission
+    date: 2026-08-23
+    label: PhD / ECR day papers and posters
+  - kind: notification
+    date: 2026-08-26
+    label: PhD / ECR day papers and posters
+  - kind: camera_ready
+    date: 2026-08-27
+    label: PhD / ECR day papers and posters
+sources:
+- https://taros-conference.org/
+- https://taros-conference.org/about/
+- https://taros-conference.org/taros-2026-call-for-papers-and-posters/
+- https://taros-conference.org/taros-2026-poster-submission/
+- https://taros-conference.org/taros-2025/
+- https://taros-conference.org/2024-2/call-for-papers/
+- https://taros-conference.org/2024-2/proceedings/
+- https://taros-conference.org/2023-2/call-for-papers/
+- https://taros-conference.org/past-taros-conferences/
+- https://portal.core.edu.au/conf-ranks/?search=TAROS&by=all&source=ICORE2026
+unverified:
+- Which IEEE outlet (IEEE Xplore or other) carries the TAROS 2026 proceedings; the CFP only says "published by IEEE"
+- TAROS 2027 host and dates not announced as of 2026-10-11
+last_verified: 2026-10-11

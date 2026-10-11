@@ -1,0 +1,60 @@
+id: cc
+name: CC
+full_name: ACM SIGPLAN International Conference on Compiler Construction
+type: conference
+tier: major
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [11]
+  conference_months: [1, 2, 3]
+links:
+  website: https://conf.researchr.org/home/CC-2026
+  dblp: https://dblp.org/db/conf/cc/index.html
+notes:
+- ACM SIGPLAN conference on compilers, program analysis, optimization and runtime systems
+- CORE B (ICORE2026)
+- Co-located every year with HPCA, CGO and PPoPP
+- Research, tool and practical experience papers up to 10 pages plus references in the SIGPLAN acmart format
+- Double-blind review with a short rebuttal period; artifacts required for tool papers
+- Proceedings in the ACM DL (ACM fully open access from 2026, an APC may apply for authors outside ACM Open)
+- Held in Montreal 2023, Edinburgh 2024, Las Vegas 2025, Sydney 2026
+editions:
+- year: 2026
+  start: 2026-01-31
+  end: 2026-02-01
+  location: Sydney, Australia
+  url: https://conf.researchr.org/home/CC-2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-11
+    tz: AoE
+  - kind: notification
+    date: 2025-12-10
+    tz: AoE
+  - kind: other
+    date: 2025-12-17
+    tz: AoE
+    label: Artifact submission
+  - kind: camera_ready
+    date: 2025-12-20
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/CC-2026
+- https://conf.researchr.org/track/CC-2026/calls
+- https://conf.researchr.org/series/CC
+- https://conf.researchr.org/home/hpca-cgo-ppopp-cc-2027
+- https://portal.core.edu.au/conf-ranks/?search=CC&by=all&source=ICORE2026
+unverified:
+- CC 2027 dates, location and deadlines not yet announced (the joint HPCA/CGO/PPoPP/CC 2027 page says dates to be
+  announced and no calls yet)
+- CCF rank not confirmed (CC not found in the CCF software engineering or architecture lists)
+last_verified: 2026-10-11

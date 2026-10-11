@@ -1,0 +1,61 @@
+id: sscad
+name: SSCAD
+full_name: Simpósio em Sistemas Computacionais de Alto Desempenho (Symposium on High Performance Computing Systems)
+type: conference
+tier: domestic
+areas: [systems]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC CE-ACPAD (Special Committee on Computer Architecture and High Performance Processing)
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10, 11]
+links:
+  website: https://www.sbc.org.br/sscad2026
+notes:
+- Brazilian HPC symposium run by the SBC special committee CE-ACPAD; held since 2000 as WSCAD, renamed SSCAD in 2024
+- Topics include HPC applications, parallel and distributed algorithms, computer architecture, operating systems, energy efficiency and AI with HPC
+- Proceedings (Anais) published in the SBC OpenLib (SOL); papers in Portuguese or English, up to 12 pages
+- Best papers invited to a special issue of Concurrency and Computation - Practice and Experience (CCPE)
+- Held in a different Brazilian city each year (Bonito 2025, Natal 2026); associated events include a thesis contest, an undergraduate workshop, WEAC and a parallel programming marathon
+- Deadlines are usually extended
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-28
+  end: 2025-10-31
+  location: Bonito, Brazil
+  url: https://sscad2025.ufms.br/
+- year: 2026
+  start: 2026-11-03
+  end: 2026-11-05
+  location: Natal, Brazil
+  url: https://sscad2026.imd.ufrn.br/
+  deadlines:
+  - kind: submission
+    date: 2026-08-17
+    label: Main track (extended)
+  - kind: notification
+    date: 2026-10-05
+    label: Main track (extended)
+  - kind: camera_ready
+    date: 2026-10-19
+    label: Main track
+sources:
+- https://www.sbc.org.br/sscad2026
+- https://sscad2026.imd.ufrn.br/
+- https://sscad2026.imd.ufrn.br/cfp/
+- https://www2.sbc.org.br/ce-acpad/sscad/
+- https://sscad2025.ufms.br/
+- https://sscad2025.ufms.br/?page_id=209
+- https://sol.sbc.org.br/index.php/sscad/issue/archive
+- https://portal.core.edu.au/conf-ranks/?search=SSCAD&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) SSCAD 2026 submission deadline
+- SSCAD 2027 dates and location
+- Acceptance rate
+last_verified: 2026-10-11

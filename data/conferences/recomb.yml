@@ -1,0 +1,71 @@
+id: recomb
+name: RECOMB
+full_name: International Conference on Research in Computational Molecular Biology
+type: conference
+tier: major
+areas: [general, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: RECOMB Steering Committee
+organizer_country: [international]
+proceedings: RECOMB website and bioRxiv/arXiv (DBLP-indexed; Springer LNCS until 2025)
+archival: false
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://recomb.org/
+  dblp: https://dblp.org/db/conf/recomb/index.html
+notes:
+- Founded in 1997; run by the RECOMB Steering Committee; CORE B (ICORE2026), CCF B (2026 list)
+- Up to 2025 proceedings were published by Springer (RECOMB 2025 in LNCS vol 15647)
+- From 2026 no separate proceedings volume; accepted papers are listed on the conference website, indexed in DBLP and
+  must be posted on bioRxiv or arXiv
+- All accepted papers not published elsewhere are offered a Journal of Computational Biology special issue; partner
+  journals (Cell Systems, Genome Research in the past) also take papers
+- Main paper up to 10 pages; single-blind review
+- Rotates worldwide (Istanbul 2023, Cambridge MA 2024, Seoul 2025, Thessaloniki 2026, Toronto 2027); satellite
+  meetings (RECOMB-Seq, RECOMB-CG, RECOMB-CCB, ...) run just before the main conference
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  location: Thessaloniki, Greece
+  url: https://recomb.org/recomb2026/
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-20
+  location: Toronto, Canada
+  url: https://recomb.org/recomb2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-28
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-11-04
+    time: "23:59"
+    tz: AoE
+    label: Full paper (updates to registered submissions only)
+  - kind: notification
+    date: 2026-12-22
+sources:
+- https://recomb.org/
+- https://recomb.org/history/
+- https://recomb.org/proceedings/
+- https://recomb.org/proceedings/proceedings/2025-2021/2025/
+- https://recomb.org/proceedings/proceedings/2030-2026/2026/
+- https://recomb.org/recomb2027/
+- https://recomb.org/recomb2027/keydates_and_deadlines
+- https://recomb.org/recomb2027/call_for_papers
+- https://portal.core.edu.au/conf-ranks/?search=RECOMB&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- RECOMB 2027 final version deadline and main venue (TBA on the official site as of 2026-10-11)
+- Archival status judged from the 2027 call (website and preprint publication only, no proceedings volume); the call
+  does not say explicitly whether papers count as archival
+last_verified: 2026-10-11

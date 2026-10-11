@@ -1,0 +1,88 @@
+id: acm-bcb
+name: ACM-BCB
+full_name: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
+type: conference
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGBio
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 7]
+  conference_months: [7, 10]
+links:
+  website: https://acm-bcb.org/
+  dblp: https://dblp.org/db/conf/bcb/index.html
+notes:
+- Flagship conference of ACM SIGBio; proceedings in the ACM Digital Library
+- Not listed in ICORE2026 or the CCF 2026 list, so shown as minor despite being the ACM SIGBio flagship
+- Regular papers 8 to 10 pages (ACM double-column, references included); double-blind review in two rounds with a
+  revision step
+- Selected papers invited to special issues of IEEE/ACM TCBB and IEEE JBHI
+- Mostly held in the USA (Chicago 2022, Houston 2023, Philadelphia 2025); Shenzhen, China in 2024 and Calabria, Italy
+  in 2026 (first edition in Europe)
+- Timing moves a lot between years (deadline July and conference October in 2025; deadline March and conference
+  June/July in 2026)
+editions:
+- year: 2025
+  start: 2025-10-12
+  end: 2025-10-15
+  location: Philadelphia, PA, USA
+  url: http://acm-bcb.org/2025/index.php
+  deadlines:
+  - kind: abstract
+    date: 2025-06-30
+    time: "23:59"
+    tz: AoE
+    label: Regular papers
+  - kind: submission
+    date: 2025-07-07
+    time: "23:59"
+    tz: AoE
+    label: Regular papers
+  - kind: notification
+    date: 2025-08-27
+  - kind: camera_ready
+    date: 2025-09-10
+- year: 2026
+  start: 2026-06-30
+  end: 2026-07-03
+  location: University of Calabria, Calabria, Italy
+  url: https://acm-bcb.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-01
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2026-02-20)
+  - kind: submission
+    date: 2026-03-08
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2026-02-27)
+  - kind: notification
+    date: 2026-04-27
+    label: Conditional acceptance
+  - kind: notification
+    date: 2026-05-19
+    label: Final acceptance
+  - kind: camera_ready
+    date: 2026-05-30
+sources:
+- https://acm-bcb.org/
+- https://acm-bcb.org/call_for_papers.php
+- https://acm-bcb.org/archive.php
+- http://acm-bcb.org/2025/index.php
+- http://acm-bcb.org/2025/call_for_papers.php
+- http://acm-bcb.org/2024/index.php
+- http://acm-bcb.org/2023/index.php
+- http://acm-bcb.org/2022/index.php
+- https://portal.core.edu.au/conf-ranks/?search=BCB&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- ACM-BCB 2027 dates, location and deadlines not yet announced (no information on acm-bcb.org as of 2026-10-11)
+last_verified: 2026-10-11

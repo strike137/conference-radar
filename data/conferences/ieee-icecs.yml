@@ -1,0 +1,64 @@
+id: ieee-icecs
+name: IEEE ICECS
+full_name: IEEE International Conference on Electronics, Circuits and Systems
+type: conference
+tier: minor
+areas: [communications, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Circuits and Systems Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [11]
+links:
+  website: https://icecs2026.gr/
+notes:
+- IEEE Circuits and Systems Society flagship conference held every year in IEEE Region 8 (Europe, Africa and the Middle
+  East); 33rd edition in 2026
+- Broad circuits and systems scope (analog/RF, digital, EDA, biomedical circuits, AI hardware, sensors, signal
+  processing)
+- Papers up to 4 pages including references in IEEE double-column format; accepted papers submitted to IEEE Xplore
+- The 2026 paper deadline was extended twice by three weeks in total; a later call takes 2-page young professional
+  papers as posters
+- First day is devoted to tutorials
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-11
+  location: The Met Hotel, Thessaloniki, Greece
+  url: https://icecs2026.gr/
+  deadlines:
+  - kind: other
+    date: 2026-04-16
+    label: Special session proposals
+  - kind: submission
+    date: 2026-06-15
+    label: Extended twice (originally 2026-05-25, then 2026-06-08)
+  - kind: other
+    date: 2026-07-07
+    label: Tutorial proposals
+  - kind: notification
+    date: 2026-07-31
+    label: Extended from 2026-07-25
+  - kind: other
+    date: 2026-08-05
+    label: Young professional papers (extended from 2026-07-28)
+  - kind: camera_ready
+    date: 2026-09-14
+sources:
+- https://www.icecs2026.gr/
+- https://www.icecs2026.gr/important-dates/
+- https://www.icecs2026.gr/go/ICECS_CFP.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ICECS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- Locations of earlier editions not checked on official pages (past edition sites were unreachable); region set to
+  worldwide from the CFP statement that it rotates within IEEE Region 8
+- ICECS 2027 dates and location not announced as of 2026-10-11
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-11

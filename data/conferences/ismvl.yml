@@ -1,0 +1,82 @@
+id: ismvl
+name: ISMVL
+full_name: IEEE International Symposium on Multiple-Valued Logic
+type: conference
+tier: minor
+areas: [general, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society Technical Community on Multiple-Valued Logic
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, EI]
+typical:
+  deadline_months: [11]
+  conference_months: [5, 6]
+links:
+  website: http://www.ismvl.org/
+  dblp: https://dblp.org/db/conf/ismvl/index.html
+notes:
+- Held annually since 1971 by the IEEE Computer Society Technical Community on Multiple-Valued Logic
+- All accepted papers published by IEEE; proceedings indexed in Scopus and Ei Compendex
+- Papers up to 6 pages in IEEE format; research, survey and tutorial papers; selected papers invited to journals
+- Co-located with the International Workshop on Post-Binary ULSI Systems (and the Reed-Muller Workshop in 2027)
+- 'Rotates among Japan, North America and Europe: Shimane (2023), Brno (2024), Montreal (2025), Sendai (2026), Kongsberg (2027)'
+- Small, specialized venue covering logic design, circuits, computer arithmetic, fuzzy logic and quantum computing
+editions:
+- year: 2026
+  start: 2026-05-19
+  end: 2026-05-21
+  location: Sendai, Japan (RIEC, Tohoku University)
+  url: http://mvl.jpn.org/ISMVL2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-01
+    time: "23:59"
+    tz: AoE
+    label: Original deadline
+  - kind: abstract
+    date: 2025-12-01
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2025-12-08
+    time: "23:59"
+    tz: AoE
+    label: Manuscript (extended)
+  - kind: notification
+    date: 2026-02-01
+  - kind: camera_ready
+    date: 2026-03-01
+- year: 2027
+  start: 2027-06-01
+  end: 2027-06-03
+  location: Kongsberg, Norway (University of South-Eastern Norway)
+  url: http://mvl.jpn.org/ISMVL2027/
+  deadlines:
+  - kind: submission
+    date: 2026-11-01
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-02-01
+  - kind: camera_ready
+    date: 2027-03-01
+sources:
+- http://www.ismvl.org/
+- http://mvl.jpn.org/ISMVL2026/
+- http://mvl.jpn.org/ISMVL2026/cfp.php
+- http://mvl.jpn.org/ISMVL2026/submissions.php
+- http://mvl.jpn.org/ISMVL2026/location.php
+- http://mvl.jpn.org/ISMVL2026/past.php
+- http://mvl.jpn.org/ISMVL2027/
+- http://mvl.jpn.org/ISMVL2027/cfp.php
+- http://mvl.jpn.org/ISMVL2027/submissions.php
+- https://portal.core.edu.au/conf-ranks/?search=ISMVL&by=all&source=ICORE2026
+unverified:
+- Not found in the CORE ICORE2026 portal; CCF listing not checked
+- The ISMVL 2026 home page also contains leftover text naming Matsue; the location page and announcements say Sendai (RIEC, Tohoku University)
+last_verified: 2026-10-11

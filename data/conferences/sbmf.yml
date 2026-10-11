@@ -1,0 +1,64 @@
+id: sbmf
+name: SBMF
+full_name: Simpósio Brasileiro de Métodos Formais (Brazilian Symposium on Formal Methods)
+type: conference
+tier: minor
+areas: [software]
+region: latin-america
+language: english
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação)
+organizer_country: [other]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://sbmf2026.github.io/
+notes:
+- Brazilian formal methods symposium supported by the Brazilian Computer Society (SBC); 29th edition in 2026; papers
+  in English with an international steering committee
+- Proceedings in Springer LNCS; the SBC OpenLib (SOL) also lists the volume with links to the Springer versions
+- Regular papers up to 15 pages and short papers up to 8 pages (LNCS format, excluding references and appendices);
+  at least three reviewers per paper
+- Small venue; 12 of 24 full papers accepted in 2025 (50%)
+- Held in a different Brazilian city each year (Manaus 2023, Vitória 2024, Recife 2025, Rio de Janeiro 2026)
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Recife, Brazil
+  url: https://sbmf2025.ufrpe.br/
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-04
+  location: Rio de Janeiro, Brazil
+  url: https://sbmf2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-14
+    tz: AoE
+    label: Paper registration (extended from 2026-07-31)
+  - kind: submission
+    date: 2026-08-14
+    tz: AoE
+    label: Extended from 2026-08-07
+  - kind: notification
+    date: 2026-09-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-23
+    tz: AoE
+sources:
+- https://www.sbc.org.br/sbmf2026
+- https://sbmf2026.github.io/
+- https://sol.sbc.org.br/index.php/sbmf/issue/archive
+- https://sol.sbc.org.br/index.php/sbmf/issue/view/1668
+- https://link.springer.com/conference/sbmf
+- https://portal.core.edu.au/conf-ranks/?search=SBMF&by=all&source=ICORE2026
+unverified:
+- SBMF 2027 dates and location
+- Science of Computer Programming special issue for SBMF 2026 (announced as to be confirmed)
+last_verified: 2026-10-11

@@ -1,0 +1,50 @@
+id: defcamp
+name: DefCamp
+full_name: DefCamp (Defense Camp) Cybersecurity Conference
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: CCSIR (Cyber Security Research Center from Romania)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [6, 8, 10]
+  conference_months: [11]
+links:
+  website: https://def.camp/
+notes:
+- Large hacker and security conference in Central and Eastern Europe, held in Bucharest, Romania
+- About 2,200 attendees in 2025; the 2026 edition is the 16th
+- Hacking Village with competitions including the DefCamp Capture the Flag (D-CTF)
+- CFP via Sessionize with three rolling deadlines; speakers chosen first in, first out, so submit early
+- No proceedings; whitepapers or slides are optional
+- Workshops run on the two days before the conference (17-18 November in 2026)
+editions:
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-20
+  location: Palace of the Parliament, Bucharest, Romania
+  url: https://def.camp/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    label: CFP deadline 1
+  - kind: submission
+    date: 2026-08-30
+    label: CFP deadline 2
+  - kind: submission
+    date: 2026-10-15
+    label: CFP deadline 3
+sources:
+- https://def.camp/
+- https://def.camp/call-for-papers/
+- https://def.camp/about/
+- https://portal.core.edu.au/conf-ranks/?search=DefCamp&by=all&source=ICORE2026
+unverified:
+- CFP deadlines given without time or time zone
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

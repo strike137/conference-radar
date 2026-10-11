@@ -1,0 +1,69 @@
+id: ispass
+name: ISPASS
+full_name: IEEE International Symposium on Performance Analysis of Systems and Software
+type: conference
+tier: major
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society (with TCCA and TCuARCH support)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [12]
+  conference_months: [4, 5]
+links:
+  website: https://www.ispass.org/
+notes:
+- Sponsored by the IEEE Computer Society, supported by the Technical Committees on Computer Architecture (TCCA) and Microarchitecture (TCuARCH); held annually since 2000
+- Focus on performance analysis, measurement, simulation and modelling of computer systems and software
+- Research papers plus tool and benchmark papers; double-blind; 9 pages plus unlimited references
+- Optional artifact evaluation with IEEE reproducibility badges; poster track with extended abstracts
+- Rotates worldwide (Singapore 2022, Raleigh 2023, Indianapolis 2024, Ghent 2025, Seoul 2026, New York 2027)
+- CORE B (ICORE2026), CCF C
+editions:
+- year: 2026
+  start: 2026-04-26
+  end: 2026-04-28
+  location: Seoul, South Korea
+  url: https://www.ispass.org/ispass2026/
+- year: 2027
+  start: 2027-05-09
+  end: 2027-05-11
+  location: New York City, USA (New York University)
+  url: https://www.ispass.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-11
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-12-18
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2027-02-15
+    tz: AoE
+    label: Author rebuttal period starts (until 2027-02-19)
+  - kind: notification
+    date: 2027-03-08
+    tz: AoE
+sources:
+- https://www.ispass.org/
+- https://www.ispass.org/2027/
+- https://www.ispass.org/2027/cfp/
+- https://www.ispass.org/2027/dates/
+- https://www.ispass.org/2027/submission/
+- https://www.ispass.org/ispass2026/
+- https://www.ispass.org/ispass2025/
+- https://portal.core.edu.au/conf-ranks/?search=ISPASS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+- ISPASS 2027 venue on the NYU campus not yet announced
+last_verified: 2026-10-11

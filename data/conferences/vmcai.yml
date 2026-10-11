@@ -1,0 +1,78 @@
+id: vmcai
+name: VMCAI
+full_name: International Conference on Verification, Model Checking, and Abstract Interpretation
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: VMCAI Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [9]
+  conference_months: [1]
+links:
+  website: https://conf.researchr.org/home/VMCAI-2027
+  dblp: https://dblp.org/db/conf/vmcai/index.html
+notes:
+- Formal methods venue on verification, model checking and abstract interpretation (28th edition in 2027)
+- Co-located with POPL every January; two-day event
+- Proceedings in Springer LNCS
+- Regular papers (20 pages) double-blind; tool papers 12 pages, case studies 20 pages, excluding references
+- Optional artifact evaluation concurrent with review; its outcome may affect the decision
+- At least one author must register and present in person
+- 'Recent hosts: Philadelphia (2022), Boston (2023), London (2024), Denver (2025), Rennes (2026), Mexico City (2027)'
+- CORE B (ICORE2026); CCF B
+editions:
+- year: 2026
+  start: 2026-01-12
+  end: 2026-01-13
+  location: Rennes, France (co-located with POPL 2026)
+  url: https://conf.researchr.org/home/VMCAI-2026
+  deadlines:
+  - kind: submission
+    date: 2025-09-15
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-11-06
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-20
+    tz: AoE
+- year: 2027
+  start: 2027-01-11
+  end: 2027-01-12
+  location: Mexico City, Mexico (co-located with POPL 2027)
+  url: https://conf.researchr.org/home/VMCAI-2027
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-09-23
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-09-30
+    tz: AoE
+  - kind: notification
+    date: 2026-11-06
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-20
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/VMCAI-2027
+- https://conf.researchr.org/home/VMCAI-2026
+- https://conf.researchr.org/series/vmcai
+- https://link.springer.com/book/9783032156990
+- https://portal.core.edu.au/conf-ranks/?search=VMCAI&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list; ccf.org.cn blocked automated access
+last_verified: 2026-10-11

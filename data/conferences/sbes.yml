@@ -1,0 +1,76 @@
+id: sbes
+name: SBES
+full_name: Simpósio Brasileiro de Engenharia de Software (Brazilian Symposium on Software Engineering)
+type: conference
+tier: domestic
+areas: [software]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação)
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL)
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9]
+links:
+  website: https://www.sbc.org.br/sbes
+notes:
+- Main Brazilian software engineering symposium of the Brazilian Computer Society (SBC); 40th edition in 2026
+- Held each year within CBSoft (Congresso Brasileiro de Software) in a different Brazilian city (Recife 2025, São Paulo 2026)
+- Proceedings (Anais) published open access in the SBC OpenLib (SOL)
+- Papers in Portuguese or English; research track double-anonymous review with rebuttal, up to 10 pages plus 2 pages of references
+- Several tracks (research, education, ideas and emerging results, tools, industry, student contests) and a journal-first track
+- Best papers invited to an extended version in the Journal of Software Engineering Research and Development (JSERD)
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-22
+  end: 2025-09-26
+  location: Recife, Brazil
+  url: https://sol.sbc.org.br/index.php/sbes/issue/view/1572
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-11
+  location: São Paulo, Brazil
+  url: https://cbsoft.sbc.org.br/2026/
+  deadlines:
+  - kind: other
+    date: 2026-04-27
+    label: Research track paper registration
+  - kind: submission
+    date: 2026-05-04
+    label: Research track
+  - kind: notification
+    date: 2026-06-16
+    label: Research track (1st notification, then rebuttal)
+  - kind: notification
+    date: 2026-07-03
+    label: Research track (2nd notification)
+  - kind: submission
+    date: 2026-05-11
+    label: Education track
+  - kind: submission
+    date: 2026-05-22
+    label: Innovative ideas and emerging results track
+  - kind: submission
+    date: 2026-05-25
+    label: Tools track
+  - kind: submission
+    date: 2026-05-29
+    label: Industry track
+sources:
+- https://www.sbc.org.br/sbes
+- https://cbsoft.sbc.org.br/2026/
+- https://cbsoft.sbc.org.br/2026/pt/dates
+- https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/pesquisa/call
+- https://cbsoft.sbc.org.br/2026/pt/cbsoft/previous-editions
+- https://sol.sbc.org.br/index.php/sbes/issue/archive
+- https://sol.sbc.org.br/index.php/sbes/issue/view/1572
+- https://portal.core.edu.au/conf-ranks/?search=SBES&by=all&source=ICORE2026
+unverified:
+- 'SBES 2026 research track camera-ready: the CFP says 2026-07-17, the CBSoft dates page says 2026-07-20'
+- SBES 2027 dates and location
+- Acceptance rate
+last_verified: 2026-10-11

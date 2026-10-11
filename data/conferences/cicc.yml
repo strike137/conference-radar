@@ -1,0 +1,66 @@
+id: cicc
+name: CICC
+full_name: IEEE Custom Integrated Circuits Conference
+type: conference
+tier: major
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Solid-State Circuits Society (SSCS), technically co-sponsored by the IEEE Circuits and Systems Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [4]
+links:
+  website: https://www.ieee-cicc.org/
+notes:
+- IEEE SSCS conference devoted to IC design (analog, data converters, digital, power management, RF, wireline,
+  biomedical, systems and security)
+- Regular papers are 4 pages and must include measured results; double-blind review
+- Submission deadline is firm and is not extended
+- Papers in IEEE Xplore; top-rated papers invited to special issues of IEEE JSSC and IEEE TBioCAS
+- Held every April in the USA (San Antonio 2023, Denver 2024, Boston 2025, Seattle 2026, San Diego 2027)
+- Co-located CHISIC chiplet workshop and Internet of Bodies workshop; exhibits hall with industry
+- Authors must register and present in person
+- Not listed in ICORE2026; circuits venue outside the usual CS rankings
+editions:
+- year: 2026
+  start: 2026-04-19
+  end: 2026-04-22
+  location: Seattle, WA, USA
+  url: https://www.ieee-cicc.org/cicc2026archives/
+- year: 2027
+  start: 2027-04-18
+  end: 2027-04-21
+  location: San Diego, CA, USA
+  url: https://www.ieee-cicc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-16
+    time: "23:59"
+    tz: PST
+    label: Regular papers (firm, stated as 11:59 pm PT)
+  - kind: notification
+    date: 2027-01-12
+sources:
+- https://www.ieee-cicc.org/
+- https://www.ieee-cicc.org/2027-call-for-papers/
+- https://www.ieee-cicc.org/2027-cicc-author-submission-guidelines/
+- https://www.ieee-cicc.org/about-cicc/
+- https://www.ieee-cicc.org/past-conferences/
+- https://www.ieee-cicc.org/cicc2026archives/
+- https://www.ieee-cicc.org/2025archive/
+- https://www.ieee-cicc.org/wp-content/uploads/2024/10/CICC-2024-Program.pdf
+- https://www.ieee-cicc.org/wp-content/uploads/2024/10/CICC-2023-Program.pdf
+- https://www.ieee-cicc.org/wp-content/uploads/2024/10/CICC-2022-Program.pdf
+- https://portal.core.edu.au/conf-ranks/?search=CICC&by=all&source=ICORE2026
+unverified:
+- CICC 2027 end date given as April 21 on the home page and April 22 in the call for papers (the extra day is the
+  CHISIC workshop, April 21 to 22)
+- CCF 2026 list not checked directly (ccf.org.cn behind a captcha); not found in the ccfddl mirror, so rank.ccf left
+  out
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-11

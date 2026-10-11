@@ -1,0 +1,70 @@
+id: focs
+name: FOCS
+full_name: IEEE Symposium on Foundations of Computer Science
+type: conference
+tier: top
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Computer Society TCMF
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [4]
+  conference_months: [11, 12]
+links:
+  website: https://ieee-focs.org/
+  dblp: https://dblp.org/db/conf/focs/index.html
+notes:
+- Sponsored by the IEEE Computer Society Technical Committee on Mathematical Foundations of Computing (TCMF); with STOC, the top venue for theoretical computer science
+- Proceedings in IEEE Xplore and the IEEE CSDL
+- Double-blind review; no page limit, but the first ten pages must make the case for the paper
+- Usually held in the USA (Denver 2021 and 2022, Santa Cruz 2023, Chicago 2024, New York 2026); Sydney in 2025
+- FOCS 2026 is at NYU and co-located with TCC 2026
+- CORE A* (ICORE2026), CCF A
+editions:
+- year: 2025
+  start: 2025-12-14
+  end: 2025-12-17
+  location: Sydney, Australia
+  url: https://focs.computer.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-03
+    time: "20:00"
+    tz: EDT
+  - kind: notification
+    date: 2025-07-08
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-11
+  location: New York City, USA (NYU Kimmel Center)
+  url: https://focs.computer.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-01
+    time: "17:00"
+    tz: EDT
+  - kind: notification
+    date: 2026-07-03
+  - kind: other
+    date: 2026-07-31
+    label: Workshop proposals
+  - kind: camera_ready
+    date: 2026-10-01
+sources:
+- https://ieee-focs.org/
+- https://focs.computer.org/2026/
+- https://sanjeevkhanna.org/FOCS2026_CFP.html
+- https://focs.computer.org/2025/
+- https://ieeexplore.ieee.org/xpl/conhome/11368763/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=FOCS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/TCS/
+unverified:
+- FOCS 2027 dates and location not yet announced
+last_verified: 2026-10-11

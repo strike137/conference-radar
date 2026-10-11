@@ -1,0 +1,104 @@
+id: vrst
+name: VRST
+full_name: ACM Symposium on Virtual Reality Software and Technology
+type: conference
+tier: major
+areas: [vision, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI and ACM SIGGRAPH
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11, 12]
+links:
+  website: https://vrst.acm.org/
+notes:
+- Sponsored by ACM SIGCHI and ACM SIGGRAPH; accepted papers are published in the ACM Digital Library (VRST collection)
+- CORE B (ICORE2026); a long-running VR/AR/XR venue, 32nd edition in 2026
+- Double-blind review; abstract due one week before the paper; full papers 4 to 9 pages plus references; one revision round before final decisions
+- Accepted papers must be presented in person; posters and demos have a later deadline
+- "Recent hosts: Osaka 2021 and Tsukuba 2022 (hybrid), Christchurch 2023, Trier 2024, Montreal 2025, Sendai 2026 (RIEC, Tohoku University)"
+editions:
+- year: 2025
+  start: 2025-11-12
+  end: 2025-11-14
+  location: Montreal, Canada
+  url: https://vrst.acm.org/vrst2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-07
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-07-14
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-09-01
+  - kind: other
+    date: 2025-09-08
+    time: "23:59"
+    tz: AoE
+    label: Revised papers
+  - kind: notification
+    date: 2025-09-12
+    label: Final author notification
+  - kind: camera_ready
+    date: 2025-09-15
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-18
+  location: Sendai, Japan
+  url: https://vrst.acm.org/vrst2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-17
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-06-24
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-08-28
+  - kind: other
+    date: 2026-09-04
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos submission
+  - kind: other
+    date: 2026-09-06
+    time: "23:59"
+    tz: AoE
+    label: Revised papers (extended from 2026-09-04)
+  - kind: notification
+    date: 2026-09-13
+    label: Final author notification (extended from 2026-09-11)
+  - kind: camera_ready
+    date: 2026-09-25
+    time: "23:59"
+    tz: AoE
+sources:
+- https://vrst.acm.org/vrst2026/
+- https://vrst.acm.org/vrst2026/cfp/
+- https://vrst.acm.org/
+- https://vrst.acm.org/vrst2021/
+- https://vrst.acm.org/vrst2022/
+- https://vrst.acm.org/vrst2023/
+- https://vrst.acm.org/vrst2024/
+- https://vrst.acm.org/vrst2025/
+- https://vrst.acm.org/vrst2025/index.php/venue/
+- https://vrst.acm.org/vrst2025/index.php/call-for-participation/
+- https://portal.core.edu.au/conf-ranks/?search=VRST&by=all&source=ICORE2026
+unverified:
+- CCF rank not checked (CCF list page not reachable)
+- VRST 2027 not yet announced
+last_verified: 2026-10-11

@@ -1,0 +1,63 @@
+id: gwc
+name: GWC
+full_name: Global WordNet Conference
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: Global WordNet Association
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: https://globalwordnet.github.io/
+notes:
+- Conference of the Global WordNet Association on wordnets and lexical semantic resources, held since 2002, usually
+  every two years in January
+- Proceedings published by the Global WordNet Association in the ACL Anthology with DOIs (34 papers in 2025)
+- Long papers up to 8 pages, short papers and project reports up to 5 pages, demos up to 5 pages, references
+  excluded; anonymized submissions (2025)
+- Venue moves around the world (Bucharest 2016, Singapore 2018, Wroclaw 2019, Pretoria 2021 virtual, Donostia 2023,
+  Pavia 2025)
+- CORE C (ICORE2026, listed as International Wordnet Conference)
+editions:
+- year: 2025
+  start: 2025-01-27
+  end: 2025-01-31
+  location: Pavia, Italy
+  url: https://unipv-larl.github.io/GWC2025/
+  deadlines:
+  - kind: submission
+    date: 2024-10-14
+    tz: AoE
+    label: Papers (new deadline)
+  - kind: notification
+    date: 2024-11-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-01-10
+    tz: AoE
+  - kind: other
+    date: 2025-02-28
+    tz: AoE
+    label: Final paper submission for proceedings
+sources:
+- https://globalwordnet.github.io/
+- https://unipv-larl.github.io/GWC2025/
+- https://unipv-larl.github.io/GWC2025/dates.html
+- https://unipv-larl.github.io/GWC2025/cfp.html
+- https://aclanthology.org/venues/gwc/
+- https://aclanthology.org/volumes/2025.gwc-1/
+- https://portal.core.edu.au/conf-ranks/?search=GWC&by=all&source=ICORE2026
+unverified:
+- GWC 2027 host, dates and deadlines not announced as of 2026-10-11; the association posted an invitation for bids to
+  host GWC 2027 in April 2026
+- GWC 2025 notification date is November 25, 2024 on the dates page but November 18, 2024 on the call for papers page
+last_verified: 2026-10-11

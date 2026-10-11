@@ -1,0 +1,62 @@
+id: jasst
+name: JaSST
+full_name: Japan Symposium on Software Testing
+name_local: ソフトウェアテストシンポジウム
+type: industry
+tier: domestic
+areas: [software]
+region: japan
+language: japanese
+frequency: annual
+organizer: NPO ASTER (ソフトウェアテスト技術振興協会) and the JaSST executive committees
+organizer_country: [japan]
+proceedings: JaSST website (paper and slide PDFs posted after the event; symposium proceedings for attendees)
+archival: false
+typical:
+  deadline_months: [9, 10]
+  conference_months: [3]
+links:
+  website: https://jasst.jp/
+notes:
+- Japan's main software testing symposium for practitioners and researchers, run by NPO ASTER; the Tokyo edition in
+  March is the flagship and the only one with a paper call
+- Regional one-day editions (Hokkaido, Tohoku, Niigata, Tokai, Kansai, Shikoku, Kyushu) run through the year without
+  a paper track
+- "Paper track: research papers and experience papers, 4 to 8 A4 pages in Japanese or English, at least two PC
+  reviewers; separate practice case study call"
+- Accepted papers go into the symposium proceedings and are posted with slides on the JaSST website; no indexing
+- One presenter per accepted paper gets free admission to the Tokyo symposium
+editions:
+- year: 2026
+  start: 2026-03-20
+  end: 2026-03-20
+  location: Tokyo, Japan (Tokyo Big Sight, Conference Tower) and online
+  url: https://jasst.jp/tokyo/26-about/
+- year: 2027
+  start: 2027-03-18
+  end: 2027-03-19
+  location: Tokyo, Japan (Ariake Central Tower Hall and Conference) and partly online
+  url: https://jasst.jp/tokyo/27-about/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+    time: "18:00"
+    tz: JST
+    label: Papers (original deadline)
+  - kind: submission
+    date: 2026-10-13
+    time: "18:00"
+    tz: JST
+    label: Papers (extended deadline)
+sources:
+- https://jasst.jp/
+- https://jasst.jp/27-abstruct/
+- https://jasst.jp/tokyo/27-about/
+- https://jasst.jp/tokyo/26-about/
+- https://portal.core.edu.au/conf-ranks/?search=JaSST&by=all&source=ICORE2026
+unverified:
+- Exact notification date (CFP says only late November 2026)
+- CFP schedule lists the symposium as 2027-03-17 while the event page gives 2027-03-18 to 19 (17 is the beginner
+  workshop day)
+- Registration fees for JaSST'27 Tokyo
+last_verified: 2026-10-11

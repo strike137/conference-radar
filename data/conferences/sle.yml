@@ -1,0 +1,58 @@
+id: sle
+name: SLE
+full_name: ACM SIGPLAN International Conference on Software Language Engineering
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://conf.researchr.org/home/sle-2026
+  dblp: https://dblp.org/db/conf/sle/index.html
+notes:
+- Sponsored by ACM SIGPLAN; covers DSLs, language design and implementation, modeling languages and language
+  workbenches (19th edition in 2026)
+- Proceedings in the ACM Digital Library; 2026 ACM open access APC of 250 USD (members) or 350 USD (non-members)
+  unless the institution is in ACM Open
+- Co-located with SPLASH until 2024 and with STAF since 2025 (Koblenz 2025, Rennes 2026)
+- Double-blind review; mandatory abstract registration about a week before the paper deadline
+- Research papers 6 to 12 pages plus 2; also new ideas/vision, tool and SLE Body of Knowledge papers
+- CORE B (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-07-02
+  end: 2026-07-03
+  location: Rennes, France (co-located with STAF 2026)
+  url: https://conf.researchr.org/home/sle-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-02-27
+    tz: AoE
+  - kind: submission
+    date: 2026-03-06
+    tz: AoE
+  - kind: notification
+    date: 2026-04-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-11
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/sle-2026
+- https://conf.researchr.org/series/sle
+- https://portal.core.edu.au/conf-ranks/?search=SLE&by=all&source=ICORE2026
+unverified:
+- SLE 2027 not announced yet
+- CCF 2026 list could not be loaded from ccf.org.cn (blocked automated access) and the venue is not in the ccfddl
+  mirror; rank.ccf left out
+last_verified: 2026-10-11

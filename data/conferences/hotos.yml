@@ -1,0 +1,72 @@
+id: hotos
+name: HotOS
+full_name: ACM SIGOPS Workshop on Hot Topics in Operating Systems
+type: workshop
+tier: major
+areas: [systems]
+region: worldwide
+language: english
+frequency: biennial
+organizer: ACM SIGOPS
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://www.sigops.org/s/conferences/hotos/2027/
+  dblp: https://dblp.org/db/conf/hotos/index.html
+notes:
+- Flagship SIGOPS workshop for new ideas in systems research; held every two years (odd years)
+- Standalone workshop, not co-located with a conference
+- Position papers of at most 5 pages plus references (ACM acmart sigconf); double-blind review
+- Small invitation-based event; each accepted paper gets two invitations and extra capacity is allocated later
+  (lottery in 2025); at least one author must present in person
+- Papers are in the ACM DL (DOI 10.1145) and on the workshop site
+- CORE A (ICORE2026, listed under its former USENIX name), CCF B
+- Recent hosts Providence, USA 2023, Banff, Canada 2025 and Burghausen, Germany 2027 (organized by TU Munich)
+editions:
+- year: 2025
+  start: 2025-05-14
+  end: 2025-05-16
+  location: Banff, Alberta, Canada
+  url: https://www.sigops.org/s/conferences/hotos/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-01-15
+    tz: AoE
+  - kind: notification
+    date: 2025-04-01
+  - kind: camera_ready
+    date: 2025-04-20
+    label: Extended
+- year: 2027
+  start: 2027-05-24
+  end: 2027-05-26
+  location: Burghausen, Bavaria, Germany
+  url: https://www.sigops.org/s/conferences/hotos/2027/
+  deadlines:
+  - kind: submission
+    date: 2027-02-01
+  - kind: notification
+    date: 2027-04-09
+  - kind: camera_ready
+    date: 2027-05-03
+sources:
+- https://www.sigops.org/s/conferences/hotos/2027/
+- https://www.sigops.org/s/conferences/hotos/2027/cfp.html
+- https://www.sigops.org/s/conferences/hotos/2025/
+- https://www.sigops.org/s/conferences/hotos/2025/cfp.html
+- https://www.sigops.org/s/conferences/hotos/2025/program.html
+- https://www.sigops.org/s/conferences/hotos/2023/
+- https://portal.core.edu.au/conf-ranks/?search=HotOS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- HotOS 2027 submission deadline time zone not stated (2025 used AoE)
+- CCF lists it as USENIX Workshop on Hot Topics in Operating Systems (same venue, older sponsor name); checked via the
+  ccfddl mirror only
+last_verified: 2026-10-11

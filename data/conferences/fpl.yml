@@ -1,0 +1,78 @@
+id: fpl
+name: FPL
+full_name: International Conference on Field-Programmable Logic and Applications
+type: conference
+tier: major
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: FPL Steering Committee, with a host university each year (Ghent University in 2026)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: B
+  ccf: C
+fee: 920 EUR regular, 500 EUR student (2026, early full registration incl. workshops; late 1,170 / 600 EUR)
+typical:
+  deadline_months: [3, 4]
+  conference_months: [8, 9]
+links:
+  website: https://fpl.org/
+  dblp: https://dblp.org/db/conf/fpl/index.html
+notes:
+- Oldest and largest conference on FPGAs and reconfigurable computing, started in 1991 in Oxford as a workshop
+- Run by an FPL Steering Committee of mostly European academics; a different European university hosts it each year
+- Held in Europe every year in late August or early September (Dresden 2021, Belfast 2022, Gothenburg 2023, Torino
+  2024, Leiden 2025, Ghent 2026)
+- Long papers 8 pages and short papers 5 pages plus references; double-blind review; both are published and presented
+- Proceedings published by IEEE Conference Publishing Services and submitted to IEEE Xplore and the CSDL
+- Also has a journal track with ACM TRETS, a PhD forum, a demo night and workshops and tutorials after the main days
+- CORE B (ICORE2026) and CCF C
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-11
+  location: Conference Centre Zebrastraat, Ghent, Belgium
+  url: https://2026.fpl.org/
+  deadlines:
+  - kind: other
+    date: 2026-02-20
+    tz: AoE
+    label: FPL/TRETS journal track submission
+  - kind: abstract
+    date: 2026-03-27
+    label: Final extended (originally 2026-03-20)
+  - kind: submission
+    date: 2026-04-03
+    tz: AoE
+    label: Final extended (originally 2026-03-27)
+  - kind: other
+    date: 2026-05-29
+    tz: AoE
+    label: PhD forum and demo night contributions
+  - kind: notification
+    date: 2026-06-01
+    tz: AoE
+  - kind: other
+    date: 2026-06-15
+    tz: AoE
+    label: Workshop and tutorial proposals
+  - kind: camera_ready
+    date: 2026-06-29
+    tz: AoE
+sources:
+- https://fpl.org/
+- https://fpl.org/prior-editions.html
+- https://fpl.org/steering-committee.html
+- https://2026.fpl.org/
+- https://evan.ugent.be/api/v1/events/fpl2026/ (data feed behind 2026.fpl.org, important dates and fees)
+- https://evan.ugent.be/api/v1/events/fpl2026/contents/ (2026.fpl.org call for papers text)
+- https://portal.core.edu.au/conf-ranks/?search=FPL&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- FPL 2027 dates and location not announced as of 2026-10-11
+- CCF rank checked only via the CCFrank4dblp mirror (updated 2026-04-06), not on ccf.org.cn directly
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-11

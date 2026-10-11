@@ -1,0 +1,77 @@
+id: srecon
+name: SREcon
+full_name: USENIX SREcon (Site Reliability Engineering Conference, Americas and EMEA)
+type: industry
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: USENIX
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5, 11]
+  conference_months: [3, 4, 10]
+links:
+  website: https://www.usenix.org/conference/srecon26emea
+notes:
+- USENIX practitioner conference on site reliability engineering and running distributed systems at scale
+- Two editions a year -> Americas (spring, US West Coast; Seattle, Santa Clara or San Francisco) and EMEA (October, Dublin)
+- Talk proposals only, no papers or proceedings; slides of many talks are posted on the usenix.org program pages
+- Lightning talks have a separate later call
+editions:
+- year: 2026
+  start: 2026-03-24
+  end: 2026-03-26
+  location: The Westin Seattle, Seattle, WA, USA
+  url: https://www.usenix.org/conference/srecon26americas
+- year: 2026
+  start: 2026-10-13
+  end: 2026-10-15
+  location: The Convention Centre Dublin, Dublin, Ireland
+  url: https://www.usenix.org/conference/srecon26emea
+  deadlines:
+  - kind: submission
+    date: 2026-05-27
+    time: "23:59"
+    tz: UTC
+    label: EMEA talk proposals
+  - kind: notification
+    date: 2026-06-24
+    label: EMEA talks
+  - kind: submission
+    date: 2026-09-02
+    time: "21:00"
+    tz: UTC
+    label: EMEA lightning talk proposals
+- year: 2027
+  start: 2027-04-12
+  end: 2027-04-14
+  location: The Sheraton Grand Seattle, Seattle, WA, USA
+  url: https://www.usenix.org/conference/srecon27americas
+  deadlines:
+  - kind: submission
+    date: 2026-11-19
+    time: "23:59"
+    tz: PST
+    label: Americas talk proposals
+  - kind: notification
+    date: 2026-12-12
+    label: Americas talks
+sources:
+- https://www.usenix.org/conference/srecon26emea
+- https://www.usenix.org/conference/srecon26emea/call-for-participation
+- https://www.usenix.org/conference/srecon26americas
+- https://www.usenix.org/conference/srecon26americas/program
+- https://www.usenix.org/conference/srecon27americas
+- https://www.usenix.org/conference/srecon27americas/call-for-participation
+- https://www.usenix.org/conference/srecon25emea
+- https://www.usenix.org/conference/srecon25americas
+- https://www.usenix.org/conference/srecon24americas
+- https://portal.core.edu.au/conf-ranks/?search=SREcon&by=all&source=ICORE2026
+unverified:
+- Not listed in the CORE ICORE2026 portal
+- SREcon27 EMEA dates not yet announced
+last_verified: 2026-10-11

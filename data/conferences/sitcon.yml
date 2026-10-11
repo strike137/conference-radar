@@ -1,0 +1,54 @@
+id: sitcon
+name: SITCON
+full_name: Students' Information Technology Conference
+name_local: 學生計算機年會
+type: industry
+tier: domestic
+areas: [general, software]
+region: taiwan
+language: chinese
+frequency: annual
+organizer: SITCON student community (2026 co-organizers IIS Academia Sinica and Open Culture Foundation)
+organizer_country: [taiwan]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [11, 1]
+  conference_months: [3]
+links:
+  website: https://sitcon.org/
+notes:
+- Student-run tech conference in Taiwan, started in 2012 with yearly conferences since 2013; organized by students for students
+- Talks only, no papers or proceedings; general talk, open session and (from 2026) demo exhibition calls
+- Free of charge for attendees; held on one Saturday in March at the Academia Sinica Humanities and Social Sciences Building, Taipei
+- General computing and open source rather than security, AI or networking specifically; official site mainly in Chinese
+- The community also runs SITCON Camp, SITCON Hackathon and Hour of Code events
+editions:
+- year: 2026
+  start: 2026-03-28
+  end: 2026-03-28
+  location: Taipei, Taiwan (Academia Sinica Humanities and Social Sciences Building)
+  url: https://sitcon.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-30
+    label: Early-bird proposals
+  - kind: submission
+    date: 2026-01-23
+    label: Proposals (final)
+- year: 2027
+  start: 2027-03-13
+  end: 2027-03-13
+  location: Taipei, Taiwan (Academia Sinica Humanities and Social Sciences Building)
+  url: https://sitcon.org/2027/
+sources:
+- https://sitcon.org/
+- https://sitcon.org/2026/
+- https://sitcon.org/2026/en/
+- https://sitcon.org/2026/cfp/
+- https://sitcon.org/2026/cfp/SITCON_2026_投稿重要時程.ics
+- https://sitcon.org/2027/
+unverified:
+- 2026 proposal deadlines come from the official CFP calendar file (the CFP page itself shows only that the call opened on 2025-10-12); no time of day given
+- 2027 call for proposals not yet announced as of 2026-10-11
+last_verified: 2026-10-11

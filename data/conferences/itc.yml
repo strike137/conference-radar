@@ -1,0 +1,91 @@
+id: itc
+name: ITC
+full_name: IEEE International Test Conference
+type: conference
+tier: major
+areas: [general, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE (sponsored by the IEEE Computer Society and the IEEE Philadelphia Section); ITC Steering Committee
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+acceptance_rate: 24% (2025, 40/164)
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [3, 4]
+  conference_months: [10]
+links:
+  website: https://www.itctestweek.org/
+  dblp: https://dblp.org/db/conf/itc/index.html
+notes:
+- Flagship conference on electronic test (DFT, BIST, ATPG, memory test, diagnosis, yield, silicon debug), held as
+  the week-long ITC Test Week with tutorials, workshops and an exhibition
+- Not the same as the International Teletraffic Congress (also called ITC; see itc-congress)
+- Papers up to 10 pages; AI-focused papers may add an appendix of up to 6 pages; submissions under 4 pages are rarely
+  accepted
+- Accepted papers go to IEEE Xplore; separate poster track for late-breaking results
+- "Regular paper acceptance rate: 18.5% (2023, 30/162), 23.2% (2024, 36/155), 24.4% (2025, 40/164)"
+- Started in 1970 as a symposium on IC testing (Cherry Hill, NJ); held in the USA, San Antonio in 2026 and 2027
+- CORE A (ICORE2026), CCF B
+editions:
+- year: 2026
+  start: 2026-10-11
+  end: 2026-10-16
+  location: San Antonio, TX, USA
+  url: https://www.itctestweek.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-20
+    label: Paper title and abstract
+  - kind: submission
+    date: 2026-04-24
+    label: Paper final PDF
+  - kind: notification
+    date: 2026-06-19
+  - kind: other
+    date: 2026-07-10
+    label: Poster proposals
+  - kind: other
+    date: 2026-07-24
+    label: Poster notification
+- year: 2027
+  start: 2027-10-10
+  end: 2027-10-15
+  location: San Antonio, TX, USA
+  url: https://www.itctestweek.org/wp-content/uploads/2026/10/ITC_2027_CFP_v2026Oct10.pdf
+  deadlines:
+  - kind: abstract
+    date: 2027-03-05
+    label: Paper title and abstract
+  - kind: submission
+    date: 2027-04-09
+    label: Paper final PDF
+  - kind: notification
+    date: 2027-06-01
+  - kind: other
+    date: 2027-07-09
+    label: Poster proposals (2 pages)
+  - kind: other
+    date: 2027-07-23
+    label: Poster notification
+sources:
+- https://www.itctestweek.org/
+- https://www.itctestweek.org/wp-content/uploads/2026/10/ITC_2027_CFP_v2026Oct10.pdf
+- https://www.itctestweek.org/wp-content/uploads/2025/12/ITC_2026_CFP.pdf
+- https://www.itctestweek.org/itc-authors-page-2/
+- https://www.itctestweek.org/about-itc/
+- https://www.itctestweek.org/acceptance-rates/
+- https://www.itctestweek.org/previous-itc-years/
+- https://portal.core.edu.au/conf-ranks/?search=ITC&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
+- Locations of ITC 2020 to 2025 not listed on the official previous-years page; region set from the 2026 and 2027
+  venues and the US-based history
+- Deadline times and time zones not stated in the calls for papers
+- dblp page could not be opened (bot check); key taken from the ccfddl mirror
+last_verified: 2026-10-11

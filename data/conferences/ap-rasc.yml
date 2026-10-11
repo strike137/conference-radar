@@ -1,0 +1,58 @@
+id: ap-rasc
+name: AP-RASC
+full_name: URSI Asia-Pacific Radio Science Conference
+type: conference
+tier: minor
+areas: [communications]
+region: asia-pacific
+language: english
+frequency: irregular
+organizer: URSI (International Union of Radio Science)
+organizer_country: [international]
+proceedings: IEEE Xplore (summary papers) and URSI proceedings
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [8]
+links:
+  website: https://www.ursi.org/events.php
+notes:
+- Regional flagship conference of URSI covering all ten URSI commissions (electromagnetics, wave propagation,
+  radio communication, remote sensing, radio astronomy, and more)
+- Held about every three years between the URSI General Assemblies (Toyama 2010, Taipei 2013, Seoul 2016, New Delhi
+  2019, joint AT-AP-RASC in Gran Canaria 2022, Sydney 2025, Toyama 2028)
+- Papers reviewed by the technical programme committee; summary papers go to IEEE Xplore unless the author opts out,
+  extended abstracts appear only in the symposium proceedings
+- Student paper competition and Young Scientist Awards; Radio Science and Radio Science Letters ran a special issue
+  for 2025
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-08-17
+  end: 2025-08-22
+  location: Sydney, Australia (ICC Sydney)
+  url: https://ap-rasc.com/
+  deadlines:
+  - kind: submission
+    date: 2025-03-06
+    time: "23:59"
+    tz: CET
+  - kind: other
+    date: 2025-06-07
+    label: Author registration
+- year: 2028
+  start: 2028-08-20
+  end: 2028-08-25
+  location: Toyama, Japan
+  url: https://www.ursi.org/event.php?id=521
+  deadlines: []
+sources:
+- https://www.ursi.org/events.php
+- https://www.ursi.org/event.php?id=408
+- https://www.ursi.org/event.php?id=521
+- https://ap-rasc.com/
+- https://ap-rasc.com/papersubmission.php
+- https://portal.core.edu.au/conf-ranks/?search=AP-RASC&by=all&source=ICORE2026
+unverified:
+- AP-RASC 2028 website and deadlines (only dates and city on the URSI events page)
+last_verified: 2026-10-11

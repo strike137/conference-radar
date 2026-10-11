@@ -1,0 +1,66 @@
+id: s3
+name: S3
+full_name: ACM Workshop on Wireless of the Students, by the Students, for the Students
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGMOBILE
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://s3-workshop.neslab.it/
+notes:
+- Student-run workshop co-located with ACM MobiCom (with MobiHoc in 2009); sponsored by ACM SIGMOBILE and ACM
+- The first author must be a student; papers, posters and demos are reviewed double-blind by a student TPC
+- Very short papers (3 pages including references, ACM format); posters and demos 1 page
+- Moves with MobiCom (Madrid 2023, Washington DC 2024, Hong Kong 2025, Austin 2026)
+- 2023 papers appear in the ACM DL as the Proceedings of the 14th ACM S3 Workshop
+- A friendly first venue for students in wireless and mobile networking
+editions:
+- year: 2025
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Hong Kong, China (HKUST, with MobiCom 2025)
+  url: http://s3.witechlab.com/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    time: "23:59"
+    tz: AoE
+    label: Papers, posters and demos (extended from 2025-07-25)
+  - kind: notification
+    date: 2025-09-15
+  - kind: camera_ready
+    date: 2025-09-22
+- year: 2026
+  start: 2026-10-30
+  end: 2026-10-30
+  location: Austin, USA (with MobiCom 2026)
+  url: https://s3-workshop.neslab.it/
+  deadlines:
+  - kind: submission
+    date: 2026-07-24
+    label: Papers, posters and demos (extended from 2026-06-26)
+  - kind: notification
+    date: 2026-08-20
+  - kind: camera_ready
+    date: 2026-08-31
+sources:
+- https://s3-workshop.neslab.it/
+- http://s3.witechlab.com/
+- https://wcsng.ucsd.edu/s3/
+- https://www.sigmobile.org/mobicom/2026/workshop_program.html
+- https://www.sigmobile.org/mobicom/2025/workshop_program.html
+- https://api.crossref.org/works/10.1145/3615591.3615676
+unverified:
+- The 2025 and 2026 workshop pages do not say where papers are published; ACM DL is based on the 2023 proceedings
+  (DOI 10.1145/3615591)
+- Not found in the CORE ICORE2026 search; no CCF rank
+last_verified: 2026-10-11

@@ -1,0 +1,68 @@
+id: asss
+name: ASSS
+full_name: International Conference on Advanced Security on Software and Systems
+type: conference
+tier: minor
+areas: [security, software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: SPTAGE Lab with a rotating Chinese host university (2025 Guilin University of Electronic Technology, 2026
+  Linyi University)
+organizer_country: [europe, china]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [11, 12]
+links:
+  website: https://asss.sptagelab.org/
+notes:
+- Started as the International Symposium on Advanced Security on Software and Systems, a workshop co-located with
+  AsiaCCS 2021 (Hong Kong), IEEE EuroS&P 2022 (Genoa) and AsiaCCS 2023 (Melbourne)
+- Standalone conference held in China since 2025 (Guilin 2025, Linyi 2026); 2026 is the fifth edition
+- 2025 proceedings in Springer CCIS; the 2026 site says Springer LNCS/CCIS format without naming the series
+- Hybrid; online presentation allowed
+- Papers up to 18 pages excluding references and appendix, anonymized, at least three reviewers
+- Deadlines are usually extended; selected papers invited to journal special issues
+- Small venue run by the same group as ADIoT and EISA
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Guilin, China
+  url: https://asss.sptagelab.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-10-25
+    label: Extended
+  - kind: notification
+    date: 2025-11-17
+  - kind: camera_ready
+    date: 2025-11-22
+- year: 2026
+  start: 2026-11-14
+  end: 2026-11-15
+  location: Linyi, China
+  url: https://asss.sptagelab.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-14
+    label: Extended
+  - kind: notification
+    date: 2026-10-10
+    label: Extended
+  - kind: camera_ready
+    date: 2026-10-25
+sources:
+- https://asss.sptagelab.org/
+- https://asss.sptagelab.org/2026/
+- https://asss.sptagelab.org/2025/
+- https://asss.sptagelab.org/2023/
+- https://asss.sptagelab.org/2022/
+- https://asss.sptagelab.org/2021/
+- https://portal.core.edu.au/conf-ranks/?search=ASSS&by=all&source=ICORE2026
+unverified:
+- Proceedings series for 2026 (Springer LNCS or CCIS) not stated on the site
+- Not found in the CORE ICORE2026 search; CCF listing not checked against the full name
+last_verified: 2026-10-11

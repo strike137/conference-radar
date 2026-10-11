@@ -1,0 +1,73 @@
+id: acra
+name: ACRA
+full_name: Australasian Conference on Robotics and Automation
+type: conference
+tier: minor
+areas: [ai, systems]
+region: oceania
+language: english
+frequency: annual
+organizer: Australian Robotics and Automation Association (ARAA) with a host university
+organizer_country: [australia]
+proceedings: ACRA proceedings (online, open access)
+archival: true
+indexing: [Scopus, Google Scholar]
+rank:
+  core: Australasian C
+typical:
+  deadline_months: [9, 10]
+  conference_months: [11, 12]
+links:
+  website: https://www.araa.asn.au/conference/
+notes:
+- Annual conference of the Australian Robotics and Automation Association (ARAA), held since 1999
+- Rotates between Australian cities and occasionally New Zealand (Sydney 2023, Auckland 2024, Perth 2025, Canberra 2026)
+- Full papers 6 to 10 pages, single-blind review by at least two reviewers
+- Proceedings published openly online (2025 volume hosted on Linklings); the site says they are indexed in Scopus and Google Scholar
+- "CORE ICORE2026: Australasian C"
+- Low cost (2026 early bird 700 AUD general, 500 AUD student); submission deadlines were extended by one week (2025) and two weeks (2026)
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-03
+  location: Perth, Australia (Edith Cowan University, Joondalup)
+  url: https://www.araa.asn.au/conference/acra-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-28
+    time: "23:59"
+    tz: UTC+8
+    label: Full papers (extended from 2025-09-21)
+  - kind: notification
+    date: 2025-10-30
+    time: "23:59"
+    tz: UTC+8
+    label: Extended from 2025-10-15
+  - kind: camera_ready
+    date: 2025-11-10
+    time: "23:59"
+    tz: UTC+8
+    label: Extended from 2025-11-03
+- year: 2026
+  start: 2026-11-30
+  end: 2026-12-02
+  location: Canberra, Australia (University of Canberra)
+  url: https://www.araa.asn.au/conference/acra-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-10-04
+    label: Full papers (extended from 2026-09-20)
+  - kind: notification
+    date: 2026-10-20
+    label: Extended from 2026-10-15
+  - kind: camera_ready
+    date: 2026-11-10
+sources:
+- https://www.araa.asn.au/conference/
+- https://www.araa.asn.au/conference/acra-2026/
+- https://www.araa.asn.au/conference/acra-2025/
+- https://www.araa.asn.au/conference/acra-2024/
+- https://www.araa.asn.au/conference/acra-2023/
+- https://ssl.linklings.net/conferences/acra/acra2025_proceedings/views/by_auth.html
+- https://portal.core.edu.au/conf-ranks/?search=ACRA&by=all&source=ICORE2026
+last_verified: 2026-10-11

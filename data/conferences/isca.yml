@@ -9,7 +9,7 @@ language: english
 frequency: annual
 organizer: ACM SIGARCH and IEEE CS TCCA
 organizer_country: [international]
-proceedings: ACM DL
+proceedings: ACM DL and IEEE Xplore
 archival: true
 rank:
   core: A*
@@ -23,11 +23,12 @@ links:
 notes:
 - Flagship computer architecture venue, first held in 1973; technical sponsors ACM SIGARCH and IEEE CS TCCA
 - Regarded as a top venue (ICORE2026 A*, CCF A)
-- Held every June, mostly in the USA with some editions abroad (Orlando 2023, Buenos Aires 2024, Tokyo 2025, Raleigh 2026, Atlanta 2027)
+- Held every June, often in the USA with some editions abroad (recently Orlando 2023, Buenos Aires 2024, Tokyo 2025, Raleigh 2026, Atlanta 2027)
 - ISCA 2027 is co-located with FCRC (Federated Computing Research Conference) in Atlanta
 - Abstract registration one week before the full paper; three initial reviews, then a fourth review and a rebuttal/revision period for papers that advance
 - Separate industry track; artifact evaluation offered; at most 8 main track submissions per author
-- ACM open access publishing; authors from institutions outside ACM Open pay an APC (subsidized 500 USD members, 750 USD non-members in 2027)
+- Lead publisher alternates between ACM and IEEE (ACM for 2023, IEEE for 2026, ACM for 2027)
+- ACM open access publishing for 2027; authors from institutions outside ACM Open pay an APC (subsidized 500 USD members, 750 USD non-members in 2027)
 editions:
 - year: 2026
   start: 2026-06-27
@@ -57,6 +58,10 @@ editions:
     label: Industry track
   - kind: notification
     date: 2026-03-27
+  - kind: camera_ready
+    date: 2026-05-06
+    time: "17:00"
+    tz: PDT
 - year: 2027
   start: 2027-06-05
   end: 2027-06-09
@@ -87,11 +92,13 @@ sources:
 - https://iscaconf.org/isca2026/
 - https://iscaconf.org/isca2026/submit/callforpapers.php
 - https://iscaconf.org/isca2025/
+- https://iscaconf.org/isca2026/submit/cameraready.php
+- https://iscaconf.org/isca2025/submit/cameraready.php
 - https://portal.core.edu.au/conf-ranks/?search=ISCA&by=all&source=ICORE2026
 - https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
 unverified:
 - ISCA 2027 industry track deadlines and exact venue (TBA on the official site as of 2026-10-11)
-- Proceedings publisher inferred from the ACM open access section of the ISCA 2027 CFP; ACM DL proceedings pages not checked directly
+- ISCA 2027 publisher inferred from the ACM open access section of the CFP; ACM DL and IEEE Xplore proceedings pages not checked directly
 - CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
 - Acceptance rate not published on the official site
 last_verified: 2026-10-11

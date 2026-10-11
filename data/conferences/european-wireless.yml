@@ -1,0 +1,70 @@
+id: european-wireless
+name: European Wireless
+full_name: European Wireless Conference
+type: conference
+tier: minor
+areas: [communications, networking]
+region: europe
+language: english
+frequency: annual
+organizer: VDE ITG (with local host universities)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [4, 7]
+  conference_months: [6, 9, 10]
+links:
+  website: https://european-wireless.org/
+notes:
+- Long-running European wireless communications and networking conference; 31st edition in 2026
+- Partnered with VDE ITG (German Information Technology Society); steering committee chaired by Frank Fitzek (TU Dresden)
+- Proceedings in IEEE Xplore, indexed in Scopus; final papers up to 6 pages; single-blind review via EDAS
+- Main track plus special tracks (5G/6G, NTN, quantum, semantic communications, Open RAN and AI, JCAS) and a workshop
+- Held in a different European city each year (Brno 2024, Sophia-Antipolis 2025, Rimini 2026); dates move between June
+  and October
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-27
+  end: 2025-10-29
+  location: Sophia-Antipolis, France
+  url: https://ew2025.european-wireless.org/
+  deadlines:
+  - kind: submission
+    date: 2025-07-14
+    label: Papers (firm, extended from 2025-06-15)
+  - kind: notification
+    date: 2025-08-31
+  - kind: camera_ready
+    date: 2025-09-22
+    label: With author registration
+- year: 2026
+  start: 2026-06-17
+  end: 2026-06-19
+  location: Rimini, Italy
+  url: https://ew2026.european-wireless.org/
+  deadlines:
+  - kind: other
+    date: 2026-03-30
+    label: Workshop papers
+  - kind: submission
+    date: 2026-04-15
+    label: Papers (firm)
+  - kind: notification
+    date: 2026-05-15
+  - kind: camera_ready
+    date: 2026-05-31
+sources:
+- https://ew2026.european-wireless.org/
+- https://ew2026.european-wireless.org/call-for-papers/
+- https://ew2026.european-wireless.org/guidelines/
+- https://ew2025.european-wireless.org/
+- https://ew2025.european-wireless.org/call-for-papers
+- https://ew2024.european-wireless.org/
+- https://portal.core.edu.au/conf-ranks/?search=European+Wireless&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- European Wireless 2027 dates and location not yet announced (ew2027 site not reachable as of 2026-10-11)
+- Locations of the 2021 to 2023 editions not confirmed from official pages (region judged from 2024 to 2026)
+last_verified: 2026-10-11

@@ -1,0 +1,65 @@
+id: acm-ec
+name: ACM EC
+full_name: ACM Conference on Economics and Computation
+type: conference
+tier: top
+areas: [ai, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGecom
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A*
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://www.sigecom.org/events.html
+  dblp: https://dblp.org/db/conf/sigecom/index.html
+notes:
+- Flagship conference of ACM SIGecom on algorithmic game theory, mechanism design, market design and economics of
+  computation; CORE A* (ICORE2026); not in the CCF 2026 list
+- Proceedings in the ACM Digital Library (open access from 2026, APC for authors outside ACM Open unless waived)
+- Accepted authors may publish only a one-page abstract with a link to the full paper, so the work can go to an
+  economics journal
+- Papers up to 18 pages single-column plus unlimited appendix; double-blind review in two rounds with author
+  response
+- Mostly held in the USA (Boulder 2022, New Haven 2024, Palo Alto 2025); London 2023 and Rome 2026
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-10
+  location: Sapienza University of Rome, Rome, Italy
+  url: https://ec26.sigecom.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-02
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-02-09
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-03-26
+    label: First-round decisions
+  - kind: other
+    date: 2026-04-25
+    time: "23:59"
+    tz: AoE
+    label: Author responses due
+  - kind: notification
+    date: 2026-05-18
+    label: Final decisions
+sources:
+- https://ec26.sigecom.org/
+- https://ec26.sigecom.org/call-for-contributions-acm/papers/
+- https://www.sigecom.org/events.html
+- https://portal.core.edu.au/conf-ranks/?search=EC&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- EC'27 dates, location and deadlines not yet announced (SIGecom events page lists up to EC'26 as of 2026-10-11)
+last_verified: 2026-10-11

@@ -1,0 +1,77 @@
+id: esserc
+name: ESSERC
+full_name: IEEE European Solid-State Electronics Research Conference
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: ESSERC Steering Committee with IEEE SSCS, IEEE EDS and IEEE CASS; secretariat Sistema Congressi (Padova)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://www.esserc.org/
+notes:
+- Merger of ESSDERC (devices, since 1971) and ESSCIRC (circuits, since 1975); last joint ESSDERC/ESSCIRC in Lisbon
+  2023, first unified ESSERC in Bruges 2024 (numbered the 50th)
+- Main European forum for solid-state circuits and devices, with tracks for circuits, technologies and joint topics
+- Measurement results or calibration against measured data required; final papers must be IEEE Xplore compliant
+- Papers in IEEE Xplore; no-shows are excluded from the proceedings; one registration per paper
+- Held every September in Europe (Milan 2022, Lisbon 2023, Bruges 2024, Munich 2025, Palma 2026, Helsinki 2027,
+  Bordeaux 2028)
+- Not listed in ICORE2026 under ESSERC or ESSCIRC; circuits and devices venue outside the usual CS rankings
+editions:
+- year: 2025
+  start: 2025-09-08
+  end: 2025-09-11
+  location: Munich, Germany
+  url: https://sistemacongressi.wixsite.com/esserc2025
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-10
+  location: Palma de Mallorca, Spain
+  url: https://www.esserc2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-10
+    time: "23:59"
+    tz: UTC-5
+    label: Papers (new, extended deadline)
+  - kind: notification
+    date: 2026-05-27
+    time: "23:59"
+    tz: UTC-5
+  - kind: camera_ready
+    date: 2026-06-08
+    time: "23:59"
+    tz: UTC-5
+    label: Final submission and copyright
+- year: 2027
+  start: 2027-09-06
+  end: 2027-09-09
+  location: Helsinki, Finland
+  url: https://www.esserc2027.org/
+  deadlines:
+  - kind: submission
+    date: 2027-04-02
+sources:
+- https://www.esserc.org/
+- https://www.esserc2026.org/
+- https://www.esserc2026.org/papers
+- https://www.esserc2026.org/conference
+- https://www.esserc2027.org/
+- https://www.esserc2027.org/conference
+- https://sistemacongressi.wixsite.com/esserc2025
+- https://portal.core.edu.au/conf-ranks/?search=ESSERC&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=ESSCIRC&by=all&source=ICORE2026
+unverified:
+- ESSERC 2027 notification and camera-ready dates not announced yet; only the April 2, 2027 paper deadline is posted
+- CCF 2026 list not checked directly (ccf.org.cn behind a captcha); not found in the ccfddl mirror, so rank.ccf left
+  out
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-11

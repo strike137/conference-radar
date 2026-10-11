@@ -1,0 +1,98 @@
+id: ease
+name: EASE
+full_name: International Conference on Evaluation and Assessment in Software Engineering
+type: conference
+tier: major
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: EASE Steering Committee
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+  ccf: C
+typical:
+  deadline_months: [1]
+  conference_months: [6]
+links:
+  website: https://conf.researchr.org/series/ease
+  dblp: https://dblp.org/db/conf/ease/index.html
+notes:
+- Main venue for empirical software engineering and evidence-based SE (systematic reviews, replications, mining studies)
+- Proceedings published by ACM as open access under the ACM model, so authors pay an article processing charge
+- 'Research track: 10 pages plus up to 2 pages of references, double-anonymous review, abstract one week before the paper'
+- Also industry, short papers and emerging results, posters and vision, doctoral symposium and workshop tracks with later deadlines in February and March
+- Held every June, mostly in Europe (Oulu 2023, Salerno 2024, Istanbul 2025, Glasgow 2026); 2027 edition in Hanoi, Vietnam
+- CORE A (ICORE2026), CCF C
+editions:
+- year: 2026
+  start: 2026-06-09
+  end: 2026-06-12
+  location: Glasgow, UK
+  url: https://conf.researchr.org/home/ease-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-01-16
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-01-23
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2026-03-13
+    tz: AoE
+    label: Research papers
+  - kind: camera_ready
+    date: 2026-04-30
+    tz: AoE
+    label: Research papers, with early registration
+- year: 2027
+  start: 2027-06-15
+  end: 2027-06-18
+  location: Hanoi, Vietnam
+  url: https://conf.researchr.org/home/ease-2027
+  deadlines:
+  - kind: other
+    date: 2026-12-02
+    label: Workshop proposals
+  - kind: abstract
+    date: 2027-01-15
+    label: Research papers
+  - kind: submission
+    date: 2027-01-22
+    label: Research papers
+  - kind: abstract
+    date: 2027-02-22
+    label: Industry papers; short papers and emerging results
+  - kind: submission
+    date: 2027-03-01
+    label: Industry papers; short papers and emerging results
+  - kind: submission
+    date: 2027-03-02
+    label: Workshop papers
+  - kind: submission
+    date: 2027-03-08
+    label: Doctoral symposium
+  - kind: notification
+    date: 2027-03-12
+    label: Research papers
+  - kind: submission
+    date: 2027-03-16
+    label: Posters and vision
+sources:
+- https://conf.researchr.org/home/ease-2026
+- https://conf.researchr.org/track/ease-2026/ease-2026-research-papers
+- https://conf.researchr.org/home/ease-2027
+- https://conf.researchr.org/dates/ease-2027
+- https://conf.researchr.org/series/ease
+- https://portal.core.edu.au/conf-ranks/?search=EASE&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+- EASE 2027 dates page does not state a time zone (EASE 2026 used AoE)
+- Recent acceptance rate not found on an official page
+last_verified: 2026-10-11

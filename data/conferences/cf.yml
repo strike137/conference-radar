@@ -1,0 +1,76 @@
+id: cf
+name: CF
+full_name: ACM International Conference on Computing Frontiers
+type: conference
+tier: minor
+areas: [systems, general]
+region: europe
+language: english
+frequency: annual
+organizer: ACM SIGMICRO
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5]
+links:
+  website: https://www.computingfrontiers.org/
+  dblp: https://dblp.org/db/conf/cf/index.html
+notes:
+- Sponsored by ACM SIGMICRO; proceedings in the ACM Digital Library
+- Broad scope across computer architecture, systems, HPC and emerging computing paradigms, with co-located workshops
+  and special sessions
+- Full papers up to 8 pages excluding references (2 extra pages can be bought), short papers up to 4 pages; double-blind
+  review; optional artifact evaluation
+- Held in Italy every year recently (Turin 2022, Bologna 2023, Ischia 2024, Cagliari 2025, Catania 2026); in-person
+  only in 2026
+- CCF C; not listed in CORE ICORE2026
+- Deadlines in January are usually extended by one or two weeks
+editions:
+- year: 2026
+  start: 2026-05-19
+  end: 2026-05-21
+  location: Catania, Sicily, Italy
+  url: https://www.computingfrontiers.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-01
+    tz: AoE
+    label: Full papers (final extension, originally 2026-01-12)
+  - kind: submission
+    date: 2026-02-01
+    tz: AoE
+    label: Full papers (final extension, originally 2026-01-19)
+  - kind: other
+    date: 2026-02-15
+    tz: AoE
+    label: Special session abstracts
+  - kind: notification
+    date: 2026-03-09
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2026-03-13
+    tz: AoE
+    label: Posters submission
+  - kind: camera_ready
+    date: 2026-04-06
+    tz: AoE
+    label: Full papers, posters and special sessions
+sources:
+- https://www.computingfrontiers.org/2026/
+- https://www.computingfrontiers.org/2025/
+- https://www.computingfrontiers.org/2024/
+- https://www.computingfrontiers.org/2023/
+- https://www.computingfrontiers.org/2022/
+- https://www.computingfrontiers.org/2021/
+- https://portal.core.edu.au/conf-ranks/?search=Computing+Frontiers&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/ARCH_DCP_SS/
+unverified:
+- CF 2027 dates and location not announced (no 2027 page found as of 2026-10-11)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-11

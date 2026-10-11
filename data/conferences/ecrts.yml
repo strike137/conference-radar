@@ -1,0 +1,59 @@
+id: ecrts
+name: ECRTS
+full_name: European Conference on Real-Time Systems
+type: conference
+tier: major
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: ECRTS Technical Committee (local organizers change each year)
+organizer_country: [europe]
+proceedings: LIPIcs (Dagstuhl)
+archival: true
+indexing: [DBLP]
+rank:
+  core: B
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://www.ecrts.org/
+  dblp: https://dblp.org/db/conf/ecrts/index.html
+notes:
+- Premier European venue for real-time systems; the site ranks it with RTSS and RTAS as one of the top three
+  conferences in the field
+- Began as a workshop in 1989 and became a conference in 1998; named Euromicro Conference on Real-Time Systems in
+  proceedings up to 2025
+- Open-access proceedings in LIPIcs (Schloss Dagstuhl) since 2017; conference fees cover publication costs
+- Double-blind review with artifact evaluation, a shadow TPC, an industrial challenge and real-time pitches; up to 20
+  pages of technical content (2026)
+- Held in Europe every year in early to mid July (Brussels 2025, Lund 2026, Prague 2027)
+- CORE B (ICORE2026, listed as Euromicro Conference on Real-Time Systems); not in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-07
+  end: 2026-07-10
+  location: Lund, Sweden
+  url: https://www.ecrts.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-26
+    tz: AoE
+- year: 2027
+  start: 2027-07-13
+  end: 2027-07-16
+  location: Prague, Czech Republic
+  url: https://www.ecrts.org/
+sources:
+- https://www.ecrts.org/
+- https://www.ecrts.org/call-for-papers/
+- https://www.ecrts.org/about-ecrts/
+- https://www.ecrts.org/open-access/
+- https://www.ecrts.org/organizers/
+- https://drops.dagstuhl.de/entities/conference/ECRTS
+- https://portal.core.edu.au/conf-ranks/?search=ECRTS&by=all&source=ICORE2026
+unverified:
+- ECRTS 2027 deadlines and venue not yet announced (all listed as tba as of 2026-10-11)
+- ECRTS 2027 proceedings page says coming soon; LIPIcs assumed to continue but not stated for 2027
+last_verified: 2026-10-11

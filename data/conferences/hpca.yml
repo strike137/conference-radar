@@ -45,7 +45,9 @@ editions:
   - kind: notification
     date: 2025-11-07
   - kind: camera_ready
-    date: 2025-12-04
+    date: 2025-12-15
+    time: "23:59"
+    tz: PDT
 - year: 2027
   start: 2027-03-20
   end: 2027-03-24
@@ -71,10 +73,12 @@ sources:
 - https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference
 - https://hpca-conf.org/2026/
 - https://2026.hpca-conf.org/track/hpca-2026-main-conference
+- https://2026.hpca-conf.org/track/hpca-2026-camera-ready-instructions
 - https://portal.core.edu.au/conf-ranks/?search=HPCA&by=all&source=ICORE2026
 - https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
 unverified:
-- Proceedings publisher not stated on a visible official page; IEEE Xplore inferred from the IEEE publication and authorship policies in the HPCA 2027 CFP (IEEE Xplore pages not reachable)
+- IEEE Xplore taken from the HPCA 2026 camera-ready instructions (IEEE PDF eXpress, IEEE copyright, files for IEEE Xplore); HPCA 2027 publisher not stated yet
+- HPCA 2026 CFP listed final papers due 2025-12-04; the later camera-ready page says 2025-12-15 11:59 PM PDT, which is used here
 - HPCA 2027 venue, camera-ready date and industry track deadlines not announced as of 2026-10-11
 - CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
 - Acceptance rate not published on the official site

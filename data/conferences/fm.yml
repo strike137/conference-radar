@@ -1,0 +1,70 @@
+id: fm
+name: FM
+full_name: International Symposium on Formal Methods
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Formal Methods Europe (FME)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+  ccf: A
+typical:
+  deadline_months: [4, 5]
+  conference_months: [10, 11]
+links:
+  website: https://www.fmeurope.org/
+  dblp: https://dblp.org/db/conf/fm/index.html
+notes:
+- Flagship symposium of Formal Methods Europe (FME); research track plus a Tests and Proofs (TAP) track, industry day, doctoral symposium and workshops
+- Proceedings in Springer LNCS (FM subline), gold open access
+- Regular, long tool and case study papers up to 15 pages, short papers up to 6 pages; single-blind review
+- Held roughly every 18 months until 2026; from 2027 it becomes annual, each autumn
+- Usually in Europe but also abroad (Beijing 2021, Tokyo 2026); next Athens 2027 and Twente 2028
+- CORE B (ICORE2026), CCF A
+editions:
+- year: 2026
+  start: 2026-05-20
+  end: 2026-05-22
+  location: Tokyo, Japan
+  url: https://conf.researchr.org/home/fm-2026
+  deadlines:
+  - kind: abstract
+    date: 2025-11-25
+    time: "23:59"
+    tz: AoE
+    label: Optional abstract
+  - kind: submission
+    date: 2025-12-02
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-02-06
+  - kind: camera_ready
+    date: 2026-03-02
+- year: 2027
+  start: 2027-10-18
+  end: 2027-10-22
+  location: Athens, Greece
+  url: https://www.fmeurope.org/feature/upcoming_conferences/
+sources:
+- https://www.fmeurope.org/
+- https://www.fmeurope.org/symposia/
+- https://www.fmeurope.org/feature/upcoming_conferences/
+- https://www.fmeurope.org/2025/09/10/fm-2026-call-for-papers/
+- https://www.fmeurope.org/2025/09/14/fm-2027-call-for-organizers/
+- https://conf.researchr.org/home/fm-2026
+- https://conf.researchr.org/dates/fm-2026
+- https://portal.core.edu.au/conf-ranks/?search=FM&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- FM 2026 ran May 18-22 including workshops and tutorials; the main symposium was May 20-22
+- The FM 2026 CFP printed the full paper deadline as "December 2 6, 2025"; the conference dates page gives 2025-12-02 (used here)
+- FM 2027 has no website or call for papers yet; dates and location are from the FME upcoming conferences list only
+last_verified: 2026-10-11

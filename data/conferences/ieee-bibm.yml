@@ -1,0 +1,59 @@
+id: ieee-bibm
+name: IEEE BIBM
+full_name: IEEE International Conference on Bioinformatics and Biomedicine
+type: conference
+tier: major
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE (BIBM steering committee, chair Xiaohua Tony Hu)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  ccf: B
+typical:
+  deadline_months: [7]
+  conference_months: [11, 12]
+links:
+  website: https://ieeebibm.org/
+  dblp: https://dblp.org/db/conf/bibm/index.html
+notes:
+- Bioinformatics and health informatics venue with strong data mining, ML and AI tracks; held since 2007
+- Proceedings in IEEE Xplore since 2007; many co-located workshops with their own paper deadlines
+- CCF B (2026 list, interdisciplinary category); not found in ICORE2026
+- Rotates among the USA, Europe and China (Istanbul 2023, Lisbon 2024, Wuhan 2025, Dallas 2026)
+editions:
+- year: 2025
+  start: 2025-12-15
+  end: 2025-12-18
+  location: Wuhan, China
+  url: https://ieeebibm.org/BIBM2025/
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-04
+  location: Dallas, USA
+  url: https://ieeebibm.org/BIBM2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-05
+    label: Full papers
+  - kind: notification
+    date: 2026-09-25
+  - kind: camera_ready
+    date: 2026-10-25
+sources:
+- https://ieeebibm.org/
+- https://ieeebibm.org/BIBM2026/
+- https://www3.cs.stonybrook.edu/~bibm2026/home.html
+- https://www3.cs.stonybrook.edu/~bibm2026/callforpaper2026.html
+- https://www3.cs.stonybrook.edu/~bibm2026/Conference_venue_hotel.html
+- https://biod.whu.edu.cn/bibm2025/
+- https://biod.whu.edu.cn/bibm2025/Conference_Venues.htm
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+- https://portal.core.edu.au/conf-ranks/?search=BIBM&by=all&source=ICORE2026
+unverified:
+- BIBM 2027 dates and location not yet announced as of 2026-10-11
+- BIBM 2025 paper deadlines not checked
+last_verified: 2026-10-11

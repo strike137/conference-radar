@@ -1,0 +1,59 @@
+id: cbic
+name: CBIC
+full_name: Congresso Brasileiro de Inteligência Computacional (Brazilian Congress on Computational Intelligence)
+type: conference
+tier: domestic
+areas: [ai]
+region: latin-america
+language: mixed
+frequency: biennial
+organizer: SBIC (Sociedade Brasileira de Inteligência Computacional)
+organizer_country: [other]
+proceedings: Anais do CBIC (sbia.org.br, ISBN)
+archival: true
+typical:
+  deadline_months: [4, 5, 6]
+  conference_months: [10]
+links:
+  website: https://cbic2025.dcc.ufmg.br/
+notes:
+- Biennial congress of the Brazilian Computational Intelligence Society (SBIC); started in the 1990s as the Brazilian
+  Congress on Neural Networks and renamed CBIC in 2011
+- Covers neural networks and machine learning, evolutionary and swarm computation, fuzzy systems and metaheuristics
+- Papers of 6 to 8 pages in IEEE style, in English (preferred) or Portuguese, submitted through Even3
+- Only papers presented at the congress go into the online proceedings (Anais do CBIC) on sbia.org.br (the old
+  sbic.org.br address redirects there); 2025 volume has ISBN 978-65-978625-0-4 and more than 200 papers
+- Held in a different Brazilian city each edition (Salvador 2023, Belo Horizonte 2025); co-located with the EBIC
+  tutorials and a thesis contest (CTD)
+- Each accepted paper needs a professional registration
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-27
+  end: 2025-10-30
+  location: Belo Horizonte, Brazil
+  url: https://cbic2025.dcc.ufmg.br/
+  deadlines:
+  - kind: submission
+    date: 2025-06-08
+    label: Papers (final deadline, extended from 2025-04-30 and 2025-05-28)
+  - kind: notification
+    date: 2025-07-16
+    label: Papers (final date, moved from 2025-06-30 and 2025-07-09)
+  - kind: camera_ready
+    date: 2025-08-15
+    label: Papers, with author registration (moved from 2025-07-30)
+sources:
+- https://cbic2025.dcc.ufmg.br/
+- https://cbic2025.dcc.ufmg.br/cbic/
+- https://cbic2025.dcc.ufmg.br/datas-importantes/
+- https://cbic2025.dcc.ufmg.br/informacoes-aos-autores/
+- https://sbia.org.br/
+- https://sbia.org.br/eventos/cbic_2025/
+- https://sbia.org.br/eventos/cbic_2023/
+- https://portal.core.edu.au/conf-ranks/?search=CBIC&by=all&source=ICORE2026
+unverified:
+- CBIC 2027 dates and location (the SBIC site shows a CBIC 2027 banner without a link as of 2026-10-11)
+- Which of the listed 2025 dates were originals and which were extensions (the page lists several dates per item)
+- CBIC 2023 dates
+last_verified: 2026-10-11

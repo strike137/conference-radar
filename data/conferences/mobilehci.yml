@@ -1,0 +1,78 @@
+id: mobilehci
+name: MobileHCI
+full_name: ACM International Conference on Mobile Human-Computer Interaction
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL (PACM HCI)
+archival: true
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [1, 2]
+  conference_months: [9]
+links:
+  website: https://mobilehci.acm.org/
+  dblp: https://dblp.org/db/conf/mhci/index.html
+notes:
+- A SIGCHI conference on interaction with and through mobile devices, applications and services
+- Full papers are published as journal articles in a special issue of the Proceedings of the ACM on Human-Computer
+  Interaction (PACM HCI); ACM Open access from 2026
+- One paper deadline in January with a revise-and-resubmit round; typical length 4,000 to 9,000 words
+- Rotates worldwide (Melbourne 2024, Sharm El-Sheikh 2025, Swansea 2026)
+- CORE B (ICORE2026); CCF B (HCI and ubiquitous computing category)
+editions:
+- year: 2025
+  start: 2025-09-22
+  end: 2025-09-25
+  location: Sharm El-Sheikh, Egypt
+  url: https://mobilehci.acm.org/2025/
+- year: 2026
+  start: 2026-08-31
+  end: 2026-09-03
+  location: Swansea, Wales, UK (Computational Foundry, Swansea University)
+  url: https://mobilehci.acm.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-29
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: notification
+    date: 2026-04-02
+    time: "23:59"
+    tz: AoE
+    label: Papers (first decision)
+  - kind: other
+    date: 2026-05-07
+    time: "23:59"
+    tz: AoE
+    label: Papers, revised submission
+  - kind: notification
+    date: 2026-06-04
+    time: "23:59"
+    tz: AoE
+    label: Papers (final)
+  - kind: camera_ready
+    date: 2026-07-03
+    time: "23:59"
+    tz: AoE
+    label: Papers (TAPS upload)
+sources:
+- https://mobilehci.acm.org/
+- https://mobilehci.acm.org/2026/
+- https://mobilehci.acm.org/2026/submit/papers.html
+- https://mobilehci.acm.org/2025/
+- https://mobilehci.acm.org/2024/
+- https://portal.core.edu.au/conf-ranks/?search=MobileHCI&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- MobileHCI 2027 dates and location not yet announced on mobilehci.acm.org as of 2026-10-11
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

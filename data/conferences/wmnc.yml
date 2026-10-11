@@ -1,0 +1,67 @@
+id: wmnc
+name: WMNC
+full_name: IFIP Wireless and Mobile Networking Conference
+type: conference
+tier: minor
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IFIP TC6 (hosted by a different university each year, KU Leuven in 2025, University of Twente in 2026)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [9, 10, 11]
+links:
+  website: https://www.utwente.nl/en/wmnc2026/
+notes:
+- Technically sponsored by IFIP; combines the former PWC, MWCN and WSAN events
+- Proceedings in IEEE Xplore and the open access IFIP Open Digital Library
+- Mostly held in Europe (Prague 2018, Paris 2019, Venice 2024, Leuven 2025), also Montreal and Sousse; no 2023 edition
+- Full papers up to 8 pages and short papers up to 5 pages in IEEE format
+- Small two-day conference; deadlines are usually extended
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-27
+  end: 2025-11-28
+  location: Leuven, Belgium (KU Leuven)
+  url: https://wmnc2025.esat.kuleuven.be/home
+  deadlines:
+  - kind: submission
+    date: 2025-08-10
+    label: Papers (final extension, from 2025-07-01)
+  - kind: notification
+    date: 2025-10-03
+  - kind: camera_ready
+    date: 2025-10-10
+  - kind: other
+    date: 2025-10-14
+    label: Demo submission
+- year: 2026
+  start: 2026-11-26
+  end: 2026-11-27
+  location: Enschede, Netherlands (University of Twente)
+  url: https://www.utwente.nl/en/wmnc2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-24
+    label: Papers (special extension)
+  - kind: notification
+    date: 2026-10-15
+  - kind: camera_ready
+    date: 2026-11-15
+sources:
+- https://www.utwente.nl/en/wmnc2026/
+- https://www.utwente.nl/en/wmnc2026/Authors/call/
+- https://wmnc2025.esat.kuleuven.be/home
+- https://wmnc2025.esat.kuleuven.be/authors/call-for-papers
+- https://opendl.ifip-tc6.org/db/conf/wmnc/wmnc2025/index.html
+- https://ieeexplore.ieee.org/xpl/conhome/11298925/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=WMNC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- WMNC 2026 dates conflict across pages; the home page (updated 2026-10-02) gives 26 to 27 November, notification 2026-10-15 and camera-ready 2026-11-15, while the call for papers page (updated 2026-08-11) gives 25 to 26 November, notification 2026-10-01 and camera-ready 2026-10-15
+- Acceptance rate
+last_verified: 2026-10-11

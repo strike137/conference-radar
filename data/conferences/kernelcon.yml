@@ -1,0 +1,66 @@
+id: kernelcon
+name: Kernelcon
+full_name: Kernelcon Hacker Conference
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: Kernelcon (volunteer crew from the Omaha security community)
+organizer_country: [usa]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [12, 1]
+  conference_months: [3, 4]
+links:
+  website: https://kernelcon.org/
+notes:
+- Hacker and information security conference in Omaha, Nebraska, first held in 2019
+- Started by local security professionals from the Omaha DEF CON Group, NebraskaCERT and OWASP Omaha
+- Two days of talks, villages and competitions at the Hilton Omaha, with two days of paid pre-conference training
+- "2027 theme: Algo(Rhythm); 2026 was Off Grid (April 9-10, 2026)"
+- No published proceedings; talks are not streamed, some recordings are posted later
+editions:
+- year: 2026
+  start: 2026-04-09
+  end: 2026-04-10
+  location: Omaha, Nebraska, USA
+  url: https://2026.kernelcon.org/
+  deadlines:
+  - kind: other
+    date: 2025-09-30
+    label: Call for training closes
+  - kind: submission
+    date: 2026-01-16
+    label: Call for papers (talks)
+  - kind: notification
+    date: 2026-02-14
+- year: 2027
+  start: 2027-03-04
+  end: 2027-03-05
+  location: Hilton Omaha Downtown, Omaha, Nebraska, USA
+  url: https://kernelcon.org/
+  deadlines:
+  - kind: other
+    date: 2026-11-14
+    tz: UTC-6
+    label: Call for training closes
+  - kind: submission
+    date: 2026-12-19
+    tz: UTC-6
+    label: Call for papers final close (talks, no extensions)
+  - kind: notification
+    date: 2027-01-14
+    tz: UTC-6
+sources:
+- https://kernelcon.org/
+- https://kernelcon.org/dates
+- https://kernelcon.org/open-calls
+- https://2026.kernelcon.org/
+- https://portal.core.edu.au/conf-ranks/?search=Kernelcon&by=all&source=ICORE2026
+unverified:
+- Deadline times for 2027 not stated; the dates page says only "All times Central"
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

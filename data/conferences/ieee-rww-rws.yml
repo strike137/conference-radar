@@ -1,0 +1,65 @@
+id: ieee-rww-rws
+name: IEEE RWW (RWS)
+full_name: IEEE Radio and Wireless Week (Radio and Wireless Symposium, PAWR, SiRF, WiSNet, SHaRC)
+type: conference
+tier: minor
+areas: [communications, networking]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Microwave Theory and Technology Society (MTT-S)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [1]
+links:
+  website: https://www.radiowirelessweek.org/
+notes:
+- IEEE MTT-S week of co-located topical conferences held every January -> Radio and Wireless Symposium (RWS),
+  Power Amplifiers (PAWR), Silicon Monolithic ICs (SiRF), Wireless Sensors and Sensor Networks (WiSNet) and Space
+  Hardware and Radio (SHaRC), plus the ARFTG measurement conference and an IEEE IoT Summit
+- One common paper summary submission of up to 4 pages in a modified IEEE template; accepted papers go into a
+  digest and presented papers into IEEE Xplore
+- Late news paper summaries are accepted after the main notification
+- Always held in the USA (2023 Las Vegas, 2024 San Antonio, 2025 San Juan, 2026 Los Angeles, 2027 Tampa)
+- Not listed in ICORE2026; RF and microwave engineering venue outside the usual CS rankings
+editions:
+- year: 2026
+  start: 2026-01-18
+  end: 2026-01-21
+  location: Los Angeles, CA, USA
+  url: https://www.radiowirelessweek.org/pasteditions/
+  deadlines:
+  - kind: submission
+    date: 2025-07-23
+    label: Paper summaries
+- year: 2027
+  start: 2027-01-17
+  end: 2027-01-20
+  location: Tampa, FL, USA
+  url: https://www.radiowirelessweek.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    label: Paper summaries (22 July in the RWS call for papers)
+  - kind: other
+    date: 2026-08-01
+    label: Workshop proposals
+  - kind: notification
+    date: 2026-09-03
+  - kind: submission
+    date: 2026-09-18
+    label: Late news paper summaries
+  - kind: camera_ready
+    date: 2026-10-16
+    label: Final manuscripts (17 October on the homepage)
+sources:
+- https://www.radiowirelessweek.org/
+- https://www.radiowirelessweek.org/rws2027cfp/
+- https://www.radiowirelessweek.org/authors/submission/
+- https://www.radiowirelessweek.org/pasteditions/
+- https://www.radiowirelessweek.org/wp-content/uploads/2025/03/rww2026_c4p.pdf
+- https://portal.core.edu.au/conf-ranks/?search=RWS&by=all&source=ICORE2026
+last_verified: 2026-10-11

@@ -1,0 +1,41 @@
+id: bsides-hk
+name: BSides HK
+full_name: BSides Hong Kong
+type: industry
+tier: minor
+areas: [security]
+region: china
+frequency: annual
+organizer: BSides Hong Kong community committee (co-founded by Chris Chan and Jason Kessel)
+organizer_country: [china]
+proceedings: None (non-archival)
+archival: false
+typical:
+  conference_months: [6]
+links:
+  website: https://bsideshk.org/
+notes:
+- Community-run BSides security conference in Hong Kong with talks, a workshop day and seat reservation on the site
+- 2026 edition had a conference day at the Deloitte Hong Kong office (Admiralty) and a workshop day at the PwC Hong
+  Kong office (Kwun Tong)
+- Speakers are mostly local practitioners (pentesters, red teamers, consultants); sponsors include Deloitte, SOCRadar
+  and Tenable
+- No proceedings; industry talks only
+editions:
+- year: 2026
+  label: BSides Hong Kong 2026
+  start: 2026-06-25
+  end: 2026-06-26
+  location: Hong Kong
+  url: https://bsideshk.org/
+sources:
+- https://bsideshk.org/
+- https://bsideshk.org/api/settings
+- https://bsideshk.org/api/rundown/days
+- https://bsideshk.org/api/speakers
+- https://bsideshk.org/api/committee
+- https://bsideshk.org/api/sponsors
+unverified:
+- Year of the first edition and dates of earlier editions (not shown on the current site)
+- Call for speakers dates and the 2027 edition (not yet announced)
+last_verified: 2026-10-11

@@ -1,0 +1,55 @@
+id: ieee-aerospace-conference
+name: IEEE Aerospace Conference
+full_name: IEEE Aerospace Conference
+type: conference
+tier: minor
+areas: [communications, general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE (technical cosponsors AIAA and PHM Society)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7, 10]
+  conference_months: [3]
+links:
+  website: https://www.aeroconf.org/
+notes:
+- Week-long IEEE conference on aerospace systems and their underlying science and technology, with AIAA and the PHM
+  Society as technical cosponsors; tracks include space systems, communications and signal processing
+- Held every year at the Yellowstone Conference Center in Big Sky, Montana, in early March (48th edition in 2027)
+- Two-step submission -> a 500-word abstract in July, then the full paper in October; papers are peer reviewed and
+  there is no appeal or secondary review
+- Presented papers are published in IEEE Xplore; papers not presented at the conference can be excluded
+- The proceedings hold 420+ papers per year; not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-03-07
+  end: 2026-03-14
+  location: Big Sky, Montana, USA
+  url: https://www.aeroconf.org/
+- year: 2027
+  start: 2027-03-06
+  end: 2027-03-13
+  location: Big Sky, Montana, USA
+  url: https://www.aeroconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-01
+  - kind: submission
+    date: 2026-10-02
+  - kind: notification
+    date: 2026-11-09
+  - kind: camera_ready
+    date: 2027-01-08
+sources:
+- https://www.aeroconf.org/
+- https://www.aeroconf.org/key-dates
+- https://www.aeroconf.org/paper-submission
+- https://www.aeroconf.org/ieee-policies
+- https://www.aeroconf.org/cms/content_attachments/26/download
+- https://www.aeroconf.org/cms/content_attachments/75/download
+- https://portal.core.edu.au/conf-ranks/?search=Aerospace&by=all&source=ICORE2026
+last_verified: 2026-10-11

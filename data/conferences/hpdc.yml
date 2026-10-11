@@ -1,0 +1,73 @@
+id: hpdc
+name: HPDC
+full_name: ACM International Symposium on High-Performance Parallel and Distributed Computing
+type: conference
+tier: major
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (SIGARCH, SIGHPC)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+  ccf: A
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7]
+links:
+  website: https://hpdc.sci.utah.edu/
+  dblp: https://dblp.org/db/conf/hpdc/index.html
+notes:
+- Long-running ACM symposium on parallel and distributed systems, HPC, cloud and data-intensive computing (35th edition in
+  2026, first held in 1992)
+- Sponsored by ACM with SIGARCH and SIGHPC; proceedings in the ACM DL (IEEE proceedings up to 2006)
+- One paper deadline in late January or early February (firm), abstract registration a week earlier; double-blind review
+- Mostly held in the USA (Minneapolis 2022, Orlando 2023, Notre Dame 2025, Cleveland 2026); Pisa, Italy in 2024
+- Co-located workshops and tutorials on the first day
+- CORE A (ICORE2026) and CCF A (2026 list)
+editions:
+- year: 2025
+  start: 2025-07-20
+  end: 2025-07-23
+  location: Notre Dame, IN, USA
+  url: https://hpdc.sci.utah.edu/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-06
+    tz: AoE
+    label: Technical papers (firm)
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-16
+  location: Cleveland, OH, USA (Case Western Reserve University)
+  url: https://hpdc.sci.utah.edu/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-29
+    tz: AoE
+    label: Technical papers
+  - kind: submission
+    date: 2026-02-05
+    tz: AoE
+    label: Technical papers (firm)
+  - kind: notification
+    date: 2026-03-31
+    tz: AoE
+    label: Technical papers
+  - kind: camera_ready
+    date: 2026-04-30
+    tz: AoE
+    label: Technical papers
+sources:
+- https://hpdc.sci.utah.edu/
+- https://hpdc.sci.utah.edu/2026/
+- https://hpdc.sci.utah.edu/2026/calls-cfp.html
+- https://hpdc.sci.utah.edu/2025/
+- https://portal.core.edu.au/conf-ranks/?search=HPDC&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- HPDC 2027 dates, location and deadlines not yet announced (the site only has a call for bids as of 2026-10-11)
+last_verified: 2026-10-11

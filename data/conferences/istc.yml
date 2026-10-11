@@ -1,0 +1,66 @@
+id: istc
+name: ISTC
+full_name: International Symposium on Topics in Coding
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: biennial
+organizer: ISTC steering community founded by IMT Atlantique (formerly Telecom Bretagne); hosted by a different university each edition
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+fee: 650 to 900 USD (2025, early full registration depending on IEEE membership; students in IEEE IT or ComSoc 300 USD)
+typical:
+  deadline_months: [3, 4]
+  conference_months: [8, 9]
+links:
+  website: https://istc-conf.org/
+notes:
+- Founded in 1997 by ENST de Bretagne (now IMT Atlantique) as the International Symposium on Turbo Codes; renamed International Symposium on Topics in Coding in 2021
+- Every three years until 2006, then every two years (except 2018 -> 2021); 2023 Brest, 2025 UCLA Los Angeles, 2027 EPFL Lausanne
+- Covers all of coding theory and its applications (LDPC, polar, turbo, coded modulation, quantum error correction, ML for coding)
+- Regular papers up to 5 pages in IEEE format, submitted via EDAS; accepted and presented papers go to IEEE Xplore
+- Also runs a 2-page poster symposium (posters do not need a full registration) and an implementation competition
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-08-18
+  end: 2025-08-22
+  location: Los Angeles, USA (UCLA)
+  url: https://2025.istc-conf.org/
+  deadlines:
+  - kind: submission
+    date: 2025-04-21
+    time: "18:00"
+    tz: PDT
+    label: Papers (extended from 2025-03-31)
+  - kind: notification
+    date: 2025-06-10
+    label: Extended from 2025-06-02
+  - kind: camera_ready
+    date: 2025-07-23
+    time: "18:00"
+    tz: PDT
+    label: Extended from 2025-07-18
+- year: 2027
+  start: 2027-08-23
+  end: 2027-08-27
+  location: Lausanne, Switzerland (EPFL)
+  url: https://2027.istc-conf.org/
+sources:
+- https://istc-conf.org/
+- https://2027.istc-conf.org/
+- https://2025.istc-conf.org/
+- https://2025.istc-conf.org/call-for-papers/
+- https://2025.istc-conf.org/important-dates/
+- https://2025.istc-conf.org/paper-submission/
+- https://2025.istc-conf.org/organisation-committee/
+- https://2025.istc-conf.org/registration/
+- https://2023.istc-conf.org/
+- https://portal.core.edu.au/conf-ranks/?search=ISTC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ISTC 2027 deadlines and call for papers not yet published (2027 site shows only dates and place as of 2026-10-11)
+- CCF listing not checked (CCF site blocked automated access)
+last_verified: 2026-10-11

@@ -1,0 +1,105 @@
+id: ismar
+name: ISMAR
+full_name: IEEE International Symposium on Mixed and Augmented Reality
+type: conference
+tier: top
+areas: [general, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society and IEEE VGTC (supported by ACM SIGCHI)
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE TVCG special issue for journal-track papers)
+archival: true
+rank:
+  core: A*
+  ccf: B
+typical:
+  deadline_months: [3]
+  conference_months: [10]
+links:
+  website: https://ismar.net/
+  dblp: https://dblp.org/db/conf/ismar/index.html
+notes:
+- Sponsored by the IEEE Computer Society VGTC; the leading academic venue for augmented, mixed and virtual reality
+- Single paper deadline in March with a unified review for IEEE TVCG journal papers and ISMAR conference papers;
+  rebuttal phase
+- Journal-track papers appear in a special issue of IEEE TVCG, conference papers in the ISMAR proceedings; all in
+  IEEE Xplore
+- Main body 4 to 9 pages (11 total with references), VGTC conference style, anonymous review via PCS
+- 763 submissions and 217 accepted papers (60 journal, 157 conference) in 2025
+- Rotates worldwide (Daejeon 2025, Bari 2026, Kobe 2027, Cyprus 2028)
+- CORE A* (ICORE2026); CCF B (computer graphics and multimedia category)
+editions:
+- year: 2025
+  start: 2025-10-08
+  end: 2025-10-12
+  location: Daejeon, South Korea
+  url: https://www.ieeeismar.net/2025
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-09
+  location: Bari, Italy
+  url: https://www.ieeeismar.net/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-09
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: submission
+    date: 2026-03-16
+    time: "23:59"
+    tz: AoE
+    label: Papers (TVCG journal and conference)
+  - kind: other
+    date: 2026-05-22
+    time: "23:59"
+    tz: AoE
+    label: Workshop and tutorial proposals
+  - kind: other
+    date: 2026-05-31
+    time: "23:59"
+    tz: AoE
+    label: Rebuttals due
+  - kind: notification
+    date: 2026-06-22
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2026-06-25
+    time: "23:59"
+    tz: AoE
+    label: Posters
+  - kind: other
+    date: 2026-07-17
+    time: "23:59"
+    tz: AoE
+    label: Demos
+  - kind: camera_ready
+    date: 2026-07-21
+    time: "23:59"
+    tz: AoE
+    label: Papers
+- year: 2027
+  start: 2027-10-11
+  end: 2027-10-15
+  location: Kobe, Japan
+  url: https://www.ieeeismar.net/2027/
+  status: tentative
+sources:
+- https://ismar.net/
+- https://ismar.net/past_symposiums
+- https://ismar.net/ismar_future
+- https://www.ieeeismar.net/2026/
+- https://www.ieeeismar.net/2026/call-for-papers/
+- https://www.ieeeismar.net/2026/past-conferences/
+- https://www.ieeeismar.net/2027/
+- https://portal.core.edu.au/conf-ranks/?search=ISMAR&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- ISMAR 2027 dates are listed as subject to change on ismar.net; the 2027 site says dates to be announced
+- ismar.net gives Oct 4-9 for 2026 while the ISMAR 2026 site gives Oct 5-9 (the conference site is used)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

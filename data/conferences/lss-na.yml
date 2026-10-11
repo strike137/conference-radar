@@ -1,0 +1,55 @@
+id: lss-na
+name: LSS-NA
+full_name: Linux Security Summit North America
+type: industry
+tier: minor
+areas: [security, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: The Linux Foundation
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [5, 6]
+links:
+  website: https://events.linuxfoundation.org/linux-security-summit-north-america/
+notes:
+- Technical forum on Linux security run by The Linux Foundation, with a program committee selecting refereed talks
+- Refereed presentations (about 45 minutes), breakout sessions and BoFs; no papers, recordings go to the Linux Foundation
+  YouTube channel and slides to the event schedule
+- Topics include access control, kernel and OS hardening, integrity, crypto and key management, containers and supply chain
+- Held in a North American city that changes between editions (Denver 2025, Minneapolis 2026); a separate LSS Europe also exists
+editions:
+- year: 2025
+  start: 2025-06-26
+  end: 2025-06-27
+  location: Denver, CO, USA
+  url: https://events.linuxfoundation.org/archive/2025/linux-security-summit-north-america/
+- year: 2026
+  start: 2026-05-21
+  end: 2026-05-22
+  location: Minneapolis, MN, USA
+  url: https://events.linuxfoundation.org/linux-security-summit-north-america/
+  deadlines:
+  - kind: submission
+    date: 2026-03-15
+    time: "21:59"
+    tz: PDT
+    label: CFP closes (11:59 PM CDT)
+  - kind: notification
+    date: 2026-03-31
+  - kind: other
+    date: 2026-05-20
+    label: Slides due
+sources:
+- https://events.linuxfoundation.org/linux-security-summit-north-america/
+- https://events.linuxfoundation.org/linux-security-summit-north-america/program/cfp/
+- https://events.linuxfoundation.org/archive/2025/linux-security-summit-north-america/
+- https://portal.core.edu.au/conf-ranks/?search=Linux+Security+Summit&by=all&source=ICORE2026
+unverified:
+- LSS-NA 2027 dates and location not yet announced
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

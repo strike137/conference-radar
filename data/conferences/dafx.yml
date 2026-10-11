@@ -1,0 +1,63 @@
+id: dafx
+name: DAFx
+full_name: International Conference on Digital Audio Effects
+type: conference
+tier: minor
+areas: [general, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Rotating local host (Politecnico di Milano for 2027)
+organizer_country: [europe]
+proceedings: DAFx Proceedings (open access at dafx.de)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3]
+  conference_months: [8, 9]
+links:
+  website: https://www.dafx.de/
+notes:
+- Main venue for audio signal processing and digital audio effects, including machine learning for audio
+- Full papers up to 8 pages; double-blind review with a rebuttal stage for borderline papers
+- All papers open access in the DAFx paper archive since 1998
+- Held in Europe almost every year (Copenhagen 2023, Guildford 2024, Ancona 2025, Cremona 2027); Cambridge, MA,
+  USA in 2026
+- CORE C (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-09-02
+  end: 2025-09-05
+  location: Ancona, Italy
+  url: https://dafx25.dii.univpm.it/
+- year: 2026
+  start: 2026-09-01
+  end: 2026-09-04
+  location: Cambridge, MA, USA
+  url: https://dafx26.mit.edu/
+  deadlines:
+  - kind: submission
+    date: 2026-03-30
+  - kind: notification
+    date: 2026-05-15
+  - kind: other
+    date: 2026-06-05
+    label: Revised borderline papers and rebuttals
+  - kind: camera_ready
+    date: 2026-07-03
+- year: 2027
+  start: 2027-08-24
+  end: 2027-08-27
+  location: Cremona, Italy (Politecnico di Milano, Cremona campus)
+  url: https://dafx27.deib.polimi.it/
+sources:
+- https://www.dafx.de/
+- https://dafx26.mit.edu/
+- https://dafx26.mit.edu/call-for-papers
+- https://dafx25.dii.univpm.it/
+- https://dafx27.deib.polimi.it/
+- https://portal.core.edu.au/conf-ranks/?search=DAFx&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- DAFx 2027 deadlines not yet announced as of 2026-10-11
+last_verified: 2026-10-11

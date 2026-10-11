@@ -1,0 +1,69 @@
+id: ijcar
+name: IJCAR
+full_name: International Joint Conference on Automated Reasoning
+type: conference
+tier: major
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: IJCAR Steering Committee (joint conference of CADE, FroCoS, TABLEAUX and ITP)
+organizer_country: [international]
+proceedings: Springer LNAI/LNCS
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://ijcar.org/
+  dblp: https://dblp.org/db/conf/cade/index.html
+notes:
+- Premier joint conference on automated reasoning, merging CADE, FroCoS and TABLEAUX (with ITP represented on the
+  steering committee) in even years
+- Biennial; CADE runs as a separate conference in the odd years
+- Proceedings in Springer LNAI or LNCS (LNAI 14739 in 2024, LNCS 13385 in 2022)
+- Often part of the Federated Logic Conference (FLoC 2018 Oxford, 2022 Haifa, 2026 Lisbon)
+- Usually held in Europe (Coimbra 2016, Oxford 2018, Paris planned 2020 but online, Nancy 2024, Lisbon 2026)
+- CORE A (ICORE2026)
+editions:
+- year: 2024
+  start: 2024-07-01
+  end: 2024-07-06
+  location: Nancy, France
+  url: https://ijcar2024.loria.fr
+  deadlines:
+  - kind: abstract
+    date: 2024-01-29
+  - kind: submission
+    date: 2024-02-05
+    tz: AoE
+  - kind: notification
+    date: 2024-03-28
+- year: 2026
+  start: 2026-07-26
+  end: 2026-07-29
+  location: Lisbon, Portugal (part of FLoC 2026)
+  url: https://www.floc26.org/ijcar
+  deadlines:
+  - kind: abstract
+    date: 2026-02-06
+    tz: AoE
+  - kind: submission
+    date: 2026-02-15
+    tz: AoE
+  - kind: notification
+    date: 2026-04-14
+    tz: AoE
+sources:
+- https://ijcar.org/
+- https://ijcar.org/conferences
+- https://ijcar.org/comitee
+- https://portal.core.edu.au/conf-ranks/?search=IJCAR&by=all&source=ICORE2026
+- https://ijcar2024.loria.fr
+- https://www.floc26.org/ijcar
+unverified:
+- CCF rank (the ccfddl mirror lists CCF B under theory, but the official CCF 2026 list could not be opened)
+- LNAI volume number of the 2026 proceedings
+last_verified: 2026-10-11

@@ -1,0 +1,70 @@
+id: ieee-wisee
+name: IEEE WiSEE
+full_name: IEEE International Conference on Wireless for Space and Extreme Environments
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Council on RFID (CRFID), with IEEE-USA and local IEEE sections
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6, 7, 9]
+  conference_months: [9, 10, 12]
+links:
+  website: https://www.wisee2026.org/
+notes:
+- Wireless sensing and communication for space, satellites and extreme environments; NASA, ESA and CSA are partners
+- Financially co-sponsored by the IEEE Council on RFID (2024, 2025)
+- Full papers up to 6 pages via EDAS, poster abstracts up to 3 pages; accepted papers go to the proceedings and are
+  submitted to IEEE Xplore
+- Held in North America and Europe (Daytona Beach 2024, Halifax 2025, Leuven 2026)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-15
+  location: Halifax, Nova Scotia, Canada
+  url: https://wisee2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-07-31
+    label: Papers (extended from 2025-07-13)
+  - kind: notification
+    date: 2025-08-20
+    label: Acceptance (extended from 2025-08-13)
+  - kind: camera_ready
+    date: 2025-09-13
+    label: Camera-ready final paper
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-16
+  location: Leuven, Belgium
+  url: https://www.wisee2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+  - kind: notification
+    date: 2026-07-04
+  - kind: other
+    date: 2026-07-15
+    label: Poster abstracts
+  - kind: camera_ready
+    date: 2026-08-14
+    label: IEEE PDF eXpress version
+sources:
+- https://attend.ieee.org/wisee-2025/
+- https://wisee2025.org/
+- https://attend.ieee.org/wisee-2024/
+- https://www.wisee2026.org/
+- https://www.wisee2026.org/call-for-papers/
+- https://www.wisee2026.org/final-paper-guidelines/
+- https://portal.core.edu.au/conf-ranks/?search=WiSEE&by=all&source=ICORE2026
+unverified:
+- WiSEE 2027 dates and location not found as of 2026-10-11
+- IEEE Xplore inclusion is stated on the 2024 site only; the 2025 and 2026 sites mention IEEE PDF eXpress and the
+  IEEE copyright form
+last_verified: 2026-10-11

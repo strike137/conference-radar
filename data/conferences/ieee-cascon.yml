@@ -1,0 +1,65 @@
+id: ieee-cascon
+name: IEEE CASCON
+full_name: IEEE International Conference on Collaborative Advances in Software and Computing
+type: conference
+tier: minor
+areas: [software, systems, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE CASCON, co-sponsored by IEEE Computer Society and CS-CAN/INFO-CAN
+organizer_country: [canada]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [11]
+links:
+  website: https://conf.researchr.org/home/cascon-2026
+notes:
+- Canadian computing and software conference (36th edition in 2026); now co-sponsored by IEEE Computer Society and
+  CS-CAN/INFO-CAN with proceedings in IEEE Xplore
+- Held at York University (Keele campus), Toronto, Canada in 2025 and 2026
+- Broad topics including generative AI, cloud and edge, HPC, quantum computing and software engineering
+- Regular papers up to 10 pages, short and industrial papers up to 6 pages (IEEE format, references included);
+  double-anonymous review
+- Program includes tutorials, workshops, posters and the co-located CSER meeting on the first day
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-10
+  end: 2025-11-13
+  location: Toronto, Canada (York University)
+  url: https://conf.researchr.org/home/cascon-2025
+- year: 2026
+  start: 2026-11-09
+  end: 2026-11-12
+  location: Toronto, Canada (York University)
+  url: https://conf.researchr.org/home/cascon-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-06-22
+    tz: AoE
+    label: Technical papers (non-binding)
+  - kind: submission
+    date: 2026-07-13
+    tz: AoE
+    label: Technical papers
+  - kind: notification
+    date: 2026-08-24
+    tz: AoE
+    label: Technical papers
+  - kind: camera_ready
+    date: 2026-10-02
+    tz: AoE
+    label: Technical papers
+sources:
+- https://conf.researchr.org/home/cascon-2026
+- https://conf.researchr.org/track/cascon-2026/cascontechnical-papers2026
+- https://conf.researchr.org/home/cascon-2025
+- https://easychair.org/cfp/cascon-2026
+- https://portal.core.edu.au/conf-ranks/?search=CASCON&by=all&source=ICORE2026
+unverified:
+- 2026 notification date conflicts on the track page (Aug 17 in the CFP text, Aug 24 in the AoE dates table)
+- 2026 paper deadline conflicts on the EasyChair CFP (Jun 29 at the top, Jul 13 in Important Dates); the researchr track page gives Jul 13
+last_verified: 2026-10-11

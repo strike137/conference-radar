@@ -1,0 +1,90 @@
+id: iticse
+name: ITiCSE
+full_name: ACM Conference on Innovation and Technology in Computer Science Education
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: ACM SIGCSE
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://iticse.acm.org/
+  dblp: https://dblp.org/db/conf/iticse/index.html
+notes:
+- ACM SIGCSE conference on computing education, held annually since 1996, the European sister of SIGCSE TS
+- CORE B (ICORE2026)
+- Proceedings in two volumes in the ACM DL (V. 1 papers, V. 2 posters, panels, tips and working group material)
+- Full papers up to six pages plus one page of references; anonymous review; mandatory abstract one week before the
+  paper deadline
+- Known for its working groups, which meet for several days before the conference and publish reports
+- Held in Europe (Turku 2023, Milan 2024, Nijmegen 2025, Madrid 2026, Glasgow 2027)
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-15
+  location: Madrid, Spain
+  url: https://iticse.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-11
+    time: "23:59"
+    tz: AoE
+    label: Papers (mandatory)
+  - kind: other
+    date: 2026-01-11
+    time: "23:59"
+    tz: AoE
+    label: Working group proposals
+  - kind: submission
+    date: 2026-01-19
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: notification
+    date: 2026-03-09
+    label: Papers
+  - kind: submission
+    date: 2026-03-15
+    time: "23:59"
+    tz: AoE
+    label: Panels, posters, tips/techniques/courseware, doctoral consortium
+  - kind: notification
+    date: 2026-04-13
+    label: Panels, posters, tips/techniques/courseware, doctoral consortium
+- year: 2027
+  start: 2027-07-12
+  end: 2027-07-14
+  location: Glasgow, Scotland, UK
+  url: https://iticse.acm.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-11
+    label: Papers (mandatory, provisional)
+  - kind: submission
+    date: 2027-01-18
+    label: Papers (provisional)
+  - kind: notification
+    date: 2027-03-08
+    label: Papers (provisional)
+sources:
+- https://iticse.acm.org/
+- https://iticse.acm.org/history/
+- https://iticse.acm.org/2026/
+- https://iticse.acm.org/2026/call-for-papers/
+- https://iticse.acm.org/2026/awards-proceedings/
+- https://iticse.acm.org/2027/
+- https://portal.core.edu.au/conf-ranks/?search=ITiCSE&by=all&source=ICORE2026
+unverified:
+- ITiCSE 2027 paper deadlines are provisional and the page gives weekday and date without the year or time zone
+  (Monday 11 January and Monday 18 January match 2027)
+- Acceptance rate not found on the official pages
+last_verified: 2026-10-11

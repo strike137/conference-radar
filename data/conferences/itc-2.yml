@@ -1,0 +1,52 @@
+id: itc-2
+name: ITC
+full_name: Conference on Information-Theoretic Cryptography
+type: conference
+tier: minor
+areas: [crypto, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: ITC Steering Committee (in cooperation with IACR)
+organizer_country: [international]
+proceedings: LIPIcs
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7, 8]
+links:
+  website: https://itcrypto.github.io/
+notes:
+- Successor (since 2020) of the International Conference on Information Theoretic Security (ICITS, 2005 to 2017)
+- Held in cooperation with the IACR; since 2025 affiliated with CRYPTO and held just before it at UC Santa Barbara
+- Publication-track papers in open-access LIPIcs; selected papers invited to the Journal of Cryptology
+- Also non-published Spotlight (invited surveys) and Highlights (recent work from other venues) tracks
+- Steering committee co-chaired by Benny Applebaum and Elette Boyle
+- Not ranked in CORE (ICORE2026); the CORE "ITC" entries are the IEEE Test Conference and the Teletraffic Congress
+editions:
+- year: 2025
+  start: 2025-08-16
+  end: 2025-08-17
+  location: Santa Barbara, CA, USA
+  url: https://itcrypto.github.io/2025/index.html
+- year: 2026
+  start: 2026-08-15
+  end: 2026-08-16
+  location: Santa Barbara, CA, USA
+  url: https://itcrypto.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-16
+    tz: AoE
+  - kind: notification
+    date: 2026-05-08
+sources:
+- https://itcrypto.github.io/
+- https://itcrypto.github.io/2026/2026cfp.html
+- https://itcrypto.github.io/past.html
+- https://itcrypto.github.io/steering.html
+- https://itcrypto.github.io/2025/index.html
+- https://portal.core.edu.au/conf-ranks/?search=ITC&by=all&source=ICORE2026
+unverified:
+- ITC 2027 dates, location and deadlines (not announced as of 2026-10-11)
+last_verified: 2026-10-11

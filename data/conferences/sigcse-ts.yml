@@ -1,0 +1,102 @@
+id: sigcse-ts
+name: SIGCSE TS
+full_name: ACM SIGCSE Technical Symposium on Computer Science Education
+type: conference
+tier: major
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGCSE
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [6, 7]
+  conference_months: [2, 3]
+links:
+  website: https://2027.sigcse-ts.acm.org/
+  dblp: https://dblp.org/db/conf/sigcse/index.html
+notes:
+- Flagship conference of ACM SIGCSE on computing education (teaching and learning of computer science)
+- CORE A (ICORE2026); listed in the CORE portal as "ACM Special Interest Group on Computer Science Education Conference"
+- Papers published in the ACM DL under ACM Open
+- Two submission rounds; round one (July) for papers, panels, special sessions and tutorials with an abstract one
+  week before, round two (late September or October) for posters, demos, lightning talks, BoFs, SRC and doctoral
+  consortium
+- Held in a US city every year in February or March (Portland 2024, Pittsburgh 2025, St. Louis 2026, Sacramento 2027)
+- Large symposium with an exhibit floor; posters and lightning talks make it easy for students to attend
+editions:
+- year: 2026
+  start: 2026-02-18
+  end: 2026-02-21
+  location: St. Louis, Missouri, USA
+  url: https://sigcse2026.sigcse.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-26
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: submission
+    date: 2025-07-03
+    time: "23:59"
+    tz: AoE
+    label: Round one (papers, panels, special sessions, tutorials)
+  - kind: notification
+    date: 2025-09-15
+    label: Round one (tentative)
+  - kind: submission
+    date: 2025-10-06
+    time: "23:59"
+    tz: AoE
+    label: Round two (posters, demos, lightning talks, BoFs, SRC, doctoral consortium)
+  - kind: camera_ready
+    date: 2025-11-02
+    label: Round one (tentative)
+  - kind: notification
+    date: 2025-11-10
+    label: Round two
+- year: 2027
+  start: 2027-02-17
+  end: 2027-02-20
+  location: Sacramento, California, USA
+  url: https://2027.sigcse-ts.acm.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-26
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: submission
+    date: 2026-07-03
+    time: "23:59"
+    tz: AoE
+    label: Round one (papers, panels, special sessions, tutorials, affiliated events)
+  - kind: notification
+    date: 2026-09-14
+    label: Round one (tentative)
+  - kind: submission
+    date: 2026-09-30
+    time: "23:59"
+    tz: AoE
+    label: Round two (posters, demos, lightning talks, BoFs, SRC, doctoral consortium, nifty assignments)
+  - kind: camera_ready
+    date: 2026-11-01
+    label: Round one (tentative)
+  - kind: notification
+    date: 2026-11-09
+    label: Round two
+  - kind: camera_ready
+    date: 2026-11-29
+    label: Round two
+sources:
+- https://2027.sigcse-ts.acm.org/
+- https://sigcse2026.sigcse.org/
+- https://sigcse.org/events/symposia/index.html
+- https://portal.core.edu.au/conf-ranks/?search=SIGCSE&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not found on the official pages
+last_verified: 2026-10-11

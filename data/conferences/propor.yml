@@ -1,0 +1,62 @@
+id: propor
+name: PROPOR
+full_name: International Conference on Computational Processing of Portuguese
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: PROPOR Steering Committee (2026 hosted by UFBA, with the Brazilian Computer Society, SBC, as partner)
+organizer_country: [europe, other]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [3, 4]
+links:
+  website: https://propor2026.ufba.br/
+notes:
+- Main scientific meeting on computational processing of Portuguese and Galician (text and speech); held since 1993
+  (first edition in Lisbon), now biennial
+- Hosted alternately in Brazil and Portugal; Santiago de Compostela, Spain in 2024 and Salvador, Brazil in 2026
+- Proceedings published by ACL in the ACL Anthology (2026 in two volumes, 116 + 41 papers)
+- Full papers up to 8 pages plus 2 for references, short papers up to 4 plus 1; double-blind review with mandatory
+  reviewing by co-authors
+- Papers historically in English only; 2026 also accepted papers written in Portuguese
+- Not listed in CORE ICORE2026
+- "Registration 2026: 1,800 BRL professional non-SBC member, 450 BRL student non-SBC member (early bird)"
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-16
+  location: Salvador, Brazil
+  url: https://propor2026.ufba.br/
+  deadlines:
+  - kind: submission
+    date: 2026-01-09
+    time: "23:59"
+    tz: GMT-12
+    label: Main track full and short papers (extended from 2025-12-07)
+  - kind: other
+    date: 2026-02-13
+    time: "23:59"
+    tz: GMT-12
+    label: Industry track submission (extended from 2026-02-06)
+  - kind: other
+    date: 2026-02-15
+    label: Demo track submission (extended from 2026-02-06)
+  - kind: notification
+    date: 2026-02-11
+    label: Main track
+  - kind: camera_ready
+    date: 2026-03-15
+sources:
+- https://propor2026.ufba.br/
+- https://aclanthology.org/venues/propor/
+- https://aclanthology.org/volumes/2026.propor-1/
+- https://aclanthology.org/volumes/2024.propor-1/
+- https://portal.core.edu.au/conf-ranks/?search=PROPOR&by=all&source=ICORE2026
+unverified:
+- PROPOR 2028 host, dates and deadlines not yet announced as of 2026-10-11 (propor.org returned an error)
+last_verified: 2026-10-11

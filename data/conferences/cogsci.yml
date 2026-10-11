@@ -1,0 +1,61 @@
+id: cogsci
+name: CogSci
+full_name: Annual Meeting of the Cognitive Science Society
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Cognitive Science Society
+organizer_country: [international]
+proceedings: eScholarship (Proceedings of the Annual Meeting of the Cognitive Science Society)
+archival: false
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [2]
+  conference_months: [7, 8]
+links:
+  website: https://cognitivesciencesociety.org/
+  dblp: https://dblp.org/db/conf/cogsci/index.html
+notes:
+- Annual meeting of the Cognitive Science Society; covers cognitive science, cognitive modeling and AI
+- CORE B (ICORE2026), CCF B (2026 list, interdisciplinary category)
+- Research papers up to six pages plus references, double-blind review; also symposia, member abstracts
+  (posters) and workshops
+- Online proceedings published by the society on eScholarship under CC-BY; the society states the proceedings are
+  not archival, so papers can go on to journals
+- At least one author must register and attend for a paper to appear in the program and proceedings
+- Location rotates worldwide (Rio de Janeiro 2026 as a hybrid meeting, Bilbao 2027)
+editions:
+- year: 2026
+  start: 2026-07-22
+  end: 2026-07-25
+  location: Rio de Janeiro, Brazil (hybrid)
+  url: https://cognitivesciencesociety.org/cogsci-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-02
+    time: "23:59"
+    tz: UTC-11
+  - kind: camera_ready
+    date: 2026-05-08
+    time: "23:59"
+    tz: UTC-11
+- year: 2027
+  start: 2027-07-28
+  end: 2027-07-31
+  location: Euskalduna Bilbao Convention Centre, Bilbao, Spain
+  url: https://cognitivesciencesociety.org/cogsci-2027/
+sources:
+- https://cognitivesciencesociety.org/cogsci-2026/
+- https://cognitivesciencesociety.org/cogsci-2026/submissions/
+- https://cognitivesciencesociety.org/cogsci-2027/
+- https://escholarship.org/uc/cognitivesciencesociety
+- https://portal.core.edu.au/conf-ranks/?search=CogSci&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- CogSci 2027 submission deadlines not yet posted as of 2026-10-11
+last_verified: 2026-10-11

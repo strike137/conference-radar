@@ -1,0 +1,79 @@
+id: ozchi
+name: OzCHI
+full_name: Australian Conference on Human-Computer Interaction
+type: conference
+tier: minor
+areas: [general]
+region: oceania
+language: english
+frequency: annual
+organizer: CHISIG of the Human Factors and Ergonomics Society of Australia (HFESA)
+organizer_country: [australia]
+proceedings: ACM DL
+archival: true
+rank:
+  core: Australasian B
+typical:
+  deadline_months: [6]
+  conference_months: [11, 12]
+links:
+  website: https://www.ozchi.org/
+  dblp: https://dblp.org/db/conf/ozchi/index.html
+notes:
+- Australasia's main HCI conference, run by CHISIG of the HFESA; 2025 was the 37th edition
+- Long papers and late-breaking work appear in the ACM Digital Library; ACM Open means an APC (2026 subsidised rate
+  350 USD per paper, 250 USD with an ACM/SIG member author) unless covered by an institution
+- Double-anonymous review; long papers around 7,000 to 8,000 words in single-column ACM format, LBW up to 5,000
+  words
+- Rotates between Australian cities (Brisbane 2024, Sydney 2025, Adelaide 2026)
+- CORE Australasian B (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-11-29
+  end: 2025-12-03
+  location: Sydney, Australia
+  url: https://www.ozchi.org/2025/
+- year: 2026
+  start: 2026-11-21
+  end: 2026-11-25
+  location: Adelaide University, City East Campus, Adelaide, Australia
+  url: https://www.ozchi.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+    label: Long papers (extended from 2026-06-02)
+  - kind: notification
+    date: 2026-07-31
+    label: Long papers (moved from 2026-07-23)
+  - kind: submission
+    date: 2026-08-11
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking work (extended from 2026-08-04)
+  - kind: notification
+    date: 2026-09-24
+    label: Late-breaking work
+  - kind: camera_ready
+    date: 2026-09-24
+    time: "23:59"
+    tz: AoE
+    label: Long papers
+  - kind: camera_ready
+    date: 2026-10-03
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking work
+sources:
+- https://www.ozchi.org/
+- https://www.ozchi.org/2026/
+- https://www.ozchi.org/2026/papers
+- https://www.ozchi.org/2025/
+- https://www.ozchi.org/2024/
+- https://portal.core.edu.au/conf-ranks/?search=OzCHI&by=all&source=ICORE2026
+unverified:
+- The 2026 papers page still lists 2026-08-04 for the LBW deadline; the home page table shows it extended to
+  2026-08-11
+- Acceptance rate not published on the official site
+last_verified: 2026-10-11

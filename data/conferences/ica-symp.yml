@@ -1,0 +1,77 @@
+id: ica-symp
+name: ICA-SYMP
+full_name: International Symposium on Instrumentation, Control, Artificial Intelligence, and Robotics
+type: conference
+tier: minor
+areas: [ai, general]
+region: southeast-asia
+language: english
+frequency: biennial
+organizer: ECTI Association (Thailand)
+organizer_country: [thailand]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7, 8, 9, 10]
+  conference_months: [1]
+links:
+  website: https://ica-symp.ecti-thailand.org/
+notes:
+- Run by the Thai ECTI Association; technical co-sponsors IEEE Thailand Section, AIAT and Thailand Robotics Society
+- Held every two years in January in Bangkok, at a different university each time (Chulalongkorn 2019, KMUTT 2021,
+  Kasetsart 2023, KMUTNB 2025, KMITL 2027)
+- 2019 to 2025 proceedings in IEEE Xplore; position papers (2 to 4 pages) go in the proceedings but not IEEE Xplore
+- Regular papers 4 to 6 pages in IEEE two-column format (4 pages in 2025), submitted via EDAS
+- Includes organized sessions, e.g. ECTI-SICE on control engineering (2025) and ECTI-ICROS on estimation and
+  control design (2027)
+- Registration 6000 to 10000 THB (2027, early-bird student member to on-site non-member)
+- Two submission batches for 2027; deadlines are usually extended
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  label: 4th ICA-SYMP
+  start: 2025-01-15
+  end: 2025-01-17
+  location: Bangkok, Thailand (KMUTNB)
+  url: https://ica-symp-2025.ecti-thailand.org/
+  deadlines:
+  - kind: submission
+    date: 2024-09-16
+    label: Full paper (final extension from 2024-08-02)
+  - kind: notification
+    date: 2024-10-25
+  - kind: camera_ready
+    date: 2024-11-22
+    label: Final manuscript (extended from 2024-11-17)
+- year: 2027
+  label: 5th ICA-SYMP
+  start: 2027-01-20
+  end: 2027-01-22
+  location: Bangkok, Thailand (KMITL)
+  url: https://ica-symp.ecti-thailand.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    label: Full paper, 1st batch
+  - kind: notification
+    date: 2026-08-31
+    label: 1st batch
+  - kind: submission
+    date: 2026-10-03
+    label: Full paper, 2nd batch (extended from 2026-09-19)
+  - kind: notification
+    date: 2026-10-19
+    label: 2nd batch
+  - kind: camera_ready
+    date: 2026-11-20
+    label: Final manuscript and early-bird registration
+sources:
+- https://ica-symp.ecti-thailand.org/
+- https://ica-symp-2025.ecti-thailand.org/
+- https://ica-symp-2025.ecti-thailand.org/call-for-papers/
+- https://ica-symp-2025.ecti-thailand.org/venue/
+- https://ica-symp.ecti-thailand.org/call-for-papers/
+- https://ica-symp.ecti-thailand.org/registration/
+- https://ica-symp.ecti-thailand.org/venue/
+- https://portal.core.edu.au/conf-ranks/?search=ICA-SYMP&by=all&source=ICORE2026
+last_verified: 2026-10-11

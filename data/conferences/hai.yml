@@ -1,0 +1,83 @@
+id: hai
+name: HAI
+full_name: International Conference on Human-Agent Interaction
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: HAI Steering Committee (in cooperation with ACM)
+organizer_country: [international]
+proceedings: ACM ICPS (ACM DL)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [5, 6]
+  conference_months: [11]
+links:
+  website: https://hai-conference.net/
+  dblp: https://dblp.org/db/conf/hai/index.html
+notes:
+- Conference on interaction between humans and agents (robots, virtual agents, conversational systems)
+- Proceedings in the ACM International Conference Proceedings Series (ACM DL); held in cooperation with ACM
+- Full papers up to 8 pages excluding references; double-blind review with three reviewers and a meta-review
+- Separate posters and demos and workshops and tutorials tracks
+- Rotates worldwide (Christchurch 2022, Gothenburg 2023, Swansea 2024) with frequent editions in Japan (Yokohama 2025, Osaka 2026)
+- CORE B (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-11-10
+  end: 2025-11-13
+  location: Yokohama, Japan
+  url: https://hai-conference.net/hai2025/
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-19
+  location: Ritsumeikan University, Osaka, Japan
+  url: https://hai-conference.net/hai2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended from 2026-05-29)
+  - kind: other
+    date: 2026-06-15
+    time: "23:59"
+    tz: AoE
+    label: Workshop and tutorial proposals (extended from 2026-06-05)
+  - kind: notification
+    date: 2026-07-31
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2026-08-10
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos submission (extended from 2026-08-07)
+  - kind: notification
+    date: 2026-08-28
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos
+  - kind: camera_ready
+    date: 2026-09-09
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos
+sources:
+- https://hai-conference.net/
+- https://hai-conference.net/hai-2025-yokohama-japan/
+- https://hai-conference.net/hai2025/
+- https://hai-conference.net/steering/
+- https://hai-conference.net/hai-2026-osaka-japan/
+- https://hai-conference.net/hai2026/
+- https://hai-conference.net/hai2026/call-for-full-papers/
+- https://portal.core.edu.au/conf-ranks/?search=HAI&by=all&source=ICORE2026
+unverified:
+- HAI 2027 location and dates not yet announced as of 2026-10-11
+- Full paper camera-ready date for 2026 (TBA on the CFP page)
+last_verified: 2026-10-11

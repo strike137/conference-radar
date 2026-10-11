@@ -1,0 +1,77 @@
+id: itasec
+name: ITASEC
+full_name: Italian Conference on Cybersecurity
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: CINI Cybersecurity National Lab and Fondazione SERICS
+organizer_country: [europe]
+proceedings: CEUR-WS (CEUR Workshop Proceedings, open-access post-proceedings)
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [10, 11, 12]
+  conference_months: [2]
+links:
+  website: https://itasec.it/
+notes:
+- National Italian academic cybersecurity conference, organized by the CINI Cybersecurity National Lab with Fondazione SERICS; held yearly since 2017 in a different Italian city
+- Papers must be in English; open-access post-proceedings in CEUR Workshop Proceedings (indexed by Scopus and DBLP per the CFP)
+- Three tracks; only original unpublished papers go into the post-proceedings, preliminary work and already published work can be presented without proceedings
+- Single-blind review; up to 16 pages in the CEURART single-column template plus references and up to 4 pages of appendices
+- Strong papers may be invited to journal special issues
+- Not listed in CORE ICORE2026
+- Recent editions in Bologna (2025), Cagliari (2026) and Siena (2027)
+editions:
+- year: 2025
+  start: 2025-02-03
+  end: 2025-02-08
+  location: Bologna, Italy
+  url: https://2025.itasec.it/
+- year: 2026
+  start: 2026-02-09
+  end: 2026-02-13
+  location: Cagliari, Italy
+  url: https://2026.itasec.it/
+  deadlines:
+  - kind: submission
+    date: 2025-12-18
+    label: Papers (extended from 2025-11-21 and 2025-12-05)
+  - kind: notification
+    date: 2026-01-12
+  - kind: camera_ready
+    date: 2026-03-02
+    label: Post-proceedings (extended from 2026-02-23)
+- year: 2027
+  start: 2027-02-08
+  end: 2027-02-12
+  location: Santa Maria della Scala Museum, Siena, Italy
+  url: https://itasec.it/
+  deadlines:
+  - kind: submission
+    date: 2026-10-16
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-12-22
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-22
+    time: "23:59"
+    tz: AoE
+sources:
+- https://itasec.it/
+- https://itasec.it/call-for-papers/
+- https://2026.itasec.it/
+- https://2026.itasec.it/call-for-papers/
+- https://2025.itasec.it/
+- https://ceur-ws.org/Vol-3962/
+- https://portal.core.edu.au/conf-ranks/?search=ITASEC&by=all&source=ICORE2026
+unverified:
+- CEUR-WS volume for ITASEC26 not yet found
+- dblp page not checked (dblp blocked automated access)
+last_verified: 2026-10-11

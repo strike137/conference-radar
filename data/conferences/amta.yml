@@ -1,0 +1,62 @@
+id: amta
+name: AMTA
+full_name: Conference of the Association for Machine Translation in the Americas
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: north-america
+language: english
+frequency: biennial
+organizer: AMTA (Association for Machine Translation in the Americas)
+organizer_country: [usa]
+proceedings: ACL Anthology
+archival: true
+rank:
+  core: National/Regional
+fee: 875 USD corporate, 650 USD academic/non-profit, 400 USD student (2026, early, new or renewing members; 100 USD
+  less for current members)
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://amtaweb.org/
+notes:
+- Biennial conference of AMTA, the North American branch of the International Association for Machine Translation
+  (IAMT, with EAMT and AAMT); AMTA is a US 501(c)3 non-profit
+- Mixes researchers, MT developers, language service providers, translators and government users
+- Two review routes, peer-reviewed research papers (up to 8 pages, blind review) and less formal presentation proposals
+- Proceedings in the ACL Anthology (research track and presentations volumes); archival for peer-reviewed papers
+- Held in North America (Austin 2016, Boston 2018, virtual 2020, Orlando 2022, Chicago 2024, Quebec City 2026)
+- 2026 had an online tutorial day (Aug 19) before the three-day in-person conference, which was not live streamed
+- CORE National/Regional (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-08-31
+  end: 2026-09-02
+  location: Québec City, Canada
+  url: https://amtaweb.org/amta-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-13
+    time: "23:59"
+    tz: AoE
+    label: Papers and presentation proposals (final extension, one week)
+  - kind: notification
+    date: 2026-06-18
+  - kind: camera_ready
+    date: 2026-07-20
+sources:
+- https://amtaweb.org/
+- https://amtaweb.org/amta-2026/
+- https://amtaweb.org/amta-2026-call-for-proposals/
+- https://amtaweb.org/about-us/
+- https://amtaweb.org/about-us/previous-conferences/
+- https://aclanthology.org/venues/amta/
+- https://aclanthology.org/2024.amta-research.0.bib
+- https://aclanthology.org/2026.amta-research.0.bib
+- https://portal.core.edu.au/conf-ranks/?search=AMTA&by=all&source=ICORE2026
+unverified:
+- AMTA 2028 dates and location not yet announced
+- Exact dates of AMTA 2024 in Chicago (the ACL Anthology gives September 2024 only)
+- Acceptance rate not published
+last_verified: 2026-10-11

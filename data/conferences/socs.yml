@@ -1,0 +1,67 @@
+id: socs
+name: SoCS
+full_name: International Symposium on Combinatorial Search
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: SoCS council (volunteer association)
+organizer_country: [international]
+proceedings: AAAI Digital Library
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7, 8]
+links:
+  website: https://search-conference.org/
+notes:
+- Run by the SoCS council, an unincorporated volunteer association with an international board
+- Proceedings archived in the AAAI Digital Library (ojs.aaai.org) since 2010, free to download
+- CORE B (ICORE2026), not in the CCF 2026 list; the main venue for heuristic search, path finding and search-based planning
+- Usually held next to a larger AI venue (IJCAI, ICAPS, AAAI, CP); Europe and North America in recent years
+- Long papers 8 pages and short papers 4 pages plus references, double-blind; also position papers of the same
+  lengths and 2-page extended abstracts
+- Mandatory abstract registration in EasyChair one week before the paper deadline
+editions:
+- year: 2025
+  start: 2025-08-11
+  end: 2025-08-15
+  location: Glasgow, UK
+  url: https://search-conference.org/index.php/Main/PreviousSymposia
+- year: 2026
+  start: 2026-08-14
+  end: 2026-08-16
+  location: Bremerhaven, Germany
+  url: https://socs26.search-conference.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-16
+    time: "23:59"
+    tz: AoE
+    label: Abstract registration (extended from 2026-03-09)
+  - kind: submission
+    date: 2026-03-23
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended from 2026-03-16)
+  - kind: notification
+    date: 2026-05-16
+  - kind: camera_ready
+    date: 2026-06-05
+sources:
+- https://socs26.search-conference.org/
+- https://socs26.search-conference.org/important-dates
+- https://socs26.search-conference.org/call-for-papers
+- https://search-conference.org/
+- https://search-conference.org/index.php/Main/PreviousSymposia
+- https://search-conference.org/index.php/Main/Proceedings
+- https://search-conference.org/index.php/Main/Organization
+- https://portal.core.edu.au/conf-ranks/?search=SoCS&by=all&source=ICORE2026
+unverified:
+- SoCS 2027 dates, location and deadlines not yet announced as of 2026-10-11
+- SoCS 2025 deadlines not recorded
+last_verified: 2026-10-11

@@ -1,0 +1,77 @@
+id: rsj
+name: RSJ
+full_name: Annual Conference of the Robotics Society of Japan
+name_local: 日本ロボット学会学術講演会
+type: conference
+tier: domestic
+areas: [ai, systems]
+region: japan
+language: mixed
+frequency: annual
+organizer: RSJ (Robotics Society of Japan)
+organizer_country: [japan]
+proceedings: None (participants only)
+archival: false
+fee: 20,000 JPY RSJ member, 8,000 JPY student member, 33,000 JPY non-member, 12,100 JPY non-member student (2026,
+  early); one presentation included, 5,000 JPY per extra presentation
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://ac.rsj-web.org/2027/
+notes:
+- Japan's national robotics conference, run every September by the Robotics Society of Japan at a host university
+- Anyone who registers can present (RSJ membership not required); papers are 1 to 4 pages in Japanese or English
+- Proceedings are opened online on the first day to registered participants only (ID and password)
+- International Sessions in English (short papers of 1 to 4 pages) alongside the Japanese general and organized sessions
+- Papers can be submitted at the same time as a reviewed RSJ letter (up to 4 pages) to the society journal
+- Large; RSJ2026 had 811 presentations and 1,913 participants
+editions:
+- year: 2026
+  start: 2026-09-01
+  end: 2026-09-04
+  location: Kanazawa University, Kanazawa, Japan
+  url: https://ac.rsj-web.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-04
+    time: "12:00"
+    tz: JST
+    label: Presentation application
+  - kind: submission
+    date: 2026-07-13
+    time: "12:00"
+    tz: JST
+    label: Paper submission (extended from 2026-07-09)
+  - kind: other
+    date: 2026-08-12
+    time: "12:00"
+    tz: JST
+    label: Early registration ends
+- year: 2027
+  start: 2027-08-31
+  end: 2027-09-03
+  location: Nagoya Congress Center, Nagoya, Japan
+  url: https://ac.rsj-web.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2027-06-03
+    label: Presentation application (planned)
+  - kind: submission
+    date: 2027-07-01
+    label: Paper submission (planned)
+  - kind: other
+    date: 2027-08-04
+    label: Early registration ends (planned)
+sources:
+- https://ac.rsj-web.org/2027/
+- https://ac.rsj-web.org/2026/
+- https://ac.rsj-web.org/2026/entry/
+- https://ac.rsj-web.org/2026/authorguidelines/
+- https://ac.rsj-web.org/2026/international-sessions-is/
+- https://ac.rsj-web.org/2026/registration/
+- https://portal.core.edu.au/conf-ranks/?search=RSJ&by=all&source=ICORE2026
+unverified:
+- RSJ2027 deadline times (the 2027 page lists planned dates only)
+- Whether conference papers get any screening (the site does not mention review)
+last_verified: 2026-10-11

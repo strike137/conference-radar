@@ -1,0 +1,55 @@
+id: iwcs
+name: IWCS
+full_name: International Conference on Computational Semantics
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: biennial
+organizer: ACL SIGSEM
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [3, 6]
+  conference_months: [6, 9]
+links:
+  website: https://iwcs2025.github.io/
+notes:
+- Main conference of ACL SIGSEM (Special Interest Group on Computational Semantics); held every two years
+- Proceedings in the ACL Anthology
+- Long papers up to 8 pages and short papers up to 4 pages; double-blind review; in-person presentation required
+- Workshops on the last day
+- Held in Europe (Düsseldorf 2025, Nancy 2023, Groningen 2021 online, Gothenburg 2019, London 2015)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-22
+  end: 2025-09-24
+  location: Düsseldorf, Germany
+  url: https://iwcs2025.github.io/
+  deadlines:
+  - kind: other
+    date: 2025-01-31
+    label: Workshop proposals
+  - kind: submission
+    date: 2025-06-13
+    tz: AoE
+    label: Long and short papers (extended from 2025-06-06)
+  - kind: notification
+    date: 2025-08-01
+  - kind: camera_ready
+    date: 2025-08-22
+sources:
+- https://iwcs2025.github.io/
+- https://iwcs2025.github.io/call_for_papers
+- https://sigsem.org/
+- https://aclanthology.org/venues/iwcs/
+- https://aclanthology.org/volumes/2025.iwcs-main/
+- https://aclanthology.org/volumes/2023.iwcs-1/
+- https://aclanthology.org/volumes/2021.iwcs-1/
+- https://portal.core.edu.au/conf-ranks/?search=IWCS&by=all&source=ICORE2026
+unverified:
+- IWCS 2027 host, dates and deadlines not announced on sigsem.org as of 2026-10-11
+last_verified: 2026-10-11

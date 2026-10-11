@@ -1,0 +1,54 @@
+id: agi
+name: AGI
+full_name: Annual Conference on Artificial General Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AGI Society
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [6, 7, 8]
+links:
+  website: https://agi-conference.org/
+notes:
+- Run by the AGI Society since 2008; chaired by Ben Goertzel, with a strong SingularityNET presence (livestreamed on its YouTube channel)
+- Proceedings in Springer LNCS; in two parts since 2025 (LNCS 16057 and 16058 for AGI-25)
+- "AGI-24: 25 papers selected from 55 submissions"
+- Held mostly in the USA (Seattle 2022 and 2024, San Francisco 2026) with editions in Stockholm (2023) and Reykjavík (2025); in-person plus virtual attendance
+- Four-day format with workshops, tutorials and demos around the main track
+- Not ranked in CORE ICORE2026 or the CCF list; regarded as a niche venue
+editions:
+- year: 2025
+  start: 2025-08-10
+  end: 2025-08-13
+  location: Reykjavík, Iceland
+  url: https://agi-conf.org/2025/
+  deadlines:
+  - kind: other
+    date: 2025-05-03
+    label: Workshop proposals
+  - kind: submission
+    date: 2025-05-12
+    label: Contributed papers (extended)
+- year: 2026
+  start: 2026-07-27
+  end: 2026-07-30
+  location: San Francisco, CA, USA (San Francisco State University)
+  url: https://agi-conference.org/
+sources:
+- https://agi-conference.org/
+- https://agi-conference.org/archive
+- https://agi-conf.org/2025/
+- https://link.springer.com/book/10.1007/978-3-032-33010-9
+- https://link.springer.com/book/10.1007/978-3-032-00686-8
+- https://portal.core.edu.au/conf-ranks/?search=AGI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- AGI-27 (20th edition) announced for summer 2027; dates, location and call for papers not yet published as of 2026-10-11
+- AGI-26 submission deadlines not found on the official site
+last_verified: 2026-10-11

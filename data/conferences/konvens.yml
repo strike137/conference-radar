@@ -1,0 +1,71 @@
+id: konvens
+name: KONVENS
+full_name: Conference on Natural Language Processing (Konferenz zur Verarbeitung natürlicher Sprache)
+type: conference
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: annual
+organizer: GSCL, DGfS-CL, ASAI and SwissNLP
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://konvens.org/site/
+notes:
+- Organized under the auspices of GSCL, the DGfS computational linguistics group, the Austrian Society for AI and
+  SwissNLP
+- Annual since 2018 (biennial before), started in 1992; rotates within Germany, Austria and Switzerland
+- Proceedings published open access by the host university and archived in the ACL Anthology (2021 onwards)
+- Long papers 8 pages and short papers 4 pages plus references in ACL style via OpenReview, double-blind, in
+  English; 1-page abstracts are non-archival
+- Workshops and the GermEval shared tasks run alongside the main conference
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-10
+  end: 2025-09-12
+  location: Hildesheim, Germany
+  url: https://konvens-2025.hs-hannover.de/
+  deadlines:
+  - kind: submission
+    date: 2025-05-07
+    label: Papers (extended from 2025-05-03)
+  - kind: notification
+    date: 2025-06-27
+  - kind: camera_ready
+    date: 2025-08-15
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-17
+  location: Hamburg, Germany
+  url: https://konvens2026.uni-hamburg.de/
+  deadlines:
+  - kind: submission
+    date: 2026-05-12
+    label: Papers (extended from 2026-04-30)
+  - kind: camera_ready
+    date: 2026-08-01
+sources:
+- https://konvens-2025.hs-hannover.de/
+- https://konvens-2025.hs-hannover.de/about/
+- https://konvens-2025.hs-hannover.de/dates/
+- https://konvens-2025.hs-hannover.de/author/
+- https://konvens-2025.hs-hannover.de/2025/09/08/proceedings.html
+- https://aclanthology.org/venues/konvens/
+- https://konvens.org/site/
+- https://konvens2026.uni-hamburg.de/
+- https://konvens2026.uni-hamburg.de/index.php/dates-program/
+- https://konvens2026.uni-hamburg.de/index.php/submission/
+- https://konvens2026.uni-hamburg.de/index.php/final-call-for-conference-papers-deadline-extension/
+- https://portal.core.edu.au/conf-ranks/?search=KONVENS&by=all&source=ICORE2026
+unverified:
+- KONVENS 2026 notification date differs on the official pages (2026-07-10 on the dates page, 2026-07-12 in the
+  final call)
+- KONVENS 2027 dates and location not yet announced as of 2026-10-11
+- Deadline times and time zones not stated
+last_verified: 2026-10-11

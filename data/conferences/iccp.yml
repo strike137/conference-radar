@@ -1,0 +1,75 @@
+id: iccp
+name: ICCP
+full_name: IEEE International Conference on Computational Photography
+type: conference
+tier: major
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society (Technical Community on Pattern Analysis and Machine Intelligence)
+organizer_country: [international]
+proceedings: IEEE TPAMI special issue and ICCP Proceedings
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7, 8]
+links:
+  website: https://iccp-conference.org/
+notes:
+- Annual IEEE Computer Society conference on computational imaging and computational photography
+- "Two integrated tracks: after one common review, accepted papers go either to a special issue of IEEE TPAMI or to the ICCP Proceedings; both are presented as talks"
+- Double-blind review on OpenReview with a one-page author rebuttal
+- No strict page limit; papers over 12 pages including references pay 220 USD per extra page
+- CORE B (ICORE2026)
+- Mostly held in North America (Princeton 2026, Toronto 2025, College Park 2027), sometimes in Europe or Asia (Lausanne 2024, Haifa 2021, Tokyo 2019)
+- A summer school is held just before the conference
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-15
+  location: Princeton, NJ, USA
+  url: https://iccp2026.iccp-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-17
+    time: "23:59"
+    tz: PDT
+    label: Papers (extended from 2026-04-10)
+  - kind: notification
+    date: 2026-05-31
+  - kind: camera_ready
+    date: 2026-06-26
+- year: 2027
+  start: 2027-08-02
+  end: 2027-08-04
+  location: College Park, MD, USA
+  url: https://iccp2027.iccp-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2027-03-16
+    time: "17:00"
+    tz: PDT
+  - kind: other
+    date: 2027-05-11
+    time: "17:00"
+    tz: PDT
+    label: Rebuttal deadline
+  - kind: notification
+    date: 2027-06-01
+  - kind: camera_ready
+    date: 2027-06-22
+sources:
+- https://iccp-conference.org/
+- https://iccp2027.iccp-conference.org/
+- https://iccp2027.iccp-conference.org/pages/callforpapers.html
+- https://iccp2026.iccp-conference.org/
+- https://iccp2026.iccp-conference.org/pages/callforpapers.html
+- https://iccp2025.iccp-conference.org/pages/callforpapers.html
+- https://portal.core.edu.au/conf-ranks/?search=ICCP&by=all&source=ICORE2026
+unverified:
+- Publisher of the ICCP Proceedings track (believed to be IEEE Xplore) is not named on the official site
+- The CFP states deadlines in Pacific Time; PDT is inferred from the dates (after the March DST change)
+last_verified: 2026-10-11

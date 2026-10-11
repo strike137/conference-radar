@@ -1,0 +1,79 @@
+id: sera
+name: SERA
+full_name: IEEE/ACIS International Conference on Software Engineering Research, Management and Applications
+type: conference
+tier: minor
+areas: [software, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: ACIS (International Association for Computer and Information Science, USA)
+organizer_country: [usa]
+proceedings: IEEE Conference Publishing Services (IEEE CS CPS); selected papers in IJNDC (Springer), IJSI or IJBDIA
+  (IGI Global), or Springer Studies in Computational Intelligence
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5]
+links:
+  website: https://acisinternational.org/conferences/
+notes:
+- Run by ACIS; the SERA 2027 page shows IEEE Computer Society and ACM In-Cooperation logos; 25th edition in 2027
+- Recent editions in the USA (Honolulu 2024, Las Vegas 2025, Towson University 2026, UNLV Las Vegas 2027); hybrid
+  format
+- Proceedings by IEEE Conference Publishing Services, submitted for EI, INSPEC and DBLP indexing
+- Regular papers up to 8 pages, short papers 4 pages (IEEE template), submitted via EasyChair
+- CORE C (ICORE2026); generally regarded as a low-tier venue
+editions:
+- year: 2026
+  start: 2026-05-27
+  end: 2026-05-29
+  location: Towson University, Towson, Maryland, USA
+  url: https://acisinternational.org/conferences/sera-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-14
+    label: Full papers (round 1)
+  - kind: notification
+    date: 2026-04-04
+    label: Round 1
+  - kind: submission
+    date: 2026-03-31
+    label: Full papers (round 2)
+  - kind: notification
+    date: 2026-04-15
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-04-25
+    label: Camera-ready and registration
+- year: 2027
+  start: 2027-05-26
+  end: 2027-05-28
+  location: University of Nevada, Las Vegas, USA
+  url: https://acisinternational.org/conferences/sera-2027/
+  deadlines:
+  - kind: other
+    date: 2027-01-12
+    label: Workshop/special session proposals
+  - kind: submission
+    date: 2027-02-26
+    label: Full papers
+  - kind: notification
+    date: 2027-04-05
+  - kind: camera_ready
+    date: 2027-04-19
+    label: Camera-ready and registration
+sources:
+- https://acisinternational.org/conferences/
+- https://acisinternational.org/conferences/sera-2027/
+- http://acisinternational.org/wp-content/uploads/2026/09/CFP_SERA2027.pdf
+- https://acisinternational.org/conferences/sera-2026/
+- https://acisinternational.org/2025-conferences/
+- https://acisinternational.org/2024-conferences/
+- https://portal.core.edu.au/conf-ranks/?search=SERA&by=all&source=ICORE2026
+unverified:
+- Locations of the 2022 and 2023 editions (region judged from 2024 to 2027, all in the USA)
+- Acceptance rate not published
+last_verified: 2026-10-11

@@ -1,0 +1,59 @@
+id: icalp
+name: ICALP
+full_name: EATCS International Colloquium on Automata, Languages and Programming
+type: conference
+tier: top
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: EATCS
+organizer_country: [europe]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: A*
+  ccf: B
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://eatcs.org/index.php/international-colloquium
+  dblp: https://dblp.org/db/conf/icalp/index.html
+notes:
+- Flagship conference of the European Association for Theoretical Computer Science (EATCS); CORE A*, CCF B
+- Two tracks (Track A and Track B) with separate chairs
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl) since 2015
+- Held in Europe every year (Paris 2022, Paderborn 2023, Tallinn 2024, Aarhus 2025, London 2026)
+- 2026 edition was the 53rd, held jointly with PODC and SPAA at Royal Holloway, University of London
+- Track B has a rebuttal period; Track A authors are contacted only about correctness issues
+editions:
+- year: 2026
+  start: 2026-07-07
+  end: 2026-07-10
+  location: Royal Holloway, University of London, UK
+  url: https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-03
+    tz: AoE
+  - kind: submission
+    date: 2026-02-06
+    tz: AoE
+  - kind: other
+    date: 2026-03-21
+    label: Track B rebuttal period (Mar 21 to 24)
+  - kind: notification
+    date: 2026-04-20
+  - kind: camera_ready
+    date: 2026-05-11
+sources:
+- https://icalppodcspaa2026.cs.rhul.ac.uk/
+- https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/
+- https://eatcs.org/index.php/international-colloquium
+- https://portal.core.edu.au/conf-ranks/?search=ICALP&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- ICALP 2027 not found on an official page as of 2026-10-11 (the ccfddl compilation lists Krakow, Poland, July 5 to 9, 2027)
+- CCF rank checked via the ccfddl mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-11

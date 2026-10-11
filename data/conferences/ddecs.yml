@@ -1,0 +1,58 @@
+id: ddecs
+name: DDECS
+full_name: IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems
+type: conference
+tier: minor
+areas: [systems, communications]
+region: europe
+language: english
+frequency: annual
+organizer: DDECS steering committee (Central European universities)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [1]
+  conference_months: [4, 5]
+links:
+  website: https://ddecs.org/
+notes:
+- Forum on design, test and diagnosis of microelectronic circuits and systems
+- Primarily organised by Central European countries; the steering committee has members from Poland, Czechia, Slovakia, Estonia, Germany and others
+- Started in 1997 as a workshop series and became a symposium in 2008
+- Formal proceedings with ISBN go to IEEE Xplore; an informal digest covers extra content
+- Held in a different European city each year, mostly in Central Europe (Tallinn 2023, Kielce 2024, Lyon 2025, Bratislava 2026, Berlin 2027)
+- CORE C (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-29
+  location: Bratislava, Slovakia
+  url: https://deimos.fei.stuba.sk/projekty/DDECS2026/
+- year: 2027
+  start: 2027-05-03
+  end: 2027-05-05
+  location: Berlin, Germany
+  url: https://ddecs.rss-lab.de/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-08
+    label: Title and abstract
+  - kind: submission
+    date: 2027-01-13
+    label: Full paper
+  - kind: notification
+    date: 2027-03-05
+  - kind: camera_ready
+    date: 2027-03-24
+sources:
+- https://ddecs.org/
+- https://ddecs.rss-lab.de/
+- https://ddecs.rss-lab.de/ddecs/call-for-papers
+- https://portal.core.edu.au/conf-ranks/?search=DDECS&by=all&source=ICORE2026
+unverified:
+- DDECS 2026 deadlines (the 2026 site returned a server error on 2026-10-11)
+- Submission time and time zone for 2027 deadlines not stated
+last_verified: 2026-10-11

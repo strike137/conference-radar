@@ -1,0 +1,57 @@
+id: humanoids
+name: Humanoids
+full_name: IEEE-RAS International Conference on Humanoid Robots
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Robotics and Automation Society (IEEE-RAS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://2026.ieee-humanoids.org/
+notes:
+- Organized by the IEEE Robotics and Automation Society; the main venue dedicated to humanoid robotics
+- Papers up to 8 pages including references, no extra pages; double-anonymous review; submission via PaperPlaza
+- Accepted papers appear in the proceedings and on IEEE Xplore without distinction between oral and interactive
+  presentations
+- Not listed in CORE ICORE2026 under its acronym or full name
+- 2026 is the 25th edition (Santa Clara, USA)
+editions:
+- year: 2026
+  start: 2026-12-06
+  end: 2026-12-09
+  location: Santa Clara, CA, USA
+  url: https://2026.ieee-humanoids.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-27
+    time: "23:59"
+    tz: PDT
+    label: Papers (author guidelines say 11:59pm Pacific Time; the same page also mentions July 24 AoE)
+  - kind: other
+    date: 2026-07-30
+    tz: PDT
+    label: Optional supplementary video
+  - kind: other
+    date: 2026-08-03
+    label: Workshop / tutorial and competition proposals
+  - kind: notification
+    date: 2026-10-06
+  - kind: camera_ready
+    date: 2026-10-26
+sources:
+- https://2026.ieee-humanoids.org/
+- https://2026.ieee-humanoids.org/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=Humanoids&by=all&source=ICORE2026
+unverified:
+- The 2026 call for papers gives two paper deadlines (July 27 11:59pm Pacific Time and July 24 AoE); the key dates
+  list uses July 27
+- Dates and location of the 2025 edition (the 2025 site returned an error when checked)
+last_verified: 2026-10-11

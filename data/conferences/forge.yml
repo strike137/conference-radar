@@ -1,0 +1,78 @@
+id: forge
+name: FORGE
+full_name: ACM International Conference on AI Foundation Models and Software Engineering
+type: conference
+tier: minor
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (co-located with ICSE)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4]
+links:
+  website: https://conf.researchr.org/home/forge-2027
+notes:
+- Foundation models and LLMs for software engineering and vice versa; co-located with ICSE every year
+- 2026 edition was the 3rd (Rio de Janeiro, Apr 12 to 13); 2027 is the 4th (Dublin, Apr 26 to 27)
+- "Full papers 10 pages plus 2 of references; new idea papers 4 pages plus 2 of references; strict page limit"
+- Double-anonymous review via HotCRP; 2027 has research and data and benchmarking tracks (2026 also had an industry track)
+- Best papers get an ACM SIGSOFT Distinguished Paper Award; in 2026 selected papers were invited to an Empirical Software Engineering special issue
+- 2026 papers are in the ACM DL (Proceedings of the 2026 IEEE/ACM Third International Conference on AI Foundation Models and Software Engineering); 2027 switches to the IEEE template
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-04-12
+  end: 2026-04-13
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/forge-2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-05
+    tz: AoE
+  - kind: notification
+    date: 2026-01-05
+  - kind: camera_ready
+    date: 2026-01-26
+- year: 2027
+  start: 2027-04-26
+  end: 2027-04-27
+  location: Dublin, Ireland
+  url: https://conf.researchr.org/home/forge-2027
+  deadlines:
+  - kind: abstract
+    date: 2026-10-25
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-10-30
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-11-15
+    time: "23:59"
+    tz: AoE
+    label: Data and benchmarking track
+  - kind: notification
+    date: 2027-01-04
+  - kind: camera_ready
+    date: 2027-01-23
+    label: Data and benchmarking track
+  - kind: camera_ready
+    date: 2027-01-25
+    label: Research papers
+sources:
+- https://conf.researchr.org/home/forge-2026
+- https://conf.researchr.org/track/forge-2026/forge-2026-papers
+- https://conf.researchr.org/track/forge-2026/forge-2026-forge-program
+- https://conf.researchr.org/home/forge-2027
+- https://conf.researchr.org/track/forge-2027/forge-2027-research-papers
+- https://conf.researchr.org/track/forge-2027/forge-2027-data-and-benchmarking-track
+- https://portal.core.edu.au/conf-ranks/?search=FORGE&by=all&source=ICORE2026
+unverified:
+- FORGE 2026 site header shows the whole ICSE week (Apr 12 to 18); the call for papers and program give Apr 12 to 13
+last_verified: 2026-10-11

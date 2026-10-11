@@ -1,0 +1,80 @@
+id: dis
+name: DIS
+full_name: ACM Designing Interactive Systems Conference
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+  ccf: C
+typical:
+  deadline_months: [1]
+  conference_months: [6, 7]
+links:
+  website: https://dis.acm.org/
+  dblp: https://dblp.org/db/conf/ACMdis/index.html
+notes:
+- A SIGCHI conference overseen by the DIS Steering Committee; focused on interaction design, design research and
+  design theory in HCI
+- Proceedings and companion proceedings in the ACM DL; ACM Open access from 2026 (APCs subsidized by 65% in 2026)
+- Papers and pictorials share one deadline in January with an abstract one to two weeks earlier; no page limit,
+  about 7,000 to 8,000 words expected; anonymized review
+- In-person only in 2026; papers not presented in person may be withdrawn from the ACM DL
+- Rotates worldwide (Pittsburgh 2023, Copenhagen 2024, Funchal 2025, Singapore 2026)
+- CORE A (ICORE2026); CCF C (HCI and ubiquitous computing category)
+editions:
+- year: 2025
+  start: 2025-07-05
+  end: 2025-07-09
+  location: Funchal, Madeira, Portugal
+  url: https://dis.acm.org/2025/
+- year: 2026
+  start: 2026-06-13
+  end: 2026-06-17
+  location: Singapore (National University of Singapore)
+  url: https://dis.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-09
+    tz: AoE
+    label: Full papers and pictorials
+  - kind: submission
+    date: 2026-01-19
+    tz: AoE
+    label: Full papers and pictorials
+  - kind: other
+    date: 2026-02-06
+    tz: AoE
+    label: Workshop proposals
+  - kind: other
+    date: 2026-02-13
+    tz: AoE
+    label: Provocations and works in progress, doctoral consortium
+  - kind: notification
+    date: 2026-03-18
+    tz: AoE
+    label: Full papers and pictorials
+  - kind: camera_ready
+    date: 2026-04-08
+    tz: AoE
+    label: Full papers and pictorials
+sources:
+- https://dis.acm.org/
+- https://dis.acm.org/2026/
+- https://dis.acm.org/2026/papers/
+- https://dis.acm.org/2025/
+- https://dis.acm.org/2024/
+- https://dis.acm.org/2023/
+- https://portal.core.edu.au/conf-ranks/?search=DIS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- DIS 2027 dates and location not yet announced on dis.acm.org as of 2026-10-11
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

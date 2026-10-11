@@ -1,0 +1,87 @@
+id: disc
+name: DISC
+full_name: International Symposium on Distributed Computing
+type: conference
+tier: major
+areas: [systems, general]
+region: europe
+language: english
+frequency: annual
+organizer: DISC Steering Committee, in cooperation with EATCS
+organizer_country: [europe]
+proceedings: LIPIcs
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10, 11]
+links:
+  website: https://www.disc-conference.org/wp/
+  dblp: https://dblp.org/db/conf/wdag/index.html
+notes:
+- Leading European venue for the theory of distributed computing, the European counterpart of PODC
+- Organized in cooperation with EATCS; founded in 1985 as WDAG, renamed DISC in 1998; 40th edition in 2026
+- Proceedings in LIPIcs (open access)
+- Regular papers (15 pages guaranteed reading) and brief announcements (5 pages); relaxed double-blind review with a
+  rebuttal phase
+- Selected papers go to a special issue of Distributed Computing; hosts the Dijkstra Prize
+- CORE A (ICORE2026)
+- Almost always held in Europe (Augusta, USA in 2022 was the exception); workshops on the days around the main conference
+editions:
+- year: 2025
+  start: 2025-10-27
+  end: 2025-10-31
+  location: Berlin, Germany (Harnack House)
+  url: https://www.disc-conference.org/wp/disc2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-20
+    label: Paper registration
+  - kind: submission
+    date: 2025-05-23
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-11-09
+  end: 2026-11-13
+  location: Rome, Italy (Sapienza, San Pietro in Vincoli)
+  url: https://www.disc-conference.org/wp/disc2026/
+  deadlines:
+  - kind: other
+    date: 2026-04-30
+    time: "23:59"
+    tz: AoE
+    label: Workshop and tutorial proposals
+  - kind: abstract
+    date: 2026-05-27
+    time: "23:59"
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-06-01
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-07-21
+    label: Rebuttal phase (Jul 21 to 25)
+  - kind: notification
+    date: 2026-08-05
+  - kind: camera_ready
+    date: 2026-08-19
+sources:
+- https://www.disc-conference.org/wp/
+- https://www.disc-conference.org/wp/disc2026/
+- https://www.disc-conference.org/wp/disc2026/call-for-papers/
+- https://www.disc-conference.org/wp/past-conferences/
+- https://www.disc-conference.org/wp/disc2025/
+- https://www.disc-conference.org/wp/disc2024/
+- https://www.disc-conference.org/wp/disc2023/
+- https://www.disc-conference.org/wp/disc2022/
+- https://www.disc-conference.org/wp/disc2021/
+- https://portal.core.edu.au/conf-ranks/?search=DISC&by=all&source=ICORE2026
+unverified:
+- CCF rank not set; DISC was not found in the CCF 2026 list mirrors checked
+- DISC 2027 not yet announced as of 2026-10-11
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-11

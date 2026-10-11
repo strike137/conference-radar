@@ -1,0 +1,78 @@
+id: iccps
+name: ICCPS
+full_name: ACM/IEEE International Conference on Cyber-Physical Systems
+type: conference
+tier: major
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGBED and IEEE, at CPS-IoT Week
+organizer_country: [international]
+proceedings: ACM DL / IEEE Xplore (alternates by year)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://iccps.acm.org/
+  dblp: https://dblp.org/db/conf/iccps/index.html
+notes:
+- Main venue for cyber-physical systems research; held each spring as part of CPS-IoT Week (with SenSys and RTAS)
+- Proceedings alternate between ACM and IEEE (2026 in IEEE proceedings, 2027 in ACM proceedings)
+- 2026 run jointly with HSCC (shared program committee, separate proceedings); from 2027 merged with HSCC into one
+  conference, HSCC+ICCPS (ACM/IEEE International Conference on Cyber-Physical and Autonomous Systems)
+- "2027 paper types: regular (10 pages plus references), short (6 pages) and tool papers; light double-anonymous review"
+- Abstract registration one week before the paper deadline (optional in 2026, mandatory from 2027); optional repeatability evaluation
+- Location rotates worldwide (Hong Kong 2024, Irvine 2025, Saint-Malo 2026, Boulder 2027)
+- Not listed by CORE (ICORE2026) or CCF, but regarded as a competitive venue in the CPS community
+editions:
+- year: 2026
+  start: 2026-05-11
+  end: 2026-05-14
+  location: Saint-Malo, France
+  url: https://hscc.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-06
+    tz: AoE
+    label: Optional
+  - kind: submission
+    date: 2025-11-13
+    tz: AoE
+  - kind: notification
+    date: 2026-01-29
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-22
+    tz: AoE
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-20
+  location: Boulder, Colorado, USA
+  url: https://hscc-iccps2027.taylortjohnson.com/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-29
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-11-05
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-01-28
+  - kind: camera_ready
+    date: 2027-03-30
+    label: Tentative
+sources:
+- https://iccps.acm.org/
+- https://iccps.acm.org/2026/
+- https://hscc.acm.org/2026/
+- https://hscc-iccps2027.taylortjohnson.com/
+- https://hscc-iccps2027.taylortjohnson.com/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=ICCPS&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- Acceptance rate not stated on the official pages
+last_verified: 2026-10-11

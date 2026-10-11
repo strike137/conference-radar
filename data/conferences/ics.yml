@@ -1,0 +1,93 @@
+id: ics
+name: ICS
+full_name: ACM International Conference on Supercomputing
+type: conference
+tier: major
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGARCH and ACM SIGHPC
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [12, 2]
+  conference_months: [6, 7]
+links:
+  website: https://www.ics-conference.org/
+  dblp: https://dblp.org/db/conf/ics/index.html
+notes:
+- Sponsored by ACM SIGARCH and ACM SIGHPC; held annually since 1987; covers HPC, parallel systems and computer architecture
+- ICORE2026 A, CCF B
+- Papers published in the ACM proceedings; ACM publications are open access from 2026, so authors outside ACM Open institutions may pay an APC (subsidized to 250 / 350 USD for 2026 conferences)
+- Rotates worldwide (Orlando at FCRC 2023, Kyoto 2024, Salt Lake City 2025, Belfast 2026, Atlanta at FCRC 2027)
+- Two submission cycles with a rebuttal phase in 2026; ICS 2027 uses early reject decisions followed by an author revision window
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-09
+  location: Belfast, Northern Ireland, UK
+  url: https://dipsa-qub.github.io/ICS2026-webpage/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-09
+    label: Cycle 1
+  - kind: submission
+    date: 2025-12-16
+    label: Cycle 1
+  - kind: abstract
+    date: 2026-02-02
+    label: Cycle 2
+  - kind: submission
+    date: 2026-02-09
+    label: Cycle 2
+  - kind: notification
+    date: 2026-02-24
+    label: Cycle 1
+  - kind: camera_ready
+    date: 2026-03-24
+    label: Cycle 1
+  - kind: notification
+    date: 2026-04-06
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2026-05-06
+    label: Cycle 2
+- year: 2027
+  start: 2027-06-05
+  end: 2027-06-11
+  location: Atlanta, Georgia, USA
+  url: https://klab-ai3.github.io/ics2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-01
+    tz: AoE
+  - kind: submission
+    date: 2026-12-07
+    tz: AoE
+  - kind: other
+    date: 2027-02-11
+    tz: AoE
+    label: Early reject decisions; author revision window Feb 11 to 23
+  - kind: notification
+    date: 2027-03-12
+    tz: AoE
+    label: Final decisions
+sources:
+- https://www.ics-conference.org/
+- https://www.ics-conference.org/archive.html
+- https://klab-ai3.github.io/ics2027/
+- https://dipsa-qub.github.io/ICS2026-webpage/
+- https://dipsa-qub.github.io/ICS2026-webpage/call-for/call-for-papers.html
+- https://dipsa-qub.github.io/ICS2026-webpage/attending/venue.html
+- https://portal.core.edu.au/conf-ranks/?search=ICS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- ICS 2027 dates June 5 to 11 are the FCRC 2027 window given on the ICS 2027 site; exact ICS days and venue not announced as of 2026-10-11
+- ICS 2026 deadlines were stated without a time zone
+- CCF rank checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-10-11

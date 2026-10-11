@@ -1,0 +1,100 @@
+id: eurovis
+name: EuroVis
+full_name: Eurographics Conference on Visualization
+type: conference
+tier: major
+areas: [data, vision]
+region: europe
+language: english
+frequency: annual
+organizer: Eurographics Working Group on Data Visualization, with a rotating local host
+organizer_country: [europe]
+proceedings: Computer Graphics Forum (special issue, Wiley/Eurographics)
+archival: true
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [11, 12]
+  conference_months: [5, 6]
+links:
+  website: https://eurovis27.github.io/web/
+  dblp: https://dblp.org/db/conf/vissym/index.html
+notes:
+- Organized by the Eurographics Working Group on Data Visualization; the main European visualization conference
+- ICORE2026 B (listed as Eurographics/IEEE Symposium on Visualization), CCF B
+- Full papers are published as a special issue of Computer Graphics Forum (since 2008) after a two-stage review with a revision round
+- Held in Europe (Odense 2024, Luxembourg 2025, Nottingham 2026, Stuttgart 2027); EuroVA workshop co-located
+editions:
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-12
+  location: Nottingham, UK
+  url: https://www.eurovis.org.uk/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-26
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2025-12-03
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2026-02-11
+    tz: AoE
+    label: Full papers, first round
+  - kind: other
+    date: 2026-03-04
+    tz: AoE
+    label: Full papers revision submission
+  - kind: notification
+    date: 2026-03-18
+    tz: AoE
+    label: Full papers, final
+  - kind: camera_ready
+    date: 2026-04-15
+    tz: AoE
+    label: Full papers
+- year: 2027
+  start: 2027-05-31
+  end: 2027-06-04
+  location: Stuttgart, Germany
+  url: https://eurovis27.github.io/web/
+  deadlines:
+  - kind: other
+    date: 2026-10-12
+    time: "23:59"
+    tz: AoE
+    label: Workshop proposals
+  - kind: abstract
+    date: 2026-11-30
+    time: "23:59"
+    tz: AoE
+    label: STARs
+  - kind: submission
+    date: 2026-12-07
+    time: "23:59"
+    tz: AoE
+    label: STARs
+  - kind: notification
+    date: 2027-03-08
+    time: "23:59"
+    tz: AoE
+    label: STARs, final
+  - kind: camera_ready
+    date: 2027-03-22
+    time: "23:59"
+    tz: AoE
+    label: STARs
+sources:
+- https://eurovis27.github.io/web/
+- https://eurovis27.github.io/web/submissions/all-deadlines/
+- https://www.eurovis.org.uk/
+- https://www.eurovis.org.uk/important-dates
+- https://portal.core.edu.au/conf-ranks/?search=EuroVis&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- EuroVis 2027 full paper deadlines not yet listed on the official site as of 2026-10-11
+- CCF rank checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-10-11

@@ -1,0 +1,76 @@
+id: acm-nanocom
+name: ACM NanoCom
+full_name: ACM International Conference on Nanoscale Computing and Communication
+type: conference
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [9, 10]
+links:
+  website: https://nanocom.acm.org/
+notes:
+- ACM conference on nanoscale and molecular communication, nanonetworks and bio-nano computing (14th edition in 2027)
+- Endorsed by the IEEE ComSoc technical group on Molecular, Biological and Multi-Scale Communications (MBMC)
+- Regular papers up to 6 pages (7 with an extra page charge) and 2-page work-in-progress papers; single-blind review
+- Proceedings in the ACM DL (open access, APC applies); every accepted paper must be presented in person
+- Rotates between Europe, North America and Asia (Milan 2024, Chengdu 2025, St. John's 2026, Erlangen 2027)
+- Not ranked in CORE (ICORE2026) or CCF
+editions:
+- year: 2026
+  start: 2026-09-21
+  end: 2026-09-23
+  location: St. John's, Canada
+  url: https://nanocom.acm.org/nanocom2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-19
+    label: Regular papers (extended from 2026-04-10, final)
+  - kind: submission
+    date: 2026-05-18
+    label: Work-in-progress and demo papers (extended from 2026-05-09)
+  - kind: notification
+    date: 2026-05-25
+    label: Regular papers
+  - kind: notification
+    date: 2026-05-30
+    label: Work-in-progress and demo papers
+  - kind: camera_ready
+    date: 2026-08-14
+- year: 2027
+  start: 2027-09-28
+  end: 2027-09-30
+  location: Erlangen, Germany
+  url: https://nanocom.acm.org/nanocom2027/
+  deadlines:
+  - kind: submission
+    date: 2027-03-31
+    label: Regular papers
+  - kind: submission
+    date: 2027-04-10
+    label: Work-in-progress papers
+  - kind: notification
+    date: 2027-05-25
+    label: Regular papers
+  - kind: notification
+    date: 2027-05-31
+    label: Work-in-progress papers
+  - kind: camera_ready
+    date: 2027-08-10
+sources:
+- https://nanocom.acm.org/nanocom2027/index.php
+- https://nanocom.acm.org/nanocom2027/cfp.php
+- https://nanocom.acm.org/nanocom2026/
+- https://nanocom.acm.org/nanocom2026/cfp.php
+- https://nanocom.acm.org/nanocom2025/
+- https://portal.core.edu.au/conf-ranks/?search=NanoCom&by=all&source=ICORE2026
+unverified:
+- SIGMOBILE affiliation is not stated on the official 2025 to 2027 pages
+last_verified: 2026-10-11

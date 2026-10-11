@@ -1,0 +1,77 @@
+id: websci
+name: WebSci
+full_name: ACM Web Science Conference
+type: conference
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (SIGWEB)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [5, 6]
+links:
+  website: https://websci26.webscience.org/
+notes:
+- ACM conference on the Web and its impact on society; interdisciplinary (computer science plus social sciences)
+- Main and companion proceedings in the ACM DL; authors may opt out of the proceedings (for social scientists who
+  want to publish in journals)
+- Full papers 6 to 10 pages and short papers up to 5 pages (ACM format, references included); double-blind review
+  with at least three referees
+- 18th edition in 2026 at TU Braunschweig, Germany; workshops, tutorials and PhD symposium on the first day
+- Student travel funding from SIGWEB and WebIST in 2026
+- Not found in the ICORE2026 or CCF 2026 lists
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  location: Braunschweig, Germany
+  url: https://websci26.webscience.org/
+  deadlines:
+  - kind: submission
+    date: 2025-12-17
+    time: "23:59"
+    tz: AoE
+    label: Full and short papers (extended from 2025-12-10)
+  - kind: other
+    date: 2026-01-09
+    time: "23:59"
+    tz: AoE
+    label: Workshop/tutorial proposals (extended from 2025-12-15)
+  - kind: notification
+    date: 2026-02-18
+    tz: AoE
+    label: Papers (postponed from 2026-02-11)
+  - kind: submission
+    date: 2026-02-25
+    time: "23:59"
+    tz: AoE
+    label: Posters (extended from 2026-02-18)
+  - kind: other
+    date: 2026-02-18
+    time: "23:59"
+    tz: AoE
+    label: PhD Symposium submission
+  - kind: camera_ready
+    date: 2026-02-28
+    time: "23:59"
+    tz: AoE
+    label: Papers
+sources:
+- https://websci26.webscience.org/
+- https://websci26.webscience.org/?page_id=75
+- https://websci26.webscience.org/?page_id=77
+- https://websci26.webscience.org/?page_id=79
+- https://websci26.webscience.org/?page_id=81
+- https://websci26.webscience.org/?page_id=71
+- https://dl.acm.org/doi/proceedings/10.1145/3795513
+- https://portal.core.edu.au/conf-ranks/?search=WebSci&by=all&source=ICORE2026
+unverified:
+- WebSci 2027 dates and location not yet announced (not found as of 2026-10-11)
+- Region judged from past host cities (Europe and USA alternate); earlier editions not checked on official pages
+- Not found in the ICORE2026 portal (searched WebSci and Web Science), so no CORE rank is given
+last_verified: 2026-10-11

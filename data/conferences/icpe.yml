@@ -1,0 +1,90 @@
+id: icpe
+name: ICPE
+full_name: ACM/SPEC International Conference on Performance Engineering
+type: conference
+tier: major
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGMETRICS, ACM SIGSOFT and SPEC Research Group
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [11]
+  conference_months: [5]
+links:
+  website: https://icpe.spec.org/
+notes:
+- Joint ACM/SPEC conference sponsored by ACM SIGMETRICS, ACM SIGSOFT and the SPEC Research Group; 18th edition in 2027
+- Proceedings published by ACM (open access; full papers outside ACM Open institutions may pay a subsidized APC)
+- Research and industry tracks share one deadline in November (abstract one week before the paper); double-blind
+  review, up to 10 pages excluding references
+- Many co-located workshops plus emerging research, artifact, poster/demo, tutorial and data challenge tracks
+- Mostly held in Europe, also North America (Toronto 2025); Florence 2026, Gothenburg 2027
+- CORE B (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-08
+  location: Florence, Italy
+  url: https://icpe2026.spec.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-10
+    tz: AoE
+    label: Research and industry tracks
+  - kind: submission
+    date: 2025-11-17
+    tz: AoE
+    label: Research and industry tracks
+  - kind: notification
+    date: 2026-01-19
+    tz: AoE
+    label: Research and industry tracks
+  - kind: camera_ready
+    date: 2026-02-20
+    tz: AoE
+    label: Research and industry tracks
+- year: 2027
+  start: 2027-05-24
+  end: 2027-05-28
+  location: Gothenburg, Sweden
+  url: https://icpe2027.spec.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-09
+    tz: AoE
+    label: Research and industry tracks
+  - kind: submission
+    date: 2026-11-16
+    tz: AoE
+    label: Research and industry tracks
+  - kind: notification
+    date: 2027-01-25
+    tz: AoE
+    label: Research and industry tracks
+  - kind: camera_ready
+    date: 2027-03-12
+    tz: AoE
+    label: Research and industry tracks
+sources:
+- https://icpe.spec.org/
+- https://icpe2027.spec.org/
+- https://icpe2027.spec.org/important-dates/
+- https://icpe2027.spec.org/tracks-and-submissions/research-paper-track/
+- https://icpe2027.spec.org/location/
+- https://icpe2026.spec.org/important-dates/
+- https://icpe2026.spec.org/program/
+- https://icpe2026.spec.org/venue/
+- https://icpe2026.spec.org/call-for-contributions/
+- https://icpe2025.spec.org/
+- https://portal.core.edu.au/conf-ranks/?search=ICPE&by=all&source=ICORE2026
+unverified:
+- CCF rank (ICPE not found in the CCF list mirrors checked)
+- Workshop, poster/demo, tutorial and data challenge deadlines for ICPE 2027 (TBA as of 2026-10-11)
+- Acceptance rate
+last_verified: 2026-10-11

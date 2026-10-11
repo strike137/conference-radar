@@ -1,0 +1,61 @@
+id: lctes
+name: LCTES
+full_name: ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems
+type: conference
+tier: major
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN and ACM SIGBED
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://pldi26.sigplan.org/home/LCTES-2026
+  dblp: https://dblp.org/db/conf/lctrts/index.html
+notes:
+- ACM SIGPLAN/SIGBED conference on languages, compilers and tools for embedded and real-time systems
+- CORE B (ICORE2026), CCF B
+- Co-located with PLDI every year and shares its venue (Orlando 2023, Copenhagen 2024, Seoul 2025, Boulder 2026)
+- Proceedings published by ACM
+- LCTES 2026 deadlines were extended by one week (abstract 6 Mar -> 13 Mar, paper 13 Mar -> 20 Mar, AoE)
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-16
+  location: Boulder, Colorado, USA
+  url: https://pldi26.sigplan.org/home/LCTES-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-03-13
+    tz: AoE
+  - kind: submission
+    date: 2026-03-20
+    tz: AoE
+  - kind: notification
+    date: 2026-05-01
+    tz: AoE
+  - kind: other
+    date: 2026-05-08
+    tz: AoE
+    label: Artifact evaluation submission
+  - kind: camera_ready
+    date: 2026-05-15
+    tz: AoE
+sources:
+- https://pldi26.sigplan.org/home/LCTES-2026
+- https://conf.researchr.org/series/lctes
+- https://pldi27.sigplan.org/
+- https://www.ccf.org.cn/Academic_Evaluation/TCSE_SS_PDL/
+- https://portal.core.edu.au/conf-ranks/?search=LCTES&by=all&source=ICORE2026
+unverified:
+- LCTES 2027 not yet announced (PLDI 2027 is 2027-06-05 to 2027-06-11 in Atlanta as part of FCRC)
+- CCF page does not show the list year
+last_verified: 2026-10-11

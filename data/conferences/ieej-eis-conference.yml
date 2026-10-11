@@ -1,0 +1,68 @@
+id: ieej-eis-conference
+name: IEEJ EIS Conference
+full_name: Annual Conference on Electronics, Information and Systems, IEEJ
+name_local: 電気学会 電子・情報・システム部門大会
+type: conference
+tier: domestic
+areas: [general, ai, communications]
+region: japan
+language: japanese
+frequency: annual
+organizer: IEEJ Electronics, Information and Systems Society (C部門)
+organizer_country: [japan]
+proceedings: IEEJ conference proceedings (book with CD-ROM; per-paper sales in the IEEJ digital library about six months later)
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8]
+links:
+  website: https://www.iee.jp/eiss/conf/
+notes:
+- Annual national conference of the IEEJ Electronics, Information and Systems Society (C部門), held at a Japanese university each late August
+- Broad EECS scope (devices, circuits, control, communications, information systems, AI, signal processing, robotics)
+- General sessions, organized sessions, a student poster session (2-page papers, masters and undergraduates) and an English Student Competition Session
+- Talk registration in mid May (extended by one week in 2025 and 2026), manuscripts due mid June; organized session proposals in March
+- Proceedings book with CD-ROM sold for 13,000 JPY; awards for young presenters and student posters
+editions:
+- year: 2025
+  start: 2025-08-27
+  end: 2025-08-30
+  location: Nonoichi, Ishikawa, Japan (Kanazawa Institute of Technology)
+  url: https://www.iee.jp/eiss/event/conf2025/
+  deadlines:
+  - kind: other
+    date: 2025-03-31
+    label: Organized session proposals
+  - kind: submission
+    date: 2025-05-15
+    label: Talk registration (later extended by one week)
+  - kind: submission
+    date: 2025-06-15
+    label: Manuscript
+- year: 2026
+  start: 2026-08-26
+  end: 2026-08-29
+  location: Kitakyushu, Fukuoka, Japan (Waseda University Kitakyushu Campus)
+  url: https://www.iee.jp/eiss/event/conf2026/
+  deadlines:
+  - kind: other
+    date: 2026-04-17
+    label: Organized session proposals (extended from 2026-03-31)
+  - kind: submission
+    date: 2026-05-22
+    label: Talk registration (extended from 2026-05-15)
+  - kind: submission
+    date: 2026-06-15
+    label: Manuscript
+sources:
+- https://www.iee.jp/blog/c-taikai-2026/
+- https://www.iee.jp/eiss/event/conf2026/
+- https://www.iee.jp/eiss/conf/conf2026/3/
+- https://www.iee.jp/eiss/event/conf2025/
+- https://www.iee.jp/eiss/conf/
+- https://www.iee.jp/eiss/buy/
+unverified:
+- 2027 dates and venue not announced yet
+- Whether talks are peer reviewed is not stated (treated as non-archival like most domestic conferences)
+- The 2026 overview page says the conference ends 2026-08-29 with a technical tour on the last day
+last_verified: 2026-10-11

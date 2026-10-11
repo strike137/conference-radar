@@ -1,0 +1,76 @@
+id: vlsid
+name: VLSID
+full_name: International Conference on VLSI Design and International Conference on Embedded Systems
+type: conference
+tier: minor
+areas: [systems, general]
+region: south-asia
+language: english
+frequency: annual
+organizer: VLSI Society of India (VSI)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: 'National: India'
+typical:
+  deadline_months: [8]
+  conference_months: [1]
+links:
+  website: https://www.vlsid.org/
+  dblp: https://dblp.org/db/conf/vlsid/index.html
+notes:
+- Main VLSI design conference in India, run by the VLSI Society of India since 1985; held jointly with the
+  International Conference on Embedded Systems
+- Described by the organizers as a sister conference of DAC; large event with 3000+ attendees, strong industry presence
+- Held in Indian cities every January (Hyderabad 2023, Pune 2026, Bengaluru 2027); two days of workshops and tutorials
+  before three main conference days
+- Full papers up to 6 pages in IEEE two-column format; double-blind review
+- "Proceedings: accepted papers go to IEEE Xplore (the 2027 call says pending approval of sponsorship)"
+- Also has a user design track, design and tapeout contests, a student research forum and fellowships for students
+- CORE National India (ICORE2026); not in the CCF list
+editions:
+- year: 2026
+  start: 2026-01-03
+  end: 2026-01-07
+  location: MIT World Peace University and JW Marriott, Pune, India
+  url: https://2026.vlsid.org/
+  deadlines:
+  - kind: submission
+    date: 2025-08-17
+    tz: AoE
+    label: Final deadline
+  - kind: notification
+    date: 2025-10-24
+- year: 2027
+  start: 2027-01-02
+  end: 2027-01-06
+  location: Sheraton Grand, Whitefield, Bengaluru, India
+  url: https://vlsid.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-07
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2026-10-12
+  - kind: camera_ready
+    date: 2026-11-09
+    label: Camera-ready and author registration
+  - kind: other
+    date: 2026-10-26
+    label: Design contest proposals
+sources:
+- https://vlsid.org/
+- https://vlsid.org/call-for-papers/
+- https://vlsid.org/archives/
+- https://2026.vlsid.org/
+- https://2026.vlsid.org/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=VLSID&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- The 2027 call lists the paper deadline as "7th Aug 11:59 PM Pacific Standard Time (Monday)", but 2026-08-07 is a
+  Friday; the date is recorded as written
+- VLSID 2024 and 2025 locations not checked (the official archives page lists only 2020, 2022, 2023 and 2026)
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-11

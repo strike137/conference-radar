@@ -1,0 +1,79 @@
+id: chinavis
+name: ChinaVis
+full_name: China Visualization and Visual Analytics Conference
+name_local: 中国可视化与可视分析大会
+type: conference
+tier: domestic
+areas: [data, vision]
+region: china
+language: mixed
+frequency: annual
+organizer: CSIG (China Society of Image and Graphics), Technical Committee on Visualization and Visual Analytics
+organizer_country: [china]
+proceedings: None (accepted papers recommended to journals such as Journal of Visualization and Visual Informatics)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://chinavis.org/2026/
+notes:
+- Main Chinese visualization conference, held every July since 2014 (preceded by visualization workshops from 2008);
+  hosted by CSIG and run by its visualization technical committee
+- No conference proceedings; accepted English papers are recommended to SCI journals (Journal of Visualization,
+  Visual Informatics) and good Chinese papers to Chinese journals, after a second review round in the journal system
+- Accepts Chinese and English papers, up to 8 pages excluding references (IEEE VGTC template for English)
+- Two-round anonymous review, first round on PCS; posters (2-page summary) and a separate art program (ChinaVISAP)
+- Held in a different Chinese city each year (Chongqing 2023, Hong Kong 2024, Hangzhou 2025, Guiyang 2026)
+editions:
+- year: 2025
+  label: 12th ChinaVis
+  start: 2025-07-19
+  end: 2025-07-22
+  location: Hangzhou, China
+  url: https://chinavis.org/2025/
+  deadlines: []
+- year: 2026
+  label: 13th ChinaVis
+  start: 2026-07-19
+  end: 2026-07-22
+  location: Guiyang, China
+  url: https://chinavis.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-10
+    time: "23:59"
+    tz: UTC+8
+  - kind: submission
+    date: 2026-05-15
+    time: "23:59"
+    tz: UTC+8
+  - kind: notification
+    date: 2026-06-20
+    time: "23:59"
+    tz: UTC+8
+    label: First review round
+  - kind: other
+    date: 2026-06-26
+    time: "23:59"
+    tz: UTC+8
+    label: Poster submission
+  - kind: camera_ready
+    date: 2026-07-10
+    time: "23:59"
+    tz: UTC+8
+sources:
+- https://chinavis.org/2026/en/
+- https://chinavis.org/2026/zh/callforpaper
+- https://chinavis.org/2026/zh/callforposter
+- https://chinavis.org/2026/zh/paper
+- https://chinavis.org/history.html
+- https://chinavis.org/2025/
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+- https://portal.core.edu.au/conf-ranks/?search=ChinaVis&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Not found in the CORE ICORE2026 portal or the CCF 2026 list
+- ChinaVis 2025 deadlines (2025 call for papers page not checked)
+- Acceptance rate and registration fee
+- ChinaVis 2027 dates and location
+last_verified: 2026-10-11

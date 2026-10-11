@@ -1,0 +1,64 @@
+id: qunet
+name: QuNet
+full_name: ACM SIGCOMM Workshop on Quantum Networks and Distributed Quantum Computing
+type: workshop
+tier: minor
+areas: [networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCOMM (workshop co-located with the SIGCOMM conference)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://conferences.sigcomm.org/sigcomm/2026/workshops/qunet/
+notes:
+- Workshop on quantum networking and distributed quantum computing, co-located with ACM SIGCOMM (Coimbra 2025, Denver
+  2026)
+- Papers appear in the SIGCOMM 2025 workshop proceedings in the ACM Digital Library and count as published work
+- Research papers up to 6 pages including figures, tables and appendices, plus extended abstracts of 2 pages; references
+  do not count; ACM SIGCOMM two-column format
+- Half-day workshop in 2025, full-day in 2026, held on the first day of SIGCOMM
+- Not listed in the CORE portal (ICORE2026); not the same venue as QCNC
+editions:
+- year: 2025
+  start: 2025-09-08
+  end: 2025-09-08
+  location: Coimbra, Portugal
+  url: https://conferences.sigcomm.org/sigcomm/2025/workshop/qunet/
+  deadlines:
+  - kind: submission
+    date: 2025-05-23
+  - kind: notification
+    date: 2025-06-27
+  - kind: camera_ready
+    date: 2025-07-23
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-17
+  location: Denver, CO, USA
+  url: https://conferences.sigcomm.org/sigcomm/2026/workshops/qunet/
+  deadlines:
+  - kind: submission
+    date: 2026-05-28
+    tz: AoE
+  - kind: notification
+    date: 2026-06-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-30
+    tz: AoE
+sources:
+- https://conferences.sigcomm.org/sigcomm/2025/workshop/qunet/
+- https://conferences.sigcomm.org/sigcomm/2025/workshop/papers-workshop-info/
+- https://conferences.sigcomm.org/sigcomm/2025/
+- https://conferences.sigcomm.org/sigcomm/2026/workshops/qunet/
+- https://conferences.sigcomm.org/sigcomm/2026/
+- https://portal.core.edu.au/conf-ranks/?search=QuNet&by=all&source=ICORE2026
+unverified:
+- QuNet 2027 dates and deadlines not yet announced
+last_verified: 2026-10-11

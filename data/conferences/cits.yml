@@ -1,0 +1,67 @@
+id: cits
+name: CITS
+full_name: International Conference on Computer, Information and Telecommunication Systems
+type: conference
+tier: minor
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: CITS Steering Committee (chair Mohammad S. Obaidat); IEEE ComSoc technical co-sponsor
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7]
+links:
+  website: https://cits.udg.edu/
+notes:
+- Run by an international steering committee chaired by Mohammad S. Obaidat; site hosted by the University of Girona
+- Accepted papers are submitted to IEEE Xplore; extended versions of selected papers go to special issues of the
+  International Journal of Communication Systems and the Security and Privacy journal (Wiley)
+- Held in many countries (Genoa 2023, Girona 2024, Colmar 2025, Piraeus-Athens 2026, Istanbul 2027); virtual 2020 to 2022
+- Hybrid in 2026, remote presentation allowed for authors who cannot travel
+- Papers up to 8 pages in IEEE format via EDAS; deadlines are usually extended
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-07-22
+  end: 2026-07-24
+  location: Piraeus-Athens, Greece (University of Piraeus)
+  url: https://cits.udg.edu/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-19
+    tz: EDT
+    label: Papers (extended)
+  - kind: other
+    date: 2026-06-19
+    label: Invited session, workshop and tutorial proposals (extended)
+  - kind: notification
+    date: 2026-07-10
+  - kind: camera_ready
+    date: 2026-07-17
+- year: 2027
+  start: 2027-07-07
+  end: 2027-07-09
+  location: Istanbul, Turkey
+  url: https://cits.udg.edu/
+  deadlines:
+  - kind: submission
+    date: 2027-05-03
+  - kind: other
+    date: 2027-05-04
+    label: Invited session, workshop and tutorial proposals
+  - kind: notification
+    date: 2027-06-11
+  - kind: camera_ready
+    date: 2027-06-25
+sources:
+- https://cits.udg.edu/
+- https://cits.udg.edu/2026/
+- https://portal.core.edu.au/conf-ranks/?search=CITS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CITS 2027 deadline time zones
+- Acceptance rate
+last_verified: 2026-10-11

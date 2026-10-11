@@ -1,0 +1,62 @@
+id: ismb
+name: ISMB
+full_name: Intelligent Systems for Molecular Biology
+type: conference
+tier: major
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ISCB (International Society for Computational Biology)
+organizer_country: [international]
+proceedings: Bioinformatics (OUP) supplement
+archival: true
+indexing: [MEDLINE, ISI]
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://www.iscb.org/ismb2026/home
+  dblp: https://dblp.org/db/conf/ismb/index.html
+notes:
+- Flagship conference of ISCB; CORE A (ICORE2026), CCF B (2026 list)
+- Proceedings track papers appear in an online-only open access (CC-BY) special issue of the journal Bioinformatics
+  (Oxford University Press) about a month before the conference
+- "Publication fee: 700 USD per proceedings paper (2026)"
+- Two review rounds with a possible major revision; no deadline extensions
+- Large meeting with many COSI tracks, abstract and poster tracks besides the proceedings track; hybrid attendance
+  is offered
+- Alternates between North America and Europe; the 2027 edition is held jointly with ECCB as ISMB/ECCB in
+  Copenhagen
+editions:
+- year: 2026
+  start: 2026-07-12
+  end: 2026-07-16
+  location: Washington, DC, USA
+  url: https://www.iscb.org/ismb2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-01-20
+    time: "23:59"
+    tz: AoE
+    label: Proceedings track (11:59 PM in the time zone of your choice, no extension)
+- year: 2027
+  start: 2027-07-18
+  end: 2027-07-22
+  location: Bella Center Copenhagen, Copenhagen, Denmark
+  url: https://www.iscb.org/ismbeccb2027/home
+sources:
+- https://www.iscb.org/ismb2026/home
+- https://www.iscb.org/ismb2026/call-for-submissions/proceedings
+- https://www.iscb.org/ismb2026/key-dates
+- https://www.iscb.org/ismbeccb2027/home
+- https://portal.core.edu.au/conf-ranks/?search=ISMB&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- ISMB/ECCB 2027 proceedings deadlines (the official key dates page loads them dynamically and they could not be read;
+  ccf-deadlines lists 2027-01-14 23:59 AoE as a hint only)
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-11

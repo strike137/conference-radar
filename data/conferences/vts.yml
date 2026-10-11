@@ -1,0 +1,104 @@
+id: vts
+name: VTS
+full_name: IEEE VLSI Test Symposium
+type: conference
+tier: minor
+areas: [systems, general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE (Computer Society Test Technology Technical Community, TTTC)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: National/Regional
+  ccf: C
+typical:
+  deadline_months: [11, 12]
+  conference_months: [4]
+links:
+  website: https://www.tttc-vts.org/public_html/new/2027/
+  dblp: https://dblp.org/db/conf/vts/index.html
+notes:
+- IEEE symposium run under the TTTC (tttc-vts.org); 45th edition in 2027
+- Covers test, reliability, calibration, validation, yield and security of microelectronic circuits and systems
+- Regular papers up to 6 pages in IEEE two-column format (references excluded); title and abstract one week before the full paper
+- Also has late-breaking results (up to 3 pages), special sessions, innovative practices, a PhD thesis contest and a student forum
+- Accepted papers, including late-breaking results, appear in the formal proceedings in IEEE Xplore; at least one author must register and present in person
+- Held every April in the USA (San Diego 2023, Tempe 2024 and 2025, Napa 2026 and 2027)
+- ICORE2026 rank National/Regional; CCF C
+editions:
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-29
+  location: Napa, CA, USA
+  url: https://www.tttc-vts.org/public_html/new/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-05
+    label: Regular papers, title, abstract and authors (firm, extended from 2025-11-03 and 2025-11-17)
+  - kind: submission
+    date: 2025-12-05
+    label: Regular papers, full PDF (firm, extended from 2025-11-10 and 2025-11-24)
+  - kind: other
+    date: 2026-01-15
+    label: Special session and innovative practices proposals
+  - kind: notification
+    date: 2026-01-31
+    label: Regular papers
+  - kind: submission
+    date: 2026-02-17
+    label: Late-breaking results (extended from 2026-02-07)
+  - kind: camera_ready
+    date: 2026-03-31
+    label: Extended from 2026-03-13
+- year: 2027
+  start: 2027-04-26
+  end: 2027-04-28
+  location: Napa, CA, USA
+  url: https://www.tttc-vts.org/public_html/new/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-13
+    label: Regular papers, title, abstract and authors
+  - kind: submission
+    date: 2026-11-20
+    label: Regular papers, full PDF
+  - kind: other
+    date: 2027-01-08
+    label: PhD thesis competition
+  - kind: other
+    date: 2027-01-15
+    label: Special session and innovative practices proposals
+  - kind: notification
+    date: 2027-01-29
+    label: Regular papers, special sessions and innovative practices
+  - kind: other
+    date: 2027-01-29
+    label: Student forum submission
+  - kind: submission
+    date: 2027-02-05
+    label: Late-breaking results
+  - kind: notification
+    date: 2027-02-26
+    label: Late-breaking results
+  - kind: camera_ready
+    date: 2027-03-15
+    label: With author registration
+sources:
+- https://www.tttc-vts.org/public_html/new/2027/
+- https://tttc-vts.org/public_html/new/2027/call-for-papers/
+- https://www.tttc-vts.org/public_html/new/2026/
+- https://www.tttc-vts.org/public_html/new/2026/call-for-papers/index.html
+- https://www.tttc-vts.org/public_html/new/2025/
+- https://www.tttc-vts.org/public_html/new/2024/
+- https://www.tttc-vts.org/public_html/new/2023/
+- https://portal.core.edu.au/conf-ranks/?search=VTS&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- Time zone of the 2027 regular paper deadlines is not stated on the CFP page (the 2026 CFP used 11:59:59 pm AoE)
+- The 2026 CFP body text gave a camera-ready date of 2026-02-28 that conflicts with 2026-03-31 in its key dates list
+- Sponsors are shown only as logos on the site; the TTTC and IEEE Computer Society role is taken from the site domain and contest names
+- CCF rank checked against a text copy of the CCF 2026 list, not on ccf.org.cn directly (site blocks automated access)
+last_verified: 2026-10-11

@@ -1,0 +1,81 @@
+id: iva
+name: IVA
+full_name: ACM International Conference on Intelligent Virtual Agents
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (IVA Steering Committee)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://iva.acm.org/
+  dblp: https://dblp.org/db/conf/iva/index.html
+notes:
+- ACM conference on embodied conversational agents and virtual characters (agents, HCI, social signals)
+- Accepted full papers appear in the conference proceedings in the ACM Digital Library
+- Full papers 4 to 8 pages excluding references (ACM sigconf); double-blind review by at least two reviewers
+- Separate poster, demo, workshop and doctoral consortium tracks; SIGAI student travel grants offered
+- Mostly held in Europe (Wurzburg 2023, Glasgow 2024, Berlin 2025); 2026 in Puebla, Mexico, co-located with ACII 2026
+- CORE B (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-09-16
+  end: 2025-09-19
+  location: Berlin, Germany
+  url: https://iva.acm.org/2025/
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-11
+  location: Puebla, Mexico
+  url: https://iva.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-03
+    tz: AoE
+    label: Full papers (extended)
+  - kind: submission
+    date: 2026-04-10
+    tz: AoE
+    label: Full papers (extended)
+  - kind: notification
+    date: 2026-05-23
+    tz: AoE
+    label: Full papers (review notification)
+  - kind: notification
+    date: 2026-06-15
+    tz: AoE
+    label: Full papers (final notification)
+  - kind: other
+    date: 2026-06-22
+    tz: AoE
+    label: Posters submission
+  - kind: camera_ready
+    date: 2026-07-07
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2026-07-22
+    tz: AoE
+    label: Doctoral consortium submission (extended)
+- year: 2027
+  location: Reykjavik, Iceland
+  url: https://iva.acm.org/
+sources:
+- https://iva.acm.org/
+- https://iva.acm.org/2025/
+- https://iva.acm.org/2026/
+- https://iva.acm.org/2026/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=IVA&by=all&source=ICORE2026
+unverified:
+- IVA 2027 exact dates and deadlines (the series site only says Reykjavik, Iceland, September 2027)
+- CCF rank (IVA not found in the CCF list mirror checked)
+last_verified: 2026-10-11

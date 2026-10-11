@@ -1,0 +1,67 @@
+id: sbqs
+name: SBQS
+full_name: Simpósio Brasileiro de Qualidade de Software (Brazilian Symposium on Software Quality)
+type: conference
+tier: domestic
+areas: [software]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação)
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [11]
+links:
+  website: https://sbqs.sbc.org.br/2026/
+notes:
+- Brazilian software quality symposium run by the Brazilian Computer Society (SBC); the 2026 site calls it the
+  25th edition (XXV)
+- Proceedings (Anais) published open access in the SBC OpenLib (SOL) digital library; many 2025 papers have English
+  versions
+- Technical papers 8 to 10 pages plus up to 2 pages of references; double-blind review by at least three PC
+  members, with a rebuttal phase and two notification rounds
+- Tracks for technical papers, experience reports, software quality education and journal first, plus a thesis
+  workshop (WTDQS) and thesis and undergraduate research contests
+- Held in a different Brazilian city each year (São José dos Campos 2025, Maringá 2026)
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-04
+  end: 2025-11-07
+  location: São José dos Campos, Brazil
+  url: https://sol.sbc.org.br/index.php/sbqs
+- year: 2026
+  start: 2026-11-10
+  end: 2026-11-13
+  location: Maringá, Paraná, Brazil
+  url: https://sbqs.sbc.org.br/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-06
+    label: Technical papers registration (the page also shows 2026-06-22)
+  - kind: submission
+    date: 2026-07-13
+    label: Technical papers (the page also shows 2026-06-29)
+  - kind: notification
+    date: 2026-09-04
+    label: First notification, then rebuttal until 2026-09-21
+  - kind: notification
+    date: 2026-10-01
+    label: Second notification
+  - kind: camera_ready
+    date: 2026-10-14
+sources:
+- https://www.sbc.org.br/sbqs2026
+- https://sbqs.sbc.org.br/2026
+- https://sbqs.sbc.org.br/2026/index.php/pt/chamada-de-trabalhos/trilha-de-trabalhos-tecnicos
+- https://sol.sbc.org.br/index.php/sbqs
+- https://portal.core.edu.au/conf-ranks/?search=SBQS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Which 2026 technical paper deadlines are original and which extended (two dates are shown for each; the later
+  ones are recorded)
+- Edition number (the 2026 site says XXV and SOL calls 2025 the XXIV; another source said 27th)
+- SBQS 2027 dates and location (not announced as of 2026-10-11)
+last_verified: 2026-10-11

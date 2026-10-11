@@ -1,0 +1,62 @@
+id: lics
+name: LICS
+full_name: ACM/IEEE Symposium on Logic in Computer Science
+type: conference
+tier: top
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGLOG and IEEE Computer Society TCMF
+organizer_country: [international]
+proceedings: LIPIcs
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [1]
+  conference_months: [6, 7]
+links:
+  website: https://lics.siglog.org/
+  dblp: https://dblp.org/db/conf/lics/index.html
+notes:
+- Flagship venue for logic in computer science; sponsored by ACM SIGLOG and the IEEE Computer Society TCMF, in cooperation with the Association for Symbolic Logic
+- Proceedings moved to Dagstuhl LIPIcs (open access, no publication charges) from LICS 2026
+- Lightweight double-blind review with author response; up to 12 pages excluding references
+- Titles and abstracts are due one week before full papers; deadlines are firm
+- Held in Haifa 2022 and Lisbon 2026 as part of FLoC; Boston 2023, Tallinn 2024, Singapore 2025, Montreal 2027
+- CORE A* (ICORE2026), CCF A
+editions:
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-23
+  location: Lisbon, Portugal (part of FLoC 2026)
+  url: https://lics.siglog.org/lics26/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-15
+    tz: AoE
+  - kind: submission
+    date: 2026-01-22
+    tz: AoE
+  - kind: notification
+    date: 2026-04-16
+    tz: AoE
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-24
+  location: Montreal, Canada
+  url: https://lics.siglog.org/lics27/
+sources:
+- https://lics.siglog.org/
+- https://lics.siglog.org/lics26/
+- https://lics.siglog.org/lics26/cfp.php
+- https://lics.siglog.org/lics27/
+- https://lics.siglog.org/lics25/
+- https://lics.siglog.org/archive/conferences.html
+- https://portal.core.edu.au/conf-ranks/?search=LICS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/TCS/
+unverified:
+- LICS 2027 deadlines and proceedings publisher not yet announced (workshops on 19 to 20 June 2027)
+last_verified: 2026-10-11

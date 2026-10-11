@@ -1,0 +1,83 @@
+id: siggraph
+name: SIGGRAPH
+full_name: ACM SIGGRAPH Conference on Computer Graphics and Interactive Techniques
+type: conference
+tier: top
+areas: [vision, general]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGGRAPH
+organizer_country: [international]
+proceedings: ACM DL (SIGGRAPH Conference Papers); journal track papers in ACM Transactions on Graphics (TOG)
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [1]
+  conference_months: [7, 8]
+links:
+  website: https://s2026.siggraph.org/
+  dblp: https://dblp.org/db/conf/siggraph/index.html
+notes:
+- Flagship computer graphics conference of ACM SIGGRAPH; conference plus a large exhibition every summer
+- ICORE2026 A*, CCF A
+- "Two technical paper tracks: journal papers in a SIGGRAPH issue of ACM TOG and conference papers in the ACM DL proceedings; authors submit journal-only or dual-track, and the committee picks the track for dual-track papers"
+- Rebuttal phase, then a revised paper for final review; from 2026 accepted authors facing hurdles with the Los Angeles location could request to present at SIGGRAPH Asia instead
+- Held in North America (Los Angeles 2026, Anaheim 2027)
+editions:
+- year: 2026
+  start: 2026-07-19
+  end: 2026-07-23
+  location: Los Angeles, California, USA (Los Angeles Convention Center)
+  url: https://s2026.siggraph.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-15
+    time: "22:00"
+    tz: UTC
+    label: Technical papers submission form
+  - kind: submission
+    date: 2026-01-22
+    time: "22:00"
+    tz: UTC
+    label: Technical papers
+  - kind: other
+    date: 2026-01-23
+    time: "22:00"
+    tz: UTC
+    label: Upload and conflicts deadline
+  - kind: other
+    date: 2026-03-12
+    time: "22:00"
+    tz: UTC
+    label: Rebuttals due
+  - kind: notification
+    date: 2026-03-30
+    time: "22:00"
+    tz: UTC
+  - kind: other
+    date: 2026-04-29
+    time: "22:00"
+    tz: UTC
+    label: Revised paper due for final review
+  - kind: camera_ready
+    date: 2026-05-06
+    time: "22:00"
+    tz: UTC
+- year: 2027
+  start: 2027-08-08
+  end: 2027-08-12
+  location: Anaheim, California, USA (Anaheim Convention Center)
+  url: https://s2027.siggraph.org/
+sources:
+- https://s2026.siggraph.org/
+- https://s2026.siggraph.org/program/technical-papers/
+- https://s2027.siggraph.org/
+- https://portal.core.edu.au/conf-ranks/?search=SIGGRAPH&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- SIGGRAPH 2027 technical paper deadlines not announced as of 2026-10-11
+- CCF rank checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-10-11

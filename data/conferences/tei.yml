@@ -1,0 +1,72 @@
+id: tei
+name: TEI
+full_name: ACM International Conference on Tangible, Embedded, and Embodied Interaction
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [7, 8]
+  conference_months: [1, 2, 3]
+links:
+  website: https://tei.acm.org/2027/
+notes:
+- Sponsored by ACM SIGCHI; proceedings of every edition since 2007 are in the ACM Digital Library
+- CORE B (ICORE2026); the main venue for tangible user interfaces, wearables, physical computing and embodied interaction
+- Papers have no page limit (typically 7,000 to 8,000 words, one-column template); each paper gets two ACs plus two external reviewers
+- Tracks besides papers include pictorials, work-in-progress, studios, art and performance, graduate student consortium and a student design challenge
+- Mostly held in Europe and North America (Warsaw 2023, Cork 2024, Bordeaux 2025, Chicago 2026, Lisbon 2027)
+editions:
+- year: 2026
+  start: 2026-03-08
+  end: 2026-03-11
+  location: Chicago, USA
+  url: https://tei.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-31
+    tz: AoE
+  - kind: submission
+    date: 2025-08-07
+    tz: AoE
+  - kind: other
+    date: 2025-08-14
+    tz: AoE
+    label: Video and supplementary material
+  - kind: notification
+    date: 2025-10-15
+    label: Conditional acceptance
+  - kind: camera_ready
+    date: 2025-11-10
+    label: Anonymized camera-ready on PCS
+  - kind: other
+    date: 2025-11-20
+    label: Publication-ready version on TAPS
+- year: 2027
+  start: 2027-01-24
+  end: 2027-01-27
+  location: Lisbon, Portugal
+  url: https://tei.acm.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-08-06
+    tz: AoE
+    label: Papers and Pictorials
+sources:
+- https://tei.acm.org/2027/
+- https://tei.acm.org/2026/
+- https://tei.acm.org/2026/participate/papers/
+- https://tei.acm.org/2026/about/about-tei/
+- https://portal.core.edu.au/conf-ranks/?search=TEI&by=all&source=ICORE2026
+unverified:
+- TEI 2027 page gives only the Papers and Pictorials deadline as "August 6 (AoE)" without a year (2026 assumed) and no abstract, notification or camera-ready dates
+- CCF rank not checked (CCF list page not reachable)
+last_verified: 2026-10-11

@@ -1,0 +1,54 @@
+id: edtm
+name: EDTM
+full_name: IEEE Electron Devices Technology and Manufacturing Conference
+type: conference
+tier: minor
+areas: [communications, general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE Electron Devices Society (EDS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  conference_months: [2, 3]
+links:
+  website: https://ieee-edtm.org/
+notes:
+- Fully sponsored by the IEEE Electron Devices Society, started to use Asia's manufacturing base; first held in
+  2017 in Toyama, Japan, and in 2026 in Penang, Malaysia for the first time
+- 3-page A4 papers covering all areas of electron devices (materials, process, logic, memory, power/RF, photonics,
+  packaging, modeling, reliability, neuromorphic and quantum)
+- Presented papers go to IEEE Xplore; selected papers are invited to a J-EDS / T-MAT special issue
+- Late News track with a separate deadline about three months before the conference
+- Not ranked by CORE or CCF, whose lists cover computing venues; strong industry participation
+editions:
+- year: 2026
+  start: 2026-03-01
+  end: 2026-03-04
+  location: Penang, Malaysia
+  url: https://ieee-edtm.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-30
+    label: Late News papers
+  - kind: notification
+    date: 2025-12-15
+    label: Late News papers (another section of the site says 2025-12-12)
+  - kind: other
+    date: 2026-02-01
+    label: IEEE copyright form
+sources:
+- https://ieee-edtm.org/
+- https://ieee-edtm.org/about/index.html
+- https://ieee-edtm.org/call/index.html
+- https://ieee-edtm.org/paper_submission/index.html
+- https://portal.core.edu.au/conf-ranks/?search=EDTM&by=all&source=ICORE2026
+unverified:
+- Regular paper deadline for EDTM 2026 not shown on the current site (only the Late News deadline)
+- EDTM 2027 dates and location not yet announced on the official site as of 2026-10-11
+- Host cities of editions 2 to 9 not listed on the official site; region asia-pacific rests on its Asia focus
+  and the two editions the site names (Japan 2017, Malaysia 2026), not on an official host list
+- Not found in the ICORE2026 portal search
+last_verified: 2026-10-11

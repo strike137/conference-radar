@@ -1,0 +1,66 @@
+id: iedm
+name: IEDM
+full_name: IEEE International Electron Devices Meeting
+type: conference
+tier: top
+areas: [communications, general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Electron Devices Society (EDS)
+organizer_country: [international]
+proceedings: IEDM Technical Digest
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://ieee-iedm.org/
+notes:
+- Flagship conference of the IEEE Electron Devices Society; 72nd edition in 2026
+- Held every December at the Hilton San Francisco Union Square (dates fixed through 2028)
+- Single submission of a final 4-page camera-ready paper (2 pages of text, 2 pages of figures) in IEEE Xplore-compliant PDF; accepted papers are published as-is in the IEDM Technical Digest
+- Late News track for recent results, with a separate deadline in August
+- Covers logic, memory, power, RF, sensors, displays, reliability, modeling, neuromorphic and quantum devices
+- Not ranked by CORE or CCF, whose lists cover computing venues; regarded as the premier semiconductor device conference
+editions:
+- year: 2026
+  start: 2026-12-12
+  end: 2026-12-16
+  location: Hilton San Francisco Union Square, San Francisco, CA, USA
+  url: https://ieee-iedm.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-19
+    time: "23:59"
+    tz: PDT
+    label: Extended from 2026-07-16
+  - kind: submission
+    date: 2026-08-18
+    time: "23:59"
+    tz: PDT
+    label: Late News papers
+  - kind: notification
+    date: 2026-09-09
+- year: 2027
+  start: 2027-12-04
+  end: 2027-12-08
+  location: Hilton San Francisco Union Square, San Francisco, CA, USA
+  url: https://ieee-iedm.org/
+- year: 2028
+  start: 2028-12-02
+  end: 2028-12-06
+  location: Hilton San Francisco Union Square, San Francisco, CA, USA
+  url: https://ieee-iedm.org/
+sources:
+- https://ieee-iedm.org/
+- https://ieee-iedm.org/about/
+- https://ieee-iedm.org/call-for-papers-overview/
+- https://ieee-iedm.org/submission-details/
+- https://ieee-iedm.org/wp-content/uploads/2026/06/IEDM26_CfP_Main.pdf
+- https://portal.core.edu.au/conf-ranks/?search=IEDM&by=all&source=ICORE2026
+unverified:
+- IEEE Xplore indexing of the Technical Digest not stated on the official pages (they only require an IEEE Xplore-compliant PDF)
+- The notification date (September 9) is given without a year on the submission page; assumed 2026
+- IEDM 2025 dates not checked on an official page
+last_verified: 2026-10-11

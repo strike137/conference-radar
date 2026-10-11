@@ -1,0 +1,61 @@
+id: sem
+name: '*SEM'
+full_name: Joint Conference on Lexical and Computational Semantics
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACL SIGLEX
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [2, 5]
+  conference_months: [7, 11]
+links:
+  website: https://starsem2026.github.io/
+notes:
+- Organized and sponsored by ACL SIGLEX; proceedings in the ACL Anthology (volumes every year since 2012)
+- Co-located with a major ACL conference each year (EMNLP 2025 in Suzhou, ACL 2026 in San Diego), so the location
+  follows that conference
+- Accepts direct submissions and ARR commitments; long papers up to 8 pages and short papers up to 4 pages (plus 1
+  page each when accepted)
+- 2026 edition was a one-day event because of ACL venue size limits; travel support for student lead authors was
+  offered in 2025
+- Not found in the ICORE2026 or CCF 2026 lists
+editions:
+- year: 2025
+  start: 2025-11-08
+  end: 2025-11-09
+  location: Suzhou, China
+  url: https://starsem2025.github.io/
+- year: 2026
+  start: 2026-07-03
+  end: 2026-07-03
+  location: San Diego, USA
+  url: https://starsem2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (long and short papers)
+  - kind: notification
+    date: 2026-05-05
+  - kind: camera_ready
+    date: 2026-05-20
+    time: "23:59"
+    tz: AoE
+sources:
+- https://starsem2026.github.io/
+- https://starsem2026.github.io/dates/
+- https://starsem2026.github.io/calls/
+- https://starsem2025.github.io/
+- https://aclanthology.org/venues/starsem/
+- https://portal.core.edu.au/conf-ranks/?search=SEM&by=all&source=ICORE2026
+unverified:
+- '*SEM 2027 dates and location not yet announced as of 2026-10-11'
+- Not found in the ICORE2026 portal (searched SEM, Lexical, Computational Semantics), so no CORE rank is given
+last_verified: 2026-10-11

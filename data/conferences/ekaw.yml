@@ -1,0 +1,73 @@
+id: ekaw
+name: EKAW
+full_name: International Conference on Knowledge Engineering and Knowledge Management
+type: conference
+tier: major
+areas: [ai, data]
+region: europe
+language: english
+frequency: biennial
+proceedings: Springer LNAI
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10, 11]
+links:
+  website: https://ekaw.org/
+  dblp: https://dblp.org/db/conf/ekaw/index.html
+notes:
+- Long-running European series (since 1987) on knowledge engineering, ontologies, knowledge graphs and semantic web
+- Held every two years since 2000 (2000, 2002, ... 2022, 2024, 2026), alternating with K-CAP
+- Accepted papers published by Springer in an LNAI volume
+- Research and in-use papers up to 15 pages, vision papers up to 8 pages; single-blind review
+- Almost always held in Europe (Bolzano 2022, Amsterdam 2024, Turin 2026)
+- CORE B (ICORE2026)
+editions:
+- year: 2024
+  start: 2024-11-26
+  end: 2024-11-28
+  location: Amsterdam, Netherlands
+  url: https://event.cwi.nl/ekaw2024/
+- year: 2026
+  start: 2026-09-29
+  end: 2026-10-01
+  location: University of Torino, Turin, Italy
+  url: https://ekaw2026.di.unito.it/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-15
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-05-08
+  - kind: submission
+    date: 2026-05-22
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended from 2026-05-15)
+  - kind: other
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+    label: Workshop and tutorial proposals
+  - kind: notification
+    date: 2026-07-10
+  - kind: other
+    date: 2026-07-24
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos submission (extended from 2026-07-20)
+  - kind: camera_ready
+    date: 2026-07-27
+sources:
+- https://ekaw.org/
+- https://event.cwi.nl/ekaw2024/
+- https://ekaw2026.di.unito.it/
+- https://ekaw2026.di.unito.it/calls/papers
+- https://ekaw2026.di.unito.it/calls/important-dates
+- https://portal.core.edu.au/conf-ranks/?search=EKAW&by=all&source=ICORE2026
+unverified:
+- Organizing body of the series (ekaw.org names no steering committee)
+- EKAW 2028 not yet announced as of 2026-10-11
+last_verified: 2026-10-11

@@ -1,0 +1,85 @@
+id: iiswc
+name: IISWC
+full_name: IEEE International Symposium on Workload Characterization
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society TCCA
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+fee: 750 USD IEEE member, 900 USD non-member, 550 USD IEEE student member (2026, early)
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9, 10]
+links:
+  website: https://iiswc.org/
+notes:
+- Sponsored by the IEEE Computer Society and its Technical Committee on Computer Architecture (TCCA)
+- Focus on characterizing and analyzing workloads (AI, cloud, mobile, HPC, quantum) and open-source benchmarks and tools
+- Double-blind review with a rebuttal period; regular papers up to 10 pages excluding references, short 6-page tool/benchmark papers also welcome
+- Optional artifact evaluation that does not affect acceptance
+- Camera-ready papers go through IEEE PDF eXpress for IEEE Xplore; at least one author must register and present
+- Mostly held in North America (Austin 2022, Vancouver 2024, Irvine 2025, Boulder 2026), with Ghent 2023 and a virtual 2021 edition
+- Not ranked in ICORE2026 and not in the CCF list
+editions:
+- year: 2025
+  start: 2025-10-12
+  end: 2025-10-14
+  location: Irvine, USA
+  url: https://iiswc.org/iiswc2025/
+  deadlines:
+  - kind: camera_ready
+    date: 2025-09-05
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-09-01
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-29
+  location: Boulder, USA
+  url: https://iiswc.org/iiswc2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-14
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-05-21
+    time: "23:59"
+    tz: AoE
+    label: Firm, no extensions
+  - kind: other
+    date: 2026-06-26
+    time: "23:59"
+    tz: AoE
+    label: Workshop/tutorial proposals
+  - kind: notification
+    date: 2026-07-27
+  - kind: other
+    date: 2026-08-07
+    time: "23:59"
+    tz: AoE
+    label: Artifact evaluation submission (extended from 2026-08-03)
+  - kind: camera_ready
+    date: 2026-08-28
+sources:
+- https://iiswc.org/
+- https://iiswc.org/iiswc2026/
+- https://iiswc.org/iiswc2026/cfp.html
+- https://iiswc.org/iiswc2026/cr.html
+- https://iiswc.org/iiswc2026/venue.html
+- https://iiswc.org/iiswc2026/reg.html
+- https://iiswc.org/iiswc2025/
+- https://iiswc.org/iiswc2024/
+- https://iiswc.org/iiswc2023/
+- https://iiswc.org/iiswc2022/home.html
+- https://iiswc.org/iiswc2021/home.html
+- https://portal.core.edu.au/conf-ranks/?search=IISWC&by=all&source=ICORE2026
+unverified:
+- IISWC 2027 dates and location not yet announced as of 2026-10-11
+- Camera-ready time differs between pages (home page has no time, camera-ready page says 12:01 AM EDT), so no time recorded
+last_verified: 2026-10-11

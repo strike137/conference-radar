@@ -1,0 +1,74 @@
+id: doceng
+name: DocEng
+full_name: ACM Symposium on Document Engineering
+type: conference
+tier: major
+areas: [data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGWEB
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8, 9]
+links:
+  website: https://doceng.org/
+notes:
+- ACM symposium sponsored by ACM SIGWEB; covers document engineering (document models, processing, analysis, layout, retrieval)
+- Proceedings in the ACM Digital Library
+- CORE B (ICORE2026)
+- Separate deadlines for full papers (up to 10 pages) and for short papers (up to 4 pages) and demonstrations (2 page abstract)
+- Abstract registration is due two weeks before the full paper manuscript
+- Mostly held in Europe and the USA (Fribourg 2026, Nottingham 2025, San Jose 2024, Limerick 2023); Calgary, Canada in 2027
+editions:
+- year: 2026
+  start: 2026-08-25
+  end: 2026-08-28
+  location: Fribourg, Switzerland
+  url: https://doceng.org/doceng2026
+  deadlines:
+  - kind: abstract
+    date: 2026-04-21
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-05-05
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2026-06-08
+    label: Full papers
+  - kind: abstract
+    date: 2026-06-09
+    time: "23:59"
+    tz: AoE
+    label: Short papers and demonstrations
+  - kind: submission
+    date: 2026-06-16
+    time: "23:59"
+    tz: AoE
+    label: Short papers and demonstrations
+  - kind: notification
+    date: 2026-07-14
+    label: Short papers and demonstrations
+- year: 2027
+  start: 2027-08-24
+  end: 2027-08-27
+  location: Calgary, Canada
+  url: https://doceng.org/symposia
+sources:
+- https://doceng.org/
+- https://doceng.org/doceng2026
+- https://doceng.org/doceng2026/cfp
+- https://doceng.org/symposia
+- https://portal.core.edu.au/conf-ranks/?search=DocEng&by=all&source=ICORE2026
+unverified:
+- DocEng 2027 deadlines not yet announced (only dates and city listed on doceng.org/symposia as of 2026-10-11)
+last_verified: 2026-10-11

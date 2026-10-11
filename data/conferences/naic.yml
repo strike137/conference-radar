@@ -1,0 +1,63 @@
+id: naic
+name: NAIC
+full_name: ACM SIGCOMM Workshop on Networks for AI Computing
+type: workshop
+tier: minor
+areas: [networking, ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCOMM (workshop co-located with the SIGCOMM conference)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://conferences.sigcomm.org/sigcomm/2026/naic/
+notes:
+- Workshop on network design for AI training and inference clusters, co-located with ACM SIGCOMM (Coimbra 2025,
+  Denver 2026)
+- Papers appear in the SIGCOMM 2025 workshop proceedings in the ACM Digital Library
+- Regular papers up to 6 pages excluding references and appendices, plus extended abstracts of up to 2 pages (in the
+  proceedings unless the authors opt out); sigconf two-column format
+- Full-day workshop on the first day of SIGCOMM
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-09-08
+  end: 2025-09-08
+  location: Coimbra, Portugal
+  url: https://conferences.sigcomm.org/sigcomm/2025/workshop/naic/
+  deadlines:
+  - kind: submission
+    date: 2025-05-22
+  - kind: notification
+    date: 2025-06-25
+  - kind: camera_ready
+    date: 2025-07-23
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-17
+  location: Denver, CO, USA
+  url: https://conferences.sigcomm.org/sigcomm/2026/naic/
+  deadlines:
+  - kind: submission
+    date: 2026-05-20
+    tz: AoE
+  - kind: notification
+    date: 2026-06-12
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-20
+sources:
+- https://conferences.sigcomm.org/sigcomm/2025/workshop/naic/
+- https://conferences.sigcomm.org/sigcomm/2025/workshop/papers-workshop-info/
+- https://conferences.sigcomm.org/sigcomm/2025/
+- https://conferences.sigcomm.org/sigcomm/2026/naic/
+- https://conferences.sigcomm.org/sigcomm/2026/
+- https://portal.core.edu.au/conf-ranks/?search=NAIC&by=all&source=ICORE2026
+unverified:
+- NAIC 2027 dates and deadlines not yet announced
+last_verified: 2026-10-11

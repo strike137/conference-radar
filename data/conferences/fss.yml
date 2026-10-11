@@ -1,0 +1,62 @@
+id: fss
+name: FSS
+full_name: Fuzzy System Symposium
+name_local: ファジィシステムシンポジウム
+type: conference
+tier: domestic
+areas: [ai]
+region: japan
+language: japanese
+frequency: annual
+organizer: SOFT (Japan Society for Fuzzy Theory and Intelligent Informatics); co-organized by IFSA
+organizer_country: [japan]
+proceedings: J-STAGE (FSS proceedings, also registered in the SOFT literature database)
+archival: false
+typical:
+  deadline_months: [5, 6, 7]
+  conference_months: [9]
+links:
+  website: https://soft-cr.org/fss/2026/
+notes:
+- Annual national symposium of SOFT (Japan Society for Fuzzy Theory and Intelligent Informatics), early September
+- Covers fuzzy theory, soft computing, machine learning, evolutionary computation, robotics and AI applications
+- Papers of 2 to 6 pages in Japanese; paper information is published on J-STAGE
+- Presenters can submit a 3-page short note to a reviewed special issue of the SOFT journal after the symposium
+- Held at a different Japanese city each year (Karuizawa 2023, Nagoya 2024, Kumamoto 2025, Osaka 2026, Naha 2027);
+  online 2020 to 2022
+- Separate from the international SCIS&ISIS (scis-isis), also run by SOFT
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-02
+  end: 2026-09-04
+  location: Kansai University (Senriyama Campus), Suita, Osaka, Japan
+  url: https://soft-cr.org/fss/2026/
+  deadlines:
+  - kind: other
+    date: 2026-04-10
+    label: Organized session proposals
+  - kind: abstract
+    date: 2026-06-08
+    label: Presentation application (extended from 2026-05-22 and 2026-05-31)
+  - kind: submission
+    date: 2026-07-10
+    label: Paper submission (extended from 2026-07-03)
+  - kind: other
+    date: 2026-07-31
+    label: Advance registration and payment
+- year: 2027
+  start: 2027-09-08
+  end: 2027-09-10
+  location: Okinawa Industry Support Center, Naha, Japan
+  url: https://soft-cr.org/fss/2026/
+  deadlines: []
+sources:
+- https://soft-cr.org/fss/2026/
+- https://gakujutsushukai.jp/fss2026
+- https://portal.core.edu.au/conf-ranks/?search=FSS&by=all&source=ICORE2026
+unverified:
+- Whether symposium papers are peer reviewed (the site does not say; treated as non-archival like most domestic
+  conferences)
+- FSS2027 deadlines and website (only dates and venue announced on the FSS2026 site)
+last_verified: 2026-10-11

@@ -1,0 +1,66 @@
+id: ieee-mwscas
+name: IEEE MWSCAS
+full_name: IEEE International Midwest Symposium on Circuits and Systems
+type: conference
+tier: minor
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Circuits and Systems Society (CASS); hosted by a different US university team each year
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [3, 4]
+  conference_months: [8]
+links:
+  website: https://www.mwscas2026.org/
+notes:
+- North American flagship conference of the IEEE Circuits and Systems (CAS) Society; 69th edition in 2026
+- Covers analog, mixed signal and RF, digital, power, sensory and biomedical circuits, signal processing, wireless
+  systems, neuromorphic and AI/edge computing circuits
+- Accepted papers go into the official proceedings and IEEE Xplore; submission via PaperCept
+- Held in the USA in August, not only in the Midwest (Springfield, Massachusetts 2024, Lansing 2025, Cincinnati
+  2026); 2026 edition co-located with IEEE NAECON under one registration
+- Strong student program (student paper contest, student design papers, student demo competition)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-08-10
+  end: 2025-08-13
+  location: Lansing, Michigan, USA
+  url: https://mwscas2025.org/
+- year: 2026
+  start: 2026-08-09
+  end: 2026-08-12
+  location: Hilton Cincinnati Netherland Plaza, Cincinnati, Ohio, USA
+  url: https://www.mwscas2026.org/
+  deadlines:
+  - kind: other
+    date: 2026-03-06
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-03-30
+    label: Regular papers (the CFP PDF listed 2026-03-16)
+  - kind: submission
+    date: 2026-04-20
+    label: Special session and student design papers
+  - kind: submission
+    date: 2026-05-05
+    label: Late-breaking research papers
+  - kind: camera_ready
+    date: 2026-06-23
+    label: Final papers (the CFP PDF listed 2026-06-08)
+sources:
+- https://www.mwscas2026.org/
+- https://mwscas2026.org/wp-content/uploads/MWSCAS26-CFP_Rev_0808-1.pdf
+- https://mwscas2025.org/
+- https://mwscas2024.org/
+- https://portal.core.edu.au/conf-ranks/?search=MWSCAS&by=all&source=ICORE2026
+unverified:
+- Acceptance notification date for 2026 (the homepage gives both 2026-05-26 and 2026-06-05)
+- Host city and dates of MWSCAS 2027 (not announced on an official page yet)
+- Host locations of editions before 2024 (region judged from 2024 to 2026, all in the USA)
+last_verified: 2026-10-11

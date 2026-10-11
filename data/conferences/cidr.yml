@@ -1,0 +1,75 @@
+id: cidr
+name: CIDR
+full_name: Conference on Innovative Data Systems Research
+type: conference
+tier: major
+areas: [data, systems]
+region: worldwide
+language: english
+frequency: annual
+proceedings: CIDR proceedings (VLDB Endowment, open access)
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [8]
+  conference_months: [1]
+links:
+  website: https://www.cidrdb.org/
+  dblp: https://dblp.org/db/conf/cidr/index.html
+notes:
+- Systems-oriented database conference for innovative and risky data management architecture ideas
+- Biennial for its first 18 years; annual since 2020, alternating between California (Chaminade, Santa Cruz) and Amsterdam
+- Papers up to 6 pages including references (ACM sigconf); single-blind review; demos also accepted
+- Each person may author or co-author only one submission; at least one author must attend in person
+- Open-access proceedings (CC-BY 4.0) published by the VLDB Endowment on cidrdb.org; camera-ready has no page limit
+- "Rank: CORE A (ICORE2026), CCF B"
+editions:
+- year: 2026
+  start: 2026-01-18
+  end: 2026-01-21
+  location: Chaminade Resort, Santa Cruz, California, USA
+  url: https://www.cidrdb.org/cidr2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-08-05
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2025-10-06
+    time: "23:59"
+    tz: PDT
+  - kind: camera_ready
+    date: 2025-12-01
+    time: "23:59"
+    tz: PST
+- year: 2027
+  start: 2027-01-24
+  end: 2027-01-27
+  location: Amsterdam, Netherlands
+  url: https://www.cidrdb.org/cidr2027/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-08-04
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2026-10-06
+    time: "23:59"
+    tz: PDT
+  - kind: camera_ready
+    date: 2026-12-04
+    time: "23:59"
+    tz: PST
+sources:
+- https://www.cidrdb.org/
+- https://www.cidrdb.org/cidr2026/index.html
+- https://www.cidrdb.org/cidr2026/cfp.html
+- https://www.cidrdb.org/cidr2027/index.html
+- https://www.cidrdb.org/cidr2027/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=CIDR&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- Organizing body (the official pages name the VLDB Endowment only as publisher)
+last_verified: 2026-10-11

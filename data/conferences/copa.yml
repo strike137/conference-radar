@@ -1,0 +1,58 @@
+id: copa
+name: COPA
+full_name: Symposium on Conformal and Probabilistic Prediction with Applications
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: COPA organising committee (local hosts rotate; 2026 by Jönköping University and Mölnlycke Health Care)
+organizer_country: [europe]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://copa-conference.com/
+notes:
+- Specialist symposium on conformal prediction and related uncertainty quantification methods; small and focused
+- Proceedings in PMLR (vol. 329 for 2026, vol. 266 for 2025); papers up to 20 pages, poster extended abstracts of
+  2 pages also published
+- Held in Europe (Brighton 2022, Limassol 2023, Milan 2024, Egham 2025, Mölndal 2026); online in 2021
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-10
+  end: 2025-09-12
+  location: Egham, UK (Royal Holloway, University of London)
+  url: https://copa-conference.com/copa2025/
+- year: 2026
+  start: 2026-09-02
+  end: 2026-09-04
+  location: Mölndal, Sweden (Mölnlycke Health Care)
+  url: https://copa-conference.com/
+  deadlines:
+  - kind: submission
+    date: 2026-05-20
+    tz: AoE
+    label: Papers (extended from 2026-05-01)
+  - kind: notification
+    date: 2026-07-15
+    label: Papers (revised from 2026-06-15)
+  - kind: other
+    date: 2026-08-01
+    label: Poster submission (extended from 2026-07-01)
+  - kind: camera_ready
+    date: 2026-08-07
+    label: Revised from 2026-07-07
+sources:
+- https://copa-conference.com/
+- https://proceedings.mlr.press/v329/
+- https://proceedings.mlr.press/v266/
+- https://proceedings.mlr.press/
+- https://portal.core.edu.au/conf-ranks/?search=COPA&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- COPA 2027 dates and location not yet announced as of 2026-10-11
+last_verified: 2026-10-11

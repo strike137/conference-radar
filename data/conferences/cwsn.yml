@@ -1,44 +1,60 @@
 id: cwsn
 name: CWSN
-full_name: China Conference on Wireless Sensor Networks
+full_name: CCF Internet of Things Conference (formerly China Conference on Wireless Sensor Networks)
 type: conference
 tier: minor
 areas: [networking, communications]
 region: china
+language: mixed
 frequency: annual
+organizer: CCF (China Computer Federation), Technical Committee on Internet of Things
 organizer_country: [china]
 proceedings: Springer CCIS
 archival: true
 typical:
-  conference_months: [9, 10]
+  deadline_months: [6]
+  conference_months: [7, 8, 9, 10]
 links:
-  website: https://link.springer.com/conference/cwsn
+  website: https://ccf.org.cn/CWSN2026
 notes:
-- National Chinese wireless sensor network conference; Springer lists editions every year since 2012 except
-  2015 and 2016
-- English proceedings published in Springer Communications in Computer and Information Science (CCIS)
-- Held in a different Chinese city each year (Dalian 2023, Taiyuan 2024, Hangzhou 2025)
-- 36 papers in the 2025 proceedings, 41 in 2024 (two volumes), 22 in 2023
-- Not ranked in CORE ICORE2026; no official English conference website found
+- National Chinese IoT and wireless sensor network conference of the China Computer Federation (CCF), run by its
+  IoT technical committee (formerly the Sensor Networks committee); 2026 is the 20th edition
+- English proceedings published in Springer Communications in Computer and Information Science (CCIS) for 2023
+  to 2025; selected papers recommended to journals such as ACM TOSN and ACM TIOT
+- Accepts Chinese and English papers; double-blind review, up to 8 pages (Chinese) or 11 pages (English)
+- Held in a different Chinese city each year (Dalian 2023, Taiyuan 2024, Hangzhou 2025, Harbin 2026)
+- Not ranked in CORE ICORE2026
 editions:
-- year: 2024
-  start: 2024-09-20
-  end: 2024-09-22
-  location: Taiyuan, China
-  url: https://link.springer.com/book/10.1007/978-981-96-2186-6
 - year: 2025
   start: 2025-09-06
   end: 2025-09-07
   location: Hangzhou, China
-  url: https://link.springer.com/book/10.1007/978-981-95-9615-7
+  url: https://conf.ccf.org.cn/CWSN2025
+- year: 2026
+  start: 2026-07-31
+  end: 2026-08-02
+  location: Harbin, China
+  url: https://ccf.org.cn/CWSN2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-29
+    label: Abstract registration (extended from May 15)
+  - kind: submission
+    date: 2026-06-05
+    label: Paper submission (extended from May 22)
+  - kind: notification
+    date: 2026-06-17
+  - kind: camera_ready
+    date: 2026-07-15
 sources:
+- https://ccf.org.cn/CWSN2026
+- https://conf.ccf.org.cn/CWSN2025
 - https://link.springer.com/conference/cwsn
-- https://link.springer.com/book/10.1007/978-981-95-9615-7
 - https://api.crossref.org/works/10.1007/978-981-95-9615-7
+- https://api.crossref.org/works/10.1007/978-981-96-2186-6
 - https://portal.core.edu.au/conf-ranks/?search=CWSN&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- Organizing society (reportedly the China Computer Federation, CCF; not stated on the fetched pages)
-- Official conference website, CFP and deadlines (dates taken from the Springer proceedings series page)
+- Whether CWSN 2026 papers appear in Springer CCIS (the 2026 CFP only mentions journal recommendations)
 - Number of submissions and acceptance rate
-- CWSN 2026 dates and location
+- CWSN 2027 dates and location
 last_verified: 2026-10-11

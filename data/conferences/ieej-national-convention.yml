@@ -1,0 +1,76 @@
+id: ieej-national-convention
+name: IEEJ National Convention
+full_name: National Convention of the Institute of Electrical Engineers of Japan
+name_local: 電気学会全国大会
+type: conference
+tier: domestic
+areas: [general, communications, systems]
+region: japan
+language: japanese
+frequency: annual
+organizer: IEEJ (The Institute of Electrical Engineers of Japan)
+organizer_country: [japan]
+proceedings: IEEJ National Convention Proceedings (電気学会全国大会講演論文集, non-refereed 1 to 2 page papers; downloadable
+  by registered participants)
+archival: false
+fee: 13,000 / 14,000 JPY IEEJ or partner society member, 8,000 / 9,000 JPY student member, 25,000 / 27,000 JPY non-member, 15,000 / 17,000
+  JPY non-member student (2027, presenter fee per 1-page / 2-page paper, includes the downloadable proceedings)
+typical:
+  deadline_months: [1]
+  conference_months: [3]
+links:
+  website: https://www.iee.jp/blog/post/z_taikai/
+notes:
+- Annual national convention of IEEJ, the counterpart of the IEICE General Conference; held every March at a university
+  that rotates around Japan (Tokushima 2024, Meiji University Tokyo 2025, Tohoku Gakuin University Sendai 2026, Kanazawa
+  University 2027)
+- Content is heavy on electric power, energy and power electronics, with sessions on electronics, information and
+  systems, so it is borderline for general EECS
+- No peer review described; 1 or 2 page A4 paper in Japanese or English, 8 min talk plus 3 min Q&A; each person may
+  present only one paper as presenting author
+- Application and PDF manuscript share one strict deadline in early January (19:00); proceedings are released on March 1
+- Around 40 Excellent Paper Presentation Awards for presenters aged 35 or under
+editions:
+- year: 2026
+  start: 2026-03-12
+  end: 2026-03-14
+  location: Sendai, Japan (Tohoku Gakuin University, Itsutsubashi Campus)
+  url: https://www.iee.jp/blog/taikai2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-08
+    time: "19:00"
+    tz: JST
+    label: Presentation application and manuscript
+  - kind: other
+    date: 2026-03-01
+    label: Proceedings published
+- year: 2027
+  start: 2027-03-08
+  end: 2027-03-10
+  location: Kanazawa, Japan (Kanazawa University, Kakuma Campus)
+  url: https://www.iee.jp/blog/taikai2027/
+  deadlines:
+  - kind: other
+    date: 2026-11-05
+    label: Presentation application opens
+  - kind: submission
+    date: 2027-01-07
+    time: "19:00"
+    tz: JST
+    label: Presentation application and manuscript
+  - kind: other
+    date: 2027-03-01
+    label: Proceedings published
+sources:
+- https://www.iee.jp/blog/post/z_taikai/
+- https://www.iee.jp/blog/taikai2027/
+- https://www.iee.jp/blog/taikai2027-koen/
+- https://www.iee.jp/blog/taikai2026/
+- https://www.iee.jp/blog/taikai2026-koen/
+- https://www.iee.jp/blog/taikai2025/
+- https://www.iee.jp/blog/taikai2024/
+unverified:
+- Listener participation fee for 2027 (participation page still says in preparation)
+- Not listed in the CORE portal (ICORE2026 search for IEEJ returned no results)
+last_verified: 2026-10-11

@@ -1,0 +1,103 @@
+id: icpc
+name: ICPC
+full_name: IEEE/ACM International Conference on Program Comprehension
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE and ACM (co-located with ICSE)
+organizer_country: [international]
+proceedings: IEEE Xplore / ACM DL
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/series/icpc
+  dblp: https://dblp.org/db/conf/iwpc/
+notes:
+- Main venue for program comprehension research; called IWPC (workshop) before 2006
+- Always co-located with ICSE and held just before it (Ottawa 2025, Rio de Janeiro 2026, Dublin 2027)
+- Research track uses double-anonymous review with at least three reviewers; 10 pages main text plus 2 pages of references
+- Also has ERA (early research achievements), RENE (replications and negative results), tool demo and journal-first tracks
+- Proceedings appear in the ACM or IEEE digital libraries; CORE A, CCF B
+editions:
+- year: 2026
+  start: 2026-04-12
+  end: 2026-04-13
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/icpc-2026
+  deadlines:
+  - kind: abstract
+    date: 2025-10-19
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2025-10-23
+    tz: AoE
+    label: Research track
+  - kind: notification
+    date: 2026-01-05
+    label: Research track
+  - kind: camera_ready
+    date: 2026-01-26
+    label: Research track
+- year: 2027
+  start: 2027-04-25
+  end: 2027-04-26
+  location: Dublin, Ireland
+  url: https://conf.researchr.org/home/icpc-2027
+  deadlines:
+  - kind: abstract
+    date: 2026-10-29
+    time: "23:59"
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2026-11-05
+    time: "23:59"
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2026-11-19
+    label: Tool demonstration
+  - kind: abstract
+    date: 2026-11-19
+    label: ERA (optional abstract)
+  - kind: submission
+    date: 2026-11-26
+    label: ERA
+  - kind: abstract
+    date: 2026-12-11
+    label: RENE
+  - kind: submission
+    date: 2026-12-18
+    label: RENE
+  - kind: notification
+    date: 2027-01-14
+    time: "23:59"
+    tz: AoE
+    label: Research track (also tool demo, ERA, RENE)
+  - kind: camera_ready
+    date: 2027-01-28
+    time: "23:59"
+    tz: AoE
+    label: Research track
+sources:
+- https://conf.researchr.org/series/icpc
+- https://conf.researchr.org/home/icpc-2027
+- https://conf.researchr.org/track/icpc-2027/icpc-2027-research-track
+- https://conf.researchr.org/home/icpc-2026
+- https://conf.researchr.org/track/icpc-2026/icpc-2026-research
+- https://portal.core.edu.au/conf-ranks/?search=ICPC&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- Sponsoring bodies (IEEE TCSE / ACM SIGSOFT) not named on the official pages read
+- Whether a given year's proceedings go to IEEE Xplore or ACM DL (CFP says ACM or IEEE digital libraries)
+- Acceptance rate not found on an official page
+last_verified: 2026-10-11

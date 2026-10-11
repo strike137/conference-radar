@@ -1,0 +1,64 @@
+id: qcnc
+name: QCNC
+full_name: International Conference on Quantum Communications, Networking, and Computing
+type: conference
+tier: minor
+areas: [communications, networking]
+region: japan
+language: english
+frequency: annual
+organizer: IEEE / IEEE ComSoc (steering committee from Kanazawa University, Telefonica and InterDigital)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [3, 4]
+links:
+  website: https://www.ieee-qcnc.org/
+notes:
+- IEEE and IEEE ComSoc branded conference on quantum communications, quantum networking, quantum computing and QKD
+- "Proceedings: QCNC Conference Proceedings in IEEE Xplore; up to 8 pages for review, IEEE Computer Society format"
+- Selected papers recommended to the journal Digital Communications and Networks for fast-track publication
+- All editions so far held in Japan (Kanazawa 2024, Nara 2025, Kobe 2026); executive chair from Kanazawa University
+- Paper deadline is usually extended by one month (Oct 30 -> Nov 30); co-located workshops and a poster track
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-03-31
+  end: 2025-04-02
+  location: Nara, Japan
+  url: http://www.ieee-qcnc.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2024-11-30
+    label: Main conference (extended from 2024-10-30)
+  - kind: notification
+    date: 2025-01-20
+  - kind: camera_ready
+    date: 2025-02-20
+- year: 2026
+  start: 2026-04-06
+  end: 2026-04-08
+  location: Kobe, Japan
+  url: http://www.ieee-qcnc.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-30
+    label: Main conference (extended from 2025-10-30)
+  - kind: notification
+    date: 2026-02-03
+  - kind: camera_ready
+    date: 2026-03-03
+sources:
+- https://www.ieee-qcnc.org/
+- http://www.ieee-qcnc.org/2026/
+- http://www.ieee-qcnc.org/2026/cf-papers.php
+- http://www.ieee-qcnc.org/2026/submission.php
+- http://www.ieee-qcnc.org/2026/organization.php
+- http://www.ieee-qcnc.org/2025/
+- http://www.ieee-qcnc.org/2024/
+- https://portal.core.edu.au/conf-ranks/?search=QCNC&by=all&source=ICORE2026
+unverified:
+- QCNC 2027 not yet announced (no 2027 page on the official site as of 2026-10-11)
+last_verified: 2026-10-11

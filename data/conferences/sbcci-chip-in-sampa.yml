@@ -1,0 +1,54 @@
+id: sbcci-chip-in-sampa
+name: SBCCI
+full_name: Symposium on Integrated Circuits and Systems Design
+type: conference
+tier: minor
+areas: [communications, systems]
+region: latin-america
+language: english
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação) and SBMicro (Brazilian Microelectronics Society)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [8]
+links:
+  website: https://www.psi.poli.usp.br/chipinsampa/
+  dblp: https://dblp.org/db/conf/sbcci/index.html
+notes:
+- Brazil's main symposium on integrated circuit and systems design, test and EDA; sponsored by SBMicro and SBC,
+  technically supported by IEEE CASS, IEEE CEDA, IEEE EDS and IFIP; 39th edition in 2026
+- Held each year in Brazil as part of the Chip in ... umbrella event together with SBMicro, WCAS, INSCIT and SForum
+  (Chip in Sampa at the University of Sao Paulo in 2026)
+- Accepted papers are submitted to IEEE Xplore; no-show papers are excluded from the proceedings
+- Short papers of up to 4 pages plus 1 page of references, IEEE two-column format; double-blind review via
+  Microsoft CMT; in-person presentation required
+- Best papers invited to extended versions in IEEE OJCAS, IEEE Design and Test and JICS
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-28
+  location: University of Sao Paulo, Sao Paulo, Brazil
+  url: https://www.psi.poli.usp.br/chipinsampa/sbcci2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-21
+    label: Final deadline (extended from 2026-03-31)
+  - kind: notification
+    date: 2026-06-05
+    label: Moved from 2026-05-29
+  - kind: camera_ready
+    date: 2026-06-19
+    label: Moved from 2026-06-08
+sources:
+- https://www.psi.poli.usp.br/chipinsampa/
+- https://www.psi.poli.usp.br/chipinsampa/sbcci2026/
+- https://portal.core.edu.au/conf-ranks/?search=SBCCI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- SBCCI 2025 (Chip in the Jungle, Manaus) dates and proceedings not checked on an official page
+- Deadline times and time zones (not stated on the official page)
+- SBCCI 2027 dates and location (not announced as of 2026-10-11)
+last_verified: 2026-10-11

@@ -1,0 +1,60 @@
+id: acm-compass
+name: ACM COMPASS
+full_name: ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies
+type: conference
+tier: minor
+areas: [general, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCAS and ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7, 8]
+links:
+  website: https://compass.acm.org/
+notes:
+- Sponsored by ACM SIGCAS and ACM SIGCHI; computing for development, HCI and AI for social good with a Global South focus
+- Proceedings archived in the ACM Digital Library; CORE C (ICORE2026)
+- Papers track with typical submissions of 7000 to 8000 words in single-column ACM format, double-blind review; separate call for posters
+- Rotates worldwide (Seattle 2022, Cape Town 2023, New Delhi 2024, Toronto 2025); 2021 and 2026 were virtual
+editions:
+- year: 2025
+  start: 2025-07-22
+  end: 2025-07-25
+  location: University of Toronto, Toronto, Canada
+  url: https://2025.compass.acm.org/
+- year: 2026
+  start: 2026-07-27
+  end: 2026-07-31
+  location: Virtual
+  url: https://compass.acm.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-21
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-05-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-01
+    tz: AoE
+sources:
+- https://compass.acm.org/
+- https://compass.acm.org/call-for-papers/
+- https://compass.acm.org/proceedings/
+- https://2025.compass.acm.org/
+- https://2024.compass.acm.org/
+- https://2023.compass.acm.org/
+- https://2022.compass.acm.org/
+- https://dl.acm.org/doi/proceedings/10.1145/3811242
+- https://portal.core.edu.au/conf-ranks/?search=COMPASS&by=all&source=ICORE2026
+unverified:
+- COMPASS 2027 dates and location not yet announced as of 2026-10-11
+last_verified: 2026-10-11

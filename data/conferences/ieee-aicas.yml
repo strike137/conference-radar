@@ -1,0 +1,75 @@
+id: ieee-aicas
+name: IEEE AICAS
+full_name: IEEE International Conference on Artificial Intelligence Circuits and Systems
+type: conference
+tier: minor
+areas: [ai, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Circuits and Systems Society (CASS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4, 10]
+  conference_months: [4, 9]
+links:
+  website: https://2026.ieee-aicas.org/
+notes:
+- Described by the organizers as the premier IEEE Circuits and Systems Society conference on AI circuits and systems
+- Covers in-memory computing, AI accelerators and architectures, neuromorphic circuits, HW/SW co-design and AI for
+  circuits and wireless
+- Proceedings submitted to IEEE Xplore; selected papers recommended to IEEE Transactions on Circuits and Systems for AI
+  (and TVLSI in 2026)
+- Full papers up to 5 pages (4 technical plus 1 of references), anonymous blind review, in-person presentation expected
+- Also has special sessions, live demos, tutorials and a grand challenge
+- 7th edition in Bordeaux, France (April 2025), 8th in Ha Long Bay, Vietnam (September 2026); the month varies by
+  edition
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-04-28
+  end: 2025-04-30
+  location: Bordeaux, France
+  url: https://aicas2025.org/
+  deadlines:
+  - kind: other
+    date: 2024-09-09
+    label: Special session proposals (extended from 2024-08-26)
+  - kind: submission
+    date: 2024-10-17
+    label: Regular and special session papers (extended from 2024-09-23 and 2024-10-10)
+  - kind: notification
+    date: 2024-12-18
+  - kind: camera_ready
+    date: 2025-01-10
+- year: 2026
+  start: 2026-09-16
+  end: 2026-09-18
+  location: Ha Long Bay, Vietnam
+  url: https://2026.ieee-aicas.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-05
+    label: Full papers (extended from 2026-03-22)
+  - kind: notification
+    date: 2026-06-28
+    label: Extended from 2026-06-18 and 2026-06-25
+  - kind: camera_ready
+    date: 2026-07-30
+    label: Extended from 2026-07-10 and 2026-07-20
+sources:
+- https://2026.ieee-aicas.org/
+- https://2026.ieee-aicas.org/call-for-papers/
+- https://aicas2025.org/
+- https://aicas2025.org/calls/
+- https://aicas2025.org/paper-submission/
+- https://aicas2025.org/proceedings/
+- https://aicas2025.org/wp-content/uploads/2024/09/AICAS_2025_call_for_papers.pdf
+- https://portal.core.edu.au/conf-ranks/?search=AICAS&by=all&source=ICORE2026
+unverified:
+- AICAS 2027 dates and location not announced as of 2026-10-11
+- Locations of editions before 2025 not confirmed from an official page (region worldwide based on France 2025 and
+  Vietnam 2026)
+last_verified: 2026-10-11

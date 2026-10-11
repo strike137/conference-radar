@@ -1,0 +1,57 @@
+id: icira
+name: ICIRA
+full_name: International Conference on Intelligent Robotics and Applications
+type: conference
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICIRA committee of Chinese robotics groups (HUST, SJTU, HIT, CAS); local host changes yearly
+organizer_country: [china]
+proceedings: Springer LNAI
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [7, 8]
+links:
+  website: https://www.icira2026.org/
+notes:
+- Robotics and automation conference founded and led by Chinese universities (honorary chair from HUST)
+- Proceedings in Springer Lecture Notes in Artificial Intelligence (LNAI), several volumes per year (10 volumes in
+  2024, 3 in 2025)
+- Usually held in China (Harbin 2022, Hangzhou 2023, Xi'an 2024), with recent editions abroad (Okayama 2025, Budapest
+  2026)
+- Full papers of at least 12 single-column pages in Springer format; submission through Microsoft CMT
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+- The website moves every year (icira20XX.org); the Springer conference page lists past volumes
+editions:
+- year: 2025
+  start: 2025-08-06
+  end: 2025-08-09
+  location: Okayama, Japan
+  url: https://link.springer.com/conference/icira
+- year: 2026
+  label: 19th ICIRA
+  start: 2026-08-06
+  end: 2026-08-10
+  location: Budapest, Hungary
+  url: https://www.icira2026.org/
+  deadlines:
+  - kind: other
+    date: 2026-04-20
+    label: Session proposals
+  - kind: submission
+    date: 2026-06-18
+  - kind: notification
+    date: 2026-07-05
+  - kind: camera_ready
+    date: 2026-07-15
+sources:
+- https://www.icira2026.org/
+- https://link.springer.com/conference/icira
+- https://link.springer.com/book/10.1007/978-981-95-2095-4
+- https://portal.core.edu.au/conf-ranks/?search=ICIRA&by=all&source=ICORE2026
+unverified:
+- ICIRA 2027 location and dates not yet announced as of 2026-10-11
+last_verified: 2026-10-11

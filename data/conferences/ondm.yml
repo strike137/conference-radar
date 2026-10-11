@@ -1,0 +1,84 @@
+id: ondm
+name: ONDM
+full_name: International Conference on Optical Network Design and Modelling
+type: conference
+tier: minor
+areas: [networking, communications]
+region: europe
+language: english
+frequency: annual
+organizer: Rotating European host institution (Scuola Superiore Sant'Anna 2025, University of the Bundeswehr Munich 2026, CTTC 2027) with IEEE ComSoc, IEEE Photonics Society and IFIP technical co-sponsorship
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5]
+links:
+  website: https://ondm2027.cttc.es/
+notes:
+- IEEE/IFIP conference on optical network engineering (design, modelling, control and management of optical networks)
+- Accepted oral papers go to IEEE Xplore and the IFIP Open Digital Library (posters to IFIP only); selected papers are invited to a journal special issue
+- Short papers of exactly 3 pages or full papers up to 6 pages in IEEE conference style; submission via EDAS
+- The 2025 paper deadline was extended twice (January 17 -> February 9)
+- Not listed in CORE ICORE2026 under its acronym or full name
+- 2025 was the 29th edition (Pisa, Italy), 2026 the 30th (University of the Bundeswehr Munich), 2027 the 31st (CTTC, Castelldefels)
+editions:
+- year: 2027
+  start: 2027-05-25
+  end: 2027-05-28
+  location: Castelldefels (Barcelona), Spain
+  url: https://ondm2027.cttc.es/
+  deadlines:
+  - kind: other
+    date: 2026-11-27
+    tz: AoE
+    label: Workshop and special session proposals
+  - kind: submission
+    date: 2027-01-18
+    tz: AoE
+    label: Regular papers
+  - kind: other
+    date: 2027-03-12
+    tz: AoE
+    label: Demo papers
+  - kind: notification
+    date: 2027-04-05
+    label: Regular papers
+  - kind: camera_ready
+    date: 2027-04-19
+    tz: AoE
+    label: Regular papers
+- year: 2026
+  start: 2026-05-12
+  end: 2026-05-15
+  location: Munich, Germany
+  url: https://www.unibw.de/home/veranstaltungen/zentrale-termine/30th-international-conference-on-optical-network-design-and-modelling-ondm-2026-2
+- year: 2025
+  start: 2025-05-06
+  end: 2025-05-09
+  location: Pisa, Italy
+  url: http://ondm2025.santannapisa.it/
+  deadlines:
+  - kind: submission
+    date: 2025-02-09
+    time: "23:59"
+    tz: CET
+    label: Papers (firm, extended from 2025-01-17 and 2025-01-31)
+  - kind: notification
+    date: 2025-03-21
+  - kind: camera_ready
+    date: 2025-04-18
+    time: "23:59"
+    tz: CET
+sources:
+- https://ondm2027.cttc.es/
+- https://ondm2027.cttc.es/authors/call-for-papers.html
+- https://www.unibw.de/home/veranstaltungen/zentrale-termine/30th-international-conference-on-optical-network-design-and-modelling-ondm-2026-2
+- http://ondm2025.santannapisa.it/
+- http://ondm2025.santannapisa.it/assets/ONDM2025_CFP_final.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ONDM&by=all&source=ICORE2026
+unverified:
+- ONDM 2026 paper deadlines (official 2026 site not reachable; dates from the host university page)
+- Hosting countries of editions before 2025 (region europe based on the 2025, 2026 and 2027 hosts)
+last_verified: 2026-10-11

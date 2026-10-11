@@ -1,0 +1,83 @@
+id: isc-high-performance
+name: ISC High Performance
+full_name: ISC High Performance (International Supercomputing Conference)
+type: conference
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: PROMETEUS GmbH
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: National/Regional
+typical:
+  deadline_months: [12]
+  conference_months: [6]
+links:
+  website: https://www.isc-hpc.com/
+notes:
+- Main European HPC conference and exhibition, run by PROMETEUS GmbH (Germany); held in Hamburg
+- Research papers published open access in IEEE Xplore with publication costs covered by ISC (earlier editions in
+  Springer LNCS, e.g. 2022 and 2023)
+- Papers up to 10 pages excluding references in IEEE format; 3 to 4 reviews, rebuttal and PC meeting
+- "Acceptance rate: about 27 to 30% (21/78 in 2023, 24/80 in 2024, 28/97 in 2025)"
+- Workshops with proceedings publish in Elsevier Future Generation Computer Systems; also regular workshops, tutorials,
+  posters and BoFs
+- Hans Meuer Award for the best research paper
+- CORE National/Regional (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-26
+  location: Hamburg, Germany
+  url: https://www.isc-hpc.com/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-12
+    label: Research papers
+  - kind: submission
+    date: 2025-12-19
+    label: Research papers (no extension)
+  - kind: notification
+    date: 2026-03-18
+    label: Research papers
+- year: 2027
+  start: 2027-06-07
+  end: 2027-06-11
+  location: Hamburg, Germany
+  url: https://www.isc-hpc.com/
+  deadlines:
+  - kind: other
+    date: 2026-10-07
+    label: Workshops with proceedings (proposals)
+  - kind: abstract
+    date: 2026-12-14
+    label: Research papers
+  - kind: submission
+    date: 2026-12-21
+    label: Research papers (no extension)
+  - kind: other
+    date: 2027-03-01
+    label: Research papers author rebuttal
+  - kind: notification
+    date: 2027-03-15
+    label: Research papers
+  - kind: camera_ready
+    date: 2027-04-08
+    label: Research papers
+  - kind: other
+    date: 2027-01-20
+    label: Research posters and project posters
+sources:
+- https://www.isc-hpc.com/
+- https://isc-hpc.com/submissions/
+- https://isc-hpc.com/submissions/research-paper/
+- https://isc-hpc.com/imprint/
+- https://portal.core.edu.au/conf-ranks/?search=ISC&by=all&source=ICORE2026
+unverified:
+- Deadline time zone (not stated on the ISC pages)
+- CCF rank (not found in the CCF list mirrors checked)
+last_verified: 2026-10-11

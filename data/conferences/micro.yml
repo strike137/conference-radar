@@ -9,7 +9,7 @@ language: english
 frequency: annual
 organizer: ACM SIGMICRO and IEEE TCuARCH
 organizer_country: [international]
-proceedings: ACM DL
+proceedings: ACM DL and IEEE Xplore
 archival: true
 rank:
   core: A*
@@ -26,7 +26,7 @@ notes:
 - Held in October or November, rotating worldwide (Toronto 2023, Austin 2024, Seoul 2025, Athens 2026)
 - Double-blind review with a rebuttal/revision period; abstract registration one week before the full paper
 - Industry track added in 2026; artifact evaluation and an ACM Student Research Competition
-- MICRO-58 (2025) proceedings are in the ACM Digital Library
+- Lead publisher alternates between IEEE and ACM (IEEE for MICRO 2024, ACM for MICRO 2025, whose proceedings are in the ACM Digital Library)
 editions:
 - year: 2025
   start: 2025-10-18
@@ -57,10 +57,13 @@ sources:
 - https://www.microarch.org/micro59/submit/papers.php
 - https://www.microarch.org/micro59/submit/guidelines.php
 - https://www.microarch.org/micro58/
+- https://www.microarch.org/micro58/submit/cameraready.php
+- https://www.microarch.org/micro57/submit/cameraready.php
 - https://portal.core.edu.au/conf-ranks/?search=MICRO&by=all&source=ICORE2026
 - https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
 unverified:
 - MICRO-60 (2027) dates, location and deadlines not announced on microarch.org as of 2026-10-11
+- MICRO 2026 lead publisher not stated (its camera-ready page still carries the MICRO 2025 ACM text)
 - CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
 - Acceptance rate not published on the official site
 last_verified: 2026-10-11

@@ -1,0 +1,92 @@
+id: fruct
+name: FRUCT
+full_name: Conference of Open Innovations Association FRUCT
+type: conference
+tier: minor
+areas: [networking, communications, ai]
+region: europe
+language: english
+frequency: multiple-per-year
+organizer: Open Innovations Association FRUCT
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, Scopus, Web of Science, DBLP, RSCI]
+rank:
+  core: Regional
+acceptance_rate: 19% (39th, spring 2026, 41/215 full papers); 45% (38th, Nov 2025, 40/88)
+fee: 350 EUR full, 250 EUR early-bird, 150 EUR early-bird for IEEE members or FRUCT fellows (40th, 2026)
+typical:
+  deadline_months: [3, 9]
+  conference_months: [4, 5, 11]
+links:
+  website: https://www.fruct.org/
+  dblp: https://dblp.org/db/conf/fruct/index.html
+notes:
+- Run by the Finland-based Open Innovations Association FRUCT; held twice a year (spring and November)
+- Accepted full papers go to IEEE Xplore and the open access FRUCT proceedings (ISSN 2305-7254); weaker
+  papers may be moved to a separate Work-in-Progress volume that is not in IEEE Xplore
+- Broad ICT scope (AI, NLP, IoT, wireless and 5G, security, e-health, smart spaces); single-blind review
+- Usually in Finland (Helsinki, Tampere) with some editions elsewhere in Europe (Riga 2023, Kufstein 2025,
+  Zilina 2023 and 2027); hybrid with online presentation allowed
+- Acceptance rate about 40% in most editions; an early-bird review round replaces deadline extensions
+- "CORE ICORE2026 rank: Regional; rated JUFO 1 (Finland), NSD 1 (Norway), BFI 1 (Denmark)"
+- Low registration fee compared with similar IEEE-indexed venues
+editions:
+- year: 2026
+  label: 39th FRUCT
+  start: 2026-04-28
+  end: 2026-04-30
+  location: Helsinki, Finland (hybrid)
+  url: https://fruct.org/conferences/39/registration/
+- year: 2026
+  label: 40th FRUCT
+  start: 2026-11-04
+  end: 2026-11-06
+  location: Helsinki, Finland (hybrid)
+  url: https://fruct.org/conferences/40/call-for-participation
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    label: Early-bird review round
+  - kind: submission
+    date: 2026-09-07
+    label: Full and short papers
+  - kind: notification
+    date: 2026-10-02
+  - kind: camera_ready
+    date: 2026-10-09
+    label: Camera-ready and author registration
+  - kind: other
+    date: 2026-10-19
+    label: Posters and demos
+- year: 2027
+  label: 41st FRUCT
+  start: 2027-05-26
+  end: 2027-05-28
+  location: Zilina, Slovakia
+  url: https://fruct.org/conferences/41/registration/
+  deadlines:
+  - kind: submission
+    date: 2027-03-29
+    label: Full and short papers
+  - kind: notification
+    date: 2027-04-23
+  - kind: camera_ready
+    date: 2027-04-30
+    label: Camera-ready and author registration
+  - kind: other
+    date: 2027-05-07
+    label: Posters and demos
+sources:
+- https://www.fruct.org/
+- https://fruct.org/conferences
+- https://fruct.org/conferences/40/call-for-participation
+- https://fruct.org/conferences/40/registration
+- https://fruct.org/conferences/41/registration/
+- https://fruct.org/conferences/39/news-and-updates/the-39th-fruct-conference-news-10/
+- https://portal.core.edu.au/conf-ranks/?search=FRUCT&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- IEEE Xplore publication of the 40th (November 2026) proceedings not yet announced
+- Early-bird review deadline for the 41st edition not stated
+last_verified: 2026-10-11

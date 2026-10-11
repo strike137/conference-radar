@@ -1,0 +1,66 @@
+id: irps
+name: IRPS
+full_name: IEEE International Reliability Physics Symposium
+type: conference
+tier: major
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Electron Devices Society (EDS) and IEEE Reliability Society (RS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [3, 4]
+links:
+  website: https://www.irps.org/
+notes:
+- Co-sponsored by the IEEE Electron Devices Society and the IEEE Reliability Society; regarded as the main conference on reliability physics of electronic devices
+- Covers transistor, dielectric, memory, BEOL and packaging reliability, ESD and latchup, radiation effects, failure analysis, GaN and SiC devices and system reliability
+- Abstract-based submission in October; final papers due in late January; presenting authors must register and present in person
+- Also has tutorials, workshops, a year-in-review seminar, a poster session and a Late News track in January
+- Proceedings in IEEE Xplore (series since 1967), published around August after the symposium
+- Held in the USA every spring (Tucson 2026, San Diego 2027, Long Beach 2028)
+- Not ranked by CORE or CCF, whose lists cover computing venues
+editions:
+- year: 2026
+  start: 2026-03-24
+  end: 2026-03-26
+  location: Tucson, AZ, USA
+  url: https://www.irps.org/conference-program
+- year: 2027
+  start: 2027-03-21
+  end: 2027-03-25
+  location: Town and Country Resort, San Diego, CA, USA
+  url: https://www.irps.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-18
+    time: "23:59"
+    tz: PDT
+    label: Abstracts for regular oral and poster papers (extended from 2026-10-12)
+  - kind: other
+    date: 2026-11-09
+    label: Submission creation for invited speakers
+  - kind: notification
+    date: 2026-12-18
+  - kind: submission
+    date: 2027-01-18
+    label: Late News papers
+  - kind: camera_ready
+    date: 2027-01-29
+    label: Final paper and eCF, with presenter registration
+sources:
+- https://www.irps.org/
+- https://www.irps.org/call-for-paperstopics-of-interest
+- https://www.irps.org/author-timeline
+- https://www.irps.org/abstract-submission
+- https://www.irps.org/future-conferences
+- https://www.irps.org/conference-program
+- https://www.irps.org/s/IRPS-2026-Technical-PaaG-1-22-26.pdf
+- https://portal.core.edu.au/conf-ranks/?search=IRPS&by=all&source=ICORE2026
+unverified:
+- IRPS 2026 dates are the technical program days (March 24 to 26) from the program at a glance; full dates including tutorials and the venue name were not found on the site
+last_verified: 2026-10-11

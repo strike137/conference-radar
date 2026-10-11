@@ -1,0 +1,72 @@
+id: edcc
+name: EDCC
+full_name: European Dependable Computing Conference
+type: conference
+tier: minor
+areas: [security, systems]
+region: europe
+language: english
+frequency: annual
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [10]
+  conference_months: [4]
+links:
+  website: https://edcc.dependability.org/
+  dblp: https://dblp.org/db/conf/edcc/index.html
+notes:
+- European conference of the dependability community, sibling of DSN, PRDC and LADC
+- 2027 is the 22nd edition (Trondheim, hosted by NTNU)
+- 2027 proceedings published by Springer in LNCS, with short papers in a companion CCIS volume
+- 'Tracks: regular papers (14 pages), practical experience reports and industry papers (10 pages), short papers (6 pages);
+  single-blind review; also workshops, student forum, fast abstracts and posters'
+- Moved from September (2019 to 2022) to April (2024 onwards); no edition in 2023
+- Rotates around European university cities (Naples, Munich, Zaragoza, Leuven, Lisbon, Canterbury, Trondheim)
+- 'CORE: Unranked (ICORE2026)'
+editions:
+- year: 2026
+  start: 2026-04-07
+  end: 2026-04-10
+  location: Canterbury, UK
+  url: https://www.cs.kent.ac.uk/EDCC2026/
+- year: 2027
+  start: 2027-04-06
+  end: 2027-04-09
+  location: Trondheim, Norway
+  url: https://edcc2027.idi.ntnu.no/
+  deadlines:
+  - kind: other
+    date: 2026-10-09
+    label: Workshop proposals (extended from 2026-10-02)
+  - kind: abstract
+    date: 2026-10-16
+    tz: AoE
+    label: Research track (extended from 2026-10-02)
+  - kind: other
+    date: 2026-10-16
+    label: Workshop acceptance notification (extended from 2026-10-09)
+  - kind: submission
+    date: 2026-10-23
+    tz: AoE
+    label: Research track (extended from 2026-10-09)
+  - kind: notification
+    date: 2026-12-11
+    tz: AoE
+    label: Research track
+sources:
+- https://edcc.dependability.org/
+- https://edcc2027.idi.ntnu.no/
+- https://edcc2027.idi.ntnu.no/dates/
+- https://edcc2027.idi.ntnu.no/call-for-papers/
+- https://edcc2027.idi.ntnu.no/past-editions/
+- https://www.cs.kent.ac.uk/EDCC2026/
+- https://portal.core.edu.au/conf-ranks/?search=EDCC&by=all&source=ICORE2026
+unverified:
+- Organizing body and sponsors (not named on the 2027 or 2026 sites)
+- Proceedings of earlier editions (historically IEEE Xplore, not confirmed on an official page)
+- EDCC 2027 camera-ready date (TBA)
+last_verified: 2026-10-11

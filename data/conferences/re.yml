@@ -1,0 +1,87 @@
+id: re
+name: RE
+full_name: IEEE International Requirements Engineering Conference
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 8, 9]
+links:
+  website: https://conf.researchr.org/series/RE
+  dblp: https://dblp.org/db/conf/re/
+notes:
+- Flagship conference on requirements engineering; five-day event with research, industrial innovation, RE@Next!,
+  posters and demos, doctoral symposium and workshops
+- Research track uses double-blind review; solution-focused and evaluation-focused papers, 10 pages plus 2 pages of
+  references, IEEEtran format
+- Mandatory abstract one week before the full paper deadline in late February or early March
+- Accepted papers appear in the IEEE Digital Library; CORE A, CCF B
+- Rotates between Europe, North America and Oceania (Melbourne 2022, Hannover 2023, Reykjavik 2024, Valencia 2025,
+  Montreal 2026, Milan 2027)
+editions:
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-21
+  location: Montreal, Canada
+  url: https://conf.researchr.org/home/RE-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-02-16
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-02-23
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2026-05-08
+    label: Research papers
+  - kind: camera_ready
+    date: 2026-06-08
+    label: Research papers
+- year: 2027
+  start: 2027-08-23
+  end: 2027-08-27
+  location: Milan, Italy
+  url: https://conf.researchr.org/home/RE-2027
+  deadlines:
+  - kind: other
+    date: 2027-01-13
+    label: Workshop proposals
+  - kind: abstract
+    date: 2027-02-22
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2027-03-01
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2027-05-14
+    label: Research papers
+  - kind: camera_ready
+    date: 2027-06-14
+    label: Research papers
+sources:
+- https://conf.researchr.org/series/RE
+- https://conf.researchr.org/home/RE-2027
+- https://conf.researchr.org/track/RE-2027/RE-2027-papers
+- https://conf.researchr.org/home/RE-2026
+- https://conf.researchr.org/track/RE-2026/RE-2026-Research-Papers
+- https://portal.core.edu.au/conf-ranks/?search=RE&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- IEEE Computer Society sponsorship inferred from the IEEE-CS logo on the RE'26 site; not stated in text
+- Acceptance rate not found on an official page
+last_verified: 2026-10-11

@@ -1,0 +1,76 @@
+id: seams
+name: SEAMS
+full_name: International Conference on Software Engineering for Adaptive and Self-Managing Systems
+type: conference
+tier: major
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer_country: [international]
+proceedings: IEEE Xplore / ACM DL
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [10]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/home/seams-2027
+  dblp: https://dblp.org/db/conf/seams/index.html
+notes:
+- Main venue for self-adaptive and autonomic software systems; co-located with ICSE every year
+- Papers published in the IEEE and ACM digital libraries; CORE A (listed as a symposium in ICORE2026)
+- "Lightweight double-anonymous review with a revision round: accept, revise or reject, then a final decision in January"
+- "Full papers 10 pages plus 2 of references; short and industry papers shorter"
+- Also has artifact, journal-first and community debate tracks
+- 2026 edition was the 21st (Rio de Janeiro, Apr 13 to 14); 2027 is the 22nd (Dublin, Apr 26 to 27)
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-14
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/seams-2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-23
+    tz: AoE
+  - kind: notification
+    date: 2025-12-03
+  - kind: other
+    date: 2026-01-05
+    label: Revised submissions due
+  - kind: notification
+    date: 2026-01-12
+    label: Decision on revisions
+  - kind: camera_ready
+    date: 2026-01-26
+- year: 2027
+  start: 2027-04-26
+  end: 2027-04-27
+  location: Dublin, Ireland
+  url: https://conf.researchr.org/home/seams-2027
+  deadlines:
+  - kind: submission
+    date: 2026-10-23
+    tz: AoE
+    label: Research track
+  - kind: notification
+    date: 2026-12-03
+    label: Research track
+  - kind: other
+    date: 2027-01-05
+    label: Revised submissions due
+  - kind: notification
+    date: 2027-01-15
+    label: Decision on revisions
+  - kind: camera_ready
+    date: 2027-01-29
+    label: Research track
+sources:
+- https://conf.researchr.org/home/seams-2026
+- https://conf.researchr.org/track/seams-2026/seams-2026-research-track
+- https://conf.researchr.org/home/seams-2027
+- https://conf.researchr.org/track/seams-2027/seams-2027-research-track
+- https://portal.core.edu.au/conf-ranks/?search=SEAMS&by=all&source=ICORE2026
+last_verified: 2026-10-11

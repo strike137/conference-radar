@@ -1,0 +1,54 @@
+id: optimist
+name: OPTIMIST
+full_name: 'OPTIMIST Workshop: Open Tools, Interfaces and Metrics for Implementation Security Testing'
+type: workshop
+tier: minor
+areas: [security, crypto, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: OPTIMIST organizers (North Carolina State University, Worcester Polytechnic Institute); co-located with IACR CHES
+organizer_country: [usa]
+proceedings: OPTIMIST website (bundle of accepted contributions)
+archival: false
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://optimist-ose.org/
+notes:
+- One-day workshop on open and reproducible implementation security testing (side channels, fault injection, open tools and datasets)
+- Held yearly as a co-located event of CHES; location follows CHES (2024 Halifax, 2025 Kuala Lumpur, 2026 Antalya)
+- Short submissions up to 5 pages in LNCS format, double-blind review; talks/demos or moderated discussion slots
+- Accepts archival and non-archival contributions, but accepted papers are only bundled on the OPTIMIST website, not in a formal proceedings series
+- Supported in part by an NSF POSE award; also runs online OPTIMIST HOUR meetings and a PhD forum
+editions:
+- year: 2025
+  start: 2025-09-14
+  end: 2025-09-14
+  location: Kuala Lumpur, Malaysia
+  url: https://optimist-ose.org/ches25
+- year: 2026
+  start: 2026-10-11
+  end: 2026-10-11
+  location: Antalya, Türkiye
+  url: https://optimist-ose.org/ches26
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    label: Extended from 2026-06-21
+  - kind: notification
+    date: 2026-08-21
+    label: Moved from 2026-08-01
+sources:
+- https://optimist-ose.org/
+- https://optimist-ose.org/ches26
+- https://optimist-ose.org/ches25
+- https://optimist-ose.org/ches24
+- https://ches.iacr.org/2026/affiliated.php
+- https://portal.core.edu.au/conf-ranks/?search=OPTIMIST&by=all&source=ICORE2026
+unverified:
+- Deadline time and time zone not stated
+- OPTIMIST 2027 not announced
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

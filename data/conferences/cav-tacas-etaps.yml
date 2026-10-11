@@ -1,0 +1,80 @@
+id: cav-tacas-etaps
+name: ETAPS (TACAS, ESOP)
+full_name: European Joint Conferences on Theory and Practice of Software
+type: conference
+tier: major
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: ETAPS Steering Committee
+organizer_country: [europe]
+proceedings: Springer LNCS (ARCoSS subline)
+archival: true
+rank:
+  ccf: B
+typical:
+  deadline_months: [10]
+  conference_months: [4, 5]
+links:
+  website: https://etaps.org/
+  dblp: https://dblp.org/db/conf/etaps/index.html
+notes:
+- 'Federation of four conferences from 2027: ESOP, FoSSaCS, iFS (merger of FASE and iFM) and TACAS, plus satellite workshops'
+- 'CORE ranks of the member conferences (ICORE2026): TACAS A, ESOP A, FoSSaCS B; ETAPS itself is listed in CCF B'
+- CAV is not part of ETAPS; it is a separate conference (CAV 2027 in Amsterdam, July 2027)
+- Proceedings in Springer LNCS (ARCoSS subline), gold open access (CC-BY) since 2018
+- One joint deadline in October for all conferences (ESOP also has an earlier round in May); deadlines are firm and not extended
+- TACAS requires artifact evaluation for tool papers; rebuttal phase for ESOP, FoSSaCS and TACAS
+- Held in Europe almost every year (Turin 2026, Copenhagen 2027); Hamilton, Canada in 2025
+editions:
+- year: 2026
+  start: 2026-04-11
+  end: 2026-04-16
+  location: Turin, Italy
+  url: https://etaps.org/2026/
+- year: 2027
+  start: 2027-04-10
+  end: 2027-04-15
+  location: Copenhagen, Denmark
+  url: https://etaps.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-05-28
+    tz: AoE
+    label: ESOP round 1
+  - kind: notification
+    date: 2026-08-06
+    label: ESOP round 1
+  - kind: submission
+    date: 2026-10-15
+    tz: AoE
+    label: ESOP round 2, FoSSaCS, TACAS, iFS
+  - kind: other
+    date: 2026-10-29
+    tz: AoE
+    label: TACAS mandatory artifact submission (tool papers)
+  - kind: notification
+    date: 2026-12-22
+    label: ESOP round 2, FoSSaCS, TACAS, iFS
+  - kind: camera_ready
+    date: 2027-01-25
+    tz: AoE
+    label: All conferences
+sources:
+- https://etaps.org/2027/
+- https://etaps.org/2027/cfp/
+- https://etaps.org/2027/conferences/tacas/
+- https://etaps.org/past-editions/
+- https://etaps.org/about/proceedings
+- https://www.fmeurope.org/feature/upcoming_conferences/
+- https://portal.core.edu.au/conf-ranks/?search=TACAS&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=ESOP&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=FoSSaCS&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=ETAPS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- ETAPS as a whole is not listed in CORE ICORE2026, so rank.core is left out (member conference ranks are in the notes)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- Legal organizer (ETAPS association) details could not be read; the about page returned 403
+last_verified: 2026-10-11

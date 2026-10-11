@@ -1,0 +1,71 @@
+id: fmcad
+name: FMCAD
+full_name: Formal Methods in Computer-Aided Design
+type: conference
+tier: major
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: FMCAD Association (steering committee)
+organizer_country: [international]
+proceedings: TU Wien Academic Press (open access), also in IEEE Xplore
+archival: true
+indexing: [DBLP]
+rank:
+  core: B
+  ccf: B
+acceptance_rate: 31.7% (2026, 71/224)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9, 10]
+links:
+  website: https://www.fmcad.org/
+  dblp: https://dblp.org/db/conf/fmcad/index.html
+notes:
+- Formal verification of hardware and software systems, with strong ties to EDA; IEEE CEDA is technical co-sponsor
+- Open-access proceedings by TU Wien Academic Press (CC license) since 2020, distributed through IEEE Xplore
+- Regular and tool/case-study papers, 9 pages (long) or 5 pages (short) in IEEE format; single-blind review with a rebuttal phase
+- Alternates between the USA and Europe (Prague 2024, Menlo Park 2025, Graz 2026); includes a student forum
+- Co-located with VSTTE in 2026
+- CORE B (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-18
+  location: Graz, Austria
+  url: https://fmcad.org/FMCAD26/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-04
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-26
+  - kind: submission
+    date: 2026-05-11
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-05-03
+  - kind: other
+    date: 2026-06-28
+    time: "23:59"
+    tz: AoE
+    label: Student forum submission (extended from 2026-06-22)
+  - kind: notification
+    date: 2026-07-19
+  - kind: camera_ready
+    date: 2026-08-01
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.fmcad.org/
+- https://fmcad.forsyte.at/FMCAD26/
+- https://fmcad.org/FMCAD26/important_dates
+- https://fmcad.org/FMCAD26/cfp
+- https://portal.core.edu.au/conf-ranks/?search=FMCAD&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- FMCAD 2027 dates and location not announced yet (no FMCAD27 page as of 2026-10-11)
+- The 2026 important dates page shows both original and extended dates; the later dates were taken as current per the homepage update of 2026-04-24
+last_verified: 2026-10-11

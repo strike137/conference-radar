@@ -1,0 +1,83 @@
+id: kiees-conference
+name: KIEES Conference
+full_name: Korean Institute of Electromagnetic Engineering and Science Winter, Summer and Fall Conferences
+name_local: 한국전자파학회 동계종합·하계종합·추계학술대회
+type: conference
+tier: domestic
+areas: [communications]
+region: korea
+language: korean
+frequency: multiple-per-year
+organizer: KIEES (The Korean Institute of Electromagnetic Engineering and Science, 한국전자파학회)
+organizer_country: [korea]
+proceedings: KIEES conference proceedings (논문집, 1-page papers, downloadable from the conference site)
+archival: false
+typical:
+  deadline_months: [1, 6, 10]
+  conference_months: [2, 8, 11]
+links:
+  website: https://conf.kiees.or.kr/
+notes:
+- Domestic conferences of KIEES, three a year; winter at ICC Jeju (February), summer at Alpensia Resort Pyeongchang
+  (August), fall in Seoul together with the society's annual general meeting (November)
+- Antennas, RF/microwave and millimeter-wave circuits, EMC, radar, propagation, wireless power, satellite and wireless
+  communications, 5G/6G
+- 1-page A4 papers in Korean or English, oral or poster; the summer conference also has an English paper session
+- Best papers are chosen from session chair recommendations and judging on the day; award winners and
+  chair-recommended papers can go through extra review for the Journal of KIEES
+- Undergraduate paper contest at each meeting
+editions:
+- year: 2025
+  label: Fall 2025
+  start: 2025-11-20
+  end: 2025-11-21
+  location: Seoul, Korea (Seoul National University, Samsung Convention Center)
+  url: https://2025fall.kiees.or.kr/html/
+- year: 2026
+  label: Winter 2026
+  start: 2026-02-25
+  end: 2026-02-28
+  location: Jeju, Korea (ICC Jeju)
+  url: https://2026winter.kiees.or.kr/html/
+  deadlines:
+  - kind: submission
+    date: 2025-12-21
+    label: Original deadline
+  - kind: submission
+    date: 2026-01-07
+    label: Extended deadline (no further extension)
+- year: 2026
+  label: Summer 2026
+  start: 2026-08-19
+  end: 2026-08-22
+  location: Pyeongchang, Korea (Alpensia Resort)
+  url: https://2026summer.kiees.or.kr/html/
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    label: Paper submission (extended to midnight, final extension)
+- year: 2026
+  label: Fall 2026
+  url: https://conf.kiees.or.kr/
+  deadlines:
+  - kind: submission
+    date: 2026-10-09
+    label: Paper submission
+  - kind: notification
+    date: 2026-10-30
+sources:
+- https://conf.kiees.or.kr/html/
+- https://conf.kiees.or.kr/html/?pmode=thesis_submission
+- https://conf.kiees.or.kr/html/?pmode=pastconf
+- https://conf.kiees.or.kr/html/?pmode=Intro
+- https://conf.kiees.or.kr/html/?pmode=BBBS0019000001&smode=view&seq=807
+- https://2026winter.kiees.or.kr/html/?pmode=thesis_submission
+- https://2026summer.kiees.or.kr/html/?pmode=BBBS0019000001&smode=view&seq=793
+- https://2026summer.kiees.or.kr/html/?pmode=comprehensive_schedule
+- https://2026winter.kiees.or.kr/html/?pmode=comprehensive_schedule
+unverified:
+- Fall 2026 dates and venue (site opened 2026-09-11 but schedule and venue pages still say in preparation)
+- Original Summer 2026 paper deadline (only the extension to 2026-07-03, announced 2026-06-19, is still online)
+- Registration fees
+- Not listed in the CORE portal (ICORE2026 search for KIEES returned no results)
+last_verified: 2026-10-11

@@ -1,0 +1,56 @@
+id: ieee-cqr
+name: IEEE CQR
+full_name: IEEE ComSoc International Communications Quality and Reliability Workshop
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE ComSoc Communications Quality & Reliability (CQR) Technical Committee
+organizer_country: [usa]
+proceedings: IEEE Xplore (via the RTC Conference research track)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://cqr.committees.comsoc.org/
+notes:
+- Workshop of the IEEE ComSoc CQR Technical Committee on the reliability of communications networks
+- In 2025 and 2026 collocated with the Real-Time Communications (RTC) Conference at Illinois Institute of
+  Technology, Chicago; one registration covers both events
+- Papers are submitted to the RTC research track with CQR selected as the category; accepted and presented papers
+  are sent to IEEE Xplore
+- Regular papers 4 to 8 pages, work-in-progress papers up to 4 pages (IEEE two-column)
+- 2026 theme was trusted communications infrastructure (AI, quantum, cloud and 6G)
+- Earlier editions were all in the USA (Austin 2018, Naples FL 2019, Washington DC 2022); the 2020 and 2021
+  editions were virtual
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-23
+  location: Chicago, IL, USA
+  url: https://cqr.committees.comsoc.org/cqr2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-27
+    time: "23:59"
+    tz: UTC-5
+    label: RTC research track incl. CQR, 23:59 CDT (extended from 2026-07-17)
+  - kind: notification
+    date: 2026-08-24
+  - kind: camera_ready
+    date: 2026-09-07
+sources:
+- https://cqr.committees.comsoc.org/
+- https://cqr.committees.comsoc.org/cqr2026/
+- https://cqr.committees.comsoc.org/meetings/workshops/
+- https://rtc-conference.com/
+- https://rtc-conference.com/research-track-cfp
+- https://portal.core.edu.au/conf-ranks/?search=CQR&by=all&source=ICORE2026
+unverified:
+- Which day of the RTC Conference (22-23 September 2026) the CQR sessions took place
+- Whether CQR workshops were held in 2023 and 2024 (not listed on the CQR site)
+last_verified: 2026-10-11

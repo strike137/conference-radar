@@ -1,0 +1,60 @@
+id: lightsec
+name: LightSec
+full_name: International Workshop on Lightweight Cryptography for Security & Privacy
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: middle-east
+language: english
+frequency: irregular
+organizer: Akdeniz University and IACR (2026)
+organizer_country: [other, international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10]
+links:
+  website: https://lightsec2026.com/
+notes:
+- One-day workshop on lightweight and efficient cryptography, post-quantum implementations, IoT and edge privacy
+- 2026 (7th edition) is an official affiliated event of IACR CHES 2026, held on the opening day of CHES in Antalya
+- Organized by Akdeniz University and the IACR, with TÜBİTAK 2223-B funding support
+- Double-blind review; papers up to 20 pages in LNCS format; post-workshop proceedings in Springer LNCS, pre-proceedings for attendees
+- Separate poster session with its own later deadline
+- Earlier editions 2011, 2013, 2014 and 2016 in Türkiye (İstanbul, Gebze, Aksaray), 2015 in Bochum, Germany, and 2025 in İstanbul
+editions:
+- year: 2025
+  start: 2025-09-01
+  end: 2025-09-02
+  location: İstanbul, Türkiye
+- year: 2026
+  start: 2026-10-11
+  end: 2026-10-11
+  location: Royal Seginus Hotel, Lara, Antalya, Türkiye
+  url: https://lightsec2026.com/
+  deadlines:
+  - kind: submission
+    date: 2026-07-17
+    label: Papers (extended from 2026-06-19)
+  - kind: notification
+    date: 2026-08-28
+    label: Papers (moved from 2026-08-21)
+  - kind: camera_ready
+    date: 2026-09-21
+    label: Pre-conference proceedings
+  - kind: other
+    date: 2026-09-22
+    label: Poster submission (extended from 2026-08-01)
+  - kind: camera_ready
+    date: 2026-10-26
+    label: Post-conference proceedings (Springer LNCS)
+sources:
+- https://lightsec2026.com/
+- https://lightsec2026.com/LightSec_2026_CfP.pdf
+- https://ches.iacr.org/2026/affiliated.php
+- https://portal.core.edu.au/conf-ranks/?search=LightSec&by=all&source=ICORE2026
+unverified:
+- Whether a 2027 edition will be held
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

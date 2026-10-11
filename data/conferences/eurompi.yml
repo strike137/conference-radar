@@ -1,0 +1,61 @@
+id: eurompi
+name: EuroMPI
+full_name: EuroMPI Conference (European MPI Users' Group Meeting)
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: EuroMPI steering committee (2026 edition hosted by TU Wien)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [4, 5]
+  conference_months: [10]
+links:
+  website: https://eurompi.org/
+notes:
+- Main venue for research on MPI and message passing; successor of the EuroPVM/MPI meeting series that started in 1994
+- 2026 papers published in Springer LNCS (as in 2024 and 2025); 2020, 2022 and 2023 proceedings were in the ACM Digital Library
+- Full papers 12 to 15 pages in LNCS format; short and position papers and a non-archival poster track also accepted
+- Single-anonymous review with at least three reviews per paper; deadlines AoE and usually extended by a few weeks (the separate 2026 abstract deadline was dropped)
+- Despite the name it rotates worldwide (Bristol 2023, Perth 2024, Charlotte 2025, Vienna 2026)
+- 2026 edition held the same week as IWOMP (OpenMP workshop), with an MPI Forum meeting before the conference
+editions:
+- year: 2026
+  start: 2026-10-07
+  end: 2026-10-09
+  location: Vienna, Austria
+  url: https://eurompi.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-26
+    tz: AoE
+    label: Abstract and full paper (final extension, originally 2026-04-27)
+  - kind: notification
+    date: 2026-06-22
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-17
+    tz: AoE
+  - kind: other
+    date: 2026-07-31
+    tz: AoE
+    label: Poster abstracts (not in proceedings)
+  - kind: notification
+    date: 2026-08-14
+    tz: AoE
+    label: Posters
+sources:
+- https://eurompi.org/
+- https://eurompi.org/call
+- https://eurompi.org/archive
+- https://eurompi.org/organization
+- https://portal.core.edu.au/conf-ranks/?search=EuroMPI&by=all&source=ICORE2026
+unverified:
+- EuroMPI 2027 dates and location not yet announced on the official site as of 2026-10-11
+last_verified: 2026-10-11

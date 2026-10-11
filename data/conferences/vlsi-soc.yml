@@ -1,0 +1,67 @@
+id: vlsi-soc
+name: VLSI-SoC
+full_name: IFIP/IEEE International Conference on Very Large Scale Integration
+type: conference
+tier: minor
+areas: [systems, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IFIP TC10 WG 10.5, IEEE CEDA and IEEE CAS Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [5]
+  conference_months: [10]
+links:
+  website: https://www.vlsi-soc.com/
+notes:
+- Sponsored by IFIP TC10 Working Group 10.5, IEEE CEDA and the IEEE Circuits and Systems Society; series started in
+  1981 in Edinburgh
+- Covers VLSI and SoC design broadly, from circuits and design automation to embedded systems, AI hardware and
+  hardware security
+- Rotates around the world (Singapore 2021, Patras 2022, Sharjah 2023, Tangier 2024, Puerto Varas 2025, Limassol 2026)
+- Papers up to 4 pages plus 1 page of references in IEEE format; proceedings in IEEE Xplore
+- Selected best papers are invited to submit extended versions as chapters of a Springer book
+- Has a PhD and Student Forum with a later deadline, and travel grants for PhD students from emerging countries
+- CORE C (ICORE2026); not in the CCF list
+editions:
+- year: 2026
+  start: 2026-10-11
+  end: 2026-10-14
+  location: St. Raphael Resort, Limassol, Cyprus
+  url: https://www.vlsi-soc.com/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-04
+    tz: AoE
+  - kind: submission
+    date: 2026-05-11
+    tz: AoE
+  - kind: other
+    date: 2026-05-11
+    tz: AoE
+    label: Special session proposals
+  - kind: notification
+    date: 2026-06-29
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-20
+    tz: AoE
+  - kind: other
+    date: 2026-08-24
+    tz: AoE
+    label: PhD and Student Forum submission
+sources:
+- https://www.vlsi-soc.com/
+- https://vlsi-soc.com/submission.html
+- https://vlsi-soc.com/prevconference.html
+- https://portal.core.edu.au/conf-ranks/?search=VLSI-SoC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- VLSI-SoC 2027 dates and location not announced as of 2026-10-11
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-11

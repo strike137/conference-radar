@@ -1,0 +1,69 @@
+id: systor
+name: SYSTOR
+full_name: ACM International Systems and Storage Conference
+type: conference
+tier: minor
+areas: [systems]
+region: middle-east
+language: english
+frequency: annual
+organizer: ACM (Israeli steering committee; started at IBM Research Haifa)
+organizer_country: [other]
+proceedings: ACM DL
+archival: true
+rank:
+  core: 'National: Israel'
+  ccf: C
+typical:
+  deadline_months: [5]
+  conference_months: [6, 9]
+links:
+  website: https://www.systor.org/
+  dblp: https://dblp.org/db/conf/systor/index.html
+notes:
+- Israeli systems and storage conference, started at IBM Research Haifa in 2007; ACM proceedings, open access
+- Full papers up to 12 pages and short papers up to 5 pages (excluding references), double-blind review; posters
+  with a one-page extended abstract in the proceedings
+- Main conference virtual since 2024 (free registration) with an in-person Israeli Systems and AI (ISAI)
+  workshop in Israel; held in person at the Technion in Haifa in 2023
+- "CCF C; CORE ICORE2026 rank: National: Israel"
+editions:
+- year: 2025
+  start: 2025-09-08
+  end: 2025-09-09
+  location: Virtual (ISAI workshop on 2025-09-10 with IBM Haifa, Israel)
+  url: https://www.systor.org/2025/
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-09
+  location: Virtual (ISAI workshop on 2026-09-07 at Red Hat, Raanana, Israel)
+  url: https://www.systor.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    time: "23:59"
+    tz: AoE
+    label: Full and short papers (extended from 2026-05-21)
+  - kind: notification
+    date: 2026-07-13
+    label: Papers
+  - kind: other
+    date: 2026-07-20
+    time: "23:59"
+    tz: AoE
+    label: Posters with extended abstract
+  - kind: camera_ready
+    date: 2026-08-10
+    label: Post-shepherd camera-ready
+sources:
+- https://www.systor.org/
+- https://www.systor.org/2026/cfp/
+- https://www.systor.org/2026/past-conferences/
+- https://www.systor.org/2025/
+- https://www.systor.org/2024/
+- https://www.systor.org/2023/
+- https://portal.core.edu.au/conf-ranks/?search=SYSTOR&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- SYSTOR 2027 dates and format not yet announced
+last_verified: 2026-10-11

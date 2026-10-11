@@ -38,7 +38,9 @@ editions:
   deadlines:
   - kind: submission
     date: 2026-09-30
-    label: Call for Papers, Rookies and Workshops (closes at midnight, zone not stated)
+    time: "23:59"
+    tz: UTC
+    label: Call for Papers, Rookies and Workshops
   - kind: notification
     date: 2026-10-12
     label: Target date for notifying applicants
@@ -53,6 +55,4 @@ sources:
 - https://bsides.london/ticketsfaqs
 - https://pretalx.com/bsides-london-2026/
 - https://pretalx.com/bsides-london-2026/cfp
-unverified:
-- Time zone of the CFP close (page says midnight without a zone, presumably UK time)
 last_verified: 2026-10-11

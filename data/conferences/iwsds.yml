@@ -1,0 +1,62 @@
+id: iwsds
+name: IWSDS
+full_name: International Workshop on Spoken Dialogue Systems Technology
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: International IWSDS organizing committee with a local host (University of Trento in 2026)
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [2, 3, 5]
+links:
+  website: https://aclanthology.org/venues/iwsds/
+notes:
+- Standalone annual workshop on spoken dialogue systems held since 2009 (16th edition in 2026), not co-located
+- Proceedings published by ACL in the ACL Anthology (2025 and 2026 volumes)
+- "Acceptance rate: 76% (2026, 42/55); each paper reviewed by at least three PC members"
+- Long and short research papers, position papers and an industry track, plus special sessions
+- Bilbao, Spain in May 2025 and Trento, Italy in Feb to Mar 2026
+- No standing series site (iwsds.org redirects to the COLIPS home page, which has no IWSDS page); each edition has its own site
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-05-27
+  end: 2025-05-30
+  location: Bilbao, Spain
+  url: https://sites.google.com/view/iwsds2025
+  deadlines:
+  - kind: abstract
+    date: 2025-01-17
+    label: Title, authors and abstract (extended from 2025-01-12)
+  - kind: submission
+    date: 2025-01-25
+    label: Paper PDF update (extended from 2025-01-19)
+  - kind: notification
+    date: 2025-03-13
+  - kind: camera_ready
+    date: 2025-03-23
+- year: 2026
+  start: 2026-02-26
+  end: 2026-03-01
+  location: Trento, Italy
+sources:
+- https://sites.google.com/view/iwsds2025
+- https://sites.google.com/view/iwsds2025/important-dates
+- https://sites.google.com/view/iwsds2025/program_1/proceedings
+- https://aclanthology.org/2026.iwsds-1.0.pdf
+- https://aclanthology.org/2026.iwsds-1.0.bib
+- https://aclanthology.org/2025.iwsds-1.0.bib
+- https://aclanthology.org/venues/iwsds/
+- https://www.colips.org/wp/
+- https://portal.core.edu.au/conf-ranks/?search=IWSDS&by=all&source=ICORE2026
+unverified:
+- IWSDS 2026 website and deadlines (dates and location taken from the official proceedings front matter)
+- IWSDS 2027 dates and location not found
+- Region set from the series rotating between Europe, Asia and the USA; only the 2025 and 2026 venues were checked
+last_verified: 2026-10-11

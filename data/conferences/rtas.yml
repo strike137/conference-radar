@@ -1,0 +1,94 @@
+id: rtas
+name: RTAS
+full_name: IEEE Real-Time and Embedded Technology and Applications Symposium
+type: conference
+tier: major
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE TCRTS (Technical Community on Real-Time Systems), IEEE Computer Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [11]
+  conference_months: [5]
+links:
+  website: https://2027.rtas.org/
+  dblp: https://dblp.org/db/conf/rtas/index.html
+notes:
+- Sponsored by the IEEE Computer Society Technical Community on Real-Time Systems (TCRTS); held as part of CPS-IoT Week each May
+- Main papers, plus brief industry, work-in-progress and demo papers, appear in the RTAS proceedings with IEEE
+- Two tracks (Systems and Applications; Applied Methodologies and Foundations); double-anonymous review with an author response period
+- Up to 11 pages of technical content in IEEE conference format (12 after acceptance); optional artifact evaluation
+- Firm November deadline; Irvine 2025, Saint-Malo 2026, Boulder 2027
+- CORE A (ICORE2026); CCF B
+editions:
+- year: 2026
+  start: 2026-05-12
+  end: 2026-05-14
+  location: Saint-Malo, France (CPS-IoT Week 2026)
+  url: https://2026.rtas.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-13
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-01-29
+    tz: AoE
+  - kind: other
+    date: 2026-02-16
+    tz: AoE
+    label: Brief presentation submission (extended from 2026-02-13)
+  - kind: other
+    date: 2026-02-26
+    tz: AoE
+    label: Artifact evaluation submission (extended from 2026-02-20)
+  - kind: camera_ready
+    date: 2026-03-31
+    tz: AoE
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-20
+  location: Boulder, Colorado, USA (CPS-IoT Week 2027)
+  url: https://2027.rtas.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-05
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-01-28
+    tz: AoE
+    label: Tentative
+  - kind: other
+    date: 2027-02-11
+    tz: AoE
+    label: Brief presentation submission
+  - kind: other
+    date: 2027-02-18
+    tz: AoE
+    label: Artifact evaluation submission
+  - kind: camera_ready
+    date: 2027-03-30
+    tz: AoE
+sources:
+- https://2027.rtas.org/
+- https://2027.rtas.org/cfp
+- https://2027.rtas.org/submission
+- https://2026.rtas.org/
+- https://2026.rtas.org/cfp/
+- https://2026.rtas.org/submission/
+- https://2026.rtas.org/bp/
+- https://2025.rtas.org/
+- https://portal.core.edu.au/conf-ranks/?search=RTAS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- RTAS 2027 conference dates are listed as "Tuesday, May 17 to Friday, May 20, 2027", but May 17, 2027 is a Monday; the weekday labels look carried over from an older template
+- CCF rank checked via the ccfddl mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-11

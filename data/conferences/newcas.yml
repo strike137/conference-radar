@@ -1,0 +1,63 @@
+id: newcas
+name: NEWCAS
+full_name: IEEE International New Circuits and Systems Conference
+type: conference
+tier: minor
+areas: [communications, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Circuits and Systems Society (CAS)
+organizer_country: [international]
+proceedings: IEEE conference proceedings
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://ieee-newcas.org/
+notes:
+- IEEE Interregional NEWCAS conference sponsored by the IEEE Circuits and Systems Society
+- Alternates between Canada (mostly Quebec) and Europe (mostly France); Cork, Ireland in 2027
+- Complete 4-page papers in IEEE double-column format plus one page of references
+- Broad circuits and systems scope (analog, RF, data converters, power, biomedical, AI hardware, hardware security)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-06-21
+  end: 2026-06-24
+  location: Saguenay, Quebec, Canada
+  url: https://ieee-newcas.org/2027/events/newcas-2026
+- year: 2027
+  start: 2027-06-20
+  end: 2027-06-23
+  location: University College Cork, Cork, Ireland
+  url: https://ieee-newcas.org/2027/
+  deadlines:
+  - kind: other
+    date: 2026-12-08
+    label: Special session proposals
+  - kind: submission
+    date: 2027-02-01
+  - kind: other
+    date: 2027-02-01
+    label: Tutorial proposals
+  - kind: notification
+    date: 2027-04-09
+  - kind: camera_ready
+    date: 2027-04-30
+    label: Final paper, with early registration
+sources:
+- https://ieee-newcas.org/
+- https://ieee-newcas.org/2027/authors/call-for-papers
+- https://ieee-newcas.org/2027/about/history
+- https://ieee-newcas.org/2027/general-faq
+- https://ieee-newcas.org/2027/organizing-committee
+- https://ieee-newcas.org/2027/travel/venue
+- https://ieee-newcas.org/2027/events/newcas-2026
+- https://confcats-siteplex.s3.amazonaws.com/newcas/files/newcas27-cfp_web-04.pdf
+- https://portal.core.edu.au/conf-ranks/?search=NEWCAS&by=all&source=ICORE2026
+unverified:
+- The official site does not state that the proceedings go to IEEE Xplore (only that registered participants get the official conference proceedings)
+- NEWCAS 2026 deadlines not recorded (the 2027 site history gives only its dates and location)
+- Submission time and time zone for 2027 deadlines not stated
+last_verified: 2026-10-11

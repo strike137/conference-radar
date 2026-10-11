@@ -1,0 +1,87 @@
+id: stil
+name: STIL
+full_name: Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (Brazilian Symposium in
+  Information and Human Language Technology)
+type: conference
+tier: domestic
+areas: [nlp, ai]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação)
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL), ACL Anthology
+archival: true
+indexing: [DBLP]
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9, 10]
+links:
+  website: https://bracis.sbc.org.br/2026/stil/
+  dblp: https://dblp.org/db/conf/stil/index.html
+notes:
+- Brazilian NLP and human language technology symposium of the Brazilian Computer Society (SBC); annual since
+  2023; the STIL 2026 page and the SOL proceedings call 2026 the 17th edition
+- Papers in Portuguese, English or Spanish; long papers up to 10 pages (oral) and short papers up to 6 pages
+  (poster) plus references; double-blind review by at least two reviewers
+- Proceedings published in the SBC OpenLib (SOL) and the ACL Anthology, indexed in DBLP
+- Co-located with BRACIS in a different Brazilian city each year (Fortaleza 2025, Cuiabá 2026)
+- "Deadlines 23:59 AoE; extended several times in 2026, with a short grace period after the last deadline"
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-29
+  end: 2025-10-02
+  location: Fortaleza, Brazil
+  url: https://bracis.sbc.org.br/2025/stil/
+  deadlines:
+  - kind: submission
+    date: 2025-06-22
+    time: "23:59"
+    tz: AoE
+    label: Papers (latest of the listed dates 2025-06-01, 2025-06-16, 2025-06-22)
+  - kind: notification
+    date: 2025-08-01
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-15
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-22
+  location: Cuiabá, Brazil
+  url: https://bracis.sbc.org.br/2026/stil/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-30
+    time: "23:59"
+    tz: AoE
+    label: Paper registration (after 2026-03-30 and 2026-04-20; grace period to 2026-05-02)
+  - kind: submission
+    date: 2026-05-15
+    time: "23:59"
+    tz: AoE
+    label: Long and short papers (after 2026-03-30, 2026-04-20 and 2026-05-06; grace period to 2026-05-17)
+  - kind: notification
+    date: 2026-07-11
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-26
+    time: "23:59"
+    tz: AoE
+sources:
+- https://bracis.sbc.org.br/2026/
+- https://bracis.sbc.org.br/2026/stil/
+- https://bracis.sbc.org.br/2025/stil/
+- https://bracis.sbc.org.br/2025/
+- https://sol.sbc.org.br/index.php/stil
+- https://sol.sbc.org.br/index.php/stil/issue/archive
+- https://sol.sbc.org.br/index.php/stil/issue/view/1584
+- https://portal.core.edu.au/conf-ranks/?search=STIL&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Edition number (the STIL 2026 page and SOL say 17th; the SBC event listing reportedly says 18th)
+- STIL 2027 dates and location (not announced as of 2026-10-11)
+last_verified: 2026-10-11

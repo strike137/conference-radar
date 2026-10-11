@@ -1,0 +1,55 @@
+id: ieee-ipc
+name: IEEE IPC
+full_name: IEEE Photonics Conference
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Photonics Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [11]
+links:
+  website: https://ieee-ipc.org/
+notes:
+- Annual conference of the IEEE Photonics Society covering broad photonics topics (optical communications,
+  biophotonics, detection and sensing, and more) with plenary and invited talks and special symposia
+- 2-page papers; accepted papers that are presented go into IEEE Xplore; all accepted authors must register and
+  present in person
+- Post-deadline papers are accepted about a month before the conference for a post-deadline oral session
+- Moves between continents (2023 Orlando, 2024 Rome, 2025 Singapore, 2026 Denver)
+- Not listed in ICORE2026; photonics venue outside the usual CS rankings
+editions:
+- year: 2025
+  start: 2025-11-09
+  end: 2025-11-13
+  location: Singapore
+  url: https://ieeephotonics.org/event/ieee-photonics-conference-ipc-2025/
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-12
+  location: Denver, Colorado, USA
+  url: https://ieee-ipc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-28
+    label: Paper submissions (extended deadline)
+  - kind: submission
+    date: 2026-10-12
+    label: Post-deadline papers
+sources:
+- https://ieee-ipc.org/
+- https://ieee-ipc.org/paper-submission/submission-guidelines/
+- https://ieee-ipc.org/paper-submission/presenter-resources/
+- https://ieee-ipc.org/about/past-conferences/
+- https://ieeephotonics.org/event/ieee-photonics-conference-ipc-2025/
+- https://portal.core.edu.au/conf-ranks/?search=IPC&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) 2026 paper deadline not shown on the official site
+- IPC 2027 dates and location not yet announced as of 2026-10-11
+last_verified: 2026-10-11

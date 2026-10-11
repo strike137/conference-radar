@@ -1,0 +1,55 @@
+id: smc
+name: SMC
+full_name: Sound and Music Computing Conference
+type: conference
+tier: minor
+areas: [ai, general]
+region: europe
+language: english
+frequency: annual
+organizer: SMC Network steering committee with a rotating local host
+organizer_country: [europe]
+proceedings: SMC Proceedings (open access on Zenodo, with ISBN)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7, 11]
+links:
+  website: https://smcnetwork.org/
+notes:
+- Not to be confused with IEEE SMC (Systems, Man, and Cybernetics)
+- Peer-reviewed conference on sound and music computing (music information retrieval, audio processing, sonic
+  interaction, computational musicology)
+- Papers up to 8 pages (6 encouraged); single-blind review; publication requires the presenting author to attend
+- Proceedings open access on Zenodo and the SMC website
+- Held in Europe (Saint-Etienne 2022, Stockholm 2023, Porto 2024, Graz 2025, Zagreb 2026); usually June or July
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-07-07
+  end: 2025-07-12
+  location: Graz, Austria
+  url: https://smc25.iem.at/
+- year: 2026
+  start: 2026-11-05
+  end: 2026-11-07
+  location: Zagreb, Croatia (HUB385)
+  url: https://smc26.mbz.hr/
+  deadlines:
+  - kind: submission
+    date: 2026-03-27
+    tz: AoE
+    label: Papers and music
+  - kind: notification
+    date: 2026-06-15
+sources:
+- https://smcnetwork.org/
+- https://smcnetwork.org/conf.html
+- https://smc26.mbz.hr/
+- https://smc26.mbz.hr/en/submissions/call-for-papers
+- https://smc26.mbz.hr/en/info/location-accommodation
+- https://smc25.iem.at/
+- https://portal.core.edu.au/conf-ranks/?search=SMC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- SMC 2027 host and dates not yet announced as of 2026-10-11
+last_verified: 2026-10-11

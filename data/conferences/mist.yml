@@ -1,0 +1,63 @@
+id: mist
+name: MIST
+full_name: International Workshop on Mobile and IoT Security Technologies
+type: workshop
+tier: minor
+areas: [security, systems]
+region: europe
+language: english
+frequency: annual
+organizer: MIST chairs from the University of Calabria, KU Leuven and Universitat Oberta de Catalunya, co-located with
+  ESORICS
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://mist-workshop.github.io/
+notes:
+- Co-located with ESORICS; held in Toulouse in 2025 and Rome in 2026
+- Covers mobile, IoT and cellular security (Android, IoT malware, LTE-M and NB-IoT fuzzing, attestation)
+- Accepted papers published in Springer LNCS
+- Papers up to 16 pages excluding bibliography and appendices, 20 pages total, LNCS template
+- 'Small workshop: 8 papers in 2025 and 9 in 2026'
+- Not listed in ICORE2026 (portal search returns no results) or the CCF list
+- Not to be confused with older workshops also called MIST (Managing Insider Security Threats)
+editions:
+- year: 2025
+  start: 2025-09-26
+  end: 2025-09-26
+  location: Toulouse, France
+  url: https://mist-workshop.github.io/history
+- year: 2026
+  start: 2026-09-18
+  end: 2026-09-18
+  location: Rome, Italy
+  url: https://mist-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-20
+    tz: AoE
+  - kind: notification
+    date: 2026-07-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-20
+    tz: AoE
+sources:
+- https://mist-workshop.github.io/
+- https://mist-workshop.github.io/call_for_papers
+- https://mist-workshop.github.io/organizers
+- https://mist-workshop.github.io/program
+- https://mist-workshop.github.io/history
+- https://sites.google.com/di.uniroma1.it/esorics2026/program/accepted-workshops
+- https://portal.core.edu.au/conf-ranks/?search=MIST&by=all&source=ICORE2026
+unverified:
+- 2025 deadlines and proceedings volume not shown on the official history page
+- MIST 2027 not announced as of 2026-10-11
+- DBLP listing not checked (dblp blocked automated access)
+last_verified: 2026-10-11

@@ -1,0 +1,99 @@
+id: splc
+name: SPLC
+full_name: ACM International Systems and Software Product Line Conference
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SPLC Steering Committee
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://splc.net/
+  dblp: https://dblp.org/db/conf/splc/index.html
+notes:
+- Main venue for software product lines and variability; 29 editions up to 2025, steering committee chaired from ETS Montreal
+- 'SPLC 2025 research track: 10 pages plus 2 of references (short papers 5 plus 2), double-blind, ACM template, proceedings in the ACM DL; artifact evaluation track'
+- In 2026 SPLC merged with VaMoS and ICSR (Software Reuse) into VARIABILITY 2026, held 29 Sep to 2 Oct 2026 in Limassol, Cyprus, with two submission cycles and Springer LNCS proceedings
+- Whether SPLC returns as a separate conference after VARIABILITY 2026 is not stated
+- Usually held in early September; recent hosts Graz (2022), Tokyo (2023), Luxembourg (2024), A Coruña (2025)
+- CORE B (ICORE2026, listed as Software Product Lines Conference)
+editions:
+- year: 2025
+  start: 2025-09-01
+  end: 2025-09-05
+  location: A Coruña, Spain
+  url: https://2025.splc.net
+  deadlines:
+  - kind: abstract
+    date: 2025-04-17
+    time: "23:59"
+    tz: AoE
+    label: Research track (extended from 2025-04-03)
+  - kind: submission
+    date: 2025-04-24
+    time: "23:59"
+    tz: AoE
+    label: Research track (extended from 2025-04-10)
+  - kind: notification
+    date: 2025-05-29
+    label: Research track
+  - kind: other
+    date: 2025-06-12
+    time: "23:59"
+    tz: AoE
+    label: Artifact submission
+  - kind: camera_ready
+    date: 2025-07-10
+    time: "23:59"
+    tz: AoE
+    label: Research track
+- year: 2026
+  start: 2026-09-29
+  end: 2026-10-02
+  location: Limassol, Cyprus
+  url: https://conf.researchr.org/home/variability-2026
+  deadlines:
+  - kind: submission
+    date: 2025-12-11
+    tz: AoE
+    label: VARIABILITY 2026 research papers, cycle 1
+  - kind: notification
+    date: 2026-02-16
+    tz: AoE
+    label: VARIABILITY 2026 cycle 1
+  - kind: submission
+    date: 2026-04-10
+    tz: AoE
+    label: VARIABILITY 2026 research papers, cycle 2
+  - kind: notification
+    date: 2026-06-01
+    tz: AoE
+    label: VARIABILITY 2026 cycle 2
+  - kind: camera_ready
+    date: 2026-07-15
+    tz: AoE
+    label: VARIABILITY 2026
+sources:
+- https://splc.net/
+- https://splc.net/current-conference/
+- https://splc.net/history/
+- https://splc.net/news/splc-2025-will-be-held-from-september-1st-to-5th-2025-at-facultade-de-informatica-universidade-da-coruna-a-coruna-spain/
+- https://2025.splc.net
+- https://2025.splc.net/call-for-papers/call-for-research-papers/
+- https://conf.researchr.org/home/variability-2026
+- https://conf.researchr.org/track/variability-2026/variability-2026-papers
+- https://portal.core.edu.au/conf-ranks/?search=SPLC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Future of SPLC after the 2026 merge into VARIABILITY (no 2027 edition announced as of 2026-10-11)
+- Not checked against the CCF list (no match found in the ccfddl mirror)
+- Acceptance rate not found on an official page
+last_verified: 2026-10-11

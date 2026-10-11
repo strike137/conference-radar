@@ -1,0 +1,57 @@
+id: i3d
+name: I3D
+full_name: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games
+type: conference
+tier: major
+areas: [vision, general]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGGRAPH
+organizer_country: [international]
+proceedings: ACM DL (Proceedings of the ACM on Computer Graphics and Interactive Techniques, PACMCGIT)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://i3dsymposium.org/
+notes:
+- Sponsored by ACM SIGGRAPH; accepted papers appear in a PACMCGIT journal issue in the ACM Digital Library
+- CORE B (ICORE2026, listed as I3DG); focused on real-time rendering, games and interactive graphics, with strong industry participation
+- Double-blind review in two rounds, no rebuttal; conditionally accepted papers submit a revision
+- Held in the USA (Bellevue 2023, Philadelphia 2024, Jersey City 2025, Lucasfilm San Francisco 2026); virtual in 2020 to 2022
+- 2026 was the 30th conference in the 40th year of I3D
+editions:
+- year: 2026
+  start: 2026-05-13
+  end: 2026-05-15
+  location: San Francisco, USA
+  url: https://i3dsymposium.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-09
+    time: "23:59"
+    tz: UTC-7
+  - kind: notification
+    date: 2026-02-20
+  - kind: other
+    date: 2026-03-13
+    label: Revision of conditionally accepted papers
+  - kind: other
+    date: 2026-03-27
+    label: Posters and demos submission
+  - kind: camera_ready
+    date: 2026-03-31
+sources:
+- https://i3dsymposium.org/2026/
+- https://i3dsymposium.org/2026/cfp.html
+- https://i3dsymposium.org/2026/conference.html
+- https://portal.core.edu.au/conf-ranks/?search=I3D&by=all&source=ICORE2026
+unverified:
+- I3D 2027 not yet announced
+- The 2026 CFP labels the 23:59 deadline as Pacific Time "UTC -7" although January is PST (UTC-8)
+- CCF rank not checked (CCF list page not reachable)
+last_verified: 2026-10-11

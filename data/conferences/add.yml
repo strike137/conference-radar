@@ -1,0 +1,56 @@
+id: add
+name: "AD&D"
+full_name: Workshop on Active Defense and Deception
+type: workshop
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: General chairs Denis Donadel (Fondazione Bruno Kessler) and Francesco Lupia (University of Calabria); steering
+  committee from IMDEA Software, SAP Security Research, Stony Brook University, DTU, University of Padua and University
+  of Calabria
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [6, 7, 9]
+links:
+  website: https://adnd.work/
+notes:
+- Workshop on active defense (moving target defense, runtime defenses) and cyber deception (honeypots, canaries, attacker
+  decision making)
+- Held every year since 2022; the 5th edition in 2026 is co-located with ESORICS 2026 in Rome
+- Earlier editions (2022 to 2025) took place in June or early July
+- Accepts research papers (full up to 16 pages, short up to 10), position papers and experience papers; LNCS template,
+  double-blind review
+- Authors of accepted papers must agree to the Springer LNCS copyright
+- The Honeynet Project offers student scholarships that cover workshop registration
+editions:
+- year: 2026
+  start: 2026-09-18
+  end: 2026-09-18
+  location: Rome, Italy
+  url: https://adnd.work/
+  deadlines:
+  - kind: submission
+    date: 2026-06-25
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2026-07-21
+  - kind: camera_ready
+    date: 2026-08-22
+sources:
+- https://adnd.work/
+- https://adnd.work/archive_2025/
+- https://adnd.work/archive_2024/
+- https://adnd.work/archive_2023/
+- https://adnd.work/archive_2022/
+- https://portal.core.edu.au/conf-ranks/?search=ADnD&by=all&source=ICORE2026
+unverified:
+- Host cities and co-located conferences of the 2022 to 2025 editions (the archive pages give only the dates)
+- Original (pre-extension) 2026 submission deadline and the venue's past proceedings series
+- AD&D 2027 not yet announced as of 2026-10-11
+- Not found in the CORE ICORE2026 portal
+last_verified: 2026-10-11

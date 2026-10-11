@@ -1,0 +1,62 @@
+id: iwssip
+name: IWSSIP
+full_name: International Conference on Systems, Signals and Image Processing
+type: conference
+tier: minor
+areas: [communications, vision]
+region: europe
+language: english
+frequency: annual
+organizer: IWSSIP Steering Committee with a rotating host university (University of Ljubljana for the postponed 33rd edition)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6, 7]
+links:
+  website: https://www.iwssip.org/
+notes:
+- Long-running series (since 1994) on signal processing, image processing and communications
+- Proceedings of past editions in IEEE Xplore; the 2025 edition was technically co-sponsored by IEEE
+- Rotates among Central and Southeast European host universities (Bratislava 2021, Sofia 2022, Ohrid 2023, Graz
+  2024, Skopje 2025); the 2020 edition (Niteroi, Brazil) was held online
+- The 33rd edition, planned for 10-12 June 2026 in Ljubljana, was postponed to 9-11 June 2027 because of low
+  submission numbers; papers already submitted stay under consideration
+- Full papers 4 pages standard, up to 6 pages
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-06-24
+  end: 2025-06-26
+  location: Skopje, North Macedonia
+  url: https://www.iwssip.org/archive/2025/
+  deadlines:
+  - kind: other
+    date: 2025-02-02
+    label: Special session proposals
+  - kind: submission
+    date: 2025-04-27
+    label: Full papers (final extension)
+  - kind: notification
+    date: 2025-05-05
+    label: Final extension
+  - kind: camera_ready
+    date: 2025-06-01
+    label: Camera-ready and early registration (final extension)
+- year: 2027
+  start: 2027-06-09
+  end: 2027-06-11
+  location: Ljubljana, Slovenia
+  url: https://iwssip2026.fe.uni-lj.si/
+sources:
+- https://www.iwssip.org/
+- https://www.iwssip.org/archive/2025/
+- https://iwssip2026.fe.uni-lj.si/
+- https://iwssip2026.fe.uni-lj.si/call-for-papers.html
+- https://portal.core.edu.au/conf-ranks/?search=IWSSIP&by=all&source=ICORE2026
+unverified:
+- Exact 2027 deadlines (the site only says paper submission in April 2027 and camera-ready in May 2027)
+- Whether the 2027 proceedings will go to IEEE Xplore (the CFP uses the IEEE Xplore PDF format; conference ID to be
+  confirmed)
+last_verified: 2026-10-11

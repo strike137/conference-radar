@@ -1,0 +1,56 @@
+id: gpce
+name: GPCE
+full_name: 'ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences'
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN (GPCE Steering Committee)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://2026.ecoop.org/home/gpce-2026
+  dblp: https://dblp.org/db/conf/gpce/index.html
+notes:
+- At the intersection of programming languages and software engineering; code generation, metaprogramming, DSLs
+  (25th edition in 2026)
+- Proceedings open access in the ACM Digital Library
+- Co-located with SPLASH until 2024 and with ECOOP since 2025 (Bergen 2025, Brussels 2026)
+- Double-blind review with author response; full papers 10 pages, short papers 5 pages, tool demos and generative
+  pearls
+- One-day program in 2026
+- 'ICORE2026 lists it as B under its older name (Generative Programming and Component Engineering)'
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-06-29
+  location: Brussels, Belgium (co-located with ECOOP 2026)
+  url: https://2026.ecoop.org/home/gpce-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-12
+    tz: AoE
+  - kind: notification
+    date: 2026-04-23
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-14
+    tz: AoE
+sources:
+- https://2026.ecoop.org/home/gpce-2026
+- https://conf.researchr.org/series/gpce
+- https://doi.org/10.1145/3814885
+- https://portal.core.edu.au/conf-ranks/?search=GPCE&by=all&source=ICORE2026
+unverified:
+- GPCE 2027 not announced yet
+- CCF 2026 list could not be loaded from ccf.org.cn (blocked automated access) and the venue is not in the ccfddl
+  mirror; rank.ccf left out
+last_verified: 2026-10-11

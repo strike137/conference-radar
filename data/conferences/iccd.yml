@@ -1,0 +1,89 @@
+id: iccd
+name: ICCD
+full_name: IEEE International Conference on Computer Design
+type: conference
+tier: major
+areas: [systems, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society, with a steering committee; local host rotates (2026 HKUST)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+  ccf: B
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10, 11]
+links:
+  website: https://www.iccd-conf.com/
+  dblp: https://dblp.org/db/conf/iccd/index.html
+notes:
+- Sponsored by IEEE and the IEEE Computer Society; 44th edition in 2026
+- Six tracks covering computing systems, compilers and tool chains, hardware architectures, test, verification and
+  security, EDA, and logic and circuit design
+- Double-blind review; 8-page submissions, some papers accepted as 4-page short papers
+- Each accepted paper needs a full registration and an in-person presentation to appear in the proceedings
+- Proceedings in IEEE Xplore
+- Mostly held in the USA (Lake Tahoe 2022, Washington DC 2023, Dallas 2025), with Milan 2024 and Hong Kong 2026
+- CORE C (ICORE2026) but CCF B; abstract registration one week before the full paper deadline, both strictly final
+- Also has a student research forum (PhD forum) with 2-page extended abstracts
+editions:
+- year: 2025
+  start: 2025-11-10
+  end: 2025-11-12
+  location: Dallas, USA
+  url: https://www.iccd-conf.com/ICCD_Previous_Editions.html
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-18
+  location: Hong Kong SAR, China
+  url: https://www.iccd-conf.com/home.html
+  deadlines:
+  - kind: abstract
+    date: 2026-06-03
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-06-10
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-07-02
+    time: "23:59"
+    tz: AoE
+    label: Special session proposals
+  - kind: other
+    date: 2026-07-04
+    time: "23:59"
+    tz: AoE
+    label: Tutorial proposals
+  - kind: notification
+    date: 2026-08-20
+  - kind: camera_ready
+    date: 2026-09-17
+  - kind: other
+    date: 2026-10-20
+    time: "23:59"
+    tz: AoE
+    label: Student research forum (PhD forum) extended abstracts (extended)
+sources:
+- https://www.iccd-conf.com/
+- https://www.iccd-conf.com/home.html
+- https://www.iccd-conf.com/Call_for_papers.html
+- https://www.iccd-conf.com/ICCD_Previous_Editions.html
+- https://www.iccd-conf.com/Steering_Committee1.html
+- https://iccd-conf.com/2024/Home.html
+- https://iccd-conf.com/2023/Home.html
+- https://iccd-conf.com/2022/Home.html
+- https://iccd-conf.com/2021/Home.html
+- https://portal.core.edu.au/conf-ranks/?search=ICCD&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
+- The Call for Papers page still shows the 2025 text; 2026 dates taken from the home page important dates table
+- Acceptance rate not stated on the official site
+- ICCD 2027 dates and location not announced yet
+last_verified: 2026-10-11

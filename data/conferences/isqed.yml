@@ -1,0 +1,63 @@
+id: isqed
+name: ISQED
+full_name: International Symposium on Quality Electronic Design
+type: conference
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: International Society for Quality Electronic Design (ISQED), technical co-sponsors IEEE CASS and IEEE EDS
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [10]
+  conference_months: [4]
+links:
+  website: https://www.isqed.org/
+notes:
+- Produced and sponsored by the International Society for Quality Electronic Design; technical co-sponsors IEEE CASS and IEEE EDS, in cooperation with ACM SIGDA
+- Covers electronic design automation, circuits, verification, reliability, hardware security and AI hardware
+- Proceedings in IEEE Xplore and indexed in Scopus (per the CFP and the 2026 program booklet)
+- Held in the San Francisco Bay Area; 2025 and 2026 at the Seven Hills Conference Center, San Francisco State University
+- Hybrid format with limited virtual participation in 2026
+- Not ranked in ICORE2026 and not in the CCF list
+editions:
+- year: 2026
+  start: 2026-04-08
+  end: 2026-04-10
+  location: San Francisco, USA
+  url: https://www.isqed.org/English/Archives/2026/index.html
+- year: 2027
+  url: https://www.isqed.org/
+  deadlines:
+  - kind: other
+    date: 2026-10-22
+    label: Tutorial/workshop proposals
+  - kind: submission
+    date: 2026-10-25
+    time: "23:59"
+    tz: PDT
+    label: Papers (extended)
+  - kind: notification
+    date: 2027-01-22
+  - kind: camera_ready
+    date: 2027-02-17
+  - kind: other
+    date: 2027-03-20
+    label: Presentation video and speaker bio
+sources:
+- https://www.isqed.org/
+- https://www.isqed.org/English/Conference/Call_for_Papers.html
+- https://www.isqed.org/English/Archives/2026/index.html
+- https://www.isqed.org/English/Archives/2026/Program_At-a-Glance_2026.html
+- https://www.isqed.org/English/Collaterals/Documents/ISQED2026-Program-Booklet_rev1.pdf
+- https://www.isqed.org/English/Lodging_Travel/Lodging_Travel.html
+- https://portal.core.edu.au/conf-ranks/?search=ISQED&by=all&source=ICORE2026
+unverified:
+- ISQED 2027 (28th) dates and venue not yet posted on the official site as of 2026-10-11
+- 'Paper deadline time: the CFP says "Midnight, US Pacific Time", recorded as 23:59 PDT'
+- Original (pre-extension) paper deadline not shown on the CFP
+last_verified: 2026-10-11

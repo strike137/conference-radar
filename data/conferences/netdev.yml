@@ -1,0 +1,65 @@
+id: netdev
+name: Netdev
+full_name: 'Netdev: The Technical Conference on Linux Networking'
+type: industry
+tier: minor
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: The NetDev Society
+organizer_country: [canada]
+proceedings: Netdev website (talk papers, slides and videos posted after the event)
+archival: false
+fee: 218 EUR physical, 35 EUR student, 66 EUR virtual (2026, early bird, excl. VAT; normal 435 / 87 / 131 EUR)
+typical:
+  deadline_months: [1, 6]
+  conference_months: [3, 7]
+links:
+  website: https://netdevconf.info/
+notes:
+- Run by the NetDev Society, a volunteer Canadian non-profit, since 2015; developer conference of the Linux kernel
+  networking community
+- Editions are numbered in hex (0x19 in 2025, 0x1A in 2026); location moves between Europe and North America
+- Blind review of talk, workshop and tutorial proposals by a program committee; working code is preferred
+- 0x1A (2026) was hybrid; virtual attendance is cheap and students get large discounts; bursaries available
+- Papers and slides are posted on the session pages; not a formal publication
+editions:
+- year: 2025
+  start: 2025-03-10
+  end: 2025-03-13
+  location: Zagreb Fair, Zagreb, Croatia
+  url: https://netdevconf.info/0x19/
+  deadlines:
+  - kind: submission
+    date: 2025-01-17
+    label: Call for submissions closes
+  - kind: notification
+    date: 2025-01-26
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-16
+  location: Università Roma Tre, Rome, Italy (hybrid)
+  url: https://netdevconf.info/0x1A/
+  deadlines:
+  - kind: submission
+    date: 2026-06-01
+    label: Call for submissions closes
+  - kind: notification
+    date: 2026-06-10
+  - kind: camera_ready
+    date: 2026-07-06
+    label: Slides and papers
+sources:
+- https://netdevconf.info/
+- https://netdevconf.info/0x1A/
+- https://netdevconf.info/0x1A/news/netdev-0x1a-call-for-submissions.html
+- https://netdevconf.info/0x1A/pages/submit-proposal.html
+- https://netdevconf.info/0x1A/pages/registration.html
+- https://netdevconf.info/0x1A/pages/about-us.html
+- https://netdevconf.info/0x19/
+- https://netdevconf.info/0x19/sessions/talk/irq-suspension-a-new-efficient-mechanism-for-packet-delivery.html
+- https://portal.core.edu.au/conf-ranks/?search=Netdev&by=all&source=ICORE2026
+unverified:
+- Netdev 0x1B (2027) dates and location not yet announced
+last_verified: 2026-10-11

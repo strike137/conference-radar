@@ -1,0 +1,85 @@
+id: icfp
+name: ICFP
+full_name: ACM SIGPLAN International Conference on Functional Programming
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: ACM DL (PACMPL issue ICFP)
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [2]
+  conference_months: [8, 9, 10]
+links:
+  website: https://icfp26.sigplan.org/
+  dblp: https://dblp.org/db/conf/icfp/index.html
+notes:
+- Main venue for functional programming, sponsored by ACM SIGPLAN
+- Papers are published in the PACMPL issue ICFP (Proceedings of the ACM on Programming Languages) in the ACM DL
+- Double-blind review in two stages; accepted papers are conditionally accepted and must be revised with a cover letter
+- Up to 25 pages for full papers and functional pearls, 12 pages for experience reports, excluding bibliography
+- Co-located with the Haskell Symposium and many workshops (OCaml, ML Family, Erlang, Scheme, FARM, miniKanren, ...)
+- Held in Ljubljana 2022, Seattle 2023, Singapore 2025 (with SPLASH), Indianapolis 2026 and Nijmegen 2027
+- CORE A (ICORE2026), CCF B
+editions:
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-29
+  location: Indianapolis, Indiana, USA
+  url: https://icfp26.sigplan.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-19
+    tz: AoE
+  - kind: notification
+    date: 2026-05-14
+    label: Conditional acceptance
+  - kind: other
+    date: 2026-06-03
+    tz: AoE
+    label: Revised papers due
+  - kind: notification
+    date: 2026-06-10
+    label: Final decisions
+  - kind: camera_ready
+    date: 2026-07-01
+    tz: AoE
+- year: 2027
+  start: 2027-09-26
+  end: 2027-10-01
+  location: Nijmegen, Netherlands
+  url: https://icfp27.sigplan.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-25
+    tz: AoE
+  - kind: notification
+    date: 2027-05-07
+    label: Conditional acceptance
+  - kind: other
+    date: 2027-06-01
+    tz: AoE
+    label: Revised papers due
+  - kind: notification
+    date: 2027-06-11
+    label: Final notification
+  - kind: camera_ready
+    date: 2027-07-01
+    tz: AoE
+sources:
+- https://icfp26.sigplan.org/
+- https://icfp26.sigplan.org/track/icfp-2026-icfp-papers
+- https://icfp27.sigplan.org/
+- https://icfp27.sigplan.org/track/icfp-2027-icfp-papers
+- https://icfp25.sigplan.org/
+- https://www.sigplan.org/Conferences/ICFP/
+- https://portal.core.edu.au/conf-ranks/?search=ICFP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/TCSE_SS_PDL/
+last_verified: 2026-10-11

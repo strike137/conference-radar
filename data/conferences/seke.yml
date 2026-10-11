@@ -1,0 +1,81 @@
+id: seke
+name: SEKE
+full_name: International Conference on Software Engineering and Knowledge Engineering
+type: conference
+tier: minor
+areas: [software, ai, data]
+region: north-america
+language: english
+frequency: annual
+organizer: KSI Research Inc.
+organizer_country: [usa]
+proceedings: SEKE Proceedings (KSI Research, ISSN 2325-9000)
+archival: true
+indexing: [DBLP, Scopus, Inspec, Compendex]
+rank:
+  core: C
+  ccf: C
+acceptance_rate: 40% (2026, conference and workshop papers combined)
+fee: 595 USD early, 695 USD late (2026, same for in-person and virtual)
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10]
+links:
+  website: https://ksiresearch.org/seke/
+  dblp: https://dblp.org/db/conf/seke/index.html
+notes:
+- Organized and sponsored by KSI Research Inc. (Pittsburgh, USA); small and student-friendly
+- Hybrid format with a short in-person part followed by about a week of virtual sessions at the KSIR Virtual Conference Center
+- Proceedings published by KSI Research (ISSN 2325-9000 print, 2325-9086 online), PDFs in the SEKE proceedings archive; indexed by DBLP, Scopus, Inspec and Compendex
+- Full papers up to 6 pages double-column; extra pages cost 100 USD (one) or 250 USD (two)
+- Acceptance rate around 35 to 40% in recent years (36% in 2025, 40% in 2026)
+- 'Recent in-person hosts: South San Francisco (2023, 2024), Pompeii, Italy (2025), Toronto (2026); fully virtual 2020 to 2022'
+- CORE C (ICORE2026), CCF C
+editions:
+- year: 2025
+  start: 2025-09-29
+  end: 2025-10-06
+  location: Pompeii, Italy and virtual
+  url: https://ksiresearch.org/seke/seke25.html
+  deadlines:
+  - kind: submission
+    date: 2025-05-15
+    time: "23:59"
+    tz: EST
+    label: Papers (extended hard deadline)
+  - kind: notification
+    date: 2025-06-20
+  - kind: camera_ready
+    date: 2025-07-20
+- year: 2026
+  start: 2026-10-01
+  end: 2026-10-10
+  location: Toronto, Canada and virtual
+  url: https://ksiresearch.org/seke/seke26.html
+  deadlines:
+  - kind: submission
+    date: 2026-05-10
+    time: "23:59"
+    tz: EST
+    label: Papers
+  - kind: notification
+    date: 2026-06-20
+  - kind: camera_ready
+    date: 2026-07-20
+sources:
+- https://ksiresearch.org/seke/seke26.html
+- https://ksiresearch.org/seke/seke26main.html
+- https://ksiresearch.org/seke/seke26left.html
+- http://ksiresearchorg.ipage.com/seke/seke26regis.html
+- https://ksiresearch.org/seke/seke25main.html
+- https://ksiresearch.org/seke/sekeproc.html
+- https://ksiresearch.org/seke/skhistory.html
+- https://ksiresearch.org/seke/skrate.html
+- https://portal.core.edu.au/conf-ranks/?search=SEKE&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+- The CFP says "Midnight EST" for the submission deadline; recorded as 23:59 EST of that day
+- SEKE 2027 not announced yet as of 2026-10-11
+- No student registration rate is listed on the 2026 registration page
+last_verified: 2026-10-11

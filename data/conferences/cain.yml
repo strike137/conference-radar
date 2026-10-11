@@ -1,0 +1,77 @@
+id: cain
+name: CAIN
+full_name: IEEE/ACM International Conference on AI Engineering - Software Engineering for AI
+type: conference
+tier: major
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE/ACM (co-located with ICSE)
+organizer_country: [international]
+proceedings: IEEE Xplore / ACM DL (ICSE Co-located Event Proceedings)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [10]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/home/cain-2027
+notes:
+- Software engineering for AI systems (AI engineering); co-located with ICSE every year and moves with it
+- Papers appear in the ICSE Co-located Event Proceedings in the IEEE and ACM digital libraries
+- "Full papers 10 pages plus 2 of references; short papers 5 pages plus references"
+- Double-anonymous review with three reviews per paper; firm deadline with no extensions
+- Also has industry, journal-first, doctoral symposium and poster tracks
+- 2026 edition was the 5th (Rio de Janeiro, with ICSE 2026); 2027 is the 6th (Dublin, with ICSE 2027)
+- At least one author must register and present in person
+editions:
+- year: 2026
+  start: 2026-04-12
+  end: 2026-04-13
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/cain-2026
+  deadlines:
+  - kind: abstract
+    date: 2025-10-16
+    tz: AoE
+  - kind: submission
+    date: 2025-10-23
+    tz: AoE
+  - kind: notification
+    date: 2026-01-05
+  - kind: camera_ready
+    date: 2026-01-26
+- year: 2027
+  location: Dublin, Ireland
+  url: https://conf.researchr.org/home/cain-2027
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2026-11-06
+    tz: AoE
+    label: Doctoral symposium, posters and demos, industry track
+  - kind: notification
+    date: 2027-01-11
+    label: Research track
+  - kind: camera_ready
+    date: 2027-01-29
+    label: Research track
+sources:
+- https://conf.researchr.org/home/cain-2026
+- https://conf.researchr.org/track/cain-2026/cain-2026-call-for-papers
+- https://conf.researchr.org/track/cain-2026/cain-2026-cain-program
+- https://conf.researchr.org/home/cain-2027
+- https://conf.researchr.org/track/cain-2027/cain-2027-call-for-papers
+- https://conf.researchr.org/track/cain-2027/cain-2027-doctoral-symposium
+- https://conf.researchr.org/track/cain-2027/cain-2027-call-for-posters
+- https://conf.researchr.org/track/cain-2027/cain-2027-industry-track
+- https://portal.core.edu.au/conf-ranks/?search=CAIN&by=all&source=ICORE2026
+unverified:
+- CAIN 2027 conference dates not yet announced (ICSE 2027 runs Apr 25 to May 1, 2027 in Dublin)
+- CAIN 2026 dates taken from the program (sessions on Apr 12 and 13); the site header shows the whole ICSE week
+last_verified: 2026-10-11

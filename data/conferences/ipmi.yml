@@ -1,0 +1,68 @@
+id: ipmi
+name: IPMI
+full_name: Information Processing in Medical Imaging
+type: conference
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IPMI conference series (volunteer chairs per edition)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [5, 6, 7]
+links:
+  website: https://editions.ipmi-conf.org
+notes:
+- Biennial (odd years) since 1969; one of the oldest medical image analysis venues, widely regarded as highly
+  selective
+- Proceedings in Springer LNCS (2025 in two volumes); a subset of papers also goes to a MELBA journal special issue
+- Known for a retreat-like atmosphere at remote venues with in-depth discussion of every paper
+- Papers up to 12 pages excluding references in Springer LNCS format, double-blind; deadlines are not extended
+- Not listed in CORE ICORE2026 or the CCF 2026 list, so tier is minor under the rank rules despite its reputation
+- Rotates between North America, Europe and elsewhere (Bariloche 2023, Kos 2025, Lake Stukely, Canada 2027)
+editions:
+- year: 2025
+  start: 2025-05-25
+  end: 2025-05-30
+  location: Kos, Greece
+  url: https://ipmi2025.org/
+  deadlines:
+  - kind: abstract
+    date: 2024-12-09
+    time: "23:59"
+    tz: PST
+    label: Paper registration
+  - kind: submission
+    date: 2024-12-16
+    time: "23:59"
+    tz: PST
+- year: 2027
+  start: 2027-06-27
+  end: 2027-07-02
+  location: Lake Stukely (Orford, Quebec), Canada
+  url: https://2027.ipmi-conf.org
+  deadlines:
+  - kind: abstract
+    date: 2026-12-07
+    tz: AoE
+  - kind: submission
+    date: 2026-12-14
+    label: Full papers (no extensions)
+  - kind: notification
+    date: 2027-02-15
+sources:
+- https://ipmi2025.org/
+- https://ipmi2025.org/call-for-papers.html
+- https://ipmi2025.org/organization.html
+- https://editions.ipmi-conf.org
+- https://2027.ipmi-conf.org
+- https://link.springer.com/book/10.1007/978-3-031-96628-6
+- https://link.springer.com/book/10.1007/978-3-031-96625-5
+- https://portal.core.edu.au/conf-ranks/?search=IPMI&by=all&source=ICORE2026
+unverified:
+- Time zone of the IPMI 2027 full paper deadline not stated
+last_verified: 2026-10-11

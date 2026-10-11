@@ -1,0 +1,66 @@
+id: sas-2
+name: SAS
+full_name: International Static Analysis Symposium
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SAS Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [5]
+  conference_months: [10]
+links:
+  website: https://conf.researchr.org/home/sas-2026
+  dblp: https://dblp.org/db/conf/sas/index.html
+notes:
+- Long-running venue for static analysis and abstract interpretation (33rd edition in 2026)
+- Proceedings in Springer LNCS (LNCS 16977 for 2026)
+- Co-located with SPLASH every year since at least 2020 (SPLASH/ISSTA in 2026)
+- 'Recent hosts: Chicago (2021), Auckland (2022), Cascais (2023), Pasadena (2024), Singapore (2025), Oakland (2026)'
+- Regular papers double-blind, NEAT papers single-blind; no page limit; optional artifact evaluation concurrent with
+  review
+- 2026 special topics on static analysis and AI and on static analysis and education; Radhia Cousot Young Researcher
+  Best Paper Award
+- CORE B (ICORE2026); CCF B
+- Not to be confused with the Kaspersky Security Analyst Summit (id sas)
+editions:
+- year: 2026
+  start: 2026-10-06
+  end: 2026-10-08
+  location: Oakland, California, USA (co-hosted with SPLASH/ISSTA 2026)
+  url: https://conf.researchr.org/home/sas-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-01
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-05-07
+    tz: AoE
+  - kind: other
+    date: 2026-05-08
+    tz: AoE
+    label: Artifact submission
+  - kind: notification
+    date: 2026-07-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-20
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/sas-2026
+- https://conf.researchr.org/series/sas
+- https://portal.core.edu.au/conf-ranks/?search=SAS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list; ccf.org.cn blocked automated access
+- SAS 2027 not announced yet
+last_verified: 2026-10-11

@@ -1,0 +1,50 @@
+id: iwomp
+name: IWOMP
+full_name: International Workshop on OpenMP
+type: workshop
+tier: minor
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: IWOMP Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10]
+links:
+  website: https://www.iwomp.org/
+notes:
+- Annual workshop on OpenMP research and practice since 2005; proceedings in Springer LNCS
+- Not ranked in CORE (ICORE2026); run by an international steering committee chaired by the OpenMP ARB's Michael Klemm
+- Submissions up to 12 pages plus references, final papers up to 15 pages including references
+- Deadlines are usually extended a few weeks (2026 moved from May 29 to June 12)
+- Rotates between the USA, Europe and Asia-Pacific (Bristol 2023, Perth 2024, Charlotte 2025, Vienna 2026 co-located with EuroMPI)
+editions:
+- year: 2026
+  start: 2026-10-07
+  end: 2026-10-09
+  location: Vienna, Austria
+  url: https://www.iwomp.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    tz: AoE
+    label: Extended from 2026-05-29 and 2026-06-05
+  - kind: notification
+    date: 2026-07-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-31
+    tz: AoE
+sources:
+- https://www.iwomp.org/
+- https://www.iwomp.org/call-for-papers/
+- https://www.iwomp.org/archive/
+- https://www.iwomp.org/steering/
+- https://portal.core.edu.au/conf-ranks/?search=IWOMP&by=all&source=ICORE2026
+unverified:
+- IWOMP 2027 not yet announced
+last_verified: 2026-10-11

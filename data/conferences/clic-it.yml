@@ -1,0 +1,66 @@
+id: clic-it
+name: CLiC-it
+full_name: Italian Conference on Computational Linguistics
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: mixed
+frequency: annual
+organizer: AILC (Italian Association of Computational Linguistics) with a host university
+organizer_country: [europe]
+proceedings: CEUR-WS, ACL Anthology
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9, 11, 12]
+links:
+  website: https://www.ai-lc.it/conferenze/clic-it/
+notes:
+- Annual conference of the Italian Association of Computational Linguistics (AILC); 2026 was the 12th edition
+- Papers in English or Italian (abstract in English), up to 11 pages plus unlimited references; single-blind review
+- Proceedings in CEUR-WS (2025 -> Vol-4112) and also in the ACL Anthology
+- "Research communications track: papers accepted at CORE A* conferences or Q1 journals can be presented, not published"
+- Best student paper winners are invited to submit an extended version to the Italian Journal of Computational
+  Linguistics (IJCoL)
+- Held in Italy every year (Milan 2022, Venice 2023, Pisa 2024, Cagliari 2025, Palermo 2026)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-09-24
+  end: 2025-09-26
+  location: Cagliari, Italy
+  url: https://clic2025.unica.it/
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-16
+  location: Palermo, Italy
+  url: https://clic2026.unipa.it/
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+    time: "23:59"
+    tz: CEST
+    label: Papers and research communications (extended from 2026-05-29)
+  - kind: notification
+    date: 2026-07-17
+    time: "23:59"
+    tz: CEST
+  - kind: camera_ready
+    date: 2026-07-31
+    time: "23:59"
+    tz: CEST
+sources:
+- https://clic2026.unipa.it/
+- https://clic2026.unipa.it/important-dates/
+- https://clic2026.unipa.it/call-for-papers/
+- https://clic2025.unica.it/
+- https://clic2025.unica.it/proceedings/
+- https://ceur-ws.org/Vol-4112/
+- https://www.ai-lc.it/conferenze/clic-it/
+- https://aclanthology.org/venues/clicit/
+- https://portal.core.edu.au/conf-ranks/?search=CLiC-it&by=all&source=ICORE2026
+unverified:
+- CLiC-it 2027 host city and dates not yet announced
+- 2025 deadlines and acceptance rates not checked
+last_verified: 2026-10-11

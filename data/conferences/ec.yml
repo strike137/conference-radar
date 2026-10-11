@@ -1,0 +1,69 @@
+id: ec
+name: EC
+full_name: Entertainment Computing Symposium (IPSJ SIG-EC)
+name_local: エンタテインメントコンピューティングシンポジウム
+type: conference
+tier: domestic
+areas: [general]
+region: japan
+language: japanese
+frequency: annual
+organizer: IPSJ SIG on Entertainment Computing (SIG-EC)
+organizer_country: [japan]
+proceedings: IPSJ Digital Library (情報学広場)
+archival: false
+typical:
+  deadline_months: [5, 6, 7]
+  conference_months: [8, 9]
+links:
+  website: https://ec2026.entcomp.org/
+notes:
+- Annual symposium of the IPSJ SIG on Entertainment Computing, held since 2003; EC2026 was the 24th edition
+- Three tracks; peer-reviewed oral (6 to 10 pages, single-blind), regular oral without review (4 to 10 pages) and
+  demo/poster only (2 to 6 pages); every presentation includes a demo or poster
+- Papers are published in the IPSJ Digital Library (情報学広場); reviewed papers count as SIG technical reports, so
+  extended versions can go to IPSJ journals (non-archival)
+- A special EC issue of the Journal of IPSJ is planned for extended papers
+- Papers in Japanese; held at a university in late August or early September
+- EC2025 was held back to back with ICEC 2025 at the same venue, with an EC international session during ICEC
+editions:
+- year: 2025
+  start: 2025-08-25
+  end: 2025-08-27
+  location: Nihon University College of Humanities and Sciences, Setagaya, Tokyo, Japan
+  url: https://ec2025.entcomp.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-30
+    label: Peer-reviewed oral application (extended)
+  - kind: submission
+    date: 2025-07-18
+    label: Non-reviewed manuscripts
+- year: 2026
+  start: 2026-09-01
+  end: 2026-09-03
+  location: Kyoto Sangyo University, Kyoto, Japan
+  url: https://ec2026.entcomp.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-29
+    label: Peer-reviewed oral application (extended from 2026-05-22)
+  - kind: submission
+    date: 2026-06-12
+    label: Peer-reviewed oral manuscript
+  - kind: abstract
+    date: 2026-06-19
+    label: Regular oral and demo/poster application
+  - kind: submission
+    date: 2026-07-17
+    label: Regular oral and demo/poster manuscript
+sources:
+- https://ec2026.entcomp.org/
+- https://ec2026.entcomp.org/cfp/
+- https://ec2026.entcomp.org/program/
+- https://ec2025.entcomp.org/
+- https://portal.core.edu.au/conf-ranks/?search=Entertainment&by=all&source=ICORE2026
+unverified:
+- Not found in the ICORE2026 portal search (ICEC there is the international IFIP conference, a different venue)
+- EC2027 dates and location not yet announced as of 2026-10-11
+last_verified: 2026-10-11

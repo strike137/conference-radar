@@ -1,0 +1,66 @@
+id: ets
+name: ETS
+full_name: IEEE European Test Symposium
+type: conference
+tier: major
+areas: [systems, general]
+region: europe
+language: english
+frequency: annual
+organizer: IEEE Computer Society Test Technology Technical Council (TTTC)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [12, 1]
+  conference_months: [5]
+links:
+  website: https://www.ieee-ets.org/
+  dblp: https://dblp.org/db/conf/ets/index.html
+notes:
+- Technically co-sponsored by the IEEE Computer Society and its Test Technology Technical Council (TTTC); held annually since 1996 (called ETW until 2003)
+- Covers testing of electronic circuits and systems (VLSI test, design for test, reliability)
+- Formal proceedings indexed in IEEE Xplore; an informal digest collects other contribution types
+- Full papers up to 6 pages, short papers 4 pages presented as posters; single-blind review
+- Held in late May in a different European city each year (Tallinn 2025, Chania 2026, London 2027)
+- CORE B (ICORE2026); CCF C
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-29
+  location: Chania, Crete, Greece (Minoa Palace Resort)
+  url: https://ets2026.uniwa.gr/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-15
+    label: Title, abstract and authors
+  - kind: submission
+    date: 2026-01-14
+    label: Full paper (extended)
+  - kind: notification
+    date: 2026-02-20
+  - kind: camera_ready
+    date: 2026-03-31
+    label: Extended; author registration due the same day
+- year: 2027
+  start: 2027-05-24
+  end: 2027-05-28
+  location: London, UK (Senate House, University of London)
+  url: https://www.ets2027.co.uk/
+sources:
+- https://www.ieee-ets.org/
+- https://ets2026.uniwa.gr/
+- https://ets2026.uniwa.gr/call-for-papers/
+- https://ets2026.uniwa.gr/proceedings/
+- https://ets2025.taltech.ee/
+- https://www.ets2027.co.uk/
+- https://portal.core.edu.au/conf-ranks/?search=ETS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- ETS 2027 deadlines not yet published on the official site as of 2026-10-11
+- IEEE Xplore indexing is stated on the ETS'25 site; the ETS'26 pages only say formal electronic proceedings
+- CCF rank checked via the ccfddl mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-11

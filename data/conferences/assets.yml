@@ -1,0 +1,109 @@
+id: assets
+name: ASSETS
+full_name: International ACM SIGACCESS Conference on Computers and Accessibility
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGACCESS
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+  ccf: C
+typical:
+  deadline_months: [4]
+  conference_months: [10]
+links:
+  website: https://assets26.sigaccess.org/
+  dblp: https://dblp.org/db/conf/assets/index.html
+notes:
+- Organized by ACM SIGACCESS; the main research conference on computing and accessibility
+- Technical papers, posters and demos, experience reports and student research competition entries are archived in the
+  ACM Digital Library (ACM Open; reduced APC of 250 USD for members, 350 USD for non-members in 2026)
+- Single technical paper deadline in April with a rebuttal phase in June; an optional mentoring program for first-time
+  authors
+- At least one author per accepted submission must register as the in-person presenter by the early registration
+  deadline; hybrid attendance for others
+- CORE A (ICORE2026), CCF C
+- Held worldwide in late October (Denver 2025, Porto 2026)
+editions:
+- year: 2025
+  start: 2025-10-26
+  end: 2025-10-29
+  location: Denver, Colorado, USA
+  url: https://assets25.sigaccess.org/
+- year: 2026
+  start: 2026-10-25
+  end: 2026-10-28
+  location: Porto, Portugal (hybrid)
+  url: https://assets26.sigaccess.org/
+  deadlines:
+  - kind: other
+    date: 2026-03-11
+    time: "23:59"
+    tz: AoE
+    label: Technical papers mentor request
+  - kind: submission
+    date: 2026-04-22
+    time: "23:59"
+    tz: AoE
+    label: Technical papers
+  - kind: other
+    date: 2026-06-03
+    time: "23:59"
+    tz: AoE
+    label: Reviews released, rebuttal opens
+  - kind: submission
+    date: 2026-06-10
+    time: "23:59"
+    tz: AoE
+    label: Experience reports
+  - kind: notification
+    date: 2026-06-24
+    time: "23:59"
+    tz: AoE
+    label: Technical papers
+  - kind: submission
+    date: 2026-06-24
+    time: "23:59"
+    tz: AoE
+    label: Student research competition
+  - kind: submission
+    date: 2026-07-01
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos
+  - kind: notification
+    date: 2026-07-15
+    time: "23:59"
+    tz: AoE
+    label: Experience reports
+  - kind: camera_ready
+    date: 2026-07-22
+    time: "23:59"
+    tz: AoE
+    label: Technical papers and experience reports
+  - kind: notification
+    date: 2026-08-12
+    label: Posters and demos (moved from 2026-08-05)
+  - kind: camera_ready
+    date: 2026-08-21
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos (moved from 2026-08-19)
+sources:
+- https://assets26.sigaccess.org/
+- https://assets26.sigaccess.org/call_for_papers.html
+- https://assets25.sigaccess.org/
+- https://www.sigaccess.org/assets/
+- https://portal.core.edu.au/conf-ranks/?search=ASSETS&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/HCIAndPC/
+unverified:
+- ASSETS 2027 dates and location not announced as of 2026-10-11
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- Paper length and whether review is anonymous are not stated on the CFP page
+last_verified: 2026-10-11

@@ -1,0 +1,49 @@
+id: ebpf
+name: eBPF
+full_name: ACM SIGCOMM Workshop on eBPF and Kernel Extensions
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCOMM workshop; general and steering co-chairs Sebastiano Miano (Path Networks), Srinivas Narayana
+  (Rutgers University), Paul Chaignon (Isovalent at Cisco), Aurojit Panda (New York University) and Gianni Antichi
+  (Politecnico di Milano)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://conferences.sigcomm.org/sigcomm/2025/workshop/ebpf/
+notes:
+- Workshop on eBPF and kernel extensions co-located with ACM SIGCOMM; the 3rd edition was at SIGCOMM 2025 in Coimbra
+- Workshop papers appear in the ACM Digital Library as part of the official proceedings
+- Research papers up to 6 pages plus references, 2-page extended abstracts presented as lightning talks;
+  double-blind; at least one author must attend
+- No eBPF workshop is listed among the SIGCOMM 2026 workshops
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-09-08
+  end: 2025-09-08
+  location: Coimbra, Portugal
+  url: https://conferences.sigcomm.org/sigcomm/2025/workshop/ebpf/
+  deadlines:
+  - kind: submission
+    date: 2025-05-23
+  - kind: notification
+    date: 2025-06-23
+  - kind: camera_ready
+    date: 2025-07-23
+sources:
+- https://conferences.sigcomm.org/sigcomm/2025/workshop/ebpf/
+- https://conferences.sigcomm.org/sigcomm/2025/
+- https://conferences.sigcomm.org/sigcomm/2026/
+- https://conferences.sigcomm.org/sigcomm/2026/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=eBPF&by=all&source=ICORE2026
+unverified:
+- Whether the workshop continues in 2026 or later (not part of SIGCOMM 2026)
+last_verified: 2026-10-11

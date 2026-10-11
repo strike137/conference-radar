@@ -1,0 +1,70 @@
+id: dcase
+name: DCASE
+full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: DCASE community (steering group)
+organizer_country: [international]
+proceedings: DCASE Workshop proceedings (open, Zenodo DOI and ISBN)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10, 11]
+links:
+  website: https://dcase.community/
+notes:
+- Annual workshop of the DCASE community, held together with the yearly DCASE challenge on sound event detection
+  and acoustic scene classification
+- Proceedings freely available on Zenodo with a DOI and ISBN (2025 ISBN 978-84-09-77652-8)
+- Challenge participants submit technical reports; workshop papers are a separate peer-reviewed track
+- About 100 to 130 registered participants and 66 to 69% paper acceptance in recent in-person editions; industry
+  sponsors include Google and Apple
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+- Held in Europe, Japan and the USA (Tampere 2023, Tokyo 2024, Barcelona 2025, Boston 2026)
+editions:
+- year: 2025
+  start: 2025-10-30
+  end: 2025-10-31
+  location: Barcelona, Spain
+  url: https://dcase.community/workshop2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-04
+  - kind: submission
+    date: 2025-07-11
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-21
+- year: 2026
+  start: 2026-10-28
+  end: 2026-10-29
+  location: Medford (Boston), MA, USA
+  url: https://dcase.community/workshop2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-05
+  - kind: submission
+    date: 2026-07-12
+  - kind: notification
+    date: 2026-09-06
+  - kind: camera_ready
+    date: 2026-09-20
+sources:
+- https://dcase.community/workshop2025/
+- https://dcase.community/workshop2025/call-for-papers
+- https://dcase.community/workshop2025/proceedings
+- https://dcase.community/workshop2026/
+- https://dcase.community/events
+- https://dcase.community/community_info
+- https://portal.core.edu.au/conf-ranks/?search=DCASE&by=all&source=ICORE2026
+unverified:
+- 2026 dates differ on the official page (27-29 October in the schedule, 28-29 October in the text; 27 October is the
+  AIR workshop at MIT)
+- IEEE AASP sponsorship not stated on the official pages
+- Deadline times and time zones not stated
+last_verified: 2026-10-11

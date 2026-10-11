@@ -1,0 +1,97 @@
+id: ieee-vis
+name: IEEE VIS
+full_name: IEEE Visualization and Visual Analytics Conference (VIS)
+type: conference
+tier: major
+areas: [data, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society and VGTC (Visualization and Graphics Technical Community)
+organizer_country: [international]
+proceedings: IEEE TVCG (full papers, special issue) and IEEE Xplore (short papers)
+archival: true
+rank:
+  core: A
+  ccf: A
+typical:
+  deadline_months: [3, 4]
+  conference_months: [10, 11]
+links:
+  website: https://ieeevis.org/
+  dblp: https://dblp.org/db/conf/visualization/index.html
+notes:
+- Flagship visualization conference, sponsored by the IEEE Computer Society and VGTC
+- ICORE2026 A (listed as IEEE Visualization), CCF A
+- Full papers appear in a special issue of IEEE TVCG; short papers go into the conference proceedings in IEEE Xplore
+- Full papers have a mandatory abstract deadline and two review cycles (first notification, revision, final decision)
+- Rotates worldwide (Vienna 2025, Boston 2026); 2026 also has satellite events in Paris and Tianjin
+editions:
+- year: 2025
+  start: 2025-11-02
+  end: 2025-11-07
+  location: Vienna, Austria
+  url: https://ieeevis.org/year/2025/welcome
+- year: 2026
+  start: 2026-11-09
+  end: 2026-11-13
+  location: Boston, Massachusetts, USA
+  url: https://ieeevis.org/year/2026/welcome
+  deadlines:
+  - kind: abstract
+    date: 2026-03-21
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-03-31
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-04-30
+    time: "23:59"
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2026-06-06
+    time: "23:59"
+    tz: AoE
+    label: Full papers, first review cycle
+  - kind: notification
+    date: 2026-06-17
+    time: "23:59"
+    tz: AoE
+    label: Short papers
+  - kind: submission
+    date: 2026-07-01
+    time: "23:59"
+    tz: AoE
+    label: Full papers, second review cycle
+  - kind: camera_ready
+    date: 2026-07-01
+    time: "23:59"
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2026-07-15
+    time: "23:59"
+    tz: AoE
+    label: Full papers, final
+  - kind: camera_ready
+    date: 2026-08-08
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+sources:
+- https://ieeevis.org/year/2026/welcome
+- https://ieeevis.org/year/2026/info/call-participation/call-for-participation
+- https://ieeevis.org/year/2026/info/call-participation/paper-submission-guidelines
+- https://ieeevis.org/year/2026/info/call-participation/shortpapers
+- https://ieeevis.org/year/2025/welcome
+- https://portal.core.edu.au/conf-ranks/?search=VIS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- IEEE VIS 2027 dates and location not announced on the official site as of 2026-10-11
+- CCF rank checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-10-11

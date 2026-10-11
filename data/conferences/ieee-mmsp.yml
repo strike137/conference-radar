@@ -1,0 +1,68 @@
+id: ieee-mmsp
+name: IEEE MMSP
+full_name: IEEE International Workshop on Multimedia Signal Processing
+type: conference
+tier: minor
+areas: [communications, ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Signal Processing Society (Multimedia Signal Processing Technical Committee)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://attend.ieee.org/mmsp-2026/
+notes:
+- Run by the Multimedia Signal Processing Technical Committee of the IEEE Signal Processing Society
+- Despite the name it is a standalone annual event (28th edition in 2026), not a co-located workshop
+- Accepted papers are submitted to IEEE Xplore; about the top 10% are invited to a fast track in IEEE Transactions
+  on Multimedia (2026)
+- Location rotates worldwide (Beijing 2025 with a thematic school at Tsinghua University, Istanbul 2026)
+- CORE C (ICORE2026)
+- "Submission deadline is usually in late May or June, with extensions; conference in September"
+editions:
+- year: 2025
+  start: 2025-09-21
+  end: 2025-09-23
+  location: Beijing, China
+  url: https://attend.ieee.org/mmsp-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-22
+    time: "23:59"
+    tz: AoE
+    label: Papers (final, extended from 2025-06-15)
+  - kind: notification
+    date: 2025-07-30
+  - kind: camera_ready
+    date: 2025-08-10
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-24
+  location: Istanbul, Türkiye
+  url: https://attend.ieee.org/mmsp-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-29
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-07-19
+  - kind: camera_ready
+    date: 2026-08-07
+sources:
+- https://attend.ieee.org/mmsp-2025/
+- https://attend.ieee.org/mmsp-2025/call-for-papers/
+- https://attend.ieee.org/mmsp-2025/conference-venue/
+- https://attend.ieee.org/mmsp-2026/
+- https://attend.ieee.org/mmsp-2026/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=MMSP&by=all&source=ICORE2026
+unverified:
+- MMSP 2027 dates and location not found as of 2026-10-11
+- Original (pre-extension) 2026 submission deadline
+last_verified: 2026-10-11

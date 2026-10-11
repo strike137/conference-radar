@@ -1,0 +1,82 @@
+id: spaa
+name: SPAA
+full_name: ACM Symposium on Parallelism in Algorithms and Architectures
+type: conference
+tier: major
+areas: [systems, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGACT and ACM SIGARCH
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [1, 9]
+  conference_months: [6, 7]
+links:
+  website: https://spaa.acm.org/
+  dblp: https://dblp.org/db/conf/spaa/index.html
+notes:
+- Sponsored by ACM SIGACT and ACM SIGARCH, in cooperation with EATCS; theory and practice of parallel algorithms and architectures
+- Proceedings in the ACM Digital Library; ACM open access model with an APC for authors outside ACM Open (500 / 750 USD for 2027)
+- Two submission cycles from 2027 (September and January); lightweight double-blind review with a rebuttal period
+- Regular papers up to 10 pages in ACM sigconf format; brief announcements up to 3 pages
+- Often co-located with PODC or with ACM FCRC (Orlando 2023, Atlanta 2027); held in the USA and Europe
+- CORE B (ICORE2026), CCF B
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-10
+  location: Egham, UK
+  url: https://spaa.acm.org/spaa-2026/
+- year: 2027
+  start: 2027-06-05
+  end: 2027-06-11
+  location: Atlanta, GA, USA
+  url: https://spaa.acm.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-18
+    time: "23:59"
+    tz: AoE
+    label: Cycle 1
+  - kind: submission
+    date: 2026-09-25
+    time: "23:59"
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2026-12-05
+    label: Cycle 1
+  - kind: abstract
+    date: 2027-01-22
+    time: "23:59"
+    tz: AoE
+    label: Cycle 2
+  - kind: submission
+    date: 2027-01-29
+    time: "23:59"
+    tz: AoE
+    label: Cycle 2
+  - kind: notification
+    date: 2027-04-10
+    label: Cycle 2
+sources:
+- https://spaa.acm.org/
+- https://spaa.acm.org/spaa-2027-call-for-papers/
+- https://spaa.acm.org/prev-spaa/
+- https://spaa.acm.org/spaa-2026/
+- https://spaa.acm.org/spaa-2025/
+- https://spaa.acm.org/spaa-2024-2/
+- https://spaa.acm.org/spaa-2023/
+- https://portal.core.edu.au/conf-ranks/?search=SPAA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- SPAA 2027 camera-ready deadline is TBD; the CFP lists the cycle dates without years (years inferred from weekdays)
+- The 2027 dates June 5-11 are the FCRC week; the exact SPAA days within it are not yet stated
+last_verified: 2026-10-11
