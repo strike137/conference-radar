@@ -17,11 +17,11 @@ typical:
   deadline_months: [9]
   conference_months: [10, 11]
 links:
-  website: https://ami.gov.vn/2024iccais/
+  website: https://ds2eldia.jp/iccais2026/
 notes:
 - Series started in 2012 in Ho Chi Minh City by AMI (National Institute of Applied Mechanics and Informatics, Vietnam)
 - Proceedings in IEEE Xplore, indexed by Scopus and EI Compendex; standard IEEE double-column template, submission via EDAS
-- Often held in Vietnam, otherwise in China, Korea or Thailand (2021 Xi'an, 2022 and 2023 Hanoi, 2024 Ho Chi Minh City, 2025 Jeju hosted by Korea Aerospace University)
+- Often held in Vietnam, otherwise in China, Korea or Thailand (2021 Xi'an, 2022 and 2023 Hanoi, 2024 Ho Chi Minh City, 2025 Jeju hosted by Korea Aerospace University, 2026 Kitakyushu, Japan)
 - Topics span control, automation, signal processing, target tracking and information sciences
 - Not in the ICORE2026 ranking; not the Saudi ICCAIS (Computer Applications and Information Security), a different venue
 - Paper deadline is usually extended (2024 page lists a final extension); deadlines are stated in GMT-4 (New York EDT)
@@ -51,7 +51,36 @@ editions:
   end: 2025-10-29
   location: Jeju, South Korea
   url: https://ami.gov.vn/2024iccais/
+- year: 2026
+  start: 2026-11-22
+  end: 2026-11-25
+  location: Kitakyushu, Japan (Kitakyushu International Conference Center)
+  url: https://ds2eldia.jp/iccais2026/
+  status: confirmed
+  deadlines:
+  - kind: other
+    date: 2026-07-31
+    label: Organized session proposal
+  - kind: notification
+    date: 2026-10-09
+    label: Full papers, first review round
+  - kind: notification
+    date: 2026-10-16
+    label: Full papers, second review round
+  - kind: camera_ready
+    date: 2026-10-22
+    label: Full papers, final manuscript and registration
+  - kind: submission
+    date: 2026-10-22
+    label: Position papers (not published in IEEE Xplore)
+  - kind: notification
+    date: 2026-10-29
+    label: Position papers
 sources:
+- https://ds2eldia.jp/iccais2026/
+- https://ds2eldia.jp/iccais2026/submission.html
+- https://ds2eldia.jp/iccais2026/committee.html
+- https://ds2eldia.jp/iccais2026/venue.html
 - https://ami.gov.vn/2024iccais/
 - https://ami.gov.vn/2024iccais_committee
 - https://ieeexplore.ieee.org/xpl/conhome/1802677/all-proceedings
@@ -61,7 +90,8 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=ICCAIS&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
 - ICCAIS 2025 deadlines (2025 official site not reachable; dates and venue from the AMI 2024 page and IEEE/Crossref metadata)
-- ICCAIS 2026 dates and location (not announced on any reachable official page; former site theiccais.org has lapsed)
+- ICCAIS 2026 exact full paper deadline (the official page says only mid-September 2026, final extension) and deadline
+  time zone (not stated)
 - Original (pre-extension) 2024 submission deadline
 - Acceptance rate and registration fee
-last_verified: 2026-10-04
+last_verified: 2026-10-11

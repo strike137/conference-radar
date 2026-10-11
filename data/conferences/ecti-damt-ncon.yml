@@ -61,9 +61,27 @@ editions:
   start: 2027-05-12
   end: 2027-05-15
   location: Hokkaido, Japan
-  url: https://icdamt.ict.up.ac.th/
+  url: https://icdamt.ict.up.ac.th/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    label: Round 1 paper submission
+  - kind: notification
+    date: 2026-11-30
+    label: Round 1 notification
+  - kind: submission
+    date: 2027-01-04
+    label: Round 2 paper submission
+  - kind: camera_ready
+    date: 2027-03-10
+    label: Final manuscript
+  - kind: other
+    date: 2027-03-18
+    label: Early-bird registration ends (window 2027-03-11 to 2027-03-18)
 sources:
 - https://icdamt.ict.up.ac.th/
+- https://icdamt.ict.up.ac.th/2027/cfp.php
+- https://icdamt.ict.up.ac.th/2027/docs/CFP_DAMT_NCON2027.pdf
 - https://ectidamtncon2026.payap.ac.th/
 - https://2025.icdamt.org
 - https://icdamt.ict.up.ac.th/2024
@@ -71,8 +89,8 @@ sources:
 - https://api.crossref.org/works/10.1109/ectidamtncon64748.2025
 - https://portal.core.edu.au/conf-ranks/?search=DAMT&by=all&source=ICORE2026
 unverified:
-- ECTI DAMT & NCON 2027 deadlines (CFP subpages of the official site return 404 at time of check)
+- 'ECTI DAMT & NCON 2027 Round 2 notification: the CFP page says 2027-02-22, the CFP PDF says 2027-02-28'
 - Exact 2027 city in Hokkaido (the site says Hokkaido; co-host CIST is in Chitose)
 - Acceptance rate
 - Not checked against the CCF 2026 list (not expected to be listed)
-last_verified: 2026-10-04
+last_verified: 2026-10-11

@@ -18,10 +18,10 @@ typical:
   deadline_months: [5]
   conference_months: [9, 10]
 links:
-  website: https://ds2025.ijs.si/
+  website: https://discovery-science.org/
 notes:
 - Long-running machine learning and data mining venue focused on AI for scientific discovery; 28th edition in 2025
-- Held in Europe in recent editions (2022 Montpellier, 2023 Porto, 2024 Pisa, 2025 Ljubljana)
+- Held in Europe in recent editions (2022 Montpellier, 2023 Porto, 2024 Pisa, 2025 Ljubljana, 2026 Mainz)
 - Springer LNCS proceedings; 15 pages in LNCS format, single-blind review via Microsoft CMT
 - Selected and extended papers can go to a special issue of the Springer Machine Learning journal
 - 2025 edition was part of the AI for Science umbrella event with co-located one-day workshops
@@ -52,7 +52,30 @@ editions:
     time: '23:59'
     tz: AoE
     label: Camera-ready and author registration
+- year: 2026
+  label: 29th DS
+  start: 2026-10-05
+  end: 2026-10-09
+  location: Mainz, Germany
+  url: https://discovery-science.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-15
+    label: Extended
+  - kind: submission
+    date: 2026-06-22
+    label: Full paper (extended)
+  - kind: notification
+    date: 2026-07-21
+  - kind: camera_ready
+    date: 2026-08-01
+  - kind: other
+    date: 2026-09-30
+    label: Late breaking abstracts
 sources:
+- https://discovery-science.org/
+- https://discovery-science.org/important-dates/
+- https://discovery-science.org/main-research-track/
 - https://ds2025.ijs.si/
 - https://ds2025.ijs.si/calls/
 - https://ds2025.ijs.si/registration/
@@ -62,7 +85,8 @@ sources:
 - https://link.springer.com/conference/dis
 - https://portal.core.edu.au/conf-ranks/?search=Discovery+Science&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- DS 2026 dates, location and deadlines (no official 2026 site found)
+- DS 2027 not announced as of 2026-10-11
+- DS 2026 original deadlines before extension (the official page shows only the extended dates)
 - CCF 2026 rank not checked (CCF list pages could not be loaded)
 - Acceptance rate for 2025 (not stated on the official site)
-last_verified: 2026-10-04
+last_verified: 2026-10-11

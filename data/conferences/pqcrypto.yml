@@ -27,8 +27,8 @@ notes:
 - Main conference series dedicated to post-quantum cryptography; proceedings in Springer LNCS
 - Location rotates worldwide; Asia hosted it in 2011 and 2025 (Taipei), 2016 (Fukuoka), 2019 (Chongqing) and 2021
   (Daejeon)
-- Submissions are not anonymous (title, author names and affiliations on the paper); title and abstract must be
-  registered one week before the full paper deadline
+- Submissions were not anonymous in 2026; the PQCrypto 2027 call says the review is double-blind with a rebuttal
+  phase; title and abstract must be registered one week before the full paper deadline
 - 'Acceptance around 40% (2026: 27/66), higher than the IACR general conferences'
 editions:
 - year: 2026
@@ -51,6 +51,27 @@ editions:
   - kind: camera_ready
     date: 2026-01-29
     label: Final versions due
+- year: 2027
+  start: 2027-05-12
+  end: 2027-05-14
+  location: Waterloo, Canada
+  url: https://easychair.org/cfp/pqcrypto2027
+  deadlines:
+  - kind: abstract
+    date: 2026-11-17
+    tz: AoE
+    label: Initial submission (title and abstract)
+  - kind: submission
+    date: 2026-11-24
+    tz: AoE
+    label: Final submission
+  - kind: notification
+    date: 2027-02-03
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-02-24
+    tz: AoE
+    label: Final version due
 sources:
 - https://pqcrypto2026.irisa.fr/
 - https://pqcrypto2026.irisa.fr/papersubmission.html
@@ -58,9 +79,11 @@ sources:
 - https://pqcrypto.org/conferences.html
 - https://portal.core.edu.au/conf-ranks/?search=PQCrypto&by=all&source=ICORE2026&sort=atitle&page=1
 - https://link.springer.com/book/10.1007/978-3-032-22695-2
+- https://easychair.org/cfp/pqcrypto2027
 unverified:
-- PQCrypto 2027 location and dates not announced (not on pqcrypto.org or the IACR calendar)
+- PQCrypto 2027 dates come from the organizers' EasyChair call; no dedicated conference website found yet and
+  pqcrypto.org does not list 2027
 - Deadline months for editions before 2026 not re-checked (PQCrypto 2025 site offline)
 - Springer titles the proceedings 'International Workshop on Post-Quantum Cryptography'; the series name used on
   the official sites varies
-last_verified: 2026-10-04
+last_verified: 2026-10-11

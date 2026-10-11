@@ -16,17 +16,20 @@ typical:
   deadline_months: [6]
   conference_months: [12]
 links:
-  website: https://2024.ieeeslt.org/
+  website: https://attend.ieee.org/slt-2026/
 notes:
 - Flagship biennial workshop of the IEEE SPS Speech and Language Processing Technical Committee; alternates years with
   IEEE ASRU
 - Papers up to 6 pages plus up to 2 pages of references; double-blind review with an author rebuttal period
 - Papers appear in IEEE Xplore; papers not presented at the event are left out of Xplore (SPS no-show policy)
 - One author registration covers up to four papers
-- 2024 edition held in Macao; locations rotate worldwide
+- 2024 edition held in Macao, 2026 in Palermo; locations rotate worldwide
+- About 750 submissions in 2026, reviewed on OpenReview
+- IEEE SPS describes SLT 2026 as the final standalone SLT before the IEEE Audio, Speech and Language Intelligence (ASLI)
+  conference launches in 2027
 - Not listed in ICORE2026; CCF 2026 listing not checked directly
 - Well regarded in the speech community despite having no CORE rank
-fee: 800 USD author registration for IEEE members, 960 USD for non-members (2024)
+fee: 930 USD early registration for IEEE members, 1,115 USD for non-members (2026, excl. 22% VAT; authors need a full-rate registration, which covers up to four papers)
 editions:
 - year: 2024
   start: 2024-12-02
@@ -52,7 +55,50 @@ editions:
     date: 2024-09-25
     tz: AoE
     label: Author registration (extended from 2024-09-15)
+- year: 2026
+  start: 2026-12-13
+  end: 2026-12-16
+  location: Palermo, Italy
+  url: https://attend.ieee.org/slt-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-24
+    time: '23:59'
+    tz: AoE
+    label: Regular and special session papers (extended from 2026-06-17)
+  - kind: other
+    date: 2026-07-01
+    time: '23:59'
+    tz: AoE
+    label: Paper revision deadline (extended from 2026-06-24)
+  - kind: submission
+    date: 2026-07-08
+    time: '23:59'
+    tz: AoE
+    label: Challenge and demo papers
+  - kind: other
+    date: 2026-08-10
+    label: Rebuttal period (10 to 16 Aug, moved from 29 Jul to 4 Aug)
+  - kind: notification
+    date: 2026-09-08
+    time: '23:59'
+    tz: AoE
+    label: Extended from 2026-09-01
+  - kind: camera_ready
+    date: 2026-09-20
+    time: '23:59'
+    tz: AoE
+  - kind: other
+    date: 2026-10-04
+    time: '23:59'
+    tz: AoE
+    label: Author and early registration
 sources:
+- https://attend.ieee.org/slt-2026/
+- https://attend.ieee.org/slt-2026/call-for-papers/
+- https://attend.ieee.org/slt-2026/camera-ready-instructions/
+- https://attend.ieee.org/slt-2026/registration/
+- https://signalprocessingsociety.org/newsletter/2026/08/2026-ieee-spoken-language-technology-workshop-slt
 - https://2024.ieeeslt.org/
 - https://2024.ieeeslt.org/call_for_papers/
 - https://2024.ieeeslt.org/paper_submission/
@@ -60,7 +106,7 @@ sources:
 - https://2024.ieeeslt.org/registration-fees-and-benefits/
 - https://portal.core.edu.au/conf-ranks/?search=SLT&by=all&source=ICORE2026
 unverified:
-- SLT 2026 dates, location and deadlines (no official 2026 site found)
+- Whether SLT continues as a separate event after ASLI starts in 2027
 - Acceptance rate (not stated on the official site)
 - CCF 2026 list status (CCF site not reachable, so rank.ccf is left out)
-last_verified: 2026-10-04
+last_verified: 2026-10-11

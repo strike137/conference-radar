@@ -22,8 +22,8 @@ links:
 notes:
 - Run by AUSCERT at The University of Queensland; Australia's longest-running cyber security conference (25th edition
   in 2026, 900+ attendees in 2025)
-- Held every May on the Gold Coast (The Star Gold Coast, Broadbeach); two tutorial days followed by a two-day main
-  conference
+- Held every May on the Gold Coast (The Star Gold Coast, Broadbeach, until 2026; RACV Royal Pines in 2027); two tutorial
+  days followed by a two-day main conference
 - 'Two-stage call: tutorials close mid November, presentations close late January; no deadline extensions'
 - Selected speakers get travel from an Australian capital city, accommodation and free registration; hosted the
   International Cybersecurity Challenge (ICC) in 2026
@@ -70,6 +70,24 @@ editions:
     time: '23:59'
     tz: AEST
     label: Early bird registration ends
+- year: 2027
+  start: 2027-05-18
+  end: 2027-05-21
+  location: Gold Coast, Australia (RACV Royal Pines)
+  url: https://conference.auscert.org.au/
+  deadlines:
+  - kind: submission
+    date: 2026-11-15
+    label: Call for Tutorials
+  - kind: notification
+    date: 2026-12-10
+    label: Tutorials
+  - kind: submission
+    date: 2027-01-26
+    label: Call for Presentations
+  - kind: notification
+    date: 2027-02-18
+    label: Presentations
 sources:
 - https://conference.auscert.org.au/
 - https://conference.auscert.org.au/call-for-presentations/
@@ -80,6 +98,5 @@ sources:
 - https://2024.conference.auscert.org.au/
 - https://auscert.org.au/
 unverified:
-- AUSCERT2027 dates (not announced on the official site as of 2026-10-04; the 2027 call for tutorials, expected
-  mid November, is not yet open)
-last_verified: 2026-10-04
+- AUSCERT2027 deadline times (the call for presentations page gives dates only; tutorials call opens 2026-10-26)
+last_verified: 2026-10-11

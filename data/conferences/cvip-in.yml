@@ -7,7 +7,7 @@ areas: [vision, ai]
 region: south-asia
 language: english
 frequency: annual
-organizer: CVIP steering committee with a host institute in India (IIT Ropar in 2025), endorsed by IAPR
+organizer: CVIP steering committee with a host institute in India (IIT Ropar in 2025, NIT Calicut with NTNU Norway in 2026), endorsed by IAPR
 organizer_country: [india]
 proceedings: Springer CCIS
 indexing: [Scopus, DBLP, EI]
@@ -16,7 +16,7 @@ typical:
   deadline_months: [5, 8]
   conference_months: [11, 12]
 links:
-  website: https://www.iitrpr.ac.in/cvip2025
+  website: https://cvip2026.nitc.ac.in/
 notes:
 - Indian computer vision conference held at a different Indian institute each year (IIT Roorkee, IIITDM Jabalpur, MNIT
   Jaipur, IIIT Allahabad, IIT Ropar, VNIT Nagpur, IIT Jammu, IIITDM Kancheepuram); 10th edition in 2025
@@ -24,6 +24,7 @@ notes:
 - Two submission rounds per year (May and August in 2025); papers up to 15 pages in Springer format, extra pages charged
 - Not listed in ICORE2026 or in the CCF list; smaller than ICVGIP, the IUPRAI flagship
 - At least one author must register and present for the paper to appear in the proceedings
+- 2026 edition (11th) at NIT Calicut, Kerala; proceedings announced as Springer LNCS or CCIS
 editions:
 - year: 2025
   label: 10th CVIP
@@ -55,7 +56,40 @@ editions:
     time: "23:59"
     tz: PST
     label: Round 2
+- year: 2026
+  label: 11th CVIP
+  start: 2026-12-09
+  end: 2026-12-12
+  location: Kozhikode (NIT Calicut), India
+  url: https://cvip2026.nitc.ac.in/
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+    label: Round 1 (extended from 2026-04-15)
+  - kind: notification
+    date: 2026-06-30
+    label: Round 1 (extended from 2026-06-15)
+  - kind: camera_ready
+    date: 2026-10-20
+    label: Round 1 (extended from 2026-07-30)
+  - kind: submission
+    date: 2026-08-16
+    label: Round 2 (extended from 2026-07-31)
+  - kind: notification
+    date: 2026-10-05
+    label: Round 2 (extended from 2026-09-30)
+  - kind: camera_ready
+    date: 2026-10-20
+    label: Round 2 (extended from 2026-10-15)
+  - kind: other
+    date: 2026-10-31
+    label: Early-bird registration
+  - kind: other
+    date: 2026-11-10
+    label: Late registration
 sources:
+- https://cvip2026.nitc.ac.in/
+- https://cvip2026.nitc.ac.in/important-dates.html
 - https://www.iitrpr.ac.in/cvip2025
 - https://cvip2025.vercel.app/imp-dates
 - https://cvip2025.vercel.app/submissions/call-for-papers
@@ -64,7 +98,6 @@ sources:
 - https://link.springer.com/conference/cvip
 - https://portal.core.edu.au/conf-ranks/?search=CVIP&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- CVIP 2026 host, dates and deadlines (not announced on an official page yet; the 2025 site links a 2026 bidding form)
 - CVIP 2025 Springer CCIS volumes not yet listed on the Springer conference page
 - Acceptance rate not published
-last_verified: 2026-10-04
+last_verified: 2026-10-11
