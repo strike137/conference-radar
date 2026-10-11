@@ -1,0 +1,68 @@
+id: defi
+name: DeFi
+full_name: ACM CCS Workshop on Decentralized Finance and Security
+type: workshop
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: Steering committee Dawn Song (UC Berkeley), Roger Wattenhofer (ETH Zurich), Arthur Gervais and Philipp
+  Jovanovic (UCL)
+organizer_country: [usa, europe]
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+proceedings: ACM DL
+archival: true
+links:
+  website: https://defiwork.shop/
+notes:
+- Co-located with ACM CCS every year since 2021 (Salt Lake City 2024, Taipei 2025, The Hague 2026)
+- Covers blockchain and decentralized finance security, including zero-knowledge proofs and their DeFi applications
+- Full papers up to 8 pages excluding references in the ACM CCS sigconf format, plus SoK papers; anonymized
+  submission via HotCRP
+- Proceedings in the ACM Digital Library every year since 2021 (DeFi '25 volume published 2025-10-13)
+- Also runs a Best DeFi Papers Award for DeFi papers published elsewhere in the previous year (self-nominated)
+editions:
+- year: 2025
+  start: 2025-10-17
+  end: 2025-10-17
+  location: Taipei, Taiwan
+  url: https://defiwork.shop/defi2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-07-28
+    tz: AoE
+    label: Submission (extended from 2025-07-21)
+  - kind: notification
+    date: 2025-08-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-03
+    tz: AoE
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-19
+  location: The Hague, Netherlands
+  url: https://defiwork.shop/
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    label: Full papers
+  - kind: notification
+    date: 2026-09-15
+  - kind: camera_ready
+    date: 2026-09-22
+sources:
+- https://defiwork.shop/
+- https://defiwork.shop/defi2025/index.html
+- https://defiwork.shop/defi2024/index.html
+- https://www.sigsac.org/ccs/CCS2026/
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://dl.acm.org/doi/proceedings/10.1145/3733815
+- https://dl.acm.org/doi/proceedings/10.1145/3689931
+- https://portal.core.edu.au/conf-ranks/?search=DeFi&by=all&source=ICORE2026
+unverified:
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

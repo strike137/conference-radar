@@ -1,0 +1,79 @@
+id: ieee-ism
+name: IEEE ISM
+full_name: IEEE International Symposium on Multimedia
+type: conference
+tier: minor
+areas: [vision, ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ISM organizing committee (UC Irvine), technically co-sponsored by IEEE SPS
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://www.multimediacomputing.org/
+notes:
+- Grew out of multimedia software engineering workshops from the 1990s; 28th edition in 2026
+- CORE C (ICORE2026)
+- Technically co-sponsored by the IEEE Signal Processing Society; papers in IEEE Computer Society proceedings format
+- Proceedings in IEEE Xplore (ISM 2025 volume, DOI 10.1109/ISM66958.2025)
+- Regular papers 8 pages, short papers 4, position papers 2; extra pages cost 150 USD each
+- Hybrid; co-located with AIxSoftware in 2026
+- Held in December, often in Southern California, Taichung or Naples (Naples 2025, Tokyo 2024, Laguna Hills 2023)
+- Deadlines are usually extended by a few weeks
+editions:
+- year: 2025
+  start: 2025-12-08
+  end: 2025-12-10
+  location: Naples, Italy
+  url: https://www.multimediacomputing.org/history.html
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-09
+  location: Laguna Hills, CA, USA
+  url: https://www.multimediacomputing.org/
+  deadlines:
+  - kind: other
+    date: 2026-08-01
+    tz: PDT
+    label: Workshop proposals
+  - kind: other
+    date: 2026-09-01
+    time: "23:59"
+    tz: PDT
+    label: Workshop proposal acceptance
+  - kind: submission
+    date: 2026-09-20
+    time: "23:59"
+    tz: PDT
+    label: Papers (extended from 2026-09-01)
+  - kind: notification
+    date: 2026-10-18
+    tz: PDT
+    label: Papers (extended from 2026-10-01)
+  - kind: submission
+    date: 2026-10-25
+    tz: PDT
+    label: Workshop papers and poster abstracts (extended from 2026-10-15)
+  - kind: camera_ready
+    date: 2026-11-01
+    time: "23:59"
+    tz: PST
+    label: With registration
+sources:
+- https://www.multimediacomputing.org/
+- https://www.multimediacomputing.org/submission.html
+- https://www.multimediacomputing.org/history.html
+- https://www.multimediacomputing.org/committees.html
+- https://www.multimediacomputing.org/venue.html
+- https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=11366222
+- https://portal.core.edu.au/conf-ranks/?search=ISM&by=all&source=ICORE2026
+unverified:
+- CCF rank not checked (CCF list page could not be loaded)
+last_verified: 2026-10-11

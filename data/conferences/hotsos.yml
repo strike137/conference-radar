@@ -1,0 +1,56 @@
+id: hotsos
+name: HotSoS
+full_name: Hot Topics in the Science of Security Symposium
+type: conference
+tier: minor
+areas: [security]
+region: online
+language: english
+frequency: annual
+organizer: NSA Science of Security initiative (SoS-VO)
+organizer_country: [usa]
+proceedings: None (participants only)
+archival: false
+typical:
+  deadline_months: [12, 1]
+  conference_months: [4]
+links:
+  website: https://sos-vo.org/group/hotsos
+notes:
+- Hosted by the US National Security Agency as part of its Science of Security program; general chair from NSA
+- Held virtually every year since 2020 (in person in the USA from 2014 to 2019)
+- Three days of keynotes, invited talks, work-in-progress (WiP) sessions, panels and posters/demos
+- "Paper types (2026): already published papers (presentation only), unpublished WiP papers up to 10 pages ACM
+  double-column, and 2-page poster/demo abstracts"
+- Submission through OpenReview; government and industry talk proposals go directly to the program chairs
+- Proceedings were published by ACM up to 2021; WiP papers are now only distributed confidentially to discussants and
+  attendees (no proceedings), posters/demos listed on the website
+- Not ranked in CORE (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-04-14
+  end: 2026-04-16
+  location: Virtual
+  url: https://sos-vo.org/group/hotsos
+  deadlines:
+  - kind: submission
+    date: 2026-01-16
+    tz: AoE
+    label: Papers, WiP and posters (moved from 2025-12-23)
+  - kind: notification
+    date: 2026-02-27
+- year: 2027
+  start: 2027-04-13
+  end: 2027-04-15
+  location: Virtual
+  url: https://sos-vo.org/group/hotsos
+sources:
+- https://sos-vo.org/group/hotsos
+- https://sos-vo.org/group/hotsos/cfp
+- https://sos-vo.org/node/109590/
+- https://portal.core.edu.au/conf-ranks/?search=HotSoS&by=all&source=ICORE2026
+- https://sos-vo.org/group/hotsos/wip
+- https://www.sos-vo.org/node/28982
+unverified:
+- HotSoS 2027 call for papers and deadlines (CFP expected October 2026)
+last_verified: 2026-10-11

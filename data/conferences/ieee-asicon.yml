@@ -1,0 +1,64 @@
+id: ieee-asicon
+name: IEEE ASICON
+full_name: IEEE International Conference on ASIC
+type: conference
+tier: minor
+areas: [systems, communications]
+region: china
+language: english
+frequency: biennial
+organizer: IEEE (sponsor); organizing contacts at Fudan University
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: http://www.asicon.org/
+notes:
+- Chinese integrated circuit design conference sponsored by IEEE, held every two years since 1994, usually in late
+  October (odd years since 2001); alternates with ICSICT, which is held in even years
+- Always held in China, in a different city each time (Nanjing 2023, Kunming 2025, Hefei 2027)
+- The 2027 site still has "2026" in its page titles; the content gives Oct. 26 to 29, 2027 in Hefei
+editions:
+- year: 2025
+  label: 16th ASICON
+  start: 2025-10-21
+  end: 2025-10-24
+  location: Kunming, China
+  url: http://www.asicon.org/Data/List/HISTORY
+  deadlines: []
+- year: 2027
+  label: 17th ASICON
+  start: 2027-10-26
+  end: 2027-10-29
+  location: Hefei, China
+  url: http://www.asicon.org/
+  deadlines:
+  - kind: submission
+    date: 2027-06-30
+    time: "23:59"
+    tz: UTC+8
+    label: Stated as 24:00 UTC+8
+  - kind: notification
+    date: 2027-08-15
+    time: "23:59"
+    tz: UTC+8
+    label: Stated as 24:00 UTC+8
+sources:
+- http://www.asicon.org/
+- http://www.asicon.org/Data/List/HISTORY
+- http://www.asicon.org/Data/View/255
+- http://www.asicon.org/Data/View/405
+- http://www.asicon.org/Data/List/PAPERSUBMISSION
+- https://portal.core.edu.au/conf-ranks/?search=ASICON&by=all&source=ICORE2026&sort=atitle&page=1
+- https://ieeexplore.ieee.org/xpl/conhome/11325746/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/10395907/proceeding
+unverified:
+- 2027 paper format and proceedings details (the 2027 paper submission page only says "Coming soon"); 2023 and 2025
+  proceedings are in IEEE Xplore
+- Organizing committee and page limits for 2027 (pages say "Coming soon")
+- 2025 deadlines and acceptance rate
+- Not found in the CORE ICORE2026 portal
+last_verified: 2026-10-11

@@ -1,0 +1,63 @@
+id: spiqe
+name: SPIQE
+full_name: Workshop on Secure Protocol Implementations in the Quantum Era
+type: workshop
+tier: minor
+areas: [security, crypto]
+region: europe
+language: english
+frequency: annual
+organizer: Chairs from Paderborn University and Ruhr University Bochum (2026); ETH Zurich and Paderborn University (2025)
+organizer_country: [europe]
+proceedings: Springer LNCS (ACNS Workshops, 2025)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://spiqe.cool/
+notes:
+- One-day workshop on post-quantum cryptography in real protocol implementations (formal verification, testing,
+  side channels, migration)
+- Co-located with ACNS 2025 in Munich and with IEEE EuroS&P 2026 in Lisbon (post-conference workshop)
+- 2025 papers appeared in the Springer LNCS ACNS 2025 Satellite Workshops volume (LNCS 15654, Revised Selected Papers)
+- 2026 submissions were non-anonymous extended abstracts of up to 3 pages that must link to a full version in an
+  open access venue, arXiv or IACR ePrint; talk proposals also accepted; no proceedings named for 2026
+- No SPIQE papers appear in the IEEE EuroS&PW 2026 proceedings volume
+- '2026: 5 of 8 submissions accepted (3 papers, 2 talks) plus 3 invited talks'
+- At least one author must present in person
+editions:
+- year: 2025
+  start: 2025-06-24
+  end: 2025-06-24
+  location: Munich, Germany
+  url: https://spiqe.cool/2025/
+- year: 2026
+  start: 2026-07-10
+  end: 2026-07-10
+  location: Lisbon, Portugal
+  url: https://spiqe.cool/
+  deadlines:
+  - kind: submission
+    date: 2026-03-12
+    tz: AoE
+  - kind: notification
+    date: 2026-04-17
+    tz: AoE
+    label: Delayed from 2026-04-10
+sources:
+- https://spiqe.cool/
+- https://spiqe.cool/cfp/
+- https://spiqe.cool/program/
+- https://spiqe.cool/2025/
+- https://eurosp2026.ieee-security.org/workshops.html
+- https://doi.org/10.1109/eurospw72509.2026
+- https://doi.org/10.1007/978-3-032-01806-9_18
+- https://link.springer.com/book/10.1007/978-3-032-01806-9
+- https://portal.core.edu.au/conf-ranks/?search=SPIQE&by=all&source=ICORE2026
+unverified:
+- SPIQE 2027 not yet announced
+- 2025 deadlines not confirmed
+- Whether 2026 papers will appear in any proceedings (the 2026 call names none)
+- Not found in the ICORE2026 portal and not in the CCF list, so no rank is given
+last_verified: 2026-10-11

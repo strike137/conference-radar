@@ -1,0 +1,63 @@
+id: edaps
+name: EDAPS
+full_name: IEEE Electrical Design of Advanced Packaging and Systems Symposium
+type: conference
+tier: minor
+areas: [communications, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Electronics Packaging Society (EPS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://www.edaps.org/
+notes:
+- Sponsored by the IEEE Electronics Packaging Society; describes itself as the flagship packaging symposium in the
+  Asia-Pacific region
+- Covers signal, power and thermal integrity, EMC, 3D-ICs and SiP, high-speed interconnects, antennas in package and
+  machine learning for packaging
+- Short papers of 3 pages (two-column, IEEE format); accepted papers reproduced as-is in the conference proceedings;
+  one full registration needed per published paper
+- 2026 is the 25th anniversary edition, held at Hyatt Centric, Chandigarh, India (general chairs from IIT Ropar and
+  Simyog Technology)
+- Oral and poster sessions, tutorials, industry exhibits and a student software competition; over 100 participants
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-16
+  location: Chandigarh, India (Hyatt Centric)
+  url: https://www.edaps.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-13
+    label: Final deadline (extended from 2026-08-21)
+  - kind: notification
+    date: 2026-10-08
+  - kind: camera_ready
+    date: 2026-11-30
+    label: PDF eXpress compliant manuscript
+  - kind: other
+    date: 2026-12-06
+    label: Presentation video (MP4)
+sources:
+- https://www.edaps.org/
+- https://www.edaps.org/papers.php
+- https://www.edaps.org/submission.php
+- https://www.edaps.org/venue.php
+- https://www.edaps.org/committees.php
+- https://www.edaps.org/sponsors.php
+- https://portal.core.edu.au/conf-ranks/?search=EDAPS&by=all&source=ICORE2026
+- https://ieeexplore.ieee.org/xpl/conhome/11411719/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/10987211/proceeding
+unverified:
+- Host cities of past editions (not listed on the official site; its archived programs show 2022 as a virtual event
+  and 2023 in Mauritius, so region is set to worldwide rather than asia-pacific)
+- 'Submission deadline: the call for papers gives 2026-09-13 as final, the submission page lists 2026-09-20'
+- 2026 registration fees (registration page still shows an old fee table)
+last_verified: 2026-10-11

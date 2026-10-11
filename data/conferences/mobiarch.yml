@@ -1,0 +1,71 @@
+id: mobiarch
+name: MobiArch
+full_name: ACM Workshop on Mobility in the Evolving Internet Architecture
+type: workshop
+tier: minor
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGMOBILE (workshop co-located with ACM MobiCom)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://mobiarch2026.github.io/index.html
+notes:
+- Workshop on architecture for the next-generation mobile Internet (6G, edge, AI-driven mobile networks), held in
+  conjunction with ACM MobiCom (Hong Kong 2025, Austin 2026)
+- Papers up to 6 pages, two columns, ACM template; single-blind review; work-in-progress and position papers welcome
+- Proceedings in the ACM Digital Library (Proceedings of the 20th Workshop on Mobility in the Evolving Internet
+  Architecture, 2025; 21st volume for 2026)
+- Half-day workshop in 2026; submission deadlines are usually extended
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Hong Kong, China
+  url: https://mobiarch2025.github.io/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-08-14
+    tz: CEST
+    label: Extended from 2025-07-25
+  - kind: notification
+    date: 2025-09-06
+    tz: CEST
+  - kind: camera_ready
+    date: 2025-09-12
+    tz: CEST
+- year: 2026
+  start: 2026-10-30
+  end: 2026-10-30
+  location: Austin, TX, USA
+  url: https://mobiarch2026.github.io/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    tz: AoE
+    label: Extended from 2026-06-05 (firm)
+  - kind: notification
+    date: 2026-08-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-30
+    tz: AoE
+sources:
+- https://mobiarch2025.github.io/index.html
+- https://mobiarch2025.github.io/call.html
+- https://mobiarch2025.github.io/submission.html
+- https://mobiarch2026.github.io/index.html
+- https://mobiarch2026.github.io/call.html
+- https://www.sigmobile.org/mobicom/2025/workshop_program.html
+- https://www.sigmobile.org/mobicom/2026/workshop_program.html
+- https://dl.acm.org/doi/proceedings/10.1145/3737897
+- https://dl.acm.org/doi/proceedings/10.1145/3842432
+- https://portal.core.edu.au/conf-ranks/?search=MobiArch&by=all&source=ICORE2026
+last_verified: 2026-10-11

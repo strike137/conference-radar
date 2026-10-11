@@ -1,0 +1,51 @@
+id: ieee-vcc
+name: IEEE VCC
+full_name: IEEE Virtual Conference on Communications
+type: conference
+tier: minor
+areas: [communications, networking]
+region: online
+language: english
+frequency: annual
+organizer: IEEE ComSoc
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7, 11]
+  conference_months: [3, 11, 12]
+links:
+  website: https://www.ieee-vcc.org/
+notes:
+- Fully virtual IEEE Communications Society conference, so no travel is needed
+- Proceedings in IEEE Xplore (2023, 2024 and 2025 volumes listed there)
+- Past editions 28 to 30 November 2023, 3 to 5 December 2024 and 4 to 6 November 2025; the next one moves to March 2027 (no 2026 edition listed)
+editions:
+- year: 2025
+  start: 2025-11-04
+  end: 2025-11-06
+  location: Virtual
+  url: https://vcc2025.ieee-vcc.org/
+  deadlines:
+  - kind: submission
+    date: 2025-07-27
+    label: Technical papers
+- year: 2027
+  start: 2027-03-02
+  end: 2027-03-04
+  location: Virtual
+  url: https://vcc2027.ieee-vcc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-06
+    label: Technical papers
+sources:
+- https://www.comsoc.org/conferences-events/ieee-virtual-conference-communications-2027
+- https://www.comsoc.org/conferences-events/ieee-virtual-conference-communications-2025
+- https://www.comsoc.org/conferences-events/search?search_api_fulltext=Virtual%20Conference%20on%20Communications
+- https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=11349710
+- https://portal.core.edu.au/conf-ranks/?search=VCC&by=all&source=ICORE2026
+unverified:
+- Dates and deadlines taken from the IEEE ComSoc event pages (2025 dates match the IEEE Xplore record); the conference site ieee-vcc.org returned 503 on 2026-10-11
+- Not listed in the CORE ICORE2026 ranking
+last_verified: 2026-10-11
