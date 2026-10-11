@@ -1,0 +1,98 @@
+id: nesy
+name: NeSy
+full_name: International Conference on Neurosymbolic Learning and Reasoning
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Neurosymbolic Learning and Reasoning Association (NeSy AI)
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+rank:
+  core: C
+fee: 500 EUR general, 250 EUR students (2026, early by August 10; late 800 EUR)
+typical:
+  deadline_months: [3, 6]
+  conference_months: [9]
+links:
+  website: https://2026.nesyconf.org/
+  dblp: https://dblp.org/db/conf/nesy/index.html
+notes:
+- Annual meeting of the Neurosymbolic Learning and Reasoning Association; run since 2005, as a workshop until 2023
+- Proceedings in PMLR (2025 is volume 284, 58 papers); extended versions invited to the Neurosymbolic Artificial
+  Intelligence journal (IOS Press)
+- CORE C (ICORE2026)
+- Two submission rounds on OpenReview with a revise-and-resubmit option; double-blind; full papers 10 pages,
+  short papers 5 pages; reviews of accepted papers made public
+- In-person only; held in Santa Cruz, USA (2025) and Lisbon, Portugal (2026)
+editions:
+- year: 2025
+  start: 2025-09-08
+  end: 2025-09-10
+  location: Santa Cruz, CA, USA
+  url: https://2025.nesyconf.org/
+- year: 2026
+  start: 2026-09-01
+  end: 2026-09-04
+  location: Lisbon, Portugal
+  url: https://2026.nesyconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-24
+    time: "23:59"
+    tz: AoE
+    label: Main track phase 1
+  - kind: submission
+    date: 2026-03-03
+    time: "23:59"
+    tz: AoE
+    label: Main track phase 1
+  - kind: notification
+    date: 2026-04-24
+    label: Main track phase 1
+  - kind: camera_ready
+    date: 2026-06-03
+    label: Main track phase 1
+  - kind: abstract
+    date: 2026-06-09
+    time: "23:59"
+    tz: AoE
+    label: Main track phase 2
+  - kind: submission
+    date: 2026-06-16
+    time: "23:59"
+    tz: AoE
+    label: Main track phase 2
+  - kind: notification
+    date: 2026-07-16
+    label: Main track phase 2 (moved from 2026-07-08)
+  - kind: other
+    date: 2026-07-17
+    time: "23:59"
+    tz: AoE
+    label: Industry track extended abstracts
+  - kind: camera_ready
+    date: 2026-07-20
+    label: Main track phase 2
+  - kind: notification
+    date: 2026-08-02
+    label: Industry track (moved from 2026-07-31)
+  - kind: camera_ready
+    date: 2026-08-15
+    label: Industry track
+sources:
+- https://2026.nesyconf.org/
+- https://2026.nesyconf.org/call-for-papers/
+- https://2026.nesyconf.org/registration/
+- https://2025.nesyconf.org/
+- https://nesyconf.org/
+- https://nesy-ai.org/
+- https://proceedings.mlr.press/v284/
+- https://portal.core.edu.au/conf-ranks/?search=NeSy&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- NeSy 2027 dates and location (not announced as of 2026-10-11)
+- PMLR volume for NeSy 2026 not yet found
+last_verified: 2026-10-11

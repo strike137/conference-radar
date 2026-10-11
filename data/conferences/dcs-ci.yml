@@ -1,0 +1,61 @@
+id: dcs-ci
+name: DCS-CI
+full_name: International Conference on Design of Cyber-Secure Critical Infrastructure
+type: conference
+tier: minor
+areas: [security, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: iTrust (Singapore University of Technology and Design) and The Water Tower
+organizer_country: [singapore, usa]
+proceedings: Springer CCIS
+archival: true
+indexing: [DBLP, Google Scholar, Scopus]
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://dcs-ci.github.io/
+notes:
+- Secure-by-design conference for critical infrastructure (water, energy, transport, healthcare, telecom, OT/ICS/SCADA)
+- Jointly organized by SUTD's iTrust centre and The Water Tower; general chair Jianying Zhou (SUTD)
+- Grew out of the iTrust DCS-Water 24 and DCS-Water 25 conferences on water infrastructure security; DCS-CI 2026 is the first edition under this name
+- Proceedings in Springer CCIS (Vol. 3109 for 2026); double-blind review, at least three reviews per paper
+- 2026 edition held at The Water Tower in Buford, Georgia, USA; also has a poster session and an industrial track
+editions:
+- year: 2026
+  start: 2026-09-02
+  end: 2026-09-03
+  location: The Water Tower, Buford, Georgia, USA
+  url: https://dcs-ci.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-04
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-15
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-06-22
+    time: "23:59"
+    tz: AoE
+    label: Poster submission
+  - kind: notification
+    date: 2026-06-29
+    label: Posters
+  - kind: camera_ready
+    date: 2026-07-01
+    time: "23:59"
+    tz: AoE
+sources:
+- https://dcs-ci.github.io/
+- https://link.springer.com/book/9789819250387
+- https://portal.core.edu.au/conf-ranks/?search=DCS-CI&by=all&source=ICORE2026
+unverified:
+- DCS-CI 2027 not yet announced
+- Where DCS-Water 24 and 25 were held (region set from the single DCS-CI edition so far)
+- Not listed in CORE ICORE2026 or the CCF list
+last_verified: 2026-10-11

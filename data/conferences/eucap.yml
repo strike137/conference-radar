@@ -1,0 +1,70 @@
+id: eucap
+name: EuCAP
+full_name: European Conference on Antennas and Propagation
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: annual
+organizer: EurAAP (European Association on Antennas and Propagation)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [3, 4]
+links:
+  website: https://www.eucap.org/
+notes:
+- Flagship conference of EurAAP, a not-for-profit association registered in Brussels; 21st edition in 2027
+- Large antennas and propagation conference with convened sessions, short courses, scientific and industrial workshops,
+  a Student Design Contest and paper awards
+- Papers 2 to 5 A4 pages via EDAS; presented papers go to IEEE Xplore only if authors opt in, papers not presented
+  are not submitted
+- Firm October paper deadline with no extension; held in a European city in March or April (Madrid 2022, Florence
+  2023, Glasgow 2024, Stockholm 2025, Dublin 2026, Düsseldorf 2027)
+- Not ranked by CORE or CCF; antennas and propagation venue outside the usual CS rankings
+editions:
+- year: 2026
+  start: 2026-04-19
+  end: 2026-04-24
+  location: Dublin, Ireland
+  url: https://www.eucap2026.org/
+- year: 2027
+  start: 2027-04-18
+  end: 2027-04-23
+  location: Düsseldorf, Germany (Congress Center Düsseldorf)
+  url: https://www.eucap2027.org/
+  deadlines:
+  - kind: other
+    date: 2026-06-19
+    label: Convened session proposals
+  - kind: submission
+    date: 2026-10-16
+    label: Papers (firm, no extension)
+  - kind: other
+    date: 2026-11-14
+    label: Short course and scientific workshop proposals
+  - kind: other
+    date: 2026-12-04
+    label: Industrial workshop proposals
+  - kind: notification
+    date: 2026-12-15
+  - kind: camera_ready
+    date: 2027-01-29
+    label: Final version for IEEE Xplore and author registration
+sources:
+- https://www.eucap2027.org/
+- https://www.eucap2027.org/call-papers
+- https://www.eucap2026.org/
+- https://www.eucap2025.org/
+- https://www.eucap2024.org/
+- https://www.eucap2023.org/
+- https://www.eucap2022.org/
+- https://www.euraap.org/
+- https://portal.core.edu.au/conf-ranks/?search=EuCAP&by=all&source=ICORE2026
+unverified:
+- IEEE technical co-sponsorship (not stated on the 2027 pages checked)
+- dblp page not checked
+last_verified: 2026-10-11

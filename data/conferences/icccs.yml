@@ -1,0 +1,69 @@
+id: icccs
+name: ICCCS
+full_name: International Conference on Computer and Communication Systems
+type: conference
+tier: minor
+areas: [networking, communications]
+region: china
+language: english
+frequency: annual
+organizer: ICCCS organizing committee with a host university each year (Wuhan University of Technology 2026, Shenzhen
+  University 2027), with IEEE
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+fee: 600 USD / 4200 RMB author non-member, 550 USD / 3900 RMB student non-member, 520 USD / 3700 RMB IEEE member;
+  listeners 220 to 250 USD (2027)
+typical:
+  deadline_months: [10]
+  conference_months: [4]
+links:
+  website: https://www.icccs.org/
+notes:
+- Started in 2015 (Kanyakumari, India); held in Krakow, Nagoya and Singapore before moving to China, held in
+  Chinese university cities every year since 2020 (virtual in 2020 and 2022)
+- Papers published in IEEE conference proceedings in IEEE Xplore; the site states all editions 2015 to 2026 are
+  indexed by EI Compendex and Scopus
+- Not listed in ICORE2026; host university changes every year
+- Not the same venue as IEEE ICCC (International Conference on Computer and Communications, Chengdu)
+editions:
+- year: 2026
+  label: ICCCS 2026 (11th edition)
+  start: 2026-04-17
+  end: 2026-04-20
+  location: Wuhan, China
+  url: https://www.icccs.org/icccs2026.html
+  deadlines: []
+- year: 2027
+  label: ICCCS 2027 (12th edition)
+  start: 2027-04-17
+  end: 2027-04-20
+  location: Shenzhen University, Shenzhen, China
+  url: https://www.icccs.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-20
+  - kind: notification
+    date: 2026-11-20
+  - kind: other
+    date: 2026-12-05
+    label: Author registration
+  - kind: camera_ready
+    date: 2026-12-20
+  - kind: other
+    date: 2027-04-11
+    label: Listener registration
+sources:
+- https://www.icccs.org/
+- https://www.icccs.org/date.html
+- https://www.icccs.org/registration.html
+- https://www.icccs.org/publication-history.html
+- https://www.icccs.org/icccs2026.html
+- https://portal.core.edu.au/conf-ranks/?search=ICCCS&by=all&source=ICORE2026
+unverified:
+- ICCCS 2027 dates conflict on the official site (banner and registration page say April 17-20, the About section
+  and Important Dates page say April 16-19, 2027)
+- ISSN of the proceedings series (not stated on the official site)
+- ICCCS 2026 Important Dates (only the 2027 cycle is shown on the site)
+last_verified: 2026-10-11

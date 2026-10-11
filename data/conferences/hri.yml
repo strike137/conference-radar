@@ -1,0 +1,140 @@
+id: hri
+name: HRI
+full_name: ACM/IEEE International Conference on Human-Robot Interaction
+type: conference
+tier: top
+areas: [ai, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI, ACM SIGAI and IEEE RAS
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A*
+typical:
+  deadline_months: [9]
+  conference_months: [3]
+links:
+  website: https://humanrobotinteraction.org/
+  dblp: https://dblp.org/db/conf/hri/index.html
+notes:
+- Sponsored by ACM SIGCHI and SIGAI and IEEE RAS; the premier venue for human-robot interaction research
+- CORE A* (ICORE2026); full papers archived in the ACM Digital Library
+- Highly selective two-stage review with rebuttal and a program committee meeting; double-blind; full papers up to
+  8 pages excluding references; mandatory abstract one week before the paper deadline
+- Five full paper tracks; also short contributions, late-breaking reports, alt.HRI, videos and demos, industry
+  white papers, student design competition and HRI Pioneers
+- Location rotates worldwide (Edinburgh 2026, Santa Clara 2027)
+editions:
+- year: 2026
+  start: 2026-03-16
+  end: 2026-03-19
+  location: Edinburgh, UK
+  url: https://humanrobotinteraction.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-22
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2025-09-30
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2025-11-07
+    label: Full papers review notification
+  - kind: other
+    date: 2025-11-12
+    time: "23:59"
+    tz: AoE
+    label: Full papers rebuttals due
+  - kind: notification
+    date: 2025-12-01
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-01-12
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended from 2026-01-09)
+- year: 2027
+  start: 2027-03-08
+  end: 2027-03-12
+  location: Santa Clara, CA, USA
+  url: https://humanrobotinteraction.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-11
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-09-18
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-10-01
+    time: "23:59"
+    tz: AoE
+    label: Short contributions
+  - kind: other
+    date: 2026-10-05
+    time: "23:59"
+    tz: AoE
+    label: Workshop and tutorial proposals
+  - kind: other
+    date: 2026-10-10
+    time: "23:59"
+    tz: AoE
+    label: Industry white papers
+  - kind: other
+    date: 2026-10-18
+    time: "23:59"
+    tz: AoE
+    label: HRI Pioneers
+  - kind: other
+    date: 2026-10-28
+    label: Full papers review notification
+  - kind: other
+    date: 2026-11-03
+    time: "23:59"
+    tz: AoE
+    label: Full papers rebuttals due
+  - kind: other
+    date: 2026-11-20
+    time: "23:59"
+    tz: AoE
+    label: Videos and demos; student design competition
+  - kind: notification
+    date: 2026-11-30
+    label: Full papers
+  - kind: notification
+    date: 2026-12-02
+    label: Short contributions
+  - kind: submission
+    date: 2026-12-08
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking reports
+  - kind: camera_ready
+    date: 2026-12-18
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2027-01-13
+    label: Late-breaking reports
+sources:
+- https://humanrobotinteraction.org/2026/
+- https://humanrobotinteraction.org/2026/full-papers/
+- https://humanrobotinteraction.org/2027/
+- https://humanrobotinteraction.org/2027/full-papers/
+- https://portal.core.edu.au/conf-ranks/?search=HRI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Acceptance rate and registration fee
+- Whether HRI proceedings also appear in IEEE Xplore (the CFP names only the ACM Digital Library)
+last_verified: 2026-10-11

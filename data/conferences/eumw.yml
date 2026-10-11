@@ -1,0 +1,67 @@
+id: eumw
+name: EuMW
+full_name: European Microwave Week (EuMC/EuRAD/EuMIC)
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: annual
+organizer: European Microwave Association (EuMA) with Horizon House
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [9, 10]
+links:
+  website: https://www.eumw.eu/
+notes:
+- Week of three co-located conferences run by EuMA with Horizon House; 2026 was the 29th EuMW
+- "2026 conferences: 56th European Microwave Conference (EuMC), 21st European Microwave Integrated Circuits Conference
+  (EuMIC) and 23rd European Radar Conference (EuRAD)"
+- One paper deadline for all three conferences, with forums, workshops, short courses and a large industry exhibition
+- Covers microwave and millimetre-wave engineering, radar and sensing, RF integrated circuits, antennas, terahertz
+  and 6G
+- Peer-reviewed papers; at least one author must register and present in person, otherwise the paper is not published
+  in IEEE Xplore
+- Rotates among European cities (Berlin 2023, Paris 2024, Utrecht 2025, London 2026)
+- Main European counterpart of IEEE IMS; microwave engineering venue outside the usual CS rankings, not listed in
+  ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-21
+  end: 2025-09-26
+  location: Utrecht, Netherlands
+  url: https://2025.eumw.eu/
+- year: 2026
+  start: 2026-10-04
+  end: 2026-10-09
+  location: London, United Kingdom
+  url: https://www.eumw.eu/
+  deadlines:
+  - kind: other
+    date: 2026-02-08
+    label: Workshop, short course, focused and special session proposals
+  - kind: submission
+    date: 2026-03-27
+    label: Papers (EuMC, EuMIC, EuRAD)
+  - kind: notification
+    date: 2026-05-29
+  - kind: camera_ready
+    date: 2026-07-01
+    label: Final papers
+sources:
+- https://www.eumw.eu/
+- https://www.eumw.eu/homepage/authors/
+- https://www.eumw.eu/conferences/
+- https://www.eumw.eu/events
+- https://www.eumw.eu/event/eumw-2025/
+- https://www.eumw.eu/event/eumw-2024/
+- https://2025.eumw.eu/
+- https://portal.core.edu.au/conf-ranks/?search=EuMC&by=all&source=ICORE2026
+unverified:
+- EuMW 2027 host city and dates (not yet listed on the official events page)
+- Deadline time and time zone, page limit and acceptance rate not stated on the official pages
+- EuMW 2025 deadlines not checked
+last_verified: 2026-10-11

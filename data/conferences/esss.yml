@@ -1,0 +1,65 @@
+id: esss
+name: ESSS
+full_name: IEICE ESS Symposium (Engineering Sciences Society Symposium)
+type: conference
+tier: minor
+areas: [general, communications, security, ai]
+region: japan
+language: english
+organizer: IEICE Engineering Sciences Society (ESS)
+organizer_country: [japan]
+proceedings: IEICE Proceedings Series
+archival: true
+fee: 45,000 JPY regular non-member, 40,000 JPY IEICE member, 23,000 JPY student non-member, 18,000 JPY student member
+  (2026, early; 30% discount when also registering for ISITA 2026)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://esss.ieice.org/
+notes:
+- International symposium of the IEICE Engineering Sciences Society spanning its four sub-societies; only the 2026
+  edition has been announced
+- Topics include signal processing, circuits, VLSI, acoustics, information theory, information security,
+  communication theory, ITS and biometrics, plus generative, agentic and physical AI
+- Regular papers of up to 2 pages plus 1 page of references; single-blind review; no camera-ready phase, the
+  submitted version is published
+- Accepted and presented papers appear in the IEICE Proceedings Series after the event
+- Separate poster session with light screening; poster abstracts are not in the proceedings
+- In person only; 2026 edition in Naha, Okinawa, held back to back with ISITA 2026
+- Each paper needs a regular (non-student) registration; one registration covers up to three papers
+editions:
+- year: 2026
+  start: 2026-10-30
+  end: 2026-11-01
+  location: Naha, Okinawa, Japan
+  url: https://esss.ieice.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-07
+    tz: AoE
+    label: Regular papers (extended from 2026-06-30)
+  - kind: notification
+    date: 2026-08-31
+    tz: AoE
+    label: Regular papers
+  - kind: other
+    date: 2026-09-28
+    tz: AoE
+    label: Poster submission (extended from 2026-09-14, not in proceedings)
+  - kind: notification
+    date: 2026-09-30
+    tz: AoE
+    label: Posters
+sources:
+- https://esss.ieice.org/
+- https://esss.ieice.org/call-for-papers/
+- https://esss.ieice.org/authors-guideline/
+- https://esss.ieice.org/poster/
+- https://esss.ieice.org/registration/
+- https://esss.ieice.org/conference-venue/
+- https://portal.core.edu.au/conf-ranks/?search=ESSS&by=all&source=ICORE2026
+unverified:
+- Frequency and the next edition (only the 2026 edition is announced; the site does not say whether it is annual)
+- Not listed in CORE ICORE2026
+last_verified: 2026-10-11

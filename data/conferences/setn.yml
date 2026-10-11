@@ -1,0 +1,51 @@
+id: setn
+name: SETN
+full_name: EETN Conference on Artificial Intelligence (Hellenic Conference on Artificial Intelligence)
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: EETN (Hellenic Artificial Intelligence Society)
+organizer_country: [europe]
+proceedings: ACM DL (ACM International Conference Proceedings Series)
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9]
+links:
+  website: https://www.setn2026.tuc.gr/
+  dblp: https://dblp.org/db/conf/setn/index.html
+notes:
+- Run by the Hellenic Artificial Intelligence Society (EETN); established in 1996 and held every two years at different places in Greece since 2002
+- Proceedings in the ACM International Conference Proceedings Series (ACM DL), open access at no cost to authors in 2026
+- SETN 2026 (14th edition) was co-organized with the Technical University of Crete at the Cultural Centre of Chania
+- Full papers 6 to 10 pages, short papers 2 to 4 pages, plus nectar abstracts of already published work; double-blind review
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-09
+  end: 2026-09-11
+  location: Chania, Crete, Greece
+  url: https://www.setn2026.tuc.gr/
+  deadlines:
+  - kind: submission
+    date: 2026-05-04
+    tz: AoE
+    label: Extended from 2026-04-03
+  - kind: notification
+    date: 2026-06-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-24
+    tz: AoE
+sources:
+- https://www.setn2026.tuc.gr/
+- https://www.setn2026.tuc.gr/en/cfp
+- https://www.setn2026.tuc.gr/en/home
+- https://portal.core.edu.au/conf-ranks/?search=SETN&by=all&source=ICORE2026
+unverified:
+- "Next edition: the SETN 2026 site says the conference is biennial but its closing news item says \"see you next year at SETN 2027\"; no SETN 2027 dates found as of 2026-10-11"
+- SETN 2026 proceedings were listed as pending ACM approval on the CFP page
+last_verified: 2026-10-11

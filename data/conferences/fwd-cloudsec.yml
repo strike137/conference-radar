@@ -1,0 +1,103 @@
+id: fwd-cloudsec
+name: fwd:cloudsec
+full_name: fwd:cloudsec Cloud Security Conference
+type: industry
+tier: minor
+areas: [security, systems]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Forward CloudSec Association
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [2, 3, 5, 6]
+  conference_months: [6, 9]
+links:
+  website: https://fwdcloudsec.org/
+notes:
+- Non-profit, volunteer-run practitioner conference on public cloud and cloud-native security, organized by the Forward CloudSec Association (US 501(c)(3))
+- Two editions a year since 2024 -> North America (June) and Europe (September)
+- "North America venues: Salt Lake City 2021, Boston 2022, Arlington VA 2024, Denver 2025, Bellevue WA 2026"
+- "Europe venues: Brussels 2024, Berlin 2025, London 2026"
+- Two-round CFP via Pretalx; first-pass review is blind; sales pitches are rejected; first-time speakers can ask for detailed feedback
+- No proceedings; talk recordings are posted on YouTube
+editions:
+- year: 2025
+  label: North America 2025
+  start: 2025-06-30
+  end: 2025-07-01
+  location: Embassy Suites by Hilton Denver Downtown Convention, Denver, CO, USA
+  url: https://fwdcloudsec.org/conference/archive/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-20
+    label: North America CFP closes
+- year: 2025
+  label: Europe 2025
+  start: 2025-09-15
+  end: 2025-09-16
+  location: Berlin, Germany
+  url: https://fwdcloudsec.org/conference/archive/eu_2025/
+  deadlines: []
+- year: 2026
+  label: North America 2026
+  start: 2026-06-01
+  end: 2026-06-02
+  location: Meydenbauer Center, Bellevue, WA, USA (and virtual)
+  url: https://fwdcloudsec.org/conference/north-america/
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    time: "23:59"
+    tz: PST
+    label: North America round one
+  - kind: notification
+    date: 2026-03-02
+    label: North America round one
+  - kind: submission
+    date: 2026-03-20
+    time: "23:59"
+    tz: PDT
+    label: North America final round
+  - kind: notification
+    date: 2026-04-09
+    label: North America final
+- year: 2026
+  label: Europe 2026
+  start: 2026-09-07
+  end: 2026-09-08
+  location: Park Plaza Victoria, London, UK
+  url: https://fwdcloudsec.org/conference/europe/
+  deadlines:
+  - kind: submission
+    date: 2026-05-01
+    label: Europe round one
+  - kind: notification
+    date: 2026-05-22
+    label: Europe round one feedback
+  - kind: submission
+    date: 2026-06-13
+    label: Europe final round (extended from 2026-06-12)
+  - kind: notification
+    date: 2026-07-03
+    label: Europe final
+sources:
+- https://fwdcloudsec.org/
+- https://fwdcloudsec.org/conference/north-america/
+- https://fwdcloudsec.org/conference/north-america/cfp.html
+- https://fwdcloudsec.org/conference/europe/
+- https://fwdcloudsec.org/conference/europe/cfp.html
+- https://fwdcloudsec.org/conference/archive/2025/
+- https://fwdcloudsec.org/conference/archive/eu_2025/
+- https://fwdcloudsec.org/conference/archive/2024/
+- https://fwdcloudsec.org/conference/archive/eu_2024/
+- https://fwdcloudsec.org/conference/archive/2022/
+- https://fwdcloudsec.org/conference/archive/2021/
+- https://portal.core.edu.au/conf-ranks/?search=cloudsec&by=all&source=ICORE2026
+unverified:
+- Europe 2026 CFP dates are given on the CFP page without a year, time or time zone
+- 2027 editions not yet announced
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

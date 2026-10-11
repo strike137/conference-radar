@@ -1,0 +1,64 @@
+id: icnlp
+name: ICNLP
+full_name: International Conference on Natural Language Processing
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: china
+language: english
+frequency: annual
+organizer: Chinese host universities, a different one each year (Jiangsu University of Science and Technology in
+  2027, Xi'an University of Posts and Telecommunications in 2026)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [11, 12]
+  conference_months: [3, 4]
+links:
+  website: https://www.icnlp.net/
+notes:
+- Chinese NLP conference series started in 2019; not the same venue as ICON (International Conference on Natural
+  Language Processing) in India
+- Proceedings of ICNLP 2025 and 2026 are in IEEE Xplore and indexed by EI Compendex and Scopus
+- Selected ICNLP 2027 papers can be extended (at least 30% new content) for an MDPI Mathematics special issue
+- Held in China in hybrid format with online presentation sessions (Xi'an 2024, Guangzhou 2023, Zhenjiang 2027)
+- Not listed in the CORE ICORE2026 portal (0 results), so no CORE rank is given
+editions:
+- year: 2024
+  start: 2024-03-22
+  end: 2024-03-24
+  location: Xi'an, China
+  url: https://www.icnlp.net/2024.html
+- year: 2027
+  start: 2027-04-16
+  end: 2027-04-18
+  location: Zhenjiang, China
+  url: https://www.icnlp.net/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2026-12-30
+    time: "23:59"
+    tz: PDT
+  - kind: camera_ready
+    date: 2027-01-20
+    time: "23:59"
+    tz: PDT
+    label: Camera-ready and registration
+sources:
+- https://www.icnlp.net/
+- https://www.icnlp.net/venue.html
+- https://www.icnlp.net/2026.html
+- https://www.icnlp.net/2025.html
+- https://www.icnlp.net/2024.html
+- https://www.icnlp.net/2023.html
+- https://portal.core.edu.au/conf-ranks/?search=ICNLP&by=all&source=ICORE2026
+unverified:
+- Exact dates and city of ICNLP 2025 and ICNLP 2026 (the official past-edition pages do not state them)
+- Publisher of the ICNLP 2027 proceedings (the site says only "Conference Proceedings"; 2025 and 2026 were IEEE)
+last_verified: 2026-10-11

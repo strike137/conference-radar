@@ -1,0 +1,54 @@
+id: chil
+name: CHIL
+full_name: Conference on Health, Inference, and Learning
+type: conference
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Association for Health Learning and Inference (AHLI)
+organizer_country: [usa]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://chil.ahli.cc/
+notes:
+- Run by the Association for Health Learning and Inference (AHLI); machine learning for health
+- Proceedings in PMLR (2026 -> vol. 333, 2025 -> vol. 287)
+- Held in the USA (New York 2024, Berkeley 2025, Seattle 2026); early editions were virtual
+- Three tracks (models and methods, applications and practice, impact and society); double-blind review with rebuttal
+- Reciprocal reviewing; one author per submission must review at least three papers
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-06-25
+  end: 2025-06-27
+  location: UC Berkeley, Berkeley, USA
+  url: https://chil.ahli.cc/2025/
+- year: 2026
+  start: 2026-06-28
+  end: 2026-06-30
+  location: Seattle Children's Research Institute, Seattle, USA
+  url: https://chil.ahli.cc/
+  deadlines:
+  - kind: submission
+    date: 2026-02-04
+  - kind: other
+    date: 2026-03-17
+    label: Author rebuttal
+  - kind: notification
+    date: 2026-04-09
+sources:
+- https://chil.ahli.cc/
+- https://chil.ahli.cc/submit/call-for-papers/
+- https://proceedings.mlr.press/v333/
+- https://proceedings.mlr.press/v287/
+- https://proceedings.mlr.press/v248/
+- https://portal.core.edu.au/conf-ranks/?search=CHIL&by=all&source=ICORE2026
+unverified:
+- CHIL 2027 dates and location not yet announced
+last_verified: 2026-10-11

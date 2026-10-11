@@ -1,0 +1,59 @@
+id: icaisc
+name: ICAISC
+full_name: International Conference on Artificial Intelligence and Soft Computing
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: Polish Neural Network Society
+organizer_country: [europe]
+proceedings: Springer LNAI
+archival: true
+rank:
+  core: 'National: Poland'
+typical:
+  deadline_months: [11, 2]
+  conference_months: [6]
+links:
+  website: https://icaisc.eu/
+  dblp: https://dblp.org/db/conf/icaisc/index.html
+notes:
+- Run by the Polish Neural Network Society with Częstochowa University of Technology and SAN University in Łódź as co-organizers
+- Held in Zakopane, Poland, in June (October 2020 and 2021 editions were online); hybrid (on-site and online presentation) since 2022
+- Proceedings in Springer LNAI (LNCS in some years); full papers of about 12 pages
+- Series dates back to 1994; annual in recent years
+- CORE ICORE2026 rank is National (Poland)
+editions:
+- year: 2026
+  start: 2026-06-14
+  end: 2026-06-18
+  location: Zakopane, Poland
+  url: https://icaisc2026.icaisc.eu/
+  deadlines:
+  - kind: submission
+    date: 2026-02-16
+  - kind: camera_ready
+    date: 2026-04-10
+- year: 2027
+  start: 2027-06-20
+  end: 2027-06-24
+  location: Zakopane, Poland
+  url: https://icaisc.eu/
+  deadlines:
+  - kind: submission
+    date: 2026-11-15
+  - kind: notification
+    date: 2027-02-28
+    label: Notifications start
+  - kind: camera_ready
+    date: 2027-03-25
+sources:
+- https://icaisc.eu/
+- https://icaisc2026.icaisc.eu/
+- https://portal.core.edu.au/conf-ranks/?search=ICAISC&by=all&source=ICORE2026
+unverified:
+- ICAISC 2027 venue named as both Bachleda Hotel Kasprowy and Mercury Kasprowy Hotel on the site
+- ICAISC 2026 notification date given as "from February 1, 2026", before the listed submission date
+last_verified: 2026-10-11

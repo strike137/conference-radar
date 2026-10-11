@@ -1,0 +1,88 @@
+id: wiss
+name: WISS
+full_name: Workshop on Interactive Systems and Software
+name_local: インタラクティブシステムとソフトウェアに関するワークショップ
+type: conference
+tier: domestic
+areas: [general, software]
+region: japan
+language: mixed
+frequency: annual
+organizer: JSSST SIG on Interactive Systems and Software (Japan Society for Software Science and Technology)
+organizer_country: [japan]
+proceedings: WISS web proceedings (wiss.org)
+archival: false
+typical:
+  deadline_months: [8, 10]
+  conference_months: [12]
+links:
+  website: https://www.wiss.org/
+notes:
+- Annual interactive systems and HCI workshop of the JSSST SIG on Interactive Systems and Software, held every
+  December at a resort hotel in Japan (2026 is the 34th edition)
+- Oral papers up to 6 pages in Japanese or English with single-blind review; a working implementation is required
+- Papers and some reviewer comments are published in open web and PDF proceedings; presenting does not prevent
+  later submission to international conferences or journals, and demo papers are explicitly non-archival
+- Demo (2 pages), WISS Challenge and invited talks on international conference papers in addition to orals
+- On-site only, usually over 150 participants
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Jozankei View Hotel, Sapporo, Hokkaido, Japan
+  url: https://www.wiss.org/WISS2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-31
+    label: Oral papers
+  - kind: notification
+    date: 2025-10-10
+    label: Oral papers
+  - kind: other
+    date: 2025-10-24
+    label: Demo and WISS Challenge submission
+- year: 2026
+  start: 2026-12-09
+  end: 2026-12-11
+  location: Naeba Prince Hotel, Niigata, Japan
+  url: https://www.wiss.org/WISS2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    time: "23:59"
+    tz: JST
+    label: Oral papers
+  - kind: other
+    date: 2026-10-02
+    time: "23:59"
+    tz: JST
+    label: Demo papers (early)
+  - kind: other
+    date: 2026-10-16
+    time: "23:59"
+    tz: JST
+    label: Demo papers (regular)
+  - kind: notification
+    date: 2026-10-19
+    label: Oral papers
+  - kind: camera_ready
+    date: 2026-10-30
+    label: Oral papers
+  - kind: other
+    date: 2026-10-30
+    time: "23:59"
+    tz: JST
+    label: Demo papers (additional, only if space remains)
+sources:
+- https://www.wiss.org/
+- https://www.wiss.org/WISS2026/
+- https://www.wiss.org/WISS2026/cfp-oral.html
+- https://www.wiss.org/WISS2026/cfp-demo.html
+- https://www.wiss.org/WISS2025/
+- https://www.wiss.org/WISS2025Proceedings/
+unverified:
+- Not found in the ICORE2026 portal search
+- WISS 2026 oral deadline given as the submission site closing at 00:00 JST on 2026-09-01; recorded as 23:59 JST on
+  2026-08-31
+last_verified: 2026-10-11

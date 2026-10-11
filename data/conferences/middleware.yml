@@ -1,0 +1,89 @@
+id: middleware
+name: Middleware
+full_name: ACM/IFIP International Middleware Conference
+type: conference
+tier: major
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM and IFIP (Middleware Steering Committee)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [5, 6, 11, 12]
+  conference_months: [12]
+links:
+  website: https://www.middleware-conference.org/
+  dblp: https://dblp.org/db/conf/middleware/index.html
+notes:
+- Main venue for middleware and distributed systems software (cloud, edge, serverless, data processing platforms), usually held in December
+- ACM event, run with IFIP; CORE lists it as ACM/IFIP/USENIX International Middleware Conference
+- Location rotates worldwide (Bologna 2023, Hong Kong 2024, Nashville 2025, Tarragona 2026, Kyoto 2027)
+- Proceedings in ACM DL (full open access from 2026)
+- Two submission cycles (winter and summer) with abstract registration a week before the firm paper deadline
+- Doubly anonymous review with early rejection, rebuttal, and minor or major revision outcomes; a major revision moves to the next cycle
+- Research and experimentation/deployment papers up to 12 pages, Big Ideas papers up to 6 pages (ACM SIGCONF)
+- Voluntary artifact evaluation with badges
+- 'CORE rank A (ICORE2026); CCF B'
+editions:
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-18
+  location: Universitat Rovira i Virgili, Tarragona, Spain
+  url: https://middleware-conf.github.io/2026/
+- year: 2027
+  start: 2027-12-13
+  end: 2027-12-17
+  location: Kyoto, Japan
+  url: https://middleware-conf.github.io/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-27
+    label: Winter cycle
+  - kind: submission
+    date: 2026-12-04
+    label: Winter cycle (firm)
+  - kind: notification
+    date: 2027-02-02
+    label: Winter cycle early rejection
+  - kind: notification
+    date: 2027-03-29
+    label: Winter cycle
+  - kind: camera_ready
+    date: 2027-05-07
+    label: Winter cycle
+  - kind: abstract
+    date: 2027-05-28
+    label: Summer cycle
+  - kind: submission
+    date: 2027-06-04
+    label: Summer cycle (firm)
+  - kind: notification
+    date: 2027-07-13
+    label: Summer cycle early rejection
+  - kind: notification
+    date: 2027-09-13
+    label: Summer cycle
+  - kind: camera_ready
+    date: 2027-10-15
+    label: Summer cycle
+sources:
+- https://middleware-conf.github.io/
+- https://middleware-conf.github.io/2023/
+- https://middleware-conf.github.io/2024/
+- https://middleware-conf.github.io/2025/
+- https://middleware-conf.github.io/2026/
+- https://middleware-conf.github.io/2027/
+- https://middleware-conf.github.io/2027/call-for-papers/
+- https://middleware-conf.github.io/proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=Middleware&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- Middleware 2026 submission deadlines not shown on its official page
+- Deadline time zone not stated on the 2027 CFP
+last_verified: 2026-10-11

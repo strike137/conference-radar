@@ -1,0 +1,62 @@
+id: northsec
+name: NorthSec
+full_name: NorthSec Applied Security Conference and CTF
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: NorthSec
+organizer_country: [canada]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5]
+links:
+  website: https://nsec.io/
+notes:
+- Applied security event in Montreal with training, a two-day conference and a 48-hour on-site CTF
+- Held at Marché Bonsecours in Old Montreal (2022 to 2024, again from 2026)
+- 1500+ participants; the CTF has 90+ teams of 8 people
+- CFP takes 30-minute talks, 2-3 hour workshops and community villages in two rounds; sponsored talks are not
+  accepted
+- Talks are streamed on YouTube; no published proceedings
+- "Tickets (2027 early bird): conference 440 CAD, CTF 290 CAD, conference + CTF 590 CAD"
+editions:
+- year: 2026
+  start: 2026-05-14
+  end: 2026-05-15
+  location: Marché Bonsecours, Montreal, Canada
+  url: https://cfp.nsec.io/2026/cfp
+  deadlines:
+  - kind: submission
+    date: 2026-02-02
+    label: CFP round 1
+  - kind: submission
+    date: 2026-03-02
+    label: CFP round 2
+  - kind: other
+    date: 2026-04-08
+    time: "23:59"
+    tz: EDT
+    label: CFP final close (America/New_York)
+- year: 2027
+  start: 2027-05-10
+  end: 2027-05-16
+  location: Marché Bonsecours, Montreal, Canada
+  url: https://nsec.io/
+  status: confirmed
+sources:
+- https://nsec.io/
+- https://nsec.io/cfp/
+- https://cfp.nsec.io/2026/cfp
+- https://nsec.io/past-editions/
+- https://portal.core.edu.au/conf-ranks/?search=NorthSec&by=all&source=ICORE2026
+unverified:
+- 2026 dates above are the conference days only (training and CTF days for 2026 not found on the official site)
+- 2027 dates cover training (May 10-12), conference (May 13-14) and CTF (May 14-16); 2027 CFP not yet announced
+- Legal form of the organizing body not stated on the site
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

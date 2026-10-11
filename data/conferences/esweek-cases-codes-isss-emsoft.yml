@@ -1,0 +1,91 @@
+id: esweek-cases-codes-isss-emsoft
+name: ESWEEK (CASES/CODES+ISSS/EMSOFT)
+full_name: Embedded Systems Week (CASES, CODES+ISSS, EMSOFT)
+type: conference
+tier: major
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE and ACM (society representatives from IEEE CEDA/CAS, ACM SIGBED, ACM SIGMICRO and ACM SIGDA)
+organizer_country: [international]
+proceedings: IEEE TCAD (full papers) and IEEE Embedded Systems Letters (late-breaking papers)
+archival: true
+rank:
+  core: Journal Published
+  ccf: B
+typical:
+  deadline_months: [3]
+  conference_months: [9, 10]
+links:
+  website: https://www.esweek.org/
+notes:
+- One week that runs three parallel conferences, CASES (compilers and architecture for embedded systems), CODES
+  (hardware/software co-design, formerly CODES+ISSS) and EMSOFT (embedded software), plus MEMOCODE and workshops
+- One registration covers all three conferences
+- "Journal-integrated model: accepted full papers are published in IEEE TCAD after two review rounds; late-breaking
+  papers (4 pages) go to IEEE Embedded Systems Letters"
+- Journal track papers up to 12 pages in IEEE double-column format; deadlines midnight AoE; artifact evaluation offered
+- CORE lists CASES, CODES+ISSS and EMSOFT as journal published; CCF ranks CODES+ISSS and EMSOFT B, CASES C
+- Held late September or early October; recent editions in Hamburg (2023), Raleigh (2024), Taipei (2025) and
+  Barcelona (2026)
+editions:
+- year: 2025
+  start: 2025-09-28
+  end: 2025-10-03
+  location: Taipei, Taiwan
+  url: https://2025.esweek.org/
+- year: 2026
+  start: 2026-10-04
+  end: 2026-10-09
+  location: Hotel Barceló Sants, Barcelona, Spain
+  url: https://www.esweek.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-23
+    tz: AoE
+    label: Journal track
+  - kind: submission
+    date: 2026-03-30
+    tz: AoE
+    label: Journal track full paper (firm)
+  - kind: other
+    date: 2026-03-30
+    tz: AoE
+    label: Workshop, education class and special session proposals
+  - kind: notification
+    date: 2026-05-22
+    label: Journal track first round
+  - kind: submission
+    date: 2026-06-05
+    tz: AoE
+    label: Late-breaking papers (firm)
+  - kind: other
+    date: 2026-06-19
+    tz: AoE
+    label: Journal track revised paper (firm)
+  - kind: notification
+    date: 2026-07-17
+    label: Journal track and late-breaking
+  - kind: camera_ready
+    date: 2026-08-17
+    label: All tracks
+sources:
+- https://www.esweek.org/
+- http://esweek.org/wp-content/uploads/2025/12/ESWeek2026_CFP_v0.5.pdf
+- https://esweek.org/travel-and-venue/
+- https://esweek.org/organizational-structure/
+- https://esweek.org/archive/
+- https://2025.esweek.org/
+- https://2024.esweek.org/
+- https://2023.esweek.org/
+- https://portal.core.edu.au/conf-ranks/?search=CASES&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=CODES&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=EMSOFT&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF list mirror, updated 2026-04-06)
+unverified:
+- CCF ranks checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly (site blocks automated
+  access); rank.ccf B applies to CODES+ISSS and EMSOFT, CASES is CCF C
+- ESWEEK 2027 dates and location (not announced as of 2026-10-11)
+- Acceptance rate (not stated on the official pages)
+last_verified: 2026-10-11

@@ -1,0 +1,62 @@
+id: canadian-ai
+name: Canadian AI
+full_name: Canadian Conference on Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: CAIAC (Canadian Artificial Intelligence Association)
+organizer_country: [canada]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [12, 2]
+  conference_months: [5, 6]
+links:
+  website: https://www.caiac.ca/en/conferences
+notes:
+- Organized by CAIAC; held every year in a Canadian city (Montreal 2023, Guelph 2024, Calgary 2025, Vancouver 2026)
+- Proceedings in PMLR from 2026 (volume 318); 2021 to 2025 proceedings were open access on CAIAC PubPub
+- Long papers up to 12 pages and short papers up to 6 pages; double-blind review; two submission rounds with revise and resubmit
+- Co-located with Computer and Robot Vision (CRV) as AI/CRV; includes a graduate student symposium
+- Not listed in the CORE ICORE2026 portal; mid-size and student-friendly
+- At least one author must attend in person
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-29
+  location: Burnaby (Vancouver), Canada
+  url: https://www.caiac.ca/en/conferences/canadianai-2026
+  deadlines:
+  - kind: submission
+    date: 2025-12-22
+    time: "23:59"
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2026-01-20
+    label: Round 1
+  - kind: submission
+    date: 2026-02-20
+    time: "23:59"
+    tz: AoE
+    label: Round 2
+  - kind: notification
+    date: 2026-04-07
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-04-20
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.caiac.ca/en/conferences
+- https://www.caiac.ca/en/conferences/canadianai-2026
+- https://www.caiac.ca/en/conferences/canadianai-2026/call-papers
+- https://proceedings.mlr.press/v318/
+- https://portal.core.edu.au/conf-ranks/?search=Canadian&by=all&source=ICORE2026
+unverified:
+- Canadian AI 2027 dates and location not yet announced (as of 2026-10-11)
+- Round 2 deadline banner on the CFP page also shows 13 Feb 2026; body text says 20 Feb 2026 (used)
+last_verified: 2026-10-11

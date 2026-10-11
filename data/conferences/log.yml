@@ -1,0 +1,66 @@
+id: log
+name: LoG
+full_name: Learning on Graphs Conference
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: LoG organizing committee
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11, 12]
+links:
+  website: https://logconference.org/
+  dblp: https://dblp.org/db/conf/log/index.html
+notes:
+- Conference on machine learning on graphs and geometric deep learning, started in 2022
+- Proceedings track papers (up to 9 pages) published in PMLR (vol. 269 for 2024); 4-page extended abstracts are
+  non-archival; a TMLR journal track for papers already published in TMLR
+- Double-blind review on OpenReview with public discussion and a rebuttal stage
+- Virtual from 2022 to 2024; fully in person since 2025 (Phoenix 2025, Boston 2026)
+- At least one author per accepted paper must attend in person
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-12-10
+  end: 2025-12-12
+  location: Phoenix, USA (Arizona State University West Valley Campus)
+  url: https://log2025.logconference.org/
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-22
+  location: Boston, USA (Northeastern University)
+  url: https://logconference.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-05
+    tz: AoE
+    label: Abstract (extended from 2026-07-29)
+  - kind: submission
+    date: 2026-08-07
+    tz: AoE
+    label: Full papers (extended from 2026-08-01)
+  - kind: notification
+    date: 2026-09-13
+  - kind: other
+    date: 2026-09-30
+    tz: AoE
+    label: TMLR journal track submission
+  - kind: camera_ready
+    date: 2026-10-15
+    tz: AoE
+sources:
+- https://logconference.org/
+- https://logconference.org/cfp
+- https://log2025.logconference.org/
+- https://proceedings.mlr.press/v269/
+- https://portal.core.edu.au/conf-ranks/?search=LoG&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF list mirror)
+unverified:
+- PMLR volume number for LoG 2025
+last_verified: 2026-10-11

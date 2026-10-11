@@ -1,0 +1,95 @@
+id: hcomp
+name: HCOMP
+full_name: ACM Conference on Human-AI Complementarity and Alignment
+type: conference
+tier: major
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (AAAI conference series until 2024)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10, 11]
+links:
+  website: https://hcomp.acm.org/2026/
+notes:
+- Ran as the AAAI Conference on Human Computation and Crowdsourcing (2013 to 2024, proceedings in the AAAI digital
+  library); from 2026 an ACM conference renamed to Human-AI Complementarity and Alignment
+- 2026 proceedings in the ACM Digital Library; talks (formerly extended abstracts), posters and demos are non-archival
+- Full papers up to 6,000 words excluding references; double-blind review with a meta-review
+- Co-located with ACM Collective Intelligence (CI) 2026 at Virginia Tech's Academic Building One in Alexandria near
+  Washington DC; 2024 was co-located with ACM UIST in Pittsburgh
+- HCOMP 2027 announced for Tokyo, Japan in September 2027
+- No 2025 volume appears in the AAAI HCOMP proceedings archive
+- CORE B in ICORE2026 (listed under the old AAAI name)
+editions:
+- year: 2024
+  label: 12th HCOMP
+  start: 2024-10-16
+  end: 2024-10-19
+  location: Pittsburgh, Pennsylvania, USA
+  url: https://www.humancomputation.com/2024/
+  deadlines:
+  - kind: abstract
+    date: 2024-06-05
+    tz: AoE
+  - kind: submission
+    date: 2024-06-12
+    tz: AoE
+  - kind: notification
+    date: 2024-07-31
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-30
+  location: Virginia Tech Academic Building One, Alexandria, Virginia, USA
+  url: https://hcomp.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-08
+    time: "23:59"
+    tz: AoE
+    label: Papers and talks (extended from Jun 1)
+  - kind: submission
+    date: 2026-06-15
+    time: "23:59"
+    tz: AoE
+    label: Papers and talks (extended from Jun 8)
+  - kind: other
+    date: 2026-06-15
+    time: "23:59"
+    tz: AoE
+    label: Workshop proposals
+  - kind: other
+    date: 2026-07-23
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos (extended from Jul 16)
+  - kind: notification
+    date: 2026-07-31
+    label: Papers and talks
+  - kind: camera_ready
+    date: 2026-08-13
+    time: "23:59"
+    tz: AoE
+    label: Papers and talks
+- year: 2027
+  location: Tokyo, Japan
+sources:
+- https://hcomp.acm.org/2026/
+- https://hcomp.acm.org/2026/submit.html
+- https://hcomp.acm.org/2026/program.html
+- https://hcomp.acm.org/2026/venue.html
+- https://hcomp.acm.org/2026/organizers.html
+- https://www.humancomputation.com/2024/
+- https://ojs.aaai.org/index.php/HCOMP/issue/archive
+- https://portal.core.edu.au/conf-ranks/?search=HCOMP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Whether an HCOMP 2025 edition took place (no 2025 site or AAAI volume found)
+- HCOMP 2027 exact dates, venue and deadlines not announced as of 2026-10-11 (the 2026 site only says Tokyo, Japan, September 2027)
+last_verified: 2026-10-11

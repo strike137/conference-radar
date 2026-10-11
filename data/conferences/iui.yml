@@ -1,0 +1,106 @@
+id: iui
+name: IUI
+full_name: ACM Conference on Intelligent User Interfaces
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (SIGAI and SIGCHI)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [8, 10]
+  conference_months: [2, 3, 7]
+links:
+  website: https://iui.acm.org/2027/
+notes:
+- ACM conference sponsored by SIGAI and SIGCHI on the intersection of AI and HCI (intelligent and generative AI
+  interfaces, explainable AI, human-AI interaction)
+- CORE A (ICORE2026); CCF B
+- Proceedings in the ACM DL
+- Double-blind review with an invited rebuttal; abstract one week before the paper deadline; single-column ACM TAPS
+  format with no fixed page limit (about 8,000 words encouraged)
+- IUI 2026 ran in July in Limassol, Cyprus (the site mentions refunds for earlier March dates); IUI 2027 returns to
+  February in Helsinki with an August 2026 paper deadline
+- Posters, demos and doctoral consortium have later deadlines (Oct to Nov for IUI 2027)
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-16
+  location: Limassol, Cyprus
+  url: https://iui.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-03
+    tz: AoE
+  - kind: submission
+    date: 2025-10-10
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2025-12-12
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-23
+    tz: AoE
+- year: 2027
+  start: 2027-02-08
+  end: 2027-02-11
+  location: Helsinki, Finland
+  url: https://iui.acm.org/2027/
+  deadlines:
+  - kind: other
+    date: 2026-07-06
+    tz: AoE
+    label: Workshop proposals
+  - kind: abstract
+    date: 2026-08-13
+    tz: AoE
+  - kind: submission
+    date: 2026-08-20
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2026-08-20
+    tz: AoE
+    label: Tutorial proposals
+  - kind: other
+    date: 2026-10-19
+    tz: AoE
+    label: Doctoral consortium
+  - kind: notification
+    date: 2026-10-29
+    tz: AoE
+    label: Initial paper notification
+  - kind: other
+    date: 2026-11-05
+    tz: AoE
+    label: Invited rebuttal
+  - kind: submission
+    date: 2026-11-10
+    tz: AoE
+    label: Posters and demos
+  - kind: notification
+    date: 2026-11-23
+    tz: AoE
+    label: Final paper decision
+  - kind: camera_ready
+    date: 2026-12-03
+    tz: AoE
+sources:
+- https://iui.acm.org/2027/
+- https://iui.acm.org/2027/call-for-papers/
+- https://iui.acm.org/2026/
+- https://iui.acm.org/
+- https://dl.acm.org/doi/proceedings/10.1145/3742413
+- https://portal.core.edu.au/conf-ranks/?search=IUI&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

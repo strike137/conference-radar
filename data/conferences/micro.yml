@@ -1,0 +1,66 @@
+id: micro
+name: MICRO
+full_name: IEEE/ACM International Symposium on Microarchitecture
+type: conference
+tier: top
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGMICRO and IEEE TCuARCH
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [3, 4]
+  conference_months: [10, 11]
+links:
+  website: https://www.microarch.org/
+  dblp: https://dblp.org/db/conf/micro/index.html
+notes:
+- One of the flagship computer architecture venues; technical sponsors ACM SIGMICRO and IEEE TCuARCH
+- Regarded as a top venue (ICORE2026 A*, CCF A)
+- Held in October or November, rotating worldwide (Toronto 2023, Austin 2024, Seoul 2025, Athens 2026)
+- Double-blind review with a rebuttal/revision period; abstract registration one week before the full paper
+- Industry track added in 2026; artifact evaluation and an ACM Student Research Competition
+- MICRO-58 (2025) proceedings are in the ACM Digital Library
+editions:
+- year: 2025
+  start: 2025-10-18
+  end: 2025-10-22
+  location: Seoul, South Korea
+  url: https://www.microarch.org/micro58/
+- year: 2026
+  start: 2026-10-31
+  end: 2026-11-04
+  location: Athens, Greece
+  url: https://www.microarch.org/micro59/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-31
+    time: "23:59"
+    tz: EDT
+  - kind: submission
+    date: 2026-04-07
+    time: "23:59"
+    tz: EDT
+  - kind: notification
+    date: 2026-07-07
+  - kind: camera_ready
+    date: 2026-09-11
+sources:
+- https://www.microarch.org/
+- https://www.microarch.org/micro59/
+- https://www.microarch.org/micro59/submit/papers.php
+- https://www.microarch.org/micro59/submit/guidelines.php
+- https://www.microarch.org/micro58/
+- https://portal.core.edu.au/conf-ranks/?search=MICRO&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- MICRO-60 (2027) dates, location and deadlines not announced on microarch.org as of 2026-10-11
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
+- Acceptance rate not published on the official site
+last_verified: 2026-10-11

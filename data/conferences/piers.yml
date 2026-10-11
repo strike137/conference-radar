@@ -1,0 +1,69 @@
+id: piers
+name: PIERS
+full_name: PhotonIcs & Electromagnetics Research Symposium
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: The Electromagnetics Academy
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11, 1, 2, 3, 4]
+  conference_months: [5, 7, 11]
+links:
+  website: https://www.piers.org/
+notes:
+- Sponsored by The Electromagnetics Academy, a non-profit registered in the USA, founded in 1989 by the late Prof.
+  Jin Au Kong of MIT
+- Large symposium on electromagnetics, photonics, antennas and microwaves, organized as many focus sessions with
+  keynote, invited and contributed talks
+- Abstract submission first; full-length papers due a few months later and the paper deadline is not extended
+- PIERS 2025 Chiba proceedings were posted to IEEE Xplore (February 2026)
+- Held around the world and often in China (Hangzhou 2021, Prague 2023, Chengdu 2024, Abu Dhabi and Chiba 2025,
+  Suzhou 2026, Daejeon 2027); some years have two editions
+- Not listed in CORE (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-07-27
+  end: 2026-07-31
+  location: Suzhou, China
+  url: https://suzhou2026.piers.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-10
+    label: Abstract (extended from 2026-02-10)
+  - kind: other
+    date: 2026-04-20
+    label: Pre-registration
+  - kind: submission
+    date: 2026-04-25
+    label: Full-length paper
+- year: 2027
+  start: 2027-05-09
+  end: 2027-05-13
+  location: Daejeon, Korea
+  url: https://daejeon2027.piers.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-20
+  - kind: other
+    date: 2027-01-20
+    label: Pre-registration
+  - kind: submission
+    date: 2027-01-30
+    label: Full-length paper
+sources:
+- https://www.piers.org/
+- https://daejeon2027.piers.org/
+- https://suzhou2026.piers.org/
+- https://chiba2025.piers.org/
+- https://portal.core.edu.au/conf-ranks/?search=PIERS&by=all&source=ICORE2026
+unverified:
+- Whether PIERS proceedings other than 2025 Chiba are in IEEE Xplore (the official site states it only for Chiba)
+- Edition numbering is inconsistent on the official pages (PIERS 2027 is called the 47th and the 49th)
+- Venue in Daejeon and deadline time zones (not stated)
+last_verified: 2026-10-11

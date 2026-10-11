@@ -1,0 +1,97 @@
+id: midl
+name: MIDL
+full_name: Medical Imaging with Deep Learning
+type: conference
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: MIDL Foundation
+organizer_country: [europe]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [7]
+links:
+  website: https://www.midl.io/
+  dblp: https://dblp.org/db/conf/midl/index.html
+notes:
+- Run by the MIDL Foundation, a non-profit registered in the Netherlands
+- Full papers published in PMLR (vol. 315 for 2026, vol. 301 for 2025)
+- Main track and a clinical translation and validation track for full papers; a later short paper track for early
+  work
+- Full paper deadline in early December (AoE), rebuttal in January, decisions in February
+- 'Held worldwide: Zurich 2022, Nashville 2023, Paris 2024, Salt Lake City 2025, Taipei 2026, Porto 2027'
+- Not listed in CORE ICORE2026; regarded as a well-known venue for deep learning in medical imaging
+editions:
+- year: 2026
+  start: 2026-07-08
+  end: 2026-07-10
+  location: Taipei, Taiwan
+  url: https://2026.midl.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-03
+    time: "23:59"
+    tz: AoE
+    label: Full paper registration (extended from 2025-12-01)
+  - kind: submission
+    date: 2025-12-10
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended from 2025-12-05)
+  - kind: notification
+    date: 2026-02-14
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-04-15
+    label: Full papers
+  - kind: submission
+    date: 2026-04-15
+    time: "23:59"
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2026-05-09
+    label: Short papers
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Short papers
+- year: 2027
+  start: 2027-07-14
+  end: 2027-07-16
+  location: Porto, Portugal
+  url: https://2027.midl.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-30
+    time: "23:59"
+    tz: AoE
+    label: Full paper registration
+  - kind: submission
+    date: 2026-12-04
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2027-02-12
+    label: Full papers
+  - kind: camera_ready
+    date: 2027-03-12
+    label: Full papers
+sources:
+- https://www.midl.io/
+- https://www.midl.io/foundation
+- https://2026.midl.io/
+- https://2026.midl.io/dates
+- https://2027.midl.io/
+- https://2027.midl.io/important-dates
+- https://2027.midl.io/call-for-papers
+- https://proceedings.mlr.press/v315/
+- https://proceedings.mlr.press/v301/
+- https://portal.core.edu.au/conf-ranks/?search=MIDL&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- MIDL 2027 short paper deadlines (TBD on the official site as of 2026-10-11)
+last_verified: 2026-10-11

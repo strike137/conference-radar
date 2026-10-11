@@ -1,0 +1,70 @@
+id: ieee-africon
+name: IEEE AFRICON
+full_name: IEEE AFRICON
+type: conference
+tier: minor
+areas: [general, communications, ai, security]
+region: africa
+language: english
+frequency: biennial
+organizer: IEEE Region 8 with the host African IEEE section (South Africa Section 2025, Ghana Section 2027)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+acceptance_rate: 53% (2025, 147/277)
+typical:
+  deadline_months: [4, 7]
+  conference_months: [9, 12]
+links:
+  website: https://2027.ieee-africon.org/
+notes:
+- Flagship IEEE conference in Africa, first held in 1983 and biennial since 2007, co-sponsored by IEEE Region 8 and the IEEE Africa
+  Council
+- Proceedings in IEEE Xplore (2025 volume DOI 10.1109/AFRICON66545.2025)
+- Broad EECS scope; tracks on AI, communications and networking, IoT, cybersecurity, power and energy
+- Rotates around Africa (Addis Ababa 2015, Cape Town 2017, Accra 2019, Arusha 2021, Nairobi 2023, Polokwane 2025,
+  Accra 2027)
+- 2025 used double-blind review, 6 to 8 page papers; 2027 allows 8 pages plus up to 2 paid extra pages
+- Not listed in CORE ICORE2026
+editions:
+- year: 2023
+  start: 2023-09-20
+  end: 2023-09-22
+  location: Nairobi, Kenya (Kenya School of Monetary Studies)
+  url: https://2023.ieee-africon.org/
+- year: 2025
+  start: 2025-12-10
+  end: 2025-12-12
+  location: Polokwane, South Africa (Protea Hotel by Marriott Polokwane Ranch Resort)
+  url: https://2025.ieee-africon.org/
+  deadlines:
+  - kind: submission
+    date: 2025-08-31
+    label: Full papers (extended from 2025-07-31)
+  - kind: notification
+    date: 2025-10-31
+  - kind: camera_ready
+    date: 2025-11-07
+- year: 2027
+  start: 2027-09-23
+  end: 2027-09-25
+  location: Accra, Ghana (GIMPA)
+  url: https://2027.ieee-africon.org/
+  deadlines:
+  - kind: submission
+    date: 2027-04-30
+    label: Full papers (listed as extended deadline)
+  - kind: notification
+    date: 2027-07-31
+  - kind: camera_ready
+    date: 2027-08-30
+sources:
+- https://2027.ieee-africon.org/
+- https://2027.ieee-africon.org/authors/
+- https://2025.ieee-africon.org/
+- https://2025.ieee-africon.org/important-dates/
+- https://2025.ieee-africon.org/call-for-papers/
+- https://2023.ieee-africon.org/
+- https://doi.org/10.1109/AFRICON66545.2025
+- https://portal.core.edu.au/conf-ranks/?search=AFRICON&by=all&source=ICORE2026
+last_verified: 2026-10-11

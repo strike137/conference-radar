@@ -1,0 +1,99 @@
+id: semeval
+name: SemEval
+full_name: International Workshop on Semantic Evaluation
+type: workshop
+tier: minor
+areas: [nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACL SIGLEX (Special Interest Group on the Lexicon)
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7, 8]
+links:
+  website: https://semeval.github.io/
+notes:
+- Annual shared task evaluation workshop sponsored by ACL SIGLEX; SemEval-2026 was the 20th edition
+- Co-located with a major *ACL conference (ACL 2025 in Vienna, ACL 2026 in San Diego)
+- Runs on a long cycle; task proposals are due about 15 months before the workshop, evaluation runs in January
+- Papers are system description papers from task participants and task description papers from organizers
+- Large proceedings in the ACL Anthology (455 papers in 2026, 330 in 2025)
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-07-31
+  end: 2025-08-01
+  location: Vienna, Austria
+  url: https://semeval.github.io/SemEval2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-28
+    time: "23:59"
+    tz: AoE
+    label: System papers
+  - kind: submission
+    date: 2025-03-07
+    time: "23:59"
+    tz: AoE
+    label: Task papers
+  - kind: notification
+    date: 2025-04-07
+    time: "23:59"
+    tz: AoE
+    label: Revised from 2025-03-31
+  - kind: camera_ready
+    date: 2025-04-28
+    time: "23:59"
+    tz: AoE
+    label: Revised from 2025-04-21
+- year: 2026
+  location: San Diego, USA
+  url: https://semeval.github.io/SemEval2026/
+  deadlines:
+  - kind: other
+    date: 2025-03-31
+    time: "23:59"
+    tz: AoE
+    label: Task proposals
+  - kind: submission
+    date: 2026-03-07
+    time: "23:59"
+    tz: AoE
+    label: System papers (extended from 2026-03-02)
+  - kind: submission
+    date: 2026-03-14
+    time: "23:59"
+    tz: AoE
+    label: Task papers (extended from 2026-03-09)
+  - kind: notification
+    date: 2026-04-13
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-04
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  url: https://semeval.github.io/SemEval2027/
+  deadlines:
+  - kind: other
+    date: 2026-04-13
+    tz: AoE
+    label: Task proposals
+sources:
+- https://semeval.github.io/
+- https://semeval.github.io/SemEval2025/
+- https://semeval.github.io/SemEval2026/
+- https://semeval.github.io/SemEval2027/cft
+- https://2025.aclweb.org/
+- https://2026.aclweb.org/
+- https://aclanthology.org/venues/semeval/
+- https://portal.core.edu.au/conf-ranks/?search=SemEval&by=all&source=ICORE2026
+unverified:
+- Exact SemEval-2026 workshop days (the site says July 2026 with ACL 2026, whose workshops ran July 3 to 4)
+- SemEval-2027 host conference, location and paper deadlines (call says summer 2027, papers due February 2027)
+last_verified: 2026-10-11

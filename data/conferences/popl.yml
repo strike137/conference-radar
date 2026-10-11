@@ -1,0 +1,73 @@
+id: popl
+name: POPL
+full_name: ACM SIGPLAN Symposium on Principles of Programming Languages
+type: conference
+tier: top
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN (in cooperation with ACM SIGACT and ACM SIGLOG)
+organizer_country: [international]
+proceedings: ACM DL (PACMPL issue POPL)
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [7]
+  conference_months: [1]
+links:
+  website: https://popl27.sigplan.org/
+  dblp: https://dblp.org/db/conf/popl/index.html
+notes:
+- Flagship venue for the principles and theory of programming languages; sponsored by ACM SIGPLAN with SIGACT and SIGLOG
+- Papers are published in the PACMPL issue POPL (Gold Open Access, archived in the ACM DL); presenting is invited but not required
+- Double-blind review with author response; all accepted papers are conditionally accepted and need a revision
+- Up to 25 pages of text in the single-column acmsmall format, excluding bibliography; mechanized proofs strongly encouraged
+- At least one senior author must register as a reserve reviewer, or the paper may be desk rejected
+- Held in London 2024, Denver 2025, Rennes 2026 and Mexico City 2027
+- CORE A* (ICORE2026), CCF A
+editions:
+- year: 2026
+  start: 2026-01-11
+  end: 2026-01-17
+  location: Rennes, France
+  url: https://popl26.sigplan.org/
+- year: 2027
+  start: 2027-01-10
+  end: 2027-01-16
+  location: Mexico City, Mexico
+  url: https://popl27.sigplan.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-09
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-09-07
+    label: Author response (Sep 7 to 10)
+  - kind: notification
+    date: 2026-10-05
+  - kind: other
+    date: 2026-10-26
+    tz: AoE
+    label: Revision deadline
+  - kind: notification
+    date: 2026-11-09
+    label: Final acceptance notification
+  - kind: camera_ready
+    date: 2026-11-20
+sources:
+- https://popl27.sigplan.org/
+- https://popl27.sigplan.org/track/POPL-2027-popl-research-papers
+- https://popl27.sigplan.org/dates
+- https://popl26.sigplan.org/
+- https://popl25.sigplan.org/
+- https://popl24.sigplan.org/
+- https://portal.core.edu.au/conf-ranks/?search=POPL&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/TCSE_SS_PDL/
+unverified:
+- POPL 2026 deadlines not recorded
+- Acceptance rate not published on the official site
+last_verified: 2026-10-11

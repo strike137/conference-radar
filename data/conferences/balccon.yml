@@ -1,0 +1,56 @@
+id: balccon
+name: BalCCon
+full_name: Balkan Computer Congress
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: LUGoNS (hacker community, Novi Sad)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://2k26.balccon.org/
+notes:
+- Non-commercial, community-organized hacker congress in Novi Sad, Serbia, run by LUGoNS
+- Held every September in Novi Sad since 2013 (2025 and 2026 at the Congress Center); the archive lists no 2021 edition and titles 2020 "Never Happened"
+- CFP for talks and workshops opens in spring (5 April 2025, 29 March 2026) and closes on 1 July (23:59 UTC); notification on 15 July
+- Each edition has its own site (2k25.balccon.org, 2k26.balccon.org); balccon.org redirects to the current one
+editions:
+- year: 2025
+  start: 2025-09-19
+  end: 2025-09-21
+  location: Congress Center, Novi Sad, Serbia
+  url: https://2k25.balccon.org/
+  deadlines:
+  - kind: submission
+    date: 2025-07-01
+    time: "23:59"
+    tz: UTC
+- year: 2026
+  start: 2026-09-18
+  end: 2026-09-20
+  location: Congress Center, Novi Sad, Serbia
+  url: https://2k26.balccon.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    time: "23:59"
+    tz: UTC
+    label: Call for papers
+  - kind: notification
+    date: 2026-07-15
+sources:
+- https://2k26.balccon.org/
+- https://2k26.balccon.org/archive/
+- https://2k26.balccon.org/faq/
+- https://2k25.balccon.org/
+- https://portal.core.edu.au/conf-ranks/?search=BalCCon&by=all&source=ICORE2026
+unverified:
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

@@ -1,0 +1,59 @@
+id: acm-pqqs
+name: ACM PQQS
+full_name: ACM Conference on Post-Quantum and Quantum-based Security
+type: conference
+tier: minor
+areas: [security, crypto]
+region: north-america
+language: english
+organizer: ACM SIGSAC
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://acm-pqqs.github.io/pqqs2026/
+notes:
+- New ACM SIGSAC conference; first edition in San Jose, CA in November 2026
+- Covers post-quantum cryptography, quantum cryptography and communication (QKD, quantum networks), quantum-safe systems and migration policy
+- Accepted papers appear in ACM conference proceedings
+- Regular papers 12 pages, short papers 6 pages, posters 2 pages; double-blind, single round, no rebuttal
+- Sponsored by NSF and Cisco in 2026
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-11-02
+  end: 2026-11-04
+  location: San Jose, CA, USA
+  url: https://acm-pqqs.github.io/pqqs2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-19
+    time: "23:59"
+    tz: AoE
+    label: Abstract registration (not required)
+  - kind: submission
+    date: 2026-08-10
+    time: "23:59"
+    tz: AoE
+    label: Regular papers (extended from 2026-07-26) and short papers
+  - kind: notification
+    date: 2026-09-15
+    label: Regular and short papers
+  - kind: other
+    date: 2026-09-25
+    time: "23:59"
+    tz: AoE
+    label: Poster papers submission
+  - kind: notification
+    date: 2026-10-09
+    label: Poster papers
+sources:
+- https://acm-pqqs.github.io/pqqs2026/
+- https://acm-pqqs.github.io/pqqs2026/call-for/call-for-papers.html
+- https://portal.core.edu.au/conf-ranks/?search=PQQS&by=all&source=ICORE2026
+unverified:
+- Region and frequency are based on the first edition only
+last_verified: 2026-10-11

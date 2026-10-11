@@ -1,0 +1,73 @@
+id: kcse
+name: KCSE
+full_name: Korea Conference on Software Engineering
+name_local: 한국소프트웨어공학학술대회
+type: conference
+tier: domestic
+areas: [software]
+region: korea
+language: korean
+frequency: annual
+organizer: KIISE Software Engineering Society and KIPS Software Engineering Research Group
+organizer_country: [korea]
+proceedings: KCSE website (proceedings PDF)
+archival: false
+typical:
+  deadline_months: [12, 1]
+  conference_months: [1, 2]
+links:
+  website: https://kcse.sigsoft.or.kr/
+notes:
+- Korean national software engineering conference, hosted by KIISE and KIPS and run by the KIISE Software
+  Engineering Society with the KIPS Software Engineering Research Group
+- Held every winter, almost always in Pyeongchang (UNIST, Ulsan in 2026; Phoenix Park, Pyeongchang in 2027)
+- Regular (8 to 10 pages), short (2 to 4 pages), industry and undergraduate papers; submission via EasyChair
+- Proceedings PDF and program booklet posted on the conference site; best paper awards per track, and selected
+  regular papers are recommended to KIISE and KIPS journals
+- Paper deadline is usually extended in steps by a few weeks
+editions:
+- year: 2026
+  start: 2026-02-04
+  end: 2026-02-06
+  location: UNIST, Ulsan, South Korea
+  url: https://kcse.sigsoft.or.kr/2026
+  deadlines:
+  - kind: submission
+    date: 2026-01-13
+    label: Final deadline (after 2025-12-23 and 2025-12-30)
+  - kind: other
+    date: 2025-12-30
+    label: Tutorial proposals
+  - kind: notification
+    date: 2026-01-20
+  - kind: camera_ready
+    date: 2026-01-26
+- year: 2027
+  start: 2027-01-27
+  end: 2027-01-29
+  location: Phoenix Park, Pyeongchang, South Korea
+  url: https://kcse.sigsoft.or.kr/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-12-21
+    tz: KST
+  - kind: other
+    date: 2026-12-28
+    tz: KST
+    label: Tutorial and workshop proposals
+  - kind: notification
+    date: 2027-01-15
+    tz: KST
+sources:
+- https://kcse.sigsoft.or.kr/
+- https://kcse.sigsoft.or.kr/2027/
+- https://kcse.sigsoft.or.kr/2027/papers/call-for-papers.html
+- https://kcse.sigsoft.or.kr/2027/papers/paper-submission.html
+- https://kcse.sigsoft.or.kr/2026
+- https://sigsoft.or.kr/
+- https://sigsoft.or.kr/kcse2025/
+- https://portal.core.edu.au/conf-ranks/?search=KCSE&by=all&source=ICORE2026
+unverified:
+- Review process and whether papers may be written in English are not stated on the official pages
+- KIPS co-hosting of KCSE 2027 not stated on the 2027 overview page (only the KIISE Software Engineering Society)
+last_verified: 2026-10-11

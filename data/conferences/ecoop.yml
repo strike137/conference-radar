@@ -1,0 +1,92 @@
+id: ecoop
+name: ECOOP
+full_name: European Conference on Object-Oriented Programming
+type: conference
+tier: major
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: Local host university (Vrije Universiteit Brussel 2026, University of Turin with Synesthesia 2027); AITO holds its general assembly at ECOOP
+organizer_country: [europe]
+proceedings: Dagstuhl LIPIcs
+archival: true
+indexing: [DBLP, Google Scholar, Scopus]
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [11, 2]
+  conference_months: [6, 7]
+links:
+  website: https://2027.ecoop.org/
+  dblp: https://dblp.org/db/conf/ecoop/index.html
+notes:
+- Long-running programming languages conference (despite the name it covers PL broadly, not only OO)
+- Proceedings open access in Dagstuhl LIPIcs; camera-ready up to 25 pages plus references
+- CORE A (ICORE2026); CCF B
+- Two submission rounds (November and February) with author response; revisions can go to a later round
+- Journal First / Journal After arrangements with TOPLAS, SCP and JOT
+- ACM SIGPLAN listed as supporter and ACM as in-cooperation (2026); AITO Dahl-Nygaard prizes are presented at the conference
+- Held in Europe almost every year (Bergen 2025, Brussels 2026, Turin 2027)
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  location: Brussels, Belgium (Vrije Universiteit Brussel)
+  url: https://2026.ecoop.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-27
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2026-01-29
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2026-02-12
+    tz: AoE
+    label: Round 2
+  - kind: notification
+    date: 2026-04-09
+    tz: AoE
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-04-27
+    tz: AoE
+- year: 2027
+  start: 2027-06-28
+  end: 2027-07-02
+  location: Turin, Italy
+  url: https://2027.ecoop.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-11-19
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2027-01-28
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2027-02-11
+    tz: AoE
+    label: Round 2
+  - kind: notification
+    date: 2027-04-08
+    tz: AoE
+    label: Round 2
+sources:
+- https://2027.ecoop.org/
+- https://2027.ecoop.org/track/ecoop-2027-technical-papers
+- https://2026.ecoop.org/
+- https://2026.ecoop.org/track/ecoop-2026-technical-papers
+- https://portal.core.edu.au/conf-ranks/?search=ECOOP&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- Steering body not stated on the 2026 or 2027 sites (they mention AITO only for its prizes, its journal JOT and its
+  general assembly; aito.org was unavailable on 2026-10-11)
+- ECOOP 2027 camera-ready deadline not yet listed
+last_verified: 2026-10-11

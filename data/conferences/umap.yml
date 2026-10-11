@@ -1,0 +1,57 @@
+id: umap
+name: UMAP
+full_name: ACM International Conference on User Modeling, Adaptation and Personalization
+type: conference
+tier: major
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: User Modeling Inc. (UM Inc.), sponsored by ACM SIGCHI and ACM SIGWEB
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7]
+links:
+  website: https://www.um.org/umap2026/
+notes:
+- Run by User Modeling Inc. (UM Inc.) and sponsored by ACM SIGCHI and ACM SIGWEB; proceedings in the ACM DL
+- Main venue for user modeling, adaptive systems, personalization and recommender systems
+- CORE A (ICORE2026)
+- Long papers up to 8 pages and short papers up to 4 pages plus references (ACM two-column format), double-blind
+  review with a rebuttal phase
+- Abstract deadline one week before the paper deadline (late January in 2026)
+- Mostly held in Europe (Cagliari 2024, Gothenburg 2026); New York in 2025; in-person conference
+editions:
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-11
+  location: Gothenburg, Sweden
+  url: https://www.um.org/umap2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-22
+  - kind: submission
+    date: 2026-01-29
+    time: "23:59"
+    tz: AoE
+    label: Full and short papers
+  - kind: notification
+    date: 2026-03-25
+  - kind: camera_ready
+    date: 2026-04-10
+sources:
+- https://www.um.org/umap2026/
+- https://www.um.org/umap2026/call-for-full-short-papers/
+- https://www.um.org/umap2025/
+- https://www.um.org/umap2024/
+- https://www.um.org/
+- https://portal.core.edu.au/conf-ranks/?search=UMAP&by=all&source=ICORE2026
+unverified:
+- UMAP 2027 dates and location not announced on um.org as of 2026-10-11
+- CCF rank not checked (CCF list site not reachable)
+last_verified: 2026-10-11

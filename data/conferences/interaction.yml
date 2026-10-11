@@ -1,0 +1,77 @@
+id: interaction
+name: INTERACTION
+full_name: INTERACTION Symposium (IPSJ Interaction)
+name_local: 情報処理学会 シンポジウム インタラクション
+type: conference
+tier: domestic
+areas: [general]
+region: japan
+frequency: annual
+organizer: IPSJ (SIGs HCI, CN, UBI, EC and DCC)
+organizer_country: [japan]
+proceedings: INTERACTION electronic proceedings (web version on the symposium site)
+archival: false
+typical:
+  deadline_months: [10, 12]
+  conference_months: [3]
+links:
+  website: https://www.interaction-ipsj.org/
+notes:
+- Annual IPSJ symposium on interaction and HCI, co-hosted by five IPSJ SIGs (HCI, CN, UBI, EC, DCC); 2027 is the
+  31st edition
+- Oral papers (6 to 10 pages) are peer reviewed, with acceptance by shepherding possible; demos and posters (2 to 6
+  pages) are scored and limited by venue space
+- Oral and interactive papers go into the electronic proceedings, with web proceedings archived on the site back to
+  1997; copyright goes to IPSJ
+- Outstanding papers are recommended to the IPSJ journal
+- Large domestic event (808 participants in 2026, 891 in 2024)
+editions:
+- year: 2026
+  start: 2026-03-03
+  end: 2026-03-05
+  location: Hitotsubashi Hall, National Center of Sciences, Tokyo, Japan
+  url: https://www.interaction-ipsj.org/2026/
+  deadlines:
+  - kind: other
+    date: 2025-12-22
+    label: Interactive presentations (demo/poster)
+- year: 2027
+  start: 2027-03-01
+  end: 2027-03-03
+  location: Ritsumeikan University Osaka Ibaraki Campus, Osaka, Japan
+  url: https://www.interaction-ipsj.org/2027/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-26
+    time: "23:59"
+    tz: JST
+    label: Oral papers
+  - kind: notification
+    date: 2026-12-21
+    label: Oral papers
+  - kind: other
+    date: 2026-12-25
+    time: "22:00"
+    tz: JST
+    label: Interactive presentations (demo/poster)
+  - kind: other
+    date: 2027-01-15
+    label: Shepherding reply (shepherded oral papers only)
+  - kind: notification
+    date: 2027-01-18
+    label: Interactive presentations
+  - kind: other
+    date: 2027-01-22
+    label: Shepherding notification
+sources:
+- https://www.interaction-ipsj.org/2027/
+- https://www.interaction-ipsj.org/2027/submissions/
+- https://www.interaction-ipsj.org/2026/
+- https://www.interaction-ipsj.org/2026/%e3%82%a2%e3%83%bc%e3%82%ab%e3%82%a4%e3%83%96%ef%bc%86%e7%b5%b1%e8%a8%88/
+unverified:
+- Whether the proceedings also appear in the IPSJ Digital Library (the site mentions only electronic and web
+  proceedings)
+- Submission language (the site is in Japanese only) and the 2026 oral paper deadline
+- Not found in the ICORE2026 portal search
+last_verified: 2026-10-11

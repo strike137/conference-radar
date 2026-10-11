@@ -1,0 +1,65 @@
+id: er
+name: ER
+full_name: International Conference on Conceptual Modeling
+type: conference
+tier: major
+areas: [data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ER Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: A
+  ccf: C
+typical:
+  deadline_months: [5]
+  conference_months: [10]
+links:
+  website: https://er2026.org/
+  dblp: https://dblp.org/db/conf/er/index.html
+notes:
+- Main venue for conceptual modeling, held annually since 1979; ER 2026 was the 45th edition
+- Main conference papers in Springer LNCS; workshop papers in a separate Springer volume; demos, posters, tutorials
+  and panels in CEUR-WS
+- Full papers up to 16 pages and short papers up to 10 pages including references (LNCS style); double-blind review
+  with at least three reviews plus a meta-review
+- Mandatory abstract one week before the full paper deadline
+- CORE A (ICORE2026), CCF C; location rotates between Europe, North America and Asia
+editions:
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-08
+  location: St. John's, Newfoundland, Canada
+  url: https://er2026.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-12
+    time: "23:59"
+    tz: AoE
+    label: Mandatory abstract (extended from 2026-05-05)
+  - kind: submission
+    date: 2026-05-19
+    time: "23:59"
+    tz: AoE
+    label: Full and short papers (extended from 2026-05-12)
+  - kind: notification
+    date: 2026-07-14
+  - kind: camera_ready
+    date: 2026-07-28
+  - kind: other
+    date: 2026-07-28
+    tz: AoE
+    label: Demos and posters submission
+sources:
+- https://er2026.org/
+- https://er2026.org/dates.html
+- https://er2026.org/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=Conceptual&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- ER 2027 dates and location not yet found
+last_verified: 2026-10-11

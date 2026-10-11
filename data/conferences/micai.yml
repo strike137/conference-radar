@@ -1,0 +1,63 @@
+id: micai
+name: MICAI
+full_name: Mexican International Conference on Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: latin-america
+language: english
+frequency: annual
+organizer: SMIA (Sociedad Mexicana de Inteligencia Artificial)
+organizer_country: [other]
+proceedings: Springer LNAI
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [11]
+links:
+  website: https://micai.org/
+  dblp: https://dblp.org/db/conf/micai/index.html
+notes:
+- Organized by the Mexican Society for Artificial Intelligence (SMIA) with a local host institution each year
+- 'Proceedings in Springer as "Advances in Soft Computing" (two parts in 2025) plus a posters volume and "Advances in Computational Intelligence" workshop volumes'
+- Held in Mexico with a different host each year (INAOE and UDLAP in 2024, CIMAT and UG in Guanajuato in 2025, Tec de Monterrey Campus Chihuahua in 2026)
+- 2025 was the 24th edition, on site only
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-03
+  end: 2025-11-07
+  location: Guanajuato, Mexico (Universidad de Guanajuato DCEA)
+  url: https://micai.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-07
+    tz: AoE
+    label: Regular papers (extended from 2025-06-15)
+  - kind: notification
+    date: 2025-08-06
+  - kind: camera_ready
+    date: 2025-08-20
+- year: 2026
+  start: 2026-11-02
+  end: 2026-11-06
+  location: Chihuahua, Mexico (Tec de Monterrey, Campus Chihuahua)
+  url: https://micai.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    tz: AoE
+    label: Papers
+  - kind: notification
+    date: 2026-08-05
+  - kind: camera_ready
+    date: 2026-08-23
+    tz: AoE
+sources:
+- https://micai.org/2025/
+- https://micai.org/2026/
+- https://link.springer.com/book/10.1007/978-3-032-09037-9
+- https://portal.core.edu.au/conf-ranks/?search=MICAI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Springer LNAI volume numbers for MICAI 2025 beyond Part I (LNAI 16221 per the Springer page linked from the official site)
+last_verified: 2026-10-11

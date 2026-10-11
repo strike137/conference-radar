@@ -1,0 +1,82 @@
+id: ppopp
+name: PPoPP
+full_name: ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+type: conference
+tier: major
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN and ACM SIGHPC
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+  ccf: A
+typical:
+  deadline_months: [8, 9]
+  conference_months: [1, 2, 3]
+links:
+  website: https://ppopp27.sigplan.org/
+  dblp: https://dblp.org/db/conf/ppopp/index.html
+notes:
+- Premier forum for parallel and performance programming (languages, compilers, runtimes, HPC, accelerators, parallel AI workloads)
+- Co-located every year with HPCA, CGO and CC
+- Proceedings in the ACM Digital Library, published open access; rejected papers are considered for posters with 2-page summaries in the proceedings
+- Up to 10 pages in two-column ACM sigplan format, excluding references; optional artifact evaluation
+- Held in Edinburgh 2024, Las Vegas 2025, Sydney 2026 and Salt Lake City 2027
+- CORE B (ICORE2026) but CCF A
+editions:
+- year: 2026
+  start: 2026-01-31
+  end: 2026-02-04
+  location: Sydney, Australia
+  url: https://ppopp26.sigplan.org/
+  deadlines:
+  - kind: submission
+    date: 2025-09-01
+    tz: AoE
+  - kind: other
+    date: 2025-11-02
+    tz: AoE
+    label: Author response (Nov 2 to 4)
+  - kind: notification
+    date: 2025-11-10
+    tz: AoE
+- year: 2027
+  start: 2027-03-20
+  end: 2027-03-24
+  location: Salt Lake City, Utah, USA
+  url: https://ppopp27.sigplan.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-03
+    tz: AoE
+  - kind: other
+    date: 2026-10-11
+    tz: AoE
+    label: Author response (Oct 11 to 13; the CFP text elsewhere says Oct 6 to 8)
+  - kind: notification
+    date: 2026-10-26
+    tz: AoE
+  - kind: other
+    date: 2026-11-09
+    tz: AoE
+    label: Artifact submission
+  - kind: camera_ready
+    date: 2026-12-18
+    tz: AoE
+sources:
+- https://ppopp27.sigplan.org/
+- https://ppopp27.sigplan.org/track/PPoPP-2027-papers
+- https://ppopp26.sigplan.org/
+- https://ppopp26.sigplan.org/track/PPoPP-2026-papers
+- https://ppopp25.sigplan.org/
+- https://ppopp24.sigplan.org/
+- https://portal.core.edu.au/conf-ranks/?search=PPoPP&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/ARCH_DCP_SS/
+unverified:
+- PPoPP 2027 venue name not yet announced (city only)
+- Acceptance rate not published on the official site
+last_verified: 2026-10-11

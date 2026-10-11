@@ -1,0 +1,67 @@
+id: tpdl
+name: TPDL
+full_name: International Conference on Theory and Practice of Digital Libraries
+type: conference
+tier: major
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Host university each year (Tampere University in 2025)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9]
+links:
+  website: https://www.tpdl.eu/
+notes:
+- The European digital library conference; called ECDL until 2010
+- Proceedings in Springer LNCS (2025 is LNCS volume 16097)
+- Research and practitioner papers up to 15 pages plus references in LNCS style; separate short paper, demo and
+  doctoral consortium tracks with later deadlines
+- 2025 (29th edition) was in Tampere, Finland, co-located with ADBIS 2025
+- CORE B in ICORE2026
+editions:
+- year: 2025
+  label: 29th TPDL
+  start: 2025-09-23
+  end: 2025-09-26
+  location: Tampere, Finland
+  url: https://tpdl2025.github.io/
+  deadlines:
+  - kind: other
+    date: 2025-02-04
+    time: "23:59"
+    tz: AoE
+    label: Workshop proposals
+  - kind: submission
+    date: 2025-05-09
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended from Apr 30)
+  - kind: notification
+    date: 2025-06-14
+    label: Full papers
+  - kind: submission
+    date: 2025-06-20
+    time: "23:59"
+    tz: AoE
+    label: Short and demo papers
+  - kind: camera_ready
+    date: 2025-07-10
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+sources:
+- https://tpdl2025.github.io/
+- https://tpdl2025.github.io/Calls/importantdates.html
+- https://tpdl2025.github.io/Calls/researchtrack.html
+- https://portal.core.edu.au/conf-ranks/?search=TPDL&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- TPDL 2026 dates and location not found (series site tpdl.eu was unreachable on 2026-10-11)
+- Series steering body not named on the 2025 site (only the Tampere University general chairs)
+last_verified: 2026-10-11

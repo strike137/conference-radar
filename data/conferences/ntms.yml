@@ -1,0 +1,48 @@
+id: ntms
+name: NTMS
+full_name: IFIP International Conference on New Technologies, Mobility and Security
+type: conference
+tier: minor
+areas: [networking, security, communications]
+region: europe
+language: english
+organizer: DNAC, technically co-sponsored by IFIP and IEEE ComSoc
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://ntms.dnac.org/
+notes:
+- Organized by DNAC; technically co-sponsored by IEEE, IEEE ComSoc, IEEE France Section and IFIP
+- Three tracks (Mobility and Wireless Networks, Cyber Security, New Technologies and Services) plus workshops held
+  right after the main conference
+- Full papers up to 9 pages, short papers 4 pages; accepted and presented papers are submitted to IEEE Xplore
+- Best papers invited to an extended version in Annals of Telecommunications (Springer)
+- 2025 edition (12th) held at CNAM in Paris
+- Not listed in the CORE ICORE2026 rankings
+editions:
+- year: 2025
+  start: 2025-06-18
+  end: 2025-06-20
+  location: Paris, France
+  url: https://ntms.dnac.org/
+  deadlines:
+  - kind: submission
+    date: 2025-03-02
+  - kind: notification
+    date: 2025-04-03
+  - kind: camera_ready
+    date: 2025-04-21
+sources:
+- https://ntms.dnac.org/
+- https://ntms.dnac.org/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=NTMS&by=all&source=ICORE2026
+unverified:
+- No NTMS 2026 or 2027 edition announced on the official site as of 2026-10-11
+- Frequency and earlier edition locations not shown on the official site (region set from Paris 2025 and past
+  editions as remembered, mostly Paris)
+- dblp key not confirmed (dblp blocked automated access)
+last_verified: 2026-10-11

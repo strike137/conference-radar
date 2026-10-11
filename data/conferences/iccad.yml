@@ -1,0 +1,73 @@
+id: iccad
+name: ICCAD
+full_name: IEEE/ACM International Conference on Computer-Aided Design
+type: conference
+tier: major
+areas: [systems, general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE and ACM (supported by IEEE CEDA, ACM SIGDA, IEEE CAS and IEEE EDS)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [4]
+  conference_months: [10, 11]
+links:
+  website: https://iccad.com/
+  dblp: https://dblp.org/db/conf/iccad/index.html
+notes:
+- Jointly sponsored by IEEE and ACM; one of the main electronic design automation (EDA) conferences alongside DAC and DATE
+- 45th edition in 2026; held in late October or early November, mostly in the USA (San Jose, San Francisco, New Jersey), Munich in 2025
+- Topics span logic synthesis, verification, physical design, 3D ICs and chiplets, hardware security, AI for CAD and quantum or neuromorphic computing
+- Double-blind review; papers up to 8 pages; abstract registration one week before the paper deadline (23:59 AoE); rebuttal phase in June
+- From 2026 papers follow the ACM Open Access model; an APC of 250 USD (ACM/SIG members) or 350 USD (non-members) applies unless the corresponding author's institution is in ACM Open
+- Also hosts workshops, the CAD Contest, CADathlon and an ACM Student Research Competition
+- ICORE2026 rank A; CCF B
+editions:
+- year: 2025
+  start: 2025-10-26
+  end: 2025-10-30
+  location: Munich, Germany
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-12
+  location: San Jose, California, USA
+  url: https://iccad.com/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-07
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-04-14
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-04-14
+    label: Workshop, tutorial, special session and panel proposals
+  - kind: other
+    date: 2026-06-20
+    label: Author rebuttal
+  - kind: notification
+    date: 2026-07-11
+  - kind: camera_ready
+    date: 2026-09-04
+    label: Extended from 2026-08-24, with author registration
+sources:
+- https://iccad.com/
+- https://iccad.com/2026/authors/call-for-papers
+- https://confcats-siteplex.s3.amazonaws.com/iccad/files/iccad26-cfp_web-17.pdf
+- https://iccad.com/2026/new-acm-publishing-model
+- https://iccad.com/2026/history
+- https://portal.core.edu.au/conf-ranks/?search=ICCAD&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- CCF rank checked via the ccfddl and CCFrank4dblp mirrors of the CCF list (both give B), not on ccf.org.cn directly (site blocks automated access); some sources call ICCAD CCF A
+- Whether 2026 papers also appear in IEEE Xplore (the official pages only mention the ACM Open Access model)
+- ICCAD 2027 dates and location (not announced yet)
+last_verified: 2026-10-11

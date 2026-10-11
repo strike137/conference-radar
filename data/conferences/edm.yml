@@ -1,0 +1,84 @@
+id: edm
+name: EDM
+full_name: International Conference on Educational Data Mining
+type: conference
+tier: major
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: International Educational Data Mining Society (IEDMS)
+organizer_country: [international]
+proceedings: EDM proceedings (open access, IEDMS website, Zenodo DOIs)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://educationaldatamining.org/
+  dblp: https://dblp.org/db/conf/edm/index.html
+notes:
+- Run by the International Educational Data Mining Society, which also publishes the Journal of Educational Data Mining (JEDM)
+- Open access proceedings with Zenodo DOIs and an ISBN; a JEDM journal track publishes accepted papers in the journal
+- CORE B (ICORE2026)
+- Double-blind review; full papers 10 pages, short and industry papers 6 pages, posters and demos 2 to 4 pages
+- Firm deadlines (no extensions), all 23:59 AoE
+- Recent locations rotate worldwide (Bangalore 2023, Atlanta 2024, Palermo 2025, Seoul 2026, Adelaide 2027); co-located with AIED and Learning at Scale as the Festival of Learning in 2026 and 2027
+editions:
+- year: 2025
+  start: 2025-07-20
+  end: 2025-07-23
+  location: Palermo, Italy
+  url: https://educationaldatamining.org/edm2025/
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  location: Seoul, Korea (COEX)
+  url: https://educationaldatamining.org/edm2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-02
+    time: "23:59"
+    tz: AoE
+    label: Full and short papers
+  - kind: submission
+    date: 2026-02-09
+    time: "23:59"
+    tz: AoE
+    label: Full, short and industry papers
+  - kind: notification
+    date: 2026-03-30
+    time: "23:59"
+    tz: AoE
+    label: Full, short and industry papers
+  - kind: other
+    date: 2026-04-06
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos
+  - kind: camera_ready
+    date: 2026-05-07
+    time: "23:59"
+    tz: AoE
+    label: Full and short papers (moved from 2026-04-30)
+- year: 2027
+  start: 2027-07-18
+  end: 2027-07-23
+  location: Adelaide, Australia
+  url: https://educationaldatamining.org/edm2027/
+sources:
+- https://educationaldatamining.org/conferences/
+- https://educationaldatamining.org/edm2025/
+- https://educationaldatamining.org/edm2026/
+- https://educationaldatamining.org/edm2026/important-dates/
+- https://educationaldatamining.org/edm2026/call-for-papers/
+- https://educationaldatamining.org/edm2026/proceedings/
+- https://educationaldatamining.org/edm2026/venue-and-accommodations/
+- https://educationaldatamining.org/edm2027/
+- https://portal.core.edu.au/conf-ranks/?search=EDM&by=all&source=ICORE2026
+unverified:
+- EDM 2027 deadlines and venue (important dates page says TBD); 2027 dates taken from the banner image on the EDM 2027 site
+- Whether EDM 2027 dates include workshop days
+last_verified: 2026-10-11

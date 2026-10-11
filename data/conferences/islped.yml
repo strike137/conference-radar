@@ -1,0 +1,82 @@
+id: islped
+name: ISLPED
+full_name: ACM/IEEE International Symposium on Low Power Electronics and Design
+type: conference
+tier: major
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM and IEEE (technical sponsors)
+organizer_country: [international]
+proceedings: IEEE Xplore and ACM DL
+archival: true
+rank:
+  core: A
+  ccf: C
+typical:
+  deadline_months: [3]
+  conference_months: [8]
+links:
+  website: https://www.islped.org/
+  dblp: https://dblp.org/db/conf/islped/index.html
+notes:
+- Technically sponsored by ACM and IEEE; accepted papers go to IEEE Xplore and the ACM Digital Library
+- Covers low power technologies, circuits, architecture, CAD tools, systems and software, hardware security, AI
+  hardware and quantum computing, plus an industrial design track
+- Double-blind review; up to 6 pages plus 1 page of references in the ACM template; deadlines 11:59 PM AoE
+- Selected papers are invited to an extended version in IEEE Transactions on VLSI Systems; three best paper awards
+- Also runs a Low Power Design Contest and a Women in Technology Showcase
+- Held in early August; recent editions in Boston (2022), Vienna (2023), Newport Beach (2024), Reykjavik (2025) and
+  Evanston (2026); 2021 ran online
+- ICORE2026 rank A; CCF C
+editions:
+- year: 2025
+  start: 2025-08-06
+  end: 2025-08-08
+  location: University of Iceland, Reykjavik, Iceland
+  url: https://islped.org/2025/
+- year: 2026
+  start: 2026-08-05
+  end: 2026-08-07
+  location: Northwestern University, Evanston, Illinois, USA
+  url: https://www.islped.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-11
+    time: "23:59"
+    tz: AoE
+    label: Abstract registration (extended from 2026-03-09)
+  - kind: submission
+    date: 2026-03-18
+    time: "23:59"
+    tz: AoE
+    label: Full paper (extended from 2026-03-16)
+  - kind: other
+    date: 2026-04-06
+    time: "23:59"
+    tz: AoE
+    label: Invited talk, panel and tutorial proposals
+  - kind: notification
+    date: 2026-05-18
+  - kind: camera_ready
+    date: 2026-06-15
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.islped.org/2026/
+- https://www.islped.org/2026/call-for-papers/
+- https://www.islped.org/2026/assets/files/ISLPED2026CfP_V9.pdf
+- https://www.islped.org/2026/past-events/
+- https://islped.org/2025/
+- https://islped.org/2024/
+- https://islped.org/2023/
+- https://islped.org/2022/
+- https://islped.org/2021/
+- https://portal.core.edu.au/conf-ranks/?search=ISLPED&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF list mirror, updated 2026-04-06)
+unverified:
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly (site blocks automated access)
+- ISLPED 2027 dates, location and deadlines (not announced as of 2026-10-11)
+- Acceptance rate (not stated on the official pages)
+last_verified: 2026-10-11

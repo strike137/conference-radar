@@ -1,0 +1,52 @@
+id: hack-lu
+name: hack.lu
+full_name: hack.lu Security Conference
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: CIRCL (Computer Incident Response Center Luxembourg)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://hack.lu/
+notes:
+- Open hacker and security conference organized by CIRCL, held every October in Luxembourg
+- 2026 is the 20th edition, at the Parc Hotel Alvisse in Luxembourg City
+- CFP takes papers, talks and training/workshop proposals; lightning talks and a Call for Failure track open later
+- Authors keep the rights to their papers but let the organizers redistribute them; there is a best paper award, but
+  no formal proceedings series
+editions:
+- year: 2025
+  start: 2025-10-21
+  end: 2025-10-24
+  location: Luxembourg
+  url: https://2025.hack.lu/
+- year: 2026
+  start: 2026-10-20
+  end: 2026-10-23
+  location: Parc Hotel Alvisse, Luxembourg
+  url: https://2026.hack.lu/
+  deadlines:
+  - kind: submission
+    date: 2026-06-07
+    time: "23:59"
+    tz: CEST
+    label: Call for Papers (Europe/Luxembourg time)
+sources:
+- https://hack.lu/
+- https://2026.hack.lu/
+- https://pretalx.com/hack-lu-2026/cfp
+- https://2025.hack.lu/
+- https://archive.hack.lu/
+- https://portal.core.edu.au/conf-ranks/?search=hack.lu&by=all&source=ICORE2026
+unverified:
+- Notification date for the 2026 CFP is not stated
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

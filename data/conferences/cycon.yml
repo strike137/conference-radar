@@ -1,0 +1,45 @@
+id: cycon
+name: CyCon
+full_name: International Conference on Cyber Conflict
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE)
+organizer_country: [europe]
+proceedings: CCDCOE proceedings (IEEE-accredited)
+archival: true
+typical:
+  conference_months: [5]
+links:
+  website: https://ccdcoe.org/cycon/
+notes:
+- Organized by the NATO CCDCOE and held every year in Tallinn, Estonia
+- Proceedings published by the CCDCOE and accredited by IEEE; all papers go through double-blind peer review
+- Mixes academic papers with a large policy, legal and military audience (nearly 800 participants from 50 countries
+  in 2026)
+- Each edition has a theme (Securing Tomorrow 2026, Unified Response 2027)
+- Not listed in the CORE ICORE2026 rankings
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  location: Tallinn, Estonia
+  url: https://ccdcoe.org/library/publications/18th-international-conference-on-cyber-conflict-securing-tomorrow/
+- year: 2027
+  start: 2027-05-25
+  end: 2027-05-28
+  location: Tallinn, Estonia
+  url: https://ccdcoe.org/cycon/
+sources:
+- https://ccdcoe.org/cycon/
+- https://ccdcoe.org/library/publications/18th-international-conference-on-cyber-conflict-securing-tomorrow/
+- https://web.cvent.com/event/22ec37f7-0e66-40ba-a5f1-23182e97dfcd/websitePage:539f549f-e974-4c4b-9c22-11bd919241fe
+- https://portal.core.edu.au/conf-ranks/?search=CyCon&by=all&source=ICORE2026
+unverified:
+- CyCon 2027 paper deadlines (the official event page says the call for papers is already closed but lists no dates)
+- Whether the proceedings also appear in IEEE Xplore (the CCDCOE page only says IEEE-accredited)
+- dblp key not confirmed (dblp blocked automated access)
+last_verified: 2026-10-11

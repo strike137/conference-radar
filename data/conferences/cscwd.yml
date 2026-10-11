@@ -1,0 +1,74 @@
+id: cscwd
+name: CSCWD
+full_name: International Conference on Computer Supported Cooperative Work in Design
+type: conference
+tier: minor
+areas: [general, ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: CSCWD International Working Group (co-sponsored by IEEE SMC Society)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, DBLP]
+rank:
+  core: C
+  ccf: C
+typical:
+  deadline_months: [10, 11]
+  conference_months: [5]
+links:
+  website: http://www.cscwd.org/
+  dblp: https://dblp.org/db/conf/cscwd/index.html
+notes:
+- Run by the CSCWD International Working Group with a local host university each year; co-sponsored by IEEE SMC
+  Society; 2027 hosted by the University of Southern Queensland with Fuyao University of Science and Technology
+- Topics span CSCW, collaborative design, distributed and multi-agent systems, AI and IoT applications
+- Proceedings in IEEE conference proceedings (submitted to IEEE Xplore), submitted for EI and DBLP indexing
+- CORE C and CCF C; regarded as a minor venue
+- Mostly held in China (Tianjin 2024, Fuzhou 2026) but also abroad (Rio de Janeiro 2023, Brisbane 2027, hybrid)
+editions:
+- year: 2026
+  start: 2026-05-13
+  end: 2026-05-15
+  location: Fuzhou, China
+  url: https://www.fyust.edu.cn/gjhyqk/cscwd2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-30
+    label: Papers (new deadline)
+  - kind: notification
+    date: 2026-01-31
+  - kind: camera_ready
+    date: 2026-03-10
+    label: Final paper and author registration
+- year: 2027
+  start: 2027-05-26
+  end: 2027-05-28
+  location: Brisbane, Australia
+  url: https://cscwd2027.dailyeliteevents.com.au/
+  deadlines:
+  - kind: submission
+    date: 2026-10-31
+  - kind: notification
+    date: 2027-01-31
+  - kind: camera_ready
+    date: 2027-02-28
+    label: Camera-ready and author registration
+sources:
+- http://2026.cscwd.org
+- https://www.fyust.edu.cn/gjhyqk/cscwd2026/
+- https://www.fyust.edu.cn/gjhyqk/cscwd2026/venue.html
+- http://2027.cscwd.org
+- https://cscwd2027.dailyeliteevents.com.au/
+- https://fyust.edu.cn/gjhyqk/cscwd2024/index.html
+- https://fyust.edu.cn/gjhyqk/cscwd2023/
+- https://fyust.edu.cn/gjhyqk/
+- https://portal.core.edu.au/conf-ranks/?search=CSCWD&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccf-deadlines mirror, not the CCF page itself (JavaScript-rendered)
+- Location of the 2025 edition (official site unreachable)
+- IEEE SMC co-sponsorship of 2027 is pending approval
+last_verified: 2026-10-11

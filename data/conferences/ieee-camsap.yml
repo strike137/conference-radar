@@ -1,0 +1,58 @@
+id: ieee-camsap
+name: IEEE CAMSAP
+full_name: IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing
+type: conference
+tier: minor
+areas: [communications]
+region: latin-america
+language: english
+frequency: biennial
+organizer: IEEE Signal Processing Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [12]
+links:
+  website: https://camsap25.ig.umons.ac.be/
+notes:
+- Biennial IEEE Signal Processing Society workshop (10th edition in 2025) on sensor array, adaptive and multi-sensor
+  signal processing
+- Held in December at a Caribbean or Central American beach resort (Curacao 2017, Guadeloupe 2019, Costa Rica 2023,
+  Punta Cana 2025)
+- Papers up to 5 pages in the IEEE double-column template, page 5 for references only; proceedings in IEEE Xplore
+- Authors of IEEE SPS journal papers can present them without re-review (not included in the proceedings)
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  label: 10th CAMSAP
+  start: 2025-12-14
+  end: 2025-12-17
+  location: Punta Cana, Dominican Republic
+  url: https://camsap25.ig.umons.ac.be/
+  deadlines:
+  - kind: other
+    date: 2025-06-02
+    label: Special session proposals
+  - kind: submission
+    date: 2025-07-15
+    label: Full papers (extended from 2025-07-01)
+  - kind: notification
+    date: 2025-08-31
+  - kind: camera_ready
+    date: 2025-09-15
+sources:
+- https://camsap25.ig.umons.ac.be/
+- https://camsap25.ig.umons.ac.be/call-for-papers.php
+- https://camsap25.ig.umons.ac.be/author-information.php
+- https://camsap25.ig.umons.ac.be/venue-host-city.php
+- https://camsap25.ig.umons.ac.be/organizaing-committee.php
+- https://api.crossref.org/works?query.bibliographic=Computational+Advances+in+Multi-Sensor+Adaptive+Processing+CAMSAP&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=CAMSAP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CAMSAP 2027 host and dates (not announced yet)
+- IEEE Xplore proceedings and past locations taken from IEEE proceedings metadata via Crossref; the 2025 site does not
+  mention IEEE Xplore
+- No 2021 edition found in the IEEE proceedings metadata
+last_verified: 2026-10-11

@@ -1,0 +1,43 @@
+id: area41
+name: Area41
+full_name: AREA41 Security Conference
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: biennial
+organizer: DC4131 (Swiss DEF CON group)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://area41.io/
+notes:
+- Technical information security conference in the Zurich area, run as a non-profit by the Swiss DEF CON group DC4131
+- Established in 2010 as hashdays; now held every two years (2022, 2024, 2026)
+- Capped at 600 attendees; tickets often sell out
+- 2026 edition held at TheHall, Dübendorf (Zurich/Stettbach); no formal proceedings
+editions:
+- year: 2026
+  start: 2026-06-18
+  end: 2026-06-19
+  location: TheHall, Dübendorf (Zurich), Switzerland
+  url: https://area41.io/
+  deadlines:
+  - kind: submission
+    date: 2026-04-12
+    time: "23:59"
+    tz: CET
+    label: Call for Papers
+sources:
+- https://area41.io/
+- https://portal.core.edu.au/conf-ranks/?search=AREA41&by=all&source=ICORE2026
+unverified:
+- 2028 edition not yet announced
+- The 2026 CFP close is stated as 23:59 CET although April falls in summer time (CEST)
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

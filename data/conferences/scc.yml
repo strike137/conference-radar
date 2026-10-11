@@ -1,0 +1,53 @@
+id: scc
+name: SCC
+full_name: International ITG Conference on Systems, Communications and Coding
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: biennial
+organizer: VDE ITG (Information Technology Society of VDE)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [3]
+links:
+  website: https://scc2025.net/
+notes:
+- Organized by the Information Technology Society (ITG) of the German VDE; IEEE and IEEE ComSoc are technical
+  co-sponsors
+- Held in Germany (14th edition at KIT, Karlsruhe in 2025); usually every two years
+- Full papers up to 6 pages, peer reviewed; proceedings published in IEEE Xplore (papers not presented may be excluded)
+- Late-submission posters with a one-page abstract are not published
+- Not ranked in CORE (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-03-10
+  end: 2025-03-13
+  location: Karlsruhe, Germany
+  url: https://scc2025.net/
+  deadlines:
+  - kind: abstract
+    date: 2024-10-27
+    label: Paper registration (extended)
+  - kind: submission
+    date: 2024-11-04
+    label: Review manuscript upload
+  - kind: notification
+    date: 2024-12-18
+  - kind: other
+    date: 2025-01-17
+    label: Late-submission posters
+  - kind: camera_ready
+    date: 2025-01-22
+    label: Final manuscript and author registration
+sources:
+- https://scc2025.net/
+- https://scc2025.net/authors/
+- https://portal.core.edu.au/conf-ranks/?search=SCC&by=all&source=ICORE2026
+unverified:
+- Next SCC edition (expected 2027) not found as of 2026-10-11
+last_verified: 2026-10-11

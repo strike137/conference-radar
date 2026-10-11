@@ -1,0 +1,82 @@
+id: uist
+name: UIST
+full_name: ACM Symposium on User Interface Software and Technology
+type: conference
+tier: top
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI and ACM SIGGRAPH
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [3, 4]
+  conference_months: [9, 10, 11]
+links:
+  website: https://uist.acm.org/
+  dblp: https://dblp.org/db/conf/uist/index.html
+notes:
+- Sponsored by ACM SIGCHI and ACM SIGGRAPH; premier venue for novel user interface software and hardware
+- Accepted papers are archival in the ACM DL; ACM Open from 2026
+- Abstract deadline one week before the paper deadline; rebuttal phase and conditional acceptance
+- Anonymized two-column submissions; standard and short papers
+- Fully in person; mostly held in North America (Busan, Korea 2025; Detroit 2026)
+editions:
+- year: 2025
+  start: 2025-09-28
+  end: 2025-10-01
+  location: Busan, Korea
+  url: https://uist.acm.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-04-02
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-04-09
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-07-05
+  - kind: camera_ready
+    date: 2025-07-14
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-11-02
+  end: 2026-11-05
+  location: Detroit, MI, USA (Renaissance Center)
+  url: https://uist.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-24
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-03-31
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-27
+    label: Conditional accept or reject
+  - kind: camera_ready
+    date: 2026-07-31
+    time: "23:59"
+    tz: AoE
+sources:
+- https://uist.acm.org/
+- https://uist.acm.org/2026/
+- https://uist.acm.org/2026/cfp/
+- https://uist.acm.org/2025/
+- https://uist.acm.org/2025/cfp/
+- https://portal.core.edu.au/conf-ranks/?search=UIST&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- UIST 2027 dates and location not yet announced as of 2026-10-11
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

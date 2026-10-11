@@ -1,0 +1,65 @@
+id: menacomm
+name: MENACOMM
+full_name: Middle East and North Africa COMMunications Conference
+type: conference
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: IEEE ComSoc chapters of the MENA region (host section and chapter rotate)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [12, 2]
+  conference_months: [2, 5]
+links:
+  website: https://menacomm.org/
+notes:
+- IEEE technically sponsored conference run by a consortium of MENA IEEE ComSoc chapters; the host chapter rotates
+- Editions in Lebanon 2018 and 2025, Bahrain 2019, Morocco 2021, Jordan 2022 and Tunisia 2026; no edition in 2023
+  or 2024
+- Accepted and presented papers are submitted to IEEE Xplore; the site says they are also submitted for Scopus and
+  DBLP indexing
+- Rotates within the Middle East and North Africa; only four of the last six editions were in the Middle East, so the
+  region is set to worldwide
+- Hybrid format with in-person and virtual presentation; submission via EDAS
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-02-20
+  end: 2025-02-22
+  location: Lebanese American University, Byblos, Lebanon
+  url: https://25.menacomm.org/
+  deadlines:
+  - kind: submission
+    date: 2024-12-02
+    label: Extended from 2024-10-31 (firm)
+  - kind: notification
+    date: 2024-12-10
+  - kind: camera_ready
+    date: 2024-12-17
+- year: 2026
+  start: 2026-05-12
+  end: 2026-05-14
+  location: Hammamet, Tunisia
+  url: https://menacomm.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-15
+    label: Extended (firm)
+  - kind: notification
+    date: 2026-03-15
+sources:
+- https://menacomm.org/
+- https://menacomm.org/call-for-papers/
+- https://menacomm.org/static/images/MENACOMM26_CFPv13.pdf
+- https://25.menacomm.org/
+- https://portal.core.edu.au/conf-ranks/?search=MENACOMM&by=all&source=ICORE2026
+unverified:
+- MENACOMM 2027 host, dates and deadlines not announced as of 2026-10-11
+- 'MENACOMM 2026 notification date: the CFP PDF says 2026-02-27, the website says 2026-03-15 (website used)'
+- Original MENACOMM 2026 submission deadline before the extension not recorded
+last_verified: 2026-10-11

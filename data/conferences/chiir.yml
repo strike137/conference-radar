@@ -1,0 +1,99 @@
+id: chiir
+name: CHIIR
+full_name: ACM SIGIR Conference on Human Information Interaction and Retrieval
+type: conference
+tier: major
+areas: [data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGIR
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [10]
+  conference_months: [3]
+links:
+  website: https://chiir2027.github.io/
+notes:
+- ACM SIGIR conference on user-centered information access, seeking, retrieval and interactive search
+- Proceedings in the ACM Digital Library; CORE B (ICORE2026)
+- Many tracks (full, perspective, short, demo and design, resource, industry papers, tutorials, workshops,
+  doctoral consortium); full papers up to 10 pages plus references, double-blind review
+- Abstract registration one week before the full paper deadline in October; held in March
+- Held in person; location rotates worldwide (Seattle 2026, Berlin 2027)
+- ACM is fully open access from 2027, so authors outside ACM Open institutions may pay an APC (subsidized 500 USD
+  for ACM/SIG members in 2027)
+editions:
+- year: 2026
+  start: 2026-03-22
+  end: 2026-03-26
+  location: Seattle, WA, USA
+  url: https://chiir2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-08
+    time: "23:59"
+    tz: AoE
+    label: Full and perspective papers
+  - kind: submission
+    date: 2025-10-15
+    time: "23:59"
+    tz: AoE
+    label: Full and perspective papers
+  - kind: submission
+    date: 2025-10-29
+    time: "23:59"
+    tz: AoE
+    label: Short, demo and resource papers
+  - kind: submission
+    date: 2025-11-05
+    time: "23:59"
+    tz: AoE
+    label: Doctoral consortium papers
+  - kind: notification
+    date: 2025-12-10
+- year: 2027
+  start: 2027-03-07
+  end: 2027-03-11
+  location: Humboldt-Universität zu Berlin, Berlin, Germany
+  url: https://chiir2027.github.io/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-10-08
+    time: "23:59"
+    tz: AoE
+    label: Full and perspective papers
+  - kind: submission
+    date: 2026-10-15
+    time: "23:59"
+    tz: AoE
+    label: Full and perspective papers
+  - kind: other
+    date: 2026-10-22
+    time: "23:59"
+    tz: AoE
+    label: Tutorial and workshop proposals
+  - kind: submission
+    date: 2026-10-29
+    time: "23:59"
+    tz: AoE
+    label: Short, demo, design, resource and industry papers
+  - kind: submission
+    date: 2026-12-06
+    time: "23:59"
+    tz: AoE
+    label: Doctoral consortium papers
+  - kind: notification
+    date: 2026-12-15
+sources:
+- https://chiir2027.github.io/
+- https://chiir2027.github.io/full-papers.html
+- https://chiir2026.github.io/
+- https://dl.acm.org/doi/proceedings/10.1145/3786304
+- https://portal.core.edu.au/conf-ranks/?search=CHIIR&by=all&source=ICORE2026
+last_verified: 2026-10-11

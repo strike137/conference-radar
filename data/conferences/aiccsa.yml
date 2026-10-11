@@ -1,0 +1,81 @@
+id: aiccsa
+name: AICCSA
+full_name: ACS/IEEE International Conference on Computer Systems and Applications
+type: conference
+tier: minor
+areas: [general, systems, security, ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Arab Computer Society (ACS) and IEEE Computer Society
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, Web of Science, DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [4, 5, 6]
+  conference_months: [10, 11]
+links:
+  website: https://aiccsa.net/
+  dblp: https://dblp.org/db/conf/aiccsa/index.html
+notes:
+- Flagship conference of the Arab Computer Society, co-sponsored by the IEEE Computer Society; running since 2001
+- Broad scope with tracks on distributed computing and IoT, security, data science, AI, NLP and vision
+- Proceedings in IEEE Xplore; best papers invited to journal special issues (2025)
+- Held in the Arab world, rotating between the Gulf and North Africa (Tangier 2021, Abu Dhabi 2022, Giza 2023,
+  Sousse 2024, Doha 2025, Sharjah 2026); hybrid with online presentation allowed
+- CORE C (ICORE2026); regarded as a regional venue
+editions:
+- year: 2025
+  start: 2025-10-19
+  end: 2025-10-22
+  location: Doha, Qatar
+  url: https://conferences.sigappfr.org/aiccsa2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    tz: AoE
+    label: Regular papers (extended from 2025-05-19)
+  - kind: submission
+    date: 2025-07-05
+    label: Workshop papers
+  - kind: notification
+    date: 2025-07-30
+    tz: AoE
+    label: Regular papers
+  - kind: camera_ready
+    date: 2025-09-05
+    label: With author registration
+- year: 2026
+  start: 2026-10-26
+  end: 2026-10-29
+  location: Sharjah, United Arab Emirates
+  url: https://aiccsa.net/AICCSA2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-19
+    tz: AoE
+  - kind: submission
+    date: 2026-06-30
+    tz: AoE
+    label: Regular papers (extended from 2026-04-30)
+  - kind: notification
+    date: 2026-08-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-05
+    tz: AoE
+  - kind: other
+    date: 2026-09-20
+    tz: AoE
+    label: Author registration
+sources:
+- https://aiccsa.net/
+- https://aiccsa.net/AICCSA2026/calls.php
+- https://conferences.sigappfr.org/aiccsa2025/
+- https://conferences.sigappfr.org/aiccsa2025/call-for-research-papers/
+- https://conferences.sigappfr.org/aiccsa2025/important-dates/
+- https://portal.core.edu.au/conf-ranks/?search=AICCSA&by=all&source=ICORE2026
+last_verified: 2026-10-11

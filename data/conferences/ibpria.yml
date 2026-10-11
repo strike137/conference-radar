@@ -1,0 +1,61 @@
+id: ibpria
+name: IbPRIA
+full_name: Iberian Conference on Pattern Recognition and Image Analysis
+type: conference
+tier: minor
+areas: [ai, vision]
+region: europe
+language: english
+frequency: biennial
+organizer: AERFAI and APRP (Spanish and Portuguese IAPR chapters)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: National/Regional
+acceptance_rate: 58% (2025, 67/115)
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://www.ibpria.org/
+  dblp: https://dblp.org/db/conf/ibpria/index.html
+notes:
+- Held since 2003, alternating between Spain and Portugal (Alicante 2023, Coimbra 2025, Barcelona 2027)
+- Co-organized by the Spanish AERFAI and Portuguese APRP chapters of the IAPR
+- Proceedings in Springer LNCS; selected papers invited to a Pattern Analysis and Applications special issue
+- Usually biennial (2019 was followed by 2022, then back to odd years)
+- "CORE rank: National/Regional (ICORE2026)"
+editions:
+- year: 2025
+  start: 2025-06-30
+  end: 2025-07-03
+  location: Coimbra, Portugal
+  url: https://www.ibpria.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-21
+    tz: AoE
+    label: Papers (extended from 2025-02-14)
+  - kind: notification
+    date: 2025-05-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-23
+    tz: AoE
+- year: 2027
+  start: 2027-07-06
+  end: 2027-07-09
+  location: Barcelona, Spain
+  url: https://www.ibpria.org/2027/
+sources:
+- https://www.ibpria.org/2025/
+- https://www.ibpria.org/2025/?page=cfp
+- https://www.ibpria.org/2025/?page=dates
+- https://www.ibpria.org/2025/?page=proceedings
+- https://www.ibpria.org/2025/?page=past
+- https://www.ibpria.org/2027/
+- https://portal.core.edu.au/conf-ranks/?search=IbPRIA&by=all&source=ICORE2026
+unverified:
+- IbPRIA 2027 deadlines not announced yet (the 2027 dates page still shows the 2025 deadlines)
+last_verified: 2026-10-11

@@ -1,0 +1,77 @@
+id: ki
+name: KI
+full_name: German Conference on Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: GI (Gesellschaft für Informatik), Fachbereich Künstliche Intelligenz (GI-SIG AI)
+organizer_country: [europe]
+proceedings: Springer LNAI
+archival: true
+rank:
+  core: National/Regional
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://ki2026.gi.de/
+notes:
+- Annual AI conference of the German Informatics Society (GI); held in English; KI 2026 was the 49th edition
+- Proceedings in Springer LNAI; full papers up to 12 pages and technical communications up to 6 pages, excluding
+  references; single-anonymized review via EasyChair (2025, 2026)
+- Also accepts short summaries of papers already accepted at other venues (not a new publication)
+- Held in Germany; often attached to a larger event (with INFORMATIK 2025 in Potsdam; the week before IJCAI-ECAI
+  2026 in Bremen)
+- CORE National/Regional (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-09-16
+  end: 2025-09-19
+  location: Potsdam, Germany
+  url: https://ki2025.gi.de/
+  deadlines:
+  - kind: abstract
+    date: 2025-04-18
+  - kind: submission
+    date: 2025-04-25
+    label: Full papers
+  - kind: other
+    date: 2025-05-16
+    label: Summaries of already accepted papers
+  - kind: notification
+    date: 2025-06-06
+  - kind: camera_ready
+    date: 2025-06-27
+- year: 2026
+  start: 2026-08-11
+  end: 2026-08-14
+  location: Bremen, Germany
+  url: https://ki2026.gi.de/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-02
+    label: Main track (extended from 2026-03-24)
+  - kind: submission
+    date: 2026-04-12
+    label: Main track full papers (extended from 2026-04-02)
+  - kind: other
+    date: 2026-05-20
+    tz: AoE
+    label: Extended abstracts of accepted papers
+  - kind: notification
+    date: 2026-05-22
+    label: Main track
+  - kind: camera_ready
+    date: 2026-05-29
+sources:
+- https://ki2025.gi.de/
+- https://ki2025.gi.de/calls/call-for-papers
+- https://ki2026.gi.de/
+- https://ki2026.gi.de/calls/call-for-papers
+- https://portal.core.edu.au/conf-ranks/?search=KI&by=all&source=ICORE2026
+unverified:
+- KI 2027 announced as an anniversary edition in Berlin; dates not yet published
+last_verified: 2026-10-11

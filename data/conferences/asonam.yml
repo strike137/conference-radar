@@ -1,0 +1,78 @@
+id: asonam
+name: ASONAM
+full_name: International Conference on Advances in Social Networks Analysis and Mining
+type: conference
+tier: major
+areas: [data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ASONAM steering committee (chair at the University of Calgary)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://asonam.cpsc.ucalgary.ca/
+  dblp: https://dblp.org/db/conf/asonam/index.html
+notes:
+- Was the IEEE/ACM ASONAM until 2023; from 2024 the steering committee dropped the IEEE and ACM sponsorship
+  to lower the registration fee
+- Proceedings now in Springer LNCS (2025 in three volumes); the 2026 camera-ready page also has a Springer Lecture
+  Notes in Social Networks licence form
+- CORE B (ICORE2026); full papers up to 15 pages, short papers 8 pages, Springer format
+- Tracks include research, SNAM journal track (Springer Social Network Analysis and Mining), industrial,
+  multidisciplinary, PhD forum and posters; co-located with the HI-BI-BI, FOSINT-SI and FAB workshops
+- Location rotates worldwide (Turkey 2023, Italy 2024, Canada 2025, Morocco 2026, Greece 2027)
+editions:
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-27
+  location: Rabat, Morocco
+  url: https://asonam.cpsc.ucalgary.ca/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-03
+    time: "23:59"
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2026-05-10
+    time: "23:59"
+    tz: AoE
+    label: Research track
+  - kind: notification
+    date: 2026-06-27
+    time: "23:59"
+    tz: AoE
+    label: Research track
+  - kind: camera_ready
+    date: 2026-07-15
+    time: "23:59"
+    tz: AoE
+    label: Research track, with registration
+- year: 2027
+  start: 2027-08-23
+  end: 2027-08-26
+  location: Athens, Greece
+  url: https://asonam.cpsc.ucalgary.ca/2027
+sources:
+- https://asonam.cpsc.ucalgary.ca/
+- https://asonam.cpsc.ucalgary.ca/2027/dates
+- https://asonam.cpsc.ucalgary.ca/2027/cfp/research
+- https://asonam.cpsc.ucalgary.ca/2026/
+- https://asonam.cpsc.ucalgary.ca/2026/CFP.php
+- https://asonam.cpsc.ucalgary.ca/2026/camera-ready.php
+- https://asonam.cpsc.ucalgary.ca/2025/
+- https://asonam.cpsc.ucalgary.ca/2024/
+- https://asonam.cpsc.ucalgary.ca/2023/
+- https://link.springer.com/book/10.1007/978-3-032-13513-1
+- https://portal.core.edu.au/conf-ranks/?search=ASONAM&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ASONAM 2027 deadlines and venue building (key dates page says "to be announced later" as of 2026-10-11)
+- Acceptance rate and registration fee
+last_verified: 2026-10-11

@@ -1,0 +1,63 @@
+id: ida
+name: IDA
+full_name: International Symposium on Intelligent Data Analysis
+type: conference
+tier: major
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: IDA symposium series (local organizers rotate; Leiden University in 2026)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [11]
+  conference_months: [4, 5]
+links:
+  website: https://ida2026.org/
+  dblp: https://dblp.org/db/conf/ida/
+notes:
+- Small single-track symposium on data analysis and machine learning that promotes ideas over performance; reviewers weigh novelty over exhaustive benchmarks
+- Proceedings in Springer LNCS as Advances in Intelligent Data Analysis (2026 -> volume XXIV, 33 papers)
+- Papers 10 to 12 pages in LNCS format; single-blind review; a senior PC member can champion a paper to acceptance
+- Held in Europe every spring (Porto 2021, Rennes 2022, Louvain-la-Neuve 2023, Stockholm 2024, Konstanz 2025, Leiden 2026)
+- PhD forum with mentoring; frontier prize for the most visionary paper
+- CORE B (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-04-22
+  end: 2026-04-24
+  location: Leiden, Netherlands
+  url: https://ida2026.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-21
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-11-28
+    time: "23:59"
+    tz: AoE
+    label: Regular papers (extended)
+  - kind: notification
+    date: 2026-01-23
+  - kind: camera_ready
+    date: 2026-02-06
+    label: With registration
+  - kind: other
+    date: 2026-02-23
+    label: PhD forum
+sources:
+- https://ida2026.org/
+- https://ida2026.org/regular-paper-track/
+- https://ida2026.org/why-submit/
+- https://ida2026.org/chairs/
+- https://link.springer.com/conference/ida
+- https://link.springer.com/book/9783032238320
+- https://portal.core.edu.au/conf-ranks/?search=IDA&by=all&source=ICORE2026
+unverified:
+- IDA 2027 dates, location and deadlines not found (no 2027 site reachable as of 2026-10-11)
+last_verified: 2026-10-11

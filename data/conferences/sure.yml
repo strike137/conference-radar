@@ -1,0 +1,76 @@
+id: sure
+name: SURE
+full_name: Workshop on Software Understanding and Reverse Engineering
+type: workshop
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SURE program chairs (Arizona State University, Pennsylvania State University), co-located with ACM CCS
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://sure-workshop.org/
+notes:
+- One-day workshop co-located with ACM CCS; location follows CCS (2025 Taipei, 2026 The Hague)
+- 'Topics: decompilation, binary analysis, deobfuscation, clone detection, agentic reverse engineering, benchmarks and
+  human studies'
+- Proceedings in the ACM Digital Library (2025 volume doi 10.1145/3733822)
+- Full papers up to 12 pages and short papers up to 6 pages excluding references, double-column ACM format, double-blind;
+  2-page non-anonymous poster abstracts
+- 12 accepted in 2025 (5 full papers, 4 short papers, 3 posters)
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Taipei, Taiwan
+  url: https://sure-workshop.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-07
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-08-13
+    tz: AoE
+    label: Changed from 2025-08-08
+  - kind: camera_ready
+    date: 2025-08-19
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-19
+  location: The Hague, Netherlands
+  url: https://sure-workshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-08-17
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-02
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sure-workshop.org/
+- https://sure-workshop.org/cfp/
+- https://sure-workshop.org/organizers/
+- https://sure-workshop.org/faqs/
+- https://sure-workshop.org/2025/
+- https://sure-workshop.org/2025/papers/
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://doi.org/10.1145/3733822
+- https://portal.core.edu.au/conf-ranks/?search=SURE&by=all&source=ICORE2026
+unverified:
+- The 2026 call for papers does not state the proceedings; ACM DL publication is assumed from the 2025 volume
+- Not found in the ICORE2026 portal and not in the CCF list, so no rank is given
+last_verified: 2026-10-11

@@ -1,0 +1,79 @@
+id: chi
+name: CHI
+full_name: ACM CHI Conference on Human Factors in Computing Systems
+type: conference
+tier: top
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [9]
+  conference_months: [4, 5]
+links:
+  website: https://chi2027.acm.org/
+  dblp: https://dblp.org/db/conf/chi/index.html
+notes:
+- Sponsored by ACM SIGCHI; the flagship venue for human-computer interaction and the largest HCI conference
+- Papers appear in the Proceedings of the ACM Conference on Human Factors in Computing Systems (ACM DL), under ACM Open
+- Single deadline in September with a revise-and-resubmit phase for papers above a threshold; anonymized review
+- Length counted in words (5,000 to 8,000 encouraged; under 5,000 treated as short papers; over 12,000 desk-rejected
+  unless justified)
+- Many other tracks (posters, interactive demos, panels, workshops, meet-ups, student research competition)
+- Rotates worldwide (Barcelona 2026, Pittsburgh 2027)
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-17
+  location: Barcelona, Spain (CCIB)
+  url: https://chi2026.acm.org/
+- year: 2027
+  start: 2027-05-10
+  end: 2027-05-14
+  location: Pittsburgh, PA, USA (David L. Lawrence Convention Center)
+  url: https://chi2027.acm.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-10
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2026-10-01
+    tz: AoE
+    label: Workshop and meet-up proposals
+  - kind: other
+    date: 2026-11-05
+    tz: AoE
+    label: Papers, reviews released
+  - kind: other
+    date: 2026-11-19
+    tz: AoE
+    label: Panels submission
+  - kind: other
+    date: 2026-12-03
+    tz: AoE
+    label: Papers, resubmission (revise and resubmit)
+  - kind: notification
+    date: 2026-12-17
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2027-01-21
+    tz: AoE
+    label: Posters, interactive demos and student research competition
+sources:
+- https://chi2027.acm.org/
+- https://chi2027.acm.org/authors/papers/
+- https://chi2026.acm.org/
+- https://portal.core.edu.au/conf-ranks/?search=CHI&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

@@ -1,0 +1,60 @@
+id: opodis
+name: OPODIS
+full_name: International Conference on Principles of Distributed Systems
+type: conference
+tier: major
+areas: [systems, networking]
+region: europe
+language: english
+frequency: annual
+organizer: OPODIS Steering Committee
+organizer_country: [international]
+proceedings: LIPIcs
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://www.opodis.net/
+  dblp: https://dblp.org/db/conf/opodis/index.html
+notes:
+- Long-running theory and practice venue for distributed computing, held every December since 1997
+- Run by an international steering committee; mostly held in Europe (Strasbourg 2021, Brussels 2022, Tokyo 2023, Lucca 2024, Iasi 2025, Madrid 2026)
+- Proceedings in LIPIcs (Leibniz International Proceedings in Informatics), gold open access, published after the conference
+- Double-blind review; papers up to 15 pages in LIPIcs format (excluding cover page, references and appendices)
+- Best paper and best student paper awards
+- 'CORE rank B (ICORE2026); not in the CCF list'
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Iasi, Romania
+  url: https://conferences.info.uaic.ro/opodis2025/
+- year: 2026
+  start: 2026-12-09
+  end: 2026-12-11
+  location: IMDEA Software Institute, Madrid, Spain
+  url: https://opodis26.software.imdea.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-07
+    tz: AoE
+    label: Abstract registration (extended from 2026-08-31)
+  - kind: submission
+    date: 2026-09-10
+    tz: AoE
+    label: Full papers (extended from 2026-09-03)
+  - kind: notification
+    date: 2026-10-28
+    tz: AoE
+sources:
+- https://www.opodis.net/
+- https://opodis26.software.imdea.org/
+- https://opodis26.software.imdea.org/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=OPODIS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- OPODIS 2026 camera-ready date not found on the CFP page
+last_verified: 2026-10-11

@@ -1,0 +1,70 @@
+id: ispd
+name: ISPD
+full_name: ACM International Symposium on Physical Design
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGDA (technical co-sponsor IEEE CEDA)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [9]
+  conference_months: [3]
+links:
+  website: https://www.ispd.cc/
+  dblp: https://dblp.org/db/conf/ispd/index.html
+notes:
+- Sponsored by ACM SIGDA with technical co-sponsorship from IEEE CEDA; papers in the ACM Digital Library since 1997
+- Small, focused forum on physical design of ICs (floorplanning, placement, routing, clock and power networks, DFM,
+  3D ICs, ML for physical design)
+- Blind review; up to 8 pages plus 1 page of references in the ACM template; abstract one week before the full paper
+- Runs a well-known annual physical design contest; each year also has a commemorative session for a senior researcher
+- A speaker per paper must register and present live; slides and talk videos are posted on the ISPD site and YouTube
+- Recent editions in Taipei (2024), Austin (2025) and Bonn (2026), Taipei again in 2027
+- ACM is fully open access from 2026, so authors outside ACM Open institutions may pay an APC
+- Not listed in ICORE2026; CCF C
+editions:
+- year: 2026
+  start: 2026-03-15
+  end: 2026-03-18
+  location: Bonn, Germany
+  url: https://www.ispd.cc/slides/ispd2026.html
+- year: 2027
+  start: 2027-03-30
+  end: 2027-04-02
+  location: Howard Civil Service International House, Taipei, Taiwan
+  url: https://www.ispd.cc/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-21
+    label: Title and abstract
+  - kind: submission
+    date: 2026-09-28
+    label: Full manuscript
+  - kind: notification
+    date: 2026-11-05
+  - kind: camera_ready
+    date: 2027-01-07
+    label: Camera-ready and speaker registration
+sources:
+- https://www.ispd.cc/
+- https://www.ispd.cc/?page=callforpapers
+- https://www.ispd.cc/?page=archives
+- https://www.ispd.cc/slides/ispd2026.html
+- https://www.ispd.cc/slides/ispd2025.html
+- https://www.ispd.cc/slides/ispd2024.html
+- https://portal.core.edu.au/conf-ranks/?search=ISPD&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF list mirror, updated 2026-04-06)
+unverified:
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly (site blocks automated access)
+- ISPD 2027 dates differ on the site (header March 31 to April 2, CFP and important dates March 30 to April 2)
+- ISPD 2026 dates taken from the program (welcome reception March 15, sessions March 16 to 18)
+- Deadline times and time zone (not stated on the CFP)
+- Acceptance rate (not stated on the official pages)
+last_verified: 2026-10-11

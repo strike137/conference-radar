@@ -1,0 +1,64 @@
+id: saicsit
+name: SAICSIT
+full_name: Annual Conference of the South African Institute of Computer Scientists and Information Technologists
+type: conference
+tier: minor
+areas: [general, ai]
+region: africa
+language: english
+frequency: annual
+organizer: SAICSIT (South African Institute of Computer Scientists and Information Technologists)
+organizer_country: [other]
+proceedings: Springer CCIS (plus SAICSIT online proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://saicsit.org/
+notes:
+- Main national computer science and information systems conference of South Africa, held since 1981 (before
+  SAICSIT was founded in 1982) and now run by SAICSIT
+- Two tracks, Computer Science and Information Systems, plus a postgraduate symposium for short work-in-progress papers
+- "Full papers 12 to 16 pages in the Springer CCIS template; double-blind review; an abstract (intent to submit) is due a week before the paper"
+- 2026 accepted full papers go to Springer CCIS; strong papers not accepted there go into the SAICSIT online
+  proceedings; earlier proceedings are indexed in the ACM Digital Library
+- Each accepted full paper needs at least one registered author presenting in person
+- Hosted by a different South African university each year (UKZN 2025, UCT Cape Town 2026)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-15
+  location: Cape Town, South Africa
+  url: https://saicsit.org/2026/
+  deadlines:
+  - kind: other
+    date: 2026-02-28
+    label: Workshop, tutorial and panel proposals
+  - kind: abstract
+    date: 2026-03-02
+  - kind: submission
+    date: 2026-03-16
+    label: Full papers (extended from 2026-03-09)
+  - kind: notification
+    date: 2026-05-06
+  - kind: submission
+    date: 2026-05-11
+    label: Postgraduate symposium
+  - kind: camera_ready
+    date: 2026-05-20
+  - kind: notification
+    date: 2026-06-02
+    label: Postgraduate symposium (updated from 2026-05-29)
+sources:
+- https://saicsit.org/
+- https://saicsit.org/2026/
+- https://saicsit.org/2026/call-for-papers/
+- https://saicsit.org/conferences/
+- https://portal.core.edu.au/conf-ranks/?search=SAICSIT&by=all&source=ICORE2026
+unverified:
+- SAICSIT 2027 host, dates and deadlines not announced as of 2026-10-11
+- Publisher of the 2023 to 2025 proceedings (the conferences page only says the conference is indexed in the ACM
+  Digital Library)
+last_verified: 2026-10-11

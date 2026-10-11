@@ -1,0 +1,78 @@
+id: scia
+name: SCIA
+full_name: Scandinavian Conference on Image Analysis
+type: conference
+tier: minor
+areas: [ai, vision]
+region: europe
+language: english
+frequency: biennial
+organizer: Nordic pattern recognition societies in rotation (DSAGM in 2025, NOBIM in 2027)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://scia2027.org/
+  dblp: https://dblp.org/db/conf/scia/index.html
+notes:
+- Biennial Nordic computer vision and image analysis conference; the host society rotates (Danish DSAGM ran 2025 in Reykjavik, Norwegian NOBIM runs 2027 in Gjovik)
+- Full papers in Springer LNCS (2025 in two volumes); a separate abstract-only track is not published
+- Up to 12 pages plus 2 pages of references; double-blind review by three reviewers, single round without rebuttal
+- In-person presentation required; reviews of accepted papers are published
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-06-23
+  end: 2025-06-25
+  location: Reykjavik, Iceland
+  url: https://scia2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-02-17
+    time: "23:59"
+    tz: PST
+    label: Papers (extended from 2025-01-30)
+  - kind: abstract
+    date: 2025-02-27
+    time: "23:59"
+    tz: PST
+    label: Abstract-only track (not published)
+  - kind: notification
+    date: 2025-03-24
+  - kind: camera_ready
+    date: 2025-04-10
+    time: "23:59"
+    tz: PDT
+- year: 2027
+  start: 2027-06-08
+  end: 2027-06-11
+  location: Gjovik, Norway
+  url: https://scia2027.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-26
+    label: Full papers
+  - kind: abstract
+    date: 2027-02-28
+    label: Abstract-only track (not published)
+  - kind: notification
+    date: 2027-03-16
+  - kind: camera_ready
+    date: 2027-04-11
+sources:
+- https://scia2025.org/
+- https://scia2025.org/dates
+- https://scia2025.org/paper-submission
+- https://scia2025.org/organization
+- https://scia2027.org/
+- https://scia2027.org/index.php/dates/
+- https://scia2027.org/index.php/call-for-papers/
+- https://scia2027.org/index.php/organization-team/
+- https://portal.core.edu.au/conf-ranks/?search=SCIA&by=all&source=ICORE2026
+unverified:
+- Acceptance rate and registration fees not found on the official sites
+- 2027 end date includes the tutorial and workshop day (June 8); main conference is June 9 to 11
+last_verified: 2026-10-11

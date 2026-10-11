@@ -1,0 +1,62 @@
+id: caepia
+name: CAEPIA
+full_name: Conference of the Spanish Association for Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+frequency: biennial
+organizer: AEPIA (Asociación Española para la Inteligencia Artificial)
+organizer_country: [europe]
+proceedings: Springer LNAI
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [11]
+links:
+  website: https://caepia26.aepia.org/
+  dblp: https://dblp.org/db/conf/caepia/index.html
+notes:
+- Run by the Spanish Association for Artificial Intelligence (AEPIA); described on its site as a biennial forum open to researchers worldwide
+- Two paper tracks; LNAI papers (English, double-blind, up to 12 pages) go to Springer LNAI, other papers to the electronic CAEPIA proceedings
+- Selected papers invited to a special issue of the Springer journal Progress in Artificial Intelligence
+- Federated with Spanish AI conferences (ESTYLF, MAEB, TAMIDA, SISREC in 2026) plus workshops and a doctoral consortium
+- CAEPIA 2026 (21st edition) is hosted by the Universidad de Jaén
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-11-11
+  end: 2026-11-13
+  location: Jaén, Spain
+  url: https://caepia26.aepia.org/
+  deadlines:
+  - kind: other
+    date: 2026-03-15
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-05-17
+    label: LNAI papers (extended from 2026-04-30)
+  - kind: submission
+    date: 2026-06-07
+    label: CAEPIA proceedings papers, key papers, doctoral consortium (extended from 2026-05-15)
+  - kind: notification
+    date: 2026-06-16
+    label: LNAI papers
+  - kind: camera_ready
+    date: 2026-06-30
+    label: LNAI papers
+  - kind: notification
+    date: 2026-07-07
+    label: CAEPIA proceedings papers, key papers, doctoral consortium
+  - kind: camera_ready
+    date: 2026-07-15
+    label: CAEPIA proceedings papers, key papers, doctoral consortium
+sources:
+- https://caepia26.aepia.org/
+- https://simidat.ujaen.es/caepia26
+- https://simidat.ujaen.es/caepia26/en/cfp
+- https://portal.core.edu.au/conf-ranks/?search=CAEPIA&by=all&source=ICORE2026
+unverified:
+- Conference language not stated (LNAI papers must be in English; the site is in Spanish with an English version)
+- Deadline years are not printed on the CFP page; 2026 is assumed from context
+last_verified: 2026-10-11

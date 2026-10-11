@@ -1,0 +1,66 @@
+id: anrw
+name: ANRW
+full_name: ACM/IRTF Applied Networking Research Workshop
+type: workshop
+tier: minor
+areas: [networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCOMM and IRTF
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [7]
+links:
+  website: https://irtf.org/anrw/
+notes:
+- One-day workshop co-located with the July IETF meeting; sponsored by ACM SIGCOMM and the IRTF
+- Bridges research and IETF standardization; good venue to meet IETF and IRTF participants
+- Regular papers up to 6 pages plus references, short papers 2 pages; double-blind review
+- Papers published open access in the ACM DL (APC may apply unless covered by ACM Open); hybrid, remote participation
+  possible
+- Location follows the IETF meeting (San Francisco 2023, Vancouver 2024, Madrid 2025, Vienna 2026)
+- Not listed in the CORE ICORE2026 rankings
+editions:
+- year: 2025
+  start: 2025-07-22
+  end: 2025-07-22
+  location: Madrid, Spain
+  url: https://irtf.org/anrw/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-29
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-06-05
+  - kind: camera_ready
+    date: 2025-06-15
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-20
+  location: Vienna, Austria
+  url: https://irtf.org/anrw/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-04
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-08
+  - kind: camera_ready
+    date: 2026-06-17
+sources:
+- https://irtf.org/anrw/
+- https://irtf.org/anrw/2025/
+- https://irtf.org/anrw/2025/cfp.html
+- https://irtf.org/anrw/2026/
+- https://irtf.org/anrw/2026/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=ANRW&by=all&source=ICORE2026
+unverified:
+- ANRW 2027 not yet announced (expected with the July 2027 IETF meeting)
+- dblp key not confirmed (dblp blocked automated access)
+last_verified: 2026-10-11

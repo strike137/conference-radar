@@ -1,0 +1,76 @@
+id: cscw
+name: CSCW
+full_name: ACM Conference on Computer-Supported Cooperative Work and Social Computing
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL (Proceedings of the ACM on Human-Computer Interaction, PACM HCI)
+archival: true
+rank:
+  core: A
+  ccf: A
+typical:
+  conference_months: [10]
+links:
+  website: https://cscw.acm.org/2026/
+  dblp: https://dblp.org/db/conf/cscw/index.html
+notes:
+- Sponsored by ACM SIGCHI; the main venue for research on technology for groups, organizations, communities and
+  social computing
+- Papers are published as journal articles in PACM HCI (CSCW issue) under ACM Open Access
+- CORE A (ICORE2026); CCF A
+- CSCW 2026 had a single new-paper deadline in May 2025 followed by revise-and-resubmit rounds up to January 2026
+- "From CSCW 2027 papers follow a rolling model with no conference deadlines: a paper must first be accepted in PACM HCI/CSCW (or ToCHI if in scope) and then gets a presentation slot"
+- Held in October in recent years (Bergen 2025, Salt Lake City 2026); posters, demos, workshops and panels are
+  separate non-paper tracks
+editions:
+- year: 2025
+  start: 2025-10-18
+  end: 2025-10-22
+  location: Bergen, Norway (Grieghallen)
+  url: https://cscw.acm.org/2025/
+- year: 2026
+  start: 2026-10-10
+  end: 2026-10-14
+  location: Salt Lake City, UT, USA (Salt Lake Marriott Downtown City Creek)
+  url: https://cscw.acm.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-05-14
+    time: "12:00"
+    tz: EDT
+    label: New papers (only new-paper deadline)
+  - kind: notification
+    date: 2025-08-19
+    tz: AoE
+    label: Initial round
+  - kind: other
+    date: 2025-09-16
+    time: "23:59"
+    tz: AoE
+    label: Revise for External Review resubmission
+  - kind: notification
+    date: 2025-11-11
+    label: External review round
+  - kind: other
+    date: 2026-01-13
+    time: "23:59"
+    tz: AoE
+    label: Major revision resubmission
+sources:
+- https://cscw.acm.org/2026/
+- https://cscw.acm.org/2026/papers.html
+- https://cscw.acm.org/2026/rolling.html
+- https://cscw.acm.org/2026/venue.html
+- https://cscw.acm.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=CSCW&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- CSCW 2027 dates and location not announced on the CSCW 2026 site as of 2026-10-11
+- Expected notification for the external review round is listed without a time zone
+last_verified: 2026-10-11

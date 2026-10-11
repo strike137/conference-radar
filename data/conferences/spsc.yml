@@ -1,0 +1,62 @@
+id: spsc
+name: SPSC
+full_name: Symposium on Security and Privacy in Speech Communication
+type: workshop
+tier: minor
+areas: [security, nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ISCA SPSC Special Interest Group
+organizer_country: [international]
+proceedings: ISCA Archive
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [8, 9]
+links:
+  website: https://spsc-symposium.de/
+notes:
+- Organized by the ISCA special interest group on Security and Privacy in Speech Communication
+- One-day satellite event of Interspeech, held jointly with the VoicePrivacy Challenge (VPC) workshop
+- Follows Interspeech around the world (Incheon 2022, Dublin 2023, Kos 2024, Delft 2025, Sydney 2026)
+- Proceedings in the ISCA Archive with a DOI per edition (e.g. 10.21437/SPSC.2025)
+- Small venue; 13 papers (8 oral, 5 poster) in the 2025 proceedings
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-08-16
+  end: 2025-08-16
+  location: Delft, Netherlands
+  url: https://spsc-symposium.de/2025
+- year: 2026
+  start: 2026-09-26
+  end: 2026-09-26
+  location: UNSW Sydney, Australia
+  url: https://spsc-symposium.de/
+  deadlines:
+  - kind: other
+    date: 2026-06-30
+    label: VoicePrivacy Challenge papers and results
+  - kind: submission
+    date: 2026-07-04
+    tz: AoE
+    label: SPSC regular papers
+  - kind: notification
+    date: 2026-07-18
+  - kind: camera_ready
+    date: 2026-09-15
+    label: Extended
+sources:
+- https://spsc-symposium.de/
+- https://spsc-symposium.de/home/_cfp/6th_SPSC_Symposium_CFP.pdf
+- https://spsc-symposium.de/2025
+- https://spsc-symposium.de/2024
+- https://spsc-symposium.de/2023
+- https://spsc-symposium.de/2022
+- https://www.isca-archive.org/spsc_2025/index.html
+- https://portal.core.edu.au/conf-ranks/?search=SPSC&by=all&source=ICORE2026
+unverified:
+- SPSC 2027 dates and location not yet announced (expected as an Interspeech 2027 satellite)
+- Location of the first edition (2021)
+last_verified: 2026-10-11

@@ -1,0 +1,54 @@
+id: nldl
+name: NLDL
+full_name: Northern Lights Deep Learning Conference
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: Visual Intelligence and the UiT Machine Learning Group (UiT The Arctic University of Norway)
+organizer_country: [europe]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [1]
+links:
+  website: https://www.nldl.org/
+notes:
+- Organized by the Visual Intelligence centre and the UiT Machine Learning Group; held every January at UiT in
+  Tromso, Norway since 2018 (online in 2021 and 2022)
+- Proceedings in PMLR since 2024 (2026 -> vol. 307, 37 papers); 2020 to 2023 proceedings on UiT Septentrio
+- Full papers 5 to 8 pages plus references and appendices; double-blind review with an author rebuttal
+- Small and student-friendly; a winter school runs alongside the main conference
+- Level 1 publication in the Norwegian system; not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-01-06
+  end: 2026-01-08
+  location: Tromso, Norway
+  url: https://www.nldl.org/history/previous-nldl-iterations
+- year: 2027
+  start: 2027-01-12
+  end: 2027-01-14
+  location: Tromso, Norway
+  url: https://www.nldl.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    time: "23:59"
+    tz: CET
+    label: Full papers
+  - kind: notification
+    date: 2026-10-07
+sources:
+- https://www.nldl.org/
+- https://www.nldl.org/submission/call-for-papers
+- https://www.nldl.org/history/previous-nldl-iterations
+- https://www.nldl.org/history/nldl-proceedings
+- https://proceedings.mlr.press/v307/
+- https://portal.core.edu.au/conf-ranks/?search=NLDL&by=all&source=ICORE2026
+unverified:
+- NLDL 2027 camera-ready date and registration fees not yet listed
+last_verified: 2026-10-11

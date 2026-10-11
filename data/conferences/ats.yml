@@ -1,0 +1,85 @@
+id: ats
+name: ATS
+full_name: IEEE Asian Test Symposium
+type: conference
+tier: minor
+areas: [general, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE, IEEE CEDA
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [6, 7, 8]
+  conference_months: [11, 12]
+links:
+  website: https://ats2026.tw/
+  dblp: https://dblp.org/db/conf/ats/index.html
+notes:
+- IEEE symposium on testing of electronic systems, modules and devices (DFT, ATPG, BIST, fault diagnosis, memory
+  and analog test, test for AI and AI for test, hardware security and trust)
+- Sponsored by IEEE and IEEE CEDA; papers go to IEEE Xplore
+- Rotates around Asia with strong Japan and Taiwan roots (Tokyo 2025, Kaohsiung 2026)
+- The 2025 edition was held jointly with ITC-Asia (34th ATS and 9th ITC-Asia) alongside SEMICON Japan at Tokyo Big
+  Sight
+- Regular papers up to 6 pages in IEEE two-column format; at least one full registration per accepted paper
+- Submission deadline is usually extended by several weeks; separate late-breaking results track
+- Listed as CCF C (computer architecture); not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-16
+  end: 2025-12-19
+  location: Tokyo Big Sight, Tokyo, Japan
+  url: https://www.itc-asia.info.hiroshima-cu.ac.jp/2025
+  deadlines:
+  - kind: submission
+    date: 2025-08-12
+    label: Regular papers (revised from 2025-07-22, then 2025-08-05)
+  - kind: notification
+    date: 2025-09-24
+  - kind: camera_ready
+    date: 2025-10-24
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-03
+  location: Hotel Nikko Kaohsiung, Kaohsiung, Taiwan
+  url: https://ats2026.tw/
+  deadlines:
+  - kind: submission
+    date: 2026-07-07
+    time: "23:59"
+    tz: AoE
+    label: Regular papers (final extension from 2026-06-06)
+  - kind: other
+    date: 2026-08-31
+    time: "23:59"
+    tz: AoE
+    label: Special session and innovative practices session proposals
+  - kind: notification
+    date: 2026-09-14
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-09-27
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking results submission (postponed from 2026-09-21)
+  - kind: camera_ready
+    date: 2026-10-13
+    time: "23:59"
+    tz: AoE
+sources:
+- https://ats2026.tw/
+- https://ats2026.tw/build/assets/ats2026_cfp-CbysE2hz.pdf
+- https://ats2026.tw/submission-guidelines
+- https://www.itc-asia.info.hiroshima-cu.ac.jp/2025
+- https://portal.core.edu.au/conf-ranks/?search=ATS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- ATS 2027 dates and location not yet announced as of 2026-10-11
+last_verified: 2026-10-11

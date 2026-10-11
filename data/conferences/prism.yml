@@ -1,0 +1,55 @@
+id: prism
+name: PRISM
+full_name: Workshop on Attack Provenance, Reasoning, and Investigation for Security in the Monitored Environment
+type: workshop
+tier: minor
+areas: [security, systems]
+region: north-america
+language: english
+organizer: Chairs from UC Irvine, University of Virginia and Purdue University, co-located with the NDSS Symposium
+  (Internet Society)
+organizer_country: [usa]
+proceedings: NDSS Symposium website (Internet Society, open access)
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [2]
+links:
+  website: https://www.ndss-symposium.org/ndss2026/co-located-events/prism/
+notes:
+- First held in 2026, co-located with NDSS in San Diego on the Monday before the main conference
+- 'Topics: provenance graphs, attack reconstruction, provenance-based intrusion detection, log storage and integrity,
+  forensics, datasets and benchmarks'
+- Official proceedings published and archived by the Internet Society (DOI prefix 10.14722/prism.2026)
+- Regular papers up to 10 pages and work-in-progress papers up to 6 pages, excluding references and appendices;
+  double-blind, NDSS templates; demo-driven tutorials also accepted
+- 13 accepted papers in 2026; best paper award sponsored by Palo Alto Networks
+- NDSS 2027 moves to Seoul, Korea (March 2027); a PRISM 2027 edition is not announced yet
+editions:
+- year: 2026
+  start: 2026-02-23
+  end: 2026-02-23
+  location: San Diego, USA
+  url: https://www.ndss-symposium.org/ndss2026/co-located-events/prism/
+  deadlines:
+  - kind: submission
+    date: 2026-01-02
+    time: "23:59"
+    tz: AoE
+    label: Papers and tutorials (extended from 2025-12-15)
+  - kind: notification
+    date: 2026-01-22
+  - kind: camera_ready
+    date: 2026-02-06
+sources:
+- https://www.ndss-symposium.org/ndss2026/co-located-events/prism/
+- https://www.ndss-symposium.org/ndss2026/submissions/cfp-prism/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/prism/accepted-papers/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/prism/leadership/
+- https://www.ndss-symposium.org/ndss2026/co-located-events/
+- https://doi.org/10.14722/prism.2026
+- https://portal.core.edu.au/conf-ranks/?search=PRISM&by=all&source=ICORE2026
+unverified:
+- PRISM 2027 not announced (NDSS 2027 in Seoul); frequency unknown after a single edition
+- Not found in the ICORE2026 portal and not in the CCF list, so no rank is given
+last_verified: 2026-10-11

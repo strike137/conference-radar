@@ -1,0 +1,99 @@
+id: date
+name: DATE
+full_name: Design, Automation and Test in Europe Conference
+type: conference
+tier: major
+areas: [systems, general]
+region: europe
+language: english
+frequency: annual
+organizer: EDAA (European Design and Automation Association) with ESD Alliance, IEEE CEDA and ACM SIGDA; organised by K.I.T. Group Dresden
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [9]
+  conference_months: [3, 4]
+links:
+  website: https://www.date-conference.com/
+  dblp: https://dblp.org/db/conf/date/index.html
+notes:
+- Europe's main electronic design automation conference; sponsored by EDAA, ESD Alliance, IEEE CEDA and ACM SIGDA
+- 30th edition in 2027 (Dresden); held every spring in Europe (Verona 2026)
+- Four research tracks (D design methods and tools, A application design, T test and dependability, E embedded systems)
+- Double-blind review for research papers; 6 pages plus 1 page of references; abstract one week before the paper deadline; strict 23:59 AoE deadlines with no extensions
+- Proceedings in IEEE Xplore (the archive page also points to the ACM DL); all DATE proceedings become publicly available two years after the conference
+- In-person only; also has Late Breaking Results, Multi-Partner Projects, focus sessions, workshops and a PhD Forum
+- ICORE2026 rank A; CCF B
+editions:
+- year: 2026
+  start: 2026-04-20
+  end: 2026-04-22
+  location: Palazzo della Gran Guardia, Verona, Italy
+  url: https://date26.date-conference.com/
+- year: 2027
+  start: 2027-03-22
+  end: 2027-03-24
+  location: International Congress Center Dresden, Dresden, Germany
+  url: https://www.date-conference.com/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-13
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-09-20
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: other
+    date: 2026-10-18
+    time: "23:59"
+    tz: AoE
+    label: Focus session, embedded tutorial and workshop proposals
+  - kind: submission
+    date: 2026-10-25
+    time: "23:59"
+    tz: AoE
+    label: Multi-Partner Projects (abstract 2026-10-18)
+  - kind: notification
+    date: 2026-11-23
+    label: Research papers
+  - kind: submission
+    date: 2026-11-29
+    time: "23:59"
+    tz: AoE
+    label: Late Breaking Results
+  - kind: other
+    date: 2026-11-30
+    label: PhD Forum submission
+  - kind: camera_ready
+    date: 2026-12-16
+    time: "23:59"
+    tz: AoE
+    label: Research papers and Multi-Partner Projects
+  - kind: notification
+    date: 2027-01-13
+    label: Late Breaking Results
+  - kind: camera_ready
+    date: 2027-01-29
+    time: "23:59"
+    tz: AoE
+    label: Late Breaking Results
+sources:
+- https://www.date-conference.com/
+- https://www.date-conference.com/call-for-papers
+- https://www.date-conference.com/DATE2027-Call-for-Papers.pdf
+- https://www.date-conference.com/venue
+- https://www.date-conference.com/archive
+- https://date26.date-conference.com/
+- https://portal.core.edu.au/conf-ranks/?search=DATE&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- CCF rank checked via the ccfddl and CCFrank4dblp mirrors of the CCF list, not on ccf.org.cn directly (site blocks automated access)
+- Acceptance rate (not stated on the official pages)
+last_verified: 2026-10-11

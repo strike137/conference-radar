@@ -1,0 +1,55 @@
+id: bnaic-benelearn
+name: BNAIC/BeNeLearn
+full_name: Benelux Conference on Artificial Intelligence and Belgian-Dutch Conference on Machine Learning
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: BNVKI (Belgian-Dutch Association for Artificial Intelligence) and SIKS
+organizer_country: [europe]
+proceedings: Springer CCIS (post-proceedings, selected papers); CEUR-WS pre-proceedings
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://bnaic2025.unamur.be/
+  dblp: https://dblp.org/db/conf/bnaic/index.html
+notes:
+- Joint meeting of BNAIC (37th in 2025) and BeNeLearn (34th in 2025); overview of AI and ML research in Belgium, the Netherlands and Luxembourg
+- Run under the auspices of BNVKI and the Dutch research school SIKS; hosted by a different Benelux university each year (Namur 2025)
+- Accepts regular papers, encore abstracts of already published work, demos, bachelor/master thesis abstracts and late-breaking posters
+- All accepted contributions go to non-archival CEUR pre-proceedings; selected regular papers are invited to Springer CCIS post-proceedings
+- Single-blind review via OpenReview; prizes for best paper, best demo and best bachelor/master thesis
+editions:
+- year: 2025
+  start: 2025-11-19
+  end: 2025-11-21
+  location: Namur, Belgium
+  url: https://bnaic2025.unamur.be/
+  deadlines:
+  - kind: submission
+    date: 2025-09-11
+    time: "23:59"
+    tz: AoE
+    label: Full papers and abstracts, types A to D (extended from 2025-09-08)
+  - kind: notification
+    date: 2025-10-06
+  - kind: other
+    date: 2025-10-13
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking poster abstracts (type E)
+  - kind: camera_ready
+    date: 2025-10-27
+    time: "23:59"
+    tz: AoE
+sources:
+- https://bnaic2025.unamur.be/
+- https://bnaic2025.unamur.be/call.html
+unverified:
+- BNAIC/BeNeLearn 2026 dates and host not found on an official page as of 2026-10-11
+- Not found in the CORE ICORE2026 portal (searched BNAIC and Benelux)
+last_verified: 2026-10-11

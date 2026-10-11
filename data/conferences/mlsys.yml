@@ -1,0 +1,79 @@
+id: mlsys
+name: MLSys
+full_name: Conference on Machine Learning and Systems
+type: conference
+tier: major
+areas: [ai, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: MLSys non-profit corporation
+organizer_country: [international]
+proceedings: Proceedings of Machine Learning and Systems (open access)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [5, 6]
+links:
+  website: https://mlsys.org/
+  dblp: https://dblp.org/db/conf/mlsys/index.html
+notes:
+- Leading venue at the intersection of machine learning and computer systems
+- Papers published open access in the Proceedings of Machine Learning and Systems (vol. 8 for MLSys 2026)
+- Research track (double-blind) and an industrial track; submission through OpenReview with a per-author
+  submission quota
+- Up to 10 pages in 2-column format plus references; voluntary artifact evaluation after acceptance
+- 'Held in the USA: Miami 2023, Santa Clara 2024 and 2025, Bellevue 2026 and 2027'
+- Not listed in CORE ICORE2026 and not in the CCF list mirror checked
+editions:
+- year: 2026
+  start: 2026-05-18
+  end: 2026-05-22
+  location: Bellevue, WA, USA
+  url: https://mlsys.org/Conferences/2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-30
+    time: "13:00"
+    tz: PDT
+  - kind: notification
+    date: 2026-01-26
+    time: "13:00"
+    tz: PST
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-25
+  location: Bellevue, WA, USA
+  url: https://mlsys.org/Conferences/2027
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    time: "12:00"
+    tz: PDT
+    label: Papers (the CFP page says 20:00 UTC, i.e. 13:00 PDT)
+  - kind: other
+    date: 2027-01-21
+    time: "12:00"
+    tz: PST
+    label: Author responses due
+  - kind: notification
+    date: 2027-02-28
+    time: "13:00"
+    tz: PST
+sources:
+- https://mlsys.org/
+- https://mlsys.org/Conferences/2027/Dates
+- https://mlsys.org/Conferences/2027/CallForResearchPapers
+- https://mlsys.org/Conferences/2026
+- https://mlsys.org/Conferences/2026/Dates
+- https://mlsys.org/Conferences/2025
+- https://mlsys.org/Conferences/2024
+- https://mlsys.org/Conferences/2023
+- https://proceedings.mlsys.org/
+- https://portal.core.edu.au/conf-ranks/?search=MLSys&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF list mirror)
+unverified:
+- 'MLSys 2027 paper deadline time: the Dates page says 12:00 PM PDT, the CFP page says 20:00 UTC (13:00 PDT); the
+  earlier time is recorded'
+- CORE rank (MLSys not found in the ICORE2026 portal search)
+last_verified: 2026-10-11

@@ -1,0 +1,82 @@
+id: cp
+name: CP
+full_name: International Conference on Principles and Practice of Constraint Programming
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Association for Constraint Programming (ACP)
+organizer_country: [international]
+proceedings: LIPIcs (Dagstuhl)
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7, 8, 9]
+links:
+  website: https://www.a4cp.org/events/cp-conference-series
+  dblp: https://dblp.org/db/conf/cp/index.html
+notes:
+- Flagship conference of the Association for Constraint Programming
+- Proceedings in LIPIcs (open access, Dagstuhl) since 2021; Springer LNCS before that
+- CORE A (ICORE2026), CCF B
+- Technical and application tracks; abstract registration a week before the paper deadline, then an author rebuttal
+- Often co-located (SAT, SoCS and SMT in Glasgow 2025; part of FLoC in Haifa 2022 and Lisbon 2026)
+- Rotates worldwide, mostly Europe (Montpellier 2021, Haifa 2022, Toronto 2023, Girona 2024, Glasgow 2025, Lisbon 2026)
+editions:
+- year: 2025
+  start: 2025-08-10
+  end: 2025-08-15
+  location: Glasgow, Scotland, UK (University of Glasgow)
+  url: https://cp2025.a4cp.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-24
+    time: "23:00"
+    tz: AoE
+    label: Extended from 2025-03-20
+  - kind: submission
+    date: 2025-04-03
+    time: "23:00"
+    tz: AoE
+    label: Extended from 2025-03-27
+  - kind: notification
+    date: 2025-05-29
+  - kind: camera_ready
+    date: 2025-06-09
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-23
+  location: Lisbon, Portugal (part of FLoC 2026)
+  url: https://cp2026.a4cp.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-02
+    time: "23:00"
+    tz: AoE
+    label: Extended from 2026-02-28
+  - kind: submission
+    date: 2026-03-14
+    time: "23:00"
+    tz: AoE
+    label: Extended from 2026-03-07
+  - kind: notification
+    date: 2026-04-30
+  - kind: camera_ready
+    date: 2026-05-07
+sources:
+- https://cp2025.a4cp.org/
+- https://cp2025.a4cp.org/cfp.html
+- https://cp2026.a4cp.org/
+- https://cp2026.a4cp.org/cfp.html
+- https://www.a4cp.org/events/cp-conference-series
+- https://portal.core.edu.au/conf-ranks/?search=Constraint+Programming&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- CP 2027 dates and location not yet announced (cp2027.a4cp.org not reachable as of 2026-10-11)
+- CP 2025 dates include workshops (A4CP lists the main conference as 12 to 15 August 2025)
+last_verified: 2026-10-11

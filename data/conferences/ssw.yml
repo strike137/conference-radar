@@ -1,0 +1,57 @@
+id: ssw
+name: SSW
+full_name: ISCA Speech Synthesis Workshop
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: biennial
+organizer: ISCA Speech Synthesis SIG (SynSIG)
+organizer_country: [international]
+proceedings: ISCA Archive
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://blogs.helsinki.fi/ssw13-2025/
+notes:
+- Held under the auspices of the ISCA Speech Synthesis SIG (SynSIG); every two years since 2019, in odd years
+- Usually a satellite event of Interspeech; 2025 edition followed Interspeech Rotterdam and was followed by the
+  Blizzard Challenge workshop
+- Single track; papers up to 6 pages of content plus 2 pages for references; double-blind review
+- Full papers receive a DOI in the ISCA Archive
+- Not listed in CORE ICORE2026
+- Mostly held in Europe (Barcelona 2013, Vienna 2019, Budapest 2021, Grenoble 2023, Leeuwarden 2025; Sunnyvale 2016)
+editions:
+- year: 2025
+  start: 2025-08-24
+  end: 2025-08-26
+  location: Leeuwarden, Netherlands
+  url: https://blogs.helsinki.fi/ssw13-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-06
+    time: "23:59"
+    tz: AoE
+    label: Initial paper submission (extended from 2025-04-01)
+  - kind: other
+    date: 2025-04-23
+    label: Final paper update (extended from 2025-04-20)
+  - kind: notification
+    date: 2025-06-21
+  - kind: camera_ready
+    date: 2025-07-04
+sources:
+- https://blogs.helsinki.fi/ssw13-2025/
+- https://blogs.helsinki.fi/ssw13-2025/authors/
+- https://www.isca-archive.org/ssw_2025/index.html
+- https://www.isca-archive.org/ssw_2023/index.html
+- https://www.isca-archive.org/
+- https://portal.core.edu.au/conf-ranks/?search=SSW&by=all&source=ICORE2026
+unverified:
+- SSW14 (expected 2027) dates and location not yet announced as of 2026-10-11
+- The ISCA Archive lists SSW 2025 as 24-27 August (including the Blizzard Challenge day); the workshop site gives 24-26
+  August
+last_verified: 2026-10-11

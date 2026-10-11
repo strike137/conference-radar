@@ -1,0 +1,64 @@
+id: jurix
+name: JURIX
+full_name: International Conference on Legal Knowledge and Information Systems
+type: conference
+tier: minor
+areas: [ai, nlp]
+region: europe
+language: english
+frequency: annual
+organizer: JURIX Foundation for Legal Knowledge Based Systems
+organizer_country: [europe]
+proceedings: IOS Press FAIA
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://jurix.nl/
+  dblp: https://dblp.org/db/conf/jurix/
+notes:
+- Annual AI and law conference run by the Dutch-based JURIX Foundation since 1988; held every December in Europe
+- Proceedings in the IOS Press Frontiers in Artificial Intelligence and Applications (FAIA) series, gold open access
+- Long papers up to 10 pages, short papers up to 5 pages, poster papers up to 2 pages; single-blind review; in-person presentation required
+- Recent hosts are Saarbruecken 2022, Maastricht 2023, Brno 2024, Turin 2025 and Toulouse 2026
+- Workshops and a doctoral consortium on the first day
+- CORE C (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-12-09
+  end: 2025-12-11
+  location: Turin, Italy
+  url: https://jurix2025.di.unito.it/
+- year: 2026
+  start: 2026-12-08
+  end: 2026-12-10
+  location: Toulouse, France
+  url: https://www.irit.fr/jurix2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-28
+    label: Abstract (recommended)
+  - kind: submission
+    date: 2026-09-13
+    tz: AoE
+    label: Long, short and poster papers (extended from 2026-09-05)
+  - kind: other
+    date: 2026-09-19
+    tz: AoE
+    label: Workshop and tutorial proposals
+  - kind: notification
+    date: 2026-10-13
+    label: Papers (moved from 2026-10-08)
+  - kind: camera_ready
+    date: 2026-10-15
+sources:
+- https://jurix.nl/
+- https://www.irit.fr/jurix2026/
+- https://www.irit.fr/jurix2026/important-dates/
+- https://www.irit.fr/jurix2026/call-for-papers/
+- https://jurix2025.di.unito.it/
+- https://portal.core.edu.au/conf-ranks/?search=JURIX&by=all&source=ICORE2026
+last_verified: 2026-10-11

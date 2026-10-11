@@ -1,0 +1,84 @@
+id: gcpr
+name: GCPR
+full_name: DAGM German Conference on Pattern Recognition
+type: conference
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+frequency: annual
+organizer: DAGM (German Association for Pattern Recognition)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://www.dagm-gcpr.de/
+notes:
+- Annual conference of DAGM, the German pattern recognition society; called GCPR since 2013 (47th edition in 2025)
+- Held in Germany; joint event with VMV (Vision, Modeling and Visualization) in some years, including 2026
+- Proceedings in Springer LNCS; double-blind review; best papers invited to an IJCV special issue
+- Special tracks on life and natural sciences, photogrammetry and remote sensing, and vision systems and
+  applications
+- Fast Track for revised papers rejected elsewhere (for example ECCV), non-archival Nectar Track and (from 2026)
+  non-archival Extended Abstract Track
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-23
+  end: 2025-09-26
+  location: Freiburg, Germany
+  url: https://www.dagm-gcpr.de/year/2025
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-25
+  location: Siegen, Germany
+  url: https://www.gcpr-vmv.de/year/2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-29
+    time: "23:59"
+    tz: CEST
+    label: Regular papers (extended from 2026-05-21)
+  - kind: submission
+    date: 2026-07-07
+    time: "23:59"
+    tz: CEST
+    label: Fast Track
+  - kind: notification
+    date: 2026-07-16
+    time: "23:59"
+    tz: CEST
+    label: Regular papers
+  - kind: other
+    date: 2026-07-21
+    time: "23:59"
+    tz: CEST
+    label: Extended abstracts (non-archival, extended from 2026-07-07)
+  - kind: notification
+    date: 2026-07-21
+    time: "23:59"
+    tz: CEST
+    label: Fast Track
+  - kind: camera_ready
+    date: 2026-08-04
+    time: "23:59"
+    tz: CEST
+    label: Regular and Fast Track papers (extended from 2026-07-28)
+  - kind: other
+    date: 2026-08-04
+    time: "23:59"
+    tz: CEST
+    label: Nectar Track
+sources:
+- https://www.dagm-gcpr.de/
+- https://www.dagm-gcpr.de/year/2025
+- https://www.gcpr-vmv.de/year/2026
+- https://www.gcpr-vmv.de/year/2026/gcpr/dates
+- https://www.gcpr-vmv.de/year/2026/gcpr/call-for-papers
+- https://portal.core.edu.au/conf-ranks/?search=GCPR&by=all&source=ICORE2026
+unverified:
+- GCPR 2027 dates and location not yet announced
+last_verified: 2026-10-11

@@ -1,0 +1,62 @@
+id: main
+name: MAIN
+full_name: Mediterranean Artificial Intelligence and Networking Conference
+type: conference
+tier: minor
+areas: [networking, ai, communications]
+region: europe
+language: english
+frequency: annual
+organizer: CNIT with a host university (University of Palermo in 2026), IEEE ComSoc technical co-sponsorship
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://www.main-conference.org/
+notes:
+- New name (from 2026) of the MedComNet series (Mediterranean Communication and Computer Networking Conference), originally MedHocNet, started in Sardinia in 2002 by Mario Gerla
+- Not the same venue as IEEE MeditCom (IEEE International Mediterranean Conference on Communications and Networking)
+- Organized and sponsored by CNIT and a local university, technically co-sponsored by IEEE ComSoc; papers are submitted for possible inclusion in IEEE Xplore
+- Held at Mediterranean seaside locations, mostly in Italy (Ibiza 2021, Paphos 2022, Ponza 2023, Nice 2024, Cagliari 2025, Mondello 2026)
+- 2026 theme is AI in networks and networks for AI
+- Papers up to 9 pages in IEEE two-column format (references unlimited), submitted via EDAS; in-person presentation required for inclusion in the proceedings
+- Mario Gerla Best Paper Award; competitive student travel grants
+- Not listed in CORE ICORE2026 or in the CCF list
+editions:
+- year: 2025
+  start: 2025-06-25
+  end: 2025-06-27
+  location: Cagliari, Italy
+  url: https://2025.medcomnet.org/
+  deadlines:
+  - kind: submission
+    date: 2025-03-17
+    label: Regular papers (extended from 2025-03-10), as MedComNet 2025
+- year: 2026
+  start: 2026-07-01
+  end: 2026-07-03
+  location: Mondello (Palermo), Italy
+  url: https://www.main-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-28
+    label: Regular papers (extended from 2026-03-14)
+  - kind: notification
+    date: 2026-05-14
+  - kind: camera_ready
+    date: 2026-06-05
+    label: Camera ready and author registration
+sources:
+- https://www.main-conference.org/
+- https://www.main-conference.org/call-for-papers/
+- https://2025.medcomnet.org/
+- https://portal.core.edu.au/conf-ranks/?search=MedComNet&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=MAIN&by=all&source=ICORE2026
+unverified:
+- MAIN 2026 notification date conflicts on the CFP page (April 30 in one section, May 14 in the key dates)
+- Final IEEE Xplore inclusion of MAIN 2026 papers not confirmed (IEEE technical co-sponsorship application submitted January 2026)
+- MAIN 2027 dates and location not yet announced as of 2026-10-11
+last_verified: 2026-10-11

@@ -1,0 +1,74 @@
+id: clef
+name: CLEF
+full_name: Conference and Labs of the Evaluation Forum
+type: conference
+tier: minor
+areas: [nlp, data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: CLEF Association
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://clef2026.clef-initiative.eu/
+  dblp: https://dblp.org/db/conf/clef/index.html
+notes:
+- Run by the CLEF Association, an independent nonprofit set up in 2013; European counterpart to TREC, NTCIR and FIRE
+- Combines a peer-reviewed conference (Springer LNCS) with evaluation labs whose working notes go to CEUR Workshop
+  Proceedings
+- Lab overview abstracts are presented at ECIR in spring before the September conference
+- Held in Europe every year (Madrid 2025, Jena 2026, Bucharest 2027)
+- Not found in the CORE ICORE2026 search and not in the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-09
+  end: 2025-09-12
+  location: Madrid, Spain
+  url: https://clef2025.clef-initiative.eu/
+- year: 2026
+  start: 2026-09-21
+  end: 2026-09-24
+  location: Jena, Germany
+  url: https://clef2026.clef-initiative.eu/
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    tz: AoE
+    label: Conference papers
+  - kind: other
+    date: 2026-05-28
+    tz: AoE
+    label: Lab working notes submission
+  - kind: submission
+    date: 2026-05-29
+    tz: AoE
+    label: Best of 2025 Labs papers
+  - kind: notification
+    date: 2026-06-26
+    tz: AoE
+    label: Conference papers
+  - kind: camera_ready
+    date: 2026-07-17
+    tz: AoE
+    label: Conference papers
+- year: 2027
+  start: 2027-09-14
+  end: 2027-09-17
+  location: Bucharest, Romania
+  url: https://www.clef-initiative.eu/#editions
+sources:
+- https://clef2026.clef-initiative.eu/
+- https://clef2026.clef-initiative.eu/dates/
+- https://clef2026.clef-initiative.eu/conference/proceedings/
+- https://www.clef-initiative.eu/
+- https://clef2025.clef-initiative.eu/
+- https://portal.core.edu.au/conf-ranks/?search=CLEF&by=all&source=ICORE2026
+unverified:
+- CLEF 2027 deadlines and website not announced yet
+- Country where the CLEF Association is registered is not stated on the official site
+last_verified: 2026-10-11

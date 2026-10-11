@@ -1,0 +1,49 @@
+id: ppsn
+name: PPSN
+full_name: International Conference on Parallel Problem Solving from Nature
+type: conference
+tier: major
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: University of Trento (2026 host)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  conference_months: [8, 9]
+links:
+  website: https://ppsn2026.disi.unitn.it/
+  dblp: https://dblp.org/db/conf/ppsn/index.html
+notes:
+- Biennial evolutionary computation and nature-inspired optimization conference; 2026 was the 19th edition
+- Proceedings in Springer LNCS (five volumes in 2026, LNCS 16985 to 16989)
+- CORE A (ICORE2026), CCF B
+- All editions since 1998 held in Europe (Hagenberg 2024, Dortmund 2022, Leiden 2020, per the Springer series page)
+- In-person only; at least one author must register and attend, virtual participation is not possible
+- Workshops and tutorials on the first days (2026 at Trento Expo, Italy)
+editions:
+- year: 2026
+  start: 2026-08-29
+  end: 2026-09-02
+  location: Trento, Italy
+  url: https://ppsn2026.disi.unitn.it/
+  deadlines:
+  - kind: camera_ready
+    date: 2026-06-12
+    label: Camera-ready and author registration
+sources:
+- https://ppsn2026.disi.unitn.it/
+- https://link.springer.com/conference/ppsn
+- https://portal.core.edu.au/conf-ranks/?search=PPSN&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- PPSN 2026 paper submission and notification deadlines (no call for papers on the official site any more)
+- PPSN 2028 location and dates not announced
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-10-11

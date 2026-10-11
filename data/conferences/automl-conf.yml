@@ -1,0 +1,68 @@
+id: automl-conf
+name: AutoML-Conf
+full_name: International Conference on Automated Machine Learning
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AutoML Conference steering committee
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://automl.cc/
+notes:
+- Annual conference on automated machine learning (hyperparameter optimization, NAS, meta-learning, AutoML systems)
+- Proceedings in PMLR (2025 -> volume 293 with 25 papers)
+- Two parallel tracks on equal footing, Methods (double-blind) and ABCD for applications, benchmarks, challenges and datasets (single-blind by default)
+- At least three reviewers plus one reproducibility reviewer per paper; no rebuttal phase
+- 9-page main paper limit; also late-breaking abstracts and hot-off-the-press tracks
+- Location rotates (New York 2025, Ljubljana 2026)
+- Not listed in the ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  start: 2025-09-08
+  end: 2025-09-11
+  location: New York, USA
+  url: https://2025.automl.cc/
+- year: 2026
+  start: 2026-09-28
+  end: 2026-10-01
+  location: Ljubljana, Slovenia
+  url: https://2026.automl.cc/
+  deadlines:
+  - kind: submission
+    date: 2026-05-14
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-26
+  - kind: camera_ready
+    date: 2026-07-30
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-08-10
+    time: "23:59"
+    tz: AoE
+    label: Hot off the press submission
+  - kind: other
+    date: 2026-08-31
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking abstracts submission
+sources:
+- https://2026.automl.cc/
+- https://2026.automl.cc/dates/
+- https://2026.automl.cc/call-for-papers/
+- https://proceedings.mlr.press/v293/
+- https://2025.automl.cc/
+- https://portal.core.edu.au/conf-ranks/?search=AutoML&by=all&source=ICORE2026
+unverified:
+- AutoML 2027 dates and location not announced yet
+last_verified: 2026-10-11

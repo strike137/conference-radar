@@ -1,0 +1,51 @@
+id: sec-t
+name: SEC-T
+full_name: SEC-T Security Conference
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: SEC-T (non-profit)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5, 7]
+  conference_months: [9]
+links:
+  website: https://www.sec-t.org/
+notes:
+- Security conference run by SEC-T, an independent Swedish non-profit
+- Held every September at Munchenbryggeriet in central Stockholm, Sweden
+- Two-day conference plus a free half-day community event the day before, a CTF and the Club SEC-T evening
+- CFP in two rounds (May and July) on pretalx; about half of the talks are picked from each round
+- Talks posted on YouTube; no published proceedings (non-archival)
+editions:
+- year: 2026
+  start: 2026-09-10
+  end: 2026-09-11
+  location: Stockholm, Sweden
+  url: https://www.sec-t.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-24
+    label: Round 1
+  - kind: submission
+    date: 2026-07-26
+    time: "23:59"
+    tz: UTC
+    label: Round 2
+sources:
+- https://www.sec-t.org/
+- https://www.sec-t.org/venue
+- https://www.sec-t.org/about
+- https://event.sec-t.org/sec-t-2026/cfp
+- https://event.sec-t.org/sec-t-2026/schedule/
+- https://portal.core.edu.au/conf-ranks/?search=SEC-T&by=all&source=ICORE2026
+unverified:
+- 'Round 2 close: the CFP page says submissions closed 2026-07-27 01:59 Europe/Stockholm (stored as 23:59 UTC on 26 July)'
+- 2027 edition dates (not announced)
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

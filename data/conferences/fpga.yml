@@ -1,0 +1,74 @@
+id: fpga
+name: FPGA
+full_name: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+type: conference
+tier: major
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGDA
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [9, 10]
+  conference_months: [2, 3]
+links:
+  website: https://www.isfpga.org/
+  dblp: https://dblp.org/db/conf/fpga/index.html
+notes:
+- Also known as ISFPGA; premier venue for FPGA architecture, CAD tools, high-level synthesis and reconfigurable
+  computing
+- Sponsored by ACM and ACM SIGDA; proceedings in the ACM DL
+- Usually held in California (Monterey area in 2026, California in 2027)
+- Double-blind review with a rebuttal; long papers up to 10 pages and short papers up to 6 pages, plus references
+- Abstract and paper deadlines are not extended; there is also an industry track
+- Best papers are invited to extend their work for an ACM TRETS special issue
+- CORE A (ICORE2026), CCF B
+editions:
+- year: 2026
+  start: 2026-02-22
+  end: 2026-02-24
+  location: Monterey, California, USA
+  url: https://www.isfpga.org/past/fpga2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-24
+  - kind: submission
+    date: 2025-10-01
+- year: 2027
+  start: 2027-03-14
+  end: 2027-03-16
+  location: California, USA
+  url: https://www.isfpga.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-01
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-10-08
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-11-24
+  - kind: camera_ready
+    date: 2026-12-15
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.isfpga.org/
+- https://www.isfpga.org/call-for-papers/
+- https://www.isfpga.org/archive/
+- https://www.isfpga.org/past/fpga2026/
+- https://portal.core.edu.au/conf-ranks/?search=FPGA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- FPGA 2027 city and venue (the site says only California, USA)
+- Acceptance rate (not stated on the official pages)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

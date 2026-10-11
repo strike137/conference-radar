@@ -1,0 +1,79 @@
+id: rtss
+name: RTSS
+full_name: IEEE Real-Time Systems Symposium
+type: conference
+tier: top
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE TCRTS (Technical Committee on Real-Time Systems), IEEE Computer Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: A
+  ccf: A
+typical:
+  deadline_months: [5]
+  conference_months: [12]
+links:
+  website: https://2026.rtss.org/
+  dblp: https://dblp.org/db/conf/rtss/index.html
+notes:
+- Run by the IEEE Technical Committee on Real-Time Systems (TCRTS); flagship venue for real-time and embedded systems
+- Proceedings published by IEEE (DOI 10.1109/RTSS...), in IEEE Xplore
+- CORE A (ICORE2026); CCF A in the CCF 2026 list (interdisciplinary category)
+- Double-anonymous review following TCRTS rules; up to 11 pages of technical content at submission, 12 in the final
+  version; IEEE conference template
+- Conditional acceptance with shepherding, optional artifact evaluation, plus a Hot Topics Day and brief
+  presentation and RTSS@Work tracks
+- Held in early December; Boston 2025, Yokohama 2026
+editions:
+- year: 2025
+  start: 2025-12-02
+  end: 2025-12-05
+  location: Boston, MA, USA
+  url: https://2025.rtss.org/
+- year: 2026
+  start: 2026-12-08
+  end: 2026-12-11
+  location: Yokohama, Japan (K Tower Yokohama)
+  url: https://2026.rtss.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-21
+    tz: AoE
+  - kind: submission
+    date: 2026-05-26
+    tz: AoE
+  - kind: notification
+    date: 2026-07-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-16
+    tz: AoE
+  - kind: other
+    date: 2026-09-14
+    tz: AoE
+    label: Brief presentation submission
+  - kind: other
+    date: 2026-09-30
+    tz: AoE
+    label: RTSS@Work submission
+sources:
+- https://2026.rtss.org/
+- https://2026.rtss.org/submissions/dates/
+- https://2026.rtss.org/submissions/cfp/
+- https://2026.rtss.org/submissions/submission/
+- https://2026.rtss.org/local/map/
+- https://2026.rtss.org/archive/
+- https://2025.rtss.org/
+- https://2025.rtss.org/proceedings/
+- https://doi.org/10.1109/RTSS66672.2025
+- https://portal.core.edu.au/conf-ranks/?search=RTSS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- RTSS 2027 dates and location not yet announced as of 2026-10-11
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

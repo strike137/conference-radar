@@ -1,0 +1,97 @@
+id: isca
+name: ISCA
+full_name: ACM/IEEE International Symposium on Computer Architecture
+type: conference
+tier: top
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGARCH and IEEE CS TCCA
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [11]
+  conference_months: [6]
+links:
+  website: https://iscaconf.org/
+  dblp: https://dblp.org/db/conf/isca/index.html
+notes:
+- Flagship computer architecture venue, first held in 1973; technical sponsors ACM SIGARCH and IEEE CS TCCA
+- Regarded as a top venue (ICORE2026 A*, CCF A)
+- Held every June, mostly in the USA with some editions abroad (Orlando 2023, Buenos Aires 2024, Tokyo 2025, Raleigh 2026, Atlanta 2027)
+- ISCA 2027 is co-located with FCRC (Federated Computing Research Conference) in Atlanta
+- Abstract registration one week before the full paper; three initial reviews, then a fourth review and a rebuttal/revision period for papers that advance
+- Separate industry track; artifact evaluation offered; at most 8 main track submissions per author
+- ACM open access publishing; authors from institutions outside ACM Open pay an APC (subsidized 500 USD members, 750 USD non-members in 2027)
+editions:
+- year: 2026
+  start: 2026-06-27
+  end: 2026-07-01
+  location: Raleigh, USA
+  url: https://iscaconf.org/isca2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-10
+    time: "23:59"
+    tz: AoE
+    label: Main track
+  - kind: submission
+    date: 2025-11-17
+    time: "23:59"
+    tz: AoE
+    label: Main track
+  - kind: abstract
+    date: 2025-12-05
+    time: "23:59"
+    tz: AoE
+    label: Industry track
+  - kind: submission
+    date: 2025-12-12
+    time: "23:59"
+    tz: AoE
+    label: Industry track
+  - kind: notification
+    date: 2026-03-27
+- year: 2027
+  start: 2027-06-05
+  end: 2027-06-09
+  location: Atlanta, USA
+  url: https://iscaconf.org/isca2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-09
+    time: "23:59"
+    tz: AoE
+    label: Main track
+  - kind: submission
+    date: 2026-11-16
+    time: "23:59"
+    tz: AoE
+    label: Main track
+  - kind: other
+    date: 2027-03-08
+    time: "23:59"
+    tz: AoE
+    label: End of rebuttal/revision period (starts 2027-02-16)
+  - kind: notification
+    date: 2027-03-26
+sources:
+- https://iscaconf.org/
+- https://iscaconf.org/isca2027/
+- https://iscaconf.org/isca2027/submit/callforpapers.php
+- https://iscaconf.org/isca2026/
+- https://iscaconf.org/isca2026/submit/callforpapers.php
+- https://iscaconf.org/isca2025/
+- https://portal.core.edu.au/conf-ranks/?search=ISCA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- ISCA 2027 industry track deadlines and exact venue (TBA on the official site as of 2026-10-11)
+- Proceedings publisher inferred from the ACM open access section of the ISCA 2027 CFP; ACM DL proceedings pages not checked directly
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
+- Acceptance rate not published on the official site
+last_verified: 2026-10-11

@@ -1,0 +1,81 @@
+id: hpca
+name: HPCA
+full_name: IEEE International Symposium on High-Performance Computer Architecture
+type: conference
+tier: top
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society (TCCA)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [7, 8]
+  conference_months: [1, 2, 3]
+links:
+  website: https://hpca-conf.org/
+  dblp: https://dblp.org/db/conf/hpca/index.html
+notes:
+- One of the flagship computer architecture venues, run under the IEEE Computer Society
+- Regarded as a top venue (ICORE2026 A*, CCF A)
+- Co-located with CGO, PPoPP and CC (Sydney 2026, Salt Lake City 2027)
+- Rotates worldwide (Montreal 2023, Edinburgh 2024, Las Vegas 2025, Sydney 2026, Salt Lake City 2027)
+- Double-blind review with a revision/rebuttal period; no target acceptance rate; separate industry track
+- Each paper names a senior author who may serve as a light PC member reviewing up to six papers
+editions:
+- year: 2026
+  start: 2026-01-31
+  end: 2026-02-04
+  location: Sydney, Australia
+  url: https://2026.hpca-conf.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-25
+    time: "23:59"
+    tz: UTC
+  - kind: submission
+    date: 2025-08-01
+    time: "23:59"
+    tz: UTC
+  - kind: notification
+    date: 2025-11-07
+  - kind: camera_ready
+    date: 2025-12-04
+- year: 2027
+  start: 2027-03-20
+  end: 2027-03-24
+  location: Salt Lake City, USA
+  url: https://conf.researchr.org/home/hpca-2027
+  deadlines:
+  - kind: abstract
+    date: 2026-07-24
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-07-31
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-10-11
+    label: End of revision/rebuttal period (starts 2026-09-28)
+  - kind: notification
+    date: 2026-11-06
+sources:
+- https://hpca-conf.org/
+- https://conf.researchr.org/home/hpca-2027
+- https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference
+- https://hpca-conf.org/2026/
+- https://2026.hpca-conf.org/track/hpca-2026-main-conference
+- https://portal.core.edu.au/conf-ranks/?search=HPCA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- Proceedings publisher not stated on a visible official page; IEEE Xplore inferred from the IEEE publication and authorship policies in the HPCA 2027 CFP (IEEE Xplore pages not reachable)
+- HPCA 2027 venue, camera-ready date and industry track deadlines not announced as of 2026-10-11
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
+- Acceptance rate not published on the official site
+last_verified: 2026-10-11

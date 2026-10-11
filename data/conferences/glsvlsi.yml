@@ -1,0 +1,63 @@
+id: glsvlsi
+name: GLSVLSI
+full_name: ACM Great Lakes Symposium on VLSI
+type: conference
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGDA (technical sponsor IEEE CEDA)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://www.glsvlsi.org/
+  dblp: https://dblp.org/db/conf/glvlsi/index.html
+notes:
+- Sponsored by ACM SIGDA with IEEE CEDA as technical sponsor; proceedings in the ACM Digital Library
+- Broad VLSI scope (circuits, EDA, testing and reliability, emerging and post-CMOS technologies, hardware security)
+- Blind review; 6-page papers, up to 8 pages with an extra page fee; references count toward the limit
+- Papers are accepted as regular or poster presentations; at least one author must register by camera-ready
+- Smaller venue that is easy for students to attend; also has special sessions, late-breaking results and a workshop
+- Held in the USA in recent years (Irvine 2022, Knoxville 2023, Tampa Bay 2024, New Orleans 2025, Canandaigua 2026)
+- 2026 edition co-located with IGSC 2026
+- ACM is fully open access from 2026, so authors outside ACM Open institutions may pay an APC
+- Not listed in ICORE2026; CCF C
+editions:
+- year: 2025
+  start: 2025-06-30
+  end: 2025-07-02
+  location: New Orleans, LA, USA
+  url: https://www.glsvlsi.org/archive.html
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-24
+  location: Canandaigua, NY, USA
+  url: https://www.glsvlsi.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-23
+    time: "23:59"
+    tz: EST
+    label: Paper submission (no extension)
+  - kind: notification
+    date: 2026-04-30
+  - kind: camera_ready
+    date: 2026-05-15
+sources:
+- https://www.glsvlsi.org/
+- https://www.glsvlsi.org/GLSVLSI2026-CFP-update-final-Mar-17-2026.pdf
+- https://www.glsvlsi.org/archive.html
+- https://portal.core.edu.au/conf-ranks/?search=GLSVLSI&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF list mirror, updated 2026-04-06)
+unverified:
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly (site blocks automated access)
+- GLSVLSI 2027 dates, location and deadlines (not announced as of 2026-10-11)
+- Acceptance rate (not stated on the official pages)
+last_verified: 2026-10-11

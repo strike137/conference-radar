@@ -1,0 +1,72 @@
+id: icaif
+name: ICAIF
+full_name: ACM International Conference on AI in Finance
+type: conference
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://icaif2026.org/
+  dblp: https://dblp.org/db/conf/icaif/index.html
+notes:
+- ACM conference on AI and machine learning for finance, mixing academia and industry (banks, trading firms)
+- "Main track: 8 pages in ACM sigconf format including references, no appendices; double-blind review with no rebuttal"
+- Papers appear in the ACM conference proceedings; workshops, tutorials and competitions run alongside
+- Held in New York 2022 to 2024, Singapore 2025 (after the Singapore FinTech Festival), Milan 2026
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-15
+  end: 2025-11-18
+  location: Singapore
+  url: https://icaif25.org/
+  deadlines:
+  - kind: submission
+    date: 2025-08-03
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-07-18
+  - kind: notification
+    date: 2025-09-26
+- year: 2026
+  start: 2026-11-14
+  end: 2026-11-17
+  location: Milan, Italy
+  url: https://icaif2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-09
+    time: "23:59"
+    tz: AoE
+    label: Main track (extended from 2026-08-02)
+  - kind: notification
+    date: 2026-10-01
+    label: Main track (extended from 2026-09-27)
+  - kind: submission
+    date: 2026-10-12
+    time: "23:59"
+    tz: AoE
+    label: Workshop papers (extended from 2026-10-01)
+  - kind: notification
+    date: 2026-10-16
+    label: Workshop papers
+sources:
+- https://icaif2026.org/
+- https://icaif2026.org/important-dates/
+- https://icaif2026.org/call-for-papers/
+- https://icaif25.org/
+- https://icaif25.org/calls-for-papers/
+- https://icaif25.org/organizing-committee/
+- https://portal.core.edu.au/conf-ranks/?search=ICAIF&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- New York locations for 2022 to 2024 taken from secondary listings, not from official pages
+last_verified: 2026-10-11

@@ -1,0 +1,48 @@
+id: ieee-la-cci
+name: IEEE LA-CCI
+full_name: IEEE Latin American Conference on Computational Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: latin-america
+language: english
+frequency: annual
+organizer: IEEE Computational Intelligence Society (CIS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [11]
+links:
+  website: https://lacci2025.org/
+notes:
+- Latin American conference of the IEEE Computational Intelligence Society; IEEE CIS offers travel grants
+- Covers soft computing and the wider computational intelligence field; aims to bring in young researchers
+- Accepted papers must be presented to appear in the proceedings in IEEE Xplore (with ISBN)
+- Held in Latin America; the 2024 edition site was hosted by IEEE Colombia, 2025 was held in Mexico City
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-05
+  end: 2025-11-07
+  location: Mexico City, Mexico (Hotel Geneve)
+  url: https://lacci2025.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-15
+  - kind: submission
+    date: 2025-05-05
+    label: Full papers (an earlier date of 2025-04-15 is also listed)
+  - kind: notification
+    date: 2025-07-04
+  - kind: camera_ready
+    date: 2025-08-05
+sources:
+- https://lacci2025.org/
+- https://la-cci.org/
+- https://portal.core.edu.au/conf-ranks/?search=LA-CCI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- la-cci.org redirects to the IEEE Colombia LA-CCI 2024 page, which returned HTTP 410 on 2026-10-11, so 2024 details were not checked
+- IEEE LA-CCI 2026 dates and location (no 2026 site found as of 2026-10-11)
+last_verified: 2026-10-11

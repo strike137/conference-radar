@@ -1,0 +1,77 @@
+id: sc
+name: SC
+full_name: International Conference for High Performance Computing, Networking, Storage and Analysis
+type: conference
+tier: major
+areas: [systems, networking]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM (SIGHPC) and IEEE Computer Society (TCHPC)
+organizer_country: [international]
+proceedings: ACM DL and IEEE Xplore
+archival: true
+rank:
+  core: A
+  ccf: A
+typical:
+  deadline_months: [4]
+  conference_months: [11]
+links:
+  website: https://sc26.supercomputing.org/
+  dblp: https://dblp.org/db/conf/sc/index.html
+notes:
+- Formerly the Supercomputing Conference; the main HPC conference, sponsored by ACM SIGHPC and IEEE CS TCHPC
+- Held every November in a US convention center (St. Louis 2025, Chicago 2026) with a large industry exhibition
+- Double-anonymous review; papers up to 10 pages plus a mandatory Artifact Description appendix; no deadline extensions
+- Papers archived in the ACM Digital Library and IEEE Xplore; at least one author must register and present in person
+- All deadlines are 11:59 PM AoE; also has workshops, posters, tutorials and a Doctoral Showcase
+- ICORE2026 rank A; CCF A
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-21
+  location: St. Louis, MO, USA
+  url: https://sc25.supercomputing.org/
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-20
+  location: McCormick Place, Chicago, IL, USA
+  url: https://sc26.supercomputing.org/
+  deadlines:
+  - kind: other
+    date: 2026-02-16
+    time: "23:59"
+    tz: AoE
+    label: Workshop proposals
+  - kind: abstract
+    date: 2026-04-01
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-04-08
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-04-28
+    time: "23:59"
+    tz: AoE
+    label: Artifact Description appendix (mandatory)
+  - kind: notification
+    date: 2026-07-01
+  - kind: camera_ready
+    date: 2026-08-28
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sc26.supercomputing.org/
+- https://sc26.supercomputing.org/program/papers/
+- https://sc26.supercomputing.org/all-dates-deadlines/
+- https://sc25.supercomputing.org/
+- https://portal.core.edu.au/conf-ranks/?search=SC&by=acronym&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- CCF rank checked via the ccfddl and CCFrank4dblp mirrors of the CCF list, not on ccf.org.cn directly (site blocks automated access)
+- SC27 dates and location (not announced on the SC26 site)
+- Acceptance rate (not stated on the official pages)
+last_verified: 2026-10-11

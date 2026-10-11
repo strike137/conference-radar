@@ -1,0 +1,55 @@
+id: icsca
+name: ICSCA
+full_name: International Conference on Software and Computer Applications
+type: conference
+tier: minor
+areas: [software, general]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Co-sponsored by Universiti Malaysia Pahang (Malaysia) and FH JOANNEUM (Austria) in 2027
+proceedings: ACM ICPS (ACM DL)
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [10]
+  conference_months: [1, 2]
+links:
+  website: https://www.icsca.org/
+notes:
+- Smaller conference covering software engineering, AI, IoT, data science and security tracks
+- Proceedings in the ACM International Conference Proceedings Series (ACM DL) since 2017; EI Compendex and Scopus
+  indexed per the site
+- Held in Malaysia most years (Kuala Lumpur, Langkawi, Kuantan, Penang, Putrajaya), Bali in 2024
+- Full papers 4 to 12 pages (two-column LaTeX) or 8 to 20 pages (one-column Word); abstract-only presentation also
+  possible
+- Submission through the zmeeting system
+editions:
+- year: 2026
+  start: 2026-02-03
+  end: 2026-02-05
+  location: Langkawi, Malaysia
+  url: https://www.icsca.org/history.html
+- year: 2027
+  start: 2027-01-22
+  end: 2027-01-24
+  location: Putrajaya, Malaysia
+  url: https://www.icsca.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-20
+  - kind: notification
+    date: 2026-11-15
+  - kind: other
+    date: 2026-12-01
+    label: Registration
+sources:
+- https://www.icsca.org/
+- https://www.icsca.org/cfp.html
+- https://www.icsca.org/history.html
+- https://portal.core.edu.au/conf-ranks/?search=ICSCA&by=all&source=ICORE2026
+unverified:
+- Not listed in CORE ICORE2026 (no rank)
+- Who runs the series (only per-edition co-sponsors are named), so organizer_country is left out
+- Camera-ready deadline for 2027 not listed
+last_verified: 2026-10-11

@@ -1,0 +1,57 @@
+id: asilomar
+name: Asilomar
+full_name: Asilomar Conference on Signals, Systems, and Computers
+type: conference
+tier: minor
+areas: [communications, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Asilomar Conference committee (IEEE Signal Processing Society technical co-sponsor)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: 'National: USA'
+typical:
+  conference_months: [10, 11]
+links:
+  website: https://www.asilomarsscconf.org/
+notes:
+- Long-running signal processing conference (60th edition in 2026) technically co-sponsored by the IEEE Signal
+  Processing Society
+- Always held on the Asilomar Conference Grounds in Pacific Grove, California, USA, in late October or early November
+- Initial submission is an abstract plus a 500 to 1000 word extended summary; the full paper (up to 8 pages, extra page
+  charges beyond 5) is due after the conference
+- Papers must be presented in person by an author to appear in the proceedings; proceedings in IEEE Xplore
+- CORE National USA (ICORE2026); regarded as a well-known, mostly invited-session venue in signal processing and
+  communications
+editions:
+- year: 2025
+  label: 59th Asilomar
+  start: 2025-10-26
+  end: 2025-10-29
+  location: Pacific Grove, CA, USA
+  url: https://cmsworkshops.com/Asilomar2025/
+- year: 2026
+  label: 60th Asilomar
+  start: 2026-10-25
+  end: 2026-10-28
+  location: Pacific Grove, CA, USA
+  url: https://www.asilomarsscconf.org/
+  deadlines:
+  - kind: camera_ready
+    date: 2026-12-02
+    label: Revised final papers (after the conference)
+sources:
+- https://www.asilomarsscconf.org/
+- https://www.asilomarsscconf.org/Guidelines.html
+- https://cmsworkshops.com/Asilomar2026/
+- https://cmsworkshops.com/Asilomar2025/
+- https://api.crossref.org/works?query.bibliographic=Asilomar+Conference+on+Signals+Systems+and+Computers&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ASILOMAR&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 2026 initial submission deadline (not shown on the official site any more)
+- Edition numbers and IEEE Xplore proceedings taken from IEEE proceedings metadata via Crossref; the official site
+  does not mention IEEE Xplore
+last_verified: 2026-10-11

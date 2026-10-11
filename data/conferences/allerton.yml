@@ -1,0 +1,56 @@
+id: allerton
+name: Allerton
+full_name: Annual Allerton Conference on Communication, Control, and Computing
+type: conference
+tier: minor
+areas: [communications, networking]
+region: north-america
+language: english
+frequency: annual
+organizer: University of Illinois Urbana-Champaign, Coordinated Science Laboratory
+organizer_country: [usa]
+proceedings: IDEALS (University of Illinois repository)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://allerton.csl.illinois.edu/
+notes:
+- Run by the Coordinated Science Laboratory of the University of Illinois Urbana-Champaign; strong in information
+  theory, communications and control
+- Held every September in Illinois (Allerton Park, Monticello, until 2023; NCSA on the UIUC campus in Urbana from 2024)
+- Regular papers up to 8 pages in two-column IEEE format; invited speakers submit an abstract, full paper optional
+- Proceedings moved from IEEE Xplore (up to the 60th edition in 2024) to the University of Illinois IDEALS repository
+  from 2025, as in the first 40 years of the conference
+- Not listed in ICORE2026; well regarded in information theory despite having no CORE rank
+editions:
+- year: 2026
+  label: 62nd Allerton
+  start: 2026-09-15
+  end: 2026-09-18
+  location: NCSA, Urbana-Champaign, IL, USA
+  url: https://allerton.csl.illinois.edu/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-07-15
+  - kind: camera_ready
+    date: 2026-09-27
+    time: "23:59"
+    tz: PDT
+    label: Final manuscripts (after the conference)
+sources:
+- https://allerton.csl.illinois.edu/
+- https://allerton.csl.illinois.edu/?page_id=80
+- https://allerton.csl.illinois.edu/?page_id=1661
+- https://api.crossref.org/works?query.bibliographic=Allerton+Conference+on+Communication+Control+and+Computing&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=Allerton&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Original 2026 submission deadline before the extension
+- Whether IDEALS-hosted papers (2025 onward) are indexed or carry DOIs
+- The official site header says September 15-19, 2026 while the body and author page say September 15-18
+- Past locations and IEEE Xplore history taken from IEEE proceedings metadata via Crossref
+last_verified: 2026-10-11

@@ -1,0 +1,87 @@
+id: pldi
+name: PLDI
+full_name: ACM SIGPLAN Conference on Programming Language Design and Implementation
+type: conference
+tier: top
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: ACM DL (PACMPL issue PLDI)
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [11]
+  conference_months: [6]
+links:
+  website: https://pldi27.sigplan.org/
+  dblp: https://dblp.org/db/conf/pldi/index.html
+notes:
+- Premier forum for programming language design, implementation, theory, applications and performance; sponsored by ACM SIGPLAN
+- Papers are published in the PACMPL issue PLDI (Gold Open Access journal, archived in the ACM DL); authors are invited but not required to present
+- One submission deadline in November; double-blind review with author response, conditional acceptance and a revision round
+- Up to 20 pages of text in the single-column acmsmall format, excluding references and supplementary material
+- Held in Copenhagen 2024, Seoul 2025, Boulder 2026 and Atlanta 2027 (part of FCRC 2027)
+- CORE A* (ICORE2026), CCF A
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-19
+  location: Boulder, Colorado, USA
+  url: https://pldi26.sigplan.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-13
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-02-17
+    tz: AoE
+    label: Author response (Feb 17 to 22)
+  - kind: notification
+    date: 2026-03-05
+  - kind: camera_ready
+    date: 2026-04-16
+    tz: AoE
+- year: 2027
+  start: 2027-06-05
+  end: 2027-06-11
+  location: Atlanta, Georgia, USA
+  url: https://pldi27.sigplan.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-12
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2027-02-16
+    tz: AoE
+    label: Author response (Feb 16 to 18)
+  - kind: notification
+    date: 2027-03-04
+  - kind: other
+    date: 2027-03-23
+    tz: AoE
+    label: Revision deadline
+  - kind: notification
+    date: 2027-04-01
+    label: Final acceptance notification
+  - kind: camera_ready
+    date: 2027-04-15
+    tz: AoE
+sources:
+- https://pldi27.sigplan.org/
+- https://pldi27.sigplan.org/track/pldi-2027-papers
+- https://pldi26.sigplan.org/
+- https://pldi26.sigplan.org/track/pldi-2026-papers
+- https://pldi25.sigplan.org/
+- https://pldi24.sigplan.org/
+- https://portal.core.edu.au/conf-ranks/?search=PLDI&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/TCSE_SS_PDL/
+unverified:
+- Acceptance rate not published on the official site
+last_verified: 2026-10-11

@@ -1,0 +1,69 @@
+id: simbig
+name: SIMBig
+full_name: International Conference on Information Management and Big Data (SIMBig)
+type: conference
+tier: minor
+areas: [ai, nlp, data]
+region: latin-america
+language: english
+frequency: annual
+organizer: SIMBig (co-founders J. A. Lossio-Ventura and H. Alatrista-Salas) with a host university in Peru
+organizer_country: [other]
+proceedings: Springer CCIS
+archival: true
+indexing: [DBLP]
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10]
+links:
+  website: https://simbig.org/
+notes:
+- Held since 2014, mostly in Peru (Cusco, Lima, Ilo, Arequipa) with one edition in Mexico City (2023) and two
+  online (2020, 2021)
+- Proceedings in Springer CCIS (earlier editions in CEUR-WS with selected papers in Springer)
+- Covers AI, machine learning, NLP, healthcare informatics, semantic web and data-driven software engineering;
+  special tracks on computer vision (RACV) and software engineering (DISE)
+- Long papers 13-16 pages, short papers 7-12 pages in Springer format, English only; at least three reviewers
+- Co-located with the LASAI Latin American School of AI; NAACL supports best paper and travel awards for Latin
+  American authors
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-29
+  end: 2025-10-31
+  location: Lima, Peru (Universidad Peruana de Ciencias Aplicadas)
+  url: https://simbig.org/SIMBig2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-15
+  - kind: notification
+    date: 2025-08-15
+  - kind: camera_ready
+    date: 2025-10-07
+- year: 2026
+  start: 2026-10-28
+  end: 2026-10-30
+  location: Arequipa, Peru (Universidad Católica San Pablo)
+  url: https://simbig.org/SIMBig2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-07
+    label: Papers (extended from 2026-06-30)
+  - kind: notification
+    date: 2026-09-10
+    label: Moved from 2026-07-30
+  - kind: camera_ready
+    date: 2026-10-07
+sources:
+- https://simbig.org/
+- https://simbig.org/conference/
+- https://simbig.org/SIMBig2026/
+- https://simbig.org/SIMBig2026/en/callforpaper.html
+- https://simbig.org/SIMBig2025/
+- https://link.springer.com/book/10.1007/978-3-032-20322-9
+- https://portal.core.edu.au/conf-ranks/?search=SIMBig&by=all&source=ICORE2026
+unverified:
+- The SIMBig overview page lists the 2026 edition at Universidad Peruana de Ciencias Aplicadas in Lima, while the
+  2026 edition page says Universidad Católica San Pablo in Arequipa (the edition page is used here)
+- The 2026 edition page calls it the 10th conference in its proceedings section, while the 2026 call for papers says 13th (2025 was the 12th)
+last_verified: 2026-10-11

@@ -1,0 +1,58 @@
+id: l4dc
+name: L4DC
+full_name: Learning for Dynamics and Control Conference
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: L4DC steering committee (hosted by a different university each year)
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [6]
+links:
+  website: https://www.l4dc.org/
+notes:
+- Interdisciplinary venue at the interface of machine learning, control theory and optimization
+- Proceedings in PMLR (2026 -> vol. 331, 2025 -> vol. 283)
+- Hosted by a different university each year, mostly in the USA (MIT 2019, Penn 2023, Michigan 2025, USC 2026), Oxford in 2024
+- Submissions up to 10 pages via OpenReview; deadline in November, decisions by end of January
+- Not ranked in CORE ICORE2026 but well regarded in the learning and control community
+editions:
+- year: 2025
+  start: 2025-06-04
+  end: 2025-06-06
+  location: University of Michigan, Ann Arbor, USA
+  url: https://sites.google.com/umich.edu/l4dc2025/
+- year: 2026
+  start: 2026-06-17
+  end: 2026-06-19
+  location: University of Southern California, Los Angeles, USA
+  url: https://sites.google.com/usc.edu/l4dc2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-11
+    time: "14:59"
+    tz: UTC
+    label: Full papers (as shown on the OpenReview venue page, after a 2-day extension)
+  - kind: other
+    date: 2026-04-03
+    tz: AoE
+    label: Late-breaking results (2-page abstract)
+sources:
+- https://www.l4dc.org/
+- https://sites.google.com/usc.edu/l4dc2026/
+- https://sites.google.com/usc.edu/l4dc2026/author-information
+- https://sites.google.com/umich.edu/l4dc2025/
+- https://openreview.net/group?id=L4DC.org/2026
+- https://proceedings.mlr.press/v331/
+- https://proceedings.mlr.press/v283/
+- https://portal.core.edu.au/conf-ranks/?search=L4DC&by=all&source=ICORE2026
+unverified:
+- L4DC 2027 dates, host and deadlines not yet announced
+- Notification and camera-ready dates for 2026 (shown only as an image on the author page)
+last_verified: 2026-10-11

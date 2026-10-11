@@ -1,0 +1,54 @@
+id: crv
+name: CRV
+full_name: Conference on Robots and Vision
+type: conference
+tier: minor
+areas: [ai, vision]
+region: north-america
+language: english
+frequency: annual
+organizer: CIPPRS (Canadian Image Processing and Pattern Recognition Society)
+organizer_country: [canada]
+proceedings: PubPub (open access)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://computerrobotvision.org/
+  dblp: https://dblp.org/db/conf/crv/index.html
+notes:
+- Formerly the Conference on Computer and Robot Vision; annual Canadian vision and robotics conference sponsored by CIPPRS
+- Held in Canada every year (Montreal 2023, Guelph 2024, Calgary 2025, Burnaby 2026)
+- Co-located with the Canadian AI conference as the joint AI/CRV conference
+- 4 to 8 page papers excluding references (IEEE-based template); single-blind review
+- 2026 proceedings published open access on PubPub (CC BY 4.0, authors keep copyright)
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-28
+  location: Burnaby (Metro Vancouver), Canada
+  url: https://computerrobotvision.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    time: "23:59"
+    tz: PST
+    label: Extended from 2026-02-03
+  - kind: notification
+    date: 2026-04-10
+  - kind: camera_ready
+    date: 2026-05-08
+    time: "23:59"
+    tz: PST
+sources:
+- https://computerrobotvision.org/
+- https://computerrobotvision.org/submission.html
+- https://computerrobotvision.org/archive.html
+- https://www.ai-crv.ca/
+- https://portal.core.edu.au/conf-ranks/?search=CRV&by=all&source=ICORE2026
+unverified:
+- CRV 2027 is announced on the official site but dates and location are not given yet
+- Proceedings page crv.pubpub.org/2026 could not be opened (blocked)
+last_verified: 2026-10-11

@@ -1,0 +1,75 @@
+id: evostar
+name: EvoStar
+full_name: 'EvoStar: The Leading European Event on Bio-Inspired AI (EuroGP, EvoApplications, EvoCOP, EvoMUSART)'
+type: conference
+tier: major
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: SPECIES (Society for the Promotion of Evolutionary Computation in Europe and its Surroundings)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [3, 4]
+links:
+  website: https://www.evostar.org/
+  dblp: https://dblp.org/db/conf/eurogp/
+notes:
+- Umbrella event of co-located conferences on evolutionary and bio-inspired computation; EuroGP, EvoApplications, EvoCOP and EvoMUSART, plus the new EvoLearn in 2027
+- Each conference has its own Springer LNCS volume; late-breaking abstracts go to arXiv
+- "CORE ranks per conference (ICORE2026): EuroGP B, EvoApplications B, EvoCOP B; EvoStar itself has no single rank"
+- Double-blind review with at least three PC members per paper; one common submission deadline around 1 November
+- Held in Europe every spring (Madrid 2022, Brno 2023, Aberystwyth 2024, Trieste 2025, Toulouse 2026, Mainz 2027), hybrid mode
+editions:
+- year: 2026
+  start: 2026-04-08
+  end: 2026-04-10
+  location: Toulouse, France
+  url: https://www.evostar.org/2026/
+  deadlines:
+  - kind: other
+    date: 2025-09-08
+    label: EvoApps special session proposals
+  - kind: submission
+    date: 2025-11-15
+    label: Papers (extended from 2025-11-01)
+  - kind: notification
+    date: 2026-01-10
+  - kind: camera_ready
+    date: 2026-01-24
+  - kind: other
+    date: 2026-03-17
+    label: Late-breaking abstracts
+- year: 2027
+  start: 2027-03-31
+  end: 2027-04-02
+  location: Mainz, Germany
+  url: https://www.evostar.org/2027/
+  deadlines:
+  - kind: other
+    date: 2026-09-07
+    label: EvoApps special session proposals
+  - kind: submission
+    date: 2026-11-01
+    label: Papers (all conferences)
+  - kind: notification
+    date: 2027-01-10
+  - kind: camera_ready
+    date: 2027-01-24
+  - kind: other
+    date: 2027-03-21
+    label: Late-breaking abstracts
+sources:
+- https://www.evostar.org/
+- https://www.evostar.org/2026/
+- https://www.evostar.org/2027/
+- https://www.evostar.org/2027/eurogp/
+- https://link.springer.com/conference/eurogp
+- https://portal.core.edu.au/conf-ranks/?search=EuroGP&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=EvoApplications&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=EvoCOP&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=EvoStar&by=all&source=ICORE2026
+last_verified: 2026-10-11

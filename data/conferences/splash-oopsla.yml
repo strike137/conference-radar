@@ -1,0 +1,106 @@
+id: splash-oopsla
+name: SPLASH/OOPSLA
+full_name: 'ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity (incl. OOPSLA)'
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: ACM DL (PACMPL issues OOPSLA1 and OOPSLA2)
+archival: true
+rank:
+  core: A
+  ccf: A
+typical:
+  deadline_months: [3, 4, 10]
+  conference_months: [10]
+links:
+  website: https://2027.splashcon.org/
+  dblp: https://dblp.org/db/conf/oopsla/index.html
+notes:
+- SPLASH is the umbrella conference; its main research track OOPSLA publishes in the OOPSLA issues of PACMPL (ACM DL)
+- Ranks are for OOPSLA (CORE A in ICORE2026, CCF A); SPLASH itself is not listed in CORE
+- Two review rounds per year (October and March/April); a paper rejected in round 1 cannot be resubmitted in round 2
+- Up to 23 pages for initial submissions (acmsmall), double-blind review, in-person presentation required
+- At least one author must register as a reserve reviewer
+- Co-located with ISSTA and SAS in Oakland 2026; held in Pasadena 2024, Singapore 2025 and Prague 2027
+editions:
+- year: 2026
+  start: 2026-10-04
+  end: 2026-10-09
+  location: Oakland, California, USA
+  url: https://2026.splashcon.org/
+  deadlines:
+  - kind: submission
+    date: 2025-10-10
+    tz: AoE
+    label: OOPSLA Round 1
+  - kind: notification
+    date: 2025-12-17
+    label: OOPSLA Round 1
+  - kind: camera_ready
+    date: 2026-02-27
+    tz: AoE
+    label: OOPSLA Round 1
+  - kind: submission
+    date: 2026-03-17
+    tz: AoE
+    label: OOPSLA Round 2
+  - kind: notification
+    date: 2026-06-10
+    label: OOPSLA Round 2
+  - kind: camera_ready
+    date: 2026-08-14
+    tz: AoE
+    label: OOPSLA Round 2
+- year: 2027
+  start: 2027-10-10
+  end: 2027-10-15
+  location: Prague, Czechia
+  url: https://2027.splashcon.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-14
+    label: OOPSLA Round 1
+  - kind: notification
+    date: 2026-12-18
+    label: OOPSLA Round 1
+  - kind: other
+    date: 2027-01-22
+    label: OOPSLA Round 1 revision
+  - kind: notification
+    date: 2027-02-12
+    label: OOPSLA Round 1 final
+  - kind: camera_ready
+    date: 2027-03-05
+    label: OOPSLA Round 1
+  - kind: submission
+    date: 2027-04-07
+    label: OOPSLA Round 2
+  - kind: notification
+    date: 2027-07-02
+    label: OOPSLA Round 2
+  - kind: other
+    date: 2027-07-30
+    label: OOPSLA Round 2 revision
+  - kind: notification
+    date: 2027-08-13
+    label: OOPSLA Round 2 final
+  - kind: camera_ready
+    date: 2027-08-27
+    label: OOPSLA Round 2
+sources:
+- https://2027.splashcon.org/
+- https://2027.splashcon.org/dates
+- https://2026.splashcon.org/
+- https://2026.splashcon.org/track/oopsla-2026
+- https://2025.splashcon.org/
+- https://2024.splashcon.org/
+- https://portal.core.edu.au/conf-ranks/?search=OOPSLA&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/TCSE_SS_PDL/
+unverified:
+- OOPSLA 2027 call for papers page not yet online; 2027 deadlines are from the SPLASH 2027 important dates page without a stated time zone
+last_verified: 2026-10-11

@@ -1,0 +1,62 @@
+id: icwe
+name: ICWE
+full_name: International Conference on Web Engineering
+type: conference
+tier: major
+areas: [data, software]
+region: europe
+language: english
+frequency: annual
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://icwe2026.webengineering.org/
+  dblp: https://dblp.org/db/conf/icwe/index.html
+notes:
+- Main conference on web engineering; 2026 was the 26th edition
+- Proceedings in Springer LNCS; best papers invited to a special issue of the Journal of Web Engineering
+- Research track with full papers (15 pages) and new ideas papers (8 pages) in LNCS format; single-blind review
+- Also has industrial, poster and demo, workshop, tutorial and PhD symposium tracks
+- Held in Europe in recent years (Tampere 2024, Delft 2025, Lyon 2026); Daejeon, Korea in 2019
+- CORE B (ICORE2026), CCF C
+editions:
+- year: 2025
+  start: 2025-06-30
+  end: 2025-07-03
+  location: Delft, Netherlands
+  url: https://icwe2025.webengineering.org/
+- year: 2026
+  start: 2026-06-09
+  end: 2026-06-12
+  location: Lyon, France
+  url: https://icwe2026.webengineering.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-06
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2026-02-20
+    tz: AoE
+    label: Research track (extended from 2026-02-13)
+sources:
+- https://icwe2026.webengineering.org/
+- https://icwe2026.webengineering.org/index.php/research-track/
+- https://icwe2026.webengineering.org/index.php/past-conferences/
+- https://webengineering.org/
+- https://portal.core.edu.au/conf-ranks/?search=ICWE&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- ICWE 2026 notification and camera-ready dates (research track page shows conflicting versions, March 20 or 30 and
+  April 3 or 15)
+- Organizing society or steering committee is not named on the official sites
+- ICWE 2027 not announced yet
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-10-11

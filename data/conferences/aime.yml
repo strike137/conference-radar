@@ -1,0 +1,56 @@
+id: aime
+name: AIME
+full_name: International Conference on Artificial Intelligence in Medicine
+type: conference
+tier: major
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: AIME (Society for Artificial Intelligence in Medicine)
+organizer_country: [international]
+proceedings: Springer LNAI
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://aimedicine.info/aime/
+  dblp: https://dblp.org/db/conf/aime/index.html
+notes:
+- Run under the auspices of the Society for Artificial Intelligence in Medicine (AIME), founded in 1985; annual international conference
+- Proceedings in Springer LNAI (2026 in two volumes, oral and poster/demo papers)
+- Full papers up to 10 pages, short and demo papers up to 5 pages, all including references; abstract due one week before the paper
+- Best papers may be invited to extended versions in the Elsevier journal Artificial Intelligence in Medicine
+- Alternates between Europe and North America (2026 Ottawa; the society calls for AIME 2028 in North America and AIME 2029 in Europe)
+- CORE B (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-07-07
+  end: 2026-07-10
+  location: Ottawa, Canada
+  url: https://aime26.aimedicine.info/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-10
+    tz: AoE
+  - kind: submission
+    date: 2026-02-17
+    tz: AoE
+  - kind: notification
+    date: 2026-04-19
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-30
+    tz: AoE
+sources:
+- https://aime26.aimedicine.info/
+- https://aime26.aimedicine.info/call-for-papers/
+- https://aime26.aimedicine.info/proceedings/
+- https://aimedicine.info/aime/
+- https://portal.core.edu.au/conf-ranks/?search=AIME&by=all&source=ICORE2026
+unverified:
+- AIME 2027 dates and location not announced on the society site as of 2026-10-11
+last_verified: 2026-10-11

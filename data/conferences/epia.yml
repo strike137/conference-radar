@@ -1,0 +1,80 @@
+id: epia
+name: EPIA
+full_name: EPIA Conference on Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: APPIA (Portuguese Association for Artificial Intelligence)
+organizer_country: [europe]
+proceedings: Springer LNAI
+archival: true
+indexing: [Web of Science, Scopus, DBLP, Google Scholar]
+rank:
+  core: 'National: Portugal'
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10]
+links:
+  website: https://www.appia.pt/epia
+  dblp: https://dblp.org/db/conf/epia/index.html
+notes:
+- Also known as the Portuguese Conference on Artificial Intelligence; run since 1985 by APPIA, one of the oldest AI conferences
+- Always held in Portugal, hosted by a different university each time (Viana do Castelo 2024, Faro 2025, Funchal 2026)
+- Organized around thematic tracks (medicine, law, NLP, knowledge representation, generative AI, ...); papers up to 12 pages in Springer LNAI format
+- Double-blind review by at least three PC members; in-person presentation required
+- "CORE rank: National: Portugal (ICORE2026)"
+- APPIA gives limited travel support to student members; an Advanced School on AI (EAIA) is run alongside
+editions:
+- year: 2025
+  start: 2025-10-01
+  end: 2025-10-03
+  location: Faro, Portugal
+  url: https://epia2025.ualg.pt/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-23
+    tz: AoE
+  - kind: submission
+    date: 2025-05-27
+    tz: AoE
+  - kind: notification
+    date: 2025-07-04
+  - kind: camera_ready
+    date: 2025-07-14
+    tz: AoE
+- year: 2026
+  start: 2026-09-02
+  end: 2026-09-04
+  location: Funchal, Madeira, Portugal
+  url: https://epia2026.web.uma.pt/
+  deadlines:
+  - kind: other
+    date: 2026-02-18
+    tz: AoE
+    label: Thematic track proposals
+  - kind: abstract
+    date: 2026-05-15
+    tz: AoE
+  - kind: submission
+    date: 2026-05-29
+    tz: AoE
+    label: Extended from 2026-05-22 (strict)
+  - kind: notification
+    date: 2026-07-12
+  - kind: camera_ready
+    date: 2026-07-25
+    tz: AoE
+sources:
+- https://www.appia.pt/epia
+- https://www.appia.pt/
+- https://epia2025.ualg.pt/
+- https://epia2025.ualg.pt/callpapers/
+- https://epia2026.web.uma.pt/
+- https://epia2026.web.uma.pt/call-for-papers.html
+- https://portal.core.edu.au/conf-ranks/?search=EPIA&by=all&source=ICORE2026
+unverified:
+- EPIA 2027 dates and location not yet announced as of 2026-10-11
+last_verified: 2026-10-11

@@ -1,0 +1,84 @@
+id: vlsi-tsa
+name: VLSI-TSA
+full_name: International VLSI Symposium on Technology, Systems and Applications
+type: conference
+tier: minor
+areas: [general, systems]
+region: taiwan
+language: english
+frequency: annual
+organizer: ITRI (Industrial Technology Research Institute), technically co-sponsored by IEEE
+organizer_country: [taiwan]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [4]
+links:
+  website: https://expo.itri.org.tw/2027VLSITSA/
+notes:
+- Hosted by ITRI at the Ambassador Hotel in Hsinchu, Taiwan, every April; technically co-sponsored by IEEE (listed
+  by IEEE CASS)
+- Covers VLSI technology, circuits, systems and applications; VLSI-DAT (design, automation and test) was merged
+  into it from 2023, so there are separate TSA and DAT submission tracks
+- Accepted papers presented in person are published in IEEE Xplore; selected presentations are invited to extend
+  into journal papers
+- Five-day event in 2026 (13 to 17 April); paper deadline in early December
+- The ITRI site path changes every year (2025VLSITSA, 2026VLSITSA, 2027VLSITSA); the IEEE CAS event page is a stable
+  backup
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-04-21
+  end: 2025-04-24
+  location: Ambassador Hotel, Hsinchu, Taiwan
+  url: https://expo.itri.org.tw/2025VLSITSA/
+  deadlines:
+  - kind: submission
+    date: 2024-12-02
+    tz: UTC+8
+  - kind: notification
+    date: 2025-01-24
+    tz: UTC+8
+  - kind: other
+    date: 2025-02-28
+    tz: UTC+8
+    label: Author registration
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-17
+  location: Ambassador Hotel, Hsinchu, Taiwan
+  url: https://expo.itri.org.tw/2026VLSITSA
+  deadlines:
+  - kind: submission
+    date: 2025-12-07
+    time: "23:59"
+    tz: UTC+8
+    label: Regular papers (extended from 2025-11-16)
+  - kind: notification
+    date: 2026-01-20
+    tz: UTC+8
+    label: Regular papers
+  - kind: other
+    date: 2026-02-07
+    tz: UTC+8
+    label: Late news papers submission
+  - kind: camera_ready
+    date: 2026-02-28
+    tz: UTC+8
+  - kind: other
+    date: 2026-02-28
+    tz: UTC+8
+    label: Author registration
+sources:
+- https://ieee-cas.org/event/conference/2026-international-vlsi-symposium-technology-systems-and-applications
+- https://ieee-cas.org/event/conference/2025-international-vlsi-symposium-technology-systems-and-applications
+- https://ieee-cas.org/event/conference/2025-international-vlsi-symposium-technology-systems-and-applications-0
+- https://ieee-cas.org/files/ieeecass/2025-11/vlsi-tsa-2026_cfp_v2.pdf
+- https://expo.itri.org.tw/2027VLSITSA/
+- https://portal.core.edu.au/conf-ranks/?search=VLSI-TSA&by=all&source=ICORE2026
+unverified:
+- The 2025 and 2026 ITRI sites now return 404; dates and proceedings are taken from the IEEE CAS event pages and
+  the 2026 CFP PDF hosted there
+- VLSI TSA 2027 has a submission portal on the ITRI site but no dates or deadlines were visible as of 2026-10-11
+last_verified: 2026-10-11

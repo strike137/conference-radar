@@ -1,0 +1,76 @@
+id: collas
+name: CoLLAs
+full_name: Conference on Lifelong Learning Agents
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: CoLLAs board
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [2, 3, 4]
+  conference_months: [7, 8, 9]
+links:
+  website: https://lifelong-ml.cc/
+notes:
+- Annual conference on continual and lifelong learning, held since 2022
+- Proceedings in PMLR (2024 -> volume 274 with 53 papers, 2025 -> volume 330 with 37 papers)
+- Also has a non-archival workshop track reviewed separately
+- Location rotates (early editions in Montreal, then Pisa 2024, Philadelphia 2025, Bucharest 2026)
+- Not listed in the ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  start: 2025-08-11
+  end: 2025-08-14
+  location: Philadelphia, Pennsylvania, USA
+  url: https://lifelong-ml.cc/Conferences/2025
+  deadlines:
+  - kind: abstract
+    date: 2025-02-27
+    tz: AoE
+  - kind: submission
+    date: 2025-03-04
+    tz: AoE
+  - kind: notification
+    date: 2025-05-13
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-18
+  location: Bucharest, Romania
+  url: https://lifelong-ml.cc/Conferences/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-04-11
+    tz: AoE
+  - kind: submission
+    date: 2026-04-16
+    tz: AoE
+  - kind: other
+    date: 2026-05-30
+    tz: AoE
+    label: Rebuttals due
+  - kind: notification
+    date: 2026-06-25
+  - kind: other
+    date: 2026-07-23
+    tz: AoE
+    label: Resubmission deadline
+  - kind: camera_ready
+    date: 2026-08-13
+    tz: AoE
+sources:
+- https://lifelong-ml.cc/Conferences/2026
+- https://lifelong-ml.cc/static/js/main.f524c972.js
+- https://api.lifelong-ml.cc/conference_important_dates/2026
+- https://api.lifelong-ml.cc/conference_important_dates/2025
+- https://proceedings.mlr.press/v330/
+- https://proceedings.mlr.press/v274/
+- https://portal.core.edu.au/conf-ranks/?search=CoLLAs&by=all&source=ICORE2026
+unverified:
+- Deadlines come from the official site's date backend (api.lifelong-ml.cc), which stores the time as 11:59 with zone AoE; earlier editions showed 11:59 pm AoE, so no time is recorded
+- CoLLAs 2027 dates and location not announced yet
+last_verified: 2026-10-11

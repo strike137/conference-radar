@@ -1,0 +1,65 @@
+id: icncc
+name: ICNCC
+full_name: International Conference on Networks, Communication and Computing
+type: conference
+tier: minor
+areas: [networking, communications, general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Conference secretariat with sponsor universities that change by edition (National Taiwan University of
+  Science and Technology and Universiti Teknologi Malaysia in 2026; NTUST and Okayama University in 2025)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, EI]
+fee: 580 USD regular, 500 USD student (2026, full paper, early bird before Oct 20; late 630 / 550 USD)
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://www.icncc.org/
+notes:
+- Smaller commercially organized conference run by a conference secretariat; sponsor universities change each year
+- Proceedings via IEEE Conference Publishing Services into IEEE Xplore since 2025 (2025 ISBN 979-8-3315-5822-2);
+  2016 to 2024 proceedings were in the ACM DL
+- Past proceedings listed as indexed in Scopus and Ei Compendex; 2026 proceedings are "submitted for" indexing
+- Held in December and rotates around Asia (online 2020 to 2022, Osaka 2023, Bangkok 2024, Fukuoka 2025, Kuala
+  Lumpur 2026)
+- Abstract-only presentation without publication is also offered; extra pages beyond 6 cost 70 USD each
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-12-10
+  end: 2025-12-12
+  location: Fukuoka, Japan
+  url: https://www.icncc.org/25.html
+- year: 2026
+  start: 2026-12-10
+  end: 2026-12-12
+  location: Kuala Lumpur, Malaysia
+  url: https://www.icncc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+  - kind: notification
+    date: 2026-11-20
+  - kind: camera_ready
+    date: 2026-11-30
+    label: Camera ready and registration
+sources:
+- https://www.icncc.org/
+- https://www.icncc.org/cfp.html
+- https://www.icncc.org/registration.html
+- https://www.icncc.org/contact.html
+- https://www.icncc.org/Proceedings.html
+- https://www.icncc.org/25.html
+- https://www.icncc.org/24.html
+- https://www.icncc.org/23.html
+- https://www.icncc.org/22.html
+- https://www.icncc.org/21.html
+- https://portal.core.edu.au/conf-ranks/?search=ICNCC&by=all&source=ICORE2026
+unverified:
+- Name of the company or body behind the conference secretariat (not stated on the site), so organizer_country is
+  left as other
+last_verified: 2026-10-11

@@ -1,0 +1,72 @@
+id: iros
+name: IROS
+full_name: IEEE/RSJ International Conference on Intelligent Robots and Systems
+type: conference
+tier: major
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE RAS and RSJ (with IEEE IES, SICE and NTF)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: A
+  ccf: C
+typical:
+  deadline_months: [3]
+  conference_months: [9, 10]
+links:
+  website: https://2026.ieee-iros.org/
+  dblp: https://dblp.org/db/conf/iros/index.html
+notes:
+- One of the two flagship robotics conferences together with ICRA; sponsored by IEEE RAS and the Robotics Society of Japan
+- Accepted papers are published in IEEE Xplore as peer-reviewed archival publications
+- 8 pages including references and appendices (no extra pages can be bought); double-anonymous review via PaperCept with an optional short video
+- No RA-L+IROS submission option anymore; published RAM, RA-L, T-ASE and T-RO papers can be presented at IROS within an eligibility window
+- Location rotates worldwide (Pittsburgh 2026, Florence 2027)
+- CORE A (ICORE2026) and CCF C, so tier is major by the rank rule although it is widely seen as a flagship venue
+editions:
+- year: 2026
+  start: 2026-09-27
+  end: 2026-10-01
+  location: Pittsburgh, USA
+  url: https://2026.ieee-iros.org/
+  deadlines:
+  - kind: other
+    date: 2026-01-31
+    label: Special session proposals
+  - kind: submission
+    date: 2026-03-02
+    label: Papers (can be modified, not started, until 2026-03-05)
+  - kind: other
+    date: 2026-03-07
+    label: Paper video
+  - kind: other
+    date: 2026-03-16
+    label: Workshop, tutorial, competition and forum proposals
+  - kind: notification
+    date: 2026-06-16
+  - kind: camera_ready
+    date: 2026-07-16
+  - kind: other
+    date: 2026-07-31
+    label: Late breaking results
+- year: 2027
+  start: 2027-09-27
+  end: 2027-10-01
+  location: Florence, Italy
+  url: https://2027.ieee-iros.org/
+sources:
+- https://2026.ieee-iros.org/
+- https://2026.ieee-iros.org/contribute/call-for-papers/
+- https://2026.ieee-iros.org/about/important-dates/
+- https://2027.ieee-iros.org/
+- https://portal.core.edu.au/conf-ranks/?search=IROS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF list mirror)
+unverified:
+- IROS 2027 deadlines not announced yet
+- Acceptance rate not stated on the official site
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
+last_verified: 2026-10-11

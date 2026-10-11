@@ -1,0 +1,61 @@
+id: ieee-mlsp
+name: IEEE MLSP
+full_name: IEEE International Workshop on Machine Learning for Signal Processing
+type: conference
+tier: minor
+areas: [ai, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Signal Processing Society, Machine Learning for Signal Processing Technical Committee (MLSP-TC)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4, 5, 6]
+  conference_months: [8, 9, 10]
+links:
+  website: https://mlsp26.ieeesps.org/
+notes:
+- Main and oldest event of the IEEE SPS MLSP Technical Committee (35th edition in 2025)
+- Proceedings published in and indexed by IEEE Xplore; 6-page full papers including figures and references (2026)
+- Rotates worldwide (Rome 2023, London 2024, Istanbul 2025, Atlanta 2026)
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  label: 35th MLSP
+  start: 2025-08-31
+  end: 2025-09-03
+  location: Istanbul, Turkey
+  url: https://2025.ieeemlsp.org/
+  deadlines:
+  - kind: submission
+    date: 2025-05-06
+    label: Papers (extended from 2025-04-29)
+  - kind: notification
+    date: 2025-06-24
+  - kind: camera_ready
+    date: 2025-07-15
+- year: 2026
+  start: 2026-09-28
+  end: 2026-10-01
+  location: Atlanta, GA, USA
+  url: https://mlsp26.ieeesps.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-07-31
+sources:
+- https://mlsp26.ieeesps.org/
+- https://mlsp26.ieeesps.org/call-for-papers/
+- https://2025.ieeemlsp.org/
+- https://api.crossref.org/works?query.bibliographic=Machine+Learning+for+Signal+Processing+MLSP&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=MLSP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- MLSP 2026 original submission deadline before the extension and camera-ready date
+- Past locations (2020 to 2024) taken from IEEE Xplore proceedings metadata via Crossref
+last_verified: 2026-10-11

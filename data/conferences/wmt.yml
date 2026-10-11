@@ -1,0 +1,80 @@
+id: wmt
+name: WMT
+full_name: Conference on Machine Translation
+type: conference
+tier: minor
+areas: [nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACL SIGMT (held with EMNLP; organized by Barry Haddow, Tom Kocmi, Philipp Koehn and Christof Monz)
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10, 11]
+links:
+  website: https://www2.statmt.org/wmt26/
+notes:
+- Main annual venue for machine translation research and evaluation; started as a workshop in 2006, now the
+  Conference on Machine Translation (WMT25 was the 10th conference)
+- Co-located with EMNLP, which handles registration and visas, so the location follows EMNLP (Suzhou 2025,
+  Budapest 2026)
+- Best known for its shared tasks (general MT, metrics, quality estimation and others) run in June and July;
+  system description papers from shared task participants make up much of the proceedings
+- Research papers can also be committed from ACL Rolling Review (ARR commitment deadline about three weeks after
+  direct submission)
+- Proceedings in the ACL Anthology (113 papers in 2025, 134 in 2024)
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-08
+  end: 2025-11-09
+  location: Suzhou, China
+  url: https://www2.statmt.org/wmt25/
+  deadlines:
+  - kind: submission
+    date: 2025-08-14
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2025-09-01
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2025-09-13
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-25
+    tz: AoE
+- year: 2026
+  start: 2026-10-28
+  end: 2026-10-29
+  location: Budapest, Hungary
+  url: https://www2.statmt.org/wmt26/
+  deadlines:
+  - kind: submission
+    date: 2026-08-07
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2026-08-28
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-09-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-11
+    tz: AoE
+sources:
+- https://www2.statmt.org/wmt25/
+- https://www2.statmt.org/wmt26/
+- https://www2.statmt.org/wmt26/papers.html
+- https://aclanthology.org/venues/wmt/
+- https://aclanthology.org/sigs/sigmt/
+- https://portal.core.edu.au/conf-ranks/?search=WMT&by=all&source=ICORE2026
+unverified:
+- WMT27 dates and location not yet announced (expected with EMNLP 2027)
+last_verified: 2026-10-11

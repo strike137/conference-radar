@@ -1,0 +1,71 @@
+id: jcdl
+name: JCDL
+full_name: ACM/IEEE Joint Conference on Digital Libraries
+type: conference
+tier: major
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM and IEEE Computer Society (JCDL Steering Committee)
+organizer_country: [international]
+proceedings: ACM DL / IEEE Xplore (alternating by year)
+archival: true
+rank:
+  core: A*
+  core_source: CORE2018
+typical:
+  deadline_months: [7]
+  conference_months: [6, 10, 12]
+links:
+  website: https://jcdl.org/
+notes:
+- Formed by combining the ACM Digital Libraries conferences and the IEEE-CS Advances in Digital Libraries conferences
+- Proceedings alternate between the ACM DL (2018, 2020, 2022, 2024) and IEEE Xplore (2019, 2021, 2023, 2025)
+- Mostly held in the USA (Santa Fe 2023, DeKalb 2025 virtual, Dallas 2026), with editions in Cologne 2022 and Hong
+  Kong 2024
+- Full papers up to 10 pages and short papers up to 4 pages excluding references, ACM format; double-blind review
+- 2026 is hybrid; sponsors include IEEE Computer Society, ACM SIGIR and ACM SIGWEB
+- Listed as CORE A* in CORE2018 but not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-15
+  end: 2025-12-19
+  location: DeKalb, Illinois, USA (virtual)
+  url: https://2025.jcdl.org
+- year: 2026
+  start: 2026-10-13
+  end: 2026-10-16
+  location: Dallas, Texas, USA (hybrid)
+  url: https://2026.jcdl.org
+  deadlines:
+  - kind: other
+    date: 2026-06-07
+    tz: AoE
+    label: Workshop and tutorial proposals (extended from May 31)
+  - kind: submission
+    date: 2026-07-15
+    tz: AoE
+    label: Full and short papers (extended from Jun 30)
+  - kind: other
+    date: 2026-08-14
+    tz: AoE
+    label: Demo and resource papers
+  - kind: notification
+    date: 2026-08-25
+    label: Full and short papers
+  - kind: camera_ready
+    date: 2026-09-20
+sources:
+- https://jcdl.org/
+- https://jcdl.org/past_conferences.php
+- https://2026.jcdl.org
+- https://2026.jcdl.org/key-dates/
+- https://2026.jcdl.org/call-for-papers/
+- https://2026.jcdl.org/sponsors/
+- https://portal.core.edu.au/conf-ranks/?search=JCDL&by=all&source=all&sort=atitle&page=1
+unverified:
+- Publisher of the 2026 proceedings not stated on the 2026 site
+- Not found in the CCF list mirror checked, so no CCF rank recorded
+- JCDL 2027 host and dates not announced as of 2026-10-11
+last_verified: 2026-10-11

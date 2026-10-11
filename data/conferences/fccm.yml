@@ -1,0 +1,67 @@
+id: fccm
+name: FCCM
+full_name: IEEE International Symposium on Field-Programmable Custom Computing Machines
+type: conference
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Computer Society (technical sponsor)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: National/Regional
+  ccf: C
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://www.fccm.org/
+  dblp: https://dblp.org/db/conf/fccm/index.html
+notes:
+- Long-running venue on FPGAs and reconfigurable custom computing; technical sponsors IEEE and IEEE Computer Society
+- Proceedings in IEEE Xplore; a paper is left out of Xplore unless an author registers and attends
+- Held every May in the USA (Orlando 2024, Fayetteville 2025, Atlanta 2026, Provo 2027)
+- Abstract and paper deadlines in January are not extended; rebuttal period, artifact form and a Demo Night
+- Workshops and tutorials on the days around the two-day main conference
+- "CORE label: National/Regional (ICORE2026); CCF C"
+editions:
+- year: 2026
+  start: 2026-05-13
+  end: 2026-05-16
+  location: Atlanta, GA, USA
+  url: https://fccm.org/past/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-01-10
+    tz: AoE
+  - kind: submission
+    date: 2026-01-17
+    tz: AoE
+  - kind: notification
+    date: 2026-03-16
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-15
+    tz: AoE
+- year: 2027
+  start: 2027-05-09
+  end: 2027-05-12
+  location: Provo, Utah, USA
+  url: https://www.fccm.org/
+sources:
+- https://www.fccm.org/
+- https://www.fccm.org/call-for-papers-2027/
+- https://www.fccm.org/past-fccm-websites/
+- https://fccm.org/past/2026
+- https://fccm.org/past/2025
+- https://fccm.org/past/2024
+- https://portal.core.edu.au/conf-ranks/?search=FCCM&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- FCCM 2027 deadlines (listed as TBD, AoE)
+- Acceptance rate (not stated on the official pages)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

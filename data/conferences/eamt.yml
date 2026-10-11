@@ -1,0 +1,43 @@
+id: eamt
+name: EAMT
+full_name: Annual Conference of the European Association for Machine Translation
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: EAMT (European Association for Machine Translation)
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+rank:
+  core: C
+typical:
+  conference_months: [5, 6]
+links:
+  website: https://eamt.org/eamt-annual-conference/
+  dblp: https://dblp.org/db/conf/eamt/index.html
+notes:
+- Annual conference of the European Association for Machine Translation; tracks for technical research, translators and users, implementations and case studies, and products and projects
+- Proceedings published by EAMT in the ACL Anthology (two volumes in 2024 and 2026)
+- Skipped in years when EAMT hosts MT Summit instead (2019, 2025)
+- Held in Europe every year (Ghent 2022, Tampere 2023, Sheffield 2024, Tilburg 2026)
+- CORE C (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-18
+  location: Tilburg, Netherlands
+  url: https://eamt2026.org/
+sources:
+- https://eamt.org/
+- https://eamt.org/eamt-annual-conference/
+- https://eamt.org/eamt-annual-conference-peer-review-policy/
+- https://aclanthology.org/venues/eamt/
+- https://aclanthology.org/volumes/2026.eamt-1/
+- https://portal.core.edu.au/conf-ranks/?search=EAMT&by=all&source=ICORE2026
+unverified:
+- EAMT 2026 deadlines (eamt2026.org could not be reached on 2026-10-11)
+- EAMT 2027 dates and location not announced as of 2026-10-11
+last_verified: 2026-10-11

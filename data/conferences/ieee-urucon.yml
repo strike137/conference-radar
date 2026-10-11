@@ -1,0 +1,62 @@
+id: ieee-urucon
+name: IEEE URUCON
+full_name: IEEE URUCON (IEEE Uruguay Section flagship conference)
+type: conference
+tier: minor
+areas: [general, communications]
+region: latin-america
+language: english
+frequency: irregular
+organizer: IEEE Uruguay Section and IEEE Cono Sur Council
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://urucon.uy/
+notes:
+- Flagship conference of the IEEE Uruguay Section, sponsored with the IEEE Cono Sur Council; held in Montevideo
+- Irregular schedule so far (2017, 2021, 2024, 2026); 2026 is the 4th edition
+- Covers electrical, electronic and computer engineering
+- 2026 call uses single-blind review by 3 reviewers, papers up to 5 pages in IEEE format, submitted via EDAS; accepted papers go to IEEE Xplore
+- 2026 has a separate call for abstracts besides the paper track
+- 2024 accepted Spanish papers but only English papers were sent to IEEE Xplore; 2026 paper track is English only
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2024
+  start: 2024-11-18
+  end: 2024-11-20
+  location: Montevideo, Uruguay (hybrid)
+  url: https://urucon2024.org/
+  deadlines:
+  - kind: submission
+    date: 2024-07-14
+    label: Initial paper (extended from 2024-06-30)
+  - kind: notification
+    date: 2024-09-15
+  - kind: camera_ready
+    date: 2024-10-06
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-18
+  location: Montevideo, Uruguay
+  url: https://urucon.uy/
+  deadlines:
+  - kind: submission
+    date: 2026-08-02
+    label: Papers and abstracts (extended from 2026-07-17)
+  - kind: notification
+    date: 2026-09-25
+    label: Papers and abstracts (moved from 2026-09-15)
+  - kind: camera_ready
+    date: 2026-10-31
+    label: Final paper submission
+sources:
+- https://urucon.uy/
+- https://urucon.uy/cfpapers
+- https://urucon2024.org/
+- https://urucon2024.org/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=URUCON&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-11

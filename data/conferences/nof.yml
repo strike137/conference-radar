@@ -1,0 +1,68 @@
+id: nof
+name: NoF
+full_name: International Conference on Network of the Future
+type: conference
+tier: minor
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: DNAC; technically sponsored by IEEE and IEEE ComSoc
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://nof.dnac.org/
+notes:
+- Organized by DNAC (also behind NTMS, Wireless Days, BRAINS and CSNet); technically sponsored by IEEE and IEEE ComSoc
+- Held since 2010 (17th edition in 2026); mostly in Europe, also Brisbane 2010, Tunis 2012, Pohang 2013, Montreal 2015 and 2025, Rio de Janeiro 2016, Izmir 2023
+- Regular papers up to 9 pages and short papers up to 6 pages, references included; single-blind review
+- Accepted and presented papers are submitted to IEEE Xplore; one author must register at the author rate and present in person
+- Workshop day and demo track in addition to the main conference
+- Not listed in the CORE ICORE2026 rankings
+editions:
+- year: 2025
+  start: 2025-09-30
+  end: 2025-10-03
+  location: Montreal, Canada
+  url: https://nof.dnac.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-01
+  - kind: notification
+    date: 2025-07-04
+  - kind: camera_ready
+    date: 2025-07-14
+- year: 2026
+  start: 2026-09-29
+  end: 2026-10-02
+  location: Rome, Italy
+  url: https://nof.dnac.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+  - kind: notification
+    date: 2026-07-06
+  - kind: camera_ready
+    date: 2026-07-31
+  - kind: other
+    date: 2026-07-23
+    label: Demo submission (extended from 2026-07-09)
+  - kind: other
+    date: 2026-07-24
+    label: Workshop paper submission (extended from 2026-07-11)
+sources:
+- https://nof.dnac.org/
+- https://nof.dnac.org/2026/call-for-papers/
+- https://nof.dnac.org/2025/
+- https://nof.dnac.org/2025/call-for-papers/
+- https://www.dnac.org/
+- https://portal.core.edu.au/conf-ranks/?search=NoF&by=all&source=ICORE2026
+unverified:
+- NoF 2027 not yet announced as of 2026-10-11
+- Region set to worldwide from the last six editions (Coimbra 2021 virtual, Ghent 2022, Izmir 2023, Castelldefels 2024, Montreal 2025, Rome 2026), 4 of 6 in Europe
+- dblp key not confirmed (dblp blocked automated access)
+last_verified: 2026-10-11

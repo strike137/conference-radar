@@ -1,0 +1,62 @@
+id: hasp
+name: HASP
+full_name: Hardware and Architectural Support for Security and Privacy
+type: workshop
+tier: minor
+areas: [security, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: HASP steering committee
+organizer_country: [international]
+proceedings: ACM ICPS (ACM DL)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10, 11]
+links:
+  website: https://www.haspworkshop.org/
+notes:
+- Long-running workshop (since 2012) on hardware and architecture for security and privacy, co-located with MICRO in recent years
+- Research, SoK and position papers are published in ACM ICPS (ACM DL, open access, APC may apply); work-in-progress papers are not published
+- Held with MICRO (Toronto 2023, Austin 2024, Seoul 2025, Athens 2026)
+- Steering committee from Princeton, University of Houston, Yale, NTU Singapore and Tsinghua
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Seoul, Korea
+  url: https://www.haspworkshop.org/2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-08-10
+    tz: AoE
+    label: Final extended deadline
+  - kind: notification
+    date: 2025-09-09
+  - kind: camera_ready
+    date: 2025-09-22
+- year: 2026
+  start: 2026-10-31
+  end: 2026-10-31
+  location: Athens, Greece
+  url: https://www.haspworkshop.org/2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-08-17
+    tz: AoE
+    label: Final extended deadline (from 2026-08-10)
+  - kind: notification
+    date: 2026-09-16
+  - kind: camera_ready
+    date: 2026-10-01
+sources:
+- https://www.haspworkshop.org/
+- https://www.haspworkshop.org/2026/index.html
+- https://www.haspworkshop.org/2026/organizers.html
+- https://www.haspworkshop.org/2025/index.html
+- https://www.haspworkshop.org/2024/index.html
+- https://www.haspworkshop.org/2023/index.html
+- https://portal.core.edu.au/conf-ranks/?search=HASP&by=all&source=ICORE2026
+last_verified: 2026-10-11

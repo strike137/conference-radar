@@ -1,0 +1,66 @@
+id: sacair
+name: SACAIR
+full_name: Southern African Conference for Artificial Intelligence Research
+type: conference
+tier: minor
+areas: [ai]
+region: africa
+language: english
+frequency: annual
+organizer: SACAIR (not-for-profit; supported by the Centre for AI Research, CAIR)
+organizer_country: [other]
+proceedings: Springer CCIS (plus SACAIR online proceedings with ISBN)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11, 12]
+links:
+  website: https://sacair.org.za/
+notes:
+- Annual Southern African AI conference, hosted in rotation by an AI research group at a southern African university;
+  the Centre for AI Research (CAIR) plays a supporting role
+- Started as FAIR 2019 in Cape Town; SACAIR since 2020 (2020 and 2021 virtual, 2022 hybrid in Stellenbosch, 2023
+  Muldersdrift, 2025 Cape Town, 2026 KwaZulu-Natal)
+- Four tracks covering symbolic and data-driven AI, socio-technical AI, responsible and ethical AI (philosophy and
+  law), and interdisciplinary AI
+- Two-stage double-blind review (abstract, then full paper of 12 to 15 pages); extended abstracts accepted only in the
+  ethics and law track
+- Top full papers go to Springer CCIS (2025 in CCIS volume 2784); other favourably reviewed papers go into online
+  proceedings with an ISBN
+- Week-long event with an unconference and tutorials before the main conference
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-05
+  location: Cape Town, South Africa
+  url: https://2025.sacair.org.za/
+- year: 2026
+  start: 2026-11-30
+  end: 2026-12-04
+  location: The Capital Zimbali, KwaZulu-Natal, South Africa
+  url: https://2026.sacair.org.za/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-10
+    tz: UTC+2
+  - kind: submission
+    date: 2026-08-21
+    tz: UTC+2
+  - kind: notification
+    date: 2026-10-01
+    tz: UTC+2
+  - kind: camera_ready
+    date: 2026-10-14
+    tz: UTC+2
+    label: Extended from 2026-10-09
+sources:
+- https://sacair.org.za/
+- https://2026.sacair.org.za/
+- https://2026.sacair.org.za/call-for-papers/
+- https://2025.sacair.org.za/
+- https://2025.sacair.org.za/proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=SACAIR&by=all&source=ICORE2026
+unverified:
+- Springer CCIS publication of the 2026 proceedings is marked approval pending on the CFP page
+last_verified: 2026-10-11

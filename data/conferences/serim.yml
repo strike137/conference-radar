@@ -1,0 +1,84 @@
+id: serim
+name: SeRIM
+full_name: International Workshop on Security and Risk in Identity Management
+type: workshop
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: Chairs from Fondazione Bruno Kessler (FBK) and Ca' Foscari University of Venice, co-located with IEEE EuroS&P
+organizer_country: [europe]
+proceedings: IEEE Xplore (IEEE EuroS&P Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7]
+links:
+  website: https://st.fbk.eu/events/SeRIM2026/
+notes:
+- One-day post-conference workshop of IEEE EuroS&P; 1st edition 2025 (Venice), 2nd edition 2026 (Lisbon)
+- Papers published in IEEE Xplore in the EuroS&P Workshops (EuroS&PW) volume
+- 'Topics: identity management protocols, formal verification, risk assessment, security metrics, threat modeling and tools'
+- Regular papers up to 10 pages, short papers up to 6 pages, tool papers up to 4 pages (live demo), excluding references
+  and appendices; IEEE format, anonymous review
+- Deadlines were extended by about a month in 2025 and by about ten days in 2026
+- 'Small program: 3 regular and 3 short papers plus one keynote in 2026'
+editions:
+- year: 2025
+  start: 2025-07-04
+  end: 2025-07-04
+  location: Venice, Italy
+  url: https://st.fbk.eu/events/SeRIM2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-10
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-02-13
+  - kind: notification
+    date: 2025-04-02
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-03-24
+  - kind: camera_ready
+    date: 2025-04-14
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-04-07
+- year: 2026
+  start: 2026-07-10
+  end: 2026-07-10
+  location: Lisbon, Portugal
+  url: https://st.fbk.eu/events/SeRIM2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-10
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-03-01
+  - kind: notification
+    date: 2026-04-10
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-03
+  - kind: camera_ready
+    date: 2026-04-21
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-16
+sources:
+- https://st.fbk.eu/events/SeRIM2026/
+- https://st.fbk.eu/events/SeRIM2026/call-for-papers
+- https://st.fbk.eu/events/SeRIM2026/committees
+- https://st.fbk.eu/events/SeRIM2026/program
+- https://st.fbk.eu/events/SeRIM2025/
+- https://eurosp2026.ieee-security.org/workshops.html
+- https://eurosp2025.ieee-security.org/
+- https://doi.org/10.1109/eurospw72509.2026.00053
+- https://portal.core.edu.au/conf-ranks/?search=SeRIM&by=all&source=ICORE2026
+unverified:
+- SeRIM 2027 not yet announced
+- Not found in the ICORE2026 portal and not in the CCF list, so no rank is given
+- Inclusion of the 2025 papers in the EuroS&PW 2025 volume not checked
+last_verified: 2026-10-11

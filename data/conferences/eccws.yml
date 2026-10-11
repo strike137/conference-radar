@@ -1,0 +1,68 @@
+id: eccws
+name: ECCWS
+full_name: European Conference on Cyber Warfare and Security
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: Academic Conferences and Publishing International (ACPI), UK
+organizer_country: [europe]
+proceedings: ACPI open-access proceedings (ISSN 2049-9870)
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [12, 1]
+  conference_months: [6, 7]
+links:
+  website: https://www.academic-conferences.org/conferences/eccws/
+notes:
+- Run by ACPI, a commercial academic conference organizer; European sister series of ICCWS
+- Abstract-first submission, then full paper under double-blind review
+- Proceedings open access, indexed in Scopus and submitted to Web of Science CPCI; selected papers may be extended
+  for partner journals such as Journal of Information Warfare and IJCWT
+- Held at a European university each year (Athens 2023, Jyvaskyla 2024, Kaiserslautern 2025, Nottingham 2026,
+  Coimbra 2027)
+- 'Hybrid: virtual participation allowed'
+- Not listed in the CORE ICORE2026 rankings
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-06-30
+  location: Nottingham, UK
+  url: https://www.academic-conferences.org/conferences/eccws/eccws-future-and-past/
+- year: 2027
+  start: 2027-07-01
+  end: 2027-07-02
+  location: Coimbra, Portugal
+  url: https://www.academic-conferences.org/conferences/eccws/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-09
+  - kind: notification
+    date: 2026-12-23
+    label: Abstract acceptance
+  - kind: submission
+    date: 2027-01-28
+    label: Full paper for review
+  - kind: notification
+    date: 2027-04-08
+    label: Paper acceptance
+  - kind: other
+    date: 2027-04-22
+    label: Early-bird registration closes
+  - kind: camera_ready
+    date: 2027-05-06
+    label: Final paper
+  - kind: other
+    date: 2027-05-27
+    label: Final author registration
+sources:
+- https://www.academic-conferences.org/conferences/eccws/
+- https://www.academic-conferences.org/conferences/eccws/eccws-future-and-past/
+- https://papers.academic-conferences.org/index.php/eccws
+- https://portal.core.edu.au/conf-ranks/?search=ECCWS&by=all&source=ICORE2026
+unverified:
+- dblp key not confirmed (dblp blocked automated access)
+last_verified: 2026-10-11

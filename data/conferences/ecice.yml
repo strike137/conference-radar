@@ -1,0 +1,69 @@
+id: ecice
+name: ECICE
+full_name: Eurasia Conference on IoT, Communication and Engineering
+type: conference
+tier: minor
+areas: [communications, networking, general]
+region: taiwan
+language: english
+frequency: annual
+organizer: College of Engineering, National Formosa University and IEEE Tainan Section Sensors Council
+organizer_country: [taiwan]
+proceedings: MDPI Engineering Proceedings
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [9, 10]
+  conference_months: [11]
+links:
+  website: https://www.ecice.asia/
+notes:
+- Organized by the IEEE Tainan Section Sensors Council, the College of Engineering of National Formosa University and
+  its Smart Machinery and Intelligent Manufacturing Research Center
+- Full papers go to MDPI Engineering Proceedings (Scopus) since 2024; IEEE ECICE 2019 to 2023 were in IEEE Xplore;
+  grew out of IEEE ICAM 2018
+- Selected papers can be recommended to partner journals (extra charge) or IIKII journals (no charge)
+- Abstract first, then a 4 to 8 page full paper in the Engineering Proceedings Word template (no LaTeX); AI-generated
+  papers may be rejected
+- Hybrid (in person or online); 2026 edition at National Formosa University, Huwei, Yunlin
+- Full paper acceptance comes after the conference; final papers due at the end of December
+- Not listed in CORE (ICORE2026); a broad, low-barrier venue
+editions:
+- year: 2026
+  start: 2026-11-13
+  end: 2026-11-15
+  location: Huwei, Yunlin, Taiwan (hybrid)
+  url: https://www.ecice.asia/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-30
+    time: "23:59"
+    tz: UTC+8
+    label: Abstract (extended from 2026-09-15)
+  - kind: notification
+    date: 2026-09-30
+    label: Abstract acceptance
+  - kind: submission
+    date: 2026-10-20
+    time: "23:59"
+    tz: UTC+8
+    label: Full paper (also early registration)
+  - kind: notification
+    date: 2026-12-10
+    label: Full paper acceptance
+  - kind: camera_ready
+    date: 2026-12-31
+    time: "23:59"
+    tz: UTC+8
+    label: Final paper
+sources:
+- https://www.ecice.asia/
+- https://www.ecice.asia/dates.html
+- https://www.ecice.asia/submission.html
+- https://www.ecice.asia/venue.html
+- https://portal.core.edu.au/conf-ranks/?search=ECICE&by=all&source=ICORE2026
+unverified:
+- Locations and dates of editions before 2026 (official site lists past proceedings only), so region taiwan is
+  inferred from the organizer and the 2026 venue
+- Registration fee amounts
+last_verified: 2026-10-11

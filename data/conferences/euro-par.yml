@@ -1,0 +1,67 @@
+id: euro-par
+name: Euro-Par
+full_name: International European Conference on Parallel and Distributed Computing
+type: conference
+tier: major
+areas: [systems, general]
+region: europe
+language: english
+frequency: annual
+organizer: Euro-Par Steering Committee
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [2, 3]
+  conference_months: [8]
+links:
+  website: https://www.europar.org/
+  dblp: https://dblp.org/db/conf/europar/index.html
+notes:
+- Annual European conference series on parallel and distributed computing since 1995 (merged PARLE, CONPAR and VAPP)
+- Run by a steering committee of European researchers that picks a host university each year; always held in Europe
+- Proceedings in Springer LNCS (2026 in LNCS 16781 and 16782); workshop papers in a separate LNCS volume
+- "2026 rules: up to 14 pages in LNCS format including references; single-blind review (double-blind optional)"
+- "CORE B (ICORE2026, listed as EuroPar); CCF B"
+- Abstract deadline about one week before the paper deadline; deadlines are usually extended by a week
+editions:
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-28
+  location: Pisa, Italy
+  url: https://2026.euro-par.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-06
+    tz: AoE
+    label: Extended from 2026-02-27
+  - kind: submission
+    date: 2026-03-13
+    tz: AoE
+    label: Extended firm deadline (originally 2026-03-06)
+  - kind: notification
+    date: 2026-04-30
+  - kind: camera_ready
+    date: 2026-05-22
+- year: 2027
+  start: 2027-08-23
+  end: 2027-08-27
+  location: Groningen, Netherlands
+  url: https://2027.euro-par.org/
+sources:
+- https://2027.euro-par.org/
+- https://2027.euro-par.org/about-euro-par/history
+- https://2027.euro-par.org/about-euro-par/publication-venue
+- https://2027.euro-par.org/about-euro-par/steering-committee
+- https://2026.euro-par.org/
+- https://2026.euro-par.org/calls/papers
+- https://2026.euro-par.org/attending/venue
+- https://portal.core.edu.au/conf-ranks/?search=EuroPar&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- Euro-Par 2027 deadlines not yet announced (call for papers page not online as of 2026-10-11)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (captcha)
+last_verified: 2026-10-11

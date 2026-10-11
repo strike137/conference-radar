@@ -1,0 +1,60 @@
+id: wd
+name: WD
+full_name: Wireless Days Conference
+type: conference
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: DNAC; technically co-sponsored by IEEE and IEEE ComSoc
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://wireless-days.dnac.org/
+notes:
+- Organized by DNAC (also behind NTMS); technically co-sponsored by IEEE and IEEE ComSoc; IFIP co-sponsored earlier
+  editions (2018)
+- Single-track program on ad hoc and sensor networks, vehicles, IoT, 5G/6G and Wi-Fi, wireless modelling and AI for
+  wireless networks
+- Full papers 8 pages, short papers and poster/demo papers 4 pages (IEEE two-column, via EDAS); accepted and presented
+  papers are submitted to IEEE Xplore
+- Not held every year; 13th edition in 2025 after 2019 (Manchester) and 2021 (Paris, virtual)
+- Past hosts include Dubai, Paris, Venice, Rio de Janeiro, Toulouse, Porto and Manchester; acceptance ratio around
+  32 to 35% in 2016 to 2018 (per the 2018 and 2019 sites)
+- Not listed in the CORE ICORE2026 rankings
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-03
+  location: Niterói, Rio de Janeiro, Brazil (Fluminense Federal University)
+  url: https://wireless-days.dnac.org/
+  deadlines:
+  - kind: submission
+    date: 2025-09-02
+    label: Papers (extended)
+  - kind: notification
+    date: 2025-09-26
+  - kind: camera_ready
+    date: 2025-10-30
+  - kind: other
+    date: 2025-11-03
+    label: Author registration
+sources:
+- https://wireless-days.dnac.org/
+- https://wireless-days.dnac.org/call-for-papers/
+- https://wireless-days.dnac.org/call-for-posters-demos/
+- https://wd2021.dnac.org/
+- https://wd2021.dnac.org/2019/
+- https://wd2018.dnac.org/
+- https://portal.core.edu.au/conf-ranks/?search=Wireless%20Days&by=all&source=ICORE2026
+unverified:
+- No WD 2026 or 2027 edition announced on the official site as of 2026-10-11
+- IFIP TC6 involvement in recent editions (the 2025 site lists only IEEE and IEEE ComSoc)
+- Country of DNAC not stated on the site (set to europe; DNAC events are mostly in Paris)
+- dblp page not checked
+last_verified: 2026-10-11

@@ -1,0 +1,61 @@
+id: adbis
+name: ADBIS
+full_name: European Conference on Advances in Databases and Information Systems
+type: conference
+tier: minor
+areas: [data]
+region: europe
+language: english
+frequency: annual
+organizer: ADBIS Steering Committee
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9, 10]
+links:
+  website: https://adbis26.sciencesconf.org/
+  dblp: https://dblp.org/db/conf/adbis/index.html
+notes:
+- European database and information systems conference, held in a different European city each year (Tampere 2025,
+  Orleans 2026)
+- Full papers (16 pages) in Springer LNCS, short papers (up to 10 pages) in Springer CCIS; single-blind review
+- Co-located workshops, a doctoral consortium school, demos, tutorials and Fresh Thinking Talks
+- CORE C (ICORE2026); listed there as Symposium on Advances in DB and Information Systems
+editions:
+- year: 2026
+  start: 2026-09-28
+  end: 2026-10-01
+  location: Orleans, France
+  url: https://adbis26.sciencesconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-18
+    time: "23:59"
+    tz: AoE
+    label: Research papers (extended from 2026-04-14)
+  - kind: submission
+    date: 2026-05-18
+    time: "23:59"
+    tz: AoE
+    label: Research papers (extended from 2026-04-21)
+  - kind: notification
+    date: 2026-06-10
+  - kind: camera_ready
+    date: 2026-06-28
+  - kind: submission
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+    label: Workshop papers (extended from 2026-06-05)
+sources:
+- https://adbis26.sciencesconf.org/
+- https://adbis26.sciencesconf.org/page/important_dates?lang=en
+- https://adbis26.sciencesconf.org/page/research_track?lang=en
+- https://portal.core.edu.au/conf-ranks/?search=ADBIS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ADBIS 2027 dates and location not yet found
+last_verified: 2026-10-11

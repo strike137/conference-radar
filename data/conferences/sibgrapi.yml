@@ -1,0 +1,66 @@
+id: sibgrapi
+name: SIBGRAPI
+full_name: Conference on Graphics, Patterns and Images
+type: conference
+tier: minor
+areas: [vision, ai]
+region: latin-america
+language: english
+frequency: annual
+organizer: Brazilian Computer Society (SBC) Special Interest Group on Computer Graphics and Image Processing (CEGRAPI)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://sibgrapi.sbc.org.br/
+notes:
+- Flagship Brazilian conference on computer vision, pattern recognition, image processing and graphics, promoted by
+  SBC CEGRAPI
+- Proceedings in IEEE Xplore, also archived in the SIBGRAPI Digital Library Archive and SBC OpenLib (SOL)
+- Main track papers up to 6 pages, double-blind review by at least three reviewers, with rebuttal and revision rounds
+- Held in Brazil every year (Manaus 2024, Salvador 2025); co-located with SBGames and SVR in 2025
+- Separate tracks for journal papers (C&G, GRSL), tutorials, theses, undergraduate work, works in progress and
+  industry applications
+editions:
+- year: 2024
+  start: 2024-09-30
+  end: 2024-10-03
+  location: Manaus, Brazil
+  url: https://sibgrapi.sbc.org.br/2024/
+- year: 2025
+  start: 2025-09-30
+  end: 2025-10-03
+  location: Salvador, Brazil
+  url: https://sibgrapi.sbc.org.br/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    label: Main track
+  - kind: notification
+    date: 2025-08-18
+    label: Conditional acceptance
+  - kind: other
+    date: 2025-08-31
+    label: Revised paper submission
+  - kind: notification
+    date: 2025-09-07
+    label: Final decision
+  - kind: camera_ready
+    date: 2025-09-14
+sources:
+- https://sibgrapi.sbc.org.br/
+- https://sibgrapi.sbc.org.br/2026/
+- https://sibgrapi.sbc.org.br/2025/
+- https://sibgrapi.sbc.org.br/2025/index.php/main-track/
+- https://sibgrapi.sbc.org.br/2025/index.php/cfp/
+- https://sibgrapi.sbc.org.br/2025/index.php/venue/
+- https://sibgrapi.sbc.org.br/2024/
+- https://portal.core.edu.au/conf-ranks/?search=SIBGRAPI&by=all&source=ICORE2026
+unverified:
+- SIBGRAPI 2026 dates, location and deadlines (the 2026 page did not render any content when checked)
+- Not listed in CORE ICORE2026 (no rank)
+- The 2025 CFP page listed an earlier schedule (submission 2025-06-23); the main track page shows 2025-06-30
+last_verified: 2026-10-11

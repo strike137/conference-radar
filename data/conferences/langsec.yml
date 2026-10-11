@@ -1,0 +1,86 @@
+id: langsec
+name: LangSec
+full_name: Workshop on Language-Theoretic Security
+type: workshop
+tier: minor
+areas: [security, software]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE CS Security and Privacy Workshops (co-located with IEEE S&P); chairs Sergey Bratus (Dartmouth) and
+  Erik Poll (Radboud University)
+organizer_country: [usa]
+proceedings: IEEE Xplore (IEEE S&P Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://langsec.org/spw26/
+notes:
+- One-day workshop co-located with the IEEE Symposium on Security and Privacy in San Francisco; held since 2014
+  (12th edition in 2026)
+- Focus on treating inputs as formal languages and parsers as recognizers (parser security, protocol and file
+  format design, input-handling bugs)
+- Research papers (final version up to 10 pages, IEEE 2-column) go into the IEEE-managed workshop proceedings;
+  work-in-progress reports and panels are posted on the LangSec website only
+- Submissions need not be anonymized; shepherding is offered to authors with less academic writing experience
+- Deadlines are usually extended (preliminary CFP said 2026-01-20, final deadline 2026-02-13)
+- Also runs the LangSec Bug of the Year Awards
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-05-15
+  end: 2025-05-15
+  location: San Francisco, USA
+  url: http://langsec.org/spw25/
+  deadlines:
+  - kind: submission
+    date: 2025-02-10
+    tz: AoE
+    label: Research papers (extended)
+  - kind: submission
+    date: 2025-02-20
+    tz: AoE
+    label: Work-in-progress reports and panels
+  - kind: notification
+    date: 2025-03-15
+    label: Window March 10 to 15 (extended)
+  - kind: camera_ready
+    date: 2025-04-18
+    label: Hard deadline by IEEE
+- year: 2026
+  start: 2026-05-21
+  end: 2026-05-21
+  location: San Francisco, USA
+  url: https://langsec.org/spw26/
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    tz: AoE
+    label: Research papers (extended from 2026-01-20)
+  - kind: submission
+    date: 2026-02-20
+    tz: AoE
+    label: Work-in-progress reports and panels (extended from 2026-01-30)
+  - kind: notification
+    date: 2026-03-08
+    label: Window March 5 to 8
+sources:
+- https://langsec.org/spw26/
+- http://langsec.org/spw26/important-dates.html
+- http://langsec.org/spw26/cfp.pdf
+- https://web.archive.org/web/20260902182905/https://langsec.org/spw26/
+- http://langsec.org/spw25/important-dates.html
+- http://langsec.org/spw25/cfp.pdf
+- https://sp2026.ieee-security.org/workshops.html
+- https://sp2025.ieee-security.org/workshops.html
+- https://sp2026.ieee-security.org/cfworkshops.html
+- https://portal.core.edu.au/conf-ranks/?search=LangSec&by=all&source=ICORE2026
+unverified:
+- The 2026 CFP does not restate the proceedings; IEEE workshop proceedings taken from the 2025 CFP
+- 2026 camera-ready date (site says official date TBD, expected early April 2026)
+- LangSec 2027 not announced (the SP 2027 workshops page still shows the 2026 list as of 2026-10-11)
+- https://langsec.org returned HTTP 503 / TLS errors over HTTPS on 2026-10-11; pages were read over HTTP and from the
+  Wayback Machine
+last_verified: 2026-10-11

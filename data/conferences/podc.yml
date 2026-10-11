@@ -1,0 +1,67 @@
+id: podc
+name: PODC
+full_name: ACM Symposium on Principles of Distributed Computing
+type: conference
+tier: top
+areas: [systems, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGACT and ACM SIGOPS
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A*
+  ccf: B
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://www.podc.org/
+  dblp: https://dblp.org/db/conf/podc/index.html
+notes:
+- Sponsored by ACM SIGACT and ACM SIGOPS; the leading venue for the theory of distributed computing
+- Proceedings published by ACM (ACM DL), fully open access from 2026; authors outside ACM Open pay an APC
+- Regular papers (first 10 pages carry the evaluation) and brief announcements (up to 5 pages)
+- Lightweight double-blind review; papers are expected to be presented in person (limited exceptions)
+- Selected papers invited to a special issue of Distributed Computing; up to two may be considered for JACM
+- Rotates between North America and Europe with occasional other hosts (Huatulco, Mexico 2025; Egham, UK 2026;
+  Reykjavik, Iceland 2027)
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-10
+  location: Egham, UK (Royal Holloway, University of London)
+  url: https://www.podc.org/podc2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-11
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-02-16
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-29
+  - kind: camera_ready
+    date: 2026-05-20
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-25
+  location: Reykjavik, Iceland (Reykjavik University)
+  url: https://www.podc.org/podc2027/
+sources:
+- https://www.podc.org/
+- https://www.podc.org/podc2026/
+- https://www.podc.org/podc2026/call-for-papers
+- https://www.podc.org/podc2027/
+- https://www.podc.org/podc2027/call-for-papers
+- https://www.podc.org/podc2025/
+- https://portal.core.edu.au/conf-ranks/?search=PODC&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- PODC 2027 deadlines not yet announced (call for papers page is a placeholder as of 2026-10-11)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

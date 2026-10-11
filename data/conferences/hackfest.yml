@@ -1,0 +1,62 @@
+id: hackfest
+name: Hackfest
+full_name: Hackfest (Quebec City hacking conference)
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: mixed
+frequency: annual
+organizer: Hackfest Communication (non-profit)
+organizer_country: [canada]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [6, 8]
+  conference_months: [10]
+links:
+  website: https://hackfest.ca/
+notes:
+- Bilingual (French and English) hacking and cybersecurity conference in Quebec City, billed as the largest in Canada
+  with over 1,700 attendees
+- Run by the non-profit Hackfest Communication (incorporated 2009), which also runs iHack and QuebecSec
+- Held at the Quebec City Convention Centre; talks and workshops of 20 or 50 minutes, CTFs, villages and trainings
+- Two CFP rounds on pretalx (May to June and July to August); talks are recorded on YouTube, no proceedings
+editions:
+- year: 2025
+  start: 2025-10-16
+  end: 2025-10-18
+  location: Quebec City Convention Centre, Quebec City, Canada
+  url: https://cfp.hackfest.ca/hf2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    label: CFP round one
+  - kind: submission
+    date: 2025-08-31
+    label: CFP round two
+- year: 2026
+  start: 2026-10-29
+  end: 2026-10-31
+  location: Quebec City Convention Centre, Quebec City, Canada
+  url: https://hackfest.ca/en/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    label: CFP round one
+  - kind: submission
+    date: 2026-08-24
+    label: CFP round two
+sources:
+- https://hackfest.ca/
+- https://hackfest.ca/en/hackfest-schedule
+- https://hackfest.ca/a-propos/
+- https://hackfest.ca/historique
+- https://hackfest.ca/en/conferences
+- https://cfp.hackfest.ca/hf2026/
+- https://cfp.hackfest.ca/hf2025/
+- https://portal.core.edu.au/conf-ranks/?search=Hackfest&by=all&source=ICORE2026
+unverified:
+- CFP round end dates given without time or time zone
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

@@ -1,0 +1,58 @@
+id: chaos-congress
+name: CCC Congress
+full_name: Chaos Communication Congress
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: mixed
+frequency: annual
+organizer: Chaos Computer Club (CCC)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://events.ccc.de/
+notes:
+- Annual hacker congress of the Chaos Computer Club, held over four days between Christmas and New Year in Hamburg, Germany
+- 39C3 "Power Cycles" was held at CCH Hamburg on 27 to 30 December 2025
+- 40C3 "Model Citizens" moves from the CCH to the Messe Hamburg exhibition halls (27 to 30 December 2026)
+- Talks in English and German; no formal proceedings, recordings are published on media.ccc.de
+- Separate calls for talks, art, music and punk; the 40C3 main stage call closed on 9 October 2026
+editions:
+- year: 2025
+  start: 2025-12-27
+  end: 2025-12-30
+  location: CCH, Hamburg, Germany
+  url: https://events.ccc.de/congress/2025/
+- year: 2026
+  start: 2026-12-27
+  end: 2026-12-30
+  location: Messe Hamburg, Hamburg, Germany
+  url: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/
+  deadlines:
+  - kind: submission
+    date: 2026-10-09
+    time: "23:59"
+    tz: UTC
+    label: 40C3 main stage talks
+  - kind: notification
+    date: 2026-11-03
+    label: 40C3 main stage talks
+  - kind: other
+    date: 2026-10-10
+    label: 40C3 Call for Art
+sources:
+- https://events.ccc.de/congress/2025/
+- https://events.ccc.de/
+- https://events.ccc.de/en/2026/09/12/40c3-model-citizens/
+- https://events.ccc.de/en/2026/07/02/were-moving/
+- https://content.events.ccc.de/cfp/40c3/
+- https://portal.core.edu.au/conf-ranks/?search=Chaos%20Communication&by=all&source=ICORE2026
+unverified:
+- 39C3 call for participation deadlines not found on the official pages
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

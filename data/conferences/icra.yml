@@ -1,0 +1,84 @@
+id: icra
+name: ICRA
+full_name: IEEE International Conference on Robotics and Automation
+type: conference
+tier: top
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE RAS
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: A*
+  ccf: B
+typical:
+  deadline_months: [9]
+  conference_months: [5, 6]
+links:
+  website: https://2027.ieee-icra.org/
+  dblp: https://dblp.org/db/conf/icra/index.html
+notes:
+- Flagship conference of the IEEE Robotics and Automation Society; proceedings in IEEE Xplore
+- Very large venue covering all of robotics and automation, not only robot learning
+- Location rotates worldwide (Xi'an 2021, Philadelphia 2022, London 2023, Yokohama 2024, Atlanta 2025, Vienna 2026, Seoul 2027, Rio de Janeiro 2028)
+- 8-page limit including references; double-anonymous review via PaperPlaza with an optional accompanying video
+- Accepted IEEE RA-L papers can be transferred for presentation at ICRA
+- CORE A* and CCF B
+editions:
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-05
+  location: Vienna, Austria
+  url: https://2026.ieee-icra.org/
+- year: 2027
+  start: 2027-05-24
+  end: 2027-05-28
+  location: Seoul, South Korea
+  url: https://2027.ieee-icra.org/
+  deadlines:
+  - kind: other
+    date: 2026-09-01
+    time: "23:59"
+    tz: PDT
+    label: Workshop and tutorial pre-proposals
+  - kind: submission
+    date: 2026-09-16
+    time: "23:59"
+    tz: PST
+    label: Extended by 24 hours from 2026-09-15
+  - kind: other
+    date: 2026-09-22
+    time: "23:59"
+    tz: PST
+    label: Accompanying video
+  - kind: other
+    date: 2026-11-01
+    time: "23:59"
+    tz: PST
+    label: Workshop and tutorial full proposals
+  - kind: other
+    date: 2026-12-31
+    label: Journal paper transfer deadline
+  - kind: notification
+    date: 2027-01-31
+  - kind: camera_ready
+    date: 2027-03-06
+    time: "23:59"
+    tz: PST
+sources:
+- https://2027.ieee-icra.org/
+- https://2027.ieee-icra.org/contribute/call-for-icra-2027-papers-now-accepting-submissions/
+- https://2027.ieee-icra.org/announcements/call-for-papers-submission-deadline-extended/
+- https://2027.ieee-icra.org/announcements/call-for-papers-accompanying-video-submission-period-updated/
+- https://2026.ieee-icra.org/
+- https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+- https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive
+- https://portal.core.edu.au/conf-ranks/?search=ICRA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- The IEEE RAS page states "11:59 PM Pacific time" without PST/PDT; the zones for workshop proposals and final paper are inferred from the date
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

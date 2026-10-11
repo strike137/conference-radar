@@ -1,0 +1,52 @@
+id: imacc
+name: IMACC
+full_name: IMA International Conference on Cryptography and Coding
+type: conference
+tier: minor
+areas: [security, crypto]
+region: europe
+language: english
+frequency: biennial
+organizer: IMA (Institute of Mathematics and its Applications)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+fee: 350 GBP IMA member, 450 GBP non-member, 250 / 280 GBP student member / non-member (2026, lunches included;
+  conference dinner 55 GBP)
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://ima.org.uk/28271/20th-ima-international-conference-on-cryptography-and-coding/
+  dblp: https://dblp.org/db/conf/ima/index.html
+notes:
+- Long-running biennial UK cryptography conference organized by the Institute of Mathematics and its Applications
+- Proceedings in Springer LNCS; CORE C (ICORE2026)
+- Anonymous submissions up to 20 pages in LNCS format (SoK papers up to 25); at least one author must present in
+  person
+- 2026 is the 20th edition, at the Royal Agricultural University, Cirencester, UK; a call for posters runs separately
+editions:
+- year: 2026
+  start: 2026-12-15
+  end: 2026-12-16
+  location: Cirencester, UK
+  url: https://ima.org.uk/28271/20th-ima-international-conference-on-cryptography-and-coding/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+  - kind: notification
+    date: 2026-09-21
+  - kind: camera_ready
+    date: 2026-10-09
+  - kind: other
+    date: 2026-11-02
+    label: Poster abstracts
+sources:
+- https://ima.org.uk/28271/20th-ima-international-conference-on-cryptography-and-coding/
+- https://www.ieee-security.org/Calendar/cfps/cfp-CrCo2026.html
+- https://portal.core.edu.au/conf-ranks/?search=IMACC&by=all&source=ICORE2026
+unverified:
+- Details of the 19th edition (2023, London) could not be checked on an official page
+last_verified: 2026-10-11

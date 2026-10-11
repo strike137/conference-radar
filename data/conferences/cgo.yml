@@ -1,0 +1,78 @@
+id: cgo
+name: CGO
+full_name: IEEE/ACM International Symposium on Code Generation and Optimization
+type: conference
+tier: major
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN, ACM SIGMICRO and IEEE TCuARCH (technical sponsors)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [6, 9]
+  conference_months: [2, 3]
+links:
+  website: https://www.cgo.org/
+  dblp: https://dblp.org/db/conf/cgo/index.html
+notes:
+- Main venue for compilers, code generation, program optimization and runtime systems
+- Technical sponsors ACM SIGPLAN, ACM SIGMICRO and IEEE TCuARCH; proceedings in the ACM DL (ACM fully open access
+  from 2026, an APC may apply for authors outside ACM Open)
+- Co-located with HPCA, PPoPP and CC (2026 and 2027)
+- Two submission rounds (June and September); a round 1 paper can be invited to submit a revision to round 2
+- Double-blind review with a rebuttal; up to 11 pages plus references in ACM SIGPLAN format
+- Artifact evaluation is optional for research papers and mandatory for tool papers
+- Held in Las Vegas 2025, Sydney 2026 and Salt Lake City 2027
+- CORE A (ICORE2026), CCF B
+editions:
+- year: 2026
+  start: 2026-01-31
+  end: 2026-02-04
+  location: Sydney, Australia
+  url: https://2026.cgo.org/
+- year: 2027
+  start: 2027-03-20
+  end: 2027-03-24
+  location: Salt Lake City, Utah, USA
+  url: https://2027.cgo.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-11
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2026-08-03
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2026-09-10
+    tz: AoE
+    label: Round 2
+  - kind: other
+    date: 2026-09-24
+    tz: AoE
+    label: Invited round 1 revisions
+  - kind: notification
+    date: 2026-11-09
+    tz: AoE
+    label: Round 2 (CFP text says 2026-11-02)
+sources:
+- https://2027.cgo.org/
+- https://2027.cgo.org/track/cgo-2027-papers
+- https://2026.cgo.org/
+- https://2025.cgo.org/
+- https://2024.cgo.org/
+- https://portal.core.edu.au/conf-ranks/?search=CGO&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CGO 2027 round 2 rebuttal and notification dates differ between the CFP text (Oct 20-22, Nov 2) and the dates
+  table (Oct 27-29, Nov 9); the table is used
+- CGO 2027 venue and camera-ready deadline not yet announced
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

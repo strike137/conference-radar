@@ -1,0 +1,75 @@
+id: apemc
+name: APEMC
+full_name: Asia-Pacific International Symposium on Electromagnetic Compatibility
+type: conference
+tier: minor
+areas: [communications]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: APEMC Steering Committee (local host society per edition; IEEE EMC Society technical sponsor)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [5]
+links:
+  website: https://www.apemc2027.org/
+notes:
+- Asia-Pacific symposium on electromagnetic compatibility (EMC), signal and power integrity, EMC for wireless and
+  power systems, computational electromagnetics and EMF safety
+- Started in Singapore in 2008 and rotates between Asia-Pacific countries (Kuala Lumpur 2026, organized by the IEEE
+  EMC Society Singapore Chapter; Jeju 2027, organized by KIEES)
+- IEEE EMC Society is a technical sponsor; large industry exhibition alongside the technical program
+- "Two formats: 3-4 page full papers go to the proceedings and IEEE Xplore; 1-page abstracts appear in the
+  conference proceedings only"
+- Submission via EDAS; best student paper and best symposium paper awards
+editions:
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-07
+  location: Kuala Lumpur, Malaysia (KLCC)
+  url: https://www.apemc2026.org/
+  deadlines:
+  - kind: submission
+    date: 2025-12-05
+    time: "23:59"
+    tz: UTC+8
+  - kind: notification
+    date: 2026-01-31
+  - kind: camera_ready
+    date: 2026-02-28
+    tz: UTC+8
+    label: Final paper and author registration
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-20
+  location: Jeju Island, Korea (Grand Hyatt Jeju)
+  url: https://www.apemc2027.org/
+  deadlines:
+  - kind: other
+    date: 2026-10-16
+    label: Special session and workshop/tutorial proposals
+  - kind: submission
+    date: 2026-11-30
+    time: "23:59"
+    tz: KST
+  - kind: notification
+    date: 2027-02-01
+  - kind: camera_ready
+    date: 2027-02-16
+    label: Final manuscript
+sources:
+- https://www.apemc2026.org/
+- https://www.apemc2026.org/PaperSubmission.html
+- https://www.apemc2026.org/WelcomeMessage.html
+- https://www.apemc2026.org/CFPapers.html
+- https://www.apemc2027.org/
+- https://apemc2027.org/call-for-papers/
+- https://apemc2027.org/paper-submission/
+- https://portal.core.edu.au/conf-ranks/?search=APEMC&by=all&source=ICORE2026
+unverified:
+- Not listed in the CORE ICORE2026 portal; acceptance rate and fees not checked
+- List of host cities for 2020 to 2025 not confirmed from an official page (apemc.org was unreachable)
+last_verified: 2026-10-11

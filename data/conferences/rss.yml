@@ -1,0 +1,84 @@
+id: rss
+name: RSS
+full_name: 'Robotics: Science and Systems'
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: RSS Foundation
+organizer_country: [international]
+proceedings: RSS Proceedings (roboticsproceedings.org, open access, ISSN 2330-765X)
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [6, 7]
+links:
+  website: https://roboticsconference.org/
+  dblp: https://dblp.org/db/conf/rss/
+notes:
+- Single-track robotics conference run by the RSS Foundation since 2005; widely regarded as one of the top robotics venues alongside ICRA and IROS
+- Proceedings published online at roboticsproceedings.org (MIT Press for the 2005-2012 volumes)
+- Location rotates worldwide (2022 New York, 2023 Daegu, 2024 Delft, 2025 Los Angeles, 2026 Sydney, 2027 Athens)
+- RSS 2027 uses a new two-stage review; a 6-page extended abstract first, then an 8-page full paper that follows an agreed extension charter
+- Not listed in the CORE ICORE2026 portal; the ccfddl mirror of the CCF list marks it as not in CCF
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-17
+  location: Sydney, Australia
+  url: https://roboticsconference.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-23
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-01-30
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-27
+  - kind: camera_ready
+    date: 2026-05-11
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-07-06
+  end: 2027-07-11
+  location: Athens, Greece
+  url: https://roboticsconference.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-04
+    time: "23:59"
+    tz: AoE
+    label: Stage 1 extended abstract (6 pages)
+  - kind: other
+    date: 2027-02-12
+    time: "23:59"
+    tz: AoE
+    label: Rebuttal
+  - kind: submission
+    date: 2027-04-16
+    time: "23:59"
+    tz: AoE
+    label: Stage 2 final paper
+  - kind: notification
+    date: 2027-04-30
+  - kind: camera_ready
+    date: 2027-05-14
+    time: "23:59"
+    tz: AoE
+sources:
+- https://roboticsconference.org/
+- https://roboticsconference.org/information/cfp/
+- https://roboticsconference.org/committees/organizers/
+- https://roboticsconference.org/2026/
+- https://www.roboticsproceedings.org/
+- https://portal.core.edu.au/conf-ranks/?search=RSS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines
+unverified:
+- RSS 2027 venue in Athens not yet confirmed on the official site
+last_verified: 2026-10-11

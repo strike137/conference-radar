@@ -1,0 +1,80 @@
+id: iccc
+name: ICCC
+full_name: International Conference on Computational Creativity
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Association for Computational Creativity (ACC)
+organizer_country: [international]
+proceedings: ACC open-access proceedings (ISBN, ISSN 3051-6706)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://computationalcreativity.net/
+notes:
+- Organized by the Association for Computational Creativity since 2010; the main venue of the computational
+  creativity community
+- Not the IEEE ICCC communications conferences (see iccc-cn and iccc-chengdu)
+- Open-access proceedings published by the ACC with an ISBN (ICCC'26 -> ISBN 978-989-54160-8-0)
+- Full papers up to 8 pages plus 2 pages of references, double-blind review; separate short paper call about
+  two months later; an author must present live for the paper to be in the proceedings
+- Location changes every year (Campinas 2025, Coimbra 2026); the ACC asked for proposals outside Europe for 2027
+- CORE C (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-06-23
+  end: 2025-06-27
+  location: Campinas, Brazil
+  url: https://computationalcreativity.net/iccc25/
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  location: Coimbra, Portugal
+  url: https://computationalcreativity.net/iccc26/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-01
+    time: "23:59"
+    tz: AoE
+    label: Full papers (moved from 2026-02-27)
+  - kind: submission
+    date: 2026-03-08
+    time: "23:59"
+    tz: AoE
+    label: Full papers (moved from 2026-03-06)
+  - kind: other
+    date: 2026-03-14
+    label: Workshop and tutorial proposals
+  - kind: notification
+    date: 2026-04-20
+    label: Full papers
+  - kind: submission
+    date: 2026-04-27
+    label: Short papers (moved from 2026-04-24)
+  - kind: notification
+    date: 2026-05-12
+    label: Short papers (moved from 2026-05-11)
+  - kind: camera_ready
+    date: 2026-05-27
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+sources:
+- https://computationalcreativity.net/
+- https://computationalcreativity.net/iccc26/
+- https://computationalcreativity.net/iccc26/full-papers/
+- https://computationalcreativity.net/iccc26/proceedings/
+- https://computationalcreativity.net/iccc25/
+- https://portal.core.edu.au/conf-ranks/?search=ICCC&by=all&source=ICORE2026
+unverified:
+- ICCC'27 dates and location not announced on the official site as of 2026-10-11
+- The ICCC'26 pages list two dates for some deadlines without saying which is the extension; the later date is
+  recorded
+last_verified: 2026-10-11

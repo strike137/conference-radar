@@ -1,0 +1,55 @@
+id: hci-korea
+name: HCI Korea
+full_name: HCI Korea Conference (HCI Society of Korea annual conference)
+name_local: HCI KOREA 학술대회
+type: conference
+tier: domestic
+areas: [general, ai]
+region: korea
+language: korean
+frequency: annual
+organizer: HCI Society of Korea (한국HCI학회)
+organizer_country: [korea]
+proceedings: HCI KOREA proceedings (PDF on the conference website)
+typical:
+  deadline_months: [11]
+  conference_months: [1]
+links:
+  website: https://conference.hcikorea.org/
+notes:
+- Annual national conference of the HCI Society of Korea, covering HCI, UX and AI-based interaction
+- Held in late January at Sono Belle Vivaldi Park in Hongcheon, Gangwon (2026 and 2027)
+- Papers reviewed; the 2026 proceedings are a PDF download on the conference website
+editions:
+- year: 2026
+  start: 2026-01-26
+  end: 2026-01-28
+  location: Sono Belle Vivaldi Park Convention Center, Hongcheon, Korea
+  url: https://conference.hcikorea.org/hcik2026/main/main.asp
+  deadlines:
+  - kind: submission
+    date: 2025-12-01
+    label: Papers (extended from 2025-11-24)
+  - kind: notification
+    date: 2025-12-24
+    label: Postponed from 2025-12-15
+  - kind: camera_ready
+    date: 2026-01-05
+    label: Final papers (extended from 2025-12-31)
+- year: 2027
+  start: 2027-01-27
+  end: 2027-01-29
+  location: Sono Belle Vivaldi Park Convention Center, Hongcheon, Korea
+  url: https://hcikorea.org/board/maininfo/article/284491
+sources:
+- https://conference.hcikorea.org/
+- https://conference.hcikorea.org/hcik2026/main/main.asp
+- https://conference.hcikorea.org/hcik2026/summary/location.asp
+- https://www.hcikorea.org/
+- https://hcikorea.org/board/maininfo/article/284491
+- https://hcikorea.org/board/maininfo/article/271911
+- https://portal.core.edu.au/conf-ranks/?search=HCI+Korea&by=all&source=ICORE2026
+unverified:
+- Archival status and acceptance rate (the 2026 site mentions paper review results but not how the proceedings count)
+- HCI KOREA 2027 submission deadlines not yet announced (the society notice of 2026-09-01 gives only dates and venue)
+last_verified: 2026-10-11

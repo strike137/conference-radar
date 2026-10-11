@@ -1,0 +1,65 @@
+id: ieecon
+name: iEECON
+full_name: International Electrical Engineering Congress
+type: conference
+tier: minor
+areas: [communications, general]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Electrical Engineering Academic Association (Thailand) (EEAAT), with a host university department each year; technical sponsor IEEE Thailand Section
+organizer_country: [thailand]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 12]
+  conference_months: [3]
+links:
+  website: https://www.ieecon.org/
+notes:
+- Run by the Electrical Engineering Academic Association (Thailand) together with a Thai university department that
+  changes every year; IEEE Thailand Section is listed as technical sponsor
+- Held annually in Thailand since 2013; 14th edition in Pattaya (2026), 15th in Rayong (2027)
+- Broad electrical engineering scope (power and energy, electronics and control, signal processing, communications,
+  computer and IT, industrial technology)
+- Double-blind review by three reviewers; full papers up to 6 pages in IEEE format; presented papers are submitted to
+  IEEE Xplore
+- Submission deadlines are usually extended
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-03-04
+  end: 2026-03-06
+  location: Pattaya, Thailand
+  url: https://www.ieecon.org/ieecon2026/
+  deadlines:
+  - kind: submission
+    date: 2025-12-31
+    label: Full papers (final extension, from 2025-12-15)
+  - kind: notification
+    date: 2026-01-15
+  - kind: camera_ready
+    date: 2026-01-31
+- year: 2027
+  start: 2027-03-03
+  end: 2027-03-05
+  location: Classic Kameo Hotel, Rayong, Thailand
+  url: https://www.ieecon.org/ieecon2027/
+  deadlines:
+  - kind: submission
+    date: 2026-10-23
+    label: Full papers (extended)
+  - kind: notification
+    date: 2027-01-15
+    label: Notification between 2027-01-01 and 2027-01-15
+  - kind: camera_ready
+    date: 2027-01-31
+sources:
+- https://www.ieecon.org/
+- https://www.ieecon.org/ieecon2026/
+- https://www.ieecon.org/ieecon2027/
+- https://portal.core.edu.au/conf-ranks/?search=iEECON&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) 2027 submission deadline
+- Locations of editions before 2026
+last_verified: 2026-10-11

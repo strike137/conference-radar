@@ -1,0 +1,69 @@
+id: sisap
+name: SISAP
+full_name: International Conference on Similarity Search and Applications
+type: conference
+tier: major
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: SISAP Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10]
+links:
+  website: https://www.sisap.org/
+  dblp: https://dblp.org/db/conf/sisap/index.html
+notes:
+- Small specialist conference on similarity search, metric indexing and vector search; proceedings in Springer LNCS
+- "Paper types: full papers up to 14 pages and short papers up to 8 pages; double-blind review for regular papers"
+- Runs the SISAP Indexing Challenge, plus demos, special sessions and a doctoral symposium
+- Selected best papers are invited to a special issue of Elsevier Information Systems
+- Mostly held in Europe (Dortmund 2021, Bologna 2022, A Coruna 2023, Reykjavik 2025, Brno 2026), Providence USA in 2024
+- CORE B (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-10-01
+  end: 2025-10-03
+  location: Reykjavik, Iceland
+  url: https://www.sisap.org/2025/
+- year: 2026
+  start: 2026-10-14
+  end: 2026-10-16
+  location: Brno, Czech Republic
+  url: https://www.sisap.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-12
+    tz: AoE
+    label: Regular and special session papers (extended)
+  - kind: submission
+    date: 2026-06-12
+    tz: AoE
+    label: Regular and special session papers (extended)
+  - kind: submission
+    date: 2026-06-17
+    tz: AoE
+    label: Demonstration and doctoral symposium papers
+  - kind: notification
+    date: 2026-07-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-13
+    tz: AoE
+sources:
+- https://www.sisap.org/
+- https://www.sisap.org/2026/
+- https://www.sisap.org/2026/importantdates.html
+- https://www.sisap.org/2026/callforpapers.html
+- https://www.sisap.org/2026/organization.html
+- https://www.sisap.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=SISAP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- SISAP 2027 dates and location not yet announced
+last_verified: 2026-10-11

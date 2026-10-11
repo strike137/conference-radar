@@ -1,0 +1,49 @@
+id: watch
+name: WATCH
+full_name: International Workshop on Analytics, Telemetry, and Cybersecurity for HPCC
+type: workshop
+tier: minor
+areas: [security, systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizing committee Massimo Cafaro (University of Salento), Eric Chan-Tin (Loyola University Chicago),
+  Jerry Chou (National Tsing Hua University) and Jinoh Kim (East Texas A&M University)
+organizer_country: [usa, europe, taiwan]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://watch-miniconf.github.io/
+notes:
+- Co-located with ACM CCS; 2026 is the 2nd edition, a pre-conference workshop at CCS 2026 in The Hague
+- HPCC stands for high-performance computing and communications; topics are telemetry, analytics and security for
+  HPC systems
+- Accepted papers appear in the workshop proceedings in the ACM Digital Library
+- 2026 submission deadline was extended from 2026-07-17 to 2026-08-28
+editions:
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: The Hague, Netherlands
+  url: https://watch-miniconf.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-28
+    tz: AoE
+    label: Paper submission (extended from 2026-07-17)
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-11
+sources:
+- https://watch-miniconf.github.io/
+- https://www.sigsac.org/ccs/CCS2026/
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=WATCH&by=all&source=ICORE2026
+unverified:
+- First edition at ACM CCS 2025 (date and details) not found on an official page
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-11

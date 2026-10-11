@@ -1,0 +1,98 @@
+id: ssdbm
+name: SSDBM
+full_name: International Conference on Scalable Scientific Data Management
+type: conference
+tier: major
+areas: [data]
+region: worldwide
+language: english
+frequency: annual
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [3, 5]
+  conference_months: [6, 7, 8]
+links:
+  website: https://ssdbm.org/
+  dblp: https://dblp.org/db/conf/ssdbm/index.html
+notes:
+- Formerly the International Conference on Scientific and Statistical Database Management; renamed Scalable Scientific
+  Data Management with an expanded scope from 2025
+- Long-running series since 1981; site maintained by the Scientific Data Management Group at LBNL
+- 2025 proceedings in the ACM Digital Library; papers use the ACM sigconf template
+- Regular papers up to 12 pages and short or demo papers up to 6 pages, both in the proceedings; posters only on the
+  website
+- Mostly held in the USA with some editions in Europe; Singapore in 2027
+- CORE B (ICORE2026), CCF C
+editions:
+- year: 2025
+  start: 2025-06-23
+  end: 2025-06-25
+  location: Columbus, Ohio, USA
+  url: https://ssdbm.org/2025/
+- year: 2026
+  start: 2026-08-12
+  end: 2026-08-13
+  location: San Diego, California, USA
+  url: https://ssdbm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-10
+    tz: AoE
+  - kind: submission
+    date: 2026-05-10
+    tz: AoE
+    label: Regular, short and demo papers
+  - kind: notification
+    date: 2026-06-14
+  - kind: camera_ready
+    date: 2026-07-07
+    tz: AoE
+  - kind: other
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+    label: Poster submission
+- year: 2027
+  start: 2027-07-19
+  end: 2027-07-21
+  location: Singapore
+  url: https://ssdbm.org/2027/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2027-03-15
+    time: "23:59"
+    tz: AoE
+    label: Main track, short and demo papers (tentative)
+  - kind: notification
+    date: 2027-04-19
+    label: Papers (tentative)
+  - kind: other
+    date: 2027-04-26
+    time: "23:59"
+    tz: AoE
+    label: Poster submission (tentative)
+  - kind: notification
+    date: 2027-05-17
+    label: Posters (tentative)
+sources:
+- https://ssdbm.org/
+- https://ssdbm.org/2025/
+- https://ssdbm.org/2026/
+- https://ssdbm.org/2026/callpaper
+- https://ssdbm.org/2026/callshortpaper
+- https://ssdbm.org/2027/
+- https://dl.acm.org/doi/proceedings/10.1145/3733723
+- https://portal.core.edu.au/conf-ranks/?search=SSDBM&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Publisher of the 2026 proceedings (2026 call says only "conference proceedings"; 2025 was ACM DL)
+- SSDBM 2027 deadlines are marked tentative on the official site; conference dates themselves are not marked tentative
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF (listed under the old full name), not on ccf.org.cn
+  directly
+last_verified: 2026-10-11

@@ -1,0 +1,67 @@
+id: isscc
+name: ISSCC
+full_name: IEEE International Solid-State Circuits Conference
+type: conference
+tier: top
+areas: [general, communications]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Solid-State Circuits Society (SSCS)
+organizer_country: [international]
+proceedings: IEEE ISSCC Digest of Technical Papers
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [2]
+links:
+  website: https://www.isscc.org/
+  dblp: https://dblp.org/db/conf/isscc/index.html
+notes:
+- Flagship conference of the IEEE Solid-State Circuits Society, in its 74th year in 2027; over 2500 participants expected
+- Held every February in San Francisco (2027 at the San Francisco Marriott Marquis)
+- Covers integrated circuit and SoC design (analog, data converters, digital, memory, wireless, wireline, imagers, power and more); papers need measured silicon results
+- Submission is an abstract plus a draft manuscript for the Digest of Technical Papers (5 single-column pages of text plus up to 2 pages of figures); double-blind review; deadline 3:00 PM EDT
+- Papers are accepted as regular or short presentations; strong papers are invited to a JSSC special issue
+- Late Breaking News track for production-grade industry papers (intent by October, manuscript by December, at most four papers)
+- Not ranked by CORE or CCF, whose lists cover computing venues; regarded as the most prestigious chip design conference
+editions:
+- year: 2026
+  start: 2026-02-15
+  end: 2026-02-19
+- year: 2027
+  start: 2027-02-14
+  end: 2027-02-18
+  location: San Francisco Marriott Marquis, San Francisco, CA, USA
+  url: https://www.isscc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-09
+    time: "15:00"
+    tz: EDT
+  - kind: other
+    date: 2026-10-07
+    label: Late Breaking News intent to submit
+  - kind: notification
+    date: 2026-10-21
+  - kind: other
+    date: 2026-10-21
+    label: Student Research Preview abstract
+  - kind: submission
+    date: 2026-12-01
+    label: Late Breaking News final manuscript
+  - kind: notification
+    date: 2026-12-09
+    label: Late Breaking News
+sources:
+- https://www.isscc.org/
+- https://www.isscc.org/call-for-papers-overview-26
+- https://www.isscc.org/paper-submission-26
+- https://submissions.mirasmart.com/ISSCC2027/PDF/ISSCC2027CFP.pdf
+- https://www.isscc.org/late-breaking-news-1
+- https://www.isscc.org/future-conferences
+- https://portal.core.edu.au/conf-ranks/?search=ISSCC&by=all&source=ICORE2026
+unverified:
+- ISSCC 2026 location (the official future-conferences page gives only the dates)
+- Whether the Digest is also distributed through IEEE Xplore (not stated on the official pages)
+last_verified: 2026-10-11

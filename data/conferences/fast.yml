@@ -1,0 +1,79 @@
+id: fast
+name: FAST
+full_name: USENIX Conference on File and Storage Technologies
+type: conference
+tier: major
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: USENIX Association
+organizer_country: [usa]
+proceedings: USENIX proceedings (open access)
+archival: true
+rank:
+  core: A
+  ccf: A
+typical:
+  deadline_months: [3, 9]
+  conference_months: [2]
+links:
+  website: https://www.usenix.org/conference/fast27
+  dblp: https://dblp.org/db/conf/fast/index.html
+notes:
+- Leading venue for file systems and storage research, run by USENIX
+- Proceedings and slides are free and open to the public from the first day of the conference
+- Two submission cycles (spring in March, fall in September) with an author response period; early rejections
+  are notified before the response period
+- Double-blind review; long papers up to 12 pages and short papers up to 6 pages, plus references; deployed-systems
+  papers welcome
+- Held in Santa Clara, CA in 2026 and in Renton, WA in 2027
+- CORE A (ICORE2026), CCF A
+editions:
+- year: 2026
+  start: 2026-02-24
+  end: 2026-02-26
+  location: Santa Clara, CA, USA
+  url: https://www.usenix.org/conference/fast26
+- year: 2027
+  start: 2027-02-23
+  end: 2027-02-25
+  location: Renton, WA, USA
+  url: https://www.usenix.org/conference/fast27
+  deadlines:
+  - kind: submission
+    date: 2026-03-17
+    time: "23:59"
+    tz: AoE
+    label: Spring cycle
+  - kind: notification
+    date: 2026-06-04
+    label: Spring cycle
+  - kind: camera_ready
+    date: 2026-07-28
+    time: "23:59"
+    tz: AoE
+    label: Spring cycle
+  - kind: submission
+    date: 2026-09-15
+    time: "23:59"
+    tz: AoE
+    label: Fall cycle
+  - kind: notification
+    date: 2026-12-08
+    label: Fall cycle
+  - kind: camera_ready
+    date: 2027-01-26
+    time: "23:59"
+    tz: AoE
+    label: Fall cycle
+sources:
+- https://www.usenix.org/conference/fast27
+- https://www.usenix.org/conference/fast27/call-for-papers
+- https://www.usenix.org/conference/fast26
+- https://portal.core.edu.au/conf-ranks/?search=FAST&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- Acceptance rate (not stated on the official pages)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-11

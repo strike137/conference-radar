@@ -1,0 +1,65 @@
+id: ssdm
+name: SSDM
+full_name: International Conference on Solid State Devices and Materials
+type: conference
+tier: minor
+areas: [general]
+region: japan
+language: english
+frequency: annual
+organizer: SSDM Organizing Committee, sponsored by the Japan Society of Applied Physics (JSAP)
+organizer_country: [japan]
+proceedings: SSDM Extended Abstracts (2-page abstracts with DOIs, open access archive about two years later); selected
+  papers in a JJAP Focus Collection (IOP Publishing)
+archival: true
+typical:
+  deadline_months: [5, 7]
+  conference_months: [9]
+links:
+  website: https://www.ssdm.jp/
+notes:
+- Sponsored by the Japan Society of Applied Physics; 58th edition in 2026, one of the long-running device and materials
+  conferences in Japan
+- Covers advanced CMOS, memories, 3D integration, power devices, photonics, quantum and spintronic devices and circuits
+  interacting with devices (12 areas)
+- Submissions are 2-page A4 abstracts in English; accepted abstracts appear in the Extended Abstracts and get DOIs
+  after the conference
+- Presenters can submit a full paper to a JJAP Focus Collection on the conference, reviewed to JJAP standards with a
+  publication charge
+- Separate late news paper deadline in July; all presentations must be given in person
+- Held every September in a different Japanese city (Nagoya 2023, Himeji 2024, Yokohama 2025, Nagasaki 2026, Osaka
+  2027)
+editions:
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-17
+  location: Dejima Messe Nagasaki, Nagasaki, Japan
+  url: https://www.ssdm.jp/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    time: "23:59"
+    tz: PDT
+    label: Regular papers (extended from 2026-05-17)
+  - kind: submission
+    date: 2026-07-12
+    time: "23:59"
+    tz: PDT
+    label: Late news papers
+- year: 2027
+  start: 2027-09-07
+  end: 2027-09-10
+  location: Grand Cube Osaka, Osaka, Japan
+  url: https://www.ssdm.jp/docs/SSDM2027_Call-for-Papers.pdf
+sources:
+- https://www.ssdm.jp/
+- https://www.ssdm.jp/regularpapersubmission.html
+- https://www.ssdm.jp/focuscollection.html
+- https://www.ssdm.jp/publications.html
+- https://www.ssdm.jp/previous_conf.html
+- https://www.ssdm.jp/docs/SSDM2027_Call-for-Papers.pdf
+- https://portal.core.edu.au/conf-ranks/?search=SSDM&by=all&source=ICORE2026
+unverified:
+- SSDM 2027 deadlines not yet announced (the 2027 call for papers flyer gives only dates and venue)
+- Not listed in the CORE portal (ICORE2026); acceptance rate not published
+last_verified: 2026-10-11

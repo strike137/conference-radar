@@ -1,0 +1,46 @@
+id: sas
+name: SAS
+full_name: Kaspersky Security Analyst Summit
+type: industry
+tier: minor
+areas: [security]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Kaspersky (AO Kaspersky Lab)
+organizer_country: [other]
+proceedings: None
+archival: false
+fee: 2000 USD ticket (2026; 1400 USD alumni price until Sep 15); accepted speakers get flight and accommodation covered
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://thesascon.com/
+notes:
+- Industry threat-research conference run by Kaspersky; invitation-only, for anti-malware researchers, law
+  enforcement, CERTs and industry
+- Talks only, no published proceedings; recordings shared afterwards when speakers agree
+- Classic 20-minute talks or Pecha-kucha (20 slides x 20 seconds); politically motivated or marketing talks are declined
+- Speakers chosen by the program committee get economy flights and accommodation covered
+- Hosts the on-site attack/defense finals of the SAS CTF (online Jeopardy qualifier in June; 18,000 USD prize pool in 2026)
+- 2026 is the 18th edition (more than 1150 participants over 17 previous events); recent editions in Southeast Asia
+- Not the same venue as JSAC (JPCERT/CC Japan Security Analyst Conference)
+editions:
+- year: 2026
+  start: 2026-10-20
+  end: 2026-10-23
+  location: Bali, Indonesia
+  url: https://thesascon.com/
+  deadlines:
+  - kind: submission
+    date: 2026-08-01
+    label: Call for papers (topic and abstract)
+sources:
+- https://thesascon.com/
+- https://thesascon.com/static/js/main.b6a67ba8.js
+- https://ctf.thesascon.com/
+unverified:
+- 2025 edition (Khao Lak, Thailand, October 2025) could not be confirmed on the official site, which now shows only 2026
+- Region is based on recent editions reported outside the official site
+last_verified: 2026-10-11

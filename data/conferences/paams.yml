@@ -1,0 +1,60 @@
+id: paams
+name: PAAMS
+full_name: International Conference on Practical Applications of Agents and Multi-Agent Systems
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: PAAMS organizing and steering committees (University of Salamanca, University of Lille and others)
+organizer_country: [europe]
+proceedings: Springer LNAI
+archival: true
+rank:
+  core: 'National: Spain'
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6, 10]
+links:
+  website: https://www.paams.net/
+  dblp: https://dblp.org/db/conf/paams/index.html
+notes:
+- Applied agents and multi-agent systems venue; 2026 special topic is agentic AI
+- Main track and demos in Springer LNAI ("The PAAMS Collection"); workshop papers in a separate Springer volume
+- Papers up to 12 pages (demos 6), each reviewed by at least three experts; in-person presentation required
+- 2026 deadlines were extended twice (17 Apr -> 8 May -> final 22 May)
+- Selected papers invited to journal special issues (ADCAIJ, IJIMAI and others)
+- Held in Europe (Lille 2025, Naples 2026); co-located with DCAI, PACBB, ISAMI, MIS4TEL, DECON and BLOCKCHAIN
+- "CORE rank: National: Spain (ICORE2026)"
+editions:
+- year: 2025
+  start: 2025-06-25
+  end: 2025-06-27
+  location: Lille, France
+- year: 2026
+  start: 2026-10-21
+  end: 2026-10-23
+  location: Naples, Italy
+  url: https://www.paams.net/
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    label: Main track and workshops (extended from 2026-04-17 and 2026-05-08)
+  - kind: submission
+    date: 2026-05-29
+    label: Demonstrations (extended from 2026-04-24 and 2026-05-15)
+  - kind: notification
+    date: 2026-06-26
+    label: Final notification (first on 2026-06-19)
+  - kind: camera_ready
+    date: 2026-07-15
+sources:
+- https://www.paams.net/
+- https://www.paams.net/tracks/main-track
+- https://www.paams.net/submission
+- https://portal.core.edu.au/conf-ranks/?search=PAAMS&by=all&source=ICORE2026
+unverified:
+- PAAMS 2027 dates and location not yet announced as of 2026-10-11
+- Earlier editions (before 2025) locations not checked on an official page
+last_verified: 2026-10-11

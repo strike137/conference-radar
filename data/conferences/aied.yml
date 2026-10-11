@@ -1,0 +1,83 @@
+id: aied
+name: AIED
+full_name: International Conference on Artificial Intelligence in Education
+type: conference
+tier: major
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: International Artificial Intelligence in Education Society (IAIED)
+organizer_country: [international]
+proceedings: Springer LNAI
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7]
+links:
+  website: https://iaied.org/
+  dblp: https://dblp.org/db/conf/aied/index.html
+notes:
+- Flagship conference of the International AIED Society, which also runs the International Journal of AI in Education (IJAIED)
+- Main proceedings in Springer LNAI (six volumes in 2026); late breaking results, WideAIED, industry, Blue Sky and doctoral consortium papers in Springer CCIS
+- CORE A (ICORE2026)
+- Three main tracks (technical, human and societal aspects of AIED) with an abstract deadline one week before the paper deadline
+- 2026 edition held in Seoul at COEX as part of the Festival of Learning with EDM and ACM Learning at Scale; workshops on 27-28 June
+- Location rotates worldwide
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  location: Seoul, Korea (COEX)
+  url: https://aied-conference.org/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-01-26
+    time: "23:59"
+    tz: AoE
+    label: Main track full and short papers
+  - kind: submission
+    date: 2026-02-02
+    time: "23:59"
+    tz: AoE
+    label: Main track full and short papers
+  - kind: other
+    date: 2026-02-15
+    time: "23:59"
+    tz: AoE
+    label: Practitioners, Industry and Policy track
+  - kind: other
+    date: 2026-03-05
+    time: "23:59"
+    tz: AoE
+    label: Blue Sky papers
+  - kind: notification
+    date: 2026-03-23
+    label: Main track
+  - kind: other
+    date: 2026-03-27
+    time: "23:59"
+    tz: AoE
+    label: Late breaking results (posters)
+  - kind: camera_ready
+    date: 2026-03-30
+    time: "23:59"
+    tz: AoE
+    label: Main track
+sources:
+- https://aied-conference.org/2026
+- https://aied-conference.org/2026/call-for-paper
+- https://aied-conference.org/2026/call-for-paper/important-dates
+- https://aied-conference.org/2026/program/proceedings
+- https://aied-conference.org/2026/organisation/about
+- https://festival-of-learning-2026.info/participating-conferences/
+- https://festival-of-learning-2026.info/venue/
+- https://educationaldatamining.org/edm2027/
+- https://portal.core.edu.au/conf-ranks/?search=AIED&by=all&source=ICORE2026
+unverified:
+- AIED 2027 dates and deadlines; the EDM 2027 site says the 2027 Festival of Learning with AIED is in Adelaide, Australia, but no AIED 2027 site was found
+- Acceptance rate
+- AIED 2025 (Palermo) details not checked on an official AIED page (2025 site unreachable)
+last_verified: 2026-10-11

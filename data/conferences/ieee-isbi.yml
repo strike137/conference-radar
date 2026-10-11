@@ -1,0 +1,99 @@
+id: ieee-isbi
+name: IEEE ISBI
+full_name: IEEE International Symposium on Biomedical Imaging
+type: conference
+tier: major
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE SPS and IEEE EMBS
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://biomedicalimaging.org/2027/
+  dblp: https://dblp.org/db/conf/isbi/index.html
+notes:
+- Joint initiative of the IEEE Signal Processing Society (SPS) and the IEEE Engineering in Medicine and Biology
+  Society (EMBS)
+- Accepted 4-page papers are published in IEEE Xplore; 1-page abstracts are poster only and not published
+- Submission through EDAS; deadlines at 11:59pm US time (CDT, i.e. UTC-5, in 2026; EDT in 2027)
+- 'Held worldwide: Nice 2021, Kolkata 2022, Cartagena 2023, Athens 2024, Houston 2025, London 2026, Lausanne 2027'
+- Also hosts challenges, workshops, tutorials and special sessions
+- Not listed in CORE ICORE2026; regarded as the main IEEE venue for biomedical image analysis
+editions:
+- year: 2026
+  start: 2026-04-08
+  end: 2026-04-11
+  location: London, UK
+  url: https://biomedicalimaging.org/2026/
+  deadlines:
+  - kind: other
+    date: 2025-09-29
+    time: "23:59"
+    tz: "UTC-5"
+    label: Special session, tutorial, workshop and demo proposals (extended)
+  - kind: submission
+    date: 2025-11-14
+    time: "23:59"
+    tz: "UTC-5"
+    label: 4-page papers (extended)
+  - kind: notification
+    date: 2026-01-12
+    label: 4-page papers (extended)
+  - kind: other
+    date: 2026-01-20
+    time: "23:59"
+    tz: "UTC-5"
+    label: 1-page abstracts (not published, extended)
+  - kind: camera_ready
+    date: 2026-01-26
+    time: "23:59"
+    tz: "UTC-5"
+    label: 4-page papers, with author registration (extended)
+- year: 2027
+  start: 2027-05-25
+  end: 2027-05-28
+  location: Lausanne, Switzerland
+  url: https://biomedicalimaging.org/2027/
+  deadlines:
+  - kind: other
+    date: 2026-09-21
+    time: "23:59"
+    tz: EDT
+    label: Tutorial, workshop, demo, special session and challenge proposals
+  - kind: submission
+    date: 2026-10-26
+    time: "23:59"
+    tz: EDT
+    label: 4-page papers
+  - kind: notification
+    date: 2027-01-12
+    label: 4-page papers
+  - kind: camera_ready
+    date: 2027-01-26
+    time: "23:59"
+    tz: EDT
+    label: 4-page papers
+  - kind: other
+    date: 2027-02-01
+    time: "23:59"
+    tz: EDT
+    label: 1-page abstracts (not published)
+  - kind: notification
+    date: 2027-02-15
+    label: 1-page abstracts
+sources:
+- https://biomedicalimaging.org/2026/
+- https://confcats-event-sessions.s3.us-east-1.amazonaws.com/isbi26/uploads/isbi26-cfp_web-05.pdf
+- https://biomedicalimaging.org/2027/
+- https://confcats-event-sessions.s3.us-east-1.amazonaws.com/isbi27/isbi27-cfp_web-03.pdf
+- https://biomedicalimaging.org/2027/past-isbis/
+- https://portal.core.edu.au/conf-ranks/?search=ISBI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CCF rank (not found in the CCF list mirrors checked)
+last_verified: 2026-10-11

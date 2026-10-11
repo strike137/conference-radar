@@ -1,0 +1,74 @@
+id: clear
+name: CLeaR
+full_name: Conference on Causal Learning and Reasoning
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: CLeaR organizing committee
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [4, 5]
+links:
+  website: https://www.cclear.cc/
+notes:
+- Annual conference dedicated to causality in machine learning and statistics, held since 2022
+- Proceedings in PMLR (2025 -> volume 275, 2026 -> volume 323 with 53 papers)
+- Location rotates between Europe and North America (Lausanne 2025, Cambridge MA 2026, Paris 2027)
+- Submissions on OpenReview, up to 12 single-column PMLR pages plus references and appendices; reviews with an author rebuttal and discussion period
+- Also runs a non-archival causal benchmark dataset track
+- Not listed in the ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  start: 2026-04-06
+  end: 2026-04-08
+  location: Cambridge, Massachusetts, USA
+  url: https://www.cclear.cc/2026
+  deadlines:
+  - kind: submission
+    date: 2025-12-22
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-03-09
+  - kind: camera_ready
+    date: 2026-04-03
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-05-03
+  end: 2027-05-05
+  location: Paris, France
+  url: https://www.cclear.cc/2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-16
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2027-01-26
+    time: "23:59"
+    tz: AoE
+    label: Author rebuttals due
+  - kind: notification
+    date: 2027-02-22
+  - kind: camera_ready
+    date: 2027-04-05
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.cclear.cc/2027/CallforPapers
+- https://www.cclear.cc/2026/CallforPapers
+- https://www.cclear.cc/static/js/main.3fbf3f03.chunk.js
+- https://proceedings.mlr.press/v323/
+- https://proceedings.mlr.press/v275/
+- https://portal.core.edu.au/conf-ranks/?search=CLeaR&by=all&source=ICORE2026
+unverified:
+- The official site is JavaScript-rendered; dates were read from the site's own page bundle
+- CLeaR 2027 dates are described as planned on the call for papers
+last_verified: 2026-10-11

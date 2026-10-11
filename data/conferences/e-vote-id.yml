@@ -1,0 +1,74 @@
+id: e-vote-id
+name: E-Vote-ID
+full_name: International Joint Conference on Electronic Voting
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: E-Vote-ID (co-organized by KIT, Kozminski University, SnT University of Luxembourg and GI)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [5, 7]
+  conference_months: [10]
+links:
+  website: https://www.e-vote-id.org/
+notes:
+- Joint successor of the EVOTE and Vote-ID conferences; 2026 was the 11th joint edition
+- Interdisciplinary e-voting venue with tracks on security/usability/technical issues, governance, election
+  practice, posters/demos and a PhD colloquium; single track, no parallel sessions
+- Selected full papers of Tracks 1 and 2 go to an open access Springer LNCS volume (acceptance below 30%); a second
+  open access volume appears in GI Lecture Notes in Informatics (LNI)
+- Double-blind review via EasyChair; full papers up to 16 pages in LNCS format including references
+- First seven joint editions held in Bregenz, Austria; since then Luxembourg (2023), Tarragona (2024), Nancy (2025),
+  Tallinn (2026)
+- Usually held in the first week of October
+- Different event from the FC Voting workshop (voting-fc)
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-10-06
+  end: 2026-10-09
+  location: Tallinn, Estonia (House of the Blackheads)
+  url: https://www.e-vote-id.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    time: "23:59"
+    tz: AoE
+    label: Tracks 1 and 2 (security/technical, governance)
+  - kind: notification
+    date: 2026-06-23
+    label: Tracks 1 and 2
+  - kind: submission
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+    label: Track 3 (election experiences) and PhD colloquium
+  - kind: camera_ready
+    date: 2026-07-23
+    label: Tracks 1 and 2
+  - kind: notification
+    date: 2026-08-14
+    label: Track 3 and PhD colloquium
+  - kind: camera_ready
+    date: 2026-09-15
+    label: Track 3 and PhD colloquium
+  - kind: other
+    date: 2026-09-15
+    label: Posters and demos submission
+sources:
+- https://www.e-vote-id.org/
+- https://www.e-vote-id.org/res/CFP_E-Vote-ID_2026v1.pdf
+- https://www.e-vote-id.org/proceedings-2026/
+- https://www.e-vote-id.org/proceedings/
+- https://www.e-vote-id.org/about/
+- https://www.e-vote-id.org/past-conferences/
+- https://portal.core.edu.au/conf-ranks/?search=E-Vote-ID&by=all&source=ICORE2026
+unverified:
+- Dates and deadlines of E-Vote-ID 2027 (not announced as of 2026-10-11)
+- Exact dates of the 2025 edition in Nancy (not shown on the official past conferences page)
+last_verified: 2026-10-11

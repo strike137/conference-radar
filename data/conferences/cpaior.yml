@@ -1,0 +1,86 @@
+id: cpaior
+name: CPAIOR
+full_name: International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations
+  Research
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: CPAIOR steering committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [12]
+  conference_months: [5, 6]
+links:
+  website: https://cpaior.org/
+  dblp: https://dblp.org/db/conf/cpaior/index.html
+notes:
+- Brings together constraint programming, AI and operations research (combinatorial optimization)
+- Proceedings in Springer LNCS; separate extended abstracts track for presentation only (not in LNCS)
+- CORE B (ICORE2026)
+- Starts with a one-day master class; reviewing on OpenReview with a rebuttal phase
+- Rotates worldwide, mostly Europe (Vienna 2021, USA 2022, Nice 2023, Uppsala 2024, Melbourne 2025 with ICAPS, Rabat
+  2026, Toulouse 2027)
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  location: Rabat, Morocco (ESSEC Business School)
+  url: https://sites.google.com/view/cpaior2026
+  deadlines:
+  - kind: abstract
+    date: 2025-12-02
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-12-07
+    tz: AoE
+  - kind: notification
+    date: 2026-02-09
+  - kind: other
+    date: 2026-03-25
+    tz: AoE
+    label: Extended abstracts (presentation only, extended)
+  - kind: notification
+    date: 2026-04-09
+    label: Extended abstracts
+- year: 2027
+  start: 2027-06-01
+  end: 2027-06-04
+  location: Toulouse, France
+  url: https://sites.google.com/view/cpaior2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-01
+    tz: AoE
+  - kind: submission
+    date: 2026-12-07
+    tz: AoE
+  - kind: notification
+    date: 2027-02-10
+  - kind: other
+    date: 2027-03-25
+    tz: AoE
+    label: Extended abstracts (presentation only)
+  - kind: notification
+    date: 2027-04-09
+    label: Extended abstracts
+sources:
+- https://sites.google.com/view/cpaior2026
+- https://sites.google.com/view/cpaior2026/call-for-papers
+- https://sites.google.com/view/cpaior2026/dates
+- https://sites.google.com/view/cpaior2026/organisation
+- https://sites.google.com/view/cpaior2027/
+- https://sites.google.com/view/cpaior2027/call-for-papers
+- https://sites.google.com/view/cpaior2027/dates
+- https://cpaior.org/
+- https://portal.core.edu.au/conf-ranks/?search=CPAIOR&by=all&source=ICORE2026
+unverified:
+- CPAIOR 2027 camera-ready date (TBA as of 2026-10-11)
+last_verified: 2026-10-11

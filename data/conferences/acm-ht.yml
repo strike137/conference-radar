@@ -1,0 +1,76 @@
+id: acm-ht
+name: ACM HT
+full_name: ACM Conference on Hypertext and Social Media
+type: conference
+tier: minor
+areas: [data]
+region: europe
+language: english
+frequency: annual
+organizer: ACM SIGWEB
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 4, 5]
+  conference_months: [9]
+links:
+  website: https://ht.acm.org/
+notes:
+- Long-running ACM SIGWEB conference (36th edition in 2025) on hypertext, the web, social media and digital
+  narratives; proceedings and adjunct proceedings in the ACM DL
+- Not listed in CORE ICORE2026 (last ranked A in CORE2018), so tiered minor here by the rank rule
+- Long papers 6 to 10 pages and short papers 3 to 6 pages plus references; separate blue sky, late breaking and
+  demo tracks
+- Usually held in Europe in September (Barcelona 2022, Rome 2023, Poznan 2024, London 2026); Chicago in 2025
+- HT 2025 was hybrid, allowing remote presentation for presenters with travel or visa problems
+editions:
+- year: 2025
+  start: 2025-09-15
+  end: 2025-09-18
+  location: Chicago, USA
+  url: https://ht.acm.org/ht2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-09
+    label: Full and short papers (extended)
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-18
+  location: London, UK
+  url: https://ht.acm.org/ht2026/
+  deadlines:
+  - kind: other
+    date: 2026-03-13
+    tz: AoE
+    label: Workshop proposals (extended from 27 Feb)
+  - kind: submission
+    date: 2026-04-30
+    time: "12:00"
+    tz: UTC
+    label: Research tracks (extended from 27 Mar AoE; 13:00 BST)
+  - kind: submission
+    date: 2026-06-01
+    tz: AoE
+    label: Blue sky and late breaking (extended from 29 May)
+  - kind: submission
+    date: 2026-05-29
+    tz: AoE
+    label: Demos
+  - kind: notification
+    date: 2026-06-19
+    tz: AoE
+    label: Research tracks
+sources:
+- https://ht.acm.org/
+- https://ht.acm.org/ht2025/
+- https://dl.acm.org/doi/proceedings/10.1145/3720553
+- https://dl.acm.org/doi/proceedings/10.1145/3720533
+- https://ht.acm.org/ht2026/
+- https://ht.acm.org/ht2026/open-calls/research-tracks/
+- https://portal.core.edu.au/conf-ranks/?search=hypertext&by=all&source=all
+unverified:
+- HT 2026 proceedings publisher not stated on the 2026 site (ACM DL for 2025)
+- CCF rank not checked (CCF list site not reachable)
+- HT 2027 not announced as of 2026-10-11
+last_verified: 2026-10-11

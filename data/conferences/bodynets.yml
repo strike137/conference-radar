@@ -1,0 +1,78 @@
+id: bodynets
+name: BodyNets
+full_name: EAI International Conference on Body Area Networks
+type: conference
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: EAI (European Alliance for Innovation)
+organizer_country: [europe]
+proceedings: Springer LNICST
+archival: true
+indexing: [Scopus, Ei Compendex, zbMATH]
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://bodynets.eai-conferences.org/2026/
+notes:
+- EAI conference series on wireless body area networks, wearable and implantable sensing and pervasive healthcare
+- Proceedings in Springer LNICST; selected papers invited to extended versions in Mobile Networks and Applications
+  (MONET)
+- Full papers 12 to 20 pages, short papers 6 to 11 pages; extra pages are charged
+- 20th edition held in person in Okayama, Japan (2025), with IEICE among the listed sponsors; 21st edition in Florence,
+  Italy (2026) as a hybrid conference
+- Late track submissions accepted after the main track closes
+editions:
+- year: 2025
+  start: 2025-12-02
+  end: 2025-12-04
+  location: Okayama, Japan
+  url: https://bodynets.eai-conferences.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-20
+    label: Full papers (extended)
+  - kind: notification
+    date: 2025-10-10
+  - kind: camera_ready
+    date: 2025-10-31
+- year: 2026
+  start: 2026-12-17
+  end: 2026-12-18
+  location: Florence, Italy (hybrid)
+  url: https://bodynets.eai-conferences.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-01
+    label: Full papers, main track
+  - kind: submission
+    date: 2026-10-15
+    label: Late track
+  - kind: notification
+    date: 2026-10-15
+    label: Main track
+  - kind: camera_ready
+    date: 2026-10-30
+    label: Main track
+  - kind: notification
+    date: 2026-10-31
+    label: Late track
+  - kind: camera_ready
+    date: 2026-11-15
+    label: Late track
+sources:
+- https://bodynets.eai-conferences.org/2026/
+- https://bodynets.eai-conferences.org/2026/call-for-papers/
+- https://bodynets.eai-conferences.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=BODYNETS&by=all&source=ICORE2026
+unverified:
+- 2026 main track dates conflict on the official site (homepage important dates box gives submission 1 Aug,
+  notification 1 Sep, camera-ready 1 Oct 2026; the CFP page gives main track submission 15 Oct, already marked
+  closed, notification 15 Oct and camera-ready 30 Oct 2026); 1 Aug kept as the main track submission date
+- 2025 acceptance figures (40 full papers from 97 submissions) and IEICE-CS technical co-sponsorship not confirmed on
+  an official page
+- Not found in the ICORE2026 CORE portal search; DBLP page not checked (bot check)
+last_verified: 2026-10-11

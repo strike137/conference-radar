@@ -1,0 +1,83 @@
+id: ieee-ipdps
+name: IEEE IPDPS
+full_name: IEEE International Parallel and Distributed Processing Symposium
+type: conference
+tier: major
+areas: [systems, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society TCPP (Technical Committee on Parallel Processing); in cooperation with ACM SIGARCH,
+  ACM SIGHPC, TCCA and TCDP
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE Computer Society)
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [10]
+  conference_months: [5, 6]
+links:
+  website: https://www.ipdps.org/
+  dblp: https://dblp.org/db/conf/ipps/index.html
+notes:
+- Flagship parallel and distributed computing symposium sponsored by IEEE CS TCPP; 41st edition in 2027
+- CORE A (ICORE2026), CCF B
+- "Main papers: 10 pages IEEE format plus unlimited references; double-anonymous two-round review with rebuttal and a
+  revise option"
+- Early-reject notifications; at most eight submissions per author; accepted papers must add a reproducibility
+  appendix and be presented in person
+- Many co-located workshops each year (2027 workshops already announced)
+- Mostly held in the USA with some editions in Europe and Latin America (Milan 2025, Lyon 2022, Rio de Janeiro 2019)
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-29
+  location: New Orleans, USA
+  url: https://www.ipdps.org/ipdps2026/index.html
+- year: 2027
+  start: 2027-06-01
+  end: 2027-06-05
+  location: Seattle (Hyatt Regency Bellevue), USA
+  url: https://www.ipdps.org/ipdps2027/2027-call-for-papers.html
+  deadlines:
+  - kind: abstract
+    date: 2026-10-01
+    tz: AoE
+    label: Abstract and paper registration
+  - kind: submission
+    date: 2026-10-08
+    tz: AoE
+    label: Full manuscript (firm)
+  - kind: notification
+    date: 2026-11-30
+    label: Early-reject notification
+  - kind: other
+    date: 2026-12-03
+    tz: AoE
+    label: Author rebuttal
+  - kind: notification
+    date: 2026-12-18
+    label: First-round decisions
+  - kind: submission
+    date: 2027-01-18
+    tz: AoE
+    label: Revised submissions
+  - kind: notification
+    date: 2027-02-02
+    label: Final decisions
+  - kind: camera_ready
+    date: 2027-02-20
+    tz: AoE
+sources:
+- https://www.ipdps.org/
+- https://www.ipdps.org/ipdps2027/2027-call-for-papers.html
+- https://www.ipdps.org/ipdps2026/index.html
+- https://www.ipdps.org/archives.htm
+- https://www.ipdps.org/library.htm
+- https://portal.core.edu.au/conf-ranks/?search=IPDPS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- Acceptance rate (not shown on the official site)
+last_verified: 2026-10-11

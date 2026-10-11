@@ -1,0 +1,86 @@
+id: bracis
+name: BRACIS
+full_name: Brazilian Conference on Intelligent Systems
+type: conference
+tier: minor
+areas: [ai]
+region: latin-america
+language: english
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação)
+organizer_country: [other]
+proceedings: Springer LNAI
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9, 10]
+links:
+  website: https://bracis.sbc.org.br/
+notes:
+- Main AI conference of the Brazilian Computer Society (SBC); 36th edition in 2026
+- Papers in English, up to 15 pages including references and appendices; double-anonymous review by at least three
+  experts; deadlines 23:59 AoE
+- Proceedings in Springer Lecture Notes in Artificial Intelligence (LNAI), also indexed in SBC OpenLib (SOL)
+- Held in a different Brazilian city each year (Fortaleza 2025, Cuiabá 2026)
+- Co-located with ENIAC, STIL, KDMiLe, WESAAC and the CTDIAC thesis contest
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-29
+  end: 2025-10-02
+  location: Fortaleza, Brazil
+  url: https://bracis.sbc.org.br/2025/
+  deadlines:
+  - kind: other
+    date: 2025-05-07
+    time: "23:59"
+    tz: AoE
+    label: Paper registration (extended from 2025-04-28)
+  - kind: submission
+    date: 2025-05-12
+    time: "23:59"
+    tz: AoE
+    label: Main track (extended from 2025-05-02)
+  - kind: notification
+    date: 2025-06-21
+    time: "23:59"
+    tz: AoE
+    label: Main track (moved from 2025-06-06)
+  - kind: camera_ready
+    date: 2025-06-30
+    time: "23:59"
+    tz: AoE
+    label: Main track (moved from 2025-06-20)
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-22
+  location: Cuiabá, Brazil
+  url: https://bracis.sbc.org.br/2026/
+  deadlines:
+  - kind: other
+    date: 2026-04-27
+    time: "23:59"
+    tz: AoE
+    label: Paper registration (later of two dates listed; page also shows 2026-04-13)
+  - kind: submission
+    date: 2026-05-04
+    time: "23:59"
+    tz: AoE
+    label: Main track (later of two dates listed; page also shows 2026-04-20)
+  - kind: camera_ready
+    date: 2026-06-29
+    time: "23:59"
+    tz: AoE
+    label: Main track
+sources:
+- https://bracis.sbc.org.br/
+- https://bracis.sbc.org.br/2026/
+- https://bracis.sbc.org.br/2026/bracis/
+- https://bracis.sbc.org.br/2025/
+- https://bracis.sbc.org.br/2025/bracis/
+- https://portal.core.edu.au/conf-ranks/?search=BRACIS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- BRACIS 2026 notification date (the page lists 2026-06-01, 2026-06-08 and 2026-06-10 without saying which applies)
+- LNAI volume numbers and acceptance rate
+- BRACIS 2027 dates and location (not announced as of 2026-10-11)
+last_verified: 2026-10-11

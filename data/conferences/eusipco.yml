@@ -1,0 +1,71 @@
+id: eusipco
+name: EUSIPCO
+full_name: European Signal Processing Conference
+type: conference
+tier: major
+areas: [communications, ai]
+region: europe
+language: english
+frequency: annual
+organizer: EURASIP (European Association for Signal Processing)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [8, 9]
+links:
+  website: https://eurasip.org/eusipco-conferences/
+notes:
+- Flagship conference of EURASIP; held every year in a European city (Dublin 2021, Belgrade 2022, Helsinki 2023, Lyon 2024, Palermo 2025, Bruges 2026)
+- Accepted papers appear in IEEE Xplore and open access on the EURASIP website; authors keep copyright
+- Five-page papers (references included), single-blind review
+- Not listed in the CORE ICORE2026 portal; regarded as the main European general signal processing venue
+- Also has a journal paper track (papers already published in journals presented at the conference)
+editions:
+- year: 2026
+  start: 2026-08-31
+  end: 2026-09-04
+  location: Bruges, Belgium
+  url: https://eusipco2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    label: Conference papers (extended from 2026-02-06)
+  - kind: notification
+    date: 2026-05-12
+    label: Conference papers
+  - kind: other
+    date: 2026-04-30
+    label: Journal paper track submission
+- year: 2027
+  start: 2027-08-30
+  end: 2027-09-03
+  location: Darmstadt, Germany
+  url: https://eusipco2027.de/
+  deadlines:
+  - kind: other
+    date: 2026-12-01
+    label: Special session proposals
+  - kind: submission
+    date: 2027-02-06
+    label: Conference papers
+  - kind: other
+    date: 2027-03-01
+    label: Tutorial proposals
+  - kind: other
+    date: 2027-04-30
+    label: Journal paper track submission
+sources:
+- https://eurasip.org/eusipco-conferences/
+- https://eusipco2026.org/
+- https://eusipco2026.org/submissions/
+- https://eusipco2026.org/timeline/
+- https://eusipco2027.de/
+- https://eusipco2027.de/conference-papers/
+- https://portal.core.edu.au/conf-ranks/?search=EUSIPCO&by=all&source=ICORE2026
+unverified:
+- EUSIPCO 2027 notification and camera-ready dates not yet announced (as of 2026-10-11)
+- The EURASIP conference list gives EUSIPCO 2026 as Brussels, Aug 31 to Sep 3; the official 2026 site says Bruges, Aug 31 to Sep 4 (official site used)
+- CCF 2026 listing not checked against the official list
+last_verified: 2026-10-11

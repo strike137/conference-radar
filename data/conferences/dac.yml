@@ -1,0 +1,72 @@
+id: dac
+name: DAC
+full_name: Design Automation Conference
+type: conference
+tier: top
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM and IEEE (ACM SIGDA and IEEE CEDA)
+organizer_country: [international]
+proceedings: IEEE Xplore and ACM DL
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [11]
+  conference_months: [6, 7]
+links:
+  website: https://www.dac.com/
+  dblp: https://dblp.org/db/conf/dac/index.html
+notes:
+- Flagship electronic design automation (EDA) venue, now billed as the Chips to Systems Conference; sponsored by ACM and IEEE with ACM SIGDA and IEEE CEDA
+- Regarded as a top venue (ICORE2026 A*, CCF A); acceptance rate 20 to 25% in recent years per the CFP
+- Always held in the USA, mostly San Francisco (2022 to 2025), Long Beach 2026, San Jose 2027
+- Research manuscripts are 6 pages plus 1 page of references, double-blind, two-stage submission (abstract then full paper)
+- Publication in IEEE Xplore or the ACM DL requires registration and presenting at the poster session
+- Large event with an exhibition, an engineering track, workshops, tutorials and a PhD forum
+editions:
+- year: 2026
+  start: 2026-07-26
+  end: 2026-07-29
+  location: Long Beach, USA
+  url: https://www.dac.com/63rd-dac
+- year: 2027
+  start: 2027-07-11
+  end: 2027-07-14
+  location: San Jose, USA
+  url: https://www.dac.com/2027
+  deadlines:
+  - kind: abstract
+    date: 2026-11-11
+    time: "17:00"
+    tz: PST
+    label: Research manuscripts
+  - kind: submission
+    date: 2026-11-18
+    time: "17:00"
+    tz: PST
+    label: Research manuscripts
+  - kind: notification
+    date: 2027-03-08
+    label: Research manuscripts
+  - kind: camera_ready
+    date: 2027-03-31
+    label: Research manuscripts
+sources:
+- https://www.dac.com/
+- https://www.dac.com/2027/authors/call-for-contributions
+- https://www.dac.com/2027/program/research-manuscript-submissions
+- https://www.dac.com/2027/travel/venue
+- https://www.dac.com/about/future-dac-conferences
+- https://www.dac.com/conference-archive
+- https://www.dac.com/63rd-dac
+- https://portal.core.edu.au/conf-ranks/?search=DAC&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- DAC 2026 submission deadlines not recorded
+- DAC 2027 engineering track and workshop deadlines not recorded
+- CCF rank checked via the ccfddl mirror, not on ccf.org.cn directly
+last_verified: 2026-10-11
