@@ -43,8 +43,11 @@ editions:
   start: 2027-05-04
   end: 2027-05-06
   location: Taipei, Taiwan
-  url: https://cybersec.ithome.com.tw/
-  deadlines: []
+  url: https://cybersec.ithome.com.tw/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    label: Call for Speakers (Breakout, Deep Dive, CYBERSEC GLOBAL)
 sources:
 - https://cybersec.ithome.com.tw/2026/about
 - https://cybersec.ithome.com.tw/2026/CFP
@@ -54,8 +57,9 @@ sources:
 - https://cybersec.ithome.com.tw/2026/review
 - https://pastevent.cybersec.ithome.com.tw/2025/about
 - https://pastevent.cybersec.ithome.com.tw/2025/CFP/
+- https://cybersec.ithome.com.tw/2027/
+- https://cybersec.ithome.com.tw/2027/CFP
 unverified:
-- CYBERSEC 2027 Call for Speakers deadline (not yet published; the 2025 and 2026 calls both closed on 30 November;
-  /2027/ pages return 404 as of 2026-09-28)
-- CYBERSEC 2027 dates come from the footer of the official site; no dedicated 2027 page yet
-last_verified: 2026-09-28
+- CYBERSEC 2027 Call for Speakers gives no time of day for the 30 November deadline and only approximate review
+  notification periods (first round mid to late December 2026, second round mid to late January 2027)
+last_verified: 2026-10-17

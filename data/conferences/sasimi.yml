@@ -51,7 +51,9 @@ editions:
   url: https://sasimi.jp/new/sasimi2027/
   deadlines:
   - kind: submission
-    date: 2026-10-16
+    date: 2026-10-26
+    tz: AoE
+    label: Extended from 2026-10-16
   - kind: notification
     date: 2027-01-11
   - kind: camera_ready
@@ -59,6 +61,7 @@ editions:
 sources:
 - https://sasimi.jp/new/sasimi2027/
 - https://sasimi.jp/new/sasimi2027/call-for-papers.html
+- https://sasimi.jp/new/sasimi2027/files/sasimi2027-cfp-v0x_2026-10-16.pdf
 - https://sasimi.jp/new/sasimi2027/files/sasimi2027-cfp-v0_2026-07-06.pdf
 - https://sasimi.jp/new/sasimi2027/submission.html
 - https://sasimi.jp/new/sasimi2027/sponsors.html
@@ -71,10 +74,10 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=SASIMI&by=all&source=ICORE2026&sort=atitle&page=1
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
 unverified:
-- SASIMI 2027 submission deadline time and time zone not stated (2025 used AoE after extension)
+- SASIMI 2027 submission deadline time of day not stated (page gives AoE only)
 - SASIMI 2027 registration fee not announced yet (registration page still shows 2025 fees)
 - Steering and organizing committee members not listed (committee page shows headings only)
 - Whether the electronic proceedings are distributed to attendees only is not stated
 - Acceptance rate not stated on the official site
 - CCF 2026 list checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
-last_verified: 2026-10-11
+last_verified: 2026-10-17

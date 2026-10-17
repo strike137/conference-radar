@@ -59,7 +59,28 @@ editions:
   end: 2027-05-27
   location: Limassol, Cyprus
   url: https://2027.eswc-conferences.org/
-  deadlines: []
+  deadlines:
+  - kind: abstract
+    date: 2026-12-10
+    time: '23:59'
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2026-12-17
+    time: '23:59'
+    tz: AoE
+    label: Research track
+  - kind: other
+    date: 2027-01-29
+    label: Research track rebuttal period closes (opens 2027-01-26)
+  - kind: notification
+    date: 2027-02-19
+    label: Research track
+  - kind: camera_ready
+    date: 2027-03-18
+    time: '23:59'
+    tz: AoE
+    label: Research track
 sources:
 - https://2026.eswc-conferences.org/calls/papers-research-track/
 - https://2026.eswc-conferences.org/attending/registration/
@@ -68,12 +89,13 @@ sources:
 - https://2026.eswc-conferences.org/program/accepted-papers/main-tracks
 - https://2027.eswc-conferences.org/
 - https://2027.eswc-conferences.org/calls/contributions-eswc
+- https://2027.eswc-conferences.org/calls/papers-research-track/
 - https://swsa.semanticweb.org/conferences/
 - https://link.springer.com/book/10.1007/978-3-032-25156-5
 - https://portal.core.edu.au/conf-ranks/?search=ESWC&by=all&source=ICORE2026
 - https://csse.szu.edu.cn/staff/CCF/International_Recommended_Directory.pdf
 unverified:
-- ESWC 2027 submission deadlines (CFP says coming soon / to be announced as of 2026-09-28)
+- ESWC 2027 deadlines for tracks other than the research track not checked
 - 2026 research-track submission count (116) comes from the Springer proceedings description via search snippet;
   the 28 accepted research papers are confirmed on the conference site
-last_verified: 2026-09-28
+last_verified: 2026-10-17

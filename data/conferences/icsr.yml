@@ -1,6 +1,6 @@
 id: icsr
 name: ICSR
-full_name: International Conference on Social Robotics + AI
+full_name: International Conference on Social Robotics
 type: conference
 tier: minor
 areas: [ai]
@@ -13,52 +13,51 @@ proceedings: Springer LNAI
 archival: true
 indexing: [Scopus, EI]
 typical:
-  deadline_months: [5]
-  conference_months: [9]
+  deadline_months: [3, 5]
+  conference_months: [7, 9]
 links:
-  website: https://icsr2025.eu/
+  website: https://icsr2027.org/
 notes:
-- Long-running social robotics conference (17th edition in 2025), renamed "Social Robotics + AI"; steering committee chaired by Shuzhi Sam Ge (NUS)
-- Proceedings in Springer Lecture Notes in Artificial Intelligence (LNAI); indexed by EI Compendex and Scopus per the 2025 CFP
+- Long-running social robotics conference (18th edition in 2026); each edition adds a theme to the name ("+ AI" in 2025, "+ Art" in 2026, "+ Health" in 2027); steering committee chaired by Shuzhi Sam Ge (NUS)
+- Proceedings in Springer Lecture Notes in Artificial Intelligence (LNAI); indexed by EI Compendex and Scopus per the 2025 CFP and the 2026 publication page
 - Regular, special session and short paper tracks, plus workshops, robot competition and exhibition
-- Rotates worldwide; 2025 edition in Naples, Italy
+- Rotates worldwide (Naples 2025, London 2026, Potsdam 2027)
 - Not to be confused with the International Conference on Software Reuse (also ICSR, CORE B); the social robotics ICSR is not ranked in CORE ICORE2026 or the CCF list
 editions:
-- year: 2025
-  start: 2025-09-10
-  end: 2025-09-12
-  location: Naples, Italy
-  url: https://icsr2025.eu/
+- year: 2026
+  label: ICSR + Art 2026
+  start: 2026-07-01
+  end: 2026-07-04
+  location: London, UK (University of London)
+  url: https://icsr2026.uk/
   deadlines:
   - kind: other
-    date: 2025-02-17
-    label: Special session proposals
+    date: 2025-12-01
+    tz: AoE
+    label: Workshop and special session proposals
   - kind: submission
-    date: 2025-05-09
-    label: Full and special session papers (extended)
-  - kind: other
-    date: 2025-06-04
-    label: Workshop proposals
+    date: 2026-03-15
+    tz: AoE
+    label: Papers (extended from Feb 15 and Mar 6)
   - kind: notification
-    date: 2025-06-16
-    label: Full and special session papers
-  - kind: submission
-    date: 2025-06-20
-    label: Short papers
+    date: 2026-04-19
+    tz: AoE
   - kind: camera_ready
-    date: 2025-06-30
-    label: Full papers
-  - kind: notification
-    date: 2025-07-07
-    label: Short papers
-  - kind: camera_ready
-    date: 2025-07-11
-    label: Short papers
+    date: 2026-05-01
+    tz: AoE
+- year: 2027
+  label: ICSR + Health 2027
+  start: 2027-07-25
+  end: 2027-07-28
+  location: Potsdam, Germany
+  url: https://icsr2027.org/
 sources:
-- https://icsr2025.eu/
+- https://icsr2027.org/
+- https://icsr2026.uk/
+- https://icsr2026.uk/dates/
+- https://icsr2026.uk/publication/
 - https://icsr2025.eu/call-for-papers/
-- https://icsr2025.eu/icsr-2025-about/
 - https://portal.core.edu.au/conf-ranks/?search=ICSR&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- ICSR 2026 edition (dates, location, website) not found as of 2026-10-11
-last_verified: 2026-10-11
+- ICSR 2027 deadlines are TBA on the official site as of 2026-10-17
+last_verified: 2026-10-17

@@ -65,10 +65,14 @@ editions:
   location: Fukuoka, Japan
   url: https://bigcomp2027-website.pages.dev/
   deadlines:
-  - kind: submission
+  - kind: abstract
     date: 2026-10-16
     tz: AoE
-    label: Full, short, poster and demo papers (extended from 2026-09-30)
+    label: Title and abstract registration on EasyChair (new submissions after this may not be accepted)
+  - kind: submission
+    date: 2026-10-30
+    tz: AoE
+    label: Full, short, poster and demo papers (extended twice, via 2026-10-16, from 2026-09-30)
   - kind: other
     date: 2026-10-16
     tz: AoE
@@ -80,6 +84,8 @@ sources:
 - https://bigcomp2027-website.pages.dev/
 - https://bigcomp2027-website.pages.dev/call-for-papers
 - https://bigcomp2027-website.pages.dev/registration
+- https://bigcomp2027-website.pages.dev/call-for-workshops
+- https://bigcomp2027-website.pages.dev/call-for-tutorials
 - https://www.bigcomputing.org/
 - https://www.bigcomputing.org/call_for_papers
 - https://www.bigcomputing.org/guideline
@@ -89,5 +95,6 @@ unverified:
 - Acceptance rate (not published on the site)
 - BigComp 2027 registration fee (site says expected to be similar to 2026)
 - Exact BigComp 2027 camera-ready date (official site says December 2026; WikiCFP says 2026-12-15)
+- Exact BigComp 2027 tutorial and workshop proposal notification date (official site says October 2026)
 - Original BigComp 2026 deadline before the first extension
-last_verified: 2026-10-11
+last_verified: 2026-10-17

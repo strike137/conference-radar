@@ -7,7 +7,7 @@ areas: [data, ai]
 region: europe
 language: english
 frequency: annual
-organizer: Host university each year (Tampere University in 2025)
+organizer: Host university each year (University of the Algarve in 2026)
 organizer_country: [europe]
 proceedings: Springer LNCS
 archival: true
@@ -20,10 +20,11 @@ links:
   website: https://www.tpdl.eu/
 notes:
 - The European digital library conference; called ECDL until 2010
-- Proceedings in Springer LNCS (2025 is LNCS volume 16097)
+- Proceedings in Springer LNCS (2025 is LNCS volume 16097); in 2026 short, demo and doctoral consortium papers go to
+  Springer CCIS
 - Research and practitioner papers up to 15 pages plus references in LNCS style; separate short paper, demo and
   doctoral consortium tracks with later deadlines
-- 2025 (29th edition) was in Tampere, Finland, co-located with ADBIS 2025
+- 2025 (29th edition) was in Tampere, Finland, co-located with ADBIS 2025; 2026 (30th edition) in Faro, Portugal
 - CORE B in ICORE2026
 editions:
 - year: 2025
@@ -56,12 +57,53 @@ editions:
     time: "23:59"
     tz: AoE
     label: Full papers
+- year: 2026
+  label: 30th TPDL
+  start: 2026-09-22
+  end: 2026-09-25
+  location: Faro, Portugal (University of the Algarve)
+  url: https://tpdl2026.ualg.pt/
+  deadlines:
+  - kind: other
+    date: 2026-03-27
+    time: "23:59"
+    tz: AoE
+    label: Workshop proposals
+  - kind: abstract
+    date: 2026-05-07
+    time: "23:59"
+    tz: AoE
+    label: All tracks
+  - kind: submission
+    date: 2026-05-18
+    time: "23:59"
+    tz: AoE
+    label: All tracks (extended from May 3 and May 13)
+  - kind: notification
+    date: 2026-06-29
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-07-19
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-08-30
+    time: "23:59"
+    tz: AoE
+    label: Doctoral consortium (2nd call)
 sources:
+- https://tpdl2026.ualg.pt/
+- https://tpdl2026.ualg.pt/important-dates/
+- https://tpdl2026.ualg.pt/call-for-papers/
+- https://tpdl2026.ualg.pt/call-for-workshops/
+- https://tpdl2026.ualg.pt/doctoral-consortium-2nd-call-for-papers/
 - https://tpdl2025.github.io/
 - https://tpdl2025.github.io/Calls/importantdates.html
 - https://tpdl2025.github.io/Calls/researchtrack.html
 - https://portal.core.edu.au/conf-ranks/?search=TPDL&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- TPDL 2026 dates and location not found (series site tpdl.eu was unreachable on 2026-10-11)
+- TPDL 2027 dates and location not announced as of 2026-10-17 (series site tpdl.eu has a TLS certificate error)
 - Series steering body not named on the 2025 site (only the Tampere University general chairs)
-last_verified: 2026-10-11
+last_verified: 2026-10-17

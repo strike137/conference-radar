@@ -15,11 +15,11 @@ typical:
   deadline_months: [10]
   conference_months: [3]
 links:
-  website: https://scc2025.net/
+  website: https://scc2027.uni-bremen.de/
 notes:
 - Organized by the Information Technology Society (ITG) of the German VDE; IEEE and IEEE ComSoc are technical
   co-sponsors
-- Held in Germany (14th edition at KIT, Karlsruhe in 2025); usually every two years
+- Held in Germany (14th edition at KIT, Karlsruhe in 2025; 15th at Universität Bremen in 2027); usually every two years
 - Full papers up to 6 pages, peer reviewed; proceedings published in IEEE Xplore (papers not presented may be excluded)
 - Late-submission posters with a one-page abstract are not published
 - Not ranked in CORE (ICORE2026)
@@ -44,10 +44,31 @@ editions:
   - kind: camera_ready
     date: 2025-01-22
     label: Final manuscript and author registration
+- year: 2027
+  start: 2027-03-15
+  end: 2027-03-18
+  location: Bremen, Germany (Universität Bremen)
+  url: https://scc2027.uni-bremen.de/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-10-25
+    label: Paper registration in EDAS (extended)
+  - kind: submission
+    date: 2026-11-01
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2027-01-08
+  - kind: camera_ready
+    date: 2027-02-05
+    label: Final manuscript and author registration
 sources:
+- https://scc2027.uni-bremen.de/
+- https://scc2027.uni-bremen.de/authors
+- https://scc2027.uni-bremen.de/files/CfP_SCC2027_Bremen.pdf
 - https://scc2025.net/
 - https://scc2025.net/authors/
 - https://portal.core.edu.au/conf-ranks/?search=SCC&by=all&source=ICORE2026
 unverified:
-- Next SCC edition (expected 2027) not found as of 2026-10-11
-last_verified: 2026-10-11
+- "SCC 2027: original (pre-extension) registration and submission deadlines and the deadline time zone are not stated on the official pages"
+last_verified: 2026-10-17

@@ -87,10 +87,32 @@ editions:
     date: 2026-08-04
     label: Cycle 2
 - year: 2027
-  location: Atlanta, USA
+  start: 2027-10-25
+  end: 2027-10-29
+  location: Atlanta, Georgia, USA
+  url: https://conferences.sigcomm.org/imc/2027/
   status: tentative
-  deadlines: []
+  deadlines:
+  - kind: abstract
+    date: 2026-11-10
+    label: Cycle 1
+  - kind: submission
+    date: 2026-11-17
+    label: Cycle 1
+  - kind: other
+    date: 2026-12-02
+    label: Cycle 1 one-shot revision submission
+  - kind: other
+    date: 2027-01-05
+    label: Cycle 1 early reject notification
+  - kind: notification
+    date: 2027-02-25
+    label: Cycle 1
+  - kind: camera_ready
+    date: 2027-04-14
+    label: Cycle 1
 sources:
+- https://conferences.sigcomm.org/imc/2027/
 - https://conferences.sigcomm.org/imc/2026/
 - https://conferences.sigcomm.org/imc/2026/cfp
 - https://conferences.sigcomm.org/imc/2026/submission-instructions
@@ -101,7 +123,8 @@ sources:
 - https://sites.cs.ucsb.edu/~almeroth/conf/stats/
 - https://portal.core.edu.au/conf-ranks/?search=IMC&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- IMC 2027 dates and deadlines (only the Atlanta location is announced, via the SIGCOMM newsletter)
+- IMC 2027 important dates are marked tentative on the official site; deadline time zone and Cycle 2 dates not yet
+  stated (as of 2026-10-17)
 - Time zone of IMC 2025 deadlines
 - Acceptance rates after 2022
-last_verified: 2026-10-11
+last_verified: 2026-10-17

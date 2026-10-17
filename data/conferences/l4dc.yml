@@ -15,11 +15,12 @@ typical:
   deadline_months: [11]
   conference_months: [6]
 links:
-  website: https://www.l4dc.org/
+  website: https://l4dc2027.control.ee.ethz.ch/
 notes:
 - Interdisciplinary venue at the interface of machine learning, control theory and optimization
 - Proceedings in PMLR (2026 -> vol. 331, 2025 -> vol. 283)
 - Hosted by a different university each year, mostly in the USA (MIT 2019, Penn 2023, Michigan 2025, USC 2026), Oxford in 2024
+  and KTH Stockholm in 2027
 - Submissions up to 10 pages via OpenReview; deadline in November, decisions by end of January
 - Not ranked in CORE ICORE2026 but well regarded in the learning and control community
 editions:
@@ -43,7 +44,25 @@ editions:
     date: 2026-04-03
     tz: AoE
     label: Late-breaking results (2-page abstract)
+- year: 2027
+  start: 2027-06-16
+  end: 2027-06-18
+  location: KTH Royal Institute of Technology, Stockholm, Sweden
+  url: https://l4dc2027.control.ee.ethz.ch/
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+    label: Full papers
+  - kind: notification
+    date: 2027-01-25
+  - kind: other
+    date: 2027-04-05
+    label: Late-breaking results
+  - kind: camera_ready
+    date: 2027-04-19
 sources:
+- https://l4dc2027.control.ee.ethz.ch/
+- https://l4dc2027.control.ee.ethz.ch/author-information
 - https://www.l4dc.org/
 - https://sites.google.com/usc.edu/l4dc2026/
 - https://sites.google.com/usc.edu/l4dc2026/author-information
@@ -54,6 +73,6 @@ sources:
 - https://proceedings.mlr.press/v283/
 - https://portal.core.edu.au/conf-ranks/?search=L4DC&by=all&source=ICORE2026
 unverified:
-- L4DC 2027 dates, host and deadlines not yet announced
+- L4DC 2027 deadline time and time zone not stated on the official site (as of 2026-10-17)
 - Notification and camera-ready dates for 2026 (shown only as an image on the author page)
-last_verified: 2026-10-11
+last_verified: 2026-10-17

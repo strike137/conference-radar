@@ -15,13 +15,13 @@ typical:
   deadline_months: [10, 11]
   conference_months: [3, 4]
 links:
-  website: https://www.ieee-qcnc.org/
+  website: https://qcnc.org/
 notes:
 - IEEE and IEEE ComSoc branded conference on quantum communications, quantum networking, quantum computing and QKD
 - "Proceedings: QCNC Conference Proceedings in IEEE Xplore; up to 8 pages for review, IEEE Computer Society format"
 - Selected papers recommended to the journal Digital Communications and Networks for fast-track publication
-- All editions so far held in Japan (Kanazawa 2024, Nara 2025, Kobe 2026); executive chair from Kanazawa University
-- Paper deadline is usually extended by one month (Oct 30 -> Nov 30); co-located workshops and a poster track
+- All editions so far held in Japan (Kanazawa 2024, Nara 2025, Kobe 2026, Hokkaido 2027); executive chair from Kanazawa University
+- Paper deadline was extended by one month for 2025 and 2026 (Oct 30 -> Nov 30); co-located workshops and a poster track
 - Not listed in CORE ICORE2026 or the CCF list
 editions:
 - year: 2025
@@ -50,7 +50,23 @@ editions:
     date: 2026-02-03
   - kind: camera_ready
     date: 2026-03-03
+- year: 2027
+  start: 2027-03-22
+  end: 2027-03-26
+  location: Hokkaido, Japan
+  url: https://qcnc.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-10-20
+    label: Main conference
+  - kind: notification
+    date: 2027-01-20
+  - kind: camera_ready
+    date: 2027-02-20
 sources:
+- https://qcnc.org/2027/
+- https://qcnc.org/2027/cf-papers.php
+- https://easychair.org/cfp/qcnc2027
 - https://www.ieee-qcnc.org/
 - http://www.ieee-qcnc.org/2026/
 - http://www.ieee-qcnc.org/2026/cf-papers.php
@@ -60,5 +76,5 @@ sources:
 - http://www.ieee-qcnc.org/2024/
 - https://portal.core.edu.au/conf-ranks/?search=QCNC&by=all&source=ICORE2026
 unverified:
-- QCNC 2027 not yet announced (no 2027 page on the official site as of 2026-10-11)
-last_verified: 2026-10-11
+- QCNC 2027 exact city in Hokkaido and venue not stated on the official site; no deadline extension posted as of 2026-10-17
+last_verified: 2026-10-17

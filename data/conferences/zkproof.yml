@@ -42,12 +42,21 @@ editions:
   end: 2026-05-10
   location: Rome, Italy
   url: https://zkproof.org/events/zkproof-8-rome/
+  deadlines:
+  - kind: submission
+    date: 2026-02-20
+    time: "17:00"
+    tz: UTC
+    label: Proposals and papers
+  - kind: notification
+    date: 2026-03-12
+    label: Final responses
 sources:
 - https://zkproof.org/events/
 - https://zkproof.org/events/zkproof-7-sofia/
 - https://zkproof.org/events/zkproof-7-sofia/call-for-papers-7th-zkproof-workshop/
 - https://zkproof.org/events/zkproof-8-rome/
+- https://zkproof.org/call-for-papers-8th-zkproof-workshop/
 unverified:
-- Submission deadlines for ZKProof 8 (Rome 2026); no call for papers page was found
-- Next edition (ZKProof 9) not announced yet
-last_verified: 2026-10-11
+- Next edition (ZKProof 9) not announced as of 2026-10-17
+last_verified: 2026-10-17

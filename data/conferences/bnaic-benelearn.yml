@@ -13,13 +13,14 @@ proceedings: Springer CCIS (post-proceedings, selected papers); CEUR-WS pre-proc
 archival: true
 typical:
   deadline_months: [9]
-  conference_months: [11]
+  conference_months: [10, 11]
 links:
-  website: https://bnaic2025.unamur.be/
+  website: https://www.maastrichtuniversity.nl/bnaic2026
   dblp: https://dblp.org/db/conf/bnaic/index.html
 notes:
 - Joint meeting of BNAIC (37th in 2025) and BeNeLearn (34th in 2025); overview of AI and ML research in Belgium, the Netherlands and Luxembourg
-- Run under the auspices of BNVKI and the Dutch research school SIKS; hosted by the University of Namur in 2025
+- Run under the auspices of BNVKI and the Dutch research school SIKS; hosted by the University of Namur in 2025 and
+  Maastricht University in 2026 (38th BNAIC, 35th BeNeLearn)
 - Accepts regular papers, encore abstracts of already published work, demos, bachelor/master thesis abstracts and late-breaking posters
 - All accepted contributions go to non-archival CEUR pre-proceedings; selected regular papers are invited to Springer CCIS post-proceedings (planned for 2025, as in previous years)
 - Single-blind review via OpenReview; prizes for best paper, best demo and best bachelor/master thesis
@@ -46,10 +47,30 @@ editions:
     date: 2025-10-27
     time: "23:59"
     tz: AoE
+- year: 2026
+  start: 2026-10-21
+  end: 2026-10-23
+  location: Maastricht, Netherlands (Maastricht University, Faculty of Science and Engineering)
+  url: https://www.maastrichtuniversity.nl/bnaic2026
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-09-04
+    label: Full papers and abstracts, types A to D (extended from 2026-08-31)
+  - kind: notification
+    date: 2026-09-30
+  - kind: other
+    date: 2026-09-30
+    label: Late-breaking poster abstracts (type E)
+  - kind: camera_ready
+    date: 2026-10-09
 sources:
 - https://bnaic2025.unamur.be/
 - https://bnaic2025.unamur.be/call.html
+- https://www.maastrichtuniversity.nl/bnaic2026
+- https://www.maastrichtuniversity.nl/bnaic2026/call-papers
+- https://ii.tudelft.nl/bnvki/cfp-bnaic2026/
 unverified:
-- BNAIC/BeNeLearn 2026 dates and host not found on an official page as of 2026-10-11
+- Times and time zone of the 2026 deadlines (not stated on the call for papers)
 - Not found in the CORE ICORE2026 portal (searched BNAIC and Benelux)
-last_verified: 2026-10-11
+last_verified: 2026-10-17

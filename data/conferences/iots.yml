@@ -77,15 +77,23 @@ editions:
     date: 2026-10-09
     label: Notification (on or after)
   - kind: submission
-    date: 2026-10-13
+    date: 2026-10-16
     time: '23:59'
     tz: JST
-    label: Posters (reviewed)
+    label: Posters (reviewed), extended from 2026-10-13
+  - kind: notification
+    date: 2026-11-03
+    label: Posters (reviewed), on or after
   - kind: submission
     date: 2026-11-06
     time: '23:59'
     tz: JST
     label: Posters (non-reviewed)
+  - kind: camera_ready
+    date: 2026-11-10
+    time: '12:00'
+    tz: JST
+    label: Posters (reviewed and non-reviewed)
   - kind: camera_ready
     date: 2026-11-13
     time: '23:59'
@@ -93,6 +101,7 @@ editions:
 sources:
 - https://www.iot.ipsj.or.jp/symposium/iots2026/
 - https://www.iot.ipsj.or.jp/symposium/iots2026-cfp/
+- https://www.iot.ipsj.or.jp/symposium/iots2026-cfp-poster/
 - https://www.iot.ipsj.or.jp/symposium/iots2025/
 - https://www.iot.ipsj.or.jp/symposium/iots2025-cfp/
 - https://www.iot.ipsj.or.jp/symposium/iots2025-report/
@@ -102,4 +111,4 @@ sources:
 unverified:
 - Number of submissions, so no acceptance rate
 - 2026 registration fees (not yet published)
-last_verified: 2026-10-11
+last_verified: 2026-10-17

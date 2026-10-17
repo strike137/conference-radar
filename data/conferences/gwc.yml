@@ -25,7 +25,7 @@ notes:
 - Long papers up to 8 pages, short papers and project reports up to 5 pages, demos up to 5 pages, references
   excluded; anonymized submissions (2025)
 - Venue moves around the world (Bucharest 2016, Singapore 2018, Wroclaw 2019, Pretoria 2021 virtual, Donostia 2023,
-  Pavia 2025)
+  Pavia 2025, Amsterdam 2027)
 - CORE C (ICORE2026, listed as International Wordnet Conference)
 editions:
 - year: 2025
@@ -48,7 +48,30 @@ editions:
     date: 2025-02-28
     tz: AoE
     label: Final paper submission for proceedings
+- year: 2027
+  start: 2027-02-01
+  end: 2027-02-04
+  location: Amsterdam, Netherlands (Vrije Universiteit Amsterdam)
+  url: https://cltl.github.io/GWC2027/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-25
+    tz: AoE
+    label: Papers (extended from 2026-10-16)
+  - kind: notification
+    date: 2026-12-04
+    tz: AoE
+    label: Extended from 2026-11-27
+  - kind: camera_ready
+    date: 2027-01-15
+    tz: AoE
+  - kind: other
+    date: 2027-02-28
+    tz: AoE
+    label: Final paper submission for proceedings
 sources:
+- https://cltl.github.io/GWC2027/
 - https://globalwordnet.github.io/
 - https://unipv-larl.github.io/GWC2025/
 - https://unipv-larl.github.io/GWC2025/dates.html
@@ -57,7 +80,6 @@ sources:
 - https://aclanthology.org/volumes/2025.gwc-1/
 - https://portal.core.edu.au/conf-ranks/?search=GWC&by=all&source=ICORE2026
 unverified:
-- GWC 2027 host, dates and deadlines not announced as of 2026-10-11; the association posted an invitation for bids to
-  host GWC 2027 in April 2026
+- GWC 2027 proceedings venue (ACL Anthology assumed from earlier editions; the 2027 site does not name it yet)
 - GWC 2025 notification date is November 25, 2024 on the dates page but November 18, 2024 on the call for papers page
-last_verified: 2026-10-11
+last_verified: 2026-10-17
