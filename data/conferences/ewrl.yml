@@ -1,0 +1,56 @@
+id: ewrl
+name: EWRL
+full_name: European Workshop on Reinforcement Learning
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: EWRL organizers (European RL research community)
+organizer_country: [europe]
+proceedings: None (accepted papers made public on OpenReview, no proceedings)
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://euro-workshop-on-reinforcement-learning.github.io/
+notes:
+- Main gathering of the European reinforcement learning community, held since 1994 and annual since 2022 (Milan 2022,
+  Brussels 2023, Toulouse 2024, Tuebingen 2025)
+- Non-archival in recent editions; EWRL 2025 had no proceedings (older editions appeared in Springer LNAI 2011 and
+  JMLR proceedings 2012)
+- Regular track for unpublished work (9 pages plus references and appendix, double blind, via OpenReview) and a fast
+  track for papers already accepted at major venues such as NeurIPS, ICML, ICLR and RLC
+- All accepted papers are presented as posters; a separate call for contributed talks targets early-career researchers
+- In 2027 EWRL is planned as one joint event with the Reinforcement Learning Conference (RLC) in Odense, Denmark, in late
+  August
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  label: EWRL18
+  start: 2025-09-17
+  end: 2025-09-19
+  location: Tuebingen, Germany
+  url: https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/
+  deadlines:
+  - kind: submission
+    date: 2025-06-03
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2025-05-30)
+  - kind: notification
+    date: 2025-07-16
+sources:
+- https://euro-workshop-on-reinforcement-learning.github.io/
+- https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/
+- https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/calls/
+- https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/previous_editions/
+- https://ewrl.wordpress.com/
+- https://rl-conference.cc/2026/index.html
+- https://portal.core.edu.au/conf-ranks/?search=EWRL&by=all&source=ICORE2026
+unverified:
+- Whether an EWRL edition took place in 2026 (none listed on the official EWRL sites)
+- Dates and deadlines of the 2027 joint RLC and EWRL event in Odense
+last_verified: 2026-10-17

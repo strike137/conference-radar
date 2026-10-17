@@ -1,0 +1,68 @@
+id: icacs-pk
+name: ICACS
+full_name: International Conference on Advancements in Computational Sciences
+type: conference
+tier: minor
+areas: [ai, nlp, vision, security, data, software, networking]
+region: south-asia
+language: english
+frequency: annual
+organizer: The University of Lahore, with IEEE Lahore Section
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [2]
+links:
+  website: https://sites.uol.edu.pk/icacs27/index
+notes:
+- Run by The University of Lahore, Pakistan, and held on its campus in Lahore every February
+- Editions in 2018, 2019, 2020 and every year since 2023 (8th edition in 2027), all with proceedings in IEEE Xplore
+- IEEE Lahore Section, IEEE ComSoc Lahore Chapter, IEEE Computer Society Lahore, HEC and PHEC listed as sponsors (2027)
+- Nine tracks across computer science (AI, NLP, vision, data, security, software, IoT and networks, robotics, remote sensing)
+- 6 pages max in IEEE two-column format, submission via EasyChair; the 2027 call says papers will be indexed in DBLP
+- Not listed in ICORE2026 or the CCF 2026 list; a small regional venue
+- Not the same as ICACSIS (Indonesia) or ICTACS (Tashkent)
+editions:
+- year: 2026
+  label: 7th ICACS
+  start: 2026-02-10
+  end: 2026-02-11
+  location: The University of Lahore, Lahore, Pakistan
+  url: https://easychair.org/cfp/icacs26
+  deadlines:
+  - kind: submission
+    date: 2025-11-10
+  - kind: notification
+    date: 2025-12-10
+  - kind: camera_ready
+    date: 2025-12-29
+  - kind: other
+    date: 2026-01-06
+    label: Early bird registration
+- year: 2027
+  label: 8th ICACS
+  start: 2027-02-02
+  end: 2027-02-03
+  location: The University of Lahore, Lahore, Pakistan
+  url: https://easychair.org/cfp/icacs27
+  deadlines:
+  - kind: submission
+    date: 2026-10-19
+  - kind: notification
+    date: 2026-12-10
+  - kind: camera_ready
+    date: 2026-12-28
+  - kind: other
+    date: 2027-01-05
+    label: Early bird registration
+sources:
+- https://easychair.org/cfp/icacs27
+- https://easychair.org/cfp/icacs26
+- https://sites.uol.edu.pk/icacs27/index
+- https://api.crossref.org/works?query.bibliographic=Advancements+in+Computational+Sciences&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ICACS&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- The official site (sites.uol.edu.pk) blocks automated access; 2026 and 2027 dates taken from the organizers' EasyChair calls for papers

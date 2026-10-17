@@ -1,0 +1,65 @@
+id: raise
+name: RAISE
+full_name: Workshop on Real-world AI Security and Engineering for Cybersecurity Systems
+type: workshop
+tier: minor
+areas: [security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Co-located with ESORICS; chairs Antonio Emanuele Cina (University of Genoa), Lorenzo Cazzaro (University
+  of Luxembourg) and Bhupendra Acharya (University of Louisiana at Lafayette)
+organizer_country: [europe, usa]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://raise-workshop.github.io/
+notes:
+- Workshop co-located with ESORICS; 1st edition in 2026 in Rome
+- "Scope: security of AI-based cybersecurity systems in real deployments, and AI for security under operational
+  constraints; industry and applied work encouraged"
+- Full papers (up to 12 pages, 16 in camera-ready) go into the Springer LNCS ESORICS workshop proceedings
+- Non-archival track of up to 6 pages for work in progress, experience reports and negative results, not in the
+  proceedings
+- Double-blind review with at least two reviewers; two submission rounds in 2026
+- 2026 program had 7 short talks (10 minutes each), a keynote shared with HumSec and a panel
+editions:
+- year: 2026
+  location: Rome, Italy
+  url: https://raise-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-22
+    tz: AoE
+    label: First round
+  - kind: notification
+    date: 2026-07-22
+    tz: AoE
+    label: First round
+  - kind: submission
+    date: 2026-07-20
+    tz: AoE
+    label: Second round
+  - kind: notification
+    date: 2026-08-09
+    tz: AoE
+    label: Second round
+  - kind: camera_ready
+    date: 2026-08-07
+    tz: AoE
+    label: First round
+  - kind: camera_ready
+    date: 2026-08-16
+    tz: AoE
+    label: Second round
+sources:
+- https://raise-workshop.github.io/
+- https://sites.google.com/di.uniroma1.it/esorics2026/program/accepted-workshops
+last_verified: 2026-10-17
+unverified:
+- Exact workshop day in 2026 (the site only gives the ESORICS week, September 14 to 18)
+- No CORE ICORE2026 entry found for RAISE
+- Whether RAISE will continue at ESORICS 2027

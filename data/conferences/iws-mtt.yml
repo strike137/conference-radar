@@ -1,0 +1,52 @@
+id: iws-mtt
+name: IEEE IWS
+full_name: IEEE MTT-S International Wireless Symposium
+type: conference
+tier: minor
+areas: [communications]
+region: china
+language: english
+frequency: annual
+organizer: IEEE MTT-S and the Microwave Society of the Chinese Institute of Electronics (CIE)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5]
+links:
+  website: http://www.em-conf.com/iws2026/
+notes:
+- RF, microwave and millimeter-wave components, circuits, antennas and wireless systems (physical layer)
+- Technically sponsored by IEEE MTT-S and the CIE Microwave Society; organized by Chinese host universities as part of China Microwave Week
+- Always held in China (2021 Nanjing, 2022 Harbin, 2023 Qingdao, 2024 Beijing, 2025 Xi'an, 2026 Shenzhen)
+- 3-page anonymous paper submissions; presented papers go to IEEE Xplore
+- Authors can submit extended versions to an IEEE T-MTT mini special issue on IWS
+- Not listed in the CORE portal (ICORE2026); RF and microwave engineering venue outside the usual CS rankings
+editions:
+- year: 2026
+  start: 2026-05-09
+  end: 2026-05-12
+  location: Shenzhen, China
+  url: http://www.em-conf.com/iws2026/
+  deadlines:
+  - kind: other
+    date: 2026-02-28
+    label: Special session, workshop and tutorial proposals
+  - kind: submission
+    date: 2026-03-08
+    label: Papers (extended from 28 February)
+  - kind: notification
+    date: 2026-03-28
+  - kind: camera_ready
+    date: 2026-04-09
+    label: Final papers (3 April in the call for papers PDF)
+sources:
+- http://www.em-conf.com/iws2026/
+- http://www.em-conf.com/iws2026/conference/htm_about.php?title=About%20IWS
+- http://www.em-conf.com/iws2026/conference/htm_paper.php?title=Paper%20Submission
+- http://www.em-conf.com/iws2026/downloads/call_for_papers_iws2026_20260410-v12.pdf
+- https://portal.core.edu.au/conf-ranks/?search=IWS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2027 edition not announced as of 2026-10-17

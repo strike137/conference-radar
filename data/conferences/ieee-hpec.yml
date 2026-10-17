@@ -1,0 +1,65 @@
+id: ieee-hpec
+name: IEEE HPEC
+full_name: IEEE High Performance Extreme Computing Conference
+type: conference
+tier: minor
+areas: [systems, ai]
+region: online
+language: english
+frequency: annual
+organizer: IEEE Boston Section, with MIT Lincoln Laboratory as technical organizer
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://ieee-hpec.org/
+notes:
+- Long-running conference on high performance and embedded computing, AI at scale, graph analytics and
+  supercomputing (30th edition in 2026)
+- Chaired by MIT Lincoln Laboratory staff and administered by the IEEE Boston Section; hosts the MIT/Amazon/IEEE
+  Graph Challenge
+- Held as a virtual conference (Engagez platform) in mid September; formerly in Waltham, MA
+- Full papers up to 6 pages (extra pages 200 USD each) are submitted to IEEE Xplore; 2-page extended abstracts are
+  shown as posters
+- Extended abstracts and other accepted submissions are posted on ieee-hpec.org only and are non-archival
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  label: 30th HPEC
+  start: 2026-09-14
+  end: 2026-09-18
+  location: Virtual
+  url: https://ieee-hpec.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-14
+    time: "23:59"
+    tz: AoE
+    label: Papers and extended abstracts (extended)
+  - kind: notification
+    date: 2026-08-19
+  - kind: camera_ready
+    date: 2026-09-04
+- year: 2027
+  start: 2027-09-20
+  end: 2027-09-24
+  url: https://ieee-hpec.org/future-dates-2/
+  status: tentative
+sources:
+- https://ieee-hpec.org/
+- https://ieee-hpec.org/call-for-papers/
+- https://ieee-hpec.org/future-dates-2/
+- https://ieee-hpec.org/proceedings/
+- https://ieee-hpec.org/organizers/
+- https://ieee-hpec.org/2024/
+- https://api.crossref.org/works?query.bibliographic=IEEE+High+Performance+Extreme+Computing+Conference+2025&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=HPEC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Original 2026 submission deadline before the extension
+- 2027 dates are listed as tentative on the official future dates page
+- Format of the 2027 edition (virtual or in person) not announced
+- Virtual format confirmed on the official pages for 2024 to 2026; earlier virtual editions (2020 to 2023) not checked
+last_verified: 2026-10-17

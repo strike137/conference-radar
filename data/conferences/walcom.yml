@@ -1,0 +1,76 @@
+id: walcom
+name: WALCOM
+full_name: International Conference and Workshops on Algorithms and Computation
+type: conference
+tier: major
+areas: [general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: WALCOM Steering Committee, with a local host institution each year
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [9]
+  conference_months: [2, 3]
+links:
+  website: http://www.walcom-conference.org/
+notes:
+- Started in 2007 in Dhaka as the Workshop on Algorithms and Computation, organized by the Bangladesh Academy of Sciences;
+  renamed Conference and Workshops on Algorithms and Computation from 2017
+- Held mostly in Bangladesh and India until 2019, then rotating in Asia (Singapore, Myanmar online, Indonesia, Taiwan,
+  Japan, China); 2026 in Perugia, Italy was the first edition in Europe
+- Proceedings in Springer LNCS every year since 2008
+- Theory scope with a strong graph algorithms and graph drawing community (graph theory, computational geometry,
+  combinatorial optimization, parameterized, online and string algorithms)
+- Papers up to 14 pages in LNCS style including references, optional appendix read at the discretion of the PC
+- Selected papers invited to journal special issues (2027 lists Algorithmica, JGAA and TCS)
+- Ranked B in ICORE2026
+editions:
+- year: 2026
+  label: 20th WALCOM
+  start: 2026-03-04
+  end: 2026-03-06
+  location: Perugia, Italy
+  url: https://mozart.diei.unipg.it/walcom2026/
+  deadlines:
+  - kind: submission
+    date: 2025-09-21
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-11-07
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-24
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  label: 21st WALCOM, National Taiwan Normal University
+  start: 2027-03-24
+  end: 2027-03-26
+  location: Taipei, Taiwan
+  url: https://sites.google.com/gapps.ntnu.edu.tw/walcom2027/
+  deadlines:
+  - kind: submission
+    date: 2026-09-21
+    tz: AoE
+  - kind: notification
+    date: 2026-11-09
+sources:
+- http://www.walcom-conference.org/
+- https://mozart.diei.unipg.it/walcom2026/
+- https://mozart.diei.unipg.it/walcom2026/cfp.html
+- https://sites.google.com/gapps.ntnu.edu.tw/walcom2027/
+- https://sites.google.com/gapps.ntnu.edu.tw/walcom2027/call-for-papers
+- https://link.springer.com/conference/walcom
+- https://portal.core.edu.au/conf-ranks/?search=WALCOM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- WALCOM 2027 camera-ready and registration deadlines are TBA on the official page
+- Not found in the CCF 2026 list via the ccfddl mirror (ccf.org.cn blocked by a captcha)
+- Acceptance rates and fees are not published on the official pages

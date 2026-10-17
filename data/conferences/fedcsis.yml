@@ -1,0 +1,80 @@
+id: fedcsis
+name: FedCSIS
+full_name: Conference on Computer Science and Intelligence Systems
+type: conference
+tier: minor
+areas: [ai, data, security, software, general]
+region: europe
+language: english
+frequency: annual
+organizer: Polish Information Processing Society (PTI)
+organizer_country: [europe]
+proceedings: IEEE Xplore; Annals of Computer Science and Information Systems (ACSIS)
+archival: true
+indexing: [Web of Science, Scopus, DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8, 9]
+links:
+  website: https://fedcsis.org/
+notes:
+- Continues IMCSIT (2006 to 2010), which grew out of the autumn meetings of the Polish Information Processing Society; named FedCSIS since 2011
+- Main track split into five topical areas (AI, data processing, security of AI and AI for security, business and society, software and system engineering) plus many thematic sessions
+- Full and short papers go to IEEE Xplore and an ACSIS volume; position and communication papers appear in separate ACSIS volumes, not in IEEE Xplore
+- Held in a different European city each year (Sofia 2022, Warsaw 2023, Belgrade 2024, Krakow 2025, Riga 2026, Gdynia 2027)
+- Paper deadline is announced as having no extensions
+- "Fees 2026: 800 EUR regular early, 700 EUR student early; IEEE no-show policy applies"
+- Runs a yearly data mining competition on the KnowledgePit platform
+- "CORE C (ICORE2026); not in the CCF 2026 list"
+editions:
+- year: 2026
+  start: 2026-08-23
+  end: 2026-08-26
+  location: Riga, Latvia
+  url: https://2026.fedcsis.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-15
+    label: Regular papers
+  - kind: other
+    date: 2026-05-19
+    label: Position papers
+  - kind: notification
+    date: 2026-06-13
+  - kind: camera_ready
+    date: 2026-06-30
+- year: 2027
+  start: 2027-09-12
+  end: 2027-09-15
+  location: Gdynia, Poland
+  url: https://2027.fedcsis.org/
+  deadlines:
+  - kind: submission
+    date: 2027-05-14
+    label: Regular papers (no extensions)
+  - kind: other
+    date: 2027-06-11
+    label: Position papers
+  - kind: notification
+    date: 2027-06-28
+  - kind: camera_ready
+    date: 2027-07-15
+sources:
+- https://2027.fedcsis.org/
+- https://2027.fedcsis.org/important_dates
+- https://2027.fedcsis.org/for_authors/publication
+- https://2027.fedcsis.org/for_authors/indexation
+- https://2027.fedcsis.org/about
+- https://2027.fedcsis.org/venue
+- https://2026.fedcsis.org/
+- https://2026.fedcsis.org/important_dates
+- https://2026.fedcsis.org/fees
+- https://archive.fedcsis.org/proceedings
+- https://portal.core.edu.au/conf-ranks/?search=FedCSIS&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+- FedCSIS 2027 fees not yet announced
+last_verified: 2026-10-17

@@ -1,0 +1,82 @@
+id: iccs-cs
+name: ICCS
+full_name: International Conference on Computational Science
+type: conference
+tier: major
+areas: [general, systems, ai]
+region: europe
+language: english
+frequency: annual
+organizer: ICCS organisers (chairs at the University of Amsterdam and partner universities) with a rotating local host
+  (DESY Hamburg 2026, AGH University of Krakow 2027)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+indexing: [Scopus, DBLP, EI, CPCI]
+rank:
+  core: Multiconference
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://www.iccs-meeting.org/
+notes:
+- Annual since 2001; proceedings in Springer LNCS (Procedia Computer Science from 2010 to 2017)
+- Held mostly in Europe (Krakow 2021, London 2022, Prague 2023, Malaga 2024, Hamburg 2026, Krakow 2027); Singapore in
+  2025
+- Main track plus about 20 thematic Workshops on Computational Science, all submitted via EasyChair; main track and
+  workshops get separate LNCS volumes (six volumes in 2026)
+- Full papers 12 to 15 pages and short papers 6 to 8 pages (both in LNCS); an abstract only option is presented but not
+  published
+- Best papers are invited to a special issue of the Journal of Computational Science
+- Broad scope covering scientific computing, HPC, simulation, complex systems, AI for science and quantum computing
+- Listed as a Multiconference in CORE ICORE2026
+- Beware of a fake ICCS run by WASET; the real one is at iccs-meeting.org
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-01
+  location: DESY, Hamburg, Germany
+  url: https://www.iccs-meeting.org/iccs2026/
+  deadlines:
+  - kind: other
+    date: 2026-01-09
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-02-20
+    tz: AoE
+    label: Papers (final extension)
+  - kind: notification
+    date: 2026-03-23
+  - kind: camera_ready
+    date: 2026-04-10
+- year: 2027
+  start: 2027-07-12
+  end: 2027-07-14
+  location: AGH University of Krakow, Krakow, Poland
+  url: https://www.iccs-meeting.org/iccs2027/
+  deadlines:
+  - kind: other
+    date: 2027-01-15
+    label: Workshop proposals
+  - kind: submission
+    date: 2027-02-05
+    tz: AoE
+  - kind: notification
+    date: 2027-04-05
+  - kind: camera_ready
+    date: 2027-04-23
+sources:
+- https://www.iccs-meeting.org/
+- https://www.iccs-meeting.org/iccs2027/
+- https://www.iccs-meeting.org/iccs2027/important-dates/
+- https://www.iccs-meeting.org/iccs2027/call-for-papers/
+- https://www.iccs-meeting.org/iccs2027/previous-iccs/
+- https://www.iccs-meeting.org/iccs2027/organisers/
+- https://www.iccs-meeting.org/iccs2026/
+- https://www.iccs-meeting.org/iccs2026/important-dates/
+- https://portal.core.edu.au/conf-ranks/?search=ICCS&by=all&source=ICORE2026
+unverified:
+- Acceptance rate and registration fee not checked
+- Not found in a mirror of the CCF 2026 list (ccf.org.cn not read directly)
+last_verified: 2026-10-17

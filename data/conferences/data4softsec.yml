@@ -1,0 +1,57 @@
+id: data4softsec
+name: Data4SoftSec
+full_name: Workshop on Datasets for Software Security
+type: workshop
+tier: minor
+areas: [security, software]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE S&P (co-located workshop, SPW); 2026 organizers from George Mason University, Columbia University and UT Dallas
+organizer_country: [usa]
+proceedings: IEEE Xplore (IEEE SPW workshop proceedings)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://sites.google.com/view/data4softsec/home
+notes:
+- New workshop in 2026 (1st edition), co-located with the 47th IEEE Symposium on Security and Privacy in San Francisco
+- Topics are building, sharing and maintaining software security datasets, benchmarks for AI-based security tools
+  and lessons learned; 2026 theme was datasets for vulnerability detection and patching
+- Regular papers 6 to 10 pages and experience or tool demo papers 2 to 6 pages, IEEE two-column format, double-blind
+  review by at least three reviewers
+- Partially supported by an NSF CIRC planning project; the 2026 workshop included a panel on vulnerability research
+  infrastructure
+- 2026 submission deadline was extended by two weeks
+editions:
+- year: 2026
+  start: 2026-05-21
+  end: 2026-05-21
+  location: San Francisco, CA, USA
+  url: https://sites.google.com/view/data4softsec/home
+  deadlines:
+  - kind: submission
+    date: 2026-02-27
+    tz: AoE
+    label: Papers (extended from 2026-02-13)
+  - kind: notification
+    date: 2026-03-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-01
+    tz: AoE
+sources:
+- https://sites.google.com/view/data4softsec/home
+- https://sp2026.ieee-security.org/workshops.html
+- https://sp2026.ieee-security.org/cfworkshops.html
+- https://doi.org/10.1109/spw72489.2026.00001
+- https://portal.core.edu.au/conf-ranks/?search=Data4SoftSec&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- The workshop page does not state the proceedings explicitly; IEEE SPW 2026 proceedings (IEEE Xplore, DOI prefix
+  10.1109/spw72489.2026) contain dataset papers that appear to come from this workshop, but the per-workshop table of
+  contents could not be opened
+- Whether Data4SoftSec will run again in 2027 (no 2027 page found as of 2026-10-17)
+- Not listed in CORE ICORE2026
+last_verified: 2026-10-17

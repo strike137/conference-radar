@@ -1,0 +1,68 @@
+id: aiware
+name: AIware
+full_name: ACM International Conference on AI-powered Software
+type: conference
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (AIware steering committee)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [2, 7]
+  conference_months: [7, 11]
+links:
+  website: https://2026.aiwareconf.org/
+notes:
+- ACM conference on AI-powered software and AI for software engineering, started in 2024
+- Co-located with a major SE conference (FSE 2024 in Porto de Galinhas, ASE 2025 in Seoul, FSE 2026 in Montreal), so the deadline month moves with the host
+- Accepted papers published in the ACM Digital Library
+- Review on OpenReview; reviews become public once the author-reviewer discussion starts
+- Full papers 8 pages, short papers 2 to 4 pages, surveys 14 to 20 pages, ACM sigconf format
+- Tracks include main, arXiv, benchmark and dataset, and industry demo
+- Selected papers invited to an Empirical Software Engineering (Springer) special issue
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-19
+  end: 2025-11-20
+  location: Grand Walkerhill Seoul, Seoul, Korea
+  url: https://2025.aiwareconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-15
+    tz: AoE
+    label: Intent registration (optional)
+  - kind: submission
+    date: 2025-07-25
+    tz: AoE
+  - kind: notification
+    date: 2025-09-23
+  - kind: camera_ready
+    date: 2025-10-28
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-07
+  location: Concordia University, Montreal, Canada
+  url: https://2026.aiwareconf.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-15
+    tz: AoE
+  - kind: notification
+    date: 2026-03-28
+  - kind: camera_ready
+    date: 2026-05-07
+sources:
+- https://2026.aiwareconf.org/
+- https://2026.aiwareconf.org/track/aiware-2026-papers
+- https://2026.aiwareconf.org/series/aiware
+- https://2025.aiwareconf.org/
+- https://2025.aiwareconf.org/track/aiware-2025-papers
+- https://portal.core.edu.au/conf-ranks/?search=AIware&by=all&source=ICORE2026
+unverified:
+- AIware 2027 dates, location and host conference not yet announced
+last_verified: 2026-10-17

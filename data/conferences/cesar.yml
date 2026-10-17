@@ -1,0 +1,68 @@
+id: cesar
+name: C&ESAR
+full_name: Computer & Electronics Security Application Rendezvous
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: mixed
+frequency: annual
+organizer: French Ministry of Armed Forces (DGA)
+organizer_country: [europe]
+proceedings: CEUR-WS (CEUR Workshop Proceedings, curated selection of papers)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [11]
+links:
+  website: https://www.cesar-conference.org/
+notes:
+- French cybersecurity conference run by the French Ministry of Defense (DGA) since 1997, mixing academia, industry and
+  government
+- Held every fall (November) in Rennes, France, as part of the European Cyber Week
+- Papers in English or French; research, SoK, replication, practice and work in progress papers accepted
+- Two-step selection; selective proposal review in spring (low acceptance), then a final version in August
+- Official proceedings in CEUR-WS since 2021 (curated selection only; none for 2024); other accepted papers are posted
+  on the conference site
+- 2025 received 20 submissions and accepted 6 papers (CEUR-WS Vol-4143 preface)
+- Each edition used to have a theme; 2024 and 2025 were "Cybersecurity at Large"
+- Not ranked on CORE ICORE2026 or CCF
+editions:
+- year: 2025
+  start: 2025-11-19
+  end: 2025-11-20
+  location: Rennes, France
+  url: https://www.cesar-conference.org/
+- year: 2026
+  start: 2026-11-18
+  end: 2026-11-19
+  location: Rennes, France
+  url: https://2026.cesar-conference.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-29
+    label: Proposal registration
+  - kind: submission
+    date: 2026-05-13
+    label: Proposal submission
+  - kind: notification
+    date: 2026-06-20
+    label: Preselection
+  - kind: camera_ready
+    date: 2026-08-19
+    label: Final version
+  - kind: notification
+    date: 2026-09-30
+    label: Final acceptance
+sources:
+- https://www.cesar-conference.org/
+- https://www.cesar-conference.org/archives/
+- https://2026.cesar-conference.org/
+- https://2026.cesar-conference.org/call-for-paper_full/
+- https://ceur-ws.org/Vol-4143/
+- https://ceur-ws.org/Vol-4143/preface.pdf
+- https://portal.core.edu.au/conf-ranks/?search=CESAR&by=all&source=ICORE2026
+unverified:
+- C&ESAR 2025 deadlines not recorded
+- Registration fees not stated on the 2026 call for papers
+last_verified: 2026-10-17

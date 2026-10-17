@@ -1,0 +1,93 @@
+id: sat
+name: SAT
+full_name: International Conference on Theory and Applications of Satisfiability Testing
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: SAT Association (steering committee)
+organizer_country: [international]
+proceedings: LIPIcs (Dagstuhl)
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [2, 3, 4]
+  conference_months: [7, 8]
+links:
+  website: https://satisfiability.org/
+  dblp: https://dblp.org/db/conf/sat/index.html
+notes:
+- Main annual venue for propositional satisfiability, MaxSAT, pseudo-Boolean, QBF, SMT, model counting and SAT-related CP
+- Proceedings in LIPIcs (open access, Dagstuhl)
+- CORE A (ICORE2026), CCF B
+- Long papers (9 to 15 pages), short papers and tool papers (up to 8 pages), LIPIcs format
+- Single-blind review with abstract registration about a week before the paper deadline and an author rebuttal
+- Often co-located (with CP and SoCS in Glasgow 2025, part of FLoC in Haifa 2022 and Lisbon 2026)
+- Mostly Europe but rotates worldwide (Barcelona 2021, Haifa 2022, Alghero 2023, Pune 2024, Glasgow 2025, Lisbon 2026, Barcelona 2027)
+editions:
+- year: 2025
+  start: 2025-08-12
+  end: 2025-08-15
+  location: Glasgow, Scotland, UK (University of Glasgow)
+  url: https://satisfiability.org/SAT25/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-24
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-03-20
+  - kind: submission
+    date: 2025-04-03
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-03-27
+  - kind: notification
+    date: 2025-05-29
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-09
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-23
+  location: Lisbon, Portugal (ISCTE, part of FLoC 2026)
+  url: https://satisfiability.org/SAT26/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-02
+    tz: AoE
+    label: Extended from 2026-02-20
+  - kind: submission
+    date: 2026-03-10
+    tz: AoE
+    label: Extended from 2026-02-27
+  - kind: notification
+    date: 2026-04-30
+  - kind: camera_ready
+    date: 2026-05-14
+- year: 2027
+  start: 2027-07-05
+  end: 2027-07-09
+  location: Barcelona, Spain
+  url: https://satisfiability.org/SAT27/
+sources:
+- https://satisfiability.org/
+- https://satisfiability.org/SAT25/
+- https://satisfiability.org/SAT25/dates/
+- https://satisfiability.org/SAT25/cfp/
+- https://satisfiability.org/SAT26/
+- https://satisfiability.org/SAT26/pages/dates.html
+- https://satisfiability.org/SAT26/pages/cfp.html
+- https://www.dagstuhl.de/dagpub/978-3-95977-431-4
+- https://satisfiability.org/SAT27/
+- https://portal.core.edu.au/conf-ranks/?search=SAT&by=acronym&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- SAT 2027 page is a placeholder; 5 to 9 July 2027 may include co-located events, and no deadlines are announced yet
+last_verified: 2026-10-17

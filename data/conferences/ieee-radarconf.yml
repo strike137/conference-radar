@@ -1,0 +1,78 @@
+id: ieee-radarconf
+name: IEEE RadarConf
+full_name: IEEE Radar Conference
+type: conference
+tier: minor
+areas: [communications]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Aerospace and Electronic Systems Society (AESS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [5]
+links:
+  website: https://ieee-radarconf.org/
+notes:
+- Flagship radar conference of the IEEE Aerospace and Electronic Systems Society
+- Covers radar systems and applications, radar signal and data processing, phenomenology, antennas and components
+- Full papers of 3 to 6 pages including figures, tables and references in the IEEE two-column format (2027)
+- In-person presentation required; papers not presented can be excluded from IEEE Xplore
+- All accepted papers are considered for a special section of IEEE Transactions on Aerospace and Electronic Systems
+- Week includes a Radar Boot Camp, tutorials, a student paper competition, IEEE Radar Challenges and an exhibition
+- Usually held in the USA (Denver 2024, Phoenix 2026); 2027 edition in Bangalore, India
+- Radar engineering venue outside the usual CS rankings, not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-11
+  end: 2026-05-15
+  location: Phoenix, AZ, USA
+  url: https://2026.ieee-radarconf.org/
+  deadlines:
+  - kind: submission
+    date: 2025-12-01
+    label: Papers (extended from 2025-11-17)
+  - kind: notification
+    date: 2026-02-04
+- year: 2027
+  start: 2027-05-01
+  end: 2027-05-06
+  location: Bangalore, India
+  url: https://radarconf2027.org/
+  deadlines:
+  - kind: other
+    date: 2026-10-10
+    label: Special session proposals
+  - kind: submission
+    date: 2026-10-31
+  - kind: other
+    date: 2026-10-31
+    label: Workshop and tutorial proposals
+  - kind: notification
+    date: 2027-01-15
+  - kind: camera_ready
+    date: 2027-02-15
+sources:
+- https://ieee-radarconf.org/
+- https://2026.ieee-radarconf.org/
+- https://2026.ieee-radarconf.org/authors/call-for-papers
+- https://2026.ieee-radarconf.org/authors/initial-author-instructions-0
+- https://2024.ieee-radarconf.org/
+- https://radarconf2027.org/
+- https://radarconf2027.org/important-dates/
+- https://radarconf2027.org/paper-submission/
+- https://radarconf2027.org/call-for-special-sessions/
+- https://2023.ieee-radarconf.org/
+- https://ieee-aess.org/conferences
+- https://ieee-aess.org/event/conference/2027-ieee-radar-conference
+- https://portal.core.edu.au/conf-ranks/?search=RadarConf&by=all&source=ICORE2026
+unverified:
+- Deadline times and time zones not stated on the official pages
+- RadarConf 2027 workshop and tutorial proposal deadline is Oct 31, 2026 on the Important Dates page but Sep 30, 2026 on the call for workshops and call for tutorials pages
+- RadarConf 2026 camera-ready date not recorded
+- Region judged partly from memory of earlier hosts (2021 and 2022 in the USA, 2025 in Krakow); those sites could not be reached (2023 San Antonio and 2024 Denver confirmed)
+- Not found on the CCF 2026 list (checked via a mirror only)
+last_verified: 2026-10-17

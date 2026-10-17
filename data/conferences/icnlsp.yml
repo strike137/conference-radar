@@ -1,0 +1,68 @@
+id: icnlsp
+name: ICNLSP
+full_name: International Conference on Natural Language and Speech Processing
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICNLSP committee (conference chair Mourad Abbas) with a host university (University of Trento in 2026)
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9, 10]
+links:
+  website: https://www.icnlsp.org/
+  dblp: https://dblp.org/db/conf/icnlsp/
+notes:
+- Small NLP and speech conference running since 2015; 9th edition in 2026
+- Proceedings in the ACL Anthology (36 to 48 papers per year in 2021 to 2025); selected extended papers in Springer Signals and Communication Technology
+- Hybrid format; online in 2021 to 2023, then Trento 2024, Odense 2025 and Trento 2026
+- Not listed in the CORE ICORE2026 or CCF 2026 rankings
+editions:
+- year: 2025
+  start: 2025-08-25
+  end: 2025-08-27
+  location: Odense, Denmark (hybrid)
+  url: https://www.icnlsp.org/2025welcome/
+  deadlines:
+  - kind: submission
+    date: 2025-06-08
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-07-20
+  - kind: camera_ready
+    date: 2025-08-03
+- year: 2026
+  start: 2026-09-25
+  end: 2026-09-26
+  location: Trento, Italy (hybrid)
+  url: https://www.icnlsp.org/2026welcome/
+  deadlines:
+  - kind: submission
+    date: 2026-06-22
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-06-15
+  - kind: notification
+    date: 2026-07-25
+  - kind: camera_ready
+    date: 2026-08-06
+sources:
+- https://www.icnlsp.org/
+- https://www.icnlsp.org/2026welcome/
+- https://www.icnlsp.org/2025welcome/
+- https://www.icnlsp.org/2024welcome/
+- https://www.icnlsp.org/2023welcome/
+- https://www.icnlsp.org/2022venue/
+- https://www.icnlsp.org/2021-venue/
+- https://aclanthology.org/venues/icnlsp/
+- https://portal.core.edu.au/conf-ranks/?search=ICNLSP&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ICNLSP 2027 not announced
+- Organizer country not stated (no society named), so organizer_country is left out
+- Indexing of the ACL Anthology proceedings (Scopus, EI, DBLP) not stated on the official site

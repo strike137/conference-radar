@@ -1,0 +1,83 @@
+id: lion
+name: LION
+full_name: Learning and Intelligent Optimization Conference
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: LION Association (non-profit, volunteer-based) with a local host university
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://lion21.org/
+  dblp: https://dblp.org/db/conf/lion/
+notes:
+- Annual conference on the intersection of machine learning, AI, operations research and metaheuristics, run since
+  2007 by the non-profit LION Association
+- Proceedings in Springer LNCS, published after the conference so authors can use feedback from the event; only an
+  informal preprint PDF is available at the conference
+- "Paper types: long papers (12 to 15 pages LNCS), short papers (6 to 11 pages in 2026, 6 to 10 in 2027) and
+  poster-only abstracts"
+- Single-blind review (2026, 2027); for 2027 at least one author must register by the early deadline and present in
+  person
+- LION21 (2027) adds a fast track to ACM Transactions on Evolutionary Learning and Optimization (TELO)
+- Held in Europe (Nice 2023, Ischia 2024, Prague 2025, Milan 2026, Barcelona 2027)
+- Fee about 520 EUR regular early, 450 EUR student early (2026), including LION Association membership
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-19
+  location: Milan, Italy
+  url: https://lion20.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-09
+    tz: AoE
+    label: Long and short papers
+  - kind: notification
+    date: 2026-03-29
+  - kind: other
+    date: 2026-03-31
+    tz: AoE
+    label: Abstract for poster presentation only
+  - kind: camera_ready
+    date: 2026-05-20
+- year: 2027
+  start: 2027-06-14
+  end: 2027-06-17
+  location: Barcelona, Spain
+  url: https://lion21.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-31
+    tz: AoE
+    label: Long and short papers
+  - kind: notification
+    date: 2027-03-29
+  - kind: other
+    date: 2027-03-31
+    tz: AoE
+    label: Abstract for poster presentation only
+  - kind: camera_ready
+    date: 2027-05-20
+sources:
+- https://lion21.org/
+- https://lion20.org/
+- https://intelligent-optimization.org/
+- https://www.intelligent-optimization.org/lion18
+- https://www.intelligent-optimization.org/lion17
+- https://portal.core.edu.au/conf-ranks/?search=LION&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- The LION21 site still carries some text copied from LION20 (best paper and programme notices), so the 2027
+  dates may still change
+- LION19 (Prague, 2025) dates not checked; the lion19.org site no longer has content
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-17

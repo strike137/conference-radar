@@ -1,0 +1,73 @@
+id: vdat
+name: VDAT
+full_name: International Symposium on VLSI Design and Test
+type: conference
+tier: minor
+areas: [systems, communications, security]
+region: south-asia
+language: english
+frequency: annual
+organizer: VLSI Society of India, with a rotating Indian host institute (JIIT Noida in 2026)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://vdat.org.in/
+notes:
+- Supported by the VLSI Society of India, whose president and secretary chair the steering committee
+- Began as a workshop in 1998, became a symposium in 2005 and is held every year; 30th edition in 2026
+- The host institute rotates within India (Chandigarh in 2025, Vellore in 2024, Noida in 2026)
+- Accepted and presented papers are submitted to IEEE Xplore; recent volumes (2020, 2021, 2024, 2026) are in Xplore
+- Covers VLSI and SoC design, devices, EDA, AI hardware, test and reliability, hardware security, packaging and quantum
+  hardware
+- Double-blind review, 6 pages max in IEEE format, submission and camera-ready via SoftConf
+- Not listed in ICORE2026 or the CCF 2026 list; a regional venue with strong Indian industry participation
+- Not the same as VLSI-DAT (Taiwan) or VLSID (International Conference on VLSI Design)
+editions:
+- year: 2025
+  label: 29th VDAT
+  start: 2025-08-07
+  end: 2025-08-09
+  location: Chandigarh, India
+  url: https://vdat.org.in/vdat2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-15
+  - kind: notification
+    date: 2025-07-01
+  - kind: camera_ready
+    date: 2025-07-15
+- year: 2026
+  label: 30th VDAT
+  start: 2026-08-20
+  end: 2026-08-22
+  location: Jaypee Institute of Information Technology, Noida, India
+  url: https://vdat.org.in/
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+  - kind: notification
+    date: 2026-07-15
+  - kind: other
+    date: 2026-07-20
+    label: Early bird registration
+  - kind: camera_ready
+    date: 2026-08-01
+sources:
+- https://vdat.org.in/
+- https://vdat.org.in/submissions
+- https://vdat.org.in/camera_ready
+- https://vdat.org.in/committees
+- https://vdat.org.in/conference-registration
+- https://vdat.org.in/vdat2025/
+- https://www.marvell.com/company/events/vdat-2026.html
+- https://api.crossref.org/works?query.bibliographic=VLSI+Design+and+Test+VDAT&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=VLSI&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- VDAT 2027 not announced yet; the official site still shows VDAT 2026
+- IEEE Xplore pages not opened directly; volumes found via IEEE DOI (Crossref) metadata
+- Locations of 2022 to 2024 editions only from the previous-years links and Crossref (IIT Jammu 2022, BITS Pilani 2023, VIT Vellore 2024)

@@ -1,0 +1,115 @@
+id: cgi
+name: CGI
+full_name: Computer Graphics International
+type: conference
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Computer Graphics Society (CGS), with a rotating local host university
+organizer_country: [international]
+proceedings: Springer LNCS (proceedings track); The Visual Computer journal (Springer Nature, journal track)
+archival: true
+rank:
+  core: C
+  ccf: C
+typical:
+  deadline_months: [2, 3, 4]
+  conference_months: [7]
+links:
+  website: https://www.cgs-network.org/cgi27/
+  dblp: https://dblp.org/db/conf/cgi/
+notes:
+- One of the oldest annual computer graphics conferences (since 1983), run by the Computer Graphics Society (CGS) founded in Geneva
+- Two tracks with one EasyChair submission; the earlier Visual Computer track leads to publication in The Visual Computer journal after conditional acceptance and revision
+- The later proceedings track is published as a Springer LNCS volume; outstanding papers are invited to The Visual Computer or Computer Animation and Virtual Worlds (Wiley)
+- Full papers 8 to 12 pages, double-blind review
+- Rotates worldwide (Shanghai 2023, Geneva 2024, Hong Kong 2025, London 2026, Cairns 2027); virtual 2020 to 2022
+- 2026 edition was hybrid with online presentation allowed
+- Renamed Computer Graphics International & Artificial Intelligence (CGI-AI) for the 2027 edition
+- ICORE2026 rank C; CCF C (computer graphics and multimedia)
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-10
+  location: London, UK (Bournemouth University and University of the Arts London)
+  url: https://www.cgs-network.org/cgi26/
+  deadlines:
+  - kind: submission
+    date: 2026-03-12
+    time: "23:59"
+    tz: UTC
+    label: Visual Computer journal track (extended from 2026-03-02)
+  - kind: notification
+    date: 2026-04-20
+    time: "23:59"
+    tz: UTC
+    label: Visual Computer track preliminary notification (moved from 2026-04-15)
+  - kind: submission
+    date: 2026-04-30
+    time: "23:59"
+    tz: UTC
+    label: LNCS proceedings track (extended from 2026-04-20)
+  - kind: other
+    date: 2026-05-05
+    time: "23:59"
+    tz: UTC
+    label: Visual Computer track revised papers (extended from 2026-05-01)
+  - kind: notification
+    date: 2026-05-20
+    time: "23:59"
+    tz: UTC
+    label: LNCS track preliminary notification (moved from 2026-05-15)
+  - kind: other
+    date: 2026-05-31
+    time: "23:59"
+    tz: UTC
+    label: LNCS track revised papers
+  - kind: notification
+    date: 2026-06-05
+    time: "23:59"
+    tz: UTC
+    label: Final notification of revised papers (both tracks)
+- year: 2027
+  start: 2027-07-05
+  end: 2027-07-09
+  location: Cairns, Australia (James Cook University)
+  url: https://www.cgs-network.org/cgi27/
+  deadlines:
+  - kind: submission
+    date: 2027-02-28
+    label: Visual Computer journal track
+  - kind: notification
+    date: 2027-03-30
+    label: Visual Computer track preliminary notification
+  - kind: other
+    date: 2027-04-15
+    label: Visual Computer track revised papers
+  - kind: submission
+    date: 2027-04-20
+    label: LNCS proceedings track
+  - kind: notification
+    date: 2027-05-10
+    label: Visual Computer track final notification
+  - kind: notification
+    date: 2027-05-31
+    label: LNCS track notification
+  - kind: camera_ready
+    date: 2027-06-20
+    label: LNCS track final revised papers
+sources:
+- https://www.cgs-network.org/
+- https://www.cgs-network.org/cgi26/
+- https://www.cgs-network.org/cgi25/
+- https://www.cgs-network.org/cgi27/
+- https://www.cgs-network.org/cgi27/important-dates/
+- https://www.cgs-network.org/cgi27/call-for-papers/
+- https://www.cgs-network.org/cgi27/for-authors/
+- https://portal.core.edu.au/conf-ranks/?search=CGI&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+- CGI-AI 2027 deadline times and time zone not stated (2026 deadlines were 23:59 GMT)
+- CGI-AI 2027 registration deadlines and fees not yet published
+last_verified: 2026-10-17

@@ -1,0 +1,59 @@
+id: humsec
+name: HumSec
+full_name: Workshop on Human-Targeted Cyber Threats and Defenses
+type: workshop
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: Co-located with ESORICS; chairs Ying Yuan (Orebro University, Sweden), Eugenio Nemmi (Sapienza University
+  of Rome) and Qingying Hao (ShanghaiTech University)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://humsec26.github.io/
+notes:
+- Half-day workshop co-located with ESORICS; first held in 2026 in Rome (not in the ESORICS 2025 workshop list)
+- "Scope: phishing, scams, misinformation, online manipulation and other human-targeted threats, plus defenses
+  and usable security"
+- Accepted papers are published by Springer in LNCS (ESORICS workshop proceedings)
+- Double-blind review; long papers up to 16 pages and short papers up to 8 pages in LNCS format, excluding references
+  and appendices
+- 2026 program had 9 papers and a keynote shared with the RAISE workshop
+- Submission deadline was extended from June 25 to July 10 in 2026
+editions:
+- year: 2026
+  start: 2026-09-18
+  end: 2026-09-18
+  location: Rome, Italy
+  url: https://humsec26.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-25
+    label: Original deadline (later extended)
+  - kind: submission
+    date: 2026-07-10
+    time: '23:59'
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2026-08-02
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-14
+    time: '23:59'
+    tz: AoE
+sources:
+- https://humsec26.github.io/
+- https://sites.google.com/di.uniroma1.it/esorics2026/program/accepted-workshops
+- https://esorics2025.sciencesconf.org/resource/page/id/13
+last_verified: 2026-10-17
+unverified:
+- No CORE ICORE2026 entry found for HumSec
+- Whether HumSec will continue at ESORICS 2027

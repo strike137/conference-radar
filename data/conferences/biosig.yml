@@ -1,0 +1,52 @@
+id: biosig
+name: BIOSIG
+full_name: International Conference of the Biometrics Special Interest Group
+type: conference
+tier: minor
+areas: [security, vision]
+region: europe
+language: english
+frequency: annual
+organizer: GI special interest group BIOSIG with Fraunhofer IGD, CAST, BSI, EAB, NBL, ATHENE and others
+organizer_country: [europe]
+proceedings: IEEE Xplore (papers in GI LNI format)
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [9, 11]
+links:
+  website: https://www.biosig.de
+notes:
+- Annual biometrics conference of the BIOSIG special interest group of the German Gesellschaft fuer Informatik (GI)
+- Held at Fraunhofer IGD in Darmstadt, Germany every year; the 2026 edition is the 25th
+- Accepted papers are submitted to IEEE Xplore; papers use the LNI format and authors transfer copyright to LNI
+- Double-blind review via Microsoft CMT; up to 8 pages plus 2 pages of references, orals may extend to 10 pages
+- Encourages reproducible research with public datasets and ISO/IEC 19795-1 style reporting
+- EAB European Biometrics Research and Industry Awards are presented at the conference
+- One author per paper must register at the full rate; no-show papers may be removed from IEEE Xplore
+editions:
+- year: 2026
+  start: 2026-11-25
+  end: 2026-11-26
+  location: Darmstadt, Germany (Fraunhofer IGD)
+  url: https://www.biosig.de
+  deadlines:
+  - kind: submission
+    date: 2026-08-16
+    label: Full papers (extended from 2026-07-30)
+  - kind: notification
+    date: 2026-09-15
+  - kind: camera_ready
+    date: 2026-10-15
+sources:
+- https://www.biosig.de
+- https://biosig.de/fileadmin/TG/BIOSIG/BIOSIG2026/BIOSIG-CfP.pdf
+- https://biosig.de/paper-submission
+- https://fg-biosig.gi.de/aktivitaeten/mitteilungen
+- https://portal.core.edu.au/conf-ranks/?search=BIOSIG&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- BIOSIG 2025 dates could not be confirmed from an official page; only the 2026 edition is recorded
+- The 2026 CfP says IEEE Xplore inclusion is pending approval
+- Not listed in CORE ICORE2026 or the CCF list
+- Typical months partly based on past GI conference reports (September editions up to 2023)
+last_verified: 2026-10-17

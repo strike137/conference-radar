@@ -1,0 +1,136 @@
+id: lak
+name: LAK
+full_name: International Conference on Learning Analytics and Knowledge
+type: conference
+tier: major
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Society for Learning Analytics Research (SoLAR)
+organizer_country: [international]
+proceedings: Journal of Learning Analytics special issue (from LAK27, trial); ACM DL (ACM ICPS) up to LAK26; companion
+  proceedings on the SoLAR website for other tracks
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [9]
+  conference_months: [3, 4]
+links:
+  website: https://www.solaresearch.org/events/lak/lak27/
+  dblp: https://dblp.org/db/conf/lak/
+notes:
+- Flagship conference of the Society for Learning Analytics Research (SoLAR), held since 2011; research and practitioner audience
+- Full and short research papers go through double-blind review with a short optional rebuttal phase (7 days, max 500 words)
+- Research papers were published in ACM proceedings up to LAK26; from LAK27 they appear (as a trial) in special issues of the Journal of Learning Analytics, short papers as emerging works
+- Practitioner reports, posters, demos, workshops and doctoral consortium papers go to open access companion proceedings on the SoLAR website
+- At least one author must register by the early bird deadline for the paper to be included in the proceedings
+- Rotates worldwide (Arlington 2023, Kyoto 2024, Dublin 2025, Bergen 2026, Recife 2027); usually in March
+- Sister venue to EDM; LAK focuses on learning theory and practice rather than comparing prediction algorithms
+- ICORE2026 rank A; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-04-27
+  end: 2026-05-01
+  location: Bergen, Norway
+  url: https://www.solaresearch.org/events/lak/lak26/
+  deadlines:
+  - kind: submission
+    date: 2025-09-29
+    time: "23:59"
+    tz: AoE
+    label: Full and short research papers
+  - kind: other
+    date: 2025-10-14
+    time: "23:59"
+    tz: AoE
+    label: Practitioner reports and doctoral consortium
+  - kind: other
+    date: 2025-11-10
+    time: "23:59"
+    tz: AoE
+    label: Rebuttal deadline
+  - kind: other
+    date: 2025-11-10
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos
+  - kind: notification
+    date: 2025-12-04
+    time: "23:59"
+    tz: AoE
+    label: Research papers (moved from 2025-12-02)
+  - kind: camera_ready
+    date: 2026-01-15
+    time: "23:59"
+    tz: AoE
+    label: Research papers (extended from 2025-12-19)
+- year: 2027
+  start: 2027-03-08
+  end: 2027-03-12
+  location: Recife, Brazil (Mar Hotel)
+  url: https://www.solaresearch.org/events/lak/lak27/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-21
+    time: "23:59"
+    tz: AoE
+    label: Full and short research papers
+  - kind: submission
+    date: 2026-09-28
+    time: "23:59"
+    tz: AoE
+    label: Full and short research papers
+  - kind: other
+    date: 2026-10-13
+    time: "23:59"
+    tz: AoE
+    label: Doctoral consortium
+  - kind: other
+    date: 2026-10-22
+    time: "23:59"
+    tz: AoE
+    label: Practitioner reports (extended from 2026-10-13)
+  - kind: other
+    date: 2026-10-27
+    time: "23:59"
+    tz: AoE
+    label: AI Agents Academy (extended from 2026-10-13)
+  - kind: other
+    date: 2026-11-09
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos
+  - kind: notification
+    date: 2026-11-24
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: camera_ready
+    date: 2026-12-07
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: other
+    date: 2027-01-15
+    time: "23:59"
+    tz: PST
+    label: Early bird registration closes
+sources:
+- https://www.solaresearch.org/events/lak/
+- https://www.solaresearch.org/events/lak/lak26/
+- https://www.solaresearch.org/events/lak/lak26/general-call/
+- https://www.solaresearch.org/events/lak/lak26/news/
+- https://www.solaresearch.org/events/lak/lak25/general-call/
+- https://www.solaresearch.org/events/lak/lak27/
+- https://www.solaresearch.org/events/lak/lak27/general-call/
+- https://www.solaresearch.org/events/lak/lak27/proceedings-update/
+- https://www.solaresearch.org/events/lak/lak27/venue/
+- https://www.solaresearch.org/publications/conference-proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=LAK&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- LAK27 rebuttal deadline (the call says only "Nov 2026")
+- LAK27 poster and demo camera ready date (the call lists 16 Jan 2026, apparently a typo)
+- Whether the Journal of Learning Analytics publication route continues after the LAK27 trial
+last_verified: 2026-10-17

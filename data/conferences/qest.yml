@@ -1,0 +1,92 @@
+id: qest
+name: QEST
+full_name: International Conference on Quantitative Evaluation of Systems
+type: conference
+tier: minor
+areas: [systems, software]
+region: europe
+language: english
+frequency: annual
+organizer: QEST steering committee (joint QEST+FORMATS conference since 2024, part of the CONFEST umbrella)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+indexing: [Scopus, DBLP, Web of Science]
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://www.qest.org/
+  dblp: https://dblp.org/db/conf/qest/
+notes:
+- Forum on performance, reliability and verification of systems through stochastic models, measurements and
+  probabilistic model checking; roots in TOOLS, PNPM and PAPM-ProbMIV
+- Since 2024 held as a joint conference with FORMATS (QEST+FORMATS) with one program committee, one call for
+  papers and joint proceedings, co-located with CONCUR and others under CONFEST
+- Proceedings in Springer LNCS since 2013 (IEEE Computer Society 2004 to 2012)
+- Research, case study and tool papers; regular papers up to 16 pages and short papers up to 7 pages excluding
+  references; single-blind review with at least three reviewers
+- Artifact evaluation is mandatory for tool papers and optional for other papers
+- Mostly held in Europe (2021 Paris virtual, 2022 Warsaw, 2023 Antwerp, 2024 Calgary, 2025 Aarhus, 2026 Liverpool)
+editions:
+- year: 2025
+  label: QEST+FORMATS 2025
+  start: 2025-08-26
+  end: 2025-08-28
+  location: Aarhus, Denmark
+  url: https://www.qest.org/qest-formats-2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-04-11
+  - kind: submission
+    date: 2025-04-22
+  - kind: other
+    date: 2025-04-25
+    label: Artifact submission
+  - kind: notification
+    date: 2025-05-31
+  - kind: camera_ready
+    date: 2025-06-23
+- year: 2026
+  label: QEST+FORMATS 2026
+  start: 2026-09-02
+  end: 2026-09-04
+  location: Liverpool, United Kingdom
+  url: https://www.qest-formats.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-13
+    tz: AoE
+    label: Extended (originally 2026-04-03)
+  - kind: submission
+    date: 2026-04-20
+    tz: AoE
+    label: Extended (originally 2026-04-10)
+  - kind: other
+    date: 2026-04-27
+    tz: AoE
+    label: Artifact submission (extended from 2026-04-17)
+  - kind: notification
+    date: 2026-06-03
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-24
+    tz: AoE
+sources:
+- https://www.qest.org/
+- https://www.qest-formats.org/
+- https://www.qest-formats.org/cfp.html
+- https://www.qest-formats.org/proceedings.html
+- https://www.qest.org/qest-formats-2025/
+- https://www.qest.org/qest-formats-2025/proceedings.html
+- https://portal.core.edu.au/conf-ranks/?search=QEST&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Not listed on the CORE portal (ICORE2026 search for QEST and for the full title returned no results); rank.core
+  left out
+- Not found in the CCF list mirror (CCFrank4dblp); rank.ccf left out
+- 2027 edition not announced on the official site yet
+- The qest.org home page gives 2026 dates as September 1-4 (CONFEST span); the QEST+FORMATS 2026 site gives the
+  conference as September 2-4
+- 2025 dates are the main conference days from the proceedings title (August 26-28); the 2025 page lists August
+  25-30 for the whole CONFEST event

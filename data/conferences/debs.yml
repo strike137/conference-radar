@@ -1,0 +1,88 @@
+id: debs
+name: DEBS
+full_name: ACM International Conference on Distributed and Event-Based Systems
+type: conference
+tier: minor
+areas: [systems, data]
+region: europe
+language: english
+frequency: annual
+organizer: ACM (DEBS steering committee)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://debs.org/
+  dblp: https://dblp.org/db/conf/debs/index.html
+notes:
+- ACM conference on stream processing, complex event processing, event-driven middleware and distributed data systems
+- Proceedings in ACM DL
+- Not listed in CORE ICORE2026 or the CCF list
+- Research track is double-blind with rebuttal; research and benchmarking papers up to 12 pages, short, vision and position papers up to 6 pages
+- Also has industry and application papers, posters and demos, doctoral symposium and the yearly DEBS Grand Challenge
+- In-person event; authors of accepted papers are expected to present on site
+- Held in Europe in recent years (Milan 2021 online, Copenhagen 2022, Neuchatel 2023, Lyon 2024, Gothenburg 2025, Lisbon 2026, Galway 2027)
+editions:
+- year: 2026
+  start: 2026-06-23
+  end: 2026-06-26
+  location: Lisbon, Portugal (Faculty of Sciences, University of Lisbon)
+  url: https://2026.debs.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-22
+    time: "23:59"
+    tz: AoE
+    label: Research papers (extended from 2026-02-13)
+  - kind: submission
+    date: 2026-03-01
+    time: "23:59"
+    tz: AoE
+    label: Research papers (extended from 2026-02-20)
+  - kind: submission
+    date: 2026-03-27
+    tz: AoE
+    label: Industry and application papers (extended from 2026-03-24)
+  - kind: notification
+    date: 2026-04-18
+    label: Research papers
+  - kind: camera_ready
+    date: 2026-05-15
+- year: 2027
+  start: 2027-06-29
+  end: 2027-07-01
+  location: Galway, Ireland (University of Galway)
+  url: https://2027.debs.org/
+  deadlines:
+  - kind: abstract
+    date: 2027-02-16
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2027-02-23
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2027-04-27
+    label: Research papers
+  - kind: camera_ready
+    date: 2027-05-25
+    label: Research papers
+sources:
+- https://debs.org/debs-conferences/
+- https://2026.debs.org/
+- https://2026.debs.org/important-dates/
+- https://2026.debs.org/call-for-research-papers/
+- https://2026.debs.org/camera-ready-instructions/
+- https://2027.debs.org/
+- https://2027.debs.org/important-dates/
+- https://2027.debs.org/call-for-research-papers/
+- https://portal.core.edu.au/conf-ranks/?search=DEBS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- DEBS 2027 industry, poster, demo and doctoral symposium deadlines are TBA
+- ACM DL publication stated in the DEBS 2026 research call; the 2027 call only names the ACM sigconf format
+last_verified: 2026-10-17

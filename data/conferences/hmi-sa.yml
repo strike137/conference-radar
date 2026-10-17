@@ -1,0 +1,52 @@
+id: hmi-sa
+name: HMI-SA
+full_name: Human-Machine Intelligence for Security Analytics
+type: workshop
+tier: minor
+areas: [security, ai]
+region: north-america
+language: english
+organizer: Co-located with IEEE S&P; organizers from A*STAR, Southern Cross University, CSIRO Data61 and UNSW
+organizer_country: [singapore, australia]
+proceedings: IEEE S&P Workshops proceedings (IEEE)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://hmisa2025.ieee-security.org/
+notes:
+- First and so far only edition held on 2025-05-15 in San Francisco as an IEEE S&P 2025 workshop
+- Human and machine collaboration in security analytics, explainable AI, LLM-assisted analysis, malware and
+  vulnerability detection
+- 'Two tracks: full papers (up to 13 pages plus 5 pages of references and appendices) and short papers (4 pages);
+  all accepted papers go into the IEEE workshop proceedings'
+- Anonymous submission following the IEEE S&P rules
+- 2025 program had 11 papers, 8 of them short papers
+- Not on the list of IEEE S&P 2026 workshops, so there was no 2026 edition
+- Not listed in ICORE2026 (portal search returns no results)
+editions:
+- year: 2025
+  start: 2025-05-15
+  end: 2025-05-15
+  location: San Francisco, CA, USA
+  url: https://hmisa2025.ieee-security.org/
+  deadlines:
+  - kind: submission
+    date: 2025-02-09
+  - kind: notification
+    date: 2025-03-10
+  - kind: camera_ready
+    date: 2025-03-31
+sources:
+- https://hmisa2025.ieee-security.org/index.html
+- https://hmisa2025.ieee-security.org/call-for-papers.html
+- https://hmisa2025.ieee-security.org/submission-guidelines.html
+- https://hmisa2025.ieee-security.org/organizers.html
+- https://hmisa2025.ieee-security.org/program.html
+- https://sp2026.ieee-security.org/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=HMI-SA&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Whether HMI-SA will return (no 2026 edition; hmisa2026 site not reachable on 2026-10-17)
+- The workshop site says IEEE workshop proceedings but does not name IEEE Xplore explicitly
+last_verified: 2026-10-17

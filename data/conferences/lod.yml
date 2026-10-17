@@ -1,0 +1,53 @@
+id: lod
+name: LOD
+full_name: International Conference on Machine Learning, Optimization, and Data Science
+type: conference
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: ICAS (Interdisciplinary Centre of Advanced Studies, non-profit)
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [2, 3, 4, 6]
+  conference_months: [9]
+links:
+  website: https://lod2025.icas.events/
+notes:
+- Run by ICAS as a non-profit event since 2015 (called MOD until 2017); 11th edition in 2025
+- Revised selected papers published after the event as Springer LNCS post-proceedings (2025 -> volumes 16467 and 16468)
+- Several submission rounds (four in 2025, February to June); long papers 12 to 15 pages, short papers 6 to 11 pages
+- Anonymous submission; oral or poster presentation only option without a paper
+- Residential conference held in Tuscany, Italy or the Lake District, UK; all participants must stay at the conference hotel
+- Not listed in the CORE ICORE2026 or CCF 2026 rankings
+editions:
+- year: 2025
+  start: 2025-09-21
+  end: 2025-09-24
+  location: Riva del Sole Resort, Castiglione della Pescaia, Tuscany, Italy
+  url: https://lod2025.icas.events/
+  deadlines:
+  - kind: submission
+    date: 2025-06-23
+    tz: AoE
+    label: Fourth (final) round
+  - kind: notification
+    date: 2025-07-13
+    label: Fourth round
+  - kind: camera_ready
+    date: 2025-07-23
+sources:
+- https://lod2025.icas.events/
+- https://lod2025.icas.events/deadlines/
+- https://lod2025.icas.events/call-for-papers/
+- https://lod2025.icas.events/about/
+- https://lod2025.icas.events/past-editions/
+- https://lod2025.icas.events/lod-2025-proceedings-nature-springer-lncs-volumes-16467-and-16468/
+- https://icas.cc/
+- https://portal.core.edu.au/conf-ranks/?search=LOD&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No LOD 2026 edition is listed on icas.cc (only 2027 schools and the AIS symposium); next edition not announced
+- Country of ICAS not stated on the official pages, so organizer_country is left out

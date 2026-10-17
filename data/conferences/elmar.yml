@@ -1,0 +1,52 @@
+id: elmar
+name: ELMAR
+full_name: International Symposium ELMAR
+type: conference
+tier: minor
+areas: [communications, vision]
+region: europe
+language: english
+frequency: annual
+organizer: Croatian Society Electronics in Marine (ELMAR), Zadar, and University of Zagreb Faculty of Electrical
+  Engineering and Computing (FER), Department of Communication and Space Technologies
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://elmar-zadar.org/
+notes:
+- Long-running Croatian symposium (68th edition in 2026), held every September in Zadar on the Adriatic coast
+- IEEE Region 8, the IEEE Croatia Section and several of its chapters are listed among the supporters on the site
+- Topics include wireless communications, 5G, antennas and propagation, image and video processing, computer vision,
+  radar, navigation, robotics and space technologies
+- Papers are accepted by two independent reviewers and the proceedings are submitted to IEEE Xplore
+- The paper deadline is usually extended by about two weeks (May 6 -> May 20 in 2026, May 14 -> May 28 in 2025)
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  label: ELMAR-2026
+  start: 2026-09-21
+  end: 2026-09-23
+  location: Zadar, Croatia
+  url: https://elmar-zadar.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-20
+    label: Full papers (extended from 2026-05-06)
+  - kind: notification
+    date: 2026-06-17
+  - kind: camera_ready
+    date: 2026-07-01
+sources:
+- https://elmar-zadar.org/
+- https://elmar-zadar.org/2026/
+- https://elmar-zadar.org/2025/
+- https://elmar-zadar.org/2024/
+- https://ieeexplore.ieee.org/xpl/conhome/1001484/all-proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ELMAR&by=all&source=ICORE2026
+unverified:
+- ELMAR-2027 dates not announced yet (no 2027 page on 2026-10-17)
+last_verified: 2026-10-17

@@ -1,0 +1,66 @@
+id: ml4h
+name: ML4H
+full_name: Machine Learning for Health Symposium
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Association for Health Learning and Inference (AHLI)
+organizer_country: [usa]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [11, 12]
+links:
+  website: https://ml4h.ahli.cc/
+notes:
+- Machine learning for health venue run by AHLI (the organizer of CHIL); held right before NeurIPS in the same city
+- Began in 2015 as a NeurIPS workshop; a standalone symposium since 2021
+- Proceedings track papers (8 pages) appear in PMLR (2025 -> vol. 297, 2024 -> vol. 259)
+- Findings track papers (4 pages) are non-archival and only posted on OpenReview
+- Double-blind review on OpenReview with an author response period
+- Recent editions in New Orleans 2022 and 2023, Vancouver 2024, San Diego 2025, Sydney 2026
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-02
+  location: The Westin San Diego Gaslamp, San Diego, USA
+  url: https://ahli.cc/ml4h/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-08
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-10-27
+  - kind: camera_ready
+    date: 2025-11-11
+- year: 2026
+  start: 2026-12-06
+  end: 2026-12-07
+  location: Sydney, Australia
+  url: https://ml4h.ahli.cc/
+  deadlines:
+  - kind: submission
+    date: 2026-09-10
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-10-22
+  - kind: camera_ready
+    date: 2026-11-07
+    label: Camera-ready (tentative)
+sources:
+- https://ml4h.ahli.cc/
+- https://ml4h.ahli.cc/submit/call-for-papers/
+- https://ml4h.ahli.cc/about/proceedings/
+- https://ml4h.ahli.cc/about/past-events/
+- https://ml4h.ahli.cc/about/history/
+- https://ahli.cc/ml4h/2025/
+- https://ahli.cc/ml4h/2025/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=ML4H&by=all&source=ICORE2026
+last_verified: 2026-10-17

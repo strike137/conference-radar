@@ -1,0 +1,54 @@
+id: rldm
+name: RLDM
+full_name: Multi-disciplinary Conference on Reinforcement Learning and Decision Making
+type: conference
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: biennial
+organizer: RLDM organizing committee (RL, neuroscience and psychology research community)
+organizer_country: [international]
+proceedings: Electronic abstract booklet for participants (no published proceedings)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [6, 7]
+links:
+  website: https://rldm.org/
+notes:
+- Interdisciplinary meeting on learning and decision making over time, bringing together machine learning, neuroscience,
+  psychology and economics researchers
+- Abstract-based and non-archival; work under review or intended for other conferences or journals is welcome
+- Submissions are a short summary plus a 1 to 4 page extended abstract, single blind, reviewed for relevance and quality;
+  selected abstracts get oral or spotlight talks, the rest are posters
+- Held roughly every two to three years (Princeton 2013, Edmonton 2015, Ann Arbor 2017, Montreal 2019, Providence 2022,
+  Dublin 2025, Paris 2027)
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-06-11
+  end: 2025-06-14
+  location: Trinity College Dublin, Ireland
+  url: https://rldm.org/past-meetings/
+- year: 2027
+  start: 2027-07-06
+  end: 2027-07-09
+  location: Maison de la Chimie, Paris, France
+  url: https://rldm.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-20
+    tz: AoE
+    label: Extended abstracts
+  - kind: notification
+    date: 2027-02-26
+    tz: AoE
+sources:
+- https://rldm.org/
+- https://rldm.org/call-for-abstracts-2027/
+- https://rldm.org/past-meetings/
+- https://portal.core.edu.au/conf-ranks/?search=RLDM&by=all&source=ICORE2026
+unverified:
+- Submission deadline and notification date of RLDM 2025 (the 2025 call is no longer online)
+last_verified: 2026-10-17

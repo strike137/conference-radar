@@ -1,0 +1,60 @@
+id: mipro
+name: MIPRO
+full_name: MIPRO International Convention on Information, Communication and Electronic Technology
+type: conference
+tier: minor
+areas: [general, communications, security, ai, software, systems]
+region: europe
+language: mixed
+frequency: annual
+organizer: MIPRO Croatian Society
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [5, 6]
+links:
+  website: https://mipro.hr/
+notes:
+- Large Croatian ICT convention held in Opatija every year since 1979, with more than a thousand participants
+- Made up of about 17 parallel conferences (AI, cyber and information security, telecommunications, distributed computing, microelectronics, software engineering, engineering education, ...) plus forums, workshops and a student track
+- Technically co-sponsored by IEEE Region 8 and the IEEE Croatia Section
+- Papers appear in the ISSN registered MIPRO proceedings; English papers presented at the convention are submitted to IEEE Xplore (375 papers from MIPRO 2026)
+- Official languages are English and Croatian
+- "Fees 2027: 370 EUR early, 185 EUR for undergraduate and graduate students (not PhD students)"
+- Abstract deadline about four weeks before the full paper deadline
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-29
+  location: Opatija, Croatia
+  url: https://mipro.hr/MIPRO2026/ELink.aspx
+- year: 2027
+  start: 2027-05-31
+  end: 2027-06-04
+  location: Opatija, Croatia
+  url: https://mipro.hr/MIPRO2027/ELink.aspx
+  deadlines:
+  - kind: abstract
+    date: 2026-11-02
+  - kind: submission
+    date: 2026-11-30
+  - kind: other
+    date: 2027-02-01
+    label: Final paper review deadline
+sources:
+- https://mipro.hr/
+- https://mipro.hr/MIPRO2027/ELink.aspx
+- https://mipro.hr/_Events_/tabid/110/event/MIPRO2027/language/en-US/Default.aspx
+- https://mipro.hr/_Events_/tabid/110/event/MIPRO2027.CIS/language/en-US/Default.aspx
+- https://mipro.hr/_Events_/tabid/110/event/MIPRO2026/language/en-US/Default.aspx
+- https://mipro.hr/MIPRO2026/ELink.aspx
+- https://portal.core.edu.au/conf-ranks/?search=MIPRO&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- MIPRO 2026 deadlines no longer shown on the official site
+- The 2027 page gives a "final paper review deadline" (2027-02-01) but no separate notification or camera-ready date
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-17

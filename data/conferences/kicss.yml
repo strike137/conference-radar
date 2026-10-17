@@ -1,0 +1,77 @@
+id: kicss
+name: KICSS
+full_name: International Conference on Knowledge, Information and Creativity Support Systems
+type: conference
+tier: minor
+areas: [ai, data]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: KICSS organizing committee (Japanese and Thai founders from JAIST and SIIT, Thammasat University; host university
+  rotates)
+organizer_country: [japan, thailand]
+proceedings: IEICE Proceedings Series
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11, 12]
+links:
+  website: https://easychair.org/cfp/KICSS2026
+  dblp: https://dblp.org/db/conf/kicss/index.html
+notes:
+- Small annual forum on knowledge management, knowledge engineering, decision support and creativity support systems,
+  now with LLM, generative AI and human-AI co-creation topics; 21st edition in 2026
+- Held in Asia (2016 Yogyakarta, 2018 Pattaya, 2025 Nagaoka, 2026 Bangkok); honorary chairs from JAIST and SIIT
+- 2025 proceedings published in cooperation with the IEICE Proceedings Series and posted as one arXiv volume
+  (arXiv 2512.20628); some older editions (2016 Yogyakarta, 2018 Pattaya) are in IEEE Xplore
+- 2025 used double-blind review, with an optional concurrent submission to IEICE Transactions on Information and
+  Systems (papers accepted there are left out of the proceedings)
+- Deadlines are often extended (2025 moved from August 1 to August 31 and then into November)
+- Not ranked by CORE or CCF
+editions:
+- year: 2025
+  label: KICSS 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Nagaoka, Japan
+  url: https://sites.google.com/kjs.nagaokaut.ac.jp/kicss2025/home
+  deadlines:
+  - kind: submission
+    date: 2025-08-31
+    label: Paper submission (CFP deadline)
+  - kind: submission
+    date: 2025-11-10
+    tz: JST
+    label: Paper submission (final extension)
+  - kind: camera_ready
+    date: 2025-11-24
+    label: Final paper submission
+  - kind: other
+    date: 2025-11-24
+    label: Early-bird registration
+- year: 2026
+  label: KICSS 2026
+  start: 2026-11-19
+  end: 2026-11-21
+  location: Bangkok, Thailand
+  url: https://easychair.org/cfp/KICSS2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-17
+  - kind: notification
+    date: 2026-10-01
+sources:
+- https://easychair.org/cfp/KICSS2026
+- https://easychair.org/cfp/KICSS2025
+- https://sites.google.com/kjs.nagaokaut.ac.jp/kicss2025/home
+- https://sites.google.com/kjs.nagaokaut.ac.jp/kicss2025/important-date
+- https://sites.google.com/kjs.nagaokaut.ac.jp/kicss2025/paper-submission
+- https://arxiv.org/abs/2512.20628
+- https://www.ieice.org/publications/proceedings/
+- https://doi.org/10.1109/kicss45055.2018
+- https://portal.core.edu.au/conf-ranks/?search=KICSS&by=all&source=ICORE2026
+unverified:
+- KICSS 2026 publisher (the CFP says only that accepted papers go into the conference proceedings) and its organizing
+  institution; no dedicated 2026 website found
+- Locations of the 2019 to 2024 editions, so the region is judged from the few known editions
+last_verified: 2026-10-17

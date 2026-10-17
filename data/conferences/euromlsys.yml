@@ -1,0 +1,70 @@
+id: euromlsys
+name: EuroMLSys
+full_name: Workshop on Machine Learning and Systems (EuroMLSys)
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: europe
+language: english
+frequency: annual
+organizer: EuroMLSys organizers (co-located with ACM EuroSys); chairs from the University of Cambridge and the University of Edinburgh
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [3, 4, 5]
+links:
+  website: https://euromlsys.eu/
+notes:
+- One-day workshop co-located with EuroSys every year since 2021 (online 2021, Rennes 2022, Rome 2023, Athens 2024,
+  Rotterdam 2025, Edinburgh 2026)
+- Topics at the intersection of ML and systems, such as LLM serving, ML compilers, accelerators and distributed training
+- Accepted papers are published in the ACM Digital Library; authors can opt out
+- 'Short papers: up to 6 pages plus references in SIGPLAN format, single-blind review via HotCRP'
+- Deadlines are usually extended by about a week
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-03-31
+  end: 2025-03-31
+  location: Rotterdam, The Netherlands
+  url: https://2025.euromlsys.eu/
+  deadlines:
+  - kind: submission
+    date: 2025-02-11
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from Feb 7)
+  - kind: notification
+    date: 2025-02-24
+  - kind: camera_ready
+    date: 2025-03-11
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Edinburgh, UK
+  url: https://euromlsys.eu/
+  deadlines:
+  - kind: submission
+    date: 2026-02-24
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from Feb 15)
+  - kind: notification
+    date: 2026-03-22
+  - kind: camera_ready
+    date: 2026-04-10
+sources:
+- https://euromlsys.eu/
+- https://2025.euromlsys.eu/
+- https://2024.euromlsys.eu/
+- https://2023.euromlsys.eu/
+- https://2022.euromlsys.eu/
+- https://2021.euromlsys.eu/
+- https://portal.core.edu.au/conf-ranks/?search=EuroMLSys&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/ARCH_DCP_SS/
+unverified:
+- EuroMLSys 2027 not announced yet (EuroSys 2027 is planned for Rabat, Morocco)
+- Acceptance rate not published
+last_verified: 2026-10-17

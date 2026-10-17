@@ -1,0 +1,61 @@
+id: cais
+name: ACM CAIS
+full_name: ACM Conference on AI and Agentic Systems
+type: conference
+tier: minor
+areas: [ai, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM
+organizer_country: [usa]
+proceedings: ACM DL (open access)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://caisconf.org/
+notes:
+- New ACM-sponsored conference on compound AI and agentic systems (architectures, optimization, evaluation, operations, security); first held in 2026
+- Steering committee includes Omar Khattab (MIT), Graham Neubig (CMU), Jeff Dean (Google DeepMind) and Monica Lam (Stanford)
+- Research papers up to 9 pages in ACM sigconf format, double-blind review with a rebuttal phase; system demos as 4-page short papers
+- ACM open access publishing from 2026; authors from institutions outside ACM Open pay an APC (subsidized 250/350 USD in 2026)
+- 2026 edition in San Jose sold out with 623 attendees; 60 papers accepted from 170 reviewed submissions (about 35%) plus 46 demos
+- Partnered with the AI Engineer World's Fair in 2026 (selected papers invited to present there too)
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  location: DoubleTree by Hilton San Jose, San Jose, CA, USA
+  url: https://caisconf.org/pages/cfp/
+  deadlines:
+  - kind: submission
+    date: 2026-02-27
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-04-17
+    time: "23:59"
+    tz: AoE
+    label: Rebuttal closes
+  - kind: notification
+    date: 2026-04-21
+  - kind: camera_ready
+    date: 2026-04-27
+    time: "23:59"
+    tz: AoE
+sources:
+- https://caisconf.org/
+- https://caisconf.org/pages/cfp/
+- https://caisconf.org/program/2026/recap/
+- https://caisconf.org/program/2026/committee/
+- https://caisconf.org/pages/registration/
+- https://portal.core.edu.au/conf-ranks/?search=CAIS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CAIS 2027 dates, location and deadlines not announced as of 2026-10-17 (site only says to stay tuned)
+- Proceedings volume title in the ACM Digital Library not checked; the CFP only says camera-ready papers go into the ACM proceedings
+- 2026 registration fees not stated on the site (registration closed after selling out)
+- 2026 workshop day (May 26) counted in the edition dates; main conference May 27 to 29
+last_verified: 2026-10-17

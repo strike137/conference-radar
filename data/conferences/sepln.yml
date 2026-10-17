@@ -1,0 +1,58 @@
+id: sepln
+name: SEPLN
+full_name: International Conference of the Spanish Society for Natural Language Processing
+name_local: Congreso Internacional de la Sociedad Española para el Procesamiento del Lenguaje Natural
+type: conference
+tier: domestic
+areas: [nlp, ai]
+region: europe
+language: mixed
+frequency: annual
+organizer: SEPLN (Sociedad Española para el Procesamiento del Lenguaje Natural) with a host university
+organizer_country: [europe]
+proceedings: Procesamiento del Lenguaje Natural (SEPLN journal), CEUR-WS
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [9]
+links:
+  website: https://www.sepln.org/congresos
+notes:
+- Annual congress of the Spanish NLP society SEPLN, held for more than 30 years; 2026 was the 42nd edition
+- Papers in Spanish or English, at most 10 pages plus references, blind review by at least three members of the
+  SEPLN advisory board via OpenReview
+- High-quality papers go into the society journal Procesamiento del Lenguaje Natural (2026 -> issue 77, Scopus and
+  JCR ESCI indexed); other accepted papers, projects and demos go into CEUR-WS proceedings as posters
+- Co-located with the IberLEF evaluation workshop and a doctoral symposium
+- Held in Spain (A Coruna 2022, Jaen 2023, Valladolid 2024, Zaragoza 2025, Leon 2026), virtual in 2020 and 2021;
+  2027 in Santiago de Compostela
+- Website mostly in Spanish
+- Fee 300 EUR early for members, 400 EUR non-members, 230 EUR students (2026)
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-25
+  location: Leon, Spain
+  url: https://sepln2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-10
+    label: Papers, projects and demos (extended from 2026-03-23)
+  - kind: notification
+    date: 2026-05-30
+  - kind: camera_ready
+    date: 2026-06-10
+sources:
+- https://sepln2026.org/
+- https://sepln2026.org/convocatoria-del-congreso/
+- https://sepln2026.org/inscripciones/
+- https://www.sepln.org/congresos
+- https://www.sepln.org/actualidad/noticias/xliii-congreso-internacional-de-la-sepln
+- https://portal.core.edu.au/conf-ranks/?search=SEPLN&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- SEPLN 2027 (43rd edition) dates; only the city, Santiago de Compostela, is announced
+- Deadline times and time zone are not stated on the 2026 site
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-17

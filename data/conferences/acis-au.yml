@@ -1,0 +1,84 @@
+id: acis-au
+name: ACIS
+full_name: Australasian Conference on Information Systems
+type: conference
+tier: minor
+areas: [general, data]
+region: oceania
+language: english
+frequency: annual
+organizer: Australasian Association for Information Systems (AAIS), the AIS chapter for Australasia, with a rotating
+  host university (2025 University of the Sunshine Coast, 2026 Edith Cowan University)
+organizer_country: [australia]
+proceedings: AIS eLibrary (AISeL)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://acis.aaisnet.org/
+notes:
+- Premier Information Systems conference of Australia, New Zealand and the South Pacific, running since 1990 (37th
+  edition in 2026)
+- Covers technical, organizational, business and social sides of IT use; mostly IS and business school researchers
+  rather than core CS
+- Proceedings published in the AIS eLibrary (ACIS collection, ISSN 2652-4066)
+- Full papers (up to 10 pages) and short research-in-progress papers (up to 5 pages), double-blind review in tracks,
+  submitted via EasyChair
+- Held in Australia or New Zealand each December (2024 Canberra, 2025 Sunshine Coast campus at Moreton Bay, 2026 Perth)
+- Deadlines are 23:59 AEST (UTC+10) and have been extended by one to two weeks in recent years
+- Doctoral consortium and development workshops run in the two days before the main conference
+- Not listed in ICORE2026 (CORE2018 listed it under the Australasian category); not in the CCF list
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Moreton Bay, Queensland, Australia
+  url: https://acis.aaisnet.org/acis2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-29
+    time: '23:59'
+    tz: AEST
+    label: Papers (extended from 15 August)
+  - kind: notification
+    date: 2025-10-07
+  - kind: camera_ready
+    date: 2025-10-20
+- year: 2026
+  start: 2026-12-02
+  end: 2026-12-04
+  location: Perth, Australia
+  url: https://acis.aaisnet.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-24
+    time: '23:59'
+    tz: AEST
+    label: Papers (extended from 14 August)
+  - kind: notification
+    date: 2026-10-02
+  - kind: camera_ready
+    date: 2026-10-19
+    time: '23:59'
+    tz: AEST
+  - kind: other
+    date: 2026-10-26
+    label: Author registration
+sources:
+- https://acis.aaisnet.org/
+- https://acis.aaisnet.org/call-for-participation/
+- https://acis.aaisnet.org/acis2026/submit-revise-present/important-dates/
+- https://acis.aaisnet.org/acis2026/submit-revise-present/call-for-papers/
+- https://acis.aaisnet.org/acis2026/about/theme-co-hosts-venue/
+- https://acis.aaisnet.org/acis2025/
+- https://acis.aaisnet.org/acis2025/submit-revise-present/important-dates/
+- https://aisel.aisnet.org/acis/
+- https://aisel.aisnet.org/acis2025/
+- https://aisel.aisnet.org/acis2024/
+- https://portal.core.edu.au/conf-ranks/?search=ACIS&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Australasian+Conference+on+Information+Systems&by=all&source=all
+last_verified: 2026-10-17
+unverified:
+- ACIS 2027 host and dates not yet announced
+- Acceptance rate and registration fees not checked

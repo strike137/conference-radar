@@ -1,0 +1,72 @@
+id: eusflat
+name: EUSFLAT
+full_name: Conference of the European Society for Fuzzy Logic and Technology
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: EUSFLAT (European Society for Fuzzy Logic and Technology) with a local host university
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [1, 2]
+  conference_months: [7, 9]
+links:
+  website: https://eusflat.org/
+  dblp: https://dblp.org/db/conf/eusflat/
+notes:
+- Biennial conference of the European Society for Fuzzy Logic and Technology on fuzzy logic, fuzzy sets, soft
+  computing, aggregation, approximate reasoning and their applications
+- Full papers are peer reviewed and published in Springer LNCS (2025 -> "Advances in Fuzzy Logic and Technology",
+  two volumes)
+- One-page abstracts can be submitted instead and go into a Book of Abstracts with ISBN; abstracts are
+  screened by the programme committee for scope and novelty
+- Held in Europe (Gijon 2015, Warsaw 2017, Prague 2019, Bratislava 2021, Palma de Mallorca 2023, Riga 2025)
+- 2027 edition is joint with the IFSA World Congress as IFSA-EUSFLAT 2027 in Bari, Italy (2021 was also joint with IFSA)
+- Fee 600 EUR early for members, 700 EUR for non-members, 500 to 550 EUR for students (2025, in-person); non-member
+  fee includes two years of EUSFLAT membership
+- Followed by the EUSFLAT Summer School on Fuzzy Logic and Applications (SFLA) in some years
+editions:
+- year: 2025
+  start: 2025-07-21
+  end: 2025-07-25
+  location: Riga, Latvia
+  url: https://www.eusflat2025.eu/
+  deadlines:
+  - kind: submission
+    date: 2025-02-28
+    label: Full papers (extended from 2025-01-31)
+  - kind: notification
+    date: 2025-03-31
+    label: Full papers
+  - kind: camera_ready
+    date: 2025-04-30
+    label: Full papers
+  - kind: other
+    date: 2025-05-31
+    label: Abstract submission (extended from 2025-04-30)
+- year: 2027
+  start: 2027-09-13
+  end: 2027-09-17
+  location: Bari, Italy
+  url: https://eusflat.org/2027-conference/
+sources:
+- https://eusflat.org/
+- https://eusflat.org/2027-conference/
+- https://eusflat.org/eusflat-conference-proceedings/
+- https://www.eusflat2025.eu/
+- https://www.eusflat2025.eu/submissions.html
+- https://www.eusflat2025.eu/registration.html
+- https://link.springer.com/conference/eusflat
+- https://portal.core.edu.au/conf-ranks/?search=EUSFLAT&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- IFSA-EUSFLAT 2027 deadlines (the conference pages on the EUSFLAT society site give only dates, city and venue so far)
+- 2021 host city (Bratislava) not confirmed on an official page
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-17

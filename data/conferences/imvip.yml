@@ -1,0 +1,69 @@
+id: imvip
+name: IMVIP
+full_name: Irish Machine Vision and Image Processing Conference
+type: conference
+tier: minor
+areas: [vision]
+region: europe
+language: english
+frequency: annual
+organizer: Irish Pattern Recognition and Classification Society (IPRCS)
+organizer_country: [europe]
+proceedings: IPRCS open-access proceedings (ISBN, permanent URL or DOI)
+archival: true
+rank:
+  core: "National: ireland"
+fee: "EUR 225 early full registration, EUR 170 early student (2026); includes IPRCS, IAPR and IFCS membership"
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8, 9]
+links:
+  website: https://imvipconference.github.io
+notes:
+- Flagship annual conference of the IPRCS, the Irish member body of the IAPR
+- Held at a different university on the island of Ireland each year (Galway 2023, Limerick 2024, Derry 2025, Maynooth 2026)
+- Full papers up to 8 pages and short papers up to 4 pages, both including references
+- Blind review by at least two program committee members
+- Proceedings published open access by the IPRCS with an ISBN (2024 volume hosted in the IET Digital Library)
+- Each registration covers one paper only
+- Small, friendly venue popular with Irish and UK students; travel bursaries offered
+editions:
+- year: 2025
+  start: 2025-09-01
+  end: 2025-09-03
+  location: Derry~Londonderry, Northern Ireland (Ulster University)
+  url: https://imvipconference.github.io/index-imvip2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-06-06
+    label: Full and short papers (full paper deadline extended)
+  - kind: notification
+    date: 2025-06-30
+  - kind: camera_ready
+    date: 2025-07-10
+- year: 2026
+  start: 2026-08-26
+  end: 2026-08-28
+  location: Maynooth, Ireland (Maynooth University)
+  url: https://imvipconference.github.io
+  deadlines:
+  - kind: submission
+    date: 2026-06-04
+    label: Full and short papers (extended)
+  - kind: notification
+    date: 2026-07-03
+  - kind: other
+    date: 2026-07-10
+    label: Early registration
+  - kind: camera_ready
+    date: 2026-08-07
+sources:
+- https://imvipconference.github.io
+- https://imvipconference.github.io/index-imvip2025.html
+- https://iprcs.github.io/IMVIP.html
+- https://portal.core.edu.au/conf-ranks/?search=IMVIP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- IMVIP 2027 not announced
+- Not on the CCF list
+- Acceptance rate not published
+last_verified: 2026-10-17

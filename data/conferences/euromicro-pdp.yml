@@ -1,0 +1,59 @@
+id: euromicro-pdp
+name: PDP
+full_name: Euromicro International Conference on Parallel, Distributed, and Network-Based Processing
+type: conference
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: Euromicro
+organizer_country: [europe]
+proceedings: IEEE CPS (IEEE Xplore)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [10, 11]
+  conference_months: [3]
+links:
+  website: https://www.pdp2026.org/
+notes:
+- Annual Euromicro conference on parallel and distributed computing; 2026 was the 34th edition
+- Hosted by a European university that changes most years (Valladolid 2021 and 2022, Naples 2023, Dublin 2024, Turin 2025, Cluj-Napoca 2026)
+- Proceedings published by IEEE Conference Publishing Services and available in IEEE Xplore
+- "2026 rules: up to 8 pages for long papers and 4 pages for short papers in IEEE format; double-blind review via EasyChair"
+- Co-located special sessions (for example quantum computing, HPC at the edge, digital twins) with their own calls
+- In 2026 the main track submission and notification dates were extended by two weeks
+- "Fees 2026: 600 EUR regular early, 350 EUR student early"
+- "CORE C (ICORE2026); not in the CCF 2026 list"
+editions:
+- year: 2026
+  start: 2026-03-25
+  end: 2026-03-27
+  location: Cluj-Napoca, Romania
+  url: https://www.pdp2026.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-09
+    label: Main track (extended from 2025-10-26)
+  - kind: notification
+    date: 2025-12-21
+    label: Main track (extended from 2025-12-07)
+  - kind: camera_ready
+    date: 2026-01-25
+    label: All tracks
+sources:
+- https://www.pdp2026.org/
+- https://www.pdp2026.org/important-dates/
+- https://www.pdp2026.org/submission/cfp/
+- https://www.pdp2026.org/past-editions/
+- https://www.pdp2026.org/registration/
+- https://www.euromicro.org/Events.php
+- https://portal.core.edu.au/conf-ranks/?search=PDP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- PDP 2027 not announced as of 2026-10-17 (pdp2027.org is only a placeholder page)
+- Scopus indexing of the 2026 proceedings only stated as submitted
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-17

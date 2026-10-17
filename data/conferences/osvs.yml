@@ -1,0 +1,52 @@
+id: osvs
+name: OSVS
+full_name: Workshop on Operating Systems and Virtualization Security
+type: workshop
+tier: minor
+areas: [security, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Co-located with IEEE EuroS&P; developed within the Italian SERICS (Security and Rights in CyberSpace)
+  foundation framework
+organizer_country: [europe]
+proceedings: IEEE Xplore (IEEE EuroS&P Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://osvs.pages.dev/
+notes:
+- Post-conference workshop of IEEE EuroS&P, held in Vienna (2024-07-12) and Venice (2025-07-04)
+- OS and virtualization security, secure-by-design cloud, edge and 5G/6G systems, threat modeling, cyber ranges
+- 'Regular papers up to 13 pages and short (Work-in-Progress) papers up to 6 pages, both in the proceedings;
+  double-blind, IEEE EuroS&P A4 template, EasyChair'
+- Accepted papers published in IEEE Xplore in the volume accompanying the IEEE EuroS&P proceedings
+- Submission deadlines were extended in both 2024 (2024-03-15 -> 2024-04-01) and 2025 (2025-03-16 -> 2025-03-23)
+- Not on the list of IEEE EuroS&P 2026 workshops (Lisbon), so there was no 2026 edition
+- Not listed in ICORE2026 (portal search returns no results)
+editions:
+- year: 2025
+  start: 2025-07-04
+  end: 2025-07-04
+  location: Venice, Italy
+  url: https://osvs.pages.dev/
+  deadlines:
+  - kind: submission
+    date: 2025-03-23
+    tz: AoE
+    label: Extended from 2025-03-16
+  - kind: notification
+    date: 2025-04-07
+  - kind: camera_ready
+    date: 2025-04-17
+sources:
+- https://osvs.pages.dev/
+- https://osvs.pages.dev/submission.html
+- https://osvs.pages.dev/2024/index.html
+- https://eurosp2026.ieee-security.org/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=OSVS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Whether OSVS will return with IEEE EuroS&P 2027 (no 2026 edition)
+last_verified: 2026-10-17

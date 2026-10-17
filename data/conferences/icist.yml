@@ -1,0 +1,70 @@
+id: icist
+name: ICIST
+full_name: International Conference on Information Science and Technology
+type: conference
+tier: minor
+areas: [ai, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: City University of Hong Kong with local host universities (2026 organizers University of Coimbra and City University of Hong Kong); IEEE SMC technical co-sponsor
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+fee: 500 USD or 3,500 CNY full registration per paper (2026)
+typical:
+  deadline_months: [5]
+  conference_months: [10, 12]
+links:
+  website: https://conference.cs.cityu.edu.hk/icist/
+notes:
+- Annual series since 2011; website hosted by City University of Hong Kong, which also provides a general chair; sister conference of ICACI, ICICIP and ISNN
+- IEEE Systems, Man and Cybernetics Society is technical co-sponsor; accepted papers are submitted to IEEE Xplore and selected papers go to journal special issues
+- Broad scope covering intelligent control and automation plus intelligent information processing (machine learning, signal processing, vision, communications)
+- Mostly held in mainland China with the host city changing each year; 2023 in Cairo, Egypt and 2026 in Coimbra, Portugal
+- Full papers with a nominal length of 10 pages in IEEE double-column format, two extra pages with overlength charge; 2026 submissions went through OpenReview
+- Abstract-only submissions for presentation are also accepted
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-05
+  end: 2025-12-08
+  location: Zhanjiang, Guangdong, China
+  deadlines: []
+- year: 2026
+  start: 2026-10-01
+  end: 2026-10-06
+  location: Coimbra and Porto, Portugal
+  url: https://conference.cs.cityu.edu.hk/icist/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    label: Papers (extended from 2026-05-15)
+  - kind: notification
+    date: 2026-06-15
+  - kind: camera_ready
+    date: 2026-07-15
+    label: Camera-ready and author registration
+  - kind: other
+    date: 2026-09-15
+    label: Abstract submission (presentation only)
+sources:
+- https://conference.cs.cityu.edu.hk/icist/web_home.htm
+- https://conference.cs.cityu.edu.hk/icist/web_timeline.htm
+- https://conference.cs.cityu.edu.hk/icist/web_news.htm
+- https://conference.cs.cityu.edu.hk/icist/web_history.htm
+- https://conference.cs.cityu.edu.hk/icist/web_submission.htm
+- https://conference.cs.cityu.edu.hk/icist/web_registration.htm
+- https://conference.cs.cityu.edu.hk/icist/web_sponsors.htm
+- https://conference.cs.cityu.edu.hk/icist/web_committees.htm
+- https://conference.cs.cityu.edu.hk/icist/web_program.htm
+- https://conference.cs.cityu.edu.hk/icist/web_topics.htm
+- https://ieeexplore.ieee.org/xpl/conhome/1800345/all-proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ICIST&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- ICIST 2027 dates and deadlines (not announced yet as of 2026-10-17)
+- ICIST 2025 deadlines (site now shows the 2026 call)
+- CCF 2026 listing checked via a mirror of the CCF list, not on ccf.org.cn directly (captcha)
+- Acceptance rate
+last_verified: 2026-10-17

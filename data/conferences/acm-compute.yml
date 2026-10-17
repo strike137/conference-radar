@@ -1,0 +1,76 @@
+id: acm-compute
+name: ACM COMPUTE
+full_name: ACM India Annual Conference on Computing Education (COMPUTE)
+type: conference
+tier: minor
+areas: [general]
+region: south-asia
+language: english
+frequency: annual
+organizer: ACM India and iSIGCSE (India Chapter of ACM SIGCSE), in cooperation with ACM and SIGCSE
+organizer_country: [india]
+proceedings: ACM ICPS (ACM DL)
+archival: true
+fee: Paper authors 4,500 INR non-ACM, 4,000 INR ACM (early bird, excluding GST); foreign 175 USD, 85 USD students (2026)
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://isigcse.acm.org/compute/2026/
+notes:
+- Annual Indian computing education conference run by ACM India and iSIGCSE, the India chapter of ACM SIGCSE
+- Ninth edition of the current series in 2026; held at a different Indian institution each year (IIT Ropar 2025, Amrita Vishwa Vidyapeetham Coimbatore 2026)
+- 2026 papers published open access in ACM ICPS and the ACM DL at no cost to authors; 2025 papers went to Springer CCIS
+- Research papers, experience reports and tools, and short papers; double-blind review via Microsoft CMT
+- 2026 limits are 6 pages for full papers and 4 for short papers in the ACM two-column format
+- Posters are non-archival; workshops, panels and working groups are also offered
+- Not listed in ICORE2026 or the CCF 2026 list; a small national venue
+editions:
+- year: 2025
+  start: 2025-12-07
+  end: 2025-12-09
+  location: IIT Ropar, Rupnagar, India
+  url: https://isigcse.acm.org/compute/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-27
+    tz: AoE
+    label: Papers (extended from 2025-07-20)
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-15
+- year: 2026
+  start: 2026-12-03
+  end: 2026-12-05
+  location: Amrita Vishwa Vidyapeetham, Coimbatore, India
+  url: https://isigcse.acm.org/compute/2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-26
+    tz: AoE
+    label: Research papers, experience reports and short papers
+  - kind: notification
+    date: 2026-09-06
+  - kind: camera_ready
+    date: 2026-09-18
+  - kind: other
+    date: 2026-09-18
+    label: Workshop proposals
+  - kind: other
+    date: 2026-09-30
+    label: Posters (non-archival)
+  - kind: other
+    date: 2026-10-31
+    label: Early bird registration
+sources:
+- https://isigcse.acm.org/compute/2026/
+- https://isigcse.acm.org/compute/2026/compute-2026-call-for-papers/
+- https://isigcse.acm.org/compute/2026/call-for-posters/
+- https://isigcse.acm.org/compute/2026/registration/
+- https://isigcse.acm.org/compute/2025/
+- https://isigcse.acm.org/compute/2025/call-for-papers/
+- https://isigcse.acm.org/compute/
+- https://portal.core.edu.au/conf-ranks/?search=COMPUTE&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17

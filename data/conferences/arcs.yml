@@ -1,0 +1,81 @@
+id: arcs
+name: ARCS
+full_name: GI/ITG International Conference on Architecture of Computing Systems
+type: conference
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: ARCS special interest group of GI (Gesellschaft fuer Informatik) and ITG (VDE Information Technology Society)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [12, 1, 2]
+  conference_months: [3, 4]
+links:
+  website: https://arcs-conference.org/
+  dblp: https://dblp.org/db/conf/arcs/
+notes:
+- Long-running German computer architecture and operating systems conference (40th edition in 2027), run by the
+  joint GI/ITG special interest group
+- Mostly held in Germany (2021 virtual, 2022 Heilbronn, 2023 Athens, 2024 Potsdam, 2025 Kiel, 2026 Mainz, 2027
+  Magdeburg)
+- Proceedings in Springer LNCS; selected 2026 papers invited to a special issue of the Elsevier Journal of Systems
+  Architecture
+- Double-blind review; main track and special tracks (Organic Computing, Dependability) take up to 15 pages plus
+  references, PhD Forum 10 pages, Research Group Forum 5 pages
+- Each year has a special focus (2027 unconventional computing beyond von Neumann; 2026 open-source architectures
+  from RISC-V to AI accelerators)
+- Small program (2025 had 13 main track papers) and deadlines have been extended in recent years
+editions:
+- year: 2026
+  label: 39th ARCS
+  start: 2026-03-24
+  end: 2026-03-26
+  location: Mainz, Germany
+  url: https://arcs-conference.org/history/arcs-2026/home
+  deadlines:
+  - kind: abstract
+    date: 2026-02-01
+    label: Final extension (originally 2026-01-11)
+  - kind: submission
+    date: 2026-02-08
+    label: Final extension (originally 2026-01-18)
+  - kind: notification
+    date: 2026-03-05
+  - kind: camera_ready
+    date: 2026-03-16
+- year: 2027
+  label: 40th ARCS
+  start: 2027-03-09
+  end: 2027-03-11
+  location: Magdeburg, Germany
+  url: https://arcs-conference.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-14
+  - kind: submission
+    date: 2026-12-21
+  - kind: notification
+    date: 2027-02-08
+  - kind: camera_ready
+    date: 2027-02-24
+sources:
+- https://arcs-conference.org/
+- https://arcs-conference.org/fileadmin/TG/ARCS_Conference/ARCS2027/ARCS27_one_pager.pdf
+- https://arcs-conference.org/submission-guidelines
+- https://arcs-conference.org/news-details/arcs-2027-website-and-call-for-paper-online
+- https://arcs-conference.org/history
+- https://arcs-conference.org/history/arcs-2026/home
+- https://arcs-conference.org/history/arcs-2025/home
+- https://portal.core.edu.au/conf-ranks/?search=ARCS&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Not listed on the CORE portal (ICORE2026 search for ARCS and for the full title returned no results); rank.core
+  left out
+- Not found in the CCF list mirror (CCFrank4dblp); rank.ccf left out
+- The 2027 home page and submission guidelines print the conference year as "March 9-11, 2026"; the CfP one pager
+  and news item give 2027-03-09 to 2027-03-11
+- Deadline time zone not stated; acceptance rate and registration fees not published

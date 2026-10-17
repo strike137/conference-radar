@@ -1,0 +1,55 @@
+id: ieee-southeastcon
+name: IEEE SoutheastCon
+full_name: IEEE SoutheastCon (IEEE Region 3 Annual Conference)
+type: conference
+tier: minor
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Region 3
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [4]
+links:
+  website: https://ieeesoutheastcon.org/
+notes:
+- Annual technical, professional and student conference of IEEE Region 3 (southeastern United States)
+- Rotates among cities in the southeastern USA (Orlando 2023, Concord NC 2025, Huntsville 2026, Daytona Beach 2027)
+- Regular papers up to 6 pages (up to 8 with a fee of 100 USD per extra page) and 2-page extended abstracts for posters
+- Double-blind, rolling review; early submissions can be reviewed up to two times before the final deadline
+- Accepted papers go to IEEE Xplore only if at least one author is fully registered and presents
+- Includes student competitions alongside the technical program; broad EE and CS scope
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2027
+  start: 2027-04-15
+  end: 2027-04-18
+  location: Hilton Daytona Beach Oceanfront Resort, Daytona Beach, FL, USA
+  url: https://ieeesoutheastcon.org/
+  deadlines:
+  - kind: submission
+    date: 2026-12-31
+    time: "23:59"
+    tz: EST
+    label: Regular papers and extended abstracts
+  - kind: camera_ready
+    date: 2027-02-25
+sources:
+- https://ieeesoutheastcon.org/
+- https://ieeesoutheastcon.org/call-for-papers/
+- https://ieeesoutheastcon.org/paper-submission-instructions/
+- https://ieeesoutheastcon.org/about/
+- https://api.crossref.org/works?query.bibliographic=SoutheastCon+2026&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=SoutheastCon&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- The call for papers (marked draft) gives the submission window as September 15 to December 30, 2026, while the
+  submission instructions page says December 31, 2026 at 11:59 p.m. US Eastern Time
+- The home page gives April 15-18, 2027, while the submission instructions list in-person presentations on April
+  16-17 and virtual presentations on April 9-11, 2027
+- Past locations taken from IEEE proceedings metadata via Crossref; dates of the 2026 edition not shown on the
+  official site any more
+last_verified: 2026-10-17

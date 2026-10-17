@@ -1,0 +1,48 @@
+id: bluehat-asia
+name: BlueHat Asia
+full_name: Microsoft BlueHat Asia
+type: industry
+tier: minor
+areas: [security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Microsoft Security Response Center (MSRC)
+organizer_country: [usa]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [9, 11]
+links:
+  website: https://msrc.microsoft.com/bluehat
+notes:
+- Asian edition of Microsoft's BlueHat security conference, hosted by MSRC for the security research community
+- Held in Bengaluru, India in November 2025 and in Singapore in September 2026
+- CFP asks only for a title and abstract; a formal academic white paper is not required
+- Speakers can co-present with a Microsoft technical expert
+- Non-archival talk conference with no published proceedings
+editions:
+- year: 2025
+  start: 2025-11-05
+  end: 2025-11-06
+  location: Bengaluru, India
+  url: https://www.microsoft.com/en-us/msrc/blog/2025/08/bluehat-asia-2025-closing-soon-submit-your-papers-by-september-14-2025
+  deadlines:
+  - kind: submission
+    date: 2025-09-14
+- year: 2026
+  start: 2026-09-17
+  end: 2026-09-18
+  location: Singapore
+  url: https://msrc.microsoft.com/bluehat
+  deadlines: []
+sources:
+- https://msrc.microsoft.com/bluehat
+- https://www.microsoft.com/en-us/msrc/blog/2025/08/bluehat-asia-2025-closing-soon-submit-your-papers-by-september-14-2025
+- https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msrc/images/partner-images/BHAsia2026ScheduleFinalHandout.pdf
+unverified:
+- 2026 CFP deadline (the site only says the CFP is closed)
+- 2027 edition not yet announced
+- Whether a BlueHat Asia edition took place before 2025
+last_verified: 2026-10-17

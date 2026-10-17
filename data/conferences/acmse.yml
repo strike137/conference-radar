@@ -1,0 +1,72 @@
+id: acmse
+name: ACMSE
+full_name: ACM Southeast Conference
+type: conference
+tier: minor
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM (ACMSE Steering Committee; hosted by a different US university each year)
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [4]
+links:
+  website: https://acmse.net/
+notes:
+- Describes itself as the oldest continuously running annual ACM conference; covers all areas of computer science,
+  information systems and IT
+- Held every April at a university in the southeastern or central US (Cape Girardeau, MO 2025; Troy, AL 2026;
+  Decatur, AL 2027 hosted by Athens State University)
+- Full papers 7 to 10 pages and short papers 5 to 6 pages in ACM sigconf format; double-anonymous review with a
+  rebuttal phase; posters also accepted
+- "Targeted acceptance rates (2027 CFP): about 35% for full papers and 45% for short papers"
+- Papers appear in the ACM Digital Library as open access; authors without ACM Open affiliation pay an APC (500 USD
+  for ACM/SIG members, 750 USD otherwise for 2027)
+- At most three submissions per author; at least one author must present in person
+- Friendly to students, with student competitions and a programming contest
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-04-23
+  end: 2026-04-25
+  location: Troy, AL, USA (Troy University)
+  url: https://acmse.net/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-01
+    label: Manuscripts (extended from 2025-12-07 and 2025-12-23)
+  - kind: notification
+    date: 2026-03-05
+  - kind: camera_ready
+    date: 2026-03-14
+- year: 2027
+  start: 2027-04-15
+  end: 2027-04-17
+  location: Decatur, AL, USA (Alabama Center for the Arts)
+  url: https://acmse.net/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-11-14
+    label: Full and short papers, poster abstracts
+  - kind: notification
+    date: 2027-02-20
+  - kind: camera_ready
+    date: 2027-03-01
+sources:
+- https://acmse.net/2027/
+- https://acmse.net/2027/papers-call/
+- https://acmse.net/2027/papers-important-dates/
+- https://acmse.net/2027/posters-important-dates/
+- https://acmse.net/2027/registration/
+- https://acmse.net/2026/
+- https://acmse.net/2026/papers-important-dates/
+- https://acmse.net/2025/
+- https://portal.core.edu.au/conf-ranks/?search=ACMSE&by=all&source=ICORE2026
+unverified:
+- ACMSE 2027 registration fees not announced yet
+- Actual acceptance rates of past editions not published on the official site
+last_verified: 2026-10-17

@@ -1,0 +1,66 @@
+id: icicip
+name: ICICIP
+full_name: International Conference on Intelligent Control and Information Processing
+type: conference
+tier: minor
+areas: [ai, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: City University of Hong Kong with local host universities (2027 sponsors National University of Laos, Guilin University of Electronic Technology and City University of Hong Kong); IEEE SMC technical co-sponsor
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [2, 3]
+links:
+  website: https://conference.cs.cityu.edu.hk/icicip/
+notes:
+- Series started in 2010; website hosted by City University of Hong Kong, which also provides a general chair; sister conference of ICACI, ICIST and ISNN
+- IEEE Systems, Man and Cybernetics Society is technical co-sponsor; accepted papers are submitted to IEEE Xplore and selected papers go to journal special issues
+- Scope covers computer science, control and automation, and signal processing and telecommunications
+- Held in mainland China and abroad in turn (Marrakesh 2019, Muscat 2025, Chiang Mai 2026, Vientiane and Luang Prabang 2027); no edition between 2021 and 2024
+- Full papers with a nominal length of 10 pages in IEEE double-column format, two extra pages with overlength charge; special sessions of six or more papers invited
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-02-21
+  end: 2026-02-24
+  location: Chiang Mai, Thailand
+  deadlines: []
+- year: 2027
+  start: 2027-02-08
+  end: 2027-02-14
+  location: Vientiane and Luang Prabang, Laos
+  url: https://conference.cs.cityu.edu.hk/icicip/
+  deadlines:
+  - kind: other
+    date: 2026-09-01
+    label: Special session proposals
+  - kind: submission
+    date: 2026-10-20
+    label: Papers (extended from 2026-10-01)
+  - kind: notification
+    date: 2026-11-01
+  - kind: camera_ready
+    date: 2026-12-01
+    label: Camera-ready and author registration
+sources:
+- https://conference.cs.cityu.edu.hk/icicip/web_home.htm
+- https://conference.cs.cityu.edu.hk/icicip/web_timeline.htm
+- https://conference.cs.cityu.edu.hk/icicip/web_news.htm
+- https://conference.cs.cityu.edu.hk/icicip/web_history.htm
+- https://conference.cs.cityu.edu.hk/icicip/web_submission.htm
+- https://conference.cs.cityu.edu.hk/icicip/web_sponsors.htm
+- https://conference.cs.cityu.edu.hk/icicip/web_committees.htm
+- https://conference.cs.cityu.edu.hk/icicip/web_topics.htm
+- https://ieeexplore.ieee.org/xpl/conhome/1800203/all-proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ICICIP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- ICICIP 2026 deadlines (site now shows the 2027 call)
+- ICICIP 2027 registration fee (registration page under construction)
+- CCF 2026 listing checked via a mirror of the CCF list, not on ccf.org.cn directly (captcha)
+- Acceptance rate
+last_verified: 2026-10-17

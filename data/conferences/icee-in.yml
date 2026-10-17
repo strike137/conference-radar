@@ -1,0 +1,86 @@
+id: icee-in
+name: IEEE ICEE
+full_name: IEEE International Conference on Emerging Electronics
+type: conference
+tier: minor
+areas: [general]
+region: south-asia
+language: english
+organizer: IEEE Electron Devices Society, with a steering committee from IISc Bengaluru and the IITs
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://www.ieee-icee.org/
+notes:
+- Indian electron devices and semiconductor conference presented by the IEEE Electron Devices Society; steering
+  committee from IISc Bengaluru, IIT Bombay, IIT Jodhpur, IIT Gandhinagar and IIT Madras
+- Covers logic and memory devices, neuromorphic and in-memory computing, power and RF devices, optoelectronics,
+  sensors and MEMS, materials, modeling and packaging
+- Accepted 4-page papers go to IEEE Xplore (IEEE conference ID 72661X in 2026); submission through EDAS
+- Late News papers can opt into the proceedings; "Abstract Only Poster" submissions are not published
+- Extended versions of selected papers invited to special issues of IEEE JEDS and IEEE TMAT
+- Large industry presence (plenaries from L&T Semiconductor, Infineon, Applied Materials), rump sessions, tutorials
+  and a job fair
+- At least one author must register and present in person; one registration covers two papers
+- 2025 (7th) edition held in Bengaluru in December; 2026 (8th) edition also set for Bengaluru in December
+- Not listed in ICORE2026 or in the CCF list; device and circuits venue outside the usual CS rankings
+editions:
+- year: 2025
+  label: 7th ICEE
+  start: 2025-12-13
+  end: 2025-12-16
+  location: Bengaluru, India
+  url: https://ieee-icee.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-01
+    label: Extended from 2025-08-25
+  - kind: notification
+    date: 2025-09-26
+    label: Extended from 2025-09-15
+  - kind: other
+    date: 2025-11-25
+    label: Student Research Forum abstract
+  - kind: other
+    date: 2025-11-29
+    label: Early-bird registration
+- year: 2026
+  label: 8th ICEE
+  start: 2026-12-19
+  end: 2026-12-22
+  location: Bengaluru (Embassy Manyata Business Park), India
+  url: https://www.ieee-icee.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-14
+    label: Regular papers (extended from 2026-09-07)
+  - kind: submission
+    date: 2026-10-01
+    label: Late News papers and abstract-only posters
+  - kind: notification
+    date: 2026-10-14
+  - kind: camera_ready
+    date: 2026-10-21
+    label: Final IEEE Xplore-compliant paper
+  - kind: other
+    date: 2026-11-25
+    label: Student Research Forum abstract
+sources:
+- https://www.ieee-icee.org/
+- https://www.ieee-icee.org/call-for-papers.php
+- https://www.ieee-icee.org/paper-submission.php
+- https://www.ieee-icee.org/student-research-forum.php
+- https://www.ieee-icee.org/committee.php
+- https://www.ieee-icee.org/icee-archive.php
+- https://ieee-icee.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=ICEE&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Frequency and host history of editions before 2025 not confirmed (ICEE 2025 was the 7th, 2026 the 8th)
+- 2026 home page lists the camera-ready date as 2026-10-06 while the submission page gives 2026-10-21 for final papers
+- 2026 early-bird registration date differs on the home page (2026-11-01 in key dates, 2026-11-29 in the banner)
+- ICEE 2025 papers not yet confirmed in IEEE Xplore
+last_verified: 2026-10-17

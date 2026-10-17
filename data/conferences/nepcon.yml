@@ -1,0 +1,59 @@
+id: nepcon
+name: IEEE NEPCON
+full_name: IEEE Nepal Section International Conference (NEPCON)
+type: conference
+tier: minor
+areas: [general, networking, security, ai, systems]
+region: south-asia
+language: english
+organizer: IEEE Nepal Section
+organizer_country: [other]
+proceedings: IEEE Xplore
+fee: 125 USD IEEE member, 150 USD non-member, late 150 / 200 USD (2026)
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://ieeenepcon.github.io/
+notes:
+- International signature conference of the IEEE Nepal Section, which organizes and technically co-sponsors it
+  (IEEE conference record 71018)
+- Accepted, registered and presented papers are intended for IEEE Xplore, subject to IEEE approval
+- Broad computing scope (core computing, networking and security, AI and data, cloud and HPC, IoT and
+  blockchain, HCI, robotics, AI ethics)
+- Up to 10 pages in IEEE two-column format; the fee covers 6 pages, 5 USD per extra page
+- Held in Kathmandu; online presentation allowed where permitted
+- Submission through the ConfConnects portal
+editions:
+- year: 2026
+  start: 2026-12-11
+  end: 2026-12-13
+  location: Kathmandu, Nepal
+  url: https://ieeenepcon.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+    tz: UTC+5:45
+  - kind: notification
+    date: 2026-10-15
+    tz: UTC+5:45
+  - kind: camera_ready
+    date: 2026-11-15
+    tz: UTC+5:45
+  - kind: other
+    date: 2026-11-20
+    label: Author registration
+    tz: UTC+5:45
+sources:
+- https://ieeenepcon.github.io/
+- https://ieeenepcon.github.io/call-for-papers.html
+- https://ieeenepcon.github.io/important-dates.html
+- https://ieeenepcon.github.io/registration.html
+- https://ieeenepcon.github.io/venue.html
+- https://portal.core.edu.au/conf-ranks/?search=NEPCON&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Earlier NEPCON editions not found on the official site; 2026 may be the first edition, so frequency is unknown
+- IEEE Xplore inclusion is stated as subject to IEEE approval
+- Exact venue in Kathmandu to be announced
+- Not listed on the CORE portal (ICORE2026)
+last_verified: 2026-10-17

@@ -1,0 +1,89 @@
+id: safecomp
+name: SAFECOMP
+full_name: International Conference on Computer Safety, Reliability and Security
+type: conference
+tier: major
+areas: [security, systems, software]
+region: europe
+language: english
+frequency: annual
+organizer: EWICS TC7 (European Workshop on Industrial Computer Systems, Technical Committee 7 on Reliability, Safety
+  and Security)
+organizer_country: [europe]
+proceedings: Springer LNCS (main track volume and a separate workshop volume)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [2, 3]
+  conference_months: [9]
+links:
+  website: https://safecomp2026.webs.upv.es/
+  dblp: https://dblp.org/db/conf/safecomp/index.html
+notes:
+- Long-running European conference on safety, reliability and security of computer-based and safety-critical systems,
+  established by EWICS TC7 in 1979 (45th edition in 2026)
+- Main track and workshop papers published by Springer in LNCS (two volumes)
+- Research papers and practical experience reports or tool descriptions, up to 14 pages in LNCS format; single-blind
+  review by at least three PC members
+- Single track; workshop day before the three-day main conference; also a position paper track
+- Held in Europe every September (Toulouse 2023, Florence 2024, Stockholm 2025, Valencia 2026)
+- CORE B (ICORE2026); not on the CCF list
+editions:
+- year: 2025
+  start: 2025-09-09
+  end: 2025-09-12
+  location: Stockholm, Sweden
+  url: https://safecomp2025.se/
+  deadlines:
+  - kind: submission
+    date: 2025-02-24
+    tz: AoE
+    label: Regular papers
+  - kind: notification
+    date: 2025-04-12
+    tz: AoE
+    label: Regular papers
+  - kind: submission
+    date: 2025-05-05
+    tz: AoE
+    label: Workshop papers
+  - kind: camera_ready
+    date: 2025-06-09
+    tz: AoE
+    label: Regular papers
+  - kind: submission
+    date: 2025-07-16
+    tz: AoE
+    label: Position papers
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-25
+  location: Valencia, Spain
+  url: https://safecomp2026.webs.upv.es/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-08
+    label: Main track (extended from 2026-02-23)
+  - kind: submission
+    date: 2026-03-15
+    label: Main track (extended from 2026-03-02)
+  - kind: notification
+    date: 2026-05-01
+    label: Main track
+  - kind: camera_ready
+    date: 2026-06-07
+    label: Main track
+sources:
+- https://safecomp2026.webs.upv.es/
+- https://safecomp2026.webs.upv.es/important-dates/
+- https://safecomp2026.webs.upv.es/call-for-papers/
+- https://safecomp2026.webs.upv.es/proceedings/
+- https://safecomp2025.se/
+- https://safecomp2025.se/important-dates/
+- https://portal.core.edu.au/conf-ranks/?search=SAFECOMP&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- SAFECOMP 2026 notification date differs on the CFP page (2026-04-24 in one list, 2026-05-01 on the important dates page)
+- SAFECOMP 2027 location and dates not yet announced
+last_verified: 2026-10-17

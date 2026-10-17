@@ -1,0 +1,55 @@
+id: caldam
+name: CALDAM
+full_name: Conference on Algorithms and Discrete Applied Mathematics
+type: conference
+tier: minor
+areas: [general]
+region: south-asia
+language: english
+frequency: annual
+organizer: ACSDM (Association for Computer Science and Discrete Mathematics), with a rotating Indian host institution
+organizer_country: [india]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [2]
+links:
+  website: https://caldam2026.iitdh.ac.in/
+notes:
+- Annual conference held every year since 2015 at a rotating host in India (IIT Kanpur 2015, IIT Bhilai 2024, PSG
+  College of Technology 2025, IIT Dharwad 2026), under the aegis of ACSDM
+- Proceedings in Springer LNCS
+- Scope covers algorithms, graph theory, combinatorics, computational geometry and discrete applied mathematics
+- Papers up to 14 pages in LNCS style including references, optional appendix
+- Selected papers invited to a special issue of Discrete Applied Mathematics (Elsevier); the 2026 home page also
+  mentions a Theoretical Computer Science special issue as in 2025
+- Pre-conference school held before the main conference
+- Not found in ICORE2026
+editions:
+- year: 2026
+  label: 12th CALDAM, IIT Dharwad
+  start: 2026-02-12
+  end: 2026-02-14
+  location: Dharwad, India
+  url: https://caldam2026.iitdh.ac.in/
+  deadlines:
+  - kind: submission
+    date: 2025-09-29
+    tz: AoE
+    label: Extended from 2025-09-22
+  - kind: notification
+    date: 2025-11-14
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-28
+    tz: AoE
+sources:
+- https://caldam2026.iitdh.ac.in/
+- https://caldam2026.iitdh.ac.in/call-for-papers
+- https://portal.core.edu.au/conf-ranks/?search=CALDAM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- CALDAM 2027 not announced on any page found (acsdm.in did not resolve)
+- Not found in the CCF 2026 list via the ccfddl mirror (ccf.org.cn blocked by a captcha)
+- Acceptance rates and fees not checked
