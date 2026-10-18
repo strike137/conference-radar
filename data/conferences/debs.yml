@@ -56,13 +56,16 @@ editions:
   end: 2027-07-01
   location: Galway, Ireland (University of Galway)
   url: https://2027.debs.org/
+  status: tentative
   deadlines:
   - kind: abstract
     date: 2027-02-16
+    time: "23:59"
     tz: AoE
     label: Research papers
   - kind: submission
     date: 2027-02-23
+    time: "23:59"
     tz: AoE
     label: Research papers
   - kind: notification
@@ -84,5 +87,5 @@ sources:
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
 unverified:
 - DEBS 2027 industry, poster, demo and doctoral symposium deadlines are TBA
-- ACM DL publication stated in the DEBS 2026 research call; the 2027 call only names the ACM sigconf format
+- DEBS 2027 dates (29 June to 1 July) are announced as tentative
 last_verified: 2026-10-17

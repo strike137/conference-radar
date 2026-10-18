@@ -23,7 +23,8 @@ notes:
 - Papers are published in IEEE Xplore (for example 10.1109/ISIT62367.2026 for ISIT 2026)
 - Rotates worldwide in late June or early July (Espoo 2022, Taipei 2023, Athens 2024, Ann Arbor 2025, Guangzhou 2026,
   Sorrento 2027)
-- Submissions via EDAS; the paper registration deadline is in January
+- Submissions via EDAS; the paper deadline is in January (January 10 for 2027, January 16 for 2026)
+- Accepted papers must be presented in person by an author to appear in IEEE Xplore
 - Topics include coding theory, communications and network information theory, information-theoretic security and
   privacy, learning theory and quantum information
 - CORE ranks it B, although it is the main venue of the information theory community
@@ -34,28 +35,31 @@ editions:
   location: Guangzhou, China
   url: https://2026.ieee-isit.org/
 - year: 2027
-  start: 2027-06-26
-  end: 2027-07-03
+  start: 2027-06-27
+  end: 2027-07-02
   location: Sorrento, Italy
   url: https://2027.ieee-isit.org/
   deadlines:
   - kind: submission
     date: 2027-01-10
-    label: Paper registration (EDAS)
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-03-27
+  - kind: camera_ready
+    date: 2027-04-17
+    time: "23:59"
+    tz: AoE
 sources:
 - https://2027.ieee-isit.org/
+- https://2027.ieee-isit.org/call-papers
 - https://2026.ieee-isit.org/
-- https://edas.info/rssConferences.php
+- https://2026.ieee-isit.org/call-papers
 - https://doi.org/10.1109/isit62367.2026.11653643
 - https://doi.org/10.1109/isit63088.2025.11195674
-- https://api.crossref.org/works?query.container-title=IEEE+International+Symposium+on+Information+Theory&filter=type:proceedings-article
 - https://portal.core.edu.au/conf-ranks/?search=ISIT&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- The ieee-isit.org sites blocked automated access on 2026-10-17; ISIT 2027 dates and the 2027-01-10 paper
-  registration deadline come from the EDAS submission system listing, and the 2026 dates and earlier locations from
-  the IEEE proceedings metadata (Crossref)
-- ISIT 2027 notification and camera-ready dates, and whether 2027-06-26 to 2027-07-03 includes tutorial days
-- ISIT 2026 submission deadline not checked on the official page
+- Earlier edition locations (2022 to 2025) taken from IEEE proceedings metadata, not the official sites
 - Acceptance rate and registration fees not checked
-- Not found in the CCF 2026 list (checked via the CCFrank4dblp mirror)
+- Not found in the CCF 2026 list (the CCF site could not be read in full)
 last_verified: 2026-10-17

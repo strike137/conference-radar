@@ -17,10 +17,10 @@ typical:
   deadline_months: [10, 11]
   conference_months: [3]
 links:
-  website: https://www.pdp2026.org/
+  website: https://pdp2027.org/
 notes:
 - Annual Euromicro conference on parallel and distributed computing; 2026 was the 34th edition
-- Hosted by a European university that changes most years (Valladolid 2021 and 2022, Naples 2023, Dublin 2024, Turin 2025, Cluj-Napoca 2026)
+- Hosted by a European university that changes most years (Valladolid 2021 and 2022, Naples 2023, Dublin 2024, Turin 2025, Cluj-Napoca 2026, Barcelona 2027)
 - Proceedings published by IEEE Conference Publishing Services and available in IEEE Xplore
 - "2026 rules: up to 8 pages for long papers and 4 pages for short papers in IEEE format; double-blind review via EasyChair"
 - Co-located special sessions (for example quantum computing, HPC at the edge, digital twins) with their own calls
@@ -43,7 +43,28 @@ editions:
   - kind: camera_ready
     date: 2026-01-25
     label: All tracks
+- year: 2027
+  start: 2027-03-17
+  end: 2027-03-19
+  location: Barcelona, Spain
+  url: https://pdp2027.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-19
+    tz: AoE
+  - kind: submission
+    date: 2026-10-26
+    tz: AoE
+  - kind: notification
+    date: 2026-12-07
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-25
+    tz: AoE
+    label: All tracks
 sources:
+- https://pdp2027.org/
+- https://research.ac.upc.edu/PDP2027/index.html
 - https://www.pdp2026.org/
 - https://www.pdp2026.org/important-dates/
 - https://www.pdp2026.org/submission/cfp/
@@ -53,7 +74,7 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=PDP&by=all&source=ICORE2026&sort=atitle&page=1
 - https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
 unverified:
-- PDP 2027 not announced as of 2026-10-17 (pdp2027.org is only a placeholder page)
+- PDP 2027 fees not yet announced
 - Scopus indexing of the 2026 proceedings only stated as submitted
 - CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
 last_verified: 2026-10-17

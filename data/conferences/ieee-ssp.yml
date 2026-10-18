@@ -15,7 +15,7 @@ typical:
   deadline_months: [2]
   conference_months: [6, 7]
 links:
-  website: https://2025.ieeessp.org/
+  website: https://ssp27.ieeesps.org/
 notes:
 - Biennial IEEE Signal Processing Society workshop on statistical signal processing and its applications (23rd edition
   in 2025)
@@ -24,7 +24,7 @@ notes:
 - Proceedings in IEEE Xplore; papers not presented in person are withheld from Xplore
 - Authors of SPS journal papers accepted or published within the last year can present them (not included in the
   proceedings)
-- Location rotates worldwide (Edinburgh 2025)
+- Location rotates worldwide (Edinburgh 2025, Annecy 2027)
 - Not listed in ICORE2026
 editions:
 - year: 2025
@@ -47,13 +47,33 @@ editions:
     label: SPS journal paper presentation requests
   - kind: camera_ready
     date: 2025-04-30
+- year: 2027
+  label: 24th SSP
+  start: 2027-06-28
+  end: 2027-07-01
+  location: Centre de Congres Imperial, Annecy, France
+  url: https://ssp27.ieeesps.org/
+  deadlines:
+  - kind: other
+    date: 2026-12-07
+    label: Special session and tutorial proposals
+  - kind: other
+    date: 2026-12-21
+    label: Special session and tutorial notification
+  - kind: submission
+    date: 2027-02-07
+    label: Full papers
+  - kind: notification
+    date: 2027-04-14
+  - kind: camera_ready
+    date: 2027-04-30
 sources:
+- https://ssp27.ieeesps.org/
+- https://ssp27.ieeesps.org/call-for-papers/
 - https://2025.ieeessp.org/
 - https://2025.ieeessp.org/call-for-papers/
 - https://2025.ieeessp.org/special-sessions/
 - https://2025.ieeessp.org/policies/
 - https://2025.ieeessp.org/submission/
 - https://portal.core.edu.au/conf-ranks/?search=SSP&by=all&source=ICORE2026
-unverified:
-- Dates and location of SSP 2027 (no official site reachable on the check date)
 last_verified: 2026-10-17
