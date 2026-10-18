@@ -1,0 +1,61 @@
+id: ieee-socc
+name: IEEE SOCC
+full_name: IEEE International System-on-Chip Conference
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE, with IEEE Circuits and Systems Society (organizational sponsors)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, Scopus]
+typical:
+  deadline_months: [4]
+  conference_months: [9, 10]
+links:
+  website: https://www.ieee-socc.org/
+notes:
+- Annual SoC and SiP design conference; started in 1987 as a local ASIC seminar of the IEEE Rochester section,
+  renamed IEEE SOC Conference (SOCC) as SoCs emerged
+- Organizational sponsors are IEEE and IEEE CAS Society
+- 'Topics: SoC architectures, edge AI accelerators, hardware security, NoC and many-core, RF and analog circuits,
+  low power design, design methodology and test'
+- Regular papers are 4 to 6 pages in IEEE double-column format with double-blind review; industrial talks are 1
+  to 2 pages
+- Accepted papers presented at the conference are submitted to IEEE Xplore; indexed in Scopus
+- Held in the USA until 2006, now rotates between the USA, Europe, the Middle East and Asia (Las Vegas 2021,
+  Belfast 2022, Santa Clara 2023, Dresden 2024, Dubai 2025, Heidelberg 2026)
+- Not listed in ICORE2026 or the CCF list (the CCF "SoCC" is the ACM Symposium on Cloud Computing)
+- SOCC 2027 announced for Las Vegas, NV, USA in September 2027
+editions:
+- year: 2026
+  start: 2026-09-30
+  end: 2026-10-02
+  location: Heidelberg, Germany
+  url: https://www.ieee-socc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-01
+    label: Regular papers
+  - kind: other
+    date: 2026-04-01
+    label: Special session, tutorial and industrial talk proposals
+  - kind: notification
+    date: 2026-06-15
+  - kind: camera_ready
+    date: 2026-08-01
+sources:
+- https://www.ieee-socc.org/
+- https://www.ieee-socc.org/media/attachments/2026/01/29/2026_socc_cfp_v4.pdf
+- https://www.ieee-socc.org/index.php/about/history-committees
+- https://www.ieee-socc.org/index.php/authors/guidelines-for-paper-submission
+- https://portal.core.edu.au/conf-ranks/?search=System-on-Chip&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/WenyanLiu/CCFrank4dblp/blob/master/data/ccfRankUrl.js
+unverified:
+- No time zone stated for the 2026 deadlines; possible deadline extensions not shown on the CFP PDF (v4)
+- SOCC 2027 exact dates and deadlines not yet announced (only Las Vegas, September 2027)
+- Absence from the CCF list checked via a mirror of the CCF list (CCFrank4dblp), not on ccf.org.cn directly
+last_verified: 2026-10-17

@@ -1,0 +1,56 @@
+id: swat
+name: SWAT
+full_name: Scandinavian Symposium on Algorithm Theory
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: biennial
+organizer: SWAT Steering Committee (Nordic algorithms community)
+organizer_country: [europe]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://swat2026.compute.dtu.dk/
+  dblp: https://dblp.org/db/conf/swat/index.html
+notes:
+- Biennial algorithms and data structures symposium held in even years, alternating with WADS
+- Formerly named Scandinavian Symposium and Workshops on Algorithm Theory (title used up to 2024)
+- Held in the Nordic countries (Reykjavik 2016, Malmo 2018, Torshavn 2020 and 2022, Helsinki 2024, Copenhagen 2026)
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl); 2026 was LIPIcs volume 370
+- Double-blind submission, 15 pages in LIPIcs format excluding references
+- Best student paper award
+- Not listed in ICORE2026 (CORE B in the old ERA2010 list) and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-17
+  end: 2026-06-19
+  location: Copenhagen, Denmark (Technical University of Denmark)
+  url: https://swat2026.compute.dtu.dk/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-16
+    tz: AoE
+  - kind: submission
+    date: 2026-02-20
+    tz: AoE
+  - kind: notification
+    date: 2026-04-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-17
+    tz: AoE
+sources:
+- https://swat2026.compute.dtu.dk/
+- https://swat2026.compute.dtu.dk/p/call_for_papers
+- https://drops.dagstuhl.de/entities/conference/SWAT
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-370
+- https://portal.core.edu.au/conf-ranks/?search=SWAT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- SWAT 2028 not announced on an official page as of 2026-10-17
+- Steering committee composition not checked

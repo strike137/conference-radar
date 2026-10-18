@@ -1,0 +1,89 @@
+id: sofsem
+name: SOFSEM
+full_name: International Conference on Current Trends in Theory and Practice of Computer Science
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: SOFSEM Steering Committee, with a local host institution each year (University of Ioannina for 2027)
+organizer_country: [europe]
+proceedings: Springer LNCS (ARCoSS subseries)
+archival: true
+rank:
+  core: B
+acceptance_rate: 36% (2026, 48/133)
+fee: About 2100 PLN (2026, regular), 1700 PLN student
+typical:
+  deadline_months: [9]
+  conference_months: [1, 2]
+links:
+  website: https://sofsem2027.conf.uoi.gr/
+notes:
+- Annual winter theory conference running since 1974, interrupted only in 2022 because of COVID-19
+- Traditionally held in the Czech Republic and Slovakia; recent editions moved around Europe (Novy Smokovec 2023, Cochem 2024, Bratislava 2025, Krakow 2026, Ioannina 2027)
+- Proceedings in Springer LNCS, ARCoSS subseries
+- Scope covers algorithms, complexity, automata, logic, graph drawing, computational geometry, quantum computing and theory of AI and machine learning
+- Papers up to 12 pages in LNCS format excluding references, optional appendix read at the discretion of the PC
+- Single-blind review; accepted papers must also be posted on arXiv at camera-ready time
+- Poster track and a pre-conference PhD school the day before the main event
+- Selected papers invited to a special issue of Discrete Mathematics and Theoretical Computer Science (2027)
+- Ranked B in ICORE2026
+editions:
+- year: 2026
+  label: 51st SOFSEM
+  start: 2026-02-09
+  end: 2026-02-13
+  location: Krakow, Poland
+  url: https://sofsem.uj.edu.pl/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-15
+  - kind: submission
+    date: 2025-09-18
+  - kind: notification
+    date: 2025-11-10
+  - kind: camera_ready
+    date: 2025-12-01
+- year: 2027
+  label: 52nd SOFSEM, University of Ioannina
+  start: 2027-02-02
+  end: 2027-02-05
+  location: Ioannina, Greece
+  url: https://sofsem2027.conf.uoi.gr/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-15
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-09-18
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-11-10
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-12-01
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    label: Poster submission
+    date: 2026-12-01
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sofsem2027.conf.uoi.gr/
+- https://sofsem2027.conf.uoi.gr/index.php?id=call-for-papers
+- https://sofsem.uj.edu.pl/
+- https://link.springer.com/conference/sofsem
+- https://link.springer.com/book/9783032178008
+- https://portal.core.edu.au/conf-ranks/?search=SOFSEM&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- SOFSEM 2026 official site does not state a time or zone for its deadlines
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn not checked directly)
+- SOFSEM 2027 fees not yet published

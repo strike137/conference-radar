@@ -1,0 +1,54 @@
+id: ictss
+name: ICTSS
+full_name: IFIP International Conference on Testing Software and Systems
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: IFIP (2026 site lists IFIP WG 1.7 as sponsor), steering committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+indexing: [DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10]
+links:
+  website: https://ictss2026.org/
+  dblp: https://dblp.org/db/conf/pts/index.html
+notes:
+- IFIP conference on software and systems testing (38th edition in 2026)
+- Proceedings in Springer LNCS; best papers invited to a special issue of Springer Nature Computer Science
+- Full papers 12 to 15 pages plus 2 pages of references, short papers up to 6 pages, double-blind review
+- Held in Europe every year (Bergamo 2023, London 2024, Limassol 2025, Paris 2026)
+- 2026 edition included the TESTAI workshop and a CyberSuite hackathon
+editions:
+- year: 2026
+  start: 2026-10-13
+  end: 2026-10-15
+  location: Paris, France
+  url: https://ictss2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-08
+    label: Paper submission (extended from 2026-07-01)
+  - kind: notification
+    date: 2026-08-24
+  - kind: camera_ready
+    date: 2026-09-15
+sources:
+- https://ictss2026.org/
+- https://ictss2026.org/call-for-papers
+- https://ictss2026.org/about
+- https://link.springer.com/conference/pts
+- https://portal.core.edu.au/conf-ranks/?search=ICTSS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- ICTSS 2027 not yet announced (to be announced at the 2026 closing ceremony)
+- Deadline time zone not stated (site uses Europe/Paris)
+- Not on the CCF list per the CCFrank4dblp mirror (ccf.org.cn behind a captcha)
+last_verified: 2026-10-17

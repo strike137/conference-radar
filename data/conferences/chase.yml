@@ -1,0 +1,88 @@
+id: chase
+name: CHASE
+full_name: International Conference on Cooperative and Human Aspects of Software Engineering
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: CHASE steering committee (co-located with ICSE)
+organizer_country: [international]
+proceedings: ACM DL / IEEE Xplore (alternates by year)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [10]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/series/chase
+notes:
+- Main venue for human and social aspects of software engineering; an ICSE workshop from 2008, a co-located
+  conference since 2021
+- Always co-located with ICSE and held just before it (Lisbon 2024, Ottawa 2025, Rio de Janeiro 2026, Dublin 2027)
+- Full papers up to 10 pages plus 2 pages of references; extended abstracts up to 5 pages; double-anonymous
+  review with at least three reviewers
+- Paper format switches between ACM (2026) and IEEE (2027) templates from year to year
+- CORE B (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-14
+  location: Rio de Janeiro, Brazil (with ICSE 2026)
+  url: https://conf.researchr.org/home/chase-2026
+  deadlines:
+  - kind: abstract
+    date: 2025-10-16
+    tz: AoE
+    label: Research track (recommended)
+  - kind: submission
+    date: 2025-10-23
+    tz: AoE
+    label: Research track
+  - kind: notification
+    date: 2026-01-05
+    label: Research track
+  - kind: camera_ready
+    date: 2026-01-26
+    tz: AoE
+    label: Research track
+- year: 2027
+  start: 2027-04-26
+  end: 2027-04-27
+  location: Dublin, Ireland (with ICSE 2027)
+  url: https://conf.researchr.org/home/chase-2027
+  deadlines:
+  - kind: abstract
+    date: 2026-10-16
+    tz: AoE
+    label: Research track (recommended, used for bidding)
+  - kind: submission
+    date: 2026-10-23
+    tz: AoE
+    label: Research track
+  - kind: notification
+    date: 2026-12-18
+    label: Research track
+  - kind: camera_ready
+    date: 2027-01-29
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2027-01-28
+    label: Doctoral and Early Career Symposium
+sources:
+- https://conf.researchr.org/home/chase-2027
+- https://conf.researchr.org/dates/chase-2027
+- https://conf.researchr.org/track/chase-2027/chase-2027-papers
+- https://conf.researchr.org/home/chase-2026
+- https://conf.researchr.org/track/chase-2026/chase-2026-papers
+- https://conf.researchr.org/series/chase
+- https://portal.core.edu.au/conf-ranks/?search=CHASE&by=all&source=ICORE2026
+unverified:
+- The CHASE 2027 call asks for the IEEE template but also mentions publication in the ACM Digital Library; the 2027
+  publisher is not stated clearly
+- The CHASE 2027 call lists the camera-ready date as January 29th, 2026; the dates page shows 2027-01-29
+- Acceptance rate not published on the official site
+last_verified: 2026-10-17

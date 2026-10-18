@@ -1,0 +1,79 @@
+id: muc
+name: MuC
+full_name: Mensch und Computer
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: mixed
+frequency: annual
+organizer: GI (Gesellschaft für Informatik) and German UPA
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+rank:
+  core: "National: Germany"
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://muc2026.mensch-und-computer.de/
+notes:
+- German-speaking HCI conference held every year since 2001; describes itself as the largest HCI conference in Europe
+- Run with the German Informatics Society (GI) and German UPA, which runs the practitioner track (Usability Professionals)
+- Papers can be written in English or German (German papers need an English title and abstract)
+- Full and short papers published open access in the ACM Digital Library; MuC 2026 covered fees for authors without an ACM Open agreement
+- Full papers typically 4,000 to 9,000 words, short papers up to 6 pages; double-anonymous review on PCS, no rebuttal
+- Also workshops, tutorials, demos, doctoral consortium and a student research competition
+- CORE National Germany (ICORE2026); not in the CCF 2026 list
+- Held in Germany or Switzerland (Rapperswil 2023, Karlsruhe 2024, Chemnitz 2025, Duisburg 2026, Oldenburg 2027)
+editions:
+- year: 2026
+  start: 2026-08-30
+  end: 2026-09-02
+  location: University of Duisburg-Essen, Duisburg, Germany
+  url: https://muc2026.mensch-und-computer.de/
+  deadlines:
+  - kind: submission
+    date: 2026-04-01
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2026-05-20
+    tz: AoE
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-06-03
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-06-03
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2026-07-01
+    tz: AoE
+    label: Short papers
+  - kind: camera_ready
+    date: 2026-07-22
+    tz: AoE
+    label: Short papers
+- year: 2027
+  start: 2027-08-30
+  end: 2027-09-02
+  location: Oldenburg, Germany
+  url: https://muc2027.mensch-und-computer.de/
+sources:
+- https://muc2026.mensch-und-computer.de/
+- https://muc2026.mensch-und-computer.de/submission/hci-scientific-track/call-for-full-papers/
+- https://muc2026.mensch-und-computer.de/submission/hci-scientific-track/call-for-short-papers/
+- https://muc2026.mensch-und-computer.de/imprint
+- https://muc2027.mensch-und-computer.de/
+- https://muc2025.mensch-und-computer.de/
+- https://muc2024.mensch-und-computer.de/
+- https://muc2023.mensch-und-computer.de/
+- https://portal.core.edu.au/conf-ranks/?search=MuC&by=all&source=ICORE2026
+unverified:
+- MuC 2027 deadlines not yet announced
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

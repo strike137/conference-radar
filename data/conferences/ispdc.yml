@@ -1,0 +1,56 @@
+id: ispdc
+name: ISPDC
+full_name: International Symposium on Parallel and Distributed Computing
+type: conference
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: ISPDC steering committee (2026 hosted by DESY)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://indico.desy.de/e/ispdc2026
+notes:
+- Symposium on parallel and distributed algorithms, HPC, cloud and edge computing, federated learning and ML for distributed systems
+- Held every year since 2002, mostly in Europe (Bucharest 2023, Chur 2024, Rennes 2025, Hamburg 2026)
+- 2026 was the 25th edition, hosted by DESY in Hamburg and technically co-sponsored by the IEEE Computer Society
+- 2026 papers published in the conference proceedings and submitted to IEEE Xplore
+- "2026 formats: full papers up to 10 pages, short papers up to 6 pages, poster papers 2 pages (all including references), talks as 1 page abstracts that are not published"
+- Small venue; 15 papers were accepted in 2026
+- One author must register at the full rate and present the work
+- "CORE C (ICORE2026); not in the CCF 2026 list"
+editions:
+- year: 2026
+  start: 2026-07-01
+  end: 2026-07-02
+  location: Hamburg, Germany
+  url: https://indico.desy.de/e/ispdc2026
+  deadlines:
+  - kind: submission
+    date: 2026-04-19
+    tz: AoE
+    label: Papers, posters and talks (extended)
+  - kind: notification
+    date: 2026-05-18
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-26
+sources:
+- https://indico.desy.de/e/ispdc2026
+- https://indico.desy.de/event/50985/abstracts/
+- https://indico.desy.de/event/50985/page/5725-past-editions
+- https://indico.desy.de/event/50985/page/5655-people
+- https://portal.core.edu.au/conf-ranks/?search=ISPDC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ISPDC 2027 location and dates not found as of 2026-10-18
+- Original (pre-extension) 2026 submission deadline not stated on the official page
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-18

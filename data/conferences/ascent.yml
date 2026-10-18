@@ -1,0 +1,70 @@
+id: ascent
+name: ASCENT
+full_name: Workshop on Advances in Systems and Computation at the Edge and HPC Networks
+type: workshop
+tier: minor
+areas: [systems, networking, ai]
+region: south-asia
+language: english
+frequency: annual
+organizer: Workshop chairs Anurag Satpathy (Missouri S&T), Arindam Khanda (Kennesaw State University), Sourav Kanti
+  Addya (NIT Karnataka) and Hirozumi Yamaguchi (The University of Osaka)
+organizer_country: [usa, india, japan]
+proceedings: ACM DL (ACM ICPS, ICDCN companion proceedings)
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [1]
+links:
+  website: https://anuragsatpathy.github.io/ascent-icdcn2027/
+notes:
+- Co-located workshop of ICDCN; 1st edition at ICDCN 2026 in Nara, Japan (merged with the DistLLM workshop), 2nd at
+  ICDCN 2027 at NIT Karnataka, Surathkal, India
+- Topics are HPC and edge computing, distributed LLM inference, generative AI on edge platforms and quantum-aware
+  workflows
+- Double-blind; papers up to 6 pages in ACM format, submitted via the ICDCN EasyChair
+- Accepted papers appear in a companion volume of the ICDCN proceedings in ACM ICPS; an ACM open access APC may apply
+- At least one author must register and present in person; a workshop-day registration is available
+- Small workshop (4 papers in the 2026 program); not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-01-06
+  end: 2026-01-06
+  location: Nara, Japan
+  url: https://sites.google.com/view/ascent-icdcn2026/
+  deadlines:
+  - kind: submission
+    date: 2025-10-20
+    tz: AoE
+    label: Paper submission (firm, extended from 2025-09-15 and 2025-10-06)
+  - kind: notification
+    date: 2025-11-03
+    label: Notification (firm, moved from 2025-10-25)
+  - kind: camera_ready
+    date: 2025-11-15
+- year: 2027
+  start: 2027-01-04
+  end: 2027-01-07
+  location: Surathkal, India
+  url: https://anuragsatpathy.github.io/ascent-icdcn2027/
+  deadlines:
+  - kind: submission
+    date: 2026-09-20
+    tz: AoE
+    label: Paper submission (final, extended from 2026-09-01)
+  - kind: notification
+    date: 2026-10-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-29
+    tz: AoE
+sources:
+- https://anuragsatpathy.github.io/ascent-icdcn2027/
+- https://sites.google.com/view/ascent-icdcn2026/
+- https://sites.google.com/view/ascent-icdcn2026/program
+- https://sites.google.com/view/icdcn2026/program/program-schedule
+- https://sites.google.com/view/icdcn2026/workshops
+- https://portal.core.edu.au/conf-ranks/?search=ASCENT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Exact ASCENT 2027 workshop day not announced; dates shown are the ICDCN 2027 conference dates (2027-01-04 to 2027-01-07)

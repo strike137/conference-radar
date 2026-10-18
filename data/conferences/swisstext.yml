@@ -1,0 +1,59 @@
+id: swisstext
+name: SwissText
+full_name: Swiss Conference for Text, Speech and Language AI (formerly Swiss Text Analytics Conference)
+type: conference
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: annual
+organizer: SwissNLP (Swiss Association for Natural Language Processing) with a host university
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://www.swisstext.org/
+notes:
+- Started in 2016 at ZHAW Winterthur; run by SwissNLP and moves between Swiss universities since 2022
+- New tagline "Swiss Conference for Text, Speech and Language AI" from 2027
+- Mixed industry and academic audience; one-day event in 2026
+- Scientific Track and Corpus Track papers are archival in the ACL Anthology (2023 onwards); Applied Track and Demo
+  Track abstracts are non-archival
+- Full papers up to 8 pages and short papers up to 4 pages in ACL style, double-blind via OpenReview
+- 2020 edition held online jointly with KONVENS
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-10
+  end: 2026-06-10
+  location: Zurich, Switzerland
+  url: https://www.swisstext.org/archive/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-24
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2026-03-17)
+  - kind: notification
+    date: 2026-04-21
+  - kind: camera_ready
+    date: 2026-05-05
+- year: 2027
+  start: 2027-06-16
+  end: 2027-06-17
+  location: Basel, Switzerland
+  url: https://www.swisstext.org/
+  deadlines: []
+sources:
+- https://www.swisstext.org/
+- https://www.swisstext.org/archive/2026/
+- https://www.swisstext.org/archive/2026/submissions/call-for-papers/
+- https://aclanthology.org/venues/swisstext/
+- https://portal.core.edu.au/conf-ranks/?search=SwissText&by=all&source=ICORE2026
+unverified:
+- SwissText 2027 call for papers and deadlines not yet published as of 2026-10-17
+- Acceptance rate not published
+last_verified: 2026-10-17

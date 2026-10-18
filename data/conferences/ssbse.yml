@@ -1,0 +1,88 @@
+id: ssbse
+name: SSBSE
+full_name: International Symposium on Search-Based Software Engineering
+type: conference
+tier: major
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: SSBSE steering committee (co-located with FSE or ASE)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [3, 8]
+  conference_months: [7, 11]
+links:
+  website: https://conf.researchr.org/series/ssbse
+notes:
+- Main venue for search-based software engineering (optimization, evolutionary and other heuristic search applied to SE problems)
+- One-day symposium co-located with a major SE conference; FSE in 2022, 2023, 2024 and 2026, ASE in 2025
+- Proceedings in Springer LNCS (SSBSE 2025 is LNCS volume 16228)
+- Research papers up to 15 pages in LNCS format including references; double-anonymous review
+- Also has RENE/NIER, Challenge and Hot-off-the-Press tracks
+- Best papers invited to a special issue of the Automated Software Engineering journal
+- Recent editions in Singapore 2022, San Francisco 2023, Porto de Galinhas 2024, Seoul 2025, Montreal 2026
+- CORE B (ICORE2026); not in the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: Seoul, South Korea
+  url: https://conf.researchr.org/home/ssbse-2025
+  deadlines:
+  - kind: submission
+    date: 2025-08-28
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2025-09-25
+    tz: AoE
+    label: Research papers
+  - kind: camera_ready
+    date: 2025-10-10
+    tz: AoE
+    label: Research papers
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-06
+  location: Montreal, Canada
+  url: https://conf.researchr.org/home/ssbse-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-17
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-03-24
+    tz: AoE
+    label: RENE/NIER
+  - kind: submission
+    date: 2026-04-09
+    tz: AoE
+    label: SSBSE Challenge
+  - kind: notification
+    date: 2026-04-10
+    tz: AoE
+    label: Research papers
+  - kind: camera_ready
+    date: 2026-04-17
+    tz: AoE
+    label: Research papers
+sources:
+- https://conf.researchr.org/home/ssbse-2026
+- https://conf.researchr.org/track/ssbse-2026/ssbse-2026-research-papers
+- https://conf.researchr.org/dates/ssbse-2026
+- https://conf.researchr.org/track/ssbse-2026/ssbse-2026-rene-nier
+- https://conf.researchr.org/home/ssbse-2025
+- https://conf.researchr.org/track/ssbse-2025/ssbse-2025-papers
+- https://link.springer.com/book/10.1007/978-3-032-24839-8
+- https://portal.core.edu.au/conf-ranks/?search=SSBSE&by=all&source=ICORE2026
+unverified:
+- SSBSE 2026 research deadlines taken from the Important Dates list (Mar 17, Apr 10, Apr 17); the CFP text still shows the original Feb 20, Mar 28, Apr 11
+- SSBSE 2027 not yet announced (no ssbse-2027 page as of 2026-10-17); co-location and deadline month change from year to year
+- Acceptance rate not found on an official page
+last_verified: 2026-10-17

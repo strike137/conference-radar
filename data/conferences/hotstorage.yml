@@ -1,0 +1,78 @@
+id: hotstorage
+name: HotStorage
+full_name: ACM Workshop on Hot Topics in Storage and File Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGOPS (in cooperation with USENIX)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [4, 6]
+  conference_months: [7, 9]
+links:
+  website: https://www.hotstorage.org/2026/
+  dblp: https://dblp.org/db/conf/hotstorage/index.html
+notes:
+- Workshop for forward-looking and early-stage storage and file systems research; position papers welcome
+- Sponsored by ACM SIGOPS in cooperation with USENIX (a USENIX workshop until 2020); proceedings in the ACM DL
+- 1.5-day in-person workshop; at least one author of each accepted paper must attend
+- Held in the USA in 2023 to 2025 (Boston, Santa Clara, Boston); 2026 in Prague just before SOSP
+- Student grants that waive registration fees are offered based on need
+- CCF C; not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-07-10
+  end: 2025-07-11
+  location: Boston, MA, USA
+  url: https://www.hotstorage.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-04
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-05-16
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-05
+    tz: AoE
+- year: 2026
+  start: 2026-09-28
+  end: 2026-09-29
+  location: Prague, Czechia
+  url: https://www.hotstorage.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    tz: AoE
+    label: Extended from June 5
+  - kind: notification
+    date: 2026-07-24
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-12
+    tz: AoE
+sources:
+- https://www.hotstorage.org/2026/
+- https://www.hotstorage.org/2026/cfp.html
+- https://www.hotstorage.org/2026/program.html
+- https://www.hotstorage.org/2026/past-conferences.html
+- https://www.hotstorage.org/2025/
+- https://www.hotstorage.org/2025/attend.html
+- https://www.hotstorage.org/2025/program.html
+- https://www.hotstorage.org/2024/
+- https://www.hotstorage.org/2024/attend.html
+- https://www.hotstorage.org/2023/attend.html
+- https://portal.core.edu.au/conf-ranks/?search=HotStorage&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- HotStorage 2027 not yet announced; co-location and timing vary by year
+- Acceptance rate and registration fee not found on official pages
+last_verified: 2026-10-17

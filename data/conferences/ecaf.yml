@@ -1,0 +1,81 @@
+id: ecaf
+name: ECAF
+full_name: European Conference on Algorithmic Fairness
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: EAAF (European Association for Algorithmic Fairness); local organizers change every year (Ghent University
+  2026, Vilnius University 2027)
+organizer_country: [europe]
+proceedings: PMLR (Proceedings of Machine Learning Research)
+archival: true
+fee: 300 EUR academia, government and non-profit; 450 EUR industry (2026)
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6, 7, 9]
+links:
+  website: https://2027.ecafconference.org/
+notes:
+- Formerly EWAF (European Workshop on Algorithmic Fairness, 2022 to 2025); renamed ECAF from the fifth edition in 2026
+- Supported and organized by EAAF, the European Association for Algorithmic Fairness
+- Interdisciplinary venue for algorithmic fairness covering computer science, law, philosophy and social science, with
+  a focus on the European legal and societal context
+- Full papers up to 15 pages (double blind) and extended abstracts up to 4 pages, submitted on OpenReview; authors can
+  choose archival or non-archival
+- Archival papers published as a PMLR volume (Vol. 294 for EWAF 2025, Vol. 350 for ECAF 2026); 2024 proceedings
+  went to CEUR-WS
+- Also calls for interactive sessions and non-archival posters
+- Held in Europe (Zurich 2022, Winterthur 2023, Mainz 2024, Eindhoven 2025, Ghent 2026, Vilnius 2027)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-06-30
+  end: 2025-07-02
+  location: Eindhoven, Netherlands
+  url: https://2025.ewaf.org/
+  deadlines:
+  - kind: submission
+    date: 2025-03-13
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-05-05
+- year: 2026
+  start: 2026-09-02
+  end: 2026-09-04
+  location: Ghent, Belgium
+  url: https://2026.ecafconference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-17
+  - kind: notification
+    date: 2026-06-16
+- year: 2027
+  start: 2027-08-25
+  end: 2027-08-27
+  location: Vilnius, Lithuania
+  url: https://2027.ecafconference.org/
+sources:
+- https://2027.ecafconference.org/
+- https://2026.ecafconference.org/
+- https://2025.ewaf.org/
+- https://2025.ewaf.org/submitting/call-for-papers
+- https://2024.ewaf.org/call-for-papers
+- https://sites.google.com/view/ewaf22/
+- https://sites.google.com/view/ewaf23/
+- https://ecafconference.org/
+- https://proceedings.mlr.press/v294/
+- https://proceedings.mlr.press/v350/
+- https://portal.core.edu.au/conf-ranks/?search=EWAF&by=all&source=ICORE2026&sort=atitle&page=1
+- https://portal.core.edu.au/conf-ranks/?search=ECAF&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- ECAF 2027 submission and notification dates not announced yet ("to be announced" on the 2027 site)
+- Acceptance rate not published
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly

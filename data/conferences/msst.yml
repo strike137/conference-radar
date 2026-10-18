@@ -1,0 +1,64 @@
+id: msst
+name: MSST
+full_name: International Conference on Massive Storage Systems and Technology
+type: conference
+tier: major
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: Santa Clara University School of Engineering (MSST steering committee)
+organizer_country: [usa]
+proceedings: MSST website (research track papers posted as open PDFs)
+archival: true
+rank:
+  core: "National: USA"
+  ccf: B
+typical:
+  deadline_months: [4]
+  conference_months: [5, 6]
+links:
+  website: https://msstconference.org/
+  dblp: https://dblp.org/db/conf/mss/index.html
+notes:
+- Storage systems conference founded in 1974 by US national laboratories (formerly the IEEE Symposium on Mass Storage
+  Systems)
+- A full week at Santa Clara University, with an invited industry and practitioner track followed by a peer-reviewed
+  research track
+- Research track takes full papers (up to 14 pages) and short papers (4 to 6 pages), double-blind, IEEE format, via
+  EasyChair
+- Accepted research papers are posted as open PDFs on the conference website
+- Held at Santa Clara University, CA at every edition since 2014 (2020 virtual, none in 2021 and 2022); 2025 was a reduced invited-talks edition
+- CCF B (listed as Mass Storage Systems and Technologies); CORE National USA (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-05
+  location: Santa Clara, CA, USA
+  url: https://msstconference.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-14
+    label: Research track (extended from April 4)
+  - kind: notification
+    date: 2026-05-01
+  - kind: camera_ready
+    date: 2026-05-08
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-21
+  location: Santa Clara, CA, USA
+  url: https://msstconference.org/
+  status: tentative
+sources:
+- https://msstconference.org/2026/index.html
+- https://msstconference.org/2026/research-cfp.html
+- https://msstconference.org/2026/research-program.html
+- https://msstconference.org/MSST-history/index.html
+- https://portal.core.edu.au/conf-ranks/?search=MSST&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- The CFP does not name a publisher; papers are only posted on the conference website
+- MSST 2027 is announced only as the week of May 17 to 21, 2027; no call for papers yet
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly

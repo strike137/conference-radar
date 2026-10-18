@@ -1,0 +1,59 @@
+id: dimes
+name: DIMES
+full_name: Workshop on Disruptive Memory Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (ETH Zurich, Google, Osnabrück University), co-located with ACM SOSP
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10, 11]
+links:
+  website: https://dimes.ws/
+notes:
+- Workshop on system software for emerging memory technologies (CXL, far memory, memory tiering, near-memory processing)
+- Co-located with ACM SOSP every year since 2023 (Koblenz 2023, Austin 2024, Seoul 2025, Prague 2026)
+- Papers of at most 6 pages plus references and demo abstracts of 2 pages (ACM sigplan format), double-blind
+- Accepted papers and demos are published in the ACM DL; early-stage work and prototype demos are encouraged
+- Steering committee from ETH Zurich and Ruhr University Bochum
+- Not listed in the CORE portal (ICORE2026) or on the CCF list
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Seoul, Republic of Korea
+  url: https://dimes.ws/2025/
+- year: 2026
+  start: 2026-09-29
+  end: 2026-09-29
+  location: Prague, Czechia
+  url: https://dimes.ws/
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-07-10
+  - kind: camera_ready
+    date: 2026-08-28
+sources:
+- https://dimes.ws/
+- https://dimes.ws/cfp/
+- https://dimes.ws/submission/
+- https://dimes.ws/organizers/
+- https://dimes.ws/program/
+- https://dimes.ws/2025/
+- https://dimes.ws/2024/
+- https://dimes.ws/2023/
+- https://portal.core.edu.au/conf-ranks/?search=DIMES&by=all&source=ICORE2026
+unverified:
+- DIMES 2025 deadlines not recorded
+- DIMES 2027 not announced yet
+last_verified: 2026-10-17

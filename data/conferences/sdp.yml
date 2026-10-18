@@ -1,0 +1,83 @@
+id: sdp
+name: SDP
+full_name: Workshop on Scholarly Document Processing
+type: workshop
+tier: minor
+areas: [nlp, data]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (2025 editors from ORNL, GESIS, Allen Institute for AI, DFKI, SRI International,
+  Elsevier and Fraunhofer FOKUS); co-located with ACL-family conferences
+organizer_country: [usa, europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [3, 5]
+  conference_months: [7, 8]
+links:
+  website: https://sdproc.org/
+notes:
+- Workshop on NLP, information retrieval and data mining for scholarly and scientific documents (LLMs for science,
+  summarization, citation analysis, scientometrics, peer review tools, digital libraries)
+- Five editions so far (EMNLP 2020, NAACL 2021, COLING 2022, ACL 2024 Bangkok, ACL 2025 Vienna); no edition in 2023
+- Grew out of the BIRNDL and WOSP workshops
+- Proceedings in the ACL Anthology (35 papers in 2025, 32 in 2024)
+- Research track plus several shared tasks; long papers up to 8 pages, short papers up to 4 pages; ARR-reviewed papers
+  can be committed
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  start: 2024-08-16
+  end: 2024-08-16
+  location: Bangkok, Thailand (co-located with ACL 2024)
+  url: https://sdproc.org/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-05-31
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2024-05-17
+  - kind: notification
+    date: 2024-06-28
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-07-05
+    time: "23:59"
+    tz: AoE
+- year: 2025
+  start: 2025-07-31
+  end: 2025-07-31
+  location: Vienna, Austria (co-located with ACL 2025)
+  url: https://sdproc.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-15
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-03-01
+  - kind: other
+    date: 2025-03-25
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2025-05-10
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sdproc.org/2025/
+- https://sdproc.org/2025/cfp.html
+- https://sdproc.org/2025/previousworkshops.html
+- https://sdproc.org/2024/
+- https://aclanthology.org/venues/sdp/
+- https://portal.core.edu.au/conf-ranks/?search=Scholarly+Document&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2026 edition found; sdproc.org still points to the 2025 site and the ACL Anthology lists no 2026 proceedings
+- SDP 2027 not announced yet

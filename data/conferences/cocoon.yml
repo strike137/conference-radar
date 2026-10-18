@@ -1,0 +1,64 @@
+id: cocoon
+name: COCOON
+full_name: International Computing and Combinatorics Conference
+type: conference
+tier: major
+areas: [general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: COCOON organizers, with a local host institution each year (Nanyang Technological University in 2026)
+organizer_country: [china]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: 'National: China'
+  ccf: B
+typical:
+  conference_months: [7, 8]
+links:
+  website: https://event.ntu.edu.sg/cocoon2026
+notes:
+- Algorithms, theory of computation, complexity and combinatorics related to computing
+- Mostly held in China and the Asia-Pacific (Tainan 2021, Shenzhen 2022, Hawaii 2023, Shanghai 2024, Chengdu 2025,
+  Singapore 2026)
+- Proceedings in Springer LNCS every year; papers must be presented in person to appear
+- Lightweight double-blind review; 12 pages in LNCS format including references, optional appendix
+- Best Paper and Best Student Paper awards
+- 34 papers in the 2026 proceedings
+- CCF B; ranked National China in ICORE2026
+editions:
+- year: 2026
+  label: 32nd COCOON, Nanyang Technological University
+  start: 2026-07-23
+  end: 2026-07-25
+  location: Singapore
+  url: https://event.ntu.edu.sg/cocoon2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-04
+    time: "23:59"
+    tz: AoE
+    label: Extended from February 27
+  - kind: notification
+    date: 2026-05-06
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-29
+    time: "23:59"
+    tz: AoE
+sources:
+- https://event.ntu.edu.sg/cocoon2026
+- https://event.ntu.edu.sg/cocoon2026/pages/call-for-papers
+- https://event.ntu.edu.sg/cocoon2026/pages/committees
+- https://link.springer.com/conference/cocoon
+- https://portal.core.edu.au/conf-ranks/?search=COCOON&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list (updated 2026-04-06), not on ccf.org.cn directly
+- COCOON 2027 not announced on an official page as of 2026-10-17
+- No steering committee listed on the 2026 site; organizer_country china is based on its hosting history and CORE national label
+- Deadline month varies by year (2026 was early March for a July conference), so no typical deadline month is given
+- Past locations taken from the Springer conference series page

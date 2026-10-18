@@ -1,0 +1,57 @@
+id: nmr
+name: NMR
+full_name: International Workshop on Nonmonotonic Reasoning
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: NMR Steering Committee (chair Matthias Thimm) with yearly general co-chairs
+organizer_country: [international]
+proceedings: CEUR Workshop Proceedings
+archival: false
+indexing: [DBLP]
+typical:
+  deadline_months: [4, 7]
+  conference_months: [7, 11]
+links:
+  website: https://nmr.krportal.org/
+notes:
+- Long-running forum on nonmonotonic, defeasible and default reasoning within knowledge representation, including
+  belief revision, argumentation, reasoning about actions, logic programming and causality
+- Started in 1984, held every two years until 2020 and every year since; usually co-located with KR
+- Recent editions Haifa 2022, Rhodes 2023, Hanoi 2024, Melbourne 2025, Lisbon 2026 (with KR 2026 at FLoC)
+- Full papers up to 14 pages including references and extended abstracts up to 3 pages, CEUR 1-column format
+- Already published papers and papers under review elsewhere are welcome if this is stated on the first page
+- Papers appear in CEUR Workshop Proceedings, which the organizers call informal proceedings; authors keep the
+  copyright and only full papers are indexed by DBLP
+- Not listed in the CORE ICORE2026 portal (the related conference LPNMR is CORE B)
+editions:
+- year: 2026
+  start: 2026-07-17
+  end: 2026-07-19
+  location: Lisbon, Portugal
+  url: https://nmr.krportal.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-14
+    label: Paper registration (extended from 2026-04-03)
+  - kind: submission
+    date: 2026-04-21
+    label: Paper submission (extended from 2026-04-10)
+  - kind: notification
+    date: 2026-05-18
+  - kind: camera_ready
+    date: 2026-06-17
+sources:
+- https://nmr.krportal.org/
+- https://nmr.krportal.org/2026/
+- https://nmr.krportal.org/2025/
+- https://nmr.krportal.org/2024/
+- https://portal.core.edu.au/conf-ranks/?search=NMR&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- NMR 2027 location and dates (not announced; it normally follows KR)
+- Deadline times and time zones not stated on the official pages
+- CCF list not checked directly

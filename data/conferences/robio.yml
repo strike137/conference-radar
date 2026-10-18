@@ -1,0 +1,74 @@
+id: robio
+name: IEEE ROBIO
+full_name: IEEE International Conference on Robotics and Biomimetics
+type: conference
+tier: minor
+areas: [ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE RAS (financial co-sponsor), chaired mostly by Chinese and Hong Kong universities
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://www.robio2026.org/
+notes:
+- Robotics and biomimetics conference; 2026 is the 22nd edition, theme Biomimetic Robots Empowered by AI
+- Accepted papers appear in IEEE Xplore and are submitted to EI; 6 pages in IEEE format, up to 8 with extra page charge
+- Held in December, mostly in China with some editions in Thailand (Sanya 2021, Jinghong 2022, Koh Samui 2023, Bangkok 2024, Chengdu 2025, Tengchong 2026)
+- Has best conference paper and T.J. Tarn best paper in robotics awards
+- Not listed in CORE or CCF
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-07
+  location: Chengdu, Sichuan, China
+  url: http://www.robio2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-08-10
+    label: Extended from 2025-08-01
+  - kind: other
+    date: 2025-09-15
+    label: Workshop and tutorial proposals
+  - kind: notification
+    date: 2025-10-01
+  - kind: camera_ready
+    date: 2025-10-20
+    label: Final submission (extended from 2025-10-15)
+- year: 2026
+  start: 2026-12-16
+  end: 2026-12-20
+  location: Tengchong, Yunnan, China
+  url: https://www.robio2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-15
+    label: Extended from 2026-08-01
+  - kind: other
+    date: 2026-09-15
+    label: Workshop and tutorial proposals
+  - kind: notification
+    date: 2026-10-15
+  - kind: camera_ready
+    date: 2026-10-31
+    label: Final submission
+sources:
+- https://www.robio2026.org/
+- http://www.robio2025.org/
+- http://www.robio2025.org/h-col-101.html
+- http://www.robio2025.org/h-col-107.html
+- http://download.s21i.co99.net/33042097/0/0/ABUIABA9GAAg8Y2uxAYo8PL3CQ.pdf (ROBIO 2025 call for papers)
+- https://portal.core.edu.au/conf-ranks/?search=ROBIO&by=all&source=ICORE2026
+- https://ieee-ras.org/conferences-workshops/financially-co-sponsored/robio
+unverified:
+- Not found in the CORE ICORE2026 portal, so no CORE rank is given; not in the CCF 2026 list
+- 2021 to 2024 hosts (Sanya, Jinghong, Koh Samui, Bangkok) taken from the IEEE RAS ROBIO page and proceedings listings, not from the old edition sites
+- The 2026 site does not restate the proceedings; IEEE Xplore is taken from the 2025 call for papers
+- ROBIO 2025 site serves an expired TLS certificate; it was read over plain HTTP
+last_verified: 2026-10-17

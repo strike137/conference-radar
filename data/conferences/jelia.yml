@@ -1,0 +1,58 @@
+id: jelia
+name: JELIA
+full_name: European Conference on Logics in Artificial Intelligence
+type: conference
+tier: major
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: JELIA Steering Committee
+organizer_country: [europe]
+proceedings: Springer LNAI
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://jelia.eu/
+notes:
+- Biennial European forum for logic-based approaches to AI (knowledge representation, argumentation, nonmonotonic
+  reasoning, answer set programming, and related topics), running since 1988
+- Proceedings in Springer LNAI
+- Held in Europe; recent editions in Klagenfurt (2021), Dresden (2023) and Kutaisi, Georgia (2025)
+- 2025 accepted 39 full and 5 short papers from 108 submissions
+- CORE B; not on the CCF list
+editions:
+- year: 2025
+  start: 2025-09-01
+  end: 2025-09-04
+  location: Kutaisi, Georgia
+  url: https://viam.science.tsu.ge/jelia2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-30
+    tz: AoE
+    label: Extended from May 2
+  - kind: submission
+    date: 2025-06-04
+    tz: AoE
+    label: Extended from May 9
+  - kind: notification
+    date: 2025-07-04
+  - kind: camera_ready
+    date: 2025-07-10
+    tz: AoE
+sources:
+- https://jelia.eu/
+- https://viam.science.tsu.ge/jelia2025/
+- https://viam.science.tsu.ge/jelia2025/dates
+- https://viam.science.tsu.ge/jelia2025/organization
+- https://link.springer.com/conference/jelia
+- https://link.springer.com/book/10.1007/978-3-032-04587-4
+- https://portal.core.edu.au/conf-ranks/?search=JELIA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- JELIA 2027 (next biennial edition) not yet announced; jelia.eu still lists 2023 as the latest edition

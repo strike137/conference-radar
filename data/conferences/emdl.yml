@@ -1,0 +1,60 @@
+id: emdl
+name: EMDL
+full_name: International Workshop on Embedded and Mobile Deep Learning
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Steering committee Nic Lane (University of Cambridge and Flower Labs); 2026 PC chairs from Samsung AI Center
+  Cambridge, University of Twente, University of Amsterdam and TU Delft; co-located with ACM MobiSys
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://emdl-workshop.github.io/emdl26/
+notes:
+- Started in 2017; held with ACM MobiSys 2017 to 2019, MobiCom 2020 and MobiSys 2021 and 2022, then
+  paused until the 7th edition at MobiSys 2026 in Cambridge, UK
+- 2026 theme is system foundations for generative AI at the edge (on-device LLMs, KV cache, NPU acceleration)
+- Full and position papers up to 6 pages go to the ACM Digital Library; 2-page work-in-progress and demo papers appear
+  only on the workshop website
+- Double-blind review; MobiSys format
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-06-25
+  end: 2026-06-25
+  location: Cambridge, UK
+  url: https://emdl-workshop.github.io/emdl26/
+  deadlines:
+  - kind: submission
+    date: 2026-04-18
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-09
+  - kind: notification
+    date: 2026-04-27
+    time: "23:59"
+    tz: AoE
+    label: Moved from 2026-04-23
+  - kind: camera_ready
+    date: 2026-04-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://emdl-workshop.github.io/emdl26/
+- https://emdl-workshop.github.io/emdl26/cfp.html
+- https://emdl-workshop.github.io/emdl26/submission.html
+- https://emdl-workshop.github.io/emdl26/camera_ready.html
+- https://emdl-workshop.github.io/emdl26/committee.html
+- https://emdl-workshop.github.io/emdl26/history.html
+- https://portal.core.edu.au/conf-ranks/?search=EMDL&by=all&source=ICORE2026
+unverified:
+- No edition between 2022 and 2026, so whether it returns in 2027 is unknown
+- The 2026 accepted papers page still shows the 2018 program, so the 2026 papers in the ACM DL were not checked
+last_verified: 2026-10-17

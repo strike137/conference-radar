@@ -1,0 +1,61 @@
+id: fmics
+name: FMICS
+full_name: International Conference on Formal Methods for Industrial Critical Systems
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: ERCIM Working Group on Formal Methods for Industrial Critical Systems
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+indexing: [DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9]
+links:
+  website: https://fmics.inria.fr/
+  dblp: https://dblp.org/db/conf/fmics/index.html
+notes:
+- Annual conference of the ERCIM FMICS Working Group, running since 1996 (31st edition in 2026)
+- Focus on formal methods and verification applied to industrial and safety critical systems
+- Proceedings in Springer LNCS; regular papers up to 15 pages in LNCS style, at least three reviews per paper
+- Often co-located with a larger event (CONFEST 2026 in Liverpool with CONCUR and QEST+FORMATS)
+- Held in Europe every year (Antwerp 2023, Milan 2024, Aarhus 2025, Liverpool 2026, Athens 2027 with FM)
+- Best paper receives the EASST ERCIM award; selected papers invited to an STTT special issue in some years
+editions:
+- year: 2026
+  start: 2026-09-03
+  end: 2026-09-04
+  location: Liverpool, UK (co-located with CONFEST 2026)
+  url: https://confest-2026.github.io/fmics/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-24
+    label: Abstract (extended from 2026-04-10)
+  - kind: submission
+    date: 2026-05-01
+    label: Paper (extended from 2026-04-17)
+  - kind: notification
+    date: 2026-06-01
+  - kind: camera_ready
+    date: 2026-06-15
+- year: 2027
+  location: Athens, Greece (co-located with FM 2027)
+  url: https://fmics.inria.fr/
+sources:
+- https://fmics.inria.fr/
+- https://confest-2026.github.io/fmics/
+- https://confest-2026.github.io/fmics/call-for-papers
+- https://ercim-news.ercim.eu/en146/jea/report-on-the-31st-international-conference-on-formal-methods-for-industrial-critical-systems
+- https://portal.core.edu.au/conf-ranks/?search=FMICS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- FMICS 2027 will be co-located with the 28th International Symposium on Formal Methods (FM 2027) in Athens, October 18 to 22, 2027; the FMICS days within that week and its deadlines are not announced yet
+- Deadline time zone not stated on the 2026 CFP
+- Not on the CCF list per the CCFrank4dblp mirror (ccf.org.cn behind a captcha)
+last_verified: 2026-10-17

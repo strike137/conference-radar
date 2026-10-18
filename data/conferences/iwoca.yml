@@ -1,0 +1,69 @@
+id: iwoca
+name: IWOCA
+full_name: International Workshop on Combinatorial Algorithms
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IWOCA Steering Committee, with a local host institution each year
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+acceptance_rate: 34% (2026, 37/110)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7]
+links:
+  website: https://tomasz-radzik.github.io/IWOCA/
+notes:
+- Standalone meeting despite the "workshop" name; started in 1989 as AWOCA (Australasian Workshop on Combinatorial Algorithms)
+- Rotates worldwide (Ottawa 2021, Trier 2022, Tainan 2023, Ischia 2024, Bozeman 2025, Clermont-Ferrand 2026)
+- Proceedings in Springer LNCS every year (2026 is LNCS volume 16587)
+- Scope covers algorithms on graphs, strings and discrete structures, combinatorial optimization, complexity, computational geometry and related topics
+- Papers up to 12 pages in LNCS format excluding references, optional appendix
+- Lightweight double-blind review introduced for 2026
+- Has a problems section and a collaborative workshop after the main event; selected papers invited to journal special issues
+- Ranked C in ICORE2026
+editions:
+- year: 2026
+  label: 37th IWOCA, Universite Clermont Auvergne
+  start: 2026-06-08
+  end: 2026-06-11
+  location: Clermont-Ferrand, France
+  url: https://iwoca2026.limos.fr/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-26
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-02-02
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-03-25
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-06
+    time: "23:59"
+    tz: AoE
+sources:
+- https://iwoca2026.limos.fr/
+- https://iwoca2026.limos.fr/cfp.php
+- https://tomasz-radzik.github.io/IWOCA/
+- https://tomasz-radzik.github.io/IWOCA/previous.html
+- https://tomasz-radzik.github.io/IWOCA/steering.html
+- https://link.springer.com/conference/iwoca
+- https://link.springer.com/book/10.1007/978-3-032-27732-9
+- https://portal.core.edu.au/conf-ranks/?search=IWOCA&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- IWOCA 2027 not announced on the official IWOCA pages as of 2026-10-17
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn not checked directly)
+- Fees not recorded

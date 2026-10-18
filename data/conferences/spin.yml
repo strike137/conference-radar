@@ -1,0 +1,62 @@
+id: spin
+name: SPIN
+full_name: International Symposium on Model Checking Software
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SPIN Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [1]
+  conference_months: [4, 5]
+links:
+  website: https://spinroot.com/spin/Workshops/
+  dblp: https://dblp.org/db/conf/spin/
+notes:
+- Started in 1995 as a workshop on the SPIN model checker; now a broad symposium on automated software analysis
+- Topics include model checking, deductive verification, SAT/SMT, symbolic execution, static analysis and testing
+- Proceedings in Springer LNCS; full research and tool papers 16 pages, short papers 6 pages
+- Tool papers need an artifact that earns at least the Functional badge; artifacts optional for other papers
+- Co-located with ETAPS since 2023 (Paris 2023, Luxembourg 2024, Hamilton 2025, Torino 2026)
+- Small two-day event, historically 50 to 70 participants
+- Not found on the CORE ICORE2026 portal; CCF C
+editions:
+- year: 2026
+  start: 2026-04-15
+  end: 2026-04-16
+  location: Torino, Italy (co-located with ETAPS 2026)
+  url: https://spin-web.github.io/SPIN2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-22
+    tz: AoE
+  - kind: submission
+    date: 2026-01-29
+    tz: AoE
+  - kind: other
+    date: 2026-02-05
+    tz: AoE
+    label: Artifact submission for tool papers (mandatory)
+  - kind: notification
+    date: 2026-03-05
+    tz: AoE
+sources:
+- https://spin-web.github.io/SPIN2026/
+- https://spin-web.github.io/SPIN2026/cfp
+- https://spin-web.github.io/SPIN2026/about
+- https://spinroot.com/spin/Workshops/
+- https://portal.core.edu.au/conf-ranks/?search=SPIN&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+- https://etaps.org/2027/
+unverified:
+- SPIN 2027 not announced yet (ETAPS 2027 is April 10 to 15, 2027 in Copenhagen)
+- The 2026 site shows abstract and paper deadlines already extended by one week; original dates not recorded
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF ("International Symposium on Model Checking of Software", C), ccf.org.cn behind a captcha
+last_verified: 2026-10-17

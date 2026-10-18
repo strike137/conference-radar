@@ -1,0 +1,99 @@
+id: indiahci
+name: IndiaHCI
+full_name: Indian Conference on Human-Computer Interaction
+type: conference
+tier: minor
+areas: [general]
+region: south-asia
+language: english
+frequency: annual
+organizer: HCI Professionals Association of India (HCIPAI), in cooperation with ACM SIGCHI
+organizer_country: [india]
+proceedings: ACM DL
+archival: true
+rank:
+  core: 'National: India'
+fee: 'INR 14,000 professional, INR 6,600 student (2026, regular registration); HCIPAI members get INR 2,000 off'
+typical:
+  deadline_months: [6]
+  conference_months: [10, 11]
+links:
+  website: https://www.indiahci.org/
+notes:
+- India's main HCI conference, run by HCIPAI in cooperation with ACM SIGCHI; 2026 is the 17th edition
+- Hosted by a different Indian institute each year (UPES Dehradun 2023, IIT Bombay 2024, IIIT Delhi 2025, IIT
+  Hyderabad 2026)
+- Proceedings in the ACM DL (ICPS, ACM Open APC may apply) for 2025 and 2026; 2023 and 2024 were published by
+  Springer (2024 in CCIS)
+- Double-blind review (CHI-style) with rebuttal; ACM single-column format, typically 7,000 to 8,000 words
+- Many side tracks (posters and demos, industry, student design and research consortia, courses and workshops,
+  out of India track)
+- 'CORE rank National: India (ICORE2026)'
+editions:
+- year: 2025
+  start: 2025-11-07
+  end: 2025-11-09
+  location: IIIT Delhi, New Delhi, India
+  url: https://www.2025.indiahci.org/
+  deadlines:
+  - kind: submission
+    date: 2025-06-18
+    label: Full papers (extended from 2025-06-10)
+  - kind: notification
+    date: 2025-08-10
+    label: Initial reviews (moved from 2025-08-01)
+  - kind: other
+    date: 2025-08-25
+    label: Revised submission (extended from 2025-08-18)
+  - kind: notification
+    date: 2025-09-05
+    label: Final notification
+  - kind: camera_ready
+    date: 2025-09-11
+- year: 2026
+  start: 2026-10-29
+  end: 2026-10-31
+  location: Department of Design, IIT Hyderabad, Hyderabad, India
+  url: https://www.2026.indiahci.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-01
+    tz: AoE
+  - kind: submission
+    date: 2026-06-07
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2026-06-14
+    tz: AoE
+    label: Paper edit deadline for submitted papers
+  - kind: notification
+    date: 2026-08-12
+    tz: AoE
+    label: Initial reviews
+  - kind: other
+    date: 2026-08-19
+    tz: AoE
+    label: Rebuttals due
+  - kind: notification
+    date: 2026-08-26
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-15
+    tz: AoE
+sources:
+- https://www.indiahci.org/
+- https://www.indiahci.org/conferences/
+- https://www.2026.indiahci.org/
+- https://www.2026.indiahci.org/call-for-participation/full-papers
+- https://www.2026.indiahci.org/registration
+- https://www.2026.indiahci.org/india-hci-history/proceedings-in-the-past
+- https://www.2025.indiahci.org/
+- https://www.2025.indiahci.org/programme_1/full-papers
+- https://link.springer.com/book/10.1007/978-3-031-80832-6
+- https://portal.core.edu.au/conf-ranks/?search=IndiaHCI&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not published on the official site
+- 2025 deadlines are listed without a time zone
+- 2026 full papers page body text gives older review dates (Aug 5, Aug 15, Aug 22, Sep 20) than its Important Dates table; the table is used
+last_verified: 2026-10-17

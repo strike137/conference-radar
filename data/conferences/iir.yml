@@ -1,0 +1,80 @@
+id: iir
+name: IIR
+full_name: Italian Information Retrieval Workshop
+type: conference
+tier: minor
+areas: [data, nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Italian information retrieval community, hosted by a different Italian university each year
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+fee: Free of charge, advance registration required (2025, 2026)
+typical:
+  deadline_months: [6, 7, 9]
+  conference_months: [6, 9, 11]
+links:
+  website: https://iir2026.diag.uniroma1.it/
+notes:
+- Annual national forum of the Italian IR community, held since 2010; 2026 is the 16th edition
+- Meant for informal discussion and networking, with a focus on PhD students and early stage researchers;
+  international participants welcome
+- Full papers (10 pages), short papers (5 pages) and extended abstracts (up to 4 pages, may present already
+  published work); English, single-blind review
+- Authors choose whether their paper appears in the CEUR-WS proceedings (2025 -> Vol-4026, 2024 -> Vol-3802)
+- Held in Italy (Bari 2021, Milan 2022, Pisa 2023, Udine 2024, Cagliari 2025, Rome 2026)
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-03
+  end: 2025-09-05
+  location: Cagliari, Italy
+  url: https://iirworkshop.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-04
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2025-06-26)
+  - kind: notification
+    date: 2025-07-24
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-31
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-11-12
+  end: 2026-11-14
+  location: Rome, Italy
+  url: https://iir2026.diag.uniroma1.it/
+  deadlines:
+  - kind: submission
+    date: 2026-09-12
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-10-12
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-26
+    time: "23:59"
+    tz: AoE
+sources:
+- https://iir2026.diag.uniroma1.it/
+- https://iir2026.diag.uniroma1.it/call-for-papers
+- https://iir2026.diag.uniroma1.it/venue
+- https://iirworkshop.github.io/2025/
+- https://iirworkshop.github.io/2025/important-dates/
+- https://iirworkshop.github.io/2025/call-for-papers/
+- https://ceur-ws.org/Vol-4026/
+- https://ceur-ws.org/Vol-3802/
+- https://ceur-ws.org/Vol-3448/
+- https://ceur-ws.org/Vol-3177/
+- https://ceur-ws.org/Vol-2947/
+- https://portal.core.edu.au/conf-ranks/?search=IIR&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17

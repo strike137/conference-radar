@@ -1,0 +1,63 @@
+id: apdcm
+name: APDCM
+full_name: Workshop on Advances in Parallel and Distributed Computational Models
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE IPDPS workshop; workshop co-chairs Koji Nakano (Hiroshima University) and Jacir L. Bordim (University
+  of Brasilia)
+organizer_country: [japan]
+proceedings: IEEE Xplore (IPDPS Workshops, IEEE Computer Society)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://apdcm.iss-j.org/
+notes:
+- One-day workshop co-located with IEEE IPDPS every year since 1999 (28th edition in 2026)
+- Papers appear in the IPDPS workshop proceedings in IEEE Xplore and the IEEE CSDL
+- 'Topics: models of parallel and distributed computing (GPU, FPGA, quantum, cloud, BSP/LogP), parallel algorithms,
+  and practical aspects such as MPI, multi-core and performance analysis'
+- Regular papers up to 10 pages, short papers up to 4 pages; abstract registration on EasyChair is mandatory
+- Extended versions of selected papers invited to the International Journal of Networking and Computing (IJNC)
+- Best and outstanding paper awards each year; strong participation from Japanese universities
+- Location follows IPDPS (mostly USA, sometimes Europe; Milan 2025, New Orleans 2026)
+editions:
+- year: 2026
+  label: 28th APDCM
+  start: 2026-05-25
+  end: 2026-05-25
+  location: New Orleans, USA
+  url: https://apdcm.iss-j.org/doku.php?id=apdcm2026
+  deadlines:
+  - kind: abstract
+    date: 2026-02-06
+    time: "23:59"
+    tz: UTC
+    label: Extended from January 20 and February 1 (firm)
+  - kind: submission
+    date: 2026-02-11
+    time: "23:59"
+    tz: UTC
+    label: Extended from January 25 and February 6 (firm)
+  - kind: notification
+    date: 2026-02-28
+    label: Moved from February 20
+  - kind: camera_ready
+    date: 2026-03-13
+    label: Moved from March 6
+sources:
+- https://apdcm.iss-j.org/doku.php?id=apdcm2026
+- https://apdcm.iss-j.org/doku.php?id=history
+- https://www.ipdps.org/ipdps2027/2027-call-for-workshops.html
+- https://www.ipdps.org/ipdps2027/2027-call-for-papers.html
+- https://portal.core.edu.au/conf-ranks/?search=APDCM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- APDCM 2027 page not created yet; IPDPS 2027 is June 1 to 5, 2027 in Seattle but the workshop day is not announced
+- Not listed on the CORE portal (ICORE2026) and not on the CCF 2026 list
+- Acceptance rate not published

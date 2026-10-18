@@ -1,0 +1,63 @@
+id: isope
+name: IEEE ISoPE
+full_name: IEEE Symposium on Privacy Expectations
+type: conference
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Digital Privacy Initiative (IEEE Future Directions)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://ieee-isope.org/
+notes:
+- Organized by the IEEE Digital Privacy Initiative; first edition in 2025, follows a 2024 Digital Privacy Workshop at Carnegie Mellon University
+- Held in New York City (2025, and Club 101 on Park Avenue in 2026); mix of practitioners, researchers and policymakers
+- Two-step call; 1,000-word abstracts for in-person presentations, then optional extended abstracts (up to 4 pages, IEEE template) after the event
+- Abstracts of non-paper presentations appear as open access front matter in the IEEE Xplore proceedings
+- Not ranked by CORE and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-10-10
+  end: 2025-10-10
+  location: New York City, USA
+  url: https://ieee-isope.org/past-events/
+- year: 2026
+  start: 2026-10-01
+  end: 2026-10-02
+  location: New York City, USA
+  url: https://ieee-isope.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-14
+    label: Presentation abstract
+  - kind: notification
+    date: 2026-08-05
+    label: Presentation abstract
+  - kind: other
+    date: 2026-11-10
+    label: Extended abstract paper (optional, after the symposium)
+  - kind: notification
+    date: 2026-12-02
+    label: Extended abstract paper
+  - kind: camera_ready
+    date: 2026-12-15
+    label: Optional camera-ready paper
+sources:
+- https://ieee-isope.org/
+- https://ieee-isope.org/call-for-presentations/
+- https://ieee-isope.org/venue-and-travel/
+- https://ieee-isope.org/committee-2026/
+- https://ieee-isope.org/past-events/
+- https://ieeexplore.ieee.org/servlet/opac?punumber=11486283
+- https://api.crossref.org/works?query.bibliographic=Symposium+on+Privacy+Expectations&filter=type:proceedings
+last_verified: 2026-10-17
+unverified:
+- No time zone stated for deadlines
+- 2025 deadlines not found on the official site

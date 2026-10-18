@@ -1,0 +1,69 @@
+id: annpr
+name: ANNPR
+full_name: IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IAPR TC3 (Neural Networks and Computational Intelligence), hosted by a local university (University of Milan in 2026)
+organizer_country: [international]
+proceedings: Springer LNAI
+archival: true
+fee: 360 EUR general, 310 EUR IAPR members, 260 EUR students (2026, early)
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://annpr2026.unimi.it/
+notes:
+- Standalone biennial workshop of IAPR Technical Committee 3 on neural networks and machine learning for pattern recognition
+- Proceedings in Springer Lecture Notes in Artificial Intelligence
+- Held since 2003; recent editions in Ulm 2016, Siena 2018, Winterthur 2020, Dubai 2022, Montreal 2024 and Milan 2026
+- Main track with special sessions, plus a new position papers track in 2026
+- In person only; no remote presentations (2026)
+- Small single-track workshop; best paper awards sponsored by Cambridge University Press in 2026
+editions:
+- year: 2026
+  start: 2026-10-07
+  end: 2026-10-09
+  location: Milan, Italy (University of Milan)
+  url: https://annpr2026.unimi.it/
+  deadlines:
+  - kind: submission
+    date: 2026-06-11
+    time: "23:59"
+    tz: CET
+    label: Main track and special sessions (final extension)
+  - kind: submission
+    date: 2026-07-04
+    time: "23:59"
+    tz: CET
+    label: Position papers track
+  - kind: notification
+    date: 2026-07-07
+    label: Main track and special sessions
+  - kind: notification
+    date: 2026-07-11
+    label: Position papers track
+  - kind: camera_ready
+    date: 2026-07-18
+  - kind: other
+    date: 2026-07-25
+    label: Early registration
+sources:
+- https://annpr2026.unimi.it/
+- https://annpr2026.unimi.it/important-dates/
+- https://annpr2026.unimi.it/important-dates/call-for-papers/
+- https://annpr2026.unimi.it/important-dates/registration/
+- https://annpr2026.unimi.it/program/venue/
+- https://link.springer.com/book/10.1007/978-3-032-39028-8
+- https://portal.core.edu.au/conf-ranks/?search=ANNPR&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- The site says deadlines are midnight CET; the original main deadline was May 14, 2026, extended twice
+- Not found on the CORE portal (ICORE2026); not on the CCF list (checked via the CCFrank4dblp mirror, not on ccf.org.cn directly)
+- ANNPR 2028 not announced
+- Acceptance rate not published

@@ -1,0 +1,71 @@
+id: stacs
+name: STACS
+full_name: International Symposium on Theoretical Aspects of Computer Science
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: STACS Steering Committee (French, German and international parts)
+organizer_country: [europe]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: A
+  ccf: C
+typical:
+  deadline_months: [9, 10]
+  conference_months: [3]
+links:
+  website: https://www.stacs-conf.org/
+  dblp: https://dblp.org/db/conf/stacs/index.html
+notes:
+- Held every year since 1984, alternating between Germany and France (Hamburg 2023, Clermont-Ferrand 2024, Jena 2025, Grenoble 2026, Goettingen 2027)
+- "Two tracks since 2023: Track A (algorithms, data structures, complexity) and Track B (automata, logic, semantics, theory of programming)"
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl) since 2008; Springer LNCS from 1984 to 2007
+- Double-blind review since 2020, with a rebuttal phase since 2016
+- CORE A (ICORE2026), CCF C
+editions:
+- year: 2026
+  start: 2026-03-10
+  end: 2026-03-13
+  location: Grenoble, France
+  url: https://stacs2026.imag.fr/
+  deadlines:
+  - kind: submission
+    date: 2025-09-25
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2025-11-17
+    label: Rebuttal (Nov 17 to 21)
+  - kind: notification
+    date: 2025-12-12
+- year: 2027
+  start: 2027-03-08
+  end: 2027-03-12
+  location: Goettingen, Germany (Alte Mensa)
+  url: https://events.gwdg.de/e/stacs2027
+  deadlines:
+  - kind: submission
+    date: 2026-10-11
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-11-30
+    label: Rebuttal (Nov 30 to Dec 2)
+  - kind: notification
+    date: 2026-12-22
+sources:
+- https://www.stacs-conf.org/
+- https://www.stacs-conf.org/conferences.html
+- https://www.stacs-conf.org/steering.html
+- https://events.gwdg.de/e/stacs2027
+- https://stacs2026.imag.fr/
+- https://portal.core.edu.au/conf-ranks/?search=STACS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- CCF rank checked via the CCFrank4dblp mirror of the CCF 2026 list, not on ccf.org.cn directly
+- STACS 2027 final version and early registration dates are TBA on the official page

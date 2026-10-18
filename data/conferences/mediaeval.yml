@@ -1,0 +1,79 @@
+id: mediaeval
+name: MediaEval
+full_name: MediaEval Benchmarking Initiative for Multimedia Evaluation Workshop
+type: workshop
+tier: minor
+areas: [vision, data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: MediaEval Coordination Committee (Politehnica Bucharest, SimulaMet and Radboud University in 2026); in cooperation
+  with ACM SIGMM
+organizer_country: [europe]
+proceedings: CEUR-WS (Working Notes Proceedings of the MediaEval Workshop)
+archival: true
+typical:
+  deadline_months: [6, 10]
+  conference_months: [6, 9, 10]
+links:
+  website: https://multimediaeval.github.io/
+notes:
+- Benchmarking initiative with shared tasks on multimedia analysis, retrieval and access (medical VQA, video memorability,
+  news images, multimodal summarization and others)
+- Participating teams submit runs and a 4-page working notes paper, then present at the annual workshop; "Quest for
+  Insight" papers analyze data and tasks without a system
+- Working notes proceedings published in CEUR-WS (Vol-3658 for the 2023 edition)
+- Hybrid workshop in Europe with free online participation (Bergen Jan 2023, Amsterdam Feb 2024, Dublin Oct 2025, Amsterdam
+  Jun 2026 with ACM ICMR, Bucharest Sep 2027 with CLEF); 2020 and 2021 online
+- No edition labeled 2024; the 2023 edition workshop took place in February 2024
+- Discount on in-person registration for ACM SIGMM members and students
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-10-25
+  end: 2025-10-26
+  location: Dublin, Ireland and online
+  url: https://multimediaeval.github.io/editions/2025/
+  deadlines:
+  - kind: other
+    date: 2025-09-24
+    label: Runs due
+  - kind: submission
+    date: 2025-10-08
+    label: Working notes papers
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-16
+  location: Amsterdam, Netherlands and online (co-located with ACM ICMR 2026)
+  url: https://multimediaeval.github.io/editions/2026/
+  deadlines:
+  - kind: other
+    date: 2026-05-15
+    label: Runs due (15 May to 1 June depending on task)
+  - kind: submission
+    date: 2026-06-10
+    label: Working notes papers
+  - kind: camera_ready
+    date: 2026-06-30
+- year: 2027
+  start: 2027-09-13
+  end: 2027-09-13
+  location: Bucharest, Romania (co-located with CLEF 2027)
+  url: https://multimediaeval.github.io/editions/2027/
+sources:
+- https://multimediaeval.github.io/
+- https://multimediaeval.github.io/editions/2027/
+- https://multimediaeval.github.io/editions/2026/
+- https://multimediaeval.github.io/editions/2025/
+- https://multimediaeval.github.io/editions/2023/
+- https://multimediaeval.github.io/2026/05/15/workshop-registration-2026.html
+- https://multimediaeval.github.io/2025/09/18/workshop-registration.html
+- https://2026.multimediaeval.com/
+- https://ceur-ws.org/Vol-3658/
+- https://portal.core.edu.au/conf-ranks/?search=MediaEval&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- MediaEval 2027 task schedule and deadlines not announced yet
+- 2025 and 2026 CEUR-WS volume numbers not confirmed (the 2026 proceedings page shows Vol-XXX)
+- Registration fee amounts not published on the site
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly

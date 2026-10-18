@@ -1,0 +1,65 @@
+id: eai-cloudcomp
+name: EAI CloudComp
+full_name: EAI International Conference on Cloud Computing
+type: conference
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: EAI (European Alliance for Innovation)
+organizer_country: [europe]
+proceedings: Springer LNICST
+archival: true
+indexing: [Web of Science, Compendex, Scopus, DBLP, Inspec, zbMATH]
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://cloudcomp.eai-conferences.org/2026/
+notes:
+- EAI conference series on cloud computing, with a recent focus on AI and LLMs in cloud and edge environments
+- Proceedings in Springer LNICST; selected papers invited to extend for Mobile Networks and Applications (MONET)
+- Regular papers 12 or more pages, short papers 6 to 11 pages in Springer format; anonymized submission via Confy+
+- Main track, late track and workshop track with separate deadlines
+- Held since 2009; recent editions in Bratislava (2023), Luton (2024) and Derby (2026); no 2025 edition is listed
+- 2020 to 2022 editions were virtual
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-30
+  end: 2026-07-01
+  location: Derby, UK
+  url: https://cloudcomp.eai-conferences.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-09
+    label: Full papers, main track
+  - kind: submission
+    date: 2026-02-25
+    label: Late track
+  - kind: notification
+    date: 2026-03-27
+    label: Main track
+  - kind: notification
+    date: 2026-04-12
+    label: Late track
+  - kind: submission
+    date: 2026-04-30
+    label: Workshop track
+  - kind: notification
+    date: 2026-05-15
+    label: Workshop track
+  - kind: camera_ready
+    date: 2026-06-08
+sources:
+- https://cloudcomp.eai-conferences.org/2026/
+- https://cloudcomp.eai-conferences.org/2026/call-for-paper/
+- https://cloudcomp.eai-conferences.org/2024/
+- https://portal.core.edu.au/conf-ranks/?search=CloudComp&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2026 start date differs on the official site (homepage gives 30 June to 1 July, the call for papers page gives
+  29 June to 1 July 2026); homepage dates kept
+- 2027 edition not announced yet
+- CCF 2026 list not checked directly on ccf.org.cn

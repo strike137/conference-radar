@@ -1,0 +1,70 @@
+id: aaai-fss
+name: AAAI FSS
+full_name: AAAI Fall Symposium Series
+type: conference
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: AAAI (Association for the Advancement of Artificial Intelligence)
+organizer_country: [usa]
+proceedings: Proceedings of the AAAI Symposium Series (AAAI Press, AAAI OJS)
+archival: true
+fee: About 560 USD nonmember, 395 USD member, 225 USD student member (2026, early)
+typical:
+  deadline_months: [8, 9]
+  conference_months: [10, 11]
+links:
+  website: https://aaai.org/conference/fall-symposia/
+notes:
+- Annual set of AAAI symposia run in parallel at one site, each on a different AI topic chosen by proposal
+- Topics change every year (nine symposia in 2026, six in 2025); each symposium has 40 to 75 participants
+- 2.5 day workshop-style format with more time for discussion than a typical one-day workshop
+- Each symposium runs its own call, EasyChair track and deadlines; full papers usually 6 to 8 pages, short papers 2 to 4 pages in AAAI format
+- Accepted papers appear in the Proceedings of the AAAI Symposium Series (AAAI Press, ISSN 2994-4317); some symposia also allow non-archival abstracts
+- In person only; at least one author per accepted paper must register and present
+- Held at the Westin Arlington Gateway, Arlington, Virginia, USA in 2023 to 2026
+- Registration covers one symposium only
+- Not listed in CORE ICORE2026 or on the CCF list
+editions:
+- year: 2025
+  start: 2025-11-06
+  end: 2025-11-08
+  location: Westin Arlington Gateway, Arlington, Virginia, USA
+  url: https://aaai.org/conference/fall-symposia/fss25/
+  deadlines:
+  - kind: submission
+    date: 2025-08-01
+    label: Papers due to organizers (series default, some symposia set other dates)
+  - kind: notification
+    date: 2025-08-15
+    label: Series default, some symposia set other dates
+- year: 2026
+  start: 2026-11-05
+  end: 2026-11-07
+  location: Westin Arlington, Arlington, Virginia, USA
+  url: https://aaai.org/conference/fall-symposia/2026-fall-symposium-series-2/
+  deadlines:
+  - kind: submission
+    date: 2026-09-01
+    label: Most symposia (e.g. ATRACC, METACOG); UR-RAD used 2026-08-24
+  - kind: notification
+    date: 2026-09-15
+    label: ATRACC, QIML, TAS and AT-AI4H-NW; UR-RAD used 2026-09-14
+  - kind: camera_ready
+    date: 2026-09-29
+    label: ATRACC, QIML, UR-RAD, TAS and AT-AI4H-NW
+sources:
+- https://aaai.org/conference/fall-symposia/
+- https://aaai.org/conference/fall-symposia/2026-fall-symposium-series-2/
+- https://aaai.org/conference/fall-symposia/fss25/
+- https://aaai.org/conference/fall-symposia/fss24/
+- https://aaai.org/conference/fall-symposia/aaai-2023-fall-symposium-series/
+- https://ojs.aaai.org/index.php/AAAI-SS/issue/archive
+- https://portal.core.edu.au/conf-ranks/?search=Fall+Symposium&by=all&source=ICORE2026
+unverified:
+- Deadlines differ per symposium and no time zone is stated; the dates above are the common ones on the AAAI pages
+- Absence from the CCF list checked via a mirror of the CCF list (CCFrank4dblp), not on ccf.org.cn directly (site behind a captcha)
+- FSS 2027 not yet announced
+last_verified: 2026-10-17

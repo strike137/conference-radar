@@ -1,0 +1,95 @@
+id: refsq
+name: REFSQ
+full_name: 'International Working Conference on Requirements Engineering: Foundation for Software Quality'
+type: conference
+tier: major
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: REFSQ Steering Committee; 2027 edition hosted by FHNW (University of Applied Sciences and Arts Northwestern
+  Switzerland)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [10, 11]
+  conference_months: [3, 4]
+links:
+  website: https://2027.refsq.org/
+notes:
+- Leading European requirements engineering conference, running since 1994 as a not-for-profit working conference
+- CORE B (ICORE2026, listed as a workshop); CCF C
+- Proceedings published by Springer in LNCS
+- Double-blind review by at least three PC members; technical design and scientific evaluation papers up to 15 pages,
+  experience reports up to 12 pages, vision papers and research previews up to 8 pages (including references)
+- Optional abstract submission one week before the paper deadline
+- Also has industry, education and training, journal first, open science, posters and tools, workshop and doctoral
+  symposium tracks
+- Held in Europe in March or April (Poznan 2026, Basel 2027); in-person event
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-26
+  location: Poznan, Poland (Poznan University of Technology)
+  url: https://2026.refsq.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-10
+    tz: AoE
+    label: Research papers (optional)
+  - kind: submission
+    date: 2025-10-17
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2025-12-15
+    tz: AoE
+    label: Research papers
+  - kind: camera_ready
+    date: 2026-01-19
+    tz: AoE
+    label: Research papers
+- year: 2027
+  start: 2027-04-12
+  end: 2027-04-15
+  location: Basel, Switzerland (FHNW Dreispitz Campus)
+  url: https://2027.refsq.org/
+  deadlines:
+  - kind: other
+    date: 2026-10-29
+    label: Workshop proposals
+  - kind: abstract
+    date: 2026-11-05
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-11-12
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2027-01-14
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2027-02-04
+    label: Posters and tools, education and training, doctoral symposium
+  - kind: camera_ready
+    date: 2027-02-04
+    tz: AoE
+    label: Research papers
+sources:
+- https://2027.refsq.org/
+- https://2027.refsq.org/track/refsq-2027-research-papers
+- https://2026.refsq.org/
+- https://2026.refsq.org/track/refsq-2026-research-papers
+- https://portal.core.edu.au/conf-ranks/?search=REFSQ&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/ccfddl/ccf-deadlines/main/conference/SE/refsq.yml (CCF list mirror)
+unverified:
+- CCF rank checked via the ccfddl and CCFrank4dblp mirrors of the CCF list, not on ccf.org.cn directly
+- Time zone for workshop, poster, education and doctoral symposium deadlines not stated
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-17

@@ -1,0 +1,65 @@
+id: isorc
+name: IEEE ISORC
+full_name: IEEE International Symposium on Real-Time Distributed Computing
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society (TC on Distributed Processing)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5]
+links:
+  website: https://mcscert.github.io/isorc2026/
+  dblp: https://dblp.org/db/conf/isorc/index.html
+notes:
+- Founded in 1998 (first meeting in Kyoto); covers real-time, distributed, embedded and cyber-physical systems
+- Sponsored by the IEEE Computer Society TC on Distributed Processing; each edition is run by a host university
+- Single-track, single-blind review; regular and industrial papers up to 10 pages, short papers up to 6 pages (IEEE format)
+- Papers go to the IEEE proceedings and IEEE Xplore; at least one full registration per paper, in-person presentation required
+- Rotates worldwide, held in late May (Nashville 2023, Carthage 2024, Toulouse 2025, Hamilton 2026)
+- Selected 2025 papers were invited to a special issue of the Elsevier Journal of Systems Architecture
+- CORE C (ICORE2026); not on the CCF list
+- Also has a poster track, doctoral symposium and dissertation digest track
+editions:
+- year: 2026
+  start: 2026-05-27
+  end: 2026-05-29
+  location: Hamilton, Ontario, Canada (McMaster University)
+  url: https://mcscert.github.io/isorc2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-24
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-03-03
+    time: "23:59"
+    tz: AoE
+    label: Research track (extended from 2026-02-02)
+  - kind: notification
+    date: 2026-03-24
+  - kind: camera_ready
+    date: 2026-04-24
+    tz: AoE
+sources:
+- https://mcscert.github.io/isorc2026/
+- https://mcscert.github.io/isorc2026/cfp/research.html
+- https://mcscert.github.io/isorc2026/cfp/camera_ready.html
+- https://mcscert.github.io/isorc2026/program/overview.html
+- https://isorc.github.io/2025/
+- https://isorc.github.io/2024/
+- https://isorc.github.io/2023/
+- https://portal.core.edu.au/conf-ranks/?search=ISORC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ISORC 2027 dates and location not announced
+- Acceptance rates not stated on the official site
+- 2026 camera-ready date conflicts on the official site (call for papers says 2026-04-04, camera-ready instructions page says 2026-04-24); the later dedicated page is used

@@ -1,0 +1,70 @@
+id: case-workshop
+name: CASE
+full_name: Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee led by the ERC Emerging Welfare project at Koc University (Turkey), with Wageningen
+  University & Research, the European Commission Joint Research Centre, Virginia Tech and the University of Cagliari (2025)
+organizer_country: [other, europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [1, 8]
+  conference_months: [3, 9]
+links:
+  website: https://emw.ku.edu.tr/workshops/case-2025/
+notes:
+- Workshop on event extraction from text for social and political science (protests, conflict, hate speech, event
+  datasets and ontologies); follows CLEF ProtestNews 2019 and AESPEN at LREC 2020
+- Co-located with ACL-IJCNLP 2021 (online), EMNLP 2022 (Abu Dhabi), RANLP 2023 (Varna), EACL 2024 (St. Julians) and
+  RANLP 2025 (Varna)
+- Proceedings in the ACL Anthology; the RANLP editions are published by INCOMA and indexed there too
+- Short and long papers following ARR page limits; double-blind review by at least three PC members; submission via
+  START or ARR
+- Runs shared tasks each year (multimodal hate speech, stance and humor detection in LGBTQ+ discourse in 2025)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  start: 2024-03-22
+  end: 2024-03-22
+  location: St. Julians, Malta (co-located with EACL 2024)
+  url: https://emw.ku.edu.tr/case-2024/
+  deadlines:
+  - kind: submission
+    date: 2024-01-04
+    label: Extended
+  - kind: notification
+    date: 2024-01-20
+  - kind: camera_ready
+    date: 2024-01-30
+- year: 2025
+  start: 2025-09-13
+  end: 2025-09-13
+  location: Varna, Bulgaria (co-located with RANLP 2025)
+  url: https://emw.ku.edu.tr/workshops/case-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-04
+    tz: AoE
+  - kind: notification
+    date: 2025-08-17
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-30
+    tz: AoE
+sources:
+- https://emw.ku.edu.tr/workshops/case-2025/
+- https://emw.ku.edu.tr/case-2024/
+- https://emw.ku.edu.tr/case-2023/
+- https://ranlp.org/ranlp2025/index.php/workshops/
+- https://aclanthology.org/venues/case/
+- https://portal.core.edu.au/conf-ranks/?search=Socio-political&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No CASE 2026 edition found on the workshop site or in the ACL Anthology; next edition not announced
+- Acceptance rate not published
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly

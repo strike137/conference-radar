@@ -1,0 +1,77 @@
+id: pfia
+name: PFIA
+full_name: Plate-Forme Intelligence Artificielle
+type: conference
+tier: domestic
+areas: [ai, data]
+region: europe
+language: mixed
+frequency: annual
+organizer: AFIA (Association Francaise pour l'Intelligence Artificielle) with a host lab (CRIL, Lens in 2026)
+organizer_country: [europe]
+proceedings: HAL (per-conference online proceedings compiled by AFIA); JFSMA proceedings by Cepadues
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://afia.asso.fr/les-pfia/
+notes:
+- Annual French AI multi-conference of AFIA that hosts several national conferences in one week
+- Hosted conferences in 2025 were APIA, CAp (machine learning), CNIA, IC (knowledge engineering), JFPC (constraints),
+  JFSMA (multi-agent systems), JIAF-JFPDA, RJCIA (young researchers) and SFC, plus workshops, tutorials and theme days
+- Each hosted conference runs its own call, deadlines and proceedings; most publish online proceedings on HAL and
+  JFSMA publishes with Cepadues
+- Papers in French or English, usually with French required in the final version when an author is French-speaking
+  (CNIA 2025)
+- Held in France every year since 2017 (Bordeaux 2021, Saint-Etienne 2022, Strasbourg 2023, La Rochelle 2024, Dijon 2025,
+  Arras 2026); biennial before 2017
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-06-30
+  end: 2025-07-04
+  location: Dijon, France
+  url: https://pfia2025.u-bourgogne.fr/
+  deadlines:
+  - kind: submission
+    date: 2025-02-28
+    label: JFSMA
+  - kind: submission
+    date: 2025-03-10
+    label: IC (extended from 2025-02-28)
+  - kind: submission
+    date: 2025-03-15
+    label: CNIA
+  - kind: submission
+    date: 2025-03-15
+    label: CAp (extended from 2025-03-07)
+  - kind: submission
+    date: 2025-03-15
+    label: JIAF-JFPDA (extended from 2025-03-01)
+  - kind: notification
+    date: 2025-04-15
+    label: CNIA, IC and JFSMA
+  - kind: camera_ready
+    date: 2025-05-08
+    label: CNIA and IC
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  location: Arras, France
+  url: https://afia.asso.fr/les-pfia/pfia-2026/
+sources:
+- https://pfia2025.u-bourgogne.fr/
+- https://pfia2025.u-bourgogne.fr/conferences/cnia/
+- https://pfia2025.u-bourgogne.fr/conferences/cap/
+- https://pfia2025.u-bourgogne.fr/conferences/ic/
+- https://pfia2025.u-bourgogne.fr/conferences/jfsma/
+- https://pfia2025.u-bourgogne.fr/conferences/jiaf/
+- https://afia.asso.fr/les-pfia/pfia-2026/
+- https://afia.asso.fr/cat/nos-activites/event/conference/
+- https://www.cepadues.com/personnes/415/stephane-galland
+- https://portal.core.edu.au/conf-ranks/?search=PFIA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- PFIA 2026 deadlines not checked (pfia2026.pfia.fr returned HTTP 503)
+- PFIA 2027 host not chosen yet (AFIA call for organizers proposes 2027-06-28 to 2027-07-02)

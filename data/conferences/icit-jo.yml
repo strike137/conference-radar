@@ -1,0 +1,70 @@
+id: icit-jo
+name: ICIT
+full_name: International Conference on Information Technology
+type: conference
+tier: minor
+areas: [general, security, ai, data, software]
+region: middle-east
+language: english
+frequency: biennial
+organizer: Faculty of Science and IT, Al-Zaytoonah University of Jordan (ZUJ)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [5, 8]
+links:
+  website: https://icit.zuj.edu.jo/
+notes:
+- Biennial IT conference of Al-Zaytoonah University of Jordan, held in odd years (the site lists past editions back to 2005); 13th edition in 2027
+- Not the IEEE International Conference on Industrial Technology, which uses the same acronym
+- Held at Al-Zaytoonah University in Amman, Jordan; hybrid, with online presentation only for special cases
+- Technically co-sponsored by IEEE; accepted and presented papers are submitted to IEEE Xplore (and Scopus)
+- 2025 edition co-organized with BT, the BTIIC innovation centre and Ulster University (UK)
+- Papers up to 6 pages in IEEE A4 format, submitted via EasyChair
+- Selected papers are invited to the International Journal of Intelligent Engineering and Systems and the
+  International Journal of Advances in Soft Computing and its Applications
+- Tracks cover cybersecurity, AI and data science, software engineering, digital business and FinTech, and
+  mathematical modeling
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 12th ICIT
+  start: 2025-05-27
+  end: 2025-05-30
+  location: Amman, Jordan
+  url: https://icit.zuj.edu.jo/icit2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-03-15
+    label: Extended (first deadline 2025-03-01)
+  - kind: notification
+    date: 2025-04-12
+  - kind: camera_ready
+    date: 2025-05-01
+- year: 2027
+  label: 13th ICIT
+  start: 2027-08-11
+  end: 2027-08-12
+  location: Amman, Jordan
+  url: https://icit.zuj.edu.jo/
+  deadlines:
+  - kind: submission
+    date: 2027-04-15
+  - kind: notification
+    date: 2027-06-01
+  - kind: camera_ready
+    date: 2027-06-15
+sources:
+- https://icit.zuj.edu.jo/
+- https://icit.zuj.edu.jo/AuthorKit.html
+- https://icit.zuj.edu.jo/Tracks.html
+- https://icit.zuj.edu.jo/PreviousConf.html
+- https://icit.zuj.edu.jo/icit2025/index.html
+- https://icit.zuj.edu.jo/icit2023/index.html
+- https://portal.core.edu.au/conf-ranks/?search=ICIT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- IEEE Xplore inclusion of the 2025 proceedings not checked directly; the 2027 call says papers will be submitted
+  for possible inclusion in IEEE Xplore, with indexing to be announced

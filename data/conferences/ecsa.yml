@@ -1,0 +1,88 @@
+id: ecsa
+name: ECSA
+full_name: European Conference on Software Architecture
+type: conference
+tier: major
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: ECSA Steering Committee (chair Paris Avgeriou, University of Groningen)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [3]
+  conference_months: [9]
+links:
+  website: https://conf.researchr.org/series/ecsa
+notes:
+- Main European venue for software architecture research and practice; the European counterpart of IEEE ICSA
+- CORE B (ICORE2026); not on the CCF list
+- Main track and workshop proceedings published by Springer in LNCS (2025 main volume is LNCS 15929)
+- Research papers up to 16 pages and short papers up to 8 pages in LNCS style; double-blind review
+- Industrial track, tools and demos, doctoral symposium, journal first, open science and (since 2026) registered
+  reports tracks, plus co-located workshops
+- Held in Europe every September; recent hosts Prague 2022, Istanbul 2023, Luxembourg 2024, Limassol 2025, Bolzano
+  2026 and Porto 2027
+- In-person attendance is mandatory (2026)
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-11
+  location: Bolzano, Italy (Free University of Bozen-Bolzano)
+  url: https://conf.researchr.org/home/ecsa-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-03-20
+    time: "23:59"
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2026-03-27
+    time: "23:59"
+    tz: AoE
+    label: Research track
+  - kind: notification
+    date: 2026-04-27
+    label: Research track
+  - kind: camera_ready
+    date: 2026-05-20
+    label: Research track
+- year: 2027
+  start: 2027-09-27
+  end: 2027-10-01
+  location: Porto, Portugal (Faculty of Engineering, University of Porto)
+  url: https://conf.researchr.org/home/ecsa-2027
+  deadlines:
+  - kind: abstract
+    date: 2027-03-12
+    time: "23:59"
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2027-03-19
+    time: "23:59"
+    tz: AoE
+    label: Research track
+  - kind: notification
+    date: 2027-04-28
+    label: Research track
+  - kind: camera_ready
+    date: 2027-05-19
+    label: Research track
+sources:
+- https://conf.researchr.org/series/ecsa
+- https://conf.researchr.org/home/ecsa-2025
+- https://conf.researchr.org/home/ecsa-2026
+- https://conf.researchr.org/track/ecsa-2026/ecsa-2026-technical-track
+- https://conf.researchr.org/home/ecsa-2027
+- https://conf.researchr.org/track/ecsa-2027/ecsa-2027-research-track
+- https://portal.core.edu.au/conf-ranks/?search=ECSA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- The 2027 CFP says page limits are provisional and still need to be confirmed by the publisher
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-17

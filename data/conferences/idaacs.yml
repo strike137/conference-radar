@@ -1,0 +1,68 @@
+id: idaacs
+name: IDAACS
+full_name: 'IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications'
+type: conference
+tier: minor
+areas: [ai, systems, general]
+region: europe
+language: english
+frequency: biennial
+organizer: West Ukrainian National University (Research Institute for Intelligent Computer Systems) and V.M. Glushkov Institute of Cybernetics, with a rotating European host university
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, DBLP, Web of Science]
+typical:
+  deadline_months: [2, 5]
+  conference_months: [9]
+links:
+  website: https://idaacs.net/
+notes:
+- Biennial IEEE conference on data acquisition, measurement, automation and advanced computing, running since 2001 (Foros, Crimea); 2027 is the 14th edition
+- Run by the IDAACS organizing committee at West Ukrainian National University, Ternopil, with a different European host each time (Warsaw 2015, Bucharest 2017, Metz 2019, Cracow 2021, Dortmund 2023, Gliwice 2025, Athens 2027)
+- Proceedings in IEEE Xplore, indexed by Scopus and DBLP; most past volumes also indexed in Web of Science
+- Submission is an extended abstract via Microsoft CMT; selected papers go to journal special issues (MDPI Sensors in 2025)
+- Many special streams and workshops with their own later deadlines
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-09-04
+  end: 2025-09-06
+  location: Silesian University of Technology, Gliwice, Poland
+  url: https://idaacs.net/2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-18
+    label: Extended abstract (extended from 2025-04-27)
+  - kind: other
+    date: 2025-06-22
+    label: Last extended abstract submission for special streams and workshops
+  - kind: camera_ready
+    date: 2025-08-15
+    label: Extended from 2025-07-27
+- year: 2027
+  start: 2027-09-22
+  end: 2027-09-25
+  location: Hellenic Army Academy, Athens, Greece
+  url: https://idaacs.net/2027
+  deadlines:
+  - kind: submission
+    date: 2027-02-28
+    label: Extended abstract
+  - kind: notification
+    date: 2027-03-31
+  - kind: camera_ready
+    date: 2027-04-30
+sources:
+- https://idaacs.net/
+- https://idaacs.net/2027
+- https://idaacs.net/2027/call-for-papers
+- https://idaacs.net/2027/venue
+- https://idaacs.net/2025
+- https://idaacs.net/past-conferences
+- https://idaacs.net/proceedings-indexing
+- https://ieeexplore.ieee.org/xpl/conhome/11321922/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=IDAACS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2027 deadline time zone not stated

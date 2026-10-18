@@ -1,0 +1,53 @@
+id: sigmorphon
+name: SIGMORPHON
+full_name: Annual SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology
+type: workshop
+tier: minor
+areas: [nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACL SIGMORPHON (Special Interest Group on Computational Morphology and Phonology)
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5, 6, 7]
+links:
+  website: https://sigmorphon.github.io/workshops/
+notes:
+- Annual workshop of the ACL special interest group on computational morphology, phonology and phonetics
+- Co-located with ACL-family conferences (ACL 2023 Toronto, NAACL 2024 Mexico City, NAACL 2025 Albuquerque)
+- 22nd edition held at NAACL 2025 in Albuquerque, USA, on May 3, 2025
+- Proceedings in the ACL Anthology
+- Long papers up to 8 pages and short papers up to 4 pages; anonymous review; ARR-reviewed papers accepted
+- Known for its shared tasks (morphological reinflection, grapheme-to-phoneme); 2025 replaced shared tasks with a panel on the future of the field after low submission numbers
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-05-03
+  end: 2025-05-03
+  location: Albuquerque, USA
+  url: https://sigmorphon.github.io/workshops/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-15
+  - kind: other
+    date: 2025-02-20
+    label: Pre-reviewed (ARR) submission
+  - kind: notification
+    date: 2025-03-13
+  - kind: camera_ready
+    date: 2025-03-20
+sources:
+- https://sigmorphon.github.io/workshops/
+- https://sigmorphon.github.io/workshops/2025/
+- https://sigmorphon.github.io/workshops/2024/
+- https://aclanthology.org/venues/sigmorphon/
+- https://portal.core.edu.au/conf-ranks/?search=SIGMORPHON&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- No 2026 edition found on the SIGMORPHON site or in the ACL 2026 workshop list as of 2026-10-17
+- Acceptance rate not published

@@ -1,0 +1,64 @@
+id: prrs
+name: PRRS
+full_name: IAPR Workshop on Pattern Recognition in Remote Sensing
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IAPR Technical Committee 7 (Remote Sensing and Mapping); 2026 organizers Sylvain Lobry, Charlotte Pelletier,
+  Marc Russwurm and Ksenia Bittner
+organizer_country: [international]
+proceedings: Springer LNCS (ICPR workshop proceedings)
+archival: true
+typical:
+  deadline_months: [5, 8]
+  conference_months: [8, 12]
+links:
+  website: https://iapr-tc7.github.io/prrs2026/
+notes:
+- Run by IAPR TC7 every two years as a one-day workshop co-located with ICPR
+- Long-running series; 14th edition in 2026 (Lyon), earlier ones in Kolkata 2024, Montreal 2022, online 2020, Beijing
+  2018 and Cancun 2016
+- Papers appear in the ICPR workshop proceedings in Springer LNCS; older editions were published in IEEE Xplore
+- 2026 papers 6 to 15 pages in the ICPR template, double-blind with at least 2 reviews, submitted via CMT
+- Only full papers (more than 6 pages) go into the proceedings; one author must register for ICPR
+- Not listed in ICORE2026
+editions:
+- year: 2024
+  start: 2024-12-01
+  end: 2024-12-01
+  location: Kolkata, India
+  url: https://iapr-tc7.github.io/prrs2024/
+  deadlines:
+  - kind: submission
+    date: 2024-08-22
+    label: Extended from 2024-08-12
+  - kind: notification
+    date: 2024-09-13
+  - kind: camera_ready
+    date: 2024-09-24
+- year: 2026
+  start: 2026-08-21
+  end: 2026-08-21
+  location: Lyon, France
+  url: https://iapr-tc7.github.io/prrs2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-12
+    tz: AoE
+    label: Extended from 2026-05-05
+  - kind: notification
+    date: 2026-06-11
+  - kind: camera_ready
+    date: 2026-06-18
+sources:
+- https://iapr-tc7.github.io/prrs2026/
+- https://iapr-tc7.github.io/prrs2024/
+- https://iapr-tc7.github.io/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=PRRS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- PRRS 2028 (expected with ICPR 2028) not announced yet
+- Acceptance rate not published

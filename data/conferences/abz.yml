@@ -1,0 +1,83 @@
+id: abz
+name: ABZ
+full_name: International Conference on Rigorous State-Based Methods
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: ABZ Steering Committee
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://abz-conf.org/
+notes:
+- Formal methods conference for state-based methods (Abstract State Machines, Alloy, B and Event-B, TLA, VDM, Z); formerly the International Conference on ASM, Alloy, B, TLA, VDM, and Z
+- Proceedings in Springer LNCS
+- Usually held in Europe (2023 Nancy, 2024 Bergamo, 2025 Duesseldorf, 2027 Braga); 2026 edition co-located with FM 2026 in Tokyo
+- Includes a shared case study track where every method models the same real-life system
+- Full papers up to 16 pages, short papers, industry papers and journal-first papers
+- ICORE2026 rank C; not in the CCF list
+editions:
+- year: 2026
+  start: 2026-05-18
+  end: 2026-05-20
+  location: Tokyo, Japan (co-located with FM 2026)
+  url: https://abz-conf.org/site/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-09
+    tz: AoE
+    label: Optional
+  - kind: submission
+    date: 2026-02-16
+    tz: AoE
+  - kind: notification
+    date: 2026-03-13
+  - kind: camera_ready
+    date: 2026-03-23
+- year: 2027
+  start: 2027-06-14
+  end: 2027-06-18
+  location: University of Minho, Braga, Portugal
+  url: https://abz-conf.org/site/2027/
+  deadlines:
+  - kind: other
+    date: 2026-12-07
+    tz: AoE
+    label: Workshop proposals
+  - kind: abstract
+    date: 2027-02-08
+    tz: AoE
+    label: Optional
+  - kind: submission
+    date: 2027-02-15
+    tz: AoE
+  - kind: notification
+    date: 2027-03-22
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-04-05
+    tz: AoE
+sources:
+- https://abz-conf.org/
+- https://abz-conf.org/site/2026/
+- https://abz-conf.org/site/2026/importantdates
+- https://abz-conf.org/site/2026/maintrack
+- https://abz-conf.org/site/2027/
+- https://abz-conf.org/site/2027/importantdates
+- https://abz-conf.org/site/2027/maintrack
+- https://abz-conf.org/2025
+- https://abz-conf.org/2024
+- https://abz-conf.org/2023
+- https://portal.core.edu.au/conf-ranks/?search=ABZ&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- CCF list checked only through the CCFrank4dblp mirror

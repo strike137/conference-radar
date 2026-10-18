@@ -1,0 +1,64 @@
+id: wfcs
+name: IEEE WFCS
+full_name: IEEE International Conference on Factory Communication Systems
+type: conference
+tier: minor
+areas: [networking, communications]
+region: europe
+language: english
+frequency: annual
+organizer: IEEE IES (TC on Factory Automation)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [1, 2]
+  conference_months: [4]
+links:
+  website: https://www.hs-offenburg.de/wfcs2026/en/welcome
+notes:
+- Supported by the IEEE Industrial Electronics Society and led by the IEEE-IES Technical Committee on Factory Automation
+- Describes itself as the only IEEE conference dedicated to communication for industrial automation (TSN, industrial wireless, 5G/6G, OPC UA, IIoT)
+- 2026 was the 22nd edition, hosted by Offenburg University with CNR-IEIIT (Italy)
+- Regular and special session papers up to 8 pages, work-in-progress papers up to 4 pages, demo papers 2 or 3 pages, all in IEEE Xplore
+- Several special sessions with their own calls; a tutorial day precedes the main conference
+- "CORE C (ICORE2026); not in the CCF 2026 list"
+editions:
+- year: 2026
+  start: 2026-04-21
+  end: 2026-04-24
+  location: Offenburg, Germany
+  url: https://www.hs-offenburg.de/wfcs2026/en/welcome
+  deadlines:
+  - kind: other
+    date: 2025-11-17
+    label: Special session proposals
+  - kind: submission
+    date: 2026-02-01
+    label: Regular and special session papers (extended from 2026-01-11)
+  - kind: notification
+    date: 2026-02-27
+    label: Regular and special session papers
+  - kind: camera_ready
+    date: 2026-03-06
+    label: Regular and special session papers
+  - kind: submission
+    date: 2026-03-06
+    label: Work in progress and demos (extended from 2026-02-27)
+  - kind: notification
+    date: 2026-03-22
+    label: Work in progress and demos
+  - kind: camera_ready
+    date: 2026-03-29
+    label: Work in progress and demos
+sources:
+- https://www.hs-offenburg.de/wfcs2026/en/welcome
+- https://www.hs-offenburg.de/fileadmin/Forschung/institute/ivesk/wfcs2026/WFCS2026_CFP_v9.pdf
+- https://portal.core.edu.au/conf-ranks/?search=WFCS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- WFCS 2027 location and dates not found as of 2026-10-17
+- Region and annual frequency are based on recent editions, not checked against official pages of each edition
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

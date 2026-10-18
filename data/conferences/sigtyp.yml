@@ -1,0 +1,78 @@
+id: sigtyp
+name: SIGTYP
+full_name: Workshop on Research in Computational Linguistic Typology and Multilingual NLP
+type: workshop
+tier: minor
+areas: [nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACL Special Interest Group on Typology (SIGTYP); co-located with EACL, ACL or NAACL
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [12, 1, 4]
+  conference_months: [3, 8]
+links:
+  website: https://sigtyp.github.io/workshop.html
+notes:
+- Annual workshop of ACL SIGTYP on linguistic typology and its use in multilingual NLP, cross-lingual transfer and typological databases; 2026 put a special emphasis on LLMs for typological research
+- Recent editions with EACL 2023 (Dubrovnik), EACL 2024 (St. Julian's, Malta), ACL 2025 (Vienna) and EACL 2026 (Rabat); 2020 and 2021 editions were online
+- Long (8 pages) and short (4 pages) papers are archival in the ACL Anthology; 2-page extended abstracts are non-archival
+- Double-blind review through OpenReview; ARR papers rejected or withdrawn from the host conference can be submitted with their reviews
+- SIGTYP also runs shared tasks (2027 task on collaborative dictionary digitization) and hosts the MRL workshop
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 7th edition, with ACL 2025
+  start: 2025-08-01
+  end: 2025-08-01
+  location: Vienna, Austria
+  url: https://sigtyp.github.io/ws2025-sigtyp.html
+  deadlines:
+  - kind: submission
+    date: 2025-04-24
+    time: "23:59"
+    tz: AoE
+    label: Direct and ARR submission (extended from 2025-04-19)
+  - kind: notification
+    date: 2025-06-04
+  - kind: camera_ready
+    date: 2025-06-13
+- year: 2026
+  label: 8th edition, with EACL 2026
+  start: 2026-03-29
+  end: 2026-03-29
+  location: Rabat, Morocco
+  url: https://sigtyp.github.io/workshop.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-09
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (extended from 2025-12-19)
+  - kind: submission
+    date: 2026-01-09
+    time: "23:59"
+    tz: AoE
+    label: Pre-reviewed (ARR) submission (extended from 2026-01-02)
+  - kind: notification
+    date: 2026-01-30
+  - kind: camera_ready
+    date: 2026-02-10
+sources:
+- https://sigtyp.github.io/
+- https://sigtyp.github.io/workshop.html
+- https://sigtyp.github.io/ws2025-sigtyp.html
+- https://sigtyp.github.io/ws2024-sigtyp.html
+- https://sigtyp.github.io/st2027-dicts.html
+- https://aclanthology.org/venues/sigtyp/
+- https://aclanthology.org/volumes/2026.sigtyp-main/
+- https://aclanthology.org/volumes/2025.sigtyp-1/
+- https://portal.core.edu.au/conf-ranks/?search=SIGTYP&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- 2027 workshop (host conference and dates) not announced yet
+- Acceptance rate not published

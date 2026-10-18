@@ -1,0 +1,76 @@
+id: mplr
+name: MPLR
+full_name: International Conference on Managed Programming Languages and Runtimes
+type: conference
+tier: minor
+areas: [software, systems]
+region: europe
+language: english
+frequency: annual
+organizer: MPLR Steering Committee
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3, 6]
+  conference_months: [6, 9, 10]
+links:
+  website: https://2027.splashcon.org/home/mplr-2027
+notes:
+- Forum on managed languages and runtime systems (VMs, JIT compilers, garbage collection, WebAssembly); formerly
+  ManLang, originally PPPJ (24th edition in 2027)
+- Proceedings in the ACM Digital Library; ACM open access model may incur an article processing charge
+- Double-blind review, at least three reviews per paper; research papers up to 12 pages, work-in-progress and
+  industry or tool papers up to 6 pages (ACM SIGPLAN format)
+- Co-located with a larger PL conference (SPLASH 2023 Cascais, ISSTA/ECOOP 2024 Vienna, ICFP/SPLASH 2025 Singapore,
+  ECOOP 2026 Brussels, SPLASH 2027 Prague)
+- One-day program in 2026
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-30
+  end: 2026-06-30
+  location: Brussels, Belgium (co-located with ECOOP 2026, Vrije Universiteit Brussel)
+  url: https://2026.ecoop.org/home/mplr-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-03-06
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-03-13
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-15
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-30
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  location: Prague, Czechia (co-located with SPLASH 2027, 10 to 15 October)
+  url: https://2027.splashcon.org/home/mplr-2027
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2027-06-11
+    time: "23:59"
+    tz: AoE
+    label: Around this date (TBC)
+sources:
+- https://2026.ecoop.org/home/mplr-2026
+- https://2027.splashcon.org/home/mplr-2027
+- https://2026.ecoop.org/series/mplr
+- https://portal.core.edu.au/conf-ranks/?search=MPLR&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- MPLR 2026 CFP text gives abstract 2026-02-27 and paper 2026-03-06, while the important dates box gives 2026-03-06
+  and 2026-03-13 (probably an extension); the box dates are recorded
+- MPLR 2027 day within SPLASH 2027 and its other deadlines not announced; paper deadline marked TBC
+- 2021 edition (virtual, hosted from Munster) counted as Europe for the region
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

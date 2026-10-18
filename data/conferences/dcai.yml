@@ -1,0 +1,64 @@
+id: dcai
+name: DCAI
+full_name: International Conference on Distributed Computing and Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai, systems]
+region: europe
+language: english
+frequency: annual
+organizer: DCAI steering and organizing committees (BISITE, University of Salamanca, with co-organizing universities)
+organizer_country: [europe]
+proceedings: Springer LNNS
+archival: true
+indexing: [Scopus, DBLP]
+rank:
+  core: 'National: Spain'
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6, 10]
+links:
+  website: https://www.dcai-conference.net/
+  dblp: https://dblp.org/db/conf/dcai/index.html
+notes:
+- Broad venue on distributed computing, multi-agent systems and applied AI; 2026 is the 23rd edition
+- Main track, special sessions and doctoral consortium published in Springer Lecture Notes in Networks and Systems (several volumes per year)
+- Papers up to 10 pages (6 for doctoral consortium), each reviewed by at least three experts; in-person presentation required
+- Co-located with PAAMS and other events (PACBB, ISAMI, MIS4TEL and others) every year
+- Held in Europe (Salamanca 2024, Lille 2025, Naples 2026)
+- Selected papers invited to journal special issues (ADCAIJ, IJIMAI, CMC and others)
+- 2026 deadlines were extended twice (17 Apr -> 8 May -> final 22 May)
+- "CORE rank: National: Spain (ICORE2026)"
+editions:
+- year: 2025
+  start: 2025-06-25
+  end: 2025-06-27
+  location: Lille, France
+- year: 2026
+  start: 2026-10-21
+  end: 2026-10-23
+  location: Naples, Italy
+  url: https://www.dcai-conference.net/
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    label: Main track and special sessions (extended from 2026-04-17 and 2026-05-08)
+  - kind: submission
+    date: 2026-05-29
+    label: Doctoral consortium (extended from 2026-04-24 and 2026-05-15)
+  - kind: notification
+    date: 2026-06-26
+    label: Postponed from 2026-06-19
+  - kind: camera_ready
+    date: 2026-07-15
+sources:
+- https://www.dcai-conference.net/
+- https://www.dcai-conference.net/tracks/main-track
+- https://www.dcai-conference.net/submission
+- https://www.dcai-conference.net/organization/organising-committee
+- https://link.springer.com/conference/dcai
+- https://portal.core.edu.au/conf-ranks/?search=DCAI&by=all&source=ICORE2026
+unverified:
+- DCAI 2027 dates and location not yet announced as of 2026-10-17
+- 2025 edition dates and location taken from the Springer proceedings page (the 2025 site is no longer online)
+last_verified: 2026-10-17

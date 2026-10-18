@@ -1,0 +1,62 @@
+id: pivotcon
+name: PIVOTcon
+full_name: PIVOTcon Threat Intelligence Conference
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: Threat Research Association (non-profit, founded by Pasquale Stirparo and Bartosz Jerzman)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://pivotcon.org/
+notes:
+- Non-profit threat research conference created by threat intelligence practitioners, with no corporate backing
+- Invite-only with at most 160 vetted attendees; anyone can request an invitation through the official form
+- Held every May in Malaga, Spain (2024, 2025, 2026 and the announced 2027 edition)
+- Single track of 25 minute talks plus 5 minutes Q&A, with panels, debates and afternoon research workshops on the first day
+- CfP via pretalx asks for original, unpublished research on threat intelligence, threat hunting, malware intelligence and vulnerability research linked to threat actors
+- Talks are not streamed or recorded and there are no proceedings
+- First speaker gets hotel, conference fee and travel up to 1500 USD (outside Europe) or 500 EUR (inside Europe)
+editions:
+- year: 2025
+  start: 2025-05-07
+  end: 2025-05-09
+  location: Malaga, Spain
+  url: https://pivotcon.org/pivotcon-2025/
+- year: 2026
+  start: 2026-05-06
+  end: 2026-05-08
+  location: Malaga, Spain
+  url: https://pretalx.com/pivotcon26/cfp
+  deadlines:
+  - kind: submission
+    date: 2026-02-06
+    time: "23:59"
+    tz: CET
+  - kind: other
+    date: 2026-03-06
+    label: Agenda published (final notification by end of February 2026)
+- year: 2027
+  start: 2027-05-05
+  end: 2027-05-07
+  location: Malaga, Spain
+  url: https://pivotcon.org/
+sources:
+- https://pivotcon.org/
+- https://pivotcon.org/pivotcon-2025/
+- https://pivotcon.org/pivotcon-2024/
+- https://pretalx.com/pivotcon26/cfp
+- https://pretalx.com/api/events/pivotcon26/
+- https://portal.core.edu.au/conf-ranks/?search=PIVOTcon&by=all&source=ICORE2026
+unverified:
+- 2027 CfP dates (FAQ says the CfP usually opens at the beginning of the year)
+- Country where the Threat Research Association is registered
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

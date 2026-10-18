@@ -1,0 +1,82 @@
+id: padl
+name: PADL
+full_name: International Symposium on Practical Aspects of Declarative Languages
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Association for Logic Programming (ALP), co-located with ACM SIGPLAN POPL
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+fee: GBP 350 early, GBP 400 regular (2026)
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: https://popl26.sigplan.org/home/PADL-2026
+  dblp: https://dblp.org/db/conf/padl/
+notes:
+- Forum for novel applications and implementation techniques of declarative programming (functional, logic,
+  constraint and database programming, theorem proving)
+- Co-located with POPL every January; held in Rennes 2026, Denver 2025, London 2024 and Boston 2023
+- Proceedings in Springer LNCS (LNCS 15537 for 2025, LNCS 16401 for 2026)
+- Regular papers up to 15 pages and short papers up to 8 pages (LNCS format, excluding references) go into the
+  proceedings; extended abstracts up to 3 pages are posted on the website only
+- Double-anonymous review; abstract deadline about a week before the paper deadline
+- Distinguished papers are invited to extended versions in TPLP (logic programming) or JFP (functional programming)
+- Registration is handled separately from POPL and paid to the ALP; at least one author per accepted paper must register
+- CORE C (ICORE2026); not in the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-01-20
+  end: 2025-01-21
+  location: Denver, Colorado, USA (co-located with POPL 2025)
+  url: https://popl25.sigplan.org/home/PADL-2025
+  deadlines:
+  - kind: abstract
+    date: 2024-10-11
+    tz: AoE
+  - kind: submission
+    date: 2024-10-18
+    tz: AoE
+  - kind: notification
+    date: 2024-11-14
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-11-24
+    tz: AoE
+- year: 2026
+  start: 2026-01-12
+  end: 2026-01-13
+  location: Rennes, France (co-located with POPL 2026)
+  url: https://popl26.sigplan.org/home/PADL-2026
+  deadlines:
+  - kind: abstract
+    date: 2025-10-10
+    tz: AoE
+  - kind: submission
+    date: 2025-10-19
+    tz: AoE
+  - kind: notification
+    date: 2025-11-13
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-20
+    tz: AoE
+sources:
+- https://popl26.sigplan.org/home/PADL-2026
+- https://popl25.sigplan.org/home/PADL-2025
+- https://popl24.sigplan.org/home/PADL-2024
+- https://popl23.sigplan.org/home/PADL-2023
+- https://popl27.sigplan.org/
+- https://portal.core.edu.au/conf-ranks/?search=PADL&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+last_verified: 2026-10-17
+unverified:
+- PADL 2027 not announced yet; the POPL 2027 site (Mexico City, January 10 to 16, 2027) has no PADL page as of 2026-10-17
+- CCF status checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly

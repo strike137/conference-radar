@@ -1,0 +1,80 @@
+id: insights-nlp
+name: Insights
+full_name: Workshop on Insights from Negative Results in NLP
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers from NYU, AI-KIP, Google DeepMind, Acenta AI, ITU Copenhagen, Microsoft, Vanderbilt University and Google Research); co-located with EMNLP, ACL, EACL or NAACL
+organizer_country: [usa, europe, japan]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [1, 2, 3, 6]
+  conference_months: [5, 6, 10, 11]
+links:
+  website: https://insights-workshop.github.io/
+notes:
+- Workshop for negative and unexpected results in NLP (failed methods, ablations, trivial baselines, evaluation and reproducibility issues)
+- Held every year since 2020 with a different *CL host each year; proceedings in the ACL Anthology
+- 7th edition on October 29, 2026 at EMNLP 2026 in Budapest, Hungary (hybrid); 2025 edition at NAACL 2025 in Albuquerque, USA
+- Short papers up to 4 pages are archival; 1-2 page abstracts of work published elsewhere are non-archival
+- Own review process via Softconf plus commitment of papers with ARR reviews
+- Small workshop (14 to 25 papers per year in the ACL Anthology)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-05-04
+  end: 2025-05-04
+  location: Albuquerque, NM, USA
+  url: https://insights-workshop.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-10
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (extended from January 30)
+  - kind: other
+    date: 2025-02-20
+    time: "23:59"
+    tz: AoE
+    label: Submission with ARR reviews
+  - kind: notification
+    date: 2025-03-05
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-03-15
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-10-29
+  end: 2026-10-29
+  location: Budapest, Hungary
+  url: https://insights-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-08
+    label: Direct submission (extended from June 1)
+  - kind: other
+    date: 2026-06-25
+    label: Commitment of ARR papers
+  - kind: notification
+    date: 2026-07-03
+  - kind: camera_ready
+    date: 2026-08-01
+sources:
+- https://insights-workshop.github.io/
+- https://insights-workshop.github.io/2026/cfp
+- https://insights-workshop.github.io/2026/organization
+- https://insights-workshop.github.io/2025/cfp
+- https://insights-workshop.github.io/2024/cfp
+- https://aclanthology.org/venues/insights/
+- https://portal.core.edu.au/conf-ranks/?search=Insights&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Deadline time zone not stated on the 2026 call for papers (2024 and 2025 used AoE)
+- Acceptance rate not published

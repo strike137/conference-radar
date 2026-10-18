@@ -1,0 +1,89 @@
+id: scam
+name: SCAM
+full_name: IEEE International Conference on Source Code Analysis and Manipulation
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SCAM Steering Committee (IEEE)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+  ccf: C
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://www.ieee-scam.org/
+  dblp: https://dblp.org/db/conf/scam/
+notes:
+- Two-day conference on source code analysis and manipulation, held since 2001 and co-located with ICSME
+- "Recent hosts: Limassol (2022), Bogota (2023), Flagstaff (2024), Auckland (2025), Benevento (2026), Toronto (2027)"
+- Proceedings in IEEE Xplore; best papers have been invited to journal special issues (JSS, EMSE, JSEP)
+- Research track and engineering track; research papers up to 12 pages including 2 pages of references, IEEE format
+- Double-blind review by at least three PC members; at least one author must register and present
+- CORE C (listed as IEEE International Working Conference on Source Code Analysis and Manipulation), CCF C
+editions:
+- year: 2025
+  label: 25th SCAM
+  start: 2025-09-08
+  end: 2025-09-09
+  location: Auckland, New Zealand
+  url: https://conf.researchr.org/home/scam-2025
+  deadlines:
+  - kind: abstract
+    date: 2025-06-05
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2025-06-09
+    tz: AoE
+    label: Research track
+  - kind: notification
+    date: 2025-07-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-15
+    tz: AoE
+- year: 2026
+  label: 26th SCAM
+  start: 2026-09-14
+  end: 2026-09-15
+  location: Benevento, Italy
+  url: https://conf.researchr.org/home/scam-2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-11
+    tz: AoE
+    label: Research track
+  - kind: notification
+    date: 2026-07-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-14
+    tz: AoE
+- year: 2027
+  start: 2027-09-07
+  end: 2027-09-08
+  location: Toronto, Canada
+  url: https://www.ieee-scam.org/
+sources:
+- https://www.ieee-scam.org/
+- https://conf.researchr.org/home/scam-2026
+- https://conf.researchr.org/track/scam-2026/scam-2026-research-track
+- https://conf.researchr.org/track/scam-2025/scam-2025-research-track
+- https://conf.researchr.org/home/scam-2025
+- https://conf.researchr.org/program/scam-2025/program-scam-2025/
+- https://portal.core.edu.au/conf-ranks/?search=SCAM&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- SCAM 2027 deadlines and call for papers not published yet (dates and city from the series page)
+- Engineering track deadlines not recorded
+- SCAM 2025 dates differ between pages (the ieee-scam.org series page says September 7-8, the 2025 researchr program has SCAM sessions on September 8-9, which is used here)
+- Registration fee and acceptance rate not stated on the official pages
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly (captcha)

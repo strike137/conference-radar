@@ -1,0 +1,60 @@
+id: scn
+name: SCN
+full_name: International Conference on Security and Cryptography for Networks
+type: conference
+tier: minor
+areas: [crypto, security]
+region: europe
+language: english
+frequency: biennial
+organizer: University of Salerno (in cooperation with IACR)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: 'National: Italy'
+fee: 450 EUR full registration covering one paper, 350 EUR per additional paper (2026)
+typical:
+  deadline_months: [2, 3]
+  conference_months: [9]
+links:
+  website: https://scn.unisa.it/
+  dblp: https://dblp.org/db/conf/scn/index.html
+notes:
+- Biennial cryptography and information security conference held in even years since 2002, run from the University of Salerno
+- Always held in Amalfi, Italy (2020 edition was virtual)
+- In cooperation with IACR; 2026 edition had IACR-ICW status
+- Proceedings in Springer LNCS (SCN 2024 in two volumes, LNCS 14973 and 14974)
+- Non-anonymous submissions of at most 20 pages in LNCS format, via EasyChair
+- 'CORE rank: National: Italy (ICORE2026); not on the CCF list'
+- SCN 2024 selected papers were invited to a special issue of Cryptography and Communications
+editions:
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-16
+  location: Amalfi, Italy
+  url: https://scn.unisa.it/scn26/
+  deadlines:
+  - kind: submission
+    date: 2026-03-14
+    tz: AoE
+    label: Extended from 2026-02-28
+  - kind: notification
+    date: 2026-05-08
+    label: Postponed from 2026-04-28
+  - kind: camera_ready
+    date: 2026-06-05
+    label: Camera-ready and author registration
+sources:
+- https://scn.unisa.it/scn26/
+- https://scn.unisa.it/scn26/index.php/dates-and-deadlines/
+- https://scn.unisa.it/scn26/index.php/call-for-papers/
+- https://scn.unisa.it/scn26/index.php/submission-instructions-for-accepted-papers/
+- https://scn.unisa.it/scn24
+- https://link.springer.com/book/10.1007/978-3-032-36264-3
+- https://portal.core.edu.au/conf-ranks/?search=SCN&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- SCN 2028 not yet announced
+- 'SCN 2026 camera-ready date: the home page news (15/03/26) says May 28, the Dates and Deadlines and accepted-paper
+  instructions pages say June 5'

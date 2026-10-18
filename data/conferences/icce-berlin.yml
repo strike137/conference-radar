@@ -1,0 +1,83 @@
+id: icce-berlin
+name: IEEE ICCE-Berlin
+full_name: IEEE International Conference on Consumer Electronics - Berlin
+type: conference
+tier: minor
+areas: [general, communications, systems, security]
+region: europe
+language: english
+frequency: annual
+organizer: IEEE Consumer Technology Society (organizing committee based in Germany)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, EI]
+fee: 770 USD (2026, author registration, non-IEEE member, early bird)
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://www.icce-berlin.org/
+notes:
+- European edition of IEEE ICCE run by the IEEE Consumer Technology Society
+- Held every September in Berlin as the scientific forum alongside the IFA consumer electronics trade show
+- 2 to 6 page papers in IEEE format, up to 2 extra pages at 100 USD each; accepted and presented papers go to IEEE Xplore and EI Compendex
+- In person only; papers not presented are not published, and one author registration covers one paper
+- Broad consumer technology scope including security and privacy of CE systems, IoT, wireless, AI and quantum
+- Co-located with the IEEE Conference on Gaming, Entertainment, and Media (GEM) in 2026
+- No edition in 2024 (2023 was the 13th, 2025 the 14th)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-06
+  end: 2025-09-08
+  location: Berlin, Germany
+  url: https://icce-berlin.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: "23:59"
+    tz: AoE
+    label: Full paper (extended, originally 2025-05-30)
+  - kind: notification
+    date: 2025-07-31
+  - kind: camera_ready
+    date: 2025-08-14
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-09-05
+  end: 2026-09-07
+  location: Berlin, Germany
+  url: https://icce-berlin.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    time: "23:59"
+    tz: AoE
+    label: Full paper (extended, originally 2026-05-01)
+  - kind: notification
+    date: 2026-07-17
+  - kind: camera_ready
+    date: 2026-08-14
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-08-14
+    label: Early bird registration
+sources:
+- https://www.icce-berlin.org/
+- https://icce-berlin.org/2026/cfp.php
+- https://icce-berlin.org/2026/about.php
+- https://icce-berlin.org/2026/committee.php
+- https://icce-berlin.org/2026/registration.php
+- https://icce-berlin.org/2026/final-paper.php
+- https://icce-berlin.org/2025/
+- https://icce-berlin.org/2025/cfp.php
+- https://ctsoc.ieee.org/conferences/
+- https://portal.core.edu.au/conf-ranks/?search=ICCE&by=all&source=ICORE2026
+unverified:
+- 2026 camera-ready date is 14 August on the home page but 30 August on the CFP page
+- ICCE-Berlin 2027 dates not yet announced
+- Acceptance rate not published
+last_verified: 2026-10-17

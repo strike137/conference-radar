@@ -1,0 +1,58 @@
+id: sbac-pad
+name: SBAC-PAD
+full_name: International Symposium on Computer Architecture and High Performance Computing
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: SBC CE-ACPAD (Brazilian Computer Society) with IEEE Computer Society
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10]
+links:
+  website: https://www2.sbc.org.br/ce-acpad/sbac-pad/
+notes:
+- Annual symposium on computer architecture, HPC applications and parallel and distributed systems, held since 1987
+- Run by the Brazilian Computer Society (SBC) special committee CE-ACPAD and promoted with the IEEE Computer Society
+- Proceedings published by IEEE and available in IEEE Xplore (an author must register at the full rate and present)
+- Double-anonymized review with a rebuttal phase; six tracks; selected papers invited to a journal special issue
+- CORE C; not on the CCF list
+- Acceptance rate below 30% in recent years according to the 2026 site
+- Alternates between Brazil and abroad (Porto Alegre 2023, Hilo 2024, Bonito 2025, Madrid 2026, Belem 2027)
+- "Registration fee 650 EUR IEEE member, 780 EUR non-member, 455 EUR IEEE student member (2026, advance); SBC members pay the IEEE member rate"
+- Main conference papers are limited to 10 pages excluding references; extra pages cost 100 EUR in total
+editions:
+- year: 2026
+  start: 2026-10-14
+  end: 2026-10-16
+  location: Madrid, Spain (University Carlos III of Madrid)
+  url: https://coco-arcos.github.io/sbac-pad2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-07
+    tz: AoE
+    label: Firm deadline (extended from May 22 and May 29)
+  - kind: notification
+    date: 2026-08-03
+  - kind: camera_ready
+    date: 2026-09-05
+- year: 2027
+  location: Belem, Para, Brazil
+sources:
+- https://coco-arcos.github.io/sbac-pad2026/
+- https://coco-arcos.github.io/sbac-pad2026/submissions/call-for-papers/
+- https://coco-arcos.github.io/sbac-pad2026/registration/
+- https://coco-arcos.github.io/sbac-pad2026/blog/
+- https://www2.sbc.org.br/ce-acpad/sbac-pad/
+- https://portal.core.edu.au/conf-ranks/?search=SBAC-PAD&by=all&source=ICORE2026
+unverified:
+- SBAC-PAD 2027 dates, website and deadlines (only the city, Belem, is announced on the 2026 site)
+- CCF absence checked in the CCF 2026 list PDF mirrored by ccfddl
+last_verified: 2026-10-17

@@ -1,0 +1,71 @@
+id: isaac
+name: ISAAC
+full_name: International Symposium on Algorithms and Computation
+type: conference
+tier: major
+areas: [general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ISAAC Advisory Committee, with a local host institution each year
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: B
+  ccf: C
+fee: 3800 CNY regular, 2800 CNY student (2026, early); 4500/3500 CNY late
+typical:
+  deadline_months: [6]
+  conference_months: [12]
+links:
+  website: https://www.algo-door.com/isaac2026/
+notes:
+- Long-running algorithms and theory of computation symposium, held since 1990
+- Rotates in the Asia-Pacific region (Kyoto 2023, Sydney 2024, Tainan 2025, Hangzhou 2026)
+- Advisory committee drawn from Japan, Korea, Hong Kong, Taiwan, Australia and China, chaired from Kyoto University
+- Proceedings in the open-access LIPIcs series since 2016
+- Double-blind review; 12 pages in LIPIcs style excluding title page, references and appendix
+- Selected papers invited to Algorithmica and Computational Geometry (CGTA) special issues
+- Best Paper and Best Student Paper awards
+- CORE B in ICORE2026, CCF C
+editions:
+- year: 2025
+  label: 36th ISAAC
+  start: 2025-12-07
+  end: 2025-12-10
+  location: Tainan, Taiwan
+- year: 2026
+  label: 37th ISAAC, Zhejiang University
+  start: 2026-12-07
+  end: 2026-12-09
+  location: Hangzhou, China
+  url: https://www.algo-door.com/isaac2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-29
+    tz: AoE
+  - kind: notification
+    date: 2026-09-07
+  - kind: camera_ready
+    date: 2026-09-25
+    tz: AoE
+  - kind: other
+    date: 2026-10-31
+    tz: AoE
+    label: Early registration
+sources:
+- https://www.algo-door.com/isaac2026/
+- https://www.algo-door.com/isaac2026/call-for-papers.html
+- https://www.algo-door.com/isaac2026/committee.html
+- https://www.algo-door.com/isaac2026/registration.html
+- https://www.kurims.kyoto-u.ac.jp/isaac/ISAAC.html
+- https://drops.dagstuhl.de/entities/conference/ISAAC
+- https://portal.core.edu.au/conf-ranks/?search=ISAAC&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list (updated 2026-04-06), not on ccf.org.cn directly
+- ISAAC 2025 dates taken from the LIPIcs volume page; its deadlines were not found on an official page
+- ISAAC 2027 host not announced as of 2026-10-17
+- Acceptance rates are not published on the official pages

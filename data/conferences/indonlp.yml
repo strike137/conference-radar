@@ -1,0 +1,54 @@
+id: indonlp
+name: IndoNLP
+full_name: Workshop on Natural Language Processing for Indo-Aryan and Dravidian Languages
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop chairs from Informatics Institute of Technology (Sri Lanka), Lancaster University and Swansea University
+  (UK); co-located with COLING 2025
+organizer_country: [europe, other]
+proceedings: ACL Anthology
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [11]
+  conference_months: [1]
+links:
+  website: https://indonlp-workshop.github.io/IndoNLP-Workshop/
+notes:
+- NLP and LLMs for Indo-Aryan and Dravidian languages (corpora, machine translation, speech, dialect identification,
+  misinformation and hate speech detection)
+- First edition co-located with COLING 2025 in Abu Dhabi on 2025-01-20; also ran a shared task
+- Proceedings in the ACL Anthology (2025.indonlp-1)
+- Long papers 8 pages, short papers 4 pages in ACL format, double-blind with two reviewers per paper; submission via SoftConf
+- Organized mainly from Sri Lanka and the UK
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 1st edition, with COLING 2025
+  start: 2025-01-20
+  end: 2025-01-20
+  location: Abu Dhabi, UAE (with COLING 2025)
+  url: https://indonlp-workshop.github.io/IndoNLP-Workshop/
+  deadlines:
+  - kind: submission
+    date: 2024-11-12
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2024-12-05
+    label: Notification window 2024-11-30 to 2024-12-05
+  - kind: camera_ready
+    date: 2024-12-13
+    time: "23:59"
+    tz: AoE
+sources:
+- https://indonlp-workshop.github.io/IndoNLP-Workshop/
+- https://aclanthology.org/venues/indonlp/
+- https://aclanthology.org/volumes/2025.indonlp-1/
+- https://portal.core.edu.au/conf-ranks/?search=IndoNLP&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- No second edition announced on the official site or in the ACL Anthology as of 2026-10-17

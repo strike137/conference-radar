@@ -1,0 +1,70 @@
+id: latin
+name: LATIN
+full_name: Latin American Theoretical Informatics Symposium
+type: conference
+tier: major
+areas: [general]
+region: latin-america
+language: english
+frequency: biennial
+organizer: LATIN Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [10]
+  conference_months: [4]
+links:
+  website: https://latintcs.org/
+notes:
+- Theoretical computer science symposium founded in 1992 by Latin American researchers led by Imre Simon; biennial since 1998
+- Held in a different Latin American country each time (Puerto Varas, Chile 2024; Florianopolis, Brazil 2026)
+- Proceedings in Springer LNCS; selected papers invited to a Theoretical Computer Science special issue
+- Lightweight double-blind review; papers up to 15 pages in LNCS format plus optional appendix
+- Accepted papers must be presented in person and need a full registration
+- Poster track with a later deadline to encourage student attendance; Imre Simon Test of Time Award
+- "Registration 2026: about 400 USD early full, about 200 USD early for students and postdocs; financial aid for students"
+- CORE B (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  label: 17th LATIN
+  start: 2026-04-13
+  end: 2026-04-17
+  location: Florianopolis, Brazil
+  url: https://latin2026.ufsc.br/index.html
+  deadlines:
+  - kind: abstract
+    date: 2025-10-13
+    time: "23:59"
+    tz: AoE
+    label: Short abstract (extended from 2025-10-06)
+  - kind: submission
+    date: 2025-10-20
+    time: "23:59"
+    tz: AoE
+    label: Paper (extended from 2025-10-13)
+  - kind: notification
+    date: 2026-01-09
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-16
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-02-08
+    time: "23:59"
+    tz: AoE
+    label: Poster abstract (extended from 2026-01-16 and 2026-01-31)
+sources:
+- https://latin2026.ufsc.br/index.html
+- https://latintcs.org/
+- https://portal.core.edu.au/conf-ranks/?search=LATIN&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- LATIN 2028 location and dates not announced yet
+- The 2026 page shows all paper deadlines struck through; the later of each pair is taken as the final extended date
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly (captcha)

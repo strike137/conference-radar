@@ -1,0 +1,71 @@
+id: iolts
+name: IEEE IOLTS
+full_name: IEEE International Symposium on On-Line Testing and Robust System Design
+type: conference
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: IEEE CEDA and IEEE Computer Society TTTC (2026 edition organized by Politecnico di Torino)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+fee: 690 EUR IEEE member, 830 EUR non-member (2026, early or author registration); students 550/660 EUR
+rank:
+  core: C
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7]
+links:
+  website: https://orion.polito.it/iolts/
+notes:
+- Annual symposium on on-line testing, design for reliability and robustness, fault tolerance, functional safety and
+  fault-based attacks on microelectronic circuits and systems; 32nd edition in 2026
+- Sponsored by IEEE CEDA and the IEEE Computer Society Test Technology Technical Community (TTTC)
+- Regular papers up to 6 pages and posters up to 4 pages (references excluded); camera-ready goes through IEEE PDF
+  eXpress and IEEE eCopyright
+- Abstract registration one week before the full paper; 2026 deadlines were extended by two weeks
+- Usually held in early July in Europe (Polignano a Mare 2026, Ischia 2025, Rennes 2024, Chania 2023, Turin 2022)
+- Best papers invited to an IEEE Transactions on Device and Materials Reliability special issue
+- One full author registration required per paper or poster
+- CORE C (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-01
+  end: 2026-07-03
+  location: Polignano a Mare, Italy
+  url: https://orion.polito.it/iolts/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-01
+    label: Title, abstract and authors (extended from February 15)
+  - kind: submission
+    date: 2026-03-08
+    label: Full paper (extended from February 22)
+  - kind: notification
+    date: 2026-04-26
+    label: Extended from April 12
+  - kind: camera_ready
+    date: 2026-05-24
+  - kind: other
+    date: 2026-06-01
+    label: Project dissemination abstracts
+sources:
+- https://orion.polito.it/iolts/
+- https://orion.polito.it/iolts/download/2165/
+- https://orion.polito.it/iolts/authors-reviewers/
+- https://orion.polito.it/iolts/camera-ready-preparation-2026/
+- https://orion.polito.it/iolts/call-for-project-dissemination/
+- https://orion.polito.it/iolts/registration/
+- https://orion.polito.it/iolts/about/
+- https://orion.polito.it/iolts/past-events/
+- https://portal.core.edu.au/conf-ranks/?search=IOLTS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- IEEE Xplore is not named on the 2026 site; 2023 and 2025 proceedings are in IEEE Xplore (DOI prefix 10.1109/IOLTS)
+- 2027 edition not announced yet
+- Acceptance rate not found on official pages
+- Deadline time zone not stated
+- CCF absence checked on the CCFrank4dblp mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-17

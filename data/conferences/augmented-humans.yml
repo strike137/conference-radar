@@ -1,0 +1,76 @@
+id: augmented-humans
+name: AHs
+full_name: Augmented Humans International Conference
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: Augmented Humans steering committee
+organizer_country: [international]
+proceedings: ACM DL (ICPS)
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://www.augmented-humans.org/
+  dblp: https://dblp.org/db/conf/aughuman/index.html
+notes:
+- HCI conference on physical, cognitive and perceptual augmentation of humans (wearables, haptics, XR, brain machine
+  interfaces, exoskeletons, human AI symbiosis); called Augmented Human (AH) until 2019
+- Proceedings in the ACM International Conference Proceedings Series (ICPS) in the ACM DL
+- Full papers up to 16 pages and short papers up to 8 pages (single column, excluding references); double-blind review
+- Posters and demos (up to 4 pages) also appear in the ACM DL
+- Usually held in March (April in 2024); rotates worldwide (Glasgow 2023, Melbourne 2024, Abu Dhabi 2025, Okinawa 2026, Colombo 2027)
+- In-person presentation by at least one author is required
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-16
+  end: 2026-03-19
+  location: Okinawa, Japan
+  url: https://2026.augmented-humans.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-25
+    tz: AoE
+    label: Full and short papers (extended from 2025-11-18)
+  - kind: notification
+    date: 2026-01-15
+    label: Full and short papers
+  - kind: camera_ready
+    date: 2026-02-12
+    label: Full and short papers
+- year: 2027
+  start: 2027-03-07
+  end: 2027-03-10
+  location: Colombo, Sri Lanka (Cinnamon Life City of Dreams)
+  url: https://www.augmented-humans.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-12
+    tz: AoE
+    label: Full and short papers
+  - kind: notification
+    date: 2027-01-12
+    tz: AoE
+    label: Full and short papers
+  - kind: camera_ready
+    date: 2027-02-05
+    tz: AoE
+    label: Full and short papers
+sources:
+- https://www.augmented-humans.org/
+- https://www.augmented-humans.org/call-for-full-short-papers
+- https://www.augmented-humans.org/call-for-poster-demo
+- https://www.augmented-humans.org/previous-conferences
+- https://2026.augmented-humans.org/
+- https://2026.augmented-humans.org/call-for-full-short-papers
+- https://portal.core.edu.au/conf-ranks/?search=Augmented&by=all&source=ICORE2026
+unverified:
+- AHs 2027 poster, demo and workshop deadlines are TBA on the official site
+- AHs 2027 proceedings are described as planned for the ACM ICPS
+- CCF absence checked via a mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-17

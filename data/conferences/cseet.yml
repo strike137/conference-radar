@@ -1,0 +1,87 @@
+id: cseet
+name: CSEE&T
+full_name: International Conference on Software Engineering Education and Training
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: CSEE&T Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS (2026); IEEE Xplore (2023 to 2025)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2, 3]
+  conference_months: [4, 7, 8]
+links:
+  website: https://cseet26.techconf.org/
+notes:
+- Long-running venue on software engineering education and training (38th edition in 2026)
+- Proceedings moved from IEEE to Springer LNCS in 2026; 2025 papers carry IEEE DOIs (10.1109/CSEET66350.2025)
+- 2025 edition co-located with ICSE 2025 in Ottawa and replaced the ICSE education track (SEET) that year
+- 2026 edition held in Florence alongside QRS 2026, with Huawei as platinum sponsor
+- Recent editions in Maui (2022), Tokyo (2023), Wurzburg (2024), Ottawa (2025) and Florence (2026)
+- Research papers up to 10 pages plus 2 of references, short papers up to 7 plus 2, industry and experience reports,
+  posters and tools, journal-first summaries; at least three reviews per paper
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2025
+  start: 2025-04-28
+  end: 2025-04-29
+  location: Ottawa, Canada (co-located with ICSE 2025)
+  url: https://conf.researchr.org/home/cseet-2025
+  deadlines:
+  - kind: abstract
+    date: 2024-10-03
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2024-10-10
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2024-12-16
+  - kind: camera_ready
+    date: 2025-02-17
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-22
+  location: Florence, Italy (University of Florence)
+  url: https://cseet26.techconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-20
+    label: Research track (extended)
+  - kind: submission
+    date: 2026-03-01
+    label: Research track full and short papers (extended)
+  - kind: notification
+    date: 2026-05-10
+    label: Research track
+  - kind: submission
+    date: 2026-05-15
+    label: Industry, experience report, poster and tool, journal first (extended)
+  - kind: notification
+    date: 2026-06-02
+    label: Non-research tracks (extended)
+  - kind: camera_ready
+    date: 2026-06-15
+    label: Extended
+sources:
+- https://cseet26.techconf.org/
+- https://cseet26.techconf.org/track/research
+- https://cseet26.techconf.org/submission
+- https://cseet26.techconf.org/previous_conferences
+- https://conf.researchr.org/home/cseet-2025
+- https://conf.researchr.org/series/cseet
+- https://doi.org/10.1109/CSEET66350.2025.00030
+- https://portal.core.edu.au/conf-ranks/?search=CSEET&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- No CSEE&T 2027 announcement found yet
+- Time zone for 2026 deadlines and for 2025 notification and camera-ready not stated
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-17

@@ -1,0 +1,75 @@
+id: itcs
+name: ITCS
+full_name: Innovations in Theoretical Computer Science
+type: conference
+tier: major
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: ITCS Steering Committee
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [9]
+  conference_months: [1]
+links:
+  website: https://www.itcs-conf.org/
+  dblp: https://dblp.org/db/conf/innovations/index.html
+notes:
+- Theory conference for papers with innovative conceptual, technical or methodological agendas; started in 2010
+- Proceedings in the open-access LIPIcs series; authors may ask for only a one page abstract in the proceedings
+- Lightweight double-blind review; single column, at least 11 point, no page limit
+- Usually held in the USA (MIT 2023, Simons Institute Berkeley 2024 and 2027, Columbia 2025); Bocconi University, Milan in 2026
+- Single track over four days, with Graduating Bits sessions for students and postdocs on the job market
+- CORE A (ICORE2026); not on the CCF list
+- Run by a steering committee of mostly US-based theorists, with members from Israel, Switzerland and China
+- The 2022 edition was held online
+editions:
+- year: 2026
+  start: 2026-01-27
+  end: 2026-01-30
+  location: Milan, Italy (Bocconi University)
+  url: https://www.itcs-conf.org/itcs26/itcs26-cfp.html
+  deadlines:
+  - kind: abstract
+    date: 2025-09-04
+    time: "16:59"
+    tz: PDT
+  - kind: submission
+    date: 2025-09-06
+    time: "16:59"
+    tz: PDT
+  - kind: notification
+    date: 2025-11-10
+- year: 2027
+  start: 2027-01-12
+  end: 2027-01-15
+  location: Berkeley, USA (Simons Institute for the Theory of Computing)
+  url: https://www.itcs-conf.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-02
+    time: "16:59"
+    tz: PDT
+  - kind: submission
+    date: 2026-09-04
+    time: "16:59"
+    tz: PDT
+  - kind: notification
+    date: 2026-11-06
+sources:
+- https://www.itcs-conf.org/
+- https://www.itcs-conf.org/itcs26/itcs26-cfp.html
+- https://www.itcs-conf.org/itcs25/itcs25-cfp.html
+- https://www.itcs-conf.org/itcs23/itcs23-cfp.html
+- https://www.itcs-conf.org/governance.html
+- https://portal.core.edu.au/conf-ranks/?search=ITCS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- ITCS 2027 camera-ready date not stated on the official page
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly

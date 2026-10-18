@@ -1,0 +1,98 @@
+id: icpm
+name: ICPM
+full_name: International Conference on Process Mining
+type: conference
+tier: major
+areas: [data]
+region: europe
+language: english
+frequency: annual
+organizer: IEEE Task Force on Process Mining (ICPM steering committee)
+organizer_country: [international]
+proceedings: ACM ICPS (from 2027; IEEE Xplore for 2019 to 2025)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [9]
+  conference_months: [2]
+links:
+  website: https://icpmconference.org/
+notes:
+- Flagship venue of the process mining community (process discovery, conformance checking, event data, predictive
+  process monitoring)
+- Held since 2019; mostly in Europe (Padua 2020, Eindhoven 2021, Bolzano 2022, Rome 2023, Copenhagen 2024),
+  Montevideo 2025
+- Moved from October to February; no research conference in 2026 (only Process Mining Industry Days, Karlsruhe,
+  March 2026); 2027 edition in February
+- Research papers up to 13 pages single column, single-blind, at least three reviewers; mandatory abstract one week
+  before the paper
+- 2027 regular papers open access in the ACM ICPS; research track was in IEEE Xplore up to 2025
+- Workshop papers in Springer LNBIP; demos and doctoral consortium in CEUR-WS
+- Selected papers invited to a special collection of the Process Science journal (Springer)
+- CORE B (ICORE2026); not on the CCF list
+editions:
+- year: 2025
+  label: 7th ICPM
+  start: 2025-10-20
+  end: 2025-10-24
+  location: Montevideo, Uruguay
+  url: https://icpmconference.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-15
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-05-29
+    time: "23:59"
+    tz: AoE
+    label: Research papers (extended from May 22)
+  - kind: notification
+    date: 2025-07-11
+  - kind: camera_ready
+    date: 2025-08-22
+- year: 2027
+  label: ICPM 2027 and Industry Days
+  start: 2027-02-08
+  end: 2027-02-12
+  location: Rende, Italy
+  url: https://icpmconference.org/2027/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-09-04
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-09-18
+    time: "23:59"
+    tz: AoE
+    label: Research papers (extended from Sep 11)
+  - kind: notification
+    date: 2026-11-04
+  - kind: camera_ready
+    date: 2026-11-25
+  - kind: other
+    date: 2026-11-18
+    time: "23:59"
+    tz: AoE
+    label: Workshop papers
+  - kind: other
+    date: 2026-11-02
+    time: "23:59"
+    tz: AoE
+    label: Demo extended abstracts
+sources:
+- https://icpmconference.org/
+- https://icpmconference.org/2027/
+- https://icpmconference.org/2027/important-dates/
+- https://icpmconference.org/2027/research-papers/
+- https://icpmconference.org/2025/
+- https://icpmconference.org/2025/key-dates/
+- https://icpmconference.org/2025/proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=ICPM&by=all&source=ICORE2026
+unverified:
+- Acceptance rate
+- Whether the February schedule is permanent
+last_verified: 2026-10-17

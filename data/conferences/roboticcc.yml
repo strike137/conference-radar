@@ -1,0 +1,79 @@
+id: roboticcc
+name: RoboticCC
+full_name: International Conference on Robotic Computing & Communication
+type: conference
+tier: minor
+areas: [ai, systems, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [2, 12]
+links:
+  website: https://www.roboticcomputing.org/
+notes:
+- Formerly the IEEE International Conference on Robotic Computing (IRC), held since 2017; renamed RoboticCC from the 2025 edition
+- Covers the overlap of computing, communication and robotics (robot software, AI enabled networking, perception, planning, HRI)
+- 2027 is the 10th edition, co-located with IEEE ICSC and AIxDKE in Laguna Hills, California (hybrid)
+- Recent locations Naples 2022, California 2023, Tokyo 2024, Naples 2025, Laguna Hills 2027
+- Proceedings submitted to IEEE (IEEE Computer Society format); selected papers invited to journals
+- Regular papers up to 8 pages, short 4, posters and demos 2 (IEEE double-column), at least three reviewers per paper
+- Accepted papers need one full rate registration and must be presented, or they are removed from the proceedings
+- Free poster presentation with every full paper for current PhD students (via the ICSC doctoral symposium)
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2025
+  start: 2025-12-07
+  end: 2025-12-09
+  location: Naples, Italy (hybrid)
+  url: https://www.roboticcomputing.org/history
+- year: 2027
+  start: 2027-02-01
+  end: 2027-02-03
+  location: Laguna Hills, California, USA (hybrid)
+  url: https://www.roboticcomputing.org/
+  deadlines:
+  - kind: other
+    date: 2026-09-01
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-11-03
+    tz: PST
+    label: Papers (extended from 2026-10-10)
+  - kind: notification
+    date: 2026-12-08
+    tz: PST
+    label: Extended from 2026-12-01
+  - kind: other
+    date: 2026-12-10
+    tz: PST
+    label: Workshop papers
+  - kind: other
+    date: 2026-12-15
+    time: "23:59"
+    tz: PST
+    label: Poster session abstracts
+  - kind: camera_ready
+    date: 2026-12-31
+    tz: PST
+sources:
+- https://www.roboticcomputing.org/
+- https://www.roboticcomputing.org/dates
+- https://www.roboticcomputing.org/submission
+- https://www.roboticcomputing.org/about
+- https://www.roboticcomputing.org/history
+- https://www.roboticcomputing.org/committees
+- https://portal.core.edu.au/conf-ranks/?search=Robotic&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- Official pages give deadlines in PT without stating PST or PDT; PST assumed for dates in November and December
+- RoboticCC 2025 deadlines and its proceedings listing in IEEE Xplore not checked (2025 site not linked)
+- Sponsoring IEEE society not named on the site (IEEE logo only); organizer_country set from the UC Irvine based
+  general chair and contact address
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

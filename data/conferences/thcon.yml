@@ -1,0 +1,65 @@
+id: thcon
+name: THCon
+full_name: Toulouse Hacking Convention
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: THCon team (non-profit association of TLS-SEC students and alumni)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [12, 1]
+  conference_months: [4, 5]
+links:
+  website: https://thcon.party/
+notes:
+- Cybersecurity conference held every year in Toulouse since 2017, for hobbyists, professionals and researchers
+- Run by a volunteer team supported by a non-profit association of students and alumni of the TLS-SEC security programme
+- Two days of talks at the Marthe Condat auditorium (Paul Sabatier University), followed by a CTF at ENSEEIHT with remote participation
+- CFP on EasyChair accepts regular, industry and student papers or talks; already presented work is accepted and talks must be in English
+- Talks only, no formal proceedings
+- 2026 was the 10th edition
+editions:
+- year: 2025
+  start: 2025-04-10
+  end: 2025-04-12
+  location: Paul Sabatier University and ENSEEIHT, Toulouse, France
+  url: https://25.thcon.fr/
+  deadlines:
+  - kind: submission
+    date: 2024-12-20
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2024-12-09
+  - kind: notification
+    date: 2025-01-27
+    label: Extended from 2025-01-15
+- year: 2026
+  start: 2026-05-05
+  end: 2026-05-08
+  location: Paul Sabatier University and ENSEEIHT, Toulouse, France
+  url: https://26.thcon.fr/
+  deadlines:
+  - kind: submission
+    date: 2026-01-19
+    tz: AoE
+    label: Extended from 2026-01-12
+  - kind: notification
+    date: 2026-02-20
+    label: Extended from 2026-02-13
+sources:
+- https://thcon.party/
+- https://25.thcon.fr/
+- https://25.thcon.fr/cfp
+- https://26.thcon.fr/
+- https://26.thcon.fr/cfp
+- https://portal.core.edu.au/conf-ranks/?search=THCon&by=all&source=ICORE2026
+unverified:
+- THCon 2027 not yet announced as of 2026-10-17
+- Ticket price not checked
+- Not listed in the CORE portal (ICORE2026)
+last_verified: 2026-10-17

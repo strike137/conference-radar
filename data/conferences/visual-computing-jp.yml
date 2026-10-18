@@ -1,0 +1,70 @@
+id: visual-computing-jp
+name: VC
+full_name: Visual Computing
+name_local: Visual Computing シンポジウム
+type: conference
+tier: domestic
+areas: [vision, ai]
+region: japan
+language: japanese
+frequency: annual
+organizer: Visual Computing executive committee (CG-ARTS, ITE AIT, IIEEJ Visual Computing, IPSJ CGVI)
+organizer_country: [japan]
+proceedings: None (participants only)
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://visualcomputing.jp/
+notes:
+- Japan's main domestic symposium on computer graphics and related fields, held since 1993 (34th edition in 2026)
+- Co-organized by CG-ARTS, the ITE AIT group, the IIEEJ Visual Computing group and the IPSJ CGVI group
+- Peer-reviewed papers of 1 to 4 A4 pages in Japanese or English; double-blind review by at least 3 PC members;
+  accepted as long or short talks
+- Papers appear only in an electronic proceedings given to participants; authors keep copyright, and short papers
+  or posters already published elsewhere are accepted
+- Separate poster track with a deadline in August; VC paper awards and a student research award
+- Topics include rendering, modeling, simulation, animation, VR/AR, digital fabrication, games, image processing and
+  machine learning for CG
+- Venue changes each year (Kyoto International Conference Center 2022 with Pacific Graphics, Shibaura Institute of
+  Technology 2023, Toyo University 2024, Waseda University 2025, Hokkaido University 2026)
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-10
+  location: Hokkaido University, Sapporo, Japan
+  url: https://visualcomputing.jp/vc2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-29
+    label: Presentation application (extended from 2026-05-22)
+  - kind: submission
+    date: 2026-06-05
+    time: "23:59"
+    tz: JST
+    label: Papers (extended from 2026-05-29)
+  - kind: notification
+    date: 2026-07-17
+  - kind: camera_ready
+    date: 2026-08-07
+  - kind: other
+    date: 2026-08-17
+    label: Poster application
+  - kind: other
+    date: 2026-09-01
+    label: Electronic proceedings published
+sources:
+- https://visualcomputing.jp/
+- https://visualcomputing.jp/vc2026/submit/
+- https://visualcomputing.jp/vc2026/submit/poster/
+- https://visualcomputing.jp/vc2025/
+- https://visualcomputing.jp/vc2025/submit/
+- https://visualcomputing.jp/vc2024/
+- https://visualcomputing.jp/vc2023/
+- https://visualcomputing.jp/vc2022/
+- https://portal.core.edu.au/conf-ranks/?search=Visual+Computing&by=all&source=ICORE2026
+unverified:
+- VC 2027 not announced yet
+- Not listed in the ICORE2026 portal (only ISVC and VL/HCC match "Visual Computing"), so no CORE rank is given
+last_verified: 2026-10-17

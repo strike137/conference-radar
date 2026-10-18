@@ -1,0 +1,59 @@
+id: ecsqaru
+name: ECSQARU
+full_name: European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: ECSQARU permanent committee with a local host university (FernUniversitaet in Hagen in 2025)
+organizer_country: [europe]
+proceedings: Springer LNAI
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: http://www.ecsqaru.org/
+  dblp: https://dblp.org/db/conf/ecsqaru/index.html
+notes:
+- Biennial European forum on reasoning under uncertainty (belief functions, possibility theory, imprecise probabilities, argumentation, probabilistic graphical models); first held in 1991
+- Proceedings in Springer LNCS since 1991 (2021 -> LNCS 12897); the 2025 call names the LNAI subseries; at most 12 pages plus references
+- Single-blind review; abstract registration about one week before the paper deadline; submissions via OpenReview in 2025
+- Always held in Europe (Compiegne 2015, Lugano 2017, Belgrade 2019, Prague 2021, Arras 2023, Hagen 2025)
+- The 2027 edition is announced on the official site but no host or dates yet
+- CORE ICORE2026 rank C
+editions:
+- year: 2025
+  start: 2025-09-23
+  end: 2025-09-26
+  location: Hagen, Germany
+  url: https://ecsqaru2025.krportal.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-21
+    tz: AoE
+    label: Extended from 2025-05-08
+  - kind: submission
+    date: 2025-05-28
+    tz: AoE
+    label: Extended from 2025-05-15
+  - kind: notification
+    date: 2025-07-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-24
+    tz: AoE
+sources:
+- http://www.ecsqaru.org/central.htm
+- http://www.ecsqaru.org/proceedings.html
+- https://ecsqaru2025.krportal.org/
+- https://ecsqaru2025.krportal.org/dates.html
+- https://ecsqaru2025.krportal.org/calls.html
+- https://portal.core.edu.au/conf-ranks/?search=ECSQARU&by=all&source=ICORE2026
+unverified:
+- ECSQARU 2027 host city, dates and deadlines not yet announced
+last_verified: 2026-10-17

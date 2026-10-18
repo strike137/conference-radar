@@ -1,0 +1,73 @@
+id: eai-wisats
+name: EAI WiSATS
+full_name: EAI International Conference on Wireless and Satellite Systems
+type: conference
+tier: minor
+areas: [communications, networking]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: EAI (European Alliance for Innovation)
+organizer_country: [europe]
+proceedings: Springer LNICST
+archival: true
+indexing: [Web of Science, Compendex, Scopus, DBLP, Inspec, zbMATH]
+typical:
+  deadline_months: [6]
+  conference_months: [8]
+links:
+  website: https://psats.eai-conferences.org/2026/
+notes:
+- EAI conference series on wireless and satellite communications, formerly called PSATS; 2026 is the 16th edition
+- Proceedings in Springer LNICST; selected papers invited to extend for Springer Wireless Networks (WINET)
+- Recent editions hosted in China (Harbin 2019, 2024 and 2025, Weihai 2026); 2020 to 2022 editions were virtual or hybrid (listed as Nanjing 2020 and Singapore 2022)
+- Main track and late track with separate deadlines; full papers 12 to 20 pages, short papers 6 to 11 pages in Springer format
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-07
+  end: 2025-08-09
+  location: Harbin, China
+  url: https://psats.eai-conferences.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-05
+    label: Full papers, main track
+  - kind: notification
+    date: 2025-06-15
+    label: Main track
+  - kind: submission
+    date: 2025-07-01
+    label: Late track
+  - kind: notification
+    date: 2025-07-15
+    label: Late track
+  - kind: camera_ready
+    date: 2025-08-01
+- year: 2026
+  start: 2026-08-21
+  end: 2026-08-23
+  location: Weihai, China
+  url: https://psats.eai-conferences.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    label: Full papers, main track
+  - kind: notification
+    date: 2026-07-25
+  - kind: camera_ready
+    date: 2026-08-10
+sources:
+- https://psats.eai-conferences.org/2026/
+- https://psats.eai-conferences.org/2026/call-for-papers/
+- https://psats.eai-conferences.org/2025/
+- https://psats.eai-conferences.org/2024/
+- https://psats.eai-conferences.org/2022/
+- https://psats.eai-conferences.org/2021/
+- https://psats.eai-conferences.org/2019/
+- https://portal.core.edu.au/conf-ranks/?search=WiSATS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- 2027 edition not announced yet
+- CCF rank checked via a mirror of the CCF 2026 list, not on ccf.org.cn directly

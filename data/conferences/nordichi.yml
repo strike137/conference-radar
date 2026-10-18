@@ -1,0 +1,66 @@
+id: nordichi
+name: NordiCHI
+full_name: Nordic Conference on Human-Computer Interaction
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: biennial
+organizer: Rotating Nordic university host (2026 University of Vaasa)
+organizer_country: [europe]
+proceedings: ACM DL (ICPS)
+archival: true
+rank:
+  core: 'Regional: Scandinavia'
+typical:
+  deadline_months: [4]
+  conference_months: [10]
+links:
+  website: https://nordichi2026.org/
+  dblp: https://dblp.org/db/conf/nordichi/index.html
+notes:
+- Main Nordic HCI conference, held every two years in a Nordic country (Aarhus 2022, Uppsala 2024, Vaasa 2026)
+- Proceedings in the ACM Digital Library (International Conference Proceedings Series); ACM open access model may
+  mean an APC for authors outside ACM OPEN institutions
+- Research papers up to 12,000 words, dual anonymous review with a single cycle and no rebuttal
+- Also has critiques, panels, arts-based approaches, industry experiences, late-breaking work, demos, workshops and
+  a doctoral consortium
+- Accepted papers must be presented in person
+- CORE Regional Scandinavia (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-07
+  location: University of Vaasa, Vaasa, Finland (pre-conference October 3 to 4)
+  url: https://nordichi2026.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-16
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-04-23
+    tz: AoE
+    label: Research papers, critiques, panels, arts-based approaches
+  - kind: submission
+    date: 2026-05-19
+    label: Late-breaking work, industry experiences, demos, doctoral consortium
+  - kind: notification
+    date: 2026-06-30
+    label: Research papers and other categories
+  - kind: camera_ready
+    date: 2026-08-07
+    tz: AoE
+    label: Research papers
+sources:
+- https://nordichi2026.org/
+- https://sites.uwasa.fi/nordichi2026/submit/papers/
+- https://nordichi2024.se/
+- https://nordichi2022.org/
+- https://portal.core.edu.au/conf-ranks/?search=NordiCHI&by=all&source=ICORE2026
+unverified:
+- NordiCHI 2028 host and dates not yet announced as of 2026-10-17
+- The CORE portal writes the rank as Regional:Scandinavia
+- Acceptance rate not published on the official site
+last_verified: 2026-10-17

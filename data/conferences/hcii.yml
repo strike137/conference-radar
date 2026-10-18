@@ -1,0 +1,87 @@
+id: hcii
+name: HCII
+full_name: HCI International Conference (International Conference on Human-Computer Interaction)
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: HCI International (General Chair Constantine Stephanidis, University of Crete and ICS-FORTH)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+indexing: [Scopus, DBLP, EI]
+typical:
+  deadline_months: [10]
+  conference_months: [6, 7]
+links:
+  website: https://2027.hci.international/
+notes:
+- Large HCI conference founded in 1984 by Gavriel Salvendy; annual since 2013, 29th edition in 2027
+- Runs about 20 thematic areas and affiliated conferences (HCI-CPT for security and privacy, AI-HCI, VAMR, DUXU, ...) under one registration
+- Two-stage process; an 800-word proposal is reviewed (single-blind, at least two referees), then the full paper (10 to 20 pages) is due after acceptance
+- Papers in Springer LNCS and LNAI; poster extended abstracts in Springer CCIS
+- On-site with an option for online participation; one registration per accepted paper
+- Held in Copenhagen 2023, Washington DC 2024, Gothenburg 2025, Montreal 2026, Berlin 2027
+- Not listed in CORE ICORE2026 or on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-26
+  end: 2026-07-31
+  location: Montreal Convention Centre, Montreal, Canada
+  url: https://2026.hci.international/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-24
+    tz: AoE
+    label: Paper proposals (extended)
+  - kind: notification
+    date: 2025-12-08
+    label: Paper proposals
+  - kind: camera_ready
+    date: 2026-02-13
+    tz: AoE
+    label: Full paper (extended)
+- year: 2027
+  start: 2027-07-25
+  end: 2027-07-30
+  location: Estrel Hotel and Congress Center, Berlin, Germany
+  url: https://2027.hci.international/
+  deadlines:
+  - kind: other
+    date: 2026-10-09
+    label: Course proposals
+  - kind: abstract
+    date: 2026-10-23
+    tz: AoE
+    label: Paper proposals (800 words, extended)
+  - kind: notification
+    date: 2026-12-04
+    label: Paper proposals
+  - kind: submission
+    date: 2027-01-15
+    label: Poster proposals
+  - kind: camera_ready
+    date: 2027-01-29
+    tz: AoE
+    label: Full paper
+  - kind: other
+    date: 2027-02-12
+    label: Author registration (papers)
+sources:
+- https://2027.hci.international/
+- https://2027.hci.international/deadlines.html
+- https://2027.hci.international/papers.html
+- https://2027.hci.international/proceedings.html
+- https://2027.hci.international/contacts.html
+- https://2026.hci.international/
+- https://2026.hci.international/papers.html
+- https://2026.hci.international/proceedings.html
+- https://hci.international/index.php?module=conference&MMN_position=4:4
+- https://portal.core.edu.au/conf-ranks/?search=HCI&by=all&source=ICORE2026
+unverified:
+- Acceptance rate and registration fee not checked
+- organizer_country set to international (founder in the USA, general chair in Greece, 22 international boards)
+- Absence from the CCF list checked via a mirror of the CCF list (CCFrank4dblp), not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-17

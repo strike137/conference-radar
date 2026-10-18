@@ -1,0 +1,64 @@
+id: pacmi
+name: PACMI
+full_name: Workshop on Practical Adoption Challenges of ML for Systems
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: PACMI workshop chairs, co-located with ACM SOSP
+proceedings: ACM DL (optional, for papers that opt in)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10, 11]
+links:
+  website: https://sites.google.com/view/pacmi/home
+notes:
+- One-day workshop on the practical obstacles to deploying classic ML, generative AI and agents in computer systems
+  (reliability, rollout, verification, safety, debuggability)
+- Co-located with SOSP since 2024 (Austin 2024, Seoul 2025, Prague 2026); 2022 edition was co-located with MLSys in
+  Santa Clara
+- Position papers and short papers up to 4 pages, abstracts of published work up to 2 pages (references excluded);
+  single-blind review
+- Accepted papers may be included in ACM proceedings; acceptance does not preclude later publication at a major
+  conference
+- 2024 and 2025 proceedings published in the ACM DL (3rd and 4th Workshop on Practical Adoption Challenges of ML for
+  Systems)
+- 2026 program co-chairs from Google and Columbia University
+- Not found in the ICORE2026 CORE portal search and not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-29
+  end: 2026-09-29
+  location: Prague, Czechia
+  url: https://sites.google.com/view/pacmi/home
+  deadlines:
+  - kind: submission
+    date: 2026-07-18
+    tz: AoE
+    label: Extended from July 11
+  - kind: notification
+    date: 2026-08-12
+    tz: AoE
+    label: Extended from August 5
+  - kind: camera_ready
+    date: 2026-08-30
+    tz: AoE
+    label: Extended from August 19
+sources:
+- https://sites.google.com/view/pacmi/home
+- https://sites.google.com/view/pacmi/call-for-papers
+- https://sites.google.com/view/pacmi/organizers
+- https://sites.google.com/view/pacmi25
+- https://sites.google.com/view/pacmi24
+- https://sites.google.com/view/pacmi22/home
+- https://portal.core.edu.au/conf-ranks/?search=PACMI&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- PACMI 2023 host and location (site requires sign-in)
+- 2027 edition not announced yet
+- organizer_country (no formal organizing society named)
+- Acceptance rate not stated; registration goes through SOSP
+last_verified: 2026-10-17

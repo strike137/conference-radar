@@ -1,0 +1,72 @@
+id: forc
+name: FORC
+full_name: Symposium on Foundations of Responsible Computing
+type: conference
+tier: minor
+areas: [ai, security]
+region: north-america
+language: english
+frequency: annual
+organizer: FORC steering committee (supported by the Simons Foundation Collaboration on the Theory of Algorithmic Fairness)
+organizer_country: [usa]
+proceedings: LIPIcs
+archival: true
+typical:
+  deadline_months: [11, 2]
+  conference_months: [6]
+links:
+  website: https://responsiblecomputing.org/
+  dblp: https://dblp.org/db/conf/forc/
+notes:
+- Theory venue for mathematical research on computation and society (fairness in ML, differential privacy, social
+  choice, fair division, mechanism design, robustness, law and ethics)
+- Proceedings published by LIPIcs (10-page version of each accepted paper); authors may ask for a one-page abstract
+  with a link to the full paper instead, to keep journal publication open
+- Two submission cycles since 2025 (November and February); single-blind review
+- The former non-archival track was replaced in 2025 by a highlights track for talks on work published elsewhere
+- Held in person, alternating between Harvard University and Stanford University (Harvard 2022, Stanford 2023,
+  Harvard 2024, Stanford 2025, Harvard 2026); online in 2020 and 2021
+- Registration is free; travel funding available on request
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-05
+  location: Harvard University, Allston, MA, USA
+  url: https://responsiblecomputing.org/forc-2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-11
+    tz: AoE
+    label: First cycle
+  - kind: notification
+    date: 2025-12-23
+    label: First cycle
+  - kind: submission
+    date: 2026-02-17
+    tz: AoE
+    label: Second cycle
+  - kind: other
+    date: 2026-02-17
+    tz: AoE
+    label: Highlights track nominations
+  - kind: notification
+    date: 2026-03-31
+    label: Second cycle
+  - kind: camera_ready
+    date: 2026-04-14
+sources:
+- https://responsiblecomputing.org/
+- https://responsiblecomputing.org/forc-2026/
+- https://responsiblecomputing.org/forc-2026-call-for-papers/
+- https://responsiblecomputing.org/past-conferences/
+- https://responsiblecomputing.org/forc-2025/
+- https://responsiblecomputing.org/forc-2024/
+- https://responsiblecomputing.org/forc-2023/
+- https://responsiblecomputing.org/forc-2022/
+- https://responsiblecomputing.org/steering-committee/
+- https://portal.core.edu.au/conf-ranks/?search=FORC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- FORC 2027 dates and location (not announced yet)
+- Acceptance rate (not published on the official pages)
+last_verified: 2026-10-17

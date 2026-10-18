@@ -1,0 +1,58 @@
+id: clin
+name: CLIN
+full_name: Computational Linguistics in The Netherlands
+type: conference
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: annual
+organizer: CLIN community, hosted each year by a different university in the Dutch-speaking region
+organizer_country: [europe]
+proceedings: CLIN Journal (post-conference full papers, separately reviewed)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://clinjournal.org/clinj
+notes:
+- Yearly one-day computational linguistics conference of the Dutch and Flemish community; each edition is hosted by
+  a different institution in the Netherlands or Flanders
+- Submission is a 500-word abstract in English; accepted abstracts are presented as talks or posters
+- No proceedings for the abstracts; authors of presented work may afterwards submit a full paper to the open-access
+  CLIN Journal, reviewed by its editorial board
+- Dutch language topics are especially encouraged, but other languages are welcome
+- CLIN35 was held in Leuven (2025), CLIN36 in Brussels (2026)
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-12
+  end: 2025-09-12
+  location: Leuven, Belgium
+  url: https://clin35.ccl.kuleuven.be/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-20
+    label: Abstracts (extended from 2025-06-13)
+  - kind: notification
+    date: 2025-07-09
+  - kind: other
+    date: 2026-01-12
+    label: CLIN Journal full papers (extended from 2026-01-05)
+- year: 2026
+  start: 2026-09-11
+  end: 2026-09-11
+  location: Brussels, Belgium
+  url: https://clin36.ai.vub.ac.be/
+sources:
+- https://clin35.ccl.kuleuven.be/
+- https://clin35.ccl.kuleuven.be/call-for-abstracts
+- https://clinjournal.org/clinj
+- https://clinjournal.org/clinj/announcement/view/17
+- https://portal.core.edu.au/conf-ranks/?search=CLIN&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- CLIN36 (2026) deadlines; the CLIN36 website (clin36.ai.vub.ac.be) was unreachable, date and city taken from the
+  CLIN Journal announcement
+- CLIN37 (2027) host and dates not yet announced

@@ -1,0 +1,74 @@
+id: nfm
+name: NFM
+full_name: NASA Formal Methods Symposium
+type: conference
+tier: minor
+areas: [software]
+region: north-america
+language: english
+frequency: annual
+organizer: NASA Formal Methods Research Group
+organizer_country: [usa]
+proceedings: Springer LNCS (Formal Methods subline)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5, 6]
+links:
+  website: https://shemesh.larc.nasa.gov/NFM/
+notes:
+- Annual symposium run by the NASA Formal Methods Research Group (researchers from six NASA centers); grew out of the Langley Formal Methods Workshop series
+- Formal methods for software and system assurance in space, aviation, robotics and other safety-critical systems
+- Proceedings in Springer LNCS (Formal Methods subline)
+- Held in the USA, hosted in turn by NASA centers or nearby universities (2023 Houston, 2024 Moffett Field, 2025 Williamsburg, 2026 Los Angeles, 2027 Houston)
+- NFM 2027 takes regular papers (16 pages plus references) and 8-page short papers (tool papers and case studies)
+- No registration fee for participants (2027), but all attendees must register
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-05-05
+  end: 2026-05-07
+  location: University of Southern California, Los Angeles, California, USA
+  url: https://nfm2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-01-10
+    tz: AoE
+    label: Original deadline
+  - kind: submission
+    date: 2026-01-24
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2026-03-10
+  - kind: camera_ready
+    date: 2026-03-30
+- year: 2027
+  start: 2027-05-11
+  end: 2027-05-13
+  location: University of Houston Clear Lake, Houston, Texas, USA
+  url: https://conf.researchr.org/home/nfm-2027
+  deadlines:
+  - kind: abstract
+    date: 2027-01-04
+    tz: AoE
+  - kind: submission
+    date: 2027-01-11
+    tz: AoE
+  - kind: notification
+    date: 2027-02-26
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-03-19
+    tz: AoE
+sources:
+- https://shemesh.larc.nasa.gov/NFM/
+- https://conf.researchr.org/home/nfm-2027
+- https://nfm2026.github.io/
+- https://nfm2026.github.io/cfp/
+- https://nfm2026.github.io/proceedings/
+- https://nfm2026.github.io/history/
+- https://portal.core.edu.au/conf-ranks/?search=NFM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- CCF list checked only through the CCFrank4dblp mirror

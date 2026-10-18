@@ -1,0 +1,71 @@
+id: plos
+name: PLOS
+full_name: Workshop on Programming Languages and Operating Systems
+type: workshop
+tier: minor
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (Osnabrück University, University of Edinburgh, RWTH Aachen, University of Manchester), co-located with ACM SOSP
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [6, 7, 8]
+  conference_months: [9, 10]
+links:
+  website: https://plos-workshop.org/2026/
+  dblp: https://dblp.org/db/conf/plos/index.html
+notes:
+- Workshop at the intersection of programming languages and operating systems, co-located with ACM SOSP
+- Roots in the ECOOP workshop series on Object-Orientation and Operating Systems (since 1997); renamed PLOS in 2004
+- Biennial with SOSP from 2009 to 2025; also held in 2026, the year after the 2025 edition
+- Research, experience and position papers of at most 6 pages plus references (ACM sigplan format), double-blind
+- Accepted papers are published in the ACM DL; ACM open access APC applies to authors outside ACM Open institutions
+- Small event, about 35 to 40 attendees in 2025 (125 registrations in 2023)
+- Follows SOSP around the world (Koblenz 2023, Seoul 2025, Prague 2026)
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Seoul, Republic of Korea
+  url: https://plos-workshop.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-02
+    label: Extended
+  - kind: notification
+    date: 2025-08-25
+  - kind: camera_ready
+    date: 2025-09-19
+- year: 2026
+  start: 2026-09-29
+  end: 2026-09-29
+  location: Prague, Czechia
+  url: https://plos-workshop.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-07-06
+  - kind: camera_ready
+    date: 2026-08-10
+sources:
+- https://plos-workshop.org/2026/
+- https://plos-workshop.org/2026/cfp.php
+- https://plos-workshop.org/2026/submit.php
+- https://plos-workshop.org/2026/organizers.php
+- https://plos-workshop.org/2026/former.php
+- https://plos-workshop.org/2025/
+- https://plos-workshop.org/2025/cfp.php
+- https://portal.core.edu.au/conf-ranks/?search=PLOS&by=all&source=ICORE2026
+unverified:
+- Whether PLOS continues annually after 2026 is not announced; it was biennial until 2025
+- PLOS 2025 extended deadline (August 2) time zone not stated on the news item; the original deadline was AoE
+last_verified: 2026-10-17

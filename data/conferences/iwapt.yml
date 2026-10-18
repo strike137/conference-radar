@@ -1,0 +1,59 @@
+id: iwapt
+name: iWAPT
+full_name: International Workshop on Automatic Performance Tuning
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: iWAPT steering committee (general chair Osni Marques, LBNL; general vice-chair Takahiro Katagiri, Nagoya
+  University); IEEE IPDPS workshop
+organizer_country: [japan, usa]
+proceedings: IEEE Xplore (IPDPS Workshops)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://iwapt.org/
+notes:
+- Workshop on autotuning for high-performance computing held since 2006, started in Tokyo and co-located with IEEE
+  IPDPS in recent years (21st edition in 2026)
+- Steering committee mostly from Japanese universities and RIKEN, plus LBNL, ORNL, ETH Zurich, Georgia Tech and
+  National Taiwan University
+- Accepted papers go into the IPDPS workshop proceedings (IPDPSW) in IEEE Xplore
+- Up to 10 pages IEEE conference style including references; single-blind review; submission through the IPDPS
+  Linklings site
+- 'Topics: autotuning with AI and LLMs, performance modelling, adaptive numerical libraries, compilers, runtime
+  systems, energy-aware computing, quantum and neuromorphic architectures'
+- Half-day workshop; registration through IPDPS
+- The 2026 submission deadline was extended twice
+editions:
+- year: 2026
+  label: 21st iWAPT
+  start: 2026-05-25
+  end: 2026-05-25
+  location: New Orleans, USA
+  url: https://iwapt.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-10
+    tz: AoE
+    label: Extended from January 16 and February 6
+  - kind: notification
+    date: 2026-02-24
+  - kind: camera_ready
+    date: 2026-03-06
+sources:
+- https://iwapt.org/
+- https://iwapt.org/2026/
+- https://iwapt.org/2026/program.html
+- https://iwapt.org/2027/
+- https://www.ipdps.org/ipdps2027/2027-call-for-papers.html
+- https://portal.core.edu.au/conf-ranks/?search=iWAPT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- iWAPT 2027 page pre-opened (with IPDPS 2027, June 1 to 5, 2027, Seattle) but dates and deadlines still to be announced
+- Not listed on the CORE portal (ICORE2026) and not on the CCF 2026 list
+- Acceptance rate not published

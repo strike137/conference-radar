@@ -1,0 +1,56 @@
+id: empower
+name: EMPOWER
+full_name: Workshop on Energy-Efficient Machine Learning for Performance-Optimized Wireless and Edge Networks
+type: workshop
+tier: minor
+areas: [ai, networking, communications]
+region: worldwide
+language: english
+organizer: Workshop chairs led by Matteo Mendula and Paolo Dini (CTTC, Spain) and Lintao Ye (HUST, China); co-located
+  with ACM MobiSys
+organizer_country: [europe, china]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://empower-mobisys.github.io/
+notes:
+- New workshop in 2026, co-located with ACM MobiSys 2026 in Cambridge, UK (half-day, six papers and one keynote)
+- Two tracks, AI for Networks (AI-native 6G, spectrum, network security) and Systems for AI (on-device GenAI,
+  compression, neuromorphic, energy-aware scheduling)
+- Full papers up to 6 pages and position papers up to 4 pages including references; double-blind review; MobiSys format
+- 2026 papers appear in the ACM Digital Library in the MobiSys 2026 workshops proceedings
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-06-25
+  end: 2026-06-25
+  location: Cambridge, UK
+  url: https://empower-mobisys.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-04-15
+    tz: AoE
+    label: Extended from 2026-04-02
+  - kind: notification
+    date: 2026-04-25
+    tz: AoE
+    label: Moved from 2026-04-20
+  - kind: camera_ready
+    date: 2026-04-30
+    tz: AoE
+    label: Moved from 2026-04-27
+sources:
+- https://empower-mobisys.github.io/
+- https://empower-mobisys.github.io/call-for-papers.html
+- https://empower-mobisys.github.io/submission.html
+- https://empower-mobisys.github.io/committees.html
+- https://doi.org/10.1145/3812836.3814844
+- https://doi.org/10.1145/3812836.3814849
+- https://portal.core.edu.au/conf-ranks/?search=EMPOWER&by=all&source=ICORE2026
+unverified:
+- The workshop site does not state the proceedings; ACM DL placement taken from the published 2026 papers
+- Frequency unknown; a 2027 edition is not announced and no earlier edition was found
+last_verified: 2026-10-17

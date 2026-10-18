@@ -1,0 +1,89 @@
+id: pact
+name: PACT
+full_name: International Conference on Parallel Architectures and Compilation Techniques
+type: conference
+tier: major
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM and IEEE
+organizer_country: [international]
+proceedings: ACM DL and IEEE Xplore
+archival: true
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [4]
+  conference_months: [10, 11]
+links:
+  website: https://pact2026.github.io/
+  dblp: https://dblp.org/db/conf/IEEEpact/index.html
+notes:
+- Long-running venue at the intersection of computer architecture and compilers, with a focus on parallelism
+- Supported by ACM and IEEE; accepted papers are published in both the ACM Digital Library and IEEE Xplore
+- ACM open access policy applies; authors outside ACM Open institutions may face an APC
+- Research papers and Tools and Practical Experience (TPE) papers, 10 pages plus references, double-blind with a
+  rebuttal
+- Optional artifact evaluation; ACM Student Research Competition and workshops/tutorials co-located
+- At least one author of each accepted paper must attend in person
+- Held in Vienna 2023, Long Beach 2024, Irvine 2025 and Chicago 2026
+- 43 technical papers in 2026
+- CORE B (ICORE2026), CCF B
+editions:
+- year: 2025
+  start: 2025-11-03
+  end: 2025-11-06
+  location: UC Irvine Beall Innovation Center, Irvine, California, USA
+  url: https://pact2025.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-04-18
+    tz: AoE
+  - kind: submission
+    date: 2025-04-25
+    tz: AoE
+  - kind: notification
+    date: 2025-07-31
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-17
+    tz: AoE
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-22
+  location: Discovery Partners Institute, Chicago, Illinois, USA
+  url: https://pact2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-23
+    tz: AoE
+    label: Extended from 2026-04-17
+  - kind: submission
+    date: 2026-04-30
+    tz: AoE
+    label: Extended from 2026-04-24
+  - kind: notification
+    date: 2026-08-05
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-16
+    tz: AoE
+sources:
+- https://pact2026.github.io/
+- https://pact2026.github.io/submit
+- https://pact2026.github.io/organization
+- https://pact2025.github.io/
+- https://pact2025.github.io/submit
+- https://pact2024.github.io/
+- https://pact2023.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=PACT&by=all&source=ICORE2026
+- https://csse.szu.edu.cn/staff/CCF/International_Recommended_Directory.pdf (copy of the CCF 2026 list)
+unverified:
+- PACT 2027 host and dates not yet announced as of 2026-10-17
+- CCF rank checked on a university copy of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- Region set to worldwide since only four of the last six editions were in the USA (2021 virtual from Seoul, 2023
+  Vienna); 2021 and 2022 hosts not checked on official pages
+- Submission acceptance rate not published on the official site
+last_verified: 2026-10-17

@@ -1,0 +1,62 @@
+id: dfts
+name: IEEE DFTS
+full_name: IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
+type: conference
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: IEEE Computer Society (technical sponsors TTTC and TC on Fault-Tolerant Computing)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+fee: 630 EUR IEEE member, 740 EUR non-member (2026, early full registration); students 425/515 EUR
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9, 10]
+links:
+  website: https://www.dfts.org/
+  dblp: https://dblp.org/db/conf/dft/index.html
+notes:
+- Annual symposium on defect and fault tolerance, test, reliability, radiation effects and hardware security of VLSI systems; 39th edition in 2026
+- DBLP and the history page list editions up to 2025 as DFT; the symposium itself uses the acronym DFTS
+- Proceedings published by the IEEE Computer Society (CS Digital Library and IEEE Xplore); regular papers 6 pages, short papers 4 pages
+- Abstract due one to two weeks before the full paper; 2026 deadlines were extended by two to three weeks
+- Recently held in Europe (Juan-les-Pins 2023, Oxfordshire 2024, Barcelona 2025, Rome 2026); earlier often in the USA (Austin 2022)
+- Strong links with the European Space Agency (2026 general co-chair and finance chair from ESA ESTEC)
+- Authors of accepted papers are invited to a journal special issue
+- Not ranked by CORE (ICORE2026) and not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-30
+  end: 2026-10-02
+  location: Rome, Italy
+  url: https://www.dfts.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-08
+    label: Title and abstract (extended from April 24)
+  - kind: submission
+    date: 2026-05-22
+    label: Full paper (extended from May 1)
+  - kind: notification
+    date: 2026-07-10
+  - kind: camera_ready
+    date: 2026-07-31
+sources:
+- https://www.dfts.org/
+- https://www.dfts.org/cfp.htm
+- https://www.dfts.org/js/website-info.js
+- https://www.dfts.org/docs/dfts_2026_cfp_v4.pdf
+- https://www.dfts.org/history.htm
+- https://www.dfts.org/registration.htm
+- https://www.dfts.org/venue.htm
+- https://portal.core.edu.au/conf-ranks/?search=Defect+and+Fault&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not found on official pages
+- 2027 edition not announced yet
+- CORE and CCF absence checked on ICORE2026 portal and the CCFrank4dblp mirror of the CCF 2026 list, not on ccf.org.cn directly
+- Deadline time zone not stated
+- Camera-ready date is July 31 on the website but July 24 in the CFP PDF v4; the website value is used
+last_verified: 2026-10-17

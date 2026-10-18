@@ -1,0 +1,53 @@
+id: mfcs
+name: MFCS
+full_name: International Symposium on Mathematical Foundations of Computer Science
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: MFCS Steering Committee, with a local host institution each year (IRIF, Paris for 2026)
+organizer_country: [europe]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [4]
+  conference_months: [8]
+links:
+  website: https://mfcs2026.irif.fr/
+notes:
+- One of the oldest theory conferences, first held in 1972; covers all branches of theoretical computer science
+- Traditionally moved between the Czech Republic, Poland and Slovakia; since 2013 it travels around Europe
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl)
+- Submissions up to 12 pages in LIPIcs style excluding title page, references and appendix; single-blind review
+- About 80 papers presented in person; from 2026 up to 10 more accepted without on-site presentation (pre-recorded video, reduced fee)
+- Preceded by a Young Researchers Forum for students and postdocs
+- Ranked B in ICORE2026 and C in the CCF list
+editions:
+- year: 2026
+  label: 51st MFCS, IRIF
+  start: 2026-08-24
+  end: 2026-08-28
+  location: Paris, France
+  url: https://mfcs2026.irif.fr/
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+    tz: AoE
+  - kind: notification
+    date: 2026-06-19
+  - kind: camera_ready
+    date: 2026-06-26
+    tz: AoE
+sources:
+- https://mfcs2026.irif.fr/
+- https://portal.core.edu.au/conf-ranks/?search=MFCS&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/TCS/
+last_verified: 2026-10-17
+unverified:
+- MFCS 2027 not announced on an official page found as of 2026-10-17 (mfcs.info not reachable)
+- Acceptance rates and fees not recorded

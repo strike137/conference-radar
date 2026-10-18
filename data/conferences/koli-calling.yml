@@ -1,0 +1,95 @@
+id: koli-calling
+name: Koli Calling
+full_name: Koli Calling International Conference on Computing Education Research
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: Koli Calling conference chairs (2026 edition run by the Federal Institute of Brasilia and the University of Eastern Finland)
+organizer_country: [europe]
+proceedings: ACM DL (ACM ICPS)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [11]
+links:
+  website: https://www.kolicalling.fi/
+notes:
+- Computing education research conference held every year since 2001 at the Hotel Koli in Koli National Park, about 60 km north of Joensuu, Finland
+- Single-track, moderate size, known for its intimate atmosphere and lively discussions
+- Proceedings in the ACM International Conference Proceedings Series (ACM DL), open access under ACM Open; authors at non-ACM Open institutions may pay an APC
+- Full papers (research or system and tool papers) up to 10 pages, discussion papers up to 6 pages, posters and demos up to 2 pages; at least three reviews with conditional acceptance and shepherding
+- Metadata deadline one week before the full paper deadline; all accepted papers must be presented in person
+- Doctoral consortium and a pre-conference workshop in Joensuu before the main conference
+- "Registration fee: 320 EUR early bird, 350 EUR regular (2026), plus a separate hotel and full-board package"
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-11-13
+  end: 2025-11-16
+  location: Koli, Finland
+  url: https://www.kolicalling.fi/call-for-papers-2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-20
+    time: "23:59"
+    tz: AoE
+    label: Full and discussion papers (metadata)
+  - kind: submission
+    date: 2025-07-27
+    time: "23:59"
+    tz: AoE
+    label: Full and discussion papers
+  - kind: notification
+    date: 2025-09-07
+    label: Full and discussion papers
+  - kind: submission
+    date: 2025-09-14
+    tz: AoE
+    label: Posters and demos
+  - kind: notification
+    date: 2025-09-28
+    label: Posters, demos and conditionally accepted papers
+  - kind: camera_ready
+    date: 2025-10-05
+- year: 2026
+  start: 2026-11-05
+  end: 2026-11-08
+  location: Koli, Finland
+  url: https://www.kolicalling.fi/submissions/call-for-papers/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-12
+    time: "23:59"
+    tz: AoE
+    label: Full and discussion papers (metadata)
+  - kind: submission
+    date: 2026-07-19
+    time: "23:59"
+    tz: AoE
+    label: Full and discussion papers
+  - kind: notification
+    date: 2026-08-30
+    label: Full and discussion papers
+  - kind: submission
+    date: 2026-09-06
+    tz: AoE
+    label: Posters and demos
+  - kind: notification
+    date: 2026-09-20
+    label: Posters, demos and conditionally accepted papers
+  - kind: camera_ready
+    date: 2026-09-27
+sources:
+- https://www.kolicalling.fi/
+- https://www.kolicalling.fi/submissions/call-for-papers/
+- https://www.kolicalling.fi/call-for-papers-2025/
+- https://www.kolicalling.fi/previous-conferences/
+- https://www.kolicalling.fi/for-participants/fees/
+- https://portal.core.edu.au/conf-ranks/?search=Koli&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The call for papers pages give deadlines as weekday and day without the year; the years are inferred from the edition pages and match the weekdays
+- Acceptance rate not published on the official site

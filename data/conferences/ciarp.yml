@@ -1,0 +1,70 @@
+id: ciarp
+name: CIARP
+full_name: Iberoamerican Congress on Pattern Recognition
+type: conference
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: National pattern recognition associations of Ibero-America (MexAPR hosts 2026), endorsed by IAPR
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+indexing: [Scopus, DBLP]
+rank:
+  core: C
+fee: "Author full registration 472.50 EUR early, 525 EUR standard (2026, non-IAPR member)"
+typical:
+  deadline_months: [6]
+  conference_months: [11]
+links:
+  website: https://ciarp2026.ibero.mx/
+  dblp: https://dblp.org/db/conf/ciarp/
+notes:
+- Main Ibero-American pattern recognition conference since the 1990s, endorsed by IAPR; hosted each year by a
+  national pattern recognition association
+- Proceedings in Springer LNCS ("Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications";
+  2025 -> LNCS 16528 to 16529, 52 full papers from 110 submissions)
+- Papers of 6 to 15 pages in LNCS format, submitted through Springer EquinOCS
+- Held in Latin America, Spain and Portugal (Havana 2019, Porto 2021, Coimbra 2023, Talca 2024, Bogota 2025,
+  Mexico City 2026); no 2020 or 2022 edition
+- IAPR Best Paper and Best Student Paper awards
+- CORE C (ICORE2026); not in the CCF list
+editions:
+- year: 2025
+  start: 2025-11-25
+  end: 2025-11-28
+  location: Bogota, Colombia
+- year: 2026
+  start: 2026-11-24
+  end: 2026-11-27
+  location: Universidad Iberoamericana, Mexico City, Mexico
+  url: https://ciarp2026.ibero.mx/
+  deadlines:
+  - kind: other
+    date: 2026-05-15
+    label: Tutorial proposals
+  - kind: submission
+    date: 2026-06-15
+  - kind: notification
+    date: 2026-08-20
+  - kind: camera_ready
+    date: 2026-09-01
+sources:
+- https://ciarp2026.ibero.mx/
+- https://ciarp2026.ibero.mx/api/intranet/call_for_papers/
+- https://drive.google.com/file/d/1fx9MUK6bw0NIHn0mzsiv68uHBnytdtYU/view
+- https://ciarp2026.ibero.mx/api/intranet/important_dates/
+- https://ciarp2026.ibero.mx/api/intranet/about/
+- https://ciarp2026.ibero.mx/api/intranet/previous_editions/
+- https://ciarp2026.ibero.mx/api/intranet/registration_fee/
+- https://iapr.org/conferences/conference-schedule/
+- https://link.springer.com/conference/ciarp
+- https://link.springer.com/book/10.1007/978-3-032-23161-1
+- https://portal.core.edu.au/conf-ranks/?search=CIARP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- The IAPR conference schedule lists the CIARP 2026 deadline as 2026-06-22, while the official call says 2026-06-15
+- Deadline time and time zone (not stated)
+- CIARP 2025 deadlines (official 2025 site not found)
+last_verified: 2026-10-17

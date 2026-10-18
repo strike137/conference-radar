@@ -1,0 +1,76 @@
+id: esocc
+name: ESOCC
+full_name: European Conference on Service-Oriented and Cloud Computing
+type: conference
+tier: minor
+areas: [systems, software]
+region: europe
+language: english
+frequency: annual
+organizer: ESOCC steering committee, supported by IFIP WG 6.12
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://conf.researchr.org/home/esocc-2026
+  dblp: https://dblp.org/db/conf/esocc/index.html
+notes:
+- Small European conference on service-oriented computing, cloud and edge computing, microservices and AIOps
+- Proceedings in Springer LNCS as an IFIP WG 6.12 conference (LNCS 16834 in 2026)
+- "Acceptance in 2026: 9 full, 4 short and 9 project papers from 40 submissions; single-blind review with at least three reviews"
+- Research papers up to 15 pages including references; also PhD symposium and projects and industry tracks
+- Irregular timing; no 2024 edition, 2025 edition held in February and 2026 edition in September
+- 2026 edition co-located with ECSA in Bolzano
+- Selected papers invited to a Cluster Computing (Springer) special issue
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-02-20
+  end: 2025-02-21
+  location: Bolzano, Italy
+  url: https://conf.researchr.org/home/esocc-2025
+  deadlines:
+  - kind: abstract
+    date: 2024-09-24
+    tz: AoE
+  - kind: submission
+    date: 2024-10-07
+    tz: AoE
+  - kind: notification
+    date: 2024-11-15
+  - kind: camera_ready
+    date: 2024-12-01
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-08
+  location: Bolzano, Italy (co-located with ECSA 2026)
+  url: https://conf.researchr.org/home/esocc-2026
+  deadlines:
+  - kind: submission
+    date: 2026-04-10
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2026-04-17
+    tz: AoE
+    label: Projects and industry track
+  - kind: notification
+    date: 2026-05-04
+    label: Projects and industry track
+  - kind: notification
+    date: 2026-05-15
+    label: Research track
+  - kind: camera_ready
+    date: 2026-06-08
+sources:
+- https://conf.researchr.org/home/esocc-2026
+- https://conf.researchr.org/home/esocc-2025
+- https://link.springer.com/conference/esocc
+- https://link.springer.com/book/10.1007/978-3-032-37831-6
+- https://link.springer.com/book/10.1007/978-3-031-84617-5
+last_verified: 2026-10-17
+unverified:
+- ESOCC 2027 location and dates (not announced yet)

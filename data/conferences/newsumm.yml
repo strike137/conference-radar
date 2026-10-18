@@ -1,0 +1,53 @@
+id: newsumm
+name: NewSumm
+full_name: Workshop on New Frontiers in Summarization
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: Workshop organizing committee (2025 organizers from UC Riverside, Microsoft, University of Hawaii, Penn State, McGill and Mila, University of Michigan and Emory); co-located with EMNLP
+organizer_country: [usa, canada]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://newsumm.github.io/
+notes:
+- Workshop on automatic summarization and grounded generation (long-context and multi-document summarization, hallucination, evaluation, LLM-based summarization)
+- Held every two years at EMNLP since 2017 (2017, 2019, 2021, 2023, 2025)
+- Papers appear in the ACL Anthology (14 papers in 2025); a non-archival track publishes only the abstract
+- Long (8 pages) and short (4 pages) papers, double-blind review via OpenReview; also takes ARR commitments
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 5th NewSumm, with EMNLP 2025
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Suzhou, China
+  url: https://newsumm.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-22
+    label: Direct submission (extended from August 15)
+  - kind: other
+    date: 2025-08-22
+    label: ARR commitment and fast-track
+  - kind: notification
+    date: 2025-09-17
+  - kind: camera_ready
+    date: 2025-09-21
+sources:
+- https://newsumm.github.io/
+- https://newsumm.github.io/2025/
+- https://2025.emnlp.org/program/workshops/
+- https://aclanthology.org/venues/newsum/
+- https://portal.core.edu.au/conf-ranks/?search=NewSumm&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- No 2027 edition announced yet (host conference and dates unknown)
+- Deadline time zone not stated on the 2025 page

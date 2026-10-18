@@ -1,0 +1,83 @@
+id: rv
+name: RV
+full_name: International Conference on Runtime Verification
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: RV Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+  ccf: C
+fee: CAD 750 regular, CAD 550 student (2026, early until Aug 31; includes lunches, outing and banquet)
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9, 10]
+links:
+  website: https://rv2026.smithengineering.queensu.ca/
+  dblp: https://dblp.org/db/conf/rv/
+notes:
+- Main venue for runtime verification, monitoring and dynamic analysis of software and hardware systems
+- Started as a workshop in 2001; a conference since 2010 (26th edition in 2026)
+- Proceedings in Springer LNCS (RV 2026 is LNCS volume 17117)
+- Regular papers up to 16 pages, short, tool demo and benchmark papers up to 8 pages, excluding references
+- Single-blind review with at least three reviews per paper; tutorials can publish a paper in the proceedings
+- Separate Tool Showcase track with a later deadline and no paper required
+- 'Recent hosts: Tbilisi (2022), Thessaloniki (2023), Istanbul (2024), Graz (2025), Kingston, Canada (2026)'
+- Sponsored by Formal Methods Europe; Springer best paper award and FME best tool award
+- CORE B, CCF C
+editions:
+- year: 2025
+  start: 2025-09-15
+  end: 2025-09-19
+  location: Graz, Austria
+  url: https://rv25.isec.tugraz.at
+  deadlines:
+  - kind: submission
+    date: 2025-06-06
+    tz: AoE
+    label: Papers and tutorial proposals (extended from 2025-05-30)
+  - kind: notification
+    date: 2025-07-12
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-27
+    tz: AoE
+- year: 2026
+  start: 2026-10-06
+  end: 2026-10-09
+  location: Kingston, Canada
+  url: https://rv2026.smithengineering.queensu.ca/
+  deadlines:
+  - kind: submission
+    date: 2026-06-16
+    tz: AoE
+    label: Papers and tutorial proposals (extended from 2026-05-31)
+  - kind: notification
+    date: 2026-08-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-12
+    tz: AoE
+  - kind: other
+    date: 2026-08-12
+    tz: AoE
+    label: Tool Showcase submission
+sources:
+- https://rv2026.smithengineering.queensu.ca/
+- https://rv2026.smithengineering.queensu.ca/cfp/
+- https://rv2026.smithengineering.queensu.ca/tools/
+- https://rv2026.smithengineering.queensu.ca/registration/
+- https://rv25.isec.tugraz.at
+- https://portal.core.edu.au/conf-ranks/?search=RV&by=acronym&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- RV 2027 not announced yet
+- Steering committee not listed on the 2026 site; organizer taken from the series structure
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF (C, software engineering), ccf.org.cn behind a captcha
+last_verified: 2026-10-17

@@ -1,0 +1,72 @@
+id: bsideskc
+name: BSidesKC
+full_name: Security BSides Kansas City
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: BSidesKC (non-profit)
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [4]
+links:
+  website: https://bsideskc.org/
+notes:
+- Community-driven Security BSides conference in Kansas City, USA, run by a non-profit educational organization; revived as a one-day event in 2017
+- Main conference on a Saturday in late April with talks, villages (lockpick, OSINT, RF, hardware hacking) and CTFs; low-cost workshops have been held the day before
+- Over 700 attendees across two days in 2018
+- Call for papers on pretalx in three review rounds from January to late March, with acceptances announced after each round
+- Lightning talks (15 minutes or less), 20 and 50 minute talks, and panels
+- No proceedings
+editions:
+- year: 2026
+  start: 2026-04-25
+  end: 2026-04-25
+  location: Kansas City, USA
+  url: https://pretalx.com/bsideskc2026/schedule/
+  deadlines:
+  - kind: other
+    date: 2026-01-14
+    label: Call for Papers opens
+  - kind: submission
+    date: 2026-02-10
+    label: Call for Papers round 1
+  - kind: notification
+    date: 2026-02-15
+    label: Call for Papers round 1
+  - kind: submission
+    date: 2026-03-06
+    label: Call for Papers round 2
+  - kind: notification
+    date: 2026-03-11
+    label: Call for Papers round 2
+  - kind: submission
+    date: 2026-03-25
+    time: "23:59"
+    tz: UTC-5
+    label: Call for Papers final close
+  - kind: notification
+    date: 2026-03-30
+    label: Call for Papers round 3
+- year: 2027
+  start: 2027-04-24
+  end: 2027-04-24
+  location: 7250 State Ave, Kansas City, Kansas, USA
+  url: https://bsideskc.org/
+sources:
+- https://bsideskc.org/
+- https://bsideskc.org/call-for-papers/
+- https://bsideskc.org/about/
+- https://bsideskc.org/schedule/
+- https://pretalx.com/bsideskc2026/cfp
+- https://pretalx.com/bsideskc2026/schedule/
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Exact venue of the 2026 edition not stated on the official pages
+- Call for papers dates for 2027 not yet announced

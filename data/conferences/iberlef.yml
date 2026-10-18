@@ -1,0 +1,56 @@
+id: iberlef
+name: IberLEF
+full_name: Iberian Languages Evaluation Forum
+type: workshop
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: annual
+organizer: IberLEF general chairs, held as part of the SEPLN conference (Spanish Society for Natural Language
+  Processing)
+organizer_country: [europe]
+proceedings: CEUR-WS (system papers), Procesamiento del Lenguaje Natural (task overviews)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [9]
+links:
+  website: https://sites.google.com/view/iberlef-2026
+notes:
+- Shared evaluation campaign for NLP in Spanish, Portuguese, Catalan, Basque and Galician, organized since 2019
+- Held as a one-day workshop at the annual SEPLN conference in Spain (Zaragoza 2025, Leon 2026)
+- Task proposals are due in December; each accepted task sets its own data release and system paper deadlines
+- System description papers are published in a CEUR-WS volume (2025 -> vol. 4098); task overviews go into the SEPLN
+  journal Procesamiento del Lenguaje Natural
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-22
+  location: Leon, Spain
+  url: https://sites.google.com/view/iberlef-2026
+  deadlines:
+  - kind: other
+    date: 2025-12-22
+    label: Task proposals
+  - kind: other
+    date: 2026-01-23
+    label: Task proposal notification
+  - kind: notification
+    date: 2026-06-19
+    label: Latest notification to task participants
+  - kind: camera_ready
+    date: 2026-07-03
+sources:
+- https://sites.google.com/view/iberlef-2026
+- https://sites.google.com/view/iberlef-2026/calls
+- https://sites.google.com/view/iberlef-2026/program
+- https://drive.google.com/file/d/17Kmj68pu2uY37m4d1IUN5m_DIsRbBRhS/view
+- https://sites.google.com/view/iberlef-2025
+- https://sites.google.com/view/iberlef-2025/proceedings
+- https://portal.core.edu.au/conf-ranks/?search=IberLEF&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- IberLEF 2027 call for task proposals not yet published
+- System paper submission deadlines differ per task and are not listed centrally

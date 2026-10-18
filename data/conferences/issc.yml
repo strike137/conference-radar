@@ -1,0 +1,50 @@
+id: issc
+name: ISSC
+full_name: Irish Signals and Systems Conference
+type: conference
+tier: minor
+areas: [communications, ai, general]
+region: europe
+language: english
+frequency: annual
+organizer: Host university in Ireland (2026 University of Limerick)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://www.issc.ie/
+notes:
+- Long running Irish conference on signals, systems and related areas (2026 was the 36th edition)
+- Organized by a host university each year; ISSC 2026 was hosted by the University of Limerick
+- Accepted papers are submitted to IEEE Xplore, subject to IEEE scope and quality checks
+- Two day event in June aimed at researchers and PhD and Master students; best paper awards
+- 2026 theme was Intelligent Systems for a Sustainable Future
+editions:
+- year: 2026
+  start: 2026-06-11
+  end: 2026-06-12
+  location: University of Limerick, Limerick, Ireland
+  url: https://www.issc.ie/
+  deadlines:
+  - kind: submission
+    date: 2026-04-26
+    label: Full paper (extended from 2026-04-12)
+  - kind: notification
+    date: 2026-05-16
+    label: Extended from 2026-04-30
+  - kind: camera_ready
+    date: 2026-05-30
+  - kind: other
+    date: 2026-06-04
+    label: Author registration
+sources:
+- https://www.issc.ie/
+- https://portal.core.edu.au/conf-ranks/?search=ISSC&by=all&source=ICORE2026
+unverified:
+- Not listed in the CORE ICORE2026 portal
+- ISSC 2027 host and dates not announced yet
+- Host cities of editions before 2026 not checked on an official page
+last_verified: 2026-10-17

@@ -1,0 +1,62 @@
+id: sea
+name: SEA
+full_name: Symposium on Experimental Algorithms
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: SEA Steering Committee
+organizer_country: [europe]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: B
+fee: 4,200 DKK regular early, 3,000 DKK student early (2026, includes lunches and dinner)
+acceptance_rate: 28 accepted papers (2026)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7]
+links:
+  website: https://sea2026.github.io/
+  dblp: https://dblp.org/db/conf/wea/index.html
+notes:
+- Main venue for algorithm engineering and experimental evaluation of algorithms and data structures
+- SEA 2026 was the 24th edition and SEA 2027 is the 25th
+- Held in Europe every recent year (Barcelona 2023, Vienna 2024, Venice 2025, Copenhagen 2026, Karlsruhe 2027)
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl)
+- Double-blind review; 12 pages excluding bibliography and front page, plus up to 5 pages of appendix
+- No paper is published unless an author registers and presents
+- "ICORE2026 rank: B; not in the CCF list"
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-24
+  location: IDA Conference Center, Copenhagen, Denmark
+  url: https://sea2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-02
+    tz: AoE
+    label: Papers (extended from 2026-01-23)
+  - kind: notification
+    date: 2026-03-31
+  - kind: camera_ready
+    date: 2026-04-14
+- year: 2027
+  start: 2027-07-21
+  end: 2027-07-23
+  location: Karlsruhe Institute of Technology, Karlsruhe, Germany
+  url: https://sea2027.iti.kit.edu/
+sources:
+- https://sea2026.github.io/
+- https://sea2026.github.io/cfp/
+- https://sea2027.iti.kit.edu/
+- https://regindex.github.io/sea2025.github.io
+- https://portal.core.edu.au/conf-ranks/?search=SEA&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- SEA 2027 submission and notification dates are TBD on the official site as of 2026-10-17
+- Steering committee membership not checked
+last_verified: 2026-10-17

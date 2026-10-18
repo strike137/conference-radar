@@ -1,0 +1,51 @@
+id: icfec
+name: IEEE ICFEC
+full_name: IEEE International Conference on Fog and Edge Computing
+type: conference
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE (held with IEEE/ACM CCGrid)
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE Computer Society CPS)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://icfec2026.hanyang.ac.kr/
+  dblp: https://dblp.org/db/conf/icfec/index.html
+notes:
+- Held in conjunction with IEEE/ACM CCGrid every year, so it follows CCGrid around the world; registration and venue are shared
+- Proceedings published through the IEEE Computer Society Conference Publishing Services
+- Regular papers up to 8 letter-size pages including references; reviewers may accept as short (4 pages) or poster
+  (2 pages) papers
+- At least three reviewers per paper; submissions via EasyChair
+- 2026 (10th edition) was in Parramatta, Sydney, with CCGrid 2026; student travel grants up to AUD 1,500 via CCGrid
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-18
+  end: 2026-05-21
+  location: Parramatta, Sydney, Australia (with CCGrid 2026)
+  url: https://icfec2026.hanyang.ac.kr/
+  deadlines:
+  - kind: submission
+    date: 2026-01-18
+    label: Paper submission (extended from 2026-01-09)
+  - kind: notification
+    date: 2026-02-23
+  - kind: camera_ready
+    date: 2026-03-15
+sources:
+- https://icfec2026.hanyang.ac.kr/
+- https://icfec2026.hanyang.ac.kr/pdf/CFP-ICFEC2026.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ICFEC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ICFEC 2027 dates and location not announced (expected with CCGrid 2027)
+- Earlier edition locations not checked on official pages

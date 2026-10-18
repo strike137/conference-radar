@@ -1,0 +1,56 @@
+id: gsi
+name: GSI
+full_name: International Conference on Geometric Science of Information
+type: conference
+tier: minor
+areas: [ai, general]
+region: europe
+language: english
+frequency: biennial
+organizer: SEE (Societe de l'electricite, de l'electronique et des technologies de l'information et de la communication)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [4]
+  conference_months: [8, 10]
+links:
+  website: https://conference-gsi.org/
+  dblp: https://dblp.org/db/conf/gsi/
+notes:
+- Biennial conference on information geometry, geometric statistics, geometric machine learning and quantum
+  information geometry, run by the French SEE society
+- Proceedings in Springer LNCS (2025 -> LNCS 16033 to 16035, three volumes, 124 full papers from 146 submissions)
+- 8-page papers in Springer LNCS format, submitted through Microsoft CMT
+- Always held in France (Paris 2013, Palaiseau 2015, Paris 2017, Toulouse 2019, Paris 2021, Saint-Malo 2023 and 2025)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-29
+  end: 2025-10-31
+  location: Saint-Malo, France
+  url: https://conference-gsi.org/
+  deadlines:
+  - kind: submission
+    date: 2025-04-22
+    time: "23:59"
+    tz: CEST
+  - kind: notification
+    date: 2025-06-02
+  - kind: camera_ready
+    date: 2025-07-01
+    time: "23:59"
+    tz: CEST
+sources:
+- https://conference-gsi.org/
+- https://conference-gsi.org/gsi-2025/authors/key-deadlines/
+- https://conference-gsi.org/gsi-2025/authors/call-for-papers/
+- https://conference-gsi.org/gsi-2025/proceedings/gsi25-springer-proceedings/
+- https://link.springer.com/conference/gsi
+- https://link.springer.com/book/9783032039170
+- https://portal.core.edu.au/conf-ranks/?search=GSI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- GSI 2027 dates and location (not announced yet on the official site)
+- Indexing taken from the LNCS series, not stated on the GSI site
+last_verified: 2026-10-17

@@ -1,0 +1,62 @@
+id: mlcad
+name: MLCAD
+full_name: ACM/IEEE International Symposium on Machine Learning for CAD
+type: conference
+tier: minor
+areas: [systems, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGDA and IEEE CEDA
+organizer_country: [international]
+proceedings: ACM DL and IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://mlcad.org/symposium/2026/
+notes:
+- Sponsored by IEEE CEDA and ACM SIGDA; machine learning and AI (including LLMs) applied to CAD of chips, circuits
+  and systems
+- Started as a workshop at DATE 2019; ACM/IEEE Workshop on Machine Learning for CAD from 2019 to 2023, renamed
+  Symposium from 2024
+- Mostly held in North America (Snowbird, Utah 2022 to 2024; Santa Cruz 2025); 2026 edition in Jeju, South Korea
+- Formal shared ACM/IEEE proceedings in both IEEE Xplore and ACM DL; extended versions of accepted papers invited to
+  an ACM TODAES special issue
+- Research papers up to 6 pages in ACM format (references and appendices excluded); double-blind review via EasyChair
+- ACM Open Access from 2026, so authors from non-ACM Open institutions may pay an APC (subsidized 250 or 350 USD in 2026)
+- Runs an annual MLCAD contest alongside the paper track
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 8th MLCAD
+  start: 2026-09-07
+  end: 2026-09-09
+  location: Parnas Hotel Jeju, Seogwipo, Jeju, South Korea
+  url: https://mlcad.org/symposium/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-29
+    tz: AoE
+    label: Extended from 2026-05-16
+  - kind: submission
+    date: 2026-05-29
+    tz: AoE
+    label: Extended from 2026-05-23
+  - kind: notification
+    date: 2026-07-12
+    label: Moved from 2026-07-07
+  - kind: camera_ready
+    date: 2026-08-14
+    label: Moved from 2026-07-24 and then 2026-08-03
+sources:
+- https://mlcad.org/symposium/2026/
+- https://mlcad.org/symposium/2026/call-for-contribution/
+- https://mlcad.org/symposium/2026/related-events/
+- https://mlcad.org/symposium/2025/
+- https://portal.core.edu.au/conf-ranks/?search=MLCAD&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-10-17
+unverified:
+- MLCAD 2027 not announced as of 2026-10-17 (no 2027 page on mlcad.org)

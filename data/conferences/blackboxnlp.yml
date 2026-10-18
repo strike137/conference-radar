@@ -1,0 +1,84 @@
+id: blackboxnlp
+name: BlackboxNLP
+full_name: Workshop on Analyzing and Interpreting Neural Networks for NLP
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers from Technion, Boston University, Rice University, University of Amsterdam, Northeastern University, University of Zagreb and University of Groningen); co-located with EMNLP
+organizer_country: [usa, europe, other]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11, 12]
+links:
+  website: https://blackboxnlp.github.io/
+notes:
+- Workshop on interpretability and analysis of neural NLP models and LLMs (probing, mechanistic interpretability, steering, explanation methods)
+- Held every year since 2018, at EMNLP every year except ACL 2019
+- Ninth edition at EMNLP 2026 in Budapest, Hungary, on October 29, 2026; 2025 edition at EMNLP 2025 in Suzhou, China
+- Full papers (up to 8 pages) and reproducibility track papers (up to 6 pages) appear in the ACL Anthology; 2-page extended abstracts are non-archival
+- Direct submissions and ARR commitments through OpenReview; double-blind review for archival papers
+- Large for a workshop (86 posters across two sessions in 2026)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-11-09
+  end: 2025-11-09
+  location: Suzhou, China
+  url: https://blackboxnlp.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    tz: AoE
+  - kind: other
+    date: 2025-09-05
+    tz: AoE
+    label: Commitment of ARR papers
+  - kind: notification
+    date: 2025-09-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-03
+    tz: AoE
+- year: 2026
+  start: 2026-10-29
+  end: 2026-10-29
+  location: Budapest, Hungary
+  url: https://blackboxnlp.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-17
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-07-24
+    time: "23:59"
+    tz: AoE
+    label: Reproducibility track (extended)
+  - kind: other
+    date: 2026-08-24
+    time: "23:59"
+    tz: AoE
+    label: Commitment of ARR papers
+  - kind: notification
+    date: 2026-09-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://blackboxnlp.github.io/2026/
+- https://blackboxnlp.github.io/2026/call
+- https://blackboxnlp.github.io/2025/
+- https://2026.emnlp.org/program/workshops/
+- https://aclanthology.org/venues/blackboxnlp/
+- https://portal.core.edu.au/conf-ranks/?search=BlackboxNLP&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Acceptance rate not published

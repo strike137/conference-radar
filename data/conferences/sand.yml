@@ -1,0 +1,71 @@
+id: sand
+name: SAND
+full_name: Symposium on Algorithmic Foundations of Dynamic Networks
+type: conference
+tier: minor
+areas: [networking, general]
+region: europe
+language: english
+frequency: annual
+organizer: SAND Steering Committee
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+typical:
+  deadline_months: [12, 2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://sand-conf.org/
+notes:
+- Young theory venue (first edition 2022) on computing in dynamic networks, temporal graphs, population protocols and programmable matter
+- Run by an international steering committee and advisory board
+- Online in 2022, then held in Europe (Pisa 2023, Patras 2024, Liverpool 2025, Le Havre 2026, Paderborn 2027)
+- Proceedings in the open-access LIPIcs series; regular papers 15 pages and brief announcements 5 pages
+- Double-blind review; rejected regular papers may be offered a brief announcement slot
+- Selected papers invited to a journal special issue
+- At least one author must register and present, otherwise the paper is withdrawn from the proceedings
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-07-01
+  end: 2026-07-03
+  location: Le Havre, France
+  url: https://litis.univ-lehavre.fr/sand2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-03
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended; originally abstract 2026-02-18 and paper 2026-02-24)
+  - kind: notification
+    date: 2026-04-21
+  - kind: camera_ready
+    date: 2026-05-02
+- year: 2027
+  start: 2027-06-30
+  end: 2027-07-02
+  location: Paderborn, Germany
+  url: https://sand2027.cs.upb.de/
+  deadlines:
+  - kind: submission
+    date: 2026-12-08
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-02-26
+  - kind: camera_ready
+    date: 2027-03-27
+sources:
+- https://sand-conf.org/
+- https://litis.univ-lehavre.fr/sand2026/
+- https://litis.univ-lehavre.fr/sand2026/cfp
+- https://litis.univ-lehavre.fr/sand2026/committees
+- https://litis.univ-lehavre.fr/sand2026/past-sand
+- https://sand2027.cs.upb.de/
+- https://sand2027.cs.upb.de/cfp.php
+- https://portal.core.edu.au/conf-ranks/?search=SAND&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- SAND 2027 call for papers lists no separate abstract registration date
+- Acceptance rate not published on the official sites
+last_verified: 2026-10-17

@@ -1,0 +1,67 @@
+id: sampta
+name: SampTA
+full_name: International Conference on Sampling Theory and Applications
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: biennial
+organizer: SampTA steering committee (chair Gotz Pfander) with a host university each edition
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://www.sampta.org/
+notes:
+- Biennial meeting of mathematicians and engineers on sampling theory, signal and image processing, harmonic analysis
+  and the mathematics of data analysis and deep learning
+- Papers up to 4 pages in IEEE conference format (references extra), single-blind review
+- Accepted papers must be presented (talk or poster) to appear in IEEE Xplore
+- Run by an international steering committee; 2023 at Yale (USA), 2025 at the University of Vienna (Austria),
+  2027 at Utrecht University (Netherlands)
+- No edition in 2021 because of COVID-19; 2025 edition had 211 participants
+- SaSiDa journal best paper awards for selected contributions
+editions:
+- year: 2025
+  start: 2025-07-28
+  end: 2025-08-01
+  location: Vienna, Austria
+  url: https://sampta25.univie.ac.at/
+- year: 2027
+  start: 2027-07-26
+  end: 2027-07-30
+  location: Utrecht, Netherlands
+  url: https://www.uu.nl/en/research/sampta27
+  deadlines:
+  - kind: other
+    date: 2026-09-13
+    label: Invited session proposals
+  - kind: other
+    date: 2026-10-05
+    label: Invited session acceptance notice
+  - kind: submission
+    date: 2027-01-31
+  - kind: notification
+    date: 2027-04-15
+  - kind: camera_ready
+    date: 2027-06-14
+sources:
+- https://www.sampta.org/
+- https://www.sampta.org/upcoming/
+- https://www.sampta.org/about/
+- https://www.sampta.org/conferences/
+- https://www.sampta.org/committee/
+- https://www.uu.nl/en/research/sampta27
+- https://www.uu.nl/en/research/sampta27/call-for-papers
+- https://sampta25.univie.ac.at/
+- https://sampta25.univie.ac.at/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=SampTA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2025 paper deadlines are no longer shown on the 2025 site
+- Deadlines are given without a time zone
+- Not listed in the CORE ICORE2026 portal

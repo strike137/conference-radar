@@ -1,0 +1,54 @@
+id: aicrypt
+name: AICrypt
+full_name: Workshop on Artificial Intelligence and Cryptography
+type: workshop
+tier: minor
+areas: [crypto, ai, security]
+region: europe
+language: english
+frequency: annual
+organizer: Stjepan Picek and Lejla Batina (Radboud University) and Luca Mariot (University of Twente); affiliated with Eurocrypt
+organizer_country: [europe]
+proceedings: None (no formal proceedings)
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://aicrypt2026.aisylab.com/
+notes:
+- One-day workshop co-located with Eurocrypt on AI for cryptanalysis and side-channel attacks and on cryptography for secure and private AI
+- Extended abstracts of at most 2 pages (LNCS format) via EasyChair, reviewed by the workshop chairs for suitability
+- 'Non-archival: no formal proceedings, so work submitted or published elsewhere is welcome'
+- Registration goes through the Eurocrypt registration
+- 6th edition in 2026 (Rome); 5th edition in 2025 (Madrid)
+- 2026 program had one keynote (Christina Boura) and 9 contributed talks
+editions:
+- year: 2025
+  start: 2025-05-03
+  end: 2025-05-03
+  location: Madrid, Spain
+  url: https://aicrypt2025.aisylab.com/
+- year: 2026
+  start: 2026-05-09
+  end: 2026-05-09
+  location: Rome, Italy
+  url: https://aicrypt2026.aisylab.com/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-06
+    tz: AoE
+    label: Extended abstract (extended deadline)
+  - kind: notification
+    date: 2026-03-20
+    tz: AoE
+sources:
+- https://aicrypt2026.aisylab.com/
+- https://aicrypt2025.aisylab.com/
+- https://portal.core.edu.au/conf-ranks/?search=AICrypt&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Original 2026 deadline before the extension is not shown on the site
+- Locations of the first four editions not checked; region assumed from the Eurocrypt co-location
+- AICrypt 2027 not announced yet
+- Not found in the ICORE2026 portal and not in the CCF list, so no rank is given

@@ -1,0 +1,55 @@
+id: hcw
+name: HCW
+full_name: Heterogeneity in Computing Workshop
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: HCW steering committee; sponsored by IEEE IPDPS (IEEE CS TCPP)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://hcw-ipdps.org/
+notes:
+- Workshop on heterogeneous computing (accelerators, hybrid clusters, clouds, memory hierarchies, scheduling), held
+  since 1992 (35th edition in 2026)
+- Co-located with IEEE IPDPS every year (virtual 2021 and 2022, St. Petersburg 2023, San Francisco 2024, Milan 2025,
+  New Orleans 2026)
+- Papers appear in the IPDPS workshops proceedings (IPDPSW) in IEEE Xplore
+- Up to 10 pages IEEE double-column including references; single-blind review; submission through the IPDPS
+  Linklings site
+- Steering committee mostly US based; best paper award
+- CORE C (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-26
+  location: New Orleans, USA (with IPDPS 2026)
+  url: https://hcw-ipdps.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-06
+    label: Papers (extended from January 29)
+  - kind: notification
+    date: 2026-02-27
+  - kind: camera_ready
+    date: 2026-03-06
+sources:
+- https://hcw-ipdps.org/
+- https://hcw-ipdps.org/cfp.html
+- https://hcw-ipdps.org/archives.html
+- https://hcw-ipdps.org/hcw2025.html
+- https://portal.core.edu.au/conf-ranks/?search=HCW&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- HCW 2027 dates and deadlines not yet announced (site still shows HCW 2026 as of 2026-10-17)
+- CCF rank checked via a mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-17

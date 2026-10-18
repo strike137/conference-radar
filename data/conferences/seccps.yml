@@ -1,0 +1,46 @@
+id: seccps
+name: SecCPS
+full_name: Workshop on Cybersecurity of Digital Twins and Interconnected Cyber-Physical Systems
+type: workshop
+tier: minor
+areas: [security, networking]
+region: worldwide
+language: english
+organizer: Workshop chairs from the University of Glasgow (Dimitrios Pezaros, David Flynn) and NTNU (Sokratis Katsikas)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://seccps.github.io/
+notes:
+- Security of cyber-physical systems and digital twins (intrusion detection, ICS, smart grid, IoT, UAVs, zero trust)
+- First edition in 2026, co-located with IEEE ICC 2026 in Glasgow; half-day program with one keynote and 8 papers
+- Papers follow IEEE ComSoc ICC workshop rules -> up to 6 pages plus 2 paid extra pages, submitted via EDAS, published
+  in IEEE Xplore (no-show papers can be removed)
+- Not ranked by CORE or CCF
+editions:
+- year: 2026
+  start: 2026-05-28
+  end: 2026-05-28
+  location: Glasgow, UK (with IEEE ICC 2026)
+  url: https://seccps.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-22
+sources:
+- https://seccps.github.io/
+- https://seccps.github.io/submission.html
+- https://seccps.github.io/comittee.html
+- https://seccps.github.io/program.html
+- https://portal.core.edu.au/conf-ranks/?search=SecCPS&by=all&source=ICORE2026
+unverified:
+- Second edition not announced; unclear whether it will return at IEEE ICC 2027
+- Not listed on the CORE ICORE2026 portal
+last_verified: 2026-10-17

@@ -1,0 +1,73 @@
+id: humansys
+name: HumanSys
+full_name: International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (workshop co-located with ACM SenSys, CPS-IoT Week or ACM MobiCom)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 7, 9]
+  conference_months: [5, 10, 11]
+links:
+  website: https://humansys-workshop.github.io/2026/
+notes:
+- Workshop on human-centered sensing (health, behavior, activity), human-in-the-loop AI models and deployed
+  interactive systems
+- Host conference changes by year (SenSys 2017 in Delft, SenSys/BuildSys 2024 in Hangzhou, CPS-IoT Week 2025 in
+  Irvine, MobiCom 2026 in Austin), so deadline months move with it
+- Named Human-centered Sensing, Networking, and Multi-Device Systems in 2024
+- All accepted papers are included in the ACM Digital Library
+- Full papers up to 6 pages, experience papers up to 4 pages, extended abstracts up to 2 pages (ACM sigconf);
+  single-blind review
+- Best Paper Award sponsored by Nokia
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-05-06
+  end: 2025-05-06
+  location: Irvine, CA, USA
+  url: https://humansys-workshop.github.io/WS/2025/index.html
+  deadlines:
+  - kind: abstract
+    date: 2025-03-10
+    time: "23:59"
+    tz: AoE
+    label: Paper registration (extended from 2025-03-03)
+  - kind: submission
+    date: 2025-03-10
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-03-24
+  - kind: camera_ready
+    date: 2025-03-31
+- year: 2026
+  start: 2026-10-30
+  end: 2026-10-30
+  location: Austin, TX, USA
+  url: https://humansys-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    tz: AoE
+    label: Firm (extended from 2026-07-08)
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-08-30
+sources:
+- https://humansys-workshop.github.io/
+- https://humansys-workshop.github.io/WS/2024/index.html
+- https://humansys-workshop.github.io/WS/2025/index.html
+- https://humansys-workshop.github.io/2026/
+- https://www.sigmobile.org/mobicom/2026/workshop_program.html
+- https://doi.org/10.1145/3722570.3726897
+- https://doi.org/10.1145/3842436.3843802
+- https://portal.core.edu.au/conf-ranks/?search=HumanSys&by=all&source=ICORE2026
+last_verified: 2026-10-17

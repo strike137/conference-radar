@@ -1,0 +1,55 @@
+id: paine
+name: IEEE PAINE
+full_name: IEEE International Conference on Physical Assurance and Inspection of Electronics
+type: conference
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: PAINE steering committee (University of Florida, Booz Allen Hamilton, Sandia, NIST and industry)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+fee: About 995 USD on or before Sep 15, 1095 USD after (2026)
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11]
+links:
+  website: https://paine-conference.org/
+notes:
+- Hardware security venue focused on physical inspection and assurance of electronics (side channels, fault injection, counterfeit detection, reverse engineering, advanced packaging)
+- Strong government and industry participation (NIST, Sandia, Battelle, DARPA, chipmakers) alongside academia; includes invited talks, panels, posters and a competition
+- Full papers of 4 to 7 pages in IEEE 2-column format, single-blind review via EasyChair
+- Accepted papers go to IEEE Xplore and must be presented at the conference
+- Held annually in the US since 2018 (Phoenix 2026)
+editions:
+- year: 2025
+  start: 2025-10-14
+  end: 2025-10-16
+  url: https://paine-conference.org/paine-2025/
+- year: 2026
+  start: 2026-10-27
+  end: 2026-10-29
+  location: Phoenix, AZ, USA
+  url: https://paine-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-27
+    label: Full paper (extended from Jul 20)
+  - kind: notification
+    date: 2026-08-17
+  - kind: camera_ready
+    date: 2026-09-07
+sources:
+- https://paine-conference.org/
+- https://paine-conference.org/call-for-papers/
+- https://paine-conference.org/paine-2025/
+- https://paine-conference.org/paine-committee/
+- https://paine-conference.org/travel/
+- https://portal.core.edu.au/conf-ranks/?search=PAINE&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Locations of earlier editions (including 2025) are not stated on the official site (only San Francisco 2018); an ASM EDFA recap reports Huntsville, AL for 2024 and Denver for 2025, so region north-america is from secondary sources
+- 2025 deadlines not available on the official site
+- Not found in the ICORE2026 portal and not in the CCF list, so no rank is given

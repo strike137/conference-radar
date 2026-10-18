@@ -1,0 +1,70 @@
+id: synasc
+name: SYNASC
+full_name: International Symposium on Symbolic and Numeric Algorithms for Scientific Computing
+type: conference
+tier: minor
+areas: [general, ai]
+region: europe
+language: english
+frequency: annual
+organizer: West University of Timisoara (Faculty of Computer Science), RISC Johannes Kepler University Linz, Research Institute e-Austria Timisoara
+organizer_country: [europe]
+proceedings: IEEE Xplore (IEEE CPS post-proceedings)
+archival: true
+indexing: [Web of Science, Scopus, DBLP]
+rank:
+  core: "National: romania"
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://synasc.ro/
+notes:
+- Annual symposium mostly held in Timisoara, Romania (Nancy 2023 and Linz 2022 were the exceptions)
+- Tracks on symbolic computation, numerical computing, logic and programming, AI, distributed computing and theory of computing
+- Electronic pre-proceedings at the event; camera-ready papers for post-proceedings published by IEEE Conference Publishing Services in IEEE Xplore
+- Regular papers up to 8 pages, short papers up to 4 pages, two-column format
+- Several co-located workshops and special sessions with their own later deadline
+- Extended versions of selected papers considered for journals such as Journal of Symbolic Computation
+- CORE National (Romania) in ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-22
+  end: 2025-09-25
+  location: Timisoara, Romania
+  url: https://synasc.ro/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-06
+    tz: AoE
+    label: Main tracks, workshops and special sessions (final deadline)
+  - kind: notification
+    date: 2025-07-28
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-17
+  location: Timisoara, Romania
+  url: https://synasc.ro/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    label: Main tracks
+  - kind: submission
+    date: 2026-07-06
+    label: Workshops and special sessions
+  - kind: notification
+    date: 2026-07-28
+  - kind: other
+    date: 2026-09-04
+    label: Revised papers for electronic pre-proceedings and registration
+sources:
+- https://synasc.ro/
+- https://synasc.ro/2026/
+- https://synasc.ro/2026/important-dates/
+- https://synasc.ro/2026/publication/
+- https://synasc.ro/2025/important-dates/
+- https://portal.core.edu.au/conf-ranks/?search=SYNASC&by=all&source=ICORE2026
+unverified:
+- No exact camera-ready date for SYNASC 2026 post-proceedings (only "November 2026")
+- SYNASC 2027 not yet announced
+last_verified: 2026-10-17

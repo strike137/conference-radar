@@ -1,0 +1,77 @@
+id: emo
+name: EMO
+full_name: International Conference on Evolutionary Multi-Criterion Optimization
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: EMO Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+indexing: [Scopus, Web of Science, DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [9, 10]
+  conference_months: [3, 4]
+links:
+  website: https://emo2027.org/
+  dblp: https://dblp.org/db/conf/emo/index.html
+notes:
+- Biennial conference on evolutionary and nature-inspired multi-objective and many-objective optimization, guided by
+  a steering committee; 2027 is the 14th edition
+- Proceedings in Springer LNCS; accepted abstracts appear only in the back matter and are not indexed
+- Main EMO track plus MCDM and Industry special tracks; full papers up to 15 pages including references in LNCS
+  format, double-anonymous review
+- Rotates worldwide (Muenster 2017, East Lansing 2019, Shenzhen 2021, Leiden 2023, Canberra 2025, Exeter 2027)
+- At least one author must register by the author registration deadline or the paper is dropped from the proceedings
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2025
+  start: 2025-03-04
+  end: 2025-03-07
+  location: Canberra, Australia
+- year: 2027
+  start: 2027-04-05
+  end: 2027-04-08
+  location: Exeter, UK
+  url: https://emo2027.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-12
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-11-30
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-12-02
+    time: "23:59"
+    tz: AoE
+    label: Tutorial proposals
+  - kind: camera_ready
+    date: 2026-12-14
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2027-01-04
+    time: "23:59"
+    tz: AoE
+    label: Author registration
+sources:
+- https://emo2027.org/
+- https://emo2027.org/calls/
+- https://emo2027.org/organisers/
+- https://emo2027.org/assets/ics/emo-2027-deadlines.ics
+- https://link.springer.com/conference/emo
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- https://portal.core.edu.au/conf-ranks/?search=EMO&by=all&source=ICORE2026
+unverified:
+- EMO 2025 dates and location taken from the Springer LNCS conference page; the EMO 2025 website could not be reached
+- Original (pre-extension) EMO 2027 submission deadline not shown on the official site
+last_verified: 2026-10-17

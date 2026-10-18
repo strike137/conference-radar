@@ -1,0 +1,67 @@
+id: acsos
+name: IEEE ACSOS
+full_name: IEEE International Conference on Autonomic Computing and Self-Organizing Systems
+type: conference
+tier: minor
+areas: [systems, ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE (ACSOS steering committee)
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE Computer Society Press)
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9, 10]
+links:
+  website: https://2027.acsos.org/
+notes:
+- Founded in 2020 as the merger of IEEE ICAC (Autonomic Computing) and IEEE SASO (Self-Adaptive and Self-Organizing
+  Systems)
+- Covers autonomic computing, self-adaptive and self-organizing systems, multi-agent systems, swarm intelligence and
+  LLM-based agentic adaptation
+- Main proceedings and the ACSOS-C companion volume (vision papers, workshops) are published by IEEE Computer Society
+  Press in IEEE Xplore
+- Lightweight double-blind review; research papers and experience reports 10 pages plus 2 for references
+- Week-long event with workshops, tutorials, doctoral symposium, posters and demos and an artifact track
+- Rotates worldwide (2023 Toronto, 2024 Aarhus, 2025 Tokyo, 2026 Cesena, 2027 Bogota)
+- Best papers invited to an extended journal special issue
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-11
+  location: University of Bologna, Cesena Campus, Cesena, Italy
+  url: https://2026.acsos.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-24
+    tz: AoE
+    label: Main track (extended, firm)
+  - kind: submission
+    date: 2026-05-01
+    tz: AoE
+    label: Main track (extended, firm)
+  - kind: notification
+    date: 2026-06-15
+  - kind: camera_ready
+    date: 2026-07-20
+    tz: AoE
+- year: 2027
+  start: 2027-09-27
+  end: 2027-10-01
+  location: Universidad de los Andes, Bogota, Colombia
+  url: https://2027.acsos.org/
+sources:
+- https://2026.acsos.org/
+- https://2026.acsos.org/track/acsos-2026-papers
+- https://2026.acsos.org/series/acsos
+- https://2025.acsos.org/track/acsos-2025-papers
+- https://2027.acsos.org/
+- https://portal.core.edu.au/conf-ranks/?search=ACSOS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Original (pre-extension) 2026 deadlines not shown on the call for papers
+- No call for papers or deadlines announced yet for 2027
+- CCF list checked only through the CCFrank4dblp mirror (ccf.org.cn behind a captcha)
+last_verified: 2026-10-17

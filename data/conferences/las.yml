@@ -1,0 +1,78 @@
+id: las
+name: L@S
+full_name: ACM Conference on Learning @ Scale
+type: conference
+tier: major
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://learningatscale.acm.org/
+notes:
+- ACM conference on large-scale, technology-mediated learning (MOOCs, intelligent tutoring, learning analytics, AI in
+  education); 2026 was the 13th edition
+- Proceedings in the ACM Digital Library
+- CORE B (ICORE2026); not on the CCF list
+- Research papers up to 10 pages, work in progress up to 4 and demos up to 2 (excluding references), ACM 2-column
+  template, double-blind review
+- Abstract one week before the paper deadline; the 2026 organizers announced no deadline extensions
+- 2026 edition held at COEX, Seoul as part of the Festival of Learning with AIED and EDM; the 2027 Festival of Learning
+  with AIED and EDM is planned in Adelaide, Australia
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  location: Seoul, Korea (COEX)
+  url: https://learningatscale.hosting.acm.org/las2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-09
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-02-16
+    time: "23:59"
+    tz: AoE
+    label: Research papers and work in progress
+  - kind: notification
+    date: 2026-04-07
+    time: "23:59"
+    tz: AoE
+    label: Research papers and work in progress
+  - kind: other
+    date: 2026-04-14
+    time: "23:59"
+    tz: AoE
+    label: Demonstrations
+  - kind: camera_ready
+    date: 2026-04-21
+    time: "23:59"
+    tz: AoE
+    label: Research papers and work in progress
+sources:
+- https://learningatscale.hosting.acm.org/las2026/
+- https://learningatscale.hosting.acm.org/las2026/call-for-papers/
+- https://learningatscale.hosting.acm.org/las2026/organizers/
+- https://festival-of-learning-2026.info/participating-conferences/
+- https://festival-of-learning-2026.info/las-cfp/
+- https://educationaldatamining.org/edm2027/
+- https://researchr.org/publication/LimWSH26/references
+- https://portal.core.edu.au/conf-ranks/?search=L%40S&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- L@S 2027 dates and deadlines (only the Festival of Learning location in Adelaide is mentioned on the EDM 2027 site)
+- Locations of editions before 2026 not checked on official pages (learningatscale.acm.org blocked by Cloudflare)
+- Acceptance rate
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

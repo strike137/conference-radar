@@ -1,0 +1,84 @@
+id: acm-iss
+name: ACM ISS
+full_name: ACM Interactive Surfaces and Spaces Conference
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI (ISS steering committee)
+organizer_country: [international]
+proceedings: ACM DL (PACM HCI, ISS issue)
+archival: true
+rank:
+  core: Journal Published
+  ccf: B
+typical:
+  deadline_months: [2, 7]
+  conference_months: [11]
+links:
+  website: https://iss.acm.org/
+  dblp: https://dblp.org/db/conf/tabletop/index.html
+notes:
+- ACM SIGCHI venue on interactive surfaces and spaces (large displays, touch and gesture, tangibles, AR/VR spaces, shape-changing interfaces)
+- Formerly ACM Interactive Tabletops and Surfaces (ITS, 2009 to 2015) and TABLETOP (2006 to 2008)
+- Full papers are journal articles in Proceedings of the ACM on Human-Computer Interaction (PACM HCI, ISS issue); posters, demos, workshops, tutorials and doctoral symposium go to companion proceedings in the ACM DL
+- Two paper rounds per year (winter round in February, summer round in July) with a revise step before the final decision
+- ACM Open access from 2026, so an article processing charge can apply
+- No conference in 2025 for lack of hosting bids; the 2025 PACM HCI issue still ran and its authors were invited to present at ISS 2026
+- Rotates worldwide (Lodz 2021, Wellington 2022, Pittsburgh 2023, Vancouver 2024, Turin 2026)
+- CORE lists it as Journal Published (ICORE2026); CCF B (2026 list, ACM International Conference on Interactive Surfaces and Spaces)
+editions:
+- year: 2026
+  start: 2026-11-23
+  end: 2026-11-26
+  location: Turin, Italy
+  url: https://iss.acm.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-12
+    tz: AoE
+    label: Papers, winter round
+  - kind: notification
+    date: 2026-05-12
+    tz: AoE
+    label: Papers, winter round final decision
+  - kind: submission
+    date: 2026-07-22
+    tz: AoE
+    label: Papers, summer round
+  - kind: submission
+    date: 2026-07-29
+    tz: AoE
+    label: Workshops and tutorials (extended from Jul 22)
+  - kind: submission
+    date: 2026-09-25
+    tz: AoE
+    label: Posters, demos, doctoral symposium (extended from Sep 18)
+  - kind: notification
+    date: 2026-10-07
+    tz: AoE
+    label: Papers, summer round final decision
+  - kind: camera_ready
+    date: 2026-10-14
+    tz: AoE
+    label: Papers, both rounds
+sources:
+- https://iss.acm.org/
+- https://iss.acm.org/2026/
+- https://iss.acm.org/2026/authors/papers/
+- https://iss.acm.org/2026/authors/companion_proc/
+- https://iss.acm.org/2026/organization/steering_committee/
+- https://iss.acm.org/2025/
+- https://iss.acm.org/2024/
+- https://iss.acm.org/2023/
+- https://iss.acm.org/2022/
+- https://iss.acm.org/2021/
+- https://sigchi.org/conferences/
+- https://portal.core.edu.au/conf-ranks/?search=Interactive+Surfaces&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- ISS 2027 host city, dates and deadlines not yet announced
+- Acceptance rate not found on official pages
+last_verified: 2026-10-17

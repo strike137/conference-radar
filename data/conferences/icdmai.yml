@@ -1,0 +1,51 @@
+id: icdmai
+name: ICDMAI
+full_name: International Conference on Data Management, Analytics and Innovation
+type: conference
+tier: minor
+areas: [data, ai]
+region: south-asia
+language: english
+frequency: annual
+organizer: Society for Data Science (S4DS)
+organizer_country: [india]
+proceedings: Springer
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: https://www.icdmai.org
+notes:
+- Run by the Society for Data Science (S4DS), India, every January since 2017
+- Site says papers are published by Springer and indexed in Scopus, Web of Science and ISI; the series is not named
+- At least one author must register and present for the paper to appear in the proceedings
+- 'Fees for 2027 range from about 6,000 to 15,000 INR for Indian authors and 200 to 800 USD for others, by category'
+- 2027 edition held at Christ (Deemed to be University), Bengaluru
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2027
+  start: 2027-01-15
+  end: 2027-01-17
+  location: Christ (Deemed to be University), Bengaluru, India
+  url: https://www.icdmai.org
+  deadlines:
+  - kind: submission
+    date: 2026-10-31
+  - kind: notification
+    date: 2026-11-15
+  - kind: other
+    date: 2026-11-30
+    label: Early bird registration closes
+sources:
+- https://www.icdmai.org
+- https://11.icdmai.org/api/important_dates
+- https://11.icdmai.org/api/reports
+- https://11.icdmai.org/api/galleries
+- https://portal.core.edu.au/conf-ranks/?search=ICDMAI&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Dates, venue and host city of the 2026 edition not shown on the official site (only photos)
+- 'Paper submission status conflicts: important dates list 2026-10-31 (updated 2026-10-15) but the submission page says submissions are closed'
+- Springer series (historically Lecture Notes in Networks and Systems) not named on the official site
+- Region assumed from India-only editions; past host cities not checked on an official page
+last_verified: 2026-10-17

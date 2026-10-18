@@ -1,0 +1,92 @@
+id: argmining
+name: ArgMining
+full_name: Workshop on Argument Mining and Reasoning
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Rotating academic organizing committee; co-located with ACL, EMNLP, EACL or COLING
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [12, 3]
+  conference_months: [3, 7, 8]
+links:
+  website: https://argmining-org.github.io/
+  dblp: https://dblp.org/db/conf/argmining/index.html
+notes:
+- Annual since 2014 (Workshop on Argument Mining); renamed Workshop on Argument Mining and Reasoning in 2026
+- Long (8 pages) and short (4 pages) papers go into the ACL Anthology; extended abstracts and PhD proposals are
+  non-archival
+- Accepts pre-reviewed ARR papers via a commitment deadline; hosts a shared task each year
+- Follows its host conference (COLING 2022 Gyeongju, EMNLP 2023 Singapore, ACL 2024 Bangkok, ACL 2025 Vienna,
+  ACL 2026 San Diego, EACL 2027 Athens); hybrid format
+editions:
+- year: 2026
+  label: 13th edition, with ACL 2026
+  start: 2026-07-03
+  end: 2026-07-03
+  location: San Diego, CA, USA
+  url: https://argmining-org.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-16
+    time: "23:59"
+    tz: AoE
+    label: Direct submission, archival (extended from March 5 and March 12)
+  - kind: other
+    date: 2026-03-24
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment (archival)
+  - kind: submission
+    date: 2026-04-07
+    time: "23:59"
+    tz: AoE
+    label: Non-archival papers
+  - kind: notification
+    date: 2026-04-28
+  - kind: camera_ready
+    date: 2026-05-12
+- year: 2027
+  label: 14th edition, with EACL 2027 (workshop between March 9 and 14, exact date TBA)
+  location: Athens, Greece
+  url: https://argmining-org.github.io/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-12-15
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: other
+    date: 2026-12-22
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: submission
+    date: 2026-12-22
+    time: "23:59"
+    tz: AoE
+    label: Non-archival papers
+  - kind: notification
+    date: 2027-01-05
+  - kind: camera_ready
+    date: 2027-01-19
+  - kind: other
+    date: 2027-02-12
+    label: Pre-recorded video
+sources:
+- https://argmining-org.github.io/2027/
+- https://argmining-org.github.io/2026/
+- https://argmining-org.github.io/2025/
+- https://argmining-org.github.io/2024/
+- https://argmining-org.github.io/2023/
+- https://argmining-org.github.io/2022/
+- https://aclanthology.org/volumes/2026.argmining-1/
+unverified:
+- Exact date of the 2027 workshop (announced only as within EACL 2027, March 9 to 14)
+- Acceptance rate
+last_verified: 2026-10-17

@@ -1,0 +1,66 @@
+id: sds
+name: SDS
+full_name: IEEE Swiss Conference on Data Science and AI
+type: conference
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: data innovation alliance
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+acceptance_rate: 36% (2026)
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://sds2027.ch/
+notes:
+- Swiss data science and AI conference organized by the data innovation alliance; 2027 is the 14th annual edition
+- Combines a business track for practitioners with an IEEE scientific track
+- Held in Zurich, Switzerland in 2026 and 2027 (The Circle Convention Center in 2027)
+- Full papers up to 8 pages and short papers up to 4 pages in IEEE two-column format, double-blind review on OpenReview
+- Abstract registration a week before the full paper deadline; author response period before decisions
+- Proceedings in IEEE Xplore
+- "Acceptance rate: 36% (2026)"
+- Workshop day after the main conference with half-day workshops
+- Not ranked on CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-06
+  end: 2026-05-06
+  location: Zurich, Switzerland
+  url: https://sds2026.ch/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-23
+  - kind: submission
+    date: 2026-02-01
+  - kind: notification
+    date: 2026-03-10
+- year: 2027
+  start: 2027-05-31
+  end: 2027-06-01
+  location: The Circle Convention Center, Zurich, Switzerland
+  url: https://sds2027.ch/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2027-01-23
+  - kind: submission
+    date: 2027-02-01
+  - kind: notification
+    date: 2027-03-19
+sources:
+- https://sds2027.ch/
+- https://sds2027.ch/academic
+- https://sds2026.ch/
+- https://sds2026.ch/academic
+- https://sds2026.ch/attending
+- https://portal.core.edu.au/conf-ranks/?search=SDS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2027 end date assumes the workshop day on 1 June 2027 counts as part of the event; the main conference is 31 May 2027
+- 2026 venue name inside Zurich not confirmed from the official site

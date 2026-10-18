@@ -1,0 +1,68 @@
+id: vecos
+name: VECoS
+full_name: International Conference on Verification and Evaluation of Computer and Communication Systems
+type: conference
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: VECoS steering committee (Euro-Mediterranean research network)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11]
+links:
+  website: https://vecos-world.org
+notes:
+- Small formal verification and performance evaluation conference created by a Euro-Mediterranean network of researchers
+- Covers model checking, probabilistic verification, dependability, QoS and performance evaluation of concurrent and
+  distributed systems
+- Proceedings in Springer LNCS; selected papers invited to a journal special issue (ISSE, IJCCBS or ARIMA)
+- Papers up to 15 pages in LNCS format, submitted via EasyChair; at least one author must attend and present
+- Location rotates around Europe, North Africa and China (Paris 2025, Djerba 2024, Marrakech 2023, Beijing 2021, Xi'an
+  2020); no edition in 2022
+- CORE C (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-11-05
+  end: 2025-11-07
+  location: Paris (Palaiseau), France
+  url: https://vecos-world.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-25
+    tz: AoE
+  - kind: notification
+    date: 2025-09-08
+  - kind: camera_ready
+    date: 2025-09-22
+    tz: AoE
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-20
+  location: Amsterdam, Netherlands
+  url: https://vecos-world.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-20
+    tz: AoE
+  - kind: notification
+    date: 2026-09-20
+  - kind: camera_ready
+    date: 2026-10-03
+    tz: AoE
+sources:
+- https://vecos-world.org
+- https://vecos-world.org/2026/
+- https://vecos-world.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=VECoS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Acceptance rate and registration fee (not stated on the official pages)
+- organizer_country is inferred from the steering committee being led from France; the network spans Europe and North Africa
+- Not on the CCF 2026 list (checked via the CCFrank4dblp mirror)

@@ -1,0 +1,72 @@
+id: approx-random
+name: APPROX/RANDOM
+full_name: International Conference on Approximation Algorithms for Combinatorial Optimization Problems / International Conference on Randomization and Computation
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: APPROX and RANDOM steering committees
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://randomconference.com/
+  dblp: https://dblp.org/db/conf/approx/index.html
+notes:
+- Two co-located theory conferences with one submission deadline and one joint proceedings volume
+- APPROX covers approximation algorithms and hardness of approximation; RANDOM covers randomness in computation (pseudorandomness, property testing, sublinear algorithms, coding)
+- RANDOM started in 1997 and APPROX in 1998
+- Joint proceedings in the open-access LIPIcs series (APPROX/RANDOM 2026 is LIPIcs volume 392)
+- Lightweight double-blind review; single column, at least 11 point, first 10 pages after the title page must carry the main ideas
+- Mostly held in the USA (Atlanta 2023, Berkeley 2025, Boston 2026), sometimes in Europe (London 2024); virtual in 2020 to 2022
+- CORE A (ICORE2026); not on the CCF list
+editions:
+- year: 2025
+  start: 2025-08-11
+  end: 2025-08-13
+  location: Berkeley, CA, USA (UC Berkeley)
+  url: https://randomconference.com/random-2025-home/
+  deadlines:
+  - kind: submission
+    date: 2025-05-08
+    tz: AoE
+  - kind: notification
+    date: 2025-07-01
+  - kind: camera_ready
+    date: 2025-07-15
+- year: 2026
+  start: 2026-08-19
+  end: 2026-08-21
+  location: Boston, MA, USA (Boston University)
+  url: https://randomconference.com/random-2026-home/
+  deadlines:
+  - kind: submission
+    date: 2026-05-06
+    tz: AoE
+  - kind: notification
+    date: 2026-06-25
+  - kind: camera_ready
+    date: 2026-07-12
+sources:
+- https://randomconference.com/
+- https://randomconference.com/random-2026-home/random-2026-submission/
+- https://randomconference.com/random-2026-home/random-2026-proceedings/
+- https://randomconference.com/random-2025-home/
+- https://randomconference.com/random-2025-home/random-2025-submission/
+- https://randomconference.com/history/
+- https://randomconference.com/steering-committee/
+- https://approxconference.com/
+- https://drops.dagstuhl.de/entities/conference/APPROX
+- https://portal.core.edu.au/conf-ranks/?search=APPROX&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- APPROX/RANDOM 2027 not yet announced
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly

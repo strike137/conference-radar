@@ -1,0 +1,80 @@
+id: ieee-wptce
+name: IEEE WPTCE
+full_name: IEEE Wireless Power Technology Conference and Expo
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE PELS, IEEE MTT-S and the IEEE Wireless Power Technologies initiative
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6, 7]
+links:
+  website: https://ieee-wptce.org/
+notes:
+- Main IEEE venue for wireless power transfer, formerly Wireless Power Week (WPW), renamed WPTCE in 2023
+- Covers inductive, capacitive and radiative WPT, rectennas, energy harvesting, SWIPT, EMC and applications such as EV charging
+- Rotates worldwide (Bordeaux 2022, San Diego 2023, Kyoto 2024, Rome 2025, Halifax 2026, Chongqing 2027)
+- Regular papers are published in IEEE Xplore; industry and application track 2-page papers stay in the electronic
+  proceedings only
+- Includes a wireless power school, workshops, an expo and a student design competition
+- Authors of presented papers may submit extended versions to an IEEE Journal on Wireless Power Technologies special issue
+- Not ranked by CORE or CCF; power electronics and microwave venue outside the usual CS rankings
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-09
+  location: Halifax, Nova Scotia, Canada (Dalhousie University)
+  url: https://ieee-wptce.org/
+  deadlines:
+  - kind: other
+    date: 2025-12-11
+    label: Special session proposals
+  - kind: submission
+    date: 2026-02-16
+    label: Regular papers (extended)
+  - kind: submission
+    date: 2026-02-28
+    label: Industry and application papers
+  - kind: camera_ready
+    date: 2026-05-01
+  - kind: submission
+    date: 2026-05-04
+    label: Late breaking news digests
+- year: 2027
+  start: 2027-07-02
+  end: 2027-07-05
+  location: Chongqing, China (Chongqing International Expo Center)
+  url: https://ieee-wptce.org/wp-content/uploads/sites/774/WPTCE-2027-CALL-FOR-PAPER-2026-AUG-6.pdf
+  status: tentative
+  deadlines:
+  - kind: other
+    date: 2026-11-26
+    label: Student design competition
+  - kind: submission
+    date: 2027-01-22
+    label: Regular and special session papers
+  - kind: notification
+    date: 2027-03-18
+  - kind: camera_ready
+    date: 2027-04-16
+sources:
+- https://ieee-wptce.org/
+- https://ieee-wptce.org/wp-content/uploads/sites/774/Call-for-paper-WPTCE-2026.pdf
+- https://ieee-wptce.org/wp-content/uploads/sites/774/Call-for-industry-and-Application-Papers.pdf
+- https://ieee-wptce.org/wp-content/uploads/sites/774/WPTCE-2027-CALL-FOR-PAPER-2026-AUG-6.pdf
+- https://ieee-wptce.org/journal-publication/
+- https://wirelesspower.ieee.org/conferences/
+- https://wirelesspower.ieee.org/publications/
+- https://portal.core.edu.au/conf-ranks/?search=WPTCE&by=all&source=ICORE2026
+unverified:
+- Not listed in CORE ICORE2026 or CCF
+- WPTCE 2027 dates are drafts in the CFP; final dates and time zone to be confirmed
+- WPTCE 2026 notification date differs between the CFP (2026-03-09) and the homepage (2026-02-22), so it is left out
+- Acceptance rate and registration fees
+last_verified: 2026-10-17

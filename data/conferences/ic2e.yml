@@ -1,0 +1,74 @@
+id: ic2e
+name: IEEE IC2E
+full_name: IEEE International Conference on Cloud Engineering
+type: conference
+tier: major
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE Computer Society CPS)
+archival: true
+indexing: [EI]
+rank:
+  core: B
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9, 10]
+links:
+  website: https://conferences.computer.org/IC2E/2026/
+  dblp: https://dblp.org/db/conf/ic2e/index.html
+notes:
+- IEEE Computer Society conference on the whole cloud stack (systems, storage, networking, platforms, applications); started in 2013
+- Papers published by the IEEE Computer Society Conference Publishing Services (EI indexed)
+- Research and Vision track plus Industry and Experience track; single-blind review with a shepherding phase
+- Full papers 9 pages plus references at review (12 pages final), short papers 5 pages plus references (8 final)
+- Held in the USA and Europe (Boston 2023, Paphos 2024, Rennes 2025, Santa Clara 2026, Hannover 2027)
+- 2026 edition was co-located with ACM/IEEE SEC 2026 at Santa Clara University
+- CORE B (ICORE2026); not on the CCF list
+- Workshops, tutorials, demos and posters and a doctoral symposium run alongside
+editions:
+- year: 2026
+  start: 2026-10-13
+  end: 2026-10-15
+  location: Santa Clara, CA, USA
+  url: https://conferences.computer.org/IC2E/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-08
+    tz: AoE
+    label: Research/industry abstract (extended from 2026-04-17)
+  - kind: submission
+    date: 2026-05-15
+    tz: AoE
+    label: Research/industry paper (extended from 2026-04-24)
+  - kind: notification
+    date: 2026-07-14
+  - kind: camera_ready
+    date: 2026-08-31
+- year: 2027
+  start: 2027-09-28
+  end: 2027-10-01
+  location: Hannover, Germany
+  url: https://conferences.computer.org/IC2E/2027/
+  deadlines:
+  - kind: abstract
+    date: 2027-04-16
+  - kind: submission
+    date: 2027-04-23
+  - kind: notification
+    date: 2027-06-19
+  - kind: camera_ready
+    date: 2027-07-31
+sources:
+- https://conferences.computer.org/IC2E/2026/
+- https://conferences.computer.org/IC2E/2026/cfp-main.html
+- https://conferences.computer.org/IC2E/2026/ic2e-history.html
+- https://conferences.computer.org/IC2E/2027/
+- https://portal.core.edu.au/conf-ranks/?search=IC2E&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- IC2E 2027 dates are from the 2027 home page only; the 2027 call for papers page still shows 2026 text
+- Acceptance rates not stated on the official site

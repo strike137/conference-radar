@@ -1,0 +1,89 @@
+id: vl-hcc
+name: VL/HCC
+full_name: IEEE Symposium on Visual Languages and Human-Centric Computing
+type: conference
+tier: major
+areas: [software, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10]
+links:
+  website: https://conf.researchr.org/series/vlhcc
+  dblp: https://dblp.org/db/conf/vl/
+notes:
+- Established in 1984 (as VL); forum on languages and tools that make programming, modeling and computing easier
+  for people, including end-user programming, low-code, computing education and human-AI interaction
+- Proceedings published by the IEEE Computer Society in IEEE Xplore
+- Full papers up to 10 pages and short papers up to 5 pages plus references, IEEE two-column format
+- Double-anonymous review with a rebuttal phase; abstract deadline one week before the paper deadline
+- Rotates between North America and Europe (Rome 2022, Washington DC 2023, Liverpool 2024, Raleigh 2025,
+  Paderborn 2026, Vancouver 2027)
+- At least one author must register and present; IEEE may exclude unpresented papers from Xplore
+- CORE B (ICORE2026); not in the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-07
+  end: 2025-10-10
+  location: Raleigh, North Carolina, USA
+  url: https://conf.researchr.org/home/vlhcc-2025
+  deadlines:
+  - kind: abstract
+    date: 2025-05-09
+    tz: AoE
+  - kind: submission
+    date: 2025-05-16
+    tz: AoE
+  - kind: notification
+    date: 2025-07-18
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-08
+    tz: AoE
+- year: 2026
+  start: 2026-09-29
+  end: 2026-10-02
+  location: Paderborn, Germany
+  url: https://conf.researchr.org/home/vlhcc-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-04
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2026-05-11
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-07-06
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-24
+    tz: AoE
+- year: 2027
+  start: 2027-09-27
+  end: 2027-09-30
+  location: Vancouver, Canada
+  url: https://conf.researchr.org/home/vlhcc-2027
+sources:
+- https://conf.researchr.org/home/vlhcc-2027
+- https://conf.researchr.org/home/vlhcc-2026
+- https://conf.researchr.org/track/vlhcc-2026/vlhcc-2026-research-papers
+- https://conf.researchr.org/home/vlhcc-2025
+- https://conf.researchr.org/track/vlhcc-2025/vlhcc-2025-research-papers
+- https://portal.core.edu.au/conf-ranks/?search=VL%2FHCC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+last_verified: 2026-10-17
+unverified:
+- VL/HCC 2027 deadlines not announced yet
+- The 2026 CFP text calls the extended deadlines "Friday, May 4" and "Friday, May 11", but both dates are Mondays
+  and the track sidebar lists Mon 4 May and Mon 11 May 2026
+- CCF status checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly

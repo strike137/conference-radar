@@ -1,0 +1,65 @@
+id: itadata
+name: ITADATA
+full_name: Italian Conference on Big Data and Data Science
+type: conference
+tier: minor
+areas: [data]
+region: europe
+language: english
+frequency: annual
+organizer: CINI National Lab on Data Science (formerly CINI Big Data Lab)
+organizer_country: [europe]
+proceedings: CEUR-WS (CEUR Workshop Proceedings, open access)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 11]
+links:
+  website: https://www.itadata.it/
+notes:
+- Annual Italian big data and data science conference supported by the CINI National Lab on Data Science; first edition in 2022
+- Held in Italy, moving between cities (Naples 2023, Pisa 2024, Turin 2025, Bari 2026)
+- Regular papers (up to 12 pages) and discussion papers (up to 8 pages), each reviewed by at least 3 PC members; papers do not need to be anonymized
+- Accepted research and industrial papers go to an open access CEUR-WS volume; presentation abstracts of already published work are not in the proceedings
+- Also has tutorials/demos, thematic workshops, a hackathon and the co-located BigHPC event
+- Not ranked on CORE ICORE2026 or CCF
+editions:
+- year: 2025
+  start: 2025-09-09
+  end: 2025-09-11
+  location: Turin, Italy
+  url: https://www.itadata.it/2025/index
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    label: Research papers and presentations (extended from 2025-06-01)
+  - kind: notification
+    date: 2025-07-20
+- year: 2026
+  start: 2026-11-10
+  end: 2026-11-12
+  location: Bari, Italy
+  url: https://www.itadata.it/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-07-01
+    label: Research, presentation and industrial papers
+  - kind: submission
+    date: 2026-07-21
+    label: Research, presentation and industrial papers (extended from 2026-07-01)
+  - kind: notification
+    date: 2026-09-15
+sources:
+- https://www.itadata.it/
+- https://www.itadata.it/2026/calls
+- https://www.itadata.it/2026/committees
+- https://www.itadata.it/2025/index
+- https://www.itadata.it/2025/calls
+- https://www.itadata.it/2024/index
+- https://www.itadata.it/2023/index
+- https://portal.core.edu.au/conf-ranks/?search=ITADATA&by=all&source=ICORE2026
+unverified:
+- Deadline times and time zone (not stated on the call for papers)
+- 2026 camera-ready deadline not stated on the call for papers
+last_verified: 2026-10-17

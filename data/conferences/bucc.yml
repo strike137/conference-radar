@@ -1,0 +1,73 @@
+id: bucc
+name: BUCC
+full_name: Workshop on Building and Using Comparable Corpora
+type: workshop
+tier: minor
+areas: [nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: BUCC organizing committee; co-located with LREC, COLING or RANLP
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [2, 3, 11]
+  conference_months: [1, 5, 9]
+links:
+  website: https://comparable.limsi.fr/
+notes:
+- Long-running workshop on comparable and parallel corpora, held since 2008 (19th edition in 2026)
+- Follows its host conference (RANLP 2021 online, LREC 2022, RANLP 2023 Varna, LREC-COLING 2024 Turin, COLING 2025
+  Abu Dhabi, LREC 2026 Palma de Mallorca)
+- Papers of 4 to 8 pages plus references; double-blind review via START; proceedings in the ACL Anthology
+- Runs a shared task in most years (parallel sentence mining, term and word translation)
+- Registration goes through the host conference; 2026 edition was hybrid
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  label: 18th edition, with COLING 2025
+  start: 2025-01-20
+  end: 2025-01-20
+  location: Abu Dhabi, UAE
+  url: https://comparable.limsi.fr/bucc2025/
+  deadlines:
+  - kind: submission
+    date: 2024-11-30
+    tz: AoE
+  - kind: notification
+    date: 2024-12-08
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-12-12
+    tz: AoE
+- year: 2026
+  label: 19th edition, with LREC 2026
+  start: 2026-05-11
+  end: 2026-05-11
+  location: Palma de Mallorca, Spain (and online)
+  url: https://comparable.limsi.fr/bucc2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-05
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-03-22
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-29
+    tz: AoE
+sources:
+- https://comparable.limsi.fr/bucc2026/
+- https://comparable.limsi.fr/bucc2025/
+- https://comparable.limsi.fr/bucc2024/
+- https://comparable.limsi.fr/bucc2023/
+- https://comparable.limsi.fr/bucc2022/
+- https://comparable.limsi.fr/bucc2021/
+- https://aclanthology.org/volumes/2026.bucc-1/
+- https://portal.core.edu.au/conf-ranks/?search=BUCC&by=all&source=ICORE2026
+unverified:
+- BUCC 2027 not announced yet (host conference unknown)
+- Original 2026 submission deadline before the extension
+last_verified: 2026-10-17

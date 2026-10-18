@@ -1,0 +1,84 @@
+id: pkaw
+name: PKAW
+full_name: Principle and Practice of Data and Knowledge Acquisition Workshop
+type: workshop
+tier: minor
+areas: [ai, data]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: PKAW organizers (2026 chairs from City University of Macau and Auckland University of Technology), co-located
+  with PRICAI
+organizer_country: [china, new-zealand]
+proceedings: Springer LNAI
+archival: true
+indexing: [DBLP, EI, Scopus]
+rank:
+  core: C
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://pkawwebsite.github.io/2026/
+notes:
+- Formerly the Pacific Rim Knowledge Acquisition Workshop; established in the 1980s as part of PRICAI and held with it
+- Topics include knowledge acquisition, knowledge graphs, data mining, machine learning and human-centric knowledge
+  engineering
+- Proceedings in Springer LNAI in 2026 (Springer CCIS in 2025); papers up to 16 pages in LNCS format, single-blind review
+- Papers rejected from PRICAI can be transferred to PKAW with a later deadline
+- Recent editions Shanghai 2022, Jakarta 2023, Kyoto 2024, Wellington 2025, Guangzhou 2026
+- Submission deadline was extended from 15 July to 1 August in both 2025 and 2026
+- Not in the CCF list
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-18
+  location: Wellington, New Zealand
+  url: https://pkawwebsite.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-01
+    tz: AoE
+    label: Extended from 2025-07-15
+  - kind: other
+    date: 2025-09-07
+    label: Papers transferred from PRICAI 2025
+  - kind: notification
+    date: 2025-09-15
+  - kind: camera_ready
+    date: 2025-09-22
+- year: 2026
+  start: 2026-11-17
+  end: 2026-11-18
+  location: Guangzhou, China (with PRICAI 2026)
+  url: https://pkawwebsite.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-01
+    tz: AoE
+    label: Extended from 2026-07-15
+  - kind: other
+    date: 2026-08-30
+    tz: AoE
+    label: Papers transferred from PRICAI 2026
+  - kind: notification
+    date: 2026-09-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-22
+    tz: AoE
+  - kind: other
+    date: 2026-09-22
+    label: Author registration
+sources:
+- https://pkawwebsite.github.io/2026/
+- https://pkawwebsite.github.io/2026/call-for-paper.html
+- https://pkawwebsite.github.io/2026/registration.html
+- https://pkawwebsite.github.io/2025/
+- https://portal.core.edu.au/conf-ranks/?search=PKAW&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- PKAW 2026 workshop dates; the site banner says 16-17 November 2026 but the welcome text and the call for papers say
+  17-18 November 2026
+- PKAW 2027 location and dates (not announced)
+- CCF rank checked via the CCFrank4dblp mirror of the CCF 2026 list, not on ccf.org.cn directly

@@ -1,0 +1,63 @@
+id: recsi
+name: RECSI
+full_name: Reunión Española sobre Criptología y Seguridad de la Información
+type: conference
+tier: domestic
+areas: [crypto, security]
+region: europe
+language: mixed
+frequency: biennial
+organizer: Cybersecurity chair of the host Spanish university with INCIBE (Universidad de La Laguna in 2026)
+organizer_country: [europe]
+proceedings: RECSI actas (published by the host university, Universidad de León publications service in 2024)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://cryptull.webs.ull.es/RECSI2026/
+notes:
+- Spanish national conference on cryptology and information security, first held in 1991 and biennial since 1992
+- Host university changes each edition (Santander 2022, León 2024, La Laguna, Tenerife 2026)
+- Organized by a university cybersecurity chair (Cátedra de Ciberseguridad) in collaboration with INCIBE
+- Papers in Spanish or English; original papers up to 6 pages or extended abstracts of results published in the previous two years up to 4 pages
+- Peer-reviewed; accepted papers appear in the actas published by the host university, not in a formal publisher series
+- 2026 edition was moved earlier to March and added a rump session and research prizes for student theses
+- Not listed in CORE ICORE2026
+editions:
+- year: 2024
+  start: 2024-10-23
+  end: 2024-10-25
+  location: Fundación Sierra Pambley, León, Spain
+  url: https://congresos.unileon.es/recsi2024/
+  deadlines:
+  - kind: submission
+    date: 2024-06-24
+    label: Extended from 2024-06-10
+  - kind: notification
+    date: 2024-07-24
+    label: Extended from 2024-07-20
+- year: 2026
+  start: 2026-03-18
+  end: 2026-03-20
+  location: Universidad de La Laguna, Tenerife, Spain
+  url: https://cryptull.webs.ull.es/RECSI2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-20
+  - kind: notification
+    date: 2025-12-13
+  - kind: camera_ready
+    date: 2026-01-20
+sources:
+- https://cryptull.webs.ull.es/RECSI2026/
+- https://cryptull.webs.ull.es/RECSI2026/cfp.html
+- https://cryptull.webs.ull.es/RECSI2026/CFP.pdf
+- https://congresos.unileon.es/recsi2024/comunicaciones/
+- https://congresos.unileon.es/recsi2024/programa/
+- https://portal.core.edu.au/conf-ranks/?search=RECSI&by=all&source=ICORE2026
+unverified:
+- The 2026 site header says 17 to 21 March 2026 while the call for papers gives 18 to 20 March 2026
+- The 2028 edition has not been announced
+- Publisher of the 2026 actas is not named on the official site
+last_verified: 2026-10-17

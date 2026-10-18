@@ -1,0 +1,68 @@
+id: aist
+name: AIST
+full_name: International Conference on Analysis of Images, Social Networks and Texts
+type: conference
+tier: minor
+areas: [ai, nlp, vision, data]
+region: worldwide
+language: english
+frequency: irregular
+organizer: AIST organizing committee (researchers from HSE University, Skoltech, AIRI and others) with a local host (Nazarbayev University in 2026)
+organizer_country: [other]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: "National: Russia"
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://aistconf.org/
+  dblp: https://dblp.org/db/conf/aist/index.html
+notes:
+- Data science conference covering image analysis, NLP, social network analysis and machine learning, held since 2012
+- Main proceedings in Springer LNCS; a companion volume goes to Springer CCIS
+- Full papers up to 15 pages in LNCS style; double-blind review by at least three PC members via OpenReview
+- At least one author must attend in person to present
+- Held in Russia until 2020, then in a different country each time (Tbilisi 2021, Yerevan 2023, Bishkek 2024, Astana 2026)
+- No edition in 2022 or 2025
+- "CORE ICORE2026 rank: National: Russia"
+editions:
+- year: 2024
+  start: 2024-10-17
+  end: 2024-10-19
+  location: Bishkek, Kyrgyzstan
+  url: https://aistconf.org/past
+- year: 2026
+  start: 2026-10-16
+  end: 2026-10-18
+  location: Astana, Kazakhstan
+  url: https://aistconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-08
+    time: "23:59"
+    tz: AoE
+    label: Abstract (extended from 2026-07-01)
+  - kind: submission
+    date: 2026-07-12
+    time: "23:59"
+    tz: AoE
+    label: Full paper (extended from 2026-07-10)
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-08-22
+sources:
+- https://aistconf.org/
+- https://aistconf.org/calls/papers/
+- https://aistconf.org/past
+- https://aistconf.org/archive/
+- https://aistconf.org/committees/organization.html
+- https://link.springer.com/book/10.1007/978-3-031-88036-0
+- https://link.springer.com/book/9783032415455
+- https://portal.core.edu.au/conf-ranks/?search=AIST&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- AIST 2024 deadlines (only the extension to 2024-08-08 is stated in the site news archive)
+- Next edition (2027 or later) not announced as of 2026-10-17

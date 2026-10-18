@@ -1,0 +1,78 @@
+id: ieee-jcs
+name: IEEE JC&S
+full_name: IEEE International Symposium on Joint Communications & Sensing
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: annual
+organizer: 5G Lab Germany and TU Dresden, with IEEE, IEEE ComSoc, IEEE MTT-S and VDE ITG as co-sponsors
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [1, 2, 3]
+links:
+  website: https://jcns-symposium.org/
+notes:
+- Small specialist symposium on joint communications and sensing (ISAC) for 6G and Wi-Fi, bringing together
+  radar and communications researchers from academia and industry
+- Started in 2021 as an online event from 5G Lab Germany in Dresden; steering chair Gerhard Fettweis (TU Dresden / Barkhausen Institut)
+- Rotates within Europe (Seefeld 2022 and 2023, Leuven 2024, Oulu 2025, Ponte di Legno 2026, Munich 2027),
+  hybrid with online streaming
+- Accepted and presented papers are submitted to IEEE Xplore; submission via EDAS
+- Technical papers and demo papers; an accepted demo must be shown physically at the venue
+- 2026 edition had a winter school alongside the symposium
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-13
+  end: 2026-01-15
+  location: Ponte di Legno, Italy
+  url: https://jcns-symposium.org/legacy/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-10-25
+    label: Technical papers
+  - kind: submission
+    date: 2025-11-09
+    label: Demo papers
+  - kind: notification
+    date: 2025-11-17
+    label: Technical papers
+  - kind: notification
+    date: 2025-11-24
+    label: Demo papers
+- year: 2027
+  start: 2027-01-25
+  end: 2027-01-29
+  location: Munich, Germany
+  url: https://jcns-symposium.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-26
+    label: Technical papers (extended from 2026-10-11)
+  - kind: submission
+    date: 2026-10-26
+    label: Demo papers (extended from 2026-10-25)
+  - kind: notification
+    date: 2026-11-23
+  - kind: camera_ready
+    date: 2026-12-21
+sources:
+- https://jcns-symposium.org/
+- https://jcns-symposium.org/Call_for_Papers_and_Demos_JCnS2027_21072026.pdf
+- https://jcns-symposium.org/legacy/2026/
+- https://jcns-symposium.org/legacy/2025/
+- https://jcns-symposium.org/legacy/2024/
+- https://jcns-symposium.org/legacy/2023/
+- https://jcns-symposium.org/legacy/2022/
+- https://portal.core.edu.au/conf-ranks/?search=JCS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Deadline time and time zone are not stated on the official site
+- 2026 camera-ready deadline not found on the archived 2026 site
+- CCF rank checked via the CCFrank4dblp mirror of the CCF 2026 list, not on ccf.org.cn directly

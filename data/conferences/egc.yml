@@ -1,0 +1,78 @@
+id: egc
+name: EGC
+full_name: Conférence Extraction et Gestion des Connaissances
+type: conference
+tier: domestic
+areas: [data, ai]
+region: europe
+language: mixed
+frequency: annual
+organizer: Association EGC (Extraction et Gestion des Connaissances)
+organizer_country: [europe]
+proceedings: RNTI (Revue des Nouvelles Technologies de l'Information)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [1, 2]
+links:
+  website: https://www.egc.asso.fr/
+notes:
+- Annual French-speaking conference on data science, knowledge engineering, data mining, semantic web and AI, run by the Association EGC
+- Papers may be submitted in French or English, but a French version is required on acceptance unless the authors are non-French-speaking
+- Double-blind review; in 2027 long papers are 11 pages and short papers 7 pages (excluding references and English abstract), plus 2-page posters and 4 to 8 page demo papers
+- Proceedings published as an issue of the RNTI series (EGC 2026 -> RNTI E-42); best papers invited to a Data & Knowledge Engineering (DKE) special issue
+- Held in a different French city each year (Strasbourg 2025, Anglet 2026, Poitiers 2027), with the e-EGC winter school and workshops before the main conference
+- EGC 2027 runs the e-EGC winter school on Feb 1-2, workshops on Feb 2 and the main conference on Feb 3-5
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-01-26
+  end: 2026-01-30
+  location: Anglet, France
+  url: https://conferences.sigappfr.org/egc2026
+  deadlines:
+  - kind: abstract
+    date: 2025-10-03
+  - kind: submission
+    date: 2025-10-12
+  - kind: notification
+    date: 2025-11-15
+  - kind: camera_ready
+    date: 2025-11-28
+- year: 2027
+  start: 2027-02-01
+  end: 2027-02-05
+  location: ISAE-ENSMA, Poitiers-Futuroscope, France
+  url: https://egc2027.ensma.fr/
+  status: confirmed
+  deadlines:
+  - kind: other
+    date: 2026-09-25
+    label: Workshop proposals
+  - kind: abstract
+    date: 2026-10-11
+    label: Extended from 2026-10-08
+  - kind: submission
+    date: 2026-10-19
+    label: Full papers (extended from 2026-10-16)
+  - kind: submission
+    date: 2026-11-06
+    label: Demonstrations
+  - kind: notification
+    date: 2026-11-23
+  - kind: camera_ready
+    date: 2026-11-27
+sources:
+- https://www.egc.asso.fr/
+- https://www.egc.asso.fr/manifestations/conferences/egc-2027-poitiers.html
+- https://egc2027.ensma.fr/
+- https://egc2027.ensma.fr/appels
+- https://www.egc.asso.fr/publications/actes-egc/actes-conference-egc-2026.html
+- https://www.egc.asso.fr/publications/actes-egc/actes-conference-egc-2025.html
+- https://conferences.sigappfr.org/egc2026
+- https://conferences.sigappfr.org/egc2026/dates-importantes/
+- https://conferences.sigappfr.org/egc2026/appel-a-communication/
+- https://portal.core.edu.au/conf-ranks/?search=EGC&by=all&source=ICORE2026
+unverified:
+- Deadline times and time zone not stated on the 2026 or 2027 site
+last_verified: 2026-10-17

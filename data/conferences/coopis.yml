@@ -1,0 +1,100 @@
+id: coopis
+name: CoopIS
+full_name: International Conference on Cooperative Information Systems
+type: conference
+tier: major
+areas: [data, systems]
+region: europe
+language: english
+frequency: annual
+organizer: INSTICC (Institute for Systems and Technologies of Information, Control and Communication)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+  ccf: C
+fee: 580 EUR (2026, INSTICC member, early), 640 EUR non-member
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11]
+links:
+  website: https://coopis.scitevents.org/
+  dblp: https://dblp.org/db/conf/coopis/index.html
+notes:
+- Long-running conference on distributed and cooperative information systems (32nd edition in 2026); run by INSTICC since 2024
+- Proceedings in Springer LNCS; in 2025 selected papers were invited to a special issue of the International Journal of
+  Cooperative Information Systems
+- CORE B (ICORE2026) and CCF C
+- Topics include knowledge graphs, process analytics and automation, data ecosystems, IoT and digital twins, and AI-enabled
+  information systems
+- Tracks besides regular papers include ERA (early research), tool demos, doctoral symposium and panels (the 2026 tutorials
+  and journal first tracks were cancelled)
+- Held in European cities (Porto 2024, Marbella 2025, Angers 2026), co-located with ICINCO, WEBIST, IJCCI, IC3K and
+  other INSTICC conferences
+- All deadlines AoE
+editions:
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-22
+  location: Marbella, Spain
+  url: https://coopis.scitevents.org/?y=2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-14
+    tz: AoE
+    label: Regular papers
+  - kind: submission
+    date: 2025-08-28
+    tz: AoE
+    label: ERA papers
+  - kind: notification
+    date: 2025-09-04
+    tz: AoE
+    label: Regular papers
+  - kind: camera_ready
+    date: 2025-09-12
+    tz: AoE
+    label: Regular papers, with registration
+- year: 2026
+  start: 2026-10-26
+  end: 2026-10-28
+  location: Angers, France
+  url: https://coopis.scitevents.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    tz: AoE
+    label: Regular papers
+  - kind: submission
+    date: 2026-07-17
+    tz: AoE
+    label: ERA, tool demo and doctoral symposium papers
+  - kind: notification
+    date: 2026-09-03
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-11
+    tz: AoE
+    label: With registration
+  - kind: other
+    date: 2026-09-14
+    tz: AoE
+    label: Panel proposals
+sources:
+- https://coopis.scitevents.org/
+- https://coopis.scitevents.org/ImportantDates.aspx
+- https://coopis.scitevents.org/CallForPapers.aspx
+- https://coopis.scitevents.org/ConferenceVenue.aspx
+- https://coopis.scitevents.org/RegistrationFees.aspx
+- https://coopis.scitevents.org/?y=2025
+- https://coopis.scitevents.org/ImportantDates.aspx?y=2025
+- https://coopis.scitevents.org/CallForPapers.aspx?y=2025
+- https://coopis.scitevents.org/CallForPapers.aspx?y=2024
+- https://portal.core.edu.au/conf-ranks/?search=CoopIS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+- CoopIS 2027 not yet announced
+- Acceptance rate not found on official pages
+last_verified: 2026-10-17

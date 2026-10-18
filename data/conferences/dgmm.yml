@@ -1,0 +1,95 @@
+id: dgmm
+name: DGMM
+full_name: International Conference on Discrete Geometry and Mathematical Morphology
+type: conference
+tier: minor
+areas: [vision]
+region: europe
+language: english
+frequency: irregular
+organizer: IAPR TC18 (Discrete Geometry and Mathematical Morphology), hosted by a local university
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+fee: 480 EUR regular, 320 EUR student (2025, early); IAPR members get a small discount
+typical:
+  deadline_months: [4, 10]
+  conference_months: [4, 11]
+links:
+  website: https://dgmm2027.sciencesconf.org/
+notes:
+- Joint event of the two IAPR TC18 conference series, DGCI (discrete geometry for computer imagery) and ISMM (mathematical morphology)
+- Proceedings in Springer LNCS; regular papers up to 12 pages
+- Single-blind review with a rebuttal phase (2025)
+- Extended papers invited to a special issue of the Journal of Mathematical Imaging and Vision
+- Also accepts state of the art reports (STARs) and work-in-progress posters
+- Started in 2021 (Uppsala); then Strasbourg 2022, Florence 2024, Groningen 2025 and Grenoble 2027; planned every 18 months
+- Before 2021 the community met at the separate DGCI and ISMM series
+editions:
+- year: 2025
+  start: 2025-11-03
+  end: 2025-11-06
+  location: Groningen, Netherlands (University of Groningen)
+  url: https://www.cs.rug.nl/svcg/DGMM2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-04-11
+    label: Title and abstract (extended from Mar 28)
+  - kind: submission
+    date: 2025-04-25
+    label: Papers (extended from Apr 7)
+  - kind: notification
+    date: 2025-06-13
+    label: Preliminary notification
+  - kind: other
+    date: 2025-06-30
+    label: Rebuttal
+  - kind: notification
+    date: 2025-07-11
+    label: Final acceptance
+  - kind: camera_ready
+    date: 2025-09-08
+  - kind: other
+    date: 2025-09-10
+    label: Early registration
+- year: 2027
+  start: 2027-04-13
+  end: 2027-04-16
+  location: Grenoble, France (University Grenoble Alpes)
+  url: https://dgmm2027.sciencesconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-16
+    label: Title and abstract (extended from Oct 9)
+  - kind: submission
+    date: 2026-10-23
+    label: Papers (extended from Oct 16)
+  - kind: notification
+    date: 2026-12-02
+    label: Preliminary notification
+  - kind: other
+    date: 2026-12-09
+    label: Rebuttal
+  - kind: notification
+    date: 2026-12-18
+    label: Final acceptance
+  - kind: camera_ready
+    date: 2027-01-18
+sources:
+- https://dgmm2027.sciencesconf.org/
+- https://dgmm2027.sciencesconf.org/resource/page/id/1
+- https://dgmm2027.sciencesconf.org/resource/page/id/3
+- https://dgmm2027.sciencesconf.org/resource/page/id/4
+- https://iapr.org/tc18
+- https://www.cs.rug.nl/svcg/DGMM2025/
+- https://www.cs.rug.nl/svcg/DGMM2025/Call/CallForPapers
+- https://www.cs.rug.nl/svcg/DGMM2025/ForAuthors/ForAtuhors
+- https://www.cs.rug.nl/svcg/DGMM2025/Registration/Registration
+- https://link.springer.com/book/10.1007/978-3-032-09544-2
+- https://portal.core.edu.au/conf-ranks/?search=DGMM&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- Typical months vary between editions because of the 18-month cycle
+- DGMM 2027 deadline time and time zone not stated
+- Not found on the CORE portal (ICORE2026); not on the CCF list (checked via the CCFrank4dblp mirror, not on ccf.org.cn directly)

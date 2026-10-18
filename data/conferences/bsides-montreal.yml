@@ -1,0 +1,60 @@
+id: bsides-montreal
+name: BSides Montreal
+full_name: Security BSides Montreal
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: mixed
+frequency: annual
+organizer: BSides Montreal (volunteer organizing committee)
+organizer_country: [canada]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5, 7]
+  conference_months: [9]
+links:
+  website: https://bsidesmtl.ca/
+notes:
+- Community-organized Security BSides conference in Montreal, Quebec, Canada, with programs online for every year since 2021
+- One day on a Saturday in September at the Grande Bibliotheque (BAnQ) in Montreal
+- Single track of 30 minute talks in French or English, grouped in blocks with a subject matter moderator, plus a hands-on workshop
+- Call for speakers on pretalx in two rounds (round 1 closing in May, round 2 in July in 2026)
+- Topics include threat intelligence, reverse engineering, exploitation, forensics, application security and cryptography, as well as ethics, law and sociology of cybersecurity
+- Talks are not published or made available online; first-time speakers welcome
+editions:
+- year: 2026
+  start: 2026-09-19
+  end: 2026-09-19
+  location: Grande Bibliotheque (BAnQ), Montreal, Quebec, Canada
+  url: https://bsidesmtl.ca/program-2026-en/
+  deadlines:
+  - kind: submission
+    date: 2026-05-04
+    label: Call for speakers round 1
+  - kind: notification
+    date: 2026-06-18
+    label: Round 1 decisions
+  - kind: submission
+    date: 2026-07-06
+    time: "23:59"
+    tz: UTC
+    label: Call for speakers round 2
+  - kind: notification
+    date: 2026-07-20
+    label: Round 2 decisions
+- year: 2027
+  start: 2027-09-11
+  end: 2027-09-11
+  location: Grande Bibliotheque (BAnQ), Montreal, Quebec, Canada
+  url: https://bsidesmtl.ca/
+sources:
+- https://bsidesmtl.ca/
+- https://bsidesmtl.ca/program-2026-en/
+- https://bsidesmtl.ca/bsides-montreal-en/program-2025-en/
+- https://pretalx.com/bsides-montr-al-2026/cfp
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Call for speakers dates for 2027 not yet announced

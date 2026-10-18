@@ -1,0 +1,75 @@
+id: vissoft
+name: VISSOFT
+full_name: IEEE Working Conference on Software Visualization
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: VISSOFT steering committee (IEEE, co-located with ICSME)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://vissoft.io/
+  dblp: https://dblp.org/db/conf/vissoft/index.html
+notes:
+- Main venue for software visualization research; continues the ACM SOFTVIS symposium and the IEEE VISSOFT workshop
+- Two-day working conference co-located with ICSME every year, so it follows ICSME around the world (Bogota 2023,
+  Flagstaff 2024, Auckland 2025, Benevento 2026)
+- Research track up to 10 pages plus 2 pages of references; NIER track 5 pages; tools track 4 or 10 pages with a
+  mandatory video; also poster, visions and reflections, journal-first and visualization challenge tracks
+- All accepted papers (except journal-first) appear in the proceedings in IEEE Xplore
+- CORE B (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-07
+  end: 2025-09-08
+  location: Auckland, New Zealand
+  url: https://vissoft.io/2025/
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-15
+  location: University of Sannio, Benevento, Italy (with ICSME 2026)
+  url: https://vissoft.io/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-06
+    time: "23:59"
+    tz: AoE
+    label: Research, NIER and tools tracks
+  - kind: submission
+    date: 2026-06-16
+    time: "23:59"
+    tz: AoE
+    label: Research, NIER and tools tracks (extended from 2026-06-13)
+  - kind: notification
+    date: 2026-07-26
+    label: Research, NIER and tools tracks
+  - kind: submission
+    date: 2026-07-28
+    time: "23:59"
+    tz: AoE
+    label: Posters, visions and reflections, journal-first
+  - kind: notification
+    date: 2026-08-03
+    label: Posters, visions and reflections, journal-first
+sources:
+- https://vissoft.io/
+- https://vissoft.io/2026/
+- https://vissoft.io/2026/submission.html
+- https://vissoft.io/2026/program.html
+- https://vissoft.io/2025/
+- https://conf.researchr.org/series/vissoft
+- https://portal.core.edu.au/conf-ranks/?search=VISSOFT&by=all&source=ICORE2026
+unverified:
+- VISSOFT 2026 camera-ready deadline not stated on the submission page
+- VISSOFT 2027 not yet announced as of 2026-10-17 (ICSME 2027 is in Toronto)
+- Acceptance rate not published on the official site
+last_verified: 2026-10-17

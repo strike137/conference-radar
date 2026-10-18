@@ -1,0 +1,59 @@
+id: esa
+name: ESA
+full_name: European Symposium on Algorithms
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: ESA Steering Committee (within the ALGO meeting)
+organizer_country: [europe]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: A
+  ccf: B
+fee: 650 EUR full ALGO week, 450 EUR half week (2026, regular); 450/300 EUR for students
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://algo-conference.org/2026/esa/
+  dblp: https://dblp.org/db/conf/esa/index.html
+notes:
+- Main European conference on design and analysis of algorithms; CORE A, CCF B
+- Held every year as the core of ALGO together with ALGOCLOUD, ALGOWIN, ATMOS, IPEC, WABI and WAOA
+- Always in Europe (Amsterdam 2023, Egham 2024, Warsaw 2025, L'Aquila 2026)
+- "Three tracks: Track A (design and analysis), Track E (engineering and applications), Track S (simplicity)"
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl); 500-line limit with socg-lipics class
+- Single-blind review; at least one author must attend on-site
+- Best Paper and Best Student Paper awards sponsored by EATCS
+editions:
+- year: 2026
+  start: 2026-08-31
+  end: 2026-09-02
+  location: L'Aquila, Italy (ALGO 2026)
+  url: https://algo-conference.org/2026/esa/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-21
+    tz: AoE
+  - kind: submission
+    date: 2026-04-23
+    tz: AoE
+  - kind: notification
+    date: 2026-06-26
+sources:
+- https://algo-conference.org/2026/
+- https://algo-conference.org/2026/esa/
+- https://algo-conference.org/2026/registration/
+- https://algo-conference.org/2026/program/
+- https://portal.core.edu.au/conf-ranks/?search=ESA&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the CCFrank4dblp mirror of the CCF 2026 list, not on ccf.org.cn directly
+- ESA 2026 days (Aug 31 to Sep 2) taken from the ALGO 2026 registration page, which places ESA in the Monday to Wednesday half
+- ESA 2027 and ALGO 2027 not announced on an official page as of 2026-10-17
+- ESA 2026 camera-ready deadline not stated on the CFP page; steering committee details not checked
+last_verified: 2026-10-17

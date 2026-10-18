@@ -1,0 +1,75 @@
+id: algowin
+name: ALGOWIN
+full_name: International Symposium on Algorithmics of Wireless Networks
+type: conference
+tier: minor
+areas: [networking, general]
+region: europe
+language: english
+frequency: annual
+organizer: ALGOWIN Steering Committee (within the ALGO meeting)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://algo-conference.org/2026/algowin/
+notes:
+- Formerly ALGOSENSORS; renamed ALGOWIN, 2024 was the 20th edition
+- Held every year as part of the ALGO meeting with ESA, IPEC, ATMOS, ALGOCLOUD, WABI and WAOA
+  (Egham 2024, Warsaw 2025, L'Aquila 2026)
+- Theory venue on algorithmic aspects of wireless and sensor networks, mobile robots, drones and temporal graphs
+- Proceedings in Springer LNCS after the conference (2024 was LNCS 15026)
+- Papers up to 12 pages in LNCS format plus optional appendix; at least one author must register for ALGO and present
+- Selected papers invited to a special issue of Theoretical Computer Science
+- Best paper and best student paper awards sponsored by Springer
+- Ranked C in ICORE2026 under its old name ALGOSENSORS (Algorithms and Experiments for Wireless Networks)
+- Small program, 13 accepted papers in 2025 and 2026
+editions:
+- year: 2025
+  start: 2025-09-18
+  end: 2025-09-19
+  location: Warsaw, Poland (ALGO 2025)
+  url: https://algo-conference.org/2025/algowin/
+  deadlines:
+  - kind: submission
+    date: 2025-06-27
+    tz: AoE
+  - kind: notification
+    date: 2025-08-01
+  - kind: camera_ready
+    date: 2025-08-29
+- year: 2026
+  start: 2026-09-03
+  end: 2026-09-04
+  location: L'Aquila, Italy (ALGO 2026)
+  url: https://algo-conference.org/2026/algowin/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-09
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2026-07-13
+    tz: AoE
+    label: Extended from June 29
+  - kind: notification
+    date: 2026-08-03
+  - kind: camera_ready
+    date: 2026-08-24
+sources:
+- https://algo-conference.org/2026/algowin/
+- https://algo-conference.org/2025/algowin/
+- https://algo-conference.org/2024/algowin/
+- https://portal.core.edu.au/conf-ranks/?search=ALGOSENSORS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- ALGOWIN 2027 and ALGO 2027 not announced on an official page as of 2026-10-17
+- No ICORE2026 entry under the name ALGOWIN; the C rank is the entry for ALGOSENSORS
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn behind a captcha)
+- The original 2026 abstract deadline before the extension is not shown on the official page

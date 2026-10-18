@@ -1,0 +1,62 @@
+id: tdi
+name: TDI
+full_name: International Workshop on Trends in Digital Identity
+type: workshop
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: Security & Trust unit, Center for Cybersecurity, Fondazione Bruno Kessler (FBK)
+organizer_country: [europe]
+proceedings: CEUR-WS (CEUR Workshop Proceedings, open-access post-proceedings)
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [2, 3, 12]
+  conference_months: [2, 4, 6]
+links:
+  website: https://st.fbk.eu/events/TDI2026/
+notes:
+- Small workshop on digital identity (wallets, verifiable credentials, eIDAS, authentication, SSI) run by the FBK Security & Trust unit in Trento
+- Always co-located with another event in Italy so far (2023 SACMAT, 2024 OAuth Security Workshop, 2025 ITASEC & SERICS, 2026 a NIS2 event in Verona)
+- Accepted papers go to open-access CEUR-WS post-proceedings, indexed by Scopus and DBLP (2026 -> CEUR Vol-4257)
+- Regular papers 10 to 12 pages, short papers 5 to 9 pages, CEURART one-column template, double-blind review via EasyChair
+- From 2026 also has an open call for talks besides scientific papers; at least one author must present in person
+- Date in the year moves with the host event (Feb to June)
+editions:
+- year: 2026
+  start: 2026-04-20
+  end: 2026-04-21
+  location: Verona, Italy (Universitas Mercatorum, Verona campus)
+  url: https://st.fbk.eu/events/TDI2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-22
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2026-02-15)
+  - kind: other
+    date: 2026-02-22
+    time: "23:59"
+    tz: AoE
+    label: Talk submission
+  - kind: notification
+    date: 2026-03-10
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://st.fbk.eu/events/TDI2026/
+- https://st.fbk.eu/events/TDI2026/call-for-papers
+- https://st.fbk.eu/events/TDI2025/
+- https://st.fbk.eu/events/TDI2024/
+- https://st.fbk.eu/events/TDI2023/
+- https://ceur-ws.org/Vol-4257/
+unverified:
+- 2027 edition not announced yet (no TDI2027 page as of 2026-10-17)
+- Not found in the CORE ICORE2026 portal or the CCF 2026 list
+last_verified: 2026-10-17

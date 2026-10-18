@@ -1,0 +1,57 @@
+id: smartwear
+name: SmartWear
+full_name: ACM Workshop on Smart Wearable Systems and Applications
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: SmartWear workshop chairs (Guohao Lan, TU Delft, chair of every edition), co-located with ACM MobiCom
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10, 11]
+links:
+  website: https://smartwear-25.github.io/
+notes:
+- Workshop on wearable hardware, sensing, on-device learning, privacy and user experience, held with ACM MobiCom
+- Editions so far are 2022 (Sydney), 2023 (Madrid) and 2025 (Hong Kong); no edition at MobiCom 2024 or 2026
+- Papers published in the ACM Digital Library as a separate workshop proceedings volume
+- Papers up to 6 pages in two-column 10pt ACM format including references; single-blind review via HotCRP
+- 2025 chairs from CUHK, HKUST and TU Delft
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Hong Kong, China
+  url: https://smartwear-25.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-08-20
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-08-15
+  - kind: notification
+    date: 2025-09-07
+  - kind: camera_ready
+    date: 2025-09-12
+sources:
+- https://smartwear-25.github.io/
+- https://smartwear-25.github.io/call_for_papers
+- https://smartwear-25.github.io/paper_submission
+- https://smartwear-25.github.io/committees
+- https://smartwear-25.github.io/program
+- https://smart-wear-2023-bjfs.vercel.app/
+- https://smart-wear.vercel.app/
+- https://www.sigmobile.org/mobicom/2025/workshop_program.html
+- https://www.sigmobile.org/mobicom/2026/workshop_program.html
+- https://doi.org/10.1145/3737903.3768565
+- https://portal.core.edu.au/conf-ranks/?search=SmartWear&by=all&source=ICORE2026
+unverified:
+- "2025 notification and camera-ready dates differ between pages (call for papers page: Sep 7 and Sep 12; submission page: Sep 15 and Oct 15); the call for papers page values are used"
+- Next edition not announced (not among the MobiCom 2026 workshops)
+last_verified: 2026-10-17

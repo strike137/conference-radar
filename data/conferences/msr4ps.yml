@@ -1,0 +1,73 @@
+id: msr4ps
+name: MSR4P&S
+full_name: International Workshop on Mining Software Repositories Applications for Privacy and Security
+type: workshop
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizing chairs Nicolás E. Díaz Ferreyra (Hamburg University of Technology, Germany) and Zadia Codabux
+  (University of Saskatchewan, Canada); supported by the EU SEC4AI4SEC project
+organizer_country: [europe, canada]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://msr4ps.github.io/
+notes:
+- Co-located with IEEE SANER since 2024; 1st edition 2022 at ESEC/FSE in Singapore, then Rovaniemi (2024), Montreal
+  (2025) and Limassol (2026)
+- Papers appear in the SANER companion proceedings (SANER-C) in IEEE Xplore
+- Double-anonymous review; regular papers up to 8 pages and short papers up to 4 pages including references; 2-page
+  poster abstracts are not included in the proceedings
+- No edition in 2023
+- Not listed in ICORE2026 (portal search returns no results) or the CCF list
+editions:
+- year: 2025
+  start: 2025-03-04
+  end: 2025-03-04
+  location: Montreal, Canada
+  url: https://msr4ps.github.io/2025/
+  deadlines:
+  - kind: abstract
+    date: 2024-11-17
+    label: Abstract (not mandatory)
+  - kind: submission
+    date: 2024-12-07
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2024-12-22
+  - kind: camera_ready
+    date: 2025-01-10
+- year: 2026
+  start: 2026-03-17
+  end: 2026-03-17
+  location: Limassol, Cyprus
+  url: https://msr4ps.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-12
+    label: Abstract (not mandatory)
+  - kind: submission
+    date: 2025-12-22
+    label: Paper submission (extended from 2025-12-18)
+  - kind: notification
+    date: 2026-01-14
+  - kind: camera_ready
+    date: 2026-01-20
+sources:
+- https://msr4ps.github.io/
+- https://msr4ps.github.io/call_for_papers.html
+- https://msr4ps.github.io/committee.html
+- https://msr4ps.github.io/2025/
+- https://msr4ps.netlify.app/msr4ps2022/
+- https://msr4ps.netlify.app/msr4ps2024/
+- https://doi.org/10.1109/saner-c66551.2025.00018
+- https://doi.org/10.1109/saner-c67878.2026.00036
+- https://portal.core.edu.au/conf-ranks/?search=MSR4PS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- MSR4P&S 2027 not announced as of 2026-10-17 (SANER 2027 is in Richmond, Virginia, March 2027)

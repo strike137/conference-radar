@@ -1,0 +1,72 @@
+id: llm4code
+name: LLM4Code
+full_name: International Workshop on Large Language Models for Code
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: LLM4Code organizers, co-located with ICSE
+organizer_country: [international]
+proceedings: ICSE workshop proceedings (IEEE in 2027, ACM DL in 2026)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://llm4code.github.io/
+notes:
+- ICSE co-located workshop on large language models and agents for software engineering, held since 2024
+- 2027 is the fourth edition, held on May 1, 2027 in Dublin with ICSE 2027
+- Research papers 4 to 8 pages, position papers 1 to 4 pages, extended abstracts 1 to 5 pages (all including references)
+- Double-anonymous review; submissions via HotCRP
+- Accepted papers go into the ICSE workshop proceedings by default; a non-archival option posts the paper only on the workshop site
+- 2027 uses the IEEE template; 2026 used the ACM template with ACM Open Access charges for non-abstract papers
+- Not ranked by CORE or CCF
+editions:
+- year: 2026
+  start: 2026-04-14
+  end: 2026-04-14
+  location: Rio de Janeiro, Brazil
+  url: https://llm4code.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-10-31
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-10-20
+  - kind: notification
+    date: 2025-11-28
+  - kind: camera_ready
+    date: 2026-01-26
+- year: 2027
+  start: 2027-05-01
+  end: 2027-05-01
+  location: Dublin, Ireland
+  url: https://llm4code.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-12-11
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-29
+    time: "23:59"
+    tz: AoE
+sources:
+- https://llm4code.github.io/
+- https://llm4code.github.io/call/
+- https://llm4code.github.io/dates/
+- https://llm4code.github.io/2026/
+- https://llm4code.github.io/2026/call/
+- https://llm4code.github.io/2026/dates/
+- https://portal.core.edu.au/conf-ranks/?search=LLM4Code&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Acceptance rate not found on the official site
+- The 2027 CFP says the double-anonymous review policy is still to be confirmed by the organizers

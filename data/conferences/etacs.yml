@@ -1,0 +1,70 @@
+id: etacs
+name: ETACS
+full_name: Workshop on Education, Training and Awareness in Cybersecurity
+type: workshop
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: SBA Research (co-located workshop of ARES)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [7, 8]
+links:
+  website: https://www.ares-conference.eu/etacs
+notes:
+- Held as a workshop of ARES (International Conference on Availability, Reliability and Security) in Europe every summer;
+  part of the ARES EU Projects Symposium, held at ARES 2023, 2024, 2025 and 2026
+- ARES papers including workshop papers are published in Springer LNCS since 2025 (2025 workshops in LNCS 15994 to
+  15999); ACM ICPS before that; submission guidelines are the same as for the ARES conference
+- Cybersecurity curricula, professional training, cyber ranges, skills frameworks (EU Skills Framework), CTF and
+  red/blue teaming, awareness campaigns
+- 2026 chairs from Brno University of Technology and Masaryk University (Czech Republic), CNIT and IMT Lucca (Italy)
+- 2025 edition was a half-day session on the EU Projects Symposium day (11 Aug 2025) with a keynote and 7 papers
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-08-11
+  end: 2025-08-11
+  location: Ghent, Belgium
+  url: https://2025.ares-conference.eu/
+  deadlines:
+  - kind: submission
+    date: 2025-05-10
+    tz: AoE
+  - kind: notification
+    date: 2025-05-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-13
+    tz: AoE
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-27
+  location: Linköping, Sweden
+  url: https://www.ares-conference.eu/etacs
+  deadlines:
+  - kind: submission
+    date: 2026-05-14
+  - kind: notification
+    date: 2026-06-01
+  - kind: camera_ready
+    date: 2026-06-13
+sources:
+- https://www.ares-conference.eu/etacs
+- https://www.ares-conference.eu/conference/workshops
+- https://2025.ares-conference.eu/data/sessions.json
+- https://2025.ares-conference.eu/data/contents.json
+- https://2024.ares-conference.eu/etacs
+- https://2023.ares-conference.eu/
+- https://www.ares-conference.eu/archive
+- https://portal.core.edu.au/conf-ranks/?search=ETACS&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within ARES 2026 (only the conference dates 24-27 Aug are given)
+- ETACS 2027 (ARES 2027 not yet announced as of 2026-10-17)
+- Edition numbering is inconsistent on the official pages (2024 called 3rd, 2025 called 5th)
+last_verified: 2026-10-17

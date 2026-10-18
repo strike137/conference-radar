@@ -1,0 +1,82 @@
+id: hoti
+name: HotI
+full_name: IEEE Symposium on High-Performance Interconnects (Hot Interconnects)
+type: conference
+tier: minor
+areas: [networking, systems]
+region: online
+language: english
+frequency: annual
+organizer: IEEE (technical sponsors IEEE Computer Society and its TCMM)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: "National: USA"
+  ccf: C
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://hoti.org/2026/
+  dblp: https://dblp.org/db/conf/hoti/index.html
+notes:
+- Long-running IEEE symposium on interconnection networks from on-chip and chiplet links to data center
+  and HPC fabrics; 33rd edition in 2026
+- Strong industry presence (keynotes from NVIDIA, Meta, Google, Microsoft) with tutorials and panels
+- Regular papers up to 10 pages and hot topic papers up to 4 pages, IEEE double-column format, single-blind review
+- Accepted papers go to IEEE Xplore; best papers are invited to an IEEE Micro special issue
+- Held virtually every year since 2020; talks are posted on YouTube
+- CORE National USA (ICORE2026), CCF C
+editions:
+- year: 2025
+  start: 2025-08-20
+  end: 2025-08-22
+  location: Virtual
+  url: https://hoti.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-25
+    tz: AoE
+  - kind: submission
+    date: 2025-05-25
+    tz: AoE
+  - kind: notification
+    date: 2025-07-03
+  - kind: camera_ready
+    date: 2025-07-18
+- year: 2026
+  start: 2026-08-19
+  end: 2026-08-21
+  location: Virtual
+  url: https://hoti.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-20
+    tz: AoE
+    label: Extended from May 9
+  - kind: submission
+    date: 2026-05-20
+    tz: AoE
+    label: Extended from May 15
+  - kind: notification
+    date: 2026-06-26
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-17
+    tz: AoE
+sources:
+- https://hoti.org/2026/
+- https://hoti.org/2026/call-for-papers.html
+- https://hoti.org/2025/
+- https://hoti.org/2025/archive.html
+- https://old.hoti.org/2024
+- https://old.hoti.org/2023
+- https://old.hoti.org/2021
+- https://portal.core.edu.au/conf-ranks/?search=HOTI&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- HotI 2027 not yet announced
+- Format of the 2022 edition not confirmed on the official site (2020, 2021 and 2023 to 2026 were virtual)
+- Acceptance rate and registration fee not found on official pages
+last_verified: 2026-10-17

@@ -1,0 +1,126 @@
+id: etra
+name: ACM ETRA
+full_name: ACM Symposium on Eye Tracking Research and Applications
+type: conference
+tier: major
+areas: [general, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (SIGCHI and SIGGRAPH)
+organizer_country: [international]
+proceedings: ACM DL (full papers in PACM HCI or PACM CGIT, short papers in ETRA proceedings)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [10, 11, 1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://etra.acm.org/2027/
+  dblp: https://dblp.org/db/conf/etra/index.html
+notes:
+- ACM symposium on eye tracking across HCI, graphics, vision, perception and cognition; co-sponsored by SIGCHI and SIGGRAPH
+- Full papers appear as journal articles in a special issue of PACM HCI or PACM CGIT (authors choose); short papers in the ETRA proceedings in the ACM DL
+- CORE B (ICORE2026); not on the CCF list
+- Full papers have two review rounds with a revision step; short papers have a single round about three months later
+- Mandatory abstract one week before the paper deadline; a privacy and ethics statement is required
+- ACM Open Access APC applies to full and short papers for authors from non-ACM Open institutions
+- Location rotates worldwide (Tubingen 2023, Glasgow 2024, Tokyo 2025, Marrakech 2026, Pamplona 2027)
+editions:
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-04
+  location: Marrakech, Morocco
+  url: https://etra.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-03
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2025-11-10
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2026-01-08
+    tz: AoE
+    label: Full papers, first round
+  - kind: other
+    date: 2026-02-16
+    tz: AoE
+    label: Full paper revisions
+  - kind: abstract
+    date: 2026-01-20
+    tz: AoE
+    label: Short papers
+  - kind: submission
+    date: 2026-01-27
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2026-03-13
+    tz: AoE
+    label: Full papers, second round
+  - kind: notification
+    date: 2026-03-13
+    tz: AoE
+    label: Short papers
+  - kind: camera_ready
+    date: 2026-03-30
+    tz: AoE
+- year: 2027
+  start: 2027-06-07
+  end: 2027-06-10
+  location: Pamplona, Spain
+  url: https://etra.acm.org/2027/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-10-09
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-10-16
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2027-01-22
+    tz: AoE
+    label: Full papers, first round
+  - kind: abstract
+    date: 2027-02-04
+    tz: AoE
+    label: Short papers
+  - kind: submission
+    date: 2027-02-11
+    tz: AoE
+    label: Short papers
+  - kind: other
+    date: 2027-02-19
+    tz: AoE
+    label: Full paper revisions
+  - kind: notification
+    date: 2027-03-16
+    tz: AoE
+    label: Full papers, second round
+  - kind: notification
+    date: 2027-03-25
+    tz: AoE
+    label: Short papers
+  - kind: camera_ready
+    date: 2027-04-19
+    tz: AoE
+sources:
+- https://etra.acm.org/2027/
+- https://etra.acm.org/2027/cfp.html
+- https://etra.acm.org/2026/
+- https://etra.acm.org/2026/cfp.html
+- https://etra.acm.org/2025/
+- https://etra.acm.org/2024/
+- https://etra.acm.org/2023/
+- https://portal.core.edu.au/conf-ranks/?search=ETRA&by=all&source=ICORE2026
+unverified:
+- SIGCHI and SIGGRAPH co-sponsorship is stated in text carried over from ETRA 2025 on the 2026 call; the 2027 call names only ACM and SIGCHI
+- Absence from the CCF list checked via the CCFrank4dblp mirror (ccf.org.cn behind a captcha)
+last_verified: 2026-10-17

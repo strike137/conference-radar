@@ -1,0 +1,72 @@
+id: acm-sap
+name: ACM SAP
+full_name: ACM Symposium on Applied Perception
+type: conference
+tier: major
+areas: [vision, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (Eurographics and the host institution listed as supporters in 2026)
+organizer_country: [international]
+proceedings: ACM DL (strongest papers invited to ACM Transactions on Applied Perception instead)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [4]
+  conference_months: [8]
+links:
+  website: https://sap.acm.org/
+notes:
+- Small two-day ACM symposium combining perception research (psychology, psychophysics, neuroscience) with graphics, vision, visualization, VR and HCI
+- Successor of APGV (Applied Perception in Graphics and Visualization, 2004 to 2011); named SAP since 2012
+- Long papers up to 8 pages and short papers up to 4 pages, excluding references; double-blind review on EasyChair
+- Required abstract registration about one to two weeks before the paper deadline
+- Strongest accepted papers are invited to the ACM TAP journal special issue (with a second review cycle) instead of the proceedings
+- Rejected papers can be presented as posters; poster abstracts can go in the ACM DL, late-breaking posters do not
+- CORE B (ICORE2026); not in the CCF 2026 list
+- Held in Europe and North America (online 2021 and 2022, Los Angeles with SIGGRAPH 2023, Dublin 2024, Vancouver 2025, Rennes 2026)
+- "2026 registration: 360 EUR ACM members, 420 EUR non-members, 250 EUR students (early)"
+editions:
+- year: 2026
+  start: 2026-08-26
+  end: 2026-08-27
+  location: Inria centre at Rennes University, Rennes, France
+  url: https://sap.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-21
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-05-02
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2026-04-28)
+  - kind: notification
+    date: 2026-06-03
+    tz: AoE
+  - kind: other
+    date: 2026-06-17
+    tz: AoE
+    label: Poster abstracts
+  - kind: camera_ready
+    date: 2026-07-07
+    tz: AoE
+sources:
+- https://sap.acm.org/
+- https://sap.acm.org/2026/
+- https://sap.acm.org/2026/call-for-papers
+- https://sap.acm.org/2026/information-for-authors
+- https://sap.acm.org/2026/call-for-posters
+- https://sap.acm.org/2026/attendees/
+- https://sap.acm.org/2025/
+- https://sap.acm.org/2024/
+- https://sap.acm.org/2023/
+- https://portal.core.edu.au/conf-ranks/?search=SAP&by=all&source=ICORE2026
+unverified:
+- SAP 2027 not yet announced (sap.acm.org/2027/ returns 404)
+- Sponsoring SIG not named on the 2026 site (only ACM, Eurographics and Inria logos)
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

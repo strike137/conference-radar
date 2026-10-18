@@ -1,0 +1,69 @@
+id: socg
+name: SoCG
+full_name: International Symposium on Computational Geometry
+type: conference
+tier: top
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: CG Society (CG Week Steering Committee)
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: A*
+  ccf: B
+typical:
+  deadline_months: [11, 12]
+  conference_months: [6]
+links:
+  website: https://computational-geometry.org/cg-week/socg/
+  dblp: https://dblp.org/db/conf/compgeom/index.html
+notes:
+- Flagship conference of computational geometry and topology; CORE A*, CCF B
+- Main event of CG Week, together with the media exposition (CG:ME), Young Researchers Forum (CG:YRF), CG:Challenge and workshops
+- Was an ACM symposium until 2014; independent since 2015 and run as an event of the CG Society since 2025
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl) since 2015; earlier volumes in the ACM DL
+- Two tracks since 2026, Track T (Theory) and Track P (Practice); abstract registration one week before the paper deadline
+- At least one author of each accepted paper must join the CG Society (free) to present
+- Location rotates worldwide (Athens 2024, Kanazawa 2025, New Brunswick 2026, Bengaluru 2027, Vienna 2028)
+editions:
+- year: 2026
+  start: 2026-06-02
+  end: 2026-06-05
+  location: New Brunswick, NJ, USA (CG Week 2026, Rutgers University)
+  url: https://cgweek26.computational-geometry.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-25
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-12-02
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-02-05
+  - kind: camera_ready
+    date: 2026-03-24
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-25
+  location: Bengaluru, India (CG Week 2027, Indian Institute of Science)
+  url: https://cgweek27.computational-geometry.org/
+sources:
+- https://computational-geometry.org/
+- https://computational-geometry.org/cg-week/
+- https://computational-geometry.org/cg-week/socg/
+- https://cgweek26.computational-geometry.org/
+- https://cgweek26.computational-geometry.org/contribute/
+- https://cgweek27.computational-geometry.org/
+- https://portal.core.edu.au/conf-ranks/?search=SoCG&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- SoCG 2027 call for papers and deadlines not yet published (CG Week 2027 contribute page under construction as of 2026-10-17)
+- Exact SoCG 2027 days within CG Week 2027 not yet stated (2026 symposium ran across all of CG Week, June 2 to 5)
+- CCF rank checked in the CCF 2026 list PDF mirrored by ccfddl (ccf.org.cn blocks automated access)
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-17

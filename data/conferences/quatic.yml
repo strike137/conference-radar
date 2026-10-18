@@ -1,0 +1,74 @@
+id: quatic
+name: QUATIC
+full_name: International Conference on the Quality of Information and Communications Technology
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: QUATIC board, promoted by IPQ (Portuguese Quality Institute, CS03 committee); 2026 edition hosted by the
+  University of Genoa
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+indexing: [DBLP, EI, Scopus]
+rank:
+  core: National/Regional
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://www.quatic.org/
+notes:
+- Software quality conference running since 1994; 2026 was the 19th edition
+- Proceedings in Springer LNCS (IEEE Xplore up to 2018); best papers invited to a Software Quality Journal special issue
+- CORE National/Regional (ICORE2026); not on the CCF list
+- Double-blind review by at least three PC members; full papers 12 to 16 pages, short papers 6 to 8 pages in LNCS format
+- Thematic tracks such as requirements engineering, security and privacy, verification and testing, and quality in
+  the age of AI, plus a PhD symposium (SEDES)
+- Held in southern Europe in September (Aveiro 2023, Pisa 2024, Lisbon 2025, Genoa 2026); in-person presentation
+  required for inclusion in the proceedings
+editions:
+- year: 2026
+  start: 2026-09-09
+  end: 2026-09-11
+  location: Genoa, Italy (University of Genoa)
+  url: https://2026.quatic.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    tz: AoE
+    label: All tracks
+  - kind: notification
+    date: 2026-06-22
+    tz: AoE
+    label: All tracks
+  - kind: submission
+    date: 2026-06-29
+    tz: AoE
+    label: PhD Symposium (SEDES)
+  - kind: camera_ready
+    date: 2026-07-03
+    tz: AoE
+    label: All tracks
+  - kind: notification
+    date: 2026-07-08
+    tz: AoE
+    label: PhD Symposium (SEDES)
+  - kind: camera_ready
+    date: 2026-07-15
+    tz: AoE
+    label: PhD Symposium (SEDES)
+sources:
+- https://www.quatic.org/
+- https://2026.quatic.org/
+- https://2026.quatic.org/important-dates
+- https://2026.quatic.org/call-for-papers
+- https://2025.quatic.org/
+- https://portal.core.edu.au/conf-ranks/?search=QUATIC&by=all&source=ICORE2026
+unverified:
+- QUATIC 2027 not announced yet
+- Acceptance rate not stated on the official site
+- CCF 2026 list checked only via the ccfddl and CCFrank4dblp mirrors, which have no QUATIC entry
+last_verified: 2026-10-17

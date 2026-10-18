@@ -1,0 +1,59 @@
+id: ieee-gscon
+name: IEEE GSCon
+full_name: IEEE Gujarat Section Flagship International Conference (GSCon)
+type: conference
+tier: minor
+areas: [general, communications, ai]
+region: south-asia
+language: english
+organizer: IEEE Gujarat Section, hosted by SVNIT Surat (2027)
+organizer_country: [india]
+proceedings: IEEE Xplore
+fee: INR 8,000 to 16,000 for Indian delegates, 250 to 400 USD for foreign delegates, plus 18% GST (2027)
+typical:
+  deadline_months: [8]
+  conference_months: [1]
+links:
+  website: https://ieeegscon.org/
+notes:
+- Flagship conference of the IEEE Gujarat Section (IEEE Region 10); IEEE conference record 71435
+- 2027 is the first edition listed by the organizers, hosted at Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat
+- Accepted, registered and presented papers are submitted to IEEE Xplore; no-show papers are removed
+- Broad EECS scope in ten tracks (AI, signal processing, communications and 6G, embedded systems, power, VLSI,
+  cybersecurity, transportation, engineering education)
+- Papers 4 to 8 pages in IEEE two-column format (500 INR or 6 USD per page beyond 6), peer review via Microsoft CMT
+editions:
+- year: 2027
+  label: GSCon 2027, SVNIT Surat
+  start: 2027-01-09
+  end: 2027-01-11
+  location: SVNIT, Surat, Gujarat, India
+  url: https://ieeegscon.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-08-15
+    label: Paper submission (extended from 2026-07-15)
+  - kind: notification
+    date: 2026-10-22
+    label: Notification (extended from 2026-10-01 and 2026-10-15)
+  - kind: other
+    date: 2026-10-30
+    label: Early bird registration (extended from 2026-10-15)
+  - kind: camera_ready
+    date: 2026-11-15
+    label: Final manuscript (extended from 2026-11-01)
+sources:
+- https://ieeegscon.org/
+- https://ieeegscon.org/important-dates.php
+- https://ieeegscon.org/call-for-papers.php
+- https://ieeegscon.org/submission-guidelines.php
+- https://ieeegscon.org/registration.php
+- https://ieeegscon.org/organizing-committee.php
+- https://ieeegujaratsection.org
+- https://portal.core.edu.au/conf-ranks/?search=GSCon&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Not listed on the CORE portal (ICORE2026) or the CCF list
+- No earlier GSCon edition is listed on the official sites, so region and typical months rest on the 2027 edition only
+- The important dates page still shows the original dates; the extended dates come from the home page timeline

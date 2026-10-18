@@ -1,0 +1,55 @@
+id: aaim
+name: AAIM
+full_name: International Conference on Algorithmic Aspects in Information and Management
+type: conference
+tier: minor
+areas: [general, networking, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Ding-Zhu Du (University of Texas at Dallas) as general chair, with Zhao Zhang (Zhejiang Normal University)
+organizer_country: [usa, china]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://theory.utdallas.edu/AAIM2026/
+  dblp: https://dblp.org/db/conf/aaim/index.html
+notes:
+- Algorithms, combinatorial optimization and operations research venue running since 2005; broad topic list includes
+  network optimization, security, social networks and data mining
+- Proceedings in Springer LNCS; selected papers invited to Theoretical Computer Science and Journal of Combinatorial
+  Optimization special issues
+- Held mostly in China and the USA, often online; 2026 edition was online, based at UT Dallas, with no registration fee
+- Double-blind review, LNCS format, up to 15 pages
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-19
+  end: 2026-06-21
+  location: Online (based at University of Texas at Dallas, USA)
+  url: https://theory.utdallas.edu/AAIM2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-05
+    time: "23:59"
+    tz: "UTC-5"
+    label: Extended from 2026-03-26
+  - kind: notification
+    date: 2026-05-06
+  - kind: camera_ready
+    date: 2026-05-13
+sources:
+- https://theory.utdallas.edu/AAIM2026/
+- https://theory.utdallas.edu/AAIM2026/cfp.html
+- https://link.springer.com/conference/aaim
+- https://portal.core.edu.au/conf-ranks/?search=AAIM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- AAIM 2027 not announced yet
+- Locations of recent editions (online versus on site) only partly confirmed; region set from Springer proceedings
+  listing (Jinhua 2020, Dallas 2024, Ulaanbaatar 2025)

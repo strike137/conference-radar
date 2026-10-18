@@ -1,0 +1,62 @@
+id: smacd
+name: SMACD
+full_name: International Conference on Synthesis, Modeling, Analysis and Simulation Methods and Applications to Circuit Design
+type: conference
+tier: minor
+areas: [general, systems]
+region: europe
+language: english
+frequency: annual
+organizer: SMACD steering committee and a local host institution; IEEE CEDA technical sponsor
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://smacd-conference.org/
+notes:
+- European forum on modeling, simulation and synthesis (EDA/CAD) for analog, mixed-signal, RF and multi-domain integrated circuits, plus AI/ML for EDA and hardware security
+- Accepted papers are submitted to IEEE Xplore; IEEE CEDA appears as a sponsor
+- Co-located with PRIME (PhD research in microelectronics and electronics) since 2016
+- Hosted by a different European city each year (Volos 2024, Istanbul 2025, Dresden 2026, Seville 2027)
+- Runs an EDA competition and an IC or open-source design challenge alongside the paper track
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-02
+  location: Dresden, Germany
+  url: https://smacd-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-06
+  - kind: notification
+    date: 2026-04-21
+  - kind: camera_ready
+    date: 2026-05-20
+- year: 2027
+  start: 2027-06-14
+  end: 2027-06-17
+  location: Seville, Spain
+  url: https://smacd-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-19
+  - kind: notification
+    date: 2027-04-09
+  - kind: camera_ready
+    date: 2027-04-30
+sources:
+- https://smacd-conference.org/
+- https://smacd-conference.org/downloads/SMACD2027-Preliminary-Call-for-Papers.pdf
+- https://smacd2025.org/
+- https://smacd2025.org/previous-editions/
+- https://smacd2025.org/wp-content/uploads/2025/11/SMACD26_PreliminaryCFP-1.pdf
+- https://smacd2025.org/wp-content/uploads/2025/04/SMACD2025CFP-1.pdf
+- https://portal.core.edu.au/conf-ranks/?search=SMACD&by=all&source=ICORE2026
+unverified:
+- SMACD 2026 dates come from the preliminary call for papers; any later deadline extension could not be checked because the 2026 site has been replaced by the 2027 site
+- The 2027 dates are from the preliminary call for papers; the full 2027 website is not yet online
+last_verified: 2026-10-17

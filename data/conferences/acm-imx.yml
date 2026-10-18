@@ -1,0 +1,108 @@
+id: acm-imx
+name: ACM IMX
+full_name: ACM International Conference on Interactive Media Experiences
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI and ACM SIGMM (IMX steering committee)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [1]
+  conference_months: [6]
+links:
+  website: https://imx.acm.org/
+  dblp: https://dblp.org/db/conf/imx/index.html
+notes:
+- ACM SIGCHI conference on interactive media (XR, 360 video, live streaming, TV, online media, production tools and audience research), co-supported by SIGMM
+- Proceedings in the ACM Digital Library
+- One paper deadline in January; double-blind review with a rebuttal phase; deadlines 23:59 AoE
+- Also has workshops, demos, work in progress, doctoral consortium and industry talks with later deadlines (March to April)
+- Mostly in Europe but rotates (New York virtual 2021, Aveiro 2022, Nantes 2023, Stockholm 2024, Rio de Janeiro 2025, Athlone 2026, Madrid 2027)
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-09
+  end: 2026-06-11
+  location: Athlone, Ireland (Technological University of the Shannon)
+  url: https://imx.acm.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-22
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from Jan 15)
+  - kind: notification
+    date: 2026-03-20
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: camera_ready
+    date: 2026-04-15
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: submission
+    date: 2026-04-10
+    time: "23:59"
+    tz: AoE
+    label: Work in progress (extended from Apr 6)
+- year: 2027
+  start: 2027-06-15
+  end: 2027-06-18
+  location: Madrid, Spain (Universidad Politecnica de Madrid)
+  url: https://imx.acm.org/2027/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-11-19
+    time: "23:59"
+    tz: AoE
+    label: Workshop proposals
+  - kind: submission
+    date: 2027-01-21
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2027-03-09
+    time: "23:59"
+    tz: AoE
+    label: Rebuttal
+  - kind: notification
+    date: 2027-03-23
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: camera_ready
+    date: 2027-04-14
+    time: "23:59"
+    tz: AoE
+    label: Papers
+sources:
+- https://imx.acm.org/
+- https://imx.acm.org/2027/
+- https://imx.acm.org/2027/authors/call-for-papers/
+- https://imx.acm.org/2027/authors/call-for-workshops/
+- https://imx.acm.org/2026/
+- https://imx.acm.org/2026/authors/important-dates/
+- https://imx.acm.org/2026/authors/call-for-papers/
+- https://imx.acm.org/2026/committees/steering-committee/
+- https://imx.acm.org/2025/
+- https://imx.acm.org/2024/
+- https://imx.acm.org/2023/
+- https://imx.acm.org/2022/
+- https://imx.acm.org/2021/
+- https://sigchi.org/conferences/
+- https://portal.core.edu.au/conf-ranks/?search=IMX&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- IMX 2027 deadlines for demos, work in progress, doctoral consortium and industry talks not yet published
+- Acceptance rate not found on official pages
+last_verified: 2026-10-17

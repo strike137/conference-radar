@@ -1,0 +1,64 @@
+id: ccgrid
+name: CCGrid
+full_name: IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing
+type: conference
+tier: major
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society TCSC and ACM (CCGrid Steering Committee)
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE CS)
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [11, 12]
+  conference_months: [5]
+links:
+  website: https://clouds.cis.unimelb.edu.au/~rbuyya/ccgrid/
+  dblp: https://dblp.org/db/conf/ccgrid/index.html
+notes:
+- Long-running symposium on cluster, cloud, edge and distributed systems, held annually since 2001, almost always in May
+- Sponsored by IEEE Computer Society, IEEE TCSC and ACM; proceedings in the IEEE CS Digital Library and IEEE Xplore
+- "Formerly the Symposium on Cluster, Cloud and Grid Computing; 'Grid' was replaced by 'Internet' in the title, acronym kept"
+- CORE B, CCF C
+- "Acceptance rate: 25% (2025, 55/219); 26.3% (2024, 51/194)"
+- 2027 call has seven tracks including systems for AI/ML and systems for LLM applications and agentic AI
+- Double-blind review, 10 pages including references in IEEE format; abstract due one week before the paper
+- Location rotates worldwide (Bangalore 2023, Philadelphia 2024, Tromso 2025, Sydney 2026, Dallas-Fort Worth 2027)
+editions:
+- year: 2026
+  start: 2026-05-18
+  end: 2026-05-21
+  location: Sydney, Australia
+  url: https://ccgrid2026.cdms.westernsydney.edu.au/
+- year: 2027
+  start: 2027-05-24
+  end: 2027-05-27
+  location: Dallas-Fort Worth, Texas, USA (University of North Texas)
+  url: https://hpcclab.org/ccgrid27/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-24
+    tz: AoE
+  - kind: submission
+    date: 2026-12-01
+    tz: AoE
+  - kind: notification
+    date: 2027-02-01
+  - kind: camera_ready
+    date: 2027-03-16
+sources:
+- https://hpcclab.org/ccgrid27/
+- https://hpcclab.org/?page_id=1886
+- https://clouds.cis.unimelb.edu.au/~rbuyya/ccgrid/
+- https://portal.core.edu.au/conf-ranks/?search=CCGrid&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CCGrid 2026 deadlines not recorded; the 2026 site could not be opened (access denied), dates taken from the steering committee history page
+- CORE lists the venue under its old name (Cluster, Cloud and Grid Computing)
+- CCF rank checked in the CCF 2026 list PDF mirrored by ccfddl (ccf.org.cn blocks automated access)
+last_verified: 2026-10-17

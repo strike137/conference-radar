@@ -1,0 +1,84 @@
+id: fscd
+name: FSCD
+full_name: International Conference on Formal Structures for Computation and Deduction
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: FSCD Steering Committee
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [1, 2]
+  conference_months: [7, 8]
+links:
+  website: https://fscd-conference.org/
+  dblp: https://dblp.org/db/conf/rta/index.html
+notes:
+- Started in 2016 as the merger of RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi and Applications)
+- Covers rewriting, lambda calculus, type theory, proof theory, semantics and related formal systems
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl); 2026 was LIPIcs volume 378
+- Selected papers invited to a special issue of Logical Methods in Computer Science
+- Regular papers and system descriptions, up to 15 pages in LIPIcs style excluding references; author response period
+- Mostly held in Europe (Rome 2023, Tallinn 2024, Birmingham 2025, Lisbon 2026 as part of FLoC, Nijmegen 2027); Haifa 2022 as part of FLoC
+- 2027 edition co-located with CADE in Nijmegen
+- Ranked B in ICORE2026 and C in the CCF list
+editions:
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-23
+  location: Lisbon, Portugal (part of FLoC 2026)
+  url: https://fscd2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-23
+    tz: AoE
+  - kind: submission
+    date: 2026-01-30
+    tz: AoE
+  - kind: notification
+    date: 2026-04-16
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-30
+    tz: AoE
+- year: 2027
+  start: 2027-08-23
+  end: 2027-08-26
+  location: Nijmegen, Netherlands (co-located with CADE-31)
+  url: https://fscd-cade.science.ru.nl/
+  deadlines:
+  - kind: abstract
+    date: 2027-02-15
+    label: Preliminary joint FSCD-CADE timeline
+  - kind: submission
+    date: 2027-02-22
+    label: Preliminary joint FSCD-CADE timeline
+  - kind: notification
+    date: 2027-05-17
+    label: Preliminary joint FSCD-CADE timeline
+  - kind: camera_ready
+    date: 2027-05-31
+    label: Preliminary joint FSCD-CADE timeline
+sources:
+- https://fscd-conference.org/
+- https://fscd-conference.org/editions/past
+- https://fscd-conference.org/editions/upcoming
+- https://fscd-conference.org/archive/proceedings
+- https://fscd2026.github.io/
+- https://fscd2026.github.io/CFP/
+- https://fscd-cade.science.ru.nl/
+- https://fscd-cade.science.ru.nl/important-notice
+- https://portal.core.edu.au/conf-ranks/?search=FSCD&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- FSCD 2027 deadlines come from a preliminary timeline published for FSCD and CADE together; the FSCD 2027 call for papers is not yet online
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list (listed under the full FSCD name), not on ccf.org.cn directly
+- Acceptance rates and fees not recorded

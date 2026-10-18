@@ -1,0 +1,72 @@
+id: acm-cc
+name: C&C
+full_name: ACM Conference on Creativity & Cognition
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+acceptance_rate: 20% for papers, 31% for pictorials (2026)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7]
+links:
+  website: https://cc.acm.org/
+  dblp: https://dblp.org/db/conf/candc/index.html
+notes:
+- ACM SIGCHI conference on creativity, design, art and interactive technology, held since 1993
+- Papers, pictorials and artworks share a January or February deadline (abstract one week before the full paper);
+  posters, demos and student symposia follow in spring
+- Proceedings in the ACM DL
+- Alternates between in-person and online editions (online 2021, Venice 2022, online 2023, Chicago 2024, online
+  2025, London 2026)
+- 2026 edition had 289 attendees, 48 papers (20% acceptance) and 25 pictorials (31% acceptance)
+- CORE B (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-16
+  location: Central Saint Martins, University of the Arts London, London, UK
+  url: https://cc.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-29
+    tz: AoE
+    label: Papers (abstract and metadata)
+  - kind: submission
+    date: 2026-02-05
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2026-02-07
+    tz: AoE
+    label: Supplementary material
+  - kind: notification
+    date: 2026-04-02
+    tz: AoE
+    label: Papers (moved from 2026-03-30)
+  - kind: camera_ready
+    date: 2026-05-04
+    tz: AoE
+    label: Papers
+sources:
+- https://cc.acm.org/2026/
+- https://cc.acm.org/2026/papers/
+- https://cc.acm.org/2026/venue/
+- https://cc.acm.org/2026/sponsors/
+- https://cc.acm.org/2026/past-conferences/
+- https://cc.acm.org/2025/
+- https://dl.acm.org/doi/proceedings/10.1145/3803784
+- https://portal.core.edu.au/conf-ranks/?search=Creativity&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/WenyanLiu/CCFrank4dblp/blob/master/data/ccfRankUrl.js
+unverified:
+- C&C 2027 dates, location and deadlines not yet announced (cc.acm.org shows only a 2027 placeholder)
+- Absence from the CCF list checked via a mirror of the CCF list (CCFrank4dblp), not on ccf.org.cn directly
+last_verified: 2026-10-17

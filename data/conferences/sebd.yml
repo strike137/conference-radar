@@ -1,0 +1,64 @@
+id: sebd
+name: SEBD
+full_name: Italian Symposium on Advanced Database Systems
+type: conference
+tier: minor
+areas: [data]
+region: europe
+language: english
+frequency: annual
+organizer: SEBD Steering Committee (Italian database research community)
+organizer_country: [europe]
+proceedings: CEUR-WS (CEUR Workshop Proceedings)
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://sebd.org/
+  dblp: https://dblp.org/db/conf/sebd/index.html
+notes:
+- SEBD ("Sistemi Evoluti per Basi di Dati") is the main annual meeting of the Italian database research community, held since 1993
+- Always held in Italy, usually in June at a seaside or resort town; English is the official language
+- Regular papers (up to 12 pages), discussion papers (up to 8 pages, may describe already published results) and doctoral consortium papers
+- Proceedings published on CEUR-WS and indexed in Scopus; submissions via Microsoft CMT
+- Not ranked on CORE ICORE2026 or CCF
+editions:
+- year: 2025
+  start: 2025-06-16
+  end: 2025-06-19
+  location: Ischia, Napoli, Italy
+  url: https://sebd2025.diag.uniroma1.it/
+- year: 2026
+  start: 2026-06-14
+  end: 2026-06-18
+  location: Senigallia, Ancona, Italy (La Rotonda a Mare)
+  url: https://sebd2026.dii.univpm.it/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-02-27
+    time: "23:59"
+    tz: AoE
+    label: Abstract (extended from 2026-02-20)
+  - kind: submission
+    date: 2026-03-10
+    time: "23:59"
+    tz: AoE
+    label: Paper (extended from 2026-02-27)
+  - kind: notification
+    date: 2026-04-10
+  - kind: camera_ready
+    date: 2026-04-20
+    label: Camera ready and registration
+sources:
+- https://sebd.org/
+- https://sebd2026.dii.univpm.it/
+- https://sebd2026.dii.univpm.it/cfp.html
+- https://sebd2026.dii.univpm.it/important-dates.html
+- https://portal.core.edu.au/conf-ranks/?search=SEBD&by=all&source=ICORE2026
+unverified:
+- SEBD 2025 deadlines not recorded
+- SEBD 2027 not yet announced
+last_verified: 2026-10-17

@@ -1,0 +1,71 @@
+id: ecscw
+name: ECSCW
+full_name: EUSSET Conference on Computer-Supported Cooperative Work
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: EUSSET (European Society for Socially Embedded Technologies)
+organizer_country: [europe]
+proceedings: EUSSET Digital Library
+archival: true
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://ecscw.eusset.eu/
+  dblp: https://dblp.org/db/conf/ecscw/index.html
+notes:
+- European CSCW conference established in 1989, run by EUSSET; biennial until 2017, annual since 2018
+- Called the European Conference on Computer-Supported Cooperative Work until 2025, then renamed the EUSSET Conference on Computer-Supported Cooperative Work
+- Conference papers (up to about 6,000 words, double-blind) and exploratory papers (up to 5,000 words,
+  single-blind) share one deadline; single-round review with accept or reject and no shepherding
+- Accepted conference and exploratory papers are published with a DOI in the EUSSET Digital Library
+- A journal track runs on a rolling basis through the Springer CSCW Journal; papers accepted by April 1 are
+  presented at that year's conference
+- Single-track; pre-conference days with workshops, masterclasses and a doctoral colloquium
+- Held in Europe (Zurich 2021, Coimbra 2022, Trondheim 2023, Rimini 2024, Newcastle 2025, Munich 2026)
+- CORE B (ICORE2026); CCF B (HCI and ubiquitous computing category)
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  location: Munich, Germany
+  url: https://ecscw.eusset.eu/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-06
+    time: "23:59"
+    tz: AoE
+    label: Conference and exploratory papers
+  - kind: other
+    date: 2026-04-01
+    label: Journal track acceptance cut-off for the 2026 program
+  - kind: notification
+    date: 2026-04-24
+  - kind: camera_ready
+    date: 2026-05-29
+- year: 2027
+  start: 2027-07-05
+  end: 2027-07-09
+  location: Limassol, Cyprus
+  url: https://ecscw.eusset.eu/2027/
+sources:
+- https://ecscw.eusset.eu/2026/
+- https://ecscw.eusset.eu/2026/submissions/conference-papers/
+- https://ecscw.eusset.eu/2026/submissions/exploratory-papers/
+- https://ecscw.eusset.eu/2026/submissions/journal-papers/
+- https://ecscw.eusset.eu/2026/2026/07/04/ecscw-2026-has-ended/
+- https://www.eusset.eu/events/ecscw/
+- https://dl.eusset.eu/handle/20.500.12015/5162
+- https://portal.core.edu.au/conf-ranks/?search=ECSCW&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/WenyanLiu/CCFrank4dblp/blob/master/data/ccfRankUrl.js
+unverified:
+- ECSCW 2027 deadlines not yet announced (2027 website not online yet)
+- CCF rank checked via a mirror of the CCF list (CCFrank4dblp), not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-17

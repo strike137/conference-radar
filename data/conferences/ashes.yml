@@ -1,0 +1,60 @@
+id: ashes
+name: AsHES
+full_name: International Workshop on Accelerators and Hybrid Emerging Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: AsHES steering committee (held with IEEE IPDPS)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5, 6]
+links:
+  website: https://www.ashes-hpc.org/2026/
+notes:
+- Workshop on heterogeneous and accelerator-based systems (GPUs, FPGAs, novel accelerators), covering applications,
+  programming models, compilers and runtime systems
+- Held since 2011 (first as CACHES); 16th edition in 2026
+- Co-located with IEEE IPDPS every year, so it moves with IPDPS (virtual 2021 and 2022, St. Petersburg FL 2023, San
+  Francisco 2024, Milan 2025, New Orleans 2026)
+- Papers appear with the IPDPS workshops proceedings in IEEE Xplore (stated on the 2024 and 2025 calls)
+- Full papers up to 10 pages and short papers up to 4 pages, both including references; single-blind review;
+  submission through the IPDPS Linklings site
+- Best paper award; steering committee from US labs and industry plus members in Europe and Asia
+- Not listed on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-25
+  location: New Orleans, USA (with IPDPS 2026)
+  url: https://www.ashes-hpc.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-30
+    tz: AoE
+  - kind: notification
+    date: 2026-03-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-06
+    tz: AoE
+sources:
+- https://www.ashes-hpc.org/2026/
+- https://www.ashes-hpc.org/2026/cfp.html
+- https://www.ashes-hpc.org/2026/organizers.html
+- https://www.ashes-hpc.org/2026/submission.html
+- https://www.ashes-hpc.org/2026/program.html
+- https://pmodels.github.io/ashes-www/2025/
+- https://pmodels.github.io/ashes-www/2024/
+- https://portal.core.edu.au/conf-ranks/?search=AsHES&by=all&source=ICORE2026
+- https://www.ipdps.org/
+unverified:
+- The 2026 call lists proceedings as TBD; IEEE Xplore is taken from the 2024 and 2025 calls
+- AsHES 2027 not yet announced; IPDPS 2027 (Seattle, June 1-5, 2027) lists its workshops as announced in November 2026
+- CCF rank checked via a mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-17

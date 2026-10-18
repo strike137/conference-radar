@@ -1,0 +1,61 @@
+id: tpdp
+name: TPDP
+full_name: Theory and Practice of Differential Privacy
+type: workshop
+tier: minor
+areas: [security, data, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: TPDP organizing committee (workshop of the Journal of Privacy and Confidentiality community)
+organizer_country: [usa]
+proceedings: None (no formal proceedings)
+archival: false
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://tpdp.journalprivacyconfidentiality.org/2026/
+notes:
+- Main workshop of the differential privacy community, covering DP theory, DP and machine learning, statistics, systems and policy
+- Submissions are 4-page abstracts (excluding references), not anonymized; work already published since the previous TPDP deadline is welcome
+- 'Non-archival: no formal proceedings, so later publication elsewhere is allowed'
+- Selected papers are invited to a special issue of the Journal of Privacy and Confidentiality
+- Accepted abstracts are presented as talks or posters; the 2026 call expected more competitive review than earlier years
+- Held as part of ICML in 2021 and 2022; standalone since 2023 (Boston 2023, Boston 2024, Google Mountain View 2025, Northeastern University Boston 2026)
+- 2026 edition was co-located with the OpenDP health and genomics workshop and FORC
+editions:
+- year: 2025
+  start: 2025-06-02
+  end: 2025-06-03
+  location: Mountain View, CA, USA
+  url: https://tpdp.journalprivacyconfidentiality.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-20
+    tz: AoE
+  - kind: notification
+    date: 2025-05-01
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-02
+  location: Boston, MA, USA
+  url: https://tpdp.journalprivacyconfidentiality.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-18
+    tz: AoE
+  - kind: notification
+    date: 2026-04-02
+sources:
+- https://tpdp.journalprivacyconfidentiality.org/2026/
+- https://tpdp.journalprivacyconfidentiality.org/2025/
+- https://tpdp.journalprivacyconfidentiality.org/2024/
+- https://tpdp.journalprivacyconfidentiality.org/2023/
+- https://tpdp.journalprivacyconfidentiality.org/2022/
+- https://portal.core.edu.au/conf-ranks/?search=TPDP&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- TPDP 2027 not announced yet
+- organizer_country inferred from the US-based chairs and venues; no formal organizing body is named on the site
+- Not found in the ICORE2026 portal and not in the CCF list, so no rank is given

@@ -1,0 +1,50 @@
+id: ngno
+name: NGNO
+full_name: ACM SIGCOMM Workshop on Next-Generation Network Observability
+type: workshop
+tier: minor
+areas: [networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ACM SIGCOMM workshop; 2025 general co-chairs Han Zhang (Tsinghua University), Guyue Liu (Peking University)
+  and Yang Xiang (Yunshan Networks)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://conferences.sigcomm.org/sigcomm/2025/workshop/ngno/
+notes:
+- Workshop on network observability (telemetry, eBPF, AI-driven anomaly detection and troubleshooting), co-located with
+  ACM SIGCOMM; 1st edition at SIGCOMM 2025 in Coimbra
+- Papers appear in the ACM Digital Library as Proceedings of the 1st Workshop on Next-Generation Network Observability
+- Short papers up to 6 pages including references; 2-page lightning papers plus 1 page of references; double-blind
+- Half-day workshop; nine papers in the 2025 program
+- No NGNO workshop is listed among the SIGCOMM 2026 workshops
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-09-08
+  end: 2025-09-08
+  location: Coimbra, Portugal
+  url: https://conferences.sigcomm.org/sigcomm/2025/workshop/ngno/
+  deadlines:
+  - kind: submission
+    date: 2025-05-31
+    label: Extended
+  - kind: notification
+    date: 2025-06-13
+  - kind: camera_ready
+    date: 2025-07-02
+sources:
+- https://conferences.sigcomm.org/sigcomm/2025/workshop/ngno/
+- https://conferences.sigcomm.org/sigcomm/2025/workshop/papers-workshop-info
+- https://dl.acm.org/doi/proceedings/10.1145/3748496
+- https://conferences.sigcomm.org/sigcomm/2026/workshops/call/
+- https://portal.core.edu.au/conf-ranks/?search=NGNO&by=all&source=ICORE2026
+unverified:
+- No 2026 edition (not among the SIGCOMM 2026 workshops, checked 2026-10-17); whether it returns in 2027 is not announced
+last_verified: 2026-10-17

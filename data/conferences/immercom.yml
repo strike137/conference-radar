@@ -1,0 +1,76 @@
+id: immercom
+name: ImmerCom
+full_name: ACM Workshop on Mobile Immersive Computing, Networking, and Systems
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ImmerCom steering committee (chair Bo Han, George Mason University), co-located with ACM MobiCom
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [6, 7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://immercom.github.io/
+notes:
+- One-day workshop on AR, VR and XR systems and networking, held with ACM MobiCom every year since 2023 (2026 is
+  the 4th edition)
+- Papers published in the ACM Digital Library as part of the ACM MobiCom proceedings
+- Papers up to 6 pages in two-column 10pt ACM format plus references and appendices; single-blind review via HotCRP
+- Location follows MobiCom (2023 Madrid, 2024 Washington D.C., 2025 Hong Kong, 2026 Austin)
+- Deadlines are usually extended by a few weeks
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Hong Kong, China
+  url: https://immercom.github.io/2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-08-08
+    tz: AoE
+    label: Extended from 2025-07-19
+  - kind: notification
+    date: 2025-09-01
+    tz: AoE
+    label: Extended from 2025-08-12
+  - kind: camera_ready
+    date: 2025-09-13
+    tz: AoE
+- year: 2026
+  start: 2026-10-30
+  end: 2026-10-30
+  location: Austin, USA
+  url: https://immercom.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-26
+    tz: AoE
+    label: Extended from 2026-06-05
+  - kind: notification
+    date: 2026-08-15
+    tz: AoE
+    label: Extended from 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-30
+    tz: AoE
+    label: Extended from 2026-08-21
+sources:
+- https://immercom.github.io/
+- https://immercom.github.io/call.html
+- https://immercom.github.io/submission.html
+- https://immercom.github.io/committees.html
+- https://immercom.github.io/2025/index.html
+- https://immercom.github.io/2024/index.html
+- https://immercom.github.io/2023/index.html
+- https://portal.core.edu.au/conf-ranks/?search=ImmerCom&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ImmerCom 2027 dates (not announced yet)
+- Acceptance rate (not published on the workshop site)
+- CCF 2026 list not checked on ccf.org.cn directly; workshop not expected to be listed
+last_verified: 2026-10-17

@@ -1,0 +1,77 @@
+id: smc-it-scc
+name: IEEE SMC-IT/SCC
+full_name: IEEE International Conference on Space Mission Challenges for Information Technology / IEEE Space Computing
+  Conference
+type: conference
+tier: minor
+areas: [systems, software, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Computer Society (TC on Software Engineering and TC on Computer Architecture), organized by NASA JPL and
+  NASA Ames researchers
+organizer_country: [usa]
+proceedings: IEEE Xplore
+typical:
+  deadline_months: [4]
+  conference_months: [7, 8]
+links:
+  website: https://smcit-scc.space/
+notes:
+- Two joint conferences run together since 2023 (SMC-IT 12th and SCC 17th edition in 2026)
+- Sponsored by the IEEE Computer Society TC on Software Engineering and TC on Computer Architecture; chairs mostly
+  from NASA JPL and NASA Ames
+- Held in California every year (2023 Pasadena, 2024 Mountain View, 2025 Los Angeles, 2026 Pasadena)
+- Topics are IT, computing hardware and software for space missions (flight and ground systems, radiation-tolerant
+  computing, autonomy, space cybersecurity)
+- Single-pass full-paper review; papers up to 10 pages excluding references, published in IEEE Xplore
+- SCC also accepts presentation-only abstracts, which are not published in the proceedings
+- Optional abstract feedback round in December or January before the full-paper deadline
+- Many co-located workshops (space robotics, space cyber, HPSC, dependable systems, V&V)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-07-28
+  end: 2025-08-01
+  location: Los Angeles, California, USA
+  url: https://2025.smcit-scc.space/
+  deadlines:
+  - kind: other
+    date: 2024-12-13
+    label: Optional SCC abstract for feedback
+  - kind: submission
+    date: 2025-04-04
+    label: Full papers (SMC-IT and SCC) and SCC presentation-only abstracts
+  - kind: notification
+    date: 2025-04-25
+  - kind: camera_ready
+    date: 2025-07-07
+- year: 2026
+  start: 2026-08-03
+  end: 2026-08-07
+  location: Pasadena, California, USA
+  url: https://smcit-scc.space/
+  deadlines:
+  - kind: other
+    date: 2026-01-03
+    label: Optional paper abstract for feedback
+  - kind: submission
+    date: 2026-04-18
+    label: Full papers and presentation-only abstracts (extended)
+  - kind: notification
+    date: 2026-05-09
+    label: Extended
+  - kind: camera_ready
+    date: 2026-07-07
+sources:
+- https://smcit-scc.space/
+- https://smcit-scc.space/track/smc-it-scc-2026-papers
+- https://smcit-scc.space/series/smc-it-scc
+- https://2025.smcit-scc.space/
+- https://2025.smcit-scc.space/track/smc-it-scc-2025-papers
+- https://portal.core.edu.au/conf-ranks/?search=SMC-IT&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) 2026 full-paper deadline not shown on the official page
+- 2027 edition not yet announced
+- Acceptance rate not published
+last_verified: 2026-10-17

@@ -1,0 +1,66 @@
+id: wetice
+name: IEEE WETICE
+full_name: "IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises"
+type: conference
+tier: minor
+areas: [systems, software, data]
+region: europe
+language: english
+frequency: annual
+organizer: WETICE steering committee (IEEE technically sponsored)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, DBLP, EI]
+rank:
+  core: C
+typical:
+  deadline_months: [4, 6]
+  conference_months: [4, 7]
+links:
+  website: https://www.olab-dynamics.net/wetice2027/
+notes:
+- Long-running venue on enabling technologies for collaboration, originally a workshop series; 34th edition in 2026
+- Topics include collaborative business processes, blockchain and DAOs, IoT platforms, distributed trust, cloud and
+  data analytics
+- Main track plus several invited tracks (security and privacy, formal methods and others)
+- Proceedings submitted to IEEE Xplore; papers up to 6 pages in IEEE format, submitted via Microsoft CMT
+- Usually held in France or Italy (Paris 2026, Catania 2025, Reggio Emilia 2024, Paris 2023); 2027 edition in Marrakech,
+  Morocco
+- Dates vary a lot from year to year (July 2025, July 2026, April 2027)
+- CORE C (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-07-08
+  end: 2026-07-10
+  location: Paris, France
+  url: https://www.olab-dynamics.net/wetice2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-08
+  - kind: notification
+    date: 2026-05-10
+  - kind: camera_ready
+    date: 2026-05-15
+- year: 2027
+  start: 2027-04-19
+  end: 2027-04-22
+  location: Marrakech, Morocco
+  url: https://www.olab-dynamics.net/wetice2027/
+  deadlines:
+  - kind: notification
+    date: 2027-02-01
+  - kind: camera_ready
+    date: 2027-02-08
+sources:
+- https://www.olab-dynamics.net/wetice2027/
+- https://www.olab-dynamics.net/wetice2026/
+- https://www.olab-dynamics.net/wetice2026/committees.html
+- https://www.dmi.unict.it/wetice2025/
+- https://portal.core.edu.au/conf-ranks/?search=WETICE&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- WETICE 2027 submission deadline is printed as 18/12/2027 on the official page, after the conference itself; probably
+  2026-12-18 but left out until corrected
+- Acceptance rate and registration fee (not stated on the official pages)
+- Not on the CCF 2026 list (checked via the CCFrank4dblp mirror)

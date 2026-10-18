@@ -1,0 +1,54 @@
+id: unlp
+name: UNLP
+full_name: Ukrainian Natural Language Processing Conference
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Ukrainian Catholic University and National University of Kyiv-Mohyla Academy
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://unlp.org.ua/
+notes:
+- NLP for the Ukrainian language (and Crimean Tatar); submissions must relate to Ukrainian or Crimean Tatar
+- Started in 2021 as a workshop co-located with ICTERI, then held at EACL 2023, LREC-COLING 2024 and ACL 2025
+- Became a standalone conference in 2026, held in hybrid format at the Ukrainian Catholic University in Lviv
+- Proceedings in the ACL Anthology (23 papers in 2026, 21 in 2025)
+- Long papers up to 8 pages and short papers up to 4 pages in ACL format; double-blind review with at least three reviewers
+- Runs a shared task every year (multi-domain document understanding in 2026)
+- "Acceptance rate: 20 of 41 submissions (2025)"
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-29
+  end: 2026-05-30
+  location: Lviv, Ukraine (hybrid)
+  url: https://unlp.org.ua/
+  deadlines:
+  - kind: submission
+    date: 2026-03-16
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-15
+  - kind: camera_ready
+    date: 2026-04-26
+    time: "23:59"
+    tz: AoE
+sources:
+- https://unlp.org.ua/
+- https://unlp.org.ua/call-for-papers/
+- https://unlp.org.ua/history/
+- https://unlp.org.ua/committees/
+- https://aclanthology.org/venues/unlp/
+- https://portal.core.edu.au/conf-ranks/?search=UNLP&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2027 edition announced as of 2026-10-17

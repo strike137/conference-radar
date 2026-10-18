@@ -1,0 +1,62 @@
+id: mlcb
+name: MLCB
+full_name: Machine Learning in Computational Biology
+type: conference
+tier: minor
+areas: [ai, data]
+region: north-america
+language: english
+frequency: annual
+organizer: MLCB Organizing Committee
+organizer_country: [usa]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 11]
+links:
+  website: https://www.mlcb.org/
+notes:
+- Started as a NeurIPS workshop (2004 to 2017); independent conference since 2019
+- Run by US academics (Columbia/NY Genome Center, Cold Spring Harbor Laboratory, University of Washington, UC Davis,
+  Stanford)
+- Two tracks; 8-page full papers can opt in to PMLR proceedings, 2-page abstracts are poster only and non-archival
+- Single-blind review; author response only for PMLR opt-in papers
+- Virtual 2020 to 2022, Seattle 2023 and 2024, New York Genome Center 2025 and 2026; hybrid with a YouTube stream
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-09-10
+  end: 2025-09-11
+  location: New York Genome Center, New York, NY, USA
+  url: https://sites.google.com/view/mlcb2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-03
+    tz: AoE
+    label: Extended from 2025-06-01
+  - kind: notification
+    date: 2025-07-13
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-17
+  location: New York Genome Center, New York, NY, USA
+  url: https://www.mlcb.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-05
+    tz: AoE
+    label: Extended from 2026-07-03
+  - kind: notification
+    date: 2026-08-21
+  - kind: camera_ready
+    date: 2026-11-06
+    label: PMLR track only
+sources:
+- https://www.mlcb.org/
+- https://www.mlcb.org/submit
+- https://sites.google.com/view/mlcb2025
+- https://sites.google.com/view/mlcb2025/submit
+- https://sites.google.com/cs.washington.edu/mlcb2024/
+- https://portal.core.edu.au/conf-ranks/?search=MLCB&by=all&source=ICORE2026
+last_verified: 2026-10-17

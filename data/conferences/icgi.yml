@@ -1,0 +1,67 @@
+id: icgi
+name: ICGI
+full_name: International Conference on Grammatical Inference
+type: conference
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ICGI Steering Committee (GrammarLearning.org community) with a local host university
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [3, 6]
+  conference_months: [7, 10]
+links:
+  website: https://grammarlearning.org/
+  dblp: https://dblp.org/db/conf/icgi/index.html
+notes:
+- Main venue of the grammatical inference community (machine learning meets formal language theory); held since 1993
+- Roughly every two to three years (2014, 2016, 2018, 2020/21, 2023, 2026)
+- Regular papers published in PMLR (2023 -> Volume 217); extended abstracts of published work and work in progress papers are not published
+- Double-blind review; up to 12 pages in the JMLR style
+- Rotates worldwide (Kyoto 2014, Delft 2016, Wroclaw 2018, New York hybrid 2020/21, Rabat 2023, Delft 2026)
+- 2026 edition was postponed from April to October 2026 with a new call for papers
+- 2026 registration 450 EUR regular, 350 EUR student, including the conference dinner
+- Not found in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2023
+  start: 2023-07-10
+  end: 2023-07-13
+  location: Rabat, Morocco
+  url: https://icgi2023.inria.fr/
+  deadlines:
+  - kind: submission
+    date: 2023-03-12
+    tz: AoE
+    label: Extended from 2023-03-01
+- year: 2026
+  start: 2026-10-26
+  end: 2026-10-28
+  location: Delft, Netherlands
+  url: https://icgi2026.tudelft.nl/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    tz: AoE
+    label: Extended from 2026-05-29 (after postponement from April 2026)
+  - kind: notification
+    date: 2026-07-10
+    tz: AoE
+sources:
+- https://grammarlearning.org/
+- https://grammarlearning.org/icgi-2026-postponed-new-cfp-and-dates/
+- https://grammarlearning.org/icgi-2026-deadline-extension/
+- https://icgi2026.tudelft.nl/
+- https://icgi2026.tudelft.nl/cfp.html
+- https://icgi2026.tudelft.nl/registration.html
+- https://icgi2023.inria.fr/
+- https://icgi2023.inria.fr/calls/
+- https://proceedings.mlr.press/v217/
+- https://portal.core.edu.au/conf-ranks/?search=ICGI&by=all&source=ICORE2026
+unverified:
+- Next edition after 2026 not yet announced
+- The icgi2025.github.io address redirects to a domain that does not resolve; no 2025 edition was held (2026 is the 17th edition after the 16th in 2023)
+last_verified: 2026-10-17

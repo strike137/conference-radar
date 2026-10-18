@@ -1,0 +1,57 @@
+id: iwbf
+name: IWBF
+full_name: International Workshop on Biometrics and Forensics
+type: conference
+tier: minor
+areas: [security, vision]
+region: europe
+language: english
+frequency: annual
+organizer: IWBF advisory board with a different European host institution each year (EURECOM in 2026), publicity with the European Association for Biometrics (EAB)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+fee: 300 EUR regular, 250 EUR student (2026, early bird)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [4]
+links:
+  website: https://iwbf2026.github.io/
+notes:
+- Standalone two-day workshop on biometrics, multimedia forensics, deepfake detection and forensic science
+- 14th edition in 2026; recent editions in Rome 2021, Salzburg 2022, Barcelona 2023, Enschede 2024, Munich 2025 and Sophia Antipolis 2026
+- Papers up to 6 pages in IEEE format, double-blind review; proceedings in IEEE Xplore
+- Regular, position and blue sky papers accepted
+- One author must register at the regular rate and present in person
+- Each edition has its own website; no permanent series site
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-23
+  end: 2026-04-24
+  location: EURECOM, Sophia Antipolis, France
+  url: https://iwbf2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    time: "12:00"
+    tz: CET
+    label: Papers (extended from 2026-01-31)
+  - kind: notification
+    date: 2026-03-05
+  - kind: camera_ready
+    date: 2026-03-15
+    time: "23:59"
+    tz: CET
+sources:
+- https://iwbf2026.github.io/
+- https://iwbf2026.github.io/callforpapers.html
+- https://iwbf2026.github.io/papersubmission.html
+- https://iwbf2026.github.io/organisation.html
+- https://iwbf2026.github.io/registration.html
+- https://doi.org/10.1109/iwbf68042.2026
+- https://api.crossref.org/works?query.bibliographic=International+Workshop+on+Biometrics+and+Forensics+IWBF&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=IWBF&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- 2027 edition not yet announced

@@ -1,0 +1,77 @@
+id: issac
+name: ISSAC
+full_name: International Symposium on Symbolic and Algebraic Computation
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ISSAC Steering Committee (ACM SIGSAM, Fachgruppe Computeralgebra, Chinese Association for Computer Mathematics)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+fee: EUR 360 regular, EUR 220 student (2026, early)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [7]
+links:
+  website: https://www.issac-conference.org/
+  dblp: https://dblp.org/db/conf/issac/
+notes:
+- Premier conference on symbolic computation and computer algebra; series started in 1966, annual since 1981
+- Proceedings in the ACM Digital Library; papers up to 8 pages in ACM two-column style plus 2 extra pages
+- Review process with a rebuttal phase between first and final notification
+- Also has short communications (posters) and software presentations with later deadlines
+- 'Recent hosts: Lille (2022), Tromso (2023), Raleigh (2024), Guanajuato (2025), Oldenburg (2026)'
+- ISSAC 2027 in Tsukuba, Japan (July 2027); ISSAC 2028 in Madrid, Spain (July 2028)
+- CORE B; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-17
+  location: Oldenburg, Germany
+  url: https://www.issac-conference.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-30
+    time: "23:59"
+    tz: AoE
+    label: Abstract (extended from 2026-01-23)
+  - kind: submission
+    date: 2026-02-06
+    time: "23:59"
+    tz: AoE
+    label: Paper (extended from 2026-01-30)
+  - kind: notification
+    date: 2026-04-17
+    label: First notification
+  - kind: notification
+    date: 2026-05-01
+    label: Final notification after rebuttal
+  - kind: camera_ready
+    date: 2026-05-08
+  - kind: other
+    date: 2026-05-08
+    time: "23:59"
+    tz: AoE
+    label: Short communications (posters)
+  - kind: other
+    date: 2026-05-01
+    time: "23:59"
+    tz: AoE
+    label: Software presentations (extended from 2026-04-24)
+sources:
+- https://www.issac-conference.org/
+- https://www.issac-conference.org/past.php
+- https://www.issac-conference.org/2026/
+- https://www.issac-conference.org/2026/calls/ISSAC26-CFP-F.txt
+- https://www.issac-conference.org/2026/registration.php
+- https://portal.core.edu.au/conf-ranks/?search=ISSAC&by=acronym&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- ISSAC 2027 (Tsukuba, Japan) announced for July 2027 only; exact dates and deadlines not published yet
+- Not found in the ccfddl mirror of the CCF 2026 list PDF (ccf.org.cn behind a captcha)
+last_verified: 2026-10-17

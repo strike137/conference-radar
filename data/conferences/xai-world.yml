@@ -1,0 +1,76 @@
+id: xai-world
+name: xAI
+full_name: World Conference on eXplainable Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: xAI steering committee (University College Cork, Fraunhofer HHI, University of Pavia, University of Marburg, FU Berlin, University of Pisa)
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+fee: 750 EUR author full registration (2026)
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://xaiworldconference.com/
+notes:
+- Multidisciplinary conference on explainable AI, first held in 2023
+- Editions in Lisbon 2023, Valletta 2024, Istanbul 2025 and Fortaleza (Brazil) 2026
+- Full and short papers in main track and special sessions published after the event in Springer CCIS
+- Late-breaking work, demos and doctoral consortium papers planned for CEUR-WS
+- Many special sessions on applied XAI topics; special session papers go through the central review
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-01
+  end: 2026-07-03
+  location: Fortaleza, Brazil
+  url: https://xaiworldconference.com/2026/
+  deadlines:
+  - kind: other
+    date: 2025-11-15
+    tz: AoE
+    label: Special session proposals
+  - kind: submission
+    date: 2026-02-08
+    tz: AoE
+    label: Full and short papers (extended from 2026-02-01)
+  - kind: notification
+    date: 2026-03-06
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-15
+    tz: AoE
+    label: Camera-ready and registration
+  - kind: other
+    date: 2026-03-15
+    tz: AoE
+    label: Late-breaking work and demos
+- year: 2027
+  url: https://xaiworldconference.com/2027/
+  deadlines:
+  - kind: other
+    date: 2026-11-06
+    tz: AoE
+    label: Special session proposals
+sources:
+- https://xaiworldconference.com/2026/
+- https://xaiworldconference.com/2026/important-dates/
+- https://xaiworldconference.com/2026/publications/
+- https://xaiworldconference.com/2026/committees/
+- https://xaiworldconference.com/2026/registration__/
+- https://xaiworldconference.com/2026/venue/
+- https://xaiworldconference.com/2027/
+- https://xaiworldconference.com/2027/important-dates/
+- https://xaiworldconference.com/2025/
+- https://xaiworldconference.com/2025/important-dates/
+- https://xaiworldconference.com/2024/
+- https://xaiworldconference.com/2023/
+- https://portal.core.edu.au/conf-ranks/?search=xAI&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- 2027 dates and location are to be announced; the 2027 important dates page still lists 2026 dates for papers, so only the special session deadline is recorded

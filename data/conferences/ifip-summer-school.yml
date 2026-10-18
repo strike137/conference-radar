@@ -1,0 +1,85 @@
+id: ifip-summer-school
+name: IFIP Summer School
+full_name: IFIP Summer School on Privacy and Identity Management
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: IFIP TC11 (WG 9.6/11.7 and WG 11.6)
+organizer_country: [international]
+proceedings: Springer IFIP AICT (post-proceedings)
+archival: true
+fee: 500 EUR regular early, 550 EUR late; 450 EUR / 500 EUR for IFIP members (2026)
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://ifip-summerschool.github.io/
+notes:
+- Interdisciplinary privacy and identity management event (computer science, law, social sciences) supported by IFIP
+  TC11, WG 9.6/11.7 and WG 11.6
+- Summer school format with keynotes, tutorials, workshops and paper sessions; aimed at PhD students and young
+  researchers
+- Two-stage process; extended abstracts (2 to 4 pages LNCS) get a light review for presentation, then revised full
+  papers are reviewed after the school for the proceedings
+- Post-proceedings published by Springer in the IFIP AICT series, about half a year after the school
+- At least one author per accepted abstract must attend and register by the early bird deadline
+- Held in a different European city every year (Oslo 2023, Madrid 2024, Copenhagen 2025, Leuven 2026)
+- ECTS certificates offered to student participants
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  label: 21st IFIP Summer School
+  start: 2026-08-10
+  end: 2026-08-14
+  location: KU Leuven, Leuven, Belgium
+  url: https://ifip-summerschool.github.io/archive/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-15
+    tz: AoE
+    label: Extended abstract, extended from 2026-04-30
+  - kind: notification
+    date: 2026-06-08
+    tz: AoE
+    label: Moved from 2026-06-05
+  - kind: other
+    date: 2026-06-19
+    tz: AoE
+    label: Early bird registration
+  - kind: submission
+    date: 2026-07-31
+    tz: AoE
+    label: Full paper (before the school)
+  - kind: other
+    date: 2026-09-25
+    tz: AoE
+    label: Revised full paper for the proceedings
+  - kind: other
+    date: 2026-11-20
+    tz: AoE
+    label: Full paper feedback
+  - kind: camera_ready
+    date: 2026-12-11
+    tz: AoE
+- year: 2027
+  label: 22nd IFIP Summer School
+  start: 2027-08-09
+  end: 2027-08-13
+  location: Hochschule Bonn-Rhein-Sieg, Sankt Augustin, Germany
+  url: https://ifip-summerschool.github.io/
+sources:
+- https://ifip-summerschool.github.io/
+- https://ifip-summerschool.github.io/important_dates/
+- https://ifip-summerschool.github.io/venue/
+- https://ifip-summerschool.github.io/previous_conferences/
+- https://ifip-summerschool.github.io/archive/2026
+- https://ifip-summerschool.github.io/archive/2025
+- https://portal.core.edu.au/conf-ranks/?search=Privacy+and+Identity&by=all&source=ICORE2026
+unverified:
+- 2027 deadlines not announced as of 2026-10-17
+- The 2026 important dates table lists the school as 10.-14.08.2024 (typo); the 2026 programme confirms 10 to 14
+  August 2026
+last_verified: 2026-10-17

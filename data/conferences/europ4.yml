@@ -1,0 +1,77 @@
+id: europ4
+name: EuroP4
+full_name: European P4 Workshop
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: europe
+language: english
+frequency: annual
+organizer: P4 Language Consortium (P4.org)
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://p4.org/euro-p4-2026/
+notes:
+- Workshop of the P4 Language Consortium on research enabled by P4 and programmable data planes (switch ASICs,
+  SmartNICs, DPUs, in-network computing)
+- Co-located with a networking conference, mostly ACM CoNEXT (2022 Rome, 2023 Paris, 2026 Utrecht); 2024 was with
+  IEEE ICNP in Charleroi, Belgium; 2020 and 2021 were virtual; no edition in 2025
+- Short papers of up to 6 pages in ACM format, double-blind review, plus a separate posters and demos track
+- Papers appear in the ACM Digital Library (2023 and 2026 with CoNEXT); the 2024 papers went to IEEE Xplore with ICNP
+- At least one author must register at the full rate and present in person for the paper to appear in the proceedings
+- Workshop-only registration is sold through the host conference
+editions:
+- year: 2024
+  start: 2024-10-28
+  end: 2024-10-28
+  location: Charleroi, Belgium
+  url: https://p4.org/event/7th-european-p4-workshop-europ424/
+  deadlines:
+  - kind: submission
+    date: 2024-08-12
+    label: Extended from 2024-07-29
+  - kind: notification
+    date: 2024-08-30
+  - kind: camera_ready
+    date: 2024-09-16
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-07
+  location: Utrecht, Netherlands
+  url: https://p4.org/euro-p4-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-17
+    time: "23:59"
+    tz: CET
+    label: Papers, extended from 2026-08-07
+  - kind: other
+    date: 2026-09-06
+    time: "23:59"
+    tz: CET
+    label: Posters and demos, extended from 2026-09-01
+  - kind: notification
+    date: 2026-09-14
+  - kind: camera_ready
+    date: 2026-09-28
+sources:
+- https://p4.org/euro-p4-2026/
+- https://p4.org/event/8th-european-p4-workshop-europ426/
+- https://p4.org/event/7th-european-p4-workshop-europ424/
+- https://sessionize.com/Euro_p4_2024
+- https://p4.org/event/euro-p4-2023/
+- https://p4.org/event/euro-p4-2022/
+- https://p4.org/event/4th-p4-workshop-in-europe-europ4-2021/
+- https://p4.org/event/3rd-p4-workshop-in-europe-europ4/
+- https://dl.acm.org/doi/proceedings/10.1145/3630047
+- https://portal.core.edu.au/conf-ranks/?search=EuroP4&by=all&source=ICORE2026
+unverified:
+- Not found on the ICORE2026 portal and not on the CCF 2026 list
+- Registration fee for 2026 not stated (set by CoNEXT 2026)
+- Whether the workshop returns to a yearly cycle after skipping 2025
+last_verified: 2026-10-17

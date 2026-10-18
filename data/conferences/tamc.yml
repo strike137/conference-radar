@@ -1,0 +1,70 @@
+id: tamc
+name: TAMC
+full_name: Annual Conference on Theory and Applications of Models of Computation
+type: conference
+tier: minor
+areas: [general]
+region: china
+language: english
+frequency: irregular
+organizer: TAMC Steering Committee, with a local host university each edition (Shandong University in 2026)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [6, 7, 8]
+  conference_months: [9, 11]
+links:
+  website: https://www.cs.sdu.edu.cn/tamc2026.htm
+notes:
+- Theory venue started in 2006 in Beijing; steering committee includes Manindra Agrawal, Jin-Yi Cai and John Hopcroft
+- Scope covers computability, complexity, algorithms, automata, quantum computing, learning theory and foundations of AI
+- Proceedings in Springer LNCS for every edition since 2006
+- Held mostly in China (Changsha 2020, Tianjin 2022, Hong Kong 2024, Jinan 2025, Qingdao 2026); earlier editions also in
+  Japan, Switzerland, Singapore and India
+- Not held every year (no edition in 2021 or 2023)
+- Double-blind review, papers up to 12 pages in LNCS style including references, optional appendix
+- Selected papers invited to special issues of TCS, Journal of Combinatorial Optimization and JCSS
+- "Registration fee: 500 USD regular, 250 USD student or PC member (2026, early)"
+- Ranked C in ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-19
+  end: 2025-09-21
+  location: Jinan, China
+  url: http://www.maths.sdnu.edu.cn/TAMC2025.htm
+  deadlines:
+  - kind: submission
+    date: 2025-06-01
+    label: Paper submission (extended from 2025-05-25)
+  - kind: notification
+    date: 2025-07-01
+  - kind: camera_ready
+    date: 2025-07-15
+    label: Camera-ready and registration
+- year: 2026
+  label: 20th TAMC
+  start: 2026-11-13
+  end: 2026-11-15
+  location: Qingdao, China
+  url: https://www.cs.sdu.edu.cn/tamc2026.htm
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    label: Paper submission (extended from 2026-07-15)
+  - kind: notification
+    date: 2026-09-25
+  - kind: camera_ready
+    date: 2026-10-05
+sources:
+- https://www.cs.sdu.edu.cn/tamc2026.htm
+- http://www.maths.sdnu.edu.cn/TAMC2025.htm
+- https://easychair.org/cfp/TAMC2025
+- https://link.springer.com/conference/tamc
+- https://portal.core.edu.au/conf-ranks/?search=TAMC&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+last_verified: 2026-10-17
+unverified:
+- Not in the CCF 2026 list (checked via the ccfddl mirror, ccf.org.cn behind a captcha)

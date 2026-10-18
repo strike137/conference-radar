@@ -1,0 +1,58 @@
+id: bsides-nashville
+name: BSides Nashville
+full_name: BSides Nashville
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: BSides Nashville (volunteer-run non-profit)
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [4, 5]
+links:
+  website: https://bsidesnash.org/
+notes:
+- Volunteer-run, non-profit Security BSides conference in Nashville, Tennessee, USA
+- One-day event; 2026 had two tracks (Red for offensive, Blue for defensive) at Marathon Music Works and The
+  Foundry
+- Call for papers on Sessionize with blind review; talks of up to 40 minutes, no vendor pitches, in person only
+- Talks are not recorded and there are no proceedings; speakers pay their own travel
+- Jeopardy-style CTF and villages; 25 free scholarship tickets for students and people with financial need
+- Previous venues include Lipscomb University (2024) and The Factory in Franklin (2025)
+editions:
+- year: 2026
+  start: 2026-05-15
+  end: 2026-05-15
+  location: Marathon Music Works and The Foundry, Nashville, Tennessee, USA
+  url: https://bsidesnash.org/
+  deadlines:
+  - kind: other
+    date: 2025-10-31
+    label: Call for Papers opens
+  - kind: submission
+    date: 2026-01-19
+    time: "23:59"
+    tz: UTC-6
+    label: Call for Papers
+- year: 2027
+  start: 2027-04-23
+  end: 2027-04-23
+  location: Marathon Music Works, Nashville, Tennessee, USA
+  url: https://bsidesnash.org/
+sources:
+- https://bsidesnash.org/
+- https://bsidesnash.org/cfp
+- https://bsidesnash.org/years
+- https://bsidesnash.org/2026changes
+- https://bsidesnash.org/schedule
+- https://sessionize.com/bsides-nashville-2026
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- "2027 CFP opening date: the CFP page says October 31st, 2027, which looks like a typo for 2026; no close date yet"
+- Not listed in ICORE2026 or the CCF 2026 list

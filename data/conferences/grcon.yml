@@ -1,0 +1,75 @@
+id: grcon
+name: GRCon
+full_name: GNU Radio Conference
+type: industry
+tier: minor
+areas: [communications]
+region: north-america
+language: english
+frequency: annual
+organizer: GNU Radio project (volunteer organizing committee)
+organizer_country: [usa]
+proceedings: Proceedings of the GNU Radio Conference (pubs.gnuradio.org)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://events.gnuradio.org/e/grcon26
+notes:
+- Annual conference of the GNU Radio open source software defined radio community, first held in 2011
+- Week-long event with talks, papers, posters, workshops, tutorials, vendor exhibition, a capture the flag and
+  amateur radio license exams
+- Attendees from industry, academia, government and hobbyists; volunteer organizing committee
+- Paper track published in the open-access Technical Proceedings of the GNU Radio Conference (pubs.gnuradio.org,
+  indexed by Google Scholar); talk-only contributions are not published
+- Review is on abstracts only (1 to 5 rubric, not blind); full papers are due on the first day of the conference
+- Single call for participation (talks, papers, posters, workshops) handled on Indico
+- Held in the USA (Everett, WA in 2025; Raleigh, NC at NC State University in 2026)
+editions:
+- year: 2025
+  start: 2025-09-08
+  end: 2025-09-12
+  location: Edward D. Hansen Conference Center, Everett, WA, USA
+  url: https://events.gnuradio.org/e/grcon25
+  deadlines:
+  - kind: submission
+    date: 2025-06-13
+    label: Call for participation (extended)
+  - kind: notification
+    date: 2025-07-07
+    label: Initial main track schedule posted
+  - kind: camera_ready
+    date: 2025-09-05
+    label: Slides and final paper
+- year: 2026
+  start: 2026-09-21
+  end: 2026-09-25
+  location: Talley Student Union, NC State University, Raleigh, NC, USA
+  url: https://events.gnuradio.org/e/grcon26
+  deadlines:
+  - kind: submission
+    date: 2026-06-26
+    time: "23:59"
+    tz: EDT
+    label: Call for participation (abstracts)
+  - kind: notification
+    date: 2026-07-26
+    label: Initial main track schedule posted (moved from 2026-07-24)
+  - kind: camera_ready
+    date: 2026-09-21
+    label: Full papers due on the first day of GRCon
+sources:
+- https://events.gnuradio.org/e/grcon26
+- https://events.gnuradio.org/event/28/page/211-about-grcon
+- https://events.gnuradio.org/event/28/page/214-about-the-organizers
+- https://events.gnuradio.org/event/28/page/223-submission-how-to
+- https://events.gnuradio.org/event/28/abstracts/
+- https://events.gnuradio.org/event/26/abstracts/
+- https://events.gnuradio.org/e/grcon25
+- https://portal.core.edu.au/conf-ranks/?search=GRCon&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- GRCon27 not announced yet
+- 2025 deadlines are given without a time zone on the overview page
+- Not listed in the CORE ICORE2026 portal

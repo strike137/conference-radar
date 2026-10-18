@@ -1,0 +1,65 @@
+id: dvcon-europe
+name: DVCon Europe
+full_name: Design and Verification Conference and Exhibition Europe
+type: industry
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: Accellera Systems Initiative
+organizer_country: [usa]
+proceedings: IEEE Xplore (research papers, via VDE Verlag) and DVCon online proceedings (engineering papers)
+archival: true
+typical:
+  deadline_months: [5, 7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://dvcon-europe.org/
+notes:
+- Industry-focused European conference on design and verification of chips and embedded systems (SystemC, SystemVerilog, UVM, IP-XACT, UPF)
+- Sponsored by Accellera Systems Initiative; steering committee of industry and university members (Infineon, STMicroelectronics, Qualcomm, JKU Linz, Politecnico di Torino, ...)
+- "Two tracks: engineering papers (extended abstract first, then full paper of up to 8 pages) and research papers (6 pages plus 1 page of references, IEEE format, double-blind)"
+- Research papers are published in IEEE Xplore through VDE Verlag; engineering papers and posters go to the DVCon online proceedings
+- Held every year at the Holiday Inn Munich City Centre, Germany, with tutorials and an exhibition
+- At least one author must register at the speaker rate and present in person
+- Not listed in the CORE portal (ICORE2026) or on the CCF list
+editions:
+- year: 2025
+  start: 2025-10-14
+  end: 2025-10-16
+  location: Munich, Germany
+  url: https://dvcon-europe.org/program/2025-program-grid
+- year: 2026
+  start: 2026-11-17
+  end: 2026-11-18
+  location: Munich, Germany
+  url: https://dvcon-europe.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-04
+    label: Engineering papers
+  - kind: notification
+    date: 2026-06-15
+    label: Engineering abstracts
+  - kind: submission
+    date: 2026-08-03
+    label: Research and engineering full papers (extended)
+  - kind: notification
+    date: 2026-09-28
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-10-18
+sources:
+- https://dvcon-europe.org/
+- https://dvcon-europe.org/authors/call-for-research-papers
+- https://dvcon-europe.org/authors/call-for-engineering-papers
+- https://dvcon-europe.org/about-dvcon-europe
+- https://dvcon-europe.org/about/steering-committee
+- https://dvcon-europe.org/hotel/venue-accommodations
+- https://dvcon-europe.org/program/2025-program-grid
+- https://portal.core.edu.au/conf-ranks/?search=DVCon&by=all&source=ICORE2026
+unverified:
+- 2025 location taken from the site's general venue description (Holiday Inn Munich City Centre); the 2025 pages do not restate it
+- Deadline times and time zones are not stated
+last_verified: 2026-10-17

@@ -1,0 +1,57 @@
+id: gem
+name: GEM
+full_name: Workshop on Natural Language Generation, Evaluation, and Metrics
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Rotating academic and industry organizing committee; co-located with ACL or EMNLP
+organizer_country: [usa, europe, other]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://gem-workshop.com/
+notes:
+- Workshop on evaluation of language generation and LLMs (metrics, benchmarks, LLM as judge, human evaluation)
+- Editions at ACL 2021 (online), EMNLP 2022 (Abu Dhabi), EMNLP 2023 (Singapore), ACL 2025 (Vienna) and ACL 2026
+  (San Diego); no edition in 2024
+- Archival papers (4 to 8 pages) go into the ACL Anthology; non-archival extended abstracts (1 to 2 pages) are also
+  accepted
+- Accepts direct submissions on OpenReview and pre-reviewed ARR commitments; hosts the ReproNLP shared task
+- "Acceptance rate: about 73% (2026, 90 of 124 submissions accepted incl. 14 non-archival abstracts)"
+- Direct submission authors may be asked to review up to 2 papers
+editions:
+- year: 2026
+  label: 5th edition, with ACL 2026
+  start: 2026-07-04
+  end: 2026-07-04
+  location: San Diego, CA, USA
+  url: https://gem-workshop.com/
+  deadlines:
+  - kind: submission
+    date: 2026-03-19
+    label: Direct submission
+  - kind: other
+    date: 2026-04-15
+    tz: AoE
+    label: ARR commitment (extended from April 9)
+  - kind: notification
+    date: 2026-04-28
+  - kind: camera_ready
+    date: 2026-05-14
+sources:
+- https://gem-workshop.com/
+- https://gem-workshop.com/call-for-papers
+- https://gem-benchmark.com/workshop
+- https://aclanthology.org/venues/gem/
+- https://aclanthology.org/volumes/2026.gem-main/
+- https://aclanthology.org/2026.gem-main.0.pdf
+- https://2026.aclweb.org/program/workshops/
+unverified:
+- No 2027 edition announced yet (host conference and dates unknown)
+last_verified: 2026-10-17

@@ -1,0 +1,68 @@
+id: ast
+name: AST
+full_name: IEEE/ACM International Conference on Automation of Software Test
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM/IEEE, co-located with ICSE
+organizer_country: [international]
+proceedings: IEEE Xplore and ACM DL (ICSE co-located event proceedings)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4]
+links:
+  website: https://conf.researchr.org/series/ast
+notes:
+- Conference on software test automation, co-located with ICSE every year
+- Held as a workshop since 2006 and as a conference since 2020; AST 2027 is the 8th conference edition
+- Regular papers 10 pages plus 2 pages of references; short papers 4 pages plus 1; industrial abstracts 2 pages
+- Double-blind review; research and industry contributions in the same call
+- Best papers are invited to a journal special issue
+- CORE C; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-14
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/ast-2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-09
+    tz: AoE
+  - kind: notification
+    date: 2026-01-05
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-26
+    tz: AoE
+- year: 2027
+  start: 2027-04-26
+  end: 2027-04-27
+  location: Dublin, Ireland
+  url: https://conf.researchr.org/home/ast-2027
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    tz: AoE
+  - kind: notification
+    date: 2027-01-08
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-29
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/ast-2027
+- https://conf.researchr.org/dates/ast-2027
+- https://conf.researchr.org/home/ast-2026
+- https://conf.researchr.org/dates/ast-2026
+- https://portal.core.edu.au/conf-ranks/?search=AST&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- AST 2026 submission deadline is 2025-11-09 in the Important Dates list, while the CFP text says 2025-10-26
+- Acceptance rate not found on the official site

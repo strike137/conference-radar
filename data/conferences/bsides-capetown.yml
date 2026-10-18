@@ -1,0 +1,65 @@
+id: bsides-capetown
+name: BSides Cape Town
+full_name: Security BSides Cape Town
+type: industry
+tier: minor
+areas: [security]
+region: africa
+language: english
+frequency: annual
+organizer: BSides Cape Town NPC (volunteer-run non-profit company)
+organizer_country: [other]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://bsidescapetown.co.za/
+notes:
+- Annual volunteer-run hacker and information security conference in Cape Town, South Africa
+- Held on the first weekend of December since 2011; run by BSides Cape Town NPC
+- Main conference day at the Lagoon Beach Hotel, Cape Town (2026), with optional workshops the day before
+- Held at Dimension Data (2012 to 2019), Old Biscuit Mill (2022) and the UCT GSB Conference Centre, V&A Waterfront (2023 to 2024); no event in 2021
+- Talks chosen through a Pretalx call for papers; standard 45-minute, short 30-minute and lightning talks plus 4-hour workshops
+- Topics include pentesting, security research, cryptography and computer science; code-heavy talks welcome
+- Corporate, standard and lower-priced student tickets sold via Quicket; pay-it-forward Rite of Passage tickets support aspiring cybersecurity students
+- Sister conference of BSides Joburg
+- No proceedings; talks are recorded and posted on YouTube
+editions:
+- year: 2025
+  start: 2025-12-05
+  end: 2025-12-06
+  location: Cape Town, South Africa
+  url: https://pretalx.com/bsides-cape-town-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-30
+    time: "23:59"
+    label: Talks and workshops
+  - kind: notification
+    date: 2025-10-05
+- year: 2026
+  start: 2026-12-04
+  end: 2026-12-05
+  location: Cape Town, South Africa (Lagoon Beach Hotel)
+  url: https://bsidescapetown.co.za/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+    time: "23:59"
+    label: Talks and workshops
+  - kind: notification
+    date: 2026-10-12
+sources:
+- https://bsidescapetown.co.za/
+- https://bsidescapetown.co.za/about-us/past-events/
+- https://pretalx.com/bsides-cape-town-2026/cfp
+- https://pretalx.com/bsides-cape-town-2025/
+- https://pretalx.com/bsides-cape-town-2025/cfp
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+unverified:
+- CFP pages give a time (23:59) but no time zone; presumably South African time (UTC+2)
+- 2025 venue unclear; the 2025 CFP page names the Lagoon Beach Hotel but the past events page lists the UCT GSB Conference Centre, V&A Waterfront
+- The 2025 and 2026 CFP pages give the main conference day (6 Dec 2025, 5 Dec 2026); the earlier day is assumed to be workshops (the 2025 Pretalx schedule has talk tracks only on 6 Dec)
+last_verified: 2026-10-17

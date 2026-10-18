@@ -1,0 +1,64 @@
+id: jsspp
+name: JSSPP
+full_name: Workshop on Job Scheduling Strategies for Parallel Processing
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: JSSPP organizers (chair at CESNET, co-chairs at Barcelona Supercomputing Center and Apple)
+organizer_country: [europe, usa]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://jsspp.org/
+  dblp: https://dblp.org/db/conf/jsspp/index.html
+notes:
+- Workshop on scheduling for HPC, clusters, clouds and data centers, held since 1995 (29th edition in 2026)
+- Co-located with IEEE IPDPS every year, so it moves with IPDPS (online 2021 and 2022, St. Petersburg FL 2023, San
+  Francisco 2024, Milan 2025, New Orleans 2026)
+- Revised selected papers published as a Springer LNCS volume after the workshop (LNCS 16210 for 2025, LNCS 16980 for
+  2026)
+- Accepts regular papers, workload trace papers and open scheduling problem papers; LNCS format up to 20 pages,
+  single-blind review by at least three PC members
+- Small single-day workshop (13 papers in 2026, 10 in 2024)
+- CORE C (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-26
+  location: New Orleans, USA (with IPDPS 2026)
+  url: https://jsspp.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-22
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-03-17
+    label: Extended; announced as March 16-17
+  - kind: camera_ready
+    date: 2026-04-30
+- year: 2027
+  label: JSSPP 2027 with IPDPS 2027 (June 2027, pending approval)
+  location: Seattle, USA (with IPDPS 2027)
+  url: https://jsspp.org/
+  status: tentative
+  deadlines: []
+sources:
+- https://jsspp.org/
+- https://jsspp.org/index.php?page=deadlines
+- https://jsspp.org/index.php?page=cfp
+- https://jsspp.org/index.php?page=program
+- https://jsspp.org/index.php?page=committees
+- https://portal.core.edu.au/conf-ranks/?search=JSSPP&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- JSSPP 2027 deadlines not yet announced; the site lists the workshop with IPDPS 2027 in Seattle as pending approval
+- CCF rank checked via a mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-17

@@ -1,0 +1,62 @@
+id: cbcrypto
+name: CBCrypto
+full_name: International Workshop on Code-Based Cryptography
+type: workshop
+tier: minor
+areas: [crypto]
+region: europe
+language: english
+frequency: annual
+organizer: 'Volunteer chairs that change each year (2026: Michele Battagliola, Polytechnic University of Marche, and Alessio Meneghetti, University of Bari); affiliated event of Eurocrypt'
+organizer_country: [europe]
+proceedings: None (abstracts shared at the event); selected full papers in a Cryptography and Communications (Springer) special issue
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://www.cb-crypto.org/
+notes:
+- Two-day workshop on code-based and post-quantum cryptography, held as an affiliated event of Eurocrypt
+- Contributed talks are proposed via an extended abstract of at most 2 pages, no format restriction; recent, in-progress or already published work is welcome
+- From 2026 selected unpublished works may be submitted to a post-conference special issue of the journal Cryptography and Communications with independent review
+- Earlier editions published revised selected papers as Springer LNCS post-proceedings (2020 and 2021; the 2022 to 2024 calls also announced an LNCS volume)
+- Registration goes through the Eurocrypt registration; partial student travel support was offered in 2026
+- 'Past locations: Zagreb 2020 and Munich 2021 (both online), Trondheim 2022, Lyon 2023, Zurich 2024, Madrid 2025, Rome 2026'
+editions:
+- year: 2025
+  start: 2025-05-03
+  end: 2025-05-04
+  location: Madrid, Spain
+  url: https://www.cb-crypto.org/previous-editions/cbcrypto2025
+- year: 2026
+  start: 2026-05-09
+  end: 2026-05-10
+  location: Sapienza University of Rome, Rome, Italy
+  url: https://www.cb-crypto.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-19
+    tz: AoE
+    label: Extended abstract (extended from 2026-03-15)
+  - kind: other
+    date: 2026-08-01
+    tz: AoE
+    label: Full papers for the journal special issue (provisional)
+sources:
+- https://www.cb-crypto.org/
+- https://www.cb-crypto.org/call-for-papers
+- https://www.cb-crypto.org/committee
+- https://www.cb-crypto.org/venue
+- https://www.cb-crypto.org/proceedings
+- https://www.cb-crypto.org/previous-editions/cbcrypto2020/proceedings
+- https://www.cb-crypto.org/previous-editions/cbcrypto2021/proceedings
+- https://www.cb-crypto.org/previous-editions/cbcrypto2024/proceedings
+- https://www.cb-crypto.org/previous-editions/cbcrypto2025
+- https://portal.core.edu.au/conf-ranks/?search=CBCrypto&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2026 notification date is printed as April 10, 2023 on the call for papers (year typo), so it is left out
+- Whether LNCS post-proceedings actually appeared for the 2022 to 2024 editions was not checked; 2025 proceedings are listed as TBA
+- CBCrypto 2027 not announced yet
+- Not found in the ICORE2026 portal and not in the CCF list, so no rank is given

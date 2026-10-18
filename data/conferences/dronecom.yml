@@ -1,0 +1,65 @@
+id: dronecom
+name: DroneCom
+full_name: International Workshop on Drone-Assisted Wireless Communications for 5G and Beyond
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: DroneCom organizers (Canadian University Dubai, University of Trento, TU Delft, Soongsil University)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://dronecom2026.github.io/dronecom2026/
+notes:
+- Workshop on drone-based wireless communications and backhaul, alternating between IEEE INFOCOM and ACM MobiCom
+  since 2020
+- 2026 edition held with ACM MobiCom 2026 in Austin, USA; earlier editions with INFOCOM 2024 (Vancouver), MobiCom
+  2022 (Sydney) and MobiCom 2021 (New Orleans)
+- 2026 papers published Open Access by ACM using the ACM sigconf template; 2024 edition was an IEEE INFOCOM workshop
+- Technical papers up to 6 pages including references, submitted via HotCRP (2026) or EDAS (2024)
+- No edition in 2023 or 2025
+- Edition numbering differs between pages (the INFOCOM 2024 page calls it the 7th, the 2026 site lists it as the 6th
+  and calls 2026 the 7th)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2024
+  start: 2024-05-20
+  end: 2024-05-20
+  location: Vancouver, Canada
+  url: https://infocom2024.ieee-infocom.org/7th-international-workshop-drone-assisted-wireless-communications-5g-and-beyond-dronecom-call-papers
+  deadlines:
+  - kind: submission
+    date: 2024-01-12
+    label: Extended from 2023-12-19
+  - kind: notification
+    date: 2024-02-05
+  - kind: camera_ready
+    date: 2024-03-05
+- year: 2026
+  start: 2026-10-30
+  end: 2026-10-30
+  location: Austin, USA
+  url: https://dronecom2026.github.io/dronecom2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-26
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-08-30
+sources:
+- https://dronecom2026.github.io/dronecom2026/
+- https://infocom2024.ieee-infocom.org/7th-international-workshop-drone-assisted-wireless-communications-5g-and-beyond-dronecom-call-papers
+- https://portal.core.edu.au/conf-ranks/?search=DroneCom&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Proceedings series of the INFOCOM-hosted editions (the INFOCOM 2024 workshop page does not name it)
+- Time zone of the 2026 deadlines (not stated on the workshop site)
+- Whether and where a 2027 or 2028 edition will be held
+- CCF 2026 list not checked on ccf.org.cn directly; workshop not expected to be listed
+last_verified: 2026-10-17

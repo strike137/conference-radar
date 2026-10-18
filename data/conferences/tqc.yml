@@ -1,0 +1,98 @@
+id: tqc
+name: TQC
+full_name: Conference on the Theory of Quantum Computation, Communication and Cryptography
+type: conference
+tier: major
+areas: [crypto, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: TQC Steering Committee
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [8, 9]
+links:
+  website: https://tqc-conference.org/
+notes:
+- Leading annual conference on theoretical quantum information science (algorithms, complexity, quantum cryptography, communication, error correction)
+- Run by an 8-member international steering committee that picks the venue and rotates it across continents
+- Recent hosts are Aveiro 2023, Okinawa 2024, Bengaluru 2025 and Sherbrooke 2026; Grenoble 2027 and Sydney 2028 are announced
+- Two talk tracks; only the With Proceedings track is published, in the open-access LIPIcs series (15 pages excluding references)
+- The Without Proceedings track accepts already published work, so many talks are not archival papers
+- Submission is a 3-page extended abstract plus a full technical manuscript; poster-only submissions also accepted
+- Overall acceptance rate about 20 to 25% according to the 2026 call for papers
+- At least one author must present on-site
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-09-15
+  end: 2025-09-19
+  location: IISc Bengaluru, India
+  url: https://tqc-conference.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-01
+    time: "23:59"
+    tz: AoE
+    label: Talks and posters
+  - kind: notification
+    date: 2025-04-25
+    time: "23:59"
+    tz: AoE
+    label: Talks
+  - kind: submission
+    date: 2025-04-30
+    time: "23:59"
+    tz: AoE
+    label: Poster-only
+  - kind: notification
+    date: 2025-05-05
+    time: "23:59"
+    tz: AoE
+    label: Poster-only
+- year: 2026
+  start: 2026-08-31
+  end: 2026-09-04
+  location: Sherbrooke, Quebec, Canada
+  url: https://tqc-conference.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-01
+    time: "23:59"
+    tz: AoE
+    label: Talks (with and without proceedings)
+  - kind: notification
+    date: 2026-04-02
+    time: "23:59"
+    tz: AoE
+    label: Talks
+  - kind: submission
+    date: 2026-04-20
+    time: "23:59"
+    tz: AoE
+    label: Poster-only
+  - kind: notification
+    date: 2026-05-01
+    time: "23:59"
+    tz: AoE
+    label: Poster-only
+- year: 2027
+  location: Grenoble, France
+  status: tentative
+sources:
+- https://tqc-conference.org/2026/
+- https://tqc-conference.org/2026/call/
+- https://tqc-conference.org/2026/charter/
+- https://tqc-conference.org/2026/history/
+- https://tqc-conference.org/2026/2027/
+- https://tqc-conference.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=TQC&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- TQC 2027 dates and deadlines not announced; only the city (Grenoble) is stated on the official site as of 2026-10-17
+- TQC 2026 camera-ready deadline listed as TBA on the call for papers page
+- Tier set to major from reputation and stated acceptance rate; the venue has no CORE or CCF rank
+last_verified: 2026-10-17

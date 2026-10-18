@@ -1,0 +1,65 @@
+id: aipr
+name: AIPR
+full_name: Applied Imagery Pattern Recognition Workshop
+type: conference
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: AIPR Workshop Committee
+organizer_country: [usa]
+proceedings: Springer LNCS
+archival: true
+fee: 300 USD regular, 225 USD student (2026)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10]
+links:
+  website: https://www.aipr-workshop.org/
+notes:
+- Long-running standalone workshop on applied imagery, computer vision and pattern recognition (54th edition in 2026)
+- Held at George Washington University, Washington DC; audience from academia, industry and government (national security, geospatial, medical imaging)
+- Abstract-based submission via Springer Meteor; full paper due after the workshop for the proceedings
+- Proceedings in Springer LNCS since 2025; earlier editions were IEEE AIPR with IEEE proceedings
+- Each year has a theme (2025 and 2026 on imagery challenges in generative AI and large language models)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-14
+  location: Washington DC, USA
+  url: https://www.aipr-workshop.org/explore-past-conferences/aipr-2025/home-2025
+  deadlines:
+  - kind: abstract
+    date: 2025-08-29
+  - kind: camera_ready
+    date: 2025-10-22
+    label: Final paper
+- year: 2026
+  start: 2026-10-12
+  end: 2026-10-13
+  location: Washington DC, USA
+  url: https://www.aipr-workshop.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-11
+    label: Abstract (call for papers PDF gave 2026-07-11)
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-10-22
+    label: Final paper
+sources:
+- https://www.aipr-workshop.org/
+- https://www.aipr-workshop.org/call-for-abstracts
+- https://drive.google.com/uc?export=download&id=1STCzP9sw-XWaIWapbtuWAQhr5sWeNO4h
+- https://www.aipr-workshop.org/explore-past-conferences/aipr-2025/home-2025
+- https://www.aipr-workshop.org/explore-past-conferences/aipr-2025/call-for-abstracts-2025
+- https://www.aipr-workshop.org/explore-past-conferences/aipr-2023/home-2023
+- https://portal.core.edu.au/conf-ranks/?search=AIPR&by=all&source=ICORE2026
+unverified:
+- The site lists no 2024 edition (past pages cover 2021 to 2023 and 2025)
+- AIPR 2025 page lists notification (2025-08-25) before the abstract deadline (2025-08-29), so the abstract deadline was probably extended
+- Deadline times and time zones not stated
+last_verified: 2026-10-17

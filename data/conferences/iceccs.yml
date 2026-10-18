@@ -1,0 +1,83 @@
+id: iceccs
+name: ICECCS
+full_name: International Conference on Engineering of Complex Computer Systems
+type: conference
+tier: major
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICECCS Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+  ccf: C
+fee: 750 AUD (2026, early regular registration; 550 AUD student early)
+typical:
+  deadline_months: [1, 2, 7]
+  conference_months: [6, 7, 11]
+links:
+  website: https://formal-analysis.com/iceccs/2026/
+  dblp: https://dblp.org/db/conf/iceccs/index.html
+notes:
+- Long-running venue (30th edition in 2026) on engineering complex computer systems, with a strong formal methods and
+  software engineering flavor
+- Proceedings in Springer LNCS (2024 Limassol in LNCS 14784, 2025 Hangzhou in LNCS 15746)
+- 'Full papers up to 20 pages and short papers up to 11 pages (LNCS format); single-blind review by at least three
+  reviewers'
+- Selected formal methods papers invited to a special issue of ACM Formal Aspects of Computing
+- Rotates worldwide (Toulouse 2023, Limassol 2024, Hangzhou 2025, Brisbane 2026); timing varies from June to November
+- CORE B and CCF C
+editions:
+- year: 2025
+  start: 2025-07-02
+  end: 2025-07-04
+  location: Hangzhou, China
+  url: https://iceccs2025-hangzhou.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-01-28
+    tz: AoE
+  - kind: submission
+    date: 2025-02-11
+    tz: AoE
+    label: Full papers (extended from February 4)
+  - kind: notification
+    date: 2025-04-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-02
+    tz: AoE
+- year: 2026
+  start: 2026-11-23
+  end: 2026-11-24
+  location: Brisbane, Australia
+  url: https://formal-analysis.com/iceccs/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-20
+    tz: AoE
+    label: Extended from June 29
+  - kind: submission
+    date: 2026-07-20
+    tz: AoE
+    label: Full papers (extended from July 6)
+  - kind: notification
+    date: 2026-09-09
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-18
+    tz: AoE
+sources:
+- https://formal-analysis.com/iceccs/2026/
+- https://iceccs2025-hangzhou.github.io/
+- http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=15746
+- https://link.springer.com/978-3-031-66455-7
+- https://portal.core.edu.au/conf-ranks/?search=ICECCS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- ICECCS 2027 not announced yet

@@ -1,0 +1,60 @@
+id: edgefm
+name: EdgeFM
+full_name: International Workshop on Edge and Mobile Foundation Models
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: EdgeFM organizers (Mengwei Xu, BUPT; Ting Cao, Microsoft Research; Yuanchun Li, Tsinghua; Yunxin Liu, Tsinghua, in 2024), co-located with ACM MobiSys or MobiCom
+organizer_country: [china]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4, 8]
+  conference_months: [6, 11]
+links:
+  website: https://edgefm.github.io/
+notes:
+- Workshop on running foundation models (LLMs, vision and multimodal models) on edge and mobile devices and on
+  apps built on them
+- Held with ACM MobiSys 2024 (Tokyo) and ACM MobiCom 2025 (Hong Kong); supported by ACM SIGMOBILE and SIGBED China
+- 5-page technical or position papers plus 2-page demo and work-in-progress abstracts, ACM format, single-blind review
+- Proceedings in the ACM Digital Library (Proceedings of the 2nd International Workshop on Edge and Mobile
+  Foundation Models, 2025)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Hong Kong, China
+  url: https://edgefm.github.io/2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-08-10
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-07-25
+  - kind: notification
+    date: 2025-09-08
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-15
+    time: "23:59"
+    tz: AoE
+sources:
+- https://edgefm.github.io/
+- https://edgefm.github.io/2025/CallForPaper.html
+- https://edgefm.github.io/2025/Schedule.html
+- https://edgefm.github.io/2025/Committees.html
+- https://edgefm.github.io/2024/CallForPaper.html
+- https://edgefm.github.io/2024/Committees.html
+- https://www.sigmobile.org/mobicom/2025/workshop_program.html
+- https://doi.org/10.1145/3737902
+- https://doi.org/10.1145/3662006
+- https://portal.core.edu.au/conf-ranks/?search=EdgeFM&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- EdgeFM 2026 (not announced on the workshop site; not in the MobiCom 2026 workshop program)
+last_verified: 2026-10-17

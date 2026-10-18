@@ -1,0 +1,73 @@
+id: semdial
+name: SemDial
+full_name: Workshop on the Semantics and Pragmatics of Dialogue
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: SemDial Board
+organizer_country: [europe]
+proceedings: SemDial Anthology (own open-access proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9]
+links:
+  website: https://www.semdial.org/
+notes:
+- Standalone annual workshop series on dialogue semantics and pragmatics, running since 1997; each edition has a nickname
+  (2025 Bialogue, 2026 LuffDial)
+- Interdisciplinary audience from formal semantics, computational linguistics, AI, philosophy and psychology
+- Held at a different European university each year (Maribor 2023, Trento 2024, Bielefeld 2025, Loughborough 2026)
+- Proceedings published by SemDial in its own SemDial Anthology, not in the ACL Anthology
+- Long papers 4 to 8 pages and short papers (posters) up to 2 pages in ACL format; short papers can be non-archival on
+  request
+- Endorsed by ACL SIGdial and ACL SIGSEM in 2026
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-03
+  end: 2026-09-04
+  location: Loughborough, UK
+  url: https://semdial2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-26
+    time: "23:59"
+    tz: AoE
+    label: Long papers
+  - kind: notification
+    date: 2026-07-16
+    time: "23:59"
+    tz: AoE
+    label: Long papers
+  - kind: submission
+    date: 2026-07-17
+    time: "23:59"
+    tz: AoE
+    label: Short papers (posters)
+  - kind: notification
+    date: 2026-07-24
+    time: "23:59"
+    tz: AoE
+    label: Short papers (posters)
+  - kind: camera_ready
+    date: 2026-08-06
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.semdial.org/
+- https://www.semdial.org/anthology/venues/semdial/
+- https://semdial2025.github.io/
+- https://semdial2025.github.io/cfp/
+- https://semdial2026.github.io/
+- https://semdial2026.github.io/cfp/
+- https://semdial2026.github.io/important-dates/
+- https://semdial2026.github.io/organization/
+- https://portal.core.edu.au/conf-ranks/?search=SemDial&by=all&source=ICORE2026
+unverified:
+- SemDial 2027 dates and location not yet announced as of 2026-10-17
+- Acceptance rate not published
+last_verified: 2026-10-17

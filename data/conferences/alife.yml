@@ -1,0 +1,69 @@
+id: alife
+name: ALIFE
+full_name: Conference on Artificial Life
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ISAL (International Society for Artificial Life)
+organizer_country: [international]
+proceedings: MIT Press (ISAL proceedings, open access)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7, 8, 10]
+links:
+  website: https://2026.alife.org/
+  dblp: https://dblp.org/db/conf/alife/index.html
+notes:
+- Main annual conference of ISAL; since 2018 one conference per year under the ALIFE name
+- Full papers 3 to 8 pages, single-blind review, published open access by MIT Press
+- Summaries of already published work (2 pages) and late-breaking abstracts are presented but not in the proceedings
+- Recent papers from the Artificial Life journal (MIT Press) are accepted directly as oral talks
+- Location rotates worldwide (2023 Sapporo, 2024 Copenhagen, 2025 Kyoto, 2026 Waterloo, 2027 Prague); usually hybrid
+- "CORE rank: C (ICORE2026, listed as International Conference on the Simulation and Synthesis of Living Systems)"
+editions:
+- year: 2025
+  start: 2025-10-06
+  end: 2025-10-10
+  location: Kyoto, Japan
+  url: https://2025.alife.org/
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-21
+  location: Waterloo, Ontario, Canada
+  url: https://2026.alife.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-12
+    tz: AoE
+    label: Full papers and summaries (extended from 2026-03-30)
+  - kind: notification
+    date: 2026-06-07
+  - kind: camera_ready
+    date: 2026-06-21
+  - kind: other
+    date: 2026-07-20
+    label: Late-breaking abstracts (not in proceedings)
+- year: 2027
+  start: 2027-07-19
+  end: 2027-07-23
+  location: Prague, Czech Republic
+  url: https://2027.alife.org/
+sources:
+- https://2026.alife.org/
+- https://2026.alife.org/call-for-papers/
+- https://2025.alife.org/
+- https://2027.alife.org/
+- https://alife.org/conferences/
+- https://alife.org/conferences/conferences-isal-past/
+- https://portal.core.edu.au/conf-ranks/?search=ALIFE&by=all&source=ICORE2026
+unverified:
+- ALIFE 2027 deadlines not announced as of 2026-10-17
+- CORE entry is under the historic name of the ALIFE series; match assumed
+- Acceptance rate and registration fees not checked
+last_verified: 2026-10-17

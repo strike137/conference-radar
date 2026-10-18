@@ -1,0 +1,71 @@
+id: its
+name: ITS
+full_name: International Conference on Intelligent Tutoring Systems
+type: conference
+tier: major
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: Institute of Intelligent Systems (IIS), Athens, with a local co-host (Neapolis University Pafos in 2026)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+fee: 350 EUR per accepted paper plus 160 to 200 EUR for onsite attendance (2026); online attendance free
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://iis-international.org/its/
+  dblp: https://dblp.org/db/conf/its/index.html
+notes:
+- Long running series on intelligent tutoring and AI in education, started in Montreal in 1988 by Claude Frasson
+- Now run by the Institute of Intelligent Systems (IIS) in Athens
+- Proceedings in Springer LNCS
+- Full papers 12 pages, short papers 8 pages, posters 6 pages (references excluded); double-blind review via EasyChair
+- Hybrid format; online attendance is free but each accepted paper needs a paid author registration
+- Annual since 2018; mostly held in Greece recently (Bucharest 2022, Corfu 2023, Thessaloniki 2024, Alexandroupolis 2025, Pafos 2026, Rome 2027)
+- CORE B (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-05
+  location: Pafos, Cyprus
+  url: https://iis-international.org/its2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-28
+  - kind: notification
+    date: 2026-03-30
+  - kind: other
+    date: 2026-05-08
+    label: Author registration
+- year: 2027
+  start: 2027-06-14
+  end: 2027-06-18
+  location: Rome, Italy
+  url: https://iis-international.org/its2027/
+  deadlines:
+  - kind: other
+    date: 2026-11-15
+    label: Tutorial proposals
+  - kind: submission
+    date: 2027-01-10
+    label: Papers, posters, workshop proposals, industry track
+  - kind: other
+    date: 2027-01-30
+    label: Doctoral consortium
+  - kind: other
+    date: 2027-03-15
+    label: Workshop papers
+sources:
+- https://iis-international.org/its/
+- https://iis-international.org/its2026/
+- https://iis-international.org/its2027/
+- https://link.springer.com/conference/its
+- https://portal.core.edu.au/conf-ranks/?search=ITS&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- ITS 2027 notification date (shown only in an image table on the official site)

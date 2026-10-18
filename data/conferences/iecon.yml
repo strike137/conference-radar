@@ -1,0 +1,84 @@
+id: iecon
+name: IEEE IECON
+full_name: Annual Conference of the IEEE Industrial Electronics Society
+type: conference
+tier: minor
+areas: [communications, systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Industrial Electronics Society (IES)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [5, 7]
+  conference_months: [10, 11]
+links:
+  website: https://www.iecon2026.org/
+notes:
+- Flagship annual conference of the IEEE Industrial Electronics Society, running since 1975 (52nd edition in 2026)
+- Broad industrial electronics scope; power electronics, smart grids, electric machines, control, robotics, embedded
+  systems, industrial communication, industrial informatics and AI for industry
+- Large conference with many special sessions; papers 6 pages in IEEE two-column format, up to 2 extra pages at 150 USD each
+- Accepted, registered and presented papers go to IEEE Xplore; outstanding papers get a fast track to IES journals
+- 2026 edition is hybrid, with online presentation allowed
+- Rotates worldwide (Toronto 2021 online, Singapore 2023, Chicago 2024, Madrid 2025, Doha 2026, Shanghai 2027, Los Angeles 2028)
+- CORE C in ICORE2026; not in the CCF list
+editions:
+- year: 2025
+  start: 2025-10-14
+  end: 2025-10-17
+  location: Madrid, Spain
+  url: https://iecon2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-03-31
+    label: Early papers
+  - kind: notification
+    date: 2025-05-06
+    label: Early papers
+  - kind: submission
+    date: 2025-05-23
+    label: Regular papers (extended)
+  - kind: notification
+    date: 2025-06-30
+    label: Regular papers
+  - kind: camera_ready
+    date: 2025-08-11
+    label: Final submission and registration (extended)
+- year: 2026
+  start: 2026-10-18
+  end: 2026-10-21
+  location: Doha, Qatar
+  url: https://www.iecon2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    label: Regular papers (extended, final)
+  - kind: notification
+    date: 2026-08-10
+  - kind: camera_ready
+    date: 2026-09-20
+    label: Final submission and registration
+- year: 2027
+  start: 2027-10-19
+  end: 2027-10-22
+  location: Shanghai, China
+  url: https://www.ieee-ies.org/conferences
+sources:
+- https://www.iecon2026.org/
+- https://www.iecon2026.org/authors/call-for-papers/
+- https://www.iecon2026.org/authors/paper-submission/
+- https://www.iecon2026.org/registration/
+- https://iecon2025.org/
+- https://www.ieee-ies.org/conferences
+- https://www.ieee-ies.org/conferences/recently-held-conferences
+- https://portal.core.edu.au/conf-ranks/?search=IECON&by=all&source=ICORE2026
+unverified:
+- Original IECON 2026 paper deadline before the extension to 2026-07-31
+- IECON 2027 call for papers and deadlines not yet published
+- Acceptance rate and registration fees
+last_verified: 2026-10-17

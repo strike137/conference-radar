@@ -1,0 +1,58 @@
+id: sharkfest
+name: SharkFest
+full_name: 'SharkFest: Wireshark Developer and User Conference'
+type: industry
+tier: minor
+areas: [networking, security]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Wireshark Foundation
+organizer_country: [usa]
+proceedings: None (non-archival; slides and recordings in the SharkFest Retrospective)
+archival: false
+fee: 1445 EUR conference, pre-conference classes 945 to 1245 EUR, all excl. 21% VAT (SharkFest'26 Europe)
+typical:
+  conference_months: [7, 11]
+links:
+  website: https://sharkfest.wireshark.org/
+notes:
+- Non-commercial educational conference of the Wireshark developer and user community, run by the Wireshark
+  Foundation (a US 501(c)(3) non-profit) with volunteers
+- Held every year in the US (since 2008, summer) and in Europe (since 2016, autumn); one Asian edition in Singapore
+  in 2018
+- Talks and workshops proposed through a pretalx call for proposals; packet analysis, Wireshark development,
+  network forensics
+- Optional paid pre-conference classes and an onsite Wireshark Certified Network Analyst exam
+- 'Recent venues: Fairfax VA 2024, Vienna 2024, Richmond VA 2025, Warsaw 2025, Nashville TN 2026, Brussels 2026'
+editions:
+- year: 2026
+  label: SharkFest'26 US
+  start: 2026-07-18
+  end: 2026-07-23
+  location: Nashville, TN, USA
+  url: https://sharkfest.wireshark.org/retrospective/sfus/sf26us
+  deadlines: []
+- year: 2026
+  label: SharkFest'26 Europe
+  start: 2026-11-02
+  end: 2026-11-06
+  location: Brussels Marriott Hotel Grand Place, Brussels, Belgium
+  url: https://sharkfest.wireshark.org/sfeu
+  deadlines: []
+sources:
+- https://sharkfest.wireshark.org/
+- https://sharkfest.wireshark.org/sfeu
+- https://sharkfest.wireshark.org/sfeu/about
+- https://sharkfest.wireshark.org/sfeu/register
+- https://sharkfest.wireshark.org/retrospective
+- https://sharkfest.wireshark.org/retrospective/sfus/sf26us
+- https://sharkfest.wireshark.org/retrospective/sfeu/sf25eu
+- https://conference.wireshark.org/sf26eu/cfp
+- https://conference.wireshark.org/sf26us/cfp
+- https://portal.core.edu.au/conf-ranks/?search=SharkFest&by=all&source=ICORE2026
+unverified:
+- Call for proposals deadlines are not stated on the official site or the pretalx CFP pages
+- SharkFest'27 US and Europe dates not yet announced
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

@@ -1,0 +1,92 @@
+id: winlp
+name: WiNLP
+full_name: Widening Natural Language Processing Workshop
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: WiNLP organizing committee; co-located with EMNLP (2025 Suzhou, 2026 Budapest)
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://winlp-workshop.github.io/
+notes:
+- Diversity and inclusion workshop of the ACL community that highlights research from underrepresented groups in NLP; held since 2017, 2026 is the 10th edition
+- Co-located with EMNLP in recent years (Suzhou 2025, Budapest 2026); hybrid
+- Archival papers appear in the WiNLP proceedings in the ACL Anthology (2025 -> 30 papers); authors may choose non-archival
+- Long papers 8 pages, short papers 4 pages, extended abstracts 2 pages, and thesis proposals; ARR commitment also accepted
+- Optional pre-submission mentoring round about two months before the paper deadline
+- Travel grants for one author per accepted paper; no workshop registration fee listed
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 9th WiNLP
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Suzhou, China (co-located with EMNLP 2025)
+  url: https://winlp-workshop.github.io/events/winlp-2025/call-for-papers/
+  deadlines:
+  - kind: other
+    date: 2025-06-20
+    tz: AoE
+    label: Pre-submission mentoring draft
+  - kind: submission
+    date: 2025-08-01
+    tz: AoE
+  - kind: other
+    date: 2025-09-10
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2025-09-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-01
+    tz: AoE
+- year: 2026
+  label: 10th WiNLP
+  start: 2026-10-28
+  end: 2026-10-28
+  location: Budapest, Hungary (co-located with EMNLP 2026)
+  url: https://winlp-workshop.github.io/events/winlp-2026/call-for-papers/
+  deadlines:
+  - kind: other
+    date: 2026-06-01
+    tz: AoE
+    label: Pre-submission mentoring draft
+  - kind: submission
+    date: 2026-07-26
+    tz: AoE
+  - kind: other
+    date: 2026-08-24
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-09-06
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-27
+    tz: AoE
+sources:
+- https://winlp-workshop.github.io/
+- https://winlp-workshop.github.io/events/winlp-2026/call-for-papers/
+- https://winlp-workshop.github.io/events/winlp-2025/call-for-papers/
+- https://winlp-workshop.github.io/events/past-events
+- https://2026.emnlp.org/program/workshops/
+- https://2025.emnlp.org/program/workshops/
+- https://aclanthology.org/venues/winlp/
+- https://aclanthology.org/volumes/2025.winlp-main/
+- https://portal.core.edu.au/conf-ranks/?search=WiNLP&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- The old site www.winlp.org was unreachable (HTTP 503); data taken from the new site winlp-workshop.github.io
+- ACL Anthology volumes for 2023 and 2024 hold only the front matter, so it is unclear whether those papers were archived individually
+- WiNLP 2027 not announced yet
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly

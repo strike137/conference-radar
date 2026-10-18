@@ -1,0 +1,56 @@
+id: grapl
+name: GrAPL
+full_name: Workshop on Graphs, Architectures, Programming, and Learning
+type: workshop
+tier: minor
+areas: [systems, ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE IPDPS workshop; steering committee led by PNNL with US universities and labs
+organizer_country: [usa]
+proceedings: IEEE Xplore (IPDPS Workshops)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://hpc.pnl.gov/grapl/
+notes:
+- Co-located with IEEE IPDPS; formed in 2019 from the GABB (2014 to 2018) and GraML (2017 to 2018) workshops
+- 'Topics: graph analytics and graph learning (GNNs, knowledge graphs), graph programming models such as GraphBLAS,
+  graph databases, and hardware for large graphs'
+- Long papers up to 10 pages, short papers up to 4 pages, IEEE double-column format including references
+- Submission through the IPDPS Linklings site; IPDPS workshop proceedings go to IEEE Xplore
+- Program includes keynotes and a community debate panel
+- Location follows IPDPS (St. Petersburg 2023, San Francisco 2024, Milan 2025, New Orleans 2026)
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-26
+  location: New Orleans, USA (with IPDPS 2026)
+  url: https://hpc.pnl.gov/grapl/
+  deadlines:
+  - kind: submission
+    date: 2026-02-08
+    tz: AoE
+    label: Position or full papers (extended)
+  - kind: notification
+    date: 2026-02-28
+  - kind: camera_ready
+    date: 2026-03-06
+sources:
+- https://hpc.pnl.gov/grapl/
+- https://hpc.pnl.gov/grapl/cfp.html
+- https://hpc.pnl.gov/grapl/previous.html
+- https://hpc.pnl.gov/grapl/organizatio.html
+- https://www.ipdps.org/ipdps2026/2026-workshops.html
+- https://www.ipdps.org/ipdps2027/2027-call-for-workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=GrAPL&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Workshop day for 2026 taken from the GrAPL program page and the IPDPS 2026 workshops page (May 26); the GrAPL CFP page says May 25
+- Proceedings venue taken from the IPDPS workshops page (IPDPS workshop proceedings submitted to IEEE Xplore); the GrAPL
+  CFP does not state it
+- GrAPL 2027 not announced yet; IPDPS 2027 is June 1 to 5, 2027 in Seattle and workshop days are June 1 and 2
+- Not listed on the CORE portal (ICORE2026) and not on the CCF 2026 list

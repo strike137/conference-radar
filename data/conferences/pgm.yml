@@ -1,0 +1,71 @@
+id: pgm
+name: PGM
+full_name: International Conference on Probabilistic Graphical Models
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: PGM programme chairs with a local host university (Universitat de Valencia in 2026)
+organizer_country: [europe]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://www.uv.es/pgm2026/
+  dblp: https://dblp.org/db/conf/pgm/index.html
+notes:
+- Biennial conference on probabilistic graphical models (Bayesian networks, causal models, structure learning, inference); 2026 is the 13th edition, first held in 2002
+- Proceedings in PMLR (PGM 2024 -> PMLR volume 246, 32 papers)
+- Papers up to 12 pages excluding references, submitted via OpenReview; abstract registration about one week before the paper deadline
+- Selected papers are invited to a special issue of the International Journal of Approximate Reasoning (IJAR)
+- Always held in Europe (Prague 2018, Aalborg 2020, Almeria 2022, Nijmegen 2024, Valencia 2026)
+- Pre-conference workshop the day before the main conference (PGM for Earth System Science in 2026)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  label: 12th PGM
+  start: 2024-09-11
+  end: 2024-09-13
+  location: Nijmegen, Netherlands
+  url: https://proceedings.mlr.press/v246/
+- year: 2026
+  label: 13th PGM
+  start: 2026-09-09
+  end: 2026-09-11
+  location: Valencia, Spain
+  url: https://www.uv.es/pgm2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-22
+    tz: AoE
+    label: Extended by one week
+  - kind: submission
+    date: 2026-05-30
+    tz: AoE
+    label: Extended by one week
+  - kind: notification
+    date: 2026-07-17
+  - kind: other
+    date: 2026-08-15
+    label: Pre-conference workshop submission
+  - kind: camera_ready
+    date: 2026-08-24
+sources:
+- https://www.uv.es/pgm2026/
+- https://www.uv.es/pgm2026/cfp.html
+- https://www.uv.es/pgm2026/news.html
+- https://www.uv.es/pgm2026/news/2026-05-11-extension.html
+- https://proceedings.mlr.press/v246/
+- https://portal.core.edu.au/conf-ranks/?search=PGM&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- PGM 2024 deadlines not recorded (2024 site not checked); only dates from the PMLR volume
+- PMLR volume number for PGM 2026 not yet shown on the official site
+- PGM 2028 host and dates not announced yet
+- Steering committee not listed on the 2026 site; organizer_country inferred from the European host history
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly

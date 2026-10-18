@@ -1,0 +1,80 @@
+id: knowfm
+name: KnowFM
+full_name: Workshop on Towards Knowledgeable Foundation Models
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers from Northwestern University, UIUC, Amazon, Cornell, University
+  of Copenhagen and University of Edinburgh); co-located with ACL (2024, 2025, 2026) and AAAI (2025)
+organizer_country: [usa]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [4, 5, 6]
+  conference_months: [7, 8]
+links:
+  website: https://knowledgeable-lm.github.io/
+notes:
+- Workshop on knowledge in large language and foundation models (knowledge probing, RAG, knowledge editing, hallucination,
+  knowledge conflicts, multimodal and agentic knowledge)
+- Started as KnowLLM (Towards Knowledgeable Language Models) at ACL 2024 in Bangkok; renamed KnowFM for AAAI 2025
+  (Philadelphia), ACL 2025 (Vienna) and ACL 2026 (San Diego, 4th edition)
+- Proceedings of the ACL editions in the ACL Anthology (17 papers in 2024, 13 in 2025, 15 in 2026)
+- Regular papers (up to 8 pages, ACL template) go into the proceedings; non-archival submissions also accepted
+- Double-blind review via OpenReview; submission deadline set after the ACL main conference notification
+- Best Paper and Outstanding Paper awards
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-08-01
+  end: 2025-08-01
+  location: Vienna, Austria (co-located with ACL 2025)
+  url: https://knowledgeable-lm.github.io/acl25
+  deadlines:
+  - kind: submission
+    date: 2025-06-06
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-06-18
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-25
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-07-03
+  end: 2026-07-03
+  location: San Diego, USA (co-located with ACL 2026)
+  url: https://knowledgeable-lm.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-04-07
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-01
+  - kind: notification
+    date: 2026-04-20
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-01
+    time: "23:59"
+    tz: AoE
+sources:
+- https://knowledgeable-lm.github.io/
+- https://knowledgeable-lm.github.io/acl25
+- https://knowledgeable-lm.github.io/aaai25
+- https://knowledgeable-lm.github.io/acl24
+- https://aclanthology.org/venues/knowfm/
+- https://aclanthology.org/venues/knowllm/
+- https://portal.core.edu.au/conf-ranks/?search=KnowFM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- KnowFM 2027 not announced yet
+- Proceedings of the AAAI 2025 edition not found in the ACL Anthology
+- Acceptance rate not published

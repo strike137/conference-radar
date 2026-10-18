@@ -1,0 +1,122 @@
+id: data-insticc
+name: DATA
+full_name: International Conference on Data Science, Technology and Applications
+type: conference
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: INSTICC (Institute for Systems and Technologies of Information, Control and Communication)
+organizer_country: [europe]
+proceedings: SCITEPRESS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2, 3, 4]
+  conference_months: [6, 7]
+links:
+  website: https://data.scitevents.org/
+notes:
+- Organized by INSTICC; proceedings in the SCITEPRESS Digital Library, a short list of revised and extended papers
+  is planned for a Springer CCIS book and best papers are invited to a Springer Nature Computer Science special issue
+- CORE C (ICORE2026); regarded as a minor venue
+- Covers databases, big data, data mining, data management, analytics and data privacy
+- Two submission stages (1st stage gives an earlier notification), plus late-breaking papers and an abstracts track;
+  all deadlines AoE
+- Co-located with ICSOFT, DeLTA, SECRYPT, QUANTICS and SIMULTECH with free cross access; hybrid presentation allowed
+  when speakers cannot travel
+- Held in European cities (Lisbon 2022, Rome 2023, Dijon 2024, Bilbao 2025, Porto 2026, Rome 2027)
+editions:
+- year: 2026
+  start: 2026-07-16
+  end: 2026-07-18
+  location: Porto, Portugal
+  url: https://data.scitevents.org/?y=2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-23
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2026-04-23
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: notification
+    date: 2026-04-30
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2026-05-15
+    tz: AoE
+    label: Late-breaking papers
+  - kind: camera_ready
+    date: 2026-05-15
+    tz: AoE
+    label: Regular papers (1st stage), with registration
+  - kind: notification
+    date: 2026-05-22
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: camera_ready
+    date: 2026-06-05
+    tz: AoE
+    label: Position/regular papers (2nd stage), with registration
+- year: 2027
+  start: 2027-07-19
+  end: 2027-07-21
+  location: Rome, Italy
+  url: https://data.scitevents.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-16
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: other
+    date: 2027-03-01
+    tz: AoE
+    label: Workshop / special session / tutorial / demo / panel proposals
+  - kind: submission
+    date: 2027-03-25
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: notification
+    date: 2027-04-09
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: camera_ready
+    date: 2027-04-21
+    tz: AoE
+    label: Regular papers (1st stage), with registration
+  - kind: abstract
+    date: 2027-05-13
+    tz: AoE
+    label: Abstracts track
+  - kind: notification
+    date: 2027-05-17
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: camera_ready
+    date: 2027-06-01
+    tz: AoE
+    label: Position/regular papers (2nd stage), with registration
+sources:
+- https://data.scitevents.org/
+- https://data.scitevents.org/ImportantDates.aspx
+- https://data.scitevents.org/ConferenceVenue.aspx
+- https://data.scitevents.org/?y=2026
+- https://data.scitevents.org/ImportantDates.aspx?y=2026
+- https://data.scitevents.org/?y=2025
+- https://data.scitevents.org/?y=2024
+- https://data.scitevents.org/?y=2023
+- https://data.scitevents.org/?y=2022
+- https://portal.core.edu.au/conf-ranks/?search=DATA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- DATA 2027 late-breaking paper deadline not yet listed
+- Indexing not stated as confirmed (the site lists Scopus, Google Scholar, DBLP, Semantic Scholar, EI and Web of
+  Science CPCI as indexers the proceedings are submitted to)
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+- Acceptance rate not found on official pages
+last_verified: 2026-10-17

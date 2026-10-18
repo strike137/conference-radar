@@ -1,0 +1,55 @@
+id: blue-team-con
+name: Blue Team Con
+full_name: Blue Team Con
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: Blue Team Con, LLC
+organizer_country: [usa]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://blueteamcon.com/
+notes:
+- Community-run security conference for defenders (SOC, incident response, detection engineering) held in
+  Chicago every year since 2021
+- Two days of paid trainings followed by two days of talks, villages and a CTF; 56 talks in 2026
+- 850+ attendees; up to 32 CPE credits over four days
+- Talks selected through an annual call for papers that opens around March; no proceedings
+- Run by Blue Team Con, LLC on a not-for-profit basis and publishes a yearly financial disclosure
+editions:
+- year: 2025
+  start: 2025-09-04
+  end: 2025-09-07
+  location: Fairmont Chicago, Chicago, Illinois, USA
+  url: https://blueteamcon.com/btc-history/blue-team-con-2025-schedule/
+- year: 2026
+  start: 2026-09-10
+  end: 2026-09-13
+  location: Swissotel Chicago, Chicago, Illinois, USA
+  url: https://blueteamcon.com/blue-team-con-2026-schedule/
+  deadlines:
+  - kind: submission
+    date: 2026-04-20
+    time: "23:59"
+    tz: UTC-6
+    label: Call for papers (talks)
+sources:
+- https://blueteamcon.com/
+- https://blueteamcon.com/btc-news/blue-team-con-2026-call-for-papers/
+- https://blueteamcon.com/btc-news/blue-team-con-announces-keynote-talks-and-training-sessions-for-2026-conference/
+- https://blueteamcon.com/btc-history/blue-team-con-2025-schedule/
+- https://blueteamcon.com/btc-news/blue-team-con-2025-financial-disclosure/
+- https://portal.core.edu.au/conf-ranks/?search=Blue+Team&by=all&source=ICORE2026
+unverified:
+- 2026 CFP deadline stated as "20 April 2026 at 11:59:59pm CST"; recorded as UTC-6 as written, although Chicago is
+  on CDT (UTC-5) in April
+- 2027 dates not yet announced ("Stand By For 2027 Announcements")
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

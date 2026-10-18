@@ -1,0 +1,62 @@
+id: hotsense
+name: HotSense
+full_name: ACM International Workshop on Thermal Sensing and Computing
+type: workshop
+tier: minor
+areas: [systems, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: HotSense workshop chairs (Chenshu Wu, The University of Hong Kong, chair of both editions)
+organizer_country: [china]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://hotsense.github.io/
+notes:
+- Workshop on thermal sensing systems, thermal perception, hardware and applications
+- 1st edition held with ACM MobiCom 2025 in Hong Kong; 2nd edition announced with UbiComp/ISWC 2026 in Shanghai
+- 2025 papers published in the ACM Digital Library as part of the MobiCom 2025 workshop proceedings; 2026 papers go
+  to the UbiComp/ISWC Adjunct Proceedings in the ACM DL
+- Papers up to 5 pages excluding references; 2025 review was double-blind, 2026 uses a lightweight single-round review
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Hong Kong, China
+  url: https://hotsense.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-10
+    label: Extended
+  - kind: notification
+    date: 2025-09-15
+  - kind: camera_ready
+    date: 2025-09-30
+- year: 2026
+  start: 2026-10-11
+  end: 2026-10-12
+  location: Shanghai, China
+  url: https://hotsense.github.io/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+  - kind: notification
+    date: 2026-08-07
+  - kind: camera_ready
+    date: 2026-08-14
+sources:
+- https://hotsense.github.io/
+- https://hotsense.github.io/2025/
+- https://www.sigmobile.org/mobicom/2025/workshop_program.html
+- https://www.ubicomp.org/ubicomp-iswc-2026/workshops-2026/
+- https://portal.core.edu.au/conf-ranks/?search=HotSense&by=all&source=ICORE2026
+unverified:
+- "HotSense 2026: the workshop site gives October 11-12, 2026 with the exact day TBD, and HotSense is not in the UbiComp/ISWC 2026 workshop list, so whether it took place is unconfirmed"
+- Original (pre-extension) 2025 submission deadline not shown on the site
+last_verified: 2026-10-17

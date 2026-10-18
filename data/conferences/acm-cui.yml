@@ -1,0 +1,76 @@
+id: acm-cui
+name: ACM CUI
+full_name: ACM Conference on Conversational User Interfaces
+type: conference
+tier: minor
+areas: [general, nlp]
+region: europe
+language: english
+frequency: annual
+organizer: ACM SIGCHI (CUI steering committee)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+acceptance_rate: 26.1% full papers (2026, 37/142)
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7]
+links:
+  website: https://cui.acm.org/
+notes:
+- HCI conference on speech and language interfaces (voice UX, chatbots, LLM-based agents, conversational search)
+- Founded in 2018; a SIGCHI specialised conference since late 2022
+- Proceedings in the ACM DL
+- Tracks for full papers (6,000 to 10,000 words), provocations, short papers and works in progress, interactivity, workshops and doctoral consortium
+- Mandatory abstract one week before the full paper deadline; each submission must volunteer three reviews
+- "Full paper acceptance: 26.1% (2026), 34.0% (2025), 33.3% (2024)"
+- Small community event (about 100 to 150 attendees); mostly in Europe (Glasgow 2022, Eindhoven 2023, Luxembourg 2024, Bremen 2026, Swansea 2027) with Waterloo, Canada in 2025
+- Not listed in CORE (ICORE2026) or CCF
+editions:
+- year: 2026
+  start: 2026-07-21
+  end: 2026-07-24
+  location: Bremen, Germany
+  url: https://cui.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-26
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-03-05
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2026-05-07
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-05-21
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+- year: 2027
+  start: 2027-07-26
+  end: 2027-07-28
+  location: Swansea, Wales, UK
+  url: https://cui.acm.org/2027/
+  status: confirmed
+sources:
+- https://cui.acm.org/
+- https://cui.acm.org/community/
+- https://cui.acm.org/community/conference/
+- https://cui.acm.org/community/conference/statistics/
+- https://cui.acm.org/2026/
+- https://cui.acm.org/2026/submission/full-papers/
+- https://cui.acm.org/2027/
+- https://cui.acm.org/2027/submit/full-papers.html
+- https://dl.acm.org/doi/proceedings/10.1145/3816046
+- https://portal.core.edu.au/conf-ranks/?search=CUI&by=all&source=ICORE2026
+unverified:
+- CUI 2027 deadlines are only given as TBC months (February to June 2027) on the official full papers page
+- Absence from the CCF list checked via the CCFrank4dblp mirror (ccf.org.cn behind a captcha)
+last_verified: 2026-10-17

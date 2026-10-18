@@ -1,0 +1,82 @@
+id: ieee-qce
+name: IEEE QCE
+full_name: IEEE International Conference on Quantum Computing and Engineering (IEEE Quantum Week)
+type: conference
+tier: major
+areas: [systems, communications, general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Quantum Technical Community, IEEE Computer Society and other IEEE societies
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: National/Regional
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://qce.quantum.ieee.org/
+notes:
+- Branded IEEE Quantum Week; the largest IEEE venue on quantum computing, networking and engineering
+- Financial co-sponsors are IEEE QTC, IEEE Computer Society, IEEE TCSE, IEEE ComSoc, IEEE Photonics Society and IEEE Council on Superconductivity
+- "Proceedings: IEEE Xplore and IEEE Computer Society Digital Library"
+- Nine technical paper tracks (algorithms, applications, software, networks and communications, machine learning, photonics, ...)
+- Full papers 8 to 10 pages plus references; short papers 4 to 6 pages; optional early abstract one week before the paper deadline
+- Also has workshops with their own paper deadline, tutorials, panels and posters
+- QCE25 had over 560 technical paper submissions; QCE26 program lists 372 technical papers
+- Held in North America every year (Broomfield 2022, Bellevue 2023, Montreal 2024, Albuquerque 2025, Toronto 2026)
+- Best papers recommended to IEEE TQE and ACM TQC
+- In-person presentation by at least one author is required
+- ICORE2026 label is National/Regional; not on the CCF list
+editions:
+- year: 2025
+  start: 2025-08-31
+  end: 2025-09-05
+  location: Albuquerque, New Mexico, USA
+  url: https://qce.quantum.ieee.org/2025/
+- year: 2026
+  start: 2026-09-13
+  end: 2026-09-18
+  location: Toronto, Ontario, Canada
+  url: https://qce.quantum.ieee.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-20
+    tz: AoE
+    label: Technical papers (extended from 2026-04-06)
+  - kind: submission
+    date: 2026-04-27
+    tz: AoE
+    label: Technical papers (extended from 2026-04-13)
+  - kind: notification
+    date: 2026-07-06
+    tz: AoE
+    label: Technical papers
+  - kind: camera_ready
+    date: 2026-07-27
+    tz: AoE
+  - kind: submission
+    date: 2026-07-09
+    tz: AoE
+    label: Workshop papers (extended from 2026-06-29)
+  - kind: notification
+    date: 2026-07-20
+    tz: AoE
+    label: Workshop papers
+sources:
+- https://qce.quantum.ieee.org/2026/
+- https://qce.quantum.ieee.org/2026/submission-deadlines/
+- https://qce.quantum.ieee.org/2026/call-for-technical-papers/
+- https://qce.quantum.ieee.org/2026/sponsors-exhibitors/financial-co-sponsors/
+- https://qce.quantum.ieee.org/2025/
+- https://qce.quantum.ieee.org/2024/
+- https://qce.quantum.ieee.org/2023/
+- https://qce.quantum.ieee.org/2022/
+- https://portal.core.edu.au/conf-ranks/?search=QCE&by=all&source=ICORE2026
+unverified:
+- QCE 2027 dates and location not announced on the official site as of 2026-10-17
+- Acceptance rate not published (372 papers in the QCE26 program vs. a stated expectation of about 560 submissions)
+- QCE25 deadlines not recorded
+last_verified: 2026-10-17

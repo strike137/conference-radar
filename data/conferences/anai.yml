@@ -1,0 +1,55 @@
+id: anai
+name: ANAI
+full_name: ACM Workshop on Access Networks with Artificial Intelligence
+type: workshop
+tier: minor
+areas: [networking, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: CUHK (Guoliang Xing, Mu Yuan) and Huawei (Zhiyong Feng), co-located with ACM MobiCom
+organizer_country: [china]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://anai.cuhkaiot.com/2025/index.html
+notes:
+- Workshop on AI over access networks (FTTR, Wi-Fi 7, edge sensing) and AI for access network optimization
+- Only edition so far is 2025, a half-day workshop at ACM MobiCom 2025 in Hong Kong with keynotes, a panel and a Huawei
+  industry talk
+- Papers published in the ACM Digital Library as Proceedings of the 2025 ACM Workshop on Access Networks with
+  Artificial Intelligence
+- Papers up to 5 pages including references in ACM sigconf 10pt format; submission via HotCRP
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Hong Kong, China
+  url: https://anai.cuhkaiot.com/2025/index.html
+  deadlines:
+  - kind: abstract
+    date: 2025-08-05
+    label: Paper registration, extended from 2025-07-06
+  - kind: submission
+    date: 2025-08-25
+    label: Extended from 2025-07-25
+  - kind: notification
+    date: 2025-09-15
+  - kind: camera_ready
+    date: 2025-10-05
+sources:
+- https://anai.cuhkaiot.com/2025/index.html
+- https://anai.cuhkaiot.com/2025/organization.html
+- https://anai.cuhkaiot.com/2025/program.html
+- https://www.sigmobile.org/mobicom/2025/workshop_program.html
+- https://www.sigmobile.org/mobicom/2026/workshop_program.html
+- https://doi.org/10.1145/3737904.3768530
+- https://portal.core.edu.au/conf-ranks/?search=ANAI&by=all&source=ICORE2026
+unverified:
+- Next edition not announced (not among the MobiCom 2026 workshops), so it may have been a one-off
+- The workshop site does not state where papers are published; ACM DL publication confirmed from the DOI records
+last_verified: 2026-10-17

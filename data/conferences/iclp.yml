@@ -1,0 +1,105 @@
+id: iclp
+name: ICLP
+full_name: International Conference on Logic Programming
+type: conference
+tier: major
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Association for Logic Programming (ALP)
+organizer_country: [international]
+proceedings: Theory and Practice of Logic Programming (TPLP, Cambridge University Press) and EPTCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [2, 4]
+  conference_months: [7, 9]
+links:
+  website: https://www.semsys.aau.at/events/iclp2026/
+  dblp: https://dblp.org/db/conf/iclp/
+notes:
+- Premier international event on logic programming since 1982 (Marseille); answer set programming, Prolog,
+  semantics, program analysis and implementation
+- Regular papers (up to 14 pages) appear in the journal Theory and Practice of Logic Programming (TPLP)
+- Technical Communication papers (up to 12 pages) and the Recently Published Research track appear in EPTCS
+- Regular papers not accepted for TPLP may be invited to the Technical Communication proceedings
+- Part of FLoC every four years (Haifa 2022, Lisbon 2026); other recent editions in London 2023, Dallas 2024 and
+  Rende (Italy) 2025
+- Workshops, a Doctoral Consortium, a summer or autumn school and the LP/CP programming contest are co-located
+- CORE B (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-09-15
+  end: 2025-09-19
+  location: Rende, Italy (University of Calabria)
+  url: https://iclp25.demacs.unical.it/
+  deadlines:
+  - kind: abstract
+    date: 2025-04-13
+    tz: AoE
+    label: Paper registration (regular papers)
+  - kind: submission
+    date: 2025-04-25
+    tz: AoE
+    label: Regular papers, extended from 2025-04-18
+  - kind: notification
+    date: 2025-05-31
+    tz: AoE
+    label: Regular papers, extended from 2025-05-25
+  - kind: submission
+    date: 2025-06-22
+    tz: AoE
+    label: Technical communication and IJCAI fast track papers, extended from 2025-06-15
+  - kind: notification
+    date: 2025-07-06
+    tz: AoE
+    label: Final notification
+  - kind: camera_ready
+    date: 2025-07-27
+    tz: AoE
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-23
+  location: Lisbon, Portugal (part of FLoC 2026)
+  url: https://www.semsys.aau.at/events/iclp2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-31
+    tz: AoE
+    label: Paper registration (TPLP papers)
+  - kind: submission
+    date: 2026-02-07
+    tz: AoE
+    label: TPLP papers
+  - kind: notification
+    date: 2026-03-12
+    tz: AoE
+    label: TPLP papers
+  - kind: submission
+    date: 2026-04-03
+    tz: AoE
+    label: Technical communication and recently published research papers
+  - kind: other
+    date: 2026-04-03
+    tz: AoE
+    label: Revision submission (TPLP papers)
+  - kind: notification
+    date: 2026-05-04
+    tz: AoE
+    label: Final notification
+sources:
+- https://www.semsys.aau.at/events/iclp2026/
+- https://www.semsys.aau.at/events/iclp2026/content/0-callforpapers.html
+- https://iclp25.demacs.unical.it/
+- https://www.iclp24.utdallas.edu/
+- https://iclp2023.imperial.ac.uk/
+- https://www.floc26.org/
+- https://portal.core.edu.au/conf-ranks/?search=ICLP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- ICLP 2027 not found on an official page yet
+- Not in the CCF 2026 list per the ccfddl mirror of the list (ccf.org.cn is behind a captcha); rank.ccf left out
+- 2025 dates are the main conference days; the whole event with workshops ran September 12 to 19, 2025

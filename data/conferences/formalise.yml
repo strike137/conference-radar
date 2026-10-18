@@ -1,0 +1,83 @@
+id: formalise
+name: FormaliSE
+full_name: International Conference on Formal Methods in Software Engineering
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: FormaliSE steering committee (supported by Formal Methods Europe), co-located with ICSE
+organizer_country: [international]
+proceedings: ACM DL / IEEE Xplore (ICSE co-located proceedings)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/series/formalise
+notes:
+- Conference at the intersection of formal methods and software engineering; supported by Formal Methods Europe
+- Co-located with ICSE every year and moves with it (Melbourne 2023, Lisbon 2024, Ottawa 2025, Rio de Janeiro 2026, Dublin 2027)
+- Accepted papers appear in the ICSE co-located proceedings in the ACM and IEEE digital libraries
+- 2027 uses the IEEE template (2026 used the ACM template)
+- "Paper types for 2027: research and experience report papers (10 pages plus 2 of references), research ideas and vision papers, tool demos, posters (posters not in the proceedings)"
+- Lightweight double-anonymous review; optional artifact evaluation track
+- 2026 was the 14th edition; 2027 is the 15th
+- Not listed in the CORE ICORE2026 ranking or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-12
+  end: 2026-04-13
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/formalise-2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-06
+    tz: AoE
+    label: Research track
+  - kind: notification
+    date: 2026-01-05
+    tz: AoE
+    label: Research track
+  - kind: camera_ready
+    date: 2026-01-26
+    tz: AoE
+    label: Research track
+- year: 2027
+  start: 2027-04-26
+  end: 2027-04-27
+  location: Dublin, Ireland
+  url: https://conf.researchr.org/home/formalise-2027
+  deadlines:
+  - kind: abstract
+    date: 2026-10-30
+    tz: AoE
+    label: Research track
+  - kind: submission
+    date: 2026-11-06
+    tz: AoE
+    label: Research track
+  - kind: other
+    date: 2026-11-10
+    tz: AoE
+    label: Artifact submission
+  - kind: notification
+    date: 2027-01-11
+    tz: AoE
+    label: Research track
+  - kind: camera_ready
+    date: 2027-01-29
+    tz: AoE
+    label: Research track
+sources:
+- https://conf.researchr.org/home/formalise-2027
+- https://2027.formalise.org/track/Formalise-2027-papers
+- https://2027.formalise.org/dates
+- https://conf.researchr.org/home/formalise-2026
+- https://2026.formalise.org/track/Formalise-2026-papers
+- https://2026.formalise.org/dates
+- https://portal.core.edu.au/conf-ranks/?search=FormaliSE&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not found on an official page
+last_verified: 2026-10-17

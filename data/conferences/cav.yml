@@ -1,0 +1,102 @@
+id: cav
+name: CAV
+full_name: International Conference on Computer Aided Verification
+type: conference
+tier: top
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: CAV Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://i-cav.org/
+  dblp: https://dblp.org/db/conf/cav/index.html
+notes:
+- Premier conference on computer-aided formal verification (model checking, theorem proving, SMT, synthesis, testing); CORE A*, CCF A
+- Held every July since 1990, usually alternating between North America and Europe (Paris 2023, Montreal 2024, Zagreb 2025, Lisbon 2026, Amsterdam 2027)
+- CAV 2026 was part of FLoC 2026 in Lisbon
+- Proceedings in Springer LNCS; selected papers invited to special issues of Formal Methods in System Design and the Journal of the ACM
+- Regular and tool papers up to 18 pages, application and case study papers up to 10 pages (LNCS format); regular papers are anonymized
+- Two-stage review with early rejection after two reviews and an author response period for papers that continue
+- Artifact evaluation, mandatory registration of artifacts for tool papers; at most 5 submissions per author
+- Not part of ETAPS (see cav-tacas-etaps for ETAPS and TACAS)
+editions:
+- year: 2026
+  start: 2026-07-26
+  end: 2026-07-29
+  location: Lisbon, Portugal (part of FLoC 2026)
+  url: https://conferences.i-cav.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-28
+    tz: AoE
+  - kind: other
+    date: 2026-03-30
+    label: Author response period (Mar 30 to Apr 2)
+  - kind: notification
+    date: 2026-04-17
+  - kind: other
+    date: 2026-04-22
+    tz: AoE
+    label: Artifact registration
+  - kind: camera_ready
+    date: 2026-05-15
+    tz: AoE
+- year: 2027
+  start: 2027-07-19
+  end: 2027-07-23
+  location: Amsterdam, Netherlands (KIT, formerly the Royal Tropical Institute)
+  url: https://conferences.i-cav.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-03-04
+    time: "23:59"
+    tz: AoE
+    label: Early rejection notification
+  - kind: other
+    date: 2027-03-08
+    time: "23:59"
+    tz: AoE
+    label: Artifact registration (tool papers)
+  - kind: other
+    date: 2027-04-05
+    label: Author response period (Apr 5 to 8)
+  - kind: notification
+    date: 2027-04-23
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2027-04-26
+    time: "23:59"
+    tz: AoE
+    label: Artifact registration (non-tool papers)
+  - kind: camera_ready
+    date: 2027-05-18
+    time: "23:59"
+    tz: AoE
+sources:
+- https://i-cav.org/
+- https://conferences.i-cav.org/2026/
+- https://conferences.i-cav.org/2026/cfp/
+- https://conferences.i-cav.org/2027/
+- https://conferences.i-cav.org/2027/cfp/
+- https://portal.core.edu.au/conf-ranks/?search=CAV&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+unverified:
+- CCF rank checked via the CCFrank4dblp mirror of the CCF 2026 list, not on ccf.org.cn directly
+- CAV 2027 dates include workshops (Jul 19 to 23); the main conference is Jul 21 to 23
+- Acceptance rate and registration fees not found on the official pages
+last_verified: 2026-10-17

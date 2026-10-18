@@ -1,0 +1,76 @@
+id: linux-plumbers
+name: LPC
+full_name: Linux Plumbers Conference
+type: industry
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Linux Plumbers Conference program committee, with the Linux Foundation (registration and sponsorship)
+organizer_country: [usa]
+proceedings: None (non-archival; slides and videos posted on lpc.events and YouTube)
+archival: false
+fee: 641.30 EUR in person, 54.45 EUR virtual (2026); 50% hobbyist discount on request
+typical:
+  deadline_months: [4, 6, 9]
+  conference_months: [9, 10, 11, 12]
+links:
+  website: https://lpc.events/
+notes:
+- Developer conference for the Linux "plumbing" layer (kernel subsystems, core libraries, toolchains, init systems)
+- Tracks include a refereed track (45 minute talks), Kernel Summit, eBPF, networking and toolchains tracks, plus
+  3.5 hour microconferences and BoFs
+- Program committee selects talks; no papers, slides and video recordings are posted after the event
+- Hybrid in 2025 and 2026; in-person registration usually sells out weeks before the event (sold out in August 2026)
+- 'Recent venues: Richmond VA 2023, Vienna 2024, Tokyo 2025, Prague 2026'
+- Accepted refereed track and Kernel Summit talks get one free pass each
+editions:
+- year: 2025
+  start: 2025-12-11
+  end: 2025-12-13
+  location: Toranomon Hills Forum, Tokyo, Japan (hybrid)
+  url: https://lpc.events/event/19/
+  deadlines:
+  - kind: submission
+    date: 2025-09-10
+    label: Refereed track and Kernel Summit proposals
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-07
+  location: Prague Congress Centre, Prague, Czechia (hybrid)
+  url: https://lpc.events/event/20/
+  deadlines:
+  - kind: submission
+    date: 2026-04-23
+    time: "23:59"
+    tz: UTC
+    label: Microconference proposals
+  - kind: submission
+    date: 2026-06-28
+    time: "23:59"
+    tz: UTC
+    label: Refereed track and Kernel Summit proposals
+  - kind: submission
+    date: 2026-08-07
+    label: Microconference topic submissions
+  - kind: notification
+    date: 2026-08-21
+    label: Microconference topics (on or before)
+sources:
+- https://lpc.events/
+- https://lpc.events/event/20/
+- https://lpc.events/event/20/abstracts/
+- https://lpc.events/event/20/page/267-attend
+- https://lpc.events/event/20/page/283-faqs
+- https://lpc.events/blog/current/
+- https://lpc.events/blog/current/index.php/2025/
+- https://lpc.events/event/19/
+- https://lpc.events/event/18/
+- https://lpc.events/event/17/
+- https://portal.core.edu.au/conf-ranks/?search=Plumbers&by=all&source=ICORE2026
+unverified:
+- LPC 2027 dates and location not yet announced
+- 2025 notification dates and deadlines for the eBPF, networking and toolchains tracks not recorded
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

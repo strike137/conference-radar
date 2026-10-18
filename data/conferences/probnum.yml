@@ -1,0 +1,63 @@
+id: probnum
+name: ProbNum
+full_name: International Conference on Probabilistic Numerics
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: Probabilistic numerics community (core organisers Jon Cockayne, Alexandra Gessner, Philipp Hennig, with a rotating local host)
+organizer_country: [europe]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [9]
+links:
+  website: https://probnum2026.github.io/
+notes:
+- Specialist conference on probabilistic numerical methods (Bayesian quadrature, probabilistic ODE solvers, uncertainty in numerical computation) at the border of ML and numerical analysis
+- Started in 2025; held in Europe (Sophia Antipolis 2025, Lappeenranta 2026)
+- Proceedings in PMLR (vol. 271 for 2025 with 12 papers, vol. 341 for 2026 with 14 papers)
+- Double-blind review on OpenReview with an author response phase; papers up to 8 pages plus references and appendices
+- Small and focused; each submission must nominate a reviewer
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-01
+  end: 2025-09-03
+  location: Sophia Antipolis, France (EURECOM)
+  url: https://probnum25.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-03-05
+- year: 2026
+  start: 2026-09-09
+  end: 2026-09-11
+  location: Lappeenranta, Finland (LUT University)
+  url: https://probnum2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-26
+    tz: AoE
+    label: Extended from 2026-03-05
+  - kind: other
+    date: 2026-04-23
+    tz: AoE
+    label: Author responses due (reviews released 2026-04-16)
+  - kind: notification
+    date: 2026-05-14
+    tz: AoE
+sources:
+- https://probnum2026.github.io/
+- https://probnum2026.github.io/submissions
+- https://probnum25.github.io/
+- https://www.probabilistic-numerics.org/meetings/
+- https://proceedings.mlr.press/v341/
+- https://proceedings.mlr.press/v271/
+- https://portal.core.edu.au/conf-ranks/?search=ProbNum&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ProbNum 2027 dates and location not announced as of 2026-10-17
+- 2026 camera-ready date not stated on the official site
+last_verified: 2026-10-17

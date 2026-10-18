@@ -1,0 +1,97 @@
+id: cibse
+name: CIbSE
+full_name: Ibero-American Conference on Software Engineering
+type: conference
+tier: minor
+areas: [software]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: CIbSE Steering Committee
+organizer_country: [international]
+proceedings: SBC Open Digital Library (SOL) and Curran Associates
+archival: true
+indexing: [DBLP, Scopus]
+typical:
+  deadline_months: [1, 2]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/home/cibse-2027
+notes:
+- Leading software engineering research forum in Ibero-America (30th edition in 2027)
+- Papers accepted in English, Spanish or Portuguese
+- Technical papers up to 15 pages and emerging ideas papers up to 8 pages, in the Brazilian Computer Society (SBC)
+  format; each submission reviewed by at least three PC members
+- Proceedings published in the SBC Open Digital Library (SOL) and by Curran Associates, submitted for DBLP and Scopus
+  indexing
+- Best papers invited to a JCR-indexed journal
+- Satellite events include a doctoral symposium, the EIbAIS advanced school and industry talks
+- Held in April or May in Latin America or Spain (Montevideo 2023, Curitiba 2024, Ciudad Real 2025, Santo Domingo 2026, Vina
+  del Mar 2027)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-05-11
+  end: 2026-05-15
+  location: Santo Domingo, Dominican Republic (UNPHU)
+  url: https://conf.researchr.org/home/cibse-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-01-30
+    tz: AoE
+    label: Main track (extended)
+  - kind: submission
+    date: 2026-02-06
+    tz: AoE
+    label: Main track (extended)
+  - kind: notification
+    date: 2026-03-13
+    tz: AoE
+    label: Main track
+  - kind: camera_ready
+    date: 2026-03-23
+    tz: AoE
+    label: Main track
+- year: 2027
+  start: 2027-05-10
+  end: 2027-05-14
+  location: Vina del Mar, Chile (Universidad Andres Bello)
+  url: https://conf.researchr.org/home/cibse-2027
+  deadlines:
+  - kind: abstract
+    date: 2027-01-11
+    tz: AoE
+    label: Main track
+  - kind: submission
+    date: 2027-01-18
+    tz: AoE
+    label: Main track
+  - kind: submission
+    date: 2027-02-01
+    label: Doctoral symposium, journal first
+  - kind: submission
+    date: 2027-02-18
+    label: Posters and projects
+  - kind: notification
+    date: 2027-03-08
+    tz: AoE
+    label: Main track
+  - kind: camera_ready
+    date: 2027-03-22
+    tz: AoE
+    label: Main track
+sources:
+- https://conf.researchr.org/home/cibse-2027
+- https://conf.researchr.org/track/cibse-2027/cibse-2027-main-track
+- https://conf.researchr.org/home/cibse-2026
+- https://conf.researchr.org/track/cibse-2026/cibse-2026-cibse-2026--main-track-
+- https://conf.researchr.org/home/cibse-2025
+- https://conf.researchr.org/home/cibse-2024
+- https://conf.researchr.org/home/cibse-2023
+- https://portal.core.edu.au/conf-ranks/?search=CIbSE&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- Host cities for 2020 to 2022 could not be confirmed (old researchr pages gone); region judged from 2023 to 2027
+- Time zone for doctoral symposium, journal first and poster deadlines not stated
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

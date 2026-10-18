@@ -1,0 +1,69 @@
+id: cocoa
+name: COCOA
+full_name: Annual International Conference on Combinatorial Optimization and Applications
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: COCOA Committee (general chair Ding-Zhu Du), with a local host university (Beijing University of Chemical Technology in 2026)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11, 12]
+links:
+  website: https://www.cocoa2026.com/index.html
+notes:
+- Algorithms and combinatorial optimization venue started in 2007, usually held in December
+- Alternates mostly between China and the USA (Xiamen 2019, Dallas 2020, Tianjin 2021, Hawaii 2023, Beijing 2024, Tianjin 2025, Beijing 2026)
+- Proceedings in Springer LNCS (2025 edition in LNCS 16416); no edition was held in 2022
+- Double-blind review, papers up to 12 pages in LNCS style including references, optional appendix
+- Topics include approximation algorithms, scheduling, submodular optimization, algorithmic game theory, network optimization
+  and computational biology
+- Ranked C in ICORE2026
+editions:
+- year: 2024
+  start: 2024-12-06
+  end: 2024-12-08
+  location: Beijing, China
+  url: https://link.springer.com/conference/cocoa
+- year: 2026
+  label: 19th COCOA
+  start: 2026-12-04
+  end: 2026-12-06
+  location: Beijing, China
+  url: https://www.cocoa2026.com/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-09-06
+    label: Paper submission (extended from 2026-08-23)
+  - kind: notification
+    date: 2026-10-08
+  - kind: camera_ready
+    date: 2026-10-14
+  - kind: other
+    date: 2026-11-15
+    label: Registration
+sources:
+- https://www.cocoa2026.com/index.html
+- https://www.cocoa2026.com/submission.html
+- https://www.cocoa2026.com/program.html
+- https://www.cocoa2026.com/paper-submission.html
+- https://www.cocoa2026.com/organization.html
+- https://easychair.org/cfp/cocoa2026
+- https://link.springer.com/conference/cocoa
+- https://portal.core.edu.au/conf-ranks/?search=COCOA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+last_verified: 2026-10-17
+unverified:
+- COCOA 2026 conference dates conflict on the official site (Important Dates and Program pages say 2026-12-04 to 12-06, the
+  Chinese home and About pages say December 15 to 17); the Important Dates value, which the EasyChair CFP also gives, is used
+- COCOA 2024 deadlines (2024 dates taken from the SpringerLink conference page)
+- COCOA 2025 (18th, Tianjin, November 28 to 30, 2025 per the LNCS 16416 title) not added; no official 2025 site was reachable
+- The 2026 site calls it the 18th COCOA in Chinese, the EasyChair CFP says 19th; 19th matches the count of past editions
+- Not in the CCF 2026 list (checked via the ccfddl mirror, ccf.org.cn behind a captcha)

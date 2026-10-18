@@ -1,0 +1,82 @@
+id: eumas
+name: EUMAS
+full_name: European Conference on Multi-Agent Systems
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: EURAMAS (European Association for Multi-Agent Systems) with a local host university
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://euramas.github.io/eumas2026/
+  dblp: https://dblp.org/db/conf/eumas/index.html
+notes:
+- EURAMAS designated event, aiming to be the main European forum for agents and multi-agent systems research
+- Proceedings in Springer LNCS (2025 as two volumes; 2026 as LNCS volume 16829)
+- Single-blind review via OpenReview; main track 15 pages plus references, demos 5 pages
+- Welcomes improved versions of papers rejected from AAMAS, AAAI and IJCAI-ECAI
+- Held in Europe every year (2023 Naples, 2024 Dublin, 2025 Bucharest, 2026 Malmo, 2027 Toulouse); 2026 included the EASSS summer
+  school before the main conference
+- Best paper invited for fast-track extension in the JAAMAS journal
+- Sponsored by IFAAMAS in 2026
+editions:
+- year: 2025
+  start: 2025-09-03
+  end: 2025-09-05
+  location: Bucharest, Romania
+  url: https://euramas.github.io/eumas2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-10
+    tz: AoE
+    label: Extended from 2025-05-16
+  - kind: submission
+    date: 2025-06-15
+    tz: AoE
+    label: Extended from 2025-05-16
+  - kind: notification
+    date: 2025-07-15
+    tz: AoE
+    label: Postponed from 2025-06-30
+  - kind: camera_ready
+    date: 2025-08-15
+    tz: AoE
+- year: 2026
+  start: 2026-09-21
+  end: 2026-09-25
+  location: Malmo, Sweden
+  url: https://euramas.github.io/eumas2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-24
+    tz: AoE
+    label: Extended from 2026-05-18
+  - kind: notification
+    date: 2026-06-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-19
+    tz: AoE
+- year: 2027
+  start: 2027-09-15
+  end: 2027-09-17
+  location: Toulouse, France
+sources:
+- https://euramas.github.io/eumas2026/
+- https://euramas.github.io/eumas2026/doc/EUMAS2026-CFP.pdf
+- https://euramas.github.io/eumas2025/
+- https://portal.core.edu.au/conf-ranks/?search=EUMAS&by=all&source=ICORE2026
+unverified:
+- EUMAS 2027 dates and city are from the next-edition notice on the EUMAS 2026 site; no 2027 website or deadlines yet as of 2026-10-17
+- 2026 dates span the pre-conference programme (Sep 21-22) and the main conference (Sep 23-25)
+- Acceptance rate and registration fees not checked
+last_verified: 2026-10-17

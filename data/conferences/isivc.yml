@@ -1,0 +1,62 @@
+id: isivc
+name: ISIVC
+full_name: International Symposium on Signal, Image, Video and Communications
+type: conference
+tier: minor
+areas: [vision, communications, networking, data]
+region: africa
+language: english
+frequency: biennial
+organizer: ISIVC steering committee (IMT Atlantique and Moroccan and Tunisian universities); 2026 hosted by Sultan
+  Moulay Slimane University
+organizer_country: [other, europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12, 2]
+  conference_months: [5]
+links:
+  website: https://www.isivc.org/
+notes:
+- Biennial IEEE symposium on signal, image and video processing and communications, founded by Driss Aboutajdine;
+  13th edition in 2026 (IEEE conference record 69944)
+- The website calls it the International Symposium on Image, Video, and Communications; the IEEE title adds Signal
+- Mostly held in Morocco (El Jadida 2022, Marrakech 2024, Beni Mellal 2026), sometimes in Tunisia or France
+  (Tunis 2016, Saint-Etienne 2021)
+- Steering committee chaired from IMT Atlantique (France); local organization by a Moroccan university
+- "Four tracks: signal and audio processing, computer vision and image processing, digital communications and
+  networking, data science and applications"
+- Double-blind review, papers up to 6 pages in IEEE format, submitted via Microsoft CMT
+- Proceedings in IEEE Xplore; extended 2024 papers went to special issues of Annals of Telecommunications and
+  Multimedia Tools and Applications (Springer)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 13th ISIVC
+  start: 2026-05-20
+  end: 2026-05-22
+  location: Beni Mellal, Morocco
+  url: https://www.isivc.org/2026/index.php
+  deadlines:
+  - kind: submission
+    date: 2026-02-12
+    time: "23:59"
+    tz: UTC+1
+    label: Extended (first deadline 2025-12-07)
+  - kind: notification
+    date: 2026-03-26
+  - kind: camera_ready
+    date: 2026-04-09
+sources:
+- https://www.isivc.org/
+- https://www.isivc.org/pages/aboutISIVC.php
+- https://www.isivc.org/2026/index.php
+- https://www.isivc.org/2026/submission.php
+- https://www.isivc.org/2026/committees.php
+- https://www.isivc.org/2026/archives.php
+- https://www.isivc.org/isivc2024.php
+- https://portal.core.edu.au/conf-ranks/?search=ISIVC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ISIVC 2028 not announced yet
+- Deadline zone; the page says 23:59 Moroccan local time, which was UTC+1 on 2026-02-12

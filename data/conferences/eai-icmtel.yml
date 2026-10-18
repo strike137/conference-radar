@@ -1,0 +1,61 @@
+id: eai-icmtel
+name: EAI ICMTEL
+full_name: EAI International Conference on Multimedia Technology and Enhanced Learning
+type: conference
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: EAI (European Alliance for Innovation)
+organizer_country: [europe]
+proceedings: Springer LNICST
+archival: true
+indexing: [Web of Science, Compendex, Scopus, DBLP, Inspec, zbMATH]
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://icmtel.eai-conferences.org/2025/
+notes:
+- EAI conference on multimedia processing with AI and large language models (vision, NLP, multimodal fusion, AIGC)
+- Proceedings published by Springer (LNICST author kit); selected papers invited to MONET or WINET journals
+- Regular papers 12 to 20 pages, short papers 6 to 11 pages; submission via Confy+
+- Main track and late track with separate deadlines
+- 7th edition in 2025 (Changsha); earlier editions in Leicester (2020, 2024) and online (2021 to 2023)
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-06-08
+  end: 2025-06-09
+  location: Changsha, China
+  url: https://icmtel.eai-conferences.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-16
+    label: Main track
+  - kind: submission
+    date: 2025-04-13
+    label: Late track
+  - kind: notification
+    date: 2025-04-16
+    label: Main track
+  - kind: camera_ready
+    date: 2025-04-30
+    label: Main track
+  - kind: notification
+    date: 2025-04-30
+    label: Late track
+  - kind: camera_ready
+    date: 2025-05-14
+    label: Late track
+sources:
+- https://icmtel.eai-conferences.org/2025/
+- https://icmtel.eai-conferences.org/2025/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=ICMTEL&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2025 end date differs on the official site (homepage gives 8 June, call for papers page gives 8 to 9 June 2025)
+- No 2026 edition found; the official site still shows 2025
+- Proceedings series named only through the Springer LNICST author kit on the call for papers page
+- CCF 2026 list not checked directly on ccf.org.cn

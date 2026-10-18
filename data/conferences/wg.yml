@@ -1,0 +1,59 @@
+id: wg
+name: WG
+full_name: International Workshop on Graph-Theoretic Concepts in Computer Science
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: WG steering committee, hosted by a different university each year
+organizer_country: [international]
+proceedings: LIPIcs (from 2026); Springer LNCS through 2025
+archival: true
+indexing: [DBLP]
+rank:
+  core: B
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://wg2026.github.io/
+  dblp: https://dblp.org/db/conf/wg/index.html
+notes:
+- Long running theory venue on graph algorithms and graph theory in computer science, held since 1975 (52nd edition in 2026)
+- Despite the name it is a full peer reviewed conference with archival proceedings
+- WG 2026 was the first edition with LIPIcs proceedings (Volume 376, diamond open access); earlier volumes are in Springer LNCS
+- Submissions limited to 500 lines (about 12 pages) in the LIPIcs class, lightweight double-blind review
+- Held in Europe almost every year (Fribourg 2023, Gozd Martuljek 2024, Otzenhausen 2025, Kortrijk 2026)
+- Gives a WG Test of Time Award each year
+editions:
+- year: 2026
+  start: 2026-06-02
+  end: 2026-06-04
+  location: Kortrijk, Belgium (KU Leuven campus Kulak)
+  url: https://wg2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-01
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-02-04
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-03
+  - kind: camera_ready
+    date: 2026-05-04
+sources:
+- https://wg2026.github.io/
+- https://wg2026.github.io/cfp.html
+- https://wg2026.github.io/history.html
+- https://doi.org/10.4230/LIPIcs.WG.2026
+- https://portal.core.edu.au/conf-ranks/?search=WG&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- WG 2027 not yet announced (no official site found as of 2026-10-17)
+- Not on the CCF list per the CCFrank4dblp mirror (ccf.org.cn behind a captcha)
+last_verified: 2026-10-17

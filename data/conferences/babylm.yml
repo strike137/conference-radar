@@ -1,0 +1,64 @@
+id: babylm
+name: BabyLM
+full_name: BabyLM Workshop and Challenge (Accelerating Language Modeling Research with Cognitively Plausible Data)
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: BabyLM organizing team (2026 organizers from IBM Research, MIT, ETH Zurich, Cornell, University of Groningen, NYU, Boston University, University of Cambridge, Georgia Tech, UCSD and Georgetown); co-located with EMNLP
+organizer_country: [usa, europe]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://babylm.github.io/
+notes:
+- Shared task and workshop on sample-efficient language model pretraining under human-scale data budgets (100M and 10M words), with a cognitive modeling angle
+- Run as a shared task at CoNLL 2023 (Singapore) and CoNLL 2024 (Miami); became a full workshop at EMNLP 2025 (Suzhou) and EMNLP 2026 (Budapest)
+- Papers appear in the ACL Anthology (First BabyLM Workshop proceedings 2025, 42 papers)
+- Two direct paper tracks (workshop papers and Challenge reports) on OpenReview, plus ARR commitment
+- 2026 adds a MultiLingual track (English, Dutch, Chinese); Multimodal and Interaction are folded into Strict and Strict-Small
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: First BabyLM Workshop (3rd challenge), with EMNLP 2025
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Suzhou, China
+  url: https://babylm.github.io/papers.html
+- year: 2026
+  label: BabyLM 4, with EMNLP 2026
+  start: 2026-10-29
+  end: 2026-10-29
+  location: Budapest, Hungary
+  url: https://babylm.github.io/
+  deadlines:
+  - kind: other
+    date: 2026-05-25
+    label: ARR submission deadline
+  - kind: submission
+    date: 2026-07-20
+    tz: AoE
+    label: Direct submission, Challenge and Workshop (extended)
+  - kind: other
+    date: 2026-08-14
+    label: ARR commitment
+sources:
+- https://babylm.github.io/
+- https://babylm.github.io/timeline.html
+- https://babylm.github.io/papers.html
+- https://2026.emnlp.org/program/workshops/
+- https://2025.emnlp.org/program/workshops/
+- https://aclanthology.org/venues/babylm/
+- https://aclanthology.org/volumes/2025.babylm-main/
+- https://portal.core.edu.au/conf-ranks/?search=BabyLM&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Camera-ready date differs on the official site (September 5 on the home page, September 10 on the timeline page), so it is left out
+- Notification date only given as mid-August 2026
+- Acceptance rate not published

@@ -1,0 +1,53 @@
+id: acm-trust
+name: ACM TRUST
+full_name: ACM Conference on Trustworthy and Responsible AI and Computing Systems
+type: conference
+tier: minor
+areas: [ai, security, systems]
+region: north-america
+language: english
+organizer: ACM EIGTRUST (Emerging Interest Group on Trustworthy and Responsible Systems)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [3]
+links:
+  website: https://eigtrust.acm.org/trust2027/
+notes:
+- New ACM conference run by the ACM Emerging Interest Group on Trustworthy and Responsible Systems; first edition in 2027
+- Hybrid; held in Washington, DC in 2027 with full virtual participation
+- Six flagship symposia and thirty Emerging Area tracks, plus an Education Symposium, workshops and tutorials
+- Full papers up to 9 pages in ACM sigconf format; double-blind review via Microsoft CMT
+- Accepted papers published open access in the ACM Digital Library; authors without ACM Open coverage pay an APC (500 USD members, 750 USD non-members in 2027)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2027
+  start: 2027-03-07
+  end: 2027-03-09
+  location: Washington, DC, USA (hybrid)
+  url: https://eigtrust.acm.org/trust2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-24
+  - kind: submission
+    date: 2026-10-31
+  - kind: notification
+    date: 2026-12-31
+  - kind: camera_ready
+    date: 2027-02-28
+sources:
+- https://eigtrust.acm.org/trust2027/
+- https://eigtrust.acm.org/trust2027/cfp/
+- https://eigtrust.acm.org/trust2027/authors-guidelines/
+- https://eigtrust.acm.org/trust2027/steering-committee/
+- https://eigtrust.acm.org/trust2027/sponsors/
+- https://eigtrust.acm.org/
+- https://portal.core.edu.au/conf-ranks/?search=TRUST&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+last_verified: 2026-10-17
+unverified:
+- Region and frequency are based on the first edition only
+- Deadline time zone not stated
+- CCF absence checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)

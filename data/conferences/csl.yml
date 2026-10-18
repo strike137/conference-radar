@@ -1,0 +1,79 @@
+id: csl
+name: CSL
+full_name: EACSL Annual Conference on Computer Science Logic
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: European Association for Computer Science Logic (EACSL)
+organizer_country: [europe]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [7]
+  conference_months: [1, 2]
+links:
+  website: https://www.eacsl.org/csl-conferences/
+  dblp: https://dblp.org/db/conf/csl/index.html
+notes:
+- Annual conference of the European Association for Computer Science Logic, running since 1987
+- Covers logic in computer science broadly, from proof theory and type theory to automata, verification and finite model theory
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl); 2026 was LIPIcs volume 363
+- Selected papers invited to Logical Methods in Computer Science
+- Double-blind review, papers up to 15 pages in LIPIcs style excluding appendices and references
+- Student papers eligible for the Helena Rasiowa award; the Ackermann Award is presented at the conference
+- Held in Europe every year (Warsaw 2023, Naples 2024, Amsterdam 2025, Paris 2026, Brighton 2027), now in late January or February
+- Co-located with the Logic Mentoring Workshop and FICS
+- Ranked B in ICORE2026 and C in the CCF list
+editions:
+- year: 2026
+  start: 2026-02-24
+  end: 2026-02-27
+  location: Paris, France (Sorbonne Paris Nord University)
+  url: https://csl2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-15
+    tz: AoE
+  - kind: submission
+    date: 2025-07-21
+    tz: AoE
+  - kind: notification
+    date: 2025-10-14
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-30
+    tz: AoE
+- year: 2027
+  start: 2027-01-25
+  end: 2027-01-29
+  location: Brighton, UK (University of Sussex)
+  url: https://csl2027.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-08
+    tz: AoE
+  - kind: submission
+    date: 2026-07-15
+    tz: AoE
+  - kind: notification
+    date: 2026-10-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-12
+    tz: AoE
+sources:
+- https://www.eacsl.org/csl-conferences/
+- https://csl2026.github.io/
+- https://csl2027.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=CSL&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+- Acceptance rates and fees not recorded

@@ -1,0 +1,64 @@
+id: ccc-complexity
+name: CCC
+full_name: Computational Complexity Conference
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: Computational Complexity Foundation (in cooperation with EATCS and ACM SIGACT)
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: A
+  ccf: B
+fee: 300 EUR non-student, 190 EUR student (2026, early)
+typical:
+  deadline_months: [2]
+  conference_months: [7, 8]
+links:
+  website: https://computationalcomplexity.org/
+  dblp: https://dblp.org/db/conf/coco/index.html
+notes:
+- Main conference on computational complexity theory; started in 1986 as Structure in Complexity Theory
+- Run by the Computational Complexity Foundation since 2015; formerly the IEEE Conference on Computational Complexity
+- Proceedings in the open-access LIPIcs series (CCC 2026 is LIPIcs volume 383)
+- Lightweight double-blind review; single column, at least 11 point, first 10 pages must carry the main ideas, no page limit
+- Single track over about four days; held in North America or Europe (Philadelphia 2022, Warwick 2023, Ann Arbor 2024, Toronto 2025, Lisbon 2026, Seattle 2027)
+- Not to be confused with the Chinese Control Conference (id ccc) or the Chaos Communication Congress
+- CORE A (ICORE2026, listed as IEEE Conference on Computational Complexity); CCF B
+editions:
+- year: 2026
+  start: 2026-08-03
+  end: 2026-08-06
+  location: Lisbon, Portugal (Faculty of Sciences, University of Lisbon)
+  url: https://computationalcomplexity.org/Archive/2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-02-06
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-05-01
+- year: 2027
+  start: 2027-07-19
+  end: 2027-07-22
+  location: Seattle, WA, USA (University of Washington)
+  url: https://computationalcomplexity.org/
+sources:
+- https://computationalcomplexity.org/
+- https://computationalcomplexity.org/conferences.html
+- https://computationalcomplexity.org/general.html
+- https://computationalcomplexity.org/Archive/2026/cfp.html
+- https://computationalcomplexity.org/Archive/2026/index.html
+- https://computationalcomplexity.org/Archive/2025/cfp.html
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-383
+- https://portal.core.edu.au/conf-ranks/?search=CCC&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- CCC 2027 call for papers not yet published; deadlines unknown
+- CCC 2026 camera-ready due "end of May 2026" with no exact date
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly

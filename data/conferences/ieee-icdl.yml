@@ -1,0 +1,69 @@
+id: ieee-icdl
+name: IEEE ICDL
+full_name: IEEE International Conference on Development and Learning
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE, sponsored by IEEE Robotics and Automation Society (RAS) and IEEE Computational Intelligence Society
+  (CIS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+fee: About 120,000 JPY early-bird for non-IEEE members, 75,000 JPY for non-member students (2026)
+typical:
+  deadline_months: [3, 4]
+  conference_months: [9]
+links:
+  website: https://attend.ieee.org/icdl-2026/
+notes:
+- Interdisciplinary venue on development and learning in humans, animals and machines (developmental robotics,
+  cognitive science, machine learning)
+- Recent editions in Prague 2025 and Kyoto 2026; 2027 edition announced for Campinas, Brazil
+- Full papers 6 pages (up to 2 extra pages at a fee), single-blind review via OpenReview, published in IEEE Xplore
+- Late-breaking results (1 to 2 pages) and journal presentations are poster only and not in IEEE Xplore
+- Authors with PhD-level expertise are expected to review about two submissions
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-09-15
+  end: 2026-09-18
+  location: Kyoto, Japan
+  url: https://attend.ieee.org/icdl-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-03
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended from 2026-03-13)
+  - kind: notification
+    date: 2026-05-29
+    label: Extended from 2026-05-15
+  - kind: other
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking results
+  - kind: camera_ready
+    date: 2026-06-15
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-09-21
+  end: 2027-09-24
+  location: Campinas, Brazil
+  status: confirmed
+  deadlines: []
+sources:
+- https://attend.ieee.org/icdl-2026/
+- https://attend.ieee.org/icdl-2026/call-for-papers/
+- https://attend.ieee.org/icdl-2026/partnership/
+- https://attend.ieee.org/icdl-2026/registration/
+- https://icdl2025.fel.cvut.cz/
+- https://portal.core.edu.au/conf-ranks/?search=ICDL&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ICDL 2027 deadlines not announced yet
+- Acceptance rate not published

@@ -1,0 +1,46 @@
+id: protecs
+name: ProTeCS
+full_name: Workshop on Proofs and Proof Techniques for Cryptographic Security
+type: workshop
+tier: minor
+areas: [crypto]
+region: europe
+language: english
+frequency: annual
+organizer: Doreen Riepel (CISPA) and Martijn Stam (Simula UiB); affiliated event of Eurocrypt
+organizer_country: [europe]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://protecs-workshop.gitlab.io/
+notes:
+- One-day workshop affiliated with Eurocrypt (2024 Zurich, 2025 Madrid, 2026 Rome); third edition in 2026
+- Call for presentations, not papers; abstracts of up to 3 pages for 15 to 30 minute talks
+- Nothing is published; talks on existing publications and work in progress are welcome
+- Topics include reductions, simulation, computer-aided proofs and teaching proof techniques
+- Registration goes through the Eurocrypt registration
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-09
+  end: 2026-05-09
+  location: Rome, Italy
+  url: https://protecs-workshop.gitlab.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-23
+    tz: AoE
+    label: Presentation submission (extended from 2026-02-19)
+  - kind: notification
+    date: 2026-03-11
+sources:
+- https://protecs-workshop.gitlab.io/
+- https://protecs-workshop.gitlab.io/call
+- https://protecs-workshop.gitlab.io/previous
+- https://portal.core.edu.au/conf-ranks/?search=ProTeCS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ProTeCS 2027 not announced yet (Eurocrypt 2027, Eindhoven, April 11-15, 2027 has no affiliated events list yet)

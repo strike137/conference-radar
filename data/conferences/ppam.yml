@@ -1,0 +1,66 @@
+id: ppam
+name: PPAM
+full_name: International Conference on Parallel Processing and Applied Mathematics
+type: conference
+tier: minor
+areas: [systems, general]
+region: europe
+language: english
+frequency: biennial
+organizer: Czestochowa University of Technology
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+indexing: [Web of Science, Scopus, DBLP]
+rank:
+  core: "National: Poland"
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9]
+links:
+  website: https://ppam.edu.pl/
+  dblp: https://dblp.org/db/conf/ppam/index.html
+notes:
+- Biennial since 1994, run by the Department of Computer Science of Czestochowa University of Technology with a
+  co-organizing university each time
+- Usually held in Poland (Poznan 2026); Ostrava, Czech Republic in 2024
+- Post-proceedings in Springer LNCS, published after the conference and containing only presented papers (2024 in
+  LNCS 15579 to 15581)
+- Regular papers up to 15 pages in LNCS style; many co-located HPC workshops and minisymposia
+- Camera-ready deadline comes after the conference (October or November)
+- "CORE rank: National: Poland (ICORE2026); not on the CCF list"
+editions:
+- year: 2024
+  start: 2024-09-08
+  end: 2024-09-11
+  location: Ostrava, Czech Republic
+  url: https://ppam.edu.pl/prev/ppam2024
+  deadlines:
+  - kind: camera_ready
+    date: 2024-11-08
+    label: Extended
+- year: 2026
+  start: 2026-08-30
+  end: 2026-09-02
+  location: Poznan, Poland
+  url: https://ppam.edu.pl/
+  deadlines:
+  - kind: submission
+    date: 2026-05-11
+    label: Extended from 2026-04-24
+  - kind: notification
+    date: 2026-06-15
+    label: Moved from 2026-05-31
+  - kind: camera_ready
+    date: 2026-10-16
+    label: Moved from 2026-11-02
+sources:
+- https://ppam.edu.pl/
+- https://ppam.edu.pl/call
+- https://ppam.edu.pl/about
+- https://ppam.edu.pl/prev/ppam2024
+- https://portal.core.edu.au/conf-ranks/?search=PPAM&by=all&source=ICORE2026
+unverified:
+- PPAM 2028 not yet announced
+- PPAM 2024 submission and notification dates not shown on the archived 2024 page
+last_verified: 2026-10-17

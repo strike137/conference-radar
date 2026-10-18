@@ -1,0 +1,64 @@
+id: icer
+name: ICER
+full_name: ACM Conference on International Computing Education Research
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCSE
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [2]
+  conference_months: [8]
+links:
+  website: https://icer2026.acm.org/
+  dblp: https://dblp.org/db/conf/icer/index.html
+notes:
+- Leading research venue for computing education, sponsored by ACM SIGCSE; 22nd edition in 2026
+- CORE A (ICORE2026, listed under its old name International Computing Education Research Workshop); not in the CCF 2026 list
+- Research papers only in the main track, with title and abstract due one week before the full paper
+- Anonymous review on HotCRP with meta-reviewers; conditional accept with a revision round
+- Proceedings in the ACM Digital Library (ACM Open from 2026); also doctoral consortium, lightning talks and posters, and work in progress tracks
+- Rotates worldwide (online 2021, Lugano 2022, Chicago 2023, Melbourne 2024, Charlottesville 2025, Uppsala 2026)
+editions:
+- year: 2026
+  start: 2026-08-11
+  end: 2026-08-14
+  location: Uppsala, Sweden
+  url: https://icer2026.acm.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-20
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-02-27
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2026-04-17
+  - kind: other
+    date: 2026-05-01
+    time: "23:59"
+    tz: AoE
+    label: Conditional accept revisions
+  - kind: camera_ready
+    date: 2026-05-27
+    time: "23:59"
+    tz: AoE
+sources:
+- https://icer2026.acm.org/
+- https://icer2026.acm.org/track/icer-2026-papers
+- https://conf.researchr.org/series/icer
+- https://portal.core.edu.au/conf-ranks/?search=ICER&by=all&source=ICORE2026
+unverified:
+- ICER 2027 not yet announced on an official page (icer2027.acm.org not reachable)
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

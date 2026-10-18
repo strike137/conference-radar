@@ -1,0 +1,62 @@
+id: at-rasc
+name: AT-RASC
+full_name: URSI Atlantic Radio Science Meeting
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: irregular
+organizer: URSI (International Union of Radio Science)
+organizer_country: [international]
+proceedings: IEEE Xplore (summary papers), full proceedings on the URSI website
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://www.atrasc.com/
+notes:
+- One of the three URSI flagship meetings with the General Assembly (GASS) and AP-RASC; covers all ten URSI Commissions (fields and waves, radiocommunication, propagation, radio astronomy, EM in biology and others)
+- Held every few years in Gran Canaria, Spain (2015, 2018, 2022, 2024, 2027); the CFP calls it triennial
+- 2022 edition was a joint Atlantic and Asia-Pacific meeting (AT-AP-RASC)
+- Submit a one-page Extended Abstract or a 2 to 4 page Summary Paper; only Summary Papers go to IEEE Xplore (opt-out possible)
+- Each registered author may present at most two papers; early author registration is required for inclusion in the program
+- Student Paper Competition and Young Scientist Awards
+- Radio science venue outside the usual CS rankings, not listed in ICORE2026
+editions:
+- year: 2024
+  start: 2024-05-19
+  end: 2024-05-24
+  location: Gran Canaria, Spain
+- year: 2027
+  start: 2027-05-23
+  end: 2027-05-28
+  location: Gran Canaria, Spain (ExpoMeloneras Convention Centre)
+  url: https://www.atrasc.com/
+  deadlines:
+  - kind: other
+    date: 2026-10-31
+    label: Special session requests to commission chairs
+  - kind: submission
+    date: 2027-01-18
+    time: "23:59"
+    tz: CET
+  - kind: notification
+    date: 2027-03-01
+  - kind: other
+    date: 2027-04-15
+    label: Early bird author registration (required for inclusion in the program)
+sources:
+- https://www.atrasc.com/home.php
+- https://www.atrasc.com/callforpapers.php
+- https://www.atrasc.com/papersubmission.php
+- https://www.atrasc.com/student-paper-competition.php
+- https://www.atrasc.com/committees.php
+- https://www.ursi.org/events.php
+- https://www.ursi.org/proceedings.php
+- https://portal.core.edu.au/conf-ranks/?search=RASC&by=all&source=ICORE2026
+unverified:
+- Submission time 23:59 CET is stated on the Student Paper Competition page; the general CFP gives only the date
+- Registration fees not yet published (placeholders on the registration page)
+last_verified: 2026-10-17

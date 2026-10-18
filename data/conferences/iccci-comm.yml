@@ -1,0 +1,61 @@
+id: iccci-comm
+name: ICCCI
+full_name: International Conference on Computer Communication and the Internet
+type: conference
+tier: minor
+areas: [networking, communications]
+region: japan
+language: english
+frequency: annual
+organizer: Science and Engineering Institute (SCIEI) with Japanese host universities (Okayama University in 2026, Saitama University in 2027)
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, EI Compendex]
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://www.iccci.org/
+notes:
+- Not the same venue as ICCCI (International Conference on Computational Collective Intelligence)
+- Smaller conference on communication networks, IoT, multimedia communications, network management and security
+- Run by the commercial organizer SCIEI (submission via zmeeting) with Japanese universities as hosts
+- Held in Japan every year since 2022 (Chiba, Shonan, Tokyo, Tokushima, Okayama); Tokyo in 2027
+- Proceedings 2016 to 2025 in IEEE Xplore with Scopus and EI Compendex indexing per the site
+- Full papers 4 to 10 pages, regular registration covers 6 pages; abstract-only presentation possible but not published
+- Double-blind review per the submission page
+editions:
+- year: 2026
+  start: 2026-06-26
+  end: 2026-06-28
+  location: Okayama, Japan
+  url: https://www.iccci.org/2026.html
+- year: 2027
+  start: 2027-06-25
+  end: 2027-06-27
+  location: Tokyo, Japan
+  url: https://www.iccci.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-20
+  - kind: notification
+    date: 2027-03-20
+  - kind: other
+    date: 2027-04-10
+    label: Registration
+  - kind: camera_ready
+    date: 2027-05-25
+sources:
+- https://www.iccci.org/
+- https://www.iccci.org/sub.html
+- https://www.iccci.org/cfp.html
+- https://www.iccci.org/2026.html
+- https://www.iccci.org/2025.html
+- https://www.iccci.org/2024.html
+- https://portal.core.edu.au/conf-ranks/?search=ICCCI&by=all&source=ICORE2026
+unverified:
+- Not listed in CORE ICORE2026 (the only ICCCI there is Computational Collective Intelligence)
+- The 2027 site says only "ICCCI Conference Proceedings"; IEEE Xplore publication for 2026 and 2027 not stated
+- Country of SCIEI not stated, so organizer_country is left out
+- ICCCI 2026 deadlines no longer on the site
+last_verified: 2026-10-17

@@ -1,0 +1,88 @@
+id: inforum
+name: INForum
+full_name: INForum - Simpósio de Informática
+type: conference
+tier: domestic
+areas: [general]
+region: europe
+language: mixed
+frequency: annual
+organizer: INForum coordinating committee (Portuguese universities) with a host university
+organizer_country: [europe]
+proceedings: INForum proceedings (atas) on the edition website
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://2026.inforum.pt/
+notes:
+- National Portuguese computer science symposium, aimed at bringing together the Portuguese community and giving young researchers a first venue
+- Organized as independently run topic sessions selected each year, each with its own programme committee
+- Full articles in Portuguese or English are reviewed by the topic committees; short communications, posters and demos are also accepted
+- Accepted work appears in the proceedings in full or as a 2-page summary; papers use the Springer LNCS template but are not published by Springer
+- Held at a different Portuguese university each year (Guarda 2022, Porto 2023, Lisboa 2024, Evora 2025, Caparica 2026)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-09-04
+  end: 2025-09-05
+  location: Universidade de Evora, Evora, Portugal
+  url: https://inforum2025.xdi.uevora.pt/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-21
+    label: Articles (extended from 2025-06-14)
+  - kind: submission
+    date: 2025-06-28
+    label: Articles (extended from 2025-06-21)
+  - kind: notification
+    date: 2025-07-14
+    label: Articles (extended from 2025-07-08)
+  - kind: submission
+    date: 2025-07-16
+    label: Communications, posters and demos (extended from 2025-07-11)
+  - kind: notification
+    date: 2025-07-18
+    label: Communications, posters and demos
+  - kind: camera_ready
+    date: 2025-07-30
+    label: Articles (extended from 2025-07-18)
+- year: 2026
+  start: 2026-09-03
+  end: 2026-09-04
+  location: NOVA School of Science and Technology (FCT NOVA), Caparica, Portugal
+  url: https://2026.inforum.pt/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-20
+    label: Articles (extended from 2026-06-13)
+  - kind: submission
+    date: 2026-06-27
+    label: Articles (extended from 2026-06-20)
+  - kind: notification
+    date: 2026-07-14
+    label: Articles (extended from 2026-07-07)
+  - kind: submission
+    date: 2026-07-20
+    label: Communications, posters and demos (extended from 2026-07-10)
+  - kind: notification
+    date: 2026-07-24
+    label: Communications, posters and demos (extended from 2026-07-17)
+  - kind: camera_ready
+    date: 2026-07-31
+    label: All submission types (articles extended from 2026-07-17)
+sources:
+- https://inforum.org.pt/
+- https://2026.inforum.pt/
+- https://2026.inforum.pt/calls
+- https://inforum2025.xdi.uevora.pt/
+- https://inforum2025.xdi.uevora.pt/index.php/cfp/
+- https://inforum2025.xdi.uevora.pt/index.php/dates/
+- https://inforum.org.pt/2024/index.html
+- https://2024.inforum.pt/proceedings
+- https://portal.core.edu.au/conf-ranks/?search=INForum&by=all&source=ICORE2026
+unverified:
+- INForum 2027 not announced as of 2026-10-17
+- No ISBN or publisher stated for the proceedings
+last_verified: 2026-10-17

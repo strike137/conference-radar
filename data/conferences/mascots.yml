@@ -1,0 +1,80 @@
+id: mascots
+name: MASCOTS
+full_name: International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems
+type: conference
+tier: major
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: MASCOTS organizing committee (IITIS PAN, Poland in 2025 and 2026), technically co-sponsored by IEEE Computer Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: B
+  ccf: C
+fee: 750 EUR IEEE member, 850 EUR non-member, 450 to 550 EUR student (2026)
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10]
+links:
+  website: https://mascots.iitis.pl
+notes:
+- Long-running symposium on measurement, modeling and performance evaluation of computer systems and networks (34th edition in 2026)
+- Technically co-sponsored by the IEEE Computer Society; proceedings in IEEE Xplore
+- Paris 2025 (Sorbonne University), Genova 2026 (University of Genova)
+- Up to 8 pages in IEEE two-column format; single-blind review via EasyChair
+- Good papers below the main threshold are invited to the MASCOTS workshop and published in the proceedings if presented live
+- Selected 2025 papers invited to extended versions in the Performance Evaluation (PEVA) journal
+- CORE B (ICORE2026), CCF C
+editions:
+- year: 2025
+  start: 2025-10-21
+  end: 2025-10-23
+  location: Paris, France
+  url: https://mascots25.iitis.pl/
+  deadlines:
+  - kind: submission
+    date: 2025-06-01
+    tz: AoE
+    label: Papers (extended from 2025-05-18)
+  - kind: notification
+    date: 2025-08-08
+  - kind: other
+    date: 2025-09-05
+    label: Author registration
+  - kind: camera_ready
+    date: 2025-09-12
+- year: 2026
+  start: 2026-10-20
+  end: 2026-10-22
+  location: Genova, Italy
+  url: https://mascots26.iitis.pl/
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+    tz: AoE
+    label: Papers (extended from 2026-05-17)
+  - kind: notification
+    date: 2026-08-07
+  - kind: other
+    date: 2026-09-04
+    label: Author registration
+  - kind: camera_ready
+    date: 2026-09-21
+sources:
+- https://mascots.iitis.pl
+- https://mascots26.iitis.pl/dates/
+- https://mascots26.iitis.pl/call-for-papers/
+- https://mascots26.iitis.pl/registration/
+- https://mascots25.iitis.pl/
+- https://mascots25.iitis.pl/dates/
+- https://portal.core.edu.au/conf-ranks/?search=MASCOTS&by=all&source=ICORE2026
+- https://mascots26.iitis.pl/commities/
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+last_verified: 2026-10-17
+unverified:
+- Host cities of editions before 2025 not checked on official pages (dblp was not reachable), so region worldwide is not confirmed
+- Acceptance rate
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)

@@ -1,0 +1,81 @@
+id: discotec
+name: DisCoTec
+full_name: International Federated Conference on Distributed Computing Techniques
+type: conference
+tier: minor
+areas: [systems, software]
+region: europe
+language: english
+frequency: annual
+organizer: IFIP (WG 6.1) and EAPLS, steering committee
+organizer_country: [international]
+proceedings: Springer LNCS (LNCS-IFIP series)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://www.discotec.org/
+  dblp: https://dblp.org/db/conf/discotec/index.html
+notes:
+- Federated event of three IFIP WG 6.1 conferences with shared deadlines, namely COORDINATION (coordination models and languages),
+  DAIS (distributed applications and interoperable systems) and FORTE (formal techniques for distributed systems), plus the ICE workshop
+- Sponsored by IFIP and EAPLS; each edition is hosted by a European university
+- Each member conference has its own Springer LNCS-IFIP volume (DAIS 2026 is LNCS 16591); open access in the IFIP digital library after a 3-year embargo
+- DisCoTec itself is not on the CORE list; the member conferences COORDINATION, DAIS and FORTE are CORE C (ICORE2026), and FORTE is CCF C
+- Artefact evaluation track; best paper per conference plus a DisCoTec-wide best paper award
+- Selected papers invited to journal special issues (Logical Methods in Computer Science, Science of Computer Programming)
+- Held in Europe every year (Lisbon 2023, Groningen 2024, Lille 2025, Urbino 2026, Augsburg 2027)
+editions:
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-12
+  location: Urbino, Italy (University of Urbino Carlo Bo)
+  url: https://www.discotec.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-13
+    time: "23:59"
+    tz: AoE
+    label: Abstract (extended from 2026-01-30)
+  - kind: submission
+    date: 2026-02-20
+    time: "23:59"
+    tz: AoE
+    label: Paper submission (extended from 2026-02-06)
+  - kind: other
+    date: 2026-02-27
+    time: "23:59"
+    tz: AoE
+    label: Artefact submission (extended from 2026-02-13)
+  - kind: notification
+    date: 2026-03-24
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-03
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-06-14
+  end: 2027-06-18
+  location: Augsburg, Germany (University of Augsburg)
+  url: https://www.discotec.org/2027/
+  status: confirmed
+sources:
+- https://www.discotec.org/
+- https://www.discotec.org/2026/
+- https://www.discotec.org/2026/dates
+- https://www.discotec.org/2026/conferences
+- https://www.discotec.org/2026/dais
+- https://www.discotec.org/2026/forte
+- https://www.discotec.org/2027/
+- https://www.discotec.org/2027/dates
+- https://portal.core.edu.au/conf-ranks/?search=DisCoTec&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=COORDINATION&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=DAIS&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=FORTE&by=all&source=ICORE2026
+unverified:
+- DisCoTec 2027 paper deadlines are TBA on the official dates page (as of 2026-10-17)
+- FORTE CCF C taken from the CCFrank4dblp mirror of the CCF list (ccf.org.cn behind a captcha)
+last_verified: 2026-10-17

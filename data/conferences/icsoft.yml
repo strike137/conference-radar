@@ -1,0 +1,107 @@
+id: icsoft
+name: ICSOFT
+full_name: International Conference on Software Technologies
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: INSTICC (Institute for Systems and Technologies of Information, Control and Communication)
+organizer_country: [europe]
+proceedings: SCITEPRESS; selected papers extended in Springer CCIS
+archival: true
+indexing: [Scopus, DBLP, EI, Web of Science (CPCI)]
+rank:
+  core: C
+typical:
+  deadline_months: [2, 3, 4]
+  conference_months: [6, 7]
+links:
+  website: https://icsoft.scitevents.org/
+notes:
+- Organized by INSTICC; proceedings in the SCITEPRESS Digital Library, revised and extended selected papers in a
+  Springer CCIS book
+- Formerly the International Conference on Software and Data Technologies (listed under that name in CORE)
+- 'Double-blind review; two submission stages: regular papers in stage 1, regular or position papers in stage 2
+  (earlier stage gives earlier notification)'
+- Held in Europe every year in June or July (Rome 2023, Dijon 2024, Bilbao 2025, Porto 2026, Rome 2027),
+  co-located with DATA, DeLTA, SECRYPT, QUANTICS and SIMULTECH; one registration covers them as a non-speaker
+- Regarded as a lower-tier venue (CORE C); remote presentation allowed when speakers cannot travel
+- Has a non-archival abstracts track and co-located workshops
+editions:
+- year: 2026
+  start: 2026-07-16
+  end: 2026-07-18
+  location: Porto, Portugal
+  url: https://icsoft.scitevents.org/?y=2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-23
+    tz: AoE
+    label: Regular papers (stage 1)
+  - kind: submission
+    date: 2026-04-23
+    tz: AoE
+    label: Position / regular papers (stage 2)
+  - kind: notification
+    date: 2026-04-30
+    label: Stage 1
+  - kind: submission
+    date: 2026-05-15
+    tz: AoE
+    label: Late-breaking papers
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Stage 1
+  - kind: notification
+    date: 2026-05-22
+    label: Stage 2
+  - kind: other
+    date: 2026-05-22
+    tz: AoE
+    label: Abstracts track submission (non-archival)
+  - kind: camera_ready
+    date: 2026-06-05
+    label: Stage 2
+- year: 2027
+  start: 2027-07-19
+  end: 2027-07-21
+  location: Rome, Italy
+  url: https://icsoft.scitevents.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-16
+    tz: AoE
+    label: Regular papers (stage 1)
+  - kind: submission
+    date: 2027-03-25
+    tz: AoE
+    label: Position / regular papers (stage 2)
+  - kind: notification
+    date: 2027-04-09
+    label: Stage 1
+  - kind: camera_ready
+    date: 2027-04-21
+    label: Stage 1
+  - kind: other
+    date: 2027-05-13
+    tz: AoE
+    label: Abstracts track and workshop paper submission
+  - kind: notification
+    date: 2027-05-17
+    label: Stage 2
+  - kind: camera_ready
+    date: 2027-06-01
+    label: Stage 2
+sources:
+- https://icsoft.scitevents.org/
+- https://icsoft.scitevents.org/ImportantDates.aspx
+- https://icsoft.scitevents.org/ImportantDates.aspx?y=2026
+- https://icsoft.scitevents.org/?y=2026
+- https://icsoft.scitevents.org/CallForPapers.aspx
+- https://icsoft.scitevents.org/BooksPublished.aspx
+- https://portal.core.edu.au/conf-ranks/?search=ICSOFT&by=all&source=ICORE2026
+unverified:
+- Acceptance rate and 2027 registration fee details
+last_verified: 2026-10-17

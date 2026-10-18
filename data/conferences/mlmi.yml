@@ -1,0 +1,80 @@
+id: mlmi
+name: MLMI
+full_name: International Workshop on Machine Learning in Medical Imaging
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: MLMI workshop organizers (held with MICCAI)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://sites.google.com/view/mlmi2026
+notes:
+- One-day workshop held in conjunction with MICCAI every year since 2010, so it moves with MICCAI
+- Called "International Conference" on the 2025 site and "International Workshop" in 2026 and on the Springer volumes
+- Proceedings in Springer LNCS (2024 -> LNCS 15241 and 15242; 2025 -> one volume with 64 papers)
+- Strictly double-blind review; up to 8 pages plus up to 2 pages of references in LNCS format
+- Organizers in 2026 from ShanghaiTech, Nanjing University, United Imaging Intelligence, Imperial College London,
+  Korea University and the University of Pennsylvania
+- Submission via OpenReview in 2026 (CMT in 2025); deadline usually extended by about a week
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-23
+  end: 2025-09-23
+  location: Daejeon, Korea
+  url: https://sites.google.com/view/mlmi2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-06
+    time: "23:59"
+    tz: PDT
+    label: Full papers (extended from 2025-06-29)
+  - kind: notification
+    date: 2025-07-31
+    time: "23:59"
+    tz: PDT
+  - kind: camera_ready
+    date: 2025-07-29
+    time: "23:59"
+    tz: PDT
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://sites.google.com/view/mlmi2026
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    time: "23:59"
+    tz: PDT
+    label: Full papers (extended from 2026-07-01)
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-21
+sources:
+- https://sites.google.com/view/mlmi2025/home
+- https://sites.google.com/view/mlmi2025/important-dates
+- https://sites.google.com/view/mlmi2025/submission
+- https://sites.google.com/view/mlmi2025/organizations
+- https://sites.google.com/view/mlmi2026
+- https://sites.google.com/view/mlmi2026/important-dates
+- https://sites.google.com/view/mlmi2026/submission
+- https://sites.google.com/view/mlmi2026/organizations
+- https://link.springer.com/conference/mlmi-med
+- https://link.springer.com/book/10.1007/978-3-031-73284-3
+- https://portal.core.edu.au/conf-ranks/?search=MLMI&by=all&source=ICORE2026
+unverified:
+- MLMI 2025 venue city taken from the Springer conference page; the MLMI 2025 site only says it is held with MICCAI 2025
+- MLMI 2025 camera-ready date (2025-07-29) as stated on the official page, although it falls before the final notification date
+- MLMI 2027 dates and location not yet announced as of 2026-10-17
+- Acceptance rate not published
+last_verified: 2026-10-17

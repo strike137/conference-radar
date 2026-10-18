@@ -1,0 +1,57 @@
+id: prisc
+name: PriSC
+full_name: Workshop on Principles of Secure Compilation
+type: workshop
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: PriSC steering committee (Amal Ahmed, Cătălin Hriţcu, Marco Patrignani, Frank Piessens and others),
+  co-located with ACM SIGPLAN POPL
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1]
+links:
+  website: https://popl27.sigplan.org/home/prisc-2027
+notes:
+- Informal 1-day workshop co-located with POPL every year since 2017; 2027 is the 11th edition
+- Submissions are anonymous 2-page extended abstracts (references excluded) with lightweight review; accepted
+  submissions are talks
+- No proceedings, so presenting does not preclude publication elsewhere
+- Also has a short 5-minute talk session with sign-up shortly before the workshop
+- Not listed in ICORE2026 (portal search returns no results) or the CCF list
+editions:
+- year: 2026
+  start: 2026-01-11
+  end: 2026-01-11
+  location: Rennes, France
+  url: https://popl26.sigplan.org/home/prisc-2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-02
+    tz: AoE
+  - kind: other
+    date: 2026-01-07
+    label: Short talk proposal
+- year: 2027
+  start: 2027-01-11
+  end: 2027-01-11
+  location: Mexico City, Mexico
+  url: https://popl27.sigplan.org/home/prisc-2027
+  deadlines:
+  - kind: submission
+    date: 2026-10-22
+    tz: AoE
+    label: Extended abstract (extended from 2026-10-15)
+  - kind: notification
+    date: 2026-12-03
+    tz: AoE
+sources:
+- https://popl27.sigplan.org/home/prisc-2027
+- https://popl26.sigplan.org/home/prisc-2026
+- https://portal.core.edu.au/conf-ranks/?search=PriSC&by=all&source=ICORE2026
+last_verified: 2026-10-17

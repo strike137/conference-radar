@@ -1,0 +1,73 @@
+id: gbr
+name: GbR
+full_name: IAPR-TC15 International Workshop on Graph-Based Representations in Pattern Recognition
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: europe
+language: english
+frequency: biennial
+organizer: IAPR TC15 (Graph-based Representations), hosted by a local university
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+fee: 176 EUR non-member, 167.20 EUR IAPR member, 158.40 EUR student (2025, early, VAT included)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://gbrpr.org/
+notes:
+- Biennial workshop of IAPR Technical Committee 15 on graphs in pattern recognition, image analysis and graph machine learning
+- Proceedings in Springer LNCS (LNCS 15727 for 2025, LNCS 14121 for 2023); also written GbRPR
+- Held mostly in Europe (Vienna 2013, Beijing 2015, Capri 2017, Tours 2019, Salerno 2023, Caen 2025); no edition in 2021
+- Single-blind review by at least three program committee members; papers up to 10 pages (2025)
+- Low registration fee that includes lunches and the conference dinner (2025)
+- 2027 edition in Pisa; a journal special issue on GbR topics is under discussion
+editions:
+- year: 2025
+  start: 2025-06-25
+  end: 2025-06-27
+  location: Caen, France
+  url: https://gbr2025.sciencesconf.org/
+  deadlines:
+  - kind: submission
+    date: 2025-02-18
+    label: Papers (extended from Feb 3)
+  - kind: notification
+    date: 2025-03-26
+  - kind: camera_ready
+    date: 2025-04-01
+  - kind: other
+    date: 2025-04-30
+    label: Early registration
+- year: 2027
+  start: 2027-06-09
+  end: 2027-06-11
+  location: Pisa, Italy
+  url: https://gbrpr.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-30
+  - kind: notification
+    date: 2027-03-01
+  - kind: other
+    date: 2027-04-30
+    label: Early registration
+sources:
+- https://gbrpr.org/
+- https://www.iapr-tc15.org/news/events/2026/06/24/gbr2027.html
+- https://gbr2025.sciencesconf.org/
+- https://gbr2025.sciencesconf.org/page/important_dates
+- https://gbr2025.sciencesconf.org/page/paper_submission
+- https://gbr2025.sciencesconf.org/page/previous_editions
+- https://gbr2025.sciencesconf.org/page/registration
+- https://link.springer.com/book/10.1007/978-3-031-94139-9
+- https://portal.core.edu.au/conf-ranks/?search=GbR&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- The TC15 news post gives the 2027 dates as "9 to 11 June 2025", an obvious typo; the GbRPR 2027 site says June 9-11, 2027
+- GbR 2027 dates are from the preliminary call; camera-ready date not announced yet
+- Not found on the CORE portal (ICORE2026); not on the CCF list (checked via the CCFrank4dblp mirror, not on ccf.org.cn directly)
+- Acceptance rate not published

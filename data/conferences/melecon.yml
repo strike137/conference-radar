@@ -1,0 +1,70 @@
+id: melecon
+name: IEEE MELECON
+full_name: IEEE Mediterranean Electrotechnical Conference
+type: conference
+tier: minor
+areas: [general, communications, networking, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IEEE Region 8 with the host IEEE section (Egypt Section 2026)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [2, 10]
+  conference_months: [2, 6]
+links:
+  website: https://2026.ieee-melecon.org/
+notes:
+- One of the flagship conferences of IEEE Region 8 (Europe, Middle East and Africa); 2026 was the 23rd edition
+- Broad electrical engineering scope; tracks on power and energy, smart industry, smart healthcare and digital transformation (AI, 6G, networks, IoT, cybersecurity)
+- Papers of typically 4 to 6 pages in IEEE two-column format submitted via EDAS; proceedings submitted to IEEE Xplore
+- Held in a different Mediterranean country each edition (Porto, Portugal 2024; Cairo, Egypt 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2024
+  start: 2024-06-25
+  end: 2024-06-27
+  location: Porto, Portugal
+  url: https://2024.ieee-melecon.org/
+  deadlines:
+  - kind: submission
+    date: 2024-02-07
+    label: Papers (firm deadline)
+  - kind: notification
+    date: 2024-03-22
+  - kind: camera_ready
+    date: 2024-04-10
+- year: 2026
+  start: 2026-02-02
+  end: 2026-02-04
+  location: Cairo, Egypt (Pyramisa Hotel)
+  url: https://2026.ieee-melecon.org/
+  deadlines:
+  - kind: other
+    date: 2025-09-30
+    label: Special session proposals
+  - kind: submission
+    date: 2025-10-21
+    label: Papers
+  - kind: other
+    date: 2025-10-30
+    label: Workshop proposals
+  - kind: notification
+    date: 2025-11-30
+  - kind: camera_ready
+    date: 2025-12-15
+sources:
+- https://2026.ieee-melecon.org/
+- https://2026.ieee-melecon.org/important-dates/
+- https://2026.ieee-melecon.org/call-for-paper/
+- https://2026.ieee-melecon.org/initial-author-instructions/
+- https://2026.ieee-melecon.org/conference-venue/
+- https://2024.ieee-melecon.org/
+- https://2024.ieee-melecon.org/important-dates/
+- https://portal.core.edu.au/conf-ranks/?search=MELECON&by=all&source=ICORE2026
+unverified:
+- MELECON 2028 host and dates not found (as of 2026-10-17)
+- Region set from the host list of recent editions; only the 2024 and 2026 hosts were checked on official sites
+last_verified: 2026-10-17

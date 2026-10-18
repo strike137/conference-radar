@@ -1,0 +1,72 @@
+id: ds-rt
+name: DS-RT
+full_name: IEEE/ACM International Symposium on Distributed Simulation and Real Time Applications
+type: conference
+tier: minor
+areas: [systems, networking]
+region: europe
+language: english
+frequency: annual
+organizer: DS-RT steering committee; technically co-sponsored by IEEE Computer Society (TCPP)
+organizer_country: [europe]
+proceedings: IEEE CS Press
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://ds-rt.com/
+  dblp: https://dblp.org/db/conf/dsrt/index.html
+notes:
+- Long-running symposium on parallel and distributed simulation, real-time systems, digital twins and virtual
+  environments (30th edition in 2026, first held in 1997)
+- Proceedings published by IEEE CS Press (IEEE Xplore)
+- Mostly held in Europe (Valencia 2021, Ales 2022, Urbino 2024, Prague 2025, Padua 2026); Singapore in 2023
+- Recent organizing teams come mainly from Italian universities (Calabria, Bologna, Padua)
+- Regular papers 8 pages IEEE format, up to 2 extra pages for a fee; single-blind review via EDAS
+- Paper deadline usually extended once or twice; selected papers invited to a Journal of Supercomputing special issue
+  (2025)
+- CORE C (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-17
+  end: 2025-09-19
+  location: Prague, Czech Republic
+  url: https://ds-rt.com/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-15
+    label: Papers (extended from June 20)
+  - kind: notification
+    date: 2025-08-15
+- year: 2026
+  start: 2026-09-16
+  end: 2026-09-18
+  location: Padua, Italy
+  url: https://ds-rt.com/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-04
+    label: Papers (firm, extended from May 10 and June 2)
+  - kind: other
+    date: 2026-07-11
+    label: Special session papers
+  - kind: notification
+    date: 2026-08-10
+  - kind: camera_ready
+    date: 2026-08-25
+sources:
+- https://ds-rt.com/2026/
+- https://ds-rt.com/2026/call-for-papers.html
+- https://ds-rt.com/2026/program.html
+- https://ds-rt.com/2026/past-editions.html
+- https://ds-rt.com/2026/committees.html
+- https://ds-rt.com/2025/
+- https://portal.core.edu.au/conf-ranks/?search=DS-RT&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- DS-RT 2027 dates, location and deadlines not yet announced (ds-rt.com/2027/ returns 404 as of 2026-10-17)
+- CCF rank checked via a mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-17

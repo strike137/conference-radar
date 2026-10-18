@@ -1,0 +1,66 @@
+id: ictac
+name: ICTAC
+full_name: International Colloquium on Theoretical Aspects of Computing
+type: conference
+tier: minor
+areas: [software, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICTAC Steering Committee (series founded by UNU-IIST)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+  ccf: C
+fee: 750 USD regular, 625 USD student (2026, early, full access incl. postgraduate school and industry day)
+typical:
+  deadline_months: [6]
+  conference_months: [11, 12]
+links:
+  website: https://ictac2026.github.io/
+notes:
+- Formal methods and theoretical computer science colloquium with an aim of cooperation between developing and industrial countries
+- Proceedings in Springer LNCS; regular papers up to 16 pages, short and tool papers up to 8 pages, plus 2 pages of references
+- Rotates worldwide (Lima 2023, Bangkok 2024, Marrakesh 2025, Bariloche 2026)
+- Usually paired with a postgraduate school and satellite workshops
+- CORE C, CCF C
+editions:
+- year: 2025
+  start: 2025-11-24
+  end: 2025-11-28
+  location: Marrakesh, Morocco
+  url: https://link.springer.com/conference/ictac
+- year: 2026
+  start: 2026-11-11
+  end: 2026-11-13
+  location: Bariloche, Argentina
+  url: https://ictac2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-22
+    tz: AoE
+    label: Extended from 2026-06-16
+  - kind: submission
+    date: 2026-06-22
+    tz: AoE
+  - kind: notification
+    date: 2026-08-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-31
+    tz: AoE
+sources:
+- https://ictac2026.github.io/
+- https://ictac2026.github.io/cfp/
+- https://ictac2026.github.io/registration/
+- https://link.springer.com/conference/ictac
+- https://portal.core.edu.au/conf-ranks/?search=ICTAC&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- ICTAC 2025 dates taken from the Springer LNCS proceedings listing; its deadlines were not checked
+- 2026 main conference is November 11 to 13; postgraduate school (Nov 9 to 10), industry day (Nov 14) and workshops (Nov 15) surround it
+- ICTAC 2027 not announced
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-10-17

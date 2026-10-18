@@ -1,0 +1,72 @@
+id: clinicalnlp
+name: ClinicalNLP
+full_name: Workshop on Clinical Natural Language Processing
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (Asma Ben Abacha, Microsoft; Steven Bethard, University of Arizona; Danielle Bitterman, Harvard Medical School; Tristan Naumann, Microsoft Research; Kirk Roberts, UTHealth Houston), sponsored by SIGClinical
+organizer_country: [usa]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [2, 3, 5]
+  conference_months: [5, 6, 7]
+links:
+  website: https://clinical-nlp.github.io/
+notes:
+- Workshop on NLP for clinical text (EHR notes, patient encounter transcripts, clinical narratives); running since 2016
+- Usually co-located with an ACL-family or LREC conference (ACL 2023 Toronto, NAACL 2024 Mexico City, LREC 2026
+  Palma, NAACL 2027 San Francisco); the 2025 edition was held virtually
+- Proceedings in the ACL Anthology (42 papers in 2026, 12 in 2025)
+- Up to 8 pages plus unlimited references, ACL format, anonymous review; no preprint restrictions (2025)
+- Hosts MEDIQA shared tasks (MEDIQA-EVAL and MEDIQA-SYNUR in 2026)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 8th edition, with LREC 2026
+  start: 2026-05-16
+  end: 2026-05-16
+  location: Palma, Mallorca, Spain
+  url: https://clinical-nlp.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-17
+    time: '23:59'
+    tz: AoE
+    label: Shared task participant papers
+  - kind: submission
+    date: 2026-02-19
+    time: '23:59'
+    tz: AoE
+    label: Main workshop papers and shared task organizer papers
+  - kind: notification
+    date: 2026-03-18
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-30
+    time: '23:59'
+    tz: AoE
+- year: 2027
+  label: 9th edition, with NAACL 2027
+  start: 2027-06-01
+  end: 2027-06-01
+  location: San Francisco, California, USA
+  url: https://clinical-nlp.github.io/2027/
+sources:
+- https://clinical-nlp.github.io/2027/
+- https://clinical-nlp.github.io/2026/
+- https://clinical-nlp.github.io/2026/call-for-papers.html
+- https://clinical-nlp.github.io/2025/call-for-papers.html
+- https://clinical-nlp.github.io/2024/
+- https://clinical-nlp.github.io/2023/
+- https://aclanthology.org/venues/clinicalnlp/
+- https://portal.core.edu.au/conf-ranks/?search=ClinicalNLP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- ClinicalNLP 2027 deadlines are listed as TBD as of 2026-10-17
+- Acceptance rate not published
+last_verified: 2026-10-17

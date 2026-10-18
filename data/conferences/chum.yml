@@ -1,0 +1,59 @@
+id: chum
+name: CHum
+full_name: Workshop on Computational Humor
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: online
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (2026 organizers from East Texas A&M University, Purdue University, Fulbright
+  University Vietnam, University of Manitoba and the Alan Turing Institute); co-located with *CL conferences
+organizer_country: [usa, canada]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://chumweb.org/
+notes:
+- Workshop on computational processing of humor (detection, generation, evaluation, resources, translation and formal models of humor)
+- First edition with COLING 2025 and second with ACL 2026; both held virtually
+- Long and short papers in ACL format submitted through START; all accepted papers appear in the proceedings and are presented as talks
+- Proceedings in the ACL Anthology (9 papers in 2026, 12 in 2025)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 2nd edition, with ACL 2026
+  start: 2026-07-03
+  end: 2026-07-03
+  location: Online (co-located with ACL 2026)
+  url: https://chumweb.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-09
+    time: "23:59"
+    tz: AoE
+    label: Initial submission (extended from 2026-03-05)
+  - kind: notification
+    date: 2026-04-28
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-12
+    time: "23:59"
+    tz: AoE
+sources:
+- https://chumweb.org/
+- https://chumweb.org/cfp
+- https://chumweb.org/committee
+- https://aclanthology.org/venues/chum/
+- https://aclanthology.org/volumes/2026.chum-1/
+- https://aclanthology.org/volumes/2025.chum-1/
+- https://portal.core.edu.au/conf-ranks/?search=CHum&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Next edition not announced yet
+- Acceptance rate not published

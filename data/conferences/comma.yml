@@ -1,0 +1,78 @@
+id: comma
+name: COMMA
+full_name: International Conference on Computational Models of Argument
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: COMMA steering committee (computational argumentation community); local host changes each edition
+organizer_country: [international]
+proceedings: IOS Press (open access)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://comma.csc.liv.ac.uk/
+  dblp: https://dblp.org/db/conf/comma/
+notes:
+- Main conference series on computational argumentation (argumentation frameworks, dialogue, argument mining,
+  explanation), started in Liverpool in 2006 out of the ASPIC project
+- Biennial, held in even years in September, preceded by workshops and a summer school on argumentation
+- All editions so far in Europe (2016 Potsdam, 2018 Warsaw, 2020 Perugia online, 2022 Cardiff, 2024 Hagen, 2026
+  Barcelona)
+- Proceedings published by IOS Press as an open access book
+- Regular and Innovative Applications tracks, up to 12 pages including references; single blind review
+- Also accepts system demonstrations (two page extended abstracts appear in the proceedings)
+- Trevor Bench-Capon Best Student Paper Award
+editions:
+- year: 2024
+  start: 2024-09-18
+  end: 2024-09-20
+  location: Hagen, Germany
+  url: https://comma2024.krportal.org/
+  deadlines:
+  - kind: other
+    date: 2024-01-22
+    label: Workshop proposals
+  - kind: submission
+    date: 2024-04-18
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2024-06-10
+  - kind: camera_ready
+    date: 2024-07-01
+- year: 2026
+  start: 2026-09-16
+  end: 2026-09-18
+  location: Barcelona, Spain
+  url: https://comma2026.vercel.app/
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+    time: "23:59"
+    tz: AoE
+sources:
+- https://comma.csc.liv.ac.uk/
+- https://comma.csc.liv.ac.uk/background
+- https://comma.csc.liv.ac.uk/conference
+- https://comma.csc.liv.ac.uk/committee
+- https://comma2026.vercel.app/
+- https://comma2026.vercel.app/cfp/main-track/
+- https://comma2026.vercel.app/submission/
+- https://comma2026.vercel.app/organization/
+- https://comma2024.krportal.org/
+- https://comma2024.krportal.org/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=COMMA&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- COMMA 2028 not announced on the official site yet
+- COMMA 2026 notification and camera-ready dates not listed on the official pages
+- The book series (likely Frontiers in Artificial Intelligence and Applications) is not named on the official
+  pages, which only say IOS Press open access book
+- Not found in the CCF list (official CCF page could not be loaded; not in the ccfddl AI list); rank.ccf left out

@@ -1,0 +1,81 @@
+id: das
+name: DAS
+full_name: IAPR International Workshop on Document Analysis Systems
+type: workshop
+tier: major
+areas: [vision, ai]
+region: europe
+language: english
+frequency: biennial
+organizer: IAPR (International Association for Pattern Recognition, TC11); since 2024 a satellite workshop of ICDAR
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://das2026.seecs.edu.pk/
+notes:
+- IAPR-sponsored workshop on system-level document analysis and recognition (OCR, layout, tables, forms, historical
+  documents, document AI with foundation models)
+- Biennial since 1994; the 2026 edition is the 17th; held as a separate event until 2022, a satellite workshop of
+  ICDAR since 2024 (Athens 2024, Vienna 2026)
+- Full papers (up to 17 pages, LNCS format) appear in Springer LNCS; short and demo papers go into a separate
+  non-archival booklet
+- Double-blind review via Microsoft CMT
+- Registration runs through ICDAR; each accepted paper needs one regular (non-student) registration, and a full ICDAR
+  registration can cover up to three papers including DAS papers
+- CORE B (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-09-03
+  end: 2026-09-04
+  location: Vienna, Austria
+  url: https://das2026.seecs.edu.pk/
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2026-06-15
+    tz: AoE
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-06-24
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-07-06
+    tz: AoE
+    label: Short papers and demos (extended from 2026-06-29)
+  - kind: notification
+    date: 2026-07-13
+    tz: AoE
+    label: Short papers and demos
+  - kind: camera_ready
+    date: 2026-07-27
+    time: "23:59"
+    tz: AoE
+    label: Short papers (extended from 2026-07-20)
+sources:
+- https://das2026.seecs.edu.pk/
+- https://das2026.seecs.edu.pk/cfp.html
+- https://das2026.seecs.edu.pk/program.html
+- https://das2026.seecs.edu.pk/registration.html
+- https://das2026.seecs.edu.pk/proceedings.html
+- https://das2026.seecs.edu.pk/previous.html
+- https://link.springer.com/book/10.1007/978-3-032-36207-0
+- https://portal.core.edu.au/conf-ranks/?search=DAS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- DAS 2028 not announced yet; it is expected next to the 2028 ICDAR
+- The home page lists the full paper camera-ready as 2026-06-22 while the CFP and camera-ready instructions say
+  2026-06-24 (the CFP date is used here)
+- Not on the CCF 2026 list (checked via the CCFrank4dblp mirror)
+- Acceptance rate and workshop-only fee not stated on the DAS pages
+last_verified: 2026-10-17

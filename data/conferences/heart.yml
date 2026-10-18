@@ -1,0 +1,58 @@
+id: heart
+name: HEART
+full_name: International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: HEART Steering Committee
+organizer_country: [international]
+proceedings: ACM ICPS (ACM DL)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [5, 6]
+links:
+  website: https://heart2026.github.io/
+notes:
+- Small symposium on accelerators, FPGAs, CGRAs, GPUs, high-level synthesis and energy-efficient heterogeneous computing, held since 2010
+- Papers published in the ACM International Conference Proceedings Series (ACM Digital Library, open access)
+- Steering committee with members from Japan, Europe, North America and Hong Kong; alternates between Japan and other countries (2022 Tsukuba, 2023 Kusatsu, 2024 Porto, 2025 Kumamoto, 2026 Heidelberg)
+- Double-blind review; regular papers up to 12 pages, plus 4-page work in progress and Ph.D. forum papers
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-17
+  end: 2026-06-19
+  location: Heidelberg University, Heidelberg, Germany
+  url: https://heart2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-02
+    tz: AoE
+    label: Original deadline
+  - kind: abstract
+    date: 2026-03-23
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2026-03-30
+    tz: AoE
+    label: Final paper (extended)
+  - kind: notification
+    date: 2026-04-20
+    tz: AoE
+sources:
+- https://heart2026.github.io/
+- https://heart2026.github.io/Committees.html
+- https://www.cs.tsukuba.ac.jp/~yoshiki/HEART/
+- https://sites.google.com/view/heart2025
+- https://sites.google.com/view/heart2024
+- https://heart2023.lila.cs.tsukuba.ac.jp/
+- https://portal.core.edu.au/conf-ranks/?search=HEART&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- HEART 2027 not yet announced (the steering committee page shows a placeholder only)
+- CCF list checked only through the CCFrank4dblp mirror

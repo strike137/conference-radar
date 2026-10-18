@@ -1,0 +1,110 @@
+id: interact
+name: INTERACT
+full_name: IFIP TC13 International Conference on Human-Computer Interaction
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IFIP TC13 (Technical Committee on Human-Computer Interaction)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [1, 2]
+  conference_months: [8, 9]
+links:
+  website: https://interact2027.org/
+  dblp: https://dblp.org/db/conf/interact/index.html
+notes:
+- Flagship conference of IFIP Technical Committee 13 on Human-Computer Interaction, held every two years
+- Proceedings in Springer LNCS (several volumes per edition; four parts in 2025)
+- Full papers up to 18 pages plus 4 pages of references in LNCS format, anonymous review with three reviews and a
+  meta-review, rebuttal only for borderline papers
+- Authors of full paper submissions must agree to review when invited by an Associate Chair
+- Accepted full papers must be presented at the conference and at least one author must register
+- Also has short papers, posters, panels, courses, interactive demonstrations, workshops and a doctoral consortium
+- Held in Belo Horizonte 2025 and Tallinn 2027 (Tallinn University)
+- CORE B (ICORE2026), CCF C
+editions:
+- year: 2025
+  start: 2025-09-08
+  end: 2025-09-12
+  location: Belo Horizonte, Minas Gerais, Brazil
+  url: https://interact.ifip-tc13.org/editions/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-02-17
+    time: "23:59"
+    tz: AoE
+    label: Full papers (metadata registration)
+  - kind: submission
+    date: 2025-02-24
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2025-04-26
+    label: Full papers
+  - kind: camera_ready
+    date: 2025-06-23
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+- year: 2027
+  start: 2027-08-23
+  end: 2027-08-27
+  location: Tallinn University, Tallinn, Estonia
+  url: https://interact2027.org/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-25
+    time: "23:59"
+    tz: AoE
+    label: Full papers (metadata registration on PCS)
+  - kind: submission
+    date: 2027-02-01
+    time: "23:59"
+    tz: AoE
+    label: Full papers and workshop proposals
+  - kind: other
+    date: 2027-03-22
+    time: "23:59"
+    tz: AoE
+    label: Full paper rebuttals (borderline papers only)
+  - kind: notification
+    date: 2027-04-22
+    label: Full papers
+  - kind: submission
+    date: 2027-05-03
+    time: "23:59"
+    tz: AoE
+    label: Short papers, posters, panels, courses, demos, doctoral consortium
+  - kind: notification
+    date: 2027-05-25
+    label: Short papers and other tracks
+  - kind: camera_ready
+    date: 2027-06-07
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+sources:
+- https://interact2027.org/
+- https://interact2027.org/calls/
+- https://interact2027.org/full-papers/
+- https://interact.ifip-tc13.org/editions/2025/
+- https://interact.ifip-tc13.org/editions/2025/full-papers/index.html
+- https://interact.ifip-tc13.org/editions/2025/proceedings/index.html
+- https://portal.core.edu.au/conf-ranks/?search=INTERACT&by=all&source=ICORE2026
+- https://csse.szu.edu.cn/staff/CCF/International_Recommended_Directory.pdf (copy of the CCF 2026 list)
+unverified:
+- CCF rank checked on a university copy of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- Region judged from host cities of 2015 to 2025 (Bamberg, Mumbai, Paphos, Bari, York, Belo Horizonte); only 2025
+  and 2027 were checked on official pages
+- Acceptance rate and registration fee not published on the official sites
+- The old interact2025.org domain no longer belongs to the conference; use the IFIP TC13 edition archive
+last_verified: 2026-10-17

@@ -1,0 +1,89 @@
+id: privatenlp
+name: PrivateNLP
+full_name: Workshop on Privacy in Natural Language Processing
+type: workshop
+tier: minor
+areas: [nlp, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: Academic organizing committee; co-located with ACL, NAACL or EMNLP
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [1, 3]
+  conference_months: [5, 7]
+links:
+  website: https://sites.google.com/view/privatenlp/home
+notes:
+- First held at WSDM 2020, then with EMNLP 2020, NAACL 2021, NAACL 2022, ACL 2024 (Bangkok), NAACL 2025 (Albuquerque) and ACL 2026 (San Diego); no edition in 2023
+- Archival papers appear in the ACL Anthology; a non-archival track is shown only on the workshop website
+- Long (8 pages) and short (4 pages) papers with double-blind review via OpenReview
+- Fast-track for papers already reviewed by ACL, EMNLP, EACL or ARR; accepted ACL Findings papers can also be presented
+- Hybrid with Zoom participation
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  label: 6th edition, with NAACL 2025
+  start: 2025-05-04
+  end: 2025-05-04
+  location: Albuquerque, NM, USA
+  url: https://sites.google.com/view/privatenlp2025/home
+  deadlines:
+  - kind: submission
+    date: 2025-02-07
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (extended from January 30)
+  - kind: submission
+    date: 2025-02-20
+    time: "23:59"
+    tz: AoE
+    label: Fast-track
+  - kind: notification
+    date: 2025-03-07
+  - kind: camera_ready
+    date: 2025-03-19
+- year: 2026
+  label: 7th edition, with ACL 2026
+  start: 2026-07-03
+  end: 2026-07-03
+  location: San Diego, CA, USA
+  url: https://sites.google.com/view/privatenlp2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-03-19
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (extended from March 5)
+  - kind: submission
+    date: 2026-03-24
+    time: "23:59"
+    tz: AoE
+    label: Fast-track
+  - kind: notification
+    date: 2026-04-28
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-12
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-05-28
+    time: "23:59"
+    tz: AoE
+    label: Findings papers for presentation
+sources:
+- https://sites.google.com/view/privatenlp2026/home
+- https://sites.google.com/view/privatenlp2025/home
+- https://sites.google.com/view/privatenlp/home
+- https://sites.google.com/view/privatenlp/home/previous-workshops
+- https://aclanthology.org/venues/privatenlp/
+- https://aclanthology.org/volumes/2026.privatenlp-main/
+- https://portal.core.edu.au/conf-ranks/?search=PrivateNLP&by=all&source=ICORE2026
+unverified:
+- 2027 edition not announced yet
+- Not found in a check of the CCF 2026 list
+last_verified: 2026-10-17

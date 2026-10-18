@@ -1,0 +1,51 @@
+id: lpnmr
+name: LPNMR
+full_name: International Conference on Logic Programming and Non-monotonic Reasoning
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: LPNMR steering committee with a local host (Universität Klagenfurt in 2026)
+organizer_country: [international]
+proceedings: Springer LNAI
+archival: true
+indexing: [DBLP]
+rank:
+  core: B
+typical:
+  conference_months: [9]
+links:
+  website: https://lpnmr2026.aics.aau.at/
+  dblp: https://dblp.org/db/conf/lpnmr/
+notes:
+- Forum on declarative logic programming, answer set programming, non-monotonic reasoning and knowledge representation
+- Proceedings in Springer LNAI; long papers up to 15 pages and short papers up to 8 pages, single-blind review via EasyChair
+- Held roughly every two years since 1991; recent editions Espoo 2017, Philadelphia 2019, Genova 2022, Dallas 2024,
+  Klagenfurt 2026
+- Best papers are invited to the Artificial Intelligence Journal or JAIR, and 5 to 7 logic programming papers to TPLP
+- Also has a Recently Published Research track, workshops and a Doctoral Consortium
+- Not in the CCF list
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-11
+  location: Klagenfurt, Austria
+  url: https://lpnmr2026.aics.aau.at/
+  deadlines:
+  - kind: notification
+    date: 2026-06-11
+  - kind: camera_ready
+    date: 2026-07-02
+sources:
+- https://lpnmr2026.aics.aau.at/
+- https://lpnmr2026.aics.aau.at/call/
+- https://lpnmr2026.aics.aau.at/committees/
+- https://portal.core.edu.au/conf-ranks/?search=LPNMR&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- LPNMR 2026 paper registration and submission deadlines (the call page now only shows "Closed")
+- Typical deadline month (not stated on the current official pages)
+- LPNMR 2028 location and dates (not announced)
+- CCF rank checked via the CCFrank4dblp mirror of the CCF 2026 list, not on ccf.org.cn directly

@@ -1,0 +1,91 @@
+id: ieee-icsc
+name: IEEE ICSC
+full_name: IEEE International Conference on Semantic Computing
+type: conference
+tier: minor
+areas: [ai, data]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1, 2]
+links:
+  website: https://www.semanticcomputing.org/
+notes:
+- Annual since 2007; 2027 is the 21st edition, co-located with AIxDKE and RoboticCC
+- Proceedings in IEEE Xplore; accepted papers must be registered and presented or they are removed
+- Held at The Hills Hotel, Laguna Hills, California every year since 2023 (hybrid); 2021 and 2022 were virtual
+- Regular papers up to 8 pages, short, industry and concise papers up to 4, position papers up to 2 (IEEE
+  double-column format), at least three reviewers per paper
+- Organizers state a full paper acceptance rate of around 20%
+- Co-located workshops (SMC, SCSN-AI, GASC) and a doctoral symposium with free poster presentation for PhD students
+- Not listed in ICORE2026; not on the CCF list
+acceptance_rate: Around 20% for full papers (as stated by the organizers)
+editions:
+- year: 2026
+  start: 2026-02-02
+  end: 2026-02-04
+  location: Laguna Hills, California, USA
+  url: https://semanticcomputing.wixsite.com/icsc2026
+  deadlines:
+  - kind: other
+    date: 2025-09-01
+    tz: PDT
+    label: Workshop proposals
+  - kind: submission
+    date: 2025-11-03
+    time: "23:59"
+    tz: PST
+    label: Papers (extended from 2025-10-10)
+  - kind: notification
+    date: 2025-12-12
+    tz: PST
+    label: Postponed from 2025-12-01, then 2025-12-08
+  - kind: camera_ready
+    date: 2025-12-31
+    tz: PST
+- year: 2027
+  start: 2027-02-01
+  end: 2027-02-03
+  location: Laguna Hills, California, USA
+  url: https://www.semanticcomputing.org/
+  deadlines:
+  - kind: other
+    date: 2026-09-01
+    tz: PDT
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-11-03
+    tz: PST
+    label: Papers (extended from 2026-10-10)
+  - kind: notification
+    date: 2026-12-08
+    tz: PST
+    label: Extended from 2026-12-01
+  - kind: other
+    date: 2026-12-10
+    tz: PST
+    label: Workshop papers
+  - kind: camera_ready
+    date: 2026-12-31
+    tz: PST
+sources:
+- https://www.semanticcomputing.org/
+- https://www.semanticcomputing.org/dates
+- https://www.semanticcomputing.org/submission
+- https://www.semanticcomputing.org/history
+- https://www.semanticcomputing.org/committees
+- https://semanticcomputing.wixsite.com/icsc2026
+- https://semanticcomputing.wixsite.com/icsc2026/dates
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- https://portal.core.edu.au/conf-ranks/?search=Semantic&by=all&source=ICORE2026
+unverified:
+- Official pages give deadlines in PT without stating PST or PDT; PDT assumed for September dates and PST for November and December dates
+- Sponsoring IEEE society not named on the site (IEEE logo only); organizer_country set from the UC Irvine based
+  founding general chair
+last_verified: 2026-10-17

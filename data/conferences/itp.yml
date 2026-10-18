@@ -1,0 +1,60 @@
+id: itp
+name: ITP
+full_name: International Conference on Interactive Theorem Proving
+type: conference
+tier: major
+areas: [software, ai]
+region: europe
+language: english
+frequency: annual
+organizer: ITP Steering Committee
+organizer_country: [international]
+proceedings: LIPIcs (Dagstuhl)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [2]
+  conference_months: [7, 9]
+links:
+  website: https://itp-conference.github.io/
+  dblp: https://dblp.org/db/conf/itp/
+notes:
+- Main venue for interactive theorem proving and proof assistants (Isabelle, Rocq/Coq, Lean, HOL, ...), from
+  foundations to formalized mathematics and verified software and hardware
+- Successor of TPHOLs (Theorem Proving in Higher Order Logics); 17th ITP in 2026, series history back to 1988
+- Proceedings in LIPIcs (volume 382 for ITP 2026)
+- Regular papers up to 16 pages and short papers up to 6 pages excluding references, LIPIcs format
+- Lightweight double-blind review; submissions should come with a formalization or other evidence of an implementation
+- Joins FLoC every four years (Haifa 2022, Lisbon 2026); mostly held in Europe (Rome 2021, Bialystok 2023, Tbilisi
+  2024, Reykjavik 2025, Lisbon 2026)
+- CORE B (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-07-26
+  end: 2026-07-29
+  location: Lisbon, Portugal (part of FLoC 2026)
+  url: https://itp-conference-2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-12
+    tz: AoE
+  - kind: submission
+    date: 2026-02-19
+    tz: AoE
+  - kind: notification
+    date: 2026-04-26
+  - kind: camera_ready
+    date: 2026-05-24
+sources:
+- https://itp-conference.github.io/
+- https://itp-conference-2026.github.io/
+- https://itp-conference-2026.github.io/cfp.html
+- https://www.floc26.org/
+- https://portal.core.edu.au/conf-ranks/?search=ITP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- ITP 2027 not announced on the series site yet
+- Not in the CCF 2026 list per the ccfddl mirror of the list (ccf.org.cn is behind a captcha); rank.ccf left out
+- Region counts Tbilisi (Georgia, 2024) as Europe; Haifa 2022 was the only edition of the last six clearly outside Europe

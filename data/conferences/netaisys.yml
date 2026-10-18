@@ -1,0 +1,70 @@
+id: netaisys
+name: NetAISys
+full_name: International Workshop on Networked AI Systems
+type: workshop
+tier: minor
+areas: [networking, ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs Roberto Morabito (EURECOM), SiYoung Jang (Nokia Bell Labs), Longfei Shangguan (University of
+  Pittsburgh) and Juheon Yi (Microsoft Research); co-located with ACM MobiSys
+organizer_country: [europe, usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://netaisys.github.io/
+notes:
+- Workshop on integrating AI with networked and edge systems, co-located with ACM MobiSys every year since 2023 (Helsinki
+  2023, Tokyo 2024, Anaheim 2025, Cambridge UK 2026)
+- Run jointly with the EnvSys workshop on environmental sensing (combined program)
+- Full papers and position papers up to 6 pages including references go to the ACM Digital Library (MobiSys workshops
+  proceedings); 2-page work-in-progress and demo abstracts appear only on the workshop website
+- Single-blind review; MobiSys format
+- Small program (six NetAISys papers in 2025, five papers in a half-day 2026 session)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-06-27
+  end: 2025-06-27
+  location: Anaheim, CA, USA
+  url: https://netaisys.github.io/archive/NetAISys25/
+  deadlines:
+  - kind: submission
+    date: 2025-04-19
+    tz: AoE
+  - kind: notification
+    date: 2025-04-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-06
+    tz: AoE
+- year: 2026
+  start: 2026-06-25
+  end: 2026-06-25
+  location: Cambridge, UK
+  url: https://netaisys.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-04-16
+    tz: AoE
+  - kind: notification
+    date: 2026-05-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-04
+    tz: AoE
+sources:
+- https://netaisys.github.io/
+- https://netaisys.github.io/archive/NetAISys25/
+- https://doi.org/10.1145/3711875.3736684
+- https://doi.org/10.1145/3812836.3815165
+- https://portal.core.edu.au/conf-ranks/?search=NetAISys&by=all&source=ICORE2026
+unverified:
+- Hidden (commented out) news items on the 2025 and 2026 pages mention a notification postponed to May 2; the dates
+  listed here are the visible Important Dates
+- 2027 edition not announced yet
+last_verified: 2026-10-17

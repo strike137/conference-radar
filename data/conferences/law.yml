@@ -1,0 +1,80 @@
+id: law
+name: LAW
+full_name: Linguistic Annotation Workshop
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACL and ELRA Special Interest Group on Annotation (SIGANN); co-located with ACL, EACL, EMNLP, COLING or LREC
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [3, 4]
+  conference_months: [3, 6, 7]
+links:
+  website: https://sigann.github.io/
+notes:
+- Annual workshop of SIGANN on linguistic annotation (annotation schemes, tools, evaluation, inter-annotator agreement, crowdsourcing, LLM-generated annotations)
+- Running since 2007; the 2026 meeting was the 20th edition (LAW XX)
+- Follows its host conference (EMNLP 2021 Punta Cana, LREC 2022 Marseille, ACL 2023 Toronto, EACL 2024 St Julian's, ACL 2025 Vienna, ACL 2026 San Diego)
+- Long (8 pages) and short or demo (4 pages) papers; double-blind review; direct OpenReview submissions plus ARR commitment; hybrid format
+- Proceedings in the ACL Anthology (20 papers in 2026, 30 in 2025)
+- Each edition has a special theme (Errors in Annotation in 2026)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: LAW XIX, with ACL 2025
+  start: 2025-07-31
+  end: 2025-07-31
+  location: Vienna, Austria
+  url: https://sigann.github.io/LAW-XIX-2025/
+  deadlines:
+  - kind: other
+    date: 2025-03-25
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: submission
+    date: 2025-04-11
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (extended from April 4)
+  - kind: notification
+    date: 2025-05-16
+  - kind: camera_ready
+    date: 2025-05-30
+- year: 2026
+  label: LAW XX, with ACL 2026
+  start: 2026-07-03
+  end: 2026-07-03
+  location: San Diego, CA, USA
+  url: https://sigann.github.io/LAW-XX-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-19
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-03-24
+    time: "23:59"
+    tz: AoE
+    label: Pre-reviewed ARR commitment
+  - kind: notification
+    date: 2026-04-28
+  - kind: camera_ready
+    date: 2026-05-12
+sources:
+- https://sigann.github.io/
+- https://sigann.github.io/LAW-XX-2026/
+- https://sigann.github.io/LAW-XX-2026/cfp.html
+- https://sigann.github.io/LAW-XIX-2025/
+- https://aclanthology.org/venues/law/
+- https://portal.core.edu.au/conf-ranks/?search=Linguistic%20Annotation&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- LAW XXI (2027) host conference and dates not announced yet
+- Acceptance rate not published

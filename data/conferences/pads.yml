@@ -1,0 +1,74 @@
+id: pads
+name: ACM SIGSIM PADS
+full_name: ACM SIGSIM International Conference on Principles of Advanced Discrete Simulation
+type: conference
+tier: major
+areas: [systems, general]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGSIM
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [10, 11, 1, 2]
+  conference_months: [6]
+links:
+  website: https://sigsim.acm.org/conf/pads/
+notes:
+- Flagship conference of ACM SIGSIM (formerly Parallel and Distributed Simulation); 40th edition in 2026
+- Covers modeling and simulation methods, simulation infrastructure, digital twins and applications such as cybersecurity and networks
+- Two-phase submission (first and second call); first-call papers can get revision feedback and resubmit to the second call
+- Papers appear in the ACM Proceedings of SIGSIM PADS; selected papers go to a TOMACS special issue instead
+- Usually held in the USA (2021 Suffolk VA, 2022 virtual, 2023 Orlando, 2024 Atlanta, 2025 Santa Fe); 2026 in Vienna, Austria
+- 2027 edition is part of ACM FCRC 2027 in Atlanta
+- Optional artifact evaluation with ACM badges; PhD colloquium with travel grants
+editions:
+- year: 2026
+  start: 2026-06-24
+  end: 2026-06-26
+  location: Vienna, Austria
+  url: https://sigsim.acm.org/conf/pads/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-12
+    label: First call (extended from 2025-10-31)
+  - kind: notification
+    date: 2025-12-18
+    label: First call
+  - kind: submission
+    date: 2026-02-13
+    label: Second call (extended from 2026-01-23)
+  - kind: notification
+    date: 2026-03-23
+    label: Second call
+  - kind: camera_ready
+    date: 2026-04-24
+- year: 2027
+  start: 2027-06-09
+  end: 2027-06-11
+  location: Atlanta, GA, USA
+  url: https://sigsim.acm.org/conf/pads/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    time: "23:59"
+    tz: AoE
+    label: First call
+  - kind: submission
+    date: 2027-01-22
+    time: "23:59"
+    tz: AoE
+    label: Second call
+sources:
+- https://sigsim.acm.org/conf/pads/
+- https://sigsim.acm.org/conf/pads/2026/
+- https://sigsim.acm.org/conf/pads/2026/blog/cfp/
+- https://sigsim.acm.org/conf/pads/2027/
+- https://portal.core.edu.au/conf-ranks/?search=PADS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- PADS 2027 notification and camera-ready dates not yet published

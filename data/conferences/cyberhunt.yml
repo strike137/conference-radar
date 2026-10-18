@@ -1,0 +1,67 @@
+id: cyberhunt
+name: CyberHunt
+full_name: Annual Workshop on Cyber Threat Intelligence and Hunting
+type: workshop
+tier: minor
+areas: [security, ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: University of Oslo (CyberHunt project), co-located with IEEE BigData
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [12]
+links:
+  website: https://cyberhunt2026.cyberhunt.no/
+notes:
+- Workshop on cyber threat intelligence, threat hunting, AI-enabled SOCs and agentic cyber defence; 2026 is the 9th
+  edition
+- Co-located with the IEEE International Conference on Big Data (IEEE BigData), so it follows BigData around the
+  world (Macau 2025, Phoenix 2026)
+- Accepted and presented papers appear in the IEEE BigData proceedings (IEEE Computer Society Press, IEEE Xplore)
+- Up to 10 pages including references, IEEE two-column format, double-blind review
+- Hybrid event; at least one author must register for IEEE BigData and present
+- Late deadline (October or November), useful for a quick end-of-year submission
+- Not ranked by CORE (not in ICORE2026) or CCF
+editions:
+- year: 2025
+  start: 2025-12-08
+  end: 2025-12-11
+  location: Macau SAR, China
+  url: https://cyberhunt2025.cyberhunt.no/
+  deadlines:
+  - kind: submission
+    date: 2025-11-02
+    time: "23:59"
+    tz: EST
+  - kind: notification
+    date: 2025-11-13
+  - kind: camera_ready
+    date: 2025-11-22
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Phoenix, Arizona, USA
+  url: https://cyberhunt2026.cyberhunt.no/
+  deadlines:
+  - kind: submission
+    date: 2026-10-20
+    time: "23:59"
+    tz: EDT
+  - kind: notification
+    date: 2026-11-04
+  - kind: camera_ready
+    date: 2026-11-14
+sources:
+- https://cyberhunt2026.cyberhunt.no/
+- https://cyberhunt2025.cyberhunt.no/
+- https://cyberhunt.no/
+- https://portal.core.edu.au/conf-ranks/?search=CyberHunt&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The 2026 page gives the deadline as 23:59 ET; recorded as EDT (US daylight time on that date)
+- Workshop dates shown are the full IEEE BigData dates; the exact workshop day is not yet announced
+- Acceptance rate not published

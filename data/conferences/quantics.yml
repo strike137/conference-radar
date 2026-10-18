@@ -1,0 +1,100 @@
+id: quantics
+name: QUANTICS
+full_name: International Conference on Quantum Information, Computing, Communications and Simulation
+type: conference
+tier: minor
+areas: [communications, general]
+region: europe
+language: english
+frequency: annual
+organizer: INSTICC (Institute for Systems and Technologies of Information, Control and Communication)
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7]
+links:
+  website: https://quantics.scitevents.org/
+notes:
+- New INSTICC conference on quantum computing, quantum information, quantum communications and simulation; first
+  edition in 2026, second in 2027
+- Proceedings published by Springer in a CCIS series book (unlike most INSTICC events, which use SCITEPRESS)
+- Two submission stages (regular papers in stage 1, regular or position papers in stage 2); earlier stage gives
+  earlier notification
+- Co-located with ICSOFT, DATA, SECRYPT, SIMULTECH and other INSTICC events; one registration covers them as a
+  non-speaker; remote presentation allowed when travel is not possible
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-07-16
+  end: 2026-07-18
+  location: Porto, Portugal
+  url: https://quantics.scitevents.org/?y=2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-23
+    tz: AoE
+    label: Regular papers (stage 1)
+  - kind: submission
+    date: 2026-04-23
+    tz: AoE
+    label: Position / regular papers (stage 2)
+  - kind: notification
+    date: 2026-04-30
+    label: Stage 1
+  - kind: submission
+    date: 2026-05-15
+    tz: AoE
+    label: Late-breaking papers
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Stage 1
+  - kind: notification
+    date: 2026-05-22
+    label: Stage 2
+  - kind: camera_ready
+    date: 2026-06-05
+    label: Stage 2
+- year: 2027
+  start: 2027-07-21
+  end: 2027-07-23
+  location: Rome, Italy
+  url: https://quantics.scitevents.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-16
+    tz: AoE
+    label: Regular papers (stage 1)
+  - kind: submission
+    date: 2027-03-25
+    tz: AoE
+    label: Position / regular papers (stage 2)
+  - kind: notification
+    date: 2027-04-09
+    label: Stage 1
+  - kind: camera_ready
+    date: 2027-04-21
+    label: Stage 1
+  - kind: other
+    date: 2027-05-13
+    tz: AoE
+    label: Abstracts track and special session submission
+  - kind: notification
+    date: 2027-05-17
+    label: Stage 2
+  - kind: camera_ready
+    date: 2027-06-01
+    label: Stage 2
+sources:
+- https://quantics.scitevents.org/
+- https://quantics.scitevents.org/ImportantDates.aspx
+- https://quantics.scitevents.org/ImportantDates.aspx?y=2026
+- https://quantics.scitevents.org/?y=2026
+- https://quantics.scitevents.org/ConferenceVenue.aspx
+- https://quantics.scitevents.org/BooksPublished.aspx
+- https://portal.core.edu.au/conf-ranks/?search=QUANTICS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Indexing not confirmed; the site only says proceedings will be submitted to Web of Science CPCI for evaluation
+- CCF 2026 list not checked directly on ccf.org.cn

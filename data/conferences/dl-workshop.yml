@@ -1,0 +1,75 @@
+id: dl-workshop
+name: DL
+full_name: International Workshop on Description Logics
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: DL Steering Committee
+organizer_country: [international]
+proceedings: CEUR Workshop Proceedings
+archival: false
+indexing: [DBLP]
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://dl.kr.org/
+notes:
+- Main annual event of the description logic research community, running since the 1980s; 2026 was the 39th edition
+- Organizers describe it as an informal get-together with a very high acceptance rate; publication there is not meant
+  to preclude later publication at conferences
+- Papers appear in CEUR Workshop Proceedings as informal proceedings; authors keep the copyright and only regular
+  papers are indexed by DBLP
+- Regular papers up to 11 pages and extended abstracts 2 to 4 pages (excluding references), CEURART format, via HotCRP
+- Single-blind review by default, with an optional double-blind choice
+- At least one author per accepted paper must attend in person; student grants are offered
+- Recent editions Haifa 2022, Rhodes 2023, Bergen 2024, Opole 2025, Lisbon 2026 (at FLoC with KR and NMR),
+  Amsterdam 2027
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-17
+  end: 2026-07-19
+  location: Lisbon, Portugal (FLoC 2026)
+  url: https://dl-2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-19
+    tz: AoE
+    label: Paper registration and abstract (extended from 2026-04-14)
+  - kind: submission
+    date: 2026-04-27
+    tz: AoE
+    label: Extended from 2026-04-21
+  - kind: notification
+    date: 2026-05-20
+    tz: AoE
+  - kind: other
+    date: 2026-05-22
+    tz: AoE
+    label: Student grant applications
+  - kind: camera_ready
+    date: 2026-06-21
+    tz: AoE
+- year: 2027
+  start: 2027-07-08
+  end: 2027-07-11
+  location: Amsterdam, Netherlands
+  url: https://dl.kr.org/
+sources:
+- https://dl.kr.org/
+- https://dl.kr.org/workshops/
+- https://dl.kr.org/workshops/steering.html
+- https://dl-2026.github.io/
+- https://dl-2026.github.io/dates/
+- https://dl-2026.github.io/submissions/
+- https://ceur-ws.org/Vol-4230/
+- https://portal.core.edu.au/conf-ranks/?search=DL&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- DL 2027 deadlines and website not yet announced
+- CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

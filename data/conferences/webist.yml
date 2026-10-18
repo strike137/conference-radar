@@ -1,0 +1,126 @@
+id: webist
+name: WEBIST
+full_name: International Conference on Web Information Systems and Technologies
+type: conference
+tier: minor
+areas: [data]
+region: europe
+language: english
+frequency: annual
+organizer: INSTICC (Institute for Systems and Technologies of Information, Control and Communication)
+organizer_country: [europe]
+proceedings: SCITEPRESS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://webist.scitevents.org/
+notes:
+- Organized by INSTICC; proceedings in the SCITEPRESS Digital Library, a short list of revised and extended papers
+  is planned for a Springer LNBIP book and best papers are invited to a Springer Nature Computer Science special issue
+- CORE C (ICORE2026); regarded as a minor venue; 22nd edition in 2026
+- Covers internet technology, web intelligence and semantic web, social network analytics and web interfaces
+- Two submission stages (1st stage gives an earlier notification), plus late-breaking papers and an abstracts track;
+  all deadlines AoE
+- 2026 edition co-located with ICINCO, CoopIS, icSPORTS, CHIRA, IJCCI, IC3K and IN4PL with free cross access
+- Held in European cities (Budapest 2020, Valletta 2022, Rome 2023, Porto 2024, Marbella 2025, Angers 2026)
+editions:
+- year: 2025
+  start: 2025-10-21
+  end: 2025-10-23
+  location: Marbella, Spain
+  url: https://webist.scitevents.org/?y=2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-06
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2025-07-03
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: notification
+    date: 2025-07-17
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2025-07-24
+    tz: AoE
+    label: Late-breaking papers
+  - kind: notification
+    date: 2025-07-31
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: camera_ready
+    date: 2025-07-31
+    tz: AoE
+    label: Regular papers (1st stage), with registration
+  - kind: camera_ready
+    date: 2025-09-05
+    tz: AoE
+    label: Position/regular papers (2nd stage), with registration
+- year: 2026
+  start: 2026-10-27
+  end: 2026-10-29
+  location: Angers, France
+  url: https://webist.scitevents.org/
+  deadlines:
+  - kind: other
+    date: 2026-05-27
+    tz: AoE
+    label: Workshop / special session proposals
+  - kind: submission
+    date: 2026-06-09
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2026-07-03
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: notification
+    date: 2026-07-17
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2026-07-24
+    tz: AoE
+    label: Late-breaking papers
+  - kind: notification
+    date: 2026-07-31
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: camera_ready
+    date: 2026-07-31
+    tz: AoE
+    label: Regular papers (1st stage), with registration
+  - kind: notification
+    date: 2026-09-03
+    tz: AoE
+    label: Late-breaking papers
+  - kind: camera_ready
+    date: 2026-09-10
+    tz: AoE
+    label: Position/regular papers (2nd stage), with registration
+sources:
+- https://webist.scitevents.org/
+- https://webist.scitevents.org/ImportantDates.aspx
+- https://webist.scitevents.org/ConferenceVenue.aspx
+- https://webist.scitevents.org/?y=2025
+- https://webist.scitevents.org/ImportantDates.aspx?y=2025
+- https://webist.scitevents.org/?y=2024
+- https://webist.scitevents.org/?y=2023
+- https://webist.scitevents.org/?y=2022
+- https://webist.scitevents.org/?y=2021
+- https://webist.scitevents.org/?y=2020
+- https://portal.core.edu.au/conf-ranks/?search=WEBIST&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- WEBIST 2027 not yet announced (webist.scitevents.org/?y=2027 still shows the 2026 edition)
+- Indexing not stated as confirmed (the site lists Scopus, Google Scholar, DBLP, Semantic Scholar, EI and Web of
+  Science CPCI as indexers the proceedings are submitted to)
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+- Acceptance rate not found on official pages
+last_verified: 2026-10-17

@@ -1,0 +1,66 @@
+id: pp-rai
+name: PP-RAI
+full_name: Polish Conference on Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: Polish Neural Network Society and Polish SigML (joint meeting), hosted by a Polish university each year
+organizer_country: [europe]
+proceedings: Springer LNNS (Lecture Notes in Networks and Systems, selected regular papers); host university press volume
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [4]
+links:
+  website: https://pp-rai.pl/
+notes:
+- Annual joint meeting of Polish AI scientific organizations (Polish Neural Network Society, Polish SigML); 7th edition in 2026
+- Held in Poland at a different university each year (Lodz 2023, Warsaw 2024, Katowice 2025, Krakow 2026)
+- Regular papers (10 to 12 pages); the PC decides whether an accepted paper goes to the Springer proceedings or to a shortened 4 to 6 page version in the host university press volume
+- Extended abstracts (2 to 4 pages) presented as posters; one page business project summaries are not published
+- Not ranked on CORE ICORE2026 or CCF
+editions:
+- year: 2025
+  start: 2025-04-07
+  end: 2025-04-09
+  location: Katowice, Poland (University of Silesia)
+  url: https://pp-rai2025.us.edu.pl/
+  deadlines:
+  - kind: submission
+    date: 2025-02-25
+  - kind: notification
+    date: 2025-03-10
+  - kind: camera_ready
+    date: 2025-03-16
+- year: 2026
+  start: 2026-04-20
+  end: 2026-04-22
+  location: Krakow, Poland (AGH University of Krakow, Faculty of Computer Science)
+  url: https://pp-rai.pl/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-03-06
+    label: Final deadline for posters and full papers (extended)
+  - kind: notification
+    date: 2026-03-22
+    label: Notification announced for 21 to 22 March
+  - kind: camera_ready
+    date: 2026-03-28
+    label: Final version for print (full papers)
+sources:
+- https://pp-rai.pl/
+- https://pp-rai.pl/important-dates/
+- https://pp-rai.pl/submission/
+- https://pp-rai.pl/venue/
+- https://pp-rai.pl/proceedings-2025/
+- https://pp-rai2025.us.edu.pl/
+- https://pp-rai2025.us.edu.pl/important-dates/
+- https://portal.core.edu.au/conf-ranks/?search=PP-RAI&by=all&source=ICORE2026
+unverified:
+- Deadline times and time zone (not stated)
+- PP-RAI 2027 host and dates not yet announced
+last_verified: 2026-10-17

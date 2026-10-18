@@ -1,0 +1,119 @@
+id: eics
+name: EICS
+full_name: ACM SIGCHI Symposium on Engineering Interactive Computing Systems
+type: conference
+tier: major
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL (PACM HCI, EICS issue)
+archival: true
+rank:
+  core: Journal Published
+typical:
+  deadline_months: [2, 7, 11]
+  conference_months: [6]
+links:
+  website: https://eics.acm.org/
+  dblp: https://dblp.org/db/conf/eics/index.html
+notes:
+- ACM SIGCHI venue on engineering interactive systems, between HCI and software engineering (models, tools,
+  formal methods, architectures and verification of user interfaces)
+- Full papers and technical notes are journal articles in Proceedings of the ACM on Human-Computer Interaction
+  (PACM HCI, EICS issue); posters, demos, late breaking results and workshops go to a companion volume in the ACM DL
+- Three submission rounds per year (about July, November and February) with a rebuttal; papers can be sent to
+  revise and resubmit in the next round
+- No length limit for full papers and technical notes; ACM TAPS single column format, submission via PCS
+- ACM Open access from 2026, so an article processing charge can apply
+- Held in Europe in recent years (Swansea 2023, Cagliari 2024, Trier 2025, Patras 2026, Toulouse 2027)
+- CORE lists it as Journal Published (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-30
+  end: 2026-07-03
+  location: Patras, Greece
+  url: https://eics.acm.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-07-25
+    tz: AoE
+    label: Round 1 papers
+  - kind: notification
+    date: 2025-10-03
+    tz: AoE
+    label: Round 1 final notification
+  - kind: submission
+    date: 2025-10-24
+    tz: AoE
+    label: Round 2 papers
+  - kind: notification
+    date: 2025-12-19
+    tz: AoE
+    label: Round 2 final notification
+  - kind: submission
+    date: 2026-02-13
+    tz: AoE
+    label: Round 3 papers
+  - kind: notification
+    date: 2026-04-14
+    tz: AoE
+    label: Round 3 final notification
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-25
+  location: Toulouse, France (IRIT, Universite Toulouse III Paul Sabatier)
+  url: https://eics.acm.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-07-23
+    tz: AoE
+    label: Round 1 papers
+  - kind: other
+    date: 2026-09-30
+    tz: AoE
+    label: Round 1 rebuttal
+  - kind: notification
+    date: 2026-10-12
+    tz: AoE
+    label: Round 1 final notification
+  - kind: submission
+    date: 2026-11-12
+    tz: AoE
+    label: Round 2 papers
+  - kind: other
+    date: 2027-01-11
+    tz: AoE
+    label: Round 2 rebuttal
+  - kind: notification
+    date: 2027-01-25
+    tz: AoE
+    label: Round 2 final notification
+  - kind: submission
+    date: 2027-02-19
+    tz: AoE
+    label: Round 3 papers
+  - kind: other
+    date: 2027-04-02
+    tz: AoE
+    label: Round 3 rebuttal
+  - kind: notification
+    date: 2027-04-14
+    tz: AoE
+    label: Round 3 final notification
+sources:
+- https://eics.acm.org/
+- https://eics.acm.org/2027/
+- https://eics.acm.org/2027/assets/data/site.js
+- https://eics.acm.org/2027/contributions/full-papers.html
+- https://eics.acm.org/2026/
+- https://eics.acm.org/2026/important-dates.html
+- https://portal.core.edu.au/conf-ranks/?search=EICS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- EICS 2027 deadlines for workshops, posters, demos, late breaking results and doctoral consortium not yet published
+- EICS 2027 camera ready date is TBD on the official site
+- CCF absence checked via a mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-17

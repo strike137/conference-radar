@@ -1,0 +1,91 @@
+id: sefm
+name: SEFM
+full_name: International Conference on Software Engineering and Formal Methods
+type: conference
+tier: major
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: SEFM Steering Committee (2026 organised by the University of Malta)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+fee: About 550 EUR (2026, early, includes workshops); workshop-only 150 EUR (1 day) or 250 EUR (2 days)
+typical:
+  deadline_months: [6]
+  conference_months: [11]
+links:
+  website: https://sefm-conference.github.io/
+notes:
+- Annual conference on bringing formal methods into practical software engineering; 2026 is the 24th edition
+- "Recent hosts: Berlin (2022), Eindhoven (2023), Aveiro (2024), Toledo (2025), Malta (2026)"
+- Proceedings in Springer LNCS (SEFM 2025 -> LNCS 16192)
+- Regular papers up to 16 pages plus 2 pages of references; short and tool papers up to 8 pages
+- Single-blind review; tool papers need an accepted artefact (EAPLS badges)
+- Satellite workshops on the first two days
+- Deadlines were extended by about one week in both 2025 and 2026
+- CORE B (ICORE2026); not on the CCF list
+editions:
+- year: 2025
+  label: 23rd SEFM
+  start: 2025-11-10
+  end: 2025-11-14
+  location: Toledo, Spain
+  url: https://sefm-conference.github.io/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-16
+    tz: AoE
+    label: Extended from 2025-06-06
+  - kind: submission
+    date: 2025-06-23
+    tz: AoE
+    label: Extended from 2025-06-20
+  - kind: notification
+    date: 2025-08-11
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-29
+    tz: AoE
+- year: 2026
+  label: 24th SEFM
+  start: 2026-11-23
+  end: 2026-11-27
+  location: Malta
+  url: https://sefm-conference.github.io/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-23
+    tz: AoE
+    label: Extended from 2026-06-16
+  - kind: submission
+    date: 2026-06-30
+    tz: AoE
+    label: Extended from 2026-06-23
+  - kind: other
+    date: 2026-07-22
+    tz: AoE
+    label: Artefact submission (tool and regular papers)
+  - kind: notification
+    date: 2026-09-07
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-21
+    tz: AoE
+sources:
+- https://sefm-conference.github.io/
+- https://sefm-conference.github.io/2026/
+- https://sefm-conference.github.io/2026/callforpapers/
+- https://sefm-conference.github.io/2026/registration/
+- https://sefm-conference.github.io/2025/
+- https://sefm-conference.github.io/2025/callforpapers/
+- https://portal.core.edu.au/conf-ranks/?search=SEFM&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- SEFM 2027 not announced yet
+- Steering committee membership not listed on the series page; organizer_country inferred from the European host history
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly (captcha)

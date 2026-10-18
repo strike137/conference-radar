@@ -1,0 +1,50 @@
+id: wac
+name: WAC
+full_name: Workshop on Attacks in Cryptography
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: north-america
+language: english
+frequency: annual
+organizer: Volunteer organizers (2026 Miro Haller, UC San Diego, and Keegan Ryan, Trail of Bits); affiliated event of
+  IACR Crypto
+organizer_country: [usa]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [8]
+links:
+  website: https://wac8.cryptanalysis.fun/
+notes:
+- One-day workshop affiliated with Crypto at UCSB, Santa Barbara; established by Nadia Heninger in 2018
+- Editions every year from 2018 to 2024, then WAC8 in 2026 (no 2025 edition is listed)
+- Showcases attacks on deployed cryptography, cryptanalysis of new schemes and systems attacks that break cryptography
+- Talk proposals (extended abstract, paper or slides) sent by email and selected by the organizers on real-world impact
+  and interest
+- No proceedings and no papers published, so talks on work published elsewhere are welcome
+- Streamed on Zoom and recordings posted on YouTube with speaker consent; no travel funding
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-16
+  end: 2026-08-16
+  location: Santa Barbara, USA (UCSB, affiliated with Crypto 2026)
+  url: https://wac8.cryptanalysis.fun/
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    tz: AoE
+    label: Contributed talk proposal
+  - kind: notification
+    date: 2026-07-06
+sources:
+- https://wac8.cryptanalysis.fun/
+- https://wac8.cryptanalysis.fun/call-for-talks.html
+- https://wac8.cryptanalysis.fun/history.html
+- https://wac7.cryptanalysis.fun/
+- https://portal.core.edu.au/conf-ranks/?search=WAC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- WAC9 (2027) not announced yet; the website moves to a new subdomain each edition

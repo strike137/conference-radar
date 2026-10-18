@@ -1,0 +1,67 @@
+id: iccsa
+name: ICCSA
+full_name: International Conference on Computational Science and Its Applications
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: ICCSA Society
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://www.iccsa.org/
+notes:
+- Run by the ICCSA Society since 2003; each edition is co-organized with a host university
+- Proceedings in Springer LNCS, with General Tracks and workshop papers in separate LNCS volume sets (2026 main
+  volumes LNCS 16767 to 16769, workshop volumes LNCS 16758 to 16766)
+- Very broad scope (computational science, applications, numerical methods, GIS and more) with dozens of co-located
+  workshops
+- Full papers 12 to 18 pages in LNCS format; short papers 8 to 11 pages; at least three reviews per paper
+- Recent editions mostly in Europe (Cagliari 2021, Malaga 2022, Athens 2023, Istanbul 2025, Braga 2026) with Hanoi
+  in 2024; 2027 is in Bali, Indonesia
+- CORE C (ICORE2026); not on the CCF list
+- WASET runs fake events under the ICCSA name; the real ICCSA is only at iccsa.org
+editions:
+- year: 2026
+  start: 2026-06-30
+  end: 2026-07-03
+  location: University of Minho, Braga, Portugal
+  url: https://2026.iccsa.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-30
+    label: Extended
+- year: 2027
+  start: 2027-06-22
+  end: 2027-06-25
+  location: Bali, Indonesia
+  url: https://www.iccsa.org/
+  deadlines:
+  - kind: other
+    date: 2026-10-27
+    label: Workshop proposals
+  - kind: submission
+    date: 2027-03-23
+    label: General Tracks (workshops may set their own deadline)
+  - kind: notification
+    date: 2027-04-20
+  - kind: camera_ready
+    date: 2027-05-03
+sources:
+- https://www.iccsa.org/
+- https://www.iccsa.org/important-dates
+- https://www.iccsa.org/instructions-for-authors
+- https://2026.iccsa.org/
+- https://portal.core.edu.au/conf-ranks/?search=ICCSA&by=all&source=ICORE2026
+unverified:
+- Original ICCSA 2026 submission deadline and notification date (only the extension to March 30 is still on the
+  2026 site)
+last_verified: 2026-10-17

@@ -1,0 +1,68 @@
+id: nllp
+name: NLLP
+full_name: Natural Legal Language Processing Workshop
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Academic and industry organizing committee (University of Sheffield, Bloomberg, University of Copenhagen,
+  Utrecht University, Maastricht University); co-located with EMNLP
+organizer_country: [europe, usa]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10, 11, 12]
+links:
+  website: https://nllpw.org/
+notes:
+- Workshop on NLP for the legal domain (legal reasoning, legal LLMs, contracts, regulation, platform governance)
+- Held with NAACL 2019 and KDD 2020, and with EMNLP every year since 2021 (Punta Cana, Abu Dhabi, Singapore, Miami,
+  Suzhou, Budapest)
+- Long (8 pages) and short (4 pages) papers in the ACL Anthology; a non-archival option publishes only the abstract
+- Double-blind review; also takes ARR commitments and rejected EMNLP papers with their reviews
+- Runs a shared task each year (2026 on commercial content in child-facing YouTube videos)
+editions:
+- year: 2025
+  label: 7th edition, with EMNLP 2025
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Suzhou, China
+  url: https://nllpw.org/workshop/nllp-2025
+- year: 2026
+  label: 8th edition, with EMNLP 2026
+  start: 2026-10-28
+  end: 2026-10-28
+  location: Budapest, Hungary
+  url: https://nllpw.org/workshop/
+  deadlines:
+  - kind: submission
+    date: 2026-08-18
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (extended from August 11)
+  - kind: other
+    date: 2026-08-27
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment and EMNLP papers with reviews
+  - kind: notification
+    date: 2026-09-15
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-22
+    time: "23:59"
+    tz: AoE
+sources:
+- https://nllpw.org/workshop/
+- https://nllpw.org/workshop/call/
+- https://nllpw.org/workshop/nllp-2025
+- https://nllpw.org/workshop/nllp-2024
+- https://nllpw.org/workshop/nllp-2023
+unverified:
+- Submission deadlines of the 2025 edition
+- Acceptance rate
+last_verified: 2026-10-17

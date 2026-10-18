@@ -1,0 +1,87 @@
+id: mum
+name: MUM
+full_name: International Conference on Mobile and Ubiquitous Multimedia
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: MUM steering committee (in cooperation with ACM SIGCHI)
+organizer_country: [europe]
+proceedings: ACM DL (ICPS)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://mum-conf.org/
+  dblp: https://dblp.org/db/conf/mum/index.html
+notes:
+- Single-track HCI conference on mobile and ubiquitous multimedia (interaction techniques, XR, context-aware services,
+  wearables, automotive UI), held in cooperation with ACM SIGCHI
+- Proceedings in the ACM International Conference Proceedings Series (ICPS) in the ACM DL; ICPS open access model can
+  mean an article processing charge
+- Full papers up to 16 pages and short papers up to 7 pages (single column, excluding references); double-blind review
+  via EasyChair
+- Paper deadline in late August, conference in early December; the paper deadline has been extended by one week in
+  recent years
+- Held in Europe (Vienna 2023, Stockholm 2024, Enna 2025, Glasgow 2026)
+- CORE B (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-04
+  location: Enna, Italy
+  url: https://www.mum-conf.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-28
+    label: Full and short papers (extended from 2025-08-21)
+  - kind: notification
+    date: 2025-10-06
+    label: Full and short papers
+  - kind: camera_ready
+    date: 2025-10-20
+    label: Full and short papers
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-04
+  location: Glasgow, United Kingdom
+  url: https://www.mum-conf.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-27
+    tz: AoE
+    label: Full and short papers (extended from 2026-08-20)
+  - kind: notification
+    date: 2026-10-05
+    tz: AoE
+    label: Full and short papers
+  - kind: submission
+    date: 2026-10-08
+    tz: AoE
+    label: Doctoral consortium
+  - kind: submission
+    date: 2026-10-13
+    tz: AoE
+    label: Posters and demos (extended from 2026-10-09)
+  - kind: camera_ready
+    date: 2026-10-22
+    tz: AoE
+    label: Full and short papers
+sources:
+- https://mum-conf.org/
+- https://www.mum-conf.org/2026/
+- https://www.mum-conf.org/2026/index.php?web=papers
+- https://www.mum-conf.org/2026/index.php?web=posters
+- https://www.mum-conf.org/2026/index.php?web=doctoral
+- https://www.mum-conf.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=MUM&by=all&source=ICORE2026
+unverified:
+- organizer_country set from the European steering and host institutions; the site does not name a steering body
+- MUM 2027 dates and location not yet announced as of 2026-10-17
+- CCF absence checked via a mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-17

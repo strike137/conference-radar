@@ -1,0 +1,73 @@
+id: eai-aicon
+name: EAI AICON
+full_name: EAI International Conference on Artificial Intelligence for Communications and Networks
+type: conference
+tier: minor
+areas: [ai, communications, networking]
+region: asia-pacific
+language: english
+frequency: irregular
+organizer: EAI (European Alliance for Innovation)
+organizer_country: [europe]
+proceedings: Springer LNICST
+archival: true
+indexing: [Web of Science, Compendex, Scopus, DBLP, Inspec, zbMATH]
+typical:
+  deadline_months: [7]
+  conference_months: [11]
+links:
+  website: https://aicon-conf.eai-conferences.org/2026/
+notes:
+- EAI conference series on AI methods applied to communications and networking; 2026 is the 6th edition
+- Proceedings in Springer LNICST; selected papers invited to extend for Mobile Networks and Applications (MONET)
+- Generic AI papers without a communications or networking contribution are out of scope
+- 2026 edition is hybrid
+- Rotates within Asia (Harbin 2019, online 2020, Xining online 2021, Hiroshima 2022, New Delhi online 2025, Phu Quoc 2026)
+- No edition between 2022 and April 2025; the 5th edition was postponed to April 2025
+- Main track, secondary track with special sessions and last track with separate deadlines; full papers 12 to 16 pages
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-04-25
+  end: 2025-04-27
+  location: New Delhi, India (online)
+  url: https://aicon-conf.eai-conferences.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-28
+    label: Late track
+  - kind: notification
+    date: 2025-03-31
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-22
+  location: Phu Quoc Island, Vietnam
+  url: https://aicon-conf.eai-conferences.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    label: Full papers, main track
+  - kind: submission
+    date: 2026-09-30
+    label: Secondary track and special sessions
+  - kind: submission
+    date: 2026-10-15
+    label: Last track
+  - kind: notification
+    date: 2026-10-26
+  - kind: camera_ready
+    date: 2026-11-06
+sources:
+- https://aicon-conf.eai-conferences.org/2026/
+- https://aicon-conf.eai-conferences.org/2026/call-for-papers/
+- https://aicon-conf.eai-conferences.org/2025/
+- https://aicon-conf.eai-conferences.org/2022/
+- https://aicon-conf.eai-conferences.org/2021/
+- https://aicon-conf.eai-conferences.org/2020/
+- https://portal.core.edu.au/conf-ranks/?search=AICON&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- 2025 main track submission deadline is garbled on the official page (lists 1 February and 1 March 2025); left out
+- 2026 home page also shows an older block (secondary track 22 September, notification 6 October 2026); the call for papers page dates are used
+- CCF rank checked via a mirror of the CCF 2026 list, not on ccf.org.cn directly

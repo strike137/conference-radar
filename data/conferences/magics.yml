@@ -1,0 +1,49 @@
+id: magics
+name: MAgiCS
+full_name: International Workshop on Migration and Agility in Cryptographic Systems
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: europe
+language: english
+organizer: Marc Stoettinger (RheinMain University of Applied Sciences) and Daniel Loebenberger (Fraunhofer AISEC); affiliated
+  event of Eurocrypt
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+acceptance_rate: 53% (2026, 10/19)
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://magics-workshop.cs.hs-rm.de/
+notes:
+- First edition in 2026, co-located with Eurocrypt 2026 in Rome as an affiliated workshop
+- Focus on post-quantum migration, crypto agility, hybrid schemes and legacy cryptography in deployed systems
+- Proceedings in Springer CCIS (volume 3002, open access); 10 full papers from 19 submissions in 2026
+- Double-blind review; papers up to 18 pages in CCIS format excluding references
+- Registration goes through the Eurocrypt registration
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-10
+  end: 2026-05-10
+  location: Rome, Italy
+  url: https://magics-workshop.cs.hs-rm.de/
+  deadlines:
+  - kind: submission
+    date: 2026-02-15
+    label: Paper submission (extended from 2026-02-01)
+  - kind: notification
+    date: 2026-03-24
+    label: Notification (moved from 2026-03-22)
+  - kind: camera_ready
+    date: 2026-03-31
+    label: Camera-ready (moved from 2026-03-29)
+sources:
+- https://magics-workshop.cs.hs-rm.de/
+- https://link.springer.com/book/9783032289452
+- https://portal.core.edu.au/conf-ranks/?search=MAgiCS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Whether MAgiCS will run again in 2027 is not announced (only one edition so far, so frequency is unknown)

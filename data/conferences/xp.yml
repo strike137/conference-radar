@@ -1,0 +1,69 @@
+id: xp
+name: XP
+full_name: International Conference on Agile Software Development
+type: conference
+tier: major
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: XP Steering Committee (chair Peggy Gregory, University of Glasgow)
+organizer_country: [europe]
+proceedings: Springer LNBIP (open access)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [11, 1]
+  conference_months: [4, 6]
+links:
+  website: https://conf.researchr.org/series/xp
+notes:
+- Main conference on agile software development, combining a research track with industry and practice, agile games,
+  training and education, posters, PhD symposium and workshops
+- Started as the eXtreme Programming conference; the 2027 edition is the 28th
+- CORE B (ICORE2026, listed as Conference on Agile Software Development); not on the CCF list
+- Main proceedings published open access by Springer in Lecture Notes in Business Information Processing (LNBIP)
+  as "Agile Processes in Software Engineering and Extreme Programming"
+- Research papers in Springer LNCS/LNBIP format, evaluated by at least three PC members
+- Mostly held in Europe (Brugg-Windisch 2025, Tampere 2027); 2026 was the first edition in Brazil (Sao Paulo, April)
+editions:
+- year: 2026
+  start: 2026-04-08
+  end: 2026-04-11
+  location: Sao Paulo, Brazil (Insper)
+  url: https://conf.researchr.org/home/xp-2026
+  deadlines:
+  - kind: abstract
+    date: 2025-11-21
+    tz: AoE
+    label: Research papers (recommended)
+  - kind: submission
+    date: 2025-11-28
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2026-01-09
+    label: Research papers
+  - kind: camera_ready
+    date: 2026-02-06
+    label: Research papers
+- year: 2027
+  start: 2027-05-31
+  end: 2027-06-03
+  location: Tampere, Finland (Scandic Rosendahl)
+  url: https://conf.researchr.org/home/xp-2027
+sources:
+- https://conf.researchr.org/series/xp
+- https://conf.researchr.org/home/xp-2026
+- https://conf.researchr.org/track/xp-2026/xp-2026-papers
+- https://conf.researchr.org/track/xp-2025/xp-2025-research-papers
+- https://conf.researchr.org/home/xp-2027
+- https://link.springer.com/book/10.1007/978-3-032-22375-3
+- https://portal.core.edu.au/conf-ranks/?search=XP&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- XP 2027 calls for contributions and deadlines not announced yet
+- Region based on recent editions; locations of 2021 to 2024 editions not rechecked on official pages
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-17

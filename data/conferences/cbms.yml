@@ -1,0 +1,79 @@
+id: cbms
+name: IEEE CBMS
+full_name: IEEE International Symposium on Computer-Based Medical Systems
+type: conference
+tier: major
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: CBMS Steering Committee, sponsored by the IEEE Computer Society Technical Committee on Computational Life Sciences (TCCLS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: B
+fee: 630 EUR IEEE member, 760 EUR non-member, 445 EUR IEEE student author registration (2026)
+typical:
+  deadline_months: [1, 2, 3]
+  conference_months: [6]
+links:
+  website: https://cbms-conference.org/
+notes:
+- Long-running medical and biomedical informatics symposium; 39th edition in 2026, 40th in 2027
+- Sponsored by the IEEE Computer Society TCCLS; run by an international steering committee
+- All accepted papers (regular 6 pages, extendable to 8 for a fee; short 3 to 4 pages; 2-page posters) appear in IEEE Xplore
+- Each paper reviewed by at least two program committee members; special tracks and a doctoral consortium run alongside
+- Recent editions in Aveiro (online 2021), Shenzhen (online 2022), L'Aquila 2023, Guadalajara 2024, Madrid 2025, Limassol 2026 and Rome 2027
+- 2026 and 2027 editions are in person only
+- Selected papers invited to journal special issues
+- CORE B in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-05
+  location: Limassol, Cyprus
+  url: https://2026.cbms-conference.org/
+  deadlines:
+  - kind: other
+    date: 2025-10-24
+    tz: AoE
+    label: Special track proposals
+  - kind: submission
+    date: 2026-03-06
+    tz: AoE
+    label: Papers (extended from 2026-02-20 and 2026-02-27)
+  - kind: notification
+    date: 2026-04-20
+  - kind: camera_ready
+    date: 2026-04-27
+- year: 2027
+  start: 2027-06-23
+  end: 2027-06-25
+  location: Università Campus Bio-Medico di Roma, Rome, Italy
+  url: https://2027.cbms-conference.org/
+  status: confirmed
+  deadlines:
+  - kind: other
+    date: 2026-11-15
+    label: Special track proposals
+  - kind: submission
+    date: 2027-01-20
+  - kind: notification
+    date: 2027-03-05
+  - kind: camera_ready
+    date: 2027-03-15
+sources:
+- https://cbms-conference.org/
+- https://2026.cbms-conference.org/
+- https://2026.cbms-conference.org/call-for-papers/
+- https://2026.cbms-conference.org/registration/
+- https://2027.cbms-conference.org/
+- https://2027.cbms-conference.org/call-for-papers
+- https://2023.cbms-conference.org/
+- https://2025.cbms-conference.org/
+- https://api.crossref.org/works?query.bibliographic=IEEE+International+Symposium+on+Computer-Based+Medical+Systems+CBMS&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=CBMS&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- 2027 submission formats and fees are not yet published

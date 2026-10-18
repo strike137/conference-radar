@@ -1,0 +1,129 @@
+id: improve
+name: IMPROVE
+full_name: International Conference on Image Processing and Vision Engineering
+type: conference
+tier: minor
+areas: [vision]
+region: europe
+language: english
+frequency: annual
+organizer: INSTICC (Institute for Systems and Technologies of Information, Control and Communication)
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+fee: 445 EUR (2027, INSTICC member), 495 EUR non-member
+typical:
+  deadline_months: [11, 12, 1, 2]
+  conference_months: [4, 5]
+links:
+  website: https://improve.scitevents.org/
+notes:
+- Organized by INSTICC; image processing, computer vision, imaging and multimedia communications
+- Proceedings in the SCITEPRESS Digital Library up to 2024; since 2025 published by Springer in a CCIS book
+- Two submission stages (1st stage gives an earlier notification), plus late-breaking papers and an abstracts track;
+  all deadlines AoE
+- Held in European cities (Angers 2024, Porto 2025, Benidorm 2026, Rome 2027) and co-located with CLOSER, CSEDU,
+  VEHITS, ICT4AWE, IoTBDS and other INSTICC conferences
+- Hybrid support; speakers may present remotely if unable to travel
+- Not listed in CORE ICORE2026 or the CCF list; regarded as a minor venue
+editions:
+- year: 2026
+  start: 2026-05-20
+  end: 2026-05-21
+  location: Benidorm, Spain
+  url: https://improve.scitevents.org/?y=2026
+  deadlines:
+  - kind: other
+    date: 2026-01-20
+    tz: AoE
+    label: Workshop / special session proposals
+  - kind: submission
+    date: 2026-01-23
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2026-02-24
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: notification
+    date: 2026-03-03
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2026-03-17
+    tz: AoE
+    label: Late-breaking papers
+  - kind: camera_ready
+    date: 2026-03-17
+    tz: AoE
+    label: Regular papers (1st stage), with registration
+  - kind: notification
+    date: 2026-03-24
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: camera_ready
+    date: 2026-04-06
+    tz: AoE
+    label: Position/regular papers (2nd stage), with registration
+- year: 2027
+  start: 2027-04-18
+  end: 2027-04-19
+  location: Rome, Italy
+  url: https://improve.scitevents.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-17
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: other
+    date: 2026-11-27
+    tz: AoE
+    label: Workshop / special session proposals
+  - kind: submission
+    date: 2026-12-21
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: notification
+    date: 2027-01-15
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: camera_ready
+    date: 2027-01-27
+    tz: AoE
+    label: Regular papers (1st stage), with registration
+  - kind: notification
+    date: 2027-02-15
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: submission
+    date: 2027-02-16
+    tz: AoE
+    label: Abstracts track
+  - kind: camera_ready
+    date: 2027-03-01
+    tz: AoE
+    label: Position/regular papers (2nd stage), with registration
+sources:
+- https://improve.scitevents.org/
+- https://improve.scitevents.org/ImportantDates.aspx
+- https://improve.scitevents.org/CallForPapers.aspx
+- https://improve.scitevents.org/ConferenceVenue.aspx
+- https://improve.scitevents.org/RegistrationFees.aspx
+- https://improve.scitevents.org/Websites.aspx
+- https://improve.scitevents.org/?y=2026
+- https://improve.scitevents.org/ImportantDates.aspx?y=2026
+- https://improve.scitevents.org/CallForPapers.aspx?y=2026
+- https://improve.scitevents.org/?y=2025
+- https://improve.scitevents.org/CallForPapers.aspx?y=2025
+- https://improve.scitevents.org/?y=2024
+- https://improve.scitevents.org/CallForPapers.aspx?y=2024
+- https://improve.scitevents.org/?y=2023
+- https://portal.core.edu.au/conf-ranks/?search=IMPROVE&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- "2027 publication wording differs: the call for papers says all accepted papers are published by Springer, while the home
+  page only mentions a short list of revised and extended papers in a Springer CCIS book"
+- 2026 location given only as the Melia Villaitana hotel on the Costa Blanca (Benidorm)
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+- Acceptance rate not found on official pages
+last_verified: 2026-10-17

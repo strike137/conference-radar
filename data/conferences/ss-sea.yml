@@ -1,0 +1,70 @@
+id: ss-sea
+name: SS
+full_name: Software Symposium
+name_local: ソフトウェア・シンポジウム
+type: conference
+tier: domestic
+areas: [software]
+region: japan
+language: japanese
+frequency: annual
+organizer: SEA (Software Engineers Association of Japan)
+organizer_country: [japan]
+proceedings: J-STAGE (ソフトウェア・シンポジウム論文集, ISSN 2758-8572)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://www.sea.jp/ss2026/
+notes:
+- Annual software engineering symposium of the Software Engineers Association (SEA), held every June in a different
+  Japanese city; 2026 was the 46th meeting
+- Mixes practitioners and researchers; categories are research papers and experience papers (5 to 10 pages), Future
+  Presentation (about 2 pages) and case reports (abstract plus slides), plus working group discussions
+- Submissions are peer reviewed by the program committee; best paper, paper encouragement and best presentation
+  awards
+- Accepted papers are published in the symposium proceedings on J-STAGE (marked peer reviewed) and on the symposium
+  site after the meeting
+- Papers in Japanese in principle; English papers are accepted but talks must be in Japanese
+- Hybrid since 2022 (on site plus online); submission is by email to the program committee
+editions:
+- year: 2025
+  label: SS2025 (45th)
+  start: 2025-06-11
+  end: 2025-06-13
+  location: Okayama Convention Center, Okayama, Japan (hybrid)
+  url: https://www.sea.jp/ss2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-17
+  - kind: camera_ready
+    date: 2025-05-26
+- year: 2026
+  label: SS2026 (46th)
+  start: 2026-06-10
+  end: 2026-06-12
+  location: Kaikyo Messe Shimonoseki, Shimonoseki, Yamaguchi, Japan (hybrid)
+  url: https://www.sea.jp/ss2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-03-23
+    label: Papers, case reports and Future Presentation (extended from 2026-03-16)
+  - kind: camera_ready
+    date: 2026-05-25
+sources:
+- https://www.sea.jp/ss2026/
+- https://www.sea.jp/ss2026/call_for_papers.php
+- https://www.sea.jp/ss2026/paper_submission.php
+- https://www.sea.jp/ss2026/proceedings.php
+- https://www.sea.jp/ss2025/
+- https://www.sea.jp/ss2025/call_for_papers.php
+- https://www.sea.jp/Events/symposium/ss-index.html
+- https://www.jstage.jst.go.jp/browse/ssproceedings/-char/ja
+- https://portal.core.edu.au/conf-ranks/?search=Software+Symposium&by=all&source=ICORE2026
+unverified:
+- Not found in the ICORE2026 portal search
+- Notification dates are given only as mid April
+- SS2027 has not been announced
+last_verified: 2026-10-17

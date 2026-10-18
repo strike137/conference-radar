@@ -1,0 +1,55 @@
+id: pdsec
+name: PDSEC
+full_name: IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE IPDPS workshop; steering committee chaired by Laurence T. Yang (St. Francis Xavier University), site
+  hosted by IEEE TCSC
+organizer_country: [canada, europe]
+proceedings: IEEE Xplore (IPDPS Workshops, IEEE Computer Society)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://www.ieee-tcsc.org/2026/pdsec/
+notes:
+- One-day workshop co-located with IEEE IPDPS every year since 2001; first edition in 2000 in Iwate, Japan (27th edition in 2026 per its own site)
+- Papers appear in the IPDPS workshop proceedings published by the IEEE Computer Society (IEEE Xplore)
+- 'Topics: HPC for scientific and engineering applications, performance modeling, code modernization, MPI+X,
+  scalable algorithms, performance portability, big scientific data'
+- Full papers up to 8 pages, short papers up to 4 pages, IEEE two-column format including references
+- Selected papers invited to journal special issues
+- Location follows IPDPS (St. Petersburg 2023, San Francisco 2024, Milan 2025, New Orleans 2026)
+editions:
+- year: 2026
+  label: PDSEC-26 (27th)
+  start: 2026-05-25
+  end: 2026-05-25
+  location: New Orleans, USA (with IPDPS 2026)
+  url: https://www.ieee-tcsc.org/2026/pdsec/
+  deadlines:
+  - kind: submission
+    date: 2026-02-02
+  - kind: notification
+    date: 2026-02-25
+  - kind: camera_ready
+    date: 2026-03-06
+sources:
+- https://www.ieee-tcsc.org/2026/pdsec/
+- https://www.ieee-tcsc.org/2026/pdsec/cfp.php
+- https://www.ieee-tcsc.org/2026/pdsec/previous-pdsecs.php
+- https://www.ieee-tcsc.org/2026/pdsec/org-committee.php
+- https://www.ipdps.org/ipdps2026/2026-workshops.html
+- https://www.ipdps.org/ipdps2027/2027-call-for-workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=PDSEC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- PDSEC 2027 not announced yet; IPDPS 2027 is June 1 to 5, 2027 in Seattle and workshop days are June 1 and 2
+- Not listed on the CORE portal (ICORE2026) and not on the CCF 2026 list
+- Edition numbering differs (IPDPS lists the 2026 edition as the 26th, the PDSEC site as the 27th)
+- Acceptance rate not published

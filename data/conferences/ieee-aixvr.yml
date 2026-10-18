@@ -1,0 +1,81 @@
+id: ieee-aixvr
+name: IEEE AIxVR
+full_name: IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality
+type: conference
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [1]
+links:
+  website: https://aivr.science.uu.nl/
+notes:
+- Founded in 2018 as IEEE AIVR (held in December through 2022); renamed IEEE AIxVR and moved to January, so there
+  was no 2023 edition
+- Sponsored by the IEEE Computer Society; in cooperation with ACM SIGAI, SIGCHI, SIGGRAPH and Eurographics
+- Proceedings published by IEEE Computer Society Press in IEEE Xplore and the IEEE CSDL
+- Rotates between the Americas, Europe and Asia (Los Angeles 2024, Lisbon 2025, Osaka 2026, Vancouver 2027)
+- Full and short papers in the first round; work-in-progress, demo and video papers about a month later; workshops
+  integrated into the main event
+- In-person conference, remote presentation possible for authors who cannot travel
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-01-26
+  end: 2026-01-28
+  location: Osaka, Japan
+  url: http://aivr.science.uu.nl/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-09-29
+    tz: AoE
+    label: Full and short papers (extended from 2025-09-26)
+  - kind: submission
+    date: 2025-11-03
+    tz: AoE
+    label: Work in progress, demo and video papers (extended from 2025-10-31)
+  - kind: notification
+    date: 2025-11-09
+    label: Full and short papers
+  - kind: camera_ready
+    date: 2025-12-18
+- year: 2027
+  start: 2027-01-25
+  end: 2027-01-27
+  location: Vancouver, Canada
+  url: https://aivr.science.uu.nl/2027/
+  deadlines:
+  - kind: other
+    date: 2026-09-21
+    tz: AoE
+    label: Workshop and special session proposals (extended from 2026-09-14)
+  - kind: submission
+    date: 2026-09-21
+    tz: AoE
+    label: Full and short papers (extended from 2026-09-17)
+  - kind: submission
+    date: 2026-10-29
+    tz: AoE
+    label: Work in progress, demo and video papers
+  - kind: camera_ready
+    date: 2026-12-15
+sources:
+- https://aivr.science.uu.nl/
+- https://aivr.science.uu.nl/2027/
+- https://aivr.science.uu.nl/2027/aixvr2027_dates.html
+- https://aivr.science.uu.nl/2027/aixvr2027_cfp.html
+- https://aivr.science.uu.nl/2027/aixvr2027_history.html
+- http://aivr.science.uu.nl/2026/aixvr2026_dates.html
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+- https://portal.core.edu.au/conf-ranks/?search=AIVR&by=all&source=ICORE2026
+unverified:
+- IEEE AIxVR 2027 notification dates given only as early to mid November 2026 (full and short papers) and early
+  December 2026 (other papers)
+last_verified: 2026-10-17

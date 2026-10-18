@@ -1,0 +1,97 @@
+id: async
+name: ASYNC
+full_name: IEEE International Symposium on Asynchronous Circuits and Systems
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ASYNC steering committee (technically co-sponsored by IEEE Computer Society in 2026)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://asyncsymposium.org/
+notes:
+- Main forum for asynchronous circuit and system design (clockless pipelines, arbitration, GALS, NoCs, neuromorphic hardware, CAD)
+- Held in 2023 (Beijing), 2025 (Portland, USA) and 2026 (Lyngby, Denmark); 2022 and 2024 had only a summer school, so not strictly annual
+- Moves around the world (Hirosaki 2019, Snowbird 2020, virtual 2021, Beijing 2023, Portland 2025, Lyngby 2026)
+- Regular papers 6 to 8 pages in IEEE format with double-blind review; separate track for 1 to 4 page industrial and short academic papers
+- 2025 CFP states accepted papers go to the symposium proceedings and IEEE Xplore; 2023, 2025 and 2026 papers carry IEEE DOIs
+- ASYNC Summer School on asynchronous chip design is co-located just before the symposium
+- Not found on the CORE portal (ICORE2026); not in the CCF list mirror
+editions:
+- year: 2025
+  start: 2025-05-12
+  end: 2025-05-14
+  location: Portland, Oregon, USA
+  url: https://asyncsymposium.org/async2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-01-20
+    label: Regular papers
+  - kind: submission
+    date: 2025-02-03
+    label: Regular papers
+  - kind: notification
+    date: 2025-03-10
+    label: Regular papers
+  - kind: camera_ready
+    date: 2025-03-31
+    label: Regular papers
+  - kind: submission
+    date: 2025-03-24
+    label: Short papers
+  - kind: notification
+    date: 2025-03-31
+    label: Short papers
+  - kind: camera_ready
+    date: 2025-04-07
+    label: Short papers
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-05
+  location: DTU, Lyngby, Denmark
+  url: https://asyncsymposium.org/async2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-02
+    time: "23:59"
+    tz: AoE
+    label: Regular papers (extended)
+  - kind: submission
+    date: 2026-02-09
+    time: "23:59"
+    tz: AoE
+    label: Regular papers (extended)
+  - kind: notification
+    date: 2026-03-15
+    label: Regular papers (extended)
+  - kind: submission
+    date: 2026-03-23
+    time: "23:59"
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2026-04-09
+    label: Short papers (extended)
+  - kind: camera_ready
+    date: 2026-04-25
+    label: All papers (extended)
+sources:
+- https://asyncsymposium.org/
+- https://asyncsymposium.org/async2026/
+- https://asyncsymposium.org/async2026/cfp/
+- https://asyncsymposium.org/async2025/
+- https://asyncsymposium.org/async2025/wp-content/uploads/sites/6/2025/05/10-ASYNC2025_CallForPapers_final.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ASYNC&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- The 2026 site and CFP say only "symposium proceedings" and drop "IEEE" from the name; 2026 papers have IEEE DOIs (10.1109/ASYNC69614.2026) per Crossref
+- ASYNC 2027 not yet announced (no async2027 page)
+- CCF rank checked only via the CCFrank4dblp mirror (updated 2026-04-06), not on ccf.org.cn directly
+last_verified: 2026-10-17

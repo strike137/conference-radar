@@ -1,0 +1,63 @@
+id: profes
+name: PROFES
+full_name: International Conference on Product-Focused Software Process Improvement
+type: conference
+tier: major
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: PROFES Steering Committee; 2026 edition hosted by Blekinge Institute of Technology
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [6, 7, 8]
+  conference_months: [12]
+links:
+  website: https://conf.researchr.org/series/profes
+notes:
+- Software engineering venue on software process improvement, product and process quality and empirical studies
+  with industry
+- CORE B (ICORE2026); not on the CCF list
+- Proceedings published by Springer in LNCS; in 2025 a second volume held industry, doctoral symposium, tutorial and
+  workshop papers
+- Full research papers up to 16 pages including references in LNCS format; single-anonymous review by at least
+  three reviewers; short papers and posters also go into the proceedings
+- Industrial talk proposals (2-page abstracts) are presented but not included in the proceedings
+- Held in Europe around early December; recent hosts Dornbirn 2023, Tartu 2024, Salerno 2025 and Karlskrona 2026
+- In-person presentation by at least one author is required
+editions:
+- year: 2026
+  start: 2026-11-30
+  end: 2026-12-02
+  location: Karlskrona, Sweden (Blekinge Institute of Technology)
+  url: https://conf.researchr.org/home/profes-2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-03
+    time: "23:59"
+    tz: AoE
+    label: Research, industry and short papers (extended from Jul 23)
+  - kind: notification
+    date: 2026-09-11
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-25
+    tz: AoE
+sources:
+- https://conf.researchr.org/series/profes
+- https://conf.researchr.org/home/profes-2025
+- https://conf.researchr.org/home/profes-2026
+- https://conf.researchr.org/track/profes-2026/profes-2026-Research-Papers
+- https://conf.researchr.org/track/profes-2026/profes-2026-industrial-papers
+- https://conf.researchr.org/track/profes-2026/profes-2026-short-papers-and-posters
+- https://link.springer.com/book/10.1007/978-3-032-12089-2
+- https://portal.core.edu.au/conf-ranks/?search=PROFES&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- PROFES 2027 not announced yet
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-17

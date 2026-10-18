@@ -1,0 +1,72 @@
+id: edgesys
+name: EdgeSys
+full_name: ACM International Workshop on Edge Systems, Analytics and Networking
+type: workshop
+tier: minor
+areas: [systems, networking, ai]
+region: europe
+language: english
+frequency: annual
+organizer: ACM (co-located with EuroSys or MobiSys)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [4, 5, 6]
+links:
+  website: https://edge-sys.github.io/2026/
+notes:
+- Workshop on edge computing systems, edge AI and analytics, decentralized networking and IoT; running since 2018
+- Co-located with ACM EuroSys from 2021 to 2025 (2021 online, 2022 Rennes, 2023 Rome, 2024 Athens, 2025 Rotterdam)
+  and with ACM MobiSys 2026 in Cambridge, UK
+- Short papers of up to 6 pages in ACM double-column format excluding references, single-blind review
+- Accepted papers are published in the ACM Digital Library; one author must register and present
+- Single submission deadline in February or March, workshop about one month after camera-ready
+editions:
+- year: 2025
+  start: 2025-03-31
+  end: 2025-03-31
+  location: Rotterdam, Netherlands
+  url: https://edge-sys.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-05
+    time: "23:59"
+    tz: CET
+  - kind: notification
+    date: 2025-02-28
+  - kind: camera_ready
+    date: 2025-03-05
+- year: 2026
+  start: 2026-06-25
+  end: 2026-06-25
+  location: Cambridge, UK
+  url: https://edge-sys.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-22
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-04-27
+  - kind: camera_ready
+    date: 2026-04-30
+sources:
+- https://edge-sys.github.io/2026/
+- https://edge-sys.github.io/2026/submission.html
+- https://edge-sys.github.io/2026/programme.html
+- https://edge-sys.github.io/2025/
+- https://edge-sys.github.io/2024/
+- https://edge-sys.github.io/2023/
+- https://edge-sys.github.io/2022/
+- https://edge-sys.github.io/2021/
+- https://www.sigmobile.org/mobisys/2026/
+- https://dl.acm.org/doi/proceedings/10.1145/3721888
+- https://portal.core.edu.au/conf-ranks/?search=EdgeSys&by=all&source=ICORE2026
+unverified:
+- Not found on the ICORE2026 portal and not on the CCF 2026 list
+- EdgeSys 2027 host conference, dates and deadlines not announced yet
+- Registration fee not stated on the workshop site (set by the host conference)
+last_verified: 2026-10-17

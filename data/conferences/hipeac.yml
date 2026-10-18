@@ -1,0 +1,67 @@
+id: hipeac
+name: HiPEAC
+full_name: HiPEAC Conference (High Performance, Edge And Cloud computing)
+type: conference
+tier: major
+areas: [systems, software]
+region: europe
+language: english
+frequency: annual
+organizer: HiPEAC network
+organizer_country: [europe]
+proceedings: ACM TACO (journal-first, no conference proceedings)
+archival: true
+rank:
+  ccf: B
+fee: About 750 EUR (2027, regular; early 650, early student 550)
+typical:
+  deadline_months: [6]
+  conference_months: [1]
+links:
+  website: https://www.hipeac.net/2027/glasgow/
+notes:
+- Annual conference of the European HiPEAC network on computer architecture, programming models, compilers and
+  operating systems
+- Journal-first model, papers are submitted to ACM TACO at any time; original papers accepted in TACO between
+  November 15 two years before and November 15 one year before the conference are invited to the paper track
+- No conference proceedings are published; the papers themselves appear in ACM TACO (ACM DL)
+- Submit to TACO before June 1 of the previous year to be invited to the next HiPEAC if accepted
+- Large program of co-located workshops, tutorials, poster sessions and an industrial exhibition
+- Held in Toulouse 2023, Munich 2024, Barcelona 2025, Krakow 2026 and Glasgow 2027
+- Not in the CORE portal (ICORE2026); CCF B in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-26
+  end: 2026-01-28
+  location: Krakow, Poland
+  url: https://www.hipeac.net/2026/krakow/
+- year: 2027
+  start: 2027-01-18
+  end: 2027-01-20
+  location: Scottish Event Campus (SEC), Glasgow, United Kingdom
+  url: https://www.hipeac.net/2027/glasgow/
+  deadlines:
+  - kind: submission
+    date: 2026-06-01
+    label: ACM TACO submission cutoff for an invitation to HiPEAC 2027
+  - kind: notification
+    date: 2026-11-15
+    label: TACO final decision guaranteed by this date for papers submitted before June 1
+sources:
+- https://www.hipeac.net/2027/glasgow/
+- https://www.hipeac.net/2027/glasgow/#/call-for-papers/
+- https://www.hipeac.net/api/v3/events/6822/
+- https://www.hipeac.net/2026/krakow/
+- https://www.hipeac.net/api/v3/events/6816/
+- https://www.hipeac.net/2025/barcelona/
+- https://www.hipeac.net/2024/munich/
+- https://www.hipeac.net/2023/toulouse/
+- https://portal.core.edu.au/conf-ranks/?search=HiPEAC&by=all&source=ICORE2026
+- https://csse.szu.edu.cn/staff/CCF/International_Recommended_Directory.pdf (copy of the CCF 2026 list)
+unverified:
+- CCF rank checked on a university copy of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha);
+  CCF lists it under its older full name, International Conference on High Performance and Embedded Architectures
+  and Compilers (same dblp stream conf/hipeac)
+- Deadline time zone for the TACO cutoff is not stated
+- Workshop and poster calls for HiPEAC 2027 have their own deadlines that are not recorded here
+last_verified: 2026-10-17

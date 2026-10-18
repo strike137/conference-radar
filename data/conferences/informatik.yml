@@ -1,0 +1,71 @@
+id: informatik
+name: INFORMATIK
+full_name: INFORMATIK (Annual Conference of the German Informatics Society, GI-Jahrestagung)
+type: conference
+tier: domestic
+areas: [general]
+region: europe
+language: mixed
+frequency: annual
+organizer: GI (Gesellschaft für Informatik e.V.)
+organizer_country: [europe]
+proceedings: GI Lecture Notes in Informatics (LNI), GI Digital Library
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://informatik2026.gi.de/
+notes:
+- Annual conference of the German Informatics Society (GI), held since 1971; run as the "INFORMATIK FESTIVAL" since 2023
+- Mostly German-language; the scientific program is a set of around 40 to 50 workshops, each with its own call for papers
+- Workshop papers go through ConfTool and appear open access (CC BY-SA 4.0, with DOI) in the LNI series in the GI Digital Library
+- Not every workshop offers publication in the proceedings, and some workshops set their own deadlines
+- "Held at a different German host each year (Potsdam 2025, Dresden 2026, Berlin 2027); KI (German AI conference) and #SKILL are partner conferences"
+- About 1,000 participants in 2025 according to the 2026 site (the 2025 site reports 700)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-25
+  location: Dresden, Germany (TU Dresden)
+  url: https://informatik2026.gi.de/
+  deadlines:
+  - kind: submission
+    date: 2026-05-21
+    label: Workshop papers via ConfTool
+  - kind: camera_ready
+    date: 2026-07-26
+- year: 2027
+  start: 2027-09-21
+  end: 2027-09-24
+  location: Berlin, Germany (HTW Berlin)
+  url: https://informatik2027.gi.de/
+  deadlines:
+  - kind: other
+    date: 2026-12-15
+    label: Workshop proposals (call for participation)
+  - kind: submission
+    date: 2027-05-21
+    label: Workshop papers, hard deadline (soft deadline 2027-05-07)
+  - kind: notification
+    date: 2027-07-01
+    label: Reviews finalized
+  - kind: camera_ready
+    date: 2027-07-12
+    label: Authors (final proceedings deadline 2027-07-26)
+sources:
+- https://informatik2026.gi.de/
+- https://informatik2026.gi.de/Info.html
+- https://informatik2026.gi.de/callforpapers.html
+- https://informatik2025.gi.de/
+- https://informatik2025.gi.de/location
+- https://informatik2027.gi.de/
+- https://informatik2027.gi.de/call-for-participation/teilnahmebedingungen
+- https://informatik2027.gi.de/programm/workshop-faq
+- https://portal.core.edu.au/conf-ranks/?search=INFORMATIK&by=all&source=ICORE2026
+unverified:
+- INFORMATIK 2027 pages disagree on the proceedings deadline (2027-06-14 and 2027-06-16 in the participation terms, 2027-07-12 and 2027-07-26 in the workshop FAQ) and on workshop acceptance (2027-01-15 in the FAQ, 2027-01-29 in the terms)
+- Individual workshop paper deadlines for 2027 not yet published (as of 2026-10-17)
+- INFORMATIK 2025 exact dates not found on the official 2025 site
+last_verified: 2026-10-17

@@ -1,0 +1,56 @@
+id: evalita
+name: EVALITA
+full_name: Evaluation Campaign of Natural Language Processing and Speech Tools for Italian
+type: workshop
+tier: minor
+areas: [nlp]
+region: europe
+frequency: irregular
+organizer: AILC (Italian Association of Computational Linguistics), endorsed by AI*IA and AISV
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+typical:
+  conference_months: [2, 9, 12]
+links:
+  website: https://www.evalita.it/
+notes:
+- Periodic shared evaluation campaign for NLP and speech tools for Italian, run since 2007 as an AILC initiative
+- Each campaign is a set of shared tasks; participants submit system description papers, task organizers write
+  overview papers, and everything is presented at a final workshop in Italy
+- Held every two to three years (Turin 2018, online 2020, Parma 2023, Bari 2026)
+- Proceedings in CEUR-WS (2023 -> Vol-3473, 2026 -> Vol-4195)
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2023
+  start: 2023-09-07
+  end: 2023-09-08
+  location: Parma, Italy
+  url: https://www.evalita.it/campaigns/evalita-2023/
+  deadlines:
+  - kind: submission
+    date: 2023-06-16
+    label: Participant reports due to task organizers (extended from 2023-06-14)
+  - kind: other
+    date: 2023-06-30
+    label: Task organizer reports due to EVALITA chairs (extended from 2023-06-28)
+  - kind: camera_ready
+    date: 2023-07-25
+- year: 2026
+  start: 2026-02-26
+  end: 2026-02-27
+  location: Bari, Italy
+  url: https://www.evalita.it/campaigns/evalita-2026/
+sources:
+- https://www.evalita.it/
+- https://www.evalita.it/campaigns/evalita-2026/
+- https://www.evalita.it/campaigns/evalita-2026/tasks/
+- https://www.evalita.it/campaigns/evalita-2023/important-dates/
+- https://ceur-ws.org/Vol-4195/
+- https://ceur-ws.org/Vol-3473/
+- https://portal.core.edu.au/conf-ranks/?search=EVALITA&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- EVALITA 2026 participant paper deadlines are not posted on the official site (its 2026 dates page still shows
+  the 2020 schedule)
+- Next campaign after 2026 not yet announced
