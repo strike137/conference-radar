@@ -1,0 +1,63 @@
+id: icccm
+name: ICCCM
+full_name: International Conference on Computer and Communications Management
+type: conference
+tier: minor
+areas: [networking, communications]
+region: japan
+language: english
+frequency: annual
+organizer: Conference secretariat with a Japanese host university (Shibaura Institute of Technology in 2026 and 2027)
+proceedings: ACM DL
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://www.icccm.org/
+notes:
+- Smaller conference on computer networks, communications management, IoT and related computing topics, established in 2011
+- Held in Europe and Asia-Pacific in early years; in Japan every year since 2022 (Okayama, Nagoya, Kagoshima, Okinawa, Tokyo); 2021 online
+- Proceedings 2019 to 2025 in the ACM Digital Library, indexed by EI Compendex and Scopus per the site
+- Double-blind review per the site; hybrid format with online sessions
+- Abstract-only presentation is possible without publication
+- About 40 attendees in 2025 per the history page
+- Run by a conference secretariat (hotmail contact) with Japanese host universities
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-24
+  end: 2026-07-26
+  location: Tokyo, Japan
+  url: https://www.icccm.org/2026.html
+- year: 2027
+  start: 2027-07-09
+  end: 2027-07-11
+  location: Tokyo, Japan
+  url: https://www.icccm.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+  - kind: notification
+    date: 2027-02-15
+  - kind: other
+    date: 2027-02-28
+    label: Registration
+sources:
+- https://www.icccm.org/
+- https://www.icccm.org/sub.html
+- https://www.icccm.org/pub.html
+- https://www.icccm.org/2026.html
+- https://www.icccm.org/2025.html
+- https://www.icccm.org/2024.html
+- https://www.icccm.org/2023.html
+- https://www.icccm.org/2022.html
+- https://www.icccm.org/2021.html
+- https://portal.core.edu.au/conf-ranks/?search=ICCCM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Not found in CORE ICORE2026 by acronym or full name
+- The 2027 site says only "Conference Proceedings"; ACM DL publication for 2026 and 2027 not stated yet
+- Organizing company and its country not named on the site, so organizer_country is left out
+- ICCCM 2026 deadlines no longer on the site

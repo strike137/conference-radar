@@ -1,0 +1,59 @@
+id: tag-ds
+name: TAG-DS
+full_name: Conference on Topology, Algebra, and Geometry in Data Science
+type: conference
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: TAG in Data Science (TAG-DS) organizing committee
+organizer_country: [usa]
+proceedings: PMLR (full archival paper track)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [8, 12]
+links:
+  website: https://www.tagds.com/
+notes:
+- Grew out of the TAG workshop series at ICML, ICCV, CVPR and the Joint Math Meetings (2021-2023); stand-alone conference since 2025
+- 1st edition at UC San Diego in December 2025 aligned with NeurIPS; 2nd edition at Northeastern University, Boston, in August 2026
+- Focus on topology, algebra, geometry and symmetry methods for machine learning and data science
+- "Three tracks: full archival papers (8 pages, PMLR), non-archival extended abstracts (4 pages) and open-problem/conjecture papers (3 pages)"
+- Submissions through OpenReview; also hosts a Topological Deep Learning challenge
+- Proceedings in PMLR volume 321 (2025) and volume 334 (2026)
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-02
+  location: San Diego, California, USA
+  url: https://www.tagds.com/events/tag-ds-2025
+- year: 2026
+  start: 2026-08-18
+  end: 2026-08-20
+  location: Boston, Massachusetts, USA
+  url: https://www.tagds.com/events/tag-ds-2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    tz: AoE
+    label: All tracks (extended from 2026-06-12)
+  - kind: notification
+    date: 2026-07-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-03
+    tz: AoE
+sources:
+- https://www.tagds.com/
+- https://www.tagds.com/events/tag-ds-2026
+- https://www.tagds.com/events/tag-ds-2025
+- https://proceedings.mlr.press/v321/
+- https://proceedings.mlr.press/v334/
+- https://portal.core.edu.au/conf-ranks/?search=TAG-DS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- TAG-DS 2025 submission deadlines are not listed on the official page
+- TAG-DS 2027 dates and location not yet announced
+- Not found in ICORE2026 or the CCF list

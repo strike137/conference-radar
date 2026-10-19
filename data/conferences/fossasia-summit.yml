@@ -1,0 +1,54 @@
+id: fossasia-summit
+name: FOSSASIA Summit
+full_name: FOSSASIA Summit
+type: industry
+tier: minor
+areas: [software, systems, ai, security]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: FOSSASIA
+organizer_country: [singapore]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [3, 4]
+links:
+  website: https://summit.fossasia.org/
+notes:
+- Open source and open technology conference run since 2009 by FOSSASIA, the Asian open tech community behind
+  eventyay
+- Talks, workshops and project showcases selected through a call for speakers; no proceedings
+- Held in Singapore through 2023, Hanoi in 2024, and Bangkok (True Digital Park) from 2025
+- 2027 tracks include AI, cloud and DevOps, cybersecurity, databases, observability and open source ecosystems
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-03-08
+  end: 2026-03-10
+  location: Bangkok, Thailand (True Digital Park West)
+  url: https://eventyay.com/e/88882f3e
+- year: 2027
+  start: 2027-03-07
+  end: 2027-03-09
+  location: Bangkok, Thailand
+  url: https://eventyay.com/fossasia/summit2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    time: "23:59"
+    tz: UTC+7
+    label: Call for Speakers
+  - kind: notification
+    date: 2026-12-22
+    label: Final announcement (rolling acceptance before)
+sources:
+- https://summit.fossasia.org/
+- https://eventyay.com/fossasia/summit2027
+- https://eventyay.com/fossasia/summit2027/cfp
+- https://api.eventyay.com/v1/events/88882f3e
+- https://api.eventyay.com/v1/events/4c0e0c27
+- https://fossasia.org/
+- https://portal.core.edu.au/conf-ranks/?search=FOSSASIA&by=all&source=ICORE2026
+last_verified: 2026-10-17

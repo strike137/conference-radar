@@ -1,0 +1,66 @@
+id: legal-cald-pseudo
+name: LEGAL / CALD-pseudo
+full_name: Joint Workshop on Legal and Ethical Issues in Human Language Technologies and Computational Approaches to Language Data Pseudonymization, Anonymization, De-identification, and Data Privacy
+type: workshop
+tier: minor
+areas: [nlp, security]
+region: europe
+language: english
+frequency: biennial
+organizer: LEGAL organizers (OVGU Magdeburg, ELRA/ELDA, IDS Mannheim) and CALD-pseudo organizers (University of Gothenburg and others); co-located with LREC
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5]
+links:
+  website: https://legal2026.mobileds.de/
+notes:
+- Workshop on legal and ethical issues of language data (GDPR, Data Act, AI Act, copyright) and on anonymization and pseudonymization of text and speech data
+- LEGAL runs with LREC every two years (LREC 2022 Marseille, LREC-COLING 2024 Turin, LREC 2026 Palma); in 2026 it was held jointly with CALD-pseudo
+- Long papers up to 8 pages, short papers up to 4 pages; extended abstracts allowed for legal, ethical or policy papers
+- Papers published in the LREC workshop proceedings and the ACL Anthology
+- Not listed in CORE ICORE2026
+editions:
+- year: 2024
+  label: LEGAL2024, with LREC-COLING 2024
+  start: 2024-05-20
+  end: 2024-05-20
+  location: Turin, Italy
+  url: https://legal2024.mobileds.de/
+  deadlines:
+  - kind: abstract
+    date: 2024-03-04
+    label: Extended abstracts
+  - kind: notification
+    date: 2024-03-30
+  - kind: camera_ready
+    date: 2024-04-05
+- year: 2026
+  label: LEGAL2026 and CALD-pseudo 2026, with LREC 2026
+  start: 2026-05-12
+  end: 2026-05-12
+  location: Palma de Mallorca, Spain
+  url: https://legal2026.mobileds.de/
+  deadlines:
+  - kind: submission
+    date: 2026-02-22
+    time: "23:59"
+    tz: CET
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-03-16
+  - kind: camera_ready
+    date: 2026-03-30
+sources:
+- https://legal2026.mobileds.de/
+- https://legal2024.mobileds.de/
+- https://lrec2026.info/accepted-workshops/
+- https://aclanthology.org/venues/legal/
+- https://aclanthology.org/volumes/2026.legal-1/
+- https://portal.core.edu.au/conf-ranks/?search=Legal+and+Ethical&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- LEGAL 2028 not announced yet (expected with LREC 2028)
+- Whether CALD-pseudo will again be held jointly with LEGAL

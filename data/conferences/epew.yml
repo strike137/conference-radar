@@ -1,0 +1,85 @@
+id: epew
+name: EPEW
+full_name: European Performance Engineering Workshop
+type: workshop
+tier: minor
+areas: [systems, networking, software]
+region: europe
+language: english
+frequency: annual
+organizer: EPEW organizing committee (co-located with the ECMS conference of SCS Europe since 2025)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://epew-workshop.github.io/
+notes:
+- Annual European workshop on performance modelling and evaluation (queueing networks, Petri nets, stochastic
+  models, simulation, benchmarking, QoS and dependability); first edition 2004
+- Proceedings in Springer LNCS under the title "Computer Performance Engineering"
+- 2024 and 2025 used a two-phase process with short papers presented at the workshop and full papers published
+  later as LNCS post-proceedings (revised selected papers); 2026 went back to full papers of up to 15 pages in
+  the LNCS proceedings
+- Co-located with ACM SIGMETRICS / IFIP Performance in 2024 (Venice) and with ECMS since 2025 (Catania 2025,
+  Grimstad 2026, Budapest 2027)
+- One-day event; submission via EasyChair; deadlines are AoE
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-06-26
+  end: 2025-06-26
+  location: Catania, Italy
+  url: https://epew-workshop.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-29
+    tz: AoE
+    label: Short papers (extended from 2025-04-01)
+  - kind: notification
+    date: 2025-05-22
+    tz: AoE
+    label: Short papers (extended from 2025-05-15)
+  - kind: other
+    date: 2025-09-18
+    tz: AoE
+    label: Full papers for post-proceedings (extended from 2025-07-31)
+  - kind: other
+    date: 2025-09-30
+    tz: AoE
+    label: Post-proceedings notification
+- year: 2026
+  start: 2026-06-25
+  end: 2026-06-25
+  location: Grimstad, Norway
+  url: https://epew-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-10
+    tz: AoE
+    label: Extended (originally 2026-02-01)
+  - kind: notification
+    date: 2026-04-05
+    tz: AoE
+    label: Extended (originally 2026-03-15)
+- year: 2027
+  start: 2027-06-22
+  end: 2027-06-25
+  location: Budapest, Hungary
+  url: https://epew-workshop.github.io/
+sources:
+- https://epew-workshop.github.io/
+- https://epew-workshop.github.io/previous-editions/
+- https://epew-workshop.github.io/2026/
+- https://epew-workshop.github.io/2025/
+- https://epew-workshop.github.io/2024/
+- https://link.springer.com/book/10.1007/978-3-032-29105-9
+- https://link.springer.com/book/10.1007/978-3-032-16345-5
+- https://portal.core.edu.au/conf-ranks/?search=EPEW&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- EPEW 2027 important dates are TBD; June 22 to 25 is the span of the co-located ECMS 2027, the workshop day is
+  not stated yet
+- Springer gives EPEW 2026 as June 24 to 26 (ECMS span); the EPEW site gives June 25

@@ -1,0 +1,90 @@
+id: vmv
+name: VMV
+full_name: International Symposium on Vision, Modeling, and Visualization
+type: conference
+tier: minor
+areas: [vision, general]
+region: europe
+language: english
+frequency: annual
+organizer: GI Fachbereich Graphische Datenverarbeitung (German Informatics Society), in cooperation with Eurographics
+organizer_country: [europe]
+proceedings: Eurographics Digital Library
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://www.gcpr-vmv.de/year/2026
+notes:
+- Annual symposium of the German computer graphics and visualization community (GI Fachbereich Graphische Datenverarbeitung), covering graphics, vision, visualization and visual analytics
+- Proceedings published in cooperation with Eurographics and archived in the EG Digital Library; selected papers invited to extend for Computer Graphics Forum
+- Papers up to 8 pages in EG style, double-blind review via SRM; non-archival Nectar Track for recently published work
+- Held in Germany almost every year (Braunschweig 2023, Munich 2024, Erlangen 2025, Siegen 2026); joint with GCPR in some years (2022, 2024, 2026)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-09-29
+  end: 2025-10-01
+  location: Erlangen, Germany
+  url: https://vmv2025.fau.de/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-28
+    time: "23:59"
+    tz: UTC
+    label: Extended from 2025-06-25
+  - kind: submission
+    date: 2025-07-01
+    time: "23:59"
+    tz: UTC
+    label: Extended from 2025-06-28
+  - kind: notification
+    date: 2025-08-12
+    time: "23:59"
+    tz: UTC
+  - kind: camera_ready
+    date: 2025-09-02
+    time: "23:59"
+    tz: UTC
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-25
+  location: Siegen, Germany (joint with GCPR)
+  url: https://www.gcpr-vmv.de/year/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-06-23
+    time: "23:59"
+    tz: CEST
+    label: Paper registration (extended from 2026-06-16)
+  - kind: submission
+    date: 2026-06-23
+    time: "23:59"
+    tz: CEST
+    label: Extended from 2026-06-19
+  - kind: notification
+    date: 2026-08-04
+    time: "23:59"
+    tz: CEST
+  - kind: camera_ready
+    date: 2026-08-28
+    time: "23:59"
+    tz: CEST
+  - kind: other
+    date: 2026-08-04
+    time: "23:59"
+    tz: CEST
+    label: Nectar Track proposals
+sources:
+- https://vmv2025.fau.de/
+- https://vmv2025.fau.de/call-for-papers/
+- https://vmv2025.fau.de/previous-years/
+- https://www.gcpr-vmv.de/year/2026
+- https://www.gcpr-vmv.de/year/2026/vmv/dates
+- https://www.gcpr-vmv.de/year/2026/vmv/call-for-papers
+- https://www.gcpr-vmv.de/year/2026/vmv/proceedings
+- https://portal.core.edu.au/conf-ranks/?search=VMV&by=all&source=ICORE2026
+unverified:
+- VMV 2027 location, dates and deadlines not yet announced as of 2026-10-17
+last_verified: 2026-10-17

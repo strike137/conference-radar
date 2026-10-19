@@ -1,0 +1,78 @@
+id: sca
+name: SCA
+full_name: ACM SIGGRAPH/Eurographics Symposium on Computer Animation
+type: conference
+tier: major
+areas: [vision, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGGRAPH and Eurographics
+organizer_country: [international]
+proceedings: Computer Graphics Forum (full papers); Eurographics Digital Library (poster abstracts)
+archival: true
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [4]
+  conference_months: [7, 8]
+links:
+  website: https://computeranimation.org/
+  dblp: https://dblp.org/db/conf/sca/
+notes:
+- Premier specialist forum for computer animation and simulation (physics, fluids, cloth, characters, motion learning), single track
+- Joint ACM SIGGRAPH and Eurographics symposium; accepted full papers are published in the journal Computer Graphics Forum
+- Two-cycle review with a rebuttal; dual-anonymous, no strict page limit (about 10 pages recommended)
+- Poster abstracts (2 pages, single-blind) appear in the Eurographics Digital Library
+- Rotates worldwide (Durham 2022, Los Angeles 2023, Montreal 2024, Vancouver 2025, Barcelona 2026); online 2020 and 2021
+- ICORE2026 rank B; CCF B (computer graphics and multimedia)
+- Not to be confused with SupercomputingAsia (also abbreviated SCA)
+editions:
+- year: 2026
+  start: 2026-07-08
+  end: 2026-07-10
+  location: Barcelona, Spain
+  url: https://computeranimation.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-10
+    time: "23:59"
+    tz: UTC
+  - kind: submission
+    date: 2026-04-17
+    time: "23:59"
+    tz: UTC
+  - kind: notification
+    date: 2026-05-29
+    label: Provisional paper notification
+  - kind: other
+    date: 2026-06-01
+    time: "23:59"
+    tz: UTC
+    label: Poster submissions
+  - kind: other
+    date: 2026-06-10
+    label: Revised paper deadline
+  - kind: notification
+    date: 2026-06-12
+    label: Journal notification
+  - kind: camera_ready
+    date: 2026-06-17
+sources:
+- https://computeranimation.org/
+- https://computeranimation.org/instructions.html
+- https://computeranimation.org/deadline_table.js
+- https://computeranimation.org/program.html
+- https://computeranimation.org/2022/
+- https://computeranimation.org/2023/
+- https://computeranimation.org/2024/
+- https://computeranimation.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=SCA&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+- https://github.com/ccfddl/ccf-deadlines (CCF list mirror)
+unverified:
+- SCA 2027 not yet announced
+- The 2026 call for papers text says first-round acceptance is announced on June 16th, which conflicts with the date table (provisional notification May 29); the table dates are used
+- CCF rank checked via the CCFrank4dblp and ccfddl mirrors, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-17

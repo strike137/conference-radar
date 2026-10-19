@@ -1,0 +1,64 @@
+id: pycon-tw
+name: PyCon TW
+full_name: PyCon Taiwan
+type: industry
+tier: minor
+areas: [software, ai]
+region: taiwan
+language: mixed
+frequency: annual
+organizer: PyCon Taiwan organizing team (volunteers)
+organizer_country: [taiwan]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [4, 6]
+  conference_months: [9, 10]
+links:
+  website: https://tw.pycon.org/
+notes:
+- Annual community conference for the Python programming language in Taiwan, held since 2012 and run by volunteers
+- Talks of 15, 30 or 45 minutes and 1.5 hour tutorials chosen from a call for proposals with two review stages and a revision step
+- Also has keynotes, a poster session, lightning talks, Young Inspires, open spaces, job listings and sprints
+- Talks are recorded and uploaded to YouTube; no proceedings
+- Usually held in Taipei; Tainan in 2020 and Kaohsiung in 2024
+- 'Past venues: Academia Sinica 2023, Kaohsiung 2024, Taipei New Horizon 2025, Taipei Medical University 2026'
+editions:
+- year: 2025
+  start: 2025-09-06
+  end: 2025-09-07
+  location: Taipei New Horizon, Taipei, Taiwan
+  url: https://tw.pycon.org/2025/en-us
+  deadlines:
+  - kind: submission
+    date: 2025-04-05
+    time: "23:59"
+    tz: AoE
+    label: Talks and tutorials CFP
+  - kind: notification
+    date: 2025-06-14
+- year: 2026
+  start: 2026-10-17
+  end: 2026-10-18
+  location: Taipei Medical University, Taipei, Taiwan
+  url: https://tw.pycon.org/2026/en-us
+  deadlines:
+  - kind: submission
+    date: 2026-06-01
+    time: "23:59"
+    tz: AoE
+    label: Talks and tutorials CFP
+  - kind: notification
+    date: 2026-08-02
+sources:
+- https://tw.pycon.org/2026/en-us
+- https://tw.pycon.org/2026/en-us/speaking/cfp
+- https://tw.pycon.org/2026/en-us/venue
+- https://tw.pycon.org/2026/en-us/about/history
+- https://tw.pycon.org/2025/en-us/speaking/cfp
+- https://tw.pycon.org/2025/en-us/registration/tickets
+- https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
+unverified:
+- PyCon Taiwan 2027 dates and venue not yet announced
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

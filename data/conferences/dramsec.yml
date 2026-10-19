@@ -1,0 +1,55 @@
+id: dramsec
+name: DRAMSec
+full_name: Workshop on DRAM Security
+type: workshop
+tier: minor
+areas: [security, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Steering committee from ETH Zurich (SAFARI group, Onur Mutlu and Kaveh Razavi), NVIDIA, Microsoft and
+  Georgia Tech; 2026 chairs Yuval Yarom (Ruhr University Bochum) and Steven Woo (Rambus)
+organizer_country: [europe, usa]
+proceedings: Workshop website (PDFs of accepted papers, non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [6]
+links:
+  website: https://dramsec.ethz.ch/
+notes:
+- Full-day workshop co-located with ISCA every year since 2021 (6th edition in 2026)
+- Topics are attacks and defenses on DRAM such as RowHammer, RowPress and ColumnDisturb, plus tools for testing DRAM security
+- Short papers of at most 5 pages excluding references; double-blind review via HotCRP
+- No published proceedings; accepted papers are posted on the workshop site so authors can extend them later
+- Strong industry participation (NVIDIA, Microsoft, Rambus, Micron, Intel) on the committees
+- Hybrid; livestreamed to registered remote ISCA attendees
+editions:
+- year: 2026
+  start: 2026-06-28
+  end: 2026-06-28
+  location: Raleigh, USA
+  url: https://dramsec.ethz.ch/
+  deadlines:
+  - kind: submission
+    date: 2026-05-12
+    tz: AoE
+    label: Paper submission (extended from 2026-05-05)
+  - kind: notification
+    date: 2026-06-01
+    label: Notification (moved from 2026-05-28)
+  - kind: camera_ready
+    date: 2026-06-14
+sources:
+- https://dramsec.ethz.ch/
+- https://dramsec.ethz.ch/cfp.html
+- https://dramsec.ethz.ch/2025.html
+- https://dramsec.ethz.ch/2024.html
+- https://dramsec.ethz.ch/2023.html
+- https://www.iscaconf.org/isca2026/
+- https://portal.core.edu.au/conf-ranks/?search=DRAMSec&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- DRAMSec 2027 not announced as of 2026-10-17
+- Region judged from ISCA host cities (2021 online, 2022 New York, 2023 Orlando, 2024 Buenos Aires, 2025 Tokyo, 2026 Raleigh), which the workshop pages do not list themselves
+- Not listed in ICORE2026 or the CCF 2026 list

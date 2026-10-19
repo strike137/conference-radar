@@ -1,0 +1,110 @@
+id: ukicer
+name: UKICER
+full_name: United Kingdom and Ireland Computing Education Research Conference
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: ACM SIGCSE UK and Ireland chapters
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9]
+links:
+  website: https://www.ukicer.com/
+notes:
+- Computing education research conference of the two ACM SIGCSE chapters for the UK and Ireland, running since 2019
+- Proceedings in the ACM Digital Library; ACM Open applies, otherwise an APC is charged
+- Research papers up to 6 pages plus references in ACM double-column format, double-blind review
+- Also has posters, a doctoral consortium, critical research review, workshops and RIPPA (research in practice) sessions
+- Two-day meeting in early September hosted by a different UK or Irish university each year (Dublin 2022, Swansea 2023, Manchester 2024, Edinburgh 2025, Cambridge 2026)
+- "Registration fee: 225 GBP early bird and 325 GBP regular for chapter members, 335 and 435 GBP for non-members (2026)"
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-04
+  end: 2025-09-05
+  location: Edinburgh, UK
+  url: https://www.ukicer.com/2025/index.html
+  deadlines:
+  - kind: abstract
+    date: 2025-05-12
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2025-05-19
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2025-06-17
+    label: Research papers
+  - kind: submission
+    date: 2025-06-24
+    time: "23:59"
+    tz: AoE
+    label: Posters
+  - kind: camera_ready
+    date: 2025-07-17
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+- year: 2026
+  start: 2026-09-03
+  end: 2026-09-04
+  location: Cambridge, UK
+  url: https://www.ukicer.com/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-13
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-04-21
+    time: "23:59"
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-05-11
+    time: "23:59"
+    tz: AoE
+    label: Doctoral consortium, critical research review, workshops, RIPPA
+  - kind: notification
+    date: 2026-06-02
+    label: Research papers
+  - kind: submission
+    date: 2026-06-23
+    time: "23:59"
+    tz: AoE
+    label: Posters
+  - kind: camera_ready
+    date: 2026-07-17
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.ukicer.com/
+- https://www.ukicer.com/info/dates.html
+- https://www.ukicer.com/info/author-info/call-for-papers.html
+- https://www.ukicer.com/info/registration.html
+- https://www.ukicer.com/info/programme.html
+- https://www.ukicer.com/info/committees.html
+- https://www.ukicer.com/2025/index.html
+- https://www.ukicer.com/2024/index.html
+- https://www.ukicer.com/2023/index.html
+- https://www.ukicer.com/2022/index.html
+- https://dl.acm.org/doi/proceedings/10.1145/3830800
+- https://portal.core.edu.au/conf-ranks/?search=UKICER&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+last_verified: 2026-10-17
+unverified:
+- UKICER 2027 host and dates not announced on the official site as of 2026-10-17
+- The 2025 dates page gives deadlines as weekday and day without the year; the year is taken from the 2025 edition page
+- Acceptance rate not published on the official site
+- Whether the proceedings are part of the ACM ICPS series is not stated on the official site
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly

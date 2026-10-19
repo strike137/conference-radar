@@ -1,0 +1,49 @@
+id: gi-workshop
+name: GI
+full_name: International Workshop on Genetic Improvement
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: GI workshop chairs, co-located with ICSE (with GECCO in 2022)
+organizer_country: [international]
+proceedings: ACM DL (own workshop proceedings volume, ICSE workshops)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://geneticimprovementofsoftware.com/events/icse2026
+notes:
+- Workshop on genetic improvement of software (search-based and LLM-based program repair and optimisation); describes itself as the premier workshop in the field
+- Mostly co-located with ICSE (2021, 2023 Melbourne, 2024 Lisbon, 2025 Ottawa, 2026 Rio de Janeiro); held with GECCO in 2022
+- Research papers up to 8 pages, position papers up to 2, extended abstracts up to 5 (APC free), all including references, ACM format
+- 2026 proceedings published in the ACM Digital Library as "Proceedings of the 14th International Workshop on Genetic Improvement" (the workshop site counts it as the 15th)
+- Small workshop with keynote, mini tutorial and a handful of papers; best paper and best presentation awards
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-13
+  location: Rio de Janeiro, Brazil
+  url: https://geneticimprovementofsoftware.com/events/icse2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-27
+    label: Extended
+  - kind: notification
+    date: 2025-11-24
+  - kind: camera_ready
+    date: 2026-01-26
+sources:
+- https://geneticimprovementofsoftware.com/events/icse2026
+- https://conf.researchr.org/home/icse-2026/gi-2026
+- https://conf.researchr.org/series/gi
+- https://doi.org/10.1145/3786162.3793232
+- https://portal.core.edu.au/conf-ranks/?search=GI&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- GI 2027 not announced yet (not among the ICSE 2027 workshops listed as of 2026-10-17)
+- Acceptance rate not found on an official page

@@ -1,0 +1,81 @@
+id: arob
+name: AROB
+full_name: International Symposium on Artificial Life and Robotics
+type: conference
+tier: minor
+areas: [ai, systems]
+region: japan
+language: english
+frequency: annual
+organizer: ISAROB (International Society of Artificial Life and Robotics)
+organizer_country: [japan]
+proceedings: None (participants only); Journal Track papers published in the Springer journal Artificial Life and
+  Robotics
+archival: false
+rank:
+  core: C
+fee: 40,000 JPY regular, 20,000 JPY student (early, 2026 rates; 2027 fees not yet announced)
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: https://isarob.org/symposium/
+notes:
+- Founded in 1996 with support from the Japanese Ministry of Education; held every January at B-Con Plaza, Beppu,
+  Oita (only 2000 Oita, 2001 Tokyo, 2013 Daejeon and 2021 online elsewhere)
+- Recent editions run jointly as AROB-ISBC (with the International Symposium on BioComplexity, plus SWARM in
+  2022 to 2024)
+- Separate event from ICAROB, which is run by ALife Robotics Co. and also meets in Oita in January
+- Abstract (400 to 600 words) reviewed first, then a camera ready paper; online proceedings are password
+  protected for that year's participants
+- Optional Journal Track (full paper, max 12 pages, deadline end of August) for publication in the journal
+  Artificial Life and Robotics
+- Co-sponsored by SICE, ISCIE, JSST and IEEJ; presentations in person except approved overseas organized session
+  speakers
+editions:
+- year: 2026
+  label: AROB-ISBC 2026 (31st AROB)
+  start: 2026-01-21
+  end: 2026-01-23
+  location: B-Con Plaza, Beppu, Japan
+  url: https://isarob.org/symposium/past_events
+- year: 2027
+  label: 32nd AROB
+  start: 2027-01-19
+  end: 2027-01-22
+  location: B-Con Plaza, Beppu, Japan
+  url: https://isarob.org/symposium/
+  deadlines:
+  - kind: other
+    date: 2026-08-31
+    time: "23:59"
+    tz: UTC
+    label: Journal Track full paper
+  - kind: other
+    date: 2026-10-21
+    time: "23:59"
+    tz: UTC
+    label: Organized session proposal
+  - kind: submission
+    date: 2026-10-28
+    time: "23:59"
+    tz: UTC
+    label: Abstract for review
+  - kind: notification
+    date: 2026-11-11
+  - kind: camera_ready
+    date: 2026-12-23
+    time: "23:59"
+    tz: UTC
+sources:
+- https://isarob.org/symposium/
+- https://isarob.org/symposium/submission_guidelines
+- https://isarob.org/symposium/registration
+- https://isarob.org/symposium/past_events
+- https://isarob.org/symposium/past_proceedings
+- https://isarob.org/symposium/committees
+- https://portal.core.edu.au/conf-ranks/?search=AROB&by=all&source=ICORE2026
+unverified:
+- Deadlines are stated as 24:00 UTC, recorded as 23:59 UTC
+- Not listed in the CCF 2026 list; acceptance rate not published
+last_verified: 2026-10-17

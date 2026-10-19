@@ -1,0 +1,51 @@
+id: mula
+name: MULA
+full_name: Multimodal Learning and Applications Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers from IIT Genoa, University of Trento, University of Bath, University
+  of Tuebingen, Leibniz University Hannover and University of Twente); co-located with CVPR
+organizer_country: [europe]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://mula-workshop.github.io/
+notes:
+- CVPR workshop on multimodal learning (vision with audio, depth, LiDAR, text, thermal and other sensors), cross-modal learning
+  and vision and language
+- First edition at ECCV 2018, held with CVPR every year since 2019; the 2026 edition was the 9th
+- Papers up to 8 pages in CVPR format, double-blind review by at least two reviewers, submitted through Microsoft CMT
+- Accepted papers go into the CVPR workshop proceedings (15 papers in 2026, 17 in 2025 on CVF Open Access)
+- Deadlines are AoE
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 9th edition, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA
+  url: https://mula-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-09
+    tz: AoE
+  - kind: notification
+    date: 2026-03-24
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-05
+sources:
+- https://mula-workshop.github.io/
+- https://openaccess.thecvf.com/CVPR2026_workshops/MULA2026
+- https://openaccess.thecvf.com/CVPR2025_workshops/MULA2025
+- https://portal.core.edu.au/conf-ranks/?search=MULA&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Next edition (MULA 2027) not announced yet

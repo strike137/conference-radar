@@ -1,0 +1,70 @@
+id: safe-ml
+name: SAFE-ML
+full_name: International Workshop on Secure, Accountable, and Verifiable Machine Learning
+type: workshop
+tier: minor
+areas: [security, ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SAFE-ML organizing committee (University of Salerno, University of Bologna), co-located with IEEE ICST
+organizer_country: [europe]
+proceedings: IEEE Xplore (ICST workshop proceedings)
+archival: true
+typical:
+  deadline_months: [1, 3]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/series/safe-ml
+notes:
+- One-day workshop on testing and securing ML systems (privacy, adversarial robustness, poisoning, fairness, unlearning, federated learning security, LLM security), co-located with IEEE ICST
+- Started in 2025; held with ICST in Naples 2025 and Daejeon 2026, so it moves with ICST
+- Full papers up to 8 pages, short papers up to 4 pages and position papers up to 2 pages (IEEE format, excluding references)
+- Accepted papers published in the IEEE Digital Library
+- Chairs from the University of Salerno and the University of Bologna, Italy
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  label: 1st edition, with ICST 2025
+  start: 2025-04-01
+  end: 2025-04-01
+  location: Naples, Italy (co-located with ICST 2025)
+  url: https://conf.researchr.org/home/icst-2025/safe-ml-2025
+  deadlines:
+  - kind: submission
+    date: 2025-01-17
+    tz: AoE
+    label: Extended from 2025-01-10, firm
+  - kind: notification
+    date: 2025-02-03
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-03-08
+    tz: AoE
+- year: 2026
+  label: 2nd edition, with ICST 2026
+  start: 2026-05-22
+  end: 2026-05-22
+  location: Daejeon, South Korea (co-located with ICST 2026)
+  url: https://conf.researchr.org/home/icst-2026/safe-ml-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-06
+    tz: AoE
+  - kind: notification
+    date: 2026-03-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-10
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/icst-2026/safe-ml-2026
+- https://conf.researchr.org/home/icst-2025/safe-ml-2025
+- https://conf.researchr.org/series/safe-ml
+- https://conf.researchr.org/home/icst-2027
+- https://portal.core.edu.au/conf-ranks/?search=SAFE-ML&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2027 edition announced yet; not on the ICST 2027 site as of 2026-10-17
+- Acceptance rate not found on an official page
+- 2025 call text still lists submission 2025-01-10 and notification 2025-02-06; the dates panel on the same page (used here) gives 2025-01-17 (firm) and 2025-02-03

@@ -1,0 +1,61 @@
+id: coine
+name: COINE
+full_name: International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: COINE Steering Committee (co-located with AAMAS)
+organizer_country: [international]
+proceedings: Springer LNAI (post-proceedings)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://coin-workshop.github.io/
+notes:
+- Workshop on norms, organizations, institutions, coordination and ethics in multi-agent systems; started as COIN
+  in 2006 and renamed COINE in 2020 when ethics was added
+- Held at AAMAS every year since 2020, so it follows AAMAS around the world (London 2023, Auckland 2024, Detroit 2025, Paphos 2026)
+- Revised and extended papers appear afterwards in a Springer LNAI post-proceedings volume (volume XVIII is LNAI 16253)
+- Full papers (16 pages), short work in progress papers (10 pages) and blue sky ideas in LNCS format via OpenReview;
+  single-blind review by at least two PC members
+- Papers must be presented at the workshop to be considered for the post-proceedings
+- ICORE2026 rank C; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-25
+  location: Paphos, Cyprus (at AAMAS 2026)
+  url: https://coin-workshop.github.io/coine-2026-paphos/
+  deadlines:
+  - kind: submission
+    date: 2026-02-23
+    tz: AoE
+    label: Extended from February 4 and February 18
+  - kind: notification
+    date: 2026-03-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-17
+    tz: AoE
+  - kind: other
+    date: 2026-07-15
+    tz: AoE
+    label: Revised papers for LNAI post-proceedings
+sources:
+- https://coin-workshop.github.io/
+- https://coin-workshop.github.io/coine_workshop_series.html
+- https://coin-workshop.github.io/coine_book_series.html
+- https://coin-workshop.github.io/coine-2026-paphos/
+- https://coin-workshop.github.io/coine-2026-paphos/paper_submission.html
+- https://coin-workshop.github.io/coine-2026-paphos/proceedings.html
+- https://portal.core.edu.au/conf-ranks/?search=COIN&by=all&source=ICORE2026
+unverified:
+- COINE 2027 (expected at AAMAS 2027) not announced yet
+last_verified: 2026-10-17

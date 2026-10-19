@@ -1,0 +1,72 @@
+id: socta
+name: SoCTA
+full_name: 'International Conference on Soft Computing: Theories and Applications'
+type: conference
+tier: minor
+areas: [ai, general]
+region: south-asia
+language: english
+frequency: annual
+organizer: Hosting Indian institution (2026 -> SVNIT Surat) in association with STEM Research Society
+organizer_country: [india]
+proceedings: Springer LNNS
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://socta.in/
+notes:
+- Annual soft computing conference series running since 2016, held in December at a different Indian institution each year
+- Recent hosts include IIIT Kota (2021, virtual), NIT Jalandhar (2025) and SVNIT Surat (2026)
+- Post-conference proceedings in Springer Lecture Notes in Networks and Systems (LNNS), indexed by Scopus; the 2025 proceedings appeared in three volumes
+- 2026 LNNS proceedings are listed as to be approved by the publisher
+- Hybrid format; review via Microsoft CMT
+- In collaboration with the Research Center for Engineering and Management, Politehnica University of Timisoara
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-27
+  end: 2025-12-29
+  location: Dr B R Ambedkar NIT Jalandhar, Punjab, India (hybrid)
+  url: https://socta.in/socta2025/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2025-09-30
+  - kind: notification
+    date: 2025-10-30
+  - kind: other
+    date: 2025-11-05
+    label: Registration
+  - kind: camera_ready
+    date: 2025-11-15
+- year: 2026
+  start: 2026-12-04
+  end: 2026-12-05
+  location: SVNIT Surat, Gujarat, India (hybrid)
+  url: https://socta.in/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-15
+    label: Paper submission (extended, firm)
+  - kind: notification
+    date: 2026-11-15
+  - kind: other
+    date: 2026-11-15
+    label: Registration
+  - kind: camera_ready
+    date: 2026-11-20
+sources:
+- https://socta.in/
+- https://socta.in/about.php
+- https://socta.in/proceedings.php
+- https://socta.in/socta2025/
+- https://socta.in/socta2025/about.php
+- https://socta.in/socta2021/
+- https://portal.core.edu.au/conf-ranks/?search=SoCTA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Approval of the 2026 proceedings by Springer LNNS (marked to be approved on the official site)

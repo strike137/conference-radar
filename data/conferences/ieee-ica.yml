@@ -1,0 +1,80 @@
+id: ieee-ica
+name: IEEE ICA
+full_name: IEEE International Conference on Agentic AI
+type: conference
+tier: minor
+areas: [ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE (proceedings by IEEE Computer Society CPS); agent research community from Japan, Australia and China
+organizer_country: [japan, australia, china]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://attend.ieee.org/ica-2026
+notes:
+- Agent and multiagent systems venue held since 2016 (Matsue); the 2025 and 2026 editions refocus it on Agentic AI
+  (LLM agents, autonomous workflows, multiagent systems, human-AI collaboration)
+- Rotates around Asia and Oceania -> Kyoto 2021 and 2023, Adelaide 2022, Wollongong 2024, Wuhan 2025, Kumamoto 2026
+- 2026 edition co-located with PRIMA 2026 in Kumamoto with a shared registration system
+- Accepted and presented papers go into proceedings by IEEE Computer Society CPS and are submitted to IEEE Xplore
+- Regular papers up to 6 pages and posters up to 2 pages, double-blind via EasyChair; a final AI Declaration section
+  is mandatory
+- In-person presentation required in 2026 (no hybrid option)
+- "Registration 2026: 139,000 JPY for a non-member author, 89,000 JPY for an IEEE student member author"
+- Not listed in the CORE ICORE2026 portal and not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-05
+  end: 2025-12-07
+  location: Wuhan, China
+  url: https://attend.ieee.org/ica-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-15
+    label: Extended twice from 2025-08-15
+  - kind: notification
+    date: 2025-10-13
+  - kind: camera_ready
+    date: 2025-10-28
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Kumamoto, Japan
+  url: https://attend.ieee.org/ica-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-09-08
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-09-15
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-10-15
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-01
+    time: "23:59"
+    tz: AoE
+sources:
+- https://attend.ieee.org/ica-2026
+- https://attend.ieee.org/ica-2026/important-dates/
+- https://attend.ieee.org/ica-2026/main-track/
+- https://attend.ieee.org/ica-2026/paper-submission/
+- https://attend.ieee.org/ica-2026/organization/
+- https://attend.ieee.org/ica-2026/registration/
+- https://attend.ieee.org/ica-2025/
+- https://attend.ieee.org/ica-2025/important-dates/
+- https://portal.core.edu.au/conf-ranks/?search=Agents&by=all&source=ICORE2026
+unverified:
+- Formal IEEE sponsoring society and steering committee are not named on the site; organizer_country set from
+  the committee spread and host countries (Japan, Australia, China)
+- Proceedings series of editions before 2026 not checked
+last_verified: 2026-10-17

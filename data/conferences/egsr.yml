@@ -1,0 +1,81 @@
+id: egsr
+name: EGSR
+full_name: Eurographics Symposium on Rendering
+type: conference
+tier: major
+areas: [vision, general]
+region: europe
+language: english
+frequency: annual
+organizer: Eurographics, with a rotating local host institution
+organizer_country: [europe]
+proceedings: Computer Graphics Forum (journal papers) and Eurographics Digital Library (conference papers)
+archival: true
+rank:
+  ccf: B
+typical:
+  deadline_months: [4]
+  conference_months: [6, 7]
+links:
+  website: https://egsr2027.usi.ch/
+  dblp: https://dblp.org/db/conf/rt/
+notes:
+- Main specialist venue for rendering research (global illumination, Monte Carlo methods, real-time and neural rendering, appearance), run by Eurographics since the Eurographics Workshop on Rendering began in 1990
+- Accepted research papers are archived in the Eurographics Digital Library; reviewers decide per paper whether it becomes a journal paper in Computer Graphics Forum or a conference paper
+- At least four reviews per research paper, with a rebuttal phase; separate curated Industry/Positions papers track
+- Held in Europe (Delft 2023, London 2024, Copenhagen 2025, Bordeaux 2026, Lugano 2027)
+- Often co-located with High-Performance Graphics (Delft 2023, Copenhagen 2025, Lugano 2027)
+- Not listed in ICORE2026; CCF B (computer graphics and multimedia)
+- The domain egsr.eu is not the conference site; each edition has its own site linked from eg.org
+editions:
+- year: 2026
+  start: 2026-07-01
+  end: 2026-07-03
+  location: Bordeaux, France (University of Bordeaux, Pey-Berland site)
+  url: https://egsr2026.inria.fr/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-08
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-04-15
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-05-15
+    time: "23:59"
+    tz: AoE
+    label: Rebuttals due
+  - kind: notification
+    date: 2026-05-25
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-10
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-14
+    time: "23:59"
+    tz: AoE
+    label: CGF decision notification
+- year: 2027
+  start: 2027-07-05
+  end: 2027-07-07
+  location: Lugano, Switzerland (Universita della Svizzera italiana, USI)
+  url: https://egsr2027.usi.ch/
+sources:
+- https://egsr2026.inria.fr/
+- https://egsr2026.inria.fr/call-for-papers/
+- https://egsr2027.usi.ch/
+- https://www.eg.org/wp/event/the-37th-eurographics-symposium-on-rendering-egsr-2026/
+- https://www.eg.org/wp/event/egsr-2025-eurographics-symposium-on-rendering/
+- https://www.highperformancegraphics.org/2026/web-archive/
+- https://portal.core.edu.au/conf-ranks/?search=EGSR&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+- https://github.com/ccfddl/ccf-deadlines (CCF list mirror)
+unverified:
+- CCF rank checked via the CCFrank4dblp and ccfddl mirrors, not on ccf.org.cn directly (site behind a captcha)
+- EGSR 2027 call for papers and deadlines not yet published
+last_verified: 2026-10-17

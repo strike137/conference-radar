@@ -1,0 +1,88 @@
+id: casa
+name: CASA
+full_name: International Conference on Computer Animation, Social Agents, and Extended Reality
+type: conference
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Computer Graphics Society (CGS), with a rotating local host university
+organizer_country: [international]
+proceedings: Computer Animation and Virtual Worlds journal (Wiley, journal track); Springer LNCS (proceedings track)
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [2, 3, 4]
+  conference_months: [6]
+links:
+  website: https://cgs-network.org/CASAXR26/
+  dblp: https://dblp.org/db/conf/ca/
+notes:
+- Founded in Geneva in 1988 as Computer Animation (CA) by the Computer Graphics Society; formerly International Conference on Computer Animation and Social Agents
+- Renamed CASA-XR (International Conference on Computer Animation, Social Agents, and Extended Reality) from the 2026 edition
+- Two publication routes in 2025 (only the CAVW journal route was announced for 2026), a journal track whose accepted papers appear in a special issue of Computer Animation and Virtual Worlds (Wiley) and a short paper track published in Springer LNCS
+- Rotates worldwide (Limassol 2023, Wuhan 2024, Strasbourg 2025, Geneva 2026, Xi'an 2027); hybrid in 2025 and 2026
+- Not listed in ICORE2026; CCF C (computer graphics and multimedia)
+editions:
+- year: 2025
+  start: 2025-06-02
+  end: 2025-06-04
+  location: Strasbourg, France (hybrid)
+  url: https://casa2025.sciencesconf.org/
+  deadlines:
+  - kind: submission
+    date: 2025-03-08
+    label: CAVW journal track (extended from 2025-02-08)
+  - kind: notification
+    date: 2025-04-08
+    label: CAVW journal track preliminary notification
+  - kind: submission
+    date: 2025-04-14
+    label: LNCS short papers (extended from 2025-04-07)
+  - kind: other
+    date: 2025-04-25
+    label: CAVW revised papers and LNCS camera-ready
+  - kind: notification
+    date: 2025-04-28
+    label: LNCS short papers
+  - kind: notification
+    date: 2025-05-10
+    label: CAVW journal track final notification
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-03
+  location: Geneva, Switzerland (Campus Biotech, University of Geneva and MIRALab; hybrid)
+  url: https://cgs-network.org/CASAXR26/
+  deadlines:
+  - kind: submission
+    date: 2026-02-10
+    label: CAVW special issue
+  - kind: notification
+    date: 2026-03-30
+    label: CAVW special issue preliminary notification
+  - kind: other
+    date: 2026-04-15
+    label: CAVW revised paper submission
+  - kind: notification
+    date: 2026-05-10
+    label: CAVW special issue final notification
+- year: 2027
+  location: Xi'an, China
+  url: https://cgs-network.org/CASAXR26/
+sources:
+- https://casa2025.sciencesconf.org/
+- https://casa2025.sciencesconf.org/page/call_for_short_papers_page?lang=en
+- https://casa2025.sciencesconf.org/page/paper_submission_page_lncs?lang=en
+- https://casa2025.sciencesconf.org/page/past_conferences_page?lang=en
+- https://cgs-network.org/2026/09/30/casaxr26/
+- https://miralab.ch/hello-world/
+- https://cgs-network.org/CASAXR26/index.php/paper-submission/
+- https://link.springer.com/conference/casa
+- https://portal.core.edu.au/conf-ranks/?search=CASA&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+unverified:
+- CASA-XR 2027 is announced for Xi'an, China, in June 2027, but exact dates and deadlines are not yet published
+- CCF rank checked via the CCFrank4dblp mirror of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-10-17

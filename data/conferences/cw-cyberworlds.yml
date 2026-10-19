@@ -1,0 +1,63 @@
+id: cw-cyberworlds
+name: CW
+full_name: International Conference on Cyberworlds
+type: conference
+tier: minor
+areas: [vision, ai, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: CW conference series, with a rotating local host (University of Bradford in 2026)
+organizer_country: [international]
+proceedings: IEEE CPS (IEEE Computer Society Conference Publishing Services)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 12]
+links:
+  website: https://cw26.techconference.ac/
+notes:
+- Annual since 2002 (25th edition in 2026); covers shared virtual worlds, XR, computer graphics, visual computing, AI, human-machine interaction and cybersecurity for cyberworlds
+- Proceedings with all accepted papers published by IEEE Computer Society Conference Publishing Services (CPS)
+- Journal special issues planned in The Visual Computer (Springer) and Advanced Engineering Informatics (Elsevier)
+- Full, short and poster papers through EasyChair; at least one author must register
+- CW 2026 is hosted by the University of Bradford, UK, and run fully online, with optional in-person attendance in Bradford
+- ICORE2026 rank C; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-14
+  end: 2025-10-16
+  location: Jinzhong, Shanxi, China (Taiyuan University of Technology)
+  url: https://cw2025.tyut.edu.cn/
+- year: 2026
+  start: 2026-12-15
+  end: 2026-12-17
+  location: Bradford, UK (fully online, optional attendance in Bradford)
+  url: https://cw26.techconference.ac/
+  deadlines:
+  - kind: submission
+    date: 2026-07-12
+    label: Extended from 2026-06-12
+  - kind: notification
+    date: 2026-08-21
+    label: Moved from 2026-08-07
+  - kind: camera_ready
+    date: 2026-09-11
+  - kind: other
+    date: 2026-09-11
+    label: Author registration
+sources:
+- https://cw26.techconference.ac/
+- https://cw26.techconference.ac/call-for-papers
+- https://cw26.techconference.ac/committee
+- https://cw2025.tyut.edu.cn/
+- https://portal.core.edu.au/conf-ranks/?search=Cyberworlds&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CW editions 2021 to 2024 and their hosts not checked on official pages; region worldwide based on 2025 (China) and 2026 (UK) and the rotating series
+- CW 2025 deadlines not checked on an official page
+- CW 2026 deadline times and time zone not stated
+- CW 2027 not yet announced
+last_verified: 2026-10-17

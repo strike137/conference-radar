@@ -1,0 +1,94 @@
+id: edoc
+name: EDOC
+full_name: International Conference on Enterprise Design, Operations and Computing
+type: conference
+tier: major
+areas: [software, data]
+region: europe
+language: english
+frequency: annual
+organizer: 'EDOC steering committee (2025: INESC-ID and IST, Universidade de Lisboa)'
+organizer_country: [international]
+proceedings: Springer LNCS (post-proceedings, revised selected papers); workshops and forum in Springer LNBIP
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [3, 5]
+  conference_months: [9]
+links:
+  website: https://edocconference.org/
+notes:
+- Formerly the IEEE International Enterprise Distributed Object Computing Conference; CORE still lists it under that name
+- Enterprise architecture, enterprise modeling, business process management, service-oriented and model-driven software engineering
+- Co-located with CBI (International Conference on Business Informatics) in 2024 (Vienna), 2025 (Lisbon) and 2026 (Enschede)
+- Proceedings in Springer LNCS; 2025 used a post-proceedings format (LNCS 16213) where final papers could be extended by one page after the conference
+- 30th edition in 2026 at the University of Twente; papers must follow the FAIR guidelines for artifacts to be published
+- Two submission rounds; first-round papers can be accepted, rejected or invited to resubmit in the second round
+- Full papers up to 15 pages plus bibliography in Springer format
+- 2025 program had 38 full papers across CBI and EDOC
+- ICORE2026 rank B; not in the CCF list
+editions:
+- year: 2026
+  start: 2026-09-15
+  end: 2026-09-18
+  location: Enschede, Netherlands
+  url: https://conf.researchr.org/home/edoc-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-20
+    tz: AoE
+    label: First round
+  - kind: notification
+    date: 2026-04-26
+    label: First round
+  - kind: submission
+    date: 2026-05-22
+    tz: AoE
+    label: Second round
+  - kind: notification
+    date: 2026-07-08
+    label: Second round
+  - kind: camera_ready
+    date: 2026-08-07
+  - kind: other
+    date: 2026-08-07
+    label: Author registration
+- year: 2025
+  start: 2025-09-09
+  end: 2025-09-12
+  location: Lisbon, Portugal
+  url: https://cbi-edoc-2025.inesc-id.pt/
+  deadlines:
+  - kind: submission
+    date: 2025-04-21
+    tz: AoE
+    label: First round
+  - kind: notification
+    date: 2025-05-24
+    label: First round
+  - kind: submission
+    date: 2025-06-19
+    tz: AoE
+    label: Second round (extended from 2025-06-16)
+  - kind: notification
+    date: 2025-07-23
+    label: Second round (was 2025-07-21)
+  - kind: other
+    date: 2025-08-09
+    label: Author registration and early registration
+sources:
+- https://conf.researchr.org/home/edoc-2026
+- https://conf.researchr.org/track/edoc-2026/edoc-2026-papers
+- https://conf.researchr.org/dates/cbi-edoc-2026
+- https://cbi-edoc-2025.inesc-id.pt/
+- https://cbi-edoc-2025.inesc-id.pt/important-dates/
+- https://cbi-edoc-2025.inesc-id.pt/calls/edoc-2025/index.html
+- https://cbi-edoc-2025.inesc-id.pt/organization/
+- https://portal.core.edu.au/conf-ranks/?search=EDOC&by=acronym&source=ICORE2026
+unverified:
+- EDOC 2027 not announced (series site edocconference.org was unreachable when checked)
+- Region judged from recent editions (Vienna 2024, Lisbon 2025, Enschede 2026 and earlier European editions); 2021 to 2023 locations not checked on an official page
+- EDOC 2026 proceedings volume not yet confirmed (CFP says Springer LNCS)
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-10-17

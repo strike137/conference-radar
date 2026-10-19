@@ -1,0 +1,53 @@
+id: boatse
+name: BoatSE
+full_name: International Workshop on Bots and Agents in Software Engineering
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: BoatSE organizing committee (Concordia University, Radboud University), co-located with ICSE
+organizer_country: [international]
+proceedings: ACM DL (own workshop proceedings volume, ICSE workshops)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [4, 5]
+links:
+  website: https://botse.github.io/
+notes:
+- One-day ICSE workshop on bots and LLM-based agents in software engineering; successor of BotSE (International Workshop on Bots in Software Engineering), renamed BoatSE in 2026
+- Held with ICSE since 2019 (no 2024 edition); Melbourne 2023, Ottawa 2025, Rio de Janeiro 2026 (7th edition)
+- Work-in-progress, position and experience papers up to 6 pages plus 1 page of references; extended abstracts up to 5 pages (APC free); ACM format
+- At least three reviewers per submission; program includes keynotes and a panel
+- 2026 proceedings published in the ACM Digital Library as "Proceedings of the 2026 7th International Workshop on Bots and Agents in Software Engineering"
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-13
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/icse-2026/botse-2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-27
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-12-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-26
+    tz: AoE
+sources:
+- https://botse.github.io/
+- https://conf.researchr.org/home/icse-2026/botse-2026
+- https://conf.researchr.org/series/botse
+- https://doi.org/10.1145/3786161
+- https://portal.core.edu.au/conf-ranks/?search=BoatSE&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- BoatSE 2026 notification is 2025-12-01 on the ICSE track page but 2025-11-24 on botse.github.io
+- BoatSE 2027 not announced yet (not among the ICSE 2027 workshops listed as of 2026-10-17)
+- Acceptance rate not found on an official page

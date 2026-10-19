@@ -1,0 +1,63 @@
+id: cimps
+name: CIMPS
+full_name: International Conference on Software Process Improvement
+type: conference
+tier: minor
+areas: [software, ai]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: CIMAT (Centro de Investigación en Matemáticas)
+organizer_country: [other]
+proceedings: Springer book series and IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11]
+links:
+  website: https://cimps.org/
+notes:
+- Annual software engineering conference organized by CIMAT (Mexico) since 2012; 15th edition in 2026
+- Topics include software process improvement, standards and methodologies, knowledge management, AI, quantum software engineering and ICT in education
+- Full papers (10 to 14 pages), industry papers (6 to 8 pages) and posters (4 pages), in English or Spanish
+- Double-blind review by at least two program committee members
+- Accepted English full papers go to a Springer book series (2025 -> Studies in Computational Intelligence) and IEEE format papers are submitted to IEEE Xplore
+- Selected papers can be extended for IEEE Latin America Transactions and Mexican journals for an extra fee
+- Hybrid format; held mostly in Mexico, Lima (Peru) in 2025 and San José (Costa Rica) in 2026
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-15
+  end: 2025-10-17
+  location: Lima, Peru (Pontificia Universidad Católica del Perú)
+  url: https://cimps.org/
+- year: 2026
+  start: 2026-11-18
+  end: 2026-11-20
+  location: CFIA-CIEMI, San José, Costa Rica (hybrid)
+  url: https://cimps.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-23
+    label: Extended (original 2026-07-03)
+  - kind: notification
+    date: 2026-08-31
+    label: Extended (original 2026-08-07)
+  - kind: camera_ready
+    date: 2026-09-11
+  - kind: other
+    date: 2026-09-18
+    label: Registration payment for inclusion in proceedings
+sources:
+- https://cimps.org/
+- https://cimps.org/expertise/call-for-papers/
+- https://cimps.org/about
+- https://cimps.org/books-2025/
+- https://cimps.org/workshops/
+- https://cimps.org/journals/
+- https://portal.core.edu.au/conf-ranks/?search=CIMPS&by=all&source=ICORE2026
+unverified:
+- CIMPS 2025 dates taken from the CIMPS site workshop page (October 15-17) and the about page (Lima, PUCP); no dedicated 2025 page found
+- CIMPS 2025 deadlines
+- The Springer series for the 2026 proceedings is not named on the site
+last_verified: 2026-10-17

@@ -1,0 +1,56 @@
+id: waoa
+name: WAOA
+full_name: Workshop on Approximation and Online Algorithms
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: WAOA Steering Committee (within the ALGO meeting)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://algo-conference.org/2026/waoa/
+  dblp: https://dblp.org/db/conf/waoa/index.html
+notes:
+- Standalone peer-reviewed venue on approximation and online algorithms despite the "Workshop" name; CORE B
+- Held every year as part of ALGO together with ESA, IPEC, ATMOS, ALGOWIN, ALGOCLOUD and WABI, so always in Europe
+- Proceedings published by Springer in LNCS; selected papers may be invited to a special issue of Acta Informatica
+- Submissions up to 10 pages plus appendix; lightweight double-blind review
+- At least one author must register for ALGO, attend onsite and present
+- Steering committee from France, UK, Greece, Germany, Italy and Canada
+editions:
+- year: 2026
+  start: 2026-09-03
+  end: 2026-09-04
+  location: L'Aquila, Italy (ALGO 2026)
+  url: https://algo-conference.org/2026/waoa/
+  deadlines:
+  - kind: submission
+    date: 2026-07-02
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 28
+  - kind: notification
+    date: 2026-08-04
+  - kind: camera_ready
+    date: 2026-08-30
+sources:
+- https://algo-conference.org/2026/waoa/
+- https://algo-conference.org/2026/
+- https://algo-conference.org/2025/waoa/
+- https://algo-conference.org/2024/waoa/
+- https://algo-conference.org/2023/waoa/
+- https://portal.core.edu.au/conf-ranks/?search=WAOA&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+unverified:
+- WAOA 2027 and ALGO 2027 not announced on an official page as of 2026-10-17
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn not checked directly)
+last_verified: 2026-10-17

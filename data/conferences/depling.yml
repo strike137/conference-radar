@@ -1,0 +1,62 @@
+id: depling
+name: Depling
+full_name: International Conference on Dependency Linguistics
+type: conference
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: biennial
+organizer: Conference chairs per edition (2025 -> Eva Hajicova and Sylvain Kahane), held within SyntaxFest (2027 hosted by
+  UFAL, Charles University)
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://depling.org/
+notes:
+- Biennial conference on dependency-based approaches in linguistics and NLP; grew out of the Meaning-Text Theory
+  conferences (2003 to 2013)
+- Part of SyntaxFest since 2019 with IWPT, UDW, QUASY and other events (joint OpenReview submission); 2023 edition
+  was part of GURT in Washington DC
+- Usually held in Europe (Uppsala, Pisa, Paris, Sofia online, Washington DC, Ljubljana)
+- Proceedings in the ACL Anthology (14 papers in 2025); more linguistics oriented than most NLP venues
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-27
+  end: 2025-08-28
+  location: Ljubljana, Slovenia
+  url: https://depling.org/depling2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-22
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-06-02
+  - kind: camera_ready
+    date: 2025-06-16
+- year: 2027
+  start: 2027-08-30
+  end: 2027-09-03
+  location: Prague, Czech Republic
+  url: https://syntaxfest.github.io/syntaxfest27/
+  deadlines: []
+sources:
+- https://depling.org/
+- https://syntaxfest.github.io/
+- https://syntaxfest.github.io/syntaxfest27/
+- https://syntaxfest.github.io/syntaxfest25/
+- https://syntaxfest.github.io/syntaxfest25/cfp_depling.html
+- https://syntaxfest.github.io/syntaxfest25/programme.html
+- https://depling.org/depling2025/
+- https://aclanthology.org/venues/depling/
+- https://portal.core.edu.au/conf-ranks/?search=Depling&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Depling 2027 deadlines are TBA; the 2027 dates are those of the whole SyntaxFest

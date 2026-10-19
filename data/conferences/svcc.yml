@@ -1,0 +1,90 @@
+id: svcc
+name: SVCC
+full_name: Silicon Valley Cybersecurity Conference
+type: conference
+tier: minor
+areas: [security, networking]
+region: north-america
+language: english
+frequency: annual
+organizer: Silicon Valley Cybersecurity Institute (SVCSI), in association with IEEE and IEEE Computer Society
+organizer_country: [usa]
+proceedings: IEEE Xplore (recent editions); Springer CCIS for 2020 to 2022
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [6]
+links:
+  website: https://www.svcc-svcsi.org/
+notes:
+- Run since 2020 by SVCSI, a US nonprofit; technically co-sponsored by the IEEE Computer Society
+- Research track with double-blind review, 8 to 12 pages in IEEE format; separate workshop, poster and industry tracks
+- At least one author must present in person
+- 2021 and 2022 editions virtual (2020 and 2021 listed as San Jose in the Springer proceedings)
+- Mostly held in the San Jose area (San Francisco Airport 2023, Sejong Convention Center in Korea 2024, Silicon Valley
+  2025, San Jose State University 2026, Northeastern University Silicon Valley campus 2027)
+- Co-located hackathon, CTF and tutorials; mixes academic papers with industry talks
+- Small venue; not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-10
+  end: 2026-06-12
+  location: San Jose, USA
+  url: https://www.svcc-svcsi.org/pastconferences
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-23
+  location: San Jose, USA
+  url: https://www.svcc-svcsi.org/
+  deadlines:
+  - kind: other
+    date: 2026-11-30
+    time: "23:59"
+    tz: PST
+    label: Workshop proposals
+  - kind: other
+    date: 2026-12-19
+    time: "23:59"
+    tz: PST
+    label: Industry papers Round 1
+  - kind: submission
+    date: 2027-01-16
+    time: "23:59"
+    tz: PST
+    label: Research papers
+  - kind: other
+    date: 2027-01-20
+    time: "23:59"
+    tz: PST
+    label: Poster papers
+  - kind: notification
+    date: 2027-02-28
+    label: Research papers
+  - kind: other
+    date: 2027-02-27
+    time: "23:59"
+    tz: PST
+    label: Industry papers Round 2
+  - kind: camera_ready
+    date: 2027-03-20
+    label: Research papers
+sources:
+- https://www.svcc-svcsi.org/
+- https://www.svcc-svcsi.org/callforpaper
+- https://www.svcc-svcsi.org/pastconferences
+- https://www.svcc-svcsi.org/_files/ugd/fbc193_d663f920aac149779e88c6701152c2b5.pdf
+- https://www.svcc-svcsi.org/_files/ugd/07396a_75b6a1893af24b89aa2f8eeef1f3218d.pdf
+- https://www.svcc-svcsi.org/_files/ugd/07396a_ae6785f6014f4f5ba45f60562e5e148c.pdf
+- https://www.svcc-svcsi.org/_files/ugd/07396a_375687d203444a47948fb3034767ee9c.pdf
+- https://www.svcsi.org/post/svcc-2026-three-days-of-innovation-collaboration-and-community
+- https://link.springer.com/book/10.1007/978-3-031-24049-2
+- https://www.svcc-svcsi.org/_files/ugd/07396a_fb428206bc004619bd7522875b6d67e0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=SVCC&by=all&source=ICORE2026
+unverified:
+- SVCC 2026 deadlines not recorded (only the 2027 call was online when checked)
+- Exact years in IEEE Xplore not confirmed (past conferences page links three IEEE Xplore volumes and three Springer
+  CCIS volumes for 2020 to 2022)
+- Region kept as north-america although only 2023, 2025 and 2026 of the last six editions were held in person in the USA
+  (2021 and 2022 virtual, 2024 in Korea)
+- Acceptance rate and fees not published yet for 2027
+last_verified: 2026-10-17

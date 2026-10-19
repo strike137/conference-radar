@@ -1,0 +1,56 @@
+id: soda
+name: SODA
+full_name: ACM-SIAM Symposium on Discrete Algorithms
+type: conference
+tier: top
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: SIAM (Society for Industrial and Applied Mathematics) and ACM SIGACT
+organizer_country: [international]
+proceedings: SIAM (Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms)
+archival: true
+rank:
+  core: A*
+  ccf: A
+typical:
+  deadline_months: [7]
+  conference_months: [1]
+links:
+  website: https://www.siam.org/conferences-events/siam-conferences/soda27/
+notes:
+- Jointly sponsored by SIAM and ACM SIGACT; the flagship conference on discrete algorithms and, with STOC and FOCS, one of the main theory venues
+- Proceedings published by SIAM (SODA 2025 and SODA 2026 volumes on SIAM epubs)
+- Submissions through HotCRP with a single deadline in early July; the conference is held in January
+- SODA 2027 is the 38th edition
+- CORE A* (ICORE2026), CCF A
+editions:
+- year: 2026
+  url: https://www.siam.org/conferences-events/siam-conferences/soda26/
+  deadlines:
+  - kind: submission
+    date: 2025-07-15
+    time: "07:59"
+    tz: EDT
+- year: 2027
+  url: https://www.siam.org/conferences-events/siam-conferences/soda27/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    time: "07:59"
+    tz: EDT
+sources:
+- https://www.siam.org/conferences-events/siam-conferences/soda27/
+- https://soda27.hotcrp.com/
+- https://soda27.hotcrp.com/deadlines
+- https://soda26.hotcrp.com/deadlines
+- https://sigact.org/
+- https://api.crossref.org/prefixes/10.1137/works?query.bibliographic=Annual+ACM-SIAM+Symposium+on+Discrete+Algorithms+SODA&filter=from-pub-date:2025
+- https://portal.core.edu.au/conf-ranks/?search=SODA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- SODA 2026 and SODA 2027 conference dates and locations (siam.org blocks direct fetch, so they could not be read from the official page)
+- Notification date and any rebuttal phase for SODA 2027
+- Co-located events (SOSA, ALENEX) and their deadlines
+last_verified: 2026-10-17

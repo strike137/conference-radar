@@ -1,0 +1,57 @@
+id: adkdd
+name: AdKDD
+full_name: "AdKDD: Workshop on Artificial Intelligence for Computational Advertising"
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AdKDD organizers (researchers from eBay, Walmart, Aurora Innovation, Amazon and Spotify)
+organizer_country: [usa]
+proceedings: Springer CCIS (Computational Advertising)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://www.adkdd.org/
+notes:
+- Full-day workshop on computational advertising co-located with ACM SIGKDD (KDD), held in some form since 2007
+- Merged with TargetAd in 2017 and 2018; organized mostly by industry researchers
+- Short papers up to 6 pages including references in ACM format; single-blind review
+- Since 2025 accepted papers are published by Springer in the CCIS volume Computational Advertising; all papers are also archived on the AdKDD website
+- At least one author must attend in person and present; registration is through the main KDD conference only
+- Usually standing room only according to the organizers
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-08-10
+  end: 2026-08-10
+  location: Jeju, Korea
+  url: https://www.adkdd.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-20
+    tz: AoE
+  - kind: notification
+    date: 2026-06-09
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-21
+    tz: AoE
+  - kind: other
+    date: 2026-07-12
+    tz: AoE
+    label: Video submission
+sources:
+- https://www.adkdd.org/
+- https://www.adkdd.org/2026-call-for-papers
+- https://www.adkdd.org/papers
+- https://www.adkdd.org/live-program
+- https://link.springer.com/book/10.1007/978-3-032-16358-5
+- https://portal.core.edu.au/conf-ranks/?search=AdKDD&by=all&source=ICORE2026
+unverified:
+- The 2026 FAQ still mentions planned CEUR proceedings while the call for papers says Springer, as in 2025
+- AdKDD 2027 (expected with KDD 2027) not announced yet
+last_verified: 2026-10-17

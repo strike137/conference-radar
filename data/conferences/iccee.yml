@@ -1,0 +1,70 @@
+id: iccee
+name: ICCEE
+full_name: International Conference on Computer and Electrical Engineering
+type: conference
+tier: minor
+areas: [general, communications]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Commercial conference secretariat (academic.net contact, iconf.org submission system) co-sponsored by the Singapore Institute of Electronics (SIE) and a host university
+organizer_country: [china]
+proceedings: IOS Press ATDE (2025 and 2026); IOP Journal of Physics Conference Series (2017 to 2024)
+archival: true
+indexing: [EI, Scopus]
+fee: 650 USD per full paper (2027, regular; 580 USD student); presentation only 420 USD
+typical:
+  deadline_months: [12]
+  conference_months: [6]
+links:
+  website: https://www.iccee.org/
+notes:
+- Annual since 2008; 2027 is the 20th edition
+- Held worldwide from 2008 to 2019 (Dubai, Paris, Tokyo, Delft, ...); recent onsite editions are in Asia and Oceania (Xi'an 2023, Singapore 2025, Brisbane 2026, Canberra 2027) and 2020 to 2024 are described as virtual on the home page
+- Proceedings in IOS Press Advances in Transdisciplinary Engineering for 2025 and 2026 and in IOP Journal of Physics Conference Series before that, stated as EI Compendex and Scopus indexed
+- The 2027 proceedings publisher is not named on the site
+- "ICCEE 2025: 98 submissions, 57 papers and abstracts accepted, 28 full papers published"
+- Run by a commercial secretariat (+86 phone number); abstract only presentation without publication is also offered
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  label: 19th ICCEE
+  start: 2026-06-24
+  end: 2026-06-26
+  location: Brisbane, Australia
+  url: https://www.iccee.org/iccee2026.html
+- year: 2027
+  label: 20th ICCEE
+  start: 2027-06-23
+  end: 2027-06-25
+  location: University of Canberra, Canberra, Australia
+  url: https://www.iccee.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-12-15
+  - kind: notification
+    date: 2027-01-15
+  - kind: other
+    date: 2027-01-30
+    label: Registration
+  - kind: camera_ready
+    date: 2027-05-20
+sources:
+- https://www.iccee.org/
+- https://www.iccee.org/call-for-papers.html
+- https://www.iccee.org/committee.html
+- https://www.iccee.org/registration.html
+- https://www.iccee.org/contact.html
+- https://www.iccee.org/iccee2026.html
+- https://www.iccee.org/iccee2025.html
+- https://www.iccee.org/iccee2024.html
+- https://www.iccee.org/iccee2023.html
+- https://portal.core.edu.au/conf-ranks/?search=ICCEE&by=all&source=ICORE2026
+- https://api.crossref.org/works/10.3233/ATDE97
+last_verified: 2026-10-17
+unverified:
+- 2023 is described as onsite in Xi'an on its own page but the home page says 2020 to 2024 were virtual
+- The IOS Press page for the 2026 proceedings (DOI 10.3233/ATDE97) was not readable; publisher and series confirmed from Crossref metadata only
+- No deadline time or time zone stated
+- CCF 2026 list not checked directly (ccf.org.cn returned a captcha page)

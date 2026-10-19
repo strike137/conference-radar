@@ -1,0 +1,46 @@
+id: toorcamp
+name: ToorCamp
+full_name: ToorCamp - The American Hacker Camp
+type: industry
+tier: minor
+areas: [security, general]
+region: north-america
+language: english
+frequency: biennial
+organizer: ToorCon
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  conference_months: [6]
+links:
+  website: https://www.toorcamp.org/
+notes:
+- Outdoor hacker camp in the style of the European camps (CCC Camp, HAR), run by the ToorCon team
+- First held in 2009 at the Titan-1 missile silo in Washington State; since 2016 at Doe Bay Resort on Orcas Island, WA
+- Held every two years (2016, 2018, 2022, 2024, 2026)
+- Talks and workshops chosen through a CFP on the ToorCon pretalx site; no proceedings
+- Orcas Island is reached only by Washington State Ferry, so ferry reservations are needed
+editions:
+- year: 2026
+  start: 2026-06-24
+  end: 2026-06-28
+  location: Doe Bay Resort, Orcas Island, Washington, USA
+  url: https://www.toorcamp.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-01
+    label: CFP first round (closes at midnight PDT)
+  - kind: submission
+    date: 2026-05-04
+    time: "23:59"
+    tz: PDT
+    label: CFP final round
+sources:
+- https://www.toorcamp.org/
+- https://talks.toorcon.net/toorcamp-2026/cfp
+- https://portal.core.edu.au/conf-ranks/?search=ToorCamp&by=all&source=ICORE2026
+unverified:
+- Next edition (expected 2028) not announced yet (as of 2026-10-17)
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

@@ -1,0 +1,75 @@
+id: akbc
+name: AKBC
+full_name: Workshop on Automated Knowledge Base Construction
+type: workshop
+tier: minor
+areas: [nlp, data, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: AKBC organizing committee (2026 from University of Amsterdam, UC San Diego, TU Dresden, Telecom Paris, University of Cambridge and UMass Amherst); co-located with EMNLP 2026
+organizer_country: [international]
+proceedings: EMNLP 2026 workshop proceedings
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10]
+links:
+  website: https://www.akbc.ws/2026/
+notes:
+- Started in 2010 (Grenoble); workshop at NAACL, CIKM and NIPS 2012 to 2017, independent conference 2019 to 2022, then a hiatus until the 2026 revival at EMNLP
+- 2026 workshop numbered 11th on its own site and 10th on the EMNLP 2026 workshop page
+- Research papers (8 pages), vision papers (4 pages) and shared task papers (4 pages); double-blind; papers go into the workshop proceedings, so dual submission to other venues with proceedings is not allowed
+- Hosts the LM-KBC shared task (5th edition in 2026) on predicting knowledge base entries from language models
+- "2026 acceptance: 27 of 58 submissions (about 47%)"
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2022
+  label: AKBC 2022 conference
+  start: 2022-11-03
+  end: 2022-11-05
+  location: London, UK (hybrid)
+  url: https://akbc.ws/2022/
+  deadlines:
+  - kind: submission
+    date: 2022-07-10
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2022-08-05
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2022-09-01
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  label: 11th workshop, with EMNLP 2026
+  start: 2026-10-28
+  end: 2026-10-28
+  location: Budapest, Hungary
+  url: https://www.akbc.ws/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-27
+    label: Direct submission (research and vision papers)
+  - kind: submission
+    date: 2026-08-15
+    label: Direct submission (shared task papers)
+  - kind: other
+    date: 2026-08-25
+    label: ARR commitment (research papers)
+  - kind: camera_ready
+    date: 2026-09-10
+sources:
+- https://www.akbc.ws/2026/
+- https://akbc.ws/2026/shared-task.html
+- https://2026.emnlp.org/program/workshops/
+- https://akbc.ws/2022/
+- https://portal.core.edu.au/conf-ranks/?search=AKBC&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- The 2026 dates and call for papers are now hidden on the official page (kept only in the page source); notification was listed as September 1 there but acceptances were announced on September 8, so it is left out
+- Whether the 2026 proceedings appear in the ACL Anthology (the volume is not online yet)
+- No edition after 2026 announced

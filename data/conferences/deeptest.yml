@@ -1,0 +1,74 @@
+id: deeptest
+name: DeepTest
+full_name: International Workshop on Deep Learning for Testing and Testing for Deep Learning
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: DeepTest organizing committee, co-located with ICSE (IEEE/ACM)
+organizer_country: [international]
+proceedings: IEEE Xplore (ICSE workshop proceedings, IEEE CS)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/home/icse-2026/deeptest-2026
+notes:
+- One-day ICSE workshop on testing deep learning and reinforcement learning systems and on using deep learning for software testing
+- Held with ICSE since 2019 (no 2022 edition); Melbourne 2023, Lisbon 2024, Ottawa 2025, Rio de Janeiro 2026
+- Full papers up to 8 pages, short papers up to 4 pages, extended abstracts up to 5 pages (all including references), ACM format, double-blind
+- 2026 also ran a tool competition with its own deadlines
+- Proceedings published by IEEE CS as "IEEE/ACM International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest)", in IEEE Xplore
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-05-03
+  end: 2025-05-03
+  location: Ottawa, Canada
+  url: https://conf.researchr.org/home/icse-2025/deeptest-2025
+  deadlines:
+  - kind: submission
+    date: 2024-11-18
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2024-12-08
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-02-05
+    tz: AoE
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-13
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/icse-2026/deeptest-2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-27
+    tz: AoE
+    label: Papers
+  - kind: notification
+    date: 2025-11-24
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2025-12-31
+    tz: AoE
+    label: Tool competition submission
+  - kind: camera_ready
+    date: 2026-01-26
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/icse-2026/deeptest-2026
+- https://conf.researchr.org/track/icse-2026/deeptest-2026-papers
+- https://conf.researchr.org/home/icse-2025/deeptest-2025
+- https://conf.researchr.org/info/icse-2025/proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/11026858/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=DeepTest&by=all&source=ICORE2026
+unverified:
+- DeepTest 2027 not announced yet (not among the ICSE 2027 workshops listed as of 2026-10-17)
+- Acceptance rate not found on an official page
+last_verified: 2026-10-17

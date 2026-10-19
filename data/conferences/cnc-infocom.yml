@@ -1,0 +1,59 @@
+id: cnc-infocom
+name: CNC
+full_name: International Workshop on Cloud-Network Convergence
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: CNC organizers (Temple University, Virginia Commonwealth University, TU Berlin, China Telecom)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [5]
+links:
+  website: https://www.ieeeinfocom-cnc2026.com/
+notes:
+- Workshop on cloud and network resource convergence, computing power networks, SD-WAN, edge and cloud native
+  networking and AI for networks
+- Host conference changes each year (IEEE MASS 2024 in Seoul, IEEE ICNP 2025 in Seoul, IEEE INFOCOM 2026 in Tokyo)
+- 2026 papers appear in the IEEE INFOCOM 2026 Workshop Proceedings submitted to IEEE Xplore
+- Papers up to 6 pages including figures, tables and references, IEEE double-column format, submitted via EDAS
+- 2026 workshop chairs Jie Wu (Temple University), Eyuphan Bulut (Virginia Commonwealth University) and Falko
+  Dressler (TU Berlin); web and submission chair from China Telecom, which also hosted the 2024 site
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-18
+  end: 2026-05-18
+  location: Tokyo, Japan
+  url: https://www.ieeeinfocom-cnc2026.com/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-29
+    tz: AoE
+  - kind: submission
+    date: 2025-12-29
+    tz: AoE
+  - kind: notification
+    date: 2026-02-09
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-16
+    tz: AoE
+sources:
+- https://www.ieeeinfocom-cnc2026.com/
+- https://infocom2026.ieee-infocom.org/call-workshop-papers
+- https://infocom2026.ieee-infocom.org/final-paper-submission-instructions-workshops
+- https://ctccri.github.io/ieee-mass-CNC-2024/index.html
+- https://icnp25.cs.ucr.edu/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=CNC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Proceedings series of the 2024 (IEEE MASS) and 2025 (IEEE ICNP) editions; the 2025 workshop site no longer loads
+- Whether and with which host conference a 2027 edition will be held
+- The INFOCOM workshop instructions give a final paper deadline of 2026-03-02, later than the 2026-02-16
+  camera-ready date on the workshop site
+last_verified: 2026-10-17

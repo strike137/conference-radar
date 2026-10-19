@@ -1,0 +1,65 @@
+id: fqas
+name: FQAS
+full_name: International Conference on Flexible Query Answering Systems
+type: conference
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: biennial
+organizer: FQAS Steering Committee with a local host university (University of Bergamo in 2027)
+organizer_country: [europe]
+proceedings: Springer LNAI
+archival: true
+indexing: [Scopus, DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [3, 4]
+  conference_months: [9]
+links:
+  website: https://fqas.org/
+  dblp: https://dblp.uni-trier.de/db/conf/fqas/index.html
+notes:
+- Biennial conference on flexible, intuitive access to information (flexible querying, information retrieval, databases, fuzzy logic, knowledge representation, LLM based question answering); first held in 1994
+- Proceedings in Springer LNCS/LNAI (FQAS 2023 -> LNCS 14113, FQAS 2025 -> LNCS 16119); papers up to 12 pages in LNCS format
+- Always held in Europe (Granada 2013, Cracow 2015, London 2017, Amantea 2019, Bratislava 2021, Palma de Mallorca 2023, Burgas 2025)
+- FQAS 2027 is endorsed by EUSFLAT and is scheduled the week before IFSA-EUSFLAT 2027 in Bari
+- CORE ICORE2026 rank C; not on the CCF list
+editions:
+- year: 2025
+  start: 2025-09-11
+  end: 2025-09-13
+  location: Burgas, Bulgaria
+  url: https://fqas2025.uniburgas.bg/
+  deadlines:
+  - kind: submission
+    date: 2025-04-29
+    label: Extended from 2025-04-15
+  - kind: notification
+    date: 2025-06-16
+  - kind: camera_ready
+    date: 2025-06-23
+- year: 2027
+  start: 2027-09-08
+  end: 2027-09-10
+  location: Bergamo, Italy
+  url: https://fqas.org/fqas2027/
+  deadlines:
+  - kind: other
+    date: 2026-11-15
+    label: Special session proposals
+  - kind: submission
+    date: 2027-03-15
+    label: Papers and tutorials
+sources:
+- https://fqas.org/
+- https://fqas.org/fqas-conferences/
+- https://fqas.org/fqas2027/
+- https://fqas2025.uniburgas.bg/
+- https://fqas2025.uniburgas.bg/paperSubmisssion.html
+- https://link.springer.com/978-3-032-05606-1
+- https://portal.core.edu.au/conf-ranks/?search=FQAS&by=all&source=ICORE2026
+unverified:
+- FQAS 2027 notification and camera-ready dates not yet announced
+last_verified: 2026-10-17

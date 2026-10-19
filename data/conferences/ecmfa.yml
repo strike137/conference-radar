@@ -1,0 +1,84 @@
+id: ecmfa
+name: ECMFA
+full_name: European Conference on Modelling Foundations and Applications
+type: conference
+tier: major
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: ECMFA Steering Committee, part of STAF
+organizer_country: [europe]
+proceedings: Journal of Object Technology (JOT)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [12, 2]
+  conference_months: [6, 7]
+links:
+  website: https://conf.researchr.org/series/ecmfa
+notes:
+- European forum on model-based engineering (MBE), held as part of STAF (Software Technologies, Applications and Foundations)
+- Held in Europe (2023 Leicester, 2024 Enschede, 2025 Koblenz, 2026 Rennes)
+- Two submission rounds, each with a minor or major revision cycle judged by the same reviewers
+- Papers up to 14 pages in the JOT template; accepted papers published as platinum open-access articles in the Journal of Object Technology
+- ICORE2026 rank B; not on the CCF 2026 list
+- 23rd edition (2027) announced for Pisa, Italy, with STAF 2027; dates to be announced
+editions:
+- year: 2026
+  start: 2026-06-30
+  end: 2026-07-01
+  location: Rennes, France (with STAF 2026)
+  url: https://conf.researchr.org/track/ecmfa-2026/ecmfa-2026
+  deadlines:
+  - kind: abstract
+    date: 2025-12-07
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2025-12-19
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2026-02-06
+    tz: AoE
+    label: Round 1
+  - kind: other
+    date: 2026-03-19
+    tz: AoE
+    label: Round 1 revision (extended)
+  - kind: abstract
+    date: 2026-02-13
+    tz: AoE
+    label: Round 2
+  - kind: submission
+    date: 2026-02-25
+    tz: AoE
+    label: Round 2 (extended)
+  - kind: notification
+    date: 2026-04-10
+    tz: AoE
+    label: Round 2
+  - kind: other
+    date: 2026-04-26
+    tz: AoE
+    label: Round 2 revision
+  - kind: notification
+    date: 2026-05-15
+    tz: AoE
+    label: Final
+  - kind: camera_ready
+    date: 2026-06-12
+    tz: AoE
+    label: Extended
+sources:
+- https://conf.researchr.org/series/ecmfa
+- https://conf.researchr.org/track/ecmfa-2026/ecmfa-2026
+- https://conf.researchr.org/home/staf-2025/ecmfa-2025
+- https://conf.researchr.org/home/staf-2026
+- https://portal.core.edu.au/conf-ranks/?search=ECMFA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ECMFA 2027 dates and deadlines not yet announced (location Pisa, Italy)
+- Original (pre-extension) round 2 submission and camera-ready dates not shown on the official page

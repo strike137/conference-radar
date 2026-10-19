@@ -1,0 +1,71 @@
+id: sirocco
+name: SIROCCO
+full_name: International Colloquium on Structural Information and Communication Complexity
+type: conference
+tier: major
+areas: [networking, systems]
+region: europe
+language: english
+frequency: annual
+organizer: SIROCCO steering committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [11]
+  conference_months: [6]
+links:
+  website: http://sirocco.hiit.fi/
+  dblp: https://dblp.org/db/conf/sirocco/index.html
+notes:
+- Theory venue on distributed computing and communication (distributed graph algorithms, mobile agents, fault tolerance, self-stabilization, network models)
+- Held every year since 1994; run by a steering committee with an advisory board of distributed computing researchers
+- Mostly held in Europe (Wroclaw 2021, Paderborn 2022, Alcala de Henares 2023, Salerno 2024, Delphi 2025, Durham 2026); Larnaca, Cyprus announced for 2027
+- Proceedings in Springer LNCS
+- Abstract registration one week before the full paper; papers up to 12 pages in single-column format plus cover page and references
+- Papers not accepted as full papers may be invited as brief announcements
+- 'CORE rank B (ICORE2026); not on the CCF 2026 list'
+editions:
+- year: 2025
+  start: 2025-06-02
+  end: 2025-06-04
+  location: Delphi, Greece
+  url: https://www.torontomu.ca/sirocco-2025/
+  deadlines:
+  - kind: abstract
+    date: 2024-11-02
+    tz: AoE
+    label: Extended from 2024-11-01
+  - kind: submission
+    date: 2024-11-08
+    tz: AoE
+  - kind: notification
+    date: 2025-01-31
+    label: Revised from 2025-01-17
+- year: 2026
+  start: 2026-06-09
+  end: 2026-06-11
+  location: Durham University, Durham, UK
+  url: https://sirocco2026.webspace.durham.ac.uk/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-02
+    tz: AoE
+  - kind: submission
+    date: 2025-11-14
+    tz: AoE
+    label: Extended from 2025-11-09 (registered papers)
+  - kind: notification
+    date: 2026-01-20
+sources:
+- http://sirocco.hiit.fi/
+- https://sirocco2026.webspace.durham.ac.uk/
+- https://sirocco2026.webspace.durham.ac.uk/call-for-papers/
+- https://sirocco2026.webspace.durham.ac.uk/proceedings/
+- https://www.torontomu.ca/sirocco-2025/
+- https://portal.core.edu.au/conf-ranks/?search=SIROCCO&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- SIROCCO 2027 (Larnaca, Cyprus) dates and deadlines; the linked 2027 website was not online on 2026-10-17

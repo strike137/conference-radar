@@ -1,0 +1,58 @@
+id: quantumnlp
+name: QuantumNLP
+full_name: 'Workshop on QuantumNLP: Integrating Quantum Computing with Natural Language Processing'
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: south-asia
+language: english
+frequency: annual
+organizer: Partha Pakray (NIT Silchar), Sivaji Bandyopadhyay (Jadavpur University), Asif Ekbal (IIT Patna) and others
+organizer_country: [india]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: http://qnlp.in/
+notes:
+- Workshop on quantum and quantum-inspired NLP (DisCoCat-style compositional models, variational quantum circuits, hybrid quantum-classical NLP)
+- 1st edition with IJCNLP-AACL 2025 in Mumbai; 2nd edition co-located with ICON 2026 at Gauhati University, Guwahati
+- 2025 papers were published by ACL in the ACL Anthology (volume 2025.quantumnlp-1)
+- Long papers and short or position papers, double-blind review, ACL-style template
+- 2026 edition is in person only, with no virtual track
+editions:
+- year: 2025
+  start: 2025-12-24
+  end: 2025-12-24
+  location: Mumbai, India (with IJCNLP-AACL 2025)
+  url: https://aclanthology.org/2025.quantumnlp-1/
+- year: 2026
+  start: 2026-12-20
+  end: 2026-12-23
+  location: Guwahati, India (Gauhati University, with ICON 2026)
+  url: http://qnlp.in/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+    tz: AoE
+  - kind: notification
+    date: 2026-10-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-25
+    tz: AoE
+sources:
+- http://qnlp.in/
+- https://aclanthology.org/venues/quantumnlp/
+- https://aclanthology.org/2025.quantumnlp-1/
+- https://2025.aaclnet.org/program/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=QuantumNLP&by=all&source=ICORE2026
+unverified:
+- The 2026 page gives two submission deadlines (30 August 2026 in the header, 30 September 2026 in the dates table); the table date is used
+- 2026 dates are the ICON 2026 span (20 to 23 December); the exact workshop day is not announced
+- Whether 2026 papers will again go to the ACL Anthology is not stated on the 2026 page
+- 2025 submission deadlines not found on an official page
+- Not listed on the CORE portal (ICORE2026)
+last_verified: 2026-10-17

@@ -1,0 +1,63 @@
+id: pippi
+name: PIPPI
+full_name: International Workshop on Perinatal, Preterm and Paediatric Image Analysis
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: PIPPI workshop organizers (held with MICCAI)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://pippiworkshop.github.io/
+notes:
+- MICCAI satellite workshop on fetal, neonatal and paediatric image analysis, held every year since 2016; 2026 was the 11th edition
+- Proceedings in Springer LNCS (2025 -> LNCS 16118, 18 full papers)
+- Organizers from King's College London, Medical University of Vienna, Boston Children's Hospital, Technion, Erasmus MC and University of Zurich
+- Best presentation award; selected full papers have appeared in the MELBA journal
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://pippiworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-06-27
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://pippiworkshop.github.io/
+  deadlines:
+  - kind: other
+    date: 2026-06-24
+    label: Notification of intention to submit
+  - kind: submission
+    date: 2026-07-05
+    time: "12:00"
+    tz: CEST
+    label: Full papers (extended from 2026-07-01)
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-15
+sources:
+- https://pippiworkshop.github.io/
+- https://pippiworkshop.github.io/indexPIPPIs.html
+- https://pippiworkshop.github.io/committee.html
+- https://link.springer.com/conference/pippi
+- http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=16118
+- https://portal.core.edu.au/conf-ranks/?search=PIPPI&by=all&source=ICORE2026
+unverified:
+- PIPPI 2025 submission date taken from a news item on the official site ("Submissions accepted by 27th June 2025"); other 2025 dates not on the current site
+- 2026 important dates are marked TBC on the official page
+- PIPPI 2027 dates and location not yet announced as of 2026-10-17
+last_verified: 2026-10-17

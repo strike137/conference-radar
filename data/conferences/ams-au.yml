@@ -1,0 +1,55 @@
+id: ams-au
+name: AMS
+full_name: Australian Microwave Symposium
+type: conference
+tier: minor
+areas: [communications]
+region: oceania
+language: english
+frequency: biennial
+organizer: IEEE MTT-S Australian Chapters
+organizer_country: [australia]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [2]
+links:
+  website: https://www.amsymp.org/index_s.php
+notes:
+- Biennial Australian symposium on microwave, millimetre-wave and terahertz components, circuits, antennas,
+  propagation and systems; 7th edition in 2027
+- Financially sponsored by the IEEE MTT-S Australian Chapters, technically sponsored by IEEE AP-S and MTT-S
+- "Two submission types: a peer-reviewed 3-page short paper submitted to IEEE Xplore, or a 1-page abstract that is
+  not published"
+- Held in Australia, moving between cities (Perth in 2027 at Curtin University)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2027
+  start: 2027-02-10
+  end: 2027-02-12
+  location: Curtin University, Perth, Australia
+  url: https://www.amsymp.org/index_s.php
+  deadlines:
+  - kind: submission
+    date: 2026-10-23
+    label: Papers and abstracts (extended from 2026-10-09)
+  - kind: notification
+    date: 2026-12-14
+  - kind: camera_ready
+    date: 2027-01-08
+  - kind: other
+    date: 2027-01-17
+    label: Conference registration
+sources:
+- https://www.amsymp.org/index_s.php
+- https://www.amsymp.org/Call_for_Papers.php
+- https://www.amsymp.org/documents/AMS_CFP.pdf
+- https://www.amsymp.org/Author_Instructions.php
+- https://www.amsymp.org/Organisers.php
+- https://portal.core.edu.au/conf-ranks/?search=Australian+Microwave&by=all&source=ICORE2026
+unverified:
+- Dates and location of the 2025 (6th) edition not found on the official site
+- Deadline times and time zones not stated
+- Acceptance rate
+last_verified: 2026-10-17

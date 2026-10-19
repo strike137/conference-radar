@@ -1,0 +1,133 @@
+id: chira
+name: CHIRA
+full_name: International Conference on Computer-Human Interaction Research and Applications
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: INSTICC (Institute for Systems and Technologies of Information, Control and Communication)
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://chira.scitevents.org/
+notes:
+- Organized by INSTICC; since 2023 accepted complete papers are published by Springer in a CCIS volume (up to
+  2022 papers went to the SCITEPRESS Digital Library with a CCIS book of revised and extended papers)
+- CORE C (ICORE2026); regarded as a minor HCI venue; not on the CCF 2026 list
+- Covers human factors for interactive systems, interactive devices, interaction design and adaptive and
+  intelligent systems
+- Two submission stages (1st stage gives an earlier notification), plus late-breaking papers and an abstracts track
+  whose abstracts are presented but not published; double-blind review; all deadlines AoE
+- Two-day event co-located with other INSTICC conferences (2026 with ICINCO, CoopIS, icSPORTS and WEBIST) with free
+  cross access; remote presentation allowed exceptionally
+- Held in European cities (Budapest 2020, Valletta 2022, Rome 2023, Porto 2024, Marbella 2025, Angers 2026)
+editions:
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-21
+  location: Marbella, Spain
+  url: https://chira.scitevents.org/?y=2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-06
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2025-07-03
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: notification
+    date: 2025-07-17
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2025-07-24
+    tz: AoE
+    label: Late-breaking papers
+  - kind: notification
+    date: 2025-07-31
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: camera_ready
+    date: 2025-07-31
+    tz: AoE
+    label: Regular papers (1st stage), with registration
+  - kind: camera_ready
+    date: 2025-09-05
+    tz: AoE
+    label: Position/regular papers (2nd stage), with registration
+- year: 2026
+  start: 2026-10-26
+  end: 2026-10-27
+  location: ESEO campus, Angers, France
+  url: https://chira.scitevents.org/
+  deadlines:
+  - kind: other
+    date: 2026-05-27
+    tz: AoE
+    label: Workshop / special session proposals
+  - kind: submission
+    date: 2026-06-09
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2026-07-03
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: notification
+    date: 2026-07-17
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2026-07-24
+    tz: AoE
+    label: Late-breaking papers
+  - kind: notification
+    date: 2026-07-31
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: camera_ready
+    date: 2026-07-31
+    tz: AoE
+    label: Regular papers (1st stage), with registration
+  - kind: notification
+    date: 2026-09-03
+    tz: AoE
+    label: Late-breaking papers
+  - kind: camera_ready
+    date: 2026-09-10
+    tz: AoE
+    label: Position/regular papers (2nd stage), with registration
+  - kind: camera_ready
+    date: 2026-09-11
+    tz: AoE
+    label: Late-breaking papers, with registration
+sources:
+- https://chira.scitevents.org/
+- https://chira.scitevents.org/ImportantDates.aspx
+- https://chira.scitevents.org/CallForPapers.aspx
+- https://chira.scitevents.org/ConferenceVenue.aspx
+- https://chira.scitevents.org/?y=2025
+- https://chira.scitevents.org/ImportantDates.aspx?y=2025
+- https://chira.scitevents.org/?y=2024
+- https://chira.scitevents.org/?y=2023
+- https://chira.scitevents.org/?y=2022
+- https://chira.scitevents.org/?y=2020
+- https://portal.core.edu.au/conf-ranks/?search=CHIRA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf (CCF 2026 list mirror)
+unverified:
+- CHIRA 2027 not yet announced (chira.scitevents.org/?y=2027 not available as of 2026-10-17)
+- Indexing not stated as confirmed (the CFP lists DBLP, Google Scholar, EI-Compendex, INSPEC, Scopus and others
+  for the CCIS series, and Web of Science CPCI as submitted for evaluation)
+- CCF absence checked in the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
+- 2021 edition location not shown on the official page
+- Acceptance rate not found on official pages
+last_verified: 2026-10-17

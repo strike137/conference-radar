@@ -1,0 +1,76 @@
+id: cpp
+name: CPP
+full_name: ACM SIGPLAN International Conference on Certified Programs and Proofs
+type: conference
+tier: major
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN (in cooperation with ACM SIGLOG)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [9]
+  conference_months: [1]
+links:
+  website: https://popl27.sigplan.org/home/CPP-2027
+  dblp: https://dblp.org/db/conf/cpp/index.html
+notes:
+- Venue for formal verification and certification, proof assistants, mechanized mathematics and certified software
+- Sponsored by ACM SIGPLAN in cooperation with ACM SIGLOG; co-located with POPL every January
+- Proceedings in the ACM Digital Library (also on SIGPLAN OpenTOC); Gold Open Access since 2026
+- Up to 12 pages in ACM SIGPLAN acmart format, excluding bibliography and appendices
+- Lightweight double-blind review; abstract deadline one week before the paper deadline, no extensions
+- About 10% of accepted papers receive Distinguished Paper Awards
+- At least one author of each accepted paper must attend and present
+- Recent hosts are Boston (2023), London (2024), Denver (2025), Rennes (2026) and Mexico City (2027)
+- CORE B (ICORE2026); not in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-12
+  end: 2026-01-13
+  location: Rennes, France (co-located with POPL 2026)
+  url: https://popl26.sigplan.org/home/CPP-2026
+  deadlines:
+  - kind: abstract
+    date: 2025-09-05
+    tz: AoE
+  - kind: submission
+    date: 2025-09-12
+    tz: AoE
+  - kind: notification
+    date: 2025-11-13
+  - kind: camera_ready
+    date: 2025-12-01
+    tz: AoE
+- year: 2027
+  start: 2027-01-11
+  end: 2027-01-12
+  location: Mexico City, Mexico (co-located with POPL 2027)
+  url: https://popl27.sigplan.org/home/CPP-2027
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-09-03
+    tz: AoE
+  - kind: submission
+    date: 2026-09-10
+    tz: AoE
+  - kind: notification
+    date: 2026-11-10
+  - kind: camera_ready
+    date: 2026-11-25
+    tz: AoE
+sources:
+- https://popl27.sigplan.org/home/CPP-2027
+- https://popl26.sigplan.org/home/CPP-2026
+- https://portal.core.edu.au/conf-ranks/?search=CPP&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- Acceptance rate not stated on the official pages
+- CCF status checked against a text copy of the CCF 2026 list PDF
+last_verified: 2026-10-17

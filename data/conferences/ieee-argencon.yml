@@ -1,0 +1,62 @@
+id: ieee-argencon
+name: IEEE ARGENCON
+full_name: IEEE Biennial Congress of Argentina (ARGENCON)
+type: conference
+tier: minor
+areas: [general, communications, ai]
+region: latin-america
+language: mixed
+frequency: biennial
+organizer: IEEE Argentina Section with a host Argentine university (Universidad Nacional de Cordoba FCEFyN in 2026)
+organizer_country: [other]
+proceedings: IEEE Xplore (English papers); Spanish papers in the congress proceedings book
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9, 11]
+links:
+  website: https://attend.ieee.org/argencon-2026/
+notes:
+- Biennial general engineering congress of the IEEE Argentina Section, first held in 2012 (8th edition in 2026)
+- Broad EECS scope (electronics, computing, communications, energy, control, bioengineering, AI, signal processing)
+- Papers in Spanish or English; only English papers can go to IEEE Xplore, for an extra 25 USD per paper (2026)
+- Double-blind review via Microsoft CMT, single review cycle
+- Held in Argentina, rotating between cities (San Juan 2022, San Nicolas de los Arroyos 2024, Cordoba 2026)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2024
+  start: 2024-09-18
+  end: 2024-09-20
+  location: San Nicolas de los Arroyos, Argentina (UTN Facultad Regional San Nicolas)
+  url: https://attend.ieee.org/argencon-2024/
+  deadlines:
+  - kind: submission
+    date: 2024-06-14
+  - kind: notification
+    date: 2024-07-31
+  - kind: camera_ready
+    date: 2024-08-18
+- year: 2026
+  start: 2026-11-11
+  end: 2026-11-13
+  location: Cordoba, Argentina (Universidad Nacional de Cordoba)
+  url: https://attend.ieee.org/argencon-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-29
+    time: "23:59"
+    tz: PDT
+    label: Paper submission (extended from 2026-06-01, then 2026-06-15)
+  - kind: notification
+    date: 2026-09-22
+  - kind: camera_ready
+    date: 2026-10-29
+sources:
+- https://attend.ieee.org/argencon-2026/
+- https://attend.ieee.org/argencon-2026/en/home-en/
+- https://attend.ieee.org/argencon-2026/fechas-importantes-2/
+- https://attend.ieee.org/argencon-2026/articulos-2/
+- https://attend.ieee.org/argencon-2024/
+- https://attend.ieee.org/argencon-2024/fechas-importantes/
+- https://portal.core.edu.au/conf-ranks/?search=ARGENCON&by=all&source=ICORE2026
+last_verified: 2026-10-17

@@ -1,0 +1,90 @@
+id: ieee-cdc
+name: IEEE CDC
+full_name: IEEE Conference on Decision and Control
+type: conference
+tier: top
+areas: [general, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Control Systems Society (CSS), in cooperation with EUCA and SICE
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+fee: 975 USD non-member, 800 USD IEEE member, 250 to 500 USD students (2026, early registration)
+typical:
+  deadline_months: [3]
+  conference_months: [12]
+links:
+  website: https://cdc2026.ieeecss.org/
+notes:
+- Flagship conference of the IEEE Control Systems Society, held annually since 1962; the 65th edition is in 2026
+- Rotates worldwide (Cancun 2022, Singapore 2023, Milan 2024, Rio de Janeiro 2025, Honolulu 2026, Lisbon 2027)
+- Regular and invited papers up to 8 pages for CDC only (pages beyond 6 cost extra), 6 pages when submitted jointly
+  with IEEE Control Systems Letters (L-CSS)
+- The L-CSS option publishes the paper in the journal and presents it at CDC, with an earlier deadline
+- Submission via PaperPlaza; final papers must be IEEE Xplore-compatible and carry an IEEE copyright form
+- Workshops on the day before the main conference
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-12-15
+  end: 2026-12-18
+  location: Hilton Hawaiian Village, Honolulu, Hawaii, USA
+  url: https://cdc2026.ieeecss.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-17
+    label: L-CSS with CDC option
+  - kind: other
+    date: 2026-03-24
+    label: Invited session proposals
+  - kind: submission
+    date: 2026-03-31
+    label: CDC only (48h grace to April 2 for already submitted papers)
+  - kind: other
+    date: 2026-05-01
+    label: Workshop and tutorial session proposals
+  - kind: other
+    date: 2026-06-10
+    label: CSS journal papers for presentation
+  - kind: notification
+    date: 2026-07-15
+    label: Given as mid-July on the call for papers page
+  - kind: camera_ready
+    date: 2026-09-18
+- year: 2027
+  start: 2027-12-14
+  end: 2027-12-17
+  location: Lisbon Congress Centre, Lisbon, Portugal
+  url: https://cdc2027.ieeecss.org/
+  deadlines:
+  - kind: submission
+    date: 2027-03-17
+    label: L-CSS with CDC option
+  - kind: other
+    date: 2027-03-24
+    label: Invited session proposals
+  - kind: submission
+    date: 2027-03-31
+    label: CDC only
+  - kind: other
+    date: 2027-04-30
+    label: Workshop proposals
+  - kind: notification
+    date: 2027-07-15
+sources:
+- https://cdc2026.ieeecss.org/
+- https://cdc2026.ieeecss.org/about/call-for-papers
+- https://cdc2026.ieeecss.org/about/history
+- https://cdc2026.ieeecss.org/authors/author-information
+- https://cdc2026.ieeecss.org/registration
+- https://cdc2027.ieeecss.org/
+- https://cdc2027.ieeecss.org/authors/call-for-papers
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+- https://portal.core.edu.au/conf-ranks/?search=CDC&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Deadline times and time zones not stated on the official pages
+- Acceptance rate not stated on the official site
+- CCF absence checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)

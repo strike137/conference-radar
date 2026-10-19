@@ -1,0 +1,67 @@
+id: chiwork
+name: CHIWORK
+full_name: Symposium on Human-Computer Interaction for Work
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: CHIWORK organizing committee, in cooperation with ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://chiwork.org/
+notes:
+- Small ACM in-cooperation symposium on HCI and the future of work, editions since 2022
+- Held in Europe so far (Amsterdam 2025, Linz 2026, Aalborg 2027); hybrid, authors may present virtually
+- Full papers appear in the Proceedings of the CHIWORK Conference in the ACM Digital Library, open access
+- Full papers of at least 6 pages in the single-column ACM SIGCHI format (typically 7,000 to 10,000 words); double-blind with
+  at least 3 reviews
+- Also workshops, conversations, late-breaking work, artworks and demos, and a student consortium
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-25
+  location: Linz, Austria
+  url: https://chiwork.org/26
+  deadlines:
+  - kind: submission
+    date: 2026-02-02
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2026-03-30
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-04-20
+    label: Full papers
+- year: 2027
+  start: 2027-06-22
+  end: 2027-06-25
+  location: Aalborg, Denmark
+  url: https://chiwork.org/27/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-01-28
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2027-03-30
+    label: Full papers
+sources:
+- https://chiwork.org/
+- https://chiwork.org/26
+- https://chiwork.org/26/call-for-papers/
+- https://chiwork.org/25
+- https://portal.core.edu.au/conf-ranks/?search=CHIWORK&by=all&source=ICORE2026
+unverified:
+- The 2027 site does not yet state the proceedings publisher; ACM DL is taken from the 2026 call for papers
+- Camera-ready and other track deadlines for 2027 are not announced yet
+last_verified: 2026-10-17

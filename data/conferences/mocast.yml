@@ -1,0 +1,64 @@
+id: mocast
+name: MOCAST
+full_name: International Conference on Modern Circuits and Systems Technologies
+type: conference
+tier: minor
+areas: [general, communications]
+region: europe
+language: english
+frequency: annual
+organizer: MOCAST organizing committee with a local host university each year; IEEE technical sponsor
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://mocast2026.uib.es/
+notes:
+- European conference on circuits and systems (analog, RF and mixed-signal circuits, digital design, nonlinear circuits, memristors, embedded systems, sensors, communication systems, AI hardware)
+- Technically sponsored by IEEE; accepted papers go to IEEE Xplore (proceedings in IEEE Xplore every year since 2016)
+- Held since 2012; hosted by a different European university each year (Sofia 2024, Dresden 2025, Palma de Mallorca 2026)
+- Long-running general chair from Aristotle University of Thessaloniki, Greece
+- Papers are 4 pages in IEEE format; selected papers are invited to special issues of MDPI journals (Electronics, Sensors, Telecom)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-06-11
+  end: 2025-06-13
+  location: Dresden, Germany (TU Dresden)
+  url: https://tu-dresden.de/ing/elektrotechnik/iee/mocast2025
+  deadlines:
+  - kind: other
+    date: 2025-02-10
+    label: Special session proposals
+  - kind: submission
+    date: 2025-03-17
+    label: Extended (originally 2025-02-15)
+  - kind: notification
+    date: 2025-04-17
+  - kind: camera_ready
+    date: 2025-05-05
+- year: 2026
+  start: 2026-06-10
+  end: 2026-06-12
+  location: Palma de Mallorca, Spain (Universitat de les Illes Balears)
+  url: https://mocast2026.uib.es/
+  deadlines:
+  - kind: submission
+    date: 2026-03-10
+sources:
+- https://mocast2026.uib.es/
+- https://mocast2026.uib.es/call-for-s/
+- https://mocast2026.uib.es/past-editions/
+- https://mocast2026.uib.es/committees/organizing-committee/
+- https://mocast2026.uib.es/authors/
+- https://www.mocast.eu/
+- https://www.mocast.eu/index.php/mocast-2025
+- https://portal.core.edu.au/conf-ranks/?search=MOCAST&by=all&source=ICORE2026
+unverified:
+- MOCAST 2026 notification and camera-ready dates are not shown on the official site; the submission deadline is the updated one
+- MOCAST 2027 host and dates not announced yet
+- Host cities before 2024 not checked on an official page
+last_verified: 2026-10-17

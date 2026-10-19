@@ -1,0 +1,65 @@
+id: icgt
+name: ICGT
+full_name: International Conference on Graph Transformation
+type: conference
+tier: major
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: ICGT Steering Committee (chair Reiko Heckel, University of Leicester), under the auspices of EASST, EATCS
+  and IFIP WG 1.3
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://conf.researchr.org/series/icgt
+notes:
+- Main venue for graph transformation, graph grammars and graph languages, covering both theory and applications
+  such as model driven engineering and verification
+- Held since 2002; biennial until 2012 and annual since 2014; the 2026 edition was the 19th
+- CORE B (ICORE2026, listed as International Conference on Graph Transformations); not on the CCF list
+- Co-located with STAF (Software Technologies, Applications and Foundations) in recent editions
+- Proceedings published by Springer in LNCS
+- Regular papers up to 16 pages LNCS style, tool and vision papers up to 8 pages, plus journal-first extended
+  abstracts; single-blind review by at least three reviewers
+- Held in Europe (Leicester 2023, Enschede 2024, Koblenz 2025, Rennes 2026)
+editions:
+- year: 2026
+  start: 2026-07-01
+  end: 2026-07-02
+  location: Rennes, France (INRIA Center, University of Rennes, with STAF 2026)
+  url: https://conf.researchr.org/home/icgt-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-02-23
+    tz: AoE
+    label: Extended from Feb 16
+  - kind: submission
+    date: 2026-03-02
+    tz: AoE
+    label: Extended from Feb 23
+  - kind: notification
+    date: 2026-04-09
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-27
+    tz: AoE
+sources:
+- https://conf.researchr.org/series/icgt
+- https://conf.researchr.org/home/icgt-2026
+- https://conf.researchr.org/track/icgt-2026/icgt-2026-icgt-research-papers
+- https://conf.researchr.org/home/icgt-2025
+- https://conf.researchr.org/committee/icgt-2026/icgt-2026-steering-committee-
+- https://link.springer.com/book/9783032297297
+- https://portal.core.edu.au/conf-ranks/?search=ICGT&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/ (CCF 2026 list, not listed)
+unverified:
+- ICGT 2027 not announced yet (expected with STAF 2027)
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-17

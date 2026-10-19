@@ -1,0 +1,60 @@
+id: icait-nz
+name: ICAIT
+full_name: International Conference on Advanced Infocomm Technology
+type: conference
+tier: minor
+areas: [communications, networking]
+region: china
+language: english
+frequency: annual
+organizer: IEEE Photonics Society (sponsor) with a host university each year
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [9]
+  conference_months: [8, 10, 11]
+links:
+  website: https://www.icait.org/
+notes:
+- Smaller IEEE Photonics Society sponsored conference on communications, optical networks, signal processing and IT
+- Proceedings in IEEE Xplore every year since 2017; EI Compendex and Scopus indexed per the site
+- Held in China most years (Hefei 2023, Enshi 2024, Liaocheng 2025); the 2026 edition is in Auckland, New Zealand,
+  hosted by Auckland University of Technology
+- 2026 edition has several co-located workshops (6G sensing, edge intelligence, LLM agents, and others)
+- Submission via EasyChair
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-24
+  end: 2025-10-27
+  location: Liaocheng, China
+  url: https://www.icait.org/2025.html
+- year: 2026
+  start: 2026-11-23
+  end: 2026-11-27
+  location: Auckland University of Technology, Auckland, New Zealand
+  url: https://www.icait.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+  - kind: notification
+    date: 2026-10-15
+  - kind: other
+    date: 2026-10-25
+    label: Registration
+  - kind: camera_ready
+    date: 2026-10-30
+sources:
+- https://www.icait.org/
+- https://www.icait.org/2025.html
+- https://www.icait.org/2024.html
+- https://www.icait.org/2023.html
+- https://www.icait.org/records.html
+- https://conferences.ieee.org/conferences_events/conferences/conferencedetails/73340
+- https://portal.core.edu.au/conf-ranks/?search=ICAIT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ICAIT 2025 deadlines (not shown on the 2025 archive page)
+- Who runs the series beyond the per-edition sponsors and hosts; organizer_country set from the Chinese host universities

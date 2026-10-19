@@ -1,0 +1,47 @@
+id: mathpqc
+name: MathPQC
+full_name: Mathematics for Post-Quantum Cryptography Workshop
+type: workshop
+tier: minor
+areas: [crypto]
+region: asia-pacific
+language: english
+frequency: irregular
+organizer: Shi Bai (Shanghai Jiao Tong University), Mingjie Chen (COSIC, KU Leuven) and Steven Galbraith (University of Auckland); affiliated with ASIACRYPT
+organizer_country: [china, europe, new-zealand]
+proceedings: None (talks only, no formal proceedings)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [12]
+links:
+  website: https://mathpqc.github.io/mathpqc-website/
+notes:
+- One-day affiliated workshop of ASIACRYPT 2026 bringing together mathematicians and cryptographers on the hard problems behind post-quantum schemes
+- Topics include lattices, isogenies of supersingular elliptic curves and abelian varieties, decoding of linear codes and multivariate quadratic equations
+- Contributed talks of 15 minutes (12 plus 3 for questions), proposed with a title and abstract via a form; a poster session may be added
+- 'Non-archival: no papers are published, only talks'
+- Invited speakers for 2026 include Elena Kirshanova, Hiroshi Onuki and John Voight
+- 'Registration goes through ASIACRYPT: 120 USD before 7 Nov 2026, 180 USD after (affiliated events only, 2026)'
+editions:
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-07
+  location: Hong Kong Polytechnic University, Hong Kong
+  url: https://mathpqc.github.io/mathpqc-website/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-01
+    tz: AoE
+    label: Contributed talk proposal
+  - kind: notification
+    date: 2026-11-06
+sources:
+- https://mathpqc.github.io/mathpqc-website/
+- https://asiacrypt.iacr.org/2026/affiliated.php
+- https://portal.core.edu.au/conf-ranks/?search=MathPQC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No earlier edition found; 2026 appears to be the first, so frequency and region are assumptions based on the ASIACRYPT affiliation
+- The site does not say explicitly that there are no proceedings; the call is for talk abstracts only
+- Not in the ICORE2026 portal and not in the CCF list, so no rank is given

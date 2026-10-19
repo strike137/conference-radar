@@ -1,0 +1,57 @@
+id: kallm
+name: KaLLM
+full_name: Workshop on Knowledge Graphs and Large Language Models
+type: workshop
+tier: minor
+areas: [nlp, data, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: KG-LLM workshop chairs (2026 edition endorsed by COST Action CA23147 GOBLIN); co-located with LREC
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://kg-llm.github.io/
+notes:
+- Workshop on combining knowledge graphs and LLMs (KG engineering with LLMs, KGs for LLMs, KG-RAG, applications)
+- 1st edition KaLLM 2024 with ACL 2024 in Bangkok; 2026 edition (titled KG & LLM) with LREC 2026 in Palma de Mallorca
+- The ACL Anthology lists both under the KaLLM venue; the 2026 edition had a different organizing team
+- Papers up to 8 pages plus references, LREC style, double-blind review via START
+- "Acceptance rate: 61% (2026, 21 of 36 submissions after 2 desk rejects)"
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  label: KG & LLM, with LREC 2026
+  start: 2026-05-16
+  end: 2026-05-16
+  location: Palma de Mallorca, Spain
+  url: https://kg-llm.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-01
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-03-24
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-30
+    tz: AoE
+sources:
+- https://kg-llm.github.io/
+- https://kg-llm.github.io/cfp/
+- https://kg-llm.github.io/program/
+- https://lrec2026.info/accepted-workshops/
+- https://aclanthology.org/venues/kallm/
+- https://aclanthology.org/volumes/2026.kallm-1/
+- https://aclanthology.org/volumes/2024.kallm-1/
+- https://portal.core.edu.au/conf-ranks/?search=KaLLM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Next edition not announced (host conference and year unknown)
+- Original 2026 submission deadline before the extension

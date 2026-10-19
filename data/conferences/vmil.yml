@@ -1,0 +1,80 @@
+id: vmil
+name: VMIL
+full_name: ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages
+type: workshop
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN (with SIGAda); steering committee chair Stefan Marr (Johannes Kepler University Linz)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10]
+links:
+  website: https://conf.researchr.org/home/splash-issta-2026/vmil-2026
+notes:
+- One-day workshop co-located with ACM SPLASH; 2026 was the 18th edition
+- The 2026 site calls it the Workshop on Virtual Machines and Language Implementations; the ACM proceedings keep the old name
+- Topics are language virtual machines, JIT compilers, garbage collection, intermediate languages and runtimes
+- Research and experience papers 6 to 10 pages; work-in-progress and position papers up to 6 pages
+- Accepted papers go to the ACM Digital Library unless authors opt out; the later work-in-progress deadline is presentation only
+editions:
+- year: 2025
+  start: 2025-10-15
+  end: 2025-10-15
+  location: Singapore (with ICFP/SPLASH 2025)
+  url: https://2025.splashcon.org/home/vmil-2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-23
+    tz: AoE
+    label: Research papers
+  - kind: notification
+    date: 2025-08-11
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2025-08-12
+    tz: AoE
+    label: Work-in-progress papers
+  - kind: camera_ready
+    date: 2025-08-25
+    tz: AoE
+  - kind: notification
+    date: 2025-08-27
+    tz: AoE
+    label: Work-in-progress papers
+- year: 2026
+  start: 2026-10-08
+  end: 2026-10-08
+  location: Oakland, California, USA (with SPLASH/ISSTA 2026)
+  url: https://conf.researchr.org/home/splash-issta-2026/vmil-2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    tz: AoE
+  - kind: notification
+    date: 2026-08-24
+    tz: AoE
+  - kind: other
+    date: 2026-08-24
+    tz: AoE
+    label: Work in progress (presentation only)
+  - kind: camera_ready
+    date: 2026-09-01
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/splash-issta-2026/vmil-2026
+- https://conf.researchr.org/track/splash-issta-2026/vmil-2026-papers
+- https://2025.splashcon.org/home/vmil-2025
+- https://api.crossref.org/works/10.1145/3840562
+- https://api.crossref.org/works/10.1145/3759548
+- https://portal.core.edu.au/conf-ranks/?search=VMIL&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2027 edition announced yet
+- Not listed in the CORE ICORE2026 portal or the CCF list

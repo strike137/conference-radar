@@ -1,0 +1,73 @@
+id: tyde
+name: TyDe
+full_name: ACM SIGPLAN International Workshop on Type-Driven Development
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9, 10]
+links:
+  website: https://tydeworkshop.org/
+notes:
+- Workshop on using static types for program development (dependent types, generic programming, type-directed tools)
+- Usually co-located with ICFP; 2026 edition was held at FPW 2026 in Paris (Functional Programming Workshops, a European gathering in the ICFP week)
+- Full papers up to 12 pages go into ACM proceedings in the ACM Digital Library; 3-page extended abstracts are not in the formal proceedings
+- Two-column ACM SIGPLAN acmart format; remote presentation possible
+- Steering committee of past PC co-chairs appoints new co-chairs each year; 2026 was the 11th edition
+- Held in Seattle 2023, Milan 2024, Singapore 2025, Paris 2026; 2027 planned for Nijmegen (TBC)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-10-12
+  end: 2025-10-12
+  location: Singapore (with ICFP/SPLASH 2025)
+  url: https://conf.researchr.org/home/icfp-splash-2025/tyde-2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-22
+    tz: AoE
+    label: Papers and extended abstracts
+  - kind: notification
+    date: 2025-07-23
+  - kind: camera_ready
+    date: 2025-08-20
+- year: 2026
+  start: 2026-08-26
+  end: 2026-08-27
+  location: Paris, France (at FPW 2026)
+  url: https://tydeworkshop.org/2026.html
+  deadlines:
+  - kind: submission
+    date: 2026-06-03
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-06-24
+    tz: AoE
+    label: Extended abstracts
+  - kind: notification
+    date: 2026-07-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-17
+    tz: AoE
+sources:
+- https://tydeworkshop.org/
+- https://tydeworkshop.org/2026.html
+- https://www.irif.fr/~scherer/events/fpw-2026/announce.html
+- https://2025.splashcon.org/home/tyde-2025
+- https://conf.researchr.org/series/tyde
+- https://doi.org/10.1145/3838790
+- https://portal.core.edu.au/conf-ranks/?search=TyDe&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- TyDe 2027 announced only as "Nijmegen (TBC)" with no dates
+- CCF 2026 list could not be loaded from ccf.org.cn and the venue is not in the CCF list mirror; rank.ccf left out

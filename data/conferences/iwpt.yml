@@ -1,0 +1,60 @@
+id: iwpt
+name: IWPT
+full_name: International Conference on Parsing Technologies
+type: conference
+tier: minor
+areas: [nlp]
+region: worldwide
+language: english
+frequency: biennial
+organizer: ACL SIGPARSE (Special Interest Group on Natural Language Parsing), held within SyntaxFest
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://www.sigparse.org/
+notes:
+- Conference series on parsing and structural analysis of natural language, started in 1989 by ACL SIGPARSE
+- Now biennial and part of SyntaxFest together with Depling, UDW, QUASY and SLiDE (joint OpenReview submission)
+- Regular papers up to 8 pages and short papers up to 4 pages in ACL style; double-blind review
+- Authors choose archival or non-archival; archival papers go into the ACL Anthology
+- Small venue (5 papers in the 2025 proceedings); no edition in 2023
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-26
+  end: 2025-08-26
+  location: Ljubljana, Slovenia
+  url: https://www.sigparse.org/iwpt2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-22
+    time: "23:59"
+    tz: AoE
+    label: Extended from Apr 15
+  - kind: notification
+    date: 2025-06-02
+  - kind: camera_ready
+    date: 2025-06-16
+- year: 2027
+  start: 2027-08-30
+  end: 2027-09-03
+  location: Prague, Czech Republic
+  url: https://syntaxfest.github.io/syntaxfest27/
+  deadlines: []
+sources:
+- https://syntaxfest.github.io/
+- https://syntaxfest.github.io/syntaxfest27/
+- https://syntaxfest.github.io/syntaxfest25/
+- https://syntaxfest.github.io/syntaxfest25/cfp_iwpt.html
+- https://syntaxfest.github.io/syntaxfest25/programme.html
+- https://www.sigparse.org/iwpt2025/
+- https://www.sigparse.org/
+- https://aclanthology.org/venues/iwpt/
+- https://portal.core.edu.au/conf-ranks/?search=IWPT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- IWPT 2027 deadlines are TBA; the 2027 dates are those of the whole SyntaxFest (IWPT itself takes one day)

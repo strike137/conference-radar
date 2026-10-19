@@ -1,0 +1,77 @@
+id: dbtest
+name: DBTest
+full_name: International Workshop on Testing Database Systems
+type: workshop
+tier: minor
+areas: [data, systems, software]
+region: worldwide
+language: english
+frequency: biennial
+organizer: DBTest steering committee; co-located with ACM SIGMOD/PODS
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://dbtest-workshop.github.io/
+notes:
+- One-day workshop held with ACM SIGMOD/PODS, so it moves with SIGMOD (2024 Santiago, 2026 Bengaluru)
+- Held every two years recently (2018, 2020, 2022, 2024, 2026)
+- 'Scope: testing, benchmarking and reproducibility of database and data-intensive systems, including learned and cloud systems'
+- Research or experience papers of 4 to 6 pages excluding references, ACM format, via HotCRP; 1-page talk proposals are also accepted
+- Accepted research papers are published in the ACM Digital Library; talk proposals are listed on the website only
+- Steering committee from TU Darmstadt, SAP and HPI
+- 11th edition in 2026
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2024
+  label: 10th edition, with ACM SIGMOD/PODS 2024
+  start: 2024-06-09
+  end: 2024-06-09
+  location: Santiago, Chile
+  url: https://dbtest-workshop.github.io/2024/index.html
+  deadlines:
+  - kind: submission
+    date: 2024-03-15
+    time: "23:59"
+    tz: PST
+    label: Extended from March 8
+  - kind: notification
+    date: 2024-04-11
+    time: "23:59"
+    tz: PST
+  - kind: camera_ready
+    date: 2024-05-06
+    time: "23:59"
+    tz: PST
+- year: 2026
+  label: 11th edition, with ACM SIGMOD/PODS 2026
+  start: 2026-06-05
+  end: 2026-06-05
+  location: Bengaluru, India
+  url: https://dbtest-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-17
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-24
+    time: "23:59"
+    tz: AoE
+sources:
+- https://dbtest-workshop.github.io/
+- https://dbtest-workshop.github.io/2024/index.html
+- https://2026.sigmod.org/sigmod_workshops.shtml
+- https://2024.sigmod.org/sigmod_workshops.shtml
+- https://portal.core.edu.au/conf-ranks/?search=DBTest&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- DBTest 2028 not announced yet; biennial pattern inferred from the list of previous editions
+- 2024 deadlines are stated as US PST although April and May fall in daylight time, so PDT may be meant

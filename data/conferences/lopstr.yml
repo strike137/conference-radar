@@ -1,0 +1,98 @@
+id: lopstr
+name: LOPSTR
+full_name: International Symposium on Logic-based Program Synthesis and Transformation
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: LOPSTR Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+  ccf: C
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: http://lopstr.webs.upv.es/
+  dblp: https://dblp.org/db/conf/lopstr/index.html
+notes:
+- Symposium on logic-based program synthesis, transformation, analysis and verification, held since 1991
+- Usually co-located with PPDP (with ICLP in 2025, as part of FM 2024 in 2024)
+- 2026 edition held as a joint LOPSTR+PPDP symposium co-located with ICFP 2026 in Indianapolis, USA
+- Proceedings in Springer LNCS
+- Regular papers up to 15 pages and short papers up to 8 pages, excluding references
+- A few best papers are invited to the journal Theory and Practice of Logic Programming (TPLP)
+- Mostly held in Europe (Lisbon 2023, Milan 2024, Rende 2025); Indianapolis in 2026
+- CORE C (ICORE2026); CCF C
+editions:
+- year: 2024
+  start: 2024-09-09
+  end: 2024-09-10
+  location: Milan, Italy (co-located with PPDP 2024, part of FM 2024)
+  url: https://lopstr.github.io/2024/
+  deadlines:
+  - kind: abstract
+    date: 2024-05-15
+    tz: AoE
+    label: Optional, extended
+  - kind: submission
+    date: 2024-05-19
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2024-06-26
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-07-17
+    tz: AoE
+- year: 2025
+  start: 2025-09-09
+  end: 2025-09-10
+  location: Rende, Italy (co-located with PPDP 2025 and ICLP 2025)
+  url: https://lopstr.github.io/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-23
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2025-05-30
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-07-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-17
+    tz: AoE
+- year: 2026
+  start: 2026-08-27
+  end: 2026-08-29
+  location: Indianapolis, USA (joint LOPSTR+PPDP 2026, co-located with ICFP 2026)
+  url: https://icfp26.sigplan.org/home/lopstr-ppdp-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-20
+    tz: AoE
+  - kind: submission
+    date: 2026-05-31
+    tz: AoE
+    label: Extended
+sources:
+- https://icfp26.sigplan.org/home/lopstr-ppdp-2026
+- http://lopstr.webs.upv.es/
+- https://lopstr.github.io/2025/
+- https://lopstr.github.io/2024/
+- https://portal.core.edu.au/conf-ranks/?search=LOPSTR&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- LOPSTR+PPDP 2026 notification and final version dates conflict on the official page (call text says 2026-06-26 and 2026-07-08, date list says 2026-07-03 and 2026-07-24), so they are left out
+- No LOPSTR 2027 edition announced as of 2026-10-19
+- CCF rank checked against a text copy of the CCF 2026 list PDF
+- Registration fee not stated on the official pages
+last_verified: 2026-10-19

@@ -1,0 +1,80 @@
+id: cvmp
+name: CVMP
+full_name: ACM SIGGRAPH European Conference on Visual Media Production
+type: conference
+tier: minor
+areas: [vision]
+region: europe
+language: english
+frequency: annual
+organizer: CVMP organizing committee, sponsored by ACM SIGGRAPH
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [12]
+links:
+  website: https://www.cvmp-conference.org/
+  dblp: https://dblp.org/db/conf/cvmp/index.html
+notes:
+- Meeting point of computer vision, graphics and machine learning researchers with film, broadcast and games practitioners
+- Held every December at BFI Southbank in London; 2026 is the 23rd edition
+- Full papers up to 10 pages, double-blind review, published in the ACM Digital Library (open access with ACM APC from 2026)
+- Short papers, demos and industry talks are one-page abstracts presented as posters or talks and are not in the ACM DL
+- Over 100 attendees, roughly half from academia and half from the creative industries
+- Deadlines are 23:59 Pacific Time and are usually extended by about four weeks
+- Not ranked in ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-04
+  location: BFI Southbank, London, UK
+  url: https://www.cvmp-conference.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-22
+    time: "23:59"
+    tz: PDT
+    label: Full papers (extended from 2025-07-25)
+  - kind: notification
+    date: 2025-09-22
+  - kind: camera_ready
+    date: 2025-10-03
+    time: "23:59"
+    tz: PDT
+  - kind: other
+    date: 2025-09-19
+    time: "23:59"
+    tz: PDT
+    label: Short papers and demos (extended from 2025-09-05)
+- year: 2026
+  start: 2026-12-08
+  end: 2026-12-09
+  location: BFI Southbank, London, UK
+  url: https://www.cvmp-conference.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-21
+    time: "23:59"
+    tz: PDT
+    label: Full papers (extended from 2026-07-24)
+  - kind: notification
+    date: 2026-09-25
+    label: Full papers (moved from 2026-09-11)
+  - kind: camera_ready
+    date: 2026-10-16
+    time: "23:59"
+    tz: PDT
+  - kind: other
+    date: 2026-10-03
+    time: "23:59"
+    tz: PDT
+    label: Short papers and demos (final extension)
+sources:
+- https://www.cvmp-conference.org/2026/
+- https://www.cvmp-conference.org/2026/call-for-submissions
+- https://www.cvmp-conference.org/2025/
+- https://www.cvmp-conference.org/2025/call-for-submissions
+- https://portal.core.edu.au/conf-ranks/?search=CVMP&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17

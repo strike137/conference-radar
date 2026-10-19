@@ -1,0 +1,87 @@
+id: ieee-bhi
+name: IEEE BHI
+full_name: IEEE EMBS International Conference on Biomedical and Health Informatics
+type: conference
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE EMBS
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11, 12]
+links:
+  website: https://bhi.embs.org/2026/
+  dblp: https://dblp.org/db/conf/bhi/index.html
+notes:
+- Primary conference of the IEEE Engineering in Medicine and Biology Society (EMBS) on informatics and computing in
+  healthcare and life sciences
+- Regular papers of 4 to 7 pages (references included) go to IEEE Xplore; two-round double-blind review on OpenReview
+  with an author rebuttal step
+- 1-page abstracts are poster only (single-blind); authors may opt into a Book of Abstracts on IEEE Xplore
+- Selected papers invited to extend for IEEE JBHI or IEEE TBME; all regular paper authors may submit an extension to
+  IEEE OJEMB
+- Mostly held in the USA (Pittsburgh 2023, Houston 2024, Atlanta 2025); Hong Kong in 2026; joint BHI-BSN editions in
+  Greece in 2021 and 2022
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-26
+  end: 2025-10-29
+  location: Atlanta, GA, USA
+  url: https://bhi.embs.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-20
+    tz: AoE
+    label: Regular papers (extended from 2025-06-06)
+  - kind: other
+    date: 2025-06-27
+    label: Special session, workshop and tutorial proposals (extended from 2025-06-13)
+- year: 2026
+  start: 2026-12-12
+  end: 2026-12-15
+  location: The Chinese University of Hong Kong, Hong Kong, China
+  url: https://bhi.embs.org/2026/
+  deadlines:
+  - kind: other
+    date: 2026-06-15
+    time: "23:59"
+    tz: PST
+    label: Special session, workshop and tutorial proposals (extended from 2026-05-05)
+  - kind: submission
+    date: 2026-07-03
+    time: "23:59"
+    tz: PST
+    label: Regular papers, round 1 (extended from 2026-06-12)
+  - kind: other
+    date: 2026-09-11
+    time: "23:59"
+    tz: PST
+    label: Regular papers, round 2 revision and rebuttal
+  - kind: notification
+    date: 2026-09-25
+    label: Regular papers, final decision
+  - kind: other
+    date: 2026-08-31
+    time: "23:59"
+    tz: PST
+    label: 1-page abstracts (not in main proceedings, extended)
+  - kind: other
+    date: 2026-10-31
+    time: "23:59"
+    tz: PST
+    label: Late 1-page abstracts (extended from 2026-10-02)
+sources:
+- https://bhi.embs.org/2026/
+- https://bhi.embs.org/2026/contributors/papers/
+- https://bhi.embs.org/2026/author-instructions/
+- https://bhi.embs.org/2026/conference-history/
+- https://bhi.embs.org/2025/
+- https://bhi.embs.org/2025/papers/
+- https://portal.core.edu.au/conf-ranks/?search=BHI&by=all&source=ICORE2026
+last_verified: 2026-10-17

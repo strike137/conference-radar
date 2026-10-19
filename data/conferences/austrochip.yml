@@ -1,0 +1,70 @@
+id: austrochip
+name: Austrochip
+full_name: Austrochip Workshop on Microelectronics
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: Austrian universities in rotation (TU Graz, TU Wien, JKU Linz, FH Karnten, FH Technikum Wien), with a steering committee
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+fee: 145 EUR (2026, before the workshop), 160 EUR onsite
+typical:
+  deadline_months: [8]
+  conference_months: [9, 10]
+links:
+  website: https://www.austrochip.at/
+notes:
+- Annual Austrian workshop on microelectronics and integrated circuits since 1991, for Austria and neighboring countries
+- Forum between academia and industry; PhD students and strong MSc theses are invited to present
+- Covers analog, mixed-signal, RF and digital IC design, FPGA, embedded systems, verification and testing and emerging technologies
+- Rotates among Linz, Vienna, Graz and Villach; one or two days, low registration fee
+- Double-blind review, papers of 4 to 8 IEEE A4 pages in English; proceedings submitted to IEEE Xplore
+- Not listed in ICORE2026 or the CCF list; circuits venue outside the usual CS rankings
+editions:
+- year: 2025
+  label: 33rd Austrochip, JKU Linz
+  start: 2025-09-24
+  end: 2025-09-25
+  location: Linz, Austria
+  url: https://iic.jku.at/austrochip/
+  deadlines:
+  - kind: submission
+    date: 2025-07-24
+    label: Paper deadline (original)
+  - kind: submission
+    date: 2025-08-01
+    label: Paper deadline (extended)
+  - kind: notification
+    date: 2025-08-28
+- year: 2026
+  label: 34th Austrochip, FH Technikum Wien
+  start: 2026-10-23
+  end: 2026-10-23
+  location: Vienna, Austria
+  url: https://embsys.technikum-wien.at/austrochip2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-03
+    label: Paper deadline (original)
+  - kind: submission
+    date: 2026-09-08
+    label: Paper deadline (extended)
+  - kind: notification
+    date: 2026-09-28
+sources:
+- https://www.austrochip.at/
+- https://www.austrochip.at/former-austrochip/
+- https://embsys.technikum-wien.at/austrochip2026/index.php
+- https://embsys.technikum-wien.at/austrochip2026/cfp.php
+- https://embsys.technikum-wien.at/austrochip2026/submission.php
+- https://embsys.technikum-wien.at/austrochip2026/registration.php
+- https://iic.jku.at/austrochip/
+- https://portal.core.edu.au/conf-ranks/?search=Austrochip&by=all&source=ICORE2026
+last_verified: 2026-10-19
+unverified:
+- The 2026 site lists two acceptance notification dates (September 21 and September 28); the later one is used
+- Camera-ready deadline not stated on the 2026 site

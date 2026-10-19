@@ -1,0 +1,58 @@
+id: udw
+name: UDW
+full_name: Universal Dependencies Workshop
+type: workshop
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: annual
+organizer: Universal Dependencies community (workshop chairs per edition), co-located with SyntaxFest or a major NLP conference
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [2, 4]
+  conference_months: [5, 8]
+links:
+  website: https://universaldependencies.org/
+notes:
+- Workshop on the Universal Dependencies (UD) treebank annotation framework, its theory, treebanks, parsing and linguistic studies using UD data
+- Held since 2017; co-located with NoDaLiDa, EMNLP, COLING, SyntaxFest, GURT and LREC
+- Alternates between SyntaxFest years (2025 Ljubljana, 2027 Prague) and other hosts (2026 at LREC in Palma)
+- Regular papers up to 8 pages and short papers up to 4 pages (LREC style in 2026); double-blind review; non-archival presentation of already published work is allowed
+- Proceedings in the ACL Anthology
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-16
+  end: 2026-05-16
+  location: Palma de Mallorca, Spain (with LREC 2026)
+  url: https://universaldependencies.org/udw26/
+  deadlines:
+  - kind: submission
+    date: 2026-02-21
+    time: "23:59"
+    tz: AoE
+    label: Extended from Feb 16
+  - kind: notification
+    date: 2026-03-16
+  - kind: camera_ready
+    date: 2026-03-30
+- year: 2027
+  start: 2027-08-30
+  end: 2027-09-03
+  location: Prague, Czech Republic (with SyntaxFest 2027)
+  url: https://syntaxfest.github.io/syntaxfest27/
+  deadlines: []
+sources:
+- https://universaldependencies.org/udw26/
+- https://universaldependencies.org/udw26/cfp.html
+- https://universaldependencies.org/udw26/proceedings.html
+- https://universaldependencies.org/udw25/
+- https://syntaxfest.github.io/syntaxfest27/
+- https://aclanthology.org/venues/udw/
+- https://portal.core.edu.au/conf-ranks/?search=UDW&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- UDW 2027 deadlines are TBA; the 2027 dates are those of the whole SyntaxFest

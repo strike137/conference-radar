@@ -1,0 +1,64 @@
+id: unireps
+name: UniReps
+full_name: Workshop on Unifying Representations in Neural Models
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: UniReps organizers (researchers from European and US institutions)
+organizer_country: [europe, usa]
+proceedings: PMLR (full paper track)
+archival: true
+typical:
+  deadline_months: [8, 10]
+  conference_months: [12]
+links:
+  website: https://unireps.org/2026/
+notes:
+- Workshop held with NeurIPS since 2023 (New Orleans 2023, Vancouver 2024, San Diego 2025); 2026 edition in Paris
+- Topic is why different neural models, artificial or biological, learn similar representations (model merging, alignment, identifiability)
+- "Two tracks: archival full papers (9 pages, PMLR proceedings) and non-archival extended abstracts (4 pages)"
+- Proceedings in PMLR volumes 243 (2023), 285 (2024) and 322 (2025)
+- Uses the NeurIPS template; submissions through OpenReview; also runs a blog post track
+editions:
+- year: 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  location: San Diego, California, USA
+  url: https://unireps.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-29
+    tz: AoE
+    label: Extended from 2025-08-22
+  - kind: notification
+    date: 2025-09-22
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-13
+    tz: AoE
+- year: 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Paris, France
+  url: https://unireps.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-10-10
+    tz: AoE
+    label: Extended from 2026-10-04
+sources:
+- https://unireps.org/2026/
+- https://unireps.org/2026/call-for-papers/
+- https://unireps.org/2025/
+- https://unireps.org/2025/call-for-papers/
+- https://proceedings.mlr.press/v243/
+- https://proceedings.mlr.press/v285/
+- https://proceedings.mlr.press/v322/
+- https://portal.core.edu.au/conf-ranks/?search=UniReps&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- UniReps 2026 notification and camera-ready dates are still TBD on the CFP page
+- Not found in ICORE2026 or the CCF list

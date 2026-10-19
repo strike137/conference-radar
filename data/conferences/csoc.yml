@@ -1,0 +1,50 @@
+id: csoc
+name: CSOC
+full_name: Computer Science On-line Conference
+type: conference
+tier: minor
+areas: [general, software, ai]
+region: online
+language: english
+frequency: annual
+organizer: OpenPublish, under the auspices of the Faculty of Applied Informatics, Tomas Bata University in Zlin
+organizer_country: [europe]
+proceedings: Springer LNNS
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [4, 5]
+links:
+  website: https://csoc.openpublish.eu/
+notes:
+- Fully online conference on computer science, informatics and software engineering, 16th edition in 2027
+- Run by Radek Silhavy and Petr Silhavy (Tomas Bata University in Zlin, Czech Republic) on the OpenPublish platform
+- Proceedings in Springer Lecture Notes in Networks and Systems (LNNS), several volumes per year (7 volumes for 2026)
+- Papers up to 12 pages, blind review by at least three reviewers
+- No travel cost; sister event of CoMeSySo (Computational Methods in Systems and Software) by the same organizers
+- Large high-volume event; not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2027
+  start: 2027-04-29
+  end: 2027-05-02
+  location: Online
+  url: https://csoc.openpublish.eu/
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+  - kind: notification
+    date: 2027-02-20
+  - kind: camera_ready
+    date: 2027-03-15
+  - kind: other
+    date: 2027-03-16
+    label: Registration and fee payment
+sources:
+- https://csoc.openpublish.eu/
+- https://csoc.openpublish.eu/past-events
+- https://link.springer.com/book/978-3-032-38802-5
+- https://portal.core.edu.au/conf-ranks/?search=CSOC&by=all&source=ICORE2026
+unverified:
+- CSOC 2026 conference dates not given on the official site (only its LNNS volumes 2225 to 2231 are listed)
+- Deadline time zone not stated
+last_verified: 2026-10-17

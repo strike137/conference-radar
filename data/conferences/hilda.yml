@@ -1,0 +1,50 @@
+id: hilda
+name: HILDA
+full_name: Workshop on Human-In-the-Loop Data Analytics
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: HILDA workshop chairs; co-located with ACM SIGMOD/PODS
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://hilda.io/
+notes:
+- Workshop held with ACM SIGMOD/PODS since 2016 (no 2021 edition), so it moves with SIGMOD (2026 in Bengaluru, India)
+- 'Scope: human interaction with data systems across databases, HCI, visualization, data mining and ML; 2026 theme on human and AI collaboration in data analysis'
+- Papers of 4 to 6 pages excluding references, SIGMOD 2-column ACM format, submitted via Microsoft CMT
+- Accepts research papers and non-traditional contributions (early work, visions, experience reports)
+- Optional mentoring program pairs authors of accepted papers with a PC member before camera-ready
+- Proceedings in the ACM Digital Library
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: With ACM SIGMOD/PODS 2026
+  start: 2026-06-05
+  end: 2026-06-05
+  location: Bengaluru, India
+  url: https://hilda.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-30
+    tz: AoE
+    label: Extended from March 23
+  - kind: notification
+    date: 2026-04-22
+  - kind: camera_ready
+    date: 2026-05-17
+    tz: AoE
+sources:
+- https://hilda.io/2026/
+- https://dl.acm.org/doi/proceedings/10.1145/3814573
+- https://portal.core.edu.au/conf-ranks/?search=HILDA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- HILDA 2027 not announced yet

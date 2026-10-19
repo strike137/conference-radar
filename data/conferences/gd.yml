@@ -1,0 +1,75 @@
+id: gd
+name: GD
+full_name: International Symposium on Graph Drawing and Network Visualization
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: GD Steering Committee, with a local host institution each year
+organizer_country: [international]
+proceedings: Dagstuhl LIPIcs
+archival: true
+rank:
+  core: A
+fee: 600 CAD (2026, regular early), 450 CAD student early
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: http://graphdrawing.org/
+notes:
+- Main annual conference on graph drawing and network visualization, running for more than 30 years
+- Proceedings in the open-access Dagstuhl LIPIcs series since 2024 (LIPIcs 320 and 357); Springer LNCS up to 2023
+- LIPIcs publication fees are covered by the registration fee
+- Two tracks (combinatorial and algorithmic; experimental, applied and network visualization), each with long papers (500 lines) and short papers (250 lines), plus posters
+- Abstract deadline one week before the paper deadline; papers expected to be presented on site, with a limited number of remote presentations
+- Graph Drawing Contest and a two-day PhD school held alongside the symposium
+- Selected papers invited to a JGAA special issue; two Track 2 papers invited to IEEE TVCG
+- Mostly held in Europe (Tubingen 2021, Palermo 2023, Vienna 2024, Norrkoping 2025, Budapest 2027), with Tokyo 2022 and St. Catharines 2026 outside
+- Ranked A in ICORE2026
+editions:
+- year: 2026
+  label: 34th GD, Brock University
+  start: 2026-08-19
+  end: 2026-08-21
+  location: St. Catharines, Ontario, Canada
+  url: https://graphdrawing.github.io/gd2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-06
+    tz: AoE
+  - kind: submission
+    date: 2026-05-13
+    tz: AoE
+    label: Long and short papers
+  - kind: notification
+    date: 2026-06-24
+    tz: AoE
+  - kind: other
+    date: 2026-07-08
+    tz: AoE
+    label: Poster deadline
+  - kind: camera_ready
+    date: 2026-07-29
+    tz: AoE
+- year: 2027
+  label: 35th GD, Renyi Institute
+  start: 2027-09-15
+  end: 2027-09-17
+  location: Budapest, Hungary
+  url: https://graphdrawing.unipg.it/gd2027/
+sources:
+- https://graphdrawing.github.io/gd2026/
+- https://graphdrawing.github.io/gd2026/pages/cfp
+- https://graphdrawing.github.io/gd2026/pages/registration
+- https://graphdrawing.unipg.it/gd2027/
+- http://graphdrawing.org/symposium.html
+- http://graphdrawing.org/conferences.json
+- https://portal.core.edu.au/conf-ranks/?search=graph+drawing&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- GD 2027 call for papers and deadlines not announced yet
+- Not in the CCF 2026 list (checked against the list PDF text)
+- Acceptance rates are not published on the official pages

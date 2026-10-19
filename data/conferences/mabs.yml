@@ -1,0 +1,53 @@
+id: mabs
+name: MABS
+full_name: International Workshop on Multi-Agent-Based Simulation
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: MABS Steering Committee (co-located with AAMAS)
+organizer_country: [international]
+proceedings: Springer LNAI (post-proceedings)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://mabsworkshop.github.io/
+  dblp: https://dblp.org/db/conf/mabs/
+notes:
+- Long-running workshop on agent-based simulation of social and socio-technical systems, bridging multi-agent systems
+  and the social sciences; series started in 1998 and annual since 2002
+- Held as a one-day workshop at AAMAS, so it follows AAMAS around the world (Detroit 2025, Paphos 2026)
+- Revised papers appear afterwards in Springer LNAI as Multi-Agent-Based Simulation volumes
+- Submissions through OpenReview; less finished work with open questions is explicitly welcome
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-26
+  location: Paphos, Cyprus (at AAMAS 2026)
+  url: https://mabsworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-11
+    label: Extended from February 4
+  - kind: notification
+    date: 2026-03-20
+  - kind: other
+    date: 2026-06-30
+    label: Revised papers for LNAI post-proceedings
+sources:
+- https://mabsworkshop.github.io/
+- https://mabsworkshop.github.io/cfp/
+- https://mabsworkshop.github.io/mabs_series/
+- https://mabsworkshop.github.io/mabs2025/
+- http://www.pcs.usp.br/~mabs/
+- https://portal.core.edu.au/conf-ranks/?search=MABS&by=acronym&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- MABS 2027 (expected at AAMAS 2027) not announced yet

@@ -1,0 +1,64 @@
+id: ieee-risc
+name: IEEE RISC
+full_name: IEEE International Conference on Resilience and Integrated Security for Space and Critical Systems
+type: conference
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE, IEEE Computer Society
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6, 8]
+  conference_months: [11]
+links:
+  website: https://risc.ieee-cs.org/2026/
+notes:
+- First edition in 2026; grew out of the IEEE SR-CIST workshop (Security and Resiliency of Critical
+  Infrastructure and Space Technologies) held with IEEE TPS in 2024 and 2025
+- Focus on security and resilience of space systems and space-dependent critical infrastructure
+- Co-located with IEEE TPS, IEEE CIC and IEEE CogMI in the USA; proceedings in IEEE Xplore
+- Two submission rounds (June and August), AoE; rejected Round 1 papers can be revised and resubmitted to Round 2
+- Full papers 8 to 10 pages and 2-page posters, anonymous review, IEEE two-column format
+- Not found in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-11-04
+  end: 2026-11-06
+  location: San Jose, USA
+  url: https://risc.ieee-cs.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    tz: AoE
+    label: Round 1 (extended from Jun 1)
+  - kind: notification
+    date: 2026-08-08
+    label: Round 1 (per CFP; home page says Aug 22)
+  - kind: submission
+    date: 2026-08-22
+    tz: AoE
+    label: Round 2 (extended from Aug 15)
+  - kind: notification
+    date: 2026-09-22
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-09-30
+    label: Rounds 1 and 2
+sources:
+- https://risc.ieee-cs.org/2026/
+- https://risc.ieee-cs.org/2026/call-for-papers/
+- https://risc.ieee-cs.org/2025/
+- https://risc.ieee-cs.org/2024/
+- https://portal.core.edu.au/conf-ranks/?search=RISC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
+unverified:
+- New venue (first edition 2026); typical months based on the 2026 edition and the co-located conferences only
+- The 2026 home page lists Round 1 notification as Aug 22 (extended) while the CFP says Aug 8 (extended from Jul
+  25); CFP date used
+- IEEE RISC 2027 not yet announced
+- CCF status checked via the ccfddl mirror (no RISC entry), not on ccf.org.cn directly
+last_verified: 2026-10-17

@@ -1,0 +1,85 @@
+id: grades-nda
+name: GRADES-NDA
+full_name: Joint Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA)
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers Akhil Arora (Aarhus University) and Stefania Dumbrava (ENSIIE and Telecom SudParis);
+  steering committee with Olaf Hartig, Semih Salihoglu, Vasiliki Kalavri and George Fletcher
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [DBLP]
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://gradesnda.github.io/
+notes:
+- Co-located with ACM SIGMOD/PODS (Berlin 2025, Bengaluru 2026); joint GRADES and NDA workshop since 2018 (9th joint
+  edition in 2026), GRADES itself dates back to 2013
+- Topics include graph data management, graph query languages, knowledge graphs, graph mining and graph machine learning
+- Archival papers (8-page regular, 4-page short, demo, vision and case study) appear in the ACM DL and DBLP;
+  4-page work-in-progress papers are non-archival and only listed on the website
+- Double-anonymous review following SIGMOD/PODS rules; ACM two-column template
+- Student travel awards funded by sponsors; best paper award introduced in 2026
+- Not listed in CORE (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-06-27
+  end: 2025-06-27
+  location: Berlin, Germany (SIGMOD/PODS 2025)
+  url: https://gradesnda.github.io/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-24
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-03-17
+  - kind: submission
+    date: 2025-04-04
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-03-31 (firm)
+  - kind: notification
+    date: 2025-05-01
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-16
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-05-11 (firm)
+- year: 2026
+  start: 2026-06-05
+  end: 2026-06-05
+  location: Bengaluru, India (SIGMOD/PODS 2026)
+  url: https://gradesnda.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-08
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-03-17
+    time: "23:59"
+    tz: AoE
+    label: Full paper (extended)
+  - kind: notification
+    date: 2026-04-13
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-26
+    time: "23:59"
+    tz: AoE
+sources:
+- https://gradesnda.github.io/
+- https://gradesnda.github.io/2025/
+- https://portal.core.edu.au/conf-ranks/?search=GRADES&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- GRADES-NDA 2027 not announced yet

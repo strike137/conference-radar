@@ -1,0 +1,54 @@
+id: jitel
+name: JITEL
+full_name: Jornadas de Ingeniería Telemática (Spanish Conference on Telematics Engineering)
+type: conference
+tier: domestic
+areas: [networking, communications, security]
+region: europe
+language: mixed
+frequency: biennial
+organizer: SCITEL (Sociedad Científica de Ingeniería Telemática) with the host university
+organizer_country: [europe]
+proceedings: Libro de actas with ISBN (Zenodo and SCITEL website)
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10, 11]
+links:
+  website: https://www.scitel.es/jitel.html
+notes:
+- Spanish national conference of the telematics engineering research community, held since 1997 and now organized by
+  SCITEL with a different Spanish university hosting each edition
+- Held every two years in odd years (A Coruña 2021, Barcelona 2023, Cáceres 2025); the 2027 edition is planned at the
+  Universidad de Oviedo
+- Topics include next-generation networks (5G/6G), IoT and sensor networks, SDN/NFV, network management, AI for networks,
+  security in communications and systems, multimedia, and telematics teaching
+- "Three paper types: TF (finished unpublished work, up to 8 pages), TP (work in progress, up to 4 pages), TY (already
+  published work or research lines, 1-page abstract with poster)"
+- Papers in Spanish or English; peer reviewed via Microsoft CMT
+- Accepted TF and TP papers appear in the proceedings book with ISBN and in Zenodo
+- "Registration fee (2025, early): 550 EUR full, 350 EUR for SCITEL members"
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-12
+  end: 2025-11-14
+  location: Cáceres, Spain (Universidad de Extremadura)
+  url: https://eventos.unex.es/128794/detail/xvii-jornadas-de-ingenieria-telematica-jitel-2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-06-13
+    label: Extended (originally 2025-05-30)
+  - kind: notification
+    date: 2025-07-15
+  - kind: camera_ready
+    date: 2025-09-15
+sources:
+- https://www.scitel.es/jitel.html
+- https://eventos.unex.es/128794/detail/xvii-jornadas-de-ingenieria-telematica-jitel-2025.html
+- https://www.scitel.es/jitel/actas/Actas_Jitel_2025_Caceres.pdf
+- https://portal.core.edu.au/conf-ranks/?search=JITEL&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- JITEL 2027 at the Universidad de Oviedo is listed as pending organization; no dates or deadlines yet
+- Deadline times and time zones are not stated on the 2025 site

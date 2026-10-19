@@ -1,0 +1,66 @@
+id: isiber
+name: ISIBER
+full_name: International Seminar on Intelligent Business and Edge-Computing Research
+type: conference
+tier: minor
+areas: [networking, ai, general]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Universitas Siber Asia (UNSIA)
+organizer_country: [indonesia]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+fee: 255 to 330 USD overseas, 2,550,000 to 3,300,000 IDR domestic (2027, until 2026-11-30); 50 USD per page beyond 6
+typical:
+  deadline_months: [2]
+  conference_months: [2, 7]
+links:
+  website: https://isiber.unsia.ac.id/
+notes:
+- Run by Universitas Siber Asia (UNSIA) and held in Jakarta, Indonesia
+- Young venue; the 1st edition was in February 2026, the 2nd is set for July 2027
+- Despite the name "Seminar" it is a peer-reviewed IEEE conference; 2026 papers are in IEEE Xplore
+- "Acceptance rate: 30.72% (2026, 586 submissions from 33 countries, as stated by the organizer)"
+- Broad scope covering communications, networking, security, computing, AI, signal processing, robotics and business IT
+- Submission via EDAS, papers up to 6 pages in IEEE format
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 1st ISIBER
+  start: 2026-02-26
+  end: 2026-02-26
+  location: Jakarta, Indonesia (Universitas Siber Asia)
+  url: https://isiber.unsia.ac.id/2026/
+  deadlines:
+  - kind: camera_ready
+    date: 2026-03-03
+    time: "23:59"
+    tz: UTC+7
+    label: Final manuscript (after the conference)
+- year: 2027
+  label: 2nd ISIBER
+  start: 2027-07-03
+  end: 2027-07-03
+  location: Jakarta, Indonesia (Universitas Siber Asia)
+  url: https://isiber.unsia.ac.id/
+  deadlines:
+  - kind: submission
+    date: 2027-02-28
+  - kind: notification
+    date: 2027-04-03
+  - kind: other
+    date: 2027-04-30
+    label: Registration payment
+  - kind: camera_ready
+    date: 2027-05-03
+sources:
+- https://isiber.unsia.ac.id/
+- https://isiber.unsia.ac.id/2026/
+- https://ieeexplore.ieee.org/xpl/conhome/11468350/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ISIBER&by=all&source=ICORE2026
+unverified:
+- ISIBER 2027 date; the header and important dates say 3 July 2027 but the About text still says 25 February 2027
+- ISIBER 2026 submission deadline (the 2026 page now shows the 2027 dates)
+last_verified: 2026-10-17

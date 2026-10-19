@@ -1,0 +1,91 @@
+id: abc-conf
+name: ABC
+full_name: International Conference on Activity and Behavior Computing
+type: conference
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ABC steering community (Kyushu Institute of Technology)
+organizer_country: [japan]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9, 11]
+  conference_months: [1, 3, 4, 5]
+links:
+  website: https://autocare.ai/abc2027
+notes:
+- Small conference on human activity recognition and behavior computing (wearable, vision and ambient sensing, behavior change, healthcare and nursing applications)
+- Run by a community centred on Sozo Inoue's group at Kyushu Institute of Technology (site at autocare.ai); IEEE technically co-sponsored
+- Full papers (4 to 10 pages) go to IEEE proceedings in IEEE Xplore (2027 still subject to approval) or to the IJABC journal (6 to 15 pages); double-blind review via Microsoft CMT
+- Also takes position papers and activity recognition challenge papers with their own later deadlines; one review round with a resubmission step
+- Hybrid; editions in Spokane 2019, Kitakyushu 2020, online 2021, London 2022, Kaiserslautern 2023, Nakatsu and Kitakyushu 2024, Abu Dhabi 2025, Muroran and Hakodate 2026, Sydney 2027
+- "Registration fee (2027): 550 USD regular or 450 USD student for IEEE Xplore papers; 390 USD regular for IJABC, challenge or position papers"
+- Not listed in CORE (ICORE2026) or CCF
+editions:
+- year: 2026
+  label: 8th ABC
+  start: 2026-03-09
+  end: 2026-03-12
+  location: Muroran and Hakodate, Hokkaido, Japan (hybrid)
+  url: https://autocare.ai/abc2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-17
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: notification
+    date: 2025-12-23
+    label: Papers
+  - kind: other
+    date: 2026-01-12
+    time: "23:59"
+    tz: AoE
+    label: Position papers and paper resubmission
+  - kind: camera_ready
+    date: 2026-02-09
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  label: 9th ABC
+  start: 2027-01-19
+  end: 2027-01-22
+  location: Western Sydney University, Parramatta, Sydney, Australia (hybrid)
+  url: https://autocare.ai/abc2027
+  deadlines:
+  - kind: submission
+    date: 2026-09-22
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: notification
+    date: 2026-10-20
+    label: Papers
+  - kind: other
+    date: 2026-11-01
+    time: "23:59"
+    tz: AoE
+    label: Position papers
+  - kind: other
+    date: 2026-11-17
+    time: "23:59"
+    tz: AoE
+    label: Paper resubmission
+  - kind: camera_ready
+    date: 2026-12-15
+    time: "23:59"
+    tz: AoE
+sources:
+- https://autocare.ai/abc2027
+- https://autocare.ai/abc2026
+- https://autocare.ai/abc2025
+- https://autocare.ai/abc2024
+- https://portal.core.edu.au/conf-ranks/?search=Activity+and+Behavior&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- IEEE Xplore publication of ABC 2027 papers is still marked subject to approval
+- Challenge paper deadlines differ per challenge and are not listed here
+last_verified: 2026-10-17

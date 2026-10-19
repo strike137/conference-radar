@@ -1,0 +1,57 @@
+id: sbft
+name: SBFT
+full_name: International Workshop on Search-Based and Fuzz Testing
+type: workshop
+tier: minor
+areas: [software, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: SBFT organizing committee, co-located with ICSE (IEEE/ACM)
+organizer_country: [international]
+proceedings: IEEE Xplore (ICSE workshop proceedings, IEEE CS)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://search-based-and-fuzz-testing.github.io/sbft26/
+notes:
+- One-day workshop co-located with ICSE; renamed from SBST (Search-Based Software Testing) to SBFT in 2023, 2026 was the 19th edition
+- Covers search-based testing and fuzzing (test generation, fuzzers, test oracles, test suite minimization)
+- Hosts popular testing tool competitions (2026 had RESTful API testing and CPS testing of self-driving cars and UAVs)
+- Full papers up to 8 pages, short and demo papers up to 4 pages, position papers and tool entries up to 2 pages, extended abstracts up to 5 pages; double-blind via HotCRP
+- Proceedings published by IEEE CS as "IEEE/ACM International Workshop on Search-Based and Fuzz Testing (SBFT)" (2023 Melbourne, 2024 Lisbon, 2025 Ottawa)
+- Follows ICSE across the world (Melbourne 2023, Lisbon 2024, Ottawa 2025, Rio de Janeiro 2026)
+- Attendance requires ICSE workshop registration; the workshop is also live-streamed on Twitch
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-12
+  end: 2026-04-12
+  location: Rio de Janeiro, Brazil
+  url: https://search-based-and-fuzz-testing.github.io/sbft26/
+  deadlines:
+  - kind: submission
+    date: 2025-10-27
+    tz: AoE
+    label: Papers (extended from Oct 20)
+  - kind: notification
+    date: 2025-11-24
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-26
+    tz: AoE
+    label: Papers and tool competitions
+sources:
+- https://search-based-and-fuzz-testing.github.io/sbft26/
+- https://search-based-and-fuzz-testing.github.io/sbft26/papers/
+- https://conf.researchr.org/home/icse-2026/sbft-2026
+- https://conf.researchr.org/info/icse-2025/proceedings
+- https://www.computer.org/csdl/proceedings/sbft/2025
+- https://portal.core.edu.au/conf-ranks/?search=SBFT&by=all&source=ICORE2026
+unverified:
+- SBFT 2027 not announced yet (not among the ICSE 2027 workshops listed as of 2026-10-17)
+- SBFT 2025 deadlines not recorded (the 2025 workshop site is offline)
+- Acceptance rate not found on an official page
+last_verified: 2026-10-17

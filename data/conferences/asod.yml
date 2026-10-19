@@ -1,0 +1,49 @@
+id: asod
+name: ASOD
+full_name: Workshop on Advances in Secure Software Deployments
+type: workshop
+tier: minor
+areas: [security, software]
+region: europe
+language: english
+frequency: annual
+organizer: Carnegie Mellon University chairs, co-located workshop of ARES (SBA Research)
+organizer_country: [usa]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://www.ares-conference.eu/asod
+notes:
+- Workshop of ARES (International Conference on Availability, Reliability and Security), held in Europe every summer;
+  first edition found is the one at ARES 2026 (Linköping)
+- Submission guidelines are the same as for the ARES conference; ARES 2026 and its workshop papers are published in
+  Springer LNCS, workshop papers up to 18 pages including references
+- Focus on secure deployment of software to production such as secure CI/CD, DevSecOps, containers, patching and
+  air-gapped environments
+- Chairs from Carnegie Mellon University (USA); academia and industry submissions welcome
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-27
+  location: Linköping, Sweden
+  url: https://www.ares-conference.eu/asod
+  deadlines:
+  - kind: submission
+    date: 2026-05-18
+  - kind: notification
+    date: 2026-06-01
+  - kind: camera_ready
+    date: 2026-06-13
+sources:
+- https://www.ares-conference.eu/asod
+- https://www.ares-conference.eu/conference/workshops
+- https://www.ares-conference.eu/submission-guidelines
+- https://portal.core.edu.au/conf-ranks/?search=ASOD&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within ARES 2026 (only the conference dates 24-27 Aug are given)
+- ASOD 2027 (ARES 2027 not yet announced as of 2026-10-17)
+last_verified: 2026-10-17

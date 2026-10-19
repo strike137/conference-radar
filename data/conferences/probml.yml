@@ -1,0 +1,59 @@
+id: probml
+name: ProbML
+full_name: Symposium on Probabilistic Machine Learning
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ProbML (formerly AABI) organizing committee; co-located with ICML or ICLR
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [4, 7]
+links:
+  website: https://probml.cc/
+notes:
+- Formerly the Symposium on Advances in Approximate Bayesian Inference (AABI); renamed ProbML for 2026
+- Grew out of NIPS workshops (2015 to 2017); standalone symposium since 2018, now one day co-located with ICML or ICLR
+- Recent editions in Honolulu (ICML 2023), Vienna (ICML 2024), Singapore (ICLR 2025) and Seoul (ICML 2026); 2021 and 2022 were virtual
+- Three tracks; archival proceedings track (full papers, published in PMLR), non-archival workshop track (extended abstracts) and a fast track for papers recently accepted at major ML venues
+- Proceedings track has reviews with an author rebuttal phase
+- Attendance is free but limited, registration required (2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-07-05
+  end: 2026-07-05
+  location: Seoul, South Korea (KIAS, with ICML 2026)
+  url: https://probml.cc/
+  deadlines:
+  - kind: submission
+    date: 2026-03-20
+    time: "23:59"
+    tz: AoE
+    label: All tracks
+  - kind: notification
+    date: 2026-04-01
+    label: Fast track
+  - kind: notification
+    date: 2026-05-08
+    label: Proceedings and workshop tracks
+  - kind: camera_ready
+    date: 2026-06-19
+    label: Proceedings track
+sources:
+- https://probml.cc/
+- https://probml.cc/call
+- https://probml.cc/organizers
+- https://probml.cc/past
+- https://probml.cc/archives/2025/index.html
+- https://probml.cc/archives/2024/index.html
+- https://probml.cc/archives/2023/index.html
+- https://portal.core.edu.au/conf-ranks/?search=AABI&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ProbML 2027 not announced yet (date and host conference unknown)

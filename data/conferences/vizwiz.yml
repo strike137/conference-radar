@@ -1,0 +1,78 @@
+id: vizwiz
+name: VizWiz
+full_name: VizWiz Grand Challenge Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Researchers from University of Colorado Boulder, Carnegie Mellon University, Apple and Microsoft
+organizer_country: [usa]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [6]
+links:
+  website: https://vizwiz.org/workshops/
+notes:
+- Half-day workshop on computer vision for people with visual impairments, co-located with CVPR
+- Held in 2018 and every year since 2020; 2026 was held with CVPR 2026 in Denver
+- Built around dataset challenges from real photos taken by blind people (VizWiz datasets), with top teams invited to give short talks
+- Also accepts two-page extended abstracts in CVPR format, single-blind review, presented as posters
+- Non-archival, the organizers state there are no proceedings; published and under-review work is accepted
+- Camera-ready content must be accessible via a screen reader
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Nashville, USA
+  url: https://vizwiz.org/workshops/2025-vizwiz-grand-challenge-workshop/
+  deadlines:
+  - kind: other
+    date: 2025-05-03
+    time: "09:00"
+    tz: UTC-6
+    label: Challenge submissions
+  - kind: submission
+    date: 2025-05-10
+    time: "09:00"
+    tz: UTC-6
+    label: Extended abstracts
+  - kind: notification
+    date: 2025-05-16
+    time: "17:00"
+    tz: UTC-6
+    label: Extended abstracts
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, USA
+  url: https://vizwiz.org/workshops/2026-vizwiz-grand-challenge-workshop/
+  deadlines:
+  - kind: other
+    date: 2026-05-01
+    time: "23:59"
+    tz: AoE
+    label: Challenge submissions
+  - kind: submission
+    date: 2026-05-08
+    time: "23:59"
+    tz: AoE
+    label: Extended abstracts
+  - kind: notification
+    date: 2026-05-15
+    time: "23:59"
+    tz: AoE
+    label: Extended abstracts
+sources:
+- https://vizwiz.org/workshops/
+- https://vizwiz.org/workshops/2026-vizwiz-grand-challenge-workshop/
+- https://vizwiz.org/workshops/2025-vizwiz-grand-challenge-workshop/
+- https://portal.core.edu.au/conf-ranks/?search=VizWiz&by=all&source=ICORE2026
+unverified:
+- The 2025 page writes times as CST (recorded as UTC-6) although the dates fall in US daylight time
+- VizWiz 2027 (expected with CVPR 2027 in June 2027) not announced yet
+last_verified: 2026-10-17

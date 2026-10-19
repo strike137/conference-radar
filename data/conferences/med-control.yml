@@ -1,0 +1,58 @@
+id: med-control
+name: MED
+full_name: Mediterranean Conference on Control and Automation
+type: conference
+tier: minor
+areas: [general, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Mediterranean Control Association (MCA)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://www.med-control.org/main/
+notes:
+- Annual conference of the Mediterranean Control Association (MCA), a non-profit organization registered in Cyprus; 34th edition in 2026
+- Technical co-sponsorship from IEEE (CSS, RAS and others listed on the 2026 site)
+- Proceedings in IEEE Xplore since 2006; papers up to 6 pages for review, up to 2 extra pages after acceptance for a fee; submission via PaperCept
+- Held around the Mediterranean, mostly in southern Europe (2022 Athens, 2023 Limassol, 2024 Chania, 2025 Tangier, 2026 Ancona, 2027 Pula)
+- One day of tutorials and workshops followed by three days of technical sessions
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-23
+  end: 2026-06-26
+  location: Ancona, Italy
+  url: https://www.med2026.org/
+  deadlines:
+  - kind: other
+    date: 2026-03-10
+    label: Invited session proposals (extended)
+  - kind: submission
+    date: 2026-03-16
+    label: Contributed and invited papers, tutorial and workshop proposals (extended)
+  - kind: notification
+    date: 2026-05-15
+  - kind: camera_ready
+    date: 2026-05-30
+- year: 2027
+  start: 2027-06-07
+  end: 2027-06-10
+  location: Pula, Croatia
+sources:
+- https://www.med-control.org/main/
+- https://www.med2026.org/
+- https://www.med2026.org/call-for-papers
+- https://www.med2026.org/guidelines-for-authors
+- https://www.med2026.org/past-conferences
+- https://portal.core.edu.au/conf-ranks/?search=MED&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Original (pre-extension) MED 2026 deadlines not shown on the official site; only the extended dates are listed
+- MED 2027 announced by MCA (Pula, Croatia, June 7 to 10, 2027) but no website or deadlines yet as of 2026-10-17
+- Deadline time zones not stated on the official pages

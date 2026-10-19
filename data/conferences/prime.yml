@@ -1,0 +1,60 @@
+id: prime
+name: PRIME
+full_name: International Conference on PhD Research in Microelectronics and Electronics
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: PRIME organizing committee with a local host university each year; IEEE and IEEE CAS technical co-sponsors
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://prime-conference.org/
+notes:
+- Conference for PhD students and post-docs with less than one year post-PhD experience to present their research in microelectronics and electronics
+- Topics include analog, digital, mixed-signal and RF IC design, semiconductors, sensors and MEMS, biomedical electronics, VLSI and SoC, EDA
+- Technically co-sponsored by IEEE and IEEE CAS; accepted papers are submitted to IEEE Xplore
+- Held in Europe (Taormina 2025, TU Berlin 2026); includes a company fair for networking with industry
+- Best paper certificates for the top 10%, 20% and 30% of papers (gold, silver, bronze leaf)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-09-21
+  end: 2025-09-24
+  location: Taormina, Italy
+  url: https://ieee-cas.org/event/conference/2025-20th-international-conference-phd-research-microelectronics-and-electronics
+  deadlines:
+  - kind: submission
+    date: 2025-04-24
+    label: Extended
+- year: 2026
+  start: 2026-09-20
+  end: 2026-09-23
+  location: Berlin, Germany (TU Berlin)
+  url: https://prime-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-19
+    label: Extended (originally 2026-04-05)
+  - kind: notification
+    date: 2026-05-15
+  - kind: camera_ready
+    date: 2026-07-03
+sources:
+- https://ieee-cas.org/event/conference/2026-21st-international-conference-phd-research-microelectronics-and-electronics
+- https://ieee-cas.org/files/ieeecass/2026-02/prime-2026-cfp.pdf
+- https://ieee-cas.org/event/conference/2025-20th-international-conference-phd-research-microelectronics-and-electronics
+- https://portal.core.edu.au/conf-ranks/?search=PRIME&by=all&source=ICORE2026
+unverified:
+- prime-conference.org could not be reached; dates come from the IEEE CAS event page and the PRIME 2026 call for papers
+- Notification and final paper dates are from the call for papers and may have moved after the submission extension
+- PRIME 2025 original deadline, notification and final paper dates not checked
+- PRIME 2027 host and dates not announced on a reachable official page
+- Host cities before 2025 not checked on an official page
+last_verified: 2026-10-17

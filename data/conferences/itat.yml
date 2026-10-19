@@ -1,0 +1,83 @@
+id: itat
+name: ITAT
+full_name: Information Technologies - Applications and Theory
+type: conference
+tier: minor
+areas: [ai, security, nlp, data, general]
+region: europe
+language: english
+frequency: annual
+organizer: Institute of Computer Science, P. J. Safarik University in Kosice, and Slovak Society for AI
+organizer_country: [europe]
+proceedings: CEUR Workshop Proceedings
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://itat.ics.upjs.sk/
+notes:
+- Annual Slovak conference since 2001, run as a bundle of workshops in a mountain hotel in Slovakia, aimed at young researchers and PhD students
+- Workshops in 2026 were Applied Security (WAS), Computational Aspects of Large-Scale Problems in Discrete Mathematics (CADM), Automata, Formal and Natural Languages (WAFNL), Natural Computing (WNC) and Computational Intelligence and Data Mining (IWCIDM)
+- Each workshop sets its own deadlines and runs its own review (usually two reviewers per paper)
+- Regular papers appear in the ITAT proceedings in CEUR Workshop Proceedings, indexed in Scopus; overview and work-in-progress abstracts go to a separate volume outside CEUR
+- Registration includes hotel and full board (2026 early fee 520 EUR full, 465 EUR students for four nights; cheaper two or three night workshop options and online rates)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-25
+  end: 2026-09-29
+  location: Hotel Vrsatec, Biele Karpaty, Slovakia
+  url: https://itat.ics.upjs.sk/
+  deadlines:
+  - kind: other
+    date: 2026-03-31
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-06-30
+    label: CADM papers
+  - kind: abstract
+    date: 2026-06-21
+    label: WAFNL abstracts
+  - kind: submission
+    date: 2026-06-30
+    label: WAFNL papers
+  - kind: abstract
+    date: 2026-06-21
+    label: WAS short summary
+  - kind: submission
+    date: 2026-07-07
+    label: WAS papers and extended abstracts
+  - kind: abstract
+    date: 2026-06-19
+    label: IWCIDM abstracts
+  - kind: submission
+    date: 2026-07-03
+    label: IWCIDM papers
+  - kind: submission
+    date: 2026-07-12
+    label: WNC papers (extended deadline)
+  - kind: notification
+    date: 2026-07-31
+    label: WAS, WAFNL and WNC
+  - kind: camera_ready
+    date: 2026-08-20
+    label: Final versions (conference-wide)
+sources:
+- https://itat.ics.upjs.sk/
+- https://itat.ics.upjs.sk/index.php?id=dates
+- https://itat.ics.upjs.sk/index.php?id=authors
+- https://itat.ics.upjs.sk/index.php?id=fees
+- https://itat.ics.upjs.sk/index.php?id=previous
+- https://itat.ics.upjs.sk/index.php?id=workshops
+- https://itat.ics.upjs.sk/index.php?id=ws/WAS
+- https://itat.ics.upjs.sk/index.php?id=ws/CADM
+- https://itat.ics.upjs.sk/index.php?id=ws/WAFNL
+- https://itat.ics.upjs.sk/index.php?id=ws/WNC
+- https://itat.ics.upjs.sk/index.php?id=ws/IWCIDM
+- https://ceur-ws.org/Vol-3792/
+- https://portal.core.edu.au/conf-ranks/?search=ITAT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ITAT 2027 not announced yet (dates and venue unknown)

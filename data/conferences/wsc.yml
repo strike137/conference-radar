@@ -1,0 +1,81 @@
+id: wsc
+name: WSC
+full_name: Winter Simulation Conference
+type: conference
+tier: minor
+areas: [general, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: INFORMS Simulation Society, ACM SIGSIM, IISE and SCS (technical co-sponsors ASA, ASIM, IEEE SMC and NIST)
+organizer_country: [usa]
+proceedings: ACM DL and IEEE Xplore
+archival: true
+rank:
+  core: National/Regional
+typical:
+  deadline_months: [4]
+  conference_months: [12]
+links:
+  website: https://meetings.informs.org/wordpress/wsc2026/
+notes:
+- Long-running main venue for discrete-event simulation and modeling, held annually since 1967, almost always in December
+- Sponsored by ACM SIGSIM, IISE, INFORMS Simulation Society and SCS; full papers appear in the ACM and IEEE digital libraries
+- Usually held in the USA (2023 San Antonio, 2024 Orlando, 2025 Seattle); occasionally abroad (2022 Singapore, 2026 Glasgow)
+- Full papers up to 12 pages, all peer reviewed; separate deadlines for contributed and invited (track organizer) papers
+- Poster extended abstracts and PhD Colloquium abstracts have later deadlines and are not in the ACM/IEEE proceedings
+- Each accepted paper needs its own paid registration; an online participation option is offered through the Simulation Around the World track
+- Listed as National/Regional in CORE ICORE2026 and not in the CCF list, so tier is minor under the site rules despite its long history
+editions:
+- year: 2025
+  start: 2025-12-07
+  end: 2025-12-10
+  location: Sheraton Grand Seattle, Seattle, USA
+  url: https://meetings.informs.org/wordpress/wsc2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-11
+    label: Contributed papers
+  - kind: submission
+    date: 2025-05-02
+    label: Invited papers
+  - kind: notification
+    date: 2025-06-02
+  - kind: camera_ready
+    date: 2025-06-27
+- year: 2026
+  start: 2026-12-06
+  end: 2026-12-09
+  location: Scottish Event Campus and Crowne Plaza, Glasgow, UK
+  url: https://meetings.informs.org/wordpress/wsc2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-12
+    label: Contributed papers
+  - kind: submission
+    date: 2026-05-01
+    label: Invited papers
+  - kind: notification
+    date: 2026-05-25
+  - kind: camera_ready
+    date: 2026-06-26
+  - kind: other
+    date: 2026-08-07
+    label: Poster extended abstracts (not in ACM/IEEE proceedings)
+- year: 2027
+  start: 2027-12-12
+  end: 2027-12-15
+  location: Sheraton San Diego Resort, San Diego, USA
+sources:
+- https://meetings.informs.org/wordpress/wsc2026/
+- https://meetings.informs.org/wordpress/wsc2026/call-for-papers/
+- https://meetings.informs.org/wordpress/wsc2026/authorsubmission/
+- https://meetings.informs.org/wordpress/wsc2026/future-conferences/
+- https://meetings.informs.org/wordpress/wsc2026/past-conferences/
+- https://meetings.informs.org/wordpress/wsc2025/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=WSC&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Deadline times and time zones are not stated on the call for papers
+- WSC 2027 call for papers not published yet; only dates and venue are announced
+- Registration fees and acceptance rate not checked

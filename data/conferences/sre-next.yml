@@ -1,0 +1,61 @@
+id: sre-next
+name: SRE NEXT
+full_name: SRE NEXT
+type: industry
+tier: minor
+areas: [systems, software]
+region: japan
+language: mixed
+frequency: annual
+organizer: SRE NEXT (general incorporated association, run by members of the SRE Lounge community)
+organizer_country: [japan]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://sre-next.dev/
+notes:
+- Japanese practitioner conference on site reliability engineering, run mainly by members of the SRE Lounge community
+  meetup; the organizing body became a general incorporated association in January 2022
+- Talk proposals only (30 min sessions, plus a later call for 5 min lightning talks); no papers or proceedings
+- Proposal form accepts Japanese or English; most talks are in Japanese
+- Held in Tokyo (2023 Kudan Kaikan Terrace, 2024 Abema Towers, 2025 to 2027 TOC Ariake); one day in 2023, two days since 2024, in July since 2025
+- Acceptance is announced about two weeks after the CFP deadline; up to two proposals per person, at most one accepted
+editions:
+- year: 2026
+  start: 2026-07-10
+  end: 2026-07-11
+  location: TOC Ariake, Tokyo, Japan
+  url: https://sre-next.dev/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-25
+    time: '23:59'
+    tz: JST
+    label: CFP (30 min sessions)
+  - kind: other
+    date: 2026-04-28
+    time: '23:59'
+    tz: JST
+    label: Lightning talk proposals
+- year: 2027
+  start: 2027-07-09
+  end: 2027-07-10
+  location: TOC Ariake Convention Hall, Tokyo, Japan
+  url: https://sre-next.dev/2027/
+sources:
+- https://sre-next.dev/2027/
+- https://sre-next.dev/2026/
+- https://sre-next.dev/2025/
+- https://sre-next.dev/2024/
+- https://sre-next.dev/2023/
+- https://blog.sre-next.dev/entry/202602261200
+- https://blog.sre-next.dev/entry/2026/04/15/124657
+- https://blog.sre-next.dev/entry/2025/03/14/090000
+- https://blog.sre-next.dev/entry/2022/05/19/133106
+- https://portal.core.edu.au/conf-ranks/?search=SRE+NEXT&by=all&source=ICORE2026
+unverified:
+- SRE NEXT 2027 call for proposals dates (site says they will be announced on News and X)
+last_verified: 2026-10-17

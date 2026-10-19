@@ -1,0 +1,60 @@
+id: evaleval
+name: EvalEval
+full_name: 'Workshop on Evaluating Evaluations: Examining Best Practices for Utilizing and Developing Generative Model Evaluations'
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: EvalEval Coalition (program chairs from ETH Zurich, Weizenbaum Institute and TU Munich, MIT and IBM Research,
+  Hugging Face, Iowa State University, EleutherAI and University of Edinburgh)
+organizer_country: [usa, europe]
+proceedings: ACL Anthology (2026, opt-in archival)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [7, 12]
+links:
+  website: https://evalevalai.com/events/2026-acl-workshop/
+notes:
+- Workshop on how generative AI evaluations are designed, validated and used, including social impact evaluation
+- Held at NeurIPS 2024 (Vancouver) and ACL 2026 (San Diego); in person
+- Full (6 to 8 pages), short (up to 4 pages) and tiny (up to 2 pages) papers; two-way anonymized review on OpenReview
+- Non-archival by default; accepted authors may opt in to archival publication (22 papers in the ACL Anthology in 2026)
+- Previously published papers, including ACL 2026 main and Findings papers, may be submitted
+- Authors are expected to serve as reviewers
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  label: With NeurIPS 2024
+  start: 2024-12-15
+  end: 2024-12-15
+  location: Vancouver, Canada
+  url: https://evalevalai.com/events/
+- year: 2026
+  label: With ACL 2026
+  start: 2026-07-04
+  end: 2026-07-04
+  location: San Diego, USA
+  url: https://evalevalai.com/events/2026-acl-workshop/
+  deadlines:
+  - kind: submission
+    date: 2026-03-19
+    tz: AoE
+    label: Extended from 2026-03-12
+  - kind: notification
+    date: 2026-04-28
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-14
+    tz: AoE
+sources:
+- https://evalevalai.com/events/2026-acl-workshop/
+- https://evalevalai.com/events/
+- https://aclanthology.org/venues/evaleval/
+- https://portal.core.edu.au/conf-ranks/?search=EvalEval&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Deadlines of the NeurIPS 2024 edition not recorded
+- Next edition not announced yet

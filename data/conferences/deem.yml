@@ -1,0 +1,50 @@
+id: deem
+name: DEEM
+full_name: Workshop on Data Management for End-to-End Machine Learning
+type: workshop
+tier: minor
+areas: [data, ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: DEEM steering committee; co-located with ACM SIGMOD/PODS
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://deemworkshop.github.io/
+notes:
+- Workshop held with ACM SIGMOD/PODS since 2017, so it moves with SIGMOD (2026 in Bengaluru, India)
+- 'Scope: data management problems in end-to-end ML pipelines (data preparation, model management, ML lifecycle, responsible ML, LLM data systems)'
+- Research papers up to 8 pages and short papers up to 4 pages plus references, ACM sigconf format
+- Single-anonymous review via Microsoft CMT
+- Papers appear in the ACM Digital Library (DEEM 2025 and 2026 proceedings are linked from the site)
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 10th edition, with ACM SIGMOD/PODS 2026
+  start: 2026-06-05
+  end: 2026-06-05
+  location: Bengaluru, India
+  url: https://deemworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-06
+    time: "17:00"
+    tz: PST
+    label: Extended from February 27 (5pm Pacific Time)
+  - kind: notification
+    date: 2026-04-03
+  - kind: camera_ready
+    date: 2026-04-17
+sources:
+- https://deemworkshop.github.io/
+- https://dl.acm.org/doi/proceedings/10.1145/3735654
+- https://portal.core.edu.au/conf-ranks/?search=DEEM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- DEEM 2027 not announced yet
+- Submission deadline is stated as 5pm Pacific Time without saying PST or PDT (March 6, 2026 falls in PST)

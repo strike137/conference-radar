@@ -1,0 +1,76 @@
+id: fdl
+name: FDL
+full_name: Forum on Specification and Design Languages
+type: conference
+tier: minor
+areas: [systems, software]
+region: europe
+language: english
+frequency: annual
+organizer: FDL steering committee (2026 hosted by Guglielmo Marconi University, Rome)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+fee: 700 EUR (2026, non-member early); IFIP/IEEE members 650 EUR, students 450 EUR
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://fdl-conference.com/
+notes:
+- European forum on languages, tools and techniques for hardware/software design (cyber-physical, embedded, real-time and reactive systems)
+- 29th edition in 2026; held in Europe every year (Antibes, Linz, Turin, Stockholm, St. Goar, Rome for 2021 to 2026)
+- Proceedings in IEEE Xplore; accepted research papers are invited to a special session in the ACM TECS journal
+- Research and tool papers are 6 pages plus 1 page of references (IEEE double column); also Wild and Crazy Ideas papers and a PhD forum
+- Co-located summer school
+- ICORE2026 rank C; not in the CCF list
+editions:
+- year: 2026
+  start: 2026-09-09
+  end: 2026-09-11
+  location: Rome, Italy
+  url: https://fdl-conference.com/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-31
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-06-07
+    time: "23:59"
+    tz: AoE
+    label: Regular, tool and Wild and Crazy Ideas papers
+  - kind: other
+    date: 2026-05-25
+    time: "23:59"
+    tz: AoE
+    label: Special session proposals
+  - kind: other
+    date: 2026-06-29
+    time: "23:59"
+    tz: AoE
+    label: Special session papers
+  - kind: other
+    date: 2026-07-01
+    time: "23:59"
+    tz: AoE
+    label: PhD forum submission
+  - kind: notification
+    date: 2026-07-13
+    label: Regular papers (tool and Wild and Crazy Ideas papers 2026-07-06)
+  - kind: camera_ready
+    date: 2026-07-31
+sources:
+- https://fdl-conference.com/
+- https://fdl-conference.com/assets/res/general.json
+- https://fdl-conference.com/submission.html
+- https://fdl-conference.com/prevconf.html
+- https://portal.core.edu.au/conf-ranks/?search=FDL&by=acronym&source=ICORE2026
+unverified:
+- "FDL 2026 news items give notification 2026-07-06 and camera-ready 2026-07-24, while the deadline table gives 2026-07-13 and 2026-07-31 for regular papers"
+- FDL 2025 (St. Goar) dates and deadlines not recorded; FDL 2027 not announced
+- Organizer society not stated on the official site
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-10-17

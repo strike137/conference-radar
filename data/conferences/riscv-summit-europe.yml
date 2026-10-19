@@ -1,0 +1,71 @@
+id: riscv-summit-europe
+name: RISC-V Summit Europe
+full_name: RISC-V Summit Europe
+type: conference
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: RISC-V International with local hosts (Unibo in 2026; CEA, INRIA and KIT France in 2025)
+organizer_country: [europe]
+proceedings: Extended abstracts, slides and posters on the summit website
+archival: false
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5, 6]
+links:
+  website: https://riscv-europe.org/
+notes:
+- European RISC-V community summit run by RISC-V International with a European steering committee
+- Started in 2023 as a merger of Red-RISC-V (Spain), RISC-V Week (France) and the German RISC-V workshop
+- Mix of industry, research and academia; keynotes, plenary talks, posters, demos and an expo
+- Two-page extended abstracts, blind (preferred) or non-blind review; most accepted contributions become posters, some selected for talks
+- Accepted abstracts, slides and posters are posted on the event website only; no formal proceedings
+- At least one author must register for the core conference days
+- Editions so far -> Barcelona 2023, Munich 2024, Paris 2025, Bologna 2026
+editions:
+- year: 2025
+  start: 2025-05-12
+  end: 2025-05-15
+  location: Paris, France
+  url: https://riscv-europe.org/summit/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-02-07
+    tz: AoE
+    label: Extended abstract submission
+  - kind: notification
+    date: 2025-03-07
+  - kind: camera_ready
+    date: 2025-04-21
+    label: Final abstract PDF and slides
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-12
+  location: Bologna, Italy
+  url: https://riscv-europe.org/summit/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-09
+    tz: AoE
+    label: Extended abstract submission (extended from March 2)
+  - kind: notification
+    date: 2026-04-24
+    label: Notifications sent April 17 to 24
+  - kind: camera_ready
+    date: 2026-05-29
+    label: Final abstract, poster and slides
+sources:
+- https://riscv-europe.org/
+- https://riscv-europe.org/summit/2026/
+- https://riscv-europe.org/summit/2026/call-for-contrib
+- https://riscv-europe.org/summit/2026/about
+- https://riscv-europe.org/summit/2025/
+- https://riscv-europe.org/summit/2025/cfp
+- https://riscv-europe.org/summit/2025/about
+- https://portal.core.edu.au/conf-ranks/?search=RISC-V&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- 2027 edition not announced yet
+- Not listed in the CORE ICORE2026 portal

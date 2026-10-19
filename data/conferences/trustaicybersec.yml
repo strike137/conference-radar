@@ -1,0 +1,69 @@
+id: trustaicybersec
+name: TrustAICyberSec
+full_name: International Workshop on Trusted Computing and Artificial Intelligence applied to Cybersecurity
+type: workshop
+tier: minor
+areas: [security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Politecnico di Torino (Diana Berbecaru, Silvia Sisinni), with University of Aizu as 2026 co-chair
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4, 7]
+  conference_months: [7, 11]
+links:
+  website: https://sites.google.com/view/trustaicybersec26
+notes:
+- Third edition in 2026; moved from IEEE ISCC (2024 Paris, 2025 Bologna, IEEE Xplore proceedings) to ACM CCS 2026 in The Hague
+- 'Topics: trusted computing and remote attestation, AI for intrusion detection, post-quantum crypto integration, incident response, IoT security'
+- 2026 papers up to 10 pages in ACM sigconf format including references; anonymous submission via HotCRP; full research and SoK papers
+- 2026 papers are published in the ACM Digital Library; a small one-day program (eight papers plus two keynotes in 2026)
+editions:
+- year: 2025
+  start: 2025-07-02
+  end: 2025-07-02
+  location: Bologna, Italy
+  url: https://sites.google.com/view/trustaicybersec-2025/home
+  deadlines:
+  - kind: submission
+    date: 2025-04-10
+    label: Extended from March 14
+  - kind: notification
+    date: 2025-04-15
+    label: Extended from March 26
+  - kind: camera_ready
+    date: 2025-04-18
+- year: 2026
+  label: With ACM CCS 2026
+  start: 2026-11-19
+  end: 2026-11-19
+  location: The Hague, Netherlands
+  url: https://sites.google.com/view/trustaicybersec26
+  deadlines:
+  - kind: submission
+    date: 2026-07-24
+    tz: AoE
+    label: Extended from July 10
+  - kind: notification
+    date: 2026-09-04
+    label: Updated from September 3
+  - kind: camera_ready
+    date: 2026-09-30
+    label: Extended from September 17
+sources:
+- https://sites.google.com/view/trustaicybersec26
+- https://sites.google.com/view/trustaicybersec26/program
+- https://sites.google.com/view/trustaicybersec26/past-editions
+- https://sites.google.com/view/trustaicybersec-2025/home
+- https://sites.google.com/view/trustaicybersec-2025/program
+- https://sites.google.com/view/trustedaicybersec2024
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=TrustAICyberSec&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Host conference for 2027 not announced (it changed from IEEE ISCC to ACM CCS in 2026), so typical months are uncertain
+- Acceptance rate not published
+- Not listed on the CORE portal (ICORE2026)

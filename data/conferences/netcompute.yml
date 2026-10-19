@@ -1,0 +1,55 @@
+id: netcompute
+name: NetCompute
+full_name: IEEE INFOCOM Workshop on Computation over Heterogeneous Networks
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs from the University of Southern California, Loyola Marymount University and Carnegie Mellon University, co-located with IEEE INFOCOM
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://netcompute.org
+notes:
+- First held in 2026 as a half-day workshop at IEEE INFOCOM 2026 in Tokyo
+- Topics include in-network computing, task scheduling and offloading, communication-efficient and federated learning, edge intelligence and satellite computing
+- Papers up to 6 pages in IEEE conference format, submitted via EDAS
+- Accepted and presented papers appear in the IEEE INFOCOM Workshop Proceedings in IEEE Xplore
+- 7 papers accepted in 2026
+- Organized by Bhaskar Krishnamachari (USC), Jared Coleman (Loyola Marymount University) and Carlee Joe-Wong (CMU)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-18
+  end: 2026-05-18
+  location: Tokyo, Japan
+  url: https://netcompute.org
+  deadlines:
+  - kind: submission
+    date: 2026-01-10
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-12-29
+  - kind: notification
+    date: 2026-02-02
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-04
+    time: "23:59"
+    tz: AoE
+sources:
+- https://netcompute.org
+- https://infocom2026.ieee-infocom.org/workshop-computation-over-heterogeneous-networks-netcompute-call-papers
+- https://portal.core.edu.au/conf-ranks/?search=NetCompute&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Whether a 2027 edition will be held at IEEE INFOCOM 2027; the INFOCOM 2027 workshop list is not out yet
+- Camera-ready date is 2026-03-04 on the workshop site but 2026-02-16 on the INFOCOM workshop CFP page
+- Region follows the host conference, which rotates worldwide

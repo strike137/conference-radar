@@ -1,0 +1,54 @@
+id: wad-cvpr
+name: WAD
+full_name: CVPR Workshop on Autonomous Driving
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers from Waymo, NVIDIA, Robotics and AI Institute, MIT and INSAIT); co-located
+  with CVPR
+organizer_country: [usa]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://cvpr2026.wad.vision/
+notes:
+- Full-day CVPR workshop on perception, prediction, planning and simulation for autonomous vehicles; the 2026 edition was its
+  9th year
+- Keynotes mostly from industry (Waymo, Tesla, Wayve, Mobileye, NVIDIA, Waabi in 2026)
+- Hosts benchmark challenges (Argoverse Scenario Mining and LiDAR Scene Flow, KITScenes LongTail in 2026)
+- Papers up to 8 pages excluding references in CVPR format, double-blind review, submitted through Microsoft CMT; all accepted
+  papers are posters
+- Accepted papers go into the CVPR workshop proceedings (10 papers in 2026, 17 in 2025 on CVF Open Access)
+- Website moves to a new subdomain each year (cvpr2026.wad.vision)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA
+  url: https://cvpr2026.wad.vision/
+  deadlines:
+  - kind: submission
+    date: 2026-03-02
+    time: "23:59"
+    tz: PST
+    label: Extended
+  - kind: notification
+    date: 2026-03-23
+  - kind: camera_ready
+    date: 2026-04-10
+sources:
+- https://cvpr2026.wad.vision/
+- https://openaccess.thecvf.com/CVPR2026_workshops/WAD
+- https://openaccess.thecvf.com/CVPR2025_workshops/WAD
+- https://portal.core.edu.au/conf-ranks/?search=WAD&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Original 2026 submission deadline was 2026-02-27 and notification 2026-03-20 before the extensions
+- Next edition (WAD 2027) not announced yet

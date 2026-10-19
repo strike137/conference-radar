@@ -1,0 +1,70 @@
+id: ciaa
+name: CIAA
+full_name: International Conference on Implementation and Application of Automata
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: CIAA Steering Committee (chair Markus Holzer, University of Giessen), with a local host institution each year
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3, 5]
+  conference_months: [8, 9]
+links:
+  website: https://www.informatik.uni-giessen.de/ciaa/
+notes:
+- Annual conference on the theory, implementation and application of automata and related structures
+- Proceedings in Springer LNCS; extended versions of selected papers invited to a journal special issue (TCS for 2026, IJFCS for 2025)
+- Submissions up to 12 pages in LNCS style excluding title page and references (CIAA 2025 call)
+- Sheng Yu Award for the best paper
+- Mostly held in Europe with occasional editions in Asia and North America (Akita 2024, Kingston 2026)
+- CIAA 2026 was the 30th edition, co-located with DCFS 2026 and with a tool track
+- Ranked C in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  label: 29th CIAA
+  start: 2025-09-22
+  end: 2025-09-25
+  location: Palermo, Italy
+  url: https://ciaa2025.unipa.it/
+  deadlines:
+  - kind: submission
+    date: 2025-05-16
+    tz: AoE
+    label: Extended from 2025-05-03
+  - kind: notification
+    date: 2025-06-23
+  - kind: camera_ready
+    date: 2025-06-30
+- year: 2026
+  label: 30th CIAA
+  start: 2026-08-05
+  end: 2026-08-08
+  location: Kingston, Ontario, Canada
+  url: https://research.cs.queensu.ca/ciaa2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-27
+    label: Extended from 2026-03-20
+  - kind: notification
+    date: 2026-05-01
+  - kind: camera_ready
+    date: 2026-05-08
+sources:
+- https://www.informatik.uni-giessen.de/ciaa/
+- https://ciaa2025.unipa.it/call-for-papers/
+- https://ciaa2025.unipa.it/important-dates/
+- https://ciaa2025.unipa.it/committees/
+- https://research.cs.queensu.ca/ciaa2026/
+- https://portal.core.edu.au/conf-ranks/?search=CIAA&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-10-17
+unverified:
+- CIAA 2027 host and dates not announced on an official page found as of 2026-10-17
+- CIAA 2026 deadline time zone not stated on its site

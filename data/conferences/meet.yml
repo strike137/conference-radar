@@ -1,0 +1,73 @@
+id: meet
+name: MEET
+full_name: International Conference on Meta-Networking
+type: conference
+tier: minor
+areas: [networking, communications, ai]
+region: japan
+language: english
+frequency: annual
+organizer: Meta-Networking Research Center, The University of Electro-Communications (UEC)
+organizer_country: [japan]
+proceedings: IEEE Xplore
+archival: true
+fee: 80,000 JPY (2026, author full registration, IEEE member, early)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10]
+links:
+  website: http://meet.uec.ac.jp/meet-2026/
+notes:
+- Run by the Meta-Networking Research Center of the University of Electro-Communications, Chofu, Tokyo
+- Started in 2025; both editions held at UEC in Chofu, Tokyo
+- IEEE and IEEE ComSoc logos shown as technical co-sponsors
+- Full papers of 5 to 6 pages in IEEE format via EDAS, each reviewed by at least three experts
+- Accepted and presented papers are submitted to IEEE Xplore
+- Topics include AI for wireless networks, optical communication, ground-air-space networks, quantum communication and edge computing
+- Selected papers may be recommended to the journals CMC (Computers, Materials & Continua) and Intelligent Networking and Computing
+- Deadline extended twice in both years (2025 -> Aug 20, 2026 -> Sep 6)
+- Remote presentation by video or Zoom allowed when visa or other constraints prevent travel (2026)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-24
+  end: 2025-10-26
+  location: Chofu, Tokyo, Japan
+  url: http://meet.uec.ac.jp/meet-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-20
+    label: Papers (extended from 2025-07-20 and 2025-08-10)
+  - kind: notification
+    date: 2025-09-05
+    label: Extended from 2025-08-25
+  - kind: camera_ready
+    date: 2025-09-30
+- year: 2026
+  start: 2026-10-30
+  end: 2026-11-01
+  location: Chofu, Tokyo, Japan
+  url: http://meet.uec.ac.jp/meet-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-06
+    label: Papers (extended from 2026-07-20)
+  - kind: notification
+    date: 2026-09-20
+    label: Extended from 2026-08-25
+sources:
+- http://meet.uec.ac.jp/meet-2026/
+- http://meet.uec.ac.jp/meet-2026/call-for-papers
+- http://meet.uec.ac.jp/meet-2026/paper-submission
+- http://meet.uec.ac.jp/meet-2026/registration
+- http://meet.uec.ac.jp/meet-2026/program
+- http://meet.uec.ac.jp/meet-2026/conference-committee-2026/
+- http://meet.uec.ac.jp/meet-2025/
+- http://meet.uec.ac.jp/category/ic/
+- https://portal.core.edu.au/conf-ranks/?search=Meta-Networking&by=all&source=ICORE2026
+unverified:
+- Deadline time zone not stated (pages give 23:59 only)
+- MEET 2026 camera-ready date differs between pages (Oct 10 on the call for papers, Oct 15 on the home page, Oct 20 on the registration page)
+- 2026 intermediate extension date differs between pages (Aug 10 on the call for papers, Aug 30 on the home page)
+- Whether MEET 2025 papers have appeared in IEEE Xplore
+last_verified: 2026-10-17

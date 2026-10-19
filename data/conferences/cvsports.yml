@@ -1,0 +1,55 @@
+id: cvsports
+name: CVsports
+full_name: International Workshop on Computer Vision in Sports
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Organizing team led by Aalborg University (Denmark) with KAUST, University of Liege, IBM Research and Universitat de Barcelona
+organizer_country: [europe]
+proceedings: CVF Open Access (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://vap.aau.dk/cvsports/
+notes:
+- Workshop on computer vision for sports analytics, tracking, broadcasting and training, started at CVPR 2013
+- Held with CVPR every year since 2017 (ICCV in 2015); 2026 was the 12th edition
+- Papers are submitted and reviewed on OpenReview and published in the CVPR Workshops proceedings
+- 24 papers in the CVPR 2026 workshop proceedings on CVF Open Access
+- No deadline extensions because of the CVPR proceedings timeline
+- A non-archival Nectar track lets authors of sports papers accepted at the CVPR main conference present a poster
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 12th edition, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, USA
+  url: https://vap.aau.dk/cvsports/
+  deadlines:
+  - kind: submission
+    date: 2026-03-05
+    tz: AoE
+  - kind: notification
+    date: 2026-03-25
+  - kind: camera_ready
+    date: 2026-04-10
+  - kind: other
+    date: 2026-04-20
+    label: Nectar track applications (CVPR main conference papers)
+sources:
+- https://vap.aau.dk/cvsports/
+- https://vap.aau.dk/cvsports/12th-international-workshop-on-computer-vision-in-sports-cvsports-at-cvpr-2026/call-for-papers/
+- https://vap.aau.dk/cvsports/12th-international-workshop-on-computer-vision-in-sports-cvsports-at-cvpr-2026/program/
+- https://vap.aau.dk/cvsports/12th-international-workshop-on-computer-vision-in-sports-cvsports-at-cvpr-2026/organizers/
+- https://openaccess.thecvf.com/CVPR2026_workshops/CVsports
+- https://portal.core.edu.au/conf-ranks/?search=CVsports&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- IEEE Xplore inclusion is likely (usual CVPR Workshops practice) but the CFP mentions only the CVPR/IEEE proceedings timeline, not the series by name
+- CVsports 2027 (expected with CVPR 2027 in June 2027) not announced yet

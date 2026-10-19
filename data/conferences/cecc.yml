@@ -1,0 +1,53 @@
+id: cecc
+name: CECC
+full_name: Central European Conference on Cryptology
+type: conference
+tier: minor
+areas: [crypto]
+region: europe
+language: english
+frequency: annual
+organizer: 'Rotating Central European universities (2025: Department of Computer Algebra, Eotvos Lorand University)'
+organizer_country: [europe]
+proceedings: None (extended abstracts posted on the website); full versions invited to a special issue of Studia Scientiarum Mathematicarum Hungarica
+archival: false
+fee: 200 EUR (2025, regular); students 100 EUR
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://cecc2025.inf.elte.hu/
+notes:
+- Small cryptology meeting for researchers and graduate students; 25th edition in 2025, predecessor events ran as TATRACRYPT (from 2001) and other regional names
+- Rotates among Central European countries (Debrecen 2021, Smolenice 2022, Linz 2023, Warsaw 2024, Budapest 2025)
+- Submissions are 2 to 4 page extended abstracts; an abstract booklet is posted on the website
+- Speakers are invited to submit full versions to a journal special issue with standard review
+- In person only
+- Not in ICORE2026; not in the CCF list
+editions:
+- year: 2025
+  start: 2025-06-19
+  end: 2025-06-20
+  location: Budapest, Hungary
+  url: https://cecc2025.inf.elte.hu/
+  deadlines:
+  - kind: submission
+    date: 2025-03-31
+    label: Extended abstracts (extended from 2025-03-20)
+  - kind: notification
+    date: 2025-05-10
+  - kind: other
+    date: 2025-05-23
+    label: Poster submission
+  - kind: camera_ready
+    date: 2025-05-31
+  - kind: other
+    date: 2025-06-06
+    label: Registration (extended from 2025-05-31)
+sources:
+- https://cecc2025.inf.elte.hu/
+- https://portal.core.edu.au/conf-ranks/?search=CECC&by=acronym&source=ICORE2026
+unverified:
+- CECC 2026 dates and location (not found on an official page)
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-10-17

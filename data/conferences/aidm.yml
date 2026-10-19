@@ -1,0 +1,52 @@
+id: aidm
+name: aiDM
+full_name: International Workshop on Exploiting Artificial Intelligence Techniques for Data Management
+type: workshop
+tier: minor
+areas: [data, ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: aiDM workshop organizers; co-located with ACM SIGMOD/PODS
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: http://www.aidm-conf.org/
+notes:
+- One-day workshop held with ACM SIGMOD/PODS every year since 2018, so it moves with SIGMOD (2025 Berlin, 2026 Bengaluru)
+- 'Scope: using AI techniques inside data management systems (natural language interfaces, learned query optimization and tuning, generative AI for enterprise data workloads)'
+- Full papers up to 12 pages plus references; shorter 4 or 8 page papers are encouraged
+- Double-blind review via EasyChair, ACM SIGMOD format
+- Accepted papers are published in the ACM Digital Library (proceedings for every edition since 2018 are linked from the site)
+- 9th edition in 2026
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 9th edition, with ACM SIGMOD/PODS 2026
+  start: 2026-05-31
+  end: 2026-05-31
+  location: Bengaluru, India
+  url: http://www.aidm-conf.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-06
+    time: "17:00"
+    tz: EST
+    label: Updated deadline
+  - kind: notification
+    date: 2026-04-24
+  - kind: camera_ready
+    date: 2026-05-04
+sources:
+- http://www.aidm-conf.org/
+- https://2026.sigmod.org/sigmod_workshops.shtml
+- https://2025.sigmod.org/sigmod_workshops.shtml
+- https://portal.core.edu.au/conf-ranks/?search=aiDM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- aiDM 2027 not announced yet
+- Submission deadline is stated as 5pm EST, although April 6, 2026 falls in US daylight time, so EDT may be meant

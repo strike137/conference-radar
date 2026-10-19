@@ -1,0 +1,57 @@
+id: pytexas
+name: PyTexas
+full_name: PyTexas Conference
+type: industry
+tier: minor
+areas: [software, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: PyTexas Foundation (community volunteers)
+organizer_country: [usa]
+proceedings: None (talks recorded and posted on YouTube)
+archival: false
+typical:
+  deadline_months: [12, 1]
+  conference_months: [4]
+links:
+  website: https://www.pytexas.org/
+notes:
+- Annual regional conference of the Python community in Texas, held nearly every year since 2007; 2026 was the 20th edition
+- Run by community volunteers under the PyTexas Foundation, which was formed out of the conference in 2014
+- Single track, about 250 attendees; 289 tickets sold in 2026 (sold out), 59% first time attendees
+- Held at the Austin Central Library in downtown Austin every year since at least 2023, in April before PyCon US
+- One CFP on Pretalx covers 25 minute talks, 3 hour tutorials (500 USD honorarium) and the Python Community Leadership Summit co-hosted with Black Python Devs (new for 2027)
+- In-person talks only; no papers or proceedings
+editions:
+- year: 2026
+  start: 2026-04-17
+  end: 2026-04-19
+  location: Austin Central Library, Austin, Texas, USA
+  url: https://www.pytexas.org/2026/
+  deadlines: []
+- year: 2027
+  start: 2027-04-16
+  end: 2027-04-18
+  location: Austin Central Library, Austin, Texas, USA
+  url: https://www.pytexas.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-12-11
+    time: "23:59"
+    tz: UTC-6
+    label: Call for proposals (talks, tutorials, leadership summit)
+sources:
+- https://www.pytexas.org/
+- https://www.pytexas.org/conference/
+- https://www.pytexas.org/2027/
+- https://www.pytexas.org/2027/speaking/
+- https://www.pytexas.org/2026/
+- https://www.pytexas.org/2025/
+- https://www.pytexas.org/2024/
+- https://www.pytexas.org/2023/
+- https://portal.core.edu.au/conf-ranks/?search=PyTexas&by=all&source=ICORE2026
+unverified:
+- 2026 call for proposals deadline not recorded
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

@@ -1,0 +1,81 @@
+id: ieee-indin
+name: IEEE INDIN
+full_name: IEEE International Conference on Industrial Informatics
+type: conference
+tier: minor
+areas: [systems, ai, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Industrial Electronics Society (IES)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [1, 4]
+  conference_months: [5, 7]
+links:
+  website: https://indin2027.ieee-ies.org/
+notes:
+- Annual conference financially and technically sponsored by the IEEE Industrial Electronics Society; 2027 is the 25th edition
+- Industrial information technology scope (industrial AI and agents, safety and security, robotics, factory communication
+  and automation, digital twins, real-time and embedded systems, IoT, smart grids)
+- Regular papers 6 pages with up to 2 extra pages for a fee; work-in-progress papers up to 4 pages, also in IEEE Xplore
+- Single-blind review by three reviewers
+- Rotates worldwide (Palma de Mallorca 2021, Perth 2022, Lemgo 2023, Beijing 2024, Kunming 2025, Melbourne 2026, Lisbon 2027)
+- 2027 edition moves to May, so its deadlines are in December and January instead of spring
+- CORE C in ICORE2026; not in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-26
+  end: 2026-07-29
+  location: Melbourne, Australia
+  url: https://indin2026.ieee-ies.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+    label: Full papers (extended from 2026-03-31 and 2026-04-17)
+  - kind: notification
+    date: 2026-05-20
+    label: Full papers (announced as 15 to 20 May)
+  - kind: submission
+    date: 2026-05-25
+    label: Work-in-progress papers (extended from 2026-04-30)
+  - kind: notification
+    date: 2026-06-12
+    label: Work-in-progress papers (announced as 10 to 12 June)
+  - kind: camera_ready
+    date: 2026-06-21
+    tz: AoE
+    label: Final papers (extended)
+- year: 2027
+  start: 2027-05-10
+  end: 2027-05-14
+  location: Lisbon, Portugal
+  url: https://indin2027.ieee-ies.org/
+  deadlines:
+  - kind: other
+    date: 2026-12-12
+    label: Special session and tutorial proposals
+  - kind: submission
+    date: 2027-01-12
+    label: Full papers
+  - kind: notification
+    date: 2027-02-16
+  - kind: submission
+    date: 2027-02-16
+    label: Work-in-progress papers
+  - kind: camera_ready
+    date: 2027-03-02
+sources:
+- https://indin2026.ieee-ies.org/
+- https://indin2026.ieee-ies.org/for_authors/index.html
+- https://indin2027.ieee-ies.org/
+- https://indin2027.ieee-ies.org/for_authors/index.html
+- https://portal.core.edu.au/conf-ranks/?search=INDIN&by=all&source=ICORE2026
+unverified:
+- Deadline time zones for INDIN 2027 not stated
+- Acceptance rate and registration fees
+last_verified: 2026-10-17

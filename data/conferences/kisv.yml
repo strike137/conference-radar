@@ -1,0 +1,51 @@
+id: kisv
+name: KISV
+full_name: Workshop on Kernel Isolation, Safety and Verification
+type: workshop
+tier: minor
+areas: [systems, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop co-located with ACM SOSP; organizers Anton Burtsev (University of Utah) and Pierre Olivier (University of
+  Manchester)
+organizer_country: [usa, europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://kisv-workshop.github.io/
+notes:
+- Workshop on kernel isolation, safe languages such as Rust and formal verification of kernel code, co-located with ACM SOSP
+- Editions so far at SOSP 2023 (Koblenz), SOSP 2024 (Austin) and SOSP 2025 (Seoul); the 2024 edition was titled Workshop on
+  Kernel Security, Isolation, and Verification
+- Accepted papers are published in the ACM Digital Library by default
+- Research papers, position papers and experience reports up to 6 pages plus references in the ACM sigplan format; double-blind
+- KISV is not among the workshops co-located with SOSP 2026 (Prague)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Seoul, South Korea
+  url: https://kisv-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-08-08
+    tz: AoE
+    label: Extended from 2025-08-01
+  - kind: notification
+    date: 2025-08-29
+  - kind: camera_ready
+    date: 2025-09-13
+sources:
+- https://kisv-workshop.github.io/
+- https://kisv-workshop.github.io/archive/2024/
+- https://kisv-workshop.github.io/archive/2023/
+- https://sigops.org/s/conferences/sosp/2026/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=KISV&by=all&source=ICORE2026
+unverified:
+- No 2026 edition (not among the SOSP 2026 workshops, checked 2026-10-17); whether it returns in 2027 is not announced
+last_verified: 2026-10-17

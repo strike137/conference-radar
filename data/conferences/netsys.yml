@@ -1,0 +1,59 @@
+id: netsys
+name: NetSys
+full_name: International Conference on Networked Systems
+type: conference
+tier: minor
+areas: [networking, systems]
+region: europe
+language: english
+frequency: biennial
+organizer: GI/ITG special interest group Communication and Distributed Systems (KuVS)
+organizer_country: [europe]
+proceedings: Informal proceedings (TU Ilmenau repository, DOI 10.22032/dbt.66316, 2025)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://www.kuvs.de/netsys/
+notes:
+- Biennial conference of the German KuVS group (anchored in GI and VDE ITG), successor of KiVS (since 1979)
+- Always held in Germany (Stuttgart 2013, Cottbus 2015, Goettingen 2017, Munich 2019, Luebeck 2021, Potsdam 2023,
+  Ilmenau 2025)
+- Since 2021 held in September with the ITG "Future of Networking" (ZdN) symposium and the KuVS general meeting
+- Focus on community networking; calls for 4-page extended abstracts (ongoing work) and hot topic papers
+  (summaries of work already published at top venues), plus demos, tutorials, PhD forum and co-located workshops
+- Non-archival in 2025; the call says "no proceedings" and accepted abstracts appear only as informal
+  proceedings; the KuVS site links earlier NetSys proceedings in IEEE Xplore
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-01
+  end: 2025-09-04
+  location: Ilmenau, Germany
+  url: https://www.kuvs.de/netsys/2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-30
+    label: Extended abstracts and hot topic papers (extended from 2025-05-16)
+  - kind: notification
+    date: 2025-06-18
+    label: Extended (originally 2025-06-13)
+  - kind: camera_ready
+    date: 2025-08-01
+  - kind: other
+    date: 2025-07-11
+    label: Demos (extended from 2025-07-04)
+sources:
+- https://www.kuvs.de/netsys
+- https://www.kuvs.de/netsys/2025
+- https://www.kuvs.de/netsys/2025/calls/call-for-papers-and-demos
+- https://www.kuvs.de/netsys/2025/organization
+- https://www.kuvs.de/netsys/2023
+- https://doi.org/10.22032/dbt.66316
+- https://portal.core.edu.au/conf-ranks/?search=NetSys&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- NetSys 2027 not announced on the KuVS site as of 2026-10-17
+- Deadline time zone not stated on the 2025 call
+- Year range of the earlier IEEE Xplore proceedings and the 2023 publication format not checked

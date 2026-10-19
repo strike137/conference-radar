@@ -1,0 +1,76 @@
+id: nslp
+name: NSLP
+full_name: International Workshop on Natural Scientific Language Processing
+type: workshop
+tier: minor
+areas: [nlp, data]
+region: europe
+language: english
+frequency: annual
+organizer: NFDI4DS consortium (DFKI, GESIS and partners); co-located with ESWC or LREC
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5, 6]
+links:
+  website: https://nfdi4ds.github.io/nslp2026/
+notes:
+- Workshop on processing, analysing and using scientific language (scholarly documents, research knowledge graphs, scientific fact checking)
+- First two editions ran as "Natural Scientific Language Processing and Research Knowledge Graphs" with ESWC (2024 Hersonissos, Crete; 2025 Portorož, Slovenia); 2026 edition moved to LREC 2026 in Palma de Mallorca
+- Proceedings differ by host -> 2024 open access Springer LNAI volume, 2025 ESWC 2025 Joint Workshop Proceedings in CEUR-WS (Vol-3977), 2026 ACL Anthology as part of the LREC 2026 proceedings
+- Runs shared tasks each year (2026 ClimateCheck, SOMD and SciVQA, evaluated on Codabench)
+- Organized by the German NFDI4DS research data infrastructure consortium, led by DFKI and GESIS
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-06-02
+  end: 2025-06-02
+  location: Portorož, Slovenia (co-located with ESWC 2025)
+  url: https://nfdi4ds.github.io/nslp2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-06
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-04-03
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-04-17
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-05-12
+  end: 2026-05-12
+  location: Palma de Mallorca, Spain (co-located with LREC 2026)
+  url: https://nfdi4ds.github.io/nslp2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-03-14
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-27
+    time: "23:59"
+    tz: AoE
+sources:
+- https://nfdi4ds.github.io/nslp2026/
+- https://nfdi4ds.github.io/nslp2026/docs/committees
+- https://nfdi4ds.github.io/nslp2025/
+- https://nfdi4ds.github.io/nslp2024/
+- https://ceur-ws.org/Vol-3977/
+- https://aclanthology.org/venues/nslp/
+- https://aclanthology.org/volumes/2026.nslp-1/
+- https://lrec2026.info/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=NSLP&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- NSLP 2027 not announced yet (host conference unknown)
+- Acceptance rate not published

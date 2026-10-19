@@ -1,0 +1,72 @@
+id: aid-prdc
+name: AID (PRDC)
+full_name: IEEE PRDC Workshop on AI Dependability
+type: workshop
+tier: minor
+areas: [ai, security, software]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Co-located with IEEE PRDC; organized by Huy Kang Kim and Sangkyun Lee (Korea University) with Dan Dongseong
+  Kim (University of Queensland)
+organizer_country: [korea]
+proceedings: IEEE Xplore (part of the PRDC proceedings, IEEE Computer Society Press)
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [11, 12]
+links:
+  website: https://aid2026-workshop.github.io/
+notes:
+- Workshop on the dependability, security and safety of AI and LLM-based systems, held with IEEE PRDC since 2025
+- 'Editions: 2025 Seoul (one day, Nov 4, 9 papers presented in a dedicated session), 2026 Hong Kong'
+- Accepted papers are published by IEEE Computer Society Press as part of the PRDC proceedings (EI indexed per the
+  2026 CFP)
+- 'Up to 6 pages in the IEEE double-column template including references; double-blind in 2026 (single-blind in 2025)'
+- 2026 has a Regular Paper track and an R&D Paper track for interim results of funded research projects
+- Program committee is mostly from Korean universities and the National Security Research Institute
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-04
+  end: 2025-11-04
+  location: Seoul, South Korea
+  url: https://aid2025-workshop.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-04
+    tz: AoE
+    label: Extended from 2025-09-30
+  - kind: submission
+    date: 2025-10-07
+    tz: AoE
+  - kind: notification
+    date: 2025-10-21
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-25
+    tz: AoE
+- year: 2026
+  start: 2026-12-02
+  end: 2026-12-04
+  location: Hong Kong SAR, China
+  url: https://aid2026-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-09-18
+    tz: AoE
+    label: Extended from 2026-09-11
+  - kind: notification
+    date: 2026-10-09
+    tz: AoE
+sources:
+- https://aid2026-workshop.github.io/
+- https://aid2025-workshop.github.io/
+- https://aid2025-workshop.github.io/schedule/
+- https://prdc-symposium.org/2026/
+- https://portal.core.edu.au/conf-ranks/?search=AID&by=acronym&source=ICORE2026
+unverified:
+- 'AID 2026 start and end are the PRDC 2026 dates (Dec 2 to 4); the workshop is one day within them, not yet announced'
+- AID 2026 camera-ready deadline (follows PRDC 2026 instructions to authors)
+- Whether the AID 2025 papers appear in the PRDC 2025 volume in IEEE Xplore
+last_verified: 2026-10-17

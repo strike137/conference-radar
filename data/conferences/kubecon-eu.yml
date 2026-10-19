@@ -1,0 +1,62 @@
+id: kubecon-eu
+name: KubeCon + CloudNativeCon Europe
+full_name: KubeCon + CloudNativeCon Europe
+type: industry
+tier: minor
+areas: [systems, software]
+region: europe
+language: english
+frequency: annual
+organizer: Cloud Native Computing Foundation (CNCF), The Linux Foundation
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [3, 4]
+links:
+  website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+notes:
+- CNCF flagship practitioner conference on Kubernetes and cloud native computing, Europe edition run by The Linux Foundation
+- Held in a different European city each spring (Amsterdam 2026, Barcelona 2027)
+- Four days; the Monday is pre-event programming with CNCF-hosted co-located events (ArgoCon, CiliumCon, Open Source SecurityCon, Platform Engineering Day and others), keynotes and breakouts Tuesday to Thursday
+- Talk proposals reviewed by a program committee across tracks such as Security, Observability, Connectivity and AI Inference; no papers, slides and recordings are posted afterwards
+- The Emerging + Advanced track explicitly welcomes cloud native research and academic papers presented as talks; research topics are also steered to poster sessions
+- Co-located events have their own separate call for proposals
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-26
+  location: Amsterdam, The Netherlands
+  url: https://events.linuxfoundation.org/archive/2026/kubecon-cloudnativecon-europe/
+  deadlines:
+  - kind: submission
+    date: 2025-10-12
+    time: "23:59"
+    tz: CEST
+    label: Talk proposals (CFP)
+  - kind: notification
+    date: 2025-12-08
+- year: 2027
+  start: 2027-03-15
+  end: 2027-03-18
+  location: Barcelona, Spain
+  url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+  deadlines:
+  - kind: submission
+    date: 2026-10-11
+    time: "23:59"
+    tz: CEST
+    label: Talk proposals (CFP)
+  - kind: notification
+    date: 2026-12-07
+sources:
+- https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+- https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/
+- https://events.linuxfoundation.org/archive/2026/kubecon-cloudnativecon-europe/
+- https://events.linuxfoundation.org/archive/2026/kubecon-cloudnativecon-europe/program/cfp/
+- https://portal.core.edu.au/conf-ranks/?search=KubeCon&by=all&source=ICORE2026
+unverified:
+- Not listed in the CORE ICORE2026 portal
+- Deadlines of the 2027 co-located events call for proposals not recorded
+last_verified: 2026-10-17

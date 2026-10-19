@@ -1,0 +1,66 @@
+id: neus
+name: NeuS
+full_name: International Conference on Neuro-symbolic Systems
+type: conference
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: NeuS organizing committee (US universities)
+organizer_country: [usa]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://www.neusconference.org/
+notes:
+- Started in 2024 (UC Berkeley), then 2025 University of Pennsylvania and 2026 University of Southern California
+- Covers neuro-symbolic AI at the meeting point of machine learning, control and cyber-physical systems, and formal methods
+- All accepted papers appear in PMLR (volume 288 for 2025)
+- "Paper types: research papers (up to 10 pages), tutorial papers (20 to 30 pages), challenge problem and case study papers"
+- Single-blind review on OpenReview; 2026 edition co-located with L4DC at USC
+editions:
+- year: 2025
+  start: 2025-05-28
+  end: 2025-05-30
+  location: Philadelphia, Pennsylvania, USA
+  url: https://neus-2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-02-28
+    tz: AoE
+  - kind: notification
+    date: 2025-04-15
+  - kind: camera_ready
+    date: 2025-05-22
+- year: 2026
+  start: 2026-06-16
+  end: 2026-06-18
+  location: Los Angeles, California, USA
+  url: https://sites.google.com/usc.edu/neus2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-02-15
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended)
+  - kind: notification
+    date: 2026-04-15
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Pre-conference final versions
+sources:
+- https://www.neusconference.org/
+- https://sites.google.com/usc.edu/neus2026/home
+- https://sites.google.com/usc.edu/neus2026/organization
+- https://neus-2025.github.io/index.html
+- https://proceedings.mlr.press/v288/
+- https://portal.core.edu.au/conf-ranks/?search=NeuS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- NeuS 2027 dates and location not yet announced
+- Original 2026 submission deadline before the extension is not stated on the official page
+- Not found in ICORE2026 or the CCF list

@@ -1,0 +1,52 @@
+id: ieee-edge
+name: IEEE EDGE
+full_name: IEEE International Conference on Edge Computing and Communications
+type: conference
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society (part of the IEEE World Congress on SERVICES)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://services.conferences.computer.org/2026/edge/
+notes:
+- One of six conferences in the IEEE World Congress on SERVICES (with CLOUD, ICWS, ICDH, QSW and SSE), sponsored by IEEE and the IEEE Computer Society
+- Registration and venue are shared with the congress, which moves around the world (Helsinki 2025, Sydney 2026)
+- Papers go to IEEE Xplore; optional hybrid open access with an APC of 640 USD (members) or 800 USD (non-members) in 2026
+- Double-blind review; regular papers 7 to 10 pages plus references, short papers 4 to 6 pages plus references
+- Not in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-18
+  location: Sydney, Australia (IEEE SERVICES 2026)
+  url: https://services.conferences.computer.org/2026/edge/
+  deadlines:
+  - kind: submission
+    date: 2026-03-22
+    label: Papers (extended from 2026-03-08)
+  - kind: notification
+    date: 2026-05-10
+  - kind: camera_ready
+    date: 2026-05-31
+    label: Camera-ready and registration
+sources:
+- https://services.conferences.computer.org/2026/edge/
+- https://services.conferences.computer.org/2026/edge/edge-call-for-papers
+- https://services.conferences.computer.org/2026/info-for-authors/
+- https://services.conferences.computer.org/2025/edge/
+- https://portal.core.edu.au/conf-ranks/?search=edge&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- EDGE 2027 dates and location not announced as of 2026-10-17
+- The congress author page gives 2026-06-07 for camera-ready and registration while the EDGE page gives 2026-05-31
+- Congress locations before 2025 not checked on official pages
+- Acceptance rate not published
+last_verified: 2026-10-17

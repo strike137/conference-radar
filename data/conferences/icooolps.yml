@@ -1,0 +1,65 @@
+id: icooolps
+name: ICOOOLPS
+full_name: Workshop on Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems
+type: workshop
+tier: minor
+areas: [software, systems]
+region: europe
+language: english
+frequency: annual
+organizer: ICOOOLPS organizing committee, co-located with ECOOP
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 5]
+  conference_months: [6, 7]
+links:
+  website: https://2026.ecoop.org/home/ICOOOLPS-2026
+notes:
+- Language implementation and optimization workshop held with ECOOP (scope now goes well beyond OO languages)
+- 2026 full papers published in the ACM Digital Library (authors may opt out); 2025 full papers went to Journal of
+  Object Technology as post-proceedings
+- Full papers up to 12 pages, position papers up to 4 pages, plus code walks, demos and lightning talks (only full
+  papers go in the proceedings)
+- Submissions accepted in any format; ACM sigplan format only for the camera-ready version
+- Not listed in ICORE2026 (portal search returns no results) or the CCF list
+editions:
+- year: 2025
+  start: 2025-07-02
+  end: 2025-07-02
+  location: Bergen, Norway (with ECOOP 2025)
+  url: https://2025.ecoop.org/home/ICOOOLPS-2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-28
+    tz: AoE
+  - kind: notification
+    date: 2025-06-12
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-24
+    tz: AoE
+- year: 2026
+  start: 2026-06-29
+  end: 2026-06-29
+  location: Brussels, Belgium (with ECOOP 2026)
+  url: https://2026.ecoop.org/home/ICOOOLPS-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-21
+    tz: AoE
+  - kind: notification
+    date: 2026-04-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-29
+    tz: AoE
+sources:
+- https://2026.ecoop.org/home/ICOOOLPS-2026
+- https://2025.ecoop.org/home/ICOOOLPS-2025
+- https://portal.core.edu.au/conf-ranks/?search=ICOOOLPS&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-10-17
+unverified:
+- ICOOOLPS 2027 (ECOOP 2027, Turin) not announced as of 2026-10-17

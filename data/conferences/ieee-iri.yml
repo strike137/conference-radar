@@ -1,0 +1,76 @@
+id: ieee-iri
+name: IEEE IRI
+full_name: IEEE International Conference on Information Reuse and Integration for Data Science
+type: conference
+tier: minor
+areas: [data, ai, software]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE (IEEE IRI organizing committee; IEEE TCMC funds student travel)
+organizer_country: [usa]
+proceedings: IEEE Xplore (IEEE CPS)
+archival: true
+rank:
+  core: 'National: USA'
+typical:
+  deadline_months: [4, 5]
+  conference_months: [7, 8]
+links:
+  website: https://ieee-iri.github.io/
+notes:
+- US-based IEEE conference on information reuse, data integration, knowledge graphs and reusable AI systems; 27th
+  edition in 2026
+- Held in the US in recent years (San Jose 2025, University of Washington Bothell near Seattle 2026)
+- Full research and application/industry papers up to 6 pages, short papers 4 pages, posters 2 pages; double-blind
+  review via Microsoft CMT
+- Proceedings produced with IEEE CPS; selected papers invited to special issues of JISE and IJMDEM
+- States an acceptance rate constantly under 30% in recent years
+- In-person presentation required; no-show papers are withdrawn from the proceedings
+- Ranked National USA in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  label: 27th IEEE IRI
+  start: 2026-07-31
+  end: 2026-08-02
+  location: University of Washington Bothell, Seattle, WA, USA
+  url: https://ieee-iri.github.io/
+  deadlines:
+  - kind: other
+    date: 2026-02-27
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-04-15
+    label: Full research and application/industry papers (extended from 2026-04-01)
+  - kind: submission
+    date: 2026-05-01
+    label: Short papers and posters
+  - kind: notification
+    date: 2026-05-16
+    label: Full papers (moved from 2026-05-15)
+  - kind: notification
+    date: 2026-05-25
+    label: Short papers
+  - kind: camera_ready
+    date: 2026-06-20
+  - kind: other
+    date: 2026-06-20
+    time: '23:59'
+    tz: PDT
+    label: Author registration
+sources:
+- https://ieee-iri.github.io/
+- https://ieee-iri.github.io/call_papers.html
+- https://ieee-iri.github.io/resources/documents/IEEE_IRI_2026_CFP.pdf
+- https://ieee-iri.github.io/registration.html
+- https://ieee-iri.github.io/program.html
+- https://ieee-iri.github.io/2025/
+- https://www.computer.org/conferences/cfp-ieee-iri
+- https://portal.core.edu.au/conf-ranks/?search=IRI&by=all&source=ICORE2026
+unverified:
+- IEEE IRI 2027 dates and location not announced as of 2026-10-17
+- The 2026 pages do not name the publisher; IEEE CPS is taken from the 2025 site, which says IEEE CPS handled the
+  camera-ready papers
+- Host cities before 2025 not checked on official pages; region north-america rests on the 2025 and 2026 editions
+- CCF rank checked only via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

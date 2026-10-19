@@ -1,0 +1,60 @@
+id: rfcom
+name: RFCom
+full_name: International Workshop on Radio Frequency (RF) Computing
+type: workshop
+tier: minor
+areas: [communications, networking, systems]
+region: china
+language: english
+frequency: annual
+organizer: RFCom organizers (Tsinghua University, Northwest University, Zhejiang University and others), co-located with ACM SenSys or MobiCom
+organizer_country: [china]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11]
+links:
+  website: https://xkx-youcha.github.io/RFCom2025/
+notes:
+- Workshop on RF computing for IoT, backscatter, reconfigurable intelligent surfaces, RF sensing and energy harvesting
+- 1st edition held with ACM SenSys 2024 (Hangzhou), 2nd with ACM MobiCom 2025 (Hong Kong)
+- Technical papers up to 6 pages, position papers up to 4 pages and demo or poster papers up to 2 pages, ACM format,
+  double-blind review
+- Proceedings in the ACM Digital Library (Proceedings of the First and Second International Workshop on Radio
+  Frequency (RF) Computing)
+- Not in the MobiCom 2026 workshop list
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-08
+  end: 2025-11-08
+  location: Hong Kong, China
+  url: https://xkx-youcha.github.io/RFCom2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-09-15
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://xkx-youcha.github.io/RFCom2025/
+- https://xkx-youcha.github.io/RFCom2025/Organization
+- https://xkx-youcha.github.io/RFCom2024/
+- https://www.sigmobile.org/mobicom/2025/workshop_program.html
+- https://www.sigmobile.org/mobicom/2025/workshop_cfp.html
+- https://www.sigmobile.org/mobicom/2026/workshop_program.html
+- https://doi.org/10.1145/3698386
+- https://doi.org/10.1145/3737906
+- https://portal.core.edu.au/conf-ranks/?search=RFCom&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- RFCom 2026 (no site found and not in the MobiCom 2026 workshop list; SenSys 2026 not checked)
+- CCF 2026 list not checked on ccf.org.cn directly; workshop not expected to be listed
+last_verified: 2026-10-17

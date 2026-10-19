@@ -1,0 +1,70 @@
+id: asmus
+name: ASMUS
+full_name: International Workshop on Advances in Simplifying Medical Ultrasound
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: MICCAI Special Interest Group on Medical Ultrasound (SIG-MUS)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://miccai-ultrasound.github.io/
+notes:
+- Official workshop of the MICCAI Special Interest Group on Medical Ultrasound, held with MICCAI every year, so it moves with MICCAI
+- Covers AI and robotics for ultrasound acquisition and interpretation, ultrasound guided interventions and multimodal ultrasound
+- Proceedings in Springer LNCS (own volume for ASMUS 2025); 2026 papers go into the MICCAI satellite events joint proceedings
+- Double-blind review by at least 3 reviewers; up to 8 pages plus up to 2 pages of references in LNCS format
+- Submission via OpenReview in 2026 (Springer Meteor in 2025); each paper must nominate at least one reviewer
+- Organizers in 2026 from the University of Birmingham, TUM, UCL and the University of Oxford
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://miccai-ultrasound.github.io/#/asmus25
+  deadlines:
+  - kind: submission
+    date: 2025-06-28
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2025-07-19
+  - kind: camera_ready
+    date: 2025-08-06
+- year: 2026
+  start: 2026-10-01
+  end: 2026-10-01
+  location: Strasbourg, France
+  url: https://miccai-ultrasound.github.io/#/asmus26
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    tz: AoE
+    label: Full papers (extended from 2026-06-26)
+  - kind: notification
+    date: 2026-07-28
+    tz: AoE
+    label: Notification (postponed from 2026-07-17)
+  - kind: camera_ready
+    date: 2026-08-09
+    tz: AoE
+sources:
+- https://miccai-ultrasound.github.io/
+- https://miccai-ultrasound.github.io/asmus26.md
+- https://miccai-ultrasound.github.io/asmus25.md
+- https://miccai-ultrasound.github.io/archive.md
+- https://link.springer.com/book/10.1007/978-3-032-06329-8
+- https://portal.core.edu.au/conf-ranks/?search=ASMUS&by=all&source=ICORE2026
+unverified:
+- ASMUS 2025 workshop date is September 27 on the official page but September 28 on the Springer volume
+- ASMUS 2027 dates and location not yet announced as of 2026-10-17
+- Acceptance rate not published
+last_verified: 2026-10-17

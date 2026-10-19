@@ -1,0 +1,82 @@
+id: ieee-icit
+name: IEEE ICIT
+full_name: IEEE International Conference on Industrial Technology
+type: conference
+tier: minor
+areas: [systems, ai, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Industrial Electronics Society (IES)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [3]
+links:
+  website: https://icit2027.ieee-ies.org/
+notes:
+- One of the major conferences of the IEEE Industrial Electronics Society; 27th edition in 2026, 28th in 2027
+- Broad industrial electronics scope; control and robotics, machines and drives, power electronics and smart grids,
+  embedded systems, signal and image processing, industrial automation and communication, IoT, CPS, cybersecurity, AI
+- Regular and special session papers up to 6 pages in IEEE two-column format; work-in-progress papers up to 4 pages
+- Accepted and presented papers go to IEEE Xplore; all papers must be presented in person
+- Rotates worldwide (Valencia 2021 online, Orlando 2023, Bristol 2024, Wuhan 2025, Monterrey 2026, Florianopolis 2027)
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-04
+  end: 2026-03-06
+  location: Monterrey, Mexico
+  url: https://icit2026.ieee-ies.org/
+  deadlines:
+  - kind: other
+    date: 2025-09-20
+    label: Special session proposals
+  - kind: submission
+    date: 2025-11-15
+    label: Regular and special session papers
+  - kind: submission
+    date: 2025-11-30
+    label: Work-in-progress papers
+  - kind: notification
+    date: 2026-01-12
+  - kind: camera_ready
+    date: 2026-01-31
+    label: Final paper and author registration
+- year: 2027
+  start: 2027-03-17
+  end: 2027-03-19
+  location: Florianopolis, Brazil (Universidade Federal de Santa Catarina)
+  url: https://icit2027.ieee-ies.org/
+  deadlines:
+  - kind: other
+    date: 2026-10-04
+    label: Special session proposals
+  - kind: submission
+    date: 2026-10-26
+    label: Regular papers (extended, hard deadline)
+  - kind: submission
+    date: 2026-10-26
+    label: Work-in-progress papers
+  - kind: other
+    date: 2026-11-13
+    label: Tutorial proposals
+  - kind: notification
+    date: 2026-12-11
+  - kind: camera_ready
+    date: 2027-01-18
+    label: Final paper and author registration
+sources:
+- https://icit2027.ieee-ies.org/
+- https://icit2027.ieee-ies.org/for_authors/
+- https://icit2026.ieee-ies.org/
+- https://icit2026.ieee-ies.org/for_authors/
+- https://www.ieee-ies.org/conferences
+- https://www.ieee-ies.org/conferences/recently-held-conferences
+- https://portal.core.edu.au/conf-ranks/?search=ICIT&by=all&source=ICORE2026
+unverified:
+- Original ICIT 2027 paper deadline before the extension to 2026-10-26
+- Acceptance rate and registration fees
+last_verified: 2026-10-17

@@ -1,0 +1,60 @@
+id: bigpicture
+name: BigPicture
+full_name: 'The Big Picture: Crafting a Research Narrative'
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (Yanai Elazar, Allyson Ettinger, Nora Kassner, Sebastian Ruder); co-located with
+  EMNLP 2023 and ACL 2026
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [7, 12]
+links:
+  website: https://www.bigpictureworkshop.com/
+notes:
+- Workshop for papers that distill broader NLP research narratives (cross-lab reconciliation of findings, thesis-like
+  overviews of a body of work)
+- Held at EMNLP 2023 (Singapore) and ACL 2026 (San Diego)
+- Archival papers of up to 8 pages plus references, submitted on OpenReview in ACL format
+- Proceedings in the ACL Anthology (11 papers in 2023, 13 papers in 2026)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2023
+  label: With EMNLP 2023
+  start: 2023-12-07
+  end: 2023-12-07
+  location: Singapore
+  url: https://www.bigpictureworkshop.com/2023
+- year: 2026
+  label: The Big Picture v2, with ACL 2026
+  start: 2026-07-04
+  end: 2026-07-04
+  location: San Diego, USA
+  url: https://www.bigpictureworkshop.com/
+  deadlines:
+  - kind: submission
+    date: 2026-03-12
+    tz: AoE
+    label: Extended from 2026-03-05
+  - kind: notification
+    date: 2026-04-28
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-12
+    tz: AoE
+sources:
+- https://www.bigpictureworkshop.com/
+- https://www.bigpictureworkshop.com/call-for-papers
+- https://www.bigpictureworkshop.com/2023
+- https://aclanthology.org/venues/bigpicture/
+- https://portal.core.edu.au/conf-ranks/?search=Big+Picture&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Deadlines of the 2023 edition not recorded
+- Next edition not announced yet

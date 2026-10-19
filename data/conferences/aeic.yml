@@ -1,0 +1,79 @@
+id: aeic
+name: AEiC
+full_name: Ada-Europe International Conference on Reliable Software Technologies
+type: conference
+tier: minor
+areas: [software, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Ada-Europe
+organizer_country: [europe]
+proceedings: Dagstuhl OASIcs (regular track), Journal of Systems Architecture special issue (journal track), Ada User Journal (industrial and WiP tracks)
+archival: true
+rank:
+  core: Journal Published
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: http://www.ada-europe.org/confs/ae
+notes:
+- Annual conference of Ada-Europe on reliable and high-integrity software, held in June in a different European city each year (Lisbon 2023, Barcelona 2024, Paris 2025, Vasteras 2026, Berlin 2027)
+- Journal track papers are submitted directly to a special issue of the Journal of Systems Architecture (Elsevier) and presented at the conference
+- Regular track papers (up to 16 pages) are published in the open-access Dagstuhl OASIcs series
+- Industrial and work-in-progress tracks publish in the Ada User Journal; also tutorials, satellite workshops and a vendor exhibition
+- Topics include high-integrity and safety-critical systems, real-time and embedded systems, formal methods, Ada, SPARK and Rust, and AI for critical systems
+- Springer LNCS proceedings up to 2018, then journal-track only before the OASIcs regular track was added
+- Listed as Journal Published in ICORE2026
+editions:
+- year: 2026
+  label: 30th AEiC
+  start: 2026-06-09
+  end: 2026-06-12
+  location: Vasteras, Sweden
+  url: http://www.ada-europe.org/conference2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-20
+    label: Journal track (extended)
+  - kind: submission
+    date: 2026-03-13
+    label: Regular, industrial and WiP tracks (extended)
+  - kind: notification
+    date: 2026-04-10
+- year: 2027
+  label: 31st AEiC
+  start: 2027-06-08
+  end: 2027-06-11
+  location: Berlin, Germany
+  url: http://www.ada-europe.org/conference2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-25
+    label: Journal track
+  - kind: submission
+    date: 2027-02-08
+    label: Regular and industrial tracks
+  - kind: notification
+    date: 2027-03-15
+  - kind: submission
+    date: 2027-03-22
+    label: Work-in-progress papers
+  - kind: notification
+    date: 2027-04-05
+    label: Work-in-progress papers
+sources:
+- http://www.ada-europe.org/conference2027/
+- http://www.ada-europe.org/conference2027/cfp.html
+- http://www.ada-europe.org/conference2027/submissions.html
+- http://www.ada-europe.org/conference2026/
+- http://www.ada-europe.org/conference2026/cfp.html
+- http://www.ada-europe.org/confs/ae
+- https://portal.core.edu.au/conf-ranks/?search=Ada&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- AEiC 2027 work-in-progress deadline is 22 March 2027 in the important dates box but 8 February 2027 on the submissions page; important dates value used
+- Original (pre-extension) 2026 deadlines not recorded
+- Not in the CCF 2026 list (checked against the list PDF text)
+- First year of the OASIcs regular track not confirmed

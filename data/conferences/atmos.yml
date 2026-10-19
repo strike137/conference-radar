@@ -1,0 +1,69 @@
+id: atmos
+name: ATMOS
+full_name: Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: ATMOS Steering Committee (within the ALGO meeting)
+organizer_country: [europe]
+proceedings: OASIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://algo-conference.org/2026/atmos/
+notes:
+- Running since 2000; 2026 was the 26th edition
+- Held every year as part of the ALGO meeting with ESA, ALGOCLOUD, ALGOWIN, IPEC, WABI and WAOA (Warsaw 2025, L'Aquila 2026)
+- Algorithms, mathematical optimization and operations research for transport (timetabling, routing, vehicle and crew scheduling)
+- Open-access proceedings in the Dagstuhl OASIcs series (2026 was OASIcs volume 147)
+- Regular papers up to 20 pages in total and short papers of 4 to 6 pages, in OASIcs format
+- At least one author must register for ALGO and present on site
+- Selected papers invited to a special issue of the journal Networks
+- Best paper and best student paper awards
+- Ranked C in ICORE2026 (listed as Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems); not on the CCF list
+editions:
+- year: 2025
+  start: 2025-09-18
+  end: 2025-09-19
+  location: Warsaw, Poland (ALGO 2025)
+  url: https://algo-conference.org/2025/atmos/
+  deadlines:
+  - kind: submission
+    date: 2025-07-06
+    tz: AoE
+    label: Extended from June 30
+  - kind: notification
+    date: 2025-08-05
+  - kind: camera_ready
+    date: 2025-08-24
+- year: 2026
+  start: 2026-09-03
+  end: 2026-09-04
+  location: L'Aquila, Italy (ALGO 2026)
+  url: https://algo-conference.org/2026/atmos/
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    tz: AoE
+    label: Extended from June 26
+  - kind: notification
+    date: 2026-08-04
+  - kind: camera_ready
+    date: 2026-08-11
+sources:
+- https://algo-conference.org/2026/atmos/
+- https://algo-conference.org/2026/
+- https://algo-conference.org/2025/atmos/
+- https://portal.core.edu.au/conf-ranks/?search=ATMOS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- ATMOS 2027 and ALGO 2027 not announced on an official page as of 2026-10-17
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn behind a captcha)

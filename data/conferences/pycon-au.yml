@@ -1,0 +1,62 @@
+id: pycon-au
+name: PyCon AU
+full_name: PyCon Australia
+type: industry
+tier: minor
+areas: [software, ai]
+region: oceania
+language: english
+frequency: annual
+organizer: PyCon AU (volunteer organisation under Linux Australia)
+organizer_country: [australia]
+proceedings: PyCon AU Academic Proceedings on Zenodo (opt-in peer-reviewed abstracts, since 2026); otherwise talk recordings only
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [8, 9]
+links:
+  website: https://pycon.org.au/
+notes:
+- National conference for the Python community in Australia, held annually since 2010, run by volunteers under Linux
+  Australia
+- Talks (30 minutes), posters and 2 to 3 hour workshops chosen from a CFP through Pretalx; blind review first, every
+  proposal reviewed by at least 12 people in 2026
+- Specialist tracks in 2026 included Cybersecurity, Data and AI, DevRel, Education, Platform Engineering and Research
+  Software Engineering
+- From 2026 accepted talks and posters can opt in to a parallel academic peer review and appear as abstracts with a
+  DOI in the PyCon AU Academic Proceedings on Zenodo (8 proposals in 2026); no full papers
+- Usually held in the same city for two years
+- 'Past venues: Adelaide 2023, Melbourne 2024 and 2025, Brisbane 2026'
+editions:
+- year: 2025
+  start: 2025-09-12
+  end: 2025-09-16
+  location: Pullman Melbourne on the Park, Narrm/Melbourne, VIC, Australia
+  url: https://2025.pycon.org.au/
+  deadlines: []
+- year: 2026
+  start: 2026-08-26
+  end: 2026-08-30
+  location: Sofitel Brisbane Central, Brisbane, QLD, Australia
+  url: https://2026.pycon.org.au/
+  deadlines:
+  - kind: submission
+    date: 2026-03-29
+    time: "23:59"
+    tz: AoE
+    label: Call for proposals (talks, posters, workshops, specialist tracks)
+sources:
+- https://2026.pycon.org.au/
+- https://2026.pycon.org.au/about/the-conference
+- https://2026.pycon.org.au/cfp/
+- https://2026.pycon.org.au/cfp/academic-proceedings/
+- https://2026.pycon.org.au/posts/call-for-proposals-now-open/
+- https://2026.pycon.org.au/posts/academic-proceedings-published/
+- https://2026.pycon.org.au/posts/feedback-after-cfp/
+- https://2025.pycon.org.au/
+- https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
+unverified:
+- PyCon AU 2027 dates and city not yet announced
+- 2025 CFP deadline not recorded
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

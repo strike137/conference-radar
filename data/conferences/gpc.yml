@@ -1,0 +1,74 @@
+id: gpc
+name: GPC
+full_name: International Conference on Green, Pervasive, and Cloud Computing
+type: conference
+tier: minor
+areas: [systems, networking, ai]
+region: china
+language: english
+frequency: annual
+organizer: GPC steering committee (chair Hai Jin, HUST) with China Computer Federation (CCF) support; registration and payment through the CCF system
+organizer_country: [china]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+  ccf: C
+typical:
+  deadline_months: [7, 8]
+  conference_months: [12]
+links:
+  website: https://www.crowdos.cn/GPC2026/
+  dblp: https://dblp.org/db/conf/gpc/index.html
+notes:
+- Started in 2006 as Grid and Pervasive Computing; renamed Green, Pervasive, and Cloud Computing in 2017
+- Covers green and energy-efficient computing, pervasive and mobile sensing, edge intelligence and cloud systems
+- Papers up to 16 pages in Springer LNCS format; GPC 2024 proceedings appeared as LNCS 15225 about a year after the event
+- 'Mostly held in China: Chengdu (2022), Harbin (2023), Macao (2024), Kuala Lumpur (2025), Nanjing (2026)'
+- Deadlines are usually extended by two to six weeks
+- "Registration in 2026: CNY 5,000 (about USD 750) early for non-CCF-member authors, CNY 4,000 for CCF members"
+- CORE C (ICORE2026), CCF C
+editions:
+- year: 2025
+  start: 2025-12-09
+  end: 2025-12-12
+  location: Kuala Lumpur, Malaysia
+  url: https://www.crowdos.cn/GPC2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-31
+    label: Research track (extended from 2025-07-15)
+  - kind: notification
+    date: 2025-09-30
+  - kind: camera_ready
+    date: 2025-10-31
+- year: 2026
+  start: 2026-12-04
+  end: 2026-12-06
+  location: Nanjing, China
+  url: https://www.crowdos.cn/GPC2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-18
+    label: Research track (extended from 2026-07-31)
+  - kind: notification
+    date: 2026-09-30
+  - kind: camera_ready
+    date: 2026-10-15
+sources:
+- https://www.crowdos.cn/GPC2026/
+- https://www.crowdos.cn/GPC2026/callForPapers.html
+- https://www.crowdos.cn/GPC2026/organizationCommittee.html
+- https://www.crowdos.cn/GPC2026/registration.html
+- https://www.crowdos.cn/GPC2025/
+- https://www.crowdos.cn/GPC2025/callForPapers.html
+- https://link.springer.com/conference/gpc
+- https://link.springer.com/book/10.1007/978-981-95-1346-8
+- https://portal.core.edu.au/conf-ranks/?search=GPC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- The 2026 site uses Springer LNCS templates but does not name the proceedings series explicitly; LNCS taken from earlier volumes on Springer
+- GPC 2025 proceedings not yet listed on Springer as of 2026-10-17
+- Exact CCF technical committee behind GPC not stated on the site (contact address is CCF_tcpc@ccf.org.cn)
+- Acceptance rate not published
+last_verified: 2026-10-17

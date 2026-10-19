@@ -1,0 +1,55 @@
+id: ipec
+name: IPEC
+full_name: International Symposium on Parameterized and Exact Computation
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: IPEC Steering Committee (within the ALGO meeting)
+organizer_country: [europe]
+proceedings: LIPIcs (Schloss Dagstuhl), post-proceedings
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://algo-conference.org/2026/ipec/
+  dblp: https://dblp.org/db/conf/iwpec/index.html
+notes:
+- Main venue for parameterized and exact algorithms and complexity (was IWPEC before 2004); CORE B
+- Held every year as part of ALGO together with ESA, WAOA, ATMOS, ALGOWIN, ALGOCLOUD and WABI, so always in Europe
+- Proceedings in the open-access LIPIcs series as post-proceedings; camera-ready is due after the conference
+- Submissions in LIPIcs format; the first 500 lines must be enough to judge the paper; final version up to 15 pages plus bibliography
+- Lightweight double-blind review; at least one author is expected to present in person
+- Hosts the EATCS-IPEC Nerode Prize and the PACE implementation challenge award ceremony
+- Steering committee members come from Europe, India and Israel
+editions:
+- year: 2026
+  start: 2026-09-02
+  end: 2026-09-04
+  location: L'Aquila, Italy (ALGO 2026)
+  url: https://algo-conference.org/2026/ipec/
+  deadlines:
+  - kind: submission
+    date: 2026-06-29
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-08-02
+sources:
+- https://algo-conference.org/2026/ipec/
+- https://algo-conference.org/2026/
+- https://algo-conference.org/2025/ipec/
+- https://algo-conference.org/2024/ipec/
+- https://algo-conference.org/2023/ipec/
+- https://portal.core.edu.au/conf-ranks/?search=IPEC&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+unverified:
+- IPEC 2026 camera-ready date given only as end of September (exact date TBA) on the official page
+- IPEC 2027 and ALGO 2027 not announced on an official page as of 2026-10-17
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn not checked directly)
+last_verified: 2026-10-17

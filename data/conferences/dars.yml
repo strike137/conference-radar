@@ -1,0 +1,72 @@
+id: dars
+name: DARS
+full_name: International Symposium on Distributed Autonomous Robotic Systems
+type: conference
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: biennial
+organizer: DARS community with a rotating host institution (Cornell 2024, Institute of Science Tokyo 2026)
+organizer_country: [international]
+proceedings: Springer SPAR (Springer Proceedings in Advanced Robotics)
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [10, 11]
+links:
+  website: https://kuralab.github.io/dars2026/
+notes:
+- Held every two years since 1992; single-track symposium on swarm, modular and multi-robot systems
+- Rotates between Asia, Europe and North America (Montbeliard 2022, New York 2024, Tokyo 2026)
+- Proceedings published as a book in Springer Proceedings in Advanced Robotics (SPAR)
+- Full papers up to 12 pages plus references in Springer llncs format; up to two extra pages at 20,000 JPY each (2026)
+- Separate 2-page late-breaking results and demo track; these abstracts are not in the proceedings
+- "DARS 2024: 40 papers in the SPAR volume"
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2024
+  label: 17th DARS
+  start: 2024-10-28
+  end: 2024-10-30
+  location: New York City, USA (Roosevelt Island)
+  url: https://dars2024.engineering.cornell.edu/
+  deadlines: []
+- year: 2026
+  label: 18th DARS
+  start: 2026-10-26
+  end: 2026-10-29
+  location: Tokyo, Japan (Institute of Science Tokyo, Ookayama campus)
+  url: https://kuralab.github.io/dars2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended from 2026-03-20)
+  - kind: notification
+    date: 2026-07-14
+    label: Full papers (extended from 2026-07-01)
+  - kind: camera_ready
+    date: 2026-08-15
+    label: Extended from 2026-08-01
+  - kind: submission
+    date: 2026-08-15
+    label: Late-breaking results and demos (extended from 2026-08-01)
+  - kind: notification
+    date: 2026-08-30
+    label: Late-breaking results and demos
+sources:
+- https://kuralab.github.io/dars2026/
+- https://kuralab.github.io/dars2026/cfp.html
+- https://dars2024.engineering.cornell.edu/
+- https://dars2024.engineering.cornell.edu/about
+- https://link.springer.com/book/10.1007/978-3-032-04584-3
+- https://link.springer.com/book/10.1007/978-3-031-51497-5
+- https://portal.core.edu.au/conf-ranks/?search=DARS&by=all&source=ICORE2026
+unverified:
+- DARS 2024 deadlines (the 2024 CFP page is no longer online)
+- SPAR volume numbers of the DARS books
+- DARS 2028 host and dates not announced as of 2026-10-17
+- Acceptance rate
+last_verified: 2026-10-17

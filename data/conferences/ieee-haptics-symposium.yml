@@ -1,0 +1,64 @@
+id: ieee-haptics-symposium
+name: IEEE Haptics Symposium
+full_name: IEEE Haptics Symposium
+type: conference
+tier: minor
+areas: [general]
+region: north-america
+language: english
+frequency: biennial
+organizer: IEEE Robotics and Automation Society, Technical Committee on Haptics
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [3, 4]
+links:
+  website: https://hapticssymposium.org
+notes:
+- Interdisciplinary forum on haptics (neuroscience, perception, engineering and design of touch interfaces), held
+  since 1992
+- Independent IEEE conference since 2012, sponsored by the IEEE RAS Technical Committee on Haptics
+- Held in even years; the IEEE World Haptics Conference takes the odd years
+- Not listed in CORE (ICORE2026) and not on the CCF list (CCF lists the World Haptics Conference only)
+- All accepted long and regular papers are published in IEEE Xplore
+- Long papers 8 to 12 pages plus up to 3 pages of references, regular papers 4 to 6 pages plus up to 2; double-blind
+  review; firm deadline with no extensions
+- Work-in-progress papers, hands-on demos and IEEE Transactions on Haptics presentations have a later deadline in
+  January
+- Held in the USA (Philadelphia 2016, San Francisco 2018, Long Beach 2024, Reno 2026); 2020 and 2022 were virtual
+editions:
+- year: 2026
+  start: 2026-03-29
+  end: 2026-04-01
+  location: Reno, Nevada, USA
+  url: https://2026.hapticssymposium.org/
+  deadlines:
+  - kind: submission
+    date: 2025-10-13
+    time: "23:59"
+    tz: AoE
+    label: Long and regular papers (firm)
+  - kind: notification
+    date: 2025-12-19
+    label: Long and regular papers
+  - kind: camera_ready
+    date: 2026-01-23
+    label: Long and regular papers
+  - kind: submission
+    date: 2026-01-26
+    label: Work-in-progress papers and hands-on demos
+sources:
+- https://2026.hapticssymposium.org/
+- https://2026.hapticssymposium.org/presenting/papers/
+- http://about.hapticssymposium.org/
+- https://2024.hapticssymposium.org/
+- https://2022.hapticssymposium.org/
+- https://portal.core.edu.au/conf-ranks/?search=Haptics&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/ (CCF 2026 list, not listed)
+unverified:
+- 2028 edition not announced yet
+- Region set from planned host cities; two of the last six editions (2020, 2022) were held virtually
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-17

@@ -1,0 +1,56 @@
+id: grail
+name: GRAIL
+full_name: Workshop on GRaphs in biomedicAl Image anaLysis
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: GRAIL workshop organizers (held with MICCAI)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://grail-miccai.github.io/
+notes:
+- Satellite workshop of MICCAI since 2017 on graph-based, higher-order and topology-informed methods for biomedical image analysis
+- 8th edition in 2026; moves with MICCAI (Marrakesh 2024, Daejeon 2025, Strasbourg 2026)
+- Proceedings in Springer LNCS (GRAIL 2025 shared one LNCS volume with RIME 2025)
+- Joint format with Topology-Guided Imaging (TGI) and Hypergraphs in MedIA (HGMIA) in 2025
+- Double-blind review via OpenReview; up to 8 pages plus up to 2 pages of references in LNCS format
+- Half-day in-person workshop in 2026 with keynotes and oral sessions; best paper awards from sponsors
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://link.springer.com/book/9783032061034
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://grail-miccai.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    label: Full papers (moved from 2026-06-22)
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-11
+sources:
+- https://grail-miccai.github.io/
+- https://link.springer.com/book/9783032061034
+- https://link.springer.com/book/10.1007/978-3-031-83243-7
+- https://portal.core.edu.au/conf-ranks/?search=GRAIL&by=all&source=ICORE2026
+unverified:
+- GRAIL 2025 deadlines (the 2025 site is no longer online; date and location taken from the Springer volume)
+- GRAIL 2026 submission deadline time zone not stated
+- GRAIL 2027 dates and location not yet announced as of 2026-10-17
+- Acceptance rate not published
+last_verified: 2026-10-17

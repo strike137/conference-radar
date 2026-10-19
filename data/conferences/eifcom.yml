@@ -1,0 +1,57 @@
+id: eifcom
+name: EIFCom
+full_name: International Workshop on Mobile Systems with Efficient and Interactive Foundation Models
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+organizer: EIFCom organizers (Cardiff University, University of Auckland, UNIST in 2026), co-located with ACM MobiSys
+organizer_country: [europe, new-zealand, korea]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://eifcom26.pages.dev/
+notes:
+- Workshop on efficient on-device foundation models, multimodal sensing, interactivity and UX for mobile systems
+- 2026 edition (the 2nd) held with ACM MobiSys 2026 in Cambridge, UK, as a half-day morning workshop
+- Full papers up to 6 pages and position papers up to 4 pages including references, ACM format, single-blind review
+- Papers published in the ACM Digital Library (Proceedings of the 24th MobiSys Workshops, 2026)
+- 7 accepted papers in 2026, with a best paper award
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-25
+  end: 2026-06-25
+  location: Cambridge, UK
+  url: https://eifcom26.pages.dev/
+  deadlines:
+  - kind: submission
+    date: 2026-04-17
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-03
+  - kind: notification
+    date: 2026-04-24
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-17
+  - kind: camera_ready
+    date: 2026-04-30
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-24
+sources:
+- https://eifcom26.pages.dev/
+- https://www.sigmobile.org/mobisys/2026/accepted_workshops/
+- https://www.sigmobile.org/mobisys/2026/call_for_workshops/
+- https://doi.org/10.1145/3812836.3814761
+- https://portal.core.edu.au/conf-ranks/?search=EIFCom&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Date, host conference and proceedings of the 1st edition (not found on the MobiSys 2025 accepted workshops page)
+- Whether a 2027 edition will be held
+- CCF 2026 list not checked on ccf.org.cn directly; workshop not expected to be listed
+last_verified: 2026-10-17

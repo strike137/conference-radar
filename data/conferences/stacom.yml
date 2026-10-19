@@ -1,0 +1,70 @@
+id: stacom
+name: STACOM
+full_name: International Workshop on Statistical Atlases and Computational Models of the Heart
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: STACOM organising committee (MICCAI satellite workshop)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://stacom.github.io/
+notes:
+- One-day MICCAI satellite workshop on cardiac image analysis, statistical atlases and computational heart modelling,
+  run every year since 2010
+- Papers and challenge papers are published in a Springer LNCS volume after the workshop (LNCS 15448 for 2024)
+- Hosts cardiac imaging challenges each year (CMRxRecon series, EchoRisk in 2026)
+- Organisers are mostly from European groups (King's College London, Inria, Universitat Pompeu Fabra, TU Delft, DTU)
+- Location follows MICCAI (Singapore 2022, Vancouver 2023, Marrakesh 2024, Daejeon 2025, Strasbourg 2026)
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://stacom.github.io/stacom2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-18
+    label: Abstract or placeholder
+  - kind: submission
+    date: 2025-06-30
+  - kind: notification
+    date: 2025-07-16
+  - kind: camera_ready
+    date: 2025-08-27
+    label: Workshop-ready paper
+  - kind: other
+    date: 2025-11-27
+    label: Proceedings-ready paper
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://stacom.github.io/stacom2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-07
+    label: Full paper
+  - kind: notification
+    date: 2026-07-30
+  - kind: camera_ready
+    date: 2026-08-13
+    label: Revised or camera-ready papers and copyright forms
+sources:
+- https://stacom.github.io/
+- https://stacom.github.io/stacom2025/
+- https://stacom.github.io/stacom2026/
+- https://portal.core.edu.au/conf-ranks/?search=STACOM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No time zone is given for the deadlines
+- LNCS volume numbers for the 2025 and 2026 proceedings are not listed on the workshop site yet
+- STACOM 2027 not announced (MICCAI 2027 is in Auckland, Sep 27 to Oct 1, 2027)
+- Not listed on the CORE portal (ICORE2026) or in the CCF list

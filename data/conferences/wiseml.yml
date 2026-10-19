@@ -1,0 +1,64 @@
+id: wiseml
+name: WiseML
+full_name: ACM Workshop on Wireless Security and Machine Learning
+type: workshop
+tier: minor
+areas: [security, ai, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: Steering committee from Virginia Tech, University of Maryland, Stevens Institute of Technology and Ohio State
+  University; co-located with ACM WiSec
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6, 7]
+links:
+  website: https://wisec26.events.cispa.de/wiseml2026-workshops/
+notes:
+- Held with ACM WiSec every year since 2019; location follows WiSec (2024 Seoul, 2025 Arlington, 2026 Saarbrücken)
+- Accepted, registered and presented papers appear in the ACM Digital Library
+- Papers up to 6 pages in standard ACM conference style; double-blind review; submission via HotCRP
+- Topics include adversarial ML for wireless, RF fingerprinting, jamming and spoofing, O-RAN and NextG security, and
+  privacy of ML solutions
+- 2026 workshop chairs from TU Dortmund, Nexcepta, Virginia Tech and University of Liverpool
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-07-03
+  end: 2025-07-03
+  location: Arlington, Virginia, USA
+  url: https://wisec2025.gmu.edu/wiseml2025-workshops/
+  deadlines:
+  - kind: submission
+    date: 2025-03-28
+  - kind: notification
+    date: 2025-04-25
+  - kind: camera_ready
+    date: 2025-05-12
+- year: 2026
+  start: 2026-07-03
+  end: 2026-07-03
+  location: Saarbrücken, Germany
+  url: https://wisec26.events.cispa.de/wiseml2026-workshops/
+  deadlines:
+  - kind: submission
+    date: 2026-04-05
+    label: Extended from March 15
+  - kind: notification
+    date: 2026-04-21
+    label: Extended from April 9
+  - kind: camera_ready
+    date: 2026-05-05
+    label: Extended from April 30
+sources:
+- https://wisec26.events.cispa.de/wiseml2026-workshops/
+- https://wisec26.events.cispa.de/
+- https://wisec2025.gmu.edu/wiseml2025-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=WiseML&by=all&source=ICORE2026
+unverified:
+- WiseML 2027 (WiSec 2027 not yet announced as of 2026-10-17)
+- Acceptance rate
+last_verified: 2026-10-17

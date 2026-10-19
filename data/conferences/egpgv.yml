@@ -1,0 +1,64 @@
+id: egpgv
+name: EGPGV
+full_name: Eurographics Symposium on Parallel Graphics and Visualization
+type: conference
+tier: minor
+areas: [vision, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Eurographics
+organizer_country: [europe]
+proceedings: Eurographics Proceedings Series (Eurographics Digital Library)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://www.egpgv.org/
+  dblp: https://dblp.org/db/conf/egpgv/
+notes:
+- Eurographics symposium on parallel and large-scale graphics and visualization (GPU and cluster rendering, in situ visualization, out-of-core processing)
+- One-day event co-located with EuroVis (Leipzig 2023, Odense 2024, Luxembourg 2025, Nottingham 2026)
+- Papers are published in the Eurographics Proceedings Series and the Eurographics Digital Library
+- Full papers of 8 to 10 pages and short papers up to 4 pages in Eurographics format, plus one page of references
+- Submission through PCS as a EuroVis track; all deadlines AoE
+- Small program (three papers in 2026); CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-08
+  location: Nottingham, United Kingdom (co-located with EuroVis 2026)
+  url: https://www.egpgv.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-06
+    time: "23:59"
+    tz: AoE
+    label: Abstract (extended)
+  - kind: submission
+    date: 2026-02-13
+    time: "23:59"
+    tz: AoE
+    label: Paper (extended)
+  - kind: notification
+    date: 2026-03-28
+  - kind: camera_ready
+    date: 2026-04-30
+sources:
+- https://www.egpgv.org/2026/
+- https://www.egpgv.org/2026/cfp/
+- https://www.egpgv.org/2026/submission/
+- https://www.egpgv.org/2026/program/
+- https://www.egpgv.org/2025/
+- https://www.egpgv.org/2024/
+- https://www.egpgv.org/2023/
+- https://portal.core.edu.au/conf-ranks/?search=EGPGV&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- EGPGV 2027 not yet announced (no 2027 page on egpgv.org); expected to be co-located with EuroVis 2027
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+- Original (pre-extension) 2026 deadlines and acceptance rate not stated
+last_verified: 2026-10-17

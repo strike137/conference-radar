@@ -1,0 +1,53 @@
+id: aidc
+name: AIDC
+full_name: Workshop on Agentic AI in Offensive and Defensive Cyber Operations
+type: workshop
+tier: minor
+areas: [security, ai]
+region: north-america
+language: english
+organizer: Applied Computer Security Associates (ACSAC workshop); chairs from Horizon3 and Purdue University
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://aidcworkshop.github.io/
+notes:
+- Inaugural edition in 2026, a one-day workshop co-located with ACSAC in Los Angeles
+- Agentic AI for penetration testing, vulnerability discovery and autonomous defense, model-on-model adversarial
+  interaction, cyber ranges and benchmarks
+- Regular papers up to 12 pages and short position or WIP papers up to 6 pages (excluding references and appendices),
+  IEEE compsoc double-column format, double-blind review via the ACSAC HotCRP
+- Accepted papers are published by IEEE; lightning talks and tutorials are posted on the website only
+- Steering committee includes Christopher Kruegel, Giovanni Vigna, Wenke Lee and Engin Kirda; industry submissions
+  are explicitly welcome
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-07
+  location: Los Angeles, USA
+  url: https://aidcworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-10-02
+    tz: AoE
+    label: Papers (extended from Sep 25)
+  - kind: other
+    date: 2026-10-08
+    tz: AoE
+    label: Lightning talk and tutorial submissions
+  - kind: notification
+    date: 2026-10-23
+  - kind: camera_ready
+    date: 2026-10-30
+sources:
+- https://aidcworkshop.github.io/
+- https://www.acsac.org/2026/workshops/aidc/
+- https://portal.core.edu.au/conf-ranks/?search=AIDC&by=all&source=ICORE2026
+unverified:
+- Whether the workshop continues after 2026 (inaugural edition)
+last_verified: 2026-10-17

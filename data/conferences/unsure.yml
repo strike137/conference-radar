@@ -1,0 +1,70 @@
+id: unsure
+name: UNSURE
+full_name: Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: UNSURE workshop organizers (held with MICCAI)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://unsuremiccai.github.io/
+notes:
+- Satellite workshop of MICCAI since 2019 on uncertainty quantification, out-of-distribution detection, calibration and safety of ML in medical imaging
+- Moves with MICCAI (Daejeon 2025, Strasbourg 2026); held jointly with the iMIMIC workshop and an uncertainty tutorial in 2026
+- Proceedings in Springer LNCS (own volume for UNSURE 2025); extended versions invited to a MELBA journal special issue
+- Double-blind review; 8 pages plus references in LNCS format, optional 2-page supplementary PDF
+- Submission via OpenReview in 2026 (CMT in 2025); a short presentation video is compulsory for accepted papers
+- Organizers from UCL, Imperial College London, Oxford, Tubingen, DTU, MIT and Harvard Medical School
+- Satellite day registration about 130 EUR early for students with main conference registration (2026)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://unsuremiccai.github.io/prev_years/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-25
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2025-07-16
+  - kind: camera_ready
+    date: 2025-07-30
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://unsuremiccai.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-08
+    time: "23:59"
+    tz: PST
+    label: Full papers (call for papers listed 2026-07-01)
+  - kind: notification
+    date: 2026-08-05
+  - kind: camera_ready
+    date: 2026-08-14
+  - kind: other
+    date: 2026-09-10
+    label: Summary videos due
+sources:
+- https://unsuremiccai.github.io/
+- https://unsuremiccai.github.io/prev_years/2025/
+- https://link.springer.com/book/10.1007/978-3-032-06593-3
+- https://portal.core.edu.au/conf-ranks/?search=UNSURE&by=all&source=ICORE2026
+unverified:
+- UNSURE 2026 submission deadline is July 8 in the important dates but July 1 in the call for papers section
+- UNSURE 2027 dates and location not yet announced as of 2026-10-17
+- Acceptance rate not published
+last_verified: 2026-10-17

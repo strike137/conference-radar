@@ -1,0 +1,59 @@
+id: wafr
+name: WAFR
+full_name: World Symposium on the Algorithmic Foundations of Robotics
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: WAFR community (algorithmic-robotics.org), with rotating co-chairs and host institution
+organizer_country: [international]
+proceedings: Springer Proceedings in Advanced Robotics (SPAR)
+archival: true
+rank:
+  core: C
+fee: 475 EUR regular, 275 EUR student (2026, early)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://wafr2026.github.io/
+notes:
+- Biennial single track symposium on algorithmic and mathematical robotics (motion planning, manipulation,
+  multi-robot systems, robot learning theory), held since 1994
+- Formerly the International Workshop on the Algorithmic Foundations of Robotics; CORE lists it under that name
+  as C, but it is well regarded in the robotics algorithms community
+- Recent hosts are 2018 Merida, 2020 virtual, 2022 College Park, 2024 Chicago, 2026 Oulu
+- Single blind review with no rebuttal; papers up to 16 pages plus references in SPAR format; camera ready after
+  the symposium
+- Selected papers invited to journal special issues
+editions:
+- year: 2026
+  label: 17th WAFR
+  start: 2026-06-15
+  end: 2026-06-17
+  location: University of Oulu, Oulu, Finland
+  url: https://wafr2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-01
+    tz: AoE
+    label: Paper (extended from January 15)
+  - kind: notification
+    date: 2026-04-01
+  - kind: other
+    date: 2026-05-15
+    label: Updated paper
+  - kind: camera_ready
+    date: 2026-08-17
+sources:
+- https://wafr2026.github.io/
+- https://wafr2026.github.io/info
+- https://wafr2026.github.io/committee
+- https://wafr2026.github.io/registration
+- https://portal.core.edu.au/conf-ranks/?search=WAFR&by=all&source=ICORE2026
+unverified:
+- WAFR 2028 host and dates not announced
+- Not listed in the CCF 2026 list
+last_verified: 2026-10-17

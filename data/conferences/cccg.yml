@@ -1,0 +1,85 @@
+id: cccg
+name: CCCG
+full_name: Canadian Conference on Computational Geometry
+type: conference
+tier: minor
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: CCCG Steering Committee
+organizer_country: [canada]
+proceedings: CCCG online proceedings (cccg.ca)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://cccg.ca/
+notes:
+- Annual since 1989 and usually held in a Canadian city in mid-August (Montreal 2023, St. Catharines 2024, Toronto 2025, Orillia 2026)
+- Theoretical and applied work in computational, combinatorial and discrete geometry
+- Proceedings published online only on cccg.ca, no paper proceedings
+- Papers limited to six pages plus references and appendix, double-blind review
+- Accepted papers must be presented in person and need at least one registration
+- Co-located with WADS in 2025 (Toronto)
+- Selected papers invited to a special issue of Computing in Geometry and Topology (2025)
+- Best PhD dissertation award in computational geometry
+- Registration fees in CAD plus 13% HST (2026)
+- Not in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-08-13
+  end: 2025-08-15
+  location: Toronto, Canada (York University, co-located with WADS 2025)
+  url: https://sites.google.com/view/cccgwads-2025/cccg-2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-07
+    time: "23:59"
+    tz: AoE
+    label: Extended from May 2
+  - kind: notification
+    date: 2025-06-13
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-08
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-08-12
+  end: 2026-08-14
+  location: Orillia, Canada (Lakehead University)
+  url: https://sites.google.com/view/cccg-2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-05-12
+    time: "23:59"
+    tz: AoE
+    label: Extended from April 30
+  - kind: notification
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 6
+  - kind: camera_ready
+    date: 2026-07-06
+    time: "23:59"
+    tz: AoE
+sources:
+- https://cccg.ca/
+- https://sites.google.com/view/cccg-2026/home
+- https://sites.google.com/view/cccg-2026/important-dates
+- https://sites.google.com/view/cccg-2026/call-for-papers
+- https://sites.google.com/view/cccg-2026/registration
+- https://sites.google.com/view/cccgwads-2025/cccg-2025
+- https://sites.google.com/view/cccgwads-2025/cccg-2025/dates
+- https://sites.google.com/view/cccgwads-2025/cccg-2025/call-for-papers
+- https://portal.core.edu.au/conf-ranks/?search=CCCG&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- CCCG 2027 not announced on cccg.ca as of 2026-10-17
+- No ICORE2026 entry found for CCCG (no rank shown on the portal)
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn behind a captcha)

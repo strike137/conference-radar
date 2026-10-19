@@ -1,0 +1,52 @@
+id: ieee-nemo
+name: IEEE NEMO
+full_name: IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Microwave Theory and Technology Society (MTT-S)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7]
+links:
+  website: https://nemo-ieee.org/
+notes:
+- IEEE MTT-S conference on computational electromagnetics, multiphysics modeling, CAD and optimization for RF,
+  microwave and terahertz design
+- Rotates between Europe, North America and Asia (2023 Winnipeg, 2024 Montreal, 2025 Tianjin, 2026 Valencia)
+- Three-page papers, peer reviewed; presented full papers go into IEEE Xplore
+- One-page abstracts are also accepted for presentation but are not included in IEEE Xplore
+- Authors of presented papers are invited to submit extended versions to special sections of IEEE T-MTT and IEEE J-MMCT
+- Submission deadline was extended twice in 2026 (15 February -> 1 March -> 15 March)
+- Microwave engineering venue outside the usual CS rankings, not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-07-01
+  end: 2026-07-03
+  location: Valencia, Spain
+  url: http://2026.nemo-ieee.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-15
+    label: Papers (extended from 15 February and 1 March)
+  - kind: notification
+    date: 2026-04-01
+  - kind: camera_ready
+    date: 2026-04-15
+sources:
+- https://nemo-ieee.org/
+- http://2026.nemo-ieee.org/call-for-papers-submission/
+- http://2026.nemo-ieee.org/about-nemo/history/
+- http://2026.nemo-ieee.org/event/conference/
+- http://www.em-conf.com/nemo2025/
+- https://portal.core.edu.au/conf-ranks/?search=NEMO&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- NEMO 2027 location and dates not yet announced on an official page
+- Acceptance rate and registration fees not found

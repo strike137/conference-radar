@@ -1,0 +1,65 @@
+id: seta
+name: SETA
+full_name: International Conference on Sequences and Their Applications
+type: conference
+tier: minor
+areas: [crypto, communications]
+region: worldwide
+language: english
+frequency: biennial
+organizer: SETA steering community (sequence design, coding and cryptography researchers), hosted by a rotating
+  university (Hubei University 2026)
+organizer_country: [international]
+proceedings: None (participants only); full versions invited to a special issue of Advances in Mathematics of
+  Communications (AMC)
+archival: false
+rank:
+  core: C
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://seta2026.github.io/
+notes:
+- Long running conference on sequences, signals and waveforms for communications, radar, coding and cryptography
+  (Boolean functions, stream ciphers, low correlation sequences)
+- Held roughly every two years at a rotating host (2018 Hong Kong, 2020 online from Bergen, 2024 Colchester, 2026
+  Wuhan); no edition in 2022
+- Submissions are peer reviewed extended abstracts of up to 10 pages, made available only to conference
+  participants
+- All speakers are invited to submit a full version to a journal special issue (AMC for 2026, Cryptography and
+  Communications for 2024), so the conference itself is non-archival
+- Early editions (1998, 2001) had Springer books and later ones Springer LNCS, but the 2026 site names no
+  proceedings series
+editions:
+- year: 2026
+  label: 13th SETA
+  start: 2026-09-19
+  end: 2026-09-23
+  location: Wuhan, China
+  url: https://seta2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    time: "23:59"
+    tz: UTC-11
+    label: Extended abstract (extended from May 25)
+  - kind: notification
+    date: 2026-08-17
+  - kind: other
+    date: 2026-09-10
+    label: Author registration
+  - kind: other
+    date: 2026-12-10
+    label: Full paper to AMC special issue
+sources:
+- https://seta2026.github.io/
+- https://seta2026.github.io/call_for_papers.html
+- https://seta2026.github.io/submission.html
+- https://seta2026.github.io/committees.html
+- https://portal.core.edu.au/conf-ranks/?search=SETA&by=all&source=ICORE2026
+unverified:
+- Next edition (2028?) not announced
+- Not listed in the CCF 2026 list
+- Acceptance rate and registration fee not checked
+last_verified: 2026-10-17

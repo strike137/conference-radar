@@ -1,0 +1,78 @@
+id: embc
+name: IEEE EMBC
+full_name: Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+type: conference
+tier: major
+areas: [general, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE EMBS
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [PubMed MEDLINE]
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://embc.embs.org/2027/
+  dblp: https://dblp.org/db/conf/embc/index.html
+notes:
+- Annual flagship conference of the IEEE Engineering in Medicine and Biology Society (EMBS); billed as the largest
+  international biomedical engineering conference
+- Full contributed papers are published in IEEE Xplore and indexed in PubMed MEDLINE; 1-page poster papers are not
+  published
+- From 2027 full papers are limited to 4 pages of content plus 1 page of references (max 20 references)
+- Single-blind review; strict no-show policy, and deadlines are not extended
+- Selected top papers (about 7%) invited to a special issue of IEEE TBME
+- Held worldwide in July (Glasgow 2022, Sydney 2023, Orlando 2024, Copenhagen 2025, Toronto 2026, Singapore 2027)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-26
+  end: 2026-07-30
+  location: Toronto, Canada
+  url: https://embc.embs.org/2026/
+- year: 2027
+  start: 2027-07-11
+  end: 2027-07-15
+  location: Suntec Singapore Convention and Exhibition Centre, Singapore
+  url: https://embc.embs.org/2027/
+  deadlines:
+  - kind: other
+    date: 2027-01-24
+    time: "23:59"
+    tz: AoE
+    label: Workshop and mini-symposium proposals
+  - kind: submission
+    date: 2027-01-24
+    time: "23:59"
+    tz: AoE
+    label: Full contributed papers
+  - kind: notification
+    date: 2027-04-16
+    label: Full contributed papers
+  - kind: camera_ready
+    date: 2027-04-30
+    time: "23:59"
+    tz: AoE
+    label: Full contributed papers
+  - kind: other
+    date: 2027-04-23
+    time: "23:59"
+    tz: AoE
+    label: 1-page research poster papers (not published)
+sources:
+- https://embc.embs.org/2027/
+- https://embc.embs.org/2027/papers/
+- https://embc.embs.org/2027/important-dates/
+- https://embc.embs.org/2026/
+- https://embc.embs.org/2026/papers/
+- https://embc.embs.org/2024/
+- https://embc.embs.org/2023/
+- https://embc.embs.org/2022/
+- https://portal.core.edu.au/conf-ranks/?search=EMBC&by=all&source=ICORE2026
+unverified:
+- EMBC 2026 deadlines no longer shown on the official site
+last_verified: 2026-10-17

@@ -1,0 +1,91 @@
+id: ceig
+name: CEIG
+full_name: Spanish Computer Graphics Conference (Congreso Español de Informática Gráfica)
+type: conference
+tier: minor
+areas: [vision, general]
+region: europe
+language: mixed
+frequency: annual
+organizer: Spanish Section of Eurographics (eurographics.es), with a rotating host university
+organizer_country: [europe]
+proceedings: Eurographics Digital Library (open access, DOI)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://www.eurographics.es/CEIG26/
+  dblp: https://dblp.org/db/conf/ceig/
+notes:
+- Main Spanish computer graphics and visualization conference, run by the Spanish Section of Eurographics (35th edition in 2026); foreign groups are welcome
+- Accepted papers are published open access in the Eurographics Digital Library with a DOI; authors may opt out and only present
+- Full papers up to 10 pages, short papers up to 4 pages, posters with a 1 to 2 page extended abstract, plus a track for already published work
+- Papers must be written in English since 2026; talks may be given in English or Spanish
+- Double-blind review for full papers
+- Selected full papers go to special sections of Computers & Graphics or Graphical Models after an extra review round
+- Held at a different Spanish city each year (Jaen 2025, Valencia 2026)
+- Not listed in the ICORE2026 portal and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-06-02
+  end: 2025-06-04
+  location: Jaen, Spain (University of Jaen)
+  url: https://www.eurographics.es/CEIG25/
+  deadlines:
+  - kind: abstract
+    date: 2025-02-21
+    label: Full papers (extended from 2025-02-14)
+  - kind: submission
+    date: 2025-02-28
+    label: Full papers (extended from 2025-02-21)
+  - kind: notification
+    date: 2025-03-31
+    label: Full papers
+  - kind: abstract
+    date: 2025-03-28
+    label: Short papers (extended from 2025-03-21)
+  - kind: submission
+    date: 2025-04-04
+    label: Short papers (extended from 2025-03-28)
+  - kind: notification
+    date: 2025-04-30
+    label: Short papers
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-03
+  location: Valencia, Spain
+  url: https://www.eurographics.es/CEIG26/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-01
+    label: Full papers
+  - kind: submission
+    date: 2026-02-15
+    label: Full papers
+  - kind: notification
+    date: 2026-03-19
+    label: Full papers (and journal selection)
+  - kind: abstract
+    date: 2026-03-20
+    label: Short papers
+  - kind: submission
+    date: 2026-03-27
+    label: Short papers, posters and already published works
+  - kind: notification
+    date: 2026-04-20
+    label: Short papers, posters and already published works
+  - kind: camera_ready
+    date: 2026-04-27
+sources:
+- https://www.eurographics.es/CEIG26/
+- https://www.eurographics.es/CEIG26/assets/index-DrXBunrB.js (CEIG26 site content with important dates and submission rules)
+- https://www.eurographics.es/CEIG25/
+- https://www.eurographics.es/
+- https://portal.core.edu.au/conf-ranks/?search=CEIG&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- CEIG 2027 host and dates not yet announced
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+- Acceptance rate and fees not recorded
+last_verified: 2026-10-17

@@ -1,0 +1,59 @@
+id: onward
+name: Onward!
+full_name: ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: ACM DL (Onward! Proceedings)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [4, 5]
+  conference_months: [10]
+links:
+  website: https://2026.splashcon.org/track/splash-2026-onward--papers
+notes:
+- Held as part of SPLASH (ACM SIGPLAN); Singapore 2025 and Oakland 2026
+- Venue for visionary, early-stage ideas on programming and software that are well argued but not yet proven
+- Two tracks, Onward! Papers (double-blind) and Onward! Essays (single-blind); both appear in the Onward! Proceedings in the ACM DL
+- Papers up to 13 pages for the main body at submission, 17 pages after revision; two-stage review with conditional acceptance
+- CORE C (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-06
+  location: Oakland, California, USA (with SPLASH/ISSTA 2026)
+  url: https://2026.splashcon.org/track/splash-2026-onward--papers
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    tz: AoE
+  - kind: notification
+    date: 2026-06-22
+    label: Initial decisions
+  - kind: other
+    date: 2026-07-27
+    tz: AoE
+    label: Conditional accept revisions due
+  - kind: notification
+    date: 2026-08-14
+    label: Final notification
+  - kind: camera_ready
+    date: 2026-08-25
+    tz: AoE
+sources:
+- https://2026.splashcon.org/track/splash-2026-onward--papers
+- https://2026.splashcon.org/track/splash-2026-onward--essays
+- https://2025.splashcon.org/track/splash-2025-Onward-papers
+- https://2027.splashcon.org/dates
+- https://portal.core.edu.au/conf-ranks/?search=Onward&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Onward! 2027 not announced yet; the SPLASH 2027 important dates page (Prague, October 2027) lists no Onward! track so far
+- CCF 2026 list could not be loaded from ccf.org.cn and the venue is not in the ccfddl mirror; rank.ccf left out
+last_verified: 2026-10-17

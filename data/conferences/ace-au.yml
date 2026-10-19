@@ -1,0 +1,70 @@
+id: ace-au
+name: ACE
+full_name: Australasian Computing Education Conference
+type: conference
+tier: minor
+areas: [general]
+region: oceania
+language: english
+frequency: annual
+organizer: Part of the Australasian Computer Science Week (ACSW), run by CORE and ACDICT; in cooperation with ACM SIGCSE
+organizer_country: [australia, new-zealand]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL]
+rank:
+  core: Australasian B
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://aceconference2027.github.io/
+notes:
+- The only Australasian conference devoted entirely to computing education; 29th edition in 2027
+- Held as part of the Australasian Computer Science Week (ACSW) in late January or February; host city rotates within
+  Australia
+- Run in cooperation with ACM SIGCSE; proceedings in the ACM Digital Library every year since 2021
+- Research papers and practitioner papers of 5 to 10 pages including references, plus posters and a phased paper
+  submission for newcomers; submission via the ACSW EasyChair
+- Welcoming to researchers new to computing education research and to teaching practitioners
+- Ranked Australasian B in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  label: 28th ACE (ACSW 2026)
+  start: 2026-02-09
+  end: 2026-02-13
+  location: Melbourne, Australia
+  url: https://aceconference2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-11-03
+    tz: AoE
+  - kind: notification
+    date: 2025-12-18
+    tz: AoE
+- year: 2027
+  label: 29th ACE (ACSW 2027)
+  start: 2027-02-01
+  end: 2027-02-05
+  location: Canberra, Australia
+  url: https://aceconference2027.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-11-02
+    tz: AoE
+  - kind: notification
+    date: 2026-12-17
+    tz: AoE
+sources:
+- https://aceconference2027.github.io/
+- https://aceconference2027.github.io/authors.html
+- https://aceconference2026.github.io/
+- https://aceconference2026.github.io/authors.html
+- https://acsw.core.edu.au/
+- https://acsw.core.edu.au/past
+- https://portal.core.edu.au/conf-ranks/?search=ACE&by=all&source=ICORE2026
+unverified:
+- Camera-ready dates for 2026 and 2027 not stated on the official site
+- ACE 2027 dates given as the ACSW week (1 to 5 February 2027); exact ACE session days not confirmed
+- Registration fees handled by ACSW; acceptance rate not published
+last_verified: 2026-10-17

@@ -1,0 +1,62 @@
+id: belief
+name: BELIEF
+full_name: International Conference on Belief Functions
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: BFAS (Belief Functions and Applications Society) with a local host (Southeast University in 2026)
+organizer_country: [international]
+proceedings: Springer LNAI
+archival: true
+indexing: [Web of Science, EI, Scopus, DBLP]
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9, 10]
+links:
+  website: https://www.bfasociety.org/
+notes:
+- Biennial conference on belief functions (Dempster-Shafer theory, evidence theory) and their applications to machine learning, statistical inference and information fusion; first held in 2010
+- Sponsored by the Belief Functions and Applications Society, which also runs a biennial school (BFTA) in the other years
+- Proceedings in Springer LNAI, titled Belief Functions - Theory and Applications (BELIEF 2026 -> LNAI 17186); papers up to 8 pages including references
+- Selected papers are invited to a special issue of the International Journal of Approximate Reasoning
+- Mostly held in Europe with some editions in China (Compiegne 2018, Shanghai 2021, Paris 2022, Belfast 2024, Nanjing 2026)
+- BELIEF 2024 was co-located with UKCI 2024; BELIEF 2026 allows on-site or online participation
+- Not found on the CORE portal (ICORE2026) and not on the CCF list
+editions:
+- year: 2024
+  start: 2024-09-02
+  end: 2024-09-04
+  location: Belfast, United Kingdom
+  url: https://www.bfasociety.org/Belief2024/index.html
+  deadlines:
+  - kind: submission
+    date: 2024-05-16
+  - kind: notification
+    date: 2024-06-05
+  - kind: camera_ready
+    date: 2024-06-18
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-21
+  location: Nanjing, China
+  url: https://www.bfasociety.org/Belief2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    label: Extended
+  - kind: notification
+    date: 2026-07-24
+  - kind: camera_ready
+    date: 2026-07-31
+sources:
+- https://www.bfasociety.org/
+- https://www.bfasociety.org/Belief2024/index.html
+- https://www.bfasociety.org/Belief2026/index.html
+- https://portal.core.edu.au/conf-ranks/?search=BELIEF&by=all&source=ICORE2026
+unverified:
+- BELIEF 2028 host and dates not yet announced
+- Original (pre-extension) BELIEF 2026 submission deadline not stated on the conference page
+last_verified: 2026-10-17

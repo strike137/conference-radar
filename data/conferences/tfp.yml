@@ -1,0 +1,97 @@
+id: tfp
+name: TFP
+full_name: International Symposium on Trends in Functional Programming
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: TFP steering committee (2027 edition hosted by JSSST SIG-PPL)
+organizer_country: [international]
+proceedings: Springer LNCS (post-symposium proceedings)
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [1, 3]
+links:
+  website: https://trendsfp.github.io/
+notes:
+- International forum on all aspects of functional programming, with research, position, project, evaluation and overview papers and functional pearls
+- Two review routes; full papers reviewed before the symposium, or draft papers presented first and then submitted to a post-symposium review
+- Draft papers get light review for presentation only; formal publication is decided in the post-symposium refereeing
+- Extended abstracts of 4 to 10 pages or full papers up to 20 pages, LNCS style; single-blind review in 2026 (HotCRP), 2027 submissions via EasyChair
+- Formal proceedings published by Springer in the Trends in Functional Programming volumes of LNCS
+- Known for a friendly review process aimed at less experienced authors; John McCarthy best paper and David Turner best student paper awards
+- Co-located with the TFPiE workshop (Trends in Functional Programming in Education) on the day before
+- Recent venues are Odense 2026, Oxford 2025, Seton Hall 2024, UMass Boston 2023, online 2021 and 2022; 2027 in Kyoto, Japan
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-26
+  end: 2026-01-29
+  location: Odense, Denmark (University of Southern Denmark)
+  url: https://trendsfp.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-13
+    tz: AoE
+    label: Pre-symposium full papers
+  - kind: notification
+    date: 2025-12-11
+    label: Pre-symposium full papers
+  - kind: submission
+    date: 2025-12-11
+    tz: AoE
+    label: Pre-symposium draft papers
+  - kind: notification
+    date: 2025-12-19
+    label: Pre-symposium draft papers
+  - kind: other
+    date: 2026-03-26
+    tz: AoE
+    label: Post-symposium review submission
+  - kind: notification
+    date: 2026-05-07
+    label: Post-symposium review
+- year: 2027
+  start: 2027-03-12
+  end: 2027-03-15
+  location: Kyoto, Japan
+  url: https://trendsfp.github.io/2027/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-12-03
+    tz: AoE
+    label: Pre-symposium full papers
+  - kind: notification
+    date: 2027-01-14
+    label: Pre-symposium full papers
+  - kind: submission
+    date: 2027-01-28
+    tz: AoE
+    label: Pre-symposium draft papers
+  - kind: notification
+    date: 2027-02-04
+    label: Pre-symposium draft papers
+  - kind: other
+    date: 2027-04-29
+    tz: AoE
+    label: Post-symposium review submission (tentative)
+  - kind: notification
+    date: 2027-06-10
+    label: Post-symposium review (tentative)
+sources:
+- https://trendsfp.github.io/
+- https://trendsfp.github.io/2027/
+- https://trendsfp.github.io/2027/cfp.html
+- https://trendsfp.github.io/2026/
+- https://trendsfp.github.io/2026/cfp.html
+- https://link.springer.com/conference/tfp
+- https://portal.core.edu.au/conf-ranks/?search=TFP&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The 2027 dates span TFPiE (March 12) and TFP proper (March 13 to 15)
+- The 2027 CFP does not restate the publisher; Springer LNCS is taken from the 2026 CFP and the Springer conference page
+- Acceptance rate not found on an official page

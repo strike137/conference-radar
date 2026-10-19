@@ -1,0 +1,66 @@
+id: imimic
+name: iMIMIC
+full_name: Workshop on Interpretability of Machine Intelligence in Medical Image Computing
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: iMIMIC workshop organizers (held with MICCAI)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://imimic-workshop.com/
+notes:
+- Half-day workshop held in conjunction with MICCAI since 2018, so it moves with MICCAI
+- Focus on interpretability and explainability of machine learning in medical imaging; 2026 was the 9th edition
+- Proceedings in Springer LNCS following the MICCAI workshop publication model (2025 -> LNCS 16464, 15 papers from 22 submissions)
+- Papers of 8 to 10 pages including references in LNCS format, anonymized, three reviewers per paper
+- Organizers in 2026 from Bern, Porto, Colorado, Cambridge, Khalifa University, JAIST, IBM Research Europe, Coimbra, HKUST and Utrecht
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://imimic-workshop.com/2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-06-25
+  - kind: notification
+    date: 2025-07-16
+  - kind: camera_ready
+    date: 2025-08-15
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://imimic-workshop.com/
+  deadlines:
+  - kind: submission
+    date: 2026-06-26
+    time: "23:59"
+    tz: CEST
+  - kind: notification
+    date: 2026-07-20
+    time: "23:59"
+    tz: CEST
+  - kind: camera_ready
+    date: 2026-07-31
+    time: "23:59"
+    tz: CEST
+sources:
+- https://imimic-workshop.com/
+- https://imimic-workshop.com/2025.html
+- https://link.springer.com/conference/imimic
+- https://link.springer.com/book/10.1007/978-3-032-17611-0
+- https://portal.core.edu.au/conf-ranks/?search=iMIMIC&by=all&source=ICORE2026
+unverified:
+- Springer lists iMIMIC volumes for 2018 to 2022 and 2025 only; proceedings for 2023 and 2024 not confirmed
+- iMIMIC 2027 dates and location not yet announced as of 2026-10-17
+last_verified: 2026-10-17

@@ -1,0 +1,69 @@
+id: fusion
+name: FUSION
+full_name: International Conference on Information Fusion
+type: conference
+tier: minor
+areas: [ai, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: International Society of Information Fusion (ISIF)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, Scopus, Web of Science]
+rank:
+  core: C
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://www.fusion2027.org/
+notes:
+- Flagship conference of the International Society of Information Fusion (ISIF), held annually since 1998
+- Covers sensor, data, information and knowledge fusion, including tracking, nonlinear filtering, data association,
+  localization, situation assessment and machine learning for fusion
+- Rotates between Europe, North America and other regions (2021 Sun City, 2022 Linkoping, 2023 Charleston, 2024
+  Venice, 2025 Rio de Janeiro, 2026 Trondheim, 2027 Buffalo)
+- Full papers of 5 to 8 pages in IEEE format, single-blind peer review via Microsoft CMT
+- Accepted papers are published in IEEE Xplore; the 2027 site says they are indexed in Scopus and Web of Science
+- FUSION 2026 allowed up to two extra pages for a fee of NOK 1000 each; FUSION 2027 allows no extra pages
+- Announced future editions are 2028 Prague, Czech Republic and 2029 Huntsville, Alabama, USA
+- CORE C in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-23
+  end: 2026-06-26
+  location: Trondheim, Norway
+  url: https://www.ntnu.edu/fusion2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-01
+    label: Full papers (extended from 2026-02-15)
+  - kind: notification
+    date: 2026-04-15
+  - kind: camera_ready
+    date: 2026-05-15
+- year: 2027
+  start: 2027-06-28
+  end: 2027-07-02
+  location: Buffalo, New York, USA
+  url: https://www.fusion2027.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-14
+    label: Full papers
+  - kind: notification
+    date: 2027-04-10
+  - kind: camera_ready
+    date: 2027-05-16
+sources:
+- https://www.fusion2027.org/
+- https://www.fusion2027.org/call-for-papers
+- https://www.ntnu.edu/fusion2026
+- https://www.ntnu.edu/fusion2026/call-for-papers
+- https://isif.org/event/about-conferences
+- https://portal.core.edu.au/conf-ranks/?search=FUSION&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Deadline time zones not stated on the official pages

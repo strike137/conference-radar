@@ -1,0 +1,73 @@
+id: comped
+name: CompEd
+full_name: ACM Global Computing Education Conference
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: biennial
+organizer: ACM SIGCSE
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [10]
+links:
+  website: https://comped.acm.org/
+notes:
+- ACM SIGCSE conference on computing education, the newest of its four conferences
+- Held every other year outside North America and Europe (Chengdu 2019, Hyderabad 2023, Gaborone 2025, Sao Paulo 2027)
+- Papers in the ACM Digital Library; fully dual-anonymous review with an expected acceptance rate of 25 to 35% (2025 call)
+- Full papers up to six pages plus one page of references; mandatory abstract one week before the paper deadline
+- Paper categories are computing education research, experience reports and tools, and curriculum and position papers; a phased paper track was piloted in 2025
+- Also has working groups, panels, posters and a doctoral consortium; in person only, at least one author must present
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-10-23
+  end: 2025-10-25
+  location: Gaborone, Botswana
+  url: https://comped.acm.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-17
+    label: Regular papers (mandatory)
+  - kind: other
+    date: 2025-03-17
+    label: Working group proposals
+  - kind: submission
+    date: 2025-03-24
+    label: Regular papers
+  - kind: other
+    date: 2025-03-31
+    label: Panel topic proposals
+  - kind: submission
+    date: 2025-06-05
+    label: Posters
+  - kind: submission
+    date: 2025-06-16
+    label: Doctoral consortium
+  - kind: camera_ready
+    date: 2025-08-06
+- year: 2027
+  start: 2027-09-28
+  end: 2027-10-02
+  location: Sao Paulo, Brazil
+  url: https://comped.acm.org/2027/
+sources:
+- https://comped.acm.org/
+- https://comped.acm.org/past-conferences/
+- https://comped.acm.org/2025/
+- https://comped.acm.org/2025/call-for-submissions/
+- https://comped.acm.org/2025/call-for-papers/
+- https://comped.acm.org/2027/
+- https://sigcse.org/events/
+- https://portal.core.edu.au/conf-ranks/?search=CompEd&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- CompEd 2027 dates (Sep 28 to Oct 2, 2027) cover working groups, doctoral consortium and main conference together; the main conference days are not given separately, and the SIGCSE events page says October 2027
+- CompEd 2027 call for papers and deadlines not yet published (the 2027 call pages still show the 2025 text)
+- CompEd 2025 paper notification is listed as "Tuesday, 15 May, 2025", but 15 May 2025 was a Thursday, so it is left out
+- Time zone of CompEd deadlines not stated

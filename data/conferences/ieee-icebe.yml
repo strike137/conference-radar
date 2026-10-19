@@ -1,0 +1,65 @@
+id: ieee-icebe
+name: IEEE ICEBE
+full_name: IEEE International Conference on E-Business Engineering
+type: conference
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Technical Committee on Business Informatics and Systems (TCBIS, IEEE Computer Society) with a host university each year
+organizer_country: [international]
+proceedings: IEEE Computer Society Conference Publishing Services (CPS); extended versions of selected papers invited to Springer SOCA and an MDPI Mathematics special issue
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10, 11]
+links:
+  website: https://conferences.computer.org/icebe/2026/index.html
+notes:
+- Held since 2003 (first edition 2004 in Macau); supported by the IEEE Technical Committee on Business Informatics and Systems (TCBIS)
+- Topics are AI, data and blockchain applied to e-business, e-commerce, FinTech and business automation
+- Double-blind review; full papers up to 8 pages, short and demo papers up to 4 pages (IEEE format)
+- 'Recent hosts: Bournemouth (2022), Sydney (2023), Shanghai (2024), Buraydah, Saudi Arabia (2025), Wuhan (2026)'
+- Camera-ready papers go through IEEE CPS; in-person attendance is mandatory
+- "Registration in 2026: 700 USD early for IEEE members, 840 USD for non-members; extra pages 100 USD each"
+- Not ranked by CORE (ICORE2026) and not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-10
+  end: 2025-11-12
+  location: Buraydah, Saudi Arabia
+  url: https://conferences.computer.org/icebe/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-01
+  - kind: notification
+    date: 2025-09-15
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-21
+  location: Wuhan, China
+  url: https://conferences.computer.org/icebe/2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-08-28
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2026-08-15)
+  - kind: notification
+    date: 2026-09-21
+  - kind: camera_ready
+    date: 2026-10-05
+sources:
+- https://conferences.computer.org/icebe/2026/index.html
+- https://conferences.computer.org/icebe/2026/pastconferences.html
+- https://conferences.computer.org/icebe/2025/
+- https://portal.core.edu.au/conf-ranks/?search=ICEBE&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- Official site does not say explicitly that the proceedings appear in IEEE Xplore (only that camera-ready goes through IEEE CPS)
+- The past conferences page gives 11-13 November 2026 for ICEBE 2026, while the home page gives 19-21 November 2026
+- 2025 camera-ready date differs between pages (September 20 in important dates, September 12 in the news)
+- Acceptance rate not published
+- ICEBE 2027 not announced yet
+last_verified: 2026-10-17

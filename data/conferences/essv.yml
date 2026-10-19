@@ -1,0 +1,67 @@
+id: essv
+name: ESSV
+full_name: Konferenz Elektronische Sprachsignalverarbeitung (Conference on Electronic Speech Signal Processing)
+name_local: Elektronische Sprachsignalverarbeitung
+type: conference
+tier: domestic
+areas: [nlp, communications]
+region: europe
+language: mixed
+frequency: annual
+organizer: ESSV community, hosted by a different university each year (University of Southern Denmark in 2027)
+organizer_country: [europe]
+proceedings: TUDpress Studientexte zur Sprachkommunikation
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [3]
+links:
+  website: https://www.essv.de/
+notes:
+- German-speaking speech technology conference held since 1990, usually in March; 2027 is the 38th edition
+- Talks mainly in German; papers in German or English, and English talks are welcome
+- Two-step submission; a 2-page extended abstract is reviewed, then accepted authors send a full paper of up to 8 pages
+- Proceedings in the TUDpress series Studientexte zur Sprachkommunikation and free in the ESSV online archive
+- Held mostly in Germany (Munich 2023, Regensburg 2024, Halle 2025, Eichstaett 2026); 2027 in Sonderborg, Denmark
+- Best Student Paper Award; work in progress and Show and Tell demos are welcome
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-04
+  end: 2026-03-06
+  location: Eichstaett, Germany (KU Eichstaett-Ingolstadt)
+  url: https://www.essv.de/essv2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-30
+    label: Extended abstract (extended from 2025-11-15)
+  - kind: notification
+    date: 2025-12-15
+  - kind: camera_ready
+    date: 2026-01-24
+    label: Full paper (max. 8 pages)
+- year: 2027
+  start: 2027-03-17
+  end: 2027-03-19
+  location: Sonderborg, Denmark (University of Southern Denmark, Alsion)
+  url: https://www.essv.de/essv2027/
+  deadlines:
+  - kind: submission
+    date: 2026-12-01
+    time: "23:59"
+    tz: AoE
+    label: Extended abstract (max. 2 pages, by email)
+  - kind: notification
+    date: 2026-12-18
+  - kind: camera_ready
+    date: 2027-01-31
+    time: "23:59"
+    tz: AoE
+    label: Full paper (max. 8 pages)
+sources:
+- https://www.essv.de/
+- https://www.essv.de/essv2026/
+- https://www.essv.de/essv2027/
+- https://www.essv.de/essv2027/abstracts.html
+- https://portal.core.edu.au/conf-ranks/?search=ESSV&by=all&source=ICORE2026
+last_verified: 2026-10-17

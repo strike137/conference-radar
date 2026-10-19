@@ -1,0 +1,59 @@
+id: anti-uav
+name: Anti-UAV
+full_name: Anti-UAV Workshop and Challenge
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: Organizing committee led by Jian Zhao, Jianan Li and Lei Jin, contact at Beijing Institute of Technology
+organizer_country: [china]
+proceedings: CVF Open Access (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://anti-uav.github.io/
+notes:
+- Workshop and challenge on detecting and tracking drones in thermal infrared video
+- Editions with CVPR 2020, ICCV 2021, CVPR 2023 and CVPR 2025; 2025 was the 4th edition
+- Challenge tracks on a benchmark of 410 videos, with cash prizes for the top three of each track and the best paper
+- Up to 8 pages excluding references in CVPR format, double-blind review; 2025 submissions through EasyChair
+- 10 papers in the CVPR 2025 workshop proceedings on CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 4th edition, with CVPR 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Nashville, USA
+  url: https://anti-uav.github.io/
+  deadlines:
+  - kind: other
+    date: 2025-03-09
+    time: "23:59"
+    tz: CET
+    label: Challenge results submission
+  - kind: submission
+    date: 2025-03-25
+    time: "23:59"
+    tz: CET
+  - kind: notification
+    date: 2025-03-29
+  - kind: camera_ready
+    date: 2025-04-14
+sources:
+- https://anti-uav.github.io/
+- https://anti-uav.github.io/schedule
+- https://anti-uav.github.io/submission
+- https://anti-uav.github.io/organizers
+- https://openaccess.thecvf.com/CVPR2025_workshops/Anti-UAV
+- https://openaccess.thecvf.com/CVPR2023_workshops/Anti-UAV
+- https://portal.core.edu.au/conf-ranks/?search=Anti-UAV&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2026 edition found (none in the CVPR 2026 workshop proceedings); the next edition and its host conference are not announced
+- The official pages give deadlines as "24:00 CET-midnight", recorded as 23:59 CET
+- Organizer affiliations other than the BIT contact address are not stated on the organizers page

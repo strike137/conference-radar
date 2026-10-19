@@ -1,0 +1,73 @@
+id: igarss
+name: IGARSS
+full_name: IEEE International Geoscience and Remote Sensing Symposium
+type: conference
+tier: minor
+areas: [communications, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Geoscience and Remote Sensing Society (GRSS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [1]
+  conference_months: [7, 8]
+links:
+  website: https://ieeeigarss.org/
+notes:
+- Flagship symposium of the IEEE Geoscience and Remote Sensing Society; 46th edition in 2026, 47th in 2027
+- Very large meeting; IGARSS 2026 reported nearly 2,600 submissions
+- Three submission options; full papers (4 pages plus references, IEEE two-column) go to IEEE Xplore, 400 to 600 word abstracts are presented but not published, and recently published Q1 journal articles can also be presented
+- Topics cover remote sensing of land, atmosphere, oceans and cryosphere, data processing, electromagnetics, sensors and platforms
+- Rotates worldwide (Brussels 2021 online, Kuala Lumpur 2022, Pasadena 2023, Athens 2024, Brisbane 2025, Washington DC 2026, Reykjavik 2027)
+- Remote sensing venue outside the usual CS rankings; CORE C in ICORE2026, not on the CCF list
+editions:
+- year: 2026
+  start: 2026-08-09
+  end: 2026-08-14
+  location: Washington, DC, USA
+  url: https://2026.ieeeigarss.org/
+  deadlines:
+  - kind: submission
+    date: 2026-01-17
+    label: Abstracts and full papers (extended from 2026-01-10)
+  - kind: notification
+    date: 2026-03-19
+  - kind: camera_ready
+    date: 2026-04-30
+- year: 2027
+  start: 2027-07-11
+  end: 2027-07-16
+  location: Reykjavik, Iceland
+  url: https://2027.ieeeigarss.org/
+  deadlines:
+  - kind: other
+    date: 2026-10-15
+    label: Community contributed theme proposals
+  - kind: other
+    date: 2026-11-03
+    label: Tutorial proposals
+  - kind: submission
+    date: 2027-01-11
+    label: Abstracts and full papers
+  - kind: notification
+    date: 2027-03-12
+  - kind: camera_ready
+    date: 2027-04-30
+sources:
+- https://ieeeigarss.org/
+- https://2026.ieeeigarss.org/
+- https://2026.ieeeigarss.org/important_dates.php
+- https://2026.ieeeigarss.org/call_for_papers.php
+- https://2027.ieeeigarss.org/
+- https://2027.ieeeigarss.org/important_dates.php
+- https://2027.ieeeigarss.org/call_for_papers.php
+- https://portal.core.edu.au/conf-ranks/?search=IGARSS&by=all&source=ICORE2026
+unverified:
+- Deadline times and time zones not stated on the official pages
+- IGARSS 2026 notification is 2026-03-15 on the call for papers page but 2026-03-19 on the important dates page (the later page is used)
+last_verified: 2026-10-17

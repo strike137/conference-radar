@@ -1,0 +1,88 @@
+id: gemic
+name: GeMiC
+full_name: German Microwave Conference
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: annual
+organizer: Rotating German host university (TU Dresden 2025, KIT 2026, TU Hamburg 2027) in cooperation with IMA e.V. and VDE/ITG
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://gemic2027.org/
+notes:
+- National microwave conference of Germany, hosted by a different university each year in cooperation with IMA e.V.
+  and VDE/ITG; 16th edition in Dresden 2025, 17th in Karlsruhe 2026, 18th in Hamburg 2027
+- Covers RF, microwave, millimeter-wave and THz circuits, antennas, radar, sensing and communication systems
+- Submission is a 2 to 4 page A4 abstract; final papers up to 4 A4 pages are considered for IEEE Xplore, and papers
+  not presented may be excluded
+- Strong industry exhibition and sponsor presence; best paper awards sponsored by IMA and EuMA
+- The November submission deadline was extended in 2025 (Nov 14 to Nov 30)
+- IEEE T-MTT special issue for expanded versions of GeMiC 2027 papers
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-03-17
+  end: 2025-03-19
+  location: Dresden, Germany (TU Dresden)
+  url: https://gemic2025.org/
+  deadlines:
+  - kind: submission
+    date: 2024-11-21
+  - kind: notification
+    date: 2025-01-16
+  - kind: camera_ready
+    date: 2025-02-13
+- year: 2026
+  start: 2026-03-09
+  end: 2026-03-11
+  location: Karlsruhe, Germany (KIT, Audimax Campus South)
+  url: https://www.gemic2026.kit.edu/
+  deadlines:
+  - kind: submission
+    date: 2025-11-30
+    label: Abstract (2 to 4 pages, extended from 2025-11-14)
+  - kind: notification
+    date: 2026-02-04
+    label: Moved from 2026-01-09
+  - kind: camera_ready
+    date: 2026-02-18
+    label: Final paper (moved from 2026-01-30)
+- year: 2027
+  start: 2027-03-15
+  end: 2027-03-17
+  location: Hamburg, Germany (Hamburg University of Technology, Harburg)
+  url: https://gemic2027.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-02
+    label: Paper (3 to 4 pages A4)
+  - kind: notification
+    date: 2027-01-08
+  - kind: camera_ready
+    date: 2027-01-31
+    label: Final paper
+  - kind: other
+    date: 2027-06-20
+    label: IEEE T-MTT special issue submission
+sources:
+- https://gemic2027.org/
+- https://gemic2027.org/index.php/author-information/
+- https://www.gemic2026.kit.edu/
+- https://www.gemic2026.kit.edu/26.php
+- https://www.gemic2026.kit.edu/76.php
+- https://www.gemic2026.kit.edu/21.php
+- https://gemic2025.org/
+- https://gemic2025.org/?page_id=1900
+- https://gemic2025.org/?page_id=959
+- https://portal.core.edu.au/conf-ranks/?search=GeMiC&by=all&source=ICORE2026
+unverified:
+- Frequency and region judged from the 2025, 2026 and 2027 editions only; earlier editions were not checked
+- Language of presentation not stated on the 2026 site (papers and site are in English)
+last_verified: 2026-10-17

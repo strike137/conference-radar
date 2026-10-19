@@ -1,0 +1,61 @@
+id: kubecon-india
+name: KubeCon + CloudNativeCon India
+full_name: KubeCon + CloudNativeCon India
+type: industry
+tier: minor
+areas: [systems, software]
+region: south-asia
+frequency: annual
+organizer: Cloud Native Computing Foundation (CNCF), The Linux Foundation
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 8, 12]
+links:
+  website: https://events.linuxfoundation.org/kubecon-cloudnativecon-india/
+notes:
+- CNCF flagship practitioner conference on Kubernetes and cloud native computing, India edition run by The Linux Foundation
+- First held in Delhi in December 2024, then Hyderabad (August 2025) and Mumbai (June 2026)
+- Two conference days of keynotes, breakouts and a solutions showcase, with co-located events
+- Talk proposals through Sessionize, reviewed by a program committee; no papers, slides and recordings are posted afterwards
+- Speakers may appear on at most three submissions
+- Not found in ICORE2026
+editions:
+- year: 2025
+  start: 2025-08-06
+  end: 2025-08-07
+  location: Hyderabad, India
+  url: https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-india/
+  deadlines:
+  - kind: submission
+    date: 2025-03-23
+    time: "23:59"
+    tz: IST
+    label: Talk proposals (CFP)
+  - kind: notification
+    date: 2025-05-05
+- year: 2026
+  start: 2026-06-18
+  end: 2026-06-19
+  location: Mumbai, India
+  url: https://events.linuxfoundation.org/kubecon-cloudnativecon-india/
+  deadlines:
+  - kind: submission
+    date: 2026-02-01
+    time: "23:59"
+    tz: IST
+    label: Talk proposals (CFP)
+  - kind: notification
+    date: 2026-03-09
+sources:
+- https://events.linuxfoundation.org/kubecon-cloudnativecon-india/
+- https://events.linuxfoundation.org/kubecon-cloudnativecon-india/program/cfp/
+- https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-india/
+- https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-india/program/cfp/
+- https://events.linuxfoundation.org/archive/2024/kubecon-cloudnativecon-india/
+- https://portal.core.edu.au/conf-ranks/?search=KubeCon&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2027 India edition not yet announced (not in the CNCF save the dates list as of 2026-10-17)

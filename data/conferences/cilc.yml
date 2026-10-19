@@ -1,0 +1,78 @@
+id: cilc
+name: CILC
+full_name: Italian Conference on Computational Logic
+type: conference
+tier: minor
+areas: [ai, software]
+region: europe
+language: english
+frequency: annual
+organizer: GULP (Gruppo Ricercatori e Utenti Logic Programming, Italian Association for Logic Programming), with a host
+  university
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+acceptance_rate: 69% (2026, 24/35 in the CEUR volume)
+fee: 250 EUR senior, 120 EUR junior (2026); includes annual GULP membership
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6]
+links:
+  website: https://cilc2026.unife.it/
+notes:
+- Annual meeting of GULP, the Italian Association for Logic Programming, held since 1986 (Genoa); 2026 was the 41st
+  edition
+- Covers logic programming, answer set programming, constraint programming, knowledge representation, automated
+  reasoning, argumentation and neuro-symbolic AI
+- Full papers up to 13 pages and short papers up to 7 pages (excluding references), CEUR-ART one-column style
+- Accepts non-original papers already published elsewhere; these are only presented and linked from the website, not
+  included in the proceedings
+- Proceedings in open-access CEUR-WS (2026 -> Vol-4244); selected papers invited to a journal special issue (CILC 2024
+  -> Journal of Logic and Computation)
+- Held at a different Italian university each year (Sassari/Alghero 2025, Ferrara 2026); papers and talks in English
+- All participants must be GULP members; the registration fee includes membership
+- Not listed in the CORE portal (ICORE2026) or the CCF list
+editions:
+- year: 2025
+  label: 40th CILC
+  start: 2025-06-25
+  end: 2025-06-27
+  location: Alghero, Italy
+  url: https://cilc2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-05-02
+    label: Extended from 2025-04-18
+  - kind: notification
+    date: 2025-05-23
+  - kind: camera_ready
+    date: 2025-06-13
+- year: 2026
+  label: 41st CILC
+  start: 2026-06-23
+  end: 2026-06-25
+  location: Ferrara, Italy
+  url: https://cilc2026.unife.it/
+  deadlines:
+  - kind: submission
+    date: 2026-05-06
+    label: Extended from 2026-04-26
+  - kind: notification
+    date: 2026-05-25
+    label: Extended from 2026-05-23
+  - kind: camera_ready
+    date: 2026-06-13
+sources:
+- https://cilc2026.unife.it/
+- https://cilc2026.unife.it/important-dates
+- https://cilc2026.unife.it/call-for-papers
+- https://cilc2026.unife.it/registration
+- https://cilc2026.unife.it/organizers
+- https://ceur-ws.org/Vol-4244/
+- https://cilc2025.github.io/
+- https://www.programmazionelogica.it/
+- https://portal.core.edu.au/conf-ranks/?search=CILC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- CILC 2027 not announced on an official page as of 2026-10-17
+- Deadline time and time zone not stated

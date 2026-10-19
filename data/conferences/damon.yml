@@ -1,0 +1,54 @@
+id: damon
+name: DaMoN
+full_name: International Workshop on Data Management on New Hardware
+type: workshop
+tier: minor
+areas: [data, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: DaMoN steering committee; co-located with ACM SIGMOD/PODS
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://damon-db.org/
+notes:
+- One-day workshop held with ACM SIGMOD/PODS, so it moves with SIGMOD (2026 in Bengaluru, India)
+- 'Scope: database systems on modern hardware (GPUs, FPGAs, new memory and storage, RDMA, CXL, processing in memory)'
+- Full papers up to 6 pages and short papers up to 2 pages at submission (10 and 4 pages for camera-ready), ACM SIGMOD format
+- Single-blind review via Microsoft CMT
+- All accepted papers are published in the ACM Digital Library
+- Selected 2026 papers invited to a "Best of DaMoN 2026" special section of the VLDB Journal
+- 22nd edition in 2026
+- "Rank: CORE C (ICORE2026)"
+editions:
+- year: 2026
+  label: 22nd edition, with ACM SIGMOD/PODS 2026
+  start: 2026-06-01
+  end: 2026-06-01
+  location: Bengaluru, India
+  url: https://damon-db.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-20
+    time: "23:59"
+    tz: AoE
+    label: Extended from February 16
+  - kind: notification
+    date: 2026-03-30
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-01
+sources:
+- https://damon-db.org/
+- https://portal.core.edu.au/conf-ranks/?search=DaMoN&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- DaMoN 2027 not announced yet

@@ -1,0 +1,65 @@
+id: norcas
+name: IEEE NorCAS
+full_name: IEEE Nordic Circuits and Systems Conference
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: NorCAS Steering Committee (Nordic and Baltic universities), financially co-sponsored by IEEE CASS
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://events.tuni.fi/norcas/
+notes:
+- Main circuits and systems conference of the Nordic countries, formed in 2015 by merging NORCHIP (since 1983) and the International Symposium on System-on-Chip
+- Financially co-sponsored by the IEEE Circuits and Systems Society and endorsed by its VLSI Systems and Applications TC
+- Covers analog, mixed-signal and digital circuit design, SoC, embedded systems, FPGA and hardware/software co-design
+- Rotates among Nordic and Baltic countries (2023 Aalborg, 2024 Lund, 2025 Riga, 2026 Tampere); held in late October
+- Full papers of 4 to 6 A4 pages plus an optional page of references; proceedings in IEEE Xplore
+- Selected papers are invited to an extended version for a journal special section
+- Not listed in ICORE2026 or the CCF list; circuits venue outside the usual CS rankings
+editions:
+- year: 2025
+  start: 2025-10-28
+  end: 2025-10-29
+  location: Riga, Latvia
+  url: https://ieeexplore.ieee.org/xpl/conhome/11231190/proceeding
+- year: 2026
+  start: 2026-10-20
+  end: 2026-10-21
+  location: Tampere, Finland
+  url: https://events.tuni.fi/norcas/
+  deadlines:
+  - kind: other
+    date: 2026-06-15
+    label: Special session proposals
+  - kind: submission
+    date: 2026-08-31
+    time: "23:59"
+    tz: CEST
+    label: Paper submission (extended, final)
+  - kind: notification
+    date: 2026-09-23
+  - kind: camera_ready
+    date: 2026-10-06
+sources:
+- https://events.tuni.fi/norcas/
+- https://events.tuni.fi/norcas/call-for-papers/
+- https://events.tuni.fi/app/uploads/sites/736/2026/09/norcas2026_cfp-1.pdf
+- https://events.tuni.fi/norcas/norcas-history/
+- https://events.tuni.fi/norcas/norcas-proceedings/
+- https://events.tuni.fi/norcas/committees-2026/
+- https://api.crossref.org/works?query=NorCAS+2025+Riga
+- https://portal.core.edu.au/conf-ranks/?search=NorCAS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Original (pre-extension) 2026 paper deadline not stated on the site
+- Camera-ready date is October 6 on the website but October 7 in the CFP PDF; website date used
+- 2025 dates taken from the Crossref record of the IEEE Xplore proceedings; 2025 deadlines not recorded
+- 2027 location and dates not announced yet

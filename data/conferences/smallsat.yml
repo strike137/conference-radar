@@ -1,0 +1,63 @@
+id: smallsat
+name: SmallSat
+full_name: Small Satellite Conference (AIAA/USU Conference on Small Satellites)
+type: conference
+tier: minor
+areas: [communications, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: Utah State University Space Dynamics Laboratory (historically with AIAA)
+organizer_country: [usa]
+proceedings: Open access papers on DigitalCommons@USU
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [8]
+links:
+  website: https://smallsat.org/
+notes:
+- Long-running annual small satellite conference run since 1987 by Utah State University and its Space Dynamics Laboratory; 2026 was the 40th edition
+- Held in Utah, USA; 2026 edition at the Salt Palace Convention Center, Salt Lake City
+- Large mixed academic and industry event (2026 site reports 5550 attendees and 450 exhibiting companies)
+- Research and Academia and Enterprise technical sessions, posters, flash talks and NASA short talks; communications and ground systems are regular session topics
+- Talks are selected from abstracts; full papers are due after acceptance and posted open access on DigitalCommons@USU, not in a formal series or digital library
+- Frank J. Redd Student Competition with prizes up to 10000 USD
+- "Registration 775 USD early, 350 USD for students (2026)"
+- Aerospace venue outside the usual CS rankings, not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-08-23
+  end: 2026-08-26
+  location: Salt Lake City, Utah, USA (Salt Palace Convention Center)
+  url: https://smallsat.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-05
+    time: "23:59"
+    tz: MST
+  - kind: submission
+    date: 2026-03-31
+    label: Student Competition papers
+  - kind: camera_ready
+    date: 2026-06-12
+    time: "23:59"
+    tz: MDT
+    label: Accepted technical papers
+- year: 2027
+  start: 2027-08-01
+  end: 2027-08-04
+  url: https://smallsat.org/
+sources:
+- https://smallsat.org/
+- https://smallsat.org/conference/dates-and-deadlines
+- https://smallsat.org/conference/registration
+- https://smallsat.org/conference/schedule
+- https://digitalcommons.usu.edu/smallsat/
+- https://digitalcommons.usu.edu/smallsat/2025/
+- https://portal.core.edu.au/conf-ranks/?search=SmallSat&by=all&source=ICORE2026
+unverified:
+- 2027 location and deadlines not yet announced (only a save-the-date for August 1 to 4)
+- Deadline times are stated as MT; MST and MDT are inferred from the dates
+- Locations of editions before 2026 not checked on the official site
+last_verified: 2026-10-17

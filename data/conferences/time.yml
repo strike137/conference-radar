@@ -1,0 +1,69 @@
+id: time
+name: TIME
+full_name: International Symposium on Temporal Representation and Reasoning
+type: conference
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: TIME Steering Committee
+organizer_country: [international]
+proceedings: Dagstuhl OASIcs (LIPIcs until 2025)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9, 10]
+links:
+  website: https://time-symposium.org/
+  dblp: https://dblp.org/db/conf/time/
+notes:
+- Small annual symposium on time in computer science, covering temporal logic and verification, temporal reasoning
+  in AI, and temporal databases and data mining
+- Series began in 1994 as a FLAIRS workshop and became an independent symposium in 2000
+- Proceedings in LIPIcs up to 2025; TIME 2026 proceedings appeared in OASIcs (volume 146)
+- Original and survey papers (12 pages in 2025) plus 4-page extended abstracts, single-blind review on OpenReview
+- Top papers are invited to a journal special issue
+- Held in Europe (Klagenfurt 2021, online 2022, Athens 2023, Montpellier 2024, London 2025, Cork 2026)
+- TIME 2026 accepted 16 of 26 submissions
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2025
+  start: 2025-08-27
+  end: 2025-08-29
+  location: London, UK (Queen Mary University of London)
+  url: https://time2025.time-symposium.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-20
+    tz: AoE
+  - kind: submission
+    date: 2025-05-26
+    tz: AoE
+    label: Extended from May 22
+  - kind: notification
+    date: 2025-06-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-01
+    tz: AoE
+- year: 2026
+  start: 2026-09-01
+  end: 2026-09-03
+  location: Cork, Ireland (University College Cork)
+  url: https://drops.dagstuhl.de/entities/volume/OASIcs-volume-146
+sources:
+- https://time-symposium.org/t/index.php/current-and-past-editions
+- https://time-symposium.org/t/
+- https://time2025.time-symposium.org/dates/
+- https://time2025.time-symposium.org/c4p/
+- https://time2025.time-symposium.org/proceedings/
+- https://drops.dagstuhl.de/entities/conference/TIME
+- https://drops.dagstuhl.de/entities/volume/OASIcs-volume-146
+- https://portal.core.edu.au/conf-ranks/?search=TIME&by=acronym&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- TIME 2026 website and deadlines not found; dates and location taken from the OASIcs volume 146 front matter
+- TIME 2027 not announced; the series page still says the coming edition is to be announced

@@ -1,0 +1,95 @@
+id: ieee-cic
+name: IEEE CIC
+full_name: IEEE International Conference on Collaboration and Internet Computing
+type: conference
+tier: minor
+areas: [networking, ai, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE, IEEE Computer Society
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+fee: 950 USD (2026, IEEE member author, early by Oct 15); 1140 USD non-member author
+typical:
+  deadline_months: [6, 8]
+  conference_months: [10, 11]
+links:
+  website: https://cic.ieee-cs.org/2026/
+notes:
+- Running since 2015; co-located with IEEE CogMI and IEEE TPS (plus IEEE RISC from 2026), one registration covers all
+- Two submission rounds (June and August), AoE; rejected Round 1 papers can be revised and resubmitted to Round
+  2; deadlines usually extended by one to three weeks
+- Anonymous review; research papers up to 10 pages in IEEE two-column format; industry/government and invited vision
+  tracks
+- Held in the USA except the first edition (Hangzhou 2015); Atlanta 2020 and 2021, Washington DC 2024, Pittsburgh 2025,
+  San Jose 2026
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-11
+  end: 2025-11-14
+  location: Pittsburgh, USA
+  url: https://cic.ieee-cs.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    tz: AoE
+    label: Round 1 (extended from Jun 21)
+  - kind: notification
+    date: 2025-07-30
+    label: Round 1
+  - kind: submission
+    date: 2025-08-29
+    tz: AoE
+    label: Round 2 (extended from Aug 8)
+  - kind: camera_ready
+    date: 2025-09-10
+    label: Round 1
+  - kind: notification
+    date: 2025-09-29
+    label: Round 2
+  - kind: camera_ready
+    date: 2025-10-15
+    label: Round 2
+- year: 2026
+  start: 2026-11-04
+  end: 2026-11-06
+  location: San Jose, USA
+  url: https://cic.ieee-cs.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    tz: AoE
+    label: Round 1 (extended from Jun 1)
+  - kind: notification
+    date: 2026-08-08
+    label: Round 1 (per CFP; home page says Aug 22)
+  - kind: submission
+    date: 2026-08-22
+    tz: AoE
+    label: Round 2 (extended from Aug 15)
+  - kind: notification
+    date: 2026-09-22
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-09-30
+    label: Rounds 1 and 2
+sources:
+- https://cic.ieee-cs.org/2026/
+- https://cic.ieee-cs.org/2026/call-for-papers/
+- https://cic.ieee-cs.org/2026/registration
+- https://cic.ieee-cs.org/2026/steerings
+- https://cic.ieee-cs.org/2025/
+- https://cic.ieee-cs.org/2025/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=CIC&by=all&source=ICORE2026
+- https://sos-vo.org/node/107183
+unverified:
+- Acceptance rate not published
+- The 2026 home page lists Round 1 notification as Aug 22 (extended) while the CFP says Aug 8 (extended from Jul 25);
+  CFP date used
+- Locations of past editions taken from DBLP and sos-vo.org listings, not the official site; 2020 and 2021 were
+  likely online; 2022 and 2023 locations not confirmed
+- IEEE CIC 2027 not yet announced (cic.ieee-cs.org/2027/ returns 404)
+last_verified: 2026-10-17

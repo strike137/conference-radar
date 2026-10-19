@@ -1,0 +1,85 @@
+id: sgp
+name: SGP
+full_name: Eurographics Symposium on Geometry Processing
+type: conference
+tier: major
+areas: [vision, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: Eurographics Association, with a rotating local host institution
+organizer_country: [europe]
+proceedings: Computer Graphics Forum (regular issue)
+archival: true
+rank:
+  core: B
+  ccf: B
+typical:
+  deadline_months: [2, 4]
+  conference_months: [6, 7]
+links:
+  website: https://sgp26.org/
+  dblp: https://dblp.org/db/conf/sgp/
+notes:
+- Main specialist venue for geometry processing (meshing, parameterization, shape analysis, geometric deep learning), run under the Eurographics Association
+- Proceedings appear as a regular issue of Computer Graphics Forum, with a two-stage review (conditional acceptance, then final acceptance)
+- Two submission rounds per year (2026 used February and April deadlines); dataset papers are also accepted
+- A two-day Graduate School for students new to the field runs just before the conference
+- Mostly held in Europe (Genova 2023, Bilbao 2025, Bern 2026), but recent editions were also remote (2021 hosted from Toronto, 2022) and in Cambridge MA (2024)
+- 2027 edition is part of the International Geometry Summit in Singapore together with SMI, SPM, GMP and SIAM GD
+- ICORE2026 B, CCF B (computer graphics and multimedia)
+editions:
+- year: 2026
+  start: 2026-07-01
+  end: 2026-07-03
+  location: Bern, Switzerland (University of Bern)
+  url: https://sgp26.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-02
+    label: First round
+  - kind: submission
+    date: 2026-02-04
+    label: First round
+  - kind: notification
+    date: 2026-03-16
+    label: First round
+  - kind: other
+    date: 2026-03-26
+    label: First round revised version due
+  - kind: camera_ready
+    date: 2026-04-02
+    label: First round
+  - kind: abstract
+    date: 2026-04-13
+    label: Second round
+  - kind: submission
+    date: 2026-04-15
+    label: Second round
+  - kind: notification
+    date: 2026-05-25
+    label: Second round
+  - kind: other
+    date: 2026-06-04
+    label: Second round revised version due
+  - kind: camera_ready
+    date: 2026-06-11
+    label: Second round
+  - kind: other
+    date: 2026-05-31
+    label: Poster submission
+- year: 2027
+  location: Singapore (part of IGS 2027 at Suntec Singapore Convention and Exhibition Centre)
+  url: https://igs2027singapore.github.io/
+sources:
+- https://sgp26.org/
+- https://sgp26.org/submit/
+- https://sgp26.org/past/
+- https://igs2027singapore.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=SGP&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf (CCF 2026 list PDF mirror)
+unverified:
+- SGP 2026 deadline time and time zone not stated on the official page
+- SGP 2027 exact days within IGS 2027 (June 21 to 25) and deadlines not yet published; no SGP 2027 site yet
+- CCF rank checked via a mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-10-17

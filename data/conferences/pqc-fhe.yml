@@ -1,0 +1,56 @@
+id: pqc-fhe
+name: PQC-FHE
+full_name: Workshop on the Design and Analysis of Post-Quantum Cryptography and Fully Homomorphic Encryption
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: asia-pacific
+language: english
+organizer: Institute of Information Engineering, Chinese Academy of Sciences (IIE CAS); affiliated event of IACR Asiacrypt
+organizer_country: [china]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://pqc-fhe-workshop.github.io/PQC-FHE-2026/
+notes:
+- One-day workshop affiliated with Asiacrypt 2026 at Hong Kong Polytechnic University; 2026 is the first edition
+- Organized by Xianhui Lu and Ruida Wang (IIE CAS); invited speakers mostly from Chinese universities
+- Topics are design, cryptanalysis, hardware acceleration and standardization of post-quantum cryptography and FHE
+  (BGV, BFV, CKKS, TFHE)
+- Talk-based format; submissions are PDF abstracts of up to 3 pages, and talks may be based on published work or work
+  in progress
+- Submissions are sent by email to the organizers; two submission rounds in 2026
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-07
+  location: Hong Kong (Hong Kong Polytechnic University, affiliated with Asiacrypt 2026)
+  url: https://pqc-fhe-workshop.github.io/PQC-FHE-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+    label: First round
+  - kind: notification
+    date: 2026-10-05
+    label: First round
+  - kind: submission
+    date: 2026-10-20
+    label: Second round
+  - kind: notification
+    date: 2026-11-05
+    label: Second round
+sources:
+- https://pqc-fhe-workshop.github.io/PQC-FHE-2026/
+- https://asiacrypt.iacr.org/2026/affiliated.php
+- https://portal.core.edu.au/conf-ranks/?search=PQC-FHE&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The site does not mention proceedings; set to None because only talk abstracts are collected and published work is
+  accepted
+- Frequency unknown (first edition); region set from co-location with Asiacrypt
+- Committee and invited speakers are listed as potential on the site
+- CCF 2026 list not checked; a workshop of this kind is not expected to be listed

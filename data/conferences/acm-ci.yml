@@ -1,0 +1,73 @@
+id: acm-ci
+name: ACM CI
+full_name: ACM Collective Intelligence Conference
+type: conference
+tier: minor
+areas: [ai, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGCHI (with SIGWEB)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9]
+links:
+  website: https://ci.acm.org/
+notes:
+- Interdisciplinary conference on collective intelligence in human, animal, machine and hybrid systems; series since 2012 with a steering committee chaired from Northeastern University
+- Full papers (up to 6,000 words) are archival in the ACM Digital Library with a meta-review and 3 external reviews; talks (formerly extended abstracts, up to 1,500 words) are non-archival
+- CI track full papers can opt into fast-track consideration for the ACM Collective Intelligence journal
+- 2026 was co-located and integrated with ACM HCOMP near Washington DC; 2025 in La Jolla (UC San Diego), 2024 Boston, 2023 Delft, 2022 virtual
+- In-person presentation required
+- Not listed in CORE (ICORE2026) or CCF
+editions:
+- year: 2026
+  label: 14th CI
+  start: 2026-09-27
+  end: 2026-09-30
+  location: Virginia Tech Academic Building One, Alexandria, Virginia, USA
+  url: https://ci.acm.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-08
+    time: "23:59"
+    tz: AoE
+    label: Papers and talks (extended from Jun 1)
+  - kind: submission
+    date: 2026-06-15
+    time: "23:59"
+    tz: AoE
+    label: Papers and talks (extended from Jun 8)
+  - kind: other
+    date: 2026-06-15
+    time: "23:59"
+    tz: AoE
+    label: Workshop proposals
+  - kind: other
+    date: 2026-07-23
+    time: "23:59"
+    tz: AoE
+    label: Posters and demos (extended from Jul 16)
+  - kind: notification
+    date: 2026-07-31
+    label: Papers and talks
+  - kind: camera_ready
+    date: 2026-08-13
+    label: Papers
+sources:
+- https://ci.acm.org/
+- https://ci.acm.org/2026/
+- https://ci.acm.org/2026/papers-talks.html
+- https://ci.acm.org/2026/posters-demos.html
+- https://ci.acm.org/2026/workshops.html
+- https://ci.acm.org/2026/organizers.html
+- https://ci.acm.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=Collective+Intelligence&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CI 2027 location, dates and deadlines not announced as of 2026-10-17 (site says they will be announced at ci.acm.org)
+- Acceptance rate not found on official pages
+last_verified: 2026-10-17

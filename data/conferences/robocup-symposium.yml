@@ -1,0 +1,68 @@
+id: robocup-symposium
+name: RoboCup Symposium
+full_name: RoboCup International Symposium
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: RoboCup Federation
+organizer_country: [international]
+proceedings: Springer LNAI
+archival: true
+indexing: [DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://www.robocup.org/symposium
+  dblp: https://dblp.org/db/conf/robocup/
+notes:
+- Main scientific forum of RoboCup, held as a one-day symposium right after the RoboCup world competition
+- Robotics and AI research related to all RoboCup leagues (soccer, rescue, @Home, industrial, junior); authors need not take part in the competitions
+- Proceedings published after the event in Springer LNAI as "RoboCup 20XX, Robot World Cup" volumes
+- Main track up to 12 pages in LNAI format; 2026 added an Open Platforms and Tools track (4-page extended abstract plus tutorial website)
+- Rotates worldwide with the competition (Bordeaux 2023, Eindhoven 2024, Salvador 2025, Incheon 2026)
+- Competition participants attend free; symposium-only registration was 380 USD faculty and 245 USD students in 2025
+- CORE C (ICORE2026, listed as "Robot Soccer World Cup"); not on the CCF list
+editions:
+- year: 2025
+  label: 28th RoboCup Symposium
+  start: 2025-07-21
+  end: 2025-07-21
+  location: Salvador, Brazil
+  url: https://2025.robocup.org/symposium/
+  deadlines:
+  - kind: submission
+    date: 2025-04-21
+  - kind: notification
+    date: 2025-05-30
+  - kind: camera_ready
+    date: 2025-06-13
+- year: 2026
+  label: 29th RoboCup Symposium
+  start: 2026-07-06
+  end: 2026-07-06
+  location: Incheon, South Korea
+  url: https://2026.robocup.org/symposium/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+  - kind: notification
+    date: 2026-05-29
+  - kind: camera_ready
+    date: 2026-06-19
+sources:
+- https://www.robocup.org/symposium
+- https://2026.robocup.org/symposium/
+- https://2025.robocup.org/symposium/
+- https://2024.robocup.org/research/symposium/
+- https://portal.core.edu.au/conf-ranks/?search=RoboCup&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2027 edition (host city and dates) not found on robocup.org
+- No time zone given for 2025 and 2026 deadlines

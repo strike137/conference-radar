@@ -1,0 +1,64 @@
+id: prai
+name: PRAI
+full_name: International Conference on Pattern Recognition and Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai, vision]
+region: china
+language: english
+frequency: annual
+organizer: Conference secretariat with a different Chinese host university each year (Shanghai Jiao Tong
+  University in 2026), technically co-sponsored by IEEE
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+fee: 525 USD regular author, 475 USD IEEE member or student (2026, early)
+typical:
+  deadline_months: [6]
+  conference_months: [8]
+links:
+  website: https://www.prai.net/
+notes:
+- Not the same venue as ICPRAI (CENPARMI, Concordia University)
+- Smaller commercially organized conference on pattern recognition, vision, speech and applied AI
+- Held in China every August since 2020 (Yibin 2021 and Chengdu 2022 online, Haikou 2023, Hangzhou 2024, Guizhou
+  2025, Shanghai 2026); the 2018 edition was at Kean University, USA
+- Proceedings in IEEE Xplore since 2021 (ACM Digital Library before), listed as indexed in Ei Compendex and Scopus
+- Single-blind review; papers 4 to 12 pages, 6 pages included and 50 USD per extra page
+- Abstract-only presentation possible without publication
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-08-15
+  end: 2025-08-17
+  location: Guizhou, China
+  url: https://www.prai.net/history.html
+- year: 2026
+  start: 2026-08-14
+  end: 2026-08-16
+  location: Shanghai, China
+  url: https://www.prai.net/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    label: Regular
+  - kind: submission
+    date: 2026-07-05
+    label: Final call
+  - kind: camera_ready
+    date: 2026-07-25
+  - kind: other
+    date: 2026-07-25
+    label: Registration
+sources:
+- https://www.prai.net/
+- https://www.prai.net/sub.html
+- https://www.prai.net/committee.html
+- https://www.prai.net/reg.html
+- https://www.prai.net/history.html
+- https://portal.core.edu.au/conf-ranks/?search=PRAI&by=all&source=ICORE2026
+unverified:
+- 2026 notification date differs between pages (July 20 on the home page, July 10 on the submission page)
+- PRAI 2027 dates and location not announced yet
+- Organizing company not named on the site, so organizer_country is left out
+last_verified: 2026-10-17
