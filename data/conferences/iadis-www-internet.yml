@@ -1,0 +1,82 @@
+id: iadis-www-internet
+name: WWW/Internet
+full_name: IADIS International Conference WWW/Internet (ICWI)
+type: conference
+tier: minor
+areas: [data, general]
+region: europe
+language: english
+frequency: annual
+organizer: IADIS (International Association for Development of the Information Society)
+organizer_country: [europe]
+proceedings: IADIS Press (IADIS Digital Library)
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [10, 11]
+links:
+  website: https://www.internet-conf.org/
+notes:
+- Organized by IADIS, a Portuguese association; chair Pedro Isaias (Universidade Aberta, Portugal); running since 2002
+  (25th edition in 2026)
+- Proceedings published by IADIS Press with Crossref DOIs and kept in the IADIS Digital Library; extended versions of
+  the best papers go to the IADIS International Journal on WWW/Internet
+- Blind peer review; covers both technical and non technical aspects of the web and the Internet
+- Two calls for papers (1st and last CFP); full, short and reflection papers plus posters
+- "Acceptance rate: 18% for full papers (2025, 28 of 158 submissions shared with Applied Computing 2025)"
+- Held in Portugal most years, sometimes elsewhere in Europe (online 2020 and 2021, Lisbon 2022, Funchal 2023,
+  Zagreb 2024, Porto 2025, Lisbon 2026); co-located with other IADIS conferences such as CELDA, Applied Computing and DSDI
+- IADIS conferences are generally regarded as minor venues; not listed in CORE ICORE2026 or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-01
+  end: 2025-11-03
+  location: Porto, Portugal
+  url: https://www.internet-conf.org/oldconferences/2025/
+  deadlines:
+  - kind: camera_ready
+    date: 2025-07-18
+    label: 1st CFP, with early registration
+  - kind: submission
+    date: 2025-09-05
+    label: Last CFP
+  - kind: notification
+    date: 2025-09-29
+    label: Last CFP
+- year: 2026
+  start: 2026-10-24
+  end: 2026-10-26
+  location: VIP Executive Entrecampos Hotel & Conference, Lisbon, Portugal
+  url: https://www.internet-conf.org/
+  deadlines:
+  - kind: camera_ready
+    date: 2026-07-24
+    label: 1st CFP, with early registration
+  - kind: submission
+    date: 2026-09-04
+    label: Last CFP
+  - kind: notification
+    date: 2026-09-28
+    label: Last CFP
+sources:
+- https://www.internet-conf.org/
+- https://www.internet-conf.org/important-dates/
+- https://www.internet-conf.org/publications/
+- https://www.internet-conf.org/venuehotel-info/
+- https://www.internet-conf.org/previous-editions/
+- https://www.internet-conf.org/oldconferences/2025/important-dates/
+- https://www.internet-conf.org/oldconferences/2025/venuehotel-info/
+- https://internet-conf.org/pdfs/ICWI_2025.pdf
+- https://www.internet-conf.org/oldconferences/2024/venuehotel-info/
+- https://www.internet-conf.org/oldconferences/2023/venuehotel-info/
+- https://www.internet-conf.org/oldconferences/2022/venuehotel-info/
+- https://www.iadisportal.org/digital-library/iadis-international-conference-www/internet-icwi
+- https://portal.core.edu.au/conf-ranks/?search=ICWI&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- The 1st CFP submission deadline is not shown on the official important dates pages (only the last CFP deadline)
+- Indexing not confirmed (the site says proceedings will be submitted, pending approval, to services such as Scopus,
+  EI, IET Inspec and Thomson)
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+- WWW/Internet 2027 not yet announced
+last_verified: 2026-10-17

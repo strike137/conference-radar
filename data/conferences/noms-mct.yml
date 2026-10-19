@@ -1,0 +1,47 @@
+id: noms-mct
+name: MCT
+full_name: Workshop on Management of Complex Threats
+type: workshop
+tier: minor
+areas: [security, networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs from EPITA / University of Strasbourg and IMT Atlantique, at IEEE/IFIP NOMS
+organizer_country: [europe]
+proceedings: IEEE Xplore (NOMS workshop proceedings)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5]
+links:
+  website: https://noms-mct.lre.epita.fr/
+notes:
+- First held at IEEE/IFIP NOMS 2026 in Rome; follows the Detection of Complex Attacks sessions (Sevilla 2024, Osaka 2025)
+- Topics are AI, ML and generative AI for detecting and managing complex network threats (APTs, zero-days, LLM attacks)
+- Original papers 6 pages in IEEE 2-column format; tutorial and tool demo proposals 2 to 6 pages; submitted via JEMS3
+- Accepted and presented papers appear in the NOMS 2026 proceedings and are submitted to IEEE Xplore
+- Eight papers plus a keynote and a tool demo in 2026
+editions:
+- year: 2026
+  start: 2026-05-22
+  end: 2026-05-22
+  location: Rome, Italy (with NOMS 2026)
+  url: https://noms-mct.lre.epita.fr/
+  deadlines:
+  - kind: submission
+    date: 2026-02-09
+    label: Extended (originally 2026-01-19)
+  - kind: notification
+    date: 2026-03-02
+  - kind: camera_ready
+    date: 2026-03-16
+sources:
+- https://noms-mct.lre.epita.fr/
+- https://noms2026.ieee-noms.org/workshops
+- https://portal.core.edu.au/conf-ranks/?search=MCT&by=all&source=ICORE2026
+unverified:
+- Only one edition so far; whether it returns at NOMS 2027 (Montreal) is not announced
+- Region assumed to follow the rotating NOMS host
+- Not listed in the CORE ICORE2026 portal or the CCF list
+last_verified: 2026-10-17

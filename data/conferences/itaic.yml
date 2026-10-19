@@ -1,0 +1,69 @@
+id: itaic
+name: IEEE ITAIC
+full_name: IEEE Joint International Information Technology and Artificial Intelligence Conference
+type: conference
+tier: minor
+areas: [ai, general]
+region: china
+language: english
+frequency: irregular
+organizer: Chongqing Global Union Academy of Science and Technology (GUAST), with IEEE sponsorship
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+fee: 600 USD author, 550 USD student or IEEE member, 200 USD listener (2026)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [5, 12]
+links:
+  website: http://www.itaic.org/
+notes:
+- Run by the Chongqing Global Union Academy of Science and Technology, a company that also runs IAEAC, IMCEC, ITNEC, ITOEC and ICIBA
+- Held in Chongqing every edition; 2026 is the 13th edition (IEEE conference record 70556)
+- Proceedings in IEEE Xplore under ISSN 2693-2865; the site says all past papers are indexed in EI
+- Two submission rounds with short review cycles; papers of at least 4 pages, each registration covers one paper of up to 5 pages
+- Not held every year (no edition in 2021 or 2024)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-05-23
+  end: 2025-05-25
+  location: Chongqing, China
+  url: http://www.itaic.org/
+- year: 2026
+  start: 2026-12-04
+  end: 2026-12-06
+  location: Chongqing, China
+  url: http://www.itaic.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-10
+    label: Round 1
+  - kind: notification
+    date: 2026-09-20
+    label: Round 1
+  - kind: camera_ready
+    date: 2026-09-30
+    label: Round 1
+  - kind: submission
+    date: 2026-10-31
+    label: Round 2
+  - kind: notification
+    date: 2026-11-06
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-11-12
+    label: Round 2
+sources:
+- http://www.itaic.org/
+- http://www.itaic.org/Important_Dates.asp
+- http://www.itaic.org/Registration.asp
+- http://www.itaic.org/Committees.asp
+- https://conferences.ieee.org/conferences_events/conferences/conferencedetails/70556
+- https://api.crossref.org/works?query.bibliographic=Information+Technology+and+Artificial+Intelligence+Conference+ITAIC&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ITAIC&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- ITAIC 2025 deadlines (no longer shown on the official site)
+- Acceptance rate not published

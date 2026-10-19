@@ -1,0 +1,68 @@
+id: fdg
+name: FDG
+full_name: International Conference on the Foundations of Digital Games
+type: conference
+tier: minor
+areas: [ai, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: SASDG (Society for the Advancement of the Science of Digital Games)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [12]
+  conference_months: [8]
+links:
+  website: https://fdg2026.org/
+notes:
+- Interdisciplinary games research venue (game AI, procedural content generation, game analytics, design, criticism, serious games)
+- Double-anonymised review with three reviews, a meta-review and an author response
+- Full papers up to 10 pages in ACM SIGCONF format; late-breaking short papers also go in the proceedings; abstract track is not published
+- Proceedings in the ACM Digital Library
+- 2026 hosted by the Royal Danish Academy in Copenhagen with hybrid sessions
+- All deadlines 23:59 AoE with no extensions (2026)
+- CORE ICORE2026 rank C; not in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-10
+  end: 2026-08-13
+  location: Copenhagen, Denmark
+  url: https://fdg2026.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-05
+    time: "23:59"
+    tz: AoE
+    label: Regular papers
+  - kind: submission
+    date: 2025-12-15
+    time: "23:59"
+    tz: AoE
+    label: Regular papers
+  - kind: notification
+    date: 2026-02-01
+    label: Regular papers
+  - kind: other
+    date: 2025-12-05
+    time: "23:59"
+    tz: AoE
+    label: Workshop, competition and panel proposals (extended from 2025-11-21)
+  - kind: other
+    date: 2026-03-30
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking short papers, games/demos, doctoral consortium
+sources:
+- https://fdg2026.org/
+- https://fdg2026.org/call-for-papers/
+- https://fdg2026.org/organizing-committee/
+- https://portal.core.edu.au/conf-ranks/?search=FDG&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- FDG 2027 dates and location
+- Organizer (SASDG) not named in text on the FDG 2026 site; sasdg.org was unreachable
+- 2026 end date (home page says August 10-13, the CFP page says August 10-14)

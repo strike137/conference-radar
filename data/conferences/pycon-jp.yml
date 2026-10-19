@@ -1,0 +1,68 @@
+id: pycon-jp
+name: PyCon JP
+full_name: PyCon JP
+type: industry
+tier: minor
+areas: [software, ai]
+region: japan
+language: mixed
+frequency: annual
+organizer: PyCon JP Association (volunteer-run general incorporated association)
+organizer_country: [japan]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://2026.pycon.jp/
+notes:
+- Japan's largest conference on the Python programming language, organized entirely by volunteers of the PyCon JP
+  Association
+- Talks (30 minutes) chosen from a call for proposals on Pretalx; proposals accepted in Japanese and English, up to 2
+  per person
+- About 40 to 50 talk slots planned in 2026, 39 talks confirmed; four parallel tracks plus keynotes, sprint day,
+  lightning talks and community booths
+- Travel grants available for speakers and attendees traveling from afar
+- No papers or proceedings; talks only
+- 'Recent venues: Tokyo 2024, Hiroshima 2025 and 2026, Numazu (Shizuoka) 2027'
+editions:
+- year: 2025
+  start: 2025-09-26
+  end: 2025-09-28
+  location: International Conference Center Hiroshima, Hiroshima, Japan
+  url: https://2025.pycon.jp/
+  deadlines: []
+- year: 2026
+  start: 2026-08-21
+  end: 2026-08-23
+  location: International Conference Center Hiroshima, Hiroshima, Japan
+  url: https://2026.pycon.jp/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    tz: AoE
+    label: Call for proposals (talks)
+- year: 2027
+  start: 2027-09-24
+  end: 2027-09-26
+  location: Plaza Verde, Numazu, Shizuoka, Japan
+  url: https://2027.pycon.jp/
+  status: confirmed
+  deadlines: []
+sources:
+- https://2026.pycon.jp/
+- https://2026.pycon.jp/en/about
+- https://2026.pycon.jp/en/overview
+- https://2026.pycon.jp/en/news/2026-07-17-proposal-acceptance
+- https://pyconjp.blogspot.com/2026/04/pycon-jp-2026-call-for-proposals-is-now.html
+- https://pyconjp.blogspot.com/2026/09/pyconjp2027-.html
+- https://2027.pycon.jp/
+- https://2025.pycon.jp/en
+- https://2024.pycon.jp/en
+- https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
+unverified:
+- PyCon JP 2027 call for proposals not yet open; deadline unknown
+- 2025 CFP deadline not recorded
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

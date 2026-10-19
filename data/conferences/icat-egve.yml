@@ -1,0 +1,89 @@
+id: icat-egve
+name: ICAT-EGVE
+full_name: International Conference on Artificial Reality and Telexistence and Eurographics Symposium on Virtual
+  Environments
+type: conference
+tier: minor
+areas: [vision, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: VRSJ (ICAT steering committee) and Eurographics
+organizer_country: [japan, europe]
+proceedings: Eurographics Digital Library
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [6, 8, 9]
+  conference_months: [9, 10, 12]
+links:
+  website: https://icat.vrsj.org/
+notes:
+- Joint event of ICAT (oldest international VR and telexistence conference, since 1991, run from Japan via VRSJ) and
+  the Eurographics Symposium on Virtual Environments; merged as ICAT-EGVE since 2014
+- CORE C (ICORE2026, listed as EGVE); not on the CCF list
+- Accepted papers, posters and demos go to the Eurographics Digital Library as gold open access; best papers are
+  invited to a Computers & Graphics special section
+- Double-blind review; full papers up to 8 pages and short papers up to 4 pages, Eurographics format
+- "Recent hosts: Yokohama 2022, Dublin 2023, Tsukuba 2024, Karlskrona 2025, Goiania (Brazil) 2026, co-located with
+  SVR, SIBGRAPI and SBGames"
+- Deadlines are often extended (about two and a half weeks in 2025, one month in 2026)
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Karlskrona, Sweden
+  url: https://a.bth.se/icat-egve2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-07
+    label: Title and abstract (extended from 2025-08-20)
+  - kind: submission
+    date: 2025-09-07
+    label: Full papers (extended from 2025-08-31)
+  - kind: other
+    date: 2025-10-07
+    label: Posters and demos (extended from 2025-10-03)
+  - kind: notification
+    date: 2025-10-17
+  - kind: camera_ready
+    date: 2025-11-04
+- year: 2026
+  start: 2026-09-30
+  end: 2026-10-02
+  location: Goiania, Brazil
+  url: https://icat-egve2026.inf.ufg.br/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-25
+    tz: AoE
+    label: Title and abstract (originally 2026-05-25, extended twice)
+  - kind: submission
+    date: 2026-06-25
+    tz: AoE
+    label: Full papers (originally 2026-05-31, extended twice)
+  - kind: other
+    date: 2026-07-08
+    tz: AoE
+    label: Posters and demos
+  - kind: notification
+    date: 2026-08-10
+  - kind: other
+    date: 2026-08-17
+    tz: AoE
+    label: Revised papers (conditionally accepted)
+  - kind: camera_ready
+    date: 2026-08-30
+    tz: AoE
+sources:
+- https://icat.vrsj.org/
+- https://icat.vrsj.org/about.php
+- https://icat-egve2026.inf.ufg.br/
+- https://a.bth.se/icat-egve2025/
+- https://portal.core.edu.au/conf-ranks/?search=EGVE&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- ICAT-EGVE 2027 host and dates not yet announced
+- Registration fees not checked
+last_verified: 2026-10-17

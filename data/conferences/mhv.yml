@@ -1,0 +1,73 @@
+id: mhv
+name: ACM MHV
+full_name: ACM Mile-High Video Conference
+type: conference
+tier: minor
+areas: [networking, communications]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM (MHV steering committee)
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [2]
+links:
+  website: https://www.mile-high.video/
+notes:
+- Industry-oriented conference on video coding and streaming (codecs, adaptive streaming, CDNs, QoE, low latency,
+  media over QUIC), held in Denver since 2016
+- Talks are selected from one-page extended abstracts peer reviewed by the TPC; accepted talks are 15 to 20 minutes
+  and recorded for YouTube
+- Paper publication is opt-in; speakers may submit a full paper (up to 8 pages) or a short paper (up to 2 pages),
+  reviewed separately and published in the ACM Digital Library
+- Authors of rejected abstracts may still submit a full paper
+- Audience mostly from industry (Netflix, Comcast, Akamai, BBC and others); includes a tutorial track and exhibits
+- Always in Denver, Colorado (The Cable Center 2025 and 2026, Denver Botanic Gardens 2027)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-02-02
+  end: 2026-02-05
+  location: Denver, Colorado, USA (The Cable Center)
+  url: https://www.mile-high.video/past-event-mhv-26
+- year: 2027
+  start: 2027-02-23
+  end: 2027-02-25
+  location: Denver, Colorado, USA (Freyer-Newman Center, Denver Botanic Gardens)
+  url: https://www.mile-high.video/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-23
+    tz: AoE
+    label: Talk abstract (firm)
+  - kind: notification
+    date: 2026-11-20
+    tz: AoE
+    label: Abstract acceptance
+  - kind: submission
+    date: 2026-12-11
+    tz: AoE
+    label: Optional full or short paper
+  - kind: notification
+    date: 2027-01-15
+    tz: AoE
+    label: Paper acceptance
+  - kind: camera_ready
+    date: 2027-02-05
+    tz: AoE
+sources:
+- https://www.mile-high.video/
+- https://www.mile-high.video/call-for-contributions
+- https://www.mile-high.video/organizing-committee
+- https://www.mile-high.video/past-event-mhv-26
+- https://www.mile-high.video/past-event-mhv-25
+- https://portal.core.edu.au/conf-ranks/?search=MHV&by=all&source=ICORE2026
+unverified:
+- MHV 2027 dates are given as Feb 23-25 in the site header but February 22-25 in the welcome text (possibly a tutorial
+  day on Feb 22)
+- MHV 2026 submission deadlines no longer shown on the official site
+- Acceptance rate and registration fee not published on the official site
+last_verified: 2026-10-17

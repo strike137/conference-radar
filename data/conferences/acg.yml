@@ -1,0 +1,67 @@
+id: acg
+name: ACG
+full_name: Advances in Computer Games Conference
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: ICGA (International Computer Games Association)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [10, 11]
+links:
+  website: https://icga.org/?page_id=4052
+notes:
+- One of the two conference series of the International Computer Games Association (ICGA)
+- Held in odd-numbered years, alternating with Computers and Games (CG) in even-numbered years
+- Started in Edinburgh in 1975 as Advances in Computer Chess; described as the longest running game AI conference
+- AI for board, card, puzzle and video games (search, MCTS, game solving, machine learning for games)
+- Proceedings in Springer LNCS; papers up to 10 pages including references in LNCS style
+- Held online since 2021 (2021, 2023, 2025); attendance free, 50 EUR fee per accepted paper (2025)
+- 18 papers presented in 2025
+- Not listed in CORE ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-21
+  end: 2025-10-23
+  location: Online
+  url: https://icga.org/?page_id=4052
+  deadlines:
+  - kind: submission
+    date: 2025-08-10
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from August 1)
+  - kind: notification
+    date: 2025-09-15
+  - kind: camera_ready
+    date: 2025-10-07
+    time: "23:59"
+    tz: AoE
+- year: 2023
+  start: 2023-11-28
+  end: 2023-11-30
+  location: Online
+  url: https://icga.org/?page_id=3788
+  deadlines:
+  - kind: submission
+    date: 2023-09-21
+  - kind: notification
+    date: 2023-10-23
+  - kind: camera_ready
+    date: 2023-11-10
+sources:
+- https://icga.org/?page_id=4052
+- https://icga.org/?page_id=3788
+- https://icga.org/?page_id=3030
+- https://icga.org/?p=4067
+- https://icga.org/?p=4097
+- https://portal.core.edu.au/conf-ranks/?search=Advances&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ACG 2027 not announced yet

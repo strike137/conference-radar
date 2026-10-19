@@ -1,0 +1,91 @@
+id: mig
+name: MIG
+full_name: ACM SIGGRAPH Conference on Motion, Interaction and Games
+type: conference
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGGRAPH (MIG steering committee)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [8]
+  conference_months: [11, 12]
+links:
+  website: https://mig.siggraph.org/
+notes:
+- ACM SIGGRAPH sponsored conference on character animation, motion synthesis, physics-based animation, interaction
+  and games; 19th edition in 2026
+- Long papers up to 10 pages and short papers 4 to 6 pages (excluding references), ACM sigconf format, double-blind
+  review with no rebuttal
+- All accepted long and short papers appear in the conference proceedings in the ACM Digital Library; selected best
+  papers are invited to a Computers & Graphics special issue
+- Separate poster track with a later deadline (October); at least one author must present in person
+- Rotates worldwide (virtual 2021, Guanajuato 2022, Rennes 2023, Arlington 2024, Zurich 2025, Charleston 2026)
+- CORE C (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Zurich, Switzerland (ETH Zurich)
+  url: https://mig.siggraph.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-01
+    time: "23:59"
+    tz: AoE
+    label: Long and short papers (extended from 2025-07-25)
+  - kind: notification
+    date: 2025-09-17
+    label: Long and short papers
+  - kind: camera_ready
+    date: 2025-10-01
+    time: "23:59"
+    tz: AoE
+    label: Long and short papers
+  - kind: submission
+    date: 2025-10-10
+    time: "23:59"
+    tz: AoE
+    label: Posters (extended from 2025-09-24)
+- year: 2026
+  start: 2026-12-11
+  end: 2026-12-13
+  location: Charleston, South Carolina, USA
+  url: https://mig.siggraph.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    time: "23:59"
+    tz: AoE
+    label: Long and short papers (extended from 2026-08-07)
+  - kind: notification
+    date: 2026-09-30
+    label: Long and short papers
+  - kind: camera_ready
+    date: 2026-10-15
+    time: "23:59"
+    tz: AoE
+    label: Long and short papers
+  - kind: submission
+    date: 2026-10-22
+    time: "23:59"
+    tz: AoE
+    label: Posters (extended from 2026-10-17)
+sources:
+- https://mig.siggraph.org/
+- https://mig.siggraph.org/2026/
+- https://mig.siggraph.org/2026/papers.htm
+- https://mig.siggraph.org/2025/
+- https://mig.siggraph.org/2025/submission/
+- https://mig.siggraph.org/2024/
+- https://portal.core.edu.au/conf-ranks/?search=MIG&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/
+unverified:
+- Acceptance rate and registration fee not published on the official site
+last_verified: 2026-10-17

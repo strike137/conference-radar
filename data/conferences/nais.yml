@@ -1,0 +1,64 @@
+id: nais
+name: NAIS
+full_name: Symposium of the Norwegian AI Society
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: irregular
+organizer: Norwegian Artificial Intelligence Society (NAIS)
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6]
+links:
+  website: https://www.aisociety.no/
+notes:
+- Symposium of the Norwegian AI Society, a meeting place for AI researchers in Norway and Scandinavia; held at a Norwegian university (Trondheim 2019, Oslo 2022, Bergen 2023, Tromso 2025)
+- In some years NAIS runs the Scandinavian Conference on AI (SCAI) with the other Scandinavian AI societies instead (2024 Jonkoping, 2026 Odense), so there is no NAIS symposium every year
+- Proceedings in CEUR-WS (2023, 2025), earlier in Springer; approved as a level 1 publication channel in Norway
+- Single-blind review; full papers up to 10 pages plus bibliography, position papers up to 5 pages (2025)
+- "NAIS 2025: 9 of 23 submitted papers accepted (5 full, 4 position papers), CEUR-WS Vol-3975"
+- Small and student-friendly; 2025 regular fee 2300 NOK including the dinner
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2023
+  start: 2023-06-14
+  end: 2023-06-15
+  location: Bergen, Norway
+  url: https://www.aisociety.no/nais2023/
+  deadlines:
+  - kind: abstract
+    date: 2023-04-28
+  - kind: submission
+    date: 2023-05-05
+  - kind: notification
+    date: 2023-05-22
+  - kind: camera_ready
+    date: 2023-06-02
+- year: 2025
+  start: 2025-06-18
+  end: 2025-06-19
+  location: Tromso, Norway
+  url: https://www.aisociety.no/nais2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-18
+    label: Papers (extended from 2025-04-11)
+  - kind: notification
+    date: 2025-05-16
+  - kind: camera_ready
+    date: 2025-05-28
+sources:
+- https://www.aisociety.no/nais2025/
+- https://www.aisociety.no/nais2023/
+- https://www.aisociety.no/?page_id=371
+- https://ceur-ws.org/Vol-3975/
+- https://portal.core.edu.au/conf-ranks/?search=NAIS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The next NAIS symposium is not announced on the NAIS site as of 2026-10-17 (2026 was SCAI in Odense)
+- The CEUR volume gives June 17 to 18, 2025, while the official site and program give June 18 to 19, 2025

@@ -1,0 +1,69 @@
+id: ctt
+name: CTT
+full_name: Workshop on Creative-text Translation and Technology
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Organizing committee from KU Leuven, UCLouvain, Ghent University, University of Groningen and ULB (contact Bram
+  Vanroy); co-located with EAMT or MT Summit
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://ctt2025.ccl.kuleuven.be/
+notes:
+- One-day workshop on machine translation, CAT tools and LLMs for creative texts (literature, marketing, subtitling,
+  games)
+- 1st edition with EAMT 2024 (Sheffield), 2nd edition with MT Summit 2025 (Geneva)
+- Proceedings in the ACL Anthology; papers are published only if presented in person
+- Long papers up to 10 pages, double-blind review; 2025 submissions via EasyChair
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  label: 1st edition, with EAMT 2024
+  start: 2024-06-27
+  end: 2024-06-27
+  location: Sheffield, UK
+  url: https://ctt2024.ccl.kuleuven.be/
+  deadlines:
+  - kind: submission
+    date: 2024-04-24
+    time: "23:59"
+    tz: UTC
+    label: Extended from 2024-04-15
+  - kind: notification
+    date: 2024-05-21
+  - kind: camera_ready
+    date: 2024-05-27
+- year: 2025
+  label: 2nd edition, with MT Summit 2025
+  start: 2025-06-24
+  end: 2025-06-24
+  location: Geneva, Switzerland
+  url: https://ctt2025.ccl.kuleuven.be/
+  deadlines:
+  - kind: submission
+    date: 2025-03-16
+    time: "23:59"
+    tz: UTC
+    label: Extended from 2025-03-10
+  - kind: notification
+    date: 2025-04-07
+  - kind: camera_ready
+    date: 2025-04-21
+sources:
+- https://ctt2025.ccl.kuleuven.be/
+- https://ctt2025.ccl.kuleuven.be/calls
+- https://ctt2024.ccl.kuleuven.be/calls
+- https://aclanthology.org/volumes/2025.ctt-1/
+- https://portal.core.edu.au/conf-ranks/?search=CTT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2026 edition found; unclear whether the series continues
+- Deadlines stated as 23:59 GMT, recorded as UTC

@@ -1,0 +1,65 @@
+id: ieee-apscon
+name: IEEE APSCON
+full_name: IEEE Applied Sensing Conference
+type: conference
+tier: minor
+areas: [communications]
+region: south-asia
+language: english
+frequency: annual
+organizer: IEEE Sensors Council, with Indian host institutions (BITS Pilani Hyderabad in 2027)
+organizer_country: [international, india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [1, 2, 3]
+links:
+  website: https://2027.ieee-apscon.org/
+notes:
+- IEEE Sensors Council conference on applications of sensors and sensing, always held in India so far (Bengaluru 2023, Goa 2024, Hyderabad 2025, New Delhi 2026, Hyderabad 2027)
+- 2027 is the 5th edition, at BITS Pilani Hyderabad Campus
+- 4-page papers in the IEEE conference template; papers over 4 pages are rejected without review
+- "Option A: conference paper reviewed by the TPC and published in the proceedings (IEEE Xplore)"
+- "Option B: paper submitted earlier to IEEE Sensors Letters, published in the journal if accepted and presented at the conference"
+- Industry day, sensors startup summit, students research forum, live demos and the MYOSA student competition
+- Author registration about 300 to 475 USD early (2027), with lower rates for low income countries
+- Sensors venue outside the usual CS rankings, not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-02-23
+  end: 2026-02-25
+  location: Vivanta New Delhi, Dwarka, New Delhi, India
+  url: https://2026.ieee-apscon.org/
+- year: 2027
+  start: 2027-03-15
+  end: 2027-03-17
+  location: BITS Pilani Hyderabad Campus, Hyderabad, India
+  url: https://2027.ieee-apscon.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-05
+    label: Option B (IEEE Sensors Letters; the CFP PDF of 2026-08-17 said 2026-09-15)
+  - kind: submission
+    date: 2026-10-20
+    label: Option A (conference proceedings)
+  - kind: notification
+    date: 2026-12-15
+  - kind: camera_ready
+    date: 2027-01-15
+    label: Final submission and author registration
+sources:
+- https://2027.ieee-apscon.org/
+- https://2027.ieee-apscon.org/call-for-papers/
+- http://2027.ieee-apscon.org/wp-content/uploads/2026/08/Call-for-Papers-APSCON-2027_17-08-2026.pdf
+- https://2027.ieee-apscon.org/conference-history/
+- https://2027.ieee-apscon.org/registration/
+- https://2027.ieee-apscon.org/technical-program/
+- https://2026.ieee-apscon.org/authors/call-for-papers
+- https://2026.ieee-apscon.org/travel-and-venue/venue
+- https://ieeexplore.ieee.org/xpl/conhome/11143989/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=APSCON&by=all&source=ICORE2026
+unverified:
+- APSCON 2026 deadlines not found on the 2026 site
+- Deadline times and time zones not stated
+last_verified: 2026-10-17

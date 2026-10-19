@@ -1,0 +1,74 @@
+id: jnic
+name: JNIC
+full_name: Jornadas Nacionales de Investigación en Ciberseguridad
+type: conference
+tier: domestic
+areas: [security]
+region: europe
+language: mixed
+frequency: annual
+organizer: Host Spanish university selected under the JNIC rules, with INCIBE and RENIC (Universitat Politècnica de Catalunya in 2026, Universidad de Salamanca in 2027)
+organizer_country: [europe]
+proceedings: Libro de actas JNIC (published by the host university, UPCommons in 2026, Zaguan repository of Universidad de Zaragoza in 2025)
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [5, 6]
+links:
+  website: https://www.incibe.es/eventos/JNIC
+notes:
+- Spanish national cybersecurity research conference, organized jointly with INCIBE since the first edition in León in 2015
+- Host city changes every year (Bilbao 2022, Sevilla 2024, Zaragoza 2025, Barcelona 2026, Salamanca 2027)
+- Three tracks; research, training and educational innovation, and technology transfer
+- Papers in Spanish or English; research papers up to 8 pages or 2-page extended abstracts of work already published, transfer papers up to 4 pages (2026)
+- Accepted and presented papers appear in a book of proceedings published by the host university, not in a formal publisher series
+- Hosts the RENIC prizes for the best PhD and master's theses in cybersecurity, plus a CTF
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-06-04
+  end: 2025-06-06
+  location: Universidad de Zaragoza, Zaragoza, Spain
+  url: https://2025.jnic.es/
+  deadlines:
+  - kind: submission
+    date: 2025-03-21
+    time: "23:59"
+    tz: CET
+    label: Research track (extended from 2025-03-14)
+  - kind: submission
+    date: 2025-03-28
+    time: "23:59"
+    tz: CET
+    label: Transfer and training tracks (extended from 2025-03-21)
+  - kind: notification
+    date: 2025-04-30
+  - kind: camera_ready
+    date: 2025-05-14
+    label: Extended from 2025-05-08
+- year: 2026
+  start: 2026-05-06
+  end: 2026-05-08
+  location: Campus Nord, Universitat Politècnica de Catalunya, Barcelona, Spain
+  url: https://www.incibe.es/eventos/JNIC/JNIC2026
+  deadlines:
+  - kind: notification
+    date: 2026-03-31
+  - kind: camera_ready
+    date: 2026-04-15
+    time: "23:59"
+    tz: CEST
+sources:
+- https://www.incibe.es/eventos/JNIC
+- https://www.incibe.es/eventos/JNIC/JNIC2026
+- https://www.incibe.es/eventos/JNIC/JNIC2026/callforpapers
+- https://carismatica.upc.edu/jnic-2026/
+- https://2025.jnic.es/
+- https://2025.jnic.es/cfp
+- https://2024.jnic.es/
+- https://2022.jnic.es/
+- https://portal.core.edu.au/conf-ranks/?search=JNIC&by=all&source=ICORE2026
+unverified:
+- The 2026 submission deadline is not shown on the official call for papers (it only says the submission period is closed)
+- "JNIC 2027 will be organized by Universidad de Salamanca (BISITE group); dates not announced yet"
+last_verified: 2026-10-17

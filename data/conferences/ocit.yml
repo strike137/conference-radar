@@ -1,0 +1,61 @@
+id: ocit
+name: OCIT
+full_name: OITS International Conference on Information Technology
+type: conference
+tier: minor
+areas: [general, ai, networking, security]
+region: south-asia
+language: english
+frequency: annual
+organizer: Orissa Information Technology Society (OITS), with a host institute
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://oits-ocit.github.io/
+notes:
+- Run by the Orissa Information Technology Society; known as ICIT until 2019 and as OCIT since 2021 (24th edition in 2026)
+- Held in December, mostly in Bhubaneswar; recent hosts were IIIT Bhubaneswar, KIIT, NIT Raipur, SRM University and NIT Kurukshetra
+- Technically co-sponsored by an IEEE section; OCIT 2024 proceedings are in IEEE Xplore
+- Tracks cover AI and ML, data science, networking and information security, distributed computing, signal processing and IoT
+- Full papers up to 6 pages, double-blind; submission via Microsoft CMT; no-show papers are removed
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-18
+  end: 2025-12-20
+  location: KIIT University, Bhubaneswar, India
+  url: https://oits-ocit.github.io/oits-archieve/OCIT_2025_Website/
+  deadlines:
+  - kind: submission
+    date: 2025-09-07
+  - kind: notification
+    date: 2025-10-06
+  - kind: camera_ready
+    date: 2025-10-21
+- year: 2026
+  start: 2026-12-17
+  end: 2026-12-19
+  location: NIT Kurukshetra, Haryana, India
+  url: https://oits-ocit.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    label: Second round full paper (hard, extended from 2026-08-17)
+  - kind: notification
+    date: 2026-10-12
+  - kind: camera_ready
+    date: 2026-10-15
+sources:
+- https://oits-ocit.github.io/
+- https://oits-ocit.github.io/CFP_OCIT2026.pdf
+- https://oits-ocit.github.io/oits-archieve/OCIT_2025_Website/
+- https://ieeexplore.ieee.org/xpl/conhome/10973619/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=OCIT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- OCIT 2026 notification date differs (website 2026-10-12, CFP PDF 2026-10-06); first round deadline not stated
+- IEEE Xplore publication of OCIT 2026 is still pending approval by the IEEE Delhi Section per the website

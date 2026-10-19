@@ -1,0 +1,83 @@
+id: iscls
+name: ISCLS
+full_name: International Sanskrit Computational Linguistics Symposium
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: south-asia
+language: english
+frequency: irregular
+organizer: ISCLS steering committee (International Sanskrit Computational Linguistics Consortium); hosted by an Indian institution each time (IIT Roorkee in 2026, Deccan College Pune in 2027)
+organizer_country: [india]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [1, 10]
+  conference_months: [1, 2, 3]
+links:
+  website: https://iscls.github.io/
+notes:
+- Symposium on computational linguistics and digital humanities for Sanskrit (Classical and Vedic), Prakrit, Pali and Buddhist Hybrid Sanskrit
+- Started in 2007 at INRIA Paris; editions in 2007, 2008, 2009, 2010, 2013, 2019, 2024, 2026 and 2027, all in India since 2009
+- Proceedings in the ACL Anthology since 2019 (17 papers in 2026, 10 in 2024); the first four editions appeared in Springer LNCS/LNAI
+- Full papers up to 20 pages with the ISCLS template, plus 2-page demos; submissions via Microsoft CMT
+- 9th edition on January 20-22, 2027 at Deccan College, Pune; 8th edition on March 9-11, 2026 at IIT Roorkee
+- Steering committee members from India, Canada, France, Switzerland and the USA
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-03-09
+  end: 2026-03-11
+  location: IIT Roorkee, Roorkee, India
+  url: https://iscls.github.io/iscls2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-15
+    tz: AoE
+  - kind: other
+    date: 2026-01-31
+    tz: AoE
+    label: Demo submission
+  - kind: notification
+    date: 2026-02-15
+    tz: AoE
+  - kind: other
+    date: 2026-02-20
+    tz: AoE
+    label: Demo notification
+  - kind: camera_ready
+    date: 2026-03-01
+    tz: AoE
+- year: 2027
+  start: 2027-01-20
+  end: 2027-01-22
+  location: Deccan College, Pune, India
+  url: https://iscls.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    tz: AoE
+    label: Paper submission (extended from October 20)
+  - kind: other
+    date: 2026-10-30
+    tz: AoE
+    label: Demo submission
+  - kind: notification
+    date: 2026-12-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-12-20
+    tz: AoE
+sources:
+- https://iscls.github.io/
+- https://iscls.github.io/cfp.html
+- https://iscls.github.io/submission.html
+- https://iscls.github.io/organization.html
+- https://iscls.github.io/history.html
+- https://iscls.github.io/iscls2026/
+- https://aclanthology.org/venues/iscls/
+- https://portal.core.edu.au/conf-ranks/?search=ISCLS&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Acceptance rate and registration fee not published

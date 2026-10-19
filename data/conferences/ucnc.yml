@@ -1,0 +1,76 @@
+id: ucnc
+name: UCNC
+full_name: International Conference on Unconventional Computation and Natural Computation
+type: conference
+tier: minor
+areas: [general, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: UCNC Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+fee: 480 EUR full, 320 EUR student, 100 EUR online (2026, early)
+typical:
+  deadline_months: [3]
+  conference_months: [6, 9]
+links:
+  website: https://ucnc2026.github.io/
+notes:
+- Series on novel forms of computation and nature-inspired computing (molecular, quantum, optical, neural and
+  evolutionary computation, cellular automata, membrane computing, artificial life, synthetic biology)
+- Formerly the International Conference on Unconventional Computation (UC); 23rd edition in 2026
+- Regular papers up to 16 pages and short papers up to 8 pages appear in Springer LNCS as post-proceedings; late-breaking
+  abstracts (3 pages) and posters are presentation only
+- Satellite workshops (2026 reaction systems, quantum computing, cellular automata and Boolean automata networks) have
+  their own publication arrangements
+- 'Rotates globally: Tokyo 2019, Espoo 2021, Jacksonville 2023, Pohang 2024, Nice 2025, Trieste 2026 (no 2020 or 2022 edition)'
+- 'Deadlines are usually extended (2026: submission Mar 13 -> Mar 27)'
+- CORE C in ICORE2026 (listed under the acronym UC); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-26
+  location: Trieste, Italy
+  url: https://ucnc2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-13
+    label: Regular and short papers (original)
+  - kind: submission
+    date: 2026-03-27
+    label: Regular and short papers (extended)
+  - kind: notification
+    date: 2026-05-08
+    label: Regular and short papers (extended from 2026-04-30)
+  - kind: camera_ready
+    date: 2026-05-19
+    label: Extended from 2026-05-08, then 2026-05-15
+  - kind: other
+    date: 2026-05-15
+    label: Posters and late-breaking abstracts (extended from 2026-05-08)
+  - kind: other
+    date: 2026-05-29
+    label: Posters and late-breaking abstracts notification
+sources:
+- https://ucnc2026.github.io/
+- https://ucnc2026.github.io/dates.html
+- https://ucnc2026.github.io/submissions.html
+- https://ucnc2026.github.io/registration.html
+- https://ucnc2026.github.io/committees.html
+- https://doi.org/10.1007/978-3-032-15641-9
+- https://doi.org/10.1007/978-3-031-63742-1
+- https://doi.org/10.1007/978-3-031-34034-5
+- https://doi.org/10.1007/978-3-030-87993-8
+- https://doi.org/10.1007/978-3-030-19311-9
+- https://portal.core.edu.au/conf-ranks/?search=Unconventional&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- UCNC 2027 location and dates not yet announced
+- Past host cities taken from the Springer LNCS proceedings titles (Crossref metadata); earlier official sites not
+  reachable
+- Deadline times and time zones not stated
+- CCF list checked against a local text copy of the CCF 2026 PDF (ccf.org.cn not reachable directly)

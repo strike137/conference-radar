@@ -1,0 +1,68 @@
+id: agent-icse
+name: AGENT
+full_name: International Workshop on Agentic Engineering
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AGENT organizing committee (CSIRO Data61, Queen's University, Singapore Management University), co-located with ICSE (IEEE/ACM)
+organizer_country: [international]
+proceedings: ACM DL (ICSE 2026 workshop proceedings); IEEE for 2027
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [4]
+links:
+  website: https://conf.researchr.org/series/agent
+notes:
+- ICSE workshop on software engineering for agentic AI systems built on foundation models (requirements, architecture, testing, AgentOps, responsible AI)
+- 1st edition at ICSE 2026 in Rio de Janeiro; 2nd edition at ICSE 2027 in Dublin
+- Co-chaired by Qinghua Lu and Liming Zhu (CSIRO Data61), Ahmed E. Hassan (Queen's University) and David Lo (SMU)
+- 2027 accepts full papers up to 8 pages and short papers up to 5 pages, both including references, IEEE template, single-anonymous review
+- 2026 papers published by ACM; ICSE 2027 workshop papers are published by IEEE
+- Selected 2026 papers were invited to an IEEE Software special issue on engineering agentic systems
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-14
+  end: 2026-04-14
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/icse-2026/agent-2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-07
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2025-12-08
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-26
+    tz: AoE
+- year: 2027
+  start: 2027-04-26
+  end: 2027-04-26
+  location: Dublin, Ireland
+  url: https://conf.researchr.org/home/icse-2027/agent-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+    tz: AoE
+  - kind: notification
+    date: 2026-12-11
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-29
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/icse-2026/agent-2026
+- https://conf.researchr.org/home/icse-2027/agent-2027
+- https://conf.researchr.org/series/agent
+- https://conf.researchr.org/track/icse-2026/icse-2026-workshops
+- https://conf.researchr.org/track/icse-2027/icse-2027-workshops
+- https://portal.core.edu.au/conf-ranks/?search=AGENT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Acceptance rate not found on an official page

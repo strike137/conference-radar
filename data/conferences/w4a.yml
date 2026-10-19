@@ -1,0 +1,71 @@
+id: w4a
+name: W4A
+full_name: International Web for All Conference
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: W4A Steering Committee
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [4, 5]
+links:
+  website: https://www.w4a.info/
+notes:
+- Web accessibility research conference, always co-located with the ACM Web Conference (TheWebConf), so it moves around the world with it
+- Proceedings published with ACM and available in the ACM Digital Library
+- Technical papers up to 10 pages and communication papers (work in progress, experience reports) up to 4 pages, excluding references
+- Submissions are not blinded; at least two and by default three reviewers per paper
+- Also runs a Web Accessibility Challenge and a doctoral consortium; registration goes through the Web Conference
+- 2026 edition was moved from April to 29 to 30 June 2026 and held remotely because TheWebConf 2026 in Dubai went online
+- Recent hosts Lyon (2022), Austin (2023), Singapore (2024), Sydney (2025), Dubai (2026, online), Dublin (2027)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-06-30
+  location: Online (planned for Dubai, United Arab Emirates)
+  url: https://www.w4a.info/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-22
+    tz: AoE
+    label: Technical and communication papers (extended from 2026-01-19)
+  - kind: submission
+    date: 2026-01-26
+    tz: AoE
+    label: Accessibility Challenge
+  - kind: submission
+    date: 2026-02-09
+    tz: AoE
+    label: Doctoral consortium (extended from 2026-01-26)
+  - kind: notification
+    date: 2026-02-19
+    tz: AoE
+    label: Final decisions
+- year: 2027
+  start: 2027-05-10
+  end: 2027-05-11
+  location: Dublin, Ireland
+  url: https://www.w4a.info/2027/
+sources:
+- https://www.w4a.info/2027/
+- https://www.w4a.info/2027/technical-and-communication-papers/
+- https://www.w4a.info/2027/publication-policies/
+- https://www.w4a.info/2026/
+- https://www.w4a.info/2026/technical-and-communication-papers/
+- https://www.w4a.info/2026/program/
+- https://www.w4a.info/2026/organization/
+- https://www.w4a.info/2025/
+- https://portal.core.edu.au/conf-ranks/?search=W4A&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+last_verified: 2026-10-17
+unverified:
+- W4A 2027 submission deadlines are still listed as tba as of 2026-10-17
+- No camera-ready date is listed for 2026; acceptance rate not published on the official site
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly

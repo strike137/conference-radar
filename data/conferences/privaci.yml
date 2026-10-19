@@ -1,0 +1,68 @@
+id: privaci
+name: PrivaCI
+full_name: Annual PrivaCI Symposium (Symposium on Applications of Contextual Integrity)
+type: conference
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: PrivaCI Institute for Technology Policy and Social Integrity
+proceedings: Symposium website (accepted submissions posted with author permission, non-archival)
+archival: false
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://privaci.info/
+notes:
+- Interdisciplinary symposium on privacy as contextual integrity, run by the non-profit PrivaCI Institute; steering committee includes Helen Nissenbaum
+- Earlier editions were called the Annual Symposium on Applications of Contextual Integrity; renamed PrivaCI Symposium from the 7th edition (2025)
+- Accepts 4-page position papers on work in progress, extended abstracts, and 1-page use case or case study descriptions in the ACM template
+- No formal proceedings; accepted submissions may be posted on the website but are not archival
+- Single-blind peer review by the program committee
+- Mostly held in the USA and Canada (Toronto 2023, New Jersey 2024, Brussels 2025, UIUC 2026, Quebec City 2027)
+- Registration fee 150 USD (2026), including meals
+editions:
+- year: 2026
+  start: 2026-06-24
+  end: 2026-06-25
+  location: University of Illinois at Urbana-Champaign, USA
+  url: https://privaci.info/symposium/2026/cfp.html
+  deadlines:
+  - kind: abstract
+    date: 2026-02-06
+    tz: AoE
+    label: Intent or abstract registration (preferred)
+  - kind: submission
+    date: 2026-02-13
+    tz: AoE
+  - kind: notification
+    date: 2026-03-31
+    tz: AoE
+- year: 2027
+  start: 2027-06-10
+  end: 2027-06-11
+  location: Laval University, Quebec City, Canada
+  url: https://privaci.info/symposium/2027/cfp.html
+  deadlines:
+  - kind: abstract
+    date: 2027-03-05
+    tz: AoE
+    label: Intent or abstract registration (preferred)
+  - kind: submission
+    date: 2027-03-12
+    tz: AoE
+  - kind: notification
+    date: 2027-04-09
+    tz: AoE
+sources:
+- https://privaci.info/symposium/2027/cfp.html
+- https://privaci.info/symposium/2026/cfp.html
+- https://privaci.info/events.html
+- https://privaci.info/about
+- https://portal.core.edu.au/conf-ranks/?search=PrivaCI&by=all&source=ICORE2026
+unverified:
+- Country of the PrivaCI Institute not stated on the site, so organizer_country is left out
+- Not listed in the CORE ICORE2026 portal or the CCF list
+last_verified: 2026-10-17

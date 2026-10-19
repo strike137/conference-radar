@@ -1,0 +1,73 @@
+id: airov
+name: AIRoV
+full_name: Austrian Symposium on AI, Robotics, and Vision
+type: conference
+tier: minor
+areas: [ai, vision]
+region: europe
+language: english
+frequency: annual
+organizer: ASAI, GMAR and OAGM (Austrian societies for AI, robotics and pattern recognition)
+organizer_country: [europe]
+proceedings: TU Wien Library (open access, DOI per paper)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [3, 4, 7]
+links:
+  website: https://airov.at/
+notes:
+- Joint symposium of the Austrian Society for Artificial Intelligence (ASAI), the Austrian Society of Measurement,
+  Automation and Robot Technologies (GMAR) and the Austrian Association for Pattern Recognition (OAGM)
+- Successor of the separate OAGM and Austrian Robotics Workshop (ARW) meetings; first joint edition in 2024
+- Built around parallel workshops; every paper is submitted to one workshop (full paper 8 pages or extended abstract
+  2 to 4 pages) through CMT
+- Proceedings published open access by the TU Wien Library with a DOI per paper (2024 by innsbruck university
+  press)
+- Held in Austria (Innsbruck 2024, Klagenfurt 2025, Leoben 2026, Vienna 2027)
+- Not ranked in CORE ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-15
+  location: Leoben, Austria
+  url: https://airov.at/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-14
+    time: "23:59"
+    tz: CET
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-03-24
+    time: "23:59"
+    tz: CET
+  - kind: camera_ready
+    date: 2026-04-03
+    time: "23:59"
+    tz: CET
+    label: Online pre-proceedings
+  - kind: other
+    date: 2026-05-01
+    time: "23:59"
+    tz: CET
+    label: Camera ready for final proceedings
+- year: 2027
+  start: 2027-07-05
+  end: 2027-07-07
+  location: Vienna, Austria (WU Vienna)
+  url: https://airov.at/2027/
+sources:
+- https://airov.at/
+- https://airov.at/2027/
+- https://airov.at/2026/
+- https://airov.at/2026/call-for-papers/
+- https://airov.at/2025/
+- https://airov.at/2025/venue
+- https://airov.at/2024/
+- https://proceedings.airov.at/
+- https://portal.core.edu.au/conf-ranks/?search=AIRoV&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- AIRoV 2027 deadlines (to be announced on the official site as of 2026-10-17)
+- Original (pre-extension) 2026 paper deadline

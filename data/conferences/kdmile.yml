@@ -1,0 +1,75 @@
+id: kdmile
+name: KDMiLe
+full_name: Symposium on Knowledge Discovery, Mining and Learning
+type: conference
+tier: domestic
+areas: [data, ai]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação)
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://bracis.sbc.org.br/2026/kdmile/
+notes:
+- Brazilian data mining and machine learning symposium; 14th edition in 2026; grew out of the WAAMD workshop (2005
+  to 2009) at SBBD
+- Co-located with BRACIS or SBBD (alternating since 2013), in a different Brazilian city each year (Fortaleza 2025,
+  Cuiabá 2026)
+- Proceedings (Anais) published in the SBC OpenLib (SOL)
+- Papers in Portuguese or English (title, abstract and keywords in English), up to 8 pages; single-blind review
+- Authors of selected papers are usually invited to a special issue of the Journal of Information and Data Management (JIDM)
+- "Acceptance rate: 25.4% (2026, 35/138)"
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-29
+  end: 2025-10-02
+  location: Fortaleza, Brazil
+  url: https://bracis.sbc.org.br/2025/kdmile/
+  deadlines:
+  - kind: submission
+    date: 2025-06-15
+    label: Papers (later of two dates listed; page also shows 2025-05-30)
+  - kind: notification
+    date: 2025-07-23
+    label: Later of two dates listed; page also shows 2025-07-07
+  - kind: camera_ready
+    date: 2025-07-30
+    label: Later of two dates listed; page also shows 2025-07-14
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-22
+  location: Cuiabá, Brazil
+  url: https://bracis.sbc.org.br/2026/kdmile/
+  deadlines:
+  - kind: submission
+    date: 2026-06-29
+    time: "23:59"
+    tz: AoE
+    label: Papers (latest of the listed dates 2026-06-08, 2026-06-22, 2026-06-29)
+  - kind: notification
+    date: 2026-08-17
+    time: "23:59"
+    tz: AoE
+    label: Later of two dates listed; page also shows 2026-08-10
+  - kind: camera_ready
+    date: 2026-08-26
+    time: "23:59"
+    tz: AoE
+sources:
+- https://bracis.sbc.org.br/2026/kdmile/
+- https://bracis.sbc.org.br/2025/kdmile/
+- https://bracis.sbc.org.br/2025/
+- https://sol.sbc.org.br/index.php/kdmile
+- https://sol.sbc.org.br/index.php/kdmile/issue/archive
+- https://portal.core.edu.au/conf-ranks/?search=KDMiLe&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Which of the listed 2025 and 2026 dates are the final ones (the pages list several dates per deadline)
+- KDMiLe 2027 dates, location and host conference (not announced as of 2026-10-17)
+last_verified: 2026-10-17

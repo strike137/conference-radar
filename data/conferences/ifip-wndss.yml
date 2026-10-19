@@ -1,0 +1,63 @@
+id: ifip-wndss
+name: WNDSS
+full_name: IFIP International Workshop on Network and Distributed Systems Security
+type: workshop
+tier: minor
+areas: [security, networking]
+region: europe
+language: english
+frequency: irregular
+organizer: IFIP WG 11.4 (Network and Distributed Systems Security)
+organizer_country: [europe]
+proceedings: Springer IFIP series
+typical:
+  deadline_months: [12, 1]
+  conference_months: [5, 6]
+links:
+  website: https://ifiptc11.org/wg114-events/wg114-workshop
+notes:
+- Organized by IFIP WG 11.4 and co-located with IFIP SEC; open to everyone, IFIP membership not needed
+- Registration goes through IFIP SEC, with a workshop-only option
+- Full papers up to 14 pages and short papers up to 10 pages in Springer LNCS format; submissions are not anonymized
+- Work-in-progress, position and survey papers are welcome; best student paper award
+- Proceedings published in the Springer IFIP series
+- First held as WNDSS in 2025 (Maribor); no WNDSS in 2026, when IFIP SEC was in Perth and the working group met in Palaiseau instead
+- The working group earlier ran the iNetSec workshop (2010 to 2017, Springer LNCS)
+editions:
+- year: 2025
+  start: 2025-05-23
+  end: 2025-05-23
+  location: Maribor, Slovenia (with IFIP SEC 2025)
+  url: https://ifiptc11.org/wg114-events/wg114-history/wg114-workshop-2025
+  deadlines:
+  - kind: submission
+    date: 2025-01-31
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-02-28
+  - kind: camera_ready
+    date: 2025-03-21
+- year: 2027
+  start: 2027-06-15
+  end: 2027-06-16
+  location: Linköping, Sweden (with IFIP SEC 2027)
+  url: https://ifiptc11.org/wg114-events/wg114-workshop
+  deadlines:
+  - kind: submission
+    date: 2026-12-15
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-02-18
+  - kind: camera_ready
+    date: 2027-03-15
+sources:
+- https://ifiptc11.org/wg114-events/wg114-workshop
+- https://ifiptc11.org/wg114-events/wg114-history/wg114-workshop-2025
+- https://ifiptc11.org/wg114-events
+- https://portal.core.edu.au/conf-ranks/?search=WNDSS&by=all&source=ICORE2026
+unverified:
+- The site says only "Springer IFIP series"; the exact series (for example IFIP AICT) is not named
+- Not listed in the CORE ICORE2026 portal or the CCF list
+last_verified: 2026-10-17

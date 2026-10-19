@@ -1,0 +1,49 @@
+id: advml-cv
+name: AdvML@CV
+full_name: Workshop of Adversarial Machine Learning on Computer Vision (CVPR)
+type: workshop
+tier: minor
+areas: [security, ai, vision]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers from Beihang University, Zhongguancun Laboratory, Tsinghua University,
+  Shanghai AI Laboratory, University of Oxford, Johns Hopkins University, UC Berkeley, NTU and others); co-located with CVPR
+organizer_country: [china, europe, usa]
+proceedings: CVPR Workshops proceedings (CVF Open Access and IEEE Xplore, optional)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://cvpr26-advml.github.io/
+notes:
+- CVPR workshop on adversarial attacks, defenses and robustness of vision and vision-language models
+- The 2026 edition was the 6th AdvML@CV, themed on the safety of vision-language agents
+- Long papers up to 8 pages and extended abstracts up to 4 pages in the CVPR format, anonymized, submitted through OpenReview
+- Accepted papers have the option to be included in the CVF and IEEE Xplore proceedings
+- 7 papers in the CVPR 2026 workshop proceedings on CVF Open Access, 9 in 2025
+- Runs an adversarial attack challenge alongside the workshop (2026 challenge on vision-language agents for autonomous driving)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 6th edition, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA
+  url: https://cvpr26-advml.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-07
+    time: "23:59"
+    tz: UTC
+    label: Extended
+sources:
+- https://cvpr26-advml.github.io/
+- https://openaccess.thecvf.com/CVPR2026_workshops/6thAdvML@CV
+- https://openaccess.thecvf.com/CVPR2025_workshops/AdvML
+- https://portal.core.edu.au/conf-ranks/?search=AdvML&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Original 2026 submission deadline, notification and camera ready dates not shown on the official page
+- Next edition (AdvML@CV 2027) not announced yet

@@ -1,0 +1,77 @@
+id: dvcon-us
+name: DVCon U.S.
+full_name: Design and Verification Conference and Exhibition United States
+type: industry
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: Accellera Systems Initiative
+organizer_country: [usa]
+proceedings: DVCon online proceedings archive (dvcon-proceedings.org)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [2, 3]
+links:
+  website: https://dvcon.org/
+notes:
+- Industry conference on languages, tools and methodologies for design and verification of electronic systems and ICs (SystemVerilog, UVM, PSS, SystemC, formal, emulation, AI for verification)
+- Sponsored by Accellera Systems Initiative; the oldest DVCon (38th year in 2026), with sister events in Europe, India, Japan, China and Taiwan
+- Two-stage review, double-blind extended abstract (600 to 1200 words) first, then a 6 to 8 page full paper after preliminary acceptance
+- Papers, posters, slides and videos go to Accellera's open DVCon proceedings archive, not to IEEE Xplore or the ACM DL
+- No deadline extensions; all speakers must present in person; Stuart Sutherland best paper and best poster awards voted by attendees
+- Includes a large exhibition; first held at the Hyatt Regency Santa Clara in 2026 and returns there in 2027
+- Not listed in the CORE portal (ICORE2026) or on the CCF list
+editions:
+- year: 2026
+  start: 2026-03-02
+  end: 2026-03-05
+  location: Santa Clara, CA, USA
+  url: https://dvcon.org/program/2026-program
+- year: 2027
+  start: 2027-03-01
+  end: 2027-03-04
+  location: Santa Clara, CA, USA
+  url: https://dvcon.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-07
+    time: "23:59"
+    tz: PDT
+    label: Extended abstracts
+  - kind: notification
+    date: 2026-10-05
+    label: Abstract preliminary accept or reject
+  - kind: submission
+    date: 2026-11-01
+    time: "23:59"
+    tz: PST
+    label: Draft full papers
+  - kind: notification
+    date: 2026-12-01
+    label: Paper preliminary accept or reject
+  - kind: camera_ready
+    date: 2026-12-23
+    label: Final paper, author registration and copyright form
+  - kind: notification
+    date: 2027-01-14
+    label: Paper final accept or reject
+  - kind: other
+    date: 2027-02-07
+    label: Final poster, slides and video
+sources:
+- https://dvcon.org/
+- https://dvcon.org/submission-instructions/call-for-extended-abstracts
+- https://dvcon.org/venue-accommodations
+- https://dvcon.org/program/2026-program
+- https://dvcon.org/program/2025-program
+- https://dvcon.org/program/2026/2026-welcome-message-from-dvcon-u-s-general-chair
+- https://dvcon.org/steering-committee
+- https://dvcon-proceedings.org/
+- https://portal.core.edu.au/conf-ranks/?search=DVCon&by=all&source=ICORE2026
+unverified:
+- The CFP states all dates at 11:59 PM Pacific Time but gives GMT-0700 for the December 23 deadline; its time zone is left out
+- Venue of editions before 2026 not restated on the current official pages
+last_verified: 2026-10-17

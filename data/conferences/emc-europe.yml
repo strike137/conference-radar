@@ -1,0 +1,60 @@
+id: emc-europe
+name: EMC Europe
+full_name: International Symposium on Electromagnetic Compatibility (EMC Europe)
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: annual
+organizer: EMC Europe International Steering Committee with a local host each year
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [8, 9]
+links:
+  website: https://emceurope.pwr.edu.pl/
+notes:
+- Main European symposium on electromagnetic compatibility (EMI, shielding, lightning and high-power electromagnetics, measurement, computational electromagnetics, EMC in automotive, railway, aerospace and medical systems, signal and power integrity)
+- Run by an International Steering Committee of European EMC researchers; held in a different European city each year (Krakow 2023, Bruges 2024, Paris 2025, Prague 2026)
+- Full 4 to 6 page IEEE-format papers are peer-reviewed; final papers are submitted to IEEE Xplore
+- Workshops, tutorials and an industry exhibition alongside the technical program; best symposium paper and best student paper awards
+- 2027 edition is a joint symposium with the IEEE International Symposium on EMC, Signal and Power Integrity in Glasgow
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-08-31
+  end: 2026-09-04
+  location: Prague, Czech Republic (Prague Conference Center)
+  url: https://www.emceurope2026.org/
+  deadlines:
+  - kind: other
+    date: 2026-01-12
+    label: Special session proposals
+  - kind: submission
+    date: 2026-03-02
+    label: Extended (originally 2026-02-16)
+  - kind: other
+    date: 2026-03-30
+    label: Workshop and tutorial proposals
+  - kind: notification
+    date: 2026-04-27
+  - kind: camera_ready
+    date: 2026-06-01
+- year: 2027
+  start: 2027-08-23
+  end: 2027-08-27
+  location: Glasgow, United Kingdom (SECC), joint with IEEE EMC+SIPI
+  url: https://emc2027.org/
+sources:
+- https://emceurope.pwr.edu.pl/
+- https://emceurope.pwr.edu.pl/previous_events.php
+- https://emceurope.pwr.edu.pl/steering_committee.php
+- https://www.emceurope2026.org/
+- https://www.emceurope2026.org/Submission/
+- https://portal.core.edu.au/conf-ranks/?search=EMC&by=all&source=ICORE2026
+unverified:
+- emc2027.org could not be reached; 2027 deadlines unknown
+last_verified: 2026-10-17

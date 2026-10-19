@@ -1,0 +1,75 @@
+id: cade
+name: CADE
+full_name: International Conference on Automated Deduction
+type: conference
+tier: major
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: CADE Inc. (CADE trustees)
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: A
+  ccf: B
+acceptance_rate: 43% (2025, 37/87)
+typical:
+  deadline_months: [2]
+  conference_months: [7, 8]
+links:
+  website: https://cadeinc.org/
+  dblp: https://dblp.org/db/conf/cade/index.html
+notes:
+- Main international forum for all aspects of automated deduction; first held in the 1970s and run by CADE Inc.
+- Held on its own in odd years; in even years it merges into IJCAR (with FroCoS, TABLEAUX and ITP)
+- Proceedings in Springer LNCS/LNAI up to 2025 (LNCS 14132 in 2023, LNCS 15943 in 2025); CADE-31 (2027) moves to
+  LIPIcs, open access
+- Regular papers up to 16 pages and short papers (system descriptions, case studies) up to 10 pages, LIPIcs style (2027)
+- Rebuttal period during review; Herbrand Award and best (student) paper awards presented at the conference
+- Recent editions in Gothenburg 2017, Natal 2019, online 2021, Rome 2023 and Stuttgart 2025; 2027 in Nijmegen
+  co-located with FSCD
+- "Acceptance: 33 of 74 submissions in 2023 and 37 of 87 in 2025"
+- CORE A (ICORE2026); CCF B (theory)
+editions:
+- year: 2025
+  start: 2025-07-28
+  end: 2025-07-31
+  location: Stuttgart, Germany
+  url: https://www.dhbw-stuttgart.de/cade-30/
+  deadlines:
+  - kind: abstract
+    date: 2025-02-17
+  - kind: submission
+    date: 2025-02-24
+  - kind: notification
+    date: 2025-04-28
+  - kind: camera_ready
+    date: 2025-05-30
+- year: 2027
+  start: 2027-08-22
+  end: 2027-08-25
+  location: Nijmegen, Netherlands (co-located with FSCD)
+  url: https://fscd-cade.science.ru.nl/
+  deadlines:
+  - kind: abstract
+    date: 2027-02-15
+  - kind: submission
+    date: 2027-02-22
+  - kind: notification
+    date: 2027-05-17
+  - kind: camera_ready
+    date: 2027-05-31
+sources:
+- https://cadeinc.org/
+- https://cadeinc.org/conferences
+- https://www.dhbw-stuttgart.de/cade-30/
+- https://fscd-cade.science.ru.nl/
+- https://fscd-cade.science.ru.nl/calls/papers-cade
+- https://portal.core.edu.au/conf-ranks/?search=CADE&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/ (CCF 2026 list PDF, theory section, class B)
+last_verified: 2026-10-17
+unverified:
+- Deadline time zones are not stated on the CADE-30 or CADE-31 pages
+- Region counts the online 2021 edition; four of the last six in-person editions were in Europe

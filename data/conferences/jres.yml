@@ -1,0 +1,56 @@
+id: jres
+name: JRES
+full_name: Journées Réseaux de l'Enseignement et de la Recherche
+type: industry
+tier: domestic
+areas: [networking, systems, security]
+region: europe
+frequency: biennial
+organizer: RENATER with a local host university (Université de Tours in 2026)
+organizer_country: [europe]
+proceedings: HAL (articles, slides and videos archived on the French open archive; no formal proceedings series)
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [12]
+links:
+  website: https://www.jres.org/
+notes:
+- French-language conference of IT staff in French higher education and research (networks, systems, applications, information security, IT management)
+- Held every two years in December in a French city (Rennes 2024, Tours 2026); over 1500 attendees in 2022
+- Program committee from the French research and education community selects proposals of 500 to 1300 words; full articles of 2000 to 3000 words are written only after acceptance
+- Formats are long talks (30 min), short talks (15 min), posters and tutorials, plus lightning talks, small talks and demos submitted shortly before the event
+- Mostly practitioner experience reports rather than research papers; articles are archived on HAL but not in a formal series, so marked non-archival here
+editions:
+- year: 2024
+  start: 2024-12-10
+  end: 2024-12-13
+  location: Couvent des Jacobins, Rennes, France
+  url: https://2024.jres.org/
+  deadlines:
+  - kind: submission
+    date: 2024-03-01
+    label: Proposals
+- year: 2026
+  start: 2026-12-08
+  end: 2026-12-11
+  location: Vinci Palais des Congrès, Tours, France
+  url: https://2026.jres.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-18
+    label: Proposals
+  - kind: notification
+    date: 2026-05-31
+sources:
+- https://2026.jres.org/
+- https://2026.jres.org/appel-a-propositions/
+- https://2026.jres.org/instructions-aux-auteurs/
+- https://2026.jres.org/organisation/
+- https://2024.jres.org/
+- https://2024.jres.org/appel-a-propositions/
+- https://portal.core.edu.au/conf-ranks/?search=JRES&by=all&source=ICORE2026
+unverified:
+- Biennial frequency inferred from the 2024 and 2026 editions; not stated on the official site
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

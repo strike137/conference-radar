@@ -1,0 +1,64 @@
+id: xai4cv
+name: XAI4CV
+full_name: Explainable AI for Computer Vision Workshop (CVPR)
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers from Universidad Carlos III de Madrid, Stanford, Duke, Fraunhofer HHI,
+  University of Calgary, Boston University, UIUC, MPI for Informatics, UT Austin and DTU); co-located with CVPR
+organizer_country: [europe, usa, canada]
+proceedings: CVPR Workshops proceedings (CVF Open Access) for the proceedings track
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://xai4cv.github.io/
+notes:
+- CVPR workshop on explainability and interpretability of computer vision models, accepting papers and demos
+- Held with CVPR every year since 2022; the 2026 edition was the 5th
+- Proceedings track takes up to 8 pages and is published in the CVPR workshop proceedings
+- Non-proceedings track takes up to 4-page extended abstracts, including already published work, and is not published
+- 14 papers in the CVPR 2026 workshop proceedings on CVF Open Access, 12 in 2025
+- Submissions anonymized in the CVPR format through Microsoft CMT; deadlines are AoE
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 5th edition, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA
+  url: https://xai4cv-workshop.github.io/xai4cv2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-27
+    tz: AoE
+    label: Proceedings track
+  - kind: notification
+    date: 2026-03-20
+    tz: AoE
+    label: Proceedings track
+  - kind: camera_ready
+    date: 2026-04-07
+    tz: AoE
+    label: Proceedings track
+  - kind: submission
+    date: 2026-03-20
+    tz: AoE
+    label: Non-proceedings track (extended)
+  - kind: notification
+    date: 2026-04-07
+    tz: AoE
+    label: Non-proceedings track
+sources:
+- https://xai4cv.github.io/
+- https://xai4cv-workshop.github.io/xai4cv2026/
+- https://openaccess.thecvf.com/CVPR2026_workshops/XAI4CV
+- https://openaccess.thecvf.com/CVPR2025_workshops/XAI4CV
+- https://portal.core.edu.au/conf-ranks/?search=XAI4CV&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Next edition (XAI4CV 2027) not announced yet

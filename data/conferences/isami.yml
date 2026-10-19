@@ -1,0 +1,60 @@
+id: isami
+name: ISAmI
+full_name: International Symposium on Ambient Intelligence
+type: conference
+tier: minor
+areas: [ai, systems]
+region: europe
+language: english
+frequency: annual
+organizer: ISAmI advisory board (University of Minho, University of Salamanca, AIR Institute, NII, University of Granada) with a local host each year
+organizer_country: [europe]
+proceedings: Springer LNNS
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6, 7, 10]
+links:
+  website: https://www.isami-conference.net/
+notes:
+- Symposium on ambient intelligence, ambient assisted living, pervasive and context-aware computing; 2026 is the 17th edition
+- Co-located every year with DCAI, PAAMS and other events of the Salamanca BISITE/AIR Institute family
+- Main track and workshop papers published in Springer Lecture Notes in Networks and Systems (LNNS)
+- Papers up to 10 pages (6 for doctoral consortium), each reviewed by at least three experts; one author must register and present
+- Held in Europe (Salamanca 2024, Lille 2025, Naples 2026)
+- Small venue (12 papers in the 2025 proceedings, 36 in 2024)
+- Selected papers invited to journal special issues (IJIMAI, CMC and others)
+- 2026 deadlines were extended twice (17 Apr -> 8 May -> final 22 May)
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-06-25
+  end: 2025-06-27
+  location: Lille, France
+- year: 2026
+  start: 2026-10-21
+  end: 2026-10-23
+  location: Naples, Italy (University of Naples Federico II)
+  url: https://www.isami-conference.net/
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    label: Main track and workshops (extended from 2026-04-17 and 2026-05-08)
+  - kind: notification
+    date: 2026-06-26
+    label: Postponed from 2026-06-19
+  - kind: camera_ready
+    date: 2026-07-15
+sources:
+- https://www.isami-conference.net/
+- https://www.isami-conference.net/submission
+- https://www.isami-conference.net/tracks/main-track
+- https://www.isami-conference.net/organization/organising-committee
+- https://link.springer.com/conference/isaml
+- https://link.springer.com/book/9783032141378
+- https://portal.core.edu.au/conf-ranks/?search=ISAmI&by=all&source=ICORE2026
+unverified:
+- ISAmI 2027 dates and location not yet announced as of 2026-10-17
+- 2025 edition dates and location taken from the Springer proceedings pages (the 2025 site is no longer online)
+last_verified: 2026-10-17

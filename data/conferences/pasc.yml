@@ -1,0 +1,87 @@
+id: pasc
+name: PASC
+full_name: Platform for Advanced Scientific Computing Conference
+type: conference
+tier: minor
+areas: [systems, general]
+region: europe
+language: english
+frequency: annual
+organizer: CSCS (Swiss National Supercomputing Centre, ETH Zurich) and ACM
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [6, 7]
+links:
+  website: https://pasc-conference.org/
+notes:
+- Interdisciplinary conference on scientific computing and HPC, bringing together domain scientists, applied
+  mathematicians and computer scientists; started in 2014
+- Co-sponsored by ACM and the Swiss National Supercomputing Centre (CSCS), which manages it
+- Held in Switzerland every year (Basel 2022, Davos 2023, Zurich 2024, Windisch 2025, Bern 2026, Lugano 2027)
+- Papers program with revision and rebuttal stage (provisional acceptance); papers up to 10 pages plus references in
+  ACM sigconf format, published in the Proceedings of the PASC Conference in the ACM DL
+- Most of the program is minisymposia and posters (including an ACM Student Research Competition), each with its own
+  deadlines
+- Not listed in CORE (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-01
+  location: University of Bern and PHBern, Bern, Switzerland
+  url: https://pasc-conference.org/pasc26/
+  deadlines:
+  - kind: submission
+    date: 2025-12-12
+    tz: AoE
+    label: Full papers (no extensions)
+  - kind: other
+    date: 2026-02-04
+    tz: AoE
+    label: Paper review notifications
+  - kind: other
+    date: 2026-03-20
+    tz: AoE
+    label: Paper revisions
+  - kind: notification
+    date: 2026-04-24
+    tz: AoE
+    label: Papers
+- year: 2027
+  start: 2027-06-28
+  end: 2027-06-30
+  location: Palazzo dei Congressi, Lugano, Switzerland
+  url: https://pasc-conference.org/pasc27/
+  deadlines:
+  - kind: submission
+    date: 2026-12-12
+    tz: AoE
+    label: Full papers (no extensions)
+  - kind: other
+    date: 2027-02-04
+    tz: AoE
+    label: Paper review notifications
+  - kind: other
+    date: 2027-03-22
+    tz: AoE
+    label: Paper revisions
+  - kind: notification
+    date: 2027-04-26
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2027-01-31
+    tz: AoE
+    label: Posters and ACM SRC posters
+sources:
+- https://pasc-conference.org/
+- https://pasc-conference.org/pasc27/
+- https://pasc-conference.org/pasc27/about/conference/
+- https://pasc-conference.org/pasc27/submission/
+- https://pasc-conference.org/pasc27/submission/guidelines-for-papers/
+- https://pasc-conference.org/pasc26/
+- https://pasc-conference.org/pasc26/submission/
+- https://portal.core.edu.au/conf-ranks/?search=PASC&by=all&source=ICORE2026
+last_verified: 2026-10-17

@@ -1,0 +1,67 @@
+id: icmts
+name: IEEE ICMTS
+full_name: IEEE International Conference on Microelectronic Test Structures
+type: conference
+tier: minor
+areas: [communications, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICMTS Steering Committee, technically sponsored by IEEE Electron Devices Society (EDS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [3, 4]
+links:
+  website: https://icmts.net/
+notes:
+- Only conference focused on test structures for semiconductor process characterization, device modeling,
+  measurement and reliability; co-sponsored by IEEE EDS
+- Single-track program; location rotates between Japan, Europe and the USA (2023 Tokyo, 2024 Edinburgh, 2025 San
+  Antonio, 2026 Matsue, 2027 Udine)
+- Selection based on a four-page abstract (one page of text plus figures); accepted authors then write a manuscript
+  of up to six pages for IEEE Xplore
+- Papers must be presented at the conference to count as published
+- Steering committee with representatives from Japan, Europe and North America
+- Tutorial short course before the main conference and an equipment exhibition
+- "Registration 2026 (Matsue): 48,000 JPY early for IEEE members, 56,000 JPY for non-members, 28,000 JPY for students"
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-26
+  location: Matsue, Japan (Kunibiki-Messe Convention Center)
+  url: https://icmts.net/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-05
+- year: 2027
+  start: 2027-04-05
+  end: 2027-04-08
+  location: Udine, Italy
+  url: https://icmts.net/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-01
+  - kind: notification
+    date: 2027-01-15
+  - kind: camera_ready
+    date: 2027-02-28
+sources:
+- https://icmts.net/
+- https://icmts.net/about/
+- https://icmts.net/archives/
+- https://icmts.net/archives/program2026.html
+- https://icmts.net/2026/
+- https://icmts.net/2026/authors.html
+- https://icmts.net/2026/registration.html
+- https://icmts.net/2027/
+- https://icmts.net/2027/cfp.html
+- https://icmts.net/2027/authors.html
+- https://portal.core.edu.au/conf-ranks/?search=ICMTS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2027 registration fees not yet published
+- 2026 notification and camera-ready dates not checked

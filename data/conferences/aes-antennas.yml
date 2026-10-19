@@ -1,0 +1,78 @@
+id: aes-antennas
+name: AES
+full_name: International Conference on Antennas and Electromagnetic Systems
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: AES organizing committee (general chair Said Zouhdi, Universite Paris-Saclay)
+organizer_country: [europe]
+proceedings: AES Conference Proceedings (ISSN 2491-2417, open access)
+archival: true
+indexing: [Scopus]
+fee: 700 EUR regular, 420 EUR student, early rate (2027)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [3, 6]
+links:
+  website: https://aesconference.org/
+notes:
+- Started in Paris in 2012 as the Advanced Electromagnetics Symposium; renamed International Conference on Antennas and Electromagnetic Systems from 2022
+- Held around the Mediterranean (Marrakesh 2022, Torremolinos 2023, Rome 2024, Tangier 2025, Catania 2026, Athens 2027); no editions in 2015, 2020 or 2021
+- Scope covers antennas and propagation, computational electromagnetics, metamaterials and metasurfaces, photonics and plasmonics, and RF, microwave and THz systems
+- Contributed papers are 2 to 4 pages (extended abstract or full contribution), reviewed by the TPC; the reviewed paper is the published one, with no separate camera-ready
+- Proceedings are one open-access PDF volume per edition published by the organizers, indexed in Scopus
+- At least one author must register and present; one registration covers at most two papers
+- Physics and EE venue outside the usual CS rankings, not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-06
+  location: Catania, Italy
+  url: https://aesconference.org/AES26/
+  deadlines:
+  - kind: submission
+    date: 2026-02-21
+    time: "23:00"
+    tz: CET
+    label: Abstract
+  - kind: other
+    date: 2026-04-30
+    time: "23:00"
+    tz: CET
+    label: Presenting author registration
+  - kind: camera_ready
+    date: 2026-05-15
+    time: "23:00"
+    tz: CET
+    label: Full paper
+- year: 2027
+  start: 2027-03-16
+  end: 2027-03-19
+  location: Athens, Greece
+  url: https://aesconference.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-20
+  - kind: notification
+    date: 2027-02-03
+  - kind: other
+    date: 2027-02-19
+    label: Presenting author registration and payment
+sources:
+- https://aesconference.org/
+- https://aesconference.org/dates/
+- https://aesconference.org/call-for-papers/
+- https://aesconference.org/registration/
+- https://aesconference.org/about/
+- https://aesconference.org/past-editions/
+- https://aesconference.org/proceedings/
+- https://aesconference.org/AES26/index.php/AES/dates
+- https://portal.core.edu.au/conf-ranks/?search=Antennas+and+Electromagnetic&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- AES 2026 notification date not stated on the archived dates page
+- Time zone of the AES 2027 deadlines (not stated)
+- Acceptance rate not found

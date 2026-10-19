@@ -1,0 +1,86 @@
+id: auspdc
+name: AusPDC
+full_name: Australasian Symposium on Parallel and Distributed Computing
+type: conference
+tier: minor
+areas: [systems, networking]
+region: oceania
+language: english
+frequency: annual
+organizer: Part of the Australasian Computer Science Week (ACSW), run by CORE and ACDICT
+organizer_country: [australia, new-zealand]
+proceedings: ACM DL (ACM ICPS, with ACSW)
+archival: true
+indexing: [ACM DL]
+rank:
+  core: Australasian C
+typical:
+  deadline_months: [11, 12]
+  conference_months: [2]
+links:
+  website: https://sites.google.com/monash.edu/auspdc2027
+notes:
+- Held as part of the Australasian Computer Science Week (ACSW) in late January or February; host city rotates within
+  Australia
+- 25th edition in 2027 (formerly AusGrid); aimed mainly at researchers from Australia and New Zealand but open to
+  international submissions
+- Scope covers cloud, fog and edge computing, serverless, HPC, IoT, distributed systems, AI for systems and blockchains
+- Double-blind review by at least three PC members; full papers up to 10 pages, short papers 4, posters 2, tutorials 1;
+  submission via the ACSW EasyChair
+- Proceedings published by ACM together with ACSW (ICPS, ACM Open model); APCs subsidised for 2026 and 2027 with
+  hardship waivers
+- Ranked Australasian C in ICORE2026; not on the CCF list
+- 2026 deadlines were extended by about three weeks
+editions:
+- year: 2026
+  label: 24th AusPDC (ACSW 2026)
+  start: 2026-02-09
+  end: 2026-02-13
+  location: Melbourne, Australia
+  url: https://sites.google.com/monash.edu/auspdc2026
+  deadlines:
+  - kind: submission
+    date: 2025-12-15
+    time: '23:59'
+    tz: AoE
+    label: Extended from 2025-11-25
+  - kind: notification
+    date: 2026-01-15
+    time: '23:59'
+    tz: AoE
+    label: Extended from 2025-12-12
+  - kind: camera_ready
+    date: 2026-01-18
+    time: '23:59'
+    tz: AoE
+- year: 2027
+  label: 25th AusPDC (ACSW 2027)
+  start: 2027-02-01
+  end: 2027-02-05
+  location: Canberra, Australia
+  url: https://sites.google.com/monash.edu/auspdc2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-08
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2026-12-15
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-12-20
+    time: '23:59'
+    tz: AoE
+sources:
+- https://sites.google.com/monash.edu/auspdc2027
+- https://sites.google.com/monash.edu/auspdc2027/call-for-papers
+- https://sites.google.com/monash.edu/auspdc2027/important-dates
+- https://sites.google.com/monash.edu/auspdc2026
+- https://acsw.core.edu.au/
+- https://acsw.core.edu.au/past
+- https://portal.core.edu.au/conf-ranks/?search=AusPDC&by=all&source=ICORE2026
+unverified:
+- ACSW 2027 runs 1 to 5 February 2027; exact AusPDC session days not confirmed
+- Registration fees handled by ACSW; acceptance rate not published
+last_verified: 2026-10-17

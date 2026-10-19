@@ -1,0 +1,58 @@
+id: fois
+name: FOIS
+full_name: International Conference on Formal Ontology in Information Systems
+type: conference
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IAOA (International Association for Ontology and its Applications)
+organizer_country: [international]
+proceedings: IOS Press FAIA (Frontiers in Artificial Intelligence and Applications)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3]
+  conference_months: [9]
+links:
+  website: https://foisconference.org/
+notes:
+- Flagship conference of IAOA, the international ontology society; held together with the JOWO joint workshops
+- Proceedings published open access by IOS Press (FAIA series); companion proceedings and JOWO papers in CEUR-WS
+- Annual since 2023 (biennial before); recent editions in Canada (2023), Netherlands (2024), Italy (2025) and Brazil (2026)
+- Three tracks (foundational, applications and methods, domain ontologies); double-blind review with a rebuttal phase
+- Papers up to 13 pages excluding references in IOS Press format; an online part (FOIS Online) precedes the in-person event
+- FOIS 2027 announced for Bratislava, Slovakia
+- CORE ICORE2026 rank C
+editions:
+- year: 2026
+  start: 2026-09-21
+  end: 2026-09-25
+  location: Vitória, Brazil
+  url: https://foisconference.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-16
+    label: Mandatory abstract (strict)
+  - kind: submission
+    date: 2026-03-23
+    label: Full papers (strict)
+  - kind: notification
+    date: 2026-05-27
+  - kind: camera_ready
+    date: 2026-06-17
+- year: 2027
+  location: Bratislava, Slovakia
+  url: https://iaoa.org/index.php/fois/fois-history/
+sources:
+- https://foisconference.org/
+- https://foisconference.org/cfp/
+- https://www.dmi.unict.it/fois2025/
+- https://iaoa.org/index.php/fois/fois-history/
+- https://portal.core.edu.au/conf-ranks/?search=FOIS&by=all&source=ICORE2026
+unverified:
+- FOIS 2027 dates and deadlines (only the location, Bratislava, is announced as of 2026-10-17)
+- The 2026 dates 21-25 Sep include the JOWO workshops on the first two days
+last_verified: 2026-10-17

@@ -1,0 +1,60 @@
+id: owasp-nz-day
+name: OWASP NZ Day
+full_name: OWASP New Zealand Day
+type: industry
+tier: minor
+areas: [security]
+region: oceania
+language: english
+frequency: annual
+organizer: AppSec New Zealand Incorporated (for the OWASP New Zealand Chapter)
+organizer_country: [new-zealand]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://appsec.org.nz/conference/
+notes:
+- Two-day web and application security conference presented by the OWASP New Zealand Chapter and organized by AppSec New Zealand Incorporated, a volunteer non-profit society
+- Held in Auckland; AUT City Campus in 2023 (July) and 2024, University of Auckland (Owen G. Glenn Building) in 2025 and 2026
+- Two talk streams (introductory and policy/risk, deeper technical) plus a smaller sponsor and OWASP tools stream
+- Pre-conference training days run two days before the main conference at the same venue
+- Open call for presentations via pretalx; no proceedings, practitioner talks only
+editions:
+- year: 2025
+  label: 15th OWASP New Zealand Day
+  start: 2025-09-04
+  end: 2025-09-05
+  location: Owen G. Glenn Building, University of Auckland, Auckland, New Zealand
+  url: https://appsec.org.nz/conference-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    label: Call for presentations closes
+- year: 2026
+  label: 16th OWASP New Zealand Day
+  start: 2026-09-03
+  end: 2026-09-04
+  location: Owen G. Glenn Building, University of Auckland, Auckland, New Zealand
+  url: https://appsec.org.nz/conference/
+  deadlines:
+  - kind: submission
+    date: 2026-07-25
+    time: "23:59"
+    tz: UTC+12
+    label: Call for presentations closes
+sources:
+- https://appsec.org.nz/conference/
+- https://appsec.org.nz/conference-2025/
+- https://appsec.org.nz/conference-2024/
+- https://appsec.org.nz/conference-2023/
+- https://appsec.org.nz/about/
+- https://pretalx.com/owaspnz2026/cfp
+- https://pretalx.com/owaspnz2026/
+- https://portal.core.edu.au/conf-ranks/?search=OWASP&by=all&source=ICORE2026
+unverified:
+- OWASP New Zealand Day 2027 dates not announced on the official site
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

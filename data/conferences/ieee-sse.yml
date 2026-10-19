@@ -1,0 +1,58 @@
+id: ieee-sse
+name: IEEE SSE
+full_name: IEEE International Conference on Software Services Engineering
+type: conference
+tier: major
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society (Technical Community on Services Computing), part of the IEEE World Congress on SERVICES
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE Computer Society Press)
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://services.conferences.computer.org/2026/sse/
+  dblp: https://dblp.org/db/conf/IEEEscc/index.html
+notes:
+- One of six theme conferences of the IEEE World Congress on SERVICES (with CLOUD, EDGE, ICDH, ICWS and QSW), sponsored
+  by IEEE and the IEEE Computer Society and supported by the IEEE Technical Community on Services Computing
+- Replaced the IEEE International Conference on Services Computing (SCC) in 2023; first held in Chicago in 2023
+- CORE B (ICORE2026, listed as the successor of SCC) and CCF C (software engineering list)
+- 'Rotates worldwide with the congress: Chicago (2023), Shenzhen (2024), Helsinki (2025), Sydney (2026)'
+- Regular papers 7 to 10 pages, short papers 4 to 6 pages, references extra; IEEE two-column format
+- Shares one submission deadline with the other SERVICES conferences except ICDH; the 2026 deadline was extended by two weeks
+- Expensive registration; one full-rate author registration per paper
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-18
+  location: Sydney, Australia
+  url: https://services.conferences.computer.org/2026/sse/
+  deadlines:
+  - kind: submission
+    date: 2026-03-22
+    label: Papers (extended from 2026-03-08, firm)
+  - kind: notification
+    date: 2026-05-10
+  - kind: camera_ready
+    date: 2026-05-31
+    label: Camera-ready and registration (SSE CFP page; the congress author page says 2026-06-07)
+sources:
+- https://services.conferences.computer.org/2026/sse/
+- https://services.conferences.computer.org/2026/sse/sse-call-for-papers
+- https://services.conferences.computer.org/2026/info-for-authors/
+- https://services.conferences.computer.org/2025/sse/
+- https://portal.core.edu.au/conf-ranks/?search=SSE&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- SSE 2027 dates and location not announced yet (no SERVICES 2027 site as of 2026-10-17)
+- The 2026 SSE call for papers page shows the SSEedu symposium text by mistake; topics and acceptance rate not stated
+- Camera-ready date differs between the SSE CFP page (2026-05-31) and the congress author page (2026-06-07)
+last_verified: 2026-10-17

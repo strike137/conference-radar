@@ -1,0 +1,66 @@
+id: ide-workshop
+name: IDE
+full_name: International Workshop on Integrated Development Environments
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: IDE workshop organizing committee (general chair from JetBrains Research), co-located with ICSE (IEEE/ACM)
+organizer_country: [international]
+proceedings: IEEE Xplore / ACM DL (ICSE workshop proceedings)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://ide-workshop.github.io/
+notes:
+- One-day ICSE workshop on IDEs and developer productivity that brings together researchers and IDE builders from industry (IntelliJ, VS Code, Eclipse and others)
+- Held with ICSE since 2024; Lisbon 2024, Ottawa 2025, Rio de Janeiro 2026, Dublin 2027 (4th edition)
+- Short papers up to 6 pages and extended abstracts up to 4 pages, both including references; single-blind review via HotCRP
+- 2026 accepted 11 of 11 submissions after one major revision round (8 short papers, 3 extended abstracts)
+- 2026 papers published by ACM (short papers pay the ACM Open APC, extended abstracts are free); 2027 uses the IEEE template and ICSE 2027 workshop papers are published by IEEE
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-18
+  end: 2026-04-18
+  location: Rio de Janeiro, Brazil
+  url: https://ide-workshop.github.io/content/ide-2026.html
+  deadlines:
+  - kind: submission
+    date: 2025-10-27
+    label: Extended from 2025-10-20
+  - kind: notification
+    date: 2025-11-28
+  - kind: camera_ready
+    date: 2026-01-26
+- year: 2027
+  start: 2027-05-01
+  end: 2027-05-01
+  location: Dublin, Ireland
+  url: https://ide-workshop.github.io/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+    tz: AoE
+  - kind: notification
+    date: 2026-12-11
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-29
+    tz: AoE
+sources:
+- https://ide-workshop.github.io/
+- https://ide-workshop.github.io/content/ide-2026.html
+- https://conf.researchr.org/series/ide
+- https://conf.researchr.org/track/icse-2026/icse-2026-workshops
+- https://conf.researchr.org/track/icse-2027/icse-2027-workshops
+- https://portal.core.edu.au/conf-ranks/?search=IDE&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The workshop site gives the 2027 workshop date (May 1) as subject to change
+- The workshop site gives deadlines without a time zone; the 2027 AoE zone comes from the ICSE 2027 workshops page

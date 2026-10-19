@@ -1,0 +1,53 @@
+id: dgm4miccai
+name: DGM4MICCAI
+full_name: Deep Generative Models Workshop at MICCAI
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: DGM4MICCAI workshop organizers (MICCAI satellite workshop)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://dgm4miccai.github.io/
+notes:
+- Half-day MICCAI satellite workshop on deep generative models (diffusion models, GANs, VAEs, flows) for medical
+  image computing and computer assisted interventions; 2026 was the 6th edition
+- Proceedings in Springer LNCS following the MICCAI workshop publication model
+- Papers up to 8 pages in LNCS format (MICCAI template), double-blind review on OpenReview
+- At least one co-author must volunteer to review for the workshop
+- Location follows MICCAI (Strasbourg 2026, Auckland 2027)
+- Organizers mainly from German groups (TU Darmstadt, Heidelberg, Regensburg) plus Istanbul Technical University,
+  CUHK and the Netherlands Cancer Institute
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-01
+  end: 2026-10-01
+  location: Strasbourg, France
+  url: https://dgm4miccai.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-19
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2026-07-07
+  - kind: camera_ready
+    date: 2026-07-20
+sources:
+- https://dgm4miccai.github.io/
+- https://conferences.miccai.org/2026/en/workshops.asp
+- https://conferences.miccai.org/2026/files/downloads/MICCAI2026-Satellite-Events-Program.pdf
+- https://portal.core.edu.au/conf-ranks/?search=DGM4MICCAI&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Submission deadline is given as 11:59 PM Pacific Time; PDT assumed for June
+- DGM4MICCAI 2027 not announced (MICCAI 2027 is in Auckland, Sep 27 to Oct 1, 2027)
+- LNCS volume number for the 2026 proceedings not listed on the workshop site

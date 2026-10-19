@@ -1,0 +1,75 @@
+id: impact-polyhedral
+name: IMPACT
+full_name: International Workshop on Polyhedral Compilation Techniques (IMPACT)
+type: workshop
+tier: minor
+areas: [software, systems]
+region: europe
+language: english
+frequency: annual
+organizer: IMPACT steering committee (co-located with HiPEAC); 2027 program chairs from the University of Strasbourg and Inria
+organizer_country: [international]
+proceedings: IMPACT website
+archival: false
+typical:
+  deadline_months: [12]
+  conference_months: [1]
+links:
+  website: https://impact-workshop.org/
+notes:
+- Running since 2011; first co-located with CGO, now a one-day workshop at the HiPEAC conference
+- The only workshop dedicated to polyhedral compilation (loop optimization, tiling, code generation, Presburger arithmetic)
+- Proceedings are posted online on the workshop website only; publication at IMPACT does not prevent later publication
+  in conferences or journals
+- 'Papers: up to 10 pages in ACM SIGPLAN format, short papers and presentation-only submissions welcome, via EasyChair'
+- IMPACT 2027 adds a Test-of-Time session in memory of Paul Feautrier
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-01-28
+  end: 2026-01-28
+  location: Krakow, Poland
+  url: https://impact-workshop.org/impact2026/
+  deadlines:
+  - kind: submission
+    date: 2025-12-05
+    tz: AoE
+  - kind: notification
+    date: 2025-12-19
+  - kind: camera_ready
+    date: 2026-01-25
+- year: 2027
+  start: 2027-01-18
+  end: 2027-01-18
+  location: Glasgow, UK
+  url: https://impact-workshop.org/
+  deadlines:
+  - kind: other
+    date: 2026-09-30
+    tz: AoE
+    label: Test-of-Time nominations
+  - kind: abstract
+    date: 2026-11-27
+    tz: AoE
+  - kind: submission
+    date: 2026-12-04
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2026-12-18
+  - kind: camera_ready
+    date: 2027-01-08
+    tz: AoE
+sources:
+- https://impact-workshop.org/
+- https://impact-workshop.org/past.html
+- https://impact-workshop.org/impact2026/
+- https://impact-workshop.org/impact2025/
+- https://impact-workshop.org/impact2024/
+- https://impact-workshop.org/impact2023/
+- https://impact-workshop.org/impact2022/
+- https://impact-workshop.org/impact2021/
+- https://portal.core.edu.au/conf-ranks/?search=IMPACT&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not published
+last_verified: 2026-10-17

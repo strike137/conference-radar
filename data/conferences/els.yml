@@ -1,0 +1,54 @@
+id: els
+name: ELS
+full_name: European Lisp Symposium
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: ELS steering committee (president Didier Verna, EPITA Research Laboratory)
+organizer_country: [europe]
+proceedings: ELS proceedings (self-published open access, ISSN 2677-3465, with ISBN; papers on Zenodo with DOIs)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [4, 5]
+links:
+  website: https://european-lisp-symposium.org/
+notes:
+- Forum for Lisp and Lisp-inspired languages (Common Lisp, Scheme, Racket, Clojure, Emacs Lisp and others)
+- Two-day single-track event held in a different European city each year, with online participation and streamed talks
+- Submission types are papers (up to 8 pages), experience reports (up to 6 pages), tutorials and demonstrations (abstracts up to 4 pages)
+- "Proceedings are self-published as a PDF with an ISBN (2025: 978-2-9557474-9-0); papers also go to the ELS Zenodo community with DOIs"
+- Recent editions in Porto 2022 (co-located with ‹Programming›), Amsterdam 2023, Vienna 2024, Zurich 2025 and Krakow 2026
+- Single-blind peer review with at least 3 reviews per submission and a revision round for potentially acceptable papers
+- Proceedings indexed in DBLP; no open access fees
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-11
+  end: 2026-05-12
+  location: Krakow, Poland
+  url: https://european-lisp-symposium.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-22
+    label: Submission (extended from 2026-03-15)
+  - kind: notification
+    date: 2026-04-16
+    label: Author notification (moved from 2026-04-12)
+  - kind: camera_ready
+    date: 2026-05-02
+    label: Final papers (moved from 2026-04-26)
+sources:
+- https://european-lisp-symposium.org/2026/
+- https://github.com/european-lisp-symposium/els-web/blob/master/editions/2026.lisp
+- https://european-lisp-symposium.org/2025/
+- https://european-lisp-symposium.org/static/proceedings/2025.pdf
+- https://zenodo.org/communities/els/
+last_verified: 2026-10-17
+unverified:
+- 2026 deadlines come from the official site source repository (els-web history), as the live page no longer lists them after the event
+- No time zone stated for deadlines
+- ELS 2027 not announced yet

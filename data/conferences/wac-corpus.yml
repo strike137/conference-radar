@@ -1,0 +1,61 @@
+id: wac-corpus
+name: WaC
+full_name: Web as Corpus Workshop
+type: workshop
+tier: minor
+areas: [nlp, data]
+region: europe
+language: english
+frequency: irregular
+organizer: ACL SIGWAC (Special Interest Group on Web as Corpus); 2026 organizers from Jozef Stefan Institute, University of Oslo, University of Turku and the Common Crawl Foundation
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://wackyworkshop.org/
+notes:
+- Long-running workshop on building, cleaning and using web corpora, now focused on web data for LLMs and less-resourced languages
+- Irregular schedule with long gaps (WaC-9 EACL 2014 Gothenburg, WaC-10 ACL 2016 Berlin, WaC-12 LREC 2020 Marseille, WaC-13 EMNLP 2026 Budapest)
+- Endorsed by ACL SIGWAC, the Common Crawl Foundation and the OpenEuroLLM project
+- Short (4 pages) and long (8 pages) papers; archival (ACL Anthology) or non-archival at the author's choice; direct OpenReview submission or ARR commitment
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: WaC-13, with EMNLP 2026
+  start: 2026-10-29
+  end: 2026-10-29
+  location: Budapest, Hungary
+  url: https://wackyworkshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-15
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: other
+    date: 2026-09-01
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-09-10
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-20
+    time: "23:59"
+    tz: AoE
+sources:
+- https://wackyworkshop.org/
+- https://2026.emnlp.org/program/workshops/
+- https://aclanthology.org/venues/wac/
+- https://aclanthology.org/volumes/2020.wac-1/
+- https://portal.core.edu.au/conf-ranks/?search=Web%20as%20Corpus&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- No edition after WaC-13 announced
+- Acceptance rate not published

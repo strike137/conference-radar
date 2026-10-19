@@ -1,0 +1,71 @@
+id: kubecon-na
+name: KubeCon + CloudNativeCon North America
+full_name: KubeCon + CloudNativeCon North America
+type: industry
+tier: minor
+areas: [systems, software]
+region: north-america
+language: english
+frequency: annual
+organizer: Cloud Native Computing Foundation (CNCF), The Linux Foundation
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [11]
+links:
+  website: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+notes:
+- CNCF flagship practitioner conference on Kubernetes and cloud native computing, North America edition run by The Linux Foundation
+- Held in a different US city each November (Chicago 2023, Salt Lake City 2024, Atlanta 2025, Salt Lake City 2026, New Orleans 2027)
+- Four days with 9,000+ attendees and 400+ sessions; Monday hosts CNCF co-located events such as ArgoCon, CiliumCon and Open Source SecurityCon
+- Talk proposals reviewed by a program committee; poster sessions are also offered; no papers, slides and recordings are posted afterwards
+- Speakers may appear on at most three submissions
+- Co-located events have their own separate call for proposals
+editions:
+- year: 2025
+  start: 2025-11-10
+  end: 2025-11-13
+  location: Atlanta, Georgia, USA
+  url: https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-north-america/
+  deadlines:
+  - kind: submission
+    date: 2025-05-27
+    time: "23:59"
+    tz: EDT
+    label: Talk proposals (CFP)
+  - kind: notification
+    date: 2025-07-28
+- year: 2026
+  start: 2026-11-09
+  end: 2026-11-12
+  location: Salt Lake City, Utah, USA
+  url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    time: "23:59"
+    tz: UTC-7
+    label: Talk proposals (CFP)
+  - kind: notification
+    date: 2026-08-03
+- year: 2027
+  start: 2027-11-08
+  end: 2027-11-11
+  location: New Orleans, Louisiana, USA
+  url: https://events.linuxfoundation.org/
+  deadlines: []
+sources:
+- https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+- https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/
+- https://events.linuxfoundation.org/
+- https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-north-america/
+- https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-north-america/program/cfp/
+- https://events.linuxfoundation.org/archive/2024/kubecon-cloudnativecon-north-america/
+- https://events.linuxfoundation.org/archive/2023/kubecon-cloudnativecon-north-america/
+- https://portal.core.edu.au/conf-ranks/?search=KubeCon&by=all&source=ICORE2026
+unverified:
+- Not listed in the CORE ICORE2026 portal
+- 2027 CFP dates not yet announced
+last_verified: 2026-10-17

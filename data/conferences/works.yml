@@ -1,0 +1,61 @@
+id: works
+name: WORKS
+full_name: Workshop on Workflows in Support of Large-Scale Science
+type: workshop
+tier: minor
+areas: [systems, data]
+region: north-america
+language: english
+frequency: annual
+organizer: WORKS workshop chairs and steering committee (2026 chairs at Inria and RENCI, UNC Chapel Hill), held as an SC workshop
+organizer_country: [international]
+proceedings: SC Workshops Proceedings (IEEE Xplore for 2026)
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://works-workshop.org/
+notes:
+- Long-running workshop on scientific workflow systems, held with the SC conference every year (21st edition in 2026)
+- Moves with SC, so it is held in the USA (St. Louis 2025, Chicago 2026)
+- Accepted full papers go into the SC Workshops Proceedings volume; the 2026 CFP says it is available through IEEE Xplore
+- Full papers up to 8 pages including references, single-blind review with at least three reviews; submission through the SC submission site
+- Also takes short abstracts that feed a panel discussion; abstracts are not included in the proceedings
+- Steering committee includes David Abramson, Malcolm Atkinson, Ewa Deelman and Michela Taufer
+- Not ranked in CORE ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2025
+  label: WORKS25 at SC25
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, USA (with SC25)
+  url: https://works-workshop.org/
+  deadlines: []
+- year: 2026
+  label: WORKS 2026 at SC26
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Chicago, USA (with SC26)
+  url: https://works-workshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-07
+    tz: AoE
+    label: Papers and abstracts (final extension from 2026-07-31)
+  - kind: notification
+    date: 2026-09-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-25
+    tz: AoE
+sources:
+- https://works-workshop.org/
+- https://sc26.supercomputing.org/
+- https://portal.core.edu.au/conf-ranks/?search=WORKS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- WORKS 2025 deadlines (the site now shows the 2026 call; the 2025 date comes from the WORKS25 program still on the page)
+- Publisher of the 2025 proceedings (SC25 workshop proceedings) not checked
+- Acceptance rate and indexing
+last_verified: 2026-10-17

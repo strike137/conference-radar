@@ -1,0 +1,58 @@
+id: ifip-performance
+name: IFIP Performance
+full_name: IFIP WG 7.3 International Symposium on Computer Performance, Modelling, Measurements and Evaluation
+type: conference
+tier: major
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IFIP WG 7.3 (Computer System Modelling)
+organizer_country: [international]
+proceedings: Performance Evaluation (Elsevier, special issue); short papers in ACM SIGMETRICS Performance Evaluation Review
+archival: true
+rank:
+  core: Journal Published
+  ccf: B
+typical:
+  deadline_months: [4, 5]
+  conference_months: [11]
+links:
+  website: https://performance2026.github.io/
+notes:
+- Annual symposium of IFIP Working Group 7.3 on computer system modelling; 44th edition in 2026
+- Accepted regular papers are published in a special issue of the Performance Evaluation (PEVA) journal, with an extended abstract in ACM PER; authors may opt out for expedited review in ACM ToMPECS, Queueing Systems or Stochastic Models
+- Regular papers up to 20 pages single column (Elsevier format), short papers up to 5 pages in PER double-column format and published in a special ACM PER issue
+- Double-blind review via HotCRP; fully on-site, at least one author must present
+- Topics span queueing and stochastic modeling, scheduling, simulation, measurement and performance of networks, cloud and AI systems
+- Hosts workshops on its last day; ASMTA 2026 runs as a workshop within Performance 2026
+- Held jointly with ACM SIGMETRICS in some years (Mumbai 2022, Venice 2024)
+- CORE lists it as Journal Published in ICORE2026; CCF B (architecture, parallel and distributed computing, storage category)
+editions:
+- year: 2026
+  start: 2026-11-03
+  end: 2026-11-05
+  location: Ghent, Belgium
+  url: https://performance2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-15
+    label: Abstracts (extended from 2026-04-17)
+  - kind: submission
+    date: 2026-05-22
+    label: Full papers (extended from 2026-04-24)
+  - kind: notification
+    date: 2026-08-07
+sources:
+- https://performance2026.github.io/
+- https://performance2026.github.io/call/
+- https://performance2026.github.io/workshop/
+- https://performance2026.github.io/organisation/
+- https://portal.core.edu.au/conf-ranks/?search=Performance&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- Dates, location and deadlines of Performance 2025 not found on an official page
+- Region judged from the joint SIGMETRICS editions and the 2026 host only; earlier hosts not checked on official pages
+- Deadline times and time zones not stated; camera-ready date not stated
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-10-17

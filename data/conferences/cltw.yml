@@ -1,0 +1,50 @@
+id: cltw
+name: CLTW
+full_name: Celtic Language Technology Workshop
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: irregular
+organizer: CLTW organising committee (ADAPT Centre at Dublin City University, Trinity College Dublin and others); co-located with a host NLP conference
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+links:
+  website: https://cltworkshop.github.io/
+notes:
+- Workshop on NLP and language technology for the Celtic languages (Irish, Scottish Gaelic, Welsh, Breton, Manx, Cornish), including historical stages
+- Started at COLING 2014 in Dublin; later editions at JEP-TALN-RECITAL 2016 (Paris), MT Summit XVII 2019 (Dublin), LREC 2022 (Marseille) and COLING 2025 (Abu Dhabi)
+- The 5th edition (2025) was moved to a virtual-only event on January 20, 2025, co-located with COLING 2025
+- Long papers up to 8 pages and short papers up to 4 pages, double-blind peer review
+- Proceedings in the ACL Anthology (2025 volume published by the International Committee on Computational Linguistics)
+- Irregular schedule, roughly every two to three years, attached to a different host conference each time
+- Not ranked in ICORE2026 and not on the CCF list
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+editions:
+- year: 2025
+  start: 2025-01-20
+  end: 2025-01-20
+  location: Virtual (co-located with COLING 2025, Abu Dhabi, UAE)
+  url: https://cltworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2024-11-01
+    label: Papers (extended from 2024-10-18 and 2024-10-25)
+  - kind: notification
+    date: 2024-11-29
+  - kind: camera_ready
+    date: 2024-12-09
+sources:
+- https://cltworkshop.github.io/
+- https://aclanthology.org/2025.cltw-1.0/
+- https://aclanthology.org/venues/cltw/
+- https://techiaith.bangor.ac.uk/celticlt/cltw/?lang=en
+- https://portal.core.edu.au/conf-ranks/?search=Celtic&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 6th edition announced as of 2026-10-17; the official site still shows the 2025 workshop
+- The sites.google.com/view/cltw2025 page could not be opened (requires sign-in); data taken from cltworkshop.github.io

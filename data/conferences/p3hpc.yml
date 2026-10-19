@@ -1,0 +1,70 @@
+id: p3hpc
+name: P3HPC
+full_name: International Workshop on Performance, Portability and Productivity in HPC
+type: workshop
+tier: minor
+areas: [systems, software]
+region: north-america
+language: english
+frequency: annual
+organizer: P3HPC organizing committee (2026 from NVIDIA, Argonne National Lab and Lawrence Livermore National Lab), IEEE/ACM workshop at SC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (ACM template in 2025, IEEE template in 2026)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://p3hpc.org/
+notes:
+- Peer-reviewed workshop held as part of the SC program since 2018, so it is held in the USA with SC
+- Grew out of the DOE Centers of Excellence performance portability meetings; a separate non-archival P3HPC Forum also exists
+- Full papers go into the SC Workshops Proceedings; the home page says accepted papers appear in IEEE Xplore via IEEE TCHPC
+- Papers 5 to 16 pages including references (at most 12 pages excluding references and appendices), single-blind review with at least three reviews
+- Artifact description and evaluation appendices encouraged, following the SC Reproducibility Initiative
+- Not ranked in CORE ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2025
+  label: P3HPC 2025 at SC25
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, USA (with SC25)
+  url: https://p3hpc.org/workshop/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-13
+    label: Extended from 2025-08-07
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-22
+- year: 2026
+  label: P3HPC 2026 at SC26 (exact day within November 15-20 not yet given)
+  start: 2026-11-15
+  end: 2026-11-20
+  location: Chicago, USA (with SC26)
+  url: https://p3hpc.org/workshop/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-12
+    label: Extended from 2026-08-05
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://p3hpc.org/
+- https://p3hpc.org/workshop/2026/
+- https://p3hpc.org/workshop/2026/submissions/
+- https://p3hpc.org/workshop/2026/committee/
+- https://p3hpc.org/workshop/2026/program/
+- https://p3hpc.org/workshop/2025/
+- https://p3hpc.org/workshop/2025/submissions/
+- https://p3hpc.org/workshop/2025/program/
+- https://portal.core.edu.au/conf-ranks/?search=P3HPC&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- Exact day of P3HPC 2026 within SC26 week (program page says it will be posted after camera-ready)
+- Deadline time zone not stated on the site
+- Acceptance rate and indexing
+last_verified: 2026-10-17

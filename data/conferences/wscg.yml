@@ -1,0 +1,77 @@
+id: wscg
+name: WSCG
+full_name: International Conference on Computer Graphics, Visualization and Computer Vision
+type: conference
+tier: minor
+areas: [vision]
+region: europe
+language: english
+frequency: annual
+organizer: Vaclav Skala, University of West Bohemia (Union Agency), in cooperation with the Eurographics Association
+organizer_country: [europe]
+proceedings: Computer Science Research Notes (CSRN, ISSN 2464-4617); best papers in the Journal of WSCG
+archival: true
+rank:
+  core: 'National: Czecholslovakia'
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5]
+links:
+  website: http://www.wscg.eu/
+notes:
+- Held every year since 1992 in Pilsen (Plzen), Czech Republic, near Prague; the 35th edition is in 2027
+- Covers computer graphics, visualization, computer vision and image processing
+- Double-blind review; full and short papers up to 10 pages, posters up to 4 pages with oral presentation
+- Proceedings in Computer Science Research Notes (CSRN) with individual DOIs, published after the conference;
+  best papers go to the Journal of WSCG
+- All papers are open access in the WSCG digital repository with no extra charge
+- At least one author must present; online presentation possible mainly for authors from distant countries
+- "ICORE2026 label: National: Czecholslovakia (spelled this way on the CORE portal)"
+editions:
+- year: 2026
+  label: 34th WSCG
+  start: 2026-05-25
+  end: 2026-05-28
+  location: Pilsen, Czech Republic
+  url: http://www.wscg.cz/
+  deadlines:
+  - kind: submission
+    date: 2026-03-28
+    label: Full, short and poster papers (extended)
+- year: 2027
+  label: 35th WSCG
+  start: 2027-05-24
+  end: 2027-05-27
+  location: Primavera Hotel and Congress Center, Pilsen, Czech Republic
+  url: http://www.wscg.cz/
+  deadlines:
+  - kind: other
+    date: 2026-12-15
+    label: Workshop or special session proposals
+  - kind: abstract
+    date: 2027-01-31
+    label: Abstract (recommended only)
+  - kind: submission
+    date: 2027-02-15
+    time: "21:00"
+    tz: GMT
+    label: Full, short and poster papers
+  - kind: notification
+    date: 2027-04-10
+  - kind: camera_ready
+    date: 2027-04-15
+sources:
+- http://www.wscg.eu/
+- http://www.wscg.cz/
+- https://www.wscg.cz/inpage/authors-instructions
+- http://wscg.zcu.cz/DL/wscg_DL.htm
+- http://wscg.zcu.cz/WSCG2026/2026-WSCG-Papers-Separated.html
+- https://listserv.uni-tuebingen.de/pipermail/ieee_vis/2025/003154.html
+- https://listserv.uni-tuebingen.de/pipermail/ieee_vis/2026/003226.html
+- https://portal.core.edu.au/conf-ranks/?search=WSCG&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- WSCG 2026 dates and extended deadline taken from the official call for papers sent by the conference chair to the
+  ieee_vis mailing list; the 2026 page itself was no longer online
+- The site says CSRN and the Journal of WSCG are sent for Scopus and WoS indexing; current indexing status not
+  confirmed

@@ -1,0 +1,69 @@
+id: funarch
+name: FUNARCH
+full_name: ACM SIGPLAN Workshop on Functional Software Architecture - FP in the Large
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN, co-located with ICFP
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9, 10]
+links:
+  website: https://conf.researchr.org/series/funarch
+notes:
+- ICFP workshop on the architecture of large, long-lived software built in functional languages, often in industry
+- Started in 2022 as a track with no publications; peer-reviewed papers in the ACM DL since the first workshop in 2023
+- Categories are research papers and architectural pearls (5 to 12 pages), experience reports (3 to 6 pages) and an open category (1 to 6 pages), ACM SIGPLAN acmart format
+- Lightning talks are not peer reviewed and are not part of the proceedings
+- Small one-day workshop with a handful of accepted papers
+- Moves with ICFP (Ljubljana 2022, Seattle 2023, Milan 2024, Singapore 2025, Indianapolis 2026)
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-12
+  end: 2025-10-12
+  location: Singapore
+  url: https://conf.researchr.org/home/icfp-splash-2025/funarch-2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-23
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-07-21
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-25
+    tz: AoE
+- year: 2026
+  start: 2026-08-29
+  end: 2026-08-29
+  location: Indianapolis, Indiana, USA
+  url: https://conf.researchr.org/home/icfp-2026/funarch-2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-01
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-14
+    tz: AoE
+sources:
+- https://conf.researchr.org/series/funarch
+- https://conf.researchr.org/home/icfp-splash-2025/funarch-2025
+- https://conf.researchr.org/home/icfp-2026/funarch-2026
+- https://portal.core.edu.au/conf-ranks/?search=FUNARCH&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2026 camera-ready date is 2026-07-14 in the Important Dates table but 7 July in the CFP text; the table date is used
+- 2025 CFP text says submit by 16 June while its timeline and Important Dates table say 23 June; 23 June is used
+- 2027 edition not announced yet

@@ -1,0 +1,84 @@
+id: caise
+name: CAiSE
+full_name: International Conference on Advanced Information Systems Engineering
+type: conference
+tier: major
+areas: [software, data]
+region: europe
+language: english
+frequency: annual
+organizer: CAiSE Steering Committee with a local host (University of Seville in 2027)
+organizer_country: [europe]
+proceedings: Springer LNCS; workshops and Forum + Doctoral Consortium in Springer LNBIP
+archival: true
+rank:
+  core: A
+  ccf: B
+typical:
+  deadline_months: [11]
+  conference_months: [6]
+links:
+  website: https://www.caise2027seville.org/
+  dblp: https://dblp.org/db/conf/caise/
+notes:
+- Long-running European conference on information systems engineering (38th edition in 2026), covering requirements, conceptual modeling, business process management and data-driven information systems
+- Main track papers in Springer LNCS, up to 14 pages excluding references in LNCS format
+- Double-blind review from 2027 (2026 was not blind); at least two PC reviews, a third for positive papers, then a program board meeting
+- Mandatory abstract before the full paper deadline, both AoE and announced as firm
+- Workshops, Forum and Doctoral Consortium papers go to Springer LNBIP volumes; co-located with the BPMDS and EMMSAD working conferences
+- Best papers invited to a special issue of the Elsevier Information Systems journal
+- CORE A and CCF B (software engineering list); held almost every year in Europe
+editions:
+- year: 2027
+  start: 2027-06-07
+  end: 2027-06-11
+  location: Seville, Spain
+  url: https://www.caise2027seville.org/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-11-04
+    tz: AoE
+  - kind: submission
+    date: 2026-11-15
+    tz: AoE
+  - kind: notification
+    date: 2027-02-10
+  - kind: camera_ready
+    date: 2027-03-15
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-12
+  location: Verona, Italy
+  url: https://caise26.polimi.it/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-21
+    tz: AoE
+    label: Extended from 2025-11-14
+  - kind: submission
+    date: 2025-11-28
+    tz: AoE
+  - kind: notification
+    date: 2026-02-12
+  - kind: other
+    date: 2026-03-08
+    tz: AoE
+    label: Workshop paper submission
+sources:
+- https://www.caise2027seville.org/
+- https://www.caise2027seville.org/calls/dates/
+- https://www.caise2027seville.org/calls/papers/
+- https://www.caise2027seville.org/calls/workshops/
+- https://caise-conference.diag.uniroma1.it/
+- https://caise26.polimi.it/
+- https://caise26.polimi.it/?page_id=60
+- https://caise26.polimi.it/?page_id=308
+- https://caise26.polimi.it/?page_id=328
+- https://caise26.polimi.it/?page_id=71
+- https://portal.core.edu.au/conf-ranks/?search=CAiSE&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- Camera-ready deadline for CAiSE 2026 main track not stated on the call for papers
+- CAiSE 2027 workshop paper deadline not yet announced
+last_verified: 2026-10-17

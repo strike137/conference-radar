@@ -1,0 +1,74 @@
+id: aiih
+name: AIiH
+full_name: International Conference on Artificial Intelligence in Healthcare
+type: conference
+tier: minor
+areas: [ai, vision]
+region: europe
+language: english
+frequency: annual
+organizer: AIiH organizing committee (Swansea University with the host university; 2027 co-chairs from Oxford and Swansea)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://aiih.cc/
+notes:
+- Young conference on AI for healthcare, first held in 2024 at Swansea, then Cambridge (2025), Imperial College London (2026) and Oxford (2027)
+- Full papers (12 pages plus references) go through double-blind review and appear in Springer LNCS
+- Abstracts (up to 5 pages) and late-breaking abstracts are archived with DOIs on Zenodo, not in LNCS
+- "Acceptance rate: 58.7% for full papers (2026, 101/172); 60/83 in 2025"
+- 2026 added a State-of-the-Art Surveys (STARS) track of up to 24 pages and a challenge session on perivascular space segmentation
+- Single track with oral and poster presentations; also takes special session proposals
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-08-26
+  end: 2026-08-28
+  location: Imperial College London, London, UK
+  url: https://aiih.cc/aiih-2026-overview/
+- year: 2027
+  start: 2027-09-01
+  end: 2027-09-03
+  location: Mathematical Institute, University of Oxford, Oxford, UK
+  url: https://aiih.cc/
+  deadlines:
+  - kind: other
+    date: 2027-01-22
+    time: "23:59"
+    tz: UTC-8
+    label: Special session proposals
+  - kind: submission
+    date: 2027-04-09
+    time: "23:59"
+    tz: UTC-8
+    label: Full papers and abstracts
+  - kind: notification
+    date: 2027-05-28
+  - kind: camera_ready
+    date: 2027-06-11
+    time: "23:59"
+    tz: UTC-8
+  - kind: other
+    date: 2027-07-02
+    time: "23:59"
+    tz: UTC-8
+    label: Late-breaking abstracts and STARS surveys
+sources:
+- https://aiih.cc/
+- https://aiih.cc/important-dates/
+- https://aiih.cc/call-for-papers/
+- https://aiih.cc/aiih-2026-overview/
+- https://aiih.cc/aiih-2025-overview/
+- https://aiih.cc/detailed-programme-2026/
+- https://aiih.cc/proceedings-2026/
+- https://aiih.cc/proceedings-2025/
+- https://aiih.cc/people/
+- https://portal.core.edu.au/conf-ranks/?search=AIiH&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2026 deadlines not recorded; the official important dates page now shows only the 2027 timeline
+- 2026 end date taken from the last day of the official detailed programme

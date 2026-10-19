@@ -1,0 +1,70 @@
+id: icocseti
+name: ICoCSETI
+full_name: International Conference on Computer Sciences, Engineering, and Technology Innovation
+type: conference
+tier: minor
+areas: [general, ai, data, networking]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Universitas Indraprasta PGRI (UNINDRA)
+organizer_country: [indonesia]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+acceptance_rate: About 50% (2025, 255 submissions)
+typical:
+  conference_months: [1, 11]
+links:
+  website: https://icocseti.unindra.ac.id/
+notes:
+- Organized by Universitas Indraprasta PGRI in Jakarta, Indonesia; IEEE Indonesia Section members on the committee
+- First edition on 21 January 2025 in Jakarta; second edition on 21 November 2026
+- 2025 proceedings in IEEE Xplore and indexed by Scopus; 2026 papers to be submitted to IEEE Xplore
+- 4 to 6 page IEEE papers via EDAS, peer reviewed by 3 reviewers; two submission batches in 2026
+- Broad scope covering data science, computing, AI, automation, information systems, networks and education technology
+- Not listed in the ICORE2026 CORE portal
+editions:
+- year: 2025
+  label: 1st ICoCSETI
+  start: 2025-01-21
+  end: 2025-01-21
+  location: Jakarta, Indonesia
+  url: https://ieeexplore.ieee.org/xpl/conhome/11018832/proceeding
+- year: 2026
+  label: 2nd ICoCSETI
+  start: 2026-11-21
+  end: 2026-11-21
+  location: Jakarta, Indonesia
+  url: https://icocseti.unindra.ac.id/
+  deadlines:
+  - kind: submission
+    date: 2026-06-21
+    label: Batch 1
+  - kind: notification
+    date: 2026-07-15
+    label: Batch 1
+  - kind: camera_ready
+    date: 2026-08-21
+    label: Batch 1
+  - kind: submission
+    date: 2026-10-25
+    label: Batch 2 (extended)
+  - kind: notification
+    date: 2026-10-30
+    label: Batch 2
+  - kind: camera_ready
+    date: 2026-11-08
+    label: Batch 2
+sources:
+- https://icocseti.unindra.ac.id/
+- https://icocseti.unindra.ac.id/Important-Dates
+- https://icocseti.unindra.ac.id/Submission-and-Camera-Ready
+- https://icocseti.unindra.ac.id/Call-For-Papers
+- https://ieeexplore.ieee.org/xpl/conhome/11018832/proceeding
+- https://api.crossref.org/works?query.container-title=Computer+Sciences+Engineering+Technology+Innovation+ICoCSETI
+- https://portal.core.edu.au/conf-ranks/?search=ICoCSETI&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2025 date and location taken from IEEE proceedings metadata (Crossref); 2025 deadlines not recorded
+- Registration fee amounts

@@ -1,0 +1,95 @@
+id: siet
+name: SIET
+full_name: International Conference on Sustainable Information Engineering and Technology
+type: conference
+tier: minor
+areas: [general, ai, data, vision, nlp, security, networking, software]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Faculty of Computer Science (FILKOM), Universitas Brawijaya (Malang, Indonesia)
+organizer_country: [indonesia]
+proceedings: ACM ICPS (ACM DL, 2020 to 2023 confirmed); IEEE Xplore (2017 to 2019); 2026 publisher not yet confirmed
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://siet.ub.ac.id/
+notes:
+- Run yearly by FILKOM, Universitas Brawijaya; 11th edition in 2026
+- Held in Malang, Bali and Kuala Lumpur in recent years (2023 Bali, 2024 Kuala Lumpur, 2025 Bali, 2026 Malang)
+- Proceedings in IEEE Xplore for 2017 to 2019 and in ACM ICPS (ACM DL) from 2020 to 2023
+- For 2026 the site says the proceedings are still under consideration at a publisher and asks for the Springer
+  proceedings template; selected papers go to the JTI and JITeCS journals
+- Submission via EDAS, double-blind review, no-show papers are dropped from the proceedings
+- Broad scope (AI, data science, vision, NLP, robotics, security and networking, health informatics, GIS)
+- Run back to back with the FILKOM national seminar SENTRIN and the ICOMIT conference
+- Not listed in ICORE2026 or in the CCF 2026 list (no rank)
+- "All deadlines are in GMT+7 (2025 and 2026)"
+editions:
+- year: 2025
+  start: 2025-10-21
+  end: 2025-10-22
+  location: The Trans Resort Bali, Bali, Indonesia
+  url: https://siet.ub.ac.id/event/siet25
+  deadlines:
+  - kind: submission
+    date: 2025-07-20
+    time: "23:59"
+    tz: UTC+7
+    label: Full paper (extended from June 25)
+  - kind: notification
+    date: 2025-08-10
+    time: "23:59"
+    tz: UTC+7
+  - kind: camera_ready
+    date: 2025-08-30
+    time: "23:59"
+    tz: UTC+7
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-08
+  location: Malang, Indonesia
+  url: https://siet.ub.ac.id/event/siet26
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    time: "23:59"
+    tz: UTC+7
+    label: Full paper (final extension; earlier May 4, May 18 and June 22)
+  - kind: notification
+    date: 2026-07-20
+    time: "23:59"
+    tz: UTC+7
+  - kind: camera_ready
+    date: 2026-08-02
+    time: "23:59"
+    tz: UTC+7
+  - kind: other
+    date: 2026-07-27
+    time: "23:59"
+    tz: UTC+7
+    label: Early bird registration
+sources:
+- https://siet.ub.ac.id/
+- https://siet.ub.ac.id/event/siet26/read/call-for-papers/4e35b49
+- https://siet.ub.ac.id/event/siet26/read/submission/d18fa72
+- https://siet.ub.ac.id/event/siet25
+- https://siet.ub.ac.id/event/siet25/read/call-for-papers/d4c07b3
+- https://siet.ub.ac.id/event/siet24
+- https://dl.acm.org/doi/proceedings/10.1145/3626641
+- https://dl.acm.org/doi/proceedings/10.1145/3568231
+- https://dl.acm.org/doi/proceedings/10.1145/3479645
+- https://dl.acm.org/doi/proceedings/10.1145/3427423
+- https://api.crossref.org/works?query.container-title=Sustainable+Information+Engineering+and+Technology
+- https://portal.core.edu.au/conf-ranks/?search=SIET&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- Publisher of the SIET 2024 and 2025 proceedings (the sites say ACM, but no ACM DL volume was found in Crossref)
+- Publisher of the SIET 2026 proceedings (under consideration according to the site)
+- SIET 2027 dates (not announced yet)
+- SIET 2026 camera-ready date (the CFP page says August 2, the home page timeline says August 1)
+- Acceptance rate and registration fee
+last_verified: 2026-10-17

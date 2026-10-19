@@ -1,0 +1,51 @@
+id: mwedge
+name: MiddleWEdge
+full_name: International Workshop on Middleware for the Edge
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: MiddleWEdge organizers (co-located with ACM Middleware); Inria, IMT Atlantique, University of Porto and INESC-ID
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://www.dpss.inesc-id.pt/~lveiga/mwedge23/
+notes:
+- Workshop on decentralized edge and fog computing middleware (resource management, scheduling, latency-sensitive systems), co-located with ACM Middleware
+- Editions in 2022 (Quebec City) and 2023 (Bologna); no 2024 edition; a 2025 edition was announced but does not appear to have taken place
+- 2022 and 2023 proceedings published as their own volumes in the ACM Digital Library
+- Full papers up to 6 pages, short papers (demos and posters) up to 4 pages, ACM SIGPLAN format
+- Supported by EU Horizon projects; organizers from France and Portugal
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2023
+  start: 2023-12-11
+  end: 2023-12-11
+  location: Bologna, Italy
+  url: https://www.dpss.inesc-id.pt/~lveiga/mwedge23/
+  deadlines:
+  - kind: submission
+    date: 2023-10-05
+  - kind: notification
+    date: 2023-10-23
+  - kind: camera_ready
+    date: 2023-10-27
+sources:
+- https://stack-research-group.gitlabpages.inria.fr/web/mwedge25/
+- https://www.dpss.inesc-id.pt/~lveiga/mwedge23/
+- https://dl.acm.org/doi/proceedings/10.1145/3565385
+- https://dl.acm.org/doi/proceedings/10.1145/3630180
+- https://middleware-conf.github.io/2025/workshops/
+- https://middleware-conf.github.io/2026/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=MWEdge&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- A 2025 call for papers (3rd edition, Middleware 2025 in Nashville, submission 2025-10-09) was posted, but the link is commented out of the Middleware 2025 workshop list and no MiddleWEdge 2025 proceedings appear among the Middleware 2025 workshop volumes in the ACM DL; the 2025 edition is not recorded
+- No 2026 edition found; MiddleWEdge links on the Middleware 2026 workshop page are commented out
+- Acceptance rate and fee not published
+last_verified: 2026-10-17

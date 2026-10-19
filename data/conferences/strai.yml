@@ -1,0 +1,65 @@
+id: strai
+name: STRAI
+full_name: International Workshop on Secure, Trustworthy, and Robust AI
+type: workshop
+tier: minor
+areas: [security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: NTNU and Chemnitz University of Technology chairs, co-located workshop of ARES (SBA Research)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://www.ares-conference.eu/strai
+notes:
+- Workshop of ARES (International Conference on Availability, Reliability and Security), held in Europe every summer;
+  1st edition at ARES 2025 (Ghent), 2nd at ARES 2026 (Linköping)
+- Submission guidelines are the same as for the ARES conference; ARES and its workshop papers are published in
+  Springer LNCS since 2025
+- Topics span AI security and privacy, adversarial examples and data poisoning, explainability, fairness, governance
+  and human-AI trust
+- Chairs from NTNU (Norway) and Chemnitz University of Technology (Germany); linked to the EU ENFIELD project
+- 'Small workshop: one 90-minute session with 4 papers in 2025'
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-08-11
+  end: 2025-08-11
+  location: Ghent, Belgium
+  url: https://2025.ares-conference.eu/
+  deadlines:
+  - kind: submission
+    date: 2025-05-12
+    tz: AoE
+  - kind: notification
+    date: 2025-05-23
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-13
+    tz: AoE
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-27
+  location: Linköping, Sweden
+  url: https://www.ares-conference.eu/strai
+  deadlines:
+  - kind: submission
+    date: 2026-05-18
+  - kind: notification
+    date: 2026-06-01
+  - kind: camera_ready
+    date: 2026-06-13
+sources:
+- https://www.ares-conference.eu/strai
+- https://www.ares-conference.eu/conference/workshops
+- https://2025.ares-conference.eu/data/sessions.json
+- https://portal.core.edu.au/conf-ranks/?search=STRAI&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within ARES 2026 (only the conference dates 24-27 Aug are given)
+- STRAI 2027 (ARES 2027 not yet announced as of 2026-10-17)
+last_verified: 2026-10-17

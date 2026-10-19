@@ -1,0 +1,68 @@
+id: icga-cg
+name: CG
+full_name: International Conference on Computers and Games
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: ICGA (International Computer Games Association)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [2, 9]
+  conference_months: [6, 11]
+links:
+  website: https://icga.org/?page_id=4105
+notes:
+- One of the two conference series of the International Computer Games Association (ICGA); originated in Japan
+- Held in even-numbered years, alternating with Advances in Computer Games (ACG) in odd-numbered years
+- AI for board, card, puzzle and video games (search, MCTS, game solving, machine learning for games)
+- Proceedings in Springer LNCS; full papers up to 12 pages in LNCS style (2026); single-blind review
+- Held online in 2020, 2022 and 2024; back on site in Maastricht, the Netherlands, in 2026 (first time since 2018)
+- 16 accepted papers in 2026; 2026 camera-ready due after the conference so authors can use feedback
+- About 280 EUR regular and 160 EUR student early registration (2026); the online 2024 edition charged 50 EUR per accepted paper
+- Not listed in CORE ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-19
+  end: 2026-06-20
+  location: Maastricht, Netherlands
+  url: https://icga.org/?page_id=4105
+  deadlines:
+  - kind: submission
+    date: 2026-02-27
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from February 20)
+  - kind: notification
+    date: 2026-04-03
+  - kind: camera_ready
+    date: 2026-08-10
+    time: "23:59"
+    tz: AoE
+- year: 2024
+  start: 2024-11-25
+  end: 2024-11-28
+  location: Online
+  url: https://icga.org/?page_id=3907
+  deadlines:
+  - kind: submission
+    date: 2024-09-15
+  - kind: notification
+    date: 2024-10-21
+  - kind: camera_ready
+    date: 2024-11-11
+sources:
+- https://icga.org/?page_id=4105
+- https://icga.org/?page_id=3907
+- https://icga.org/?page_id=3030
+- https://icga.org/?p=4129
+- https://icga.org/?p=4070
+- https://link.springer.com/book/10.1007/978-3-031-86585-5
+- https://portal.core.edu.au/conf-ranks/?search=Games&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- CG 2028 not announced yet

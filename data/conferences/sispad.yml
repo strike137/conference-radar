@@ -1,0 +1,66 @@
+id: sispad
+name: SISPAD
+full_name: International Conference on Simulation of Semiconductor Processes and Devices
+type: conference
+tier: major
+areas: [communications, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: SISPAD Steering Committee (technically co-sponsored by IEEE Electron Devices Society)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://www.sispad.info/
+notes:
+- Long-running conference on TCAD, process and device simulation and compact modeling; formed in 1996 from NUPAD (USA), VPAD (Japan) and SISDEP (Europe)
+- Held every September, rotating between the United States, Japan and Europe (2023 Kobe, 2024 San Jose, 2025 Grenoble, 2026 Kumamoto, 2027 Salt Lake City)
+- Submission is a 2-page abstract; accepted authors send a 4-page camera-ready paper in IEEE Xplore-compatible format
+- Oral and poster presentations, plus a one-day workshop the day before the main conference
+- 2026 edition sponsored by the Japan Society of Applied Physics and technically co-sponsored by IEEE EDS
+- "Registration 2026: JPY 90,000 regular and JPY 40,000 student (early bird)"
+- Not ranked by CORE or CCF, whose lists cover computing venues
+editions:
+- year: 2026
+  start: 2026-09-28
+  end: 2026-09-30
+  location: Kumamoto-Jo Hall, Kumamoto, Japan
+  url: https://sispad2026.jp/
+  deadlines:
+  - kind: submission
+    date: 2026-04-22
+    time: "23:59"
+    tz: AoE
+    label: 2-page abstract (extended from 2026-04-10)
+  - kind: notification
+    date: 2026-06-03
+  - kind: camera_ready
+    date: 2026-06-30
+    time: "23:59"
+    tz: AoE
+    label: 4-page final paper
+- year: 2027
+  start: 2027-09-20
+  end: 2027-09-22
+  location: University of Utah Campus Marriott, Salt Lake City, UT, USA
+  url: https://sispad2027.wordpress.com/
+sources:
+- https://www.sispad.info/
+- https://www.sispad.info/past-events
+- https://sispad2026.jp/
+- https://sispad2026.jp/abstract-submission
+- https://sispad2026.jp/final-paper-submission/
+- https://sispad2026.jp/registration/
+- https://sispad2026.jp/wp/wp-content/themes/SISPAD/files/sispad2026-2nd-cfp.pdf
+- https://sispad2027.wordpress.com/about/
+- https://api.crossref.org/works?query.container-title=Simulation+of+Semiconductor+Processes+and+Devices
+- https://portal.core.edu.au/conf-ranks/?search=SISPAD&by=all&source=ICORE2026
+unverified:
+- IEEE Xplore publication taken from the IEEE Xplore-compatible final paper requirement and the Crossref record of the 2025 proceedings (IEEE); the 2026 site does not name the publisher
+- SISPAD 2027 deadlines not announced yet (site only gives dates and venue)
+- Acceptance rate not stated on the official sites
+last_verified: 2026-10-17

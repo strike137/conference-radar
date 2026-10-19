@@ -1,0 +1,60 @@
+id: icsim
+name: ICSIM
+full_name: International Conference on Software Engineering and Information Management
+type: conference
+tier: minor
+areas: [software, data]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Conference secretariat with a host university (Keio University in 2026, The University of Electro-Communications in 2027)
+proceedings: IET Conference Proceedings (from 2027; ACM DL 2018 to 2026)
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [11]
+  conference_months: [1]
+links:
+  website: https://www.icsim.org/
+notes:
+- Smaller software engineering and information management conference held every January since 2018
+- Started in Casablanca (2018), then Bali, Sydney, Yokohama (virtual 2021 and 2022), Palmerston North, Fiji (online 2024), Singapore and Yokohama (2026); Tokyo in 2027
+- Proceedings 2018 to 2026 in the ACM Digital Library, indexed by EI Compendex and Scopus per the site
+- From 2027 papers go to IET conference proceedings; double-blind review stated for 2027
+- Abstract-only presentation is possible without publication
+- Run by a conference secretariat (contact via a 163.com address) with Japanese host universities
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-21
+  end: 2026-01-23
+  location: Yokohama, Japan
+  url: https://www.icsim.org/icsim2026.html
+- year: 2027
+  start: 2027-01-20
+  end: 2027-01-22
+  location: Tokyo, Japan
+  url: https://www.icsim.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-05
+  - kind: camera_ready
+    date: 2026-11-30
+  - kind: notification
+    date: 2026-12-01
+  - kind: other
+    date: 2026-12-15
+    label: Registration
+sources:
+- https://www.icsim.org/
+- https://www.icsim.org/dates.html
+- https://www.icsim.org/icsim2026.html
+- https://www.icsim.org/icsim2025.html
+- https://www.icsim.org/icsim2024.html
+- https://portal.core.edu.au/conf-ranks/?search=ICSIM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Not found in CORE ICORE2026 by acronym or full name
+- Organizing company and its country not named on the site, so organizer_country is left out
+- The site lists the 2027 camera-ready date (2026-11-30) before the notification date (2026-12-01)
+- ICSIM 2026 deadlines no longer on the site

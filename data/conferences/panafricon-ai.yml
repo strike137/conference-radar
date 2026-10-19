@@ -1,0 +1,66 @@
+id: panafricon-ai
+name: PanAfriCon AI
+full_name: Pan African Conference on Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: africa
+language: english
+frequency: annual
+organizer: Ethiopian Artificial Intelligence Institute (EAII)
+organizer_country: [other]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [7, 9]
+  conference_months: [10, 11]
+links:
+  website: https://panafriconai.org/
+notes:
+- Organized and hosted by the Ethiopian Artificial Intelligence Institute (EAII); held in Addis Ababa every year since
+  2022
+- Accepted papers are published in Springer CCIS
+- 2026 process has an abstract stage, then invited full papers of 10 pages or more in Springer format via EasyChair
+- Topics include NLP for African languages, healthcare AI, agriculture and finance
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 4th edition
+  start: 2025-11-10
+  end: 2025-11-11
+  location: Addis Ababa, Ethiopia
+  url: https://panafriconai.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-08-01
+  - kind: submission
+    date: 2025-09-30
+  - kind: notification
+    date: 2025-10-15
+- year: 2026
+  label: 5th edition
+  start: 2026-11-19
+  end: 2026-11-20
+  location: Addis Ababa, Ethiopia
+  url: https://panafriconai.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-01
+  - kind: other
+    date: 2026-08-30
+    label: Abstract acceptance and invitation for full paper
+  - kind: submission
+    date: 2026-09-30
+    label: Full paper (Springer format)
+  - kind: notification
+    date: 2026-10-25
+  - kind: camera_ready
+    date: 2026-11-10
+sources:
+- https://panafriconai.org/
+- https://portal.core.edu.au/conf-ranks/?search=Pan+African&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The official site gives two different 2026 conference dates (October 15-16 in the call text, November 19-20 in the
+  important dates list); the important dates list is used here
+- Deadline time zones are not stated

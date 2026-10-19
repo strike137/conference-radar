@@ -1,0 +1,57 @@
+id: wikinlp
+name: WikiNLP
+full_name: Workshop on Advancing Natural Language Processing for Wikipedia
+type: workshop
+tier: minor
+areas: [nlp, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2025 program chairs from Aarhus University, Wikimedia Foundation, Hugging Face, Carnegie Mellon University, Stanford University and University of Mannheim); co-located with EMNLP or ACL
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [4, 9]
+  conference_months: [8, 11]
+links:
+  website: https://meta.wikimedia.org/wiki/NLP_for_Wikipedia_(ACL_2025)
+notes:
+- Workshop on NLP research using Wikimedia data and on NLP tools that help the Wikimedia community, including low-resource language editions
+- Held with EMNLP 2024 (Miami) and ACL 2025 (Vienna); the website is hosted on Meta-Wiki
+- "2025 tracks: Wikimedian provocations (non-archival), datasets (archival, up to 8 pages, double-blind with three reviewers) and ongoing or published work (non-archival)"
+- Only the archival track goes to the ACL Anthology (13 papers in 2024, 4 in 2025)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 2nd edition, with ACL 2025
+  start: 2025-08-01
+  end: 2025-08-01
+  location: Vienna, Austria
+  url: https://meta.wikimedia.org/wiki/NLP_for_Wikipedia_(ACL_2025)
+  deadlines:
+  - kind: submission
+    date: 2025-04-30
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-04-23
+  - kind: notification
+    date: 2025-05-30
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-16
+    time: "23:59"
+    tz: AoE
+sources:
+- https://meta.wikimedia.org/wiki/NLP_for_Wikipedia_(ACL_2025)
+- https://meta.wikimedia.org/wiki/NLP_for_Wikipedia_(ACL_2025)/Call_for_Papers
+- https://meta.wikimedia.org/wiki/NLP_for_Wikipedia_(EMNLP_2024)
+- https://2025.aclweb.org/program/workshops/
+- https://aclanthology.org/venues/wikinlp/
+- https://aclanthology.org/volumes/2025.wikinlp-1/
+- https://portal.core.edu.au/conf-ranks/?search=WikiNLP&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- No 2026 edition found on Meta-Wiki; the series may not continue every year

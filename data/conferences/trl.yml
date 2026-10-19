@@ -1,0 +1,56 @@
+id: trl
+name: TRL
+full_name: Table Representation Learning Workshop
+type: workshop
+tier: minor
+areas: [ai, data, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: TRL workshop organizers (Madelon Hulsebos, CWI, and co-chairs); co-located with NeurIPS (2022 to 2024) and
+  ACL (2025)
+organizer_country: [international]
+proceedings: ACL Anthology (2025)
+archival: true
+typical:
+  deadline_months: [4, 9]
+  conference_months: [7, 12]
+links:
+  website: https://table-representation-learning.github.io/
+notes:
+- Workshop on representation learning, LLMs and generative models for tables, spreadsheets and relational databases
+  (text-to-SQL, table QA, tabular ML, data preparation)
+- Held at NeurIPS 2022, 2023 and 2024; the NeurIPS 2024 edition was non-archival (papers on the website and OpenReview only)
+- The 4th edition at ACL 2025 in Vienna was archival, with proceedings in the ACL Anthology
+- Short papers 4 pages and regular papers 8 pages plus references, ACL style; light double-anonymous review on
+  OpenReview; in-person presentation expected
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-07-31
+  end: 2025-07-31
+  location: Vienna, Austria (co-located with ACL 2025)
+  url: https://table-representation-learning.github.io/ACL2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-21
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-04-15
+  - kind: notification
+    date: 2025-05-19
+    label: Moved from 2025-05-15
+  - kind: camera_ready
+    date: 2025-05-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://table-representation-learning.github.io/
+- https://table-representation-learning.github.io/ACL2025/
+- https://table-representation-learning.github.io/NeurIPS2024/
+- https://aclanthology.org/2025.trl-1.0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=TRL&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2026 edition found on the official site
+- Archival status of future editions depends on the host conference (NeurIPS editions were non-archival)

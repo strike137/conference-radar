@@ -1,0 +1,59 @@
+id: ifip-icis
+name: ICIS
+full_name: International Conference on Intelligence Science
+type: conference
+tier: minor
+areas: [ai]
+region: china
+language: english
+frequency: biennial
+organizer: IFIP TC 12 with the International Academy of Information Studies (China Group) and a local Chinese university
+organizer_country: [china]
+proceedings: Springer IFIP AICT (Intelligence Science series)
+archival: true
+indexing: [EI, Inspec]
+typical:
+  deadline_months: [5]
+  conference_months: [10]
+links:
+  website: http://www.intsci.ac.cn/ICIS/
+notes:
+- IFIP TC 12 conference on the nature of intelligence, linking brain science, cognitive science and AI; held every two years in China
+- Website run by the Key Laboratory of Intelligent Information Processing, ICT, Chinese Academy of Sciences (Zhongzhi Shi)
+- 2026 edition (7th) sponsored by the International Academy of Information Studies China Group and organized by Beijing Jiaotong University
+- Proceedings in Springer IFIP AICT as Intelligence Science I, II, ... (ICIS 2024 -> Intelligence Science V, IFIP AICT 720)
+- "Small venue: ICIS 2024 accepted 23 full and 2 short papers out of 32 submissions"
+- Papers up to 15 pages in Springer LNCS format plus a cover page, submitted via EasyChair
+- Not in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  label: ICIS 2024 (6th)
+  start: 2024-10-25
+  end: 2024-10-28
+  location: Nanjing, China
+  url: https://link.springer.com/book/10.1007/978-3-031-71253-1
+- year: 2026
+  label: ICIS 2026 (7th)
+  start: 2026-10-30
+  end: 2026-11-02
+  location: Beijing Jiaotong University, Beijing, China
+  url: http://www.intsci.ac.cn/ICIS/
+  deadlines:
+  - kind: submission
+    date: 2026-05-17
+  - kind: notification
+    date: 2026-06-01
+  - kind: camera_ready
+    date: 2026-07-01
+sources:
+- http://www.intsci.ac.cn/ICIS/
+- http://www.intsci.ac.cn/ICIS/Paper/ICIS2026CallForPaper/
+- http://www.intsci.ac.cn/ICIS/Introduction/
+- https://link.springer.com/book/10.1007/978-3-031-71253-1
+- https://www.ifiptc12.org/events-page/event/70-international-conference-on-intelligence-science-icis-2026
+- https://portal.core.edu.au/conf-ranks/?search=Intelligence+Science&by=all&source=ICORE2026
+unverified:
+- The official 2026 site says only that proceedings go to Springer; the IFIP AICT series is inferred from earlier volumes
+- The IFIP TC12 listing gives 2026-05-10 for submission while the official CFP gives 2026-05-17
+- ICIS 2024 deadlines (the official site now shows only the 2026 edition); locations of editions before 2024 not checked on official pages
+last_verified: 2026-10-17

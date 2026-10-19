@@ -1,0 +1,93 @@
+id: fgvc
+name: FGVC
+full_name: Workshop on Fine-Grained Visual Categorization
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Researchers from University of Copenhagen, MIT, UMass Amherst, University of Edinburgh, Caltech and others
+organizer_country: [europe, usa, canada]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops proceedings, 8-page track only)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/fgvc13
+notes:
+- Long-running workshop co-located with CVPR since 2011, annual since 2017; 2026 was the 13th edition
+- Three tracks; 8-page proceedings track in the CVPR Workshops proceedings, 4-page non-archival extended abstracts, and a nectar track for already published work
+- Hosts a set of fine-grained recognition competitions alongside the paper tracks
+- Double-blind review via CMT, but dataset papers may be submitted de-anonymized
+- All deadlines are 23:59 Pacific Time
+- Each proceedings paper needs a full in-person CVPR registration
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-06-11
+  end: 2025-06-11
+  location: Nashville, USA
+  url: https://sites.google.com/view/fgvc12
+  deadlines:
+  - kind: submission
+    date: 2025-03-07
+    time: "23:59"
+    tz: PST
+    label: Proceedings track (extended)
+  - kind: notification
+    date: 2025-03-28
+    label: Proceedings track
+  - kind: camera_ready
+    date: 2025-04-04
+    label: Proceedings track
+  - kind: submission
+    date: 2025-04-02
+    time: "23:59"
+    tz: PDT
+    label: Non-archival track (extended)
+  - kind: notification
+    date: 2025-05-09
+    label: Non-archival track
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, USA
+  url: https://sites.google.com/view/fgvc13
+  deadlines:
+  - kind: submission
+    date: 2026-03-03
+    time: "23:59"
+    tz: PST
+    label: Proceedings track (extended)
+  - kind: notification
+    date: 2026-03-25
+    label: Proceedings track
+  - kind: camera_ready
+    date: 2026-04-09
+    label: Proceedings track
+  - kind: submission
+    date: 2026-04-10
+    time: "23:59"
+    tz: PDT
+    label: Non-archival track (extended)
+  - kind: notification
+    date: 2026-05-08
+    label: Non-archival track
+  - kind: other
+    date: 2026-04-30
+    time: "23:59"
+    tz: PDT
+    label: Nectar track submission
+sources:
+- https://sites.google.com/view/fgvc13
+- https://sites.google.com/view/fgvc13/submission
+- https://sites.google.com/view/fgvc13/papers
+- https://sites.google.com/view/fgvc13/organizers
+- https://sites.google.com/view/fgvc12
+- https://sites.google.com/view/fgvc12/submission
+- https://portal.core.edu.au/conf-ranks/?search=FGVC&by=all&source=ICORE2026
+unverified:
+- FGVC14 (expected with CVPR 2027 in June 2027) not announced yet
+last_verified: 2026-10-17

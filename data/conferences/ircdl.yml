@@ -1,0 +1,71 @@
+id: ircdl
+name: IRCDL
+full_name: Conference on Information and Research Science Connecting to Digital and Library Science
+type: conference
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Italian digital libraries research community (steering committee from University of Padua, University of Bari, University of Udine and ISTI-CNR)
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [11, 12]
+  conference_months: [2]
+links:
+  website: https://ircdl.dei.unipd.it/
+notes:
+- Formerly the Italian Research Conference on Digital Libraries; held annually in Italy since 2005, launched with the
+  EU DELOS network and the University of Padua
+- Proceedings in CEUR Workshop Proceedings (open access, indexed by Scopus and DBLP); 2026 is CEUR-WS Vol-4240
+- Two tracks, Computer Science Foundations for Digital Libraries and Digital Humanities
+- Research papers 10 to 12 pages, short papers 6 to 7 pages, extended abstracts 5 pages, CEURART single-column
+  format, single-blind review
+- Best papers are invited to extended versions in special issues of the International Journal on Digital Libraries
+  and Umanistica Digitale
+- In-person only; recent editions in Bressanone (2024), Udine (2025), Modena (2026) and Pisa (2027)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  label: 22nd IRCDL
+  start: 2026-02-19
+  end: 2026-02-20
+  location: Modena, Italy (University of Modena and Reggio Emilia)
+  url: https://ircdl2026.unimore.it/
+  deadlines:
+  - kind: submission
+    date: 2025-11-28
+    label: Papers (original deadline in the call for papers)
+  - kind: notification
+    date: 2026-01-23
+- year: 2027
+  label: 23rd IRCDL
+  start: 2027-02-25
+  end: 2027-02-26
+  location: Pisa, Italy (ISTI-CNR)
+  url: https://ircdl2027.isti.cnr.it/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-12-04
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-01-15
+  - kind: camera_ready
+    date: 2027-02-05
+sources:
+- https://ircdl.dei.unipd.it/
+- https://ircdl2026.unimore.it/
+- https://mailman.srv.cs.cmu.edu/pipermail/connectionists/2025-November/043744.html
+- https://ircdl2027.isti.cnr.it/
+- https://ceur-ws.org/Vol-4240/
+- https://portal.core.edu.au/conf-ranks/?search=IRCDL&by=all&source=ICORE2026
+unverified:
+- IRCDL 2027 important dates are labeled tentative on the official site
+- Acceptance rate and registration fees not checked
+- IRCDL 2026 deadline extension and final camera-ready date not confirmed (2026 site unreachable on 2026-10-19; the organizers' call for papers lists submission Nov 28, 2025 and camera-ready Feb 6, 2026)
+last_verified: 2026-10-17

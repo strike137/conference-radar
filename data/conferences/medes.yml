@@ -1,0 +1,78 @@
+id: medes
+name: MEDES
+full_name: International Conference on Management of Digital EcoSystems
+type: conference
+tier: minor
+areas: [data, software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGAPP French Chapter (SIGAPP.FR), with a local host (Universidade da Coruña, Laboratorio de Bases de Datos in 2026)
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [7, 9]
+  conference_months: [11]
+links:
+  website: https://conferences.sigappfr.org/medes2026/
+notes:
+- Run by the French chapter of ACM SIGAPP (association SIGAPP.FR) in collaboration with ACM SIGAPP; 18th edition in 2026
+- Proceedings in Springer CCIS; camera-ready is due after the conference, so the volume appears as post-proceedings
+- Submissions up to 15 pages, at least 3 reviewers, with a rebuttal step before the final decision
+- Main deadline is usually July and has been extended to September in 2025 and 2026
+- Venue moves each year, mostly around the Mediterranean (Hammamet 2021, Venice 2022, Crete 2023, Naples 2024, Ho Chi Minh City 2025, A Coruña 2026)
+- "Registration fee: 650 EUR (2026, regular)"
+- Online attendance possible for authors who cannot travel
+- Not on the CCF list
+editions:
+- year: 2025
+  start: 2025-11-24
+  end: 2025-11-26
+  location: Ho Chi Minh City, Vietnam
+  url: https://conferences.sigappfr.org/medes2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-05
+    label: Regular papers (extended from 2025-07-15)
+  - kind: notification
+    date: 2025-09-25
+  - kind: camera_ready
+    date: 2026-01-15
+- year: 2026
+  start: 2026-11-23
+  end: 2026-11-25
+  location: A Coruña, Spain
+  url: https://conferences.sigappfr.org/medes2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+    time: "23:59"
+    tz: AoE
+    label: Regular papers (extended from 2026-07-15)
+  - kind: notification
+    date: 2026-10-20
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-10-25
+    time: "23:59"
+    tz: AoE
+    label: Author registration
+  - kind: camera_ready
+    date: 2027-02-02
+    time: "23:59"
+    tz: AoE
+sources:
+- https://conferences.sigappfr.org/medes2026/
+- https://conferences.sigappfr.org/medes2026/important-dates/
+- https://conferences.sigappfr.org/medes2026/call-for-papers/
+- https://conferences.sigappfr.org/medes2026/registration-fees/
+- https://conferences.sigappfr.org/medes2025/
+- https://conferences.sigappfr.org/medes2025/important-dates/
+- https://portal.core.edu.au/conf-ranks/?search=MEDES&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The 2026 important dates page gives the extended submission deadline as 2026-09-04, while the home page and call for papers say 2026-09-15; the later date is used

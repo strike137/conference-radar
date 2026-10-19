@@ -1,0 +1,68 @@
+id: eurocg
+name: EuroCG
+full_name: European Workshop on Computational Geometry
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: Local organizers, as an event of the Computational Geometry Society
+organizer_country: [international]
+proceedings: Booklet of extended abstracts on the workshop website (no ISBN, preprints only)
+archival: false
+rank:
+  core: C
+typical:
+  deadline_months: [1]
+  conference_months: [3, 4]
+links:
+  website: https://www.eurocg.org/
+notes:
+- Annual European workshop on computational geometry since 1983, held in a different European city each year
+  (Barcelona 2023, Ioannina 2024, Liblice 2025, Hagen 2026, Norrkoping 2027, Passau 2028)
+- Non-competitive forum with an informal atmosphere; all original, correct, well-presented and in-scope submissions are accepted
+- Non-archival; the booklet of abstracts is a collection of preprints and results are expected to appear in other venues
+- Extended abstracts of at most 175 lines in a LIPIcs-based class; previously published work may be submitted
+- Selected papers invited to a special issue of Computing in Geometry and Topology (2026)
+- 95 contributions accepted in 2026
+- Best student presentation award
+- Only CG Society members may register; fee 215 EUR regular and 165 EUR student, early (2026)
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-03-25
+  end: 2026-03-27
+  location: Hagen, Germany (FernUniversitat in Hagen)
+  url: https://eurocg26.fernuni-hagen.de/
+  deadlines:
+  - kind: submission
+    date: 2026-01-13
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-02-24
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-10
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-04-07
+  end: 2027-04-09
+  location: Norrkoping, Sweden (Linkoping University)
+  url: https://eurocg2027.on.liu.se/
+sources:
+- https://www.eurocg.org/
+- https://eurocg26.fernuni-hagen.de/
+- https://eurocg26.fernuni-hagen.de/call-for-contributions.html
+- https://eurocg26.fernuni-hagen.de/registration.html
+- https://eurocg2027.on.liu.se/
+- https://eurocg2027.on.liu.se/call-for-contribution
+- https://portal.core.edu.au/conf-ranks/?search=EuroCG&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- EuroCG 2027 deadlines are TBA on the official site as of 2026-10-17
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn not checked directly)

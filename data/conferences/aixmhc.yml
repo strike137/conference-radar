@@ -1,0 +1,79 @@
+id: aixmhc
+name: AIxMHC
+full_name: International Conference on Artificial Intelligence for Medicine, Health, and Care
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AIx conference series led by Phillip Sheu (UC Irvine); 2025 edition hosted by Asia University, Taiwan
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8, 9, 10]
+links:
+  website: https://www.aixmhc.org/
+notes:
+- One of the AIx conferences that replaced ai4i (AI for Industries) and TransAI in 2024; usually co-located with sibling AIx venues
+- Held in Laguna Hills, California (2024, 2027), Taichung, Taiwan (2025) and a Summer Edition in Nagano, Japan (2026)
+- Proceedings submitted to IEEE Xplore (published by the IEEE Computer Society Press in 2025)
+- Regular papers 6 pages, short 4, position 2, in IEEE double-column format; at least three reviewers per paper
+- Hybrid format with remote presentation allowed
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: AIxMHC 2026 Summer Edition
+  start: 2026-08-18
+  end: 2026-08-19
+  location: Nagano, Japan
+  url: https://www.aixsummer.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    tz: PDT
+    label: Paper submission (extended from June 1)
+  - kind: notification
+    date: 2026-07-15
+    tz: PDT
+  - kind: camera_ready
+    date: 2026-08-21
+    tz: PDT
+- year: 2027
+  start: 2027-09-27
+  end: 2027-09-29
+  location: Laguna Hills, California, USA
+  url: https://www.aixmhc.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-06-10
+    tz: PDT
+  - kind: notification
+    date: 2027-07-20
+    tz: PDT
+  - kind: other
+    date: 2027-07-30
+    tz: PDT
+    label: Workshop paper and poster abstract submission
+  - kind: camera_ready
+    date: 2027-08-21
+    tz: PDT
+sources:
+- https://www.aixmhc.org/
+- https://www.aixmhc.org/dates
+- https://www.aixmhc.org/history
+- https://www.aixmhc.org/submission
+- https://www.aixmhc.org/committees
+- https://www.aixsummer.org/
+- https://www.aixsummer.org/dates
+- https://chaoneng.github.io/aixmhc2025.github.io/
+- https://chaoneng.github.io/aixmhc2025.github.io/about.html
+- https://portal.core.edu.au/conf-ranks/?search=AIxMHC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The official history page lists AIxMHC 2026 with the Taichung 2025 dates (apparent copy error); a 2026 main edition in Laguna Hills could not be confirmed
+- 2026 Summer Edition site says the submission site stayed open until July 8 PT
+- Whether the 2026 Summer Edition proceedings have appeared in IEEE Xplore

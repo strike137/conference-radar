@@ -1,0 +1,78 @@
+id: abaw
+name: ABAW
+full_name: Workshop and Competition on Affective and Behavior Analysis in-the-wild
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Workshop organizing committee led by Dimitrios Kollias (Queen Mary University of London), with organizers
+  from Imperial College London, ETS Montreal, Concordia University, Hume AI and others; co-located with CVPR, ICCV or
+  ECCV
+organizer_country: [europe, canada]
+proceedings: Host conference workshop proceedings (CVPR, ICCV or ECCV)
+archival: true
+typical:
+  deadline_months: [3, 7]
+  conference_months: [6, 9, 10]
+links:
+  website: https://affective-behavior-analysis-in-the-wild.github.io/11th/
+notes:
+- Workshop plus competition on affect recognition in the wild (valence-arousal, expression, action units,
+  ambivalence/hesitancy)
+- Often held twice a year, with CVPR and with ICCV or ECCV (CVPR 2025 and ICCV 2025, CVPR 2026 and ECCV 2026)
+- Accepted workshop and challenge papers appear in the host conference workshop proceedings
+- Double-blind review in the host conference format; top-3 teams of each challenge must submit a paper
+- Deadlines are AoE
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 10th edition, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA
+  url: https://affective-behavior-analysis-in-the-wild.github.io/10th/
+  deadlines:
+  - kind: other
+    date: 2026-03-15
+    time: "23:59"
+    tz: AoE
+    label: Competition final submission (predictions, code, arXiv paper)
+  - kind: submission
+    date: 2026-03-19
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-07
+  - kind: camera_ready
+    date: 2026-04-10
+- year: 2026
+  label: 11th edition, with ECCV 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo, Sweden
+  url: https://affective-behavior-analysis-in-the-wild.github.io/11th/
+  deadlines:
+  - kind: other
+    date: 2026-07-16
+    time: "23:59"
+    tz: AoE
+    label: Competition final submission (predictions, code, arXiv paper)
+  - kind: submission
+    date: 2026-07-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-08-10
+  - kind: camera_ready
+    date: 2026-08-15
+sources:
+- https://affective-behavior-analysis-in-the-wild.github.io/11th/
+- https://affective-behavior-analysis-in-the-wild.github.io/10th/
+- https://affective-behavior-analysis-in-the-wild.github.io/9th/
+- https://portal.core.edu.au/conf-ranks/?search=ABAW&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Which digital library hosts the host conference workshop proceedings is not stated on the ABAW pages
+- Next edition (12th ABAW, likely with CVPR 2027) not announced yet

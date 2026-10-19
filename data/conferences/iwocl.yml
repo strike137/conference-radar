@@ -1,0 +1,56 @@
+id: iwocl
+name: IWOCL
+full_name: International Workshop on OpenCL and SYCL
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: The Khronos Group
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [4, 5]
+links:
+  website: https://www.iwocl.org/
+notes:
+- Standalone annual workshop on the Khronos OpenCL and SYCL heterogeneous programming standards, run since 2013
+- Organized by The Khronos Group with academic and industry chairs; mixes researchers, implementers and vendors
+- Full papers (8 to 12 pages), short papers (3 to 4 pages) and poster abstracts appear in the ACM Digital Library proceedings
+- Technical talks are reviewed from a 500 to 1,000 word abstract and are not included in the ACM DL
+- In-person presentation and registration required for inclusion in the proceedings
+- Held in Heidelberg 2025 and Heilbronn (hosted by TUM) 2026
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-06
+  end: 2026-05-08
+  location: Heilbronn, Germany
+  url: https://www.iwocl.org/
+  deadlines:
+  - kind: submission
+    date: 2026-01-25
+    time: "23:59"
+    tz: AoE
+    label: All submission types (extended from January 18)
+  - kind: notification
+    date: 2026-03-02
+    label: Week of
+  - kind: camera_ready
+    date: 2026-04-03
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.iwocl.org/
+- https://www.iwocl.org/call-for-submissions/
+- https://www.iwocl.org/iwocl-2025/conference-program/
+- https://www.iwocl.org/iwocl-2024/program/
+- https://portal.core.edu.au/conf-ranks/?search=IWOCL&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- IWOCL 2027 not announced yet
+- Locations of the 2021 to 2024 editions not confirmed on the official site
+- CCF 2026 list could not be loaded from ccf.org.cn and the venue is not in the ccfddl mirror; rank.ccf left out
+last_verified: 2026-10-17

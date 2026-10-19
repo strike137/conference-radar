@@ -1,0 +1,62 @@
+id: scp
+name: SCP
+full_name: Conference on Sociotechnical Cybersecurity and Privacy
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: SCP steering committee; 2026 hosted by University of Luxembourg (SnT)
+organizer_country: [europe]
+proceedings: IEEE CPS (Conference Publishing Services)
+archival: true
+fee: 400 EUR early, 450 EUR late (2026)
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://scpconf.eu/
+notes:
+- New conference formed by merging EuroUSEC (European Symposium on Usable Security) and STAST (Workshop on Socio-Technical Aspects in Security); first edition 2026
+- Usable security and privacy, human factors and socio-technical security; SoK, replication and negative-result papers welcome
+- Full papers 8 to 12 pages in IEEE format, double-anonymous review by at least two PC members, possible shepherding
+- Mandatory abstract registration about a week before the paper deadline; deadlines 23:59 AoE
+- Accepted papers published by IEEE Conference Publishing Services (CPS); at least one author must register and present
+- 2026 held at the University of Luxembourg Belval campus, Esch-sur-Alzette
+- Not found in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-09-02
+  end: 2026-09-03
+  location: University of Luxembourg, Belval, Esch-sur-Alzette, Luxembourg
+  url: https://scpconf.eu/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-27
+    time: "23:59"
+    tz: AoE
+    label: Mandatory abstract registration (extended from May 20)
+  - kind: submission
+    date: 2026-06-01
+    time: "23:59"
+    tz: AoE
+    label: Extended from May 25
+  - kind: notification
+    date: 2026-07-07
+    label: Extended from Jun 25
+  - kind: camera_ready
+    date: 2026-08-03
+    label: Extended from Jul 27
+sources:
+- https://scpconf.eu/
+- https://scpconf.eu/calls.html
+- https://scpconf.eu/submission.html
+- https://scpconf.eu/committee.html
+- https://scpconf.eu/attend.html
+- https://scpconf.eu/program.html
+- https://portal.core.edu.au/conf-ranks/?search=SCP&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- SCP 2027 not yet announced (checked 2026-10-17); region and typical months based on the single 2026 edition
+- The site names IEEE CPS as publisher but does not say whether the proceedings will appear in IEEE Xplore

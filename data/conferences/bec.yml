@@ -1,0 +1,51 @@
+id: bec
+name: BEC
+full_name: Baltic Electronics Conference
+type: conference
+tier: minor
+areas: [communications, systems]
+region: europe
+language: english
+frequency: biennial
+organizer: Tallinn University of Technology (TalTech)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10]
+links:
+  website: https://taltech.ee/en/bec2026
+notes:
+- Biennial electronics conference (even years) organized by TalTech, which has hosted it in Tallinn, Estonia since 1996
+- 2026 was the 20th edition
+- "Tracks: communication and cognitive systems, embedded and cyber-physical systems, power electronics, sensing and
+  signal processing, bioinstrumentation, cybersecurity"
+- Four to six page full papers in IEEE format via EasyChair; four pages included in the registration fee
+- Papers go to IEEE Xplore only if the presenting author registers and attends (no-show papers are removed)
+- Free registrations and mentoring for PhD students in 2026
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-06
+  end: 2026-10-08
+  location: Tallinn, Estonia
+  url: https://taltech.ee/en/bec2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-03
+    label: Full papers (extended from May 25)
+  - kind: notification
+    date: 2026-07-07
+    label: Planned Jun 20, then Jul 5; sent Jul 7
+  - kind: camera_ready
+    date: 2026-08-31
+sources:
+- https://taltech.ee/en/bec2026
+- https://taltech.ee/en/bec2024
+- https://taltech.ee/en/bec2022
+- https://portal.core.edu.au/conf-ranks/?search=Baltic+Electronics&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- BEC 2028 announced on the 2026 page but no dates yet
+- Registration fee not recorded (fee table not shown in page text)

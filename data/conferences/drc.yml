@@ -1,0 +1,65 @@
+id: drc
+name: DRC
+full_name: Device Research Conference
+type: conference
+tier: major
+areas: [communications, general]
+region: north-america
+language: english
+frequency: annual
+organizer: DRC Organizing Committee (with IEEE Electron Devices Society)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://www.deviceresearchconference.org/
+notes:
+- Longest-running device research meeting; 84th edition in 2026
+- Held every June on a US university campus (2021 Santa Barbara, 2022 Columbus, 2023 Santa Barbara, 2024 College Park, 2025 Durham, 2026 Ann Arbor)
+- Submission is a 2-page abstract (one page of text, one page of figures) that is published as submitted; the abstract is the sole basis for acceptance
+- Authors choose whether their abstract goes into IEEE Xplore; papers are published only if an author registers and presents in person
+- Late News submissions accepted with a later deadline
+- "Registration 2026: USD 600 IEEE member, 700 non-member, 350 student (before May 15)"
+- Not ranked by CORE or CCF, whose lists cover computing venues
+editions:
+- year: 2026
+  start: 2026-06-21
+  end: 2026-06-24
+  location: University of Michigan, Ann Arbor, MI, USA
+  url: https://www.deviceresearchconference.org/2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-01
+    label: Abstract
+  - kind: notification
+    date: 2026-04-05
+  - kind: submission
+    date: 2026-05-15
+    label: Late News
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Final paper and author registration
+  - kind: notification
+    date: 2026-05-25
+    label: Acceptance notification (listed after the Late News deadline)
+sources:
+- https://www.deviceresearchconference.org/
+- https://www.deviceresearchconference.org/2026/authors/initial-author-instructions
+- https://www.deviceresearchconference.org/2026/authors/final-paper-submission-instructions
+- https://www.deviceresearchconference.org/2026/registration/registration
+- https://deviceresearchconference.org/2026/events/abstract-submission-deadline
+- https://deviceresearchconference.org/2026/events/author-notification
+- https://deviceresearchconference.org/2026/events/late-news-deadline
+- https://deviceresearchconference.org/2026/events/acceptance-notification
+- https://api.crossref.org/works?query.container-title=Device+Research+Conference
+- https://portal.core.edu.au/conf-ranks/?search=DRC&by=all&source=ICORE2026
+unverified:
+- Formal sponsor not stated on the 2026 site; IEEE Electron Devices Society is only listed as an affiliate
+- Deadline times and time zones not stated
+- Whether the May 25 acceptance notification applies only to Late News papers
+- Past locations taken from the IEEE Xplore and Crossref proceedings records
+- DRC 2027 not announced yet
+last_verified: 2026-10-17

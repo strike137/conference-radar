@@ -1,0 +1,65 @@
+id: ectc
+name: IEEE ECTC
+full_name: IEEE Electronic Components and Technology Conference
+type: conference
+tier: major
+areas: [communications, general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Electronics Packaging Society (EPS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [5, 6]
+links:
+  website: https://www.ectc.net/
+notes:
+- Premier conference on electronic packaging, components and microelectronic systems; sponsored by the IEEE Electronics Packaging Society; 77th edition in 2027
+- Held every late May or early June in the United States (2022 San Diego, 2023 Orlando, 2024 Denver, 2025 Dallas, 2026 Orlando, 2027 Denver)
+- Selection is based on an abstract; accepted authors then submit a 4 to 8 page manuscript that is reviewed before inclusion in the proceedings
+- Papers must be presented by a co-author to appear in the proceedings
+- Large and industry-heavy (2026 had 918 abstract submissions, 420 technical papers and 2,730 attendees from 29 countries) with an exhibition and professional development courses
+- Not ranked by CORE or CCF, whose lists cover computing venues
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  location: Orlando, FL, USA
+  url: https://ectc.net/76th-ectc-highlights/
+- year: 2027
+  start: 2027-06-01
+  end: 2027-06-04
+  location: Gaylord Rockies Resort and Convention Center, Denver, CO, USA
+  url: https://www.ectc.net/
+  deadlines:
+  - kind: other
+    date: 2026-08-28
+    label: Special session proposals
+  - kind: abstract
+    date: 2026-10-12
+    label: Extended from 2026-10-05
+  - kind: other
+    date: 2026-10-19
+    label: Professional development course proposals
+  - kind: notification
+    date: 2026-12-07
+  - kind: submission
+    date: 2027-02-19
+    label: Full manuscript for review
+sources:
+- https://www.ectc.net/
+- https://ectc.net/about/
+- https://ectc.net/calendar/
+- https://ectc.net/authors/
+- https://ectc.net/wp-content/uploads/2026/08/77thCallforPapers-Web1.pdf
+- https://ectc.net/76th-ectc-highlights/
+- https://api.crossref.org/works?query.container-title=Electronic+Components+and+Technology+Conference
+- https://portal.core.edu.au/conf-ranks/?search=ECTC&by=all&source=ICORE2026
+unverified:
+- ECTC 2026 dates and location taken from the Crossref record of the IEEE proceedings and press items on the official highlights page
+- IEEE Xplore publication taken from the "ECTC IEEE Xplore" link on the official about page and the Crossref records; the call for papers only says Conference Proceedings
+- Deadline times and time zones not stated
+last_verified: 2026-10-17

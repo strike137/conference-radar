@@ -1,0 +1,69 @@
+id: desires
+name: DESIRES
+full_name: International Conference on Design of Experimental Search and Information REtrieval Systems
+type: conference
+tier: minor
+areas: [data, nlp, ai]
+region: europe
+language: english
+frequency: irregular
+organizer: DESIRES steering committee (founded at the University of Padua); 2027 hosted by GESIS Leibniz Institute
+  for the Social Sciences
+organizer_country: [europe]
+proceedings: Information Retrieval Research Journal (IRRJ) special issue as post-proceedings (from 2027); CEUR-WS
+  up to 2024
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://desires-conf.org/
+notes:
+- Small single-track IR systems conference for visionary ideas, prototypes and position statements; part of the
+  ACM SIGIR Friends of SIGIR program
+- From 2027 contributions are 2 to 5 page abstracts reviewed on novelty and potential; abstracts go to participants
+  only
+- Authors of accepted abstracts are invited to submit full papers to an IRRJ special issue (post-proceedings) after
+  a light second review
+- Each author may present only one accepted paper
+- Earlier editions (up to 2024) published full papers, prototypes and abstracts in CEUR Workshop Proceedings
+- "Editions: Bertinoro 2018, Padua 2021, San Jose 2022, Bressanone 2024, Cologne 2027"
+- Not found in the CORE ICORE2026 search and not in the CCF 2026 list
+editions:
+- year: 2024
+  start: 2024-09-02
+  end: 2024-09-04
+  location: Bressanone-Brixen, Italy
+  url: https://desires-conf.org/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-06-10
+    tz: AoE
+    label: Extended from June 1
+  - kind: notification
+    date: 2024-07-16
+- year: 2027
+  start: 2027-03-17
+  end: 2027-03-19
+  location: Cologne, Germany
+  url: https://desires-conf.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-17
+    tz: AoE
+  - kind: notification
+    date: 2027-01-18
+    tz: AoE
+  - kind: other
+    date: 2027-05-31
+    tz: AoE
+    label: Optional full paper to IRRJ post-proceedings
+sources:
+- https://desires-conf.org/
+- https://desires-conf.org/2027/
+- https://desires-conf.org/2024/
+- https://desires-conf.org/legal.html
+- https://portal.core.edu.au/conf-ranks/?search=DESIRES&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- CEUR-WS volume number for DESIRES 2024 not found

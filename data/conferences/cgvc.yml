@@ -1,0 +1,66 @@
+id: cgvc
+name: CGVC
+full_name: Computer Graphics and Visual Computing Conference
+type: conference
+tier: minor
+areas: [vision, general]
+region: europe
+language: english
+frequency: annual
+organizer: Eurographics UK Chapter, with a rotating host university
+organizer_country: [europe]
+proceedings: Eurographics Digital Library
+archival: true
+typical:
+  deadline_months: [3, 6]
+  conference_months: [6, 9]
+links:
+  website: https://cgvc.org.uk/
+notes:
+- Annual UK computer graphics, visualization and visual computing conference run by the Eurographics UK Chapter; Eurographics supported since the first edition in 1983 (44th edition in 2026)
+- Papers are published in the Eurographics Digital Library after expert review
+- Full papers 4 to 8 pages plus references, short papers up to 4 pages, posters as 2-page extended abstracts
+- Authors choose single- or double-blind review
+- Held at a different UK university each year (Aberystwyth 2023, City London 2024, Liverpool John Moores 2025, Nottingham 2026)
+- Usually in September; the 2026 edition moved to June to co-locate with EuroVis in Nottingham
+- Not listed in the ICORE2026 portal and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-09-11
+  end: 2025-09-12
+  location: Liverpool, United Kingdom (Liverpool John Moores University)
+  url: https://cgvc.org.uk/CGVC2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+  - kind: notification
+    date: 2025-07-28
+  - kind: camera_ready
+    date: 2025-08-15
+- year: 2026
+  start: 2026-06-11
+  end: 2026-06-12
+  location: Nottingham, United Kingdom (University of Nottingham, co-located with EuroVis 2026)
+  url: https://cgvc.org.uk/CGVC2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-29
+    label: Papers and posters (extended from 2026-03-01)
+  - kind: notification
+    date: 2026-04-23
+  - kind: camera_ready
+    date: 2026-04-29
+sources:
+- https://cgvc.org.uk/
+- https://cgvc.org.uk/about
+- https://cgvc.org.uk/past
+- https://cgvc.org.uk/CGVC2026/
+- https://cgvc.org.uk/CGVC2026/dates
+- https://cgvc.org.uk/CGVC2026/cfp
+- https://cgvc.org.uk/CGVC2026/submission
+- https://cgvc.org.uk/CGVC2025/dates
+- https://portal.core.edu.au/conf-ranks/?search=CGVC&by=all&source=ICORE2026
+unverified:
+- CGVC 2027 host and dates not yet announced
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-10-17

@@ -1,0 +1,72 @@
+id: eai-icast
+name: EAI ICAST
+full_name: EAI International Conference on Advancements of Science and Technology
+type: conference
+tier: minor
+areas: [ai, networking, communications, general]
+region: africa
+language: english
+frequency: annual
+organizer: EAI (European Alliance for Innovation) with Bahir Dar Institute of Technology, Bahir Dar University
+organizer_country: [europe, other]
+proceedings: Springer EAI/Springer Innovations in Communication and Computing (SICC)
+archival: true
+indexing: [Scopus, Compendex, zbMATH]
+typical:
+  deadline_months: [5]
+  conference_months: [10, 11]
+links:
+  website: https://icast-conf.eai-conferences.org/
+notes:
+- Broad science and engineering conference with seven tracks; only Track 1 (AI and machine learning) and Track 2 (industrial automation, networking and communication systems) are EECS
+- Track 1 and 2 papers go to the Springer EAI SICC book series; Tracks 3 to 7 (manufacturing, materials, energy, infrastructure) go to Springer Green Energy and Technology
+- Hosted by Bahir Dar Institute of Technology and held every year in Bahir Dar, Ethiopia; 2026 edition was hybrid and the 14th
+- Full papers 12 to 20 pages in Springer format; submission via Confy+
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-07
+  end: 2025-11-09
+  location: Bahir Dar, Ethiopia
+  url: https://icast-conf.eai-conferences.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-22
+    label: Main track
+  - kind: notification
+    date: 2025-07-30
+    label: Main track
+  - kind: submission
+    date: 2025-07-25
+    label: Late track
+  - kind: notification
+    date: 2025-08-15
+    label: Late track
+  - kind: camera_ready
+    date: 2025-09-20
+- year: 2026
+  start: 2026-10-02
+  end: 2026-10-04
+  location: Bahir Dar, Ethiopia (hybrid)
+  url: https://icast-conf.eai-conferences.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-20
+    label: Track 1
+  - kind: submission
+    date: 2026-05-31
+    label: Tracks 2 to 7
+  - kind: notification
+    date: 2026-07-02
+  - kind: camera_ready
+    date: 2026-09-12
+sources:
+- https://icast-conf.eai-conferences.org/2026/
+- https://icast-conf.eai-conferences.org/2026/organizing-committee/
+- https://icast-conf.eai-conferences.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=ICAST&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2026 camera-ready deadline is 30 July 2026 in the top deadline box but 12 September 2026 in the key deadlines list and camera-ready instructions; 12 September is used
+- No 2027 edition announced yet; the root site still redirects to the 2025 page
+- CCF 2026 list not checked directly on ccf.org.cn

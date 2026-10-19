@@ -1,0 +1,53 @@
+id: cores
+name: CORES
+full_name: International Conference on Computer Recognition Systems
+type: conference
+tier: minor
+areas: [ai, vision]
+region: europe
+language: english
+frequency: biennial
+organizer: Department of Systems and Computer Networks, Wroclaw University of Science and Technology (WUST)
+organizer_country: [europe]
+proceedings: Springer LNNS (Lecture Notes in Networks and Systems)
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [5]
+links:
+  website: https://cores.pwr.edu.pl/
+notes:
+- Long-running Polish pattern recognition conference run by the Department of Systems and Computer Networks at Wroclaw
+  University of Science and Technology; 14th edition in 2025
+- Proceedings in Springer Lecture Notes in Networks and Systems; the 2023 volume was shared with the IP&C conference
+  (Progress on Pattern Classification, Image Processing and Communications)
+- Full papers in English in Springer LNCS format, about 8 to 10 pages; each paper is reviewed by two referees via
+  Microsoft CMT
+- Small single-track event; the 2025 edition was held online on May 21-23
+- Topics cover statistical and structural pattern recognition, image processing, machine learning, data mining and
+  decision support
+editions:
+- year: 2025
+  start: 2025-05-21
+  end: 2025-05-23
+  location: Online
+  url: https://cores.pwr.edu.pl/
+  deadlines:
+  - kind: submission
+    date: 2025-04-02
+    label: Paper submission (extended from 2025-03-03)
+  - kind: notification
+    date: 2025-04-16
+  - kind: camera_ready
+    date: 2025-04-30
+sources:
+- https://cores.pwr.edu.pl/
+- https://cores.pwr.edu.pl/submissions/
+- https://cores.pwr.edu.pl/authors/
+- https://cores.pwr.edu.pl/programme/
+- https://link.springer.com/book/10.1007/978-3-031-41630-9
+last_verified: 2026-10-17
+unverified:
+- No 2027 edition announced yet; the official site still shows CORES'25
+- Biennial rhythm inferred from the 2023 and 2025 editions; not stated on the site
+- Not listed in the ICORE2026 CORE portal or the CCF list

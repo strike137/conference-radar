@@ -1,0 +1,53 @@
+id: cdl
+name: CDL
+full_name: Workshop on Computational Developmental Linguistics
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+organizer: Workshop organizing committee from University of Michigan, Carnegie Mellon University, ENS, Google DeepMind,
+  UC San Diego, Saarland University, University of Cambridge and University of Waterloo; co-located with ACL 2026
+organizer_country: [usa, europe, canada]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://comp-dev-ling.github.io/
+notes:
+- Workshop on computational modeling of language acquisition and change, comparing language models with human language
+  learners
+- First edition held with ACL 2026 in San Diego on 2026-07-04
+- Short (4 pages) and full (8 pages) papers in ACL format via OpenReview; ARR commitments also accepted
+- Optionally archival; archival papers in the ACL Anthology (10 papers in 2026), other accepted papers non-archival
+- Interdisciplinary audience (machine learning, computational linguistics, cognitive science, developmental psychology)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 1st edition, with ACL 2026
+  start: 2026-07-04
+  end: 2026-07-04
+  location: San Diego, California, USA
+  url: https://comp-dev-ling.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-20
+    tz: AoE
+  - kind: notification
+    date: 2026-05-07
+    tz: AoE
+    label: Postponed from 2026-05-01
+  - kind: camera_ready
+    date: 2026-05-21
+    tz: AoE
+    label: Postponed from 2026-05-15
+sources:
+- https://comp-dev-ling.github.io/
+- https://aclanthology.org/volumes/2026.cdl-1/
+- https://portal.core.edu.au/conf-ranks/?search=CDL&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Only one edition so far; frequency and a 2027 edition not announced
+- ARR commitment deadline not stated on the workshop page

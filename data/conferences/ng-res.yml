@@ -1,0 +1,71 @@
+id: ng-res
+name: NG-RES
+full_name: Workshop on Next Generation Real-Time Embedded Systems (NG-RES)
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: europe
+language: english
+frequency: annual
+organizer: NG-RES organizers (co-located with HiPEAC); chairs from Politecnico di Milano, CISTER (ISEP) and Halmstad University
+organizer_country: [europe]
+proceedings: Dagstuhl OASIcs
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [1]
+links:
+  website: https://ng-res.deib.polimi.it/
+notes:
+- One-day workshop co-located with the HiPEAC conference every year since 2020 (Bologna 2020, Toulouse 2023, Munich 2024,
+  Barcelona 2025, Krakow 2026, Glasgow 2027)
+- Real-time embedded systems with a focus on distributed and parallel aspects, bringing together the networking and
+  multicore real-time communities
+- Accepted papers are published open access in the Dagstuhl OpenAccess Series in Informatics (OASIcs), for example
+  OASIcs volume 140 for NG-RES 2026
+- 'Papers: up to 10 pages in single-column Dagstuhl format (plus bibliography and an optional 5-page appendix),
+  single-blind review via EasyChair'
+- Deadlines are often extended by one or two weeks
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-01-28
+  end: 2026-01-28
+  location: Krakow, Poland
+  url: https://ng-res.deib.polimi.it/past-editions/2026/index.php
+  deadlines:
+  - kind: submission
+    date: 2025-12-01
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from Nov 18)
+  - kind: notification
+    date: 2025-12-17
+  - kind: camera_ready
+    date: 2025-12-31
+- year: 2027
+  start: 2027-01-20
+  end: 2027-01-20
+  location: Glasgow, UK
+  url: https://ng-res.deib.polimi.it/
+  deadlines:
+  - kind: submission
+    date: 2026-11-15
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-12-17
+  - kind: camera_ready
+    date: 2026-12-31
+sources:
+- https://ng-res.deib.polimi.it/
+- https://ng-res.deib.polimi.it/cfp.php
+- https://ng-res.deib.polimi.it/organizers.php
+- https://ng-res.deib.polimi.it/past-editions/2026/index.php
+- https://ng-res.deib.polimi.it/past-editions/2026/cfp.php
+- https://ng-res.deib.polimi.it/past-editions/2025/index.php
+- https://drops.dagstuhl.de/search?term=NG-RES
+- https://portal.core.edu.au/conf-ranks/?search=NG-RES&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not published
+last_verified: 2026-10-17

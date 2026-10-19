@@ -1,0 +1,57 @@
+id: bsides-tallinn
+name: BSides Tallinn
+full_name: Security BSides Tallinn
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: MTÜ BSides Tallinn (non-profit, volunteer core team)
+organizer_country: [europe]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://tallinn.bsides.ee/
+notes:
+- Estonian infosec community BSides event, organized by the non-profit MTÜ BSides Tallinn since 2021
+- Talks proposed through an open CFP on pretalx and selected by a program committee from industry, academia and the state
+- One conference day with two parallel stages and a hands-on village, plus a workshop day before it; held at T1 Mall, Tallinn in 2025 and 2026
+- 2026 drew about 600 participants, 21 speakers and workshop organizers; talks are recorded and posted on YouTube
+- Tickets in 2027 early bird are 85 EUR (community) and 250 EUR (business); student tickets are offered
+- For 2027 the CFP opens on 2027-05-01
+- No proceedings
+editions:
+- year: 2026
+  start: 2026-09-24
+  end: 2026-09-25
+  location: T1 Mall, Tallinn, Estonia
+  url: https://tallinn.bsides.ee/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    time: "23:59"
+    tz: EEST
+    label: CFP (talks and workshops)
+  - kind: notification
+    date: 2026-08-07
+    label: Speakers announced
+- year: 2027
+  start: 2027-09-23
+  end: 2027-09-23
+  location: Tallinn, Estonia
+  url: https://tallinn.bsides.ee/
+sources:
+- https://tallinn.bsides.ee/
+- https://tallinn.bsides.ee/2026/
+- https://tallinn.bsides.ee/2025/
+- https://pretalx.com/bsides-tallinn-2026/schedule/
+- https://pretalx.com/bsides-tallinn-2026/cfp
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2027 CFP closing date not yet announced (CFP opens 2027-05-01)
+- 2027 venue and whether a separate workshop day is held

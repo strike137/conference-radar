@@ -1,0 +1,66 @@
+id: svm
+name: SVM
+full_name: International Workshop on Software Vulnerability Management
+type: workshop
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICSE workshop organizers (Muhammad Ali Babar and Triet Le, University of Adelaide; Joanna C. S. Santos, University of Notre Dame; Andy Meneely, RIT)
+organizer_country: [australia, usa]
+proceedings: ACM DL (2026); IEEE Xplore (2023, 2025)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/track/icse-2026/svm-2026-papers
+notes:
+- Co-located with ICSE; held in Melbourne 2023, Lisbon 2024 (2nd edition, joint EnCyCriS/SVM workshop), Ottawa 2025 and Rio de Janeiro 2026
+- Covers detection, assessment, prioritization, patching and disclosure of software vulnerabilities, including AI/LLM for SVM and supply chain security
+- Research or industry papers up to 8 pages including references, short tool, model or dataset papers up to 5 pages, extended abstracts up to 5 pages as lightning talks
+- Proceedings were in IEEE Xplore for 2023 and 2025 and in the ACM Digital Library for 2026 (ACM Open; short papers pay an APC, extended abstracts do not)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-05-03
+  end: 2025-05-03
+  location: Ottawa, Canada (with ICSE 2025)
+  url: https://conf.researchr.org/track/icse-2025/svm-2025-papers
+  deadlines:
+  - kind: submission
+    date: 2024-11-20
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2024-12-08
+  - kind: camera_ready
+    date: 2025-02-05
+- year: 2026
+  start: 2026-04-18
+  end: 2026-04-18
+  location: Rio de Janeiro, Brazil (with ICSE 2026)
+  url: https://conf.researchr.org/track/icse-2026/svm-2026-papers
+  deadlines:
+  - kind: submission
+    date: 2025-10-27
+    tz: AoE
+  - kind: notification
+    date: 2025-12-08
+  - kind: camera_ready
+    date: 2026-01-26
+sources:
+- https://conf.researchr.org/track/icse-2026/svm-2026-papers
+- https://conf.researchr.org/track/icse-2025/svm-2025-papers
+- https://conf.researchr.org/series/svm
+- https://doi.org/10.1145/3786165
+- https://doi.org/10.1109/svm66695.2025
+- https://doi.org/10.1109/svm59160.2023
+- https://encycris-svm-2024.hotcrp.com/
+- https://portal.core.edu.au/conf-ranks/?search=SVM&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- SVM 2027 not announced yet (ICSE 2027 workshop list has no SVM track so far)
+- The official site svmconf.org could not be reached; data taken from the ICSE track pages
+- CCF 2026 list could not be loaded from ccf.org.cn and the venue is not in the CCF list mirror; rank.ccf left out

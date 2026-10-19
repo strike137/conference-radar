@@ -1,0 +1,55 @@
+id: ieee-cisa
+name: IEEE CISA
+full_name: IEEE Conference on Computational Imaging Using Synthetic Apertures
+type: conference
+tier: minor
+areas: [vision, communications]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE USA with the University of Maryland and the IEEE Synthetic Aperture Standards Committee
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5, 6]
+links:
+  website: https://cisa-conference.org/
+notes:
+- Small annual IEEE conference on computational imaging with synthetic apertures (SAR, sonar, radiometry, Fourier ptychography, tomography, radio astronomy)
+- 2027 is the 4th edition, hosted at the University of Maryland, College Park; 2026 was in Albany, New York
+- Submissions and reviews run through OpenReview
+- Accepted papers must be presented live by an author (lecture or poster); no-shows are not published in IEEE Xplore
+- Low registration fees (2027 advance rate 200 USD for IEEE members, 100 USD for IEEE student members)
+- Imaging and remote sensing venue outside the usual CS rankings, not listed in ICORE2026
+editions:
+- year: 2026
+  location: Albany, New York, USA
+  url: https://openreview.net/group?id=IEEE.org/CISA/2026/Conference
+- year: 2027
+  start: 2027-06-01
+  end: 2027-06-03
+  location: University of Maryland, Iribe Center, College Park, MD, USA
+  url: https://cisa-conference.org/
+  deadlines:
+  - kind: other
+    date: 2026-12-01
+    label: Special session and tutorial proposals
+  - kind: submission
+    date: 2027-01-29
+  - kind: camera_ready
+    date: 2027-05-07
+sources:
+- https://cisa-conference.org/
+- https://cisa-conference.org/__static/jdj5jdewjhnowxdjstjyvm9weeg2mezq/CISA2027_CFP_V2.pdf
+- https://cisa-conference.org/submissions/templates/
+- https://cisa-conference.org/registration/
+- https://openreview.net/group?id=IEEE.org/CISA/2026/Conference
+- https://portal.core.edu.au/conf-ranks/?search=CISA&by=all&source=ICORE2026
+unverified:
+- CISA 2026 dates not checked on the official site (it now shows only 2027); the OpenReview group gives Albany, New York and a start of 2026-05-26
+- 2027 notification date (2027-02-19) and proposal deadline appear only on a draft site linked from the official page, not on cisa-conference.org itself
+- Deadline times and time zones not stated
+- Location of the 2024 edition not checked
+last_verified: 2026-10-17

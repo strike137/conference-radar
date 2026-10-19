@@ -1,0 +1,59 @@
+id: sitb
+name: SITB
+full_name: Symposium on Information Theory and Signal Processing in the Benelux
+type: conference
+tier: minor
+areas: [communications, networking]
+region: europe
+language: english
+frequency: annual
+organizer: WIC (Werkgemeenschap voor Informatie- en Communicatietheorie) and IEEE Benelux Signal Processing Chapter
+organizer_country: [europe]
+proceedings: Online proceedings with ISBN on the WIC website (optional full paper or abstract)
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [5]
+links:
+  website: https://www.w-i-c.org/events.html
+notes:
+- Annual two-day symposium of the WIC, the Benelux community for information and communication theory, held since 1980
+  (46th edition in 2026)
+- Topics cover information theory, coding, wireless and sensor networks, cryptography, signal processing, ML for signal
+  processing, biometrics, IoT and localization
+- Submission is a one-page abstract; each accepted abstract gets an oral or poster presentation
+- On request a full paper or the abstract appears in the online proceedings on the WIC site; authors may opt out, and
+  work under review elsewhere may be submitted, so it works as a non-archival regional forum
+- Hosted by a different Benelux university each year (Brussels 2023, Delft 2024, Boekelo 2025, Ghent 2026)
+- Mostly PhD students from Belgium, the Netherlands and Luxembourg; best student paper, presentation and poster awards
+- "Registration fee: 250 EUR (2026), including lunches, conference dinner and social event; three grants for MSc students"
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-19
+  end: 2026-05-20
+  location: Ghent, Belgium (organized by KU Leuven)
+  url: https://sitb2026.dramco.be/
+  deadlines:
+  - kind: submission
+    date: 2026-04-19
+    label: One-page abstract (extended from 2026-04-07)
+  - kind: notification
+    date: 2026-04-28
+  - kind: camera_ready
+    date: 2026-05-12
+  - kind: other
+    date: 2026-05-12
+    label: Registration (extended from 2026-05-07)
+sources:
+- https://sitb2026.dramco.be/
+- https://sitb2026.dramco.be/CFP_SITB2026.pdf
+- https://www.w-i-c.org/events.html
+- https://www.w-i-c.org/publications.html
+- https://www.w-i-c.org/proceedings/
+- https://www.utwente.nl/en/eemcs/sitb2025/
+- https://portal.core.edu.au/conf-ranks/?search=SITB&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- SITB 2027 host, dates and deadlines are not announced yet
+- Deadline times and time zones are not stated on the 2026 site

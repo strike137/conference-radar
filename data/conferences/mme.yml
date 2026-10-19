@@ -1,0 +1,56 @@
+id: mme
+name: MME
+full_name: Workshop on Multilingual and Multicultural Evaluation
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+organizer: Organizing committee from University of Edinburgh, University of Zurich, ETH Zurich, Queen's University Belfast, CMU, MBZUAI and others; co-located with EACL
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [3]
+links:
+  website: https://multilingual-multicultural-evaluation.github.io/
+notes:
+- Workshop on evaluation methodology and benchmarks for multilingual and culture-aware LLMs
+- First edition held with EACL 2026 in Rabat, Morocco, as a half-day workshop
+- Long (8 pages) and short (4 pages) archival papers with double-blind review; ARR-reviewed papers can be committed
+- Archival papers appear in the ACL Anthology (16 entries in 2026); non-archival presentations also accepted
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 1st edition, with EACL 2026
+  start: 2026-03-28
+  end: 2026-03-28
+  location: Rabat, Morocco
+  url: https://multilingual-multicultural-evaluation.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-12-19
+    time: '23:59'
+    tz: AoE
+    label: Direct submission
+  - kind: other
+    date: 2026-01-05
+    time: '23:59'
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-01-23
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-03
+    time: '23:59'
+    tz: AoE
+sources:
+- https://multilingual-multicultural-evaluation.github.io/
+- https://aclanthology.org/venues/mme/
+- https://portal.core.edu.au/conf-ranks/?search=MME&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No second edition announced yet; frequency unknown

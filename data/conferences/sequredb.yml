@@ -1,0 +1,55 @@
+id: sequredb
+name: SeQureDB
+full_name: Workshop on Secure and Private Data Management
+type: workshop
+tier: minor
+areas: [data, security, crypto]
+region: worldwide
+language: english
+organizer: SeQureDB organizers; co-located with ACM SIGMOD/PODS
+organizer_country: [usa, canada]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [5, 6]
+links:
+  website: https://sequredb.github.io/
+notes:
+- One-day workshop held with ACM SIGMOD/PODS 2026 in Bengaluru, India
+- 'Scope: privacy-preserving data processing, bridging the database and security/cryptography communities (encrypted databases, TEEs, MPC, differential privacy, private RAG)'
+- Regular papers up to 8 pages and short, demo or vision papers up to 4 pages, excluding references and appendix, ACM two-column format
+- Single-anonymous review via Microsoft CMT
+- Accepted papers are published in the ACM Digital Library
+- Organized by researchers from the University of Waterloo, Northwestern University and UC Santa Cruz
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: With ACM SIGMOD/PODS 2026
+  start: 2026-05-31
+  end: 2026-05-31
+  location: Bengaluru, India
+  url: https://sequredb.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-12
+    time: "23:59"
+    tz: AoE
+    label: Extended from March 5
+  - kind: notification
+    date: 2026-03-31
+    time: "23:59"
+    tz: AoE
+    label: Moved from March 26
+  - kind: camera_ready
+    date: 2026-04-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sequredb.github.io/
+- https://2026.sigmod.org/sigmod_workshops.shtml
+- https://portal.core.edu.au/conf-ranks/?search=SeQureDB&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No earlier edition found; whether it continues annually after 2026 is not confirmed
+- SeQureDB 2027 not announced yet

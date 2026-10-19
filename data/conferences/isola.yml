@@ -1,0 +1,98 @@
+id: isola
+name: ISoLA
+full_name: International Symposium on Leveraging Applications of Formal Methods, Verification and Validation
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: biennial
+organizer: ISoLA (Tiziana Margaria, Lero, University of Limerick; Bernhard Steffen, TU Dortmund)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [4, 5]
+  conference_months: [10]
+links:
+  website: https://isola-conference.org/
+  dblp: https://dblp.org/db/conf/isola/index.html
+notes:
+- Symposium on applying formal methods, verification and validation tools in practice, running since 2004
+- Organised by track; each track has talks of about 20 minutes followed by a concluding panel discussion
+- Run by Tiziana Margaria (Lero, Ireland) and Bernhard Steffen (TU Dortmund, Germany); local arrangements by EasyConferences (Cyprus)
+- Held on Greek islands or Cyprus (Corfu 2016, Limassol 2018, Rhodes 2021 and 2022, Crete 2024, Kos 2026)
+- Biennial in recent years; the sister symposium AISoLA on AI runs alongside it and also took place alone in 2023 and 2025
+- Two routes to publication; mature papers go to on-site Springer LNCS proceedings, talk-only contributions can go to LNCS post-proceedings
+- Selected papers invited to special issues or sections of the STTT journal
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2024
+  start: 2024-10-27
+  end: 2024-10-31
+  location: Crete, Greece
+  url: https://2024-isola.isola-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2024-05-20
+    label: On-site LNCS proceedings
+  - kind: notification
+    date: 2024-07-01
+    label: On-site LNCS proceedings
+  - kind: camera_ready
+    date: 2024-07-29
+    label: On-site LNCS proceedings
+  - kind: other
+    date: 2024-07-29
+    label: Draft submission (talk only and post-proceedings)
+- year: 2026
+  start: 2026-10-24
+  end: 2026-10-28
+  location: Kos, Greece
+  url: https://2026-isola.isola-conference.org/
+  deadlines:
+  - kind: other
+    date: 2026-01-31
+    label: Track proposals
+  - kind: abstract
+    date: 2026-03-31
+    label: On-site LNCS proceedings
+  - kind: submission
+    date: 2026-04-30
+    label: On-site LNCS proceedings
+  - kind: notification
+    date: 2026-06-15
+    label: On-site LNCS proceedings
+  - kind: camera_ready
+    date: 2026-07-15
+    label: On-site LNCS proceedings
+  - kind: abstract
+    date: 2026-05-31
+    label: Presentations and post-proceedings
+  - kind: other
+    date: 2026-06-30
+    label: Extended abstract (presentations and post-proceedings)
+  - kind: notification
+    date: 2026-07-31
+    label: Presentations and post-proceedings
+  - kind: other
+    date: 2026-08-31
+    label: Final abstracts (presentations and post-proceedings)
+sources:
+- https://isola-conference.org/
+- https://2026-isola.isola-conference.org/
+- https://2024-isola.isola-conference.org/
+- https://2022.isola-conference.org/
+- http://2021.isola-conference.org/
+- http://2018.isola-conference.org/
+- http://2016.isola-conference.org/
+- https://portal.core.edu.au/conf-ranks/?search=ISoLA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+last_verified: 2026-10-17
+unverified:
+- Deadline time zones are not stated on the official pages
+- Registration fees for 2026 not listed on the main page
+- ISoLA 2028 not announced yet
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly

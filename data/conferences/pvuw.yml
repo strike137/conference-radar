@@ -1,0 +1,68 @@
+id: pvuw
+name: PVUW
+full_name: Pixel-level Video Understanding in the Wild Workshop and Challenge
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee led by Henghui Ding (Fudan University), with organizers from Meta AI, Shanghai
+  University of Finance and Economics, Beijing Jiaotong University, University of Oxford and others; co-located with CVPR
+organizer_country: [china]
+proceedings: CVPR Workshops proceedings (CVF Open Access)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://pvuw.github.io/
+notes:
+- Workshop plus challenge on video segmentation (MOSEv2 complex video object segmentation, MeViSv2 text- and
+  audio-based referring motion expression segmentation)
+- Held with CVPR; 2026 was the 5th edition (Denver), after Nashville 2025, Seattle 2024 and earlier editions in 2021 and 2023
+- Regular papers are 8 pages in CVPR format, double-blind review, submitted through OpenReview
+- Accepted papers appear in the official CVPR Workshops proceedings and the CVF Open Access archive
+- Separate, later deadline for challenge papers
+- Deadlines are 23:59 UTC
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 5th edition, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA
+  url: https://pvuw.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-13
+    time: "23:59"
+    tz: UTC
+    label: Regular papers
+  - kind: other
+    date: 2026-03-14
+    time: "23:59"
+    tz: UTC
+    label: Challenge result submission
+  - kind: notification
+    date: 2026-03-19
+    time: "23:59"
+    tz: UTC
+  - kind: other
+    date: 2026-03-20
+    time: "23:59"
+    tz: UTC
+    label: Challenge paper submission
+  - kind: camera_ready
+    date: 2026-03-24
+    time: "23:59"
+    tz: UTC
+sources:
+- https://pvuw.github.io/
+- https://pvuw.github.io/index2025.html
+- https://www.vspwdataset.com/Workshop2024
+- https://openaccess.thecvf.com/CVPR2026_workshops/PVUW
+- https://portal.core.edu.au/conf-ranks/?search=PVUW&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Next edition (6th PVUW, likely with CVPR 2027) not announced yet

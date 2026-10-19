@@ -1,0 +1,59 @@
+id: iwsda
+name: IWSDA
+full_name: International Workshop on Signal Design and its Applications in Communications
+type: conference
+tier: minor
+areas: [communications, crypto]
+region: asia-pacific
+language: english
+frequency: biennial
+organizer: IWSDA organizing committee (2025 hosted by the University of Melbourne with Southwest Jiaotong University), technically sponsored by IEEE Information Theory Society
+organizer_country: [china, japan]
+proceedings: IEEE Xplore
+archival: true
+fee: 750 AUD full, 350 AUD student (2025, early)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [12]
+links:
+  website: https://2025iwsda.github.io/iwsda2025/
+notes:
+- Workshop series on sequence and signal design, coding theory, cryptography and communications, running since 2001 (Chengdu); 11th edition in 2025
+- Held about every two years, mostly in China and Japan, with editions in India (Bengaluru), the UK (Colchester 2022) and Australia (Melbourne 2025)
+- Papers up to 5 pages in IEEE double-column format, submitted via EasyChair; proceedings published by IEEE and included in IEEE Xplore
+- Authors of accepted papers are invited to submit extended versions to an IEICE Transactions on Fundamentals special section on Signal Design and its Applications in Communications
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-07
+  end: 2025-12-11
+  location: Melbourne, Australia
+  url: https://2025iwsda.github.io/iwsda2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    tz: AoE
+    label: Extended from 2025-07-31
+  - kind: notification
+    date: 2025-09-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-15
+    tz: AoE
+sources:
+- https://2025iwsda.github.io/iwsda2025/index.html
+- https://2025iwsda.github.io/iwsda2025/CFP.pdf
+- https://2025iwsda.github.io/iwsda2025/committees.html
+- https://2025iwsda.github.io/iwsda2025/submission.html
+- https://2025iwsda.github.io/iwsda2025/registration.html
+- https://2025iwsda.github.io/iwsda2025/2027_7EA.pdf
+- https://ieeexplore.ieee.org/xpl/conhome/11456943/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=IWSDA&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- IWSDA 2027 not announced as of 2026-10-17
+- Organizer country inferred from the series history and chairs (China and Japan); no steering committee is listed on the official site
+- Years of earlier editions not stated on the official site; region judged from the listed host cities
+- CCF 2026 list checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-17

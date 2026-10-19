@@ -1,0 +1,72 @@
+id: i4cs
+name: I4CS
+full_name: International Conference on Innovations for Community Services
+type: conference
+tier: minor
+areas: [networking, systems, security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: I4CS steering committee (Ernst-Abbe-Hochschule Jena and Deutsche Telekom AG Group Technology) with a local host university
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: C
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://www.eah-jena.de/i4cs-conference/
+notes:
+- Started in 2001 in Ilmenau as the I2CS workshop (Innovative Internet Computing Systems); renamed I4CS in 2014
+- Held every June; the steering committee alternates between a German and an international location
+- 'Recent venues: Bamberg 2023, Maastricht 2024, Munich 2025, Copenhagen (DTU) 2026, Ingolstadt (TH Ingolstadt) 2027'
+- Papers published in Springer CCIS (2026 edition is CCIS 3007); submitted for DBLP and Scopus indexing
+- Full papers up to 20 pages, single-blind review by at least three program committee members, submission through EasyChair
+- Broad scope covering networks, IoT, security, data, AI and applications for digital communities
+- Small conference supported by Deutsche Telekom; CORE C in ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-17
+  location: DTU, Copenhagen, Denmark
+  url: https://www.eah-jena.de/i4cs-conference/archiv/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-02-15
+    label: Optional abstract upload
+  - kind: submission
+    date: 2026-02-22
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-03-16
+  - kind: camera_ready
+    date: 2026-03-29
+- year: 2027
+  start: 2027-06-14
+  end: 2027-06-16
+  location: TH Ingolstadt, Ingolstadt, Germany
+  url: https://www.eah-jena.de/i4cs-conference/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-20
+    label: Optional abstract upload
+  - kind: submission
+    date: 2027-01-31
+  - kind: notification
+    date: 2027-03-16
+  - kind: camera_ready
+    date: 2027-03-28
+sources:
+- https://www.eah-jena.de/i4cs-conference/
+- https://www.eah-jena.de/i4cs-conference/cfp
+- https://www.eah-jena.de/i4cs-conference/archiv/2026
+- https://www.eah-jena.de/i4cs-conference/evolution-of-i4cs
+- https://portal.core.edu.au/conf-ranks/?search=I4CS&by=all&source=ICORE2026
+unverified:
+- Deadline time zone not stated
+- 2027 proceedings in Springer CCIS are announced as tentative, based on previous years
+- Registration fee not found on the official pages
+last_verified: 2026-10-17

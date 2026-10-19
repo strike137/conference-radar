@@ -1,0 +1,67 @@
+id: aixset
+name: AIxSET
+full_name: International Conference on Artificial Intelligence x Science, Engineering, and Technology
+type: conference
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: AIx conference series led by Phillip Sheu (UC Irvine)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://www.aixset.org/
+notes:
+- One of the AIx conferences that replaced ai4i (AI for Industries) and TransAI (Transdisciplinary AI) in 2024; co-located with AIxB, AIxHEART and AIxMHC
+- Held in Laguna Hills, California every year since 2024; hybrid format
+- 2024 and 2025 proceedings in IEEE Xplore as the Conference on AI, Science, Engineering, and Technology (AIxSET)
+- Regular and workshop papers 8 pages, short 4, position 2, in IEEE double-column format; at least three reviewers per paper
+- Accepted papers must be presented; poster abstracts are in person only
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-28
+  end: 2026-09-30
+  location: Laguna Hills, California, USA
+- year: 2027
+  start: 2027-09-27
+  end: 2027-09-29
+  location: Laguna Hills, California, USA (hybrid)
+  url: https://www.aixset.org/
+  deadlines:
+  - kind: submission
+    date: 2027-06-10
+    tz: PDT
+  - kind: other
+    date: 2027-07-05
+    tz: PDT
+    label: Workshop proposals
+  - kind: notification
+    date: 2027-07-20
+    tz: PDT
+  - kind: other
+    date: 2027-07-30
+    tz: PDT
+    label: Workshop paper and poster abstract submission
+  - kind: camera_ready
+    date: 2027-08-21
+    tz: PDT
+sources:
+- https://www.aixset.org/
+- https://www.aixset.org/dates
+- https://www.aixset.org/past-history
+- https://www.aixset.org/submission
+- https://www.aixset.org/about-aixset
+- https://www.aixset.org/committees
+- https://api.crossref.org/works?query.bibliographic=AIxSET&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=AIxSET&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- AIxSET 2026 deadlines (no longer shown on the official site)
+- Whether the 2026 proceedings have appeared in IEEE Xplore
+- 2027 committee is listed as tentative

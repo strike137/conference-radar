@@ -1,0 +1,55 @@
+id: clib
+name: CLIB
+full_name: International Conference Computational Linguistics in Bulgaria
+type: conference
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: biennial
+organizer: Department of Computational Linguistics, Institute for Bulgarian Language, Bulgarian Academy of Sciences
+organizer_country: [europe]
+proceedings: ACL Anthology (own open-access proceedings, ISSN 2367-5675)
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://dcl.bas.bg/clib/
+notes:
+- Biennial NLP conference in Sofia, held since 2014, with a focus on small and less-resourced languages such as Bulgarian
+- Run by the Department of Computational Linguistics of the Institute for Bulgarian Language (Bulgarian Academy of Sciences)
+- Long (8 pages) and short (4 pages) papers with double-blind review by at least two reviewers; an abstract is due a month before the paper
+- Proceedings are open access, included in the ACL Anthology and indexed in Scopus since 2020 and in Web of Science
+- Includes a special session on wordnets, framenets and ontologies, plus tutorials and workshops
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-10
+  location: Sofia, Bulgaria
+  url: https://dcl.bas.bg/clib/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-15
+  - kind: submission
+    date: 2026-04-25
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from April 15)
+  - kind: notification
+    date: 2026-05-28
+    label: Extended from May 22
+  - kind: camera_ready
+    date: 2026-07-15
+    label: Extended from June 15
+sources:
+- https://dcl.bas.bg/clib/
+- https://dcl.bas.bg/clib/important-dates/
+- https://dcl.bas.bg/clib/call-for-papers/
+- https://dcl.bas.bg/clib/proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=CLIB&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Next edition (expected 2028) not yet announced

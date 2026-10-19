@@ -1,0 +1,96 @@
+id: bpm
+name: BPM
+full_name: International Conference on Business Process Management
+type: conference
+tier: major
+areas: [software, data]
+region: europe
+language: english
+frequency: annual
+organizer: BPM Steering Committee (hosted by a local university each year)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: A
+acceptance_rate: 25% (2026, 42/169 full papers in the main LNCS volume)
+typical:
+  deadline_months: [3]
+  conference_months: [9]
+links:
+  website: https://bpm-conference.org/
+notes:
+- Premier venue of the business process management and process mining community, held since 2003
+- Series run by an international steering committee; each edition is hosted by a local university (York University in 2026, KU Leuven in 2027)
+- Main research papers in Springer LNCS; the BPM Forum proceedings appear in Springer LNBIP
+- Three research tracks (Foundations, Engineering, Management), plus workshops, demos, doctoral consortium and industry forum
+- Mostly held in Europe; recent editions were Rome (2021), Muenster (2022), Utrecht (2023), Krakow (2024), Seville (2025) and Toronto (2026)
+- CORE A in ICORE2026; not on the CCF list
+editions:
+- year: 2025
+  start: 2025-08-31
+  end: 2025-09-05
+  location: Seville, Spain
+  url: https://www.bpm2025seville.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-04
+    tz: AoE
+  - kind: submission
+    date: 2025-03-11
+    tz: AoE
+  - kind: submission
+    date: 2025-03-18
+    tz: AoE
+    label: Extended, only for papers with a registered abstract
+  - kind: notification
+    date: 2025-05-08
+  - kind: camera_ready
+    date: 2025-06-13
+- year: 2026
+  start: 2026-09-27
+  end: 2026-10-02
+  location: Toronto, Canada
+  url: https://www.yorku.ca/events/bpm2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-06
+    tz: AoE
+  - kind: submission
+    date: 2026-03-20
+    tz: AoE
+  - kind: notification
+    date: 2026-05-12
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-13
+    tz: AoE
+- year: 2027
+  start: 2027-09-05
+  end: 2027-09-10
+  location: Leuven, Belgium
+  url: https://bpm2027leuven.org/
+  deadlines:
+  - kind: other
+    date: 2026-12-09
+    label: Workshop proposals
+  - kind: submission
+    date: 2027-03-18
+    label: Research papers
+sources:
+- https://bpm-conference.org/
+- https://bpm-conference.org/conferences/
+- https://bpm-conference.org/organization/
+- https://www.yorku.ca/events/bpm2026/
+- https://www.yorku.ca/events/bpm2026/important-dates/
+- https://bpm2027leuven.org/
+- https://bpm2027leuven.org/call-for-research-papers/
+- https://www.bpm2025seville.org/
+- https://www.bpm2025seville.org/calls/dates/
+- https://link.springer.com/conference/bpm
+- https://link.springer.com/book/10.1007/978-3-032-37777-7
+- https://link.springer.com/book/10.1007/978-3-032-37877-4
+- https://portal.core.edu.au/conf-ranks/?search=BPM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- BPM 2027 abstract deadline, notification date and deadline time zone (the call for research papers does not list them yet)

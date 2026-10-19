@@ -1,0 +1,51 @@
+id: clarin
+name: CLARIN
+full_name: CLARIN Annual Conference
+type: conference
+tier: minor
+areas: [nlp, data]
+region: europe
+language: english
+frequency: annual
+organizer: CLARIN ERIC
+organizer_country: [europe]
+proceedings: Linkoping Electronic Conference Proceedings (selected full papers); Book of Extended Abstracts (ISSN 2773-2177)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [9, 10]
+links:
+  website: https://www.clarin.eu/content/clarin-annual-conference
+notes:
+- Annual conference of CLARIN ERIC, the European research infrastructure for language resources and technology, aimed at humanities and social sciences users
+- Submissions are 3 to 4 page extended abstracts, reviewed by the programme committee via EasyChair; oral, poster and demo presentations
+- Accepted abstracts appear in the online Book of Extended Abstracts (on Zenodo in 2026)
+- Authors are then invited to submit 10 to 12 page full papers, published after review in Linkoping Electronic Conference Proceedings
+- Hybrid event held in a different European city each year (Barcelona 2024, Vienna 2025, Brighton 2026), co-hosted with a national CLARIN consortium
+- Topics must be relevant to the CLARIN infrastructure (tools, resources, metadata, interoperability, training, LLMs for SSH research)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-29
+  end: 2026-10-01
+  location: Brighton, United Kingdom (hybrid)
+  url: https://www.clarin.eu/event/2026/clarin-annual-conference-2026
+  deadlines:
+  - kind: submission
+    date: 2026-04-13
+    label: Extended abstracts (extended deadline)
+  - kind: notification
+    date: 2026-06-16
+  - kind: camera_ready
+    date: 2026-09-01
+sources:
+- https://www.clarin.eu/event/2026/clarin-annual-conference-2026
+- https://www.clarin.eu/content/call-extended-abstracts-clarin2026
+- https://www.clarin.eu/event/2025/clarin-annual-conference-2025
+- https://www.clarin.eu/event/2024/clarin-annual-conference-2024
+- https://doi.org/10.5281/zenodo.22916661
+- https://portal.core.edu.au/conf-ranks/?search=CLARIN&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Original (pre-extension) 2026 submission deadline not shown on the call page
+- No 2027 edition announced as of 2026-10-17

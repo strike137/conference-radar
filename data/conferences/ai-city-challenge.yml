@@ -1,0 +1,60 @@
+id: ai-city-challenge
+name: AI City Challenge
+full_name: AI City Challenge Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop committee led by NVIDIA with Santa Clara University, University at Albany, Iowa State University, Johns
+  Hopkins University and others
+organizer_country: [usa]
+proceedings: Springer (ECCV 2026 workshop proceedings); IEEE Xplore and CVF Open Access for earlier CVPR and ICCV workshops
+archival: true
+typical:
+  deadline_months: [4, 7]
+  conference_months: [6, 9, 10]
+links:
+  website: https://www.aicitychallenge.org/
+notes:
+- Challenge workshop on computer vision for smart cities, intelligent transportation and warehouse video analytics, with
+  several challenge tracks and a paper track
+- Held with CVPR through 2024, with ICCV 2025 (Honolulu) and with ECCV 2026 (Malmo); the 2026 edition was the 10th
+- Papers are open to non-participants; acceptance is based on technical merit rather than challenge ranking
+- Review is not double-blind; 2026 papers were 4 to 14 pages in ECCV format, submitted through OpenReview
+- 30 papers in the ICCV 2025 workshop proceedings on CVF Open Access
+- Challenge awards require paper acceptance and open-sourcing the code
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 10th edition, with ECCV 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden
+  url: https://www.aicitychallenge.org/
+  deadlines:
+  - kind: other
+    date: 2026-07-10
+    tz: AoE
+    label: Challenge track submissions
+  - kind: submission
+    date: 2026-07-24
+    tz: AoE
+  - kind: notification
+    date: 2026-08-01
+  - kind: camera_ready
+    date: 2026-08-15
+    tz: AoE
+sources:
+- https://www.aicitychallenge.org/
+- https://www.aicitychallenge.org/2026-paper-submission/
+- https://www.aicitychallenge.org/2026-workshop/
+- https://www.aicitychallenge.org/2025-ai-city-challenge/
+- https://www.aicitychallenge.org/2024-ai-city-challenge/
+- https://openaccess.thecvf.com/ICCV2025_workshops/AICity
+- https://portal.core.edu.au/conf-ranks/?search=AI+City&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Springer series (LNCS or other) for the ECCV 2026 workshop proceedings not stated; the site says only that papers are published by Springer
+- Next edition (11th AI City Challenge, 2027) and its host conference not announced yet

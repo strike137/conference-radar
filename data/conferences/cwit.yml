@@ -1,0 +1,60 @@
+id: cwit
+name: CWIT
+full_name: Canadian Workshop on Information Theory
+type: conference
+tier: minor
+areas: [communications]
+region: north-america
+language: english
+frequency: biennial
+organizer: Canadian Society of Information Theory
+organizer_country: [canada]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: http://cwit.ca/2026/
+notes:
+- Biennial workshop run by the Canadian Society of Information Theory, held at a Canadian university in early June
+- Submissions are one-page extended abstracts via EDAS, presented as talks or posters
+- No published proceedings; already published work may be presented, so non-archival
+- Tutorials, keynotes and a student paper competition; aimed at graduate students in information theory
+- Topics include Shannon theory, coding, compression, communications, cryptology, ML and information theory
+- 2026 registration was 550 CAD full and 300 CAD student (early, plus HST)
+- Halifax (Dalhousie University) 2026, Vancouver (UBC) 2024
+editions:
+- year: 2024
+  start: 2024-06-02
+  end: 2024-06-05
+  location: University of British Columbia, Vancouver, BC, Canada
+  url: http://cwit.ca/2024/
+- year: 2026
+  start: 2026-06-07
+  end: 2026-06-10
+  location: Dalhousie University, Halifax, Nova Scotia, Canada
+  url: http://cwit.ca/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-16
+    label: Extended abstract (extended, final)
+  - kind: notification
+    date: 2026-04-17
+    label: Updated from 2026-04-12
+  - kind: other
+    date: 2026-05-11
+    label: Early registration
+sources:
+- http://cwit.ca/2026/
+- http://cwit.ca/2026/index.php/call-for-papers/
+- http://cwit.ca/2026/index.php/registration/
+- http://cwit.ca/2024/
+- http://infotheory.ca/
+- https://portal.core.edu.au/conf-ranks/?search=CWIT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Original 2026 abstract deadline before the extension not shown on the official page
+- CWIT 2028 not announced yet
+- Editions before 2024 not checked; region judged from 2024 and 2026 and the Canadian society that runs it
+- Not listed in ICORE2026 (no results) or the CCF 2026 list (CCF checked via the CCFrank4dblp mirror)

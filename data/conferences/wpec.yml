@@ -1,0 +1,61 @@
+id: wpec
+name: WPEC
+full_name: NIST Workshop on Privacy-Enhancing Cryptography
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: online
+language: english
+organizer: NIST Privacy-Enhancing Cryptography (PEC) program, Computer Security Division
+organizer_country: [usa]
+proceedings: None (no formal proceedings)
+archival: false
+typical:
+  deadline_months: [7, 9]
+  conference_months: [9, 10]
+links:
+  website: https://csrc.nist.gov/events/2026/wpec2026
+notes:
+- Virtual workshop run by the NIST Privacy-Enhancing Cryptography (PEC) program; free to attend with registration
+- Call for talk proposals, not papers; proposals are sent by email on a PDF form and reviewed by NIST
+- Non-archival; slides and videos of the talks are published online after the workshop
+- 'Topics: private set intersection (PSI Day), encrypted search, FHE, MPC, ZKP, post-quantum PEC'
+- First edition in 2024 (3 days), second edition in 2026 (4 days)
+- Use of generative AI for writing talk proposals is not allowed beyond minor grammar fixes
+editions:
+- year: 2024
+  start: 2024-09-24
+  end: 2024-09-26
+  location: Online
+  url: https://csrc.nist.gov/events/2024/wpec2024
+  deadlines:
+  - kind: submission
+    date: 2024-07-22
+  - kind: notification
+    date: 2024-08-27
+- year: 2026
+  start: 2026-10-26
+  end: 2026-10-29
+  location: Online
+  url: https://csrc.nist.gov/events/2026/wpec2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-26
+    tz: AoE
+    label: Early submission
+  - kind: notification
+    date: 2026-09-15
+    label: Early submission
+  - kind: submission
+    date: 2026-09-14
+    tz: AoE
+  - kind: notification
+    date: 2026-10-05
+sources:
+- https://csrc.nist.gov/events/2026/wpec2026
+- https://csrc.nist.gov/events/2024/wpec2024
+- https://portal.core.edu.au/conf-ranks/?search=WPEC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Frequency unclear; editions so far in 2024 and 2026 only
+- Not found in the ICORE2026 portal and not in the CCF list, so no rank is given
+last_verified: 2026-10-17

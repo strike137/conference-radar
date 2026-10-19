@@ -1,0 +1,60 @@
+id: bsides-atl
+name: BSides Atlanta
+full_name: Security BSides Atlanta
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: BSides Atlanta (volunteer-run)
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [7, 10]
+  conference_months: [9, 10, 11]
+links:
+  website: https://bsidesatl.info/
+notes:
+- Volunteer-run Security BSides conference in Atlanta, Georgia, USA; 2026 was the 14th annual event
+- One-day Saturday event; 2026 at the Georgia Tech Hotel and Conference Center in Midtown with 13 content areas
+- Call for content on pretalx for talks (20 or 50 minutes), villages, workshops and contests
+- All selected talks must be given in person; no remote speaking
+- No proceedings
+- Date moves around the fall (September 2024, November 2025, October 2026)
+editions:
+- year: 2025
+  start: 2025-11-15
+  end: 2025-11-15
+  location: Atlanta, Georgia, USA
+  url: https://pretalx.com/bsidesatl-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-10-07
+    time: "23:59"
+    tz: EDT
+    label: Call for Proposals
+- year: 2026
+  start: 2026-10-03
+  end: 2026-10-03
+  location: Georgia Tech Hotel and Conference Center, Atlanta, Georgia, USA
+  url: https://bsidesatl.info/
+  deadlines:
+  - kind: submission
+    date: 2026-07-26
+    time: "23:59"
+    tz: EDT
+    label: Call for Proposals
+sources:
+- https://bsidesatl.info/
+- https://pretalx.com/bsidesatl-2026/cfp
+- https://pretalx.com/bsidesatl-2026/schedule/
+- https://pretalx.com/bsidesatl-2025/cfp
+- https://pretalx.com/api/events/bsidesatl-2025/
+- https://pretalx.com/api/events/bsidesatl-2024/
+last_verified: 2026-10-17
+unverified:
+- 2025 venue not found on an official page
+- BSides Atlanta 2027 not announced yet
+- Not checked in ICORE2026; not in the CCF 2026 list (checked via the CCFrank4dblp mirror)

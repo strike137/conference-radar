@@ -1,0 +1,53 @@
+id: egovis
+name: EGOVIS
+full_name: International Conference on Electronic Government and the Information Systems Perspective
+type: conference
+tier: minor
+areas: [data, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: DEXA Society with @WAS (Web Applications Society), co-located with DEXA
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+indexing: [Scopus, EI, DBLP, CPCI]
+typical:
+  deadline_months: [3, 4]
+  conference_months: [8]
+links:
+  website: https://www.dexa.org/
+  dblp: https://dblp.org/db/conf/egovis/
+notes:
+- E-government and information systems conference; 15th edition in 2026
+- Always co-located with DEXA and DaWaK, sharing one deadline and registration
+- Proceedings in Springer LNCS (2026 -> LNCS 16862); single-blind review, full papers up to 15 pages and short papers up to 6
+- Topics include AI and data in government, e-democracy, electronic identity, legal informatics, privacy and security
+- In-person only in 2026; papers not presented are excluded from SpringerLink
+- Held with DEXA, mostly in Europe (Naples 2024, Graz 2026) but also Asia (Penang 2023, Bangkok 2025)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-11
+  end: 2026-08-13
+  location: Graz, Austria
+  url: https://www.dexa.org/2026/egovis2026.html
+  deadlines:
+  - kind: submission
+    date: 2026-04-10
+    label: Final (extended from 2026-03-15)
+  - kind: notification
+    date: 2026-05-17
+  - kind: camera_ready
+    date: 2026-06-05
+sources:
+- https://www.dexa.org/
+- https://www.dexa.org/2026/egovis2026.html
+- https://www.dexa.org/2026/important-dates-2.html
+- https://www.dexa.org/2026/proceedings-2.html
+- https://portal.core.edu.au/conf-ranks/?search=EGOVIS&by=all&source=ICORE2026
+- https://github.com/WenyanLiu/CCFrank4dblp (CCF 2026 list mirror)
+unverified:
+- EGOVIS 2027 dates and location (www.dexa.org/2027/ returns 404)
+- Past locations taken from the co-located DEXA editions
+last_verified: 2026-10-17

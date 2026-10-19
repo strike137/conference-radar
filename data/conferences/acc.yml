@@ -1,0 +1,85 @@
+id: acc
+name: ACC
+full_name: American Control Conference
+type: conference
+tier: major
+areas: [general, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: American Automatic Control Council (AACC)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [5, 6, 7]
+links:
+  website: https://acc2027.a2c2.org/
+notes:
+- Annual conference of the American Automatic Control Council (AACC), the US national member organization of IFAC
+- Co-sponsored by AIAA, AIChE, ASCE, ASME, IEEE (Control Systems Society), INFORMS, ISA, SCS and SIAM
+- One of the two main general control conferences in North America (with IEEE CDC); covers all areas of automatic
+  control theory and practice
+- Held in the USA almost every year (2023 San Diego, 2024 Toronto, 2025 Denver, 2026 New Orleans, 2027 Philadelphia)
+- Contributed papers up to 8 pages for review, 6 pages in the proceedings plus up to 2 extra pages for a fee (USD 200
+  per page in 2026); final PDFs must be IEEE Xplore compatible; submission via PaperPlaza
+- Joint option to submit to IEEE Control Systems Letters (L-CSS) and present at ACC, with an earlier deadline
+- Not listed in ICORE2026 (control venue outside the CORE computing list)
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  location: New Orleans, Louisiana, USA
+  url: https://acc2026.a2c2.org/
+  deadlines:
+  - kind: other
+    date: 2025-09-12
+    label: Joint L-CSS submission
+  - kind: submission
+    date: 2025-09-30
+    label: ACC manuscripts (extended from 2025-09-26)
+  - kind: notification
+    date: 2026-01-23
+  - kind: camera_ready
+    date: 2026-03-13
+- year: 2027
+  start: 2027-07-07
+  end: 2027-07-09
+  location: Philadelphia, Pennsylvania, USA
+  url: https://acc2027.a2c2.org/
+  deadlines:
+  - kind: other
+    date: 2026-09-11
+    label: Joint ACC + L-CSS manuscripts
+  - kind: submission
+    date: 2026-10-02
+    label: ACC manuscripts (firm, extended from 2026-09-25)
+  - kind: other
+    date: 2026-09-30
+    label: Invited session proposals (firm, extended from 2026-09-23)
+  - kind: other
+    date: 2026-10-16
+    label: Special session and workshop proposals
+  - kind: other
+    date: 2026-10-23
+    label: Tutorial session proposals
+  - kind: notification
+    date: 2027-01-22
+  - kind: camera_ready
+    date: 2027-03-12
+sources:
+- https://acc2027.a2c2.org/
+- https://acc2027.a2c2.org/important-dates/
+- https://acc2027.a2c2.org/author-information/
+- https://acc2027.a2c2.org/history/
+- https://acc2026.a2c2.org/
+- https://acc2026.a2c2.org/authors/important-dates
+- https://acc2026.a2c2.org/authors/author-information
+- https://confcats-siteplex.s3.us-east-1.amazonaws.com/acc26/ACC_CALL_FOR_PAPERS_Extension_24e78eecf8.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ACC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- IEEE Xplore publication inferred from the Xplore-compatible PDF requirement on the official author page; no page
+  states it in a full sentence
+- Deadline time zones not stated on the official pages

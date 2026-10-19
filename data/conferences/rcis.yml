@@ -1,0 +1,74 @@
+id: rcis
+name: RCIS
+full_name: International Conference on Research Challenges in Information Science
+type: conference
+tier: major
+areas: [data, software, ai]
+region: europe
+language: english
+frequency: annual
+organizer: RCIS Steering Committee (European information systems community); local host changes each year
+organizer_country: [europe]
+proceedings: Springer LNBIP (main track); Forum and Doctoral Consortium also in Springer LNBIP; workshops in CEUR-WS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://www.rcis-conf.com/
+notes:
+- Annual since 2007 on information science and information systems engineering (requirements, conceptual modelling, process mining, enterprise modelling, data science)
+- Steering committee of European researchers (Paris 1, Geneva, UPC, Essex, Minho, Stockholm and others)
+- Always held in Europe; recent editions Corfu (2023), Guimaraes (2024), Seville (2025), Toulouse (2026), next in Athens (2027)
+- Main proceedings in Springer LNBIP (LNBIP 585 for 2026, LNBIP 513 and 514 for 2024); best papers invited to Data and Knowledge Engineering (DKE)
+- Mandatory abstract one week before the full paper; papers up to 16 pages in Springer format including references; single-blind review via EasyChair
+- Also runs Forum, Doctoral Consortium, Research Projects, Journal-First, tutorial and workshop tracks with a later deadline
+- CORE B (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  label: RCIS 2026 (20th)
+  start: 2026-05-26
+  end: 2026-05-29
+  location: Universite Toulouse Capitole, Toulouse, France
+  url: https://www.rcis-conf.com/rcis2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-18
+    tz: AoE
+  - kind: submission
+    date: 2026-01-25
+    tz: AoE
+  - kind: notification
+    date: 2026-03-16
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-30
+    tz: AoE
+    label: Camera-ready and author registration
+  - kind: other
+    date: 2026-03-29
+    tz: AoE
+    label: Forum, Doctoral Consortium and Research Projects papers
+- year: 2027
+  label: RCIS 2027 (21st)
+  location: Athens, Greece
+  url: https://www.rcis-conf.com/rcis2027/
+  status: tentative
+sources:
+- https://www.rcis-conf.com/
+- https://www.rcis-conf.com/rcis2026/callPapers.php
+- https://www.rcis-conf.com/rcis2026/steering_Com.php
+- https://www.rcis-conf.com/rcis2027/
+- https://www.rcis-conf.com/rcis2025/
+- https://www.rcis-conf.com/rcis2024/
+- https://www.rcis-conf.com/rcis2023/
+- https://www.rcis-conf.com/rcis2022/
+- https://www.rcis-conf.com/rcis2021/
+- https://portal.core.edu.au/conf-ranks/?search=RCIS&by=all&source=ICORE2026
+unverified:
+- RCIS 2027 dates and deadlines not announced as of 2026-10-17 (the 2027 page only says Athens, Greece, under construction)
+- Acceptance rate and fees not checked
+- Indexing not stated on the official site
+last_verified: 2026-10-17

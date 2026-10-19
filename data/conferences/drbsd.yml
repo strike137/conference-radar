@@ -1,0 +1,54 @@
+id: drbsd
+name: DRBSD
+full_name: International Workshop on Data Analysis and Reduction for Big Scientific Data
+type: workshop
+tier: minor
+areas: [data, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: DRBSD organizers (Argonne and Oak Ridge National Laboratories), held as an SC workshop
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (ACM DL)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://drbsd.github.io/
+notes:
+- Workshop on online data analysis and reduction (lossy compression, reduced-order models, in situ analysis) for HPC and scientific data
+- Held with the SC conference since 2016; 11th edition (DRBSD-11) at SC25 in St. Louis
+- Moves with SC, so it is held in the USA (Denver 2023, Atlanta 2024, St. Louis 2025)
+- In cooperation with IEEE Computer Society and ACM; all accepted papers go into the SC workshop proceedings
+- Full papers 10 pages and short papers 6 pages in ACM format, single-blind, at least 3 reviewers per paper
+- Best paper, runner-up and best short paper awards
+- Not ranked in CORE ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, USA (with SC25)
+  url: https://drbsd.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-08-25
+    tz: AoE
+    label: Full papers (extended from 2025-08-15)
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-22
+    tz: AoE
+    label: Moved from 2025-09-26
+sources:
+- https://drbsd.github.io/
+- https://drbsd.github.io/drbsd2024.html
+- https://drbsd.github.io/drbsd2023.html
+- https://web.njit.edu/~qliu/drbsd6.html
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=DRBSD&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- DRBSD 2026 not announced; it is not in the list of 50 accepted SC26 workshops
+- Acceptance rate and indexing

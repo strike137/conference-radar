@@ -1,0 +1,62 @@
+id: pepm
+name: PEPM
+full_name: ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN (co-located with POPL)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+  ccf: C
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: https://popl27.sigplan.org/home/pepm-2027
+  dblp: https://dblp.org/db/conf/pepm/index.html
+notes:
+- One-day workshop on partial evaluation, program transformation, metaprogramming, program analysis and synthesis
+- Co-located with POPL every January (Rennes 2026, Mexico City 2027)
+- Regular research papers (12 pages) appear in formal ACM proceedings in the ACM Digital Library
+- Short papers (6 pages) and talk proposals (2 pages) are not formal publications
+- Single-blind review; two-column ACM sigplan acmart format; references and appendices excluded from page limits
+- At least one author must attend, physically or virtually
+- CORE C (ICORE2026); CCF C
+editions:
+- year: 2026
+  start: 2026-01-13
+  end: 2026-01-13
+  location: Rennes, France (co-located with POPL 2026)
+  url: https://popl26.sigplan.org/home/pepm-2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-24
+    tz: AoE
+  - kind: notification
+    date: 2025-11-28
+    tz: AoE
+- year: 2027
+  start: 2027-01-12
+  end: 2027-01-12
+  location: Mexico City, Mexico (co-located with POPL 2027)
+  url: https://popl27.sigplan.org/home/pepm-2027
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-23
+    tz: AoE
+sources:
+- https://popl27.sigplan.org/home/pepm-2027
+- https://popl26.sigplan.org/home/pepm-2026
+- https://portal.core.edu.au/conf-ranks/?search=PEPM&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- PEPM 2027 notification and camera-ready dates not yet posted
+- CCF rank checked against a text copy of the CCF 2026 list PDF
+last_verified: 2026-10-17

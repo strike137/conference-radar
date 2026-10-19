@@ -1,0 +1,52 @@
+id: alenex
+name: ALENEX
+full_name: SIAM Symposium on Algorithm Engineering and Experiments
+type: conference
+tier: major
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: SIAM (Society for Industrial and Applied Mathematics)
+organizer_country: [usa]
+proceedings: SIAM (Proceedings of the SIAM Symposium on Algorithm Engineering and Experiments, SIAM epubs)
+archival: true
+rank:
+  core: A
+acceptance_rate: 33% (2027, 24/72)
+typical:
+  deadline_months: [7]
+  conference_months: [1]
+links:
+  website: https://www.siam.org/conferences-events/siam-conferences/alenex27/
+notes:
+- Run by SIAM and held together with SODA every January, so it follows SODA's location
+- Main North American venue for algorithm engineering and experimental evaluation of algorithms and data structures
+- ALENEX 2027 is the 29th edition; 24 of 72 submissions accepted
+- Proceedings published by SIAM (ALENEX 2025 and ALENEX 2026 volumes on SIAM epubs)
+- Submissions through HotCRP; ALENEX also runs a separate artifact evaluation track
+- CORE A (ICORE2026, listed as Workshop on Algorithm Engineering and Experiments); not on the CCF list
+editions:
+- year: 2027
+  url: https://www.siam.org/conferences-events/siam-conferences/alenex27/
+  deadlines:
+  - kind: submission
+    date: 2026-07-21
+    time: "07:59"
+    tz: EDT
+  - kind: camera_ready
+    date: 2026-10-21
+    time: "23:59"
+    tz: EDT
+sources:
+- https://alenex2027.hotcrp.com/
+- https://alenex2027.hotcrp.com/deadlines
+- https://alenex26ae.hotcrp.com/
+- https://api.crossref.org/prefixes/10.1137/works?query.bibliographic=ALENEX+Algorithm+Engineering+and+Experiments&filter=from-pub-date:2025
+- https://portal.core.edu.au/conf-ranks/?search=ALENEX&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- ALENEX 2027 and ALENEX 2026 conference dates and locations (siam.org blocks direct fetch, so they could not be read from the official page)
+- ALENEX 2027 notification date
+- Camera-ready date taken from the HotCRP final-version deadline
+last_verified: 2026-10-17

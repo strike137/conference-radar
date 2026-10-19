@@ -1,0 +1,56 @@
+id: planqc
+name: PLanQC
+full_name: International Workshop on Programming Languages for Quantum Computing
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: PLanQC organizing committee (Matthew Amy, Ross Duncan, Robert Rand, Mathys Rennela), co-located with ACM SIGPLAN POPL
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1]
+links:
+  website: https://popl27.sigplan.org/home/planqc-2027
+notes:
+- Brings together programming languages and quantum information researchers; topics include quantum programming languages, verification, circuit optimization and compilation
+- Co-located with POPL in 2020, 2024, 2025, 2026 and 2027, with PLDI in 2021 and ICFP in 2022; no 2023 edition
+- Submissions are 2 to 5 page extended abstracts (single-column acmsmall, references excluded); accepted authors give talks or posters
+- No formal proceedings; abstracts and links to full papers are posted on the workshop website, so work can be published elsewhere
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-12
+  end: 2026-01-12
+  location: Rennes, France (co-located with POPL 2026)
+  url: https://conf.researchr.org/home/popl-2026/planqc-2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-31
+    tz: AoE
+  - kind: notification
+    date: 2025-11-28
+    tz: AoE
+- year: 2027
+  start: 2027-01-12
+  end: 2027-01-12
+  location: Mexico City, Mexico (co-located with POPL 2027)
+  url: https://popl27.sigplan.org/home/planqc-2027
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    tz: AoE
+  - kind: notification
+    date: 2026-11-27
+    tz: AoE
+sources:
+- https://popl27.sigplan.org/home/planqc-2027
+- https://conf.researchr.org/home/popl-2026/planqc-2026
+- https://popl25.sigplan.org/home/planqc-2025
+- https://conf.researchr.org/series/planqc
+- https://portal.core.edu.au/conf-ranks/?search=PLanQC&by=all&source=ICORE2026
+last_verified: 2026-10-17

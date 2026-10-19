@@ -1,0 +1,160 @@
+id: eurographics
+name: Eurographics
+full_name: Annual Conference of the European Association for Computer Graphics (EUROGRAPHICS)
+type: conference
+tier: major
+areas: [vision, general]
+region: europe
+language: english
+frequency: annual
+organizer: Eurographics Association, with a rotating local host institution
+organizer_country: [europe]
+proceedings: Computer Graphics Forum (full papers, special issue) and Eurographics Digital Library (short papers, STARs, tutorials, education papers)
+archival: true
+rank:
+  ccf: B
+typical:
+  deadline_months: [9, 10]
+  conference_months: [4, 5]
+links:
+  website: https://eg2027.isti.cnr.it/
+  dblp: https://dblp.org/db/conf/eurographics/
+notes:
+- Flagship annual conference of the Eurographics Association, the main European general computer graphics venue
+- Full papers go through a double-blind two-step review with rebuttal and a revision round and are published in a special issue of Computer Graphics Forum
+- Short papers (up to 4 pages) have a separate later deadline and appear in the Eurographics Digital Library
+- Also has STARs (state-of-the-art reports), tutorials, education papers, posters and a doctoral consortium
+- At least one author must present each paper in person
+- Held in Europe (Saarbruecken 2023, Limassol 2024, London 2025, Aachen 2026, Lucca 2027; Zaragoza 2028 and Erlangen 2029 announced)
+- Best papers are invited to a Best of Eurographics session at SIGGRAPH (since 2025)
+- Not listed in ICORE2026; CCF B (computer graphics and multimedia)
+editions:
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-08
+  location: Aachen, Germany
+  url: https://eg2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-22
+    time: "23:59"
+    tz: UTC
+    label: Full papers
+  - kind: submission
+    date: 2025-09-26
+    time: "23:59"
+    tz: UTC
+    label: Full papers
+  - kind: other
+    date: 2025-11-26
+    time: "23:59"
+    tz: UTC
+    label: Full papers rebuttal due
+  - kind: notification
+    date: 2025-12-15
+    time: "23:59"
+    tz: UTC
+    label: Full papers, conditional acceptance
+  - kind: other
+    date: 2026-01-23
+    time: "23:59"
+    tz: UTC
+    label: Full papers revised version due
+  - kind: notification
+    date: 2026-02-06
+    time: "23:59"
+    tz: UTC
+    label: Full papers, final
+  - kind: camera_ready
+    date: 2026-02-20
+    time: "23:59"
+    tz: UTC
+    label: Full papers
+  - kind: submission
+    date: 2026-01-16
+    time: "23:59"
+    tz: UTC
+    label: Short papers
+  - kind: notification
+    date: 2026-03-13
+    time: "23:59"
+    tz: UTC
+    label: Short papers
+  - kind: camera_ready
+    date: 2026-04-13
+    time: "23:59"
+    tz: UTC
+    label: Short papers
+- year: 2027
+  start: 2027-05-10
+  end: 2027-05-14
+  location: Lucca, Italy (IMT School for Advanced Studies campus)
+  url: https://eg2027.isti.cnr.it/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-25
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended)
+  - kind: submission
+    date: 2026-10-02
+    time: "00:59"
+    tz: AoE
+    label: Full papers (extended from 2026-10-01 23:59 UTC)
+  - kind: other
+    date: 2026-11-30
+    time: "23:59"
+    tz: UTC
+    label: Full papers rebuttal due
+  - kind: notification
+    date: 2026-12-18
+    time: "23:59"
+    tz: UTC
+    label: Full papers, conditional acceptance
+  - kind: other
+    date: 2027-01-26
+    time: "23:59"
+    tz: UTC
+    label: Full papers revised version due
+  - kind: notification
+    date: 2027-02-09
+    time: "23:59"
+    tz: UTC
+    label: Full papers, final
+  - kind: camera_ready
+    date: 2027-02-23
+    time: "23:59"
+    tz: UTC
+    label: Full papers
+  - kind: abstract
+    date: 2026-10-13
+    time: "23:59"
+    tz: AoE
+    label: STARs
+  - kind: submission
+    date: 2026-10-19
+    time: "23:59"
+    tz: UTC
+    label: STARs
+  - kind: notification
+    date: 2026-12-21
+    time: "23:59"
+    tz: UTC
+    label: STARs, first review
+sources:
+- https://eg2026.github.io/
+- https://eg2026.github.io/call_for_full_papers/
+- https://eg2026.github.io/call_for_short_papers/
+- https://eg2026.github.io/program/
+- https://eg2027.isti.cnr.it/
+- https://eg2027.isti.cnr.it/call-for-papers/
+- https://eg2027.isti.cnr.it/call-for-stars/
+- https://www.eg.org/wp/event/eurographics-2027/
+- https://www.eg.org/wp/conference/eurographics/
+- https://portal.core.edu.au/conf-ranks/?search=Eurographics&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf (CCF 2026 list PDF mirror)
+unverified:
+- CCF rank checked via a mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+- EG 2027 short paper deadlines not yet published as of 2026-10-17
+- The eg.org conference page lists the 2027 edition as Pisa, but the official EG 2027 site and eg.org event page say Lucca
+last_verified: 2026-10-17

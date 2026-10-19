@@ -1,0 +1,76 @@
+id: africhi
+name: AfriCHI
+full_name: African Human Computer Interaction Conference
+type: conference
+tier: minor
+areas: [general]
+region: africa
+language: english
+frequency: biennial
+organizer: AfriCHI community (in cooperation with ACM SIGCHI)
+organizer_country: [other]
+proceedings: ACM ICPS (ACM DL)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [11]
+links:
+  website: https://africhi2025.org/
+notes:
+- Pan-African HCI conference, held every two years in a different African country (Nairobi 2016, East London
+  2023, Cairo 2025); 2025 was the 5th edition
+- Proceedings in the ACM International Conference Proceedings Series (ACM DL); AfriCHI 2025 was approved for ACM
+  in-cooperation
+- Full papers (up to 12000 words) go through a double-blind revise and resubmit review in two rounds; notes (up to
+  6000 words) have a single review round with a later deadline
+- Also has case studies, panels, workshops, demos, a doctoral and masters consortium and a co-design school
+- Runs a mentorship program for early career researchers and students new to academic writing
+- Topics must be grounded in African contexts or perspectives; not listed in CORE ICORE2026 or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-04
+  end: 2025-11-08
+  location: Smart Village Campus, Arab Academy for Science, Technology and Maritime Transport, Cairo, Egypt
+  url: https://africhi2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-02-10
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended)
+  - kind: notification
+    date: 2025-03-30
+    label: Full papers, first round (revise and resubmit or reject)
+  - kind: submission
+    date: 2025-04-26
+    label: Notes
+  - kind: submission
+    date: 2025-05-15
+    label: Full papers, revised version
+  - kind: notification
+    date: 2025-06-05
+    label: Notes
+  - kind: notification
+    date: 2025-06-15
+    label: Full papers, final
+  - kind: camera_ready
+    date: 2025-07-15
+    label: Full papers and notes
+sources:
+- https://africhi2025.org/
+- https://africhi2025.org/call-for-participation/papers
+- https://africhi2025.org/call-for-participation/notes
+- https://africhi2025.org/call-for-participation/submission-guidelines
+- https://africhi2025.org/announcements
+- https://africhi.net/
+- https://api.crossref.org/works/10.1145%2F3628096
+- https://api.crossref.org/works/10.1145%2F3757232
+- https://portal.core.edu.au/conf-ranks/?search=AfriCHI&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- AfriCHI 2027 host city, dates and call for papers not found on an official page as of 2026-10-17 (a 2027
+  mentorship call is mentioned only on social media)
+- Original (pre-extension) 2025 full paper deadline not shown on the official page
+- Host cities of the 2018 and 2021 editions not checked on official pages
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

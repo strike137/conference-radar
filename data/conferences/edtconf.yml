@@ -1,0 +1,61 @@
+id: edtconf
+name: EDTconf
+full_name: International Conference on Engineering Digital Twins
+type: conference
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: EDTconf steering committee (chair at University of Regensburg), co-located with ACM/IEEE MODELS
+organizer_country: [europe]
+proceedings: MODELS companion proceedings (ACM DL in 2026; IEEE Xplore in 2025)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://conf.researchr.org/series/edtconf
+notes:
+- Conference on systematic engineering of digital twins (modeling, DevOps, co-simulation, quality assurance, case studies), co-located with MODELS
+- Grew out of the Model-Driven Engineering of Digital Twins (ModDiT) workshop series at MODELS
+- Editions so far are Linz 2024, Grand Rapids 2025 (hybrid) and Malaga 2026; 2027 edition announced for Budapest with MODELS 2027
+- 2025 had a technical track with regular (10+2 pages), vision (6+1), exemplar (6+1) and tool demo (4+1) papers in IEEE format
+- 2026 had an extended abstracts track (4+1 pages, ACM format, single-anonymous) plus a SoSyM journal-first track and industrial talks
+- Selected best regular papers (2025) invited to a SoSyM special section
+- Steering committee mostly from European universities
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-06
+  location: Malaga, Spain (co-located with MODELS 2026)
+  url: https://conf.researchr.org/home/models-2026/edtconf-2026
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    tz: AoE
+    label: Extended abstracts
+  - kind: notification
+    date: 2026-08-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-11
+    tz: AoE
+- year: 2027
+  location: Budapest, Hungary (co-located with MODELS 2027)
+  url: https://conf.researchr.org/home/edtconf-2027
+sources:
+- https://conf.researchr.org/home/models-2025/edtconf-2025
+- https://conf.researchr.org/track/edtconf-2025/edtconf-2025-papers
+- https://conf.researchr.org/home/models-2026/edtconf-2026
+- https://conf.researchr.org/track/edtconf-2026/edtconf-2026-extended-abstracts
+- https://conf.researchr.org/track/edtconf-2026/edtconf-2026-journal-track
+- https://conf.researchr.org/committee/edtconf-2026/edtconf-2026-steering-committee
+- https://conf.researchr.org/home/edtconf-2027
+- https://conf.researchr.org/home/edtconf-2024
+- https://portal.core.edu.au/conf-ranks/?search=EDTconf&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- EDTconf 2027 dates and call for papers not announced as of 2026-10-17
+- Acceptance rate not found on an official page

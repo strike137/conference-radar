@@ -1,0 +1,58 @@
+id: sblp
+name: SBLP
+full_name: Simpósio Brasileiro de Linguagens de Programação (Brazilian Symposium on Programming Languages)
+type: conference
+tier: domestic
+areas: [software]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação)
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://cbsoft.sbc.org.br/2026/en/symposiums/sblp/call/
+notes:
+- Programming languages symposium of the Brazilian Computer Society (SBC); 30th edition in 2026
+- Held each year within CBSoft (Congresso Brasileiro de Software) in a different Brazilian city (Recife 2025, São Paulo 2026)
+- Proceedings (Anais do SBLP) published open access in SBC OpenLib (SOL)
+- Papers in Portuguese or English (English encouraged); full papers up to 8 pages, short papers up to 4 pages,
+  excluding references; lightweight double-blind review
+- Main track and undergraduate track; top papers of past editions were invited to a special issue of the
+  Journal of Computer Languages (COLA, Elsevier), and for 2026 the organizers only planned to approach COLA again
+- Small venue (24 papers in the 2026 program)
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-10
+  end: 2026-09-11
+  location: São Paulo, Brazil (with CBSoft 2026)
+  url: https://cbsoft.sbc.org.br/2026/en/symposiums/sblp/call/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-01
+    label: Abstract (extended from 2026-05-20)
+  - kind: submission
+    date: 2026-06-05
+    label: Full paper (CBSoft dates page; the call lists 2026-06-01)
+  - kind: notification
+    date: 2026-07-17
+    label: CBSoft dates page; the call lists 2026-07-15
+  - kind: camera_ready
+    date: 2026-08-01
+sources:
+- https://cbsoft.sbc.org.br/2026/pt/symposiums/sblp/call
+- https://cbsoft.sbc.org.br/2026/pt/symposiums/sblp/event
+- https://cbsoft.sbc.org.br/2026/pt/dates
+- https://cbsoft.sbc.org.br/2026/pt/cbsoft/previous-editions
+- https://sol.sbc.org.br/index.php/sblp/issue/archive
+- https://portal.core.edu.au/conf-ranks/?search=SBLP&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 'SBLP 2026 full paper deadline and notification: the call says 2026-06-01 and 2026-07-15, the CBSoft dates page says 2026-06-05 and 2026-07-17'
+- SBLP 2027 dates and location
+- Acceptance rate
+last_verified: 2026-10-17

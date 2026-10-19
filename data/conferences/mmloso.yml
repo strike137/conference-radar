@@ -1,0 +1,60 @@
+id: mmloso
+name: MMLoSo
+full_name: Workshop on Multimodal Models for Low-Resource Contexts and Social Impact
+type: workshop
+tier: minor
+areas: [ai, nlp, vision]
+region: south-asia
+language: english
+organizer: Organizing committee from IIT Delhi, University of Nevada Reno and University of Central Florida; co-located with IJCNLP-AACL
+organizer_country: [india, usa]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://mmloso-workshop.github.io/
+notes:
+- Workshop on multimodal learning, NLP and AI for social good in low-resource and data-constrained settings
+- First edition held with IJCNLP-AACL 2025 in Mumbai, India, on 2025-12-23
+- Long (8 pages) and short (4 pages) papers, at least three reviewers each, submission via OpenReview
+- Proceedings in the ACL Anthology (2025.mmloso-1)
+- Includes a shared task and competition sponsored by the Ministry of Tribal Affairs, Government of India
+- Three rounds of calls for papers in 2025 (deadlines October 3 after an extension from September 29, October 22 and October 28)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 1st edition, with IJCNLP-AACL 2025
+  start: 2025-12-23
+  end: 2025-12-23
+  location: Mumbai, India
+  url: https://mmloso-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-10-03
+    time: "23:59"
+    tz: UTC
+    label: First call (extended from 2025-09-29)
+  - kind: submission
+    date: 2025-10-22
+    time: "23:59"
+    tz: UTC
+    label: Second call
+  - kind: submission
+    date: 2025-10-28
+    time: "23:59"
+    tz: UTC
+    label: Last call
+  - kind: notification
+    date: 2025-11-15
+  - kind: camera_ready
+    date: 2025-11-25
+sources:
+- https://mmloso-workshop.github.io/
+- https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/MMLoSo
+- https://aclanthology.org/volumes/2025.mmloso-1/
+- https://portal.core.edu.au/conf-ranks/?search=MMLoSo&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No second edition announced yet; frequency unknown

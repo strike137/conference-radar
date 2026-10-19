@@ -1,0 +1,68 @@
+id: wcc
+name: WCC
+full_name: International Workshop on Coding and Cryptography
+type: conference
+tier: minor
+areas: [crypto, communications]
+region: europe
+language: english
+frequency: biennial
+organizer: WCC steering committee (Inria, University of Bergen and other European groups); local organizers change per edition
+organizer_country: [europe]
+proceedings: None (extended abstracts on the workshop website); full papers invited to a special issue of Designs, Codes
+  and Cryptography
+archival: false
+fee: 400 EUR early regular, 250 EUR early student, 500 EUR late (2026)
+typical:
+  deadline_months: [1]
+  conference_months: [6]
+links:
+  website: https://wcc2026.inria.fr/
+notes:
+- Long running biennial workshop on coding theory, cryptology and related discrete mathematics, first held in 1999
+- Earlier editions were hosted mostly by Inria (France) and the Selmer Center (Bergen, Norway); recent editions in Saint-Jacut (2019), Rostock (2022), Perugia (2024) and Paris (2026)
+- Selection on 6 to 10 page extended abstracts, which are posted on the website
+- Non-archival; authors of accepted abstracts are invited to submit full papers to a refereed special issue of Designs, Codes and Cryptography
+- Week-long event; 2026 was the 14th edition at Inria Paris
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2024
+  start: 2024-06-17
+  end: 2024-06-21
+  location: Perugia, Italy
+  url: https://wcc2024.sites.dmi.unipg.it/
+  deadlines:
+  - kind: submission
+    date: 2024-01-12
+    time: "11:59"
+    tz: UTC
+    label: Extended abstract (6 to 10 pages)
+  - kind: notification
+    date: 2024-03-22
+  - kind: camera_ready
+    date: 2024-04-19
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-12
+  location: Paris, France
+  url: https://wcc2026.inria.fr/
+  deadlines:
+  - kind: submission
+    date: 2026-01-15
+    time: "23:59"
+    tz: AoE
+    label: Extended abstract (6 to 10 pages)
+  - kind: notification
+    date: 2026-03-26
+  - kind: other
+    date: 2026-11-05
+    label: Full paper for the DCC special issue
+sources:
+- https://wcc2026.inria.fr/
+- https://wcc2024.sites.dmi.unipg.it/
+- https://www.wcc2022.uni-rostock.de/home/
+- https://www.lebesgue.fr/en/content/sem2019-WCC-Presentation
+- https://portal.core.edu.au/conf-ranks/?search=WCC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- WCC 2028 not announced as of 2026-10-17

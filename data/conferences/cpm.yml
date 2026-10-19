@@ -1,0 +1,81 @@
+id: cpm
+name: CPM
+full_name: Annual Symposium on Combinatorial Pattern Matching
+type: conference
+tier: major
+areas: [data, general]
+region: europe
+language: english
+frequency: annual
+organizer: CPM steering committee
+organizer_country: [international]
+proceedings: LIPIcs
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [11, 2]
+  conference_months: [6]
+links:
+  website: https://cpm2027.github.io/
+  dblp: https://dblp.org/db/conf/cpm/index.html
+notes:
+- Theory venue on searching, indexing and matching strings, trees, graphs and other structures; held every year since 1990 (founded by Maxime Crochemore)
+- Run by an international steering committee; mostly held in Europe (Prague 2022, Marne-la-Vallee 2023, Fukuoka 2024, Milan 2025, Copenhagen 2026, London 2027)
+- Proceedings in LIPIcs (Dagstuhl), open access; LIPIcs volume 369 for CPM 2026
+- Two submission rounds (November and February); papers rejected in round one may be resubmitted in round two
+- Extended abstracts up to 12 pages in LIPIcs style, excluding title page and references; single-blind review
+- A summer school for students is usually held just before the symposium
+- 'CORE rank B (ICORE2026); not on the CCF 2026 list'
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-17
+  location: Copenhagen, Denmark
+  url: https://cpm2026.compute.dtu.dk/
+  deadlines:
+  - kind: submission
+    date: 2025-11-12
+    tz: AoE
+    label: First round
+  - kind: notification
+    date: 2025-12-23
+    label: First round
+  - kind: submission
+    date: 2026-02-13
+    tz: AoE
+    label: Second round
+  - kind: notification
+    date: 2026-04-01
+    label: Second round
+- year: 2027
+  start: 2027-06-16
+  end: 2027-06-18
+  location: London, UK
+  url: https://cpm2027.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-11-11
+    tz: AoE
+    label: First round
+  - kind: notification
+    date: 2026-12-23
+    label: First round
+  - kind: submission
+    date: 2027-02-12
+    tz: AoE
+    label: Second round
+  - kind: notification
+    date: 2027-04-05
+    label: Second round
+sources:
+- https://cpm2027.github.io/
+- https://cpm2027.github.io/p/call_for_papers.html
+- https://cpm2026.compute.dtu.dk/
+- https://cpm2026.compute.dtu.dk/p/call_for_papers
+- https://cpm.cs.helsinki.fi/
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-369
+- https://portal.core.edu.au/conf-ranks/?search=CPM&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- CPM 2027 camera-ready deadline and registration fees not announced yet

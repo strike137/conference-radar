@@ -1,0 +1,78 @@
+id: fieldmatters
+name: FieldMatters
+full_name: Workshop on NLP Applications to Field Linguistics
+type: workshop
+tier: minor
+areas: [nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: Field Matters organizing committee (2027 organizers from University at Buffalo, TU Munich, Palisade Research, University of Gothenburg and Chalmers, UC Santa Barbara); co-located with ACL-family conferences
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://field-matters.github.io/
+notes:
+- Workshop on NLP tools for field linguistics, language documentation and under-resourced languages
+- Held since 2022 (COLING 2022 Gyeongju, EACL 2023 Dubrovnik, ACL 2024 Bangkok, ACL 2025 Vienna, EACL 2026 Rabat, EACL 2027 Athens as the 6th edition)
+- Proceedings in the ACL Anthology every year since 2022
+- Short archival papers up to 4 pages and long archival papers up to 8 pages; non-archival abstracts and papers also accepted, even after the main deadline
+- Accepts ARR pre-reviewed submissions and presentations of Findings papers; submissions via OpenReview
+- 2027 edition runs a shared task on automatic interlinear glossing
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-03-29
+  end: 2026-03-29
+  location: Rabat, Morocco (co-located with EACL 2026)
+  url: https://field-matters.github.io/2026
+  deadlines:
+  - kind: submission
+    date: 2026-01-08
+    label: Direct submission (extended from 2025-12-19)
+  - kind: other
+    date: 2026-01-10
+    label: ARR pre-reviewed submission (extended from 2026-01-02)
+  - kind: notification
+    date: 2026-01-23
+  - kind: camera_ready
+    date: 2026-02-03
+- year: 2027
+  location: Athens, Greece (co-located with EACL 2027)
+  url: https://field-matters.github.io/2027
+  deadlines:
+  - kind: submission
+    date: 2026-12-15
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: other
+    date: 2026-12-22
+    time: "23:59"
+    tz: AoE
+    label: ARR pre-reviewed submission
+  - kind: notification
+    date: 2027-01-11
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-22
+    time: "23:59"
+    tz: AoE
+sources:
+- https://field-matters.github.io/
+- https://field-matters.github.io/cfp/cfp2027
+- https://field-matters.github.io/2027
+- https://field-matters.github.io/cfp/cfp2026
+- https://field-matters.github.io/program/program2026
+- https://aclanthology.org/volumes/2026.fieldmatters-1/
+- https://portal.core.edu.au/conf-ranks/?search=Field+Matters&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- FieldMatters 2027 workshop day not announced yet (EACL 2027 workshops fall within 2027-03-09 to 2027-03-14)
+- Acceptance rate not published
+- FieldMatters 2026 CFP does not state a deadline time zone

@@ -1,0 +1,85 @@
+id: ieee-icps
+name: IEEE ICPS
+full_name: IEEE International Conference on Industrial Cyber-Physical Systems
+type: conference
+tier: minor
+areas: [systems, networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Industrial Electronics Society (IES)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1, 2, 3]
+  conference_months: [5]
+links:
+  website: https://icps2027.ieee-ies.org/
+notes:
+- Annual IEEE Industrial Electronics Society conference on industrial cyber-physical systems, started in 2018; 10th edition in 2027
+- Topics include ICPS architectures, industrial IoT, security and trust, communication networks, edge and cloud computing,
+  digital twins, automation, smart grids and AI in industrial systems
+- Single-blind review; regular papers up to 6 pages plus up to 2 extra pages for a fee; work-in-progress track
+- Accepted and presented papers go to IEEE Xplore
+- 2026 used two submission rounds; 2027 is co-located with IEEE INDIN 2027 in Lisbon
+- Rotates worldwide (Canada 2021 online, UK 2022, Wuhan 2023, St. Louis 2024, Emden 2025, Perth 2026, Lisbon 2027)
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-11
+  end: 2026-05-14
+  location: Perth, Australia
+  url: https://icps2026.ieee-ies.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-17
+    tz: AoE
+    label: Round 1 papers
+  - kind: notification
+    date: 2026-03-03
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2026-03-09
+    tz: AoE
+    label: Work-in-progress papers
+  - kind: submission
+    date: 2026-03-10
+    tz: AoE
+    label: Round 2 papers
+  - kind: notification
+    date: 2026-03-24
+    tz: AoE
+    label: Round 2 and work-in-progress
+  - kind: camera_ready
+    date: 2026-04-05
+    tz: AoE
+    label: Final paper and author registration
+- year: 2027
+  start: 2027-05-10
+  end: 2027-05-14
+  location: Lisbon, Portugal
+  url: https://icps2027.ieee-ies.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-12
+  - kind: notification
+    date: 2027-02-16
+  - kind: submission
+    date: 2027-02-16
+    label: Work-in-progress papers
+  - kind: camera_ready
+    date: 2027-04-02
+sources:
+- https://icps2027.ieee-ies.org/
+- https://icps2027.ieee-ies.org/for_authors/
+- https://icps2026.ieee-ies.org/
+- https://icps2026.ieee-ies.org/for_authors/
+- https://www.ieee-ies.org/conferences
+- https://www.ieee-ies.org/conferences/recently-held-conferences
+- https://portal.core.edu.au/conf-ranks/?search=ICPS&by=all&source=ICORE2026
+unverified:
+- ICPS 2027 special session and tutorial proposal deadline (the site shows 12 Dec 2027, apparently a typo for 2026)
+- Acceptance rate and registration fees
+last_verified: 2026-10-17

@@ -1,0 +1,51 @@
+id: gain-ws
+name: GAIN
+full_name: IEEE/IFIP Workshop on Generative AI for Network Management
+type: workshop
+tier: minor
+areas: [networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs from University of Toronto, Budapest University of Technology and Economics and Blekinge Institute of Technology, at IEEE/IFIP NOMS
+organizer_country: [canada, europe]
+proceedings: IEEE Xplore (NOMS workshop proceedings)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5]
+links:
+  website: https://sites.google.com/view/3nd-ieee-ifip-noms-gain-ws/startseite
+notes:
+- Co-located with IEEE/IFIP NOMS since 2024 (Seoul 2024, Honolulu 2025, Rome 2026), so it moves with the host
+- Topics are generative AI and LLMs for network management along FCAPS; 2026 added agentic AI
+- Scientific and industrial use case papers, at most 6 pages in IEEE double-column format, submitted via JEMS3
+- Accepted and presented papers appear in the NOMS proceedings and are submitted to IEEE Xplore; in-person presentation expected
+- Half-day workshop with six papers in 2026; deadline was extended twice that year
+editions:
+- year: 2026
+  start: 2026-05-18
+  end: 2026-05-18
+  location: Rome, Italy (with NOMS 2026)
+  url: https://sites.google.com/view/3nd-ieee-ifip-noms-gain-ws/startseite
+  deadlines:
+  - kind: submission
+    date: 2026-02-09
+    label: Extended twice (originally 2026-01-19, then 2026-02-02)
+  - kind: notification
+    date: 2026-03-09
+    label: Extended (originally 2026-03-02)
+  - kind: camera_ready
+    date: 2026-03-22
+    label: Very hard deadline (originally 2026-03-16)
+sources:
+- https://sites.google.com/view/3nd-ieee-ifip-noms-gain-ws/startseite
+- https://noms2026.ieee-noms.org/workshops
+- https://lists.mcs.anl.gov/pipermail/hpc-announce/2026-January/011676.html
+- https://lists.mcs.anl.gov/pipermail/hpc-announce/2023-December/010035.html
+- https://portal.core.edu.au/conf-ranks/?search=GAIN&by=all&source=ICORE2026
+unverified:
+- GAIN 2027 not announced; NOMS 2027 (Montreal) workshop list not yet published
+- 2024 and 2025 editions known only from mailing list calls for papers, not an official page
+- Not listed in the CORE ICORE2026 portal or the CCF list
+last_verified: 2026-10-17

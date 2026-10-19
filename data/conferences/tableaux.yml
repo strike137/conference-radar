@@ -1,0 +1,69 @@
+id: tableaux
+name: TABLEAUX
+full_name: International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
+type: conference
+tier: major
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: TABLEAUX Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS/LNAI
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://tableaux-conf.github.io/web/
+  dblp: https://dblp.org/db/conf/tableaux/index.html
+notes:
+- Main venue for tableaux-based reasoning and related proof methods (sequent and nested calculi, modal and non-classical logics, decision procedures, provers)
+- Held every year since 1992; stand-alone in odd years, part of IJCAR together with CADE and FroCoS in even years (IJCAR 2026 Lisbon at FLoC)
+- Proceedings in Springer LNCS/LNAI since 1995 (LNCS 15980 for 2025, gold open access; LNCS 14278 for 2023)
+- Usually held in Europe (Birmingham 2021, Prague 2023, Reykjavik 2025, Marseille 2027)
+- Often co-located with FroCoS (2023 Prague, 2025 with FroCoS and ITP in Reykjavik, 2027 Marseille)
+- Regular papers up to 15 pages and short papers (system descriptions, case studies) up to 9 pages in LNCS style, excluding references
+- One author must present in person and pay a regular registration fee
+- CORE B in ICORE2026 (listed as International Conference on Theorem Proving with Analytic Tableaux and Related Methods); not on the CCF list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-29
+  location: Reykjavik, Iceland (with FroCoS and ITP 2025)
+  url: https://icetcs.github.io/frocos-itp-tableaux25/tableaux/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-09
+    tz: AoE
+  - kind: submission
+    date: 2025-05-18
+    tz: AoE
+    label: Extended from May 14
+  - kind: notification
+    date: 2025-06-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-14
+    tz: AoE
+- year: 2027
+  start: 2027-09-27
+  end: 2027-10-01
+  location: Marseille, France (with FroCoS 2027)
+  url: https://tableaux-frocos27.lis-lab.fr/tableaux/index.html
+sources:
+- https://tableaux-conf.github.io/web/
+- https://tableaux-conf.github.io/web/previous
+- https://tableaux-conf.github.io/web/proceedings
+- https://icetcs.github.io/frocos-itp-tableaux25/tableaux/
+- https://tableaux-frocos27.lis-lab.fr/tableaux/index.html
+- https://tableaux-frocos27.lis-lab.fr/tableaux/dates.html
+- https://portal.core.edu.au/conf-ranks/?search=TABLEAUX&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- TABLEAUX 2027 deadlines are TBA on the official site as of 2026-10-17
+- 2027 dates (September 27 to October 1) are for the joint TABLEAUX/FroCoS event; the TABLEAUX days alone are not stated
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn not checked directly)

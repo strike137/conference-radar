@@ -1,0 +1,59 @@
+id: lafi
+name: LAFI
+full_name: Workshop on Languages for Inference
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: LAFI organizing and steering committee, co-located with ACM SIGPLAN POPL
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1]
+links:
+  website: https://popl27.sigplan.org/home/lafi-2027
+notes:
+- One-day POPL workshop bringing programming-language and machine-learning researchers together on probabilistic and differentiable programming languages and inference
+- Held with POPL every January; 2022 was the 7th edition, then Boston 2023, London 2024, Denver 2025, Rennes 2026 and Mexico City 2027
+- Extended abstracts of 2 pages plus references and optional appendices, anonymized peer review, no required format (ACM template suggested)
+- Informal and non-archival; presenting does not preclude later formal publication under the SIGPLAN republication policy
+- Workshop aims to allow participation without travel
+- 2027 organizers from the UK (Diffractive Labs / University of Oxford) and France (Inria, ENS)
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-11
+  end: 2026-01-11
+  location: Rennes, France (co-located with POPL 2026)
+  url: https://conf.researchr.org/home/popl-2026/lafi-2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-30
+    tz: AoE
+  - kind: notification
+    date: 2025-11-27
+    tz: AoE
+- year: 2027
+  location: Mexico City, Mexico (co-located with POPL 2027)
+  url: https://popl27.sigplan.org/home/lafi-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-02
+    tz: AoE
+  - kind: notification
+    date: 2026-11-27
+    tz: AoE
+sources:
+- https://popl27.sigplan.org/home/lafi-2027
+- https://conf.researchr.org/home/popl-2026/lafi-2026
+- https://conf.researchr.org/home/popl-2025/lafi-2025
+- https://conf.researchr.org/home/popl-2022/lafi-2022
+- https://conf.researchr.org/home/popl-2027
+- https://portal.core.edu.au/conf-ranks/?search=LAFI&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Exact LAFI 2027 workshop day within POPL 2027 (10 to 16 January 2027) not yet stated on the official page

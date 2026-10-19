@@ -1,0 +1,48 @@
+id: safe-edge
+name: SAFE-EDGE
+full_name: Workshop on Security, Availability, and Fault-Tolerance in Edge AI Systems
+type: workshop
+tier: minor
+areas: [security, ai, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Chairs from University of Oulu, Mälardalen University and Munster Technological University; co-located workshop of ARES (SBA Research)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://www.ares-conference.eu/safe-edge
+notes:
+- Workshop of ARES (International Conference on Availability, Reliability and Security), held in Europe every summer;
+  first edition at ARES 2026 (Linköping)
+- Submission guidelines are the same as for the ARES conference; ARES 2026 and its workshop papers are published in
+  Springer LNCS, workshop papers up to 18 pages including references
+- Topics include adversarial ML at the edge, intrusion detection for edge AI nodes, fault-tolerant inference,
+  confidential computing and TEEs, and secure federated learning
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-27
+  location: Linköping, Sweden
+  url: https://www.ares-conference.eu/safe-edge
+  deadlines:
+  - kind: submission
+    date: 2026-05-18
+  - kind: notification
+    date: 2026-06-01
+  - kind: camera_ready
+    date: 2026-06-13
+sources:
+- https://www.ares-conference.eu/safe-edge
+- https://www.ares-conference.eu/conference/workshops
+- https://www.ares-conference.eu/submission-guidelines
+- https://portal.core.edu.au/conf-ranks/?search=SAFE-EDGE&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within ARES 2026 (only the conference dates 24-27 Aug are given)
+- SAFE-EDGE 2027 (ARES 2027 not yet announced as of 2026-10-17)
+last_verified: 2026-10-17

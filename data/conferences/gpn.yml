@@ -1,0 +1,60 @@
+id: gpn
+name: GPN
+full_name: Gulaschprogrammiernacht
+type: industry
+tier: minor
+areas: [security, software]
+region: europe
+language: mixed
+frequency: annual
+organizer: Entropia e.V. (CCC Karlsruhe)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6]
+links:
+  website: https://entropia.de/GPN
+notes:
+- Four-day hacker event run by Entropia e.V., the Karlsruhe chapter (Erfa-Kreis) of the Chaos Computer Club
+- Held in Karlsruhe, Germany, since 2002 (no edition in 2020 and 2021 due to the pandemic); recent editions at the HfG (Hochschule fuer Gestaltung) and the ZKM
+- Talks, short talks, workshops and meetups on hardware and software development, IT security, privacy and net politics, plus a hackcenter
+- Submissions go through a pretalx call for participation; talks are streamed and recorded via media.ccc.de, no proceedings
+- Talks in German and English (GPN24 had about 100 German and 48 English sessions)
+- Volunteer-run and donation-funded; mandatory registration with limited places, more than 1500 visitors expected
+editions:
+- year: 2025
+  start: 2025-06-19
+  end: 2025-06-22
+  location: HfG and ZKM, Karlsruhe, Germany
+  url: https://entropia.de/GPN23
+  deadlines:
+  - kind: submission
+    date: 2025-05-31
+    time: "23:59"
+    tz: CEST
+    label: Call for participation (talks, workshops, meetups)
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-07
+  location: HfG and ZKM, Karlsruhe, Germany
+  url: https://entropia.de/GPN24
+  deadlines:
+  - kind: submission
+    date: 2026-04-26
+    time: "23:59"
+    tz: CEST
+    label: Call for participation (talks, workshops, meetups)
+sources:
+- https://entropia.de/GPN
+- https://entropia.de/GPN23
+- https://entropia.de/GPN24
+- https://cfp.gulas.ch/gpn23/cfp
+- https://cfp.gulas.ch/gpn24/cfp
+- https://cfp.gulas.ch/gpn24/schedule/
+- https://portal.core.edu.au/conf-ranks/?search=GPN&by=all&source=ICORE2026
+unverified:
+- GPN25 is only announced as expected in 2027; no dates yet (as of 2026-10-17)
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

@@ -1,0 +1,92 @@
+id: ipcai
+name: IPCAI
+full_name: International Conference on Information Processing in Computer-Assisted Interventions
+type: conference
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IPCAI steering committee, held jointly with the CARS congress
+organizer_country: [international]
+proceedings: IJCARS (Springer journal, IPCAI special issue)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [6, 7]
+links:
+  website: https://www.sites.google.com/view/ipcai2027
+  dblp: https://dblp.org/db/conf/ipcai/index.html
+notes:
+- Computer-assisted surgery and interventions (surgical data science, medical robotics, interventional imaging, navigation, AR/VR)
+- Accepted regular papers go through a final review round at IJCARS and appear as full journal papers in the IPCAI special issue
+- Regular papers up to 12 pages in IJCARS format, single-blind review via CMT, with an intention-to-submit step and a revision round
+- Also has a long abstract track (late-breaking research and presentation of recently published journal articles)
+- Held with the CARS congress, mostly in Europe with some editions in Japan (Tokyo 2022, Nagoya 2026); 2027 is in Berlin
+- Deadlines are end of day Pacific Time, with no extensions
+- Not ranked in ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-02
+  end: 2026-07-04
+  location: Nagoya, Japan (with CARS 2026)
+  url: https://www.sites.google.com/view/ipcai2026
+  deadlines:
+  - kind: abstract
+    date: 2025-10-23
+    time: "23:59"
+    tz: PDT
+    label: Intention to submit regular papers
+  - kind: submission
+    date: 2025-10-30
+    time: "23:59"
+    tz: PDT
+    label: Regular papers
+  - kind: notification
+    date: 2025-12-14
+    label: Initial decisions (moved from 2025-12-11)
+  - kind: other
+    date: 2026-01-15
+    time: "23:59"
+    tz: PST
+    label: Revisions due and long abstract submission
+  - kind: notification
+    date: 2026-02-11
+    label: Final decisions
+- year: 2027
+  start: 2027-06-28
+  end: 2027-06-30
+  location: Berlin, Germany (with CARS 2027)
+  url: https://www.sites.google.com/view/ipcai2027
+  deadlines:
+  - kind: abstract
+    date: 2026-10-23
+    time: "23:59"
+    tz: PDT
+    label: Intention to submit regular papers
+  - kind: submission
+    date: 2026-10-30
+    time: "23:59"
+    tz: PDT
+    label: Regular papers
+  - kind: notification
+    date: 2026-12-16
+    label: Initial decisions
+  - kind: other
+    date: 2027-01-15
+    time: "23:59"
+    tz: PST
+    label: Revisions due and long abstract submission
+  - kind: notification
+    date: 2027-02-16
+    label: Final decisions
+sources:
+- https://www.sites.google.com/view/ipcai2027
+- https://www.sites.google.com/view/ipcai2027/conference-timeline
+- https://www.sites.google.com/view/ipcai2027/call-for-papers-and-long-abstracts
+- https://www.sites.google.com/view/ipcai2027/past-ipcai-conferences
+- https://www.sites.google.com/view/ipcai2027/organization
+- https://www.sites.google.com/view/ipcai2026
+- https://sites.google.com/view/ipcai2026/conference-timeline
+- https://portal.core.edu.au/conf-ranks/?search=IPCAI&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17

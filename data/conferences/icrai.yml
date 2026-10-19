@@ -1,0 +1,58 @@
+id: icrai
+name: ICRAI
+full_name: International Conference on Robotics and Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Conference secretariat (contact via icraiconf@outlook.com) with a different host university each year (Yonsei University in 2026, Nagoya University in 2025)
+proceedings: IEEE Xplore (2025); ACM DL for 2017 to 2024
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [11]
+  conference_months: [11, 12]
+links:
+  website: https://www.icrai.org/
+notes:
+- Smaller commercially organized robotics and AI conference; 12th edition in 2026, edition pages on the site go back to 2017
+- The organizing company is not named on the site, so organizer_country is left out
+- Proceedings were published by ACM (2017 to 2024) and by IEEE (2025, IEEE Xplore); the 2026 call only says "conference proceedings" without naming the publisher
+- Abstract-only submissions go into the program book but are not published
+- Papers 4 to 10 pages, extra charge above 5 pages
+- Held in Singapore 2022 to 2024, Nagoya 2025 and Songdo, Incheon (Korea) 2026
+- Not listed in the ICORE2026 portal and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-12-19
+  end: 2025-12-21
+  location: Nagoya, Japan
+  url: https://www.icrai.org/2025.html
+- year: 2026
+  start: 2026-12-18
+  end: 2026-12-20
+  location: Songdo, Incheon, Korea
+  url: https://www.icrai.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-05
+  - kind: notification
+    date: 2026-11-20
+  - kind: other
+    date: 2026-11-30
+    label: Registration deadline
+sources:
+- https://www.icrai.org/
+- https://www.icrai.org/2025.html
+- https://www.icrai.org/2024.html
+- https://www.icrai.org/2023.html
+- https://www.icrai.org/pub.html
+- https://www.icrai.org/committees.html
+- https://www.icrai.org/submission.html
+- https://portal.core.edu.au/conf-ranks/?search=ICRAI&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Publisher of the 2026 proceedings not named on the official site
+- ICRAI 2025 submission deadline not found on the official site

@@ -1,0 +1,72 @@
+id: frocos
+name: FroCoS
+full_name: International Symposium on Frontiers of Combining Systems
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: FroCoS Steering Committee
+organizer_country: [international]
+proceedings: Springer LNAI/LNCS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://frocos.cs.uiowa.edu/
+  dblp: https://dblp.org/db/conf/frocos/index.html
+notes:
+- Main venue for combining and integrating formal systems (combined logics, SAT/SMT, decision procedures, term rewriting, ontologies)
+- Stand-alone symposium in odd years; in even years it merges into IJCAR together with CADE and TABLEAUX
+- Proceedings in Springer LNAI or LNCS (LNAI 15979 in 2025, gold open access; LNCS 14279 in 2023)
+- Usually held in Europe (London 2019, Birmingham 2021, Prague 2023, Reykjavik 2025, Marseille 2027)
+- Often co-located with TABLEAUX and ITP (2025 joint FroCoS/ITP/TABLEAUX in Reykjavik; 2027 with TABLEAUX)
+- Papers up to 15 pages in LNCS style excluding references; abstract registration one week before the paper deadline
+- One author must present in person and pay a regular registration fee
+- 21 full papers from 32 submissions in 2025
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-09-29
+  end: 2025-10-01
+  location: Reykjavik, Iceland (Reykjavik University, with ITP and TABLEAUX 2025)
+  url: https://icetcs.github.io/frocos-itp-tableaux25/frocos/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-09
+    tz: AoE
+    label: Extended from May 5
+  - kind: submission
+    date: 2025-05-16
+    tz: AoE
+    label: Extended from May 12
+  - kind: notification
+    date: 2025-06-23
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-07
+    tz: AoE
+- year: 2027
+  start: 2027-09-29
+  end: 2027-10-01
+  location: Marseille, France (with TABLEAUX 2027)
+  url: https://tableaux-frocos27.lis-lab.fr/frocos/index.html
+sources:
+- https://frocos.cs.uiowa.edu/
+- https://frocos.cs.uiowa.edu/meetings.shtml
+- https://frocos.cs.uiowa.edu/proceedings.shtml
+- https://frocos.cs.uiowa.edu/committee.shtml
+- https://icetcs.github.io/frocos-itp-tableaux25/frocos/
+- https://tableaux-frocos27.lis-lab.fr/frocos/index.html
+- https://tableaux-frocos27.lis-lab.fr/frocos/dates.html
+- https://portal.core.edu.au/conf-ranks/?search=FroCoS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- FroCoS 2027 deadlines are TBA on the official site as of 2026-10-17
+- FroCoS meetings page gives 2027 dates as September 28 to October 1; the home page and the 2027 site say September 29 to October 1
+- Acceptance figure (21 of 32) taken from the Springer volume description, not the official site
+- No ICORE2026 entry found for FroCoS (no rank shown on the portal)
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn not checked directly)

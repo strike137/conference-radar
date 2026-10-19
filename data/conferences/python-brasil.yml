@@ -1,0 +1,59 @@
+id: python-brasil
+name: Python Brasil
+full_name: Python Brasil (Brazilian Python Conference)
+type: industry
+tier: minor
+areas: [software, ai]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: Local Python community with APyB (Associacao Python Brasil)
+organizer_country: [other]
+proceedings: None (talks and tutorials only; no papers)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [10]
+links:
+  website: https://2026.pythonbrasil.org.br/
+notes:
+- Largest Python community conference in Brazil and Latin America, run by volunteers with support from APyB (Brazilian Python Association)
+- Hosted by a different local community each year; Sao Paulo in 2025, Florianopolis in 2026
+- Main language is Portuguese; the site is also in English and Spanish
+- Tutorials (3.5 or 7 hours), 45 minute talks and sprints chosen from one call for proposals run on pretalx
+- Talks and tutorials are rated by the community of submitters, then selected by the organizers; at most one accepted activity of each type per person
+- Early acceptance round for about 25% of the program before the call closes
+- Program is streamed online; no papers or proceedings
+editions:
+- year: 2025
+  start: 2025-10-21
+  end: 2025-10-27
+  location: Sao Paulo, Brazil
+  url: https://2025.pythonbrasil.org.br/
+  deadlines: []
+- year: 2026
+  start: 2026-10-14
+  end: 2026-10-19
+  location: Florianopolis, Brazil
+  url: https://2026.pythonbrasil.org.br/
+  deadlines:
+  - kind: notification
+    date: 2026-05-10
+    label: First acceptance round (about 25%)
+  - kind: submission
+    date: 2026-05-24
+    tz: UTC-3
+    label: Talk, tutorial and sprint proposals (CFP)
+  - kind: notification
+    date: 2026-06-21
+    label: Final acceptance round
+sources:
+- https://2026.pythonbrasil.org.br/
+- https://talks.python.org.br/pybr26/cfp
+- https://2025.pythonbrasil.org.br/
+- https://portal.core.edu.au/conf-ranks/?search=Python&by=all&source=ICORE2026
+unverified:
+- 2025 call for proposals dates not recorded
+- Python Brasil 2027 dates and host city not yet announced
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

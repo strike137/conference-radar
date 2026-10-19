@@ -1,0 +1,72 @@
+id: iwclul
+name: IWCLUL
+full_name: International Workshop on Computational Linguistics for Uralic Languages
+type: workshop
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: annual
+organizer: ACL SIGUR (Special Interest Group on Uralic Languages)
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [11, 12]
+links:
+  website: https://acl-sigur.github.io/
+notes:
+- Small specialist workshop on NLP for Uralic languages (Finnish, Hungarian, Estonian, Sami, Komi, Udmurt, Erzya and others), many of them low resource or endangered
+- Run by ACL SIGUR; held as a self-standing event despite the workshop name
+- Recent editions in Munich 2026, Joensuu 2025, Helsinki 2024 and Tokyo 2023 (joint with NLP4DH)
+- Long papers up to 8 pages and short papers up to 4 pages, double-blind review on OpenReview
+- Papers in the ACL Anthology; 750-word lightning talk abstracts go to a separate lightning proceedings
+- No registration or publication fees; remote presentation allowed for a valid reason
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  label: 10th edition
+  start: 2025-12-10
+  end: 2025-12-12
+  location: Joensuu, Finland (University of Eastern Finland)
+  url: https://acl-sigur.github.io/iwclul2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-10-26
+    tz: AoE
+    label: Full and short papers (extended)
+  - kind: notification
+    date: 2025-11-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-23
+    tz: AoE
+- year: 2026
+  label: 11th edition
+  start: 2026-12-09
+  end: 2026-12-11
+  location: Munich, Germany (LMU Munich)
+  url: https://acl-sigur.github.io/iwclul2026.html
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-18
+    tz: AoE
+    label: Full and short papers
+  - kind: notification
+    date: 2026-11-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-15
+    tz: AoE
+sources:
+- https://acl-sigur.github.io/iwclul2026.html
+- https://acl-sigur.github.io/iwclul2025.html
+- https://acl-sigur.github.io/iwclul2024.html
+- https://aclanthology.org/venues/iwclul/
+- https://www.nlp4dh.com/past-events/nlp4dh-iwclul-2023
+- https://portal.core.edu.au/conf-ranks/?search=IWCLUL&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Lightning talk abstract deadline for 2026 not stated on the official page

@@ -1,0 +1,62 @@
+id: sigturk
+name: SIGTURK
+full_name: Workshop on Natural Language Processing for Turkic Languages
+type: workshop
+tier: minor
+areas: [nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ACL SIGTURK (Special Interest Group on Turkic Languages)
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3, 8]
+links:
+  website: https://sigturk.github.io/workshops/
+notes:
+- Workshop of the ACL Special Interest Group on Turkic Languages, co-located with a major *ACL conference
+- Editions with ACL 2024 (Bangkok), EACL 2026 (Rabat) and ACL 2027 (Kyoto)
+- Research papers up to 8 pages plus shared task system descriptions; direct submission via OpenReview or via ACL Rolling Review
+- Each edition hosts a shared task (2026 terminology-aware English to Turkish machine translation)
+- Proceedings in the ACL Anthology
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-29
+  end: 2026-03-29
+  location: Rabat, Morocco (with EACL 2026)
+  url: https://sigturk.github.io/workshops/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-12-30
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (extended from Dec 19)
+  - kind: submission
+    date: 2026-01-02
+    time: "23:59"
+    tz: AoE
+    label: Pre-reviewed (ARR) submission
+  - kind: notification
+    date: 2026-01-23
+  - kind: camera_ready
+    date: 2026-02-03
+- year: 2027
+  start: 2027-08-18
+  end: 2027-08-19
+  location: Kyoto, Japan (with ACL 2027)
+  url: https://sigturk.github.io/workshops/2027/
+  status: tentative
+  deadlines: []
+sources:
+- https://sigturk.github.io/workshops/
+- https://sigturk.github.io/workshops/2026/
+- https://sigturk.github.io/workshops/2027/
+- https://aclanthology.org/venues/sigturk/
+- https://portal.core.edu.au/conf-ranks/?search=SIGTURK&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- SIGTURK 2027 is one day, August 18 or 19, 2027 (to be confirmed); call for papers not yet announced

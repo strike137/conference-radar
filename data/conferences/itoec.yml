@@ -1,0 +1,69 @@
+id: itoec
+name: IEEE ITOEC
+full_name: IEEE Information Technology and Mechatronics Engineering Conference
+type: conference
+tier: minor
+areas: [general]
+region: china
+language: english
+frequency: irregular
+organizer: Chongqing Global Union Academy of Science and Technology (GUAST), technically co-sponsored by IEEE Harbin Section
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+fee: 600 USD author, 550 USD student or IEEE member, 200 USD listener (2026)
+typical:
+  deadline_months: [5, 8]
+  conference_months: [3, 9]
+links:
+  website: http://www.itoec.org/
+notes:
+- Run by the Chongqing Global Union Academy of Science and Technology, a company that also runs IAEAC, IMCEC, ITNEC and ITAIC
+- Held in Chongqing every edition; 2026 was the 9th edition (IEEE conference record 69754)
+- Proceedings in IEEE Xplore under ISSN 2693-289X; the site says all past papers are indexed in EI
+- Broad scope covering IT, mechatronics, networking, electronics and automation control
+- Two submission rounds with short review cycles; papers of at least 4 pages
+- Not held every year (no edition in 2021 or 2024)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-03-14
+  end: 2025-03-16
+  location: Chongqing, China
+- year: 2026
+  start: 2026-09-18
+  end: 2026-09-20
+  location: Chongqing, China
+  url: http://www.itoec.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    label: Round 1
+  - kind: notification
+    date: 2026-06-10
+    label: Round 1
+  - kind: camera_ready
+    date: 2026-06-20
+    label: Round 1
+  - kind: submission
+    date: 2026-08-08
+    label: Round 2 (extended)
+  - kind: notification
+    date: 2026-08-10
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-08-20
+    label: Round 2
+sources:
+- http://www.itoec.org/
+- http://www.itoec.org/Important_Dates.asp
+- http://www.itoec.org/Registration.asp
+- https://conferences.ieee.org/conferences_events/conferences/conferencedetails/69754
+- https://api.crossref.org/works?query.bibliographic=Information+Technology+and+Mechatronics+Engineering+Conference+ITOEC&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ITOEC&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- ITOEC 2025 deadlines (no longer shown on the official site)
+- ITOEC 2027 (not announced yet)
+- Acceptance rate not published

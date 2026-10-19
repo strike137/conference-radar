@@ -1,0 +1,61 @@
+id: agriculture-vision
+name: Agriculture-Vision
+full_name: "International Workshop on Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture"
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Researchers from UIUC, Blue River Technology, Kansas State University, Georgia Tech and others
+organizer_country: [usa]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://www.agriculture-vision.com/
+notes:
+- Workshop co-located with CVPR every year since 2020; 2026 was the 7th edition
+- Single proceedings track of full papers up to 8 pages excluding references in CVPR format, published in the CVPR Workshops proceedings
+- Submission and review on OpenReview; top papers get oral slots, the rest posters
+- Some editions also run a prize challenge on the Agriculture-Vision dataset and a tutorial
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Nashville, USA
+  url: https://www.agriculture-vision.com/agriculture-vision-2025
+  deadlines:
+  - kind: submission
+    date: 2025-03-23
+    label: Full papers (extended)
+  - kind: notification
+    date: 2025-03-31
+  - kind: camera_ready
+    date: 2025-04-04
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, USA
+  url: https://www.agriculture-vision.com/agriculture-vision-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-01
+    label: Full papers
+  - kind: notification
+    date: 2026-03-25
+sources:
+- https://www.agriculture-vision.com/
+- https://www.agriculture-vision.com/agriculture-vision-2026/call-for-papers-2026
+- https://www.agriculture-vision.com/agriculture-vision-2026/program-schedule-2026
+- https://www.agriculture-vision.com/agriculture-vision-2025/call-for-papers-2025
+- https://www.agriculture-vision.com/agriculture-vision-2025/program-schedule-2025
+- https://portal.core.edu.au/conf-ranks/?search=Agriculture&by=all&source=ICORE2026
+unverified:
+- Deadline times are written as "12:59PM PDT" on the official pages (likely meaning 11:59 PM Pacific), so no time is recorded
+- 2026 camera ready deadline listed as TBD
+- Agriculture-Vision 2027 (expected with CVPR 2027 in June 2027) not announced yet
+last_verified: 2026-10-17

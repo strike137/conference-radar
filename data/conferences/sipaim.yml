@@ -1,0 +1,70 @@
+id: sipaim
+name: SIPAIM
+full_name: International Symposium on Medical Information Processing and Analysis
+type: conference
+tier: minor
+areas: [vision, ai]
+region: latin-america
+language: english
+frequency: annual
+organizer: SIPAIM Society
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://sipaim.org/
+notes:
+- Annual symposium of the SIPAIM Society, a nonprofit that promotes biomedical engineering research in Latin
+  America; 22nd edition in 2026
+- Medical imaging, biosignals, digital pathology, e-health and AI in healthcare; endorsed by MICCAI
+- Full papers up to 4 pages plus 1 page of references (IEEE template), single-blind review, published in IEEE
+  Xplore; 1-page abstracts presented as posters
+- Rotates within Latin America (Valparaiso 2022, Mexico City 2023, Antigua 2024, Pasto 2025, Lima 2026)
+- Deadlines are usually extended by about four weeks
+- Not ranked in CORE ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-19
+  end: 2025-11-21
+  location: Pasto, Colombia
+  url: https://sipaim.org/history/2025
+  deadlines:
+  - kind: submission
+    date: 2025-08-07
+    label: Full paper (extended from 2025-07-10)
+  - kind: notification
+    date: 2025-09-11
+  - kind: camera_ready
+    date: 2025-10-20
+- year: 2026
+  start: 2026-11-18
+  end: 2026-11-20
+  location: Lima, Peru
+  url: https://sipaim.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-06
+    label: Full paper (extended from 2026-07-09)
+  - kind: notification
+    date: 2026-09-10
+  - kind: camera_ready
+    date: 2026-10-15
+  - kind: other
+    date: 2026-09-24
+    label: Abstracts
+sources:
+- https://sipaim.org/
+- https://sipaim.org/submission
+- https://sipaim.org/conference
+- https://sipaim.org/history/2025
+- https://sipaim.org/history/2024
+- https://www.sipaim.org/society/conferences
+- https://portal.core.edu.au/conf-ranks/?search=SIPAIM&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Deadline time zone not stated on the official site
+- Country of the SIPAIM Society not stated (contact address and phone are Colombian)
+- Whether the 2026 papers are already in IEEE Xplore (the site says they will be submitted for inclusion)

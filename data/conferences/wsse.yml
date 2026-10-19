@@ -1,0 +1,69 @@
+id: wsse
+name: WSSE
+full_name: World Symposium on Software Engineering
+type: conference
+tier: minor
+areas: [software]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Science and Engineering Institute (SCIEI) with Hiroshima University and Japanese host universities (Nara Women's University in 2026)
+proceedings: ACM DL
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [5, 9]
+  conference_months: [9, 10]
+links:
+  website: https://www.wsse.org/
+notes:
+- Smaller software engineering symposium started in 2019; topics range from requirements, testing and reliability to AI and HCI
+- Run by the organizer SCIEI (contact wsse@sciei.org, submission via EasyChair) with Hiroshima University as sponsor
+- Started in Wuhan, China in 2019; online 2020 to 2022 (organized by Huaqiao University, China in 2021 and 2022); held in Japan since 2023 (Tokyo, Kyoto, Okayama, Nara)
+- Proceedings 2019 to 2025 in the ACM Digital Library, indexed by EI Compendex and Scopus per the site
+- Several submission rounds; a final deadline about six weeks before the event
+- About 45 of nearly 100 submissions accepted in 2024 and about 60 of over 120 in 2023 per the history pages
+- Abstract-only presentation is possible without publication
+- Selected papers invited to a special issue of the MDPI journal Software
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-24
+  end: 2025-10-26
+  location: Okayama, Japan
+  url: https://www.wsse.org/2025.html
+- year: 2026
+  start: 2026-10-16
+  end: 2026-10-18
+  location: Nara, Japan
+  url: https://www.wsse.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    label: First round
+  - kind: notification
+    date: 2026-06-25
+    label: First round
+  - kind: submission
+    date: 2026-09-05
+    label: Final round
+  - kind: notification
+    date: 2026-09-15
+    label: Final round
+  - kind: other
+    date: 2026-09-20
+    label: Registration (final round)
+sources:
+- https://www.wsse.org/
+- https://www.wsse.org/cfp.html
+- https://www.wsse.org/2025.html
+- https://www.wsse.org/2024.html
+- https://www.wsse.org/2023.html
+- https://www.wsse.org/2022.html
+- https://www.wsse.org/2021.html
+- https://portal.core.edu.au/conf-ranks/?search=WSSE&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Not found in CORE ICORE2026 by acronym or full name
+- Country of SCIEI not stated, so organizer_country is left out
+- WSSE 2027 not announced yet

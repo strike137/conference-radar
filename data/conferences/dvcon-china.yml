@@ -1,0 +1,68 @@
+id: dvcon-china
+name: DVCon China
+full_name: Design and Verification Conference and Exhibition China
+type: industry
+tier: minor
+areas: [systems]
+region: china
+language: mixed
+frequency: annual
+organizer: Accellera Systems Initiative
+organizer_country: [usa]
+proceedings: DVCon China website (presentation slides)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [4, 5]
+links:
+  website: https://dvcon-china.org/
+notes:
+- Industry conference on standardized languages, tools and methodologies for design and verification of electronic systems and ICs (SystemVerilog, UVM, SystemC, PSS, IP-XACT, UPF, AI agents for verification)
+- Chinese edition of the Accellera DVCon series, first held in 2017; one-day event at the Shanghai Renaissance Pudong Hotel with tutorials, papers, posters and an exhibition
+- Blind review of a 600 to 1000 word abstract first, then draft paper, final paper and slides after acceptance
+- Some talks are given in Chinese; presentation slides are posted on the DVCon China website
+- Not held in 2022 (cancelled because of COVID-19)
+- Not listed in the CORE portal (ICORE2026) or on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-13
+  location: Shanghai, China
+  url: https://dvcon-china.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-28
+- year: 2027
+  location: Shanghai Renaissance Pudong Hotel, Shanghai, China
+  url: https://dvcon-china.org/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-21
+  - kind: notification
+    date: 2027-03-03
+  - kind: submission
+    date: 2027-04-14
+    label: Draft paper for review
+  - kind: camera_ready
+    date: 2027-04-28
+    label: Final paper and copyright form
+  - kind: other
+    date: 2027-05-12
+    label: Draft presentation slides
+  - kind: other
+    date: 2027-05-18
+    label: Final presentation slides
+sources:
+- https://dvcon-china.org/
+- https://dvcon-china.org/Data/List/CallForAbstracts
+- https://dvcon-china.org/Data/List/ABOUTDVCON
+- https://dvcon-china.org/Data/List/Proceedings
+- https://accellera.org/news/newsletters/2025-december
+- https://accellera.org/news/newsletters/2025-may
+- https://accellera.org/news/press-releases/228-accellera-adds-dvcon-china-in-2017
+- https://portal.core.edu.au/conf-ranks/?search=DVCon&by=all&source=ICORE2026
+unverified:
+- DVCon China 2027 is announced only as May 2027 in Shanghai; exact dates are not given
+- The 2026 date and abstract deadline come from Accellera's December 2025 newsletter; the DVCon China site now shows only 2027
+- The site's proceedings page lists slides only; whether full papers are published is not stated
+- Deadline times and time zones are not stated
+last_verified: 2026-10-17

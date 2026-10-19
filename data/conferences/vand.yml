@@ -1,0 +1,56 @@
+id: vand
+name: VAND
+full_name: Visual Anomaly and Novelty Detection Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing team from MedUni Vienna, AWS AI Labs, Singapore Management University, Durham University,
+  Intel, Endress + Hauser and MVTec; co-located with CVPR
+organizer_country: [europe, usa, singapore]
+proceedings: CVPR Workshops proceedings (CVF Open Access)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/vand4-cvpr2026
+notes:
+- Workshop on anomaly, novelty and out-of-distribution detection in images and video, with industrial inspection and
+  medical applications
+- Held with CVPR every year since 2023 (Vancouver 2023, Seattle 2024, Nashville 2025, Denver 2026); 2026 was VAND 4.0
+- Full papers only, 8 pages in CVPR format, double-blind review with no rebuttal, submitted through OpenReview
+- Accepted papers are published with the CVPR workshop proceedings on CVF Open Access (7 papers in 2026, 15 in 2025)
+- Runs dataset challenges alongside the paper track
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: VAND 4.0, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA
+  url: https://sites.google.com/view/vand4-cvpr2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-02
+    tz: AoE
+    label: Extended from 2026-02-26
+  - kind: notification
+    date: 2026-03-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-08
+    tz: AoE
+sources:
+- https://sites.google.com/view/vand4-cvpr2026
+- https://sites.google.com/view/vand4-cvpr2026/call-for-papers
+- https://sites.google.com/view/vand-2-0-cvpr-2024
+- https://sites.google.com/view/vand-cvpr23
+- https://openaccess.thecvf.com/CVPR2026_workshops/VAND
+- https://openaccess.thecvf.com/CVPR2025_workshops/VAND
+- https://portal.core.edu.au/conf-ranks/?search=VAND&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Next edition (VAND 5.0, likely with CVPR 2027) not announced yet

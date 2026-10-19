@@ -1,0 +1,57 @@
+id: aigc
+name: AIGC
+full_name: International Conference on AI-Generated Content
+type: conference
+tier: minor
+areas: [ai, vision]
+region: china
+language: english
+frequency: annual
+organizer: Spectrum Professional Conference Organizer (SPCO), Shanghai
+organizer_country: [china]
+proceedings: SPIE Proceedings
+archival: true
+indexing: [EI, Scopus]
+fee: Regular author 500 USD / 3500 RMB, student author 450 USD / 3000 RMB, presentation only 350 USD, listener 200 USD (2026, 4 to 6 pages; extra pages 50 USD each)
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://www.icaigc.org/
+notes:
+- Commercially organized Chinese conference run by the Shanghai event company SPCO
+- Held in China every year (Shanghai 2023, Beijing 2024, Hangzhou 2025, Guangzhou 2026)
+- Accepted papers published by SPIE and submitted to EI Compendex and Scopus, per the site
+- Single-blind review via Microsoft CMT; papers up to 6 pages in SPIE format
+- Short review cycle (about 11 days from deadline to notification)
+- Presentation-only (abstract) and listener registration are also offered
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 3rd AIGC
+  location: Hangzhou, China
+- year: 2026
+  label: 4th AIGC
+  start: 2026-12-26
+  end: 2026-12-27
+  location: Guangzhou, China
+  url: https://www.icaigc.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-23
+    tz: AoE
+  - kind: notification
+    date: 2026-11-03
+  - kind: other
+    date: 2026-11-13
+    label: Registration due
+sources:
+- https://www.icaigc.org/
+- https://www.icaigc.org/sub.html
+- https://www.icaigc.org/reg.html
+- https://www.icaigc.org/committee.html
+- https://portal.core.edu.au/conf-ranks/?search=AIGC&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Dates and proceedings of the 2023 to 2025 editions are not given on the official site

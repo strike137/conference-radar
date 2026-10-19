@@ -1,0 +1,84 @@
+id: hpg
+name: HPG
+full_name: High-Performance Graphics
+type: conference
+tier: minor
+areas: [vision, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGGRAPH and Eurographics (co-sponsors), with an HPG steering committee
+organizer_country: [international]
+proceedings: ACM DL (Proceedings of the ACM on Computer Graphics and Interactive Techniques, PACMCGIT); also archived in the Eurographics Digital Library
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6, 7]
+links:
+  website: https://www.highperformancegraphics.org/
+  dblp: https://dblp.org/db/conf/egh/
+notes:
+- Performance-oriented graphics venue where industry and academia meet (ray tracing, GPU architecture, real-time rendering, neural rendering systems)
+- Successor of the Graphics Hardware workshop (since 1986) and the Interactive Ray Tracing symposium, named HPG since 2009
+- Co-sponsored by ACM SIGGRAPH and Eurographics; accepted papers appear in an open-access special issue of PACMCGIT
+- Double-blind review in two rounds; conditionally accepted papers submit a revision that is reviewed again
+- Alternates between co-location with SIGGRAPH in North America and with EGSR in Europe (Delft 2023, Denver 2024, Copenhagen 2025, Los Angeles 2026, Lugano 2027); online 2020 to 2022
+- Not listed in ICORE2026 and not in the CCF list, but well regarded in the real-time rendering community
+- Includes Hot3D industry talks, posters and a student competition
+editions:
+- year: 2026
+  start: 2026-07-17
+  end: 2026-07-19
+  location: Los Angeles, USA (USC Hotel, co-located with SIGGRAPH)
+  url: https://www.highperformancegraphics.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-01
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-04-10
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-05-08
+    time: "23:59"
+    tz: AoE
+    label: Conditional acceptance
+  - kind: other
+    date: 2026-05-15
+    time: "23:59"
+    tz: AoE
+    label: Poster submissions
+  - kind: other
+    date: 2026-05-25
+    time: "23:59"
+    tz: AoE
+    label: Revised papers due
+  - kind: notification
+    date: 2026-06-01
+    time: "23:59"
+    tz: AoE
+    label: Final acceptance
+  - kind: camera_ready
+    date: 2026-06-05
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-07-07
+  end: 2027-07-09
+  location: Lugano, Switzerland (Universita della Svizzera italiana, USI, co-hosted with EGSR)
+  url: https://www.highperformancegraphics.org/2026/
+sources:
+- https://www.highperformancegraphics.org/2026/
+- https://www.highperformancegraphics.org/2026/call-for-participation/
+- https://www.highperformancegraphics.org/2026/web-archive/
+- https://www.highperformancegraphics.org/2026/steering-committee/
+- https://egsr2027.usi.ch/
+- https://portal.core.edu.au/conf-ranks/?search=HPG&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- HPG 2027 has no own site yet; dates and place come from the HPG 2026 home page and the EGSR 2027 site
+- HPG 2027 call for papers and deadlines not yet published
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-17

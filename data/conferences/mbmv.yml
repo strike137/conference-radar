@@ -1,0 +1,71 @@
+id: mbmv
+name: MBMV
+full_name: ITG/GI/GMM Workshop Methoden und Beschreibungssprachen zur Modellierung und Verifikation von Schaltungen
+  und Systemen (Methods and Description Languages for Modelling and Verification of Circuits and Systems)
+name_local: Methoden und Beschreibungssprachen zur Modellierung und Verifikation von Schaltungen und Systemen
+type: conference
+tier: domestic
+areas: [systems, software]
+region: europe
+language: mixed
+frequency: annual
+organizer: GMM and ITG (both VDE) with the GI special interest groups FG3 and FG4; hosted by a different university
+  each year (JMU Wuerzburg with VDE in 2026)
+organizer_country: [europe]
+proceedings: IEEE Xplore (English scientific papers); VDE Verlag e-book
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [3]
+links:
+  website: https://www.informatik.uni-wuerzburg.de/mbmv/
+notes:
+- German-speaking workshop on modelling, formal verification and synthesis of circuits and HW/SW systems, run by the
+  GMM, ITG and GI special interest groups; 29th edition in 2026
+- Standalone event despite the "workshop" name, held each March at a German university (2026 at JMU Wuerzburg)
+- Workshop language is German; papers in English are welcome
+- Three categories; peer-reviewed scientific papers of 6 to 12 pages, overview talks of 1 to 4 pages and 1-page
+  open-source software or benchmark demos
+- Proceedings appear as a VDE Verlag e-book; English scientific papers are meant to go into IEEE Xplore; overview talks appear only as abstracts in the workshop
+  proceedings, not in IEEE Xplore
+- Program committee mixes German and Austrian universities with EDA and chip companies (Infineon, Bosch, Siemens EDA,
+  Synopsys)
+- Submission via EasyChair using the VDE Verlag template; 2026 deadlines were extended by about two weeks
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 29th MBMV
+  start: 2026-03-17
+  end: 2026-03-18
+  location: Wuerzburg, Germany
+  url: https://go.uniwue.de/mbmv26
+  deadlines:
+  - kind: abstract
+    date: 2026-01-26
+    label: Extended from 2026-01-12
+  - kind: submission
+    date: 2026-01-30
+    label: Full paper (extended from 2026-01-19)
+  - kind: notification
+    date: 2026-02-25
+    label: Moved from 2026-02-16
+  - kind: camera_ready
+    date: 2026-03-04
+    label: Moved from 2026-03-01
+  - kind: other
+    date: 2026-03-06
+    label: Registration deadline
+sources:
+- https://go.uniwue.de/mbmv26
+- https://www.informatik.uni-wuerzburg.de/fileadmin/10031730/2025/2026-mbmv-cfp-v01.pdf
+- https://www.informatik.uni-wuerzburg.de/mbmv/
+- https://www.informatik.uni-wuerzburg.de/mbmv/call-for-papers/
+- https://www.informatik.uni-wuerzburg.de/mbmv/organisation/
+- https://www.informatik.uni-wuerzburg.de/mbmv/tagungsort/
+- https://portal.core.edu.au/conf-ranks/?search=MBMV&by=all&source=ICORE2026
+unverified:
+- MBMV 2027 host, dates and call for papers not announced as of 2026-10-17
+- Host sites of editions before 2026 not checked on official pages, so region europe rests on the venue being run by
+  German societies
+- CCF rank checked only via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-10-17

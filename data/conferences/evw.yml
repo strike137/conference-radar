@@ -1,0 +1,63 @@
+id: evw
+name: EVW
+full_name: Embedded Vision Workshop
+type: workshop
+tier: minor
+areas: [vision, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers Matteo Poggi, Tse-Wei Chen, Branislav Kisacanin and Ahmed Nabil Belbachir);
+  co-located with CVPR or ICCV
+organizer_country: [international]
+proceedings: CVPR / ICCV Workshops proceedings (CVF Open Access)
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://embeddedvisionworkshop.wordpress.com/
+notes:
+- Long-running workshop on efficient and real-time computer vision on embedded and edge devices, held since 2005 (formerly the
+  IEEE Workshop on Embedded Computer Vision)
+- Usually co-located with CVPR in June; the 2025 edition was with ICCV 2025 in Hawaii (October) and 2020 with ECCV
+- Double-blind review through Microsoft CMT, papers in CVPR format; demo abstracts up to 4 pages are not included in the proceedings
+- Accepted papers go into the main conference workshop proceedings, indexed in EI Compendex (7 papers on CVF Open Access in 2026
+  and in 2025)
+- Has a yearly main theme (Energy-Efficient Embedded Vision in 2026) and best paper awards
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, Hawaii, USA (with ICCV 2025)
+  url: https://embeddedvisionworkshop.wordpress.com/2026/01/12/2025/
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://embeddedvisionworkshop.wordpress.com/
+  deadlines:
+  - kind: submission
+    date: 2026-03-11
+  - kind: notification
+    date: 2026-03-25
+  - kind: camera_ready
+    date: 2026-04-10
+    time: "23:59"
+    tz: PDT
+sources:
+- https://embeddedvisionworkshop.wordpress.com/
+- https://embeddedvisionworkshop.wordpress.com/paper-submission/
+- https://embeddedvisionworkshop.wordpress.com/2026/01/12/2025/
+- https://embeddedvisionworkshop.wordpress.com/2025/05/10/2024/
+- https://openaccess.thecvf.com/CVPR2026_workshops/EVW
+- https://openaccess.thecvf.com/ICCV2025_workshops/EVW
+- https://portal.core.edu.au/conf-ranks/?search=EVW&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- The official page states the camera-ready deadline as 11:59 Pacific Time; recorded as PDT
+- No time zone is given for the 2026 submission deadline
+- Exact 2025 deadlines are not listed on the archived 2025 page
+- EVW 2027 not announced yet

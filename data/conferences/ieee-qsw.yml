@@ -1,0 +1,54 @@
+id: ieee-qsw
+name: IEEE QSW
+full_name: IEEE International Conference on Quantum Software
+type: conference
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society (Technical Community on Services Computing), part of the IEEE World Congress on SERVICES
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE Computer Society Press)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://services.conferences.computer.org/2026/qsw/
+notes:
+- One of six theme conferences of the IEEE World Congress on SERVICES (with CLOUD, EDGE, ICDH, ICWS and SSE), sponsored
+  by IEEE and the IEEE Computer Society and supported by the IEEE Technical Community on Services Computing
+- 'Software-level quantum computing venue: languages, compilers, verification and testing, hybrid quantum-classical systems, quantum cloud and HPC integration'
+- 5th edition in 2026
+- 'Rotates worldwide with the congress: Shenzhen (2024), Helsinki (2025), Sydney (2026)'
+- Regular papers 7 to 10 pages, short papers 4 to 6 pages, references extra; IEEE two-column format
+- Shares one submission deadline with the other SERVICES conferences except ICDH; the 2026 deadline was extended by two weeks
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-18
+  location: Sydney, Australia
+  url: https://services.conferences.computer.org/2026/qsw/
+  deadlines:
+  - kind: submission
+    date: 2026-03-22
+    label: Papers (extended from 2026-03-08, firm)
+  - kind: notification
+    date: 2026-05-10
+  - kind: camera_ready
+    date: 2026-05-31
+    label: Camera-ready and registration (QSW CFP page; the congress author page says 2026-06-07)
+sources:
+- https://services.conferences.computer.org/2026/qsw/
+- https://services.conferences.computer.org/2026/qsw/qsw-call-for-papers
+- https://services.conferences.computer.org/2026/info-for-authors/
+- https://services.conferences.computer.org/2025/qsw/
+- https://portal.core.edu.au/conf-ranks/?search=QSW&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- QSW 2027 dates and location not announced yet (no SERVICES 2027 site as of 2026-10-17)
+- Acceptance rate not stated on the official site
+- Camera-ready date differs between the QSW CFP page (2026-05-31) and the congress author page (2026-06-07)
+last_verified: 2026-10-17

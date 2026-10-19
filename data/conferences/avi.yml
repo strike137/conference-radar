@@ -1,0 +1,71 @@
+id: avi
+name: AVI
+full_name: International Conference on Advanced Visual Interfaces
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: biennial
+organizer: AVI Steering Committee (mostly Italian HCI researchers); AVI 2026 hosted by Ca' Foscari University of Venice
+organizer_country: [europe]
+proceedings: ACM DL (ACM ICPS)
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [1]
+  conference_months: [6]
+links:
+  website: https://www.unive.it/web/en/15667/home
+notes:
+- Biennial human-computer interaction conference on visual and interactive interfaces, first held in 1992
+- Always held in Italy, in even years; AVI 2026 (18th edition) on San Servolo island, Venice
+- Proceedings in the ACM International Conference Proceedings Series (ACM DL); SIGCHI logo shown on the AVI 2026 site
+- Long papers 8 pages and short papers 4 pages plus references, anonymized submission via EasyChair
+- Interactive experiences, demo and poster papers (2 pages) have a later deadline
+- "Fee (2026, early): 750 EUR ACM member, 800 EUR non-member, 450 EUR student (conference only)"
+- Ranked B in ICORE2026 and C in the CCF 2026 list (HCI)
+editions:
+- year: 2026
+  label: 18th AVI
+  start: 2026-06-08
+  end: 2026-06-12
+  location: San Servolo, Venice, Italy
+  url: https://www.unive.it/web/en/15667/home
+  deadlines:
+  - kind: abstract
+    date: 2026-01-18
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-01-25
+    time: "23:59"
+    tz: AoE
+    label: Long and short papers
+  - kind: notification
+    date: 2026-03-02
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-03-09
+    time: "23:59"
+    tz: AoE
+    label: Interactive experiences, demos and posters
+  - kind: camera_ready
+    date: 2026-04-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.unive.it/web/en/15667/home
+- https://www.unive.it/web/en/16576/long-and-short-research-papers
+- https://www.unive.it/web/en/16575/interactive-experiences-demo-and-poster-papers
+- https://www.unive.it/web/en/16533/committees
+- https://www.unive.it/web/en/16541/conference
+- https://portal.core.edu.au/conf-ranks/?search=AVI&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-10-17
+unverified:
+- AVI 2028 not announced on an official page found as of 2026-10-17
+- Acceptance rate not stated

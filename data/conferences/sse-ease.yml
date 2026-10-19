@@ -1,0 +1,54 @@
+id: sse-ease
+name: SSE
+full_name: International Workshop on Software Security Engineering
+type: workshop
+tier: minor
+areas: [security, software]
+region: europe
+language: english
+frequency: annual
+organizer: SSE workshop chairs (King Fahd University of Petroleum and Minerals), co-located with EASE
+organizer_country: [other]
+proceedings: ACM DL (EASE companion proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://conf.researchr.org/series/secure-software
+notes:
+- One-day workshop on empirical software security engineering (secure requirements, design, coding, testing, deployment, metrics, SLRs), co-located with EASE
+- Held with EASE in Glasgow 2026, Istanbul 2025, Salerno 2024, Oulu 2023, Gothenburg 2022, online 2020 and 2021
+- Papers in ACM format; workshop papers go into the EASE conference companion proceedings
+- Chairs from King Fahd University of Petroleum and Minerals, Saudi Arabia
+- Not to be confused with IEEE SSE (Software Services Engineering)
+- Not listed under this name in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: 6th edition, with EASE 2026
+  start: 2026-06-12
+  end: 2026-06-12
+  location: Glasgow, United Kingdom (co-located with EASE 2026)
+  url: https://conf.researchr.org/home/secure-software-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-09
+    tz: AoE
+    label: Extended from 2026-03-02
+  - kind: notification
+    date: 2026-04-06
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-30
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/secure-software-2026
+- https://conf.researchr.org/track/ease-2026/secure-software-2026-papers
+- https://softwareengineeringresearch.net/SSE26/CfP_SSE26.pdf
+- https://conf.researchr.org/series/secure-software
+- https://conf.researchr.org/home/ease-2027
+- https://portal.core.edu.au/conf-ranks/?search=SSE&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2027 edition announced yet; not on the EASE 2027 site as of 2026-10-17
+- The official track page text still says proceedings are integrated with the EASE 2025 companion proceedings (likely a leftover; 2026 companion assumed)

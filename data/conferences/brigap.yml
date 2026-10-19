@@ -1,0 +1,72 @@
+id: brigap
+name: BriGap
+full_name: Workshop on the Bridges and Gaps between Formal and Computational Linguistics
+type: workshop
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: irregular
+organizer: BriGap chairs (Timothee Bernard, Universite Paris Cite, and co-chairs); grew out of the ILFC online seminar of the French CNRS research network LIFT
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7, 9]
+links:
+  website: https://brigap-workshop.github.io/
+notes:
+- Workshop for formal linguists, computational linguists and NLP researchers on how their fields can build on each other
+- 1st edition at ESSLLI 2022, 2nd at IWCS 2025 in Dusseldorf, 3rd as a standalone one-day event in Paris in 2026
+- Archival papers (short up to 4 pages, long up to 8 pages) go into the ACL Anthology; non-archival work in progress and dissemination submissions also accepted
+- Submissions via OpenReview using the ACL style; camera-ready gets one extra page
+- BriGap-3 registration was free but mandatory; funded by RT LIFT2, LLF and InIdEx EFL
+- BriGap-3 strongly discourages use of generative AI in submissions; detected hallucinations lead to rejection
+- A fourth edition is being organised (no dates yet)
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-24
+  end: 2025-09-24
+  location: Dusseldorf, Germany (with IWCS 2025)
+  url: https://brigap-workshop.github.io/2025/index
+  deadlines:
+  - kind: submission
+    date: 2025-06-15
+    tz: AoE
+    label: Extended from 2025-06-06 and 2025-06-13
+  - kind: notification
+    date: 2025-07-29
+  - kind: camera_ready
+    date: 2025-08-21
+    label: Archival papers only
+- year: 2026
+  start: 2026-07-11
+  end: 2026-07-11
+  location: Universite Paris Cite, Paris, France
+  url: https://brigap-workshop.github.io/2026/index
+  deadlines:
+  - kind: submission
+    date: 2026-05-03
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-27
+  - kind: notification
+    date: 2026-05-18
+    label: Moved from 2026-05-11
+  - kind: camera_ready
+    date: 2026-06-11
+    time: "23:59"
+    tz: AoE
+    label: Archival papers only
+sources:
+- https://brigap-workshop.github.io/
+- https://brigap-workshop.github.io/2026/index
+- https://brigap-workshop.github.io/2025/index
+- https://aclanthology.org/venues/brigap/
+- https://portal.core.edu.au/conf-ranks/?search=BriGap&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Dates and venue of the announced fourth edition
+- Frequency treated as irregular (editions in 2022, 2025 and 2026)

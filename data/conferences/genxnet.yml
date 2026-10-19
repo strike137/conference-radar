@@ -1,0 +1,59 @@
+id: genxnet
+name: GenXNet
+full_name: IEEE International Workshop on Generative and eXplainable Artificial Intelligence for Networking
+type: workshop
+tier: minor
+areas: [networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: TRAFFIC research group, University of Napoli Federico II (general chairs Antonio Pescape and others), held with IEEE WiMob
+organizer_country: [europe]
+proceedings: IEEE Xplore (WiMob proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://traffic-arclab.github.io/genxnet2026/
+notes:
+- Workshop of IEEE WiMob (CORE B); first edition 2025 in Marrakech, second 2026 in Avignon
+- Topics are generative AI and LLMs for networking (traffic generation, anomaly detection, log analysis, network management) and explainable AI for AI-driven networking
+- Accepted and presented papers appear in the WiMob proceedings and are submitted to IEEE Xplore
+- Papers up to 6 pages in IEEE format
+- Half-day session on the WiMob workshop day
+editions:
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Marrakech, Morocco (with IEEE WiMob 2025)
+  url: https://traffic-arclab.github.io/genxnet2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-30
+    label: Extended deadline
+  - kind: notification
+    date: 2025-08-15
+  - kind: camera_ready
+    date: 2025-09-01
+- year: 2026
+  start: 2026-10-14
+  end: 2026-10-14
+  location: Avignon, France (with IEEE WiMob 2026)
+  url: https://traffic-arclab.github.io/genxnet2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-09-01
+sources:
+- https://traffic-arclab.github.io/genxnet2026/
+- https://traffic-arclab.github.io/genxnet2025/
+- http://www.wimob.org/wimob2026/programme.php
+- https://portal.core.edu.au/conf-ranks/?search=GenXNet&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced yet
+- Not listed in the CORE ICORE2026 portal or the CCF list
+last_verified: 2026-10-17

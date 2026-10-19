@@ -1,0 +1,57 @@
+id: a4ne
+name: A4NE
+full_name: 'SIGCOMM Education Workshop: Networking Education for the AI Generation'
+type: workshop
+tier: minor
+areas: [networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ACM SIGCOMM workshop; 2026 organizers Matthew Caesar (University of Illinois), Vasanta Chaganti (Swarthmore
+  College), James F. Kurose (University of Massachusetts Amherst) and Ranysha Ware (Swarthmore College)
+organizer_country: [international]
+proceedings: Workshop website (PDFs of accepted papers, non-archival)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [8]
+links:
+  website: https://a4ne-workshop.github.io/
+notes:
+- Full-day hybrid workshop co-located with ACM SIGCOMM 2026 in Denver; follows the 2020 SIGCOMM Education Workshop
+- Topics are teaching computer networking, AI in networking courses, labs and testbeds such as FABRIC, curricula and assessment
+- Short papers 1 to 4 pages and long papers 5 to 10 pages in the ACM sigconf template, anonymous submission via HotCRP
+- Constructive review with the goal of accepting most submissions; in-person attendance not required
+- Submissions are non-archival; accepted papers are posted as PDFs on the workshop site and discussed in themed panels
+- Virtual registration is free; in-person registration goes through SIGCOMM
+editions:
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-17
+  location: Denver, USA (with ACM SIGCOMM 2026) and virtual
+  url: https://a4ne-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-07
+    time: "23:59"
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2026-06-30
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-08
+    time: "23:59"
+    tz: AoE
+    label: Extended deadline
+sources:
+- https://a4ne-workshop.github.io/
+- https://a4ne-workshop.github.io/papers.html
+- https://conferences.sigcomm.org/sigcomm/2026/workshops/a4ne/
+- https://portal.core.edu.au/conf-ranks/?search=A4NE&by=all&source=ICORE2026
+unverified:
+- The SIGCOMM 2026 workshop page lists notification 2026-06-26 and camera ready 2026-07-01; the workshop site gives the later dates used here
+- No 2027 edition announced; unclear whether the workshop will recur
+- Not listed in the CORE ICORE2026 portal or the CCF list
+last_verified: 2026-10-17

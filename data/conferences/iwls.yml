@@ -1,0 +1,84 @@
+id: iwls
+name: IWLS
+full_name: International Workshop on Logic and Synthesis
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IWLS Steering Committee, with a host university each year (Fudan University in 2027)
+organizer_country: [international]
+proceedings: None (participants only)
+archival: false
+fee: 500 USD non-member, 400 USD IEEE/ACM member, 300 USD student (2026, early registration)
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5, 6]
+links:
+  website: https://www.iwls.org/
+notes:
+- Main research forum for logic synthesis, optimization and verification of integrated circuits; first held in 1987
+- Standalone workshop hosted by a university each year; recent editions in Lausanne 2023, Zurich 2024, Verona 2025,
+  Hong Kong 2026, Shanghai 2027 (2021 and 2022 virtual)
+- Complete papers up to 8 pages excluding references; double-blind review; early-stage ideas are welcome
+- Non-archival, accepted papers are distributed only to participants, so work can later go to DAC, ICCAD or DATE
+- Runs a yearly logic synthesis programming contest with cash prizes and a best student paper award
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-29
+  end: 2026-05-31
+  location: Marco Polo Hongkong Hotel, Hong Kong, China
+  url: https://www.iwls.org/iwls2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-27
+    tz: AoE
+    label: Extended (originally 2026-03-20)
+  - kind: submission
+    date: 2026-04-03
+    tz: AoE
+    label: Extended (originally 2026-03-27)
+  - kind: notification
+    date: 2026-05-08
+    tz: AoE
+    label: Postponed (originally 2026-05-03)
+  - kind: camera_ready
+    date: 2026-05-20
+    tz: AoE
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-19
+  location: State Key Laboratory of Integrated Chips and Systems (Fudan University), Shanghai, China
+  url: https://www.iwls.org/iwls2027/
+  deadlines:
+  - kind: abstract
+    date: 2027-02-08
+    tz: AoE
+    label: Regular and special session papers
+  - kind: submission
+    date: 2027-02-15
+    tz: AoE
+  - kind: notification
+    date: 2027-03-21
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-05-08
+    tz: AoE
+sources:
+- https://www.iwls.org/iwls2026/
+- https://www.iwls.org/iwls2026/cfp_iwls2026-v5.pdf
+- https://www.iwls.org/iwls2027/
+- https://www.iwls.org/iwls2027/cfp/cfp_iwls2027.pdf
+- https://www.iwls.org/iwls2025/
+- https://www.iwls.org/iwls2024/
+- https://www.iwls.org/iwls2023/
+- https://www.iwls.org/iwls2022/
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+- https://portal.core.edu.au/conf-ranks/?search=IWLS&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- IWLS 2027 dates (May 17 to 19) come from the call for papers PDF; the web page still says only "May, 2027"
+- IWLS 2027 submission site and registration fees not announced as of 2026-10-17
+- CCF absence checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)

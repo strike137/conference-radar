@@ -1,0 +1,72 @@
+id: acm-icons
+name: ICONS
+full_name: ACM International Conference on Neuromorphic Systems
+type: conference
+tier: minor
+areas: [ai, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: ICONS steering committee (Oak Ridge National Laboratory), in cooperation with ACM SIGAI and SIGDA
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [7, 8]
+links:
+  website: https://iconsneuromorphic.cc/
+notes:
+- First held in 2018 in Knoxville, Tennessee, organized by Oak Ridge National Laboratory; steering committee and
+  general chairs mostly from ORNL and US national labs and universities
+- Technical co-sponsors are ACM, ACM SIGAI and ACM SIGDA; proceedings in the ACM Digital Library
+- Covers neuromorphic architectures, circuits and devices, spiking and brain-inspired algorithms, software and
+  energy-efficient edge AI
+- Full papers up to 8 pages and short papers up to 4 pages (including references) in ACM format; rejected papers are
+  considered for posters
+- Review includes an author rebuttal phase (2026)
+- Small venue held in the USA (2023 Santa Fe, 2024 Arlington, 2025 Bellevue, 2026 Naperville); 2023 and 2024 were
+  hybrid
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-07-29
+  end: 2025-07-31
+  location: Bellevue, Washington, USA
+  url: https://iconsneuromorphic.cc/icons2025-2/
+  deadlines:
+  - kind: submission
+    date: 2025-05-04
+    tz: AoE
+    label: Papers (extended from 2025-04-15)
+  - kind: notification
+    date: 2025-06-13
+- year: 2026
+  start: 2026-08-04
+  end: 2026-08-06
+  location: Naperville (Chicago), Illinois, USA
+  url: https://iconsneuromorphic.cc/
+  deadlines:
+  - kind: submission
+    date: 2026-04-08
+    tz: AoE
+    label: Full and short papers (extended from 2026-04-01)
+  - kind: notification
+    date: 2026-06-05
+  - kind: camera_ready
+    date: 2026-06-24
+sources:
+- https://iconsneuromorphic.cc/
+- https://iconsneuromorphic.cc/calls-2026/
+- https://iconsneuromorphic.cc/Committees-2026/
+- https://iconsneuromorphic.cc/Sponsors-2026/
+- https://iconsneuromorphic.cc/proceedings/
+- https://iconsneuromorphic.cc/icons2025-2/
+- https://iconsneuromorphic.cc/icons-2024/
+- https://icons.ornl.gov/
+- https://portal.core.edu.au/conf-ranks/?search=ICONS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ICONS 2027 dates and location not announced as of 2026-10-17
+- The ICONS 2025 page names Hyatt Regency Bellevue as venue but its body text also mentions Arlington (copied from
+  2024); Bellevue taken from the page header

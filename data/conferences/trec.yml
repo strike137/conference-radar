@@ -1,0 +1,62 @@
+id: trec
+name: TREC
+full_name: Text REtrieval Conference
+type: conference
+tier: minor
+areas: [data, nlp, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: NIST (Multimodal Language Technology Group, Information Technology Laboratory)
+organizer_country: [usa]
+proceedings: NIST Special Publication (TREC proceedings, free online at trec.nist.gov)
+archival: false
+typical:
+  conference_months: [11]
+links:
+  website: https://trec.nist.gov/
+  dblp: https://dblp.org/db/conf/trec/index.html
+notes:
+- Evaluation workshop series run by the US National Institute of Standards and Technology since 1992
+- Participation is through tracks (2026 has AutoJudge, Change Detection, Million LLM, RAG, RAGTIME, User Simulation
+  and Video QA); groups register in spring and submit runs, mostly June to August
+- No regular paper call; participants write notebook papers that NIST publishes as a Special Publication without
+  peer review
+- Only registered track participants can attend the November conference
+- Held at NIST in Gaithersburg, Maryland, with a remote option; online from 2020 to 2025
+- Calls for track proposals for the next year close in late September
+- Counterparts are CLEF (Europe), NTCIR (Japan) and FIRE (India)
+- Not found in the CORE ICORE2026 search and not in the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-10
+  end: 2025-12-11
+  location: Online
+  url: https://trec.nist.gov/pubs/trec34/
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-18
+  location: NIST, Gaithersburg, MD, USA (with remote attendance)
+  url: https://trec.nist.gov/cfp.html
+- year: 2027
+  url: https://trec.nist.gov/cftracks.html
+  deadlines:
+  - kind: other
+    date: 2026-09-27
+    tz: AoE
+    label: Track proposals for TREC 2027
+  - kind: notification
+    date: 2026-10-16
+    label: Track proposals
+sources:
+- https://trec.nist.gov/
+- https://trec.nist.gov/cfp.html
+- https://trec.nist.gov/cftracks.html
+- https://trec.nist.gov/overview.html
+- https://trec.nist.gov/publications.html
+- https://trec.nist.gov/pubs/trec34/
+- https://portal.core.edu.au/conf-ranks/?search=TREC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- TREC 2026 per-track run submission deadlines are in each track's guidelines and not collected here
+- TREC 2027 conference dates (call for tracks says November 2027)

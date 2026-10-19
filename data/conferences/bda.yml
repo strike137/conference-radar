@@ -1,0 +1,87 @@
+id: bda
+name: BDA
+full_name: "Conférence sur la Gestion de Données: Principes, Technologies et Applications"
+type: conference
+tier: domestic
+areas: [data]
+region: europe
+language: mixed
+frequency: annual
+organizer: BDA French-speaking data management community (Journees BDA)
+organizer_country: [europe]
+proceedings: BDA actes (informal; password-protected PDF for participants in 2025)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://bdav.irisa.fr/
+notes:
+- Annual French-speaking database and data management conference, held since 1985 (originally Bases de Donnees Avancees); 2026 is the 42nd edition
+- Held in a different French city each year (Orleans 2024, Toulouse 2025, Dijon 2026)
+- Long papers (12 pages), short papers (6 pages), PhD student papers (2 pages, posters) and demos (5 pages), in French or English, ACM sigconf format
+- Accepts unpublished (NP) papers, including ones under double submission, and already published (P) papers that appear only as a 2-page summary
+- Actes are informal; the BDA community site says proceedings since 2015 are on HAL, and the 2025 actes PDF was password-protected for participants
+- Best papers invited to a TLDKS journal special issue
+- Includes a BDA PhD thesis prize
+- "Registration fee: 270 EUR student, 370 EUR academic before the early deadline (2026)"
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  label: 41st BDA
+  start: 2025-10-20
+  end: 2025-10-23
+  location: IRIT, Toulouse, France
+  url: https://bda2025.sciencesconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-16
+    label: Extended from 2025-05-30
+  - kind: submission
+    date: 2025-06-20
+    label: Papers and demos (extended from 2025-06-06)
+  - kind: notification
+    date: 2025-07-23
+    label: Extended from 2025-07-04
+  - kind: submission
+    date: 2025-07-23
+    label: Demos, second call
+- year: 2026
+  label: 42nd BDA
+  start: 2026-10-19
+  end: 2026-10-22
+  location: ESEO, Dijon, France
+  url: https://bda2026.sciencesconf.org/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-06-10
+    time: "23:59"
+    tz: CEST
+    label: Extended from 2026-05-31
+  - kind: submission
+    date: 2026-06-10
+    time: "23:59"
+    tz: CEST
+    label: Papers and demos (extended from 2026-05-31)
+  - kind: notification
+    date: 2026-07-12
+  - kind: other
+    date: 2026-09-18
+    label: PhD thesis prize applications (extended from 2026-09-14)
+sources:
+- https://bdav.irisa.fr/
+- https://bdav.irisa.fr/historique-2/
+- https://bda2026.sciencesconf.org/
+- https://bda2026.sciencesconf.org/resource/page/id/2
+- https://bda2026.sciencesconf.org/resource/page/id/7
+- https://bda2026.sciencesconf.org/resource/page/id/9
+- https://bda2026.sciencesconf.org/resource/page/id/10
+- https://bda2025.sciencesconf.org/
+- https://bda2025.sciencesconf.org/resource/page/id/2
+- https://bda2025.sciencesconf.org/resource/page/id/16
+- https://portal.core.edu.au/conf-ranks/?search=BDA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2026 deadline time (23h59) stated without a zone; CEST (French local time) assumed
+- HAL deposit of recent proceedings not confirmed; 2025 actes PDF is password-protected

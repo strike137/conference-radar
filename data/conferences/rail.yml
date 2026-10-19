@@ -1,0 +1,74 @@
+id: rail
+name: RAIL
+full_name: Workshop on Resources for African Indigenous Languages
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: South African Centre for Digital Language Resources (SADiLaR)
+organizer_country: [other]
+proceedings: ACL Anthology (EACL and LREC editions); JDHASA journal (DHASA-hosted editions)
+archival: true
+typical:
+  deadline_months: [3, 8]
+  conference_months: [5, 11]
+links:
+  website: https://sadilar.org/en/rail/
+notes:
+- Workshop on language resources, NLP and speech tools for African indigenous languages, run by SADiLaR (South Africa)
+- Co-located with a different host each year (EACL 2023 Dubrovnik, LREC-COLING 2024 Turin, DHASA 2025 Pretoria, LREC 2026 Palma)
+- Proceedings in the ACL Anthology for editions held with EACL or LREC (2026 volume published by ELRA)
+- Editions held with DHASA in South Africa (2021, 2025) and the 2022 Potchefstroom edition publish accepted papers in JDHASA, the Journal of the Digital Humanities Association of Southern Africa
+- 2026 used double-blind review with at least three reviews; 4 to 8 page papers, oral presentations only
+- The 2025 DHASA edition used fully open peer review
+- 2026 edition was a half-day workshop with 13 of 20 submissions accepted
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 6th edition, with DHASA 2025
+  start: 2025-11-10
+  end: 2025-11-10
+  location: CSIR International Convention Centre, Pretoria, South Africa
+  url: https://sadilar.org/rail-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-04
+    label: Extended from July 14
+  - kind: notification
+    date: 2025-09-16
+  - kind: camera_ready
+    date: 2025-10-24
+- year: 2026
+  label: 7th edition, with LREC 2026
+  start: 2026-05-12
+  end: 2026-05-12
+  location: Palma de Mallorca, Spain
+  url: https://sadilar.org/en/seventh-workshop-on-resources-for-african-indigenous-languages-rail-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-01
+    tz: AoE
+  - kind: notification
+    date: 2026-03-18
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-30
+    tz: AoE
+sources:
+- https://sadilar.org/en/rail/
+- https://sadilar.org/en/seventh-workshop-on-resources-for-african-indigenous-languages-rail-2026/
+- https://sadilar.org/rail-2025/
+- https://sadilar.org/third-workshop-on-resources-for-african-indigenous-languages-rail/
+- https://sadilar.org/rail-2021/
+- https://sadilar.org/en/the-fifth-workshop-on-resources-for-african-indigenous-languages-rail/
+- https://sadilar.org/en/fourth-workshop-on-resources-for-african-indigenous-languages-rail-4/
+- https://lrec2026.info/accepted-workshops/
+- https://aclanthology.org/2026.rail-1/
+- https://aclanthology.org/2026.rail-1.0.pdf
+- https://aclanthology.org/venues/rail/
+- https://portal.core.edu.au/conf-ranks/?search=RAIL&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- No 2027 edition announced as of 2026-10-17

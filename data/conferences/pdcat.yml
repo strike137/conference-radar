@@ -1,0 +1,89 @@
+id: pdcat
+name: PDCAT
+full_name: International Conference on Parallel and Distributed Computing, Applications and Technologies
+type: conference
+tier: minor
+areas: [systems, networking]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: PDCAT Steering Committee (chair Hong Shen, Central Queensland University) with a host university each
+  year (2025 Griffith University, 2026 Hunan University)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+fee: 490 USD author, 260 USD attendee; RMB 3,400 / 1,800 for Chinese participants; 150 USD per extra page (2026)
+typical:
+  deadline_months: [8, 9, 10]
+  conference_months: [11, 12]
+links:
+  website: https://www.pd-cat.org/
+notes:
+- Series started in Hong Kong in 2000; 27th edition in 2026
+- Rotates around Asia and Oceania (2022 Sendai, 2023 Jeju, 2024 Hong Kong, 2025 Gold Coast, 2026 Changsha)
+- Papers in Springer LNCS (PDCAT 2025 is LNCS volume 16465); selected papers invited to journal special issues
+- Up to 14 pages in LNCS format including references; hybrid format with online presentation allowed
+- 2026 edition has two submission cycles
+- Broad scope covering parallel and distributed systems, networking, AI, big data, and security and privacy
+- CORE C (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-22
+  end: 2025-11-24
+  location: Gold Coast, Australia
+  url: https://www.pd-cat.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    tz: AoE
+    label: Paper submission (extended from 2025-08-01)
+  - kind: notification
+    date: 2025-09-15
+  - kind: camera_ready
+    date: 2025-09-30
+- year: 2026
+  start: 2026-12-04
+  end: 2026-12-06
+  location: Changsha, China
+  url: https://www.pd-cat.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-21
+    tz: AoE
+    label: First cycle (extended from 2026-08-31)
+  - kind: notification
+    date: 2026-10-30
+    label: First cycle (extended from 2026-10-24)
+  - kind: submission
+    date: 2026-10-20
+    tz: AoE
+    label: Second cycle
+  - kind: notification
+    date: 2026-11-15
+    label: Second cycle
+  - kind: camera_ready
+    date: 2026-11-15
+    label: First cycle (extended from 2026-11-14)
+  - kind: camera_ready
+    date: 2026-11-25
+    label: Second cycle
+sources:
+- https://www.pd-cat.org/
+- https://www.pd-cat.org/2026/
+- https://www.pd-cat.org/2026/call_for_paper.html
+- https://www.pd-cat.org/2026/submission.html
+- https://www.pd-cat.org/2026/organization.html
+- https://www.pd-cat.org/2026/register.html
+- https://www.pd-cat.org/2025/
+- https://www.pd-cat.org/2025/call_for_paper.html
+- https://www.pd-cat.org/2025/conference_proceedings.html
+- https://hpcc.siat.ac.cn/meeting/pdcat2024/index.html
+- https://www.hpc.is.tohoku.ac.jp/pdcat2022/
+- https://portal.core.edu.au/conf-ranks/?search=PDCAT&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- Acceptance rate
+- PDCAT 2027 dates and location (not announced yet)
+last_verified: 2026-10-17

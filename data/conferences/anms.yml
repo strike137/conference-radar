@@ -1,0 +1,68 @@
+id: anms
+name: ANMS
+full_name: International Workshop on Autonomous Network Management Systems
+type: workshop
+tier: minor
+areas: [networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers from University of Glasgow, University of Antwerp - imec and Nokia Bell Labs; started by the EU DAEMON project
+organizer_country: [europe]
+proceedings: IEEE Xplore (host conference workshop proceedings)
+archival: true
+links:
+  website: https://anms-conf.github.io/
+notes:
+- Started in 2022; moves between host conferences (IEEE/IFIP NOMS 2022 to 2024, IEEE ICDCS 2025, CNSM 2026)
+- Topics are self-managing 5G and 6G networks, AI/ML for network management, network digital twins, intent and LLMs, agentic AI
+- Papers 6 pages (regular) or 4 pages (position) in IEEE format via EDAS; in-person presentation required
+- Workshop papers appear in IEEE Xplore with the host conference proceedings
+- Extended versions of the best papers may be fast-tracked to the Journal of Network and Systems Management
+- Deadline month follows the host conference, so it shifts from year to year
+editions:
+- year: 2025
+  start: 2025-07-20
+  end: 2025-07-20
+  location: Glasgow, UK (with IEEE ICDCS 2025)
+  url: https://anms-conf.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-16
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2025-04-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-04-16
+    tz: AoE
+- year: 2026
+  start: 2026-10-30
+  end: 2026-10-30
+  location: Alcala de Henares (Madrid), Spain (with CNSM 2026)
+  url: https://anms-conf.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2026-09-11
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-18
+    tz: AoE
+sources:
+- https://anms-conf.github.io/
+- https://anms-conf.github.io/2025/
+- https://anms-conf.github.io/2024/
+- https://anms-conf.github.io/2023/
+- https://www.cnsm-conf.org/2026/workshops.html
+- https://www.cnsm-conf.org/2026/authors.html
+- https://portal.core.edu.au/conf-ranks/?search=ANMS&by=all&source=ICORE2026
+unverified:
+- The 2026 workshop page does not state proceedings itself; the CNSM 2026 author guidelines say presented workshop papers appear in IEEE Xplore
+- Host conference for 2027 not announced
+- Not listed in the CORE ICORE2026 portal or the CCF list
+last_verified: 2026-10-17

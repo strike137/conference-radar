@@ -1,0 +1,79 @@
+id: poleval
+name: PolEval
+full_name: "PolEval: Evaluation Campaign for Natural Language Processing Tools for Polish"
+type: workshop
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: annual
+organizer: Institute of Computer Science, Polish Academy of Sciences (ICS PAS)
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [11, 1]
+links:
+  website: https://poleval.pl/
+notes:
+- SemEval-inspired shared task campaign for Polish NLP run by ICS PAS since 2017; participants submit systems, then
+  system description papers
+- Results presented in Warsaw (Data Science Summit 2025; PolEval 2026 workshop in January 2027, hybrid and free of
+  charge) plus a PolEval session at Slavic NLP 2027 in Athens
+- Proceedings in the ACL Anthology since 2025 (14 papers, published by ICS PAS and ACL); earlier volumes were
+  published by ICS PAS with an ISBN
+- 2026 papers are 4 to 8 pages in ACL style with double-blind review on OpenReview; authors must also review
+- Deadlines are 23:59 CET (Polish time)
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-20
+  end: 2025-11-21
+  location: Warsaw, Poland (at Data Science Summit 2025, online on day 1)
+  url: http://2025.poleval.pl/
+  deadlines:
+  - kind: other
+    date: 2025-11-17
+    time: "23:59"
+    tz: CET
+    label: End of system submissions (extended from 2025-11-10)
+  - kind: other
+    date: 2025-12-08
+    time: "23:59"
+    tz: CET
+    label: System description papers (submitted after the results presentation)
+  - kind: camera_ready
+    date: 2025-12-15
+    time: "23:59"
+    tz: CET
+- year: 2026
+  location: Warsaw, Poland (PolEval 2026 workshop, January 2027, hybrid)
+  url: https://poleval.pl/
+  deadlines:
+  - kind: submission
+    date: 2027-01-04
+    time: "23:59"
+    tz: CET
+    label: System description papers
+  - kind: notification
+    date: 2027-01-18
+  - kind: camera_ready
+    date: 2027-01-30
+    time: "23:59"
+    tz: CET
+sources:
+- https://poleval.pl/
+- https://poleval.pl/dates/
+- https://poleval.pl/publication/
+- https://poleval.pl/organizers/
+- http://2025.poleval.pl/
+- http://2025.poleval.pl/dates
+- http://2025.poleval.pl/publication
+- http://2024.poleval.pl/publication
+- https://aclanthology.org/venues/poleval/
+- https://aclanthology.org/volumes/2025.poleval-main/
+- https://portal.core.edu.au/conf-ranks/?search=PolEval&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Exact date of the PolEval 2026 workshop in January 2027 not yet announced

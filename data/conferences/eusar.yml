@@ -1,0 +1,55 @@
+id: eusar
+name: EUSAR
+full_name: European Conference on Synthetic Aperture Radar
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: biennial
+organizer: VDE, with Airbus Defence and Space, DLR, Fraunhofer FHR and HENSOLDT as co-organizers
+organizer_country: [europe]
+proceedings: IEEE Xplore (EUSAR proceedings published by VDE Verlag)
+archival: true
+indexing: [Scopus, Web of Science]
+typical:
+  deadline_months: [10, 11]
+  conference_months: [6]
+links:
+  website: https://www.eusar.de/en
+notes:
+- Biennial conference on SAR techniques, technology and applications, held in Germany in even years; 2026 was the 16th edition and the 30-year anniversary
+- Organized by VDE together with Airbus Defence and Space, DLR, Fraunhofer FHR and HENSOLDT
+- Two-stage process; draft papers of 3 to 6 pages reviewed single-blind by at least three TPC reviewers in EDAS, then final papers of up to 6 pages
+- Proceedings uploaded to IEEE Xplore and indexed in Scopus and Web of Science; at least one author must register by the final paper deadline
+- At most two papers per first author; about 330 contributions accepted and over 600 participants in 2026
+- Tutorial day before the conference; best paper, best poster and best student paper awards
+- EUSAR 2028 will be organized by Fraunhofer FHR (dates and venue not yet announced)
+- Radar engineering venue outside the usual CS rankings, not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-11
+  location: Kongresshaus Baden-Baden, Germany
+  url: https://www.eusar.de/en
+  deadlines:
+  - kind: submission
+    date: 2025-11-07
+    label: Draft paper (extended from 2025-10-26)
+  - kind: notification
+    date: 2026-02-16
+  - kind: camera_ready
+    date: 2026-04-14
+    label: Final paper and author registration (extended from 2026-04-01)
+sources:
+- https://www.eusar.de/en
+- https://www.eusar.de/en/for-authors
+- https://www.eusar.de/resource/blob/2365396/70e1b962ca9b21dec50ecb6518338928/eusar-call-for-paper-data.pdf
+- https://www.eusar.de/en/highlights
+- https://www.eusar.de/en/contact
+- https://portal.core.edu.au/conf-ranks/?search=EUSAR&by=all&source=ICORE2026
+unverified:
+- EUSAR 2028 dates and location not announced
+- Deadline times and time zones not stated
+- Region set from the 2026 edition and the conference's German organizers; earlier edition locations not checked on official pages
+last_verified: 2026-10-17

@@ -1,0 +1,73 @@
+id: cvppa
+name: CVPPA
+full_name: Workshop on Computer Vision in Plant Phenotyping and Agriculture
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (University of Nottingham, DTU, University of Bonn, University of Edinburgh and others); co-located with ICCV or ECCV
+organizer_country: [europe]
+proceedings: ICCV Workshops proceedings (CVF Open Access and IEEE Xplore) or ECCV Workshops proceedings (Springer)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://cvppa2026.github.io/
+notes:
+- Formerly CVPPP (Computer Vision Problems in Plant Phenotyping), held since 2014 with ECCV, ICCV, BMVC or CVPR; now alternates between ICCV and ECCV
+- The 2026 edition with ECCV 2026 was the 11th
+- Accepted full papers (up to 14 pages in 2026, up to 8 pages in 2025) appear in the main conference workshop proceedings
+- Extended abstracts up to 4 pages are peer reviewed and published only on the workshop website
+- Double-blind review; 2026 submission through OpenReview, 2025 through CMT
+- Hosts plant phenotyping and agriculture challenges alongside the workshop
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 10th edition, with ICCV 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Honolulu, Hawaii, USA
+  url: https://cvppa2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-06-22
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2025-07-31
+    time: "23:59"
+    tz: AoE
+    label: Extended abstracts (extended)
+  - kind: notification
+    date: 2025-07-11
+    label: Full papers
+- year: 2026
+  label: 11th edition, with ECCV 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmö, Sweden
+  url: https://cvppa2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+  - kind: notification
+    date: 2026-08-05
+  - kind: camera_ready
+    date: 2026-08-12
+sources:
+- https://cvppa2026.github.io/
+- https://cvppa2026.github.io/content/cfp.md
+- https://cvppa2026.github.io/content/programme.md
+- https://cvppa2026.github.io/content/organisers.md
+- https://cvppa2025.github.io/
+- https://cvppa2025.github.io/cfp/
+- https://cvppa2025.github.io/programme/
+- https://portal.core.edu.au/conf-ranks/?search=CVPPA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- 2025 camera ready deadline not shown on the official call for papers
+- Next edition (CVPPA 2027, expected with ICCV 2027) not announced yet

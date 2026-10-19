@@ -1,0 +1,65 @@
+id: sacla
+name: SACLA
+full_name: Annual Conference of the Southern African Computer Lecturers' Association
+type: conference
+tier: minor
+areas: [general]
+region: africa
+language: english
+frequency: annual
+organizer: SACLA (Southern African Computer Lecturers' Association)
+organizer_country: [other]
+proceedings: Springer CCIS (selected full papers), other accepted papers in SACLA local proceedings
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://sacla.org.za/
+notes:
+- Annual conference of SACLA, the association of Computer Science, Information Systems and IT lecturers at
+  universities across Southern Africa, held since 1971
+- Focus is computing education (teaching and learning of CS, IS and IT), not core CS research
+- Full papers get double-blind review and must use the Springer LNCS template
+- Best full papers go to a Springer CCIS volume (Scopus-indexed); other accepted full papers appear in local
+  proceedings that are DHET subsidy-bearing in South Africa
+- Hosted by a different South African university each year (NWU 2023, NMU 2024, UFS 2025, UCT 2026, Wits 2027,
+  UKZN 2028)
+- In-person only; also hosts a Heads of Department colloquium
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  label: SACLA 2026 (55th)
+  start: 2026-07-15
+  end: 2026-07-17
+  location: Protea Hotel Cape Town Waterfront Breakwater Lodge, Cape Town, South Africa
+  url: https://sacla.org.za/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-12
+    label: Full papers (extended from 2026-03-29)
+  - kind: notification
+    date: 2026-05-15
+  - kind: camera_ready
+    date: 2026-06-14
+- year: 2027
+  label: SACLA 2027 (56th)
+  start: 2027-07-07
+  end: 2027-07-09
+  location: University of the Witwatersrand, Johannesburg, South Africa
+  url: https://sacla.org.za/2027/
+sources:
+- https://sacla.org.za/
+- https://sacla.org.za/conferences/
+- https://sacla.org.za/history/
+- https://sacla.org.za/2026/
+- https://sacla.org.za/2026/call-for-papers/index.html
+- https://sacla.org.za/2027/
+- https://portal.core.edu.au/conf-ranks/?search=SACLA&by=all&source=ICORE2026
+unverified:
+- The 2026 home page gives the extended submission deadline as 5 April 2026, the call for papers page as 12 April
+  2026
+- The SACLA 2027 site is still a draft template; its listed deadlines (submission and notification both 15 May 2027)
+  look copied and are not recorded here
+last_verified: 2026-10-17

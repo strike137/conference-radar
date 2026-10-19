@@ -1,0 +1,54 @@
+id: pbvs
+name: PBVS
+full_name: IEEE Workshop on Perception Beyond the Visible Spectrum
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (general chair Riad Hammoud, Plus AI; program chairs from Hensoldt and University of
+  Ottawa); co-located with CVPR
+organizer_country: [usa]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://pbvs-workshop.github.io/
+notes:
+- CVPR workshop on imaging and vision beyond the visible range (infrared, thermal, radar, SAR, LiDAR, hyperspectral, depth)
+- Running since 2004 (called OTCBVS until 2011); the 2026 edition was the 22nd
+- Hosts several challenges each year (seven in 2026), such as thermal and hyperspectral super-resolution and object tracking
+- Papers up to 8 pages plus references in CVPR format, submitted through Microsoft CMT
+- Accepted papers go into the CVPR workshop proceedings (25 papers in 2026, 27 in 2025 on CVF Open Access)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 22nd edition, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA
+  url: https://pbvs-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-08
+    label: Extended
+  - kind: notification
+    date: 2026-03-19
+  - kind: camera_ready
+    date: 2026-04-10
+sources:
+- https://pbvs-workshop.github.io/
+- https://pbvs-workshop.github.io/call_for_paper.html
+- https://pbvs-workshop.github.io/submission.html
+- https://pbvs-workshop.github.io/organization.html
+- https://pbvs-workshop.github.io/history.html
+- https://openaccess.thecvf.com/CVPR2026_workshops/PBVS
+- https://openaccess.thecvf.com/CVPR2025_workshops/PBVS
+- https://portal.core.edu.au/conf-ranks/?search=PBVS&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Deadline time and time zone not stated; original submission deadline was 2026-03-06 before the extension
+- Next edition (PBVS 2027) not announced yet

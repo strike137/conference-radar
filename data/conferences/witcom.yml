@@ -1,0 +1,58 @@
+id: witcom
+name: WITCOM
+full_name: International Congress in Telematics and Computing
+type: conference
+tier: minor
+areas: [networking, communications, ai, data, security]
+region: latin-america
+frequency: annual
+organizer: UPIITA-IPN with the Computing & Telematics Association (ANTACOM) and Universidad Mayor (Chile)
+organizer_country: [other]
+proceedings: Springer CCIS
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [5, 6]
+  conference_months: [11]
+links:
+  website: https://witcom.tech/
+notes:
+- Annual Mexican congress on telematics and computing run by UPIITA of the Instituto Politécnico Nacional (IPN), with ANTACOM and Universidad Mayor (Chile) as collaborators; 15th edition in 2026
+- Proceedings in Springer Communications in Computer and Information Science (CCIS), usually two volumes per year, indexed in Scopus
+- Topics include telematics, IoT, cloud, cybersecurity, data science, AI, computer vision, NLP and GIScience
+- Full papers of at least 12 pages with no maximum; submission through EasyChair
+- Hybrid format; authors may present online or on site
+- Held in Huatulco, Oaxaca, Mexico in 2025 and 2026
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-03
+  end: 2025-11-07
+  location: Huatulco, Oaxaca, Mexico (hybrid)
+  url: https://archive.witcom.tech/2025/
+- year: 2026
+  start: 2026-11-02
+  end: 2026-11-06
+  location: Hotel Las Brisas Huatulco, Huatulco, Oaxaca, Mexico (hybrid)
+  url: https://witcom.tech/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    time: "23:59"
+    tz: PDT
+    label: Extended (original 2026-05-31)
+  - kind: notification
+    date: 2026-07-20
+  - kind: camera_ready
+    date: 2026-07-27
+sources:
+- https://witcom.tech/
+- https://drive.google.com/file/d/1LRCLuFrSAK-8rWSn3M_7O-LAC7qrqG3r/view
+- https://archive.witcom.tech/2025/
+- https://link.springer.com/book/10.1007/978-3-032-09735-4
+- https://portal.core.edu.au/conf-ranks/?search=WITCOM&by=all&source=ICORE2026
+unverified:
+- WITCOM 2025 paper submission and notification dates (not found on the 2025 archive site)
+- The 2026 CFP gives deadlines as "Midnight PT"; recorded as 23:59 PDT
+- WITCOM 2027 dates and location not yet announced
+last_verified: 2026-10-17

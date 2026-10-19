@@ -1,0 +1,74 @@
+id: naloma
+name: NALOMA
+full_name: Workshop on Natural Language Meets Logic and Machine Learning
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: irregular
+organizer: NALOMA organizers (2026 co-chairs from Utrecht University and University of Tokyo/RIKEN); endorsed by ACL SIGSEM; co-located with ESSLLI
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8]
+links:
+  website: https://naloma.github.io/2026/
+notes:
+- Called Natural Logic Meets Machine Learning until 2025; renamed Natural Language Meets Logic and Machine Learning for the 6th edition (2026)
+- Workshop on hybrid symbolic and neural methods for natural language understanding and reasoning, with a focus on natural logic
+- Editions in 2020, 2021, 2022, 2023, 2025 and 2026; usually co-located with ESSLLI (2023 was at IWCS in Nancy)
+- 2025 at ESSLLI in Bochum, 2026 at ESSLLI in Prague; 2020 and 2021 were online
+- Long (8 pages), short (4 pages) and demo (6 pages) papers are archival in the ACL Anthology; 2-page extended abstracts are non-archival
+- Double-blind review via OpenReview; at least one author must register for ESSLLI
+- A JoLLI special issue collected selected work from earlier editions
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: NALOMA V, with ESSLLI 2025
+  start: 2025-08-04
+  end: 2025-08-08
+  location: Bochum, Germany
+  url: https://naloma.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-06
+    tz: AoE
+    label: Papers and extended abstracts (extended from April 25)
+  - kind: notification
+    date: 2025-05-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-20
+    tz: AoE
+- year: 2026
+  label: NALOMA VI, with ESSLLI 2026
+  start: 2026-08-03
+  end: 2026-08-07
+  location: Prague, Czech Republic
+  url: https://naloma.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-06
+    tz: AoE
+    label: Papers and extended abstracts (extended from April 30)
+  - kind: notification
+    date: 2026-05-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-20
+    tz: AoE
+sources:
+- https://naloma.github.io/2026/
+- https://naloma.github.io/2026/program
+- https://naloma.github.io/2025/
+- https://sites.google.com/view/naloma4
+- https://aclanthology.org/venues/naloma/
+- https://portal.core.edu.au/conf-ranks/?search=NALOMA&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- NALOMA VII (2027) not announced yet
+- Acceptance rate not published

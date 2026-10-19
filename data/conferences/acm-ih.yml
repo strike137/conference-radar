@@ -1,0 +1,68 @@
+id: acm-ih
+name: ACM IH
+full_name: ACM Interactive Health Conference
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+organizer: ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL (IH Extended Abstracts)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://ih.acm.org/
+notes:
+- New ACM SIGCHI conference on HCI and health; first edition in Porto, Portugal in July 2026
+- No full paper track; paper sessions mostly present papers accepted to the ACM HEALTH journal special issue on Human Centered Computing in Healthcare
+- Short forms (up to 5,000 words, anonymous review) and demos are published as IH Extended Abstracts in the ACM DL but are considered non-archival
+- Other tracks include workshops, doctoral colloquium, early career workshop, related contributions (already published work, presentation only) and birds of a feather
+- Not listed in CORE (ICORE2026) or CCF
+editions:
+- year: 2026
+  label: 1st IH
+  start: 2026-07-05
+  end: 2026-07-08
+  location: Colegio Luso-Frances, Porto, Portugal
+  url: https://ih.acm.org/
+  deadlines:
+  - kind: other
+    date: 2026-01-22
+    tz: AoE
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-02-23
+    tz: AoE
+    label: Short forms (extended from Feb 19)
+  - kind: other
+    date: 2026-02-26
+    tz: AoE
+    label: Demos and exhibitions
+  - kind: other
+    date: 2026-03-12
+    tz: AoE
+    label: Related contributions
+  - kind: notification
+    date: 2026-03-23
+    label: Short forms
+  - kind: camera_ready
+    date: 2026-04-09
+    tz: AoE
+    label: Short forms and demos
+sources:
+- https://ih.acm.org/
+- https://ih.acm.org/participate
+- https://ih.acm.org/short-forms
+- https://ih.acm.org/demos-exhibitions
+- https://ih.acm.org/related-contributions
+- https://ih.acm.org/publication-formats
+- https://ih.acm.org/organizing-committee
+- https://portal.core.edu.au/conf-ranks/?search=Interactive+Health&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- IH 2027 (and whether the conference will be annual) not announced on the official site as of 2026-10-17
+- Region set from the single 2026 edition in Portugal
+last_verified: 2026-10-17

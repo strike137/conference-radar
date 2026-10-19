@@ -1,0 +1,66 @@
+id: haskell-symposium
+name: Haskell
+full_name: ACM SIGPLAN Haskell Symposium
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8, 9, 10]
+links:
+  website: https://conf.researchr.org/home/icfp-2026/haskellsymp-2026
+notes:
+- Sponsored by ACM SIGPLAN and co-located with ICFP (with ICFP/SPLASH in Singapore 2025, Indianapolis 2026)
+- Accepted papers are published in the ACM Digital Library; demo proposals and lightning talks are not
+- Regular papers, functional pearls, tutorials, experience reports, talk proposals and demos
+- From 2026 uses the single-column acmsmall format with a 25-page limit for regular papers (12 pages in two-column format in 2025)
+- Listed in CORE ICORE2026 as "Haskell Workshop", rank C
+editions:
+- year: 2025
+  start: 2025-10-16
+  end: 2025-10-17
+  location: Singapore (with ICFP/SPLASH 2025)
+  url: https://conf.researchr.org/home/icfp-splash-2025/haskellsymp-2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-09
+    tz: AoE
+  - kind: notification
+    date: 2025-07-17
+  - kind: camera_ready
+    date: 2025-08-08
+    tz: AoE
+  - kind: other
+    date: 2025-09-15
+    tz: AoE
+    label: Talk proposals (no proceedings)
+- year: 2026
+  start: 2026-08-28
+  end: 2026-08-29
+  location: Indianapolis, Indiana, USA (with ICFP 2026)
+  url: https://conf.researchr.org/home/icfp-2026/haskellsymp-2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-21
+    tz: AoE
+  - kind: notification
+    date: 2026-06-30
+sources:
+- https://conf.researchr.org/home/icfp-2026/haskellsymp-2026
+- https://conf.researchr.org/home/icfp-splash-2025/haskellsymp-2025
+- https://icfp27.sigplan.org/
+- https://portal.core.edu.au/conf-ranks/?search=Haskell&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 2026 camera-ready deadline conflicts on the official page (16 July in Important Dates, 7 July in the call for papers); left out
+- Haskell Symposium 2027 not announced yet (ICFP 2027 is in Nijmegen, September 2027)
+- CCF 2026 list could not be loaded from ccf.org.cn and the venue is not in the ccfddl mirror; rank.ccf left out
+last_verified: 2026-10-17

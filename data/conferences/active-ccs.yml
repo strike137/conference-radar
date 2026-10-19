@@ -1,0 +1,56 @@
+id: active-ccs
+name: ACTIVE
+full_name: ACM Workshop on Assisted Cryptographic Technologies for Implementation VErification
+type: workshop
+tier: minor
+areas: [security, crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: Radboud University (Lejla Batina, Ileana Buhan); co-located with ACM CCS
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [11]
+links:
+  website: https://active.cs.ru.nl/
+notes:
+- New workshop at ACM CCS 2026 in The Hague, run by the Radboud University hardware security group
+- 'Scope: formal and empirical verification of cryptographic implementations, side-channel and fault analysis, masking'
+- Full papers up to 10 pages, short papers up to 6 pages, plus 3 to 6 page "wild and crazy" papers, all in ACM double-column format
+- Anonymous submission via HotCRP; deadline extended twice in 2026 (June 30 -> July 15 -> July 24)
+- CCS 2026 workshops get online proceedings in the ACM Digital Library with a separate ISBN
+editions:
+- year: 2026
+  label: 1st edition, with ACM CCS 2026
+  start: 2026-11-19
+  end: 2026-11-19
+  location: The Hague, Netherlands
+  url: https://active.cs.ru.nl/
+  deadlines:
+  - kind: submission
+    date: 2026-07-24
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 30 and July 15
+  - kind: notification
+    date: 2026-09-04
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-17
+    time: "23:59"
+    tz: AoE
+sources:
+- https://active.cs.ru.nl/
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://www.sigsac.org/ccs/CCS2026/call-for/call-for-workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=ACTIVE&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Workshop date - the workshop site says November 20, 2026 but the CCS 2026 workshop list says November 19, 2026 (CCS runs November 15 to 19); November 19 used
+- Workshop CFP does not name the publisher (ACM DL taken from the CCS 2026 call for workshops)
+- Whether 2026 is strictly the first edition (the site's past events list is empty)
+- Not listed on the CORE portal (ICORE2026)

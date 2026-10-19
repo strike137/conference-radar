@@ -1,0 +1,76 @@
+id: wollic
+name: WoLLIC
+full_name: Workshop on Logic, Language, Information and Computation
+type: conference
+tier: minor
+areas: [general, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: WoLLIC Steering Committee (IGPL, FoLLI, ASL, EATCS, EACSL and SBL sponsorship; Centro de Informatica, UFPE)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7, 8]
+links:
+  website: https://wollic.org/
+  dblp: https://dblp.org/db/conf/wollic/index.html
+notes:
+- Annual forum on interdisciplinary research in logic, computing and programming theory, and natural language and reasoning, running since 1994
+- Despite the name it is a standalone meeting with invited talks, tutorials and contributed papers, not a co-located workshop
+- Proceedings in Springer LNCS (published after the meeting in 2026, before it in 2027); abstracts also appear in the Logic Journal of the IGPL
+- Selected papers invited to a post-conference journal special issue after a new round of review
+- Papers up to 12 pages in LNCS format plus up to 5 pages of references and appendices; submission via EasyChair
+- At least one author must pay a full on-site registration fee for the paper to appear in the proceedings
+- Started in Brazil and now rotates worldwide (Halifax 2023, Bern 2024, Porto 2025, Lima/online 2026, Helsinki 2027)
+- ASL student members can apply for travel grants
+- Ranked C in ICORE2026 (B in CORE2021 and earlier, C in CORE2023); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-08-03
+  end: 2026-08-05
+  location: Online (hosted by Universidad Nacional de Ingenieria, Lima, Peru)
+  url: https://eventos.spc.org.pe/wollic2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-02
+  - kind: submission
+    date: 2026-03-02
+  - kind: notification
+    date: 2026-05-05
+  - kind: camera_ready
+    date: 2026-05-20
+- year: 2027
+  start: 2027-08-23
+  end: 2027-08-26
+  location: Helsinki, Finland (University of Helsinki)
+  url: https://www.helsinki.fi/en/conferences/wollic-2027
+  deadlines:
+  - kind: abstract
+    date: 2027-03-08
+  - kind: submission
+    date: 2027-03-15
+  - kind: notification
+    date: 2027-05-08
+  - kind: camera_ready
+    date: 2027-05-29
+sources:
+- https://wollic.org/
+- https://wollic.org/wollic2026/cfp.html
+- https://eventos.spc.org.pe/wollic2026/
+- https://wollic.org/wollic2025/cfp.html
+- https://wollic.org/wollic2027/
+- https://wollic.org/wollic2027/cfp.html
+- https://www.helsinki.fi/en/conferences/wollic-2027
+- https://portal.core.edu.au/conf-ranks/?search=WoLLIC&by=all&source=ICORE2026&sort=atitle&page=1
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+last_verified: 2026-10-17
+unverified:
+- "WoLLIC 2026 format: wollic.org and the CFP say onsite in Lima, while the newer event site says it took place entirely online"
+- No time zone stated for the deadlines
+- "WoLLIC 2026 end date: the CFP says August 3 to 6, while the published online programme has sessions on August 3 to 5 only"
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly

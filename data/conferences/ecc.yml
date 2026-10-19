@@ -1,0 +1,80 @@
+id: ecc
+name: ECC
+full_name: European Control Conference
+type: conference
+tier: major
+areas: [general, systems]
+region: europe
+language: english
+frequency: annual
+organizer: European Control Association (EUCA)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [6, 7]
+links:
+  website: https://ecc27.euca-ecc.org/
+notes:
+- Flagship conference of the European Control Association (EUCA); technically co-sponsored by IFAC and IEEE Control
+  Systems Society
+- First held in Grenoble in 1991, biennial until 2011 and annual since 2013; ECC 2027 is the 25th edition
+- Held in a different European city each year (2023 Bucharest, 2024 Stockholm, 2025 Thessaloniki, 2026 Reykjavik,
+  2027 Brussels)
+- Papers up to 8 pages for review, 6 pages final with up to 2 extra pages for a fee; submission via PaperCept
+- Accepted papers are published in IEEE Xplore; preprints on arXiv were explicitly allowed in 2026
+- Industry abstracts and late breaking results are presented but not included in the proceedings
+- Not listed in ICORE2026 (control venue outside the CORE computing list)
+editions:
+- year: 2026
+  start: 2026-07-07
+  end: 2026-07-10
+  location: Reykjavik, Iceland
+  url: https://ecc26.euca-ecc.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-14
+    label: Papers and invited papers (final, extended from 2025-10-31 and 2025-11-11)
+  - kind: other
+    date: 2025-11-14
+    label: Invited session proposals (final, extended from 2025-10-31 and 2025-11-11)
+  - kind: other
+    date: 2026-02-15
+    label: Workshops, tutorials, industry abstracts and late breaking results (extended from 2026-01-31)
+  - kind: notification
+    date: 2026-03-05
+  - kind: camera_ready
+    date: 2026-04-10
+- year: 2027
+  start: 2027-07-13
+  end: 2027-07-16
+  location: Brussels, Belgium
+  url: https://ecc27.euca-ecc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-31
+    label: Papers and invited papers
+  - kind: other
+    date: 2026-10-31
+    label: Invited session proposals
+  - kind: other
+    date: 2027-01-31
+    label: Workshop proposals and industry abstracts
+  - kind: notification
+    date: 2027-03-05
+  - kind: camera_ready
+    date: 2027-04-05
+sources:
+- https://ecc27.euca-ecc.org/
+- https://ecc27.euca-ecc.org/call-for-papers/
+- https://ecc27.euca-ecc.org/about-the-ecc/
+- https://ecc26.euca-ecc.org/
+- https://ecc26.euca-ecc.org/call-for-papers/
+- https://ecc25.euca-ecc.org/
+- https://ecc24.euca-ecc.org/
+- https://ecc23.euca-ecc.org/
+- https://portal.core.edu.au/conf-ranks/?search=ECC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Deadline time zones not stated on the official pages

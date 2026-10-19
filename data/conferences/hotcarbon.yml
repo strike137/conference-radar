@@ -1,0 +1,54 @@
+id: hotcarbon
+name: HotCarbon
+full_name: Workshop on Sustainable Computer Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: HotCarbon steering committee (George Porter, Tom Anderson, Colleen Josephson, Carole-Jean Wu, Romain Jacob, Udit Gupta)
+organizer_country: [usa]
+proceedings: ACM DL (special issue of ACM SIGEnergy Energy Informatics Review)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://hotcarbon.org/
+notes:
+- Hot-topics workshop on sustainability and carbon footprint of computer and networked systems, held next to OSDI
+- Research and position papers up to 5 pages plus references, double-blind
+- Paper registration deadline one week before the submission deadline
+- Also accepts 1-page proposals for panels and events (single-blind)
+- Papers published in the ACM Digital Library as a special issue of SIGEnergy Energy Informatics Review
+- Recent editions in Santa Cruz 2024, Cambridge MA 2025 and Seattle 2026; first edition 2022
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-16
+  end: 2026-07-17
+  location: Seattle, WA, USA
+  url: https://hotcarbon.org/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-11
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-05-18
+    tz: AoE
+  - kind: notification
+    date: 2026-06-19
+    tz: AoE
+sources:
+- https://hotcarbon.org/
+- https://hotcarbon.org/cfp
+- https://hotcarbon.org/2026
+- https://hotcarbon.org/2025
+- https://hotcarbon.org/orga
+- https://github.com/hotcarbon/www-jekyll
+- https://dl.acm.org/toc/sigenergy-eir/2025/5/2
+last_verified: 2026-10-17
+unverified:
+- HotCarbon 2027 announced but dates and location not yet published

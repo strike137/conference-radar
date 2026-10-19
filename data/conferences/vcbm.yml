@@ -1,0 +1,72 @@
+id: vcbm
+name: VCBM
+full_name: Eurographics Symposium on Visual Computing for Biology and Medicine
+type: conference
+tier: minor
+areas: [vision, data]
+region: europe
+language: english
+frequency: annual
+organizer: Eurographics, with a rotating local host institution
+organizer_country: [europe]
+proceedings: Computers & Graphics special issue (journal track) and Eurographics Digital Library (conference track)
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9, 10]
+links:
+  website: https://conferences.eg.org/vcbm2026/
+  dblp: https://dblp.org/db/conf/vcbm/
+notes:
+- Eurographics symposium on visual computing, visualization and visual analytics for biology, medicine and healthcare; held since 2008, annual since 2014
+- Journal track (full and survey papers) goes through two review cycles into a Computers & Graphics (Elsevier) special issue
+- Conference track papers (recommended 4 to 8 pages) are published in the Eurographics Digital Library
+- Journal track is double-blind; double-blind is optional in the conference track
+- Also has posters and demos, an image contest, a Bio+Med+Vis summer school and a MedVis and BioVis workshop
+- Held in Europe every year (Vienna 2022, Norrkoping 2023, Magdeburg 2024, Delft 2025, Ljubljana 2026; Berlin announced for 2027)
+- All deadlines 23:59 AoE
+- Not listed in the ICORE2026 portal and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-16
+  end: 2026-09-18
+  location: Ljubljana, Slovenia
+  url: https://conferences.eg.org/vcbm2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-01
+    time: "23:59"
+    tz: AoE
+    label: Journal track (Computers & Graphics)
+  - kind: notification
+    date: 2026-05-27
+    label: Journal track, first cycle
+  - kind: submission
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+    label: Conference track (extended)
+  - kind: notification
+    date: 2026-07-20
+    label: Journal track second cycle and conference track
+  - kind: notification
+    date: 2026-08-12
+    label: Conference track, final
+  - kind: camera_ready
+    date: 2026-08-24
+- year: 2027
+  location: Berlin, Germany
+sources:
+- https://conferences.eg.org/vcbm2026/
+- https://conferences.eg.org/vcbm2026/contribute/
+- https://conferences.eg.org/vcbm2026/contribute-journal/
+- https://conferences.eg.org/vcbm2026/contribute-conference/
+- https://conferences.eg.org/vcbm2026/2026/09/29/thank-you/
+- https://conferences.eg.org/vcbm2025/
+- https://portal.core.edu.au/conf-ranks/?search=VCBM&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- VCBM 2027 dates and deadlines not yet announced (only the Berlin location)
+- Original (pre-extension) 2026 conference track deadline not stated
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-10-17

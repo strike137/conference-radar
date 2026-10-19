@@ -1,0 +1,78 @@
+id: ccta
+name: IEEE CCTA
+full_name: IEEE Conference on Control Technology and Applications
+type: conference
+tier: major
+areas: [general, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Control Systems Society (CSS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [8]
+links:
+  website: https://ccta2027.ieeecss.org/
+notes:
+- Annual applications conference of the IEEE Control Systems Society (CSS); started in 2017 (10th edition in 2026)
+- Focus on control technology and applications (automotive, aerospace, marine, robotics, energy, cyber-physical systems, learning-based control) with industry sessions and exhibits
+- Contributed papers up to 8 pages for review in IEEE two-column format, 6 pages in the final version plus over-length fee; submission via PaperPlaza, reviewed by the CSS Conference Editorial Board
+- Authors of recent IEEE Transactions on Control Systems Technology papers can apply to present them at the conference
+- Late-breaking results poster track (abstract plus poster, later deadline)
+- Location rotates (2023 Bridgetown, Barbados; 2024 Newcastle upon Tyne, UK; 2025 San Diego; 2026 Vancouver; 2027 Hiroshima)
+- Not listed in ICORE2026 (control venue outside the CORE computing list); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-08-12
+  end: 2026-08-14
+  location: Vancouver, BC, Canada
+  url: https://ccta2026.ieeecss.org/
+  deadlines:
+  - kind: other
+    date: 2026-01-31
+    label: Tutorial and invited session proposals
+  - kind: submission
+    date: 2026-02-08
+    label: Contributed papers (no extensions)
+  - kind: notification
+    date: 2026-05-08
+  - kind: other
+    date: 2026-05-31
+    label: Late-breaking results posters
+  - kind: camera_ready
+    date: 2026-06-10
+- year: 2027
+  start: 2027-08-23
+  end: 2027-08-25
+  location: Hiroshima, Japan
+  url: https://ccta2027.ieeecss.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-07
+  - kind: notification
+    date: 2027-05-15
+  - kind: camera_ready
+    date: 2027-06-23
+  - kind: other
+    date: 2027-06-30
+    label: Late-breaking posters
+sources:
+- https://ccta2027.ieeecss.org/
+- https://ccta2027.ieeecss.org/authors/call-for-papers
+- https://confcats-siteplex.s3.amazonaws.com/ccta27/files/ccta27-cfp_web-08.pdf
+- https://ccta2026.ieeecss.org/
+- https://ccta2026.ieeecss.org/about/important-dates
+- https://ccta2026.ieeecss.org/authors/call-for-papers-0
+- https://confcats-siteplex.s3.us-east-1.amazonaws.com/ccta26/2026_IEEE_Conference_on_Control_Technology_and_Applications_Conference_Reports_fb9c41ae8f.pdf
+- https://ccta2025.ieeecss.org/
+- https://ccta2024.ieeecss.org/
+- https://ccta2023.ieeecss.org/
+- https://portal.core.edu.au/conf-ranks/?search=CCTA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- IEEE Xplore publication inferred from the IEEE Proceedings format and CSS sponsorship; the official pages do not state it in a full sentence
+- CCTA 2026 paper deadline taken from the official call published in IEEE Control Systems Magazine (October 2025), linked from the 2026 site; the current 2026 dates page no longer lists it
+- Deadline time zones not stated on the official pages

@@ -1,0 +1,47 @@
+id: sehas
+name: SeHAS
+full_name: Workshop on Secure Hardware, Architectures, and Software
+type: workshop
+tier: minor
+areas: [security, systems]
+region: europe
+language: english
+frequency: annual
+organizer: SeHAS organizers (HiPEAC conference workshop); organizers from Bosch Research, Khalifa University, UC Irvine and the University of Groningen
+organizer_country: [europe, usa, other]
+proceedings: IEEE Embedded Systems Letters (journal-first, no workshop proceedings)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [1]
+links:
+  website: https://www.hipeac.net/events/sessions/8333/sehas-secure-hardware-architectures-software/
+notes:
+- One-day workshop at the HiPEAC conference on hardware and software security (hardware Trojans, IP piracy, side
+  channels, secure architectures and operating systems)
+- Journal-first; papers are submitted to IEEE Embedded Systems Letters (ESL) with a box ticked to present at SeHAS,
+  and the program is built from papers accepted in ESL
+- Also features a keynote, invited talks and a panel discussion
+- Moves with HiPEAC (Glasgow 2027); 9th edition in 2027, earlier editions ran as Secure Hardware, Architectures,
+  and Operating Systems
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2027
+  start: 2027-01-19
+  end: 2027-01-19
+  location: Glasgow, UK (with HiPEAC 2027)
+  url: https://www.hipeac.net/events/sessions/8333/sehas-secure-hardware-architectures-software/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    label: IEEE ESL submission cutoff for presentation at SeHAS 2027
+sources:
+- https://www.hipeac.net/events/sessions/8333/sehas-secure-hardware-architectures-software/
+- https://www.hipeac.net/2027/glasgow/
+- https://portal.core.edu.au/conf-ranks/?search=SeHAS&by=all&source=ICORE2026
+unverified:
+- The HiPEAC session page says ESL papers submitted before August 31, 2026 are presented at "SeHAS 2026" (apparently a
+  typo for 2027); aggregator listings give September 11, 2026, possibly an extension not shown on the official page
+- Dates of the 2026 and earlier editions not found on an official page
+- Acceptance rate not published
+last_verified: 2026-10-17

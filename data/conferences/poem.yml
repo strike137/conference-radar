@@ -1,0 +1,86 @@
+id: poem
+name: PoEM
+full_name: IFIP WG 8.1 Working Conference on the Practice of Enterprise Modeling
+type: conference
+tier: minor
+areas: [software, data]
+region: europe
+language: english
+frequency: annual
+organizer: IFIP WG 8.1 (Design and Evaluation of Information Systems)
+organizer_country: [international]
+proceedings: Springer LNBIP; Forum, Doctoral Consortium, Business Case and Tool Forum and workshops in CEUR-WS
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://poem2026.aegean.gr/
+notes:
+- Working conference of IFIP WG 8.1 on enterprise modeling, linking academic researchers and practitioners from industry and the public sector
+- Topics include enterprise modeling languages and ontologies, business process modeling, enterprise architecture, model-based software engineering and digital twins
+- Main track proceedings in Springer LNBIP (2025 -> LNBIP 570); joint volume for the Forum, Doctoral Consortium, Business Case and Tool Forum and workshops in CEUR-WS (2025 -> Vol-4171)
+- Full papers up to 15 pages in LNBIP format (excluding references), at least three reviewers, submitted via EasyChair
+- Selected papers invited to an extended special section in the SoSym journal (Springer)
+- Recent editions Vienna 2023, Stockholm 2024, Geneva 2025, Mytilene (Lesvos, Greece) 2026; held in early December
+- "ICORE2026 label: unranked: not primarily CS"
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Geneva, Switzerland
+  url: https://poem2025.unige.ch/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-14
+    time: "23:59"
+    tz: CET
+    label: Abstract (optional)
+  - kind: submission
+    date: 2025-07-21
+    time: "23:59"
+    tz: CET
+    label: Papers (extended, firm)
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-30
+    label: Camera-ready and author registration
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-03
+  location: Mytilene, Lesvos, Greece
+  url: https://poem2026.aegean.gr/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-20
+    label: Abstract registration (extended, optional)
+  - kind: submission
+    date: 2026-07-27
+    label: Papers (extended, firm)
+  - kind: notification
+    date: 2026-09-07
+  - kind: camera_ready
+    date: 2026-09-30
+  - kind: submission
+    date: 2026-10-12
+    label: Business Case and Tool Forum (extended)
+sources:
+- https://poem2026.aegean.gr/
+- https://poem2026.aegean.gr/cfp/
+- https://poem2026.aegean.gr/proceedings/
+- https://poem2026.aegean.gr/business-case-tool-forum/
+- https://poem2025.unige.ch/home
+- https://poem2025.unige.ch/home/calls/papers
+- https://poem2025.unige.ch/home/proceedings
+- https://poem2025.unige.ch/home/organization
+- https://poem2024.dsv.su.se/
+- https://portal.core.edu.au/conf-ranks/?search=PoEM&by=all&source=ICORE2026
+unverified:
+- PoEM 2026 call gives no time or time zone for deadlines
+- 2025 call states deadlines in CET although July falls in CEST
+- Region judged from the 2023 to 2026 editions; 2021 and 2022 editions not checked on official pages
+- Absence from the CCF 2026 list not checked on ccf.org.cn directly
+last_verified: 2026-10-17

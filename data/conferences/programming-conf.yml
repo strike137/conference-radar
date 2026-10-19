@@ -1,0 +1,85 @@
+id: programming-conf
+name: ‹Programming›
+full_name: International Conference on the Art, Science, and Engineering of Programming
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: AOSA, Inc. (non-profit that also publishes The Art, Science, and Engineering of Programming journal)
+organizer_country: [international]
+proceedings: The Art, Science, and Engineering of Programming journal (AOSA, diamond open access, ISSN 2473-7321)
+archival: true
+typical:
+  deadline_months: [2, 6, 10]
+  conference_months: [3]
+links:
+  website: https://programming-conference.org/
+notes:
+- "Journal-first: to present a research paper, authors submit to the Programming journal; papers accepted in the three issues of the preceding cycle are presented"
+- Journal has three submission deadlines per year (Feb 1, Jun 1 and Oct 1, AoE) with two rounds of review and a revision step
+- Journal is diamond open access, free for authors and readers, articles under a Creative Commons license
+- Several co-located workshops (MoreVMs, PX, Substrates, VIMPL, QP and others) with deadlines around December
+- Held in Europe most years (Lund 2024, Prague 2025, Munich 2026), Tokyo in 2023 and Kyoto in 2027; 2021 was online and 2022 was hybrid from Porto
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-16
+  end: 2026-03-20
+  location: Munich, Germany
+  url: https://2026.programming-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2025-02-01
+    tz: AoE
+    label: Journal Volume 10 Issue 2
+  - kind: submission
+    date: 2025-06-01
+    tz: AoE
+    label: Journal Volume 10 Issue 3
+  - kind: submission
+    date: 2025-10-01
+    tz: AoE
+    label: Journal Volume 11 Issue 1
+- year: 2027
+  start: 2027-03-15
+  end: 2027-03-19
+  location: Kyoto, Japan
+  url: https://2027.programming-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-01
+    tz: AoE
+    label: Journal Volume 11 Issue 2
+  - kind: submission
+    date: 2026-06-01
+    tz: AoE
+    label: Journal Volume 11 Issue 3
+  - kind: submission
+    date: 2026-10-01
+    tz: AoE
+    label: Journal Volume 12 Issue 1
+  - kind: notification
+    date: 2026-12-01
+    label: First notification, Volume 12 Issue 1
+  - kind: notification
+    date: 2027-01-15
+    label: Final notification, Volume 12 Issue 1
+  - kind: camera_ready
+    date: 2027-01-22
+    label: Volume 12 Issue 1
+sources:
+- https://2027.programming-conference.org/
+- https://2027.programming-conference.org/track/programming-2027-papers
+- https://2027.programming-conference.org/dates
+- https://2027.programming-conference.org/committee/programming-2027-organizing-committee
+- https://2026.programming-conference.org/
+- https://2026.programming-conference.org/track/programming-2026-papers
+- https://programming-journal.org/timeline/
+- https://programming-journal.org/
+- https://aosa-inc.org/
+- https://portal.core.edu.au/conf-ranks/?search=programming&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Journal deadline dates for each issue are taken from the standard journal timeline (normal operation), not from an issue-specific announcement

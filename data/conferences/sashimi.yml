@@ -1,0 +1,78 @@
+id: sashimi
+name: SASHIMI
+full_name: Workshop on Simulation and Synthesis in Medical Imaging
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: SASHIMI workshop organizers (MICCAI satellite workshop)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://2026.sashimiworkshop.org/
+notes:
+- MICCAI satellite workshop on image simulation and synthesis (image translation, generative models, mechanistic
+  models) for medical imaging, run every year since 2016; 2026 was the 11th edition
+- Accepted papers published in a Springer LNCS volume (2025 -> 978-3-032-05573-6)
+- Papers up to 8 pages plus 2 pages of references in the MICCAI template, double-blind review; fully in-person
+- Hosted the SynthRAD challenge (synthetic CT for radiotherapy) in 2023 and 2025
+- Organizers in 2026 from King's College London, Vanderbilt, Johns Hopkins, Girona and TU Munich
+- Location follows MICCAI (Daejeon 2025, Strasbourg 2026, Auckland 2027)
+- "CORE rank: C (ICORE2026); not in the CCF 2026 list"
+editions:
+- year: 2025
+  start: 2025-09-23
+  end: 2025-09-23
+  location: Daejeon, Korea
+  url: https://2025.sashimiworkshop.org/
+  deadlines:
+  - kind: submission
+    date: 2025-07-01
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 25
+  - kind: notification
+    date: 2025-07-16
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-30
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-10-01
+  end: 2026-10-01
+  location: Strasbourg, France
+  url: https://2026.sashimiworkshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-08
+    time: "23:59"
+    tz: AoE
+    label: Extended from July 1
+  - kind: notification
+    date: 2026-08-04
+    label: Moved from July 31
+sources:
+- https://2026.sashimiworkshop.org/
+- https://2026.sashimiworkshop.org/important_dates
+- https://2026.sashimiworkshop.org/submission
+- https://2026.sashimiworkshop.org/organization
+- https://2026.sashimiworkshop.org/previous_editions
+- https://2025.sashimiworkshop.org/
+- https://2025.sashimiworkshop.org/important_dates
+- https://conferences.miccai.org/2026/en/workshops.asp
+- https://conferences.miccai.org/2026/files/downloads/MICCAI2026-Satellite-Events-Program.pdf
+- https://portal.core.edu.au/conf-ranks/?search=SASHIMI&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- SASHIMI 2026 camera-ready deadline not given on the workshop site
+- SASHIMI 2027 not announced (MICCAI 2027 is in Auckland, Sep 27 to Oct 1, 2027)

@@ -1,0 +1,70 @@
+id: itnec
+name: IEEE ITNEC
+full_name: IEEE Information Technology, Networking, Electronic and Automation Control Conference
+type: conference
+tier: minor
+areas: [networking, communications, general]
+region: china
+language: english
+frequency: irregular
+organizer: Chongqing Global Union Academy of Science and Technology (GUAST), with IEEE sponsorship
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+fee: 600 USD author, 550 USD student or IEEE member, 200 USD listener (2026)
+typical:
+  deadline_months: [11, 2]
+  conference_months: [3, 9]
+links:
+  website: http://www.itnec.org/
+notes:
+- Run by the Chongqing Global Union Academy of Science and Technology, a company that also runs IAEAC, IMCEC, ITOEC and ITAIC
+- Held in China every edition (Chongqing, Chengdu or Xi'an); 2026 was the 8th edition (IEEE conference record 67763)
+- Proceedings in IEEE Xplore under ISSN 2693-3128; the site says past papers were indexed in EI about two months after publication
+- Broad scope covering IT, networking, communications, electronics and automation control
+- Two submission rounds with short review cycles; papers of at least 4 pages
+- Not held every year (no edition in 2022 or 2025)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2024
+  start: 2024-09-20
+  end: 2024-09-22
+  location: Chongqing, China
+- year: 2026
+  start: 2026-03-20
+  end: 2026-03-22
+  location: Xi'an, China
+  url: http://www.itnec.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-20
+    label: Round 1
+  - kind: notification
+    date: 2025-11-30
+    label: Round 1
+  - kind: camera_ready
+    date: 2025-12-10
+    label: Round 1
+  - kind: submission
+    date: 2026-02-10
+    label: Round 2 (extended)
+  - kind: notification
+    date: 2026-02-16
+    label: Round 2
+  - kind: camera_ready
+    date: 2026-02-18
+    label: Round 2
+sources:
+- http://www.itnec.org/
+- http://www.itnec.org/Important_Dates.asp
+- http://www.itnec.org/Registration.asp
+- http://www.itnec.org/Hotel.asp
+- https://conferences.ieee.org/conferences_events/conferences/conferencedetails/67763
+- https://api.crossref.org/works?query.bibliographic=Information+Technology+Networking+Electronic+and+Automation+Control+Conference+ITNEC&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ITNEC&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- "2026 location: the site banner says Xi'an, the About text and hotel page say Chongqing"
+- ITNEC 2027 (not announced yet)
+- Acceptance rate not published

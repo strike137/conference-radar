@@ -1,0 +1,50 @@
+id: sesame
+name: SESAME
+full_name: Workshop on SErverless Systems, Applications and MEthodologies
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: SESAME organizers (co-located with ACM EuroSys); organizing committee from the University of Edinburgh, University of Lisbon, ETH Zurich and NTU Singapore
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [3, 4, 5]
+links:
+  website: https://sesame26.github.io/
+notes:
+- Serverless computing workshop co-located with EuroSys since 2023 (Rome 2023, Athens 2024, Rotterdam 2025 with ASPLOS, Edinburgh 2026)
+- Scope widened to serverless GenAI and LLM inference serving from 2025
+- Short papers of up to 6 pages go into the ACM Digital Library (authors may opt out); 2-page work-in-progress abstracts are not published
+- Double-blind review; in-person only, at least one author must attend
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Edinburgh, UK
+  url: https://sesame26.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-02
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-03-02
+  - kind: camera_ready
+    date: 2026-03-30
+sources:
+- https://sesame26.github.io/
+- https://sesame25.github.io/
+- https://sesame23.github.io/
+- https://2024.eurosys.org/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=SESAME&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- SESAME 2027 not announced yet (EuroSys 2027 workshops are planned for April 19, 2027)
+- Original 2026 submission deadline before the extension not stated
+- Acceptance rate and fee not published (registration goes through the host conference)
+last_verified: 2026-10-17

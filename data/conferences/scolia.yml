@@ -1,0 +1,71 @@
+id: scolia
+name: SCOLIA
+full_name: International Workshop on Scholarly Information Access
+type: workshop
+tier: minor
+areas: [data, nlp]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Ingo Frommholz, Philipp Mayr, Guillaume Cabanac, Christin Kreutz and others from GESIS, University of Toulouse, Modul University Vienna and TH Mittelhessen); co-located with ECIR
+organizer_country: [europe]
+proceedings: CEUR Workshop Proceedings
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [3, 4]
+links:
+  website: https://sites.google.com/view/bir-ws/
+notes:
+- Continues the Bibliometric-enhanced Information Retrieval (BIR) workshop series, held since 2014 (BIR 2014 to 2024, renamed SCOLIA in 2025)
+- Half-day workshop co-located with ECIR every year; also held as BIRNDL with JCDL and SIGIR in some years
+- Topics are scholarly search, recommendation, bibliometrics and scientometrics for information retrieval
+- Proceedings in CEUR Workshop Proceedings (Vol-4022 for 2025, Vol-4187 for 2026)
+- Full papers (12 pages), short papers (6 pages) and shared task proposals (4 pages) in CEURART style; single-blind review via EasyChair with at least two reviewers
+- At least one author must attend in person, otherwise the paper is removed from the proceedings
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 1st SCOLIA (15th in the BIR series), with ECIR 2025
+  start: 2025-04-10
+  end: 2025-04-10
+  location: Lucca, Italy
+  url: https://sites.google.com/view/bir-ws/scolia-2025
+  deadlines:
+  - kind: submission
+    date: 2025-02-10
+    tz: AoE
+    label: Extended from 2025-01-27
+  - kind: notification
+    date: 2025-03-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-04-01
+    tz: AoE
+- year: 2026
+  label: 2nd SCOLIA, with ECIR 2026
+  start: 2026-04-02
+  end: 2026-04-02
+  location: Delft, Netherlands
+  url: https://sites.google.com/view/bir-ws/scolia-2026
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    tz: AoE
+    label: Extended from 2026-01-19
+  - kind: notification
+    date: 2026-03-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-15
+    tz: AoE
+sources:
+- https://sites.google.com/view/bir-ws/
+- https://sites.google.com/view/bir-ws/scolia-2026
+- https://sites.google.com/view/bir-ws/scolia-2025
+- https://ceur-ws.org/Vol-4187/
+- https://ceur-ws.org/Vol-4022/
+- https://portal.core.edu.au/conf-ranks/?search=SCOLIA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- SCOLIA 2027 not announced yet (the 2026 page only says shared task results will be presented at SCOLIA 2027)

@@ -1,0 +1,72 @@
+id: wosc
+name: WoSC
+full_name: International Workshop on Serverless Computing
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: WoSC organizers (co-located with ACM/IFIP Middleware); co-chairs from IBM Research and Universitat Rovira i Virgili
+organizer_country: [usa, europe]
+proceedings: ACM DL (own workshop proceedings volume)
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://www.serverlesscomputing.org/woais2/
+notes:
+- Long-running serverless computing workshop, held with ACM/IFIP Middleware since 2019 (WoSC 1 and 2 in 2017, WoSC 3 and 4 in 2018)
+- Renamed Workshop on AI and Serverless (WoAIS) in 2026; WoAIS 1 ran with ACM DEBS 2026 in Lisbon and WoAIS 2 runs with Middleware 2026 in Tarragona
+- Papers up to 6 pages in ACM SIGPLAN format, double-blind, at least 3 reviews; demos and other non-paper talks are not published
+- Each edition has its own proceedings volume in the ACM Digital Library (WoSC 11 in 2025, DOI 10.1145/3774899); the 2026 call says workshop papers go into Middleware companion proceedings in the ACM DL
+- Hybrid workshop (in person and online); a separate online WoSCx series takes talks only, with no proceedings
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: WoSC 11
+  start: 2025-12-15
+  end: 2025-12-15
+  location: Nashville, USA (Vanderbilt University) and online
+  url: https://www.serverlesscomputing.org/wosc11/
+  deadlines:
+  - kind: submission
+    date: 2025-10-19
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-11-03
+  - kind: camera_ready
+    date: 2025-11-10
+- year: 2026
+  label: WoAIS 2
+  start: 2026-12-14
+  end: 2026-12-14
+  location: Tarragona, Spain and online
+  url: https://www.serverlesscomputing.org/woais2/
+  deadlines:
+  - kind: submission
+    date: 2026-10-01
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-10-27
+  - kind: camera_ready
+    date: 2026-10-30
+sources:
+- https://www.serverlesscomputing.org/woais2/
+- https://www.serverlesscomputing.org/woais2/cfp
+- https://www.serverlesscomputing.org/woais1/
+- https://www.serverlesscomputing.org/wosc11/
+- https://www.serverlesscomputing.org/wosc11/cfp
+- https://www.serverlesscomputing.org/wosc11/program
+- https://www.serverlesscomputing.org/wosc10/
+- https://middleware-conf.github.io/2026/workshops/
+- https://dl.acm.org/doi/proceedings/10.1145/3774899
+- https://portal.core.edu.au/conf-ranks/?search=WoSC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- WoSC 11 notification and camera-ready dates differ between the home page news (Nov 3 and Nov 10, 2025, marked updated) and the call for papers (Oct 23 and Oct 27, 2025); the updated home page dates are used
+- WoAIS 1 at DEBS 2026 not recorded as an edition here; its publication route not checked
+- Acceptance rate and fee not published (registration goes through Middleware)
+last_verified: 2026-10-17

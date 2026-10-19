@@ -1,0 +1,63 @@
+id: crwa
+name: CRWA
+full_name: International Workshop on Crypto(graphy) for Real-World Assets
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Workshop organizers led by CSIRO Data61 (2026 with University of Manchester, Princeton and UCL); affiliated
+  event of IACR Asiacrypt
+organizer_country: [australia, europe, usa]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://crwa.site/
+notes:
+- One-day workshop affiliated with Asiacrypt; location follows Asiacrypt (2025 Monash University, Melbourne; 2026 PolyU,
+  Hong Kong)
+- First edition in 2025; 2026 is the second edition
+- Topics are cryptography for tokenized real-world assets, CBDCs, stablecoins, proof of reserve, ZK, MPC and FHE for
+  finance, and post-quantum security for long-lived assets
+- Non-archival with no formal proceedings; accepted talks are listed on the workshop website
+- 2026 accepts short abstracts (up to 3 pages excluding references) or full papers, including published work and
+  work in progress; submission through HotCRP
+- 2025 asked for blind-refereed papers in Springer LNCS format (recommended 15 pages plus references)
+- Registration goes through Asiacrypt; workshop-only rates are lower than conference rates
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-08
+  end: 2025-12-08
+  location: Melbourne, Australia (Monash University, affiliated with Asiacrypt 2025)
+  url: https://qinwang.tech/asiacrypt-crwa25/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-10-17
+  - kind: notification
+    date: 2025-11-08
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-07
+  location: Hong Kong (Hong Kong Polytechnic University, affiliated with Asiacrypt 2026)
+  url: https://crwa.site/
+  deadlines:
+  - kind: submission
+    date: 2026-10-21
+  - kind: notification
+    date: 2026-11-03
+sources:
+- https://crwa.site/
+- https://crwa.site/registration
+- https://qinwang.tech/asiacrypt-crwa25/index.html
+- https://asiacrypt.iacr.org/2026/affiliated.php
+- https://portal.core.edu.au/conf-ranks/?search=CRWA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Submission deadline time and time zone not stated
+- Only two editions so far; region set from co-location with Asiacrypt
+- CCF 2026 list not checked; a workshop of this kind is not expected to be listed

@@ -1,0 +1,73 @@
+id: cari
+name: CARI
+full_name: African Conference on Research in Computer Science and Applied Mathematics
+type: conference
+tier: minor
+areas: [general, ai, data, networking]
+region: africa
+frequency: biennial
+organizer: ASDS (African Society in Digital Sciences)
+organizer_country: [other]
+proceedings: Springer CCIS
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [3, 4]
+  conference_months: [10, 11]
+links:
+  website: https://asds.africa/asds-conferences/
+notes:
+- Colloque Africain sur la Recherche en Informatique et en Mathematiques Appliquees; flagship conference of ASDS, held every two years since 1992 (Yaounde)
+- Rotates across Africa (Senegal 2014 and 2020, Tunisia 2016, South Africa 2018, Cameroon and Tunisia 2022, Bejaia 2024, Cotonou 2026)
+- Two tracks, computer science and applied mathematics; partners include Inria, IRD and CIRAD
+- Proceedings in Springer CCIS (CARI 2024) or Trends in Mathematics; selected papers invited to the ARIMA journal
+- Full papers up to 14 pages, work in progress and position papers up to 7 pages, LNCS format, single-blind review via EasyChair
+- CARI 2024 received 210 submissions from 28 countries
+- Not listed in CORE ICORE2026
+editions:
+- year: 2024
+  start: 2024-11-23
+  end: 2024-11-26
+  location: Bejaia, Algeria
+  url: https://asds.africa/cari2024/
+  deadlines:
+  - kind: submission
+    date: 2024-04-30
+  - kind: notification
+    date: 2024-07-12
+  - kind: camera_ready
+    date: 2024-07-31
+- year: 2026
+  start: 2026-10-21
+  end: 2026-10-24
+  location: Cotonou, Benin (University of Abomey-Calavi)
+  url: https://asds.africa/cari2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-23
+    time: "23:59"
+    tz: UTC
+  - kind: submission
+    date: 2026-03-30
+    time: "23:59"
+    tz: UTC
+  - kind: notification
+    date: 2026-06-22
+    time: "23:59"
+    tz: UTC
+  - kind: camera_ready
+    date: 2026-07-06
+    time: "23:59"
+    tz: UTC
+sources:
+- https://asds.africa/
+- https://asds.africa/cari2026/
+- https://asds.africa/cari2024/
+- https://asds.africa/cari2024cfp/
+- https://link.springer.com/book/10.1007/978-3-031-88226-5
+- https://portal.core.edu.au/conf-ranks/?search=CARI&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- CARI 2026 proceedings series (Springer CCIS or Trends in Mathematics) not yet fixed on the official page
+- Presentation language not stated on the 2026 page; earlier editions also accepted French
+- CCF 2026 list not checked directly on ccf.org.cn (venue not expected there)

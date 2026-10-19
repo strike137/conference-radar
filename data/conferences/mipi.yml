@@ -1,0 +1,59 @@
+id: mipi
+name: MIPI
+full_name: Mobile Intelligent Photography and Imaging Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee led by Nanyang Technological University (Chen Change Loy and others) with
+  Nankai University and Xi'an Jiaotong University; co-located with ECCV, CVPR or ICCV
+organizer_country: [singapore, china]
+proceedings: IEEE Xplore (host conference workshop proceedings)
+archival: true
+typical:
+  deadline_months: [3, 7]
+  conference_months: [6, 10]
+links:
+  website: https://mipi-challenge.org/MIPI2025/
+notes:
+- Workshop plus challenge on mobile computational photography and imaging (image restoration, quality assessment, novel sensors)
+- Held with ECCV 2022 (online), CVPR 2023 (Vancouver), CVPR 2024 (Seattle) and ICCV 2025 (Honolulu)
+- Papers follow the host conference format; accepted papers must be registered and presented to appear in IEEE Xplore
+- Challenge tracks run on CodaLab with industry partners (ByteDance, Sony, vivo in 2025); challenge papers have their own deadline
+- Deadlines on the 2025 site are 11:59 PM HST (2024 used Pacific Time)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: With ICCV 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Honolulu, Hawaii, USA
+  url: https://mipi-challenge.org/MIPI2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-08
+    time: "23:59"
+    tz: UTC-10
+    label: Workshop papers (extended from 2025-07-04)
+  - kind: submission
+    date: 2025-07-08
+    time: "23:59"
+    tz: UTC-10
+    label: Challenge papers
+  - kind: notification
+    date: 2025-07-11
+  - kind: camera_ready
+    date: 2025-08-18
+    time: "23:59"
+    tz: UTC-10
+sources:
+- https://mipi-challenge.org/MIPI2025/
+- https://mipi-challenge.org/MIPI2024/
+- https://mipi-challenge.org/MIPI2023/
+- https://mipi-challenge.org/MIPI2022/
+- https://portal.core.edu.au/conf-ranks/?search=MIPI&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2026 edition found (mipi-challenge.org/MIPI2026/ returns 404); next edition not announced

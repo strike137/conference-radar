@@ -1,0 +1,56 @@
+id: eurousec
+name: EuroUSEC
+full_name: European Symposium on Usable Security
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: EuroUSEC organizing committee (USEC family of events); 2025 hosted by University of Strathclyde and Lancaster University
+organizer_country: [europe]
+proceedings: IEEE Xplore (via IEEE CPS, 2025); ACM ICPS (2024 and earlier)
+archival: true
+fee: 400 GBP author and other participants (2025)
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10]
+links:
+  website: https://eurousec2025.cis.strath.ac.uk/
+notes:
+- European sister event of USEC (NDSS) in the USEC family; forum on human factors in security and privacy
+- Research track for full papers (up to 16 pages) and short papers (up to 8 pages); SoK and replication studies welcome
+- Double-blind review by at least two reviewers; decisions are accept, shepherding or reject
+- 2025 papers handled by IEEE CPS and submitted for inclusion in IEEE Xplore; 2024 proceedings were in the ACM ICPS
+- In-person presentation required; two-day event held in Europe (Manchester, UK in 2025)
+- Not listed in the CORE portal (ICORE2026); much smaller than SOUPS (CORE A)
+editions:
+- year: 2025
+  start: 2025-09-10
+  end: 2025-09-11
+  location: Manchester, United Kingdom
+  url: https://eurousec2025.cis.strath.ac.uk/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-13
+    tz: AoE
+    label: Paper registration (mandatory)
+  - kind: submission
+    date: 2025-05-16
+    tz: AoE
+  - kind: notification
+    date: 2025-06-23
+  - kind: notification
+    date: 2025-07-14
+    label: Shepherded papers
+  - kind: camera_ready
+    date: 2025-08-04
+sources:
+- https://eurousec2025.cis.strath.ac.uk/
+- https://portal.core.edu.au/conf-ranks/?search=Usable+Security&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- EuroUSEC 2026 site not found (usablesecurity.net and eurousec.org could not be reached or had no edition page)
+- Whether the 2025 papers actually appeared in IEEE Xplore not confirmed
+- Locations of editions before 2025 not checked on official pages; region europe is taken from the venue name and the 2025 edition
+- CCF 2026 list not checked directly; EuroUSEC is not expected to be listed

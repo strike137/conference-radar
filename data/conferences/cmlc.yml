@@ -1,0 +1,54 @@
+id: cmlc
+name: CMLC
+full_name: Workshop on Challenges in the Management of Large Corpora
+type: workshop
+tier: minor
+areas: [nlp, data]
+region: europe
+language: english
+frequency: irregular
+organizer: Leibniz Institute for the German Language (IDS Mannheim) with Cardiff University and ICS PAS Warsaw; co-located with LREC or the Corpus Linguistics conference
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://corpora.ids-mannheim.de/cmlc.html
+notes:
+- Workshop on building, curating, querying and analysing very large text corpora, with a standing track for national corpus project reports (posters)
+- Held since 2012, alternating between LREC and the Corpus Linguistics conference (UK); 2018 edition in Miyazaki, Japan; 2020 edition cancelled after review; 2023 edition cancelled
+- 12th edition on the morning of May 11, 2026 at LREC 2026 in Palma, Mallorca
+- Proceedings published by ELRA on the LREC site and in the ACL Anthology
+- Papers of 4 to 8 pages via the LREC START system; national project posters as 500 to 750 word proposals
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: CMLC-12, with LREC 2026
+  start: 2026-05-11
+  end: 2026-05-11
+  location: Palma, Mallorca, Spain
+  url: https://corpora.ids-mannheim.de/cmlc-2026.html
+  deadlines:
+  - kind: submission
+    date: 2026-02-25
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from February 16)
+  - kind: notification
+    date: 2026-03-16
+  - kind: camera_ready
+    date: 2026-03-30
+sources:
+- https://corpora.ids-mannheim.de/cmlc.html
+- https://corpora.ids-mannheim.de/cmlc-2026.html
+- http://lrec-conf.org/proceedings/lrec2026/workshops/cmlc/2026.cmlc-1.0.pdf
+- https://aclanthology.org/volumes/2026.cmlc-1/
+- https://aclanthology.org/volumes/2022.cmlc-1/
+- https://portal.core.edu.au/conf-ranks/?search=CMLC&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- The 2026 important dates are now hidden in an HTML comment on the official page; the submission line strikes the original February 16 and adds February 25 but keeps the old weekday (Monday)
+- Next edition (CMLC-13) not announced
+- Acceptance rate not published

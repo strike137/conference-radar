@@ -1,0 +1,56 @@
+id: nse
+name: NSE
+full_name: International Workshop on Neuro-Symbolic Software Engineering
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: NSE organizing committee, co-located with ICSE (IEEE/ACM)
+organizer_country: [international]
+proceedings: ACM DL (ICSE 2026 workshop proceedings)
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/home/icse-2026/nse-2026
+notes:
+- One-day ICSE workshop on combining symbolic methods (formal methods, programming languages) with machine learning across software engineering tasks
+- 1st edition at ICSE 2025 (Ottawa, May 2025), 2nd at ICSE 2026 (Rio de Janeiro)
+- 2026 organizers from Hasso Plattner Institute (University of Potsdam), IBM Research Japan and IMC Krems (Austria)
+- Full papers up to 8 pages, short papers up to 6 pages, extended abstracts up to 5 pages; ACM double-column format, single-blind review
+- ICSE 2026 workshop papers are published by ACM; extended abstracts are APC free
+- 2025 edition used the IEEE template, in line with the IEEE workshop proceedings of ICSE 2025
+- Not on the ICSE 2027 workshop list, so the next edition is not announced yet
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-12
+  end: 2026-04-12
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/icse-2026/nse-2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-10
+    tz: AoE
+    label: Extended from 2025-10-20
+  - kind: notification
+    date: 2025-12-08
+    tz: AoE
+    label: Extended from 2025-11-24
+  - kind: camera_ready
+    date: 2026-01-26
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/icse-2026/nse-2026
+- https://conf.researchr.org/home/icse-2025/nse-2025
+- https://conf.researchr.org/track/icse-2026/icse-2026-workshops
+- https://conf.researchr.org/track/icse-2027/icse-2027-workshops
+- https://portal.core.edu.au/conf-ranks/?search=NSE&by=all&source=ICORE2026
+unverified:
+- The NSE 2026 page itself does not name the publisher; ACM publication is taken from the ICSE 2026 workshops call, which says workshop papers are published by ACM
+- No 2027 edition found; NSE is not among the ICSE 2027 workshops
+- Acceptance rate not found on an official page
+last_verified: 2026-10-17

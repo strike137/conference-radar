@@ -1,0 +1,71 @@
+id: gi-sicherheit
+name: Sicherheit
+full_name: "GI SICHERHEIT: Fachtagung Sicherheit, Schutz und Zuverlässigkeit"
+name_local: SICHERHEIT, Fachtagung für IT-Sicherheit, Schutz und Zuverlässigkeit
+type: conference
+tier: domestic
+areas: [security]
+region: europe
+language: mixed
+frequency: irregular
+organizer: GI (Gesellschaft für Informatik e.V.), Fachbereich Sicherheit - Schutz und Zuverlässigkeit, with a host university
+organizer_country: [europe]
+proceedings: GI Lecture Notes in Informatics (LNI)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [2, 3, 4]
+links:
+  website: https://fb-sicherheit.gi.de/sicherheit-2027
+notes:
+- Conference of the German Informatics Society (GI) security division, held since 2003; usually every two years,
+  but the 14th edition (2027) follows the 13th (2026) after one year
+- Covers IT security, privacy, safety and dependability; aimed at academia, industry and public administration
+- Conference language is German; papers can be submitted and published in German or English (2026 preferred German)
+- Main track papers up to 10 pages, student track 4 to 6 pages, double-blind review via EasyChair (2027)
+- Proceedings in GI Lecture Notes in Informatics (LNI); practitioners track, PhD forum and short talks on papers
+  published elsewhere are not included in the proceedings
+- Held in Germany (Konstanz 2018, Göttingen 2020, Karlsruhe 2022, Worms 2024, Hamburg 2026), Salzburg, Austria in 2027
+- Not ranked in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-17
+  end: 2026-03-19
+  location: Hamburg, Germany
+  url: https://www.haw-hamburg.de/sicherheit2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-14
+    label: Main, student and excellent published papers tracks and PhD forum (extended from 2025-10-31)
+  - kind: submission
+    date: 2026-01-31
+    label: Practitioners track (extended)
+  - kind: notification
+    date: 2025-12-15
+  - kind: camera_ready
+    date: 2026-02-16
+- year: 2027
+  start: 2027-02-23
+  end: 2027-02-25
+  location: Salzburg, Austria
+  url: https://fb-sicherheit.gi.de/sicherheit-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-01
+    tz: AoE
+  - kind: notification
+    date: 2027-01-14
+  - kind: camera_ready
+    date: 2027-01-21
+sources:
+- https://fb-sicherheit.gi.de/sicherheit-2027
+- https://fb-sicherheit.gi.de/sicherheit-2027/call-for-papers
+- https://fb-sicherheit.gi.de/aktivitaeten/fachbereichstagung
+- https://fb-sicherheit.gi.de/publikationen/tagungsbaende
+- https://www.haw-hamburg.de/sicherheit2026/
+- https://www.haw-hamburg.de/sicherheit2026/call-for-papers/
+- https://www.haw-hamburg.de/sicherheit2026/programmkomitee/
+- https://portal.core.edu.au/conf-ranks/?search=Sicherheit&by=all&source=ICORE2026
+unverified:
+- Deadlines for the 2027 practitioners track and PhD forum (not listed separately on the CFP page)
+last_verified: 2026-10-17

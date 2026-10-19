@@ -1,0 +1,68 @@
+id: ftfjp
+name: FTfJP
+full_name: Workshop on Formal Techniques for Judicious Programming
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: FTfJP steering committee, co-located with ECOOP
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2, 5]
+  conference_months: [6, 7]
+links:
+  website: https://2026.ecoop.org/home/FTfJP-2026
+notes:
+- Held annually with ECOOP since 1999; named Formal Techniques for Java-like Programs until 2024 (CORE still lists
+  it under that name)
+- Formal methods, semantics, type systems, verification and program analysis for modern languages (Java, C#, Rust,
+  Scala, ...)
+- 2026 papers published in the ACM Digital Library (authors may opt out); 2025 papers went to Journal of Object
+  Technology as post-proceedings
+- Full papers up to 12 pages and short papers up to 6 pages, excluding references; single-blind review
+- CORE C (ICORE2026, as Workshop on Formal Techniques for Java-like Programs); not on the CCF list
+editions:
+- year: 2025
+  start: 2025-07-03
+  end: 2025-07-03
+  location: Bergen, Norway (with ECOOP 2025)
+  url: https://2025.ecoop.org/home/FTfJP-2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-07
+    tz: AoE
+    label: Submission (extended)
+  - kind: notification
+    date: 2025-05-21
+    tz: AoE
+- year: 2026
+  start: 2026-06-30
+  end: 2026-06-30
+  location: Brussels, Belgium (with ECOOP 2026)
+  url: https://2026.ecoop.org/home/FTfJP-2026
+  deadlines:
+  - kind: submission
+    date: 2026-02-25
+    tz: AoE
+    label: Submission (extended)
+  - kind: notification
+    date: 2026-04-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-30
+    tz: AoE
+sources:
+- https://2026.ecoop.org/home/FTfJP-2026
+- https://2026.ecoop.org/committee/FTfJP-2026-ftfjp-2026-steering-committee
+- https://2025.ecoop.org/home/FTfJP-2025
+- https://portal.core.edu.au/conf-ranks/?search=FTfJP&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-10-17
+unverified:
+- FTfJP 2027 (ECOOP 2027, Turin) not announced as of 2026-10-17

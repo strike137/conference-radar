@@ -1,0 +1,55 @@
+id: isaim
+name: ISAIM
+full_name: International Symposium on Artificial Intelligence and Mathematics
+type: conference
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: biennial
+organizer: ISAIM organizing committee (sponsored by Annals of Mathematics and Artificial Intelligence)
+organizer_country: [usa]
+proceedings: ISAIM website (electronic proceedings, non-archival)
+archival: false
+rank:
+  core: 'National: USA'
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: https://isaim2026.cs.ou.edu/
+  dblp: https://dblp.org/db/conf/isaim/index.html
+notes:
+- Biennial symposium on the interaction of mathematics, theoretical computer science and AI; 2026 was the 19th edition
+- Sponsored by the Springer journal Annals of Mathematics and Artificial Intelligence (AMAI)
+- Electronic proceedings on the symposium website are explicitly non-archival, so papers can be submitted elsewhere afterwards
+- Selected papers are invited to a special volume of AMAI, refereed at journal standards
+- Three days with invited talks, technical papers and special topic sessions; submissions via OpenReview
+- 2026 edition held in Fort Lauderdale, Florida, with Florida Atlantic University providing local organization
+editions:
+- year: 2026
+  start: 2026-01-07
+  end: 2026-01-09
+  location: Fort Lauderdale, Florida, USA
+  url: https://isaim2026.cs.ou.edu/
+  deadlines:
+  - kind: submission
+    date: 2025-10-20
+    time: '23:59'
+    tz: PDT
+    label: Extended from Oct 13
+  - kind: notification
+    date: 2025-11-13
+  - kind: camera_ready
+    date: 2025-11-26
+sources:
+- https://isaim2026.cs.ou.edu/
+- https://mailman.zih.tu-dresden.de/groups/public/dl/2025/006791.html
+- https://groups.google.com/g/isaim/c/pHyaMVIMs1U
+- https://api2.openreview.net/groups?id=ISAIM/2026/Symposium
+- https://portal.core.edu.au/conf-ranks/?search=ISAIM&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Official site isaim2026.cs.ou.edu returned HTTP 503 on 2026-10-17; dates taken from the organizers' call for papers
+  and deadline extension posts and the OpenReview venue page
+- ISAIM 2028 not announced yet
+last_verified: 2026-10-17

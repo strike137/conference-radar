@@ -1,0 +1,83 @@
+id: ieee-lamc
+name: IEEE LAMC
+full_name: IEEE MTT-S Latin America Microwave Conference
+type: conference
+tier: minor
+areas: [communications]
+region: latin-america
+language: english
+frequency: biennial
+organizer: IEEE MTT-S
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12, 1]
+links:
+  website: https://lamc-ieee.org/
+notes:
+- Created by the IEEE Microwave Theory and Techniques Society (MTT-S), which sponsors it technically and financially
+- Covers RF and microwave engineering, RFIC and MMIC, antennas, communication systems, signal integrity and CAD
+- Planned every two years in December; editions in Puerto Vallarta (2016), Arequipa (2018), Cali (2021, virtual),
+  San Jose, Costa Rica (2023), San Juan, Puerto Rico (January 2025) and Buenos Aires (2026)
+- Three-page two-column papers (four pages maximum including references), single-blind review, submitted through
+  EDAS; accepted and presented papers go to IEEE Xplore
+- Recent editions offer a mini special issue in IEEE Transactions on Microwave Theory and Techniques (T-MTT)
+- "Fee: 500 USD IEEE member, 280 USD IEEE student member early bird (2026)"
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 5th LAMC
+  start: 2025-01-22
+  end: 2025-01-24
+  location: San Juan, Puerto Rico
+  url: https://2025.lamc-ieee.org/
+  deadlines:
+  - kind: other
+    date: 2024-07-29
+    label: Special session and tutorial proposals
+  - kind: submission
+    date: 2024-09-16
+    time: "23:59"
+    tz: EST
+    label: Regular papers (final)
+  - kind: notification
+    date: 2024-10-14
+  - kind: camera_ready
+    date: 2024-10-28
+- year: 2026
+  label: 6th LAMC
+  start: 2026-12-09
+  end: 2026-12-11
+  location: Buenos Aires, Argentina
+  url: https://lamc-ieee.org/
+  deadlines:
+  - kind: other
+    date: 2026-08-10
+    label: Special session and tutorial proposals
+  - kind: submission
+    date: 2026-08-24
+    label: Regular papers
+  - kind: notification
+    date: 2026-09-28
+  - kind: camera_ready
+    date: 2026-10-23
+  - kind: other
+    date: 2026-11-06
+    label: Author registration
+sources:
+- https://lamc-ieee.org/
+- https://lamc-ieee.org/call-for-papers/
+- https://lamc-ieee.org/paper-submission/
+- https://lamc-ieee.org/registration/
+- https://lamc-ieee.org/about-lamc/
+- https://lamc-ieee.org/about-lamc/past-editions/
+- https://2025.lamc-ieee.org/
+- https://2023.lamc-ieee.org/
+- https://portal.core.edu.au/conf-ranks/?search=LAMC&by=all&source=ICORE2026
+unverified:
+- Timing after 2026 is unclear (2025 and 2026 editions were in consecutive years); LAMC 2028 not announced as of
+  2026-10-17
+- Acceptance rate not published
+last_verified: 2026-10-17

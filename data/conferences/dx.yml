@@ -1,0 +1,67 @@
+id: dx
+name: DX
+full_name: International Conference on Principles of Diagnosis and Resilient Systems
+type: conference
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: DX steering committee (local host for 2026 University College Cork)
+organizer_country: [international]
+proceedings: Dagstuhl OASIcs
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [5]
+  conference_months: [9, 11]
+links:
+  website: https://conf.researchr.org/series/dx
+notes:
+- Formerly the International Workshop on Principles of Diagnosis (DX); became a
+  conference in 2024 and widened its scope to resilient systems
+- 37th edition in 2026; model-based and data-driven diagnosis, anomaly detection, prognosis, fault-tolerant
+  control and resilient design
+- Open access proceedings in the Dagstuhl OASIcs series (DX 2026 is OASIcs volume 148)
+- Rated C in ICORE2026 (listed under its old name International Workshop on Principles of Diagnosis); not on
+  the CCF list
+- Full papers up to 20 pages, short papers up to 14 pages, doctoral consortium up to 16 pages, encore abstracts
+  up to 6 pages, industry papers up to 12 pages, all including references; single-blind review via EasyChair
+- In-person attendance required for at least one author per paper; one registration covers one paper
+- Hosts the DX Competition (DXC) on diagnosis benchmarks; 2026 was co-located with the TIME symposium
+- Rotates between Europe and North America (Loma Mar 2023, Vienna 2024, Nashville 2025, Cork 2026,
+  Linkoping 2027)
+editions:
+- year: 2026
+  start: 2026-09-01
+  end: 2026-09-03
+  location: Cork, Ireland
+  url: https://conf.researchr.org/home/dx-2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-27
+    tz: AoE
+    label: All paper types
+  - kind: notification
+    date: 2026-06-22
+  - kind: camera_ready
+    date: 2026-08-10
+    tz: AoE
+    label: Extended
+- year: 2027
+  start: 2027-08-24
+  end: 2027-08-26
+  location: Linkoping, Sweden
+sources:
+- https://conf.researchr.org/home/dx-2026
+- https://conf.researchr.org/series/dx
+- https://conf.researchr.org/home/dx-2025
+- https://easychair.org/cfp/dx-23
+- https://portal.core.edu.au/conf-ranks/?search=DX&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-10-17
+unverified:
+- DX 2027 (38th, Linkoping, August 24 to 26, 2027) is announced only in a news item on the DX 2026 site; no
+  website or deadlines yet
+- Host cities of DX 2021 and DX 2022 not checked on official pages (region judged from 2023 to 2027)

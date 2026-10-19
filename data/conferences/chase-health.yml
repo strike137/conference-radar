@@ -1,0 +1,72 @@
+id: chase-health
+name: IEEE/ACM CHASE
+full_name: "IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies"
+type: conference
+tier: minor
+areas: [systems, networking, data]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Computer Society and ACM
+organizer_country: [usa]
+proceedings: IEEE conference proceedings (IEEE CPS); Elsevier Smart Health journal option for regular papers
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 8]
+links:
+  website: https://conferences.computer.org/chase2026/
+notes:
+- Conference on smart and connected health (wearables, biomedical sensing, body area networks, health data
+  analytics, telemedicine, security and privacy for health); first held in 2016
+- Regular papers up to 12 pages and short papers up to 5 pages, IEEE double-column format, double-blind review on HotCRP
+- Accepted regular and short papers go to the IEEE proceedings; authors of regular papers may instead publish in an
+  Elsevier Smart Health journal special issue
+- Also has workshops, posters and demos; NSF student travel awards for US-based students and an NSF-NIH aspiring PI workshop
+- Always held in the USA (Washington DC 2022, Orlando 2023 with FCRC, Wilmington 2024, New York 2025, Pittsburgh 2026,
+  Chapel Hill 2027)
+- Not to be confused with CHASE, the software engineering conference co-located with ICSE
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-04
+  end: 2026-08-06
+  location: Pittsburgh, Pennsylvania, USA
+  url: https://conferences.computer.org/chase2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-16
+    label: Regular and short papers (extended from 2026-01-26)
+  - kind: notification
+    date: 2026-03-30
+    label: Regular and short papers (moved from 2026-03-23)
+  - kind: submission
+    date: 2026-04-13
+    label: Demos and posters (extended from 2026-04-06)
+  - kind: submission
+    date: 2026-04-19
+    label: Workshop papers (extended from 2026-03-16)
+  - kind: camera_ready
+    date: 2026-06-18
+    time: "23:59"
+    tz: PDT
+    label: Regular and short papers (extended from 2026-05-04)
+- year: 2027
+  location: Chapel Hill, North Carolina, USA
+  url: https://conferences.computer.org/chase2027/
+sources:
+- https://conferences.computer.org/chase2026/
+- https://conferences.computer.org/chase2026/call_for_paper.html
+- https://conferences.computer.org/chase2026/paper_submission.html
+- https://conferences.computer.org/chase2026/past_conferences.html
+- https://conferences.computer.org/chase2027/
+- https://conferences.computer.org/chase2025/
+- https://conferences.computer.org/chase2024/
+- https://chase23.sigbed.org/
+- https://conferences.computer.org/chase2022/
+- https://portal.core.edu.au/conf-ranks/?search=CHASE&by=all&source=ICORE2026
+unverified:
+- CHASE 2027 is announced for early August 2027 in Chapel Hill; exact dates and deadlines not yet published
+- The official pages do not name the digital library for the proceedings (IEEE Xplore or ACM DL)
+- Acceptance rate and registration fee not published on the official site
+last_verified: 2026-10-17

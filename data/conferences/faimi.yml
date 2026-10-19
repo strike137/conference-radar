@@ -1,0 +1,70 @@
+id: faimi
+name: FAIMI
+full_name: MICCAI Workshop on Fairness of AI in Medical Imaging
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: FAIMI workshop organizers (held with MICCAI)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://faimi-workshop.github.io/
+notes:
+- MICCAI workshop on fairness, bias identification and bias mitigation in medical imaging AI, held with MICCAI since 2023
+- 2026 edition run jointly with the BRIDGE (regulatory evaluation) and EPIMI (ethics and philosophy) workshops
+- Proceedings in the MICCAI workshop volumes of Springer LNCS (2025 -> LNCS 15976, 21 papers from 29 submissions)
+- Double-blind review following MICCAI standards; up to 8 pages plus 2 pages of references in LNCS format, submission via OpenReview
+- The FAIMI group also runs online workshops and symposia that are not paper venues
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-23
+  end: 2025-09-23
+  location: Daejeon, Korea
+  url: https://faimi-workshop.github.io/2025-miccai-workshop/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    tz: AoE
+    label: Full papers (extended from 2025-06-25)
+  - kind: notification
+    date: 2025-07-16
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-30
+    tz: AoE
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://faimi-workshop.github.io/2026-miccai/
+  deadlines:
+  - kind: submission
+    date: 2026-07-06
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2026-07-31
+    time: "23:59"
+    tz: PDT
+  - kind: camera_ready
+    date: 2026-08-15
+    time: "23:59"
+    tz: PDT
+sources:
+- https://faimi-workshop.github.io/2026-miccai/
+- https://faimi-workshop.github.io/2025-miccai-workshop/
+- https://link.springer.com/conference/faimi
+- https://link.springer.com/book/10.1007/978-3-032-05870-6
+- https://portal.core.edu.au/conf-ranks/?search=FAIMI&by=all&source=ICORE2026
+unverified:
+- 2026 page gives times as 23:59 Pacific Time; recorded as PDT
+- FAIMI 2027 dates and location not yet announced as of 2026-10-17
+last_verified: 2026-10-17

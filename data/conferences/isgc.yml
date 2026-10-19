@@ -1,0 +1,66 @@
+id: isgc
+name: ISGC
+full_name: International Symposium on Grids & Clouds
+type: conference
+tier: minor
+areas: [systems, networking]
+region: taiwan
+language: english
+frequency: annual
+organizer: ASGC (Academia Sinica Grid Computing Centre)
+organizer_country: [taiwan]
+proceedings: Proceedings of Science (PoS)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [11, 12]
+  conference_months: [3]
+links:
+  website: https://indico4.twgrid.org/event/74/
+notes:
+- Run by the Academia Sinica Grid Computing Centre and held at Academia Sinica in Taipei, Taiwan, usually in March; first edition in 2003
+- Covers distributed and cloud infrastructures for science, including networks and security infrastructures, HPC, FAIR data and AI
+- ISGC 2023 was held together with the HEPiX Spring 2023 workshop; 2022 was virtual
+- Selection is by abstract; full papers (up to 15 pages) are submitted after the symposium
+- Full papers are reviewed and published open access in Proceedings of Science (PoS) by SISSA
+- Six-day event with keynotes, co-located workshops and project reports
+editions:
+- year: 2026
+  start: 2026-03-15
+  end: 2026-03-20
+  location: Academia Sinica, Taipei, Taiwan
+  url: https://indico4.twgrid.org/event/64/
+  deadlines:
+  - kind: submission
+    date: 2025-12-15
+    tz: UTC+8
+    label: Abstract submission
+  - kind: other
+    date: 2026-05-04
+    label: Full paper for PoS proceedings (extended from 2026-04-27, tentative)
+- year: 2027
+  start: 2027-03-21
+  end: 2027-03-26
+  location: Academia Sinica, Taipei, Taiwan
+  url: https://indico4.twgrid.org/event/74/
+  deadlines:
+  - kind: submission
+    date: 2026-11-16
+    time: "23:59"
+    tz: UTC+8
+    label: Abstract submission
+sources:
+- https://indico4.twgrid.org/event/74/
+- https://indico4.twgrid.org/event/74/abstracts/
+- https://indico4.twgrid.org/event/74/page/129-past-isgc-events
+- https://indico4.twgrid.org/event/64/
+- https://indico4.twgrid.org/event/64/abstracts/
+- https://indico4.twgrid.org/event/64/page/95-call-for-full-paper-submission
+- https://pos.sissa.it/cgi-bin/reader/family.cgi?code=isgc
+- https://portal.core.edu.au/conf-ranks/?search=ISGC&by=all&source=ICORE2026
+unverified:
+- ISGC 2027 full paper deadline for the PoS proceedings not yet announced
+- Abstract deadlines on Indico are shown in the event time zone (Asia/Taipei); the 2026 deadline closed at an unusual 18:44, possibly after an extension
+- Acceptance rate not published
+last_verified: 2026-10-17

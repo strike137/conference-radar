@@ -1,0 +1,85 @@
+id: bts-i2c
+name: BTS-I2C
+full_name: Beyond Technology Summit on Informatics International Conference
+type: conference
+tier: minor
+areas: [general, ai, networking, communications, data]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Universitas Muhammadiyah Jember
+organizer_country: [indonesia]
+proceedings: IEEE Xplore
+fee: 330 USD professional non-IEEE member, 310 USD IEEE member (2026, batch 1 overseas); 370 / 350 USD in batch 2; students from 270 USD
+typical:
+  deadline_months: [8, 10]
+  conference_months: [12]
+links:
+  website: https://bts.unmuhjember.ac.id/
+notes:
+- Run by Universitas Muhammadiyah Jember (East Java, Indonesia) with IEEE Indonesia Section on the steering committee
+- First held in 2024; 2025 edition was online, 2026 edition hybrid at Universitas Muhammadiyah Jember
+- Proceedings of the 2024 and 2025 editions are in IEEE Xplore; 4 to 6 page IEEE papers via EDAS, 3 reviewers per paper
+- Two submission batches each year with lower fees in batch 1
+- One-day conference in December with a broad EECS scope (power and energy, computing, robotics, communications, signal processing, IT)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 2nd BTS-I2C
+  start: 2025-12-18
+  end: 2025-12-18
+  location: Online
+  url: https://bts.unmuhjember.ac.id/2025/dist/
+  deadlines:
+  - kind: submission
+    date: 2025-09-30
+    label: Batch 1
+  - kind: submission
+    date: 2025-11-11
+    label: Batch 2
+  - kind: other
+    date: 2025-12-16
+    label: Payment registration
+  - kind: camera_ready
+    date: 2025-12-18
+- year: 2026
+  label: 3rd BTS-I2C
+  start: 2026-12-19
+  end: 2026-12-19
+  location: Jember, Indonesia (Universitas Muhammadiyah Jember) and online
+  url: https://bts.unmuhjember.ac.id/
+  deadlines:
+  - kind: submission
+    date: 2026-08-18
+    label: Batch 1
+  - kind: notification
+    date: 2026-09-18
+    label: Batch 1
+  - kind: other
+    date: 2026-09-30
+    label: Batch 1 payment registration
+  - kind: camera_ready
+    date: 2026-10-18
+    label: Batch 1
+  - kind: submission
+    date: 2026-10-26
+    label: Batch 2
+  - kind: notification
+    date: 2026-11-06
+    label: Batch 2 (31 Oct to 6 Nov)
+  - kind: other
+    date: 2026-11-13
+    label: Batch 2 payment registration
+  - kind: camera_ready
+    date: 2026-11-30
+    label: Batch 2
+sources:
+- https://bts.unmuhjember.ac.id/
+- https://bts.unmuhjember.ac.id/2025/dist/
+- https://ieeexplore.ieee.org/xpl/conhome/11399285/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/10939031/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/1856130/all-proceedings
+- https://portal.core.edu.au/conf-ranks/?search=BTS-I2C&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Location of the 2024 edition

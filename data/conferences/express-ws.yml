@@ -1,0 +1,68 @@
+id: express-ws
+name: EXPRESS
+full_name: Workshop on Explainable and Reliable Software Systems
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: EXPRESS steering committee (Kunlunxin / UNSW Sydney, Tsinghua University, UNSW Sydney, NIO); ACM SIGSOFT sponsored proceedings in 2026
+organizer_country: [china, australia]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 6]
+  conference_months: [6, 10]
+links:
+  website: https://conf.researchr.org/home/splash-issta-2026/express-2026
+notes:
+- Workshop co-located with ISSTA; 1st edition in Trondheim 2025 (with ISSTA/FSE), 2nd in Oakland 2026 (with SPLASH/ISSTA)
+- Not to be confused with the older EXPRESS/SOS concurrency theory workshop
+- Topics are explainability, dependability and trustworthiness of software and AI agent systems, testing and verification
+- Full papers up to 8 pages, work-in-progress and industry or tool papers up to 4 pages, references excluded; double-blind
+- Accepted full papers are published in ACM proceedings; short papers may opt out of ACM publication
+- Organizers mostly from Chinese universities and industry labs
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-06-28
+  end: 2025-06-28
+  location: Trondheim, Norway (with ISSTA 2025)
+  url: https://conf.researchr.org/home/issta-2025/express-2025
+  deadlines:
+  - kind: submission
+    date: 2025-03-31
+    tz: AoE
+  - kind: notification
+    date: 2025-04-17
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-04-24
+    tz: AoE
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-05
+  location: Oakland, California, USA (with SPLASH/ISSTA 2026)
+  url: https://conf.researchr.org/home/splash-issta-2026/express-2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-28
+    tz: AoE
+  - kind: notification
+    date: 2026-07-31
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-24
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/splash-issta-2026/express-2026
+- https://conf.researchr.org/series/express
+- https://conf.researchr.org/home/issta-2025/express-2025
+- https://api.crossref.org/works/10.1145/3842650.3843174
+- https://portal.core.edu.au/conf-ranks/?search=EXPRESS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2027 edition announced yet
+- Where the 2025 papers were published was not confirmed
+- Not in the CCF 2026 list as far as checked; rank.ccf left out

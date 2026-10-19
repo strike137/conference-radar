@@ -1,0 +1,69 @@
+id: kubecon-japan
+name: KubeCon + CloudNativeCon Japan
+full_name: KubeCon + CloudNativeCon Japan
+type: industry
+tier: minor
+areas: [systems, software]
+region: japan
+frequency: annual
+organizer: Cloud Native Computing Foundation (CNCF), The Linux Foundation
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7, 8]
+links:
+  website: https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/
+notes:
+- CNCF flagship practitioner conference on Kubernetes and cloud native computing, Japan edition run by The Linux Foundation
+- First held in Tokyo in June 2025; 2026 and 2027 editions in Yokohama
+- Two main conference days of keynotes and breakouts, with CNCF-hosted co-located events (ArgoCon, KeycloakCon in 2026) the day before
+- Talk proposals through Sessionize, reviewed by a program committee; no papers, only talk recordings posted afterwards
+- The Emerging + Advanced track explicitly welcomes cloud native research and academic papers presented as talks
+- Proposals must describe open source platforms or tools; no vendor sales pitches
+editions:
+- year: 2025
+  start: 2025-06-16
+  end: 2025-06-17
+  location: Tokyo, Japan
+  url: https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-japan/
+  deadlines:
+  - kind: submission
+    date: 2025-02-02
+    time: "23:59"
+    tz: JST
+    label: Talk proposals (CFP)
+  - kind: notification
+    date: 2025-03-17
+- year: 2026
+  start: 2026-07-28
+  end: 2026-07-30
+  location: Yokohama, Japan
+  url: https://events.linuxfoundation.org/archive/2026/kubecon-cloudnativecon-japan/
+  deadlines:
+  - kind: submission
+    date: 2026-03-29
+    time: "23:59"
+    tz: JST
+    label: Talk proposals (CFP)
+  - kind: notification
+    date: 2026-05-11
+- year: 2027
+  start: 2027-08-25
+  end: 2027-08-26
+  location: Yokohama, Japan
+  url: https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/
+  deadlines: []
+sources:
+- https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/
+- https://events.linuxfoundation.org/archive/2026/kubecon-cloudnativecon-japan/
+- https://events.linuxfoundation.org/archive/2026/kubecon-cloudnativecon-japan/program/cfp/
+- https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-japan/
+- https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-japan/program/cfp/
+- https://portal.core.edu.au/conf-ranks/?search=KubeCon&by=all&source=ICORE2026
+unverified:
+- 2027 edition is a save the date only (August 25-26, Yokohama); call for proposals not yet announced
+- 2027 co-located events day not announced
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

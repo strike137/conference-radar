@@ -1,0 +1,74 @@
+id: papoc
+name: PaPoC
+full_name: Workshop on Principles and Practice of Consistency for Distributed Data
+type: workshop
+tier: minor
+areas: [systems, data]
+region: europe
+language: english
+frequency: annual
+organizer: PaPoC steering committee (co-located with ACM EuroSys)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [3, 4, 5]
+links:
+  website: https://papoc-workshop.github.io/2026/
+notes:
+- One-day workshop on consistency in distributed systems (CRDTs, replication, transactions, verification), running since 2014
+- Co-located with EuroSys every recent year (Rome 2023, Athens 2024, Rotterdam 2025, Edinburgh 2026)
+- 'Three formats: short papers (up to 6 pages), full papers (up to 12 pages, may be submitted elsewhere, not published) and 300-word lightning talks'
+- Only short papers can go into the ACM Digital Library (author's choice, with other EuroSys workshops); full papers and lightning talks are not published
+- Submissions need not be anonymised; deadline in January or February, usually extended (by one to three weeks in 2025 and 2026)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-03-31
+  end: 2025-03-31
+  location: Rotterdam, The Netherlands
+  url: https://papoc-workshop.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-05
+    time: "23:59"
+    tz: AoE
+    label: Extended from Jan 15
+  - kind: notification
+    date: 2025-02-22
+  - kind: camera_ready
+    date: 2025-03-05
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Edinburgh, UK
+  url: https://papoc-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-30
+    time: "23:59"
+    tz: AoE
+    label: Extended from Jan 23
+  - kind: notification
+    date: 2026-03-12
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-03
+    time: "23:59"
+    tz: AoE
+sources:
+- https://papoc-workshop.github.io/2026/
+- https://papoc-workshop.github.io/2026/cfp.html
+- https://papoc-workshop.github.io/2026/program.html
+- https://papoc-workshop.github.io/2026/committees.html
+- https://papoc-workshop.github.io/2025/
+- https://papoc-workshop.github.io/2025/cfp.html
+- https://papoc-workshop.github.io/2024/
+- https://papoc-workshop.github.io/2023/
+- https://portal.core.edu.au/conf-ranks/?search=PaPoC&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- PaPoC 2027 not announced yet (EuroSys 2027 workshops are planned for April 19, 2027)
+- Acceptance rate and fee not published (registration goes through the host conference)
+last_verified: 2026-10-17

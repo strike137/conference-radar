@@ -1,0 +1,62 @@
+id: ictcs
+name: ICTCS
+full_name: Italian Conference on Theoretical Computer Science
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: Italian Chapter of the European Association for Theoretical Computer Science (EATCS), with a host university
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+fee: 290 EUR junior, 350 EUR senior (2026, early); 350 EUR and 420 EUR late
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://ictcs2026.uniud.it/
+notes:
+- Annual conference of the Italian Chapter of EATCS, open to researchers of all nationalities; papers and talks in English
+- Covers all areas of theoretical computer science, from algorithms and complexity to logic, semantics and verification
+- Regular papers up to 12 pages and communications up to 5 pages, CEUR-WS one-column style
+- Proceedings in open-access CEUR-WS (2025 -> Vol-4039, 2026 -> Vol-4269); best papers invited to a journal special issue
+- Held at a different Italian university each year (Palermo 2023, Turin 2024, Pescara 2025, Udine 2026)
+- Registration includes one-year EATCS and Italian Chapter membership
+- Not listed in the CORE portal (ICORE2026) or the CCF list
+editions:
+- year: 2026
+  label: 27th ICTCS
+  start: 2026-09-07
+  end: 2026-09-09
+  location: Udine, Italy
+  url: https://ictcs2026.uniud.it/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-20
+    tz: AoE
+    label: Extended from 2026-06-14
+  - kind: submission
+    date: 2026-06-28
+    tz: AoE
+    label: Extended from 2026-06-14
+  - kind: notification
+    date: 2026-07-26
+    tz: AoE
+    label: Extended from 2026-07-21
+  - kind: camera_ready
+    date: 2026-08-08
+    tz: AoE
+    label: Extended from 2026-08-05
+sources:
+- https://ictcs2026.uniud.it/
+- https://ictcs2026.uniud.it/important-dates/
+- https://ictcs2026.uniud.it/registration/
+- https://ceur-ws.org/Vol-4269/
+- https://ictcs2025.unich.it/
+- https://portal.core.edu.au/conf-ranks/?search=ICTCS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- ICTCS 2027 not announced on an official page as of 2026-10-17
+- Acceptance rate not recorded

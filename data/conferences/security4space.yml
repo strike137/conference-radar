@@ -1,0 +1,68 @@
+id: security4space
+name: 3S
+full_name: ESA Security for Space Systems Conference
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: irregular
+organizer: European Space Agency (ESA)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4, 7]
+  conference_months: [11]
+links:
+  website: https://security4space.esa.int/
+notes:
+- Security for Space Systems (3S), organized and hosted by ESA at ESTEC in Noordwijk, the Netherlands
+- First edition in May 2024 (two days, IEEE and non-IEEE paper tracks); second edition in November 2025 (two and a half days)
+- 2025 papers published by IEEE in IEEE Xplore; presentations and papers also on ESA Indico
+- 2025 had two review cycles (April and July) with double-blind review; full papers up to 8 pages plus appendices (12 total), short papers up to 5 pages
+- Topics include space crypto, avionics and ground segment security, jamming, satcom and CCSDS protocol security
+- Industrial exhibition alongside the conference; 2025 hosted the Ctrl+Space CTF on an in-orbit satellite
+- "Registration 2025: EUR 185 early, EUR 300 late (excl. VAT); free for one student author per paper"
+- Not found in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-11-04
+  end: 2025-11-06
+  location: ESA ESTEC, Noordwijk, Netherlands
+  url: https://security4space.esa.int/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-16
+    time: "23:59"
+    tz: AoE
+    label: First review cycle
+  - kind: notification
+    date: 2025-05-30
+    label: First review cycle
+  - kind: submission
+    date: 2025-07-15
+    time: "23:59"
+    tz: AoE
+    label: Second review cycle (extended from Jun 30)
+  - kind: notification
+    date: 2025-09-01
+    label: Second review cycle
+  - kind: camera_ready
+    date: 2025-11-01
+    label: Both cycles (extended from Oct 1)
+sources:
+- https://security4space.esa.int/
+- https://security4space.esa.int/2025/
+- https://security4space.esa.int/2025/cfp/
+- https://security4space.esa.int/2025/committe/
+- https://security4space.esa.int/2025/registration/
+- https://security4space.esa.int/2024/
+- https://security4space.esa.int/2024/cfp/
+- https://ieeexplore.ieee.org/xpl/conhome/11387783/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=Security%20for%20Space&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2026 or 2027 conference announced on the official site (checked 2026-10-17); only an ESA call for in-orbit cybersecurity experiment ideas (deadline 2026-06-30) is listed
+- Frequency unclear after two editions (May 2024, November 2025); typical months follow the 2025 edition
+- Whether the 2024 papers are in IEEE Xplore is not stated on the official site (it links ESA Indico only)

@@ -1,0 +1,62 @@
+id: pycon-africa
+name: PyCon Africa
+full_name: PyCon Africa
+type: industry
+tier: minor
+areas: [software, ai]
+region: africa
+language: english
+frequency: annual
+organizer: PyCon Africa with the host country's Python community (PyCon Uganda in 2026)
+organizer_country: [other]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [9, 10]
+links:
+  website: https://africa.pycon.org/
+notes:
+- Pan-African conference of the Python community, non-profit and volunteer run, hosted each year by a national Python
+  community
+- 'Editions: Accra 2019, online 2020, Accra 2024, Johannesburg 2025 (joint with PyConZA), Kampala 2026; no edition
+  2021 to 2023'
+- Five days with a free Beginners Day, main conference days with talks and workshops, and sprints
+- Talks, tutorials and workshops chosen from an open call for proposals, with a separate later poster call
+- Talks only, no papers or proceedings; recordings on YouTube
+editions:
+- year: 2025
+  start: 2025-10-08
+  end: 2025-10-12
+  location: The Wanderers Club, Johannesburg, South Africa
+  url: https://2025.za.pycon.org/
+  deadlines: []
+- year: 2026
+  start: 2026-10-07
+  end: 2026-10-11
+  location: Speke Resort Munyonyo, Kampala, Uganda
+  url: https://africa.pycon.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-16
+    time: "23:59"
+    tz: UTC+3
+    label: Call for proposals (talks, tutorials, workshops; EAT)
+  - kind: other
+    date: 2026-05-20
+    time: "23:59"
+    tz: UTC+3
+    label: Poster call closes (EAT)
+sources:
+- https://africa.pycon.org/
+- https://africa.pycon.org/2026/about/pycon-africa-2026/
+- https://africa.pycon.org/2026/talks/submit/
+- https://2025.za.pycon.org/
+- https://africa.pycon.org/2024/
+- https://za.pycon.org/pages/past-events/
+- https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
+unverified:
+- PyCon Africa 2027 host country and dates not yet announced
+- 2025 CFP deadline not recorded
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-17

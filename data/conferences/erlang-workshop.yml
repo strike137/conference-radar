@@ -1,0 +1,82 @@
+id: erlang-workshop
+name: Erlang Workshop
+full_name: ACM SIGPLAN International Workshop on Erlang
+type: workshop
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8, 9, 10]
+links:
+  website: https://conf.researchr.org/home/icfp-2026/erlang-2026
+notes:
+- Satellite workshop of ICFP, sponsored by ACM SIGPLAN; 2026 is the 25th edition
+- Covers Erlang, Elixir, Gleam and other BEAM languages, actor model programming, distribution and concurrency
+- Accepted papers are published by ACM in the ACM Digital Library; lightning talks are not peer reviewed and not in the proceedings
+- Technical papers and practice and application papers up to 12 pages, short papers up to 6 pages (ACM SIGPLAN acmart format)
+- Academic and industrial audience (Ericsson, Meta/WhatsApp, Erlang Ecosystem Foundation)
+- Follows ICFP around the world (Singapore 2025 with ICFP/SPLASH, Indianapolis 2026); 2026 edition was hybrid
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-10-12
+  end: 2025-10-12
+  location: Singapore (with ICFP/SPLASH 2025)
+  url: https://conf.researchr.org/home/icfp-splash-2025/erlang-2025
+  deadlines:
+  - kind: abstract
+    date: 2025-06-06
+    tz: AoE
+  - kind: submission
+    date: 2025-06-13
+    tz: AoE
+  - kind: notification
+    date: 2025-07-04
+  - kind: notification
+    date: 2025-08-15
+    label: Conditionally accepted papers
+  - kind: camera_ready
+    date: 2025-08-25
+    tz: AoE
+  - kind: other
+    date: 2025-09-12
+    tz: AoE
+    label: Lightning talks (no proceedings)
+- year: 2026
+  start: 2026-08-28
+  end: 2026-08-28
+  location: Indianapolis, Indiana, USA (with ICFP 2026)
+  url: https://conf.researchr.org/home/icfp-2026/erlang-2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-21
+    tz: AoE
+    label: Papers (extended from 2026-05-14)
+  - kind: notification
+    date: 2026-06-25
+  - kind: other
+    date: 2026-07-07
+    tz: AoE
+    label: Lightning talks (no proceedings)
+  - kind: camera_ready
+    date: 2026-07-16
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/icfp-2026/erlang-2026
+- https://2025.splashcon.org/home/erlang-2025
+- https://conf.researchr.org/home/icfp-splash-2025/erlang-2025
+- https://doi.org/10.1145/3830434
+- https://doi.org/10.1145/3759161
+- https://portal.core.edu.au/conf-ranks/?search=Erlang&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- "Erlang 2026 camera-ready: the important dates sidebar says 2026-07-16, the call for papers text says 2026-07-07"
+- Erlang 2027 not announced yet (ICFP 2027 is in Nijmegen, September 2027)
+- CCF 2026 list could not be loaded from ccf.org.cn and the venue is not in the CCF list mirror; rank.ccf left out

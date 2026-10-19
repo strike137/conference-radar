@@ -1,0 +1,74 @@
+id: r6d
+name: R6D
+full_name: International Workshop on Recovering 6D Object Pose
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (researchers from CTU in Prague, Google, Mistral, NVIDIA, MVTec, ENPC, Heidelberg University and others); co-located with ICCV or ECCV
+organizer_country: [europe, usa]
+proceedings: ICCV Workshops proceedings (CVF Open Access and IEEE Xplore) or ECCV Workshops proceedings (Springer)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://cmp.felk.cvut.cz/sixd/workshop_2026/
+notes:
+- Workshop on 6D object pose estimation and related object-centric vision, held with ICCV or ECCV since 2015 (11th edition in 2026)
+- Runs the BOP Challenge benchmark on object pose estimation alongside the workshop (2026 challenge on 3D/2D object grounding)
+- 2026 papers of 7 to 14 pages were peer reviewed and appear in the ECCV 2026 workshop proceedings
+- 2025 had two tracks, in-proceedings papers (4 to 8 pages, ICCV workshop proceedings) and later non-proceedings papers presented only at the workshop
+- Submission through OpenReview
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 10th edition, with ICCV 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, Hawaii, USA
+  url: https://cmp.felk.cvut.cz/sixd/workshop_2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: "23:59"
+    tz: PST
+    label: In-proceedings papers
+  - kind: notification
+    date: 2025-07-14
+    label: In-proceedings papers
+  - kind: camera_ready
+    date: 2025-08-14
+  - kind: submission
+    date: 2025-10-01
+    time: "23:59"
+    tz: PST
+    label: Non-proceedings papers (extended)
+  - kind: notification
+    date: 2025-10-05
+    label: Non-proceedings papers
+- year: 2026
+  label: 11th edition, with ECCV 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmö, Sweden
+  url: https://cmp.felk.cvut.cz/sixd/workshop_2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-29
+    label: Extended
+  - kind: notification
+    date: 2026-08-07
+  - kind: camera_ready
+    date: 2026-08-14
+sources:
+- https://cmp.felk.cvut.cz/sixd/workshop_2026/
+- https://cmp.felk.cvut.cz/sixd/workshop_2025/
+- https://eccv.ecva.net/Conferences/2026/CallForWorkshops
+- https://portal.core.edu.au/conf-ranks/?search=R6D&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Original 2026 submission deadline (before the extension to July 29) not shown on the official page
+- Next edition (R6D 2027, expected with ICCV 2027) not announced yet

@@ -1,0 +1,60 @@
+id: sum
+name: SUM
+full_name: International Conference on Scalable Uncertainty Management
+type: conference
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: biennial
+organizer: SUM steering committee with a local host university (National Technical University of Athens in 2026)
+organizer_country: [europe]
+proceedings: Springer LNAI
+archival: true
+typical:
+  conference_months: [10, 11]
+links:
+  website: http://sum2026.math.ntua.gr/
+notes:
+- Small conference on uncertainty in AI and databases (uncertainty reasoning, argumentation, inconsistency,
+  probabilistic and possibilistic logics, incomplete knowledge); first held in 2007
+- Proceedings in Springer LNCS, LNAI subseries (2022 -> LNCS 13562, 2024 -> LNCS 15350, 2026 -> LNCS 17188)
+- Long, short and extended abstract submissions with single-blind review; long and short papers go to LNAI, extended
+  abstracts of already published work only to a separate booklet
+- "Acceptance: 23 full and 6 short papers from 38 submissions (2026); 28 full and 7 short from 43 (2024)"
+- Annual until 2020, every two years since (2020 Bolzano, 2022 Paris, 2024 Palermo, 2026 Athens)
+- Held in Europe in recent years (Milan 2018, Compiegne 2019, Bolzano 2020, Paris 2022, Palermo 2024, Athens 2026);
+  earlier editions also in the USA and Canada
+editions:
+- year: 2024
+  start: 2024-11-27
+  end: 2024-11-29
+  location: Palermo, Italy
+- year: 2026
+  start: 2026-10-21
+  end: 2026-10-23
+  location: Athens, Greece
+  url: http://sum2026.math.ntua.gr/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    label: Full papers (extended from 2026-05-22)
+  - kind: other
+    date: 2026-07-15
+    label: Abstracts (extended from 2026-05-01)
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-15
+sources:
+- http://sum2026.math.ntua.gr/
+- https://sum2026.math.ntua.gr/?page_id=774
+- https://sum2026.math.ntua.gr/?page_id=735
+- https://link.springer.com/book/9783032435132
+- https://link.springer.com/book/10.1007/978-3-031-76235-2
+- https://link.springer.com/book/10.1007/978-3-031-18843-5
+- https://portal.core.edu.au/conf-ranks/?search=SUM&by=all&source=ICORE2026
+unverified:
+- SUM 2024 deadlines not recorded
+- SUM 2028 not announced
+last_verified: 2026-10-17

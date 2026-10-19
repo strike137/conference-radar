@@ -1,0 +1,73 @@
+id: cheops
+name: CHEOPS
+full_name: Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: CHEOPS steering committee (co-located with ACM EuroSys)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [3, 4, 5]
+links:
+  website: https://cheops-workshop.github.io/
+notes:
+- One-day storage systems workshop co-located with EuroSys since 2021 (Rome 2023, Athens 2024, Rotterdam 2025, Edinburgh 2026)
+- Steering committee from DDN, ENSTA Paris, Ohio State, CERN, Inria and OVGU Magdeburg
+- Full papers (6 pages) or short papers (4 pages) excluding references, double-blind review with at least 3 reviews
+- Proceedings in the ACM Digital Library; extended versions of selected papers considered for ACM SIGOPS Operating Systems Review
+- Work-in-progress session with one-page abstracts that are not included in the proceedings (2025)
+- Abstract deadline one week before the paper deadline; deadlines are usually extended
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-03-31
+  end: 2025-03-31
+  location: Rotterdam, The Netherlands
+  url: https://cheops-workshop.github.io/2025.html
+  deadlines:
+  - kind: abstract
+    date: 2025-01-17
+    tz: AoE
+    label: Extended from Jan 10
+  - kind: submission
+    date: 2025-01-24
+    tz: AoE
+    label: Extended from Jan 17
+  - kind: notification
+    date: 2025-02-14
+  - kind: camera_ready
+    date: 2025-02-28
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Edinburgh, UK
+  url: https://cheops-workshop.github.io/2026.html
+  deadlines:
+  - kind: abstract
+    date: 2026-02-06
+    label: Extended from Jan 26
+  - kind: submission
+    date: 2026-02-13
+    label: Extended from Feb 2
+  - kind: notification
+    date: 2026-03-06
+  - kind: camera_ready
+    date: 2026-03-20
+sources:
+- https://cheops-workshop.github.io/
+- https://cheops-workshop.github.io/2025.html
+- https://cheops-workshop.github.io/2024.html
+- https://cheops-workshop.github.io/2023.html
+- https://dl.acm.org/doi/proceedings/10.1145/3719330
+- https://portal.core.edu.au/conf-ranks/?search=CHEOPS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CHEOPS 2027 not announced yet (EuroSys 2027 workshops are planned for April 19, 2027)
+- 2026 page does not state the deadline time zone (2025 used AoE)
+- Acceptance rate and fee not published (registration goes through the host conference)
+last_verified: 2026-10-17

@@ -1,0 +1,55 @@
+id: fct
+name: FCT
+full_name: International Symposium on Fundamentals of Computation Theory
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: biennial
+organizer: FCT Steering Committee (chair Marek Karpinski, University of Bonn), with a local host institution each edition
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://fct2025.cs.uni.wroc.pl/
+notes:
+- Biennial theoretical computer science symposium established in 1977, held in odd years
+- Covers all of theoretical computer science (algorithms, complexity, formal languages, logic, formal methods)
+- Proceedings in Springer LNCS
+- Held in Europe; recent editions in Wroclaw (2025), Trier (2023), Athens (2021), Copenhagen (2019), Bordeaux (2017) and Gdansk (2015)
+- FCT 2025 presented 32 accepted papers
+- Ranked B in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  label: 25th FCT
+  start: 2025-09-15
+  end: 2025-09-17
+  location: Wroclaw, Poland
+  url: https://fct2025.cs.uni.wroc.pl/
+  deadlines:
+  - kind: submission
+    date: 2025-05-06
+    tz: AoE
+  - kind: notification
+    date: 2025-06-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-14
+    tz: AoE
+sources:
+- https://fct2025.cs.uni.wroc.pl/home
+- https://fct2025.cs.uni.wroc.pl/accepted-papers
+- https://link.springer.com/conference/fct
+- https://doi.org/10.1007/978-3-032-04700-7
+- https://portal.core.edu.au/conf-ranks/?search=FCT&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-10-17
+unverified:
+- FCT 2027 not announced on an official page found as of 2026-10-17
+- Page limits, review model, acceptance rate and fees not stated on the FCT 2025 site

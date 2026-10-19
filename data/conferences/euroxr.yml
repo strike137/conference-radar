@@ -1,0 +1,91 @@
+id: euroxr
+name: EuroXR
+full_name: EuroXR International Conference (formerly EuroVR)
+type: conference
+tier: minor
+areas: [vision, general]
+region: europe
+language: english
+frequency: annual
+organizer: European Association for eXtended Reality (EuroXR), with a rotating local host
+organizer_country: [europe]
+proceedings: Springer LNCS (scientific track); ISBN volume edited by VTT for the application, poster and demo tracks
+archival: true
+typical:
+  deadline_months: [4, 7]
+  conference_months: [9, 11]
+links:
+  website: https://www.euroxr.org/conference-2026
+notes:
+- Annual conference of the European Association for eXtended Reality (EuroXR, an AISBL registered in Brussels); called EuroVR until 2020
+- Scientific track papers are published in a Springer LNCS volume (Virtual Reality and Mixed Reality series); top papers are invited to extend for Computers & Graphics
+- "Three paper sizes in the scientific track: long 14 to 20 pages, medium 8 to 12, short 4 to 6 (Springer format, excluding references)"
+- Two scientific deadlines, an earlier one with a rebuttal phase and a later one without; at least three reviewers, anonymous submission, in-person presentation required
+- Application, poster and demo tracks take 2 to 4 page extended abstracts with a later deadline, published in a separate ISBN volume edited by VTT
+- Held in Europe every year (Milan 2021, Stuttgart 2022, Rotterdam 2023, Athens 2024, Winterthur 2025, Valencia 2026)
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-03
+  end: 2025-09-05
+  location: Winterthur, Switzerland (ZHAW School of Management and Law)
+  url: https://euroxr.org/previous-edition-conference2025
+- year: 2026
+  start: 2026-11-03
+  end: 2026-11-06
+  location: Valencia, Spain (Universidad Politecnica de Valencia, Human-Tech)
+  url: https://www.euroxr.org/conference-2026
+  deadlines:
+  - kind: submission
+    date: 2026-04-29
+    time: "23:59"
+    tz: AoE
+    label: Scientific track with rebuttal (extended from 2026-04-25)
+  - kind: notification
+    date: 2026-06-03
+    label: First notification (rebuttal procedure)
+  - kind: other
+    date: 2026-07-02
+    time: "23:59"
+    tz: AoE
+    label: Revised papers in the rebuttal procedure (extended from 2026-06-24)
+  - kind: submission
+    date: 2026-07-02
+    time: "23:59"
+    tz: AoE
+    label: Scientific track without rebuttal (extended from 2026-06-24)
+  - kind: notification
+    date: 2026-08-05
+    label: Final notification for all scientific papers (moved from 2026-07-28)
+  - kind: camera_ready
+    date: 2026-09-07
+    time: "23:59"
+    tz: AoE
+    label: Scientific papers
+  - kind: submission
+    date: 2026-09-14
+    time: "23:59"
+    tz: AoE
+    label: Application track short abstracts (extended from 2026-09-07)
+  - kind: notification
+    date: 2026-09-21
+    label: Application track
+  - kind: camera_ready
+    date: 2026-10-05
+    time: "23:59"
+    tz: AoE
+    label: Application track
+sources:
+- https://www.euroxr.org/conference-2026
+- https://www.euroxr.org/annual-conference
+- https://www.euroxr.org/conference-2026/calls-and-guidelines/scientific-track
+- https://www.euroxr.org/conference-2026/calls-and-guidelines/applications-track
+- https://www.euroxr.org/previous-editions
+- https://euroxr.org/previous-edition-conference2025
+- https://link.springer.com/conference/eurovr
+- https://portal.core.edu.au/conf-ranks/?search=EuroXR&by=all&source=ICORE2026
+unverified:
+- EuroXR 2025 deadlines not recorded
+- Which of the two dates shown for each 2026 scientific deadline is the extension is inferred from the struck-through first date on the CFP page
+- EuroXR 2027 not yet announced
+last_verified: 2026-10-17

@@ -1,0 +1,52 @@
+id: wdsc
+name: WDSC
+full_name: Workshop on Decentralized Secure Collaboration
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: asia-pacific
+language: english
+frequency: irregular
+organizer: Sherman S. M. Chow (CUHK), Shang Gao (PolyU), Harry W. H. Wong (NYCU) and Yingfei Yan (Universite Clermont Auvergne); affiliated with ASIACRYPT
+organizer_country: [china, taiwan, europe]
+proceedings: None (no formal proceedings)
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://wdsc2026.github.io/index.html
+notes:
+- Half-day affiliated workshop of ASIACRYPT 2026 on cryptography for collaboration without a single trusted controller
+- Topics include threshold signatures, MPC signing, distributed key management, anonymous credentials, zero-knowledge proofs and verifiable computation
+- Non-anonymous extended abstracts or talk proposals of 1 to 3 pages via EasyChair, presented as lightning talks, posters or discussion prompts
+- 'Non-archival: no proceedings, so previously published or concurrent work is welcome if disclosed'
+- Program has three invited talks, lightning talks and a moderated discussion
+- Presenters are expected to attend in person
+editions:
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-07
+  location: Hong Kong
+  url: https://wdsc2026.github.io/index.html
+  deadlines:
+  - kind: abstract
+    date: 2026-10-28
+    time: "23:59"
+    tz: AoE
+    label: Proposal submission (extended from 13 Oct)
+  - kind: notification
+    date: 2026-11-05
+  - kind: other
+    date: 2026-11-10
+    label: Final title and abstract
+sources:
+- https://wdsc2026.github.io/index.html
+- https://wdsc2026.github.io/cfp.html
+- https://wdsc2026.github.io/people.html
+- https://wdsc2026.github.io/program.html
+- https://portal.core.edu.au/conf-ranks/?search=WDSC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No earlier edition found; 2026 appears to be the first, so frequency and region are assumptions based on the ASIACRYPT affiliation
+- Not in the ICORE2026 portal and not in the CCF list, so no rank is given

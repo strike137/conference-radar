@@ -1,0 +1,49 @@
+id: greensys
+name: GreenSys
+full_name: International Workshop on Systems and Methods for Sustainable Large-Scale AI
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: europe
+language: english
+frequency: annual
+organizer: GreenSys organizers (co-located with ACM EuroSys); chairs from the University of Amsterdam and UC Riverside
+organizer_country: [europe, usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [3, 4]
+links:
+  website: https://greensys-org.github.io/workshop/
+notes:
+- One-day workshop co-located with EuroSys on energy, carbon and water footprint of large-scale AI systems
+- Started in 2025 (Rotterdam, with EuroSys 2025); 2nd edition in Edinburgh with EuroSys 2026
+- 2025 edition had invited talks, journal-first presentations and a panel; 2026 added a paper call with proceedings
+- Accepted papers are published in the ACM Digital Library; one author must register and present
+- 'Papers: up to 6 pages including references in ACM sigconf format, single-blind review via HotCRP'
+- Welcomes early-stage ideas and work in progress
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Edinburgh, UK (with EuroSys 2026)
+  url: https://greensys-org.github.io/workshop/
+  deadlines:
+  - kind: submission
+    date: 2026-02-24
+    label: Papers (extended from Feb 14)
+  - kind: notification
+    date: 2026-03-16
+    label: Extended from Mar 12
+sources:
+- https://greensys-org.github.io/workshop/
+- https://greensys-org.github.io/workshop/call-for-papers/
+- https://greensys-org.github.io/workshop/committee/
+- https://greensys-org.github.io/workshop/2025/
+- https://portal.core.edu.au/conf-ranks/?search=GreenSys&by=all&source=ICORE2026
+unverified:
+- GreenSys 2027 not announced yet (EuroSys 2027 is planned for Rabat, Morocco)
+- Acceptance rate not published
+last_verified: 2026-10-17

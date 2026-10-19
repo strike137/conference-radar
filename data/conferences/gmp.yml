@@ -1,0 +1,65 @@
+id: gmp
+name: GMP
+full_name: International Conference on Geometric Modeling and Processing
+type: conference
+tier: minor
+areas: [vision, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: Asiagraphics, with a rotating local host university
+organizer_country: [international]
+proceedings: Computer-Aided Geometric Design (Elsevier) special issue
+archival: true
+rank:
+  core: C
+  ccf: C
+typical:
+  deadline_months: [12]
+  conference_months: [5]
+links:
+  website: https://gmp2026.kma.zcu.cz/
+notes:
+- Annual conference on geometric modeling, simulation and computing; one of the three flagship conferences of Asiagraphics
+- Accepted papers form a special issue of Computer-Aided Geometric Design (CAGD, Elsevier); journal-first style two-stage review
+- Papers needing major revision may be recommended to CAGD for a fast-track submission
+- Full papers of 10 to 15 pages, double-blind review, submission via the Eurographics SRM system
+- Rotates worldwide (Plzen 2021, Okinawa 2022, Genova 2023, Qingdao 2024, St. Louis 2025, Plzen 2026)
+- ICORE2026 rank C (listed as Geometry Modeling and Processing); CCF C (computer graphics and multimedia)
+editions:
+- year: 2026
+  start: 2026-05-27
+  end: 2026-05-29
+  location: Plzen, Czech Republic (University of West Bohemia)
+  url: https://gmp2026.kma.zcu.cz/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-16
+    time: "23:59"
+    tz: UTC
+  - kind: submission
+    date: 2025-12-18
+    time: "23:59"
+    tz: UTC
+  - kind: notification
+    date: 2026-02-16
+    label: First review cycle
+  - kind: other
+    date: 2026-03-09
+    time: "23:59"
+    tz: UTC
+    label: Revised paper submission
+  - kind: notification
+    date: 2026-04-13
+    label: Second review cycle
+sources:
+- https://gmp2026.kma.zcu.cz/
+- https://gmp2026.kma.zcu.cz/index.php?clanek=papersubmission
+- https://gmp2026.kma.zcu.cz/index.php?clanek=previousconferences
+- https://gmp2026.kma.zcu.cz/index.php?clanek=organizers
+- https://portal.core.edu.au/conf-ranks/?search=GMP&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- GMP 2027 not yet found (location, dates and deadlines unknown)
+- CCF rank checked via a mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-10-17

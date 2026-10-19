@@ -1,0 +1,68 @@
+id: fnp
+name: FNP
+full_name: Financial Narrative Processing Workshop
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: FNP initiative led from Lancaster University (UCREL); general chair from VinUniversity and Lancaster University, programme chairs from UAM (Spain) and NCSR Demokritos (Greece)
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [3, 12]
+  conference_months: [3, 5]
+links:
+  website: https://wp.lancs.ac.uk/cfie/
+notes:
+- Workshop on NLP for financial text (annual reports, financial narratives, summarisation, causality, financial QA); started at LREC 2018
+- Co-located with a different host conference each edition (LREC 2018 and 2022, NoDaLiDa 2019, COLING 2020, IEEE BigData 2023, COLING 2025, LREC 2026, EACL 2027)
+- Proceedings in the ACL Anthology; the 2025 edition was a joint workshop with FinNLP and LLMFinLegal at COLING 2025 in Abu Dhabi, and the 2023 edition was part of IEEE BigData 2023 in Sorrento, Italy
+- Runs shared tasks such as FinCausal (financial causality detection), FinTOC and FNS; GreekFinRAG added for 2027
+- Long papers up to 8 pages and short papers up to 4 pages
+- 20 papers at FNP 2026, 49 at the joint 2025 workshop
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-16
+  end: 2026-05-16
+  location: Palma de Mallorca, Spain (co-located with LREC 2026)
+  url: https://wp.lancs.ac.uk/cfie/fnp2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-10
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-03-18
+  - kind: camera_ready
+    date: 2026-03-30
+- year: 2027
+  location: Greece (co-located with EACL 2027, to be confirmed)
+  url: https://wp.lancs.ac.uk/cfie/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-12-15
+    label: Direct submission
+  - kind: other
+    date: 2026-12-22
+    label: ARR commitment
+  - kind: notification
+    date: 2027-01-05
+  - kind: camera_ready
+    date: 2027-01-19
+sources:
+- https://wp.lancs.ac.uk/cfie/
+- https://wp.lancs.ac.uk/cfie/fnp2026/
+- https://wp.lancs.ac.uk/cfie/fnp2025/
+- https://wp.lancs.ac.uk/cfie/fnp2023/
+- https://aclanthology.org/venues/fnp/
+- https://aclanthology.org/volumes/2026.fnp-1/
+- https://portal.core.edu.au/conf-ranks/?search=FNP&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- FNP 2027 workshop date not announced; the page lists only "9-14 March 2027 TBA" and marks EACL 2027 in Greece as to be confirmed
+- Time zone of the FNP 2027 deadlines not stated

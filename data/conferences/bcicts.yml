@@ -1,0 +1,76 @@
+id: bcicts
+name: IEEE BCICTS
+full_name: IEEE BiCMOS and Compound Semiconductor Integrated Circuits and Technology Symposium
+type: conference
+tier: minor
+areas: [communications]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Electron Devices Society (EDS), co-sponsored by IEEE SSCS and IEEE MTT-S
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [10]
+links:
+  website: https://bcicts.org/
+notes:
+- Symposium on bipolar, SiGe BiCMOS and compound semiconductor (GaN, InP, GaAs) circuits, devices and technology
+- Formed from the merger of IEEE BCTM and IEEE CSICS; 2026 was the ninth edition
+- Covers analog, RF, mm-wave and THz ICs, high-speed mixed-signal and optoelectronic ICs, device physics, modeling and
+  process technology
+- Submissions are 4-page papers; accepted papers go into the Symposium Digest (IEEE copyright) in IEEE Xplore
+- Extended versions of selected papers are invited to a special issue of the IEEE Journal of Solid-State Circuits
+- Small industry-heavy event with short courses, a primer course and an exhibition; held in the USA (Scottsdale
+  2025, Boston 2026, San Diego 2027)
+- Late breaking news papers are accepted after the main deadline
+- Devices and circuits venue outside the usual CS rankings, not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-10-11
+  end: 2026-10-14
+  location: Boston, Massachusetts, USA
+  url: https://bcicts.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    label: 4-page paper (extended from May 8)
+  - kind: notification
+    date: 2026-07-10
+  - kind: other
+    date: 2026-08-21
+    label: Late breaking news papers
+  - kind: camera_ready
+    date: 2026-09-09
+- year: 2027
+  start: 2027-10-24
+  end: 2027-10-27
+  location: San Diego, California, USA
+  url: https://bcicts.org/
+  deadlines:
+  - kind: submission
+    date: 2027-05-14
+    label: 4-page abstract
+  - kind: notification
+    date: 2027-07-21
+  - kind: camera_ready
+    date: 2027-09-15
+sources:
+- https://bcicts.org/
+- https://bcicts.org/author-resources-1/
+- https://bcicts.org/chairmans-message/
+- https://bcicts.org/wp-content/uploads/2026/05/IEEE-2026-BCICTS-CFP-SubmissionExtended-05052026.1.pdf
+- https://bcicts.org/wp-content/uploads/2026/03/2026_BCICTS-Author-Guidelines_Re_v2.docx
+- https://bcicts.org/wp-content/uploads/2026/10/2026_BCICTS-Advanced_Program-1014-aa.pdf
+- https://bcicts.org/wp-content/uploads/2025/09/BCICTS-2025_BCICTS-Advanced_Program-TECHNICAL-PROGRAM-ADDED-9-15.25_1545.pdf
+- https://doi.org/10.1109/bcicts63111.2025.11210915
+- https://portal.core.edu.au/conf-ranks/?search=BCICTS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- "2027 dates come from the call for papers in the 2026 advance program, which gives both October 24-27 and October
+  17-20, 2027; October 24-27 is used, as stated twice there"
+- 2027 weekdays in that call (Friday July 21, Friday September 15) do not match the dates, so the 2027 deadlines may be
+  carried over from an older template
+- Deadline time zones, acceptance rate and registration fees not stated

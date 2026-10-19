@@ -1,0 +1,50 @@
+id: event-vision
+name: Event-based Vision Workshop
+full_name: International Workshop on Event-based Vision
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: biennial
+organizer: Workshop organizers from TU Berlin, University of Pennsylvania, University of Maryland, Prophesee and Tempo
+  Sense; co-located with CVPR
+organizer_country: [europe, usa]
+proceedings: CVPR Workshops proceedings (CVF Open Access)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://tub-rip.github.io/eventvision2025/
+notes:
+- Workshop on event cameras and neuromorphic vision (sensors, algorithms, datasets, applications)
+- Held every two years with CVPR (2019, 2021, 2023, 2025); the first edition was at ICRA 2017
+- 2025 was the 5th edition, a full day workshop in Nashville with invited talks, papers, demos and four challenges
+- Papers in CVPR format, published open access through CVF (36 papers in 2025)
+- Also accepts non-archival courtesy presentations of papers accepted elsewhere
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 5th edition, with CVPR 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Nashville, Tennessee, USA
+  url: https://tub-rip.github.io/eventvision2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-19
+    time: "23:59"
+    tz: PST
+    label: Extended from 2025-03-12
+  - kind: notification
+    date: 2025-03-31
+  - kind: camera_ready
+    date: 2025-04-14
+sources:
+- https://tub-rip.github.io/eventvision2025/
+- https://openaccess.thecvf.com/CVPR2025_workshops/EventVision
+- https://portal.core.edu.au/conf-ranks/?search=Event-based&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Next edition (6th, expected with CVPR 2027 given the biennial pattern) not announced yet

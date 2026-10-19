@@ -1,0 +1,72 @@
+id: eatis
+name: EATIS
+full_name: Euro American Conference on Telematics and Information Systems
+type: conference
+tier: minor
+areas: [general, data, networking]
+region: worldwide
+language: english
+frequency: biennial
+organizer: EATIS.org (Euro American Association on Telematics and Information Systems)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7]
+links:
+  website: https://eatis.org/
+  dblp: https://dblp.org/db/conf/eatis/index
+notes:
+- Run by EATIS.org, a not-for-profit network of about 80 researchers in 31 countries promoting Europe and Americas collaboration
+- Biennial since 2010; alternates between Europe, the Americas and recently Africa (Brazil 2018, Portugal 2020 online and 2022 hybrid, Cabo Verde 2024, Marrakech 2026)
+- Smart city focused information systems and ICT topics (big data, cloud, IoT, ITS, HCI, e-learning, web systems, digital finance)
+- Proceedings in the ACM Digital Library (2022 and 2024 ACM proceedings); some earlier editions in IEEE Xplore
+- Short papers up to 4 pages (poster/panel) and full papers up to 8 pages (oral); papers may be in English, Spanish or Portuguese but are presented in English
+- Remote presentation is allowed
+- "Registration 2026: 220 EUR author, 150 EUR remote author (before Jun 5)"
+- CORE C (ICORE2026); Qualis B3 per the CFP; not on the CCF list
+editions:
+- year: 2024
+  label: 12th EATIS
+  start: 2024-07-03
+  end: 2024-07-05
+  location: Praia, Cabo Verde
+  url: http://eatis.org/eatis2024/
+  deadlines:
+  - kind: submission
+    date: 2024-01-27
+- year: 2026
+  label: 13th EATIS
+  start: 2026-06-24
+  end: 2026-06-26
+  location: Marrakech, Morocco
+  url: http://eatis.org/eatis2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-02-22
+  - kind: notification
+    date: 2026-04-13
+  - kind: camera_ready
+    date: 2026-04-30
+    label: Camera-ready and author registration
+sources:
+- https://eatis.org/
+- http://eatis.org/eatis2026/
+- https://eatis.org/eatis2026/call.pdf
+- http://eatis.org/eatis2026/registration.html
+- http://eatis.org/eatis2024/
+- https://eatis.org/portal/index176d.html?option=com_content&task=view&id=14&Itemid=29
+- https://doi.org/10.1145/3685243
+- https://doi.org/10.1145/3544538
+- https://portal.core.edu.au/conf-ranks/?search=EATIS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The 2026 CFP PDF gives notification Mar 31 and camera-ready Apr 21; the website gives Apr 13 and Apr 30 (website used)
+- Publisher of the 2026 proceedings is not named on the site (ACM template is required)
+- 2024 deadline taken from the EATIS.org portal news item; notification and camera-ready dates for 2024 not found
+- 2028 edition not yet announced

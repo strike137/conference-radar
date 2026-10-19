@@ -1,0 +1,77 @@
+id: petra
+name: PETRA
+full_name: International Conference on PErvasive Technologies Related to Assistive Environments
+type: conference
+tier: minor
+areas: [general, ai]
+region: europe
+language: english
+frequency: annual
+organizer: University of Texas at Arlington (conference chair Fillia Makedon)
+organizer_country: [usa]
+proceedings: Springer CCIS (from 2026; ACM ICPS in ACM DL through 2025)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7]
+links:
+  website: https://www.petrae.org/
+notes:
+- Interdisciplinary venue on pervasive computing, HCI, human-robot interaction, sensing and machine learning for assistive and healthcare applications
+- Run by Fillia Makedon (University of Texas at Arlington) as conference chair, with mostly UTA program chairs
+- Always held in Greece (Corfu, Crete, Rhodes); 2026 edition hybrid on Crete
+- Proceedings were published in the ACM Digital Library (ACM ICPS) up to PETRA 2025; from 2026 they are published by Springer in CCIS
+- Full papers 10 to 12 pages, short and workshop papers 6 to 10 pages, posters 5 to 7 pages (all including references)
+- Many co-located workshops each year (11 in 2026)
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-06-25
+  end: 2025-06-27
+  location: Corfu, Greece
+  url: https://www.petrae.org/past.html
+- year: 2026
+  start: 2026-07-12
+  end: 2026-07-15
+  location: Crete, Greece (hybrid)
+  url: https://www.petrae.org/
+  deadlines:
+  - kind: other
+    date: 2025-12-12
+    tz: PST
+    label: Workshop proposals (extended)
+  - kind: submission
+    date: 2026-01-31
+    tz: PST
+    label: Full and short papers (extended)
+  - kind: notification
+    date: 2026-03-20
+    tz: PST
+    label: Full and short papers
+  - kind: other
+    date: 2026-04-12
+    tz: PST
+    label: Workshop and poster papers (extended)
+  - kind: camera_ready
+    date: 2026-04-13
+    tz: PST
+    label: Full and short papers
+  - kind: notification
+    date: 2026-04-25
+    tz: PST
+    label: Workshop and poster papers
+sources:
+- https://www.petrae.org/
+- https://www.petrae.org/announcement.html
+- https://www.petrae.org/approach.html
+- https://www.petrae.org/deadlines.html
+- https://www.petrae.org/workshops/index.html
+- https://www.petrae.org/guide.html
+- https://www.petrae.org/past.html
+- https://www.petrae.org/committee.html
+- https://dl.acm.org/doi/proceedings/10.1145/3733155
+- https://portal.core.edu.au/conf-ranks/?search=PETRA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Original (pre-extension) 2026 deadlines not stated on the official pages
+- PETRA 2027 not announced as of 2026-10-17

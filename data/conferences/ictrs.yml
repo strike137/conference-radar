@@ -1,0 +1,66 @@
+id: ictrs
+name: ICTRS
+full_name: International Conference on Telecommunications and Remote Sensing
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: annual
+organizer: IICREST, co-organized by ARSIT, under the auspices of URSI
+organizer_country: [europe]
+proceedings: Springer CCIS (post-proceedings)
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [3]
+  conference_months: [7, 12]
+links:
+  website: https://www.ictrs.org/
+  dblp: https://dblp.org/db/conf/ictrs/
+notes:
+- Small conference run by IICREST (Bulgaria) since 2012; general co-chair Boris Shishkov
+- Two tracks (Foundations and Applications) covering wireless communications, electromagnetics, photonics and remote
+  sensing
+- Held in Europe (Sofia, Rhodes, Milan, Delft, Barcelona, Luxembourg) or online (2020, 2021, 2024)
+- Proceedings in ACM ICPS up to 2021 and in Springer CCIS since 2022 (2024 volume is CCIS 2544)
+- Extended abstracts (2 to 4 pages, LNCS format) are reviewed double-blind; full papers are submitted after the event
+- "Acceptance: 8 of 19 submissions (2024)"
+- Up to three best papers are extended in Annals of Telecommunications
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  label: 13th edition
+  start: 2024-12-19
+  end: 2024-12-20
+  location: Online
+  url: https://www.ictrs.org/
+- year: 2025
+  label: 14th edition
+  start: 2025-07-01
+  end: 2025-07-02
+  location: Milan, Italy
+  url: https://www.ictrs.org/
+  deadlines:
+  - kind: submission
+    date: 2025-03-10
+    time: "23:59"
+    tz: CET
+    label: Extended abstract
+  - kind: notification
+    date: 2025-04-21
+  - kind: other
+    date: 2025-05-07
+    label: Registration
+sources:
+- https://www.ictrs.org/
+- https://www.ictrs.org/CallForPapers.htm
+- https://www.ictrs.org/ImportantDates.htm
+- https://www.ictrs.org/SubissionGuidelines.htm
+- https://www.ictrs.org/Documents/ProceedingsOfThirteenthICTRS.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ICTRS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2026 edition announced on the official site as of 2026-10-17
+- Publisher of the 2025 post-proceedings not stated on the official site (it shows an ACM logo; a Springer CCIS volume
+  is listed by booksellers)

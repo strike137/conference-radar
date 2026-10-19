@@ -1,0 +1,77 @@
+id: cata
+name: CATA
+full_name: International Conference on Computers and Their Applications
+type: conference
+tier: minor
+areas: [general, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: International Society for Computers and Their Applications (ISCA)
+organizer_country: [usa]
+proceedings: Springer Nature (Computers and Their Applications volume)
+archival: true
+rank:
+  core: "National: USA"
+typical:
+  deadline_months: [11, 1]
+  conference_months: [3]
+links:
+  website: https://www.isca-hq.org/CATA/CATA2027/cata2027.html
+notes:
+- Run by the International Society for Computers and Their Applications (ISCA), a small US society that also runs BICOB, CAINE and SEDE
+- Long-running general computing conference; 2027 is the 42nd edition
+- Broad topics from AI, networks and security to databases, graphics and computers in education
+- Since 2025 the proceedings are published by Springer Nature as one volume per year (35 papers in 2026, 19 in 2025); 2023 and 2024 were in the EasyChair EPiC Series in Computing
+- Single-blind review; submission through Springer Nature Meteor
+- Extended versions can be submitted to the ISCA journal after the conference
+- Held in the USA each year in March (online 2023, New Orleans 2024, San Francisco 2025, Honolulu 2026, New Orleans 2027)
+- Co-located with the ISCA BICOB conference
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-25
+  location: Hilton Waikiki Beach Resort and Spa, Honolulu, Hawaii, USA
+  url: https://nwmissouri.edu/csis/CATA2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-15
+    label: Full papers (extended from 2025-11-30)
+  - kind: notification
+    date: 2026-01-20
+  - kind: camera_ready
+    date: 2026-01-26
+  - kind: other
+    date: 2026-02-02
+    label: Registration materials due
+- year: 2027
+  start: 2027-03-22
+  end: 2027-03-23
+  location: Holiday Inn New Orleans Superdome, New Orleans, Louisiana, USA
+  url: https://www.isca-hq.org/CATA/CATA2027/cata2027.html
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    label: Full papers
+  - kind: notification
+    date: 2027-01-18
+  - kind: camera_ready
+    date: 2027-01-25
+  - kind: other
+    date: 2027-01-25
+    label: Registration materials due
+sources:
+- https://www.isca-hq.org/CATA/CATA2027/cata2027.html
+- http://isca-hq.org/isca.php?p=Conferences
+- https://nwmissouri.edu/csis/CATA2026/
+- https://nwmissouri.edu/csis/CATA2025/
+- https://nwmissouri.edu/csis/CATA2024/
+- https://nwmissouri.edu/csis/CATA2023/
+- https://link.springer.com/conference/cata
+- https://portal.core.edu.au/conf-ranks/?search=CATA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Name of the Springer series that carries the 2025 and 2026 volumes is not stated on the official pages
+- Indexing (Scopus, EI, INSPEC, DBLP) is as claimed by the organizer, not checked
+- Acceptance rate and fees not checked
+- Not found in the CCF 2026 list (checked via the CCFrank4dblp mirror)

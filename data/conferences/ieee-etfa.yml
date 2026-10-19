@@ -1,0 +1,76 @@
+id: ieee-etfa
+name: IEEE ETFA
+full_name: IEEE International Conference on Emerging Technologies and Factory Automation
+type: conference
+tier: minor
+areas: [systems, networking, ai]
+region: europe
+language: english
+frequency: annual
+organizer: IEEE Industrial Electronics Society (IES)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://etfa2027.ieee-ies.org/
+notes:
+- Annual conference sponsored by the IEEE Industrial Electronics Society; 2026 was the 31st edition
+- Industrial automation scope with 11 technical tracks (IT in automation, industrial communication, real-time systems,
+  manufacturing, industrial control, vision and HMI, robots, IIoT sensing, systems engineering, AI for CPS, vehicular embedded systems)
+- Regular papers 6 to 8 pages (max 8), work-in-progress papers up to 4 pages; special sessions and co-located workshops have their own calls
+- Accepted and presented papers, including WiP papers, go to IEEE Xplore
+- Usually held in Europe (Porto 2025, Vasteras 2026, Pisa 2027); deadlines are usually extended by about 10 days
+- CORE C in ICORE2026; not in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-11
+  location: Vasteras, Sweden
+  url: https://etfa2026.ieee-ies.org/
+  deadlines:
+  - kind: other
+    date: 2026-02-19
+    label: Special session proposals (extended from 2026-02-12)
+  - kind: other
+    date: 2026-03-13
+    label: Workshop proposals (extended from 2026-02-27)
+  - kind: submission
+    date: 2026-04-29
+    label: Regular and special session papers (extended from 2026-04-19)
+  - kind: notification
+    date: 2026-06-08
+    label: Regular and special session papers
+  - kind: submission
+    date: 2026-06-12
+    label: Work-in-progress and workshop papers (extended, firm)
+  - kind: notification
+    date: 2026-07-10
+    label: Work-in-progress and workshop papers
+  - kind: camera_ready
+    date: 2026-07-14
+    label: Regular and special session papers
+  - kind: camera_ready
+    date: 2026-07-17
+    label: Work-in-progress and workshop papers
+- year: 2027
+  start: 2027-09-07
+  end: 2027-09-10
+  location: Pisa, Italy
+  url: https://etfa2027.ieee-ies.org/
+sources:
+- https://etfa2026.ieee-ies.org/
+- https://etfa2026.ieee-ies.org/for_authors/index.html
+- https://etfa2025.ieee-ies.org/
+- https://etfa2027.ieee-ies.org/
+- https://portal.core.edu.au/conf-ranks/?search=ETFA&by=all&source=ICORE2026
+unverified:
+- ETFA 2027 deadlines not published yet (the 2027 site is under construction and its author page still shows template dates)
+- Deadline time zones not stated on the 2026 site
+- Hosts of the 2021 to 2024 editions not checked on official pages; region based on 2025 to 2027
+- Acceptance rate and registration fees
+last_verified: 2026-10-17

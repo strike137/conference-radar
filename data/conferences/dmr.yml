@@ -1,0 +1,58 @@
+id: dmr
+name: DMR
+full_name: International Workshop on Designing Meaning Representations
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2027 organizers from Charles University, UFMG, Brandeis University, University of South Florida and Saint Louis University); co-located with an ACL-family or LREC conference
+organizer_country: [usa, europe, other]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5, 6]
+links:
+  website: https://dmr2026.github.io/
+notes:
+- Workshop on the design, annotation, parsing and use of meaning representations (AMR, UMR, DRT, UCCA and others)
+- Held since 2019 (ACL 2019); no edition in 2022, annual since 2023
+- Recent hosts IWCS 2023 Nancy, LREC-COLING 2024 Torino, SyntaxFest 2025 Prague and LREC 2026 Palma de Mallorca; 2020 edition (COLING) was online and 2021 was joint with LAW at EMNLP in Punta Cana
+- All proceedings in the ACL Anthology
+- DMR 2026 hosted the first shared task on parsing to Uniform Meaning Representation
+- DMR 2027 (8th edition) has been proposed for the 2027 ACL conference cycle; host conference and dates not yet announced
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 7th edition, with LREC 2026
+  start: 2026-05-11
+  end: 2026-05-11
+  location: Palma de Mallorca, Spain
+  url: https://dmr2026.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-06
+    time: "23:59"
+    tz: AoE
+    label: Extended from February 28
+  - kind: notification
+    date: 2026-03-25
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://dmr2026.github.io/
+- https://dmr2026.github.io/2026/
+- https://dmr2026.github.io/2027/
+- https://dmr2026.github.io/2027/committees/
+- https://aclanthology.org/venues/dmr/
+- https://aclanthology.org/volumes/2026.dmr-1/
+last_verified: 2026-10-17
+unverified:
+- DMR 2027 host conference, dates and deadlines (proposal stage)
+- Acceptance rate

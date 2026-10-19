@@ -1,0 +1,50 @@
+id: asta
+name: ASTA
+full_name: Workshop on Agentic AI in Software Testing and Automation
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ASTA organizing committee (Politecnico di Torino, Mid Sweden University, KAIST), co-located with IEEE ICST
+organizer_country: [europe, korea]
+proceedings: IEEE Xplore (ICST workshop proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://conf.researchr.org/series/asta
+notes:
+- New workshop on autonomous, goal-driven AI agents and LLM-based agents for software testing, verification and validation
+- First edition in 2026, co-located with IEEE ICST in Daejeon; hybrid, with remote attendance possible
+- Regular papers up to 8 pages, short papers up to 4 pages and 2-page extended abstracts for tools, vision and hands-on sessions (references included), IEEE format
+- Single-blind review by two or three PC members
+- Accepted papers published in the ICST workshop proceedings
+- Not among the ICST 2027 workshops yet (workshop proposals due 2026-11-04); not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-18
+  end: 2026-05-18
+  location: Daejeon, South Korea (co-located with ICST 2026)
+  url: https://conf.researchr.org/home/icst-2026/asta-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-13
+    tz: AoE
+  - kind: notification
+    date: 2026-03-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-10
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/icst-2026/asta-2026
+- https://conf.researchr.org/track/icst-2026/asta-2026-papers
+- https://conf.researchr.org/series/asta
+- https://conf.researchr.org/home/icst-2027
+- https://portal.core.edu.au/conf-ranks/?search=ASTA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Only one edition so far; whether it returns with ICST 2027 is not announced as of 2026-10-17

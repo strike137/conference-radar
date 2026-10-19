@@ -1,0 +1,49 @@
+id: wppt
+name: WPPT
+full_name: Workshop on Privacy-Preserving Technologies
+type: workshop
+tier: minor
+areas: [security, crypto]
+region: asia-pacific
+language: english
+frequency: irregular
+organizer: Shyam Sridhar and Chengru Zhang (Ethereum Foundation); affiliated with ASIACRYPT
+organizer_country: [europe]
+proceedings: None (no formal proceedings)
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://privacypreserving.tech/
+notes:
+- First edition in 2026 as a one-day affiliated workshop of ASIACRYPT 2026, organized by the Ethereum Foundation
+- Covers privacy-preserving technologies from theory to deployment, including ZK proofs, MPC, anonymous credentials, blockchain privacy and privacy in practice
+- Keynote talks plus contributed presentations selected from abstracts of up to 3 pages; single-blind review
+- 'Non-archival: no proceedings, and presenting does not restrict publication elsewhere'
+- At least one author of an accepted presentation must register and present in person
+editions:
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-07
+  location: The Hong Kong Polytechnic University, Hong Kong
+  url: https://privacypreserving.tech/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-11
+    time: "23:59"
+    tz: AoE
+    label: Abstract submission
+  - kind: notification
+    date: 2026-10-25
+    time: "23:59"
+    tz: AoE
+sources:
+- https://privacypreserving.tech/
+- https://privacypreserving.tech/call/
+- https://asiacrypt.iacr.org/2026/affiliated.php
+- https://portal.core.edu.au/conf-ranks/?search=WPPT&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- First edition; frequency and region are assumptions based on the ASIACRYPT affiliation
+- Not in the ICORE2026 portal and not in the CCF list, so no rank is given

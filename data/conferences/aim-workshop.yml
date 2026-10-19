@@ -1,0 +1,85 @@
+id: aim-workshop
+name: AIM
+full_name: Advances in Image Manipulation Workshop and Challenges
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Computer Vision Lab, University of Wurzburg (Radu Timofte) with co-organizers from academia and industry
+organizer_country: [europe]
+proceedings: IEEE Xplore and CVF Open Access (ICCV Workshops) or Springer LNCS (ECCV Workshops)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://cvlai.net/aim/2025/
+notes:
+- Workshop co-located with ICCV or ECCV; editions in 2019 (ICCV Seoul), 2020 (ECCV, virtual), 2021 (ICCV, virtual),
+  2022 (ECCV), 2024 (ECCV Milan) and 2025 (ICCV Honolulu); no edition in 2023
+- Sister event of NTIRE at CVPR, run by the same University of Wurzburg team, with many image and video manipulation
+  challenges alongside the paper track
+- Papers go into the host conference workshop proceedings (ICCVW by IEEE and CVF for 2025, ECCVW by Springer for 2024)
+- Double-blind review; paper length and format follow the host conference
+- Separate later deadline for challenge method papers and papers already reviewed elsewhere; deadlines are 23:59 CET
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2024
+  start: 2024-09-29
+  end: 2024-09-29
+  location: Milan, Italy
+  url: https://cvlai.net/aim/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-07-24
+    time: "23:59"
+    tz: CET
+    label: Regular papers (extended)
+  - kind: notification
+    date: 2024-08-14
+    label: Regular papers
+  - kind: submission
+    date: 2024-08-18
+    time: "23:59"
+    tz: CET
+    label: Challenge papers and papers reviewed elsewhere (extended)
+  - kind: notification
+    date: 2024-08-21
+    label: Challenge and late papers
+  - kind: camera_ready
+    date: 2024-08-29
+    time: "23:59"
+    tz: PDT
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Honolulu, USA
+  url: https://cvlai.net/aim/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: "23:59"
+    tz: CET
+    label: Regular papers
+  - kind: submission
+    date: 2025-07-09
+    time: "23:59"
+    tz: CET
+    label: Challenge papers and papers reviewed elsewhere
+  - kind: notification
+    date: 2025-07-11
+  - kind: camera_ready
+    date: 2025-08-11
+    time: "23:59"
+    tz: PDT
+sources:
+- https://cvlai.net/aim/2025/
+- https://cvlai.net/aim/2024/
+- https://cvlai.net/
+- https://portal.core.edu.au/conf-ranks/?search=AIM&by=all&source=ICORE2026
+unverified:
+- No AIM 2026 edition is listed on cvlai.net (none appears to have been held with ECCV 2026); next edition not announced
+- Exact 2022 location (ECCV 2022 Tel Aviv, hybrid) not confirmed from the AIM site
+last_verified: 2026-10-17

@@ -1,0 +1,86 @@
+id: aaltd
+name: AALTD
+full_name: Workshop on Advanced Analytics and Learning on Temporal Data
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers from University of Southampton, University College Dublin,
+  Universite de Haute-Alsace, Orange Labs, Universite de Rennes 1 / IRISA and Humboldt University of Berlin); co-located
+  with ECML PKDD
+organizer_country: [europe]
+proceedings: Springer LNAI (LNCS) post-proceedings
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://ecml-aaltd.github.io/aaltd2026/
+notes:
+- ECML PKDD workshop on time series and temporal data (classification, clustering, forecasting, anomaly detection,
+  representation learning)
+- Held every year with ECML PKDD since 2015 (no 2017 edition); 2026 was the 11th edition
+- Papers of 6 to 16 pages in LNCS format, double-blind review by at least 2 PC members, submitted via CMT
+- Accepted papers are posted online; revised selected papers appear in a standalone Springer LNAI volume after the event
+  (AALTD 2024 -> LNCS volume 15433)
+- Abstract deadline about a week before the paper deadline; deadlines in Pacific Time
+- 2026 had about 50% more submissions than 2025, per the organizers
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 10th edition, with ECML PKDD 2025
+  start: 2025-09-19
+  end: 2025-09-19
+  location: Porto, Portugal
+  url: https://ecml-aaltd.github.io/aaltd2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-07
+    time: "23:59"
+    tz: PDT
+  - kind: submission
+    date: 2025-06-19
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2025-07-14
+  - kind: camera_ready
+    date: 2025-08-15
+- year: 2026
+  label: 11th edition, with ECML PKDD 2026
+  start: 2026-09-11
+  end: 2026-09-11
+  location: Naples, Italy
+  url: https://ecml-aaltd.github.io/aaltd2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-05
+    time: "23:59"
+    tz: PDT
+  - kind: submission
+    date: 2026-06-12
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2026-07-15
+    label: Delayed from the original date
+  - kind: camera_ready
+    date: 2026-08-17
+sources:
+- https://ecml-aaltd.github.io/aaltd2026/
+- https://ecml-aaltd.github.io/aaltd2026/dates.html
+- https://ecml-aaltd.github.io/aaltd2026/submission.html
+- https://ecml-aaltd.github.io/aaltd2026/program.html
+- https://ecml-aaltd.github.io/aaltd2026/people.html
+- https://ecml-aaltd.github.io/aaltd2026/past.html
+- https://ecml-aaltd.github.io/aaltd2025/dates.html
+- https://ecml-aaltd.github.io/aaltd2025/program.html
+- https://link.springer.com/conference/aaltd
+- https://link.springer.com/book/10.1007/978-3-031-77066-1
+- https://portal.core.edu.au/conf-ranks/?search=AALTD&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The pages say "Pacific Time" without PDT or PST; PDT assumed for June deadlines
+- Next edition (AALTD 2027 with ECML PKDD 2027) not announced yet

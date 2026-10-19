@@ -1,0 +1,58 @@
+id: nrsc-eg
+name: NRSC
+full_name: National Radio Science Conference (Egypt)
+type: conference
+tier: minor
+areas: [communications]
+region: africa
+language: english
+frequency: annual
+organizer: National Radio Science Committee (NRSC, URSI Egypt) of the Academy of Scientific Research and Technology (ASRT), with a host university each year
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [4, 5]
+links:
+  website: https://nrsc2025.aast.edu/
+notes:
+- National radio science conference of URSI Egypt, run yearly by the National Radio Science Committee of ASRT; 43rd edition in 2026
+- Host institution changes every year (Horus University in New Damietta for 2024, AASTMT Heliopolis in Cairo for 2025); always held in Egypt
+- Papers accepted and presented are published in IEEE Xplore and indexed in Scopus
+- Scope follows URSI Commissions A to K (metrology, fields and waves, radio communication and signal processing, electronics and photonics, propagation, remote sensing, radio astronomy, EM in biology and medicine); recent programs also include AI and cybersecurity sessions
+- Papers up to 8 pages; best paper, best student paper and student poster awards, with extended awarded papers invited to Radio Science Letters
+- "Registration 4000 EGP from Egypt or 400 EUR from abroad per paper (2025)"
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 42nd NRSC
+  start: 2025-05-06
+  end: 2025-05-08
+  location: AASTMT Heliopolis, Cairo, Egypt
+  url: https://nrsc2025.aast.edu/
+  deadlines:
+  - kind: submission
+    date: 2025-01-11
+  - kind: notification
+    date: 2025-03-20
+  - kind: camera_ready
+    date: 2025-03-29
+- year: 2026
+  label: 43rd NRSC
+  start: 2026-05-05
+  end: 2026-05-07
+  url: https://easychair.org/smart-program/NRSC2026/
+sources:
+- https://nrsc2025.aast.edu/
+- https://nrsc2025.aast.edu/downloads/CFP_2025_en.pdf
+- https://easychair.org/smart-program/NRSC2026/
+- https://www.ursi.org/event.php?id=498
+- https://www.ursi.org/event.php?id=483
+- https://nrsc2024.horus.edu.eg/
+- https://portal.core.edu.au/conf-ranks/?search=NRSC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Host city and deadlines of NRSC 2026; only the EasyChair program (5 to 7 May 2026) was found
+- NRSC 2027 not yet announced
+- The NRSC 2025 CFP PDF gives different dates (submission 31 January 2025, notification 15 March 2025); the website dates are used

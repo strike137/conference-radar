@@ -1,0 +1,52 @@
+id: gaze-cv
+name: GAZE
+full_name: International Workshop on Eye and Gaze in Computer Vision
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (University of Birmingham, NVIDIA Research, TU Delft, ETH Zurich, EPFL and Idiap, Microsoft);
+  co-located with CVPR
+organizer_country: [europe, usa]
+proceedings: CVPR Workshops proceedings (CVF Open Access)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://gazeworkshop.github.io/2026/
+notes:
+- Half-day CVPR workshop on gaze estimation, gaze following, eye region analysis and eye modeling; 2026 was the 7th edition
+- Named Gaze Estimation and Prediction in the Wild until 2024; started at ICCV 2019 in Seoul, then ECCV 2020 and CVPR since 2021
+- No edition was held in 2025
+- Full papers up to 8 pages in CVPR format, double-blind review on OpenReview; papers rejected from the CVPR main conference may
+  be resubmitted with the previous reviews and a letter of changes
+- Accepted papers go into the CVPR Workshops proceedings and CVF Open Access (7 papers in 2026)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://gazeworkshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-07
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2026-03-25
+  - kind: camera_ready
+    date: 2026-04-10
+sources:
+- https://gazeworkshop.github.io/2026/
+- https://gazeworkshop.github.io/2024/
+- https://gazeworkshop.github.io/2019/
+- https://openaccess.thecvf.com/CVPR2026_workshops/GAZE
+- https://portal.core.edu.au/conf-ranks/?search=GAZE&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- The official page states the submission deadline as 23:59 Pacific time; recorded as PST
+- GAZE 2027 not announced yet; the workshop skipped 2025, so a 2027 edition is not certain

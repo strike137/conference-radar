@@ -1,0 +1,55 @@
+id: a-mobile
+name: A-Mobile
+full_name: International Workshop on Advances in Mobile App Analysis
+type: workshop
+tier: minor
+areas: [software, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: A-Mobile organizing committee (CAS Institute of Information Engineering, University of Newcastle, ECNU, University of Luxembourg, UC Irvine), co-located with IEEE/ACM ASE
+organizer_country: [china, australia, europe, usa]
+proceedings: IEEE Xplore (ASE 2025 workshop proceedings, ASEW)
+archival: true
+typical:
+  deadline_months: [7, 8, 9]
+  conference_months: [9, 10, 11]
+links:
+  website: https://a-mobile.github.io/
+notes:
+- One-day workshop on mobile app analysis (Android, iOS, OpenHarmony) covering static and dynamic analysis, security and privacy, malware, testing and LLM-based analysis
+- Held with IEEE/ACM ASE every year since 2018 (Melbourne 2020, virtual 2021, Ann Arbor 2022, Luxembourg 2023, Sacramento 2024, Seoul 2025)
+- Regular papers up to 8 pages and short papers (new ideas, visions, tool demos) up to 4 pages, including references
+- Accepted papers go into the ASE workshop proceedings; the 2025 volume (ASEW 2025) is in IEEE Xplore
+- Selected papers invited to extend for an Automated Software Engineering journal special issue
+- Not among the ASE 2026 workshops; no 2026 edition announced as of 2026-10-17
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: Seoul, South Korea (co-located with ASE 2025)
+  url: https://a-mobile.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-09-05
+    label: Paper submission (extended from 2025-08-29)
+  - kind: notification
+    date: 2025-09-26
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-05
+    tz: AoE
+sources:
+- https://a-mobile.github.io/
+- https://a-mobile.github.io/amobile2024.html
+- https://a-mobile.github.io/amobile2023.html
+- https://conf.researchr.org/home/ase-2025/a-mobile-2025
+- https://conf.researchr.org/home/ase-2026
+- https://doi.org/10.1109/ASEW67777.2025
+- https://portal.core.edu.au/conf-ranks/?search=A-Mobile&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2026 edition found on the ASE 2026 workshop list; the workshop may have paused or moved
+- The workshop site does not name the publisher; IEEE Xplore taken from the ASEW 2025 proceedings DOI
+- Acceptance rate not found on an official page

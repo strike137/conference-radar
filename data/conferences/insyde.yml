@@ -1,0 +1,45 @@
+id: insyde
+name: InSyDe
+full_name: Workshop on Intelligent System Design
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: europe
+language: english
+organizer: Tom St. John (Gimlet Labs) and Oana Balmau (McGill University); co-located workshop of ACM EuroSys
+organizer_country: [usa, canada]
+proceedings: Workshop website
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [4]
+links:
+  website: https://sites.google.com/view/insyde-eurosys26
+notes:
+- One-day workshop co-located with ACM EuroSys, which is held in Europe every spring
+- Topics are machine learning for computer systems design, such as ML-assisted compiler optimization, hardware design
+  space exploration and intelligent resource allocation
+- Full papers of 8 to 10 pages and short or position papers of 4 to 6 pages, double-blind, at least three reviewers each
+- Accepted papers are published on the workshop website only, not in the ACM Digital Library
+- Program mixes invited talks, paper talks and a panel
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Edinburgh, UK
+  url: https://sites.google.com/view/insyde-eurosys26
+  deadlines:
+  - kind: submission
+    date: 2026-03-06
+  - kind: notification
+    date: 2026-03-20
+  - kind: camera_ready
+    date: 2026-04-10
+sources:
+- https://sites.google.com/view/insyde-eurosys26
+- https://2026.eurosys.org/
+- https://portal.core.edu.au/conf-ranks/?search=InSyDe&by=all&source=ICORE2026
+unverified:
+- Whether InSyDe continues at EuroSys 2027 (not announced as of 2026-10-17); frequency unknown
+last_verified: 2026-10-17

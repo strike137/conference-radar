@@ -1,0 +1,68 @@
+id: cicm
+name: CICM
+full_name: Conference on Intelligent Computer Mathematics
+type: conference
+tier: minor
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: CICM Steering Committee
+organizer_country: [international]
+proceedings: Springer LNAI
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [4]
+  conference_months: [7, 8, 9, 10]
+links:
+  website: https://cicm-conference.org/
+  dblp: https://dblp.org/db/conf/mkm/
+notes:
+- Brings together computer mathematics communities, from formal mathematics, interactive and automated theorem proving
+  and computer algebra to mathematical knowledge management and digital mathematical libraries
+- Absorbed the track topics of MKM (Mathematical Knowledge Management), Calculemus and DML; first held as CICM in 2008
+- Formal papers (regular, project and survey up to 15 pages, system and dataset descriptions 4 to 5 pages) appear in
+  Springer LNAI; 2-page work-in-progress papers are presentation only
+- Review includes a rebuttal phase
+- Mostly held in Europe with occasional editions in the Americas (Montreal 2024, Brasilia 2025); Ljubljana 2026,
+  Erlangen 2027
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-21
+  end: 2026-09-25
+  location: Ljubljana, Slovenia
+  url: https://cicm-conference.org/2026/cicm.php
+  deadlines:
+  - kind: abstract
+    date: 2026-04-08
+    label: Extended from March 25
+  - kind: submission
+    date: 2026-04-15
+    label: Extended from April 1
+  - kind: other
+    date: 2026-05-27
+    label: Rebuttals due
+  - kind: notification
+    date: 2026-06-10
+  - kind: camera_ready
+    date: 2026-07-01
+  - kind: other
+    date: 2026-06-25
+    label: Presentation-only papers (extended from June 15)
+- year: 2027
+  start: 2027-07-19
+  end: 2027-07-23
+  location: Erlangen, Germany
+  url: https://cicm-conference.org/2027/cicm.php
+sources:
+- https://cicm-conference.org/2026/cicm.php
+- https://cicm-conference.org/2026/cicm.php?menu=cfp
+- https://cicm-conference.org/cicm.php?event=&menu=meetings
+- https://cicm-conference.org/2027/cicm.php
+- https://portal.core.edu.au/conf-ranks/?search=CICM&by=acronym&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- CICM 2027 call for papers and deadlines not yet published (the 2027 CFP page still shows the 2026 dates)

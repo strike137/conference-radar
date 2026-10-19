@@ -1,0 +1,67 @@
+id: emas
+name: EMAS
+full_name: International Workshop on Engineering Multi-Agent Systems
+type: workshop
+tier: major
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: EMAS Steering Committee (co-located with AAMAS)
+organizer_country: [international]
+proceedings: Springer LNAI (post-proceedings)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://emas.in.tu-clausthal.de/
+  dblp: https://dblp.uni-trier.de/db/conf/emas
+notes:
+- Workshop on agent-oriented software engineering, programming multi-agent systems and declarative agent languages
+- Formed in 2012 at a Dagstuhl seminar as a merger of the AOSE, DALT and ProMAS workshops; first held in 2013
+- Held at AAMAS every year, so it follows AAMAS around the world (London 2023, Auckland 2024, Detroit 2025, Paphos 2026)
+- Revised and extended papers appear afterwards in a Springer post-proceedings volume (EMAS 2023 -> LNCS 14378, EMAS 2024 -> LNCS 15152)
+- Regular (16 pages), short (8 pages), student (6 pages) and tool or demo (4 pages) papers in LNCS format via OpenReview; single-blind review
+- Two-day workshop with best paper and best student paper awards
+- ICORE2026 rank B; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-26
+  location: Paphos, Cyprus (at AAMAS 2026)
+  url: https://emas-workshop.github.io/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-11
+    tz: AoE
+    label: Extended from 2026-01-28
+  - kind: submission
+    date: 2026-02-25
+    tz: AoE
+    label: Extended from 2026-02-04
+  - kind: notification
+    date: 2026-03-27
+    tz: AoE
+    label: Extended from 2026-03-19
+  - kind: camera_ready
+    date: 2026-04-27
+    tz: AoE
+  - kind: other
+    date: 2026-07-08
+    tz: AoE
+    label: Revised papers for LNAI post-proceedings
+sources:
+- https://emas.in.tu-clausthal.de/
+- https://emas.in.tu-clausthal.de/2025/cfp
+- https://emas.in.tu-clausthal.de/2025/proceedings
+- https://emas-workshop.github.io/2026/
+- https://emas-workshop.github.io/2026/cfp
+- https://emas-workshop.github.io/2026/proceedings
+- https://cyprusconferences.org/aamas2026/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=EMAS&by=all&source=ICORE2026
+unverified:
+- EMAS 2027 (expected at AAMAS 2027) not announced yet
+last_verified: 2026-10-17

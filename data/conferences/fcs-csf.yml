@@ -1,0 +1,63 @@
+id: fcs-csf
+name: FCS
+full_name: Workshop on Foundations of Computer Security
+type: workshop
+tier: minor
+areas: [security, crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: Program chairs of each edition, affiliated with IEEE CSF
+organizer_country: [international]
+proceedings: None (participants only)
+archival: false
+typical:
+  deadline_months: [3, 4, 5]
+  conference_months: [6, 7, 8]
+links:
+  website: https://fcs-workshop.github.io/fcs2026/
+notes:
+- One-day workshop affiliated with the IEEE Computer Security Foundations Symposium (CSF), running since 2002
+- Topics are the formal foundations of security and privacy (information flow, verification, security protocols, language-based security)
+- Informal proceedings only; papers are made available to participants and may be published elsewhere later
+- Full papers up to 12 pages and short papers up to 2 pages, light double-blind review
+- Includes mentoring sessions for junior researchers alongside the research track
+- Follows CSF (Haifa 2022 at FLoC, Dubrovnik 2023, Enschede 2024, Lisbon 2026 at FLoC)
+- No 2025 edition is listed on the workshop site
+editions:
+- year: 2024
+  start: 2024-07-08
+  end: 2024-07-08
+  location: Enschede, Netherlands
+  url: https://fcs-workshop.github.io/fcs2024/
+  deadlines:
+  - kind: submission
+    date: 2024-05-16
+    tz: AoE
+    label: Submission (extended from 2024-05-13)
+  - kind: notification
+    date: 2024-06-07
+- year: 2026
+  start: 2026-07-25
+  end: 2026-07-25
+  location: Lisbon, Portugal
+  url: https://fcs-workshop.github.io/fcs2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-07
+    tz: AoE
+    label: Submission (extended from 2026-03-31)
+  - kind: notification
+    date: 2026-05-05
+sources:
+- https://fcs-workshop.github.io/fcs2026/
+- https://fcs-workshop.github.io/fcs2024/
+- https://squera.github.io/fcs23/
+- https://jnear.github.io/fcs2022/
+- https://owenarden.github.io/fcs2021/
+- https://owenarden.github.io/fcs2020/
+- https://portal.core.edu.au/conf-ranks/?search=FCS&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- FCS 2027 not yet announced
+- Not listed in CORE ICORE2026 and not found in the CCF 2026 list

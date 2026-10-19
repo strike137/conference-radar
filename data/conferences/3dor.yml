@@ -1,0 +1,66 @@
+id: 3dor
+name: 3DOR
+full_name: Eurographics Symposium on 3D Object Retrieval
+type: conference
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Eurographics, with a rotating local host institution
+organizer_country: [europe]
+proceedings: Computers & Graphics special section (full papers) and Eurographics Digital Library (proceedings papers)
+archival: true
+typical:
+  deadline_months: [4, 5, 7]
+  conference_months: [9]
+links:
+  website: https://sites.google.com/view/3dor26/home
+  dblp: https://dblp.org/db/conf/3dor/
+notes:
+- Eurographics symposium on 3D shape retrieval, similarity and understanding, held since 2008; hosts the SHREC shape retrieval contest tracks
+- Two paper routes; full papers (up to 12 pages) go through a two-stage journal review into a Computers & Graphics (Elsevier) special section, proceedings papers (about 6 pages) go to the Eurographics Digital Library
+- Double-blind review
+- Held mostly in Europe (Cardiff 2021, Florence 2022, Lille 2023, Santiago de Chile 2024, London 2025, Genoa 2026)
+- Each edition has its own website; not listed in the ICORE2026 portal and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-03
+  end: 2026-09-04
+  location: Genoa, Italy
+  url: https://sites.google.com/view/3dor26/home
+  deadlines:
+  - kind: submission
+    date: 2026-05-11
+    label: Full papers for Computers & Graphics (extended from 2026-04-20)
+  - kind: notification
+    date: 2026-06-01
+    label: Full papers, first review stage
+  - kind: other
+    date: 2026-06-22
+    label: Full papers, first revision due
+  - kind: notification
+    date: 2026-07-30
+    label: Full papers, final decision
+  - kind: submission
+    date: 2026-07-19
+    label: Proceedings papers (extended from 2026-07-10)
+  - kind: notification
+    date: 2026-08-06
+    label: Proceedings papers
+  - kind: camera_ready
+    date: 2026-08-18
+    label: Proceedings papers
+sources:
+- https://sites.google.com/view/3dor26/home
+- https://sites.google.com/view/3dor26/for-authors/important-dates
+- https://sites.google.com/view/3dor26/for-authors/call-for-papers
+- https://sites.google.com/view/3dor26/for-authors/submission-instructions
+- https://sites.google.com/view/3dor26/previous-events
+- https://3dor.cs.ucl.ac.uk/home
+- https://portal.core.edu.au/conf-ranks/?search=3DOR&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- 3DOR 2027 host and dates not yet found
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-10-17

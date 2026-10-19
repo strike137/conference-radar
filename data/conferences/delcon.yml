@@ -1,0 +1,67 @@
+id: delcon
+name: IEEE DELCON
+full_name: IEEE Delhi Section International Conference
+type: conference
+tier: minor
+areas: [general, communications]
+region: south-asia
+language: english
+frequency: annual
+organizer: 'IEEE Delhi Section, with a host institution each year (2026: BITS Pilani)'
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, Scopus]
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://www.bits-pilani.ac.in/delcon2026
+notes:
+- Flagship international conference of the IEEE Delhi Section (IEEE Region 10), started in 2022
+- "Hosts so far: NSUT New Delhi (2022), Chitkara University Punjab (2023), BVPCE New Delhi (2024), Jamia Millia Islamia New Delhi (2025), BITS Pilani (2026)"
+- Each edition has its own theme; 2026 is technically co-sponsored by the IEEE Industry Applications Society
+- Broad electrical, electronics and computer engineering scope with many tracks
+- Double-blind review via EDAS; accepted and presented papers are submitted to IEEE Xplore, no-show papers are excluded
+- 2026 edition is fully in person with no online presentation option
+- Submission deadlines are usually extended several times
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-31
+  end: 2025-11-02
+  location: Jamia Millia Islamia, New Delhi, India
+  url: https://jmi.ac.in/delcon2025
+  deadlines:
+  - kind: submission
+    date: 2025-08-31
+    label: Full paper (extended, final)
+  - kind: notification
+    date: 2025-09-15
+  - kind: camera_ready
+    date: 2025-10-25
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-21
+  location: BITS Pilani, Pilani Campus, Rajasthan, India
+  url: https://www.bits-pilani.ac.in/delcon2026
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    label: Full paper (extended from 2026-06-15 and 2026-07-15, firm)
+  - kind: notification
+    date: 2026-10-10
+    label: Final round (earlier rounds 2026-09-15 and 2026-09-30)
+  - kind: camera_ready
+    date: 2026-10-25
+  - kind: other
+    date: 2026-10-25
+    label: Author registration (early bird)
+sources:
+- https://www.bits-pilani.ac.in/delcon2026
+- https://www.bits-pilani.ac.in/delcon2026/important-dates/
+- https://www.bits-pilani.ac.in/delcon2026/submission-guidelines/
+- https://jmi.ac.in/delcon2025
+- https://portal.core.edu.au/conf-ranks/?search=DELCON&by=all&source=ICORE2026
+last_verified: 2026-10-17

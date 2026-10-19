@@ -1,0 +1,63 @@
+id: saiv
+name: SAIV
+full_name: International Symposium on AI Verification
+type: workshop
+tier: minor
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SAIV organizers, co-located with CAV (FLoC in 2026)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://aiverification.org/
+notes:
+- Formal methods for AI, verification of neural networks, safeguards for machine learning and AI for formal
+  methods; brings the formal methods and AI communities together
+- Successor (since 2024) of the FoMLAS and WOLVERINE workshops; 9th edition in 2026
+- Two-day symposium co-located with CAV (Montreal 2024, Zagreb 2025, FLoC Lisbon 2026)
+- Proceedings in Springer LNCS; papers up to 18 pages in LNCS format excluding references and appendices,
+  single-blind review on HotCRP
+- Also accepts benchmark and case-study papers and presentation-only papers that do not appear in the proceedings
+- Hosts the International Verification of Neural Networks Competition (VNN-COMP)
+- Not listed in ICORE2026 or on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-24
+  end: 2026-07-25
+  location: Lisbon, Portugal
+  url: https://aiverification.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-24
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2026-04-01
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2026-05-01
+    tz: AoE
+    label: FLoC track (resubmissions of rejected CAV, IJCAR, KR or SAT papers)
+  - kind: notification
+    date: 2026-05-15
+sources:
+- https://aiverification.org/2026/
+- https://aiverification.org/2026/call/
+- https://aiverification.org/2026/about/
+- https://aiverification.org/2025/
+- https://aiverification.org/2024/
+- https://doi.org/10.1007/978-3-032-32357-6
+- https://portal.core.edu.au/conf-ranks/?search=SAIV&by=all&source=ICORE2026&sort=atitle&page=1
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-10-17
+unverified:
+- The CFP says "All dates are 11:59 AM AoE"; the time of day was not recorded because it may be a typo for 11:59 PM
+- No SAIV 2027 edition announced yet
+- Notification date applies to the FLoC track; a separate notification date for regular papers is not stated

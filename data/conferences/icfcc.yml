@@ -1,0 +1,62 @@
+id: icfcc
+name: ICFCC
+full_name: International Conference on Future Computer and Communication
+type: conference
+tier: minor
+areas: [networking, communications, general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Science and Engineering Institute (SCIEI) as part of WCSE (with Sensors and Systems Society of Singapore in 2024 and 2025)
+proceedings: WCSE Proceedings (SCIEI)
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [1]
+  conference_months: [6]
+links:
+  website: http://icfcc.org/
+notes:
+- Run by the commercial organizer SCIEI (submission via zmeeting); held since 2009, 2027 is the 19th edition
+- Held as a workshop of the SCIEI World Conference WCSE since 2024
+- Online 2021 and 2022; Singapore 2023, Phuket 2024, Jeju 2025, Seoul planned for 2027
+- Papers published in the SCIEI WCSE proceedings volume (with ISBN), stated as indexed by EI Compendex and Scopus
+- Alternatively papers can go to the International Journal of Future Computer and Communication (IJFCC)
+- Abstract-only presentation and listener registration are also offered
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  label: 17th ICFCC
+  start: 2025-06-28
+  end: 2025-06-30
+  location: Jeju Island, South Korea
+  url: http://icfcc.org/2025.html
+- year: 2027
+  label: 19th ICFCC
+  start: 2027-06-25
+  end: 2027-06-27
+  location: Seoul, South Korea
+  url: http://icfcc.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-01-30
+  - kind: notification
+    date: 2027-02-25
+  - kind: other
+    date: 2027-03-10
+    label: Registration
+sources:
+- http://icfcc.org/
+- http://icfcc.org/date.html
+- http://icfcc.org/2025.html
+- http://icfcc.org/2024.html
+- http://icfcc.org/2023.html
+- https://www.wcse.org/
+- https://www.wcse.org/list-28-1.html
+- https://portal.core.edu.au/conf-ranks/?search=ICFCC&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- The 18th edition (2026) page on the official site returns 404, so its dates and venue are not recorded
+- Country of SCIEI not stated, so organizer_country is left out
+- No deadline time or time zone stated

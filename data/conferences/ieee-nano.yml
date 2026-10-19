@@ -1,0 +1,74 @@
+id: ieee-nano
+name: IEEE NANO
+full_name: IEEE International Conference on Nanotechnology
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Nanotechnology Council (NTC)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://ieeenano.org/
+notes:
+- Flagship conference of the IEEE Nanotechnology Council, held every year since 2001; 2027 is the 27th edition
+- Covers nanoelectronics, spintronics, nanosensors, nanophotonics, nanoscale communications, quantum and neuromorphic computing, chiplets and nanomaterials
+- Full papers of 4 to 6 pages in IEEE style go into IEEE proceedings indexed in IEEE Xplore; a 1-page presentation-only abstract track is also offered
+- Rotates worldwide (Montreal 2021, Palma de Mallorca 2022, Jeju 2023, Gijon 2024, Washington DC 2025, Nanjing 2026, Messina 2027)
+- Deadlines are often extended by about two weeks (2026 full papers moved from March 1 to March 15)
+- Not ranked by CORE (ICORE2026) and not on the CCF 2026 list; mainly a nanotechnology and device venue rather than a computer science one
+editions:
+- year: 2026
+  start: 2026-07-05
+  end: 2026-07-08
+  location: Nanjing, China (hybrid)
+  url: https://2026.ieeenano.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-15
+    label: Full papers (extended from March 1)
+  - kind: notification
+    date: 2026-04-22
+    label: Full paper decisions (moved from April 15)
+  - kind: camera_ready
+    date: 2026-05-10
+  - kind: other
+    date: 2026-04-20
+    label: Presentation-only abstracts (extended from April 10)
+- year: 2027
+  start: 2027-06-30
+  end: 2027-07-02
+  location: Messina, Italy
+  url: https://2027.ieeenano.org/
+  deadlines:
+  - kind: other
+    date: 2026-12-15
+    label: Special session proposals
+  - kind: submission
+    date: 2027-02-20
+    label: Contributed and special session full papers
+  - kind: notification
+    date: 2027-03-20
+  - kind: camera_ready
+    date: 2027-04-30
+  - kind: other
+    date: 2027-04-01
+    label: Presentation-only abstracts
+sources:
+- https://2026.ieeenano.org/
+- https://2026.ieeenano.org/submission/
+- https://2027.ieeenano.org/
+- https://ieeenano.org/
+- https://portal.core.edu.au/conf-ranks/?search=Nanotechnology&by=all&source=ICORE2026
+unverified:
+- Deadline time zones not stated
+- Acceptance rate and registration fees not checked
+- The 2027 page gives the special session decision date as January 7, 2024, an apparent typo; it is left out
+- CCF absence checked on a local copy of the CCF 2026 list text, not on ccf.org.cn directly
+last_verified: 2026-10-17

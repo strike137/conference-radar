@@ -1,0 +1,61 @@
+id: miua
+name: MIUA
+full_name: Medical Image Understanding and Analysis Conference
+type: conference
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Hosted by a different university each year (University College Dublin and Ulster University in 2026,
+  University of Warwick in 2027)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://www.ucd.ie/medicine/miua2026/
+notes:
+- Long-running UK-based conference on medical image processing and analysis; the 30th edition was in 2026
+- Usually held at a UK university in July (Leeds 2025, Dublin 2026 as the first edition in Ireland, Warwick 2027)
+- Full papers (8 to 15 pages, LNCS format) are double-blind reviewed and published in Springer LNCS
+- Short papers (up to 3 pages) appear as an ebook in Frontiers in Medical Technology
+- Welcomes clinical, mathematics, engineering and computer science researchers; good venue for students
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 30th MIUA
+  start: 2026-07-20
+  end: 2026-07-22
+  location: University College Dublin, Dublin, Ireland
+  url: https://www.ucd.ie/medicine/miua2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-02
+    time: "01:00"
+    tz: PDT
+    label: Full papers
+  - kind: notification
+    date: 2026-06-05
+  - kind: camera_ready
+    date: 2026-06-12
+  - kind: other
+    date: 2026-06-12
+    label: Early registration
+- year: 2027
+  label: 31st MIUA
+  location: University of Warwick, Coventry, UK
+  url: https://warwick.ac.uk/fac/cross_fac/tia/miua2027/
+sources:
+- https://www.ucd.ie/medicine/miua2026/
+- https://www.ucd.ie/medicine/miua2026/calls/callforpapers/
+- https://www.ucd.ie/medicine/miua2026/organisation/
+- https://warwick.ac.uk/fac/cross_fac/tia/miua2027/
+- https://eps.leeds.ac.uk/maths/events/event/6416/medical-image-understanding-and-analysis-conference-2025
+- https://portal.core.edu.au/conf-ranks/?search=MIUA&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- MIUA 2027 dates and call for papers not announced yet (Warwick page says call for papers coming soon)
+- The 2026 deadline is given as 01:00 Pacific Time; PDT assumed for April

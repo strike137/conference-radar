@@ -1,0 +1,60 @@
+id: ieee-sose
+name: IEEE SOSE
+full_name: IEEE International Conference on Service-Oriented System Engineering
+type: conference
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE, as part of the IEEE CISOSE congress (CISOSE Steering Committee)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://conf.researchr.org/home/cisose-2025
+notes:
+- Service-oriented systems, microservices, APIs and cloud and edge services; running since 2005, 19th edition in 2025
+- One of several co-located conferences of the IEEE CISOSE congress (with AITest, BigDataService, JCC, IMC, ISADS, DAPPS), which rotates between the Americas, Europe and Asia
+- 'Recent hosts: Athens (2023), Shanghai (2024), Tucson (2025), Fukuoka (2026)'
+- Proceedings in IEEE Xplore; top papers invited to a Cluster Computing special issue (2025)
+- 'Paper types (2025): full 10+2 pages, short 5+1, vision and demo 4+1; double-blind review; remote presentation allowed'
+- Not ranked in ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-07-21
+  end: 2025-07-24
+  location: Tucson, Arizona, USA
+  url: https://conf.researchr.org/track/cisose-2025/sose-2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-12
+    tz: AoE
+  - kind: notification
+    date: 2025-06-07
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-13
+    tz: AoE
+- year: 2026
+  start: 2026-07-27
+  end: 2026-07-30
+  location: Fukuoka, Japan
+  url: https://cisose.fit.ac.jp/sose/
+sources:
+- https://conf.researchr.org/home/cisose-2025
+- https://conf.researchr.org/track/cisose-2025/sose-2025
+- https://conf.researchr.org/dates/cisose-2025
+- https://conf.researchr.org/series/cisose
+- https://api.crossref.org/works/10.1109/sose67019.2025
+- https://api.crossref.org/works/10.1109/sose71128.2026
+- https://easychair.org/cfp/sose2026
+- https://portal.core.edu.au/conf-ranks/?search=SOSE&by=all&source=ICORE2026
+unverified:
+- SOSE 2026 deadlines not found; the official CFP on EasyChair gives only the dates and place (20th edition, Fukuoka, 2026-07-27 to 2026-07-30) and cisose.fit.ac.jp was unreachable on 2026-10-17
+- SOSE 2027 not announced yet
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-17

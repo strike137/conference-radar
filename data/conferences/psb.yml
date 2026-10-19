@@ -1,0 +1,71 @@
+id: psb
+name: PSB
+full_name: Pacific Symposium on Biocomputing
+type: conference
+tier: minor
+areas: [ai, data]
+region: north-america
+language: english
+frequency: annual
+organizer: PSB organizing committee (coordinated from Stanford University)
+organizer_country: [usa]
+proceedings: World Scientific (open access electronic proceedings)
+archival: true
+indexing: [PubMed]
+rank:
+  core: 'National: USA'
+typical:
+  deadline_months: [8]
+  conference_months: [1]
+links:
+  website: https://psb.stanford.edu/
+notes:
+- International computational biology conference held every January since 1996; 32nd edition in 2027
+- Held at the Fairmont Orchid on the Big Island of Hawaii every year (virtual in 2021)
+- Program built from dynamically chosen sessions proposed each year (2027 sessions include clinical AI, NLP for
+  clinical LLMs, precision medicine, systems biology)
+- Peer-reviewed full papers published by World Scientific in an archival open access proceedings volume and indexed
+  in PubMed; NIH-funded papers go to PubMed Central
+- Poster abstracts (1 page) can be presented without official publication
+- CORE ICORE2026 rank National USA; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-04
+  end: 2026-01-08
+  location: Big Island of Hawaii, USA
+  url: https://psb.stanford.edu/previous/psb26/
+- year: 2027
+  start: 2027-01-03
+  end: 2027-01-07
+  location: Big Island of Hawaii, USA
+  url: https://psb.stanford.edu/
+  deadlines:
+  - kind: submission
+    date: 2026-08-03
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2026-09-08
+  - kind: camera_ready
+    date: 2026-10-01
+    time: "23:59"
+    tz: PDT
+  - kind: other
+    date: 2026-12-01
+    time: "23:59"
+    tz: PST
+    label: Poster abstracts
+sources:
+- https://psb.stanford.edu/
+- https://psb.stanford.edu/callfor/papers
+- https://psb.stanford.edu/keydates
+- https://psb.stanford.edu/welcome
+- https://psb.stanford.edu/previous
+- https://psb.stanford.edu/previous/psb26/
+- https://psb.stanford.edu/psb-online
+- https://psb.stanford.edu/contact
+- https://portal.core.edu.au/conf-ranks/?search=PSB&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- PSB 2026 deadlines (not recorded; post-event page only)
+- Time zone of deadlines given as PT on the official page; PDT or PST inferred from the date

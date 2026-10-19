@@ -1,0 +1,59 @@
+id: magmar
+name: MAGMaR
+full_name: Workshop on Multimodal Augmented Generation via Multimodal Retrieval
+type: workshop
+tier: minor
+areas: [nlp, vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee led by the Johns Hopkins University Human Language Technology Center of Excellence, in support of ACL SIGIL; co-located with ACL
+organizer_country: [usa]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [4]
+  conference_months: [7, 8]
+links:
+  website: https://nlp.jhu.edu/magmar/
+notes:
+- Workshop on multimodal retrieval (text, images, audio, video) and retrieval-augmented generation grounded in multimodal evidence
+- Runs a shared task on video retrieval and grounded article generation from multiple videos, with system description papers
+- Held with ACL 2025 (Vienna) and ACL 2026 (San Diego); one-day hybrid event
+- Research papers in ACL format through OpenReview; archival and non-archival submissions allowed
+- Archival papers go to the ACL Anthology (10 papers in 2025, 11 in 2026)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 2nd edition, with ACL 2026
+  start: 2026-07-04
+  end: 2026-07-04
+  location: San Diego, California, USA
+  url: https://nlp.jhu.edu/magmar/
+  deadlines:
+  - kind: submission
+    date: 2026-04-15
+    label: Research papers
+  - kind: other
+    date: 2026-04-26
+    label: Shared task system submission
+  - kind: submission
+    date: 2026-04-27
+    label: Shared task system papers
+  - kind: notification
+    date: 2026-04-29
+  - kind: camera_ready
+    date: 2026-05-15
+sources:
+- https://nlp.jhu.edu/magmar/
+- https://2025.aclweb.org/program/workshops/
+- https://aclanthology.org/venues/magmar/
+- https://aclanthology.org/volumes/2025.magmar-1/
+- https://aclanthology.org/volumes/2026.magmar-main/
+- https://portal.core.edu.au/conf-ranks/?search=MAGMaR&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- Deadline time and time zone not stated on the 2026 page
+- 2025 deadlines no longer shown on the official site
+- Next edition not announced yet

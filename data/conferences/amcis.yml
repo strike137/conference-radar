@@ -1,0 +1,79 @@
+id: amcis
+name: AMCIS
+full_name: Americas Conference on Information Systems
+type: conference
+tier: major
+areas: [general, ai, security, data]
+region: north-america
+language: english
+frequency: annual
+organizer: Association for Information Systems (AIS), AMCIS Executive Committee (AIS Region 1)
+organizer_country: [international]
+proceedings: AIS eLibrary (AISeL)
+archival: true
+rank:
+  core: A
+  core_source: CORE2018
+typical:
+  deadline_months: [3]
+  conference_months: [7, 8]
+links:
+  website: https://amcis2027.aisconferences.org/
+notes:
+- Annual conference of the Association for Information Systems for the Americas, running since 1995 (32nd edition in 2026)
+- Information systems (business school) venue rather than core CS, organized in SIG-driven tracks and minitracks
+- Full papers (up to 10 pages) and Emergent Research Forum papers (up to 5 pages), double-blind review, submitted via PCS
+- Proceedings in the AIS eLibrary (ISSN 3066-876X); over 800 submissions a year according to AISeL
+- Fully in-person; at least one author must register and present or the paper is dropped from the proceedings
+- Each author may be on at most three papers and each paper may have at most five authors
+- Mostly held in the USA or Canada (2024 Salt Lake City, 2025 Montreal, 2026 Reno); 2027 in Sao Paulo, Brazil
+- Last listed in CORE2018 (rank A); not in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-08-20
+  end: 2026-08-22
+  location: Reno, Nevada, USA
+  url: https://amcis2026.aisconferences.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-01
+    time: "17:00"
+    tz: PST
+    label: Full and ERF papers
+  - kind: notification
+    date: 2026-04-19
+    label: Full and ERF papers
+  - kind: camera_ready
+    date: 2026-04-30
+    time: "17:00"
+    tz: PDT
+    label: Full and ERF papers
+  - kind: other
+    date: 2026-05-09
+    time: "17:00"
+    tz: PDT
+    label: TREO, panel, PDS and workshop submissions
+  - kind: other
+    date: 2026-05-11
+    label: Final acceptance notification, full and ERF papers
+- year: 2027
+  start: 2027-07-28
+  end: 2027-07-30
+  location: Sao Paulo, Brazil
+  url: https://amcis2027.aisconferences.org/
+sources:
+- https://amcis2027.aisconferences.org/
+- https://amcis2027.aisconferences.org/submissions/call-for-papers/
+- https://amcis2026.aisconferences.org/
+- https://amcis2026.aisconferences.org/submissions/call-for-papers/
+- https://amcis2026.aisconferences.org/submissions/types-of-submissions/
+- https://aisel.aisnet.org/amcis/
+- https://aisel.aisnet.org/amcis2025/
+- https://aisel.aisnet.org/amcis2024/
+- https://aisel.aisnet.org/amcis2021/
+- https://portal.core.edu.au/conf-ranks/?search=AMCIS&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=AMCIS&by=all&source=all
+last_verified: 2026-10-17
+unverified:
+- AMCIS 2027 call for papers and deadlines not yet published (site says submissions open in early January)
+- Acceptance rate and registration fees not checked

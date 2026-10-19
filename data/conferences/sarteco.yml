@@ -1,0 +1,71 @@
+id: sarteco
+name: Jornadas SARTECO
+full_name: Jornadas SARTECO (Jornadas de Paralelismo and Jornadas de Computación Empotrada y Reconfigurable)
+name_local: Jornadas SARTECO
+type: conference
+tier: domestic
+areas: [systems, networking]
+region: europe
+language: mixed
+frequency: annual
+organizer: SARTECO (Sociedad de Arquitectura y Tecnología de Computadores) with a host Spanish university (Universidad Carlos III de Madrid in 2026)
+organizer_country: [europe]
+proceedings: Libro de actas Jornadas SARTECO (SARTECO members' area), with optional open deposit of individual papers on Zenodo
+archival: false
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://jornadassarteco.org/
+notes:
+- Spanish national meeting of the computer architecture community run by SARTECO; joins the Jornadas de Paralelismo (since 1990, 36th edition in 2026) and the Jornadas de Computación Empotrada y Reconfigurable (JCER)
+- Topics include processor and memory architecture, interconnection networks, HPC, clusters, GPU and FPGA accelerators, quantum computing and teaching of computer architecture
+- Host city changes every year (Ciudad Real 2023, A Coruña 2024 inside CEDI, Sevilla 2025, Madrid 2026)
+- Papers in IEEE format, about six pages recommended and at most 10; website and call are in Spanish
+- Papers go into a book of proceedings accessible to SARTECO members; authors may also deposit their papers on Zenodo with a DOI
+- Also hosts the "Tu Tesis en Tres Minutos" and "Tu Trabajo Fin de Máster en Tres Minutos" student competitions
+- Registration 400 EUR early, 450 EUR regular (2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-06-25
+  end: 2025-06-27
+  location: Sevilla, Spain
+  url: https://www.jornadassarteco.org/?anyo=2025
+  deadlines:
+  - kind: submission
+    date: 2025-04-06
+    label: JP2025 and JCER2025 (extended from 2025-03-30)
+  - kind: notification
+    date: 2025-04-29
+    label: Moved from 2025-04-27
+  - kind: camera_ready
+    date: 2025-05-11
+- year: 2026
+  start: 2026-06-17
+  end: 2026-06-19
+  location: Universidad Carlos III de Madrid, Madrid, Spain
+  url: https://www.jornadassarteco.org/?anyo=2026
+  deadlines:
+  - kind: submission
+    date: 2026-04-19
+    label: JP2026 and JCER2026 (extended from 2026-03-30)
+  - kind: notification
+    date: 2026-04-27
+  - kind: camera_ready
+    date: 2026-05-11
+sources:
+- https://jornadassarteco.org/
+- https://www.jornadassarteco.org/?page_id=392&anyo=2026
+- https://www.jornadassarteco.org/?page_id=91&anyo=2026&simposio=jp2026
+- https://www.jornadassarteco.org/contribuciones/?anyo=2026&pagina=cont_norm.html&simposio=jp2026
+- https://www.jornadassarteco.org/?page_id=1194&anyo=2026
+- https://www.jornadassarteco.org/?page_id=392&anyo=2025
+- https://sarteco.org/jornadas-sarteco-sevilla-25-27-junio-2025/
+- https://sarteco.org/jornadas-sarteco-2026-17-19-junio-2026-universidad-carlos-iii-madrid/
+- https://sarteco.org/articulos-jornadas/
+- https://portal.core.edu.au/conf-ranks/?search=SARTECO&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Jornadas SARTECO 2027 host and dates not announced yet
+- Whether submissions are peer reviewed is not stated on the official site

@@ -1,0 +1,55 @@
+id: cate
+name: CATE
+full_name: Workshop on Cryptography for AI and Trustworthy Ecosystems
+type: workshop
+tier: minor
+areas: [crypto, ai, security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Academic organizers (HKUST, Zhejiang University, NUS, SJTU), Asiacrypt affiliated event
+organizer_country: [china, singapore]
+proceedings: None (no formal proceedings)
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://cateworkshop.github.io/
+notes:
+- Full-day workshop affiliated with Asiacrypt 2026 (IACR), first edition in 2026
+- Covers cryptographic methods for the whole AI pipeline (private training and inference, provenance, watermarking, verifiable unlearning, agent and API accountability)
+- Call for presentations and posters, not papers; submit slides, a published paper, a work in progress summary or a talk abstract of up to 3 pages
+- Published work and work in progress are both welcome
+- 'Non-archival: no formal proceedings'
+- Program of invited talks, four to six contributed short talks, a possible poster session and a panel
+- At least one author of each accepted talk or poster must register
+editions:
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-07
+  location: Hong Kong, China
+  url: https://cateworkshop.github.io/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-10-01
+    tz: AoE
+    label: Presentation and poster abstracts
+  - kind: notification
+    date: 2026-10-10
+    tz: AoE
+  - kind: other
+    date: 2026-10-31
+    tz: AoE
+    label: Final title and abstract for website
+sources:
+- https://cateworkshop.github.io/
+- https://asiacrypt.iacr.org/2026/
+- https://asiacrypt.iacr.org/2026/affiliated.php
+- https://portal.core.edu.au/conf-ranks/?search=CATE&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Workshop date is planned and subject to final Asiacrypt 2026 arrangements; dates on the site are subject to final confirmation
+- Not found in the ICORE2026 portal and not in the CCF list, so no rank is given
+- Only one edition so far; region assumed to follow Asiacrypt

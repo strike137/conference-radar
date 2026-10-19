@@ -1,0 +1,67 @@
+id: clvision
+name: CLVision
+full_name: Workshop on Continual Learning in Computer Vision
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2025 organizers from Seoul National University, TU Graz, University of
+  Groningen, UT San Antonio, Tsinghua University, University of British Columbia and University of Florence);
+  co-located with CVPR or ICCV
+organizer_country: [europe, korea, usa, canada, china]
+proceedings: Host conference workshop proceedings (CVPR or ICCV), archival track only
+archival: true
+typical:
+  deadline_months: [3, 6]
+  conference_months: [6, 10]
+links:
+  website: https://sites.google.com/view/clvision2025
+notes:
+- Workshop on continual and lifelong learning, co-located with CVPR or ICCV; 2025 was the 6th edition (ICCV 2025, Honolulu)
+- Accepts continual learning work of any kind, not necessarily related to computer vision
+- Archival track (4 to 8 pages, published in the proceedings) and a non-archival track that allows dual submissions
+- Double-blind review on OpenReview in the host conference template
+- Also runs a continual learning benchmark challenge and gives a best paper award
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 6th edition, with ICCV 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Honolulu, Hawaii, USA
+  url: https://sites.google.com/view/clvision2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: "23:59"
+    tz: AoE
+    label: Archival track (extended from 2025-06-26)
+  - kind: notification
+    date: 2025-07-11
+    label: Archival track
+  - kind: camera_ready
+    date: 2025-08-10
+    time: "23:59"
+    tz: AoE
+    label: Archival track
+  - kind: submission
+    date: 2025-07-24
+    time: "23:59"
+    tz: AoE
+    label: Non-archival track
+  - kind: notification
+    date: 2025-08-11
+    label: Non-archival track
+sources:
+- https://sites.google.com/view/clvision2025
+- https://sites.google.com/view/clvision2025/call-for-papers
+- https://sites.google.com/view/clvision2025/organizers
+- https://sites.google.com/view/clvision2024
+- https://sites.google.com/view/clvision2024/call-for-papers
+- https://portal.core.edu.au/conf-ranks/?search=CLVision&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- No 2026 edition page found (sites.google.com/view/clvision2026 is not public); next edition not announced
+- Which digital library hosts the host conference workshop proceedings is not stated on the CLVision pages

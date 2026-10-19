@@ -1,0 +1,81 @@
+id: acm-scf
+name: ACM SCF
+full_name: ACM Symposium on Computational Fabrication
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGGRAPH (ACM SIGCHI co-sponsor from 2026)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11, 12]
+links:
+  website: https://scf.acm.org/
+notes:
+- Annual ACM symposium on computational tools for making physical things, spanning graphics, HCI, mechanical engineering, materials, robotics, architecture and design
+- Sponsored by ACM SIGGRAPH; ACM SIGCHI joined as co-sponsor in 2026
+- Full papers are double-blind, reviewed by area chairs plus two external reviewers, and archived in the ACM DL under ACM Open (2026 subsidized APC 250 USD members, 350 USD non-members)
+- No page limit; previous papers ran 5,000 to 10,000 words in the ACM sigconf format, video optional
+- Separate later deadline for demos, posters and non-archival sketches
+- In-person presentation required in 2026, no virtual registration
+- Held in North America in most recent years (Seattle 2022, New York 2023, Aarhus 2024, MIT 2025, Tokyo 2026)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-11-20
+  end: 2025-11-21
+  location: Cambridge, MA, USA (MIT)
+  url: https://scf.acm.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-17
+    label: Papers
+  - kind: notification
+    date: 2025-08-29
+    label: Papers
+  - kind: other
+    date: 2025-10-09
+    label: Lightning talks, posters, demos and sketches
+- year: 2026
+  start: 2026-12-06
+  end: 2026-12-08
+  location: Tokyo, Japan (The University of Tokyo)
+  url: https://scf.acm.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-26
+    tz: AoE
+    label: Papers (extended from Jul 24)
+  - kind: notification
+    date: 2026-08-28
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2026-09-18
+    tz: AoE
+    label: Demos, posters and sketches
+  - kind: camera_ready
+    date: 2026-10-02
+    tz: AoE
+    label: Papers
+  - kind: notification
+    date: 2026-10-06
+    tz: AoE
+    label: Demos, posters and sketches
+sources:
+- https://scf.acm.org/2026/
+- https://scf.acm.org/2026/submissions.html
+- https://scf.acm.org/2025/
+- https://scf.acm.org/2024/
+- https://scf.acm.org/2023/
+- https://scf.acm.org/2022/
+- https://portal.core.edu.au/conf-ranks/?search=SCF&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-17
+unverified:
+- SCF 2025 deadlines taken from the 2025 home page; any later extension not recorded
+- CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly

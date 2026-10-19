@@ -1,0 +1,55 @@
+id: waifi
+name: WAIFI
+full_name: International Workshop on the Arithmetic of Finite Fields
+type: conference
+tier: minor
+areas: [crypto]
+region: worldwide
+language: english
+frequency: biennial
+organizer: WAIFI steering committee with a local host (2026, University of Cantabria)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+acceptance_rate: 68% (2026, 21/31)
+typical:
+  conference_months: [6, 7]
+links:
+  website: http://waifi.org/
+notes:
+- Standalone biennial workshop (even years since 2008) on finite fields for cryptography, coding theory and implementation
+- Revised selected papers published in Springer LNCS (WAIFI 2026 -> LNCS 16611)
+- Double-blind review; three invited talks plus about 20 contributed papers
+- Rotates worldwide (2016 Ghent, 2018 Bergen, 2020 Rennes, 2022 Chengdu, 2024 Ottawa, 2026 Santander)
+- Small, mathematically oriented audience of mathematicians, computer scientists and engineers
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-05
+  location: Santander, Spain
+  url: http://waifi.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-08
+  - kind: submission
+    date: 2026-03-15
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-04-08
+  - kind: camera_ready
+    date: 2026-04-11
+  - kind: other
+    date: 2026-04-30
+    label: Poster abstracts (not in proceedings)
+sources:
+- http://waifi.org/
+- https://link.springer.com/conference/waifi
+- https://link.springer.com/book/10.1007/978-3-032-27574-5
+- https://portal.core.edu.au/conf-ranks/?search=WAIFI&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- WAIFI 2028 host and dates not yet announced

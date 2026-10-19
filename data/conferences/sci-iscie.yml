@@ -1,0 +1,78 @@
+id: sci-iscie
+name: SCI
+full_name: Annual Conference of the Institute of Systems, Control and Information Engineers
+name_local: システム制御情報学会 研究発表講演会
+type: conference
+tier: domestic
+areas: [systems, ai, general]
+region: japan
+language: japanese
+frequency: annual
+organizer: ISCIE (The Institute of Systems, Control and Information Engineers)
+organizer_country: [japan]
+proceedings: J-STAGE (one month after the meeting; participants can download the proceedings before it)
+archival: false
+fee: 16,000 JPY member, 27,000 JPY non-member, 5,000 JPY student member, 12,000 JPY student non-member, plus 6,000
+  JPY per paper (2026, early registration)
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5]
+links:
+  website: https://sci27.iscie.or.jp/
+notes:
+- Yearly research meeting of ISCIE, the Japanese society for systems, control and information engineering
+- Held every May, recently in the Kansai and Chubu areas (Kobe 2025, Nagoya 2026, Himeji 2027)
+- Talk application (title and 100 to 200 character abstract) in late January, paper of 1 to 8 pages in Japanese or
+  English in early April; no paper review is described
+- Paper submission needs the registration and paper fee paid first
+- Theme sessions, general sessions and organized sessions; 15 minute talks (10 minute talk, 5 minute Q&A)
+- About 450 participants and 223 regular talks in 2025
+- ISCIE Transactions runs a special issue for SCI papers; student presentation awards and a young researcher award
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: SCI'26 (70th)
+  start: 2026-05-24
+  end: 2026-05-26
+  location: WINC AICHI, Nagoya, Japan
+  url: https://sci26.iscie.or.jp/
+  deadlines:
+  - kind: submission
+    date: 2026-02-02
+    label: Talk application (extended from 2026-01-28)
+  - kind: camera_ready
+    date: 2026-04-06
+    label: Paper manuscript
+  - kind: other
+    date: 2026-04-24
+    time: "16:00"
+    tz: JST
+    label: Early registration
+- year: 2027
+  label: SCI'27 (71st)
+  start: 2027-05-14
+  end: 2027-05-16
+  location: Act City Himeji (Himeji City Cultural Convention Center), Himeji, Japan
+  url: https://sci27.iscie.or.jp/
+  deadlines:
+  - kind: submission
+    date: 2027-01-31
+    label: Talk application
+  - kind: camera_ready
+    date: 2027-04-06
+    label: Paper manuscript (no extension planned)
+  - kind: other
+    date: 2027-04-14
+    time: "16:00"
+    tz: JST
+    label: Early registration
+sources:
+- https://sci27.iscie.or.jp/
+- https://sci26.iscie.or.jp/
+- https://sci26.iscie.or.jp/info/cfp/
+- https://sci26.iscie.or.jp/info/participation/
+- https://sci25.iscie.or.jp/
+- https://portal.core.edu.au/conf-ranks/?search=ISCIE&by=all&source=ICORE2026
+unverified:
+- SCI'27 call for papers details (sessions, fees) are in the CFP PDF and not yet on the web pages
+last_verified: 2026-10-17

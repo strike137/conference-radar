@@ -1,0 +1,57 @@
+id: accml
+name: AccML
+full_name: Workshop on Accelerated Machine Learning (AccML)
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: europe
+language: english
+frequency: annual
+organizer: AccML organizers (co-located with HiPEAC); University of Glasgow, University of Murcia, University of Sheffield and Google DeepMind
+organizer_country: [europe]
+proceedings: AccML website
+archival: false
+typical:
+  deadline_months: [11, 12]
+  conference_months: [1]
+links:
+  website: https://accml.dcs.gla.ac.uk/
+notes:
+- One-day workshop co-located with the HiPEAC conference since 2020 (one extra edition at ISCA 2020)
+- Topics on hardware and software for accelerating ML (accelerators, compilers, runtimes, LLM serving) and ML for systems
+- Accepted papers are posted as PDFs on the workshop website only; no formal proceedings
+- 'Papers: 4 to 8 pages in double-column IEEE format, not anonymized, via EasyChair; work in progress and position papers welcome'
+- Deadlines are usually extended by about two weeks
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-01-27
+  end: 2026-01-27
+  location: Krakow, Poland
+  url: https://accml.dcs.gla.ac.uk/workshop-2026-hipeac.html
+  deadlines:
+  - kind: submission
+    date: 2025-12-05
+    label: Papers (extended from Nov 21)
+  - kind: notification
+    date: 2025-12-17
+- year: 2027
+  start: 2027-01-19
+  end: 2027-01-19
+  location: Glasgow, UK
+  url: https://accml.dcs.gla.ac.uk/workshop-2027-hipeac.html
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+  - kind: notification
+    date: 2026-11-27
+sources:
+- https://accml.dcs.gla.ac.uk/
+- https://accml.dcs.gla.ac.uk/workshop-2027-hipeac.html
+- https://accml.dcs.gla.ac.uk/workshop-2026-hipeac.html
+- https://accml.dcs.gla.ac.uk/workshop-2025-hipeac.html
+- https://portal.core.edu.au/conf-ranks/?search=AccML&by=all&source=ICORE2026
+unverified:
+- "2027 submission deadline: the page text says November 13, 2026 but its add-to-calendar link says November 20, 2026"
+- Acceptance rate not published
+last_verified: 2026-10-17

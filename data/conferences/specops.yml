@@ -1,0 +1,54 @@
+id: specops
+name: SpecOps
+full_name: International Workshop on Specification-Driven Development Life Cycle
+type: workshop
+tier: minor
+areas: [software, ai]
+region: north-america
+language: english
+organizer: SpecOps organizers (co-chairs from Amazon, KBR / NASA Ames and Cornell University); ACM SIGSOFT sponsored proceedings
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://conf.researchr.org/home/splash-issta-2026/specops-2026
+notes:
+- New workshop; 2026 was the 1st edition, co-located with SPLASH/ISSTA 2026 in Oakland
+- Topics are AI and agent based synthesis, validation and traceability of specifications across the software life cycle
+- Full papers up to 10 pages plus 2 pages of references; short, tool demo, dataset papers and extended abstracts up to 4 pages plus 1
+- Double-blind review; ACM SIGPLAN or sigconf acmart two-column format, submitted via HotCRP
+- All accepted papers are published by ACM in the ACM Digital Library; extended abstracts are not charged ACM Open APCs
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-10-06
+  end: 2026-10-06
+  location: Oakland, California, USA (with SPLASH/ISSTA 2026)
+  url: https://conf.researchr.org/home/splash-issta-2026/specops-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-06-23
+    tz: AoE
+    label: Optional abstract
+  - kind: submission
+    date: 2026-06-30
+    tz: AoE
+  - kind: notification
+    date: 2026-07-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-24
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/splash-issta-2026/specops-2026
+- https://conf.researchr.org/series/specops
+- https://api.crossref.org/works/10.1145/3842652.3850234
+- https://portal.core.edu.au/conf-ranks/?search=SpecOps&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Only one edition so far; frequency and a 2027 edition are not announced
+- Region set from the single 2026 edition in the USA
+- Not in the CCF 2026 list as far as checked; rank.ccf left out

@@ -1,0 +1,59 @@
+id: compas
+name: Compas
+full_name: "Compas: Conférence francophone en informatique (parallélisme, architecture, système)"
+type: conference
+tier: domestic
+areas: [systems]
+region: europe
+language: mixed
+frequency: annual
+organizer: Compas steering committee, with GDR RSD, GDR SoC² and ASF (SIGOPS France); a French university hosts each
+  edition (UPPA/LIUPPA in 2026)
+organizer_country: [europe]
+proceedings: None (participants only)
+archival: false
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://www.compas-conference.fr
+notes:
+- French-speaking conference on parallelism, computer architecture and operating systems, formed in 2013 from RenPar,
+  SympA and CFSE
+- Papers and abstracts may be in French or English; French-speaking authors are encouraged to present in French
+- Two submission options, a 6-page paper (plus up to 6 pages of extra material) with detailed reviews, or a
+  350-word abstract checked only for topic fit; already published work may be presented
+- Accepted papers are given to participants only; authors may optionally deposit them in a HAL collection, so the
+  venue does not prevent later publication at an international conference
+- Aimed at PhD students and young researchers; includes tutorials and a poster session
+- Held in a different French city each year (Annecy 2023, Nantes 2024, Bordeaux 2025, Anglet 2026)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-30
+  end: 2026-07-03
+  location: Anglet, France
+  url: https://2026.compas-conference.fr/
+  deadlines:
+  - kind: submission
+    date: 2026-03-13
+    label: Papers and abstracts (extended from 2026-02-27)
+  - kind: other
+    date: 2026-03-13
+    label: Workshop and tutorial proposals
+  - kind: notification
+    date: 2026-04-17
+  - kind: other
+    date: 2026-05-29
+    label: Early registration
+sources:
+- https://www.compas-conference.fr
+- https://www.compas-conference.fr/organisation/editions
+- https://www.compas-conference.fr/organisation/charte
+- https://www.compas-conference.fr/comites/pilotage
+- https://2026.compas-conference.fr/
+- https://2026.compas-conference.fr/soumissions
+- https://portal.core.edu.au/conf-ranks/?search=Compas&by=all&source=ICORE2026
+last_verified: 2026-10-17
+unverified:
+- Compas 2027 dates and place not announced yet
