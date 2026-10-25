@@ -1,0 +1,46 @@
+id: wcc-coding-crypto
+name: WCC
+full_name: International Workshop on Coding and Cryptography
+type: conference
+tier: minor
+areas: [crypto]
+region: europe
+language: english
+frequency: biennial
+organizer: WCC steering committee (chair Pierre Loidreau); 2026 organized by Inria Paris
+organizer_country: [europe]
+proceedings: None (extended abstracts online; full versions to a Designs, Codes and Cryptography special issue)
+archival: false
+fee: 400 EUR early regular, 250 EUR early student, 500 EUR late (2026)
+typical:
+  deadline_months: [1]
+  conference_months: [6]
+links:
+  website: https://wcc2026.inria.fr/
+notes:
+- Biennial standalone workshop on coding theory and cryptography, running since 1999; 2026 was the 14th edition
+- Submissions are extended abstracts of 6 to 10 pages, made available online; non-archival
+- Authors of accepted abstracts are invited to submit full papers to a special issue of Designs, Codes and Cryptography
+- Held in Europe; 2024 in Perugia, 2026 at Inria Paris
+editions:
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-12
+  location: Inria Paris, Paris, France
+  url: https://wcc2026.inria.fr/
+  deadlines:
+  - kind: submission
+    date: 2026-01-15
+    time: '23:59'
+    tz: AoE
+  - kind: notification
+    date: 2026-03-26
+  - kind: other
+    date: 2026-11-05
+    label: Designs, Codes and Cryptography special issue submission
+sources:
+- https://wcc2026.inria.fr/
+- https://wcc2024.sites.dmi.unipg.it/
+unverified:
+- WCC 2028 host and dates not announced
+last_verified: 2026-10-25

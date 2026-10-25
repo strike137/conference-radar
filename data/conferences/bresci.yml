@@ -1,0 +1,50 @@
+id: bresci
+name: BreSci
+full_name: Brazilian e-Science Workshop
+type: workshop
+tier: domestic
+areas: [data]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação), co-located with SBBD
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL)
+archival: true
+acceptance_rate: 51.5% (2026, 17/33)
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://sbbd.org.br/2026/bresci/
+notes:
+- Brazilian workshop on e-Science and data science infrastructure for scientific research; 20th edition in 2026
+- Held as part of SBBD (Brazilian Symposium on Databases), on one day of the SBBD week
+- Main track (data management, workflows, provenance, machine learning, cloud and edge, data-centric AI) and an applications track
+- Long papers up to 8 pages, short papers up to 4; Portuguese or English
+- Proceedings in SBC OpenLib (Anais do Brazilian e-Science Workshop, ISSN 2763-8774) with DOIs
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: São Carlos, Brazil (ICMC, University of São Paulo, with SBBD 2026)
+  url: https://sbbd.org.br/2026/bresci/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-08
+  - kind: submission
+    date: 2026-05-09
+  - kind: notification
+    date: 2026-06-23
+  - kind: camera_ready
+    date: 2026-06-30
+sources:
+- https://sbbd.org.br/2026/bresci/
+- https://sbbd.org.br/2026/programacao/
+- https://sol.sbc.org.br/index.php/bresci
+- https://portal.core.edu.au/conf-ranks/?search=BreSci&by=all&source=ICORE2026
+unverified:
+- 2026 deadlines were extended several times; the latest dates listed on the page are recorded
+- BreSci 2027 dates and location not yet announced
+last_verified: 2026-10-25

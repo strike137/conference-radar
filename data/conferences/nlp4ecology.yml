@@ -1,0 +1,54 @@
+id: nlp4ecology
+name: NLP4Ecology
+full_name: Workshop on Ecology, Environment, and Natural Language Processing
+type: workshop
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: annual
+organizer: NLP4Ecology organizers (University of Turin, University of Tartu, Uppsala University, University of Potsdam)
+organizer_country: [europe]
+proceedings: ACL Anthology (LREC 2026 workshop proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://nlp4ecology2026.di.unito.it/
+notes:
+- NLP for ecology, environment and climate communication (stance, framing, greenwashing detection, biodiversity text mining)
+- First edition 2025 with NoDaLiDa/Baltic-HLT in Tallinn; second edition 2026 with LREC 2026 in Palma de Mallorca
+- Regular papers 4 to 8 pages in the proceedings; non-archival contributions up to 4 pages (published work, work in progress, manifestos)
+- 2025 proceedings in the ACL Anthology (2025.nlp4ecology-1)
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2026
+  label: 2nd edition, with LREC 2026
+  start: 2026-05-12
+  end: 2026-05-12
+  location: Palma de Mallorca, Spain
+  url: https://nlp4ecology2026.di.unito.it/
+  deadlines:
+  - kind: submission
+    date: 2026-03-04
+    time: "23:59"
+    tz: AoE
+    label: Paper submission (extended from 2026-02-27)
+  - kind: notification
+    date: 2026-03-25
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://nlp4ecology2026.di.unito.it/
+- https://nlp4ecology2026.di.unito.it/call-for-papers/
+- https://nlp4ecology2026.di.unito.it/committees/
+- https://nlp4ecology2025.di.unito.it/
+- https://portal.core.edu.au/conf-ranks/?search=NLP4Ecology&by=all&source=ICORE2026
+unverified:
+- NLP4Ecology 2027 not announced yet
+last_verified: 2026-10-25

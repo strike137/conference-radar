@@ -1,0 +1,68 @@
+id: dx
+name: DX
+full_name: International Conference on Principles of Diagnosis and Resilient Systems
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: DX steering committee (chair Ingo Pill)
+organizer_country: [international]
+proceedings: Dagstuhl OASIcs
+archival: true
+indexing: [DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://conf.researchr.org/series/dx
+notes:
+- Long-running series on model-based diagnosis; the 37th edition was held in 2026
+- Formerly the International Workshop on Principles of Diagnosis; now a conference, with its scope widened to resilience in 2024
+- CORE C under its former name International Workshop on Principles of Diagnosis
+- Open access proceedings in the Dagstuhl OASIcs series (DX 2026 -> OASIcs volume 148)
+- Runs a diagnosis competition (DXC) alongside the conference
+- DX 2027 (38th) announced for Linkoping, Sweden
+editions:
+- year: 2025
+  start: 2025-09-22
+  end: 2025-09-24
+  location: Nashville, USA
+  url: https://conf.researchr.org/home/dx-2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-15
+    tz: AoE
+  - kind: notification
+    date: 2025-06-25
+  - kind: camera_ready
+    date: 2025-08-15
+- year: 2026
+  start: 2026-09-01
+  end: 2026-09-03
+  location: Cork, Ireland
+  url: https://conf.researchr.org/home/dx-2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-27
+    tz: AoE
+  - kind: notification
+    date: 2026-06-22
+  - kind: camera_ready
+    date: 2026-08-10
+- year: 2027
+  start: 2027-08-24
+  end: 2027-08-26
+  location: Linkoping, Sweden
+  url: https://conf.researchr.org/series/dx
+sources:
+- https://conf.researchr.org/home/dx-2026
+- https://conf.researchr.org/home/dx-2025
+- https://conf.researchr.org/series/dx
+- https://portal.core.edu.au/conf-ranks/?search=DX&by=all&source=ICORE2026
+unverified:
+- DX 2027 deadlines not announced as of 2026-10-25
+last_verified: 2026-10-25

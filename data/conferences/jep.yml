@@ -1,0 +1,57 @@
+id: jep
+name: JEP
+full_name: Journées d'Études sur la Parole
+type: conference
+tier: domestic
+areas: [nlp, ai]
+region: europe
+language: mixed
+frequency: biennial
+organizer: AFCP (Association Francophone de la Communication Parlée) with a host lab (Praxiling and ISEM, Université Paul-Valéry Montpellier, in 2026)
+organizer_country: [europe]
+proceedings: Conference proceedings (actes); ACL Anthology for the joint JEP-TALN-RECITAL editions (2020, 2024)
+archival: true
+fee: "520 EUR regular, 280 EUR student, 430 / 190 EUR for AFCP members (2026, early)"
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://praxiling.cnrs.fr/jep2026/
+notes:
+- French-language speech science conference with scientific backing from AFCP; 2026 is the 36th edition
+- Topics span phonetics and speech technology (recognition, synthesis, speaker and language recognition, speech coding, language models)
+- Held every two years in France; joint with TALN and RECITAL in 2020 and 2024 (JEP-TALN-RECITAL)
+- Long papers of 8 pages or 2-page short abstracts, anonymous submission on EasyChair; translations of already published work accepted
+- Proceedings in the ACL Anthology (35th JEP 2024 volume)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: 36th edition
+  start: 2026-06-08
+  end: 2026-06-12
+  location: Montpellier, France
+  url: https://praxiling.cnrs.fr/jep2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-06
+    label: Papers and abstracts (extended from 2026-01-30)
+  - kind: other
+    date: 2026-02-27
+    label: Workshop proposals (extended from 2026-02-13)
+  - kind: notification
+    date: 2026-03-30
+  - kind: camera_ready
+    date: 2026-04-30
+sources:
+- https://praxiling.cnrs.fr/jep2026/
+- https://praxiling.cnrs.fr/jep2026/calendrier/
+- https://praxiling.cnrs.fr/jep2026/instructions-de-soumissions/
+- https://praxiling.cnrs.fr/jep2026/inscriptions/
+- https://aclanthology.org/venues/jeptalnrecital/
+- https://aclanthology.org/events/jeptalnrecital-2024/
+- https://portal.core.edu.au/conf-ranks/?search=JEP&by=all&source=ICORE2026
+unverified:
+- Next edition (JEP 2028) host and dates not announced
+- JEP 2026 proceedings not yet seen in the ACL Anthology
+- Deadline times and time zone are not stated on the 2026 site
+last_verified: 2026-10-25

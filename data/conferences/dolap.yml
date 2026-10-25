@@ -1,0 +1,76 @@
+id: dolap
+name: DOLAP
+full_name: International Workshop on Data management fOr anaLytics and Ai Processing
+type: workshop
+tier: minor
+areas: [data]
+region: europe
+language: english
+frequency: annual
+organizer: DOLAP steering committee; co-located with EDBT/ICDT
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [12]
+  conference_months: [3, 4]
+links:
+  website: https://dolapworkshop.github.io/
+notes:
+- Long-running workshop on data warehousing, OLAP and analytics, held with EDBT/ICDT
+- Renamed for 2027 from "Design, Optimization, Languages and Analytical Processing of Big Data" (the CORE portal lists it as Data Warehousing and OLAP)
+- Open proceedings in CEUR-WS since 2017 (2026 Vol-4186, 2025 Vol-3931)
+- Full papers up to 12 pages, short papers up to 6, single-blind review by 3 PC members via CMT
+- Best papers invited to a special issue of Information Systems
+- CORE C (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2026
+  label: 28th edition, with EDBT/ICDT 2026
+  start: 2026-03-24
+  end: 2026-03-24
+  location: Tampere, Finland
+  url: https://dolapworkshop.github.io/dolap-2026/
+  deadlines:
+  - kind: submission
+    date: 2025-12-23
+    time: "23:59"
+    tz: PST
+    label: Final extension (from December 5 and December 19)
+  - kind: notification
+    date: 2026-02-04
+    time: "23:59"
+    tz: PST
+- year: 2027
+  label: 29th edition, with EDBT/ICDT 2027
+  start: 2027-04-06
+  end: 2027-04-06
+  location: Lille, France
+  url: https://dolapworkshop.github.io/dolap-2027/
+  deadlines:
+  - kind: submission
+    date: 2026-12-07
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2027-02-02
+    time: "23:59"
+    tz: PST
+  - kind: camera_ready
+    date: 2027-02-19
+    time: "23:59"
+    tz: PST
+sources:
+- https://dolapworkshop.github.io/
+- https://dolapworkshop.github.io/previous-editions
+- https://dolapworkshop.github.io/dolap-2026/
+- https://dolapworkshop.github.io/dolap-2026/important-dates
+- https://dolapworkshop.github.io/dolap-2027/
+- https://dolapworkshop.github.io/dolap-2027/important-dates
+- https://dolapworkshop.github.io/dolap-2027/call-for-papers
+- https://ceur-ws.org/Vol-4186/
+- https://portal.core.edu.au/conf-ranks/?search=DOLAP&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- The DOLAP 2026 camera-ready date (February 20, 2026) is struck through on the important dates page with no replacement date, so it is left out

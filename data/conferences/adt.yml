@@ -1,0 +1,68 @@
+id: adt
+name: ADT
+full_name: International Conference on Algorithmic Decision Theory
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: ADT conference series (2026 general chairs at Universite Paris Dauphine-PSL)
+organizer_country: [international]
+proceedings: Springer LNAI
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [10, 11]
+links:
+  website: https://adt2026.sciencesconf.org/
+notes:
+- Algorithmic decision theory across computer science, economics and operations research (computational social choice, preferences, game theory, MCDA)
+- Established in 2009 and usually held every two years, alternating between Europe and the USA (Venice, Rutgers, Brussels, Lexington, Luxembourg, Durham, Toulouse, Rutgers 2024, Paris 2026)
+- Proceedings in Springer Lecture Notes in Artificial Intelligence (LNAI)
+- Double-blind review, at most 15 pages in LNCS format; a non-proceedings option publishes only a two-page abstract so the full paper can go to another archival venue
+- Not listed in ICORE2026 (the ADT search only returns JADT); CCF list not checked (site behind a captcha)
+editions:
+- year: 2024
+  start: 2024-10-14
+  end: 2024-10-16
+  location: Piscataway, NJ, USA (DIMACS, Rutgers University)
+  url: https://preflib.github.io/adt2024/
+  deadlines:
+  - kind: abstract
+    date: 2024-05-24
+    label: Title and abstract
+  - kind: submission
+    date: 2024-05-31
+    label: Full paper
+  - kind: notification
+    date: 2024-07-19
+  - kind: camera_ready
+    date: 2024-08-09
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-18
+  location: Paris, France (Universite Paris Dauphine-PSL)
+  url: https://adt2026.sciencesconf.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-18
+    label: Title and abstract
+  - kind: submission
+    date: 2026-05-25
+    label: Full paper
+  - kind: notification
+    date: 2026-07-27
+  - kind: camera_ready
+    date: 2026-08-25
+sources:
+- https://adt2026.sciencesconf.org/
+- https://adt2026.sciencesconf.org/page/call_for_papers?lang=en
+- https://adt2026.sciencesconf.org/page/committees?lang=en
+- https://preflib.github.io/adt2024/
+- https://portal.core.edu.au/conf-ranks/?search=ADT&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- ADT 2024 proceedings series not read on the 2024 site (it links to the Springer book page only)
+- ADT 2028 not announced as of 2026-10-25
+- CCF 2026 list not checked (ccf.org.cn behind a captcha)

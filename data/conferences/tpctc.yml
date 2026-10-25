@@ -1,0 +1,46 @@
+id: tpctc
+name: TPCTC
+full_name: TPC Technology Conference on Performance Evaluation and Benchmarking
+type: workshop
+tier: minor
+areas: [data, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Transaction Processing Performance Council (TPC); co-located with VLDB
+organizer_country: [usa]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9]
+links:
+  website: https://www.tpc.org/tpctc/
+notes:
+- One-day event on performance evaluation and benchmarking, run by the TPC industry consortium
+- Held with VLDB every year since 2009, so it moves with VLDB (2025 London, 2026 Boston)
+- Papers up to 16 pages in Springer LNCS format, submitted via EasyChair
+- Proceedings published by Springer in Lecture Notes in Computer Science
+- Selected papers may feed into future TPC benchmark development
+- 18th edition in 2026
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 18th edition, with VLDB 2026
+  start: 2026-08-31
+  end: 2026-08-31
+  location: Boston, USA
+  url: https://www.tpc.org/tpctc/tpctc2026/default5.asp
+  deadlines:
+  - kind: abstract
+    date: 2026-06-01
+  - kind: submission
+    date: 2026-06-10
+sources:
+- https://www.tpc.org/tpctc/
+- https://www.tpc.org/tpctc/tpctc2026/default5.asp
+- https://portal.core.edu.au/conf-ranks/?search=TPCTC&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- TPCTC 2026 notification date was listed as TBD on the official page
+- TPCTC 2027 not announced yet

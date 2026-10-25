@@ -1,0 +1,54 @@
+id: sbcas
+name: SBCAS
+full_name: Brazilian Symposium on Computing Applied to Health
+name_local: Simpósio Brasileiro de Computação Aplicada à Saúde
+type: conference
+tier: domestic
+areas: [ai, data]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação) special committee on computing applied to health (CE-CAS)
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://www.sbcas2026.com/
+notes:
+- Brazilian symposium on computing applied to health, organized by the SBC special committee CE-CAS; 26th edition
+  in 2026
+- Topics include AI in health, medical image processing, health information systems, telemedicine, LLMs for
+  health, wireless body area networks and decision support systems
+- Papers in Portuguese or English; anonymous submission; full papers 8 to 12 pages, work in progress up to 6 pages
+- Proceedings (Anais do SBCAS) published open access in SBC OpenLib (SOL) under CC BY 4.0
+- Selected papers invited to submit extended versions to the Journal of the Brazilian Computer Society (JBCS)
+- Held in Brazil (Ouro Preto, Minas Gerais in 2026); renamed from Workshop de Informática Médica in 2018
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-04
+  location: Ouro Preto, Minas Gerais, Brazil
+  url: https://www.sbcas2026.com/
+  deadlines:
+  - kind: submission
+    date: 2026-03-09
+    label: Main track (hard deadline; first listed date 2026-03-02)
+  - kind: notification
+    date: 2026-04-15
+    label: Main track
+  - kind: camera_ready
+    date: 2026-04-30
+    label: Main track
+sources:
+- https://www.sbcas2026.com/
+- https://www.sbcas2026.com/trilhaprincipal
+- https://sol.sbc.org.br/index.php/sbcas
+- https://portal.core.edu.au/conf-ranks/?search=SBCAS&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- SBCAS 2027 dates and location not yet announced
+- Acceptance rate
+last_verified: 2026-10-25

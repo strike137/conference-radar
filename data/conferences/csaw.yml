@@ -1,0 +1,47 @@
+id: csaw
+name: CSAW
+full_name: CSAW Cybersecurity Games and Conference
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: NYU Tandon School of Engineering (Center for Cybersecurity)
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://csaw.io/
+notes:
+- Student-run cybersecurity games and conference hosted by NYU Tandon, founded in 2003; 2026 is the 23rd edition
+- Finals run in parallel at five regional hubs (NYU Tandon for US-Canada, Grenoble INP-Esisar, IIT Kanpur, NYU Abu Dhabi, Universidad Iberoamericana)
+- Competitions include Capture The Flag, Embedded Security Challenge, LLM CTF Attack, Cyber Policy and the Applied Research Competition
+- Applied Research Competition is a best paper award for papers already published at venues such as IEEE S&P, USENIX Security, CCS and NDSS; a student author must present in person
+- No proceedings; papers in the research competition are already published elsewhere
+editions:
+- year: 2026
+  start: 2026-11-12
+  end: 2026-11-14
+  location: Brooklyn, NY, USA (plus regional hubs)
+  url: https://csaw.io/
+  deadlines:
+  - kind: submission
+    date: 2026-09-25
+    time: "23:59"
+    tz: AoE
+    label: Applied Research Competition (US-Canada)
+  - kind: notification
+    date: 2026-10-13
+    label: Applied Research Competition finalists
+sources:
+- https://csaw.io/
+- https://csaw.io/agenda
+- https://csaw.io/competition/applied-research-competition
+unverified:
+- Dates of CSAW 2025 are not shown on the official site
+- Dates at the regional hubs other than the shared November 12 to 14 window are not listed
+last_verified: 2026-10-25

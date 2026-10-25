@@ -1,0 +1,63 @@
+id: sltc
+name: SLTC
+full_name: Swedish Language Technology Conference
+type: conference
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: biennial
+organizer: Swedish universities in rotation (Lulea University of Technology in 2026, Linkoping University in 2024)
+organizer_country: [europe]
+proceedings: None (accepted extended abstracts posted on the conference website)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://www.ltu.se/en/research/research-subjects/machine-learning/the-swedish-language-technology-conference
+notes:
+- Main national meeting of the Swedish language technology community (NLP, computational linguistics, speech technology, language resources)
+- Held every two years, hosted by a different Swedish university; earlier hosts include GU, LiU, KTH, LU, UU, UmU and SU
+- Extended abstracts of 2 to 4 pages in ACL style, single-blind review on OpenReview; system demonstrations as a separate track
+- No proceedings; accepted abstracts are made available on the conference web page, so work published elsewhere can be presented
+- Two main conference days followed by a dedicated workshop day
+- 2026 main days were moved to 23 and 24 November to avoid clashing with NLP4CALL
+editions:
+- year: 2024
+  start: 2024-11-27
+  end: 2024-11-29
+  location: Linkoping University, Linkoping, Sweden
+  url: https://sltc2024.github.io/
+  deadlines:
+  - kind: submission
+    date: 2024-09-15
+    label: Extended abstracts
+  - kind: notification
+    date: 2024-10-14
+  - kind: camera_ready
+    date: 2024-11-01
+- year: 2026
+  start: 2026-11-23
+  end: 2026-11-25
+  location: Campus Lulea, Porson, Lulea, Sweden
+  url: https://www.ltu.se/en/research/research-subjects/machine-learning/the-swedish-language-technology-conference
+  deadlines:
+  - kind: submission
+    date: 2026-09-26
+    time: "23:59"
+    tz: AoE
+    label: Extended abstracts (final, extended)
+  - kind: notification
+    date: 2026-10-23
+  - kind: camera_ready
+    date: 2026-11-05
+    label: Extended from 2026-11-02
+sources:
+- https://www.ltu.se/en/research/research-subjects/machine-learning/the-swedish-language-technology-conference
+- https://www.ltu.se/en/research/research-subjects/machine-learning/the-swedish-language-technology-conference/submissions
+- https://sltc2024.github.io/
+last_verified: 2026-10-25
+unverified:
+- SLTC 2026 registration fee not yet published
+- Host and dates of the 2028 edition not announced

@@ -1,0 +1,48 @@
+id: adms
+name: ADMS
+full_name: International Workshop on Accelerating Analytics and Data Management Systems Using Modern Processor and Storage Architectures
+type: workshop
+tier: minor
+areas: [data, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ADMS workshop chairs; co-located with VLDB
+organizer_country: [international]
+proceedings: VLDB Workshop Proceedings (vldb.org)
+archival: true
+indexing: [DBLP]
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://www.adms-conf.org/
+notes:
+- One-day workshop held with VLDB every year since 2010, so it moves with VLDB (2026 in Boston)
+- "Scope: GPUs and other accelerators, modern storage and memory, acceleration of data science and ML workloads, and exploratory topics such as generative AI, DNA storage and quantum technologies"
+- Full papers up to 12 pages excluding references, shorter papers of at least 6 pages encouraged; VLDB templates; EasyChair
+- Proceedings in the official VLDB Workshop Proceedings, indexed in DBLP
+- 17th edition in 2026
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 17th edition, with VLDB 2026
+  start: 2026-08-31
+  end: 2026-08-31
+  location: Boston, USA
+  url: https://www.adms-conf.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    time: "09:00"
+    tz: EST
+  - kind: notification
+    date: 2026-06-22
+  - kind: camera_ready
+    date: 2026-07-10
+sources:
+- https://www.adms-conf.org/
+- https://portal.core.edu.au/conf-ranks/?search=ADMS&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- ADMS 2027 not announced yet

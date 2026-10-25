@@ -1,0 +1,51 @@
+id: acg
+name: ACG
+full_name: Advances in Computer Games
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: International Computer Games Association (ICGA)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+indexing: [DBLP]
+fee: Attendance free; 50 EUR per accepted paper (2025)
+typical:
+  deadline_months: [8, 9]
+  conference_months: [10, 11]
+links:
+  website: https://icga.org/
+notes:
+- Run under the International Computer Games Association (ICGA); described as the longest ongoing game AI conference, first held in Edinburgh in 1975
+- Proceedings published by Springer as a volume in the LNCS series
+- 2021, 2023 and 2025 editions were held online, with free attendance to view all talks
+- Papers up to 10 pages including references in LNCS style, submitted via EasyChair
+- Topics include chess and variants, solving games, board and card games, and game AI in general
+editions:
+- year: 2025
+  start: 2025-10-21
+  end: 2025-10-23
+  location: Online
+  url: https://icga.org/?page_id=4052
+  deadlines:
+  - kind: submission
+    date: 2025-08-10
+    time: '23:59'
+    tz: AoE
+    label: Paper submission (extended from 2025-08-01)
+  - kind: notification
+    date: 2025-09-15
+  - kind: camera_ready
+    date: 2025-10-07
+sources:
+- https://icga.org/?page_id=4052
+- https://icga.org/?p=4067
+- https://icga.org/?p=4097
+- https://icga.org/?p=3788
+- https://portal.core.edu.au/conf-ranks/?search=games&by=all&source=ICORE2026
+unverified:
+- Next edition (2027) not announced on the ICGA site as of 2026-10-25
+last_verified: 2026-10-25

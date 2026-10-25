@@ -1,0 +1,45 @@
+id: qdb
+name: QDB
+full_name: International Workshop on Quality in Databases
+type: workshop
+tier: minor
+areas: [data]
+region: worldwide
+language: english
+frequency: annual
+organizer: QDB steering committee (Ihab Ilyas, Felix Naumann); co-located with VLDB
+organizer_country: [international]
+proceedings: VLDB Workshop Proceedings (vldb.org)
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8, 9]
+links:
+  website: https://qdb-workshop.github.io/
+notes:
+- Workshop on data quality, data cleaning and related topics, held with VLDB, so it moves with VLDB (2026 in Boston)
+- Full papers and demos up to 6 pages including references
+- Accepted papers distributed via vldb.org (2024 and 2025 in the VLDB workshop proceedings, 2023 in CEUR-WS)
+- 15th edition in 2026
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 15th edition, with VLDB 2026
+  start: 2026-08-31
+  end: 2026-08-31
+  location: Boston, USA
+  url: https://qdb-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-01
+    label: Extended from May 15
+  - kind: notification
+    date: 2026-07-07
+  - kind: camera_ready
+    date: 2026-07-15
+sources:
+- https://qdb-workshop.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=QDB&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- QDB 2027 not announced yet

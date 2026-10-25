@@ -1,0 +1,68 @@
+id: dfn-sicherheit
+name: DFN-Konferenz
+full_name: DFN-Konferenz Sicherheit in vernetzten Systemen
+name_local: DFN-Konferenz "Sicherheit in vernetzten Systemen"
+type: conference
+tier: domestic
+areas: [security]
+region: europe
+language: mixed
+frequency: annual
+organizer: DFN-CERT on behalf of DFN-Verein (German National Research and Education Network)
+organizer_country: [europe]
+proceedings: DFN-CERT conference volume (Konferenzband, book with ISBN)
+archival: true
+fee: Early bird 425 EUR (DFN members and service users) or 714 EUR (others), incl. VAT (2027)
+typical:
+  deadline_months: [8]
+  conference_months: [1, 2]
+links:
+  website: https://www.dfn-cert.de/informationen/veranstaltungen/
+notes:
+- German security conference run by DFN-CERT for the DFN-Verein (formerly a workshop); 34th
+  edition in 2027
+- Held at the Grand Elysee Hotel in Hamburg; about 350 participants
+- Technical and scientific focus; practice-oriented talks and research reports welcome, product presentations not
+- Anonymous review by a program committee, at least five reviewers per submission; abstract (2+ pages) or full
+  paper (10+ pages) accepted for review
+- All accepted long versions published in a conference volume with ISBN; short talks (10 minutes) not published
+- Official pages and most talks in German, some talks in English
+- Tutorials on the afternoon of the second day
+- Not ranked in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  label: 33rd edition
+  start: 2026-01-27
+  end: 2026-01-28
+  location: Hamburg, Germany
+  url: https://www.dfn-cert.de/informationen/protokolle/33-dfn-konferenz-sicherheit-in-vernetzten-systemen/
+- year: 2027
+  label: 34th edition
+  start: 2027-02-23
+  end: 2027-02-24
+  location: Hamburg, Germany
+  url: https://www.dfn-cert.de/informationen/veranstaltungen/34-dfn-konferenz-sicherheit-in-vernetzten-systemen-anmeldung-offen/
+  deadlines:
+  - kind: submission
+    date: 2026-08-09
+    label: Papers (extended)
+  - kind: other
+    date: 2026-08-30
+    label: Short talk proposals
+  - kind: camera_ready
+    date: 2026-10-04
+    label: Long versions for the conference volume
+  - kind: other
+    date: 2026-11-30
+    label: Early registration
+sources:
+- https://www.dfn-cert.de/documents/262/CallForPapers2027_verl%C3%A4ngert.pdf
+- https://www.dfn-cert.de/informationen/veranstaltungen/
+- https://www.dfn-cert.de/informationen/veranstaltungen/34-dfn-konferenz-sicherheit-in-vernetzten-systemen-anmeldung-offen/
+- https://www.dfn-cert.de/informationen/protokolle/33-dfn-konferenz-sicherheit-in-vernetzten-systemen/
+- https://portal.core.edu.au/conf-ranks/?search=DFN&by=all&source=ICORE2026
+unverified:
+- Notification date for the 2027 edition (not stated in the CFP)
+- Original (pre-extension) 2027 submission deadline and the 2026 CFP dates
+- Publisher of the conference volume
+last_verified: 2026-10-25

@@ -1,0 +1,56 @@
+id: damss
+name: DAMSS
+full_name: International Conference on Data Analysis Methods for Software Systems
+type: conference
+tier: minor
+areas: [ai, data, software]
+region: europe
+language: english
+frequency: annual
+organizer: Vilnius University Institute of Data Science and Digital Technologies, Lithuanian Academy of Sciences and Lithuanian Computer Society (IFIP partner)
+organizer_country: [europe]
+proceedings: None (abstract volume in Vilnius University Proceedings with DOI; selected papers in a Baltic Journal of Modern Computing special issue)
+archival: false
+fee: 300 EUR regular, 350 EUR late, 150 EUR online (2026)
+typical:
+  deadline_months: [10]
+  conference_months: [11, 12]
+links:
+  website: https://www.mii.lt/damss/
+notes:
+- Annual meeting of the Lithuanian computer science community, held every year at the same venue in Druskininkai, Lithuania, in late November or early December
+- Called an international workshop up to 2019, a conference since 2021; DAMSS 2025 was the 16th edition with 90 presentations from nine countries
+- Participants submit an abstract with online registration; abstracts appear in the Vilnius University Proceedings volume (ISBN, DOI)
+- Speakers are invited to submit full papers to a special issue of the Baltic Journal of Modern Computing after the event
+- Registration is capped at about 120 participants and may close early
+editions:
+- year: 2025
+  start: 2025-11-27
+  end: 2025-11-29
+  location: Druskininkai, Lithuania
+  url: https://www.mii.lt/damss/index.php/damss/damss2025
+- year: 2026
+  start: 2026-11-26
+  end: 2026-11-28
+  location: Druskininkai, Lithuania (Hotel Europa Royale)
+  url: https://www.mii.lt/damss/index.php
+  deadlines:
+  - kind: other
+    date: 2026-10-20
+    label: Online registration with abstract
+  - kind: notification
+    date: 2026-10-27
+    label: Abstract acceptance
+  - kind: other
+    date: 2027-02-28
+    label: Full paper submission to the BJMC special issue
+sources:
+- https://www.mii.lt/damss/index.php
+- https://www.mii.lt/damss/index.php/registration-2026
+- https://www.mii.lt/damss/index.php/proceedings
+- https://www.mii.lt/damss/index.php/damss/damss2025
+unverified:
+- Peer review process for abstracts not described on the official site
+- Not on the CCF 2026 list (checked by full name)
+- Not listed on the CORE portal (ICORE2026 search for DAMSS returns 0 results)
+last_verified: 2026-10-25

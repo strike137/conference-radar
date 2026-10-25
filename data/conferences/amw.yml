@@ -1,0 +1,59 @@
+id: amw
+name: AMW
+full_name: Alberto Mendelzon International Workshop on Foundations of Data Management
+type: workshop
+tier: minor
+areas: [data]
+region: latin-america
+language: english
+frequency: irregular
+organizer: AMW steering committee; 2026 hosted by Universidad Catolica San Pablo
+organizer_country: [other]
+proceedings: CEUR-WS (CEUR Workshop Proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [11]
+links:
+  website: https://amw2026.github.io/
+notes:
+- Main Latin American venue for database theory and foundations of data management, held since 2006
+- Rotates across Latin America (past hosts include Lima, Buenos Aires, Santiago, Montevideo, Cali and Mexico City; 2026 Arequipa)
+- Not strictly annual (16th edition in 2024, 17th in 2026)
+- Regular papers up to 12 pages and short papers up to 6 pages, CEURART single-column style, via EasyChair
+- Original papers are published in CEUR Workshop Proceedings; "[Recent Work]" papers are not published
+- Preceded by a summer school (2026 school November 9 to 10, workshop November 11 to 13)
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2024
+  start: 2024-09-30
+  end: 2024-10-04
+  label: 16th edition
+  location: Mexico City, Mexico
+  url: https://amw2024.github.io/
+- year: 2026
+  label: 17th edition
+  start: 2026-11-09
+  end: 2026-11-13
+  location: Arequipa, Peru
+  url: https://amw2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://amw2024.github.io/
+- https://ceur-ws.org/Vol-3954/
+- https://amw2026.github.io/
+- https://amw2026.github.io/submissions
+- https://amw2026.github.io/info
+- https://portal.core.edu.au/conf-ranks/?search=AMW&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- The notification date differs between the home page (September 7) and the submissions page (September 1), so it is left out
+- The site footer uses the older name "Foundations of Databases and the Web"

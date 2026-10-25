@@ -1,0 +1,50 @@
+id: courb
+name: CoUrb
+full_name: Workshop on Urban Computing
+name_local: Workshop de Computação Urbana
+type: workshop
+tier: domestic
+areas: [networking, data]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação), co-located with SBRC
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL), CoUrb series
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [5]
+links:
+  website: https://sbrc.sbc.org.br/2026/courb/
+notes:
+- Co-located workshop of SBRC, the Brazilian Symposium on Computer Networks and Distributed Systems run by the
+  Brazilian Computer Society (SBC); 10th edition in 2026
+- Papers in Portuguese or English (Portuguese papers need an English abstract), up to 14 pages including
+  references; at least one author must register for SBRC and present orally
+- Accepted papers published open access in SBC OpenLib (SOL), Anais do CoUrb; three best paper awards
+- Held with SBRC in a different Brazilian city each year (Praia do Forte, Bahia in 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-25
+  location: Praia do Forte, Bahia, Brazil (SBRC 2026)
+  url: https://sbrc.sbc.org.br/2026/courb/
+  deadlines:
+  - kind: submission
+    date: 2026-04-05
+    label: Papers (hard deadline; first listed date 2026-03-27)
+  - kind: notification
+    date: 2026-04-17
+  - kind: camera_ready
+    date: 2026-04-24
+sources:
+- https://sbrc.sbc.org.br/2026/programacao-geral/
+- https://sbrc.sbc.org.br/2026/courb/
+- https://sol.sbc.org.br/index.php/courb
+- https://portal.core.edu.au/conf-ranks/?search=CoUrb&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- CoUrb 2027 (SBRC 2027) dates and location not yet announced
+- Review method (blind or double-blind) not stated in the call
+last_verified: 2026-10-25

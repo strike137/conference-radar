@@ -1,0 +1,53 @@
+id: sagt
+name: SAGT
+full_name: International Symposium on Algorithmic Game Theory
+type: conference
+tier: major
+areas: [ai, general]
+region: europe
+language: english
+frequency: annual
+organizer: SAGT steering committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: B
+  ccf: C
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://www.uni-augsburg.de/de/fakultaet/fai/conferences/sagt-2026/
+  dblp: https://dblp.org/db/conf/sagt/index.html
+notes:
+- Algorithmic game theory, mechanism design, computational social choice and related economics and computation topics
+- Proceedings in Springer LNCS; CORE B (ICORE2026), CCF C
+- Held in Europe every September; Amsterdam (2024), Bath (2025), Augsburg (2026)
+- 2026 edition preceded by a Pre-SAGT workshop on mechanisms with predictions aimed at students and early-career researchers
+editions:
+- year: 2026
+  label: 19th SAGT
+  start: 2026-09-15
+  end: 2026-09-18
+  location: Augsburg, Germany
+  url: https://www.uni-augsburg.de/de/fakultaet/fai/conferences/sagt-2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-20
+    tz: AoE
+  - kind: submission
+    date: 2026-05-26
+    tz: AoE
+  - kind: notification
+    date: 2026-07-09
+  - kind: camera_ready
+    date: 2026-07-24
+    tz: AoE
+sources:
+- https://www.uni-augsburg.de/de/fakultaet/fai/conferences/sagt-2026/
+- https://portal.core.edu.au/conf-ranks/?search=SAGT&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- SAGT 2027 not announced yet
+last_verified: 2026-10-25

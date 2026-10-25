@@ -1,0 +1,74 @@
+id: cvww
+name: CVWW
+full_name: Computer Vision Winter Workshop
+type: workshop
+tier: minor
+areas: [vision]
+region: europe
+language: english
+frequency: annual
+organizer: Computer vision groups in Prague, Ljubljana, Graz and Vienna (rotating host)
+organizer_country: [europe]
+proceedings: Workshop proceedings (PDF on the edition site; 2023 in CEUR-WS Vol-3349)
+archival: false
+typical:
+  deadline_months: [12]
+  conference_months: [2]
+links:
+  website: https://cvww2027.cvl.tuwien.ac.at/
+notes:
+- Annual meeting of the computer vision groups in Prague, Ljubljana, Graz and Vienna since 1996, open to everyone
+- Standalone workshop aimed at giving PhD students conference experience
+- Rotates between Austria, Czech Republic and Slovenia (2026 Jindrichuv Hradec, 2027 Rust)
+- Two tracks, reviewed contributed papers that appear in the proceedings, and an unpublished feedback track
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 29th edition
+  start: 2026-02-09
+  end: 2026-02-11
+  location: Jindrichuv Hradec, Czech Republic
+  url: https://cmp.felk.cvut.cz/cvww2026/
+  deadlines:
+  - kind: submission
+    date: 2025-12-22
+    time: "23:59"
+    tz: CET
+  - kind: notification
+    date: 2026-01-13
+    time: "23:59"
+    tz: CET
+  - kind: camera_ready
+    date: 2026-02-02
+    time: "23:59"
+    tz: CET
+- year: 2027
+  label: 30th edition
+  start: 2027-02-08
+  end: 2027-02-10
+  location: Rust, Austria
+  url: https://cvww2027.cvl.tuwien.ac.at/
+  deadlines:
+  - kind: submission
+    date: 2026-12-21
+    time: "23:59"
+    tz: CET
+    label: Firm deadline
+  - kind: notification
+    date: 2027-01-18
+    time: "23:59"
+    tz: CET
+  - kind: camera_ready
+    date: 2027-01-25
+    time: "23:59"
+    tz: CET
+sources:
+- https://cvww2027.cvl.tuwien.ac.at/
+- https://cvww2027.cvl.tuwien.ac.at/previous-editions/
+- https://cmp.felk.cvut.cz/cvww2026/
+- https://cmp.felk.cvut.cz/cvww2026/proceedings.html
+- https://ceur-ws.org/Vol-3349
+- https://portal.core.edu.au/conf-ranks/?search=CVWW&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- The publisher of the 2027 proceedings is not stated; recent proceedings are PDFs hosted on the edition sites, so archival status is unclear

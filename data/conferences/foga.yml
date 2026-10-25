@@ -1,0 +1,50 @@
+id: foga
+name: FOGA
+full_name: ACM/SIGEVO Conference on Foundations of Genetic Algorithms
+type: conference
+tier: major
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: ACM SIGEVO (Special Interest Group on Genetic and Evolutionary Computation)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: A
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://sig.sigevo.org/FOGAs
+notes:
+- Premier venue for the theory of evolutionary computation and randomized search heuristics (runtime analysis, fitness landscapes, benchmarking, algorithm configuration)
+- Started in 1990; biennial in odd years since 2005 (three-year gap between 2002 and 2005); recent editions all in Europe (Aberystwyth 2015, Copenhagen 2017, Potsdam 2019, Dornbirn 2021, Potsdam 2023, Leiden 2025)
+- Single-track; proceedings published by ACM
+- CORE A (ICORE2026); not checked on the CCF list
+editions:
+- year: 2025
+  start: 2025-08-27
+  end: 2025-08-29
+  location: Leiden, The Netherlands (LIACS, Leiden University)
+  url: https://naco.liacs.nl/foga2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-05
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2025-06-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-10
+    tz: AoE
+sources:
+- https://naco.liacs.nl/foga2025/
+- https://sig.sigevo.org/FOGAs
+- https://portal.core.edu.au/conf-ranks/?search=FOGA&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- FOGA 2027 not announced on the SIGEVO FOGA page as of 2026-10-25
+- CCF 2026 list not checked (ccf.org.cn behind a captcha; not in the ccfddl mirror)

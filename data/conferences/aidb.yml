@@ -1,0 +1,51 @@
+id: aidb
+name: AIDB
+full_name: International Workshop on Applied AI for Database Systems and Applications
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AIDB workshop organizers; co-located with VLDB
+organizer_country: [international]
+proceedings: VLDB Workshop Proceedings (vldb.org)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9]
+links:
+  website: https://sites.google.com/view/aidb2026
+notes:
+- Workshop on applying AI and machine learning to database systems and data applications, held with VLDB, so it moves with VLDB (2025 London, 2026 Boston)
+- 7th edition in 2026; earlier editions 2019 to 2023 and 2025
+- The MIDAS workshop has merged into the AIDB series since 2026
+- Short papers of at least 6 pages or long papers up to 12 pages, extended abstracts up to 4 pages, excluding bibliography; single-blind review on HotCRP
+- Authors of accepted papers can choose to include them in the VLDB workshop proceedings; in-person presentation required
+- 14 papers in the VLDB 2026 workshop proceedings
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 7th edition, with VLDB 2026
+  start: 2026-08-31
+  end: 2026-08-31
+  location: Boston, USA
+  url: https://sites.google.com/view/aidb2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-01
+    tz: AoE
+  - kind: notification
+    date: 2026-07-03
+  - kind: camera_ready
+    date: 2026-07-12
+sources:
+- https://sites.google.com/view/aidb2026
+- https://sites.google.com/view/aidb2026/home/call-for-papers
+- https://sites.google.com/view/aidbvldb2025
+- https://www.vldb.org/2026/workshops.html
+- https://www.vldb.org/2026/Workshops/vldb.html
+- https://portal.core.edu.au/conf-ranks/?search=AIDB&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- AIDB 2027 not announced yet

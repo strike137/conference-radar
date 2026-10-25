@@ -1,0 +1,47 @@
+id: bsides-prishtina
+name: BSides Prishtina
+full_name: Security BSides Prishtina
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: irregular
+organizer: BSides Prishtina volunteer team with FLOSSK (Free Libre Open Source Software Kosova)
+organizer_country: [europe]
+proceedings: None (talks only)
+archival: false
+fee: Free (2026, optional donation ticket)
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://bsidesprishtina.org/
+notes:
+- First BSides security conference in Kosovo, co-organized with the NGO FLOSSK; earlier editions in 2022 and 2023 (site archive)
+- Two days of talks and hands-on workshops at the University of Prishtina; 23 speakers and 4 workshops in 2026, plus a CTF
+- Talks of 25 or 40 minutes plus Q and A and two-hour workshops, proposed through an open CFP on Sessionize
+- Free entry with an optional donation ticket
+- No proceedings
+editions:
+- year: 2026
+  start: 2026-05-22
+  end: 2026-05-23
+  location: University of Prishtina, Prishtina, Kosovo
+  url: https://bsidesprishtina.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-31
+    label: CFP (talks and workshops)
+  - kind: other
+    date: 2026-04-03
+    label: Speaker confirmation
+sources:
+- https://bsidesprishtina.org/
+- https://bsidesprishtina.org/about/
+- https://sessionize.com/bsides-prishtina-2026/
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+unverified:
+- CFP closing time is given as 11:59 AM with conflicting zones (CET in the text, UTC+02:00 in the header); only the date is recorded
+- No 2025 edition found; 2027 edition not yet announced
+last_verified: 2026-10-25

@@ -1,0 +1,56 @@
+id: wpec
+name: WPEC
+full_name: NIST Workshop on Privacy-Enhancing Cryptography
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: online
+language: english
+frequency: irregular
+organizer: NIST (Computer Security Resource Center)
+organizer_country: [usa]
+proceedings: None (slides and videos posted online)
+archival: false
+typical:
+  deadline_months: [7, 9]
+  conference_months: [9, 10]
+links:
+  website: https://csrc.nist.gov/events/2026/wpec2026
+notes:
+- Virtual workshop run by NIST on privacy-enhancing cryptography; 2026 is the 2nd edition after WPEC 2024
+- Call for talk proposals, not papers; no formal proceedings
+- Slides and videos are made public after the workshop
+- Open to the public with registration (ZoomGov); 2024 was free to attend
+editions:
+- year: 2024
+  start: 2024-09-24
+  end: 2024-09-26
+  location: Virtual
+  url: https://csrc.nist.gov/events/2024/wpec2024
+  deadlines:
+  - kind: submission
+    date: 2024-07-22
+  - kind: notification
+    date: 2024-08-27
+- year: 2026
+  start: 2026-10-26
+  end: 2026-10-28
+  location: Virtual
+  url: https://csrc.nist.gov/events/2026/wpec2026
+  deadlines:
+  - kind: other
+    date: 2026-08-26
+    tz: AoE
+    label: Early submission
+  - kind: submission
+    date: 2026-09-14
+    tz: AoE
+  - kind: notification
+    date: 2026-10-05
+sources:
+- https://csrc.nist.gov/events/2026/wpec2026
+- https://csrc.nist.gov/events/2024/wpec2024
+- https://portal.core.edu.au/conf-ranks/?search=WPEC&by=all&source=ICORE2026
+unverified:
+- Notification date announced as approximate (expected by or around 2026-10-05)
+last_verified: 2026-10-25

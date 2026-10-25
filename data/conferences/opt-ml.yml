@@ -1,0 +1,65 @@
+id: opt-ml
+name: OPT
+full_name: International OPT Workshop on Optimization for Machine Learning
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: OPT workshop organizers; co-located with NeurIPS
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers listed on the workshop website)
+archival: false
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://opt-ml.org/
+notes:
+- Long-running NeurIPS workshop on optimization for ML, held every year since 2008 (no 2018 edition listed)
+- Moves with NeurIPS (2026 in Sydney, Australia)
+- Non-archival, the site states the workshop does not publish archival proceedings
+- Double-blind review on OpenReview; soft limit of 5 pages, camera-ready hard limit of 6 pages excluding references
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  label: 17th edition, with NeurIPS 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  location: San Diego, CA, USA
+  url: https://opt-ml.org/oldopt/opt25/
+  deadlines:
+  - kind: submission
+    date: 2025-09-02
+    tz: AoE
+    label: Extended from August 29 (OpenReview outage)
+  - kind: notification
+    date: 2025-09-22
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-25
+- year: 2026
+  label: 18th edition, with NeurIPS 2026
+  start: 2026-12-11
+  end: 2026-12-11
+  location: Sydney, Australia
+  url: https://opt-ml.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-04
+    tz: AoE
+  - kind: notification
+    date: 2026-09-29
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-27
+sources:
+- https://opt-ml.org/
+- https://opt-ml.org/cfp.html
+- https://opt-ml.org/oldopt/opt25/
+- https://neurips.cc/virtual/2026/workshop/137528
+- https://portal.core.edu.au/conf-ranks/?search=OPT&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- The OPT site gives the 2026 workshop date as December 11 or 12; the NeurIPS 2026 schedule lists Friday December 11

@@ -1,0 +1,53 @@
+id: tada
+name: TaDA
+full_name: International Workshop on Tabular Data Analysis
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: TaDA workshop organizers; co-located with VLDB
+organizer_country: [international]
+proceedings: VLDB Workshop Proceedings (vldb.org)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://tabular-data-analysis.github.io/tada2026/
+notes:
+- Half-day workshop on tabular data analysis and understanding, held with VLDB, so it moves with VLDB (2025 London, 2026 Boston)
+- 4th edition in 2026; research track and a systems track that features SemTab Challenge participants
+- Full papers up to 8 pages, short papers up to 4 pages, extended abstracts up to 2 pages, excluding references; non-anonymous submission
+- Inclusion in the VLDB workshop proceedings is optional for authors; in-person presentation required
+- 17 papers in the VLDB 2026 workshop proceedings
+- Separate from the TRL workshop (tables, NeurIPS and ACL)
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 4th edition, with VLDB 2026
+  start: 2026-09-04
+  end: 2026-09-04
+  location: Boston, USA
+  url: https://tabular-data-analysis.github.io/tada2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-20
+    tz: AoE
+  - kind: notification
+    date: 2026-06-17
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-07
+    tz: AoE
+sources:
+- https://tabular-data-analysis.github.io/tada2026/
+- https://tabular-data-analysis.github.io/tada2025/
+- https://www.vldb.org/2026/workshops.html
+- https://www.vldb.org/2026/Workshops/vldb.html
+- https://portal.core.edu.au/conf-ranks/?search=TaDA&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- TaDA 2027 not announced yet
+- The 2026 important dates were still labeled tentative on the official page

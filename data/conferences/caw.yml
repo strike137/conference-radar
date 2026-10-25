@@ -1,0 +1,52 @@
+id: caw
+name: CAW
+full_name: Cryptographic Applications Workshop
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: europe
+language: english
+frequency: annual
+organizer: Organizing committee (2026 Matilda Backendal, Miro Haller, Laura Hetz, Matteo Scarlata, Kien Tuong Truong; ETH Zurich, USI, UC San Diego); affiliated event of Eurocrypt
+organizer_country: [europe]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://caw.cryptanalysis.fun/
+notes:
+- One-day workshop affiliated with Eurocrypt, described as the constructive twin of WAC and inspired by Real World Crypto
+- Editions so far are Zurich 2024, Madrid 2025 and Rome 2026
+- Covers formalizing the security of deployed cryptography, building primitives and systems for practice, and industry deployment
+- Mix of invited and contributed talks; contributed talk proposals answer a call for talks (2025 deadline 7 February AoE)
+- No proceedings; talk recordings are posted on YouTube
+- Some speaker funding and student stipends from ZISC in 2026
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-05-04
+  end: 2025-05-04
+  location: Madrid, Spain (affiliated with Eurocrypt 2025)
+  url: https://caw.cryptanalysis.fun/previous/2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-02-07
+    tz: AoE
+    label: Contributed talk proposal
+- year: 2026
+  start: 2026-05-10
+  end: 2026-05-10
+  location: Rome, Italy (Sapienza University of Rome, affiliated with Eurocrypt 2026)
+  url: https://caw.cryptanalysis.fun/
+sources:
+- https://caw.cryptanalysis.fun/
+- https://caw.cryptanalysis.fun/previous/
+- https://caw.cryptanalysis.fun/previous/2025.html
+- https://caw.cryptanalysis.fun/previous/2024.html
+- https://portal.core.edu.au/conf-ranks/?search=CAW&by=all&source=ICORE2026
+unverified:
+- CAW 2026 call for talks deadline no longer shown on the site
+- CAW 2027 not announced yet
+last_verified: 2026-10-25

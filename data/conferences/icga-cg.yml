@@ -1,0 +1,53 @@
+id: icga-cg
+name: CG
+full_name: International Conference on Computers and Games
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: International Computer Games Association (ICGA)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://icga.org/?page_id=4105
+notes:
+- AI for games (board, card and video games, general game playing, search, machine learning for games)
+- Held in even years; the sister conference Advances in Computer Games (ACG) is held in odd years
+- Originated in Japan and is affiliated with the ICGA
+- CG 2026 in Maastricht was the first on-site edition since 2018
+- Proceedings in Springer LNCS; camera-ready due after the conference so authors can use feedback
+- Not listed in ICORE2026; not checked on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-19
+  end: 2026-06-20
+  location: Maastricht, The Netherlands (Maastricht University)
+  url: https://icga.org/?page_id=4105
+  deadlines:
+  - kind: submission
+    date: 2026-02-27
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-04-03
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://icga.org/?page_id=4105
+- https://icga.org/
+- https://portal.core.edu.au/conf-ranks/?search=CG&by=acronym&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- CG 2028 not announced as of 2026-10-25
+- Locations of the 2016 to 2024 editions not confirmed on an official page

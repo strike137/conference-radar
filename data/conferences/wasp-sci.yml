@@ -1,0 +1,49 @@
+id: wasp-sci
+name: WASP
+full_name: Workshop on Artificial Intelligence for Scientific Publications
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: asia-pacific
+language: english
+frequency: irregular
+organizer: Workshop organizers from the NASA Astrophysics Data System (ADS) and co-organizers (Accomazzi, Ghosal, Grezes, Lockhart in 2025)
+organizer_country: [usa]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://ui.adsabs.harvard.edu/WIESP/2025
+notes:
+- Formerly WIESP (Workshop on Information Extraction from Scientific Publications), held at AACL-IJCNLP 2022 and IJCNLP-AACL 2023; renamed WASP for the third edition
+- Co-located with IJCNLP-AACL; WASP 2025 was held in hybrid mode in Mumbai, India
+- Runs a shared task (TRACS, telescope reference and astronomy categorization, in 2025)
+- Accepts direct submissions and ARR commitments
+- "Proceedings in the ACL Anthology; 2025 had 29 submissions and 16 accepted"
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-12-23
+  end: 2025-12-23
+  location: Mumbai, India (hybrid, co-located with IJCNLP-AACL 2025)
+  url: https://ui.adsabs.harvard.edu/WIESP/2025
+  deadlines:
+  - kind: other
+    date: 2025-10-27
+    label: ARR commitment
+  - kind: notification
+    date: 2025-11-03
+  - kind: camera_ready
+    date: 2025-11-11
+sources:
+- https://aclweb.org/portal/node/14228
+- https://aclanthology.org/events/wasp-2025/
+- https://aclanthology.org/venues/wasp/
+- https://portal.core.edu.au/conf-ranks/?search=WASP&by=all&source=ICORE2026
+unverified:
+- The workshop site ui.adsabs.harvard.edu/WIESP/2025 did not render; the original submission deadline (2025-09-29 AoE on the ACL portal) was reportedly extended, so no submission date is recorded
+- Notification and camera-ready dates are from the original call on the ACL portal and may have moved
+- No 2026 or later edition announced as of 2026-10-25
+last_verified: 2026-10-25

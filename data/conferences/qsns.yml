@@ -1,0 +1,55 @@
+id: qsns
+name: QSNS
+full_name: Workshop on Quantum-Secure Networks and Systems
+type: workshop
+tier: minor
+areas: [crypto, security, networking]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop co-chairs from Politecnico di Torino and LINKS Foundation, supported by the EU Horizon Europe projects QUBIP, PQ-REACT and others
+organizer_country: [europe]
+proceedings: IEEE Xplore (IEEE ISCC Workshop Proceedings)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://qubip.eu/qsns2026/
+notes:
+- Co-located with IEEE ISCC; 2nd edition in Bologna (2025), 3rd in Vilamoura, Portugal (2026)
+- Topic is post-quantum migration of networks and systems
+- Papers up to 6 pages in IEEE format, at least three reviews each; one author must register for ISCC
+- Run by EU-funded post-quantum projects (QUBIP, PQ-REACT, PQ-NEXT and others)
+editions:
+- year: 2025
+  start: 2025-07-02
+  end: 2025-07-02
+  location: Bologna, Italy
+  url: https://qubip.eu/qsns2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-10
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2025-03-27
+  - kind: camera_ready
+    date: 2025-04-28
+- year: 2026
+  start: 2026-06-23
+  end: 2026-06-23
+  location: Vilamoura, Algarve, Portugal
+  url: https://qubip.eu/qsns2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-31
+  - kind: notification
+    date: 2026-04-21
+  - kind: camera_ready
+    date: 2026-04-30
+sources:
+- https://qubip.eu/qsns2026/
+- https://qubip.eu/qsns2025/
+unverified:
+- QSNS 2027 not announced; continuation depends on the supporting EU projects
+last_verified: 2026-10-25

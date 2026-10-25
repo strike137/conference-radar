@@ -1,0 +1,51 @@
+id: jisbd
+name: JISBD
+full_name: Jornadas de Ingenieria del Software y Bases de Datos
+name_local: Jornadas de Ingeniería del Software y Bases de Datos
+type: conference
+tier: domestic
+areas: [software, data]
+region: europe
+language: mixed
+frequency: annual
+organizer: SISTEDES (Sociedad de Ingeniería de Software y de Tecnologías de Desarrollo de Software) with the host university
+organizer_country: [europe]
+proceedings: SISTEDES Digital Library
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://sistedes.lucentia.es/jisbd/
+notes:
+- Spanish and Ibero-American forum for software engineering and databases, held within the joint SISTEDES Jornadas (with JCIS and PROLE)
+- 30th edition in 2026 at the Universidad de Alicante
+- Papers in Spanish, Portuguese or English
+- Tracks include AI for software engineering, software architecture, data engineering and data science, model-driven engineering, digital twins, testing and quality, research methods and quantum software engineering
+- Full papers up to 14 pages, short papers and tool demos 2 to 4 pages, plus R&D project and industry contributions; each track has its own programme committee
+- Already published high-quality work can be presented as a relevant paper (only a short note goes into the proceedings)
+- Proceedings published digitally in the SISTEDES Digital Library
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 30th edition (XXX JISBD)
+  start: 2026-06-16
+  end: 2026-06-18
+  location: Alicante, Spain
+  url: https://sistedes.lucentia.es/jisbd/
+  deadlines:
+  - kind: submission
+    date: 2026-03-06
+    label: Extended from February 27
+  - kind: notification
+    date: 2026-03-27
+  - kind: camera_ready
+    date: 2026-04-13
+sources:
+- https://sistedes.lucentia.es/jisbd/
+- https://sistedes.lucentia.es/
+- https://portal.core.edu.au/conf-ranks/?search=JISBD&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- JISBD 2027 not announced yet
+- The JISBD page lists February 27 and March 6 2026 as submission dates without labels; March 6 is shown in bold and recorded as the extended deadline

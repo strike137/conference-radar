@@ -1,0 +1,77 @@
+id: lori
+name: LORI
+full_name: International Conference on Logic, Rationality and Interaction
+type: conference
+tier: minor
+areas: [ai]
+region: asia-pacific
+language: english
+frequency: biennial
+organizer: LORI Standing Committee (with a local host university)
+organizer_country: [international]
+proceedings: Springer LNCS (FoLLI series on Logic, Language and Information)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [10]
+links:
+  website: http://www.golori.org/
+notes:
+- Logic of rational agency and interaction (epistemic logic, belief revision, social choice, games, multi-agent systems, argumentation)
+- Biennial in odd years since 2007, aimed at building an East-Asian interdisciplinary logic community; mostly held in China (Chongqing 2019, Xi'an 2021, Jinan 2023, Xi'an 2025, Chengdu 2027), with Taipei 2015 and Sapporo 2017
+- Regular papers in Springer proceedings (FoLLI series); selected papers invited to a Synthese special issue or topical collection
+- Regular papers at most 12 pages plus up to 5 pages of appendix in LNCS format, submitted via EasyChair; a separate short paper call in 2025
+- Best student paper award
+- Not listed in ICORE2026; not checked on the CCF list
+editions:
+- year: 2025
+  start: 2025-10-16
+  end: 2025-10-19
+  location: Xi'an, China (Xi'an Jiaotong University)
+  url: https://golori.org/lori2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-10
+    label: Regular papers
+  - kind: submission
+    date: 2025-03-17
+    label: Regular papers
+  - kind: notification
+    date: 2025-05-30
+    label: Regular papers
+  - kind: submission
+    date: 2025-06-09
+    label: Short papers
+  - kind: notification
+    date: 2025-06-23
+    label: Short papers
+  - kind: camera_ready
+    date: 2025-07-07
+- year: 2027
+  start: 2027-10-23
+  end: 2027-10-26
+  location: Chengdu, China (Wangjiang Campus, Sichuan University)
+  url: https://golori.org/lori2027/
+  deadlines:
+  - kind: abstract
+    date: 2027-03-01
+  - kind: submission
+    date: 2027-03-07
+  - kind: notification
+    date: 2027-05-30
+  - kind: camera_ready
+    date: 2027-07-01
+sources:
+- http://www.golori.org/
+- https://golori.org/lori2027/cfp.html
+- https://golori.org/lori2027/conference.html
+- https://golori.org/lori2025/
+- https://golori.org/lori2025/html/g-time.html
+- https://golori.org/lori2025/html/c-publ.html
+- https://golori.org/lori2025/html/c-proc.html
+- https://portal.core.edu.au/conf-ranks/?search=LORI&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- LORI 2027 publication venue listed as "To Be Announced"; the 2027 call requires the Springer LNCS template
+- The golori.org series page gives the LORI-X (2025) volume as LNCS 14329, the same number as LORI-IX, so the 2025 volume number is not recorded
+- CCF 2026 list not checked (ccf.org.cn behind a captcha)

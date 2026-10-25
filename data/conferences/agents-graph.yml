@@ -1,0 +1,54 @@
+id: agents-graph
+name: Agents+Graph
+full_name: International Workshop on Data Management Opportunities in Bringing Agents with Graph Data
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Agents+Graph workshop organizers; co-located with VLDB
+organizer_country: [international]
+proceedings: VLDB Workshop Proceedings (vldb.org)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://seucoin.github.io/workshop/ag2026/
+notes:
+- Half-day workshop on graph data for LLM agents and agents for graph data management, held with VLDB 2026 in Boston
+- 3rd edition in 2026; also written Agents+Graphs on the VLDB site
+- Survey, regular research, vision, demo and extended abstract papers; short up to 6 pages, long up to 12 pages including bibliography; single-blind review on CMT
+- All accepted papers are published in the VLDB workshop proceedings; in-person presentation required
+- 4 papers plus a workshop overview in the VLDB 2026 workshop proceedings
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 3rd edition, with VLDB 2026
+  start: 2026-09-04
+  end: 2026-09-04
+  location: Boston, USA
+  url: https://seucoin.github.io/workshop/ag2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-30
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-07-01
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-11
+    time: "23:59"
+    tz: AoE
+sources:
+- https://seucoin.github.io/workshop/ag2026/
+- https://www.vldb.org/2026/workshops.html
+- https://www.vldb.org/2026/Workshops/vldb.html
+- https://portal.core.edu.au/conf-ranks/?search=Agents&by=all&source=ICORE2026
+last_verified: 2026-10-25
+unverified:
+- Agents+Graph 2027 not announced yet
+- Host conferences of the first two editions not stated on the 2026 site

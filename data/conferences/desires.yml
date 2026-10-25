@@ -1,0 +1,58 @@
+id: desires
+name: DESIRES
+full_name: Design of Experimental Search & Information REtrieval Systems
+type: conference
+tier: minor
+areas: [data, nlp]
+region: europe
+language: english
+frequency: irregular
+organizer: DESIRES steering committee (Omar Alonso, Gianmaria Silvello)
+organizer_country: [international]
+proceedings: Abstracts on the conference website; optional extended papers in an open-access special issue of the Information Retrieval Research Journal (IRRJ)
+archival: false
+links:
+  website: https://desires-conf.org/
+notes:
+- Systems-oriented information retrieval conference; editions 2018 Bertinoro, 2021 Padua, 2022 San Jose, 2024 Bressanone, 2027 Cologne
+- 5th edition in 2027 at GESIS in Cologne, Germany
+- From 2027 contributions are 2 to 5 page abstracts, published on the website with author consent
+- Authors may extend accepted abstracts into full papers for an IRRJ special issue after a light second review
+- 2024 papers were published in CEUR-WS (indexed by DBLP and Scopus)
+- The 2024 site called it biennial, but the gaps between editions vary
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2024
+  start: 2024-09-02
+  end: 2024-09-04
+  location: Bressanone-Brixen, Italy
+  url: https://desires.dei.unipd.it/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-06-10
+    tz: AoE
+    label: Extended from June 1
+  - kind: notification
+    date: 2024-07-16
+- year: 2027
+  label: 5th edition
+  start: 2027-03-17
+  end: 2027-03-19
+  location: Cologne, Germany (GESIS)
+  url: https://desires-conf.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-17
+    tz: AoE
+  - kind: notification
+    date: 2027-01-18
+  - kind: other
+    date: 2027-05-31
+    tz: AoE
+    label: Optional full paper submission to IRRJ
+sources:
+- https://desires-conf.org/
+- https://desires-conf.org/2027/
+- https://desires.dei.unipd.it/2024/
+- https://portal.core.edu.au/conf-ranks/?search=DESIRES&by=all&source=ICORE2026
+last_verified: 2026-10-25

@@ -1,0 +1,73 @@
+id: wine
+name: WINE
+full_name: Conference on Web and Internet Economics
+type: conference
+tier: major
+areas: [ai, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: WINE steering committee
+organizer_country: [international]
+proceedings: Springer LNCS (ARCoSS)
+archival: true
+rank:
+  ccf: B
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://wine2026conf.github.io/
+  dblp: https://dblp.org/db/conf/wine/index.html
+notes:
+- Economics and computation venue (algorithmic game theory, mechanism design, markets, online platforms)
+- Proceedings in Springer LNCS (ARCoSS subline); 18 pages in LNCS format, or a one-page abstract linking to the full version
+- CCF B (interdisciplinary); no entry in CORE ICORE2026
+- Rotates between North America, Europe and Asia; New Brunswick NJ (2025), Hong Kong (2026)
+- Rebuttal phase; Forward-to-Journal option for selected papers
+- 67 accepted papers listed for 2025
+editions:
+- year: 2025
+  label: 21st WINE
+  start: 2025-12-08
+  end: 2025-12-11
+  location: New Brunswick, NJ, USA
+  url: https://wine2025.cs.rutgers.edu/
+  deadlines:
+  - kind: submission
+    date: 2025-07-03
+    tz: AoE
+  - kind: other
+    date: 2025-08-24
+    tz: AoE
+    label: Rebuttal
+  - kind: notification
+    date: 2025-09-15
+- year: 2026
+  label: 22nd WINE
+  start: 2026-12-01
+  end: 2026-12-04
+  location: Hong Kong, China
+  url: https://wine2026conf.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-02
+    tz: AoE
+  - kind: other
+    date: 2026-08-20
+    label: Rebuttal period (from 2026-08-17)
+  - kind: notification
+    date: 2026-09-10
+  - kind: camera_ready
+    date: 2026-09-30
+  - kind: other
+    date: 2026-11-06
+    time: "23:59"
+    tz: UTC+8
+    label: Early registration
+sources:
+- https://wine2026conf.github.io/
+- https://wine2025.cs.rutgers.edu/
+- https://portal.core.edu.au/conf-ranks/?search=WINE&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-10-25

@@ -1,0 +1,69 @@
+id: wslp
+name: WSLP
+full_name: Workshop on Sign Language Processing
+type: workshop
+tier: minor
+areas: [nlp, vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Exploration Lab, IIT Kanpur, with ADAPT Centre (MTU, Ireland), University of West Bohemia and UNLP (Argentina); co-located with an ACL conference
+organizer_country: [india, europe, other]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [8, 10]
+  conference_months: [10, 12]
+links:
+  website: https://exploration-lab.github.io/WSLP-2026/
+notes:
+- Workshop on sign language translation, recognition and resources, with a shared task each year
+- 1st edition with IJCNLP-AACL 2025 at IIT Bombay, 2nd edition with EMNLP 2026 in Budapest (hybrid)
+- Archival track with proceedings in the ACL Anthology; dual submission with EMNLP or ARR not allowed
+- Different from SignLang, the biennial sign language workshop at LREC
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  label: 1st edition, with IJCNLP-AACL 2025
+  start: 2025-12-24
+  end: 2025-12-24
+  location: Mumbai, India
+  url: https://exploration-lab.github.io/WSLP/
+  deadlines:
+  - kind: submission
+    date: 2025-10-28
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-11-22
+    label: Extended from November 3
+  - kind: camera_ready
+    date: 2025-11-26
+    label: Extended from November 11
+- year: 2026
+  label: 2nd edition, with EMNLP 2026
+  start: 2026-10-29
+  end: 2026-10-29
+  location: Budapest, Hungary
+  url: https://exploration-lab.github.io/WSLP-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-24
+    time: "23:59"
+    tz: AoE
+    label: Extended from August 20
+  - kind: notification
+    date: 2026-09-10
+    label: Extended from September 4
+  - kind: camera_ready
+    date: 2026-09-15
+    label: Extended from September 10
+sources:
+- https://exploration-lab.github.io/WSLP-2026/
+- https://exploration-lab.github.io/WSLP/
+- https://2026.emnlp.org/program/workshops/
+- https://aclanthology.org/events/wslp-2025/
+- https://portal.core.edu.au/conf-ranks/?search=WSLP&by=all&source=ICORE2026
+unverified:
+- Region and frequency are based on two editions only
+last_verified: 2026-10-25

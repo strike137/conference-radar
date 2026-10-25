@@ -1,0 +1,60 @@
+id: consilr
+name: ConsILR
+full_name: International Conference on Linguistic Resources and Tools for Natural Language Processing
+type: conference
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: annual
+organizer: Dunarea de Jos University of Galati, Alexandru Ioan Cuza University of Iasi, Romanian Academy research institutes and the Romanian Association of Computational Linguistics (host varies by edition)
+organizer_country: [europe]
+proceedings: Alexandru Ioan Cuza University Publishing House, Iasi (one volume, a DOI per paper)
+archival: true
+fee: "400 RON / 80 EUR (2026, includes volume, coffee breaks and dinner)"
+typical:
+  deadline_months: [9]
+  conference_months: [10, 11, 12]
+links:
+  website: https://consilr.cti.ugal.ro/
+notes:
+- Romanian NLP conference series started in 2001 by Iasi, Bucharest and Chisinau groups, focused on Romanian language resources and tools but open to any language
+- 2026 is the 21st edition (Galati and online); recent hosts Brasov 2023, Alba Iulia 2024, Bucharest 2025
+- Abstract (max 300 words) first, then full paper via EasyChair; papers in English (British spelling)
+- Proceedings volume from the Alexandru Ioan Cuza University Publishing House; the 2014, 2015, 2016, 2018 and 2020 volumes were indexed by Clarivate
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  label: 20th edition
+  start: 2025-10-08
+  end: 2025-10-10
+  location: Bucharest, Romania (and online)
+  url: https://conferences.info.uaic.ro/consilr/2025
+- year: 2026
+  label: 21st edition
+  start: 2026-11-11
+  end: 2026-11-13
+  location: Galati, Romania (and online)
+  url: https://consilr.cti.ugal.ro/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-18
+  - kind: submission
+    date: 2026-09-30
+  - kind: notification
+    date: 2026-10-16
+  - kind: other
+    date: 2026-10-21
+    label: Early registration
+  - kind: camera_ready
+    date: 2026-10-23
+sources:
+- https://consilr.cti.ugal.ro/
+- https://consilr.cti.ugal.ro/call-for-papers.html
+- https://consilr.cti.ugal.ro/registration-and-paper-submission.html
+- https://consilr.cti.ugal.ro/previous-editions.html
+- https://portal.core.edu.au/conf-ranks/?search=ConsILR&by=all&source=ICORE2026
+unverified:
+- Deadline times and time zone are not stated on the 2026 site
+- Whether the 2026 proceedings will be indexed by Clarivate (the site says they will be submitted for indexing)
+last_verified: 2026-10-25
