@@ -47,18 +47,10 @@ Field-by-field guidance is in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Weekly refresh
 
-Every Sunday the "Weekly update" workflow runs `scripts/weekly.py`:
-
-1. It compares the data with public deadline feeds ([ccfddl](https://github.com/ccfddl/ccf-deadlines) and
-   [sec-deadlines](https://sec-deadlines.github.io/)) and adds a new edition only when its dates appear on the
-   official conference page.
-2. An [OpenCode](https://github.com/anomalyco/opencode) agent with a free DeepSeek model works through the queue
-   from `python3 scripts/stale.py` a few venues at a time, then looks for missing venues.
-3. After every agent run, a changed file is kept only if it validates, every new date appears on a page the file
-   cites (`python3 scripts/sourcecheck.py`) and its CORE rank matches ICORE2026. Everything else is put back.
-
-The result is pushed to `main` and the site redeploys. Reports from the site ("Report outdated info" issues and
-form submissions) are still handled by hand, following [MAINTAINING.md](MAINTAINING.md).
+Every Sunday a scheduled Claude agent follows [MAINTAINING.md](MAINTAINING.md): it checks venues
+whose next call for papers is due (`python3 scripts/stale.py`), re-checks deadlines in the next 30 days,
+handles "Report outdated info" issues and form submissions, adds a few missing venues, validates everything
+and publishes the update directly.
 
 ## How it works
 
@@ -70,12 +62,8 @@ site/                      static page: index.html, app.js, style.css (no framew
 scripts/build.py           validates every YAML file and writes _site/ with conferences.json
 scripts/issue_to_yaml.py   turns an "Add a conference" issue into a YAML file
 scripts/stale.py           lists venues that need an update (used by the weekly refresh)
-scripts/feeds.py           compares the data with public deadline feeds
-scripts/sourcecheck.py     checks that new dates appear on the pages a file cites
-scripts/weekly.py          the weekly refresh: feeds, then the agent in small batches, every change checked
 .github/workflows/         check.yml (validate PRs), deploy.yml (publish to Pages), issue-to-pr.yml,
-                           auto-merge.yml (merges update/* pull requests that validate),
-                           weekly-update.yml (the Sunday refresh)
+                           auto-merge.yml (merges update/* pull requests that validate)
 ```
 
 Pushing to `main` runs `deploy.yml`, which builds `_site/` and publishes it with GitHub Pages. Pull requests
