@@ -58,17 +58,24 @@ editions:
     time: "23:59"
     tz: AoE
     label: First call
+  - kind: notification
+    date: 2026-12-18
+    label: First call
   - kind: submission
     date: 2027-01-22
     time: "23:59"
     tz: AoE
     label: Second call
+  - kind: notification
+    date: 2027-03-19
+    label: Second call
+  - kind: camera_ready
+    date: 2027-04-23
 sources:
 - https://sigsim.acm.org/conf/pads/
 - https://sigsim.acm.org/conf/pads/2026/
 - https://sigsim.acm.org/conf/pads/2026/blog/cfp/
 - https://sigsim.acm.org/conf/pads/2027/
+- https://sigsim.acm.org/conf/pads/2027/blog/cfp/
 - https://portal.core.edu.au/conf-ranks/?search=PADS&by=all&source=ICORE2026
-last_verified: 2026-10-17
-unverified:
-- PADS 2027 notification and camera-ready dates not yet published
+last_verified: 2026-10-25

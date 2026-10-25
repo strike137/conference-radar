@@ -9,7 +9,7 @@ language: english
 frequency: annual
 organizer: ISKE Steering Committee (chair at Ghent University, core members at Southwest Jiaotong University) with a local host (2025 Shunde Polytechnic University)
 organizer_country: [china]
-proceedings: IEEE Xplore
+proceedings: Springer LNCS (2026, joint with FLINS); IEEE Xplore (2025 and earlier)
 archival: true
 indexing: [EI, Scopus]
 rank:
@@ -19,9 +19,10 @@ typical:
   deadline_months: [8]
   conference_months: [11]
 links:
-  website: https://iske2025.com/
+  website: https://2026.flins.cc/
 notes:
 - Series since 2006; ISKE 2025 was the 20th edition
+- 2026 (21st ISKE) was held jointly with the 17th FLINS conference as FLINS-ISKE 2026 at UTS, Sydney, 15 to 19 July 2026; its proceedings are in Springer LNCS (EI and Scopus), submissions via OpenReview
 - Steering committee chaired by Etienne Kerre (Ghent University) with members from China, Europe, Australia, Turkey and Brazil; each edition has a local host university
 - Proceedings published by IEEE in IEEE Xplore and submitted to EI Compendex and Scopus; award papers nominated to Knowledge-Based Systems and IJCIS
 - Papers up to 8 pages, single-blind review, submission via EasyChair; extra pages 60 USD each (2025)
@@ -45,7 +46,23 @@ editions:
   - kind: camera_ready
     date: 2025-10-30
     label: Camera-ready and author registration
+- year: 2026
+  label: FLINS-ISKE 2026 (17th FLINS and 21st ISKE)
+  start: 2026-07-15
+  end: 2026-07-19
+  location: Sydney, Australia (UTS City Campus)
+  url: https://2026.flins.cc/
+  deadlines:
+  - kind: submission
+    date: 2026-03-30
+    label: Full papers (extended)
+  - kind: other
+    date: 2026-05-01
+    label: Author registration
 sources:
+- https://2026.flins.cc/
+- https://www.uts.edu.au/news/2026/07/uts-aaii-hosts-historic-flins-iske-2026-conference
+- https://link.springer.com/conference/iske
 - https://iske2025.com/
 - https://iske2025.com/cfp.html
 - https://iske2025.com/com.html
@@ -56,9 +73,10 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=ISKE&by=all&source=ICORE2026&sort=atitle&page=1
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
 unverified:
-- ISKE 2026 not found (no official site located as of 2026-10-17)
+- ISKE 2027 not announced as of 2026-10-25
+- Notification and camera-ready dates of FLINS-ISKE 2026 (not listed on the official site)
 - The 2025 important dates list 2025-08-30 for full papers while a news item of 2025-07-01 says the deadline was extended to 2025-07-30; the later listed date is recorded
 - Region judged from the hosts known from IEEE proceedings metadata (2019 Dalian, 2021 Chengdu, 2023 Fuzhou, 2025 Shunde); locations of the 2020, 2022 and 2024 editions not confirmed on an official page
 - CCF 2026 listing checked via a mirror of the CCF list, not on ccf.org.cn directly (captcha)
 - Acceptance rate
-last_verified: 2026-10-17
+last_verified: 2026-10-25

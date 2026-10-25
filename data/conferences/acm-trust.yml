@@ -30,9 +30,15 @@ editions:
   url: https://eigtrust.acm.org/trust2027/
   deadlines:
   - kind: abstract
-    date: 2026-10-24
+    date: 2026-11-08
+    time: "23:59"
+    tz: PST
+    label: Abstract registration (extended)
   - kind: submission
-    date: 2026-10-31
+    date: 2026-11-15
+    time: "23:59"
+    tz: PST
+    label: Paper submission (extended)
   - kind: notification
     date: 2026-12-31
   - kind: camera_ready
@@ -46,8 +52,8 @@ sources:
 - https://eigtrust.acm.org/
 - https://portal.core.edu.au/conf-ranks/?search=TRUST&by=all&source=ICORE2026
 - https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
-last_verified: 2026-10-17
+last_verified: 2026-10-25
 unverified:
 - Region and frequency are based on the first edition only
-- Deadline time zone not stated
+- Page gives deadlines as 11:59 PM Pacific Time; PST assumed because both extended dates fall after the 2026-11-01 DST change
 - CCF absence checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)

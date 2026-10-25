@@ -15,7 +15,7 @@ typical:
   deadline_months: [12]
   conference_months: [3, 5]
 links:
-  website: https://fc26.ifca.ai/defi/
+  website: https://fc27.ifca.ai/defi/
 notes:
 - Co-located workshop of Financial Cryptography and Data Security (FC); not the same venue as the ACM CCS DeFi workshop
 - Interdisciplinary scope covering protocol design, MEV, AMMs, stablecoins, oracles, governance, financial economics and law
@@ -23,7 +23,8 @@ notes:
 - Papers appear in the FC workshops post-proceedings in Springer LNCS (2024 -> LNCS 14746, shared with Voting, WTSC and CoDecFin)
 - "DeFi 2026: 42 submissions, 12 accepted papers"
 - "DeFi 2024: 32 submissions, 4 papers in the LNCS post-proceedings"
-- Held at the FC venue (Curacao 2024, St. Kitts 2026); there was no DeFi workshop at FC 2025
+- Held at the FC venue (Curacao 2024, St. Kitts 2026, Barbados 2027); there was no DeFi workshop at FC 2025
+- DeFi 2027 (6th edition) uses double-blind review; papers can be accepted as a talk or as a poster, and all accepted papers go into the workshop proceedings
 editions:
 - year: 2024
   start: 2024-03-08
@@ -41,7 +42,32 @@ editions:
   end: 2026-03-06
   location: St. Kitts, Saint Kitts and Nevis
   url: https://fc26.ifca.ai/defi/
+- year: 2027
+  start: 2027-02-12
+  end: 2027-02-12
+  location: Accra Beach Hotel & Spa, Barbados
+  url: https://fc27.ifca.ai/defi/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-16
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-11-23
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-12-18
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-15
+    time: "23:59"
+    tz: AoE
 sources:
+- https://fc27.ifca.ai/defi/
+- https://fc27.ifca.ai/workshops.html
+- https://fc27.ifca.ai/
 - https://fc26.ifca.ai/defi/
 - https://fc26.ifca.ai/defi/program.html
 - https://fc26.ifca.ai/workshops.html
@@ -50,10 +76,10 @@ sources:
 - https://fc23.ifca.ai/defi/
 - https://link.springer.com/book/10.1007/978-3-031-69231-4
 - https://portal.core.edu.au/conf-ranks/?search=DeFi&by=all&source=ICORE2026
-last_verified: 2026-10-17
+last_verified: 2026-10-25
 unverified:
 - DeFi 2026 deadlines are no longer shown on the workshop page
 - The 2024 page gives the notification date as January 15, 2023 (year typo), so it is left out
 - DeFi 2026 proceedings were announced as TBD; post-proceedings volume not yet found
-- DeFi 2027 not yet announced
+- DeFi 2027 submission system (EasyChair) and program committee not yet announced as of 2026-10-25
 - Not listed in CORE ICORE2026 and not found in the CCF 2026 list

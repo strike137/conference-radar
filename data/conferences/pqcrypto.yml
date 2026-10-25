@@ -55,7 +55,7 @@ editions:
   start: 2027-05-12
   end: 2027-05-14
   location: Waterloo, Canada
-  url: https://easychair.org/cfp/pqcrypto2027
+  url: https://pqcrypto2027.ca/
   deadlines:
   - kind: abstract
     date: 2026-11-17
@@ -66,8 +66,17 @@ editions:
     tz: AoE
     label: Final submission
   - kind: notification
+    date: 2027-01-18
+    tz: AoE
+    label: First round notification
+  - kind: other
+    date: 2027-01-25
+    tz: AoE
+    label: Rebuttal deadline
+  - kind: notification
     date: 2027-02-03
     tz: AoE
+    label: Final notification
   - kind: camera_ready
     date: 2027-02-24
     tz: AoE
@@ -80,10 +89,12 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=PQCrypto&by=all&source=ICORE2026&sort=atitle&page=1
 - https://link.springer.com/book/10.1007/978-3-032-22695-2
 - https://easychair.org/cfp/pqcrypto2027
+- https://pqcrypto2027.ca/
+- https://pqcrypto2027.ca/callforpapers.php
+- https://pqcrypto2027.ca/papersubmission.php
 unverified:
-- PQCrypto 2027 dates come from the organizers' EasyChair call; no dedicated conference website found yet and
-  pqcrypto.org does not list 2027
+- PQCrypto 2027 website gives no time zone; AoE comes from the organizers' EasyChair call
 - Deadline months for editions before 2026 not re-checked (PQCrypto 2025 site offline)
 - Springer titles the proceedings 'International Workshop on Post-Quantum Cryptography'; the series name used on
   the official sites varies
-last_verified: 2026-10-11
+last_verified: 2026-10-25

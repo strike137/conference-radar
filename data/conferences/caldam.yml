@@ -15,7 +15,7 @@ typical:
   deadline_months: [9]
   conference_months: [2]
 links:
-  website: https://caldam2026.iitdh.ac.in/
+  website: https://caldam2027.lnmiit.ac.in/
 notes:
 - Annual conference held every year since 2015 at a rotating host in India (IIT Kanpur 2015, IIT Bhilai 2024, PSG
   College of Technology 2025, IIT Dharwad 2026), under the aegis of ACSDM
@@ -25,6 +25,7 @@ notes:
 - Selected papers invited to a special issue of Discrete Applied Mathematics (Elsevier); the 2026 home page also
   mentions a Theoretical Computer Science special issue as in 2025
 - Pre-conference school held before the main conference
+- 2027 edition (13th) organized by the CSE and Mathematics departments of LNMIIT Jaipur; selected papers likely in special issues of Theoretical Computer Science (Elsevier) and Acta Informatica (Springer)
 - Not found in ICORE2026
 editions:
 - year: 2026
@@ -44,12 +45,34 @@ editions:
   - kind: camera_ready
     date: 2025-11-28
     tz: AoE
+- year: 2027
+  label: 13th CALDAM, LNMIIT Jaipur
+  start: 2027-02-11
+  end: 2027-02-13
+  location: Jaipur, India
+  url: https://caldam2027.lnmiit.ac.in/
+  deadlines:
+  - kind: submission
+    date: 2026-09-28
+    tz: AoE
+    label: Extended from 2026-09-15
+  - kind: other
+    date: 2026-09-30
+    tz: AoE
+    label: Revision of submission (extended from 2026-09-23)
+  - kind: notification
+    date: 2026-11-13
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-27
+    tz: AoE
 sources:
 - https://caldam2026.iitdh.ac.in/
 - https://caldam2026.iitdh.ac.in/call-for-papers
+- https://caldam2027.lnmiit.ac.in/
+- https://caldam2027.lnmiit.ac.in/call-for-papers
 - https://portal.core.edu.au/conf-ranks/?search=CALDAM&by=all&source=ICORE2026
-last_verified: 2026-10-17
+last_verified: 2026-10-25
 unverified:
-- CALDAM 2027 not announced on any page found (acsdm.in did not resolve)
 - Not found in the CCF 2026 list via the ccfddl mirror (ccf.org.cn blocked by a captcha)
 - Acceptance rates and fees not checked

@@ -54,6 +54,27 @@ editions:
   - kind: camera_ready
     date: 2025-12-15
     tz: AoE
+- year: 2027
+  label: SCA2027 (papers in the SCA/HPCAsia 2027 proceedings)
+  start: 2027-03-01
+  end: 2027-03-04
+  location: Singapore
+  url: https://sc-asia.org/sca2027-call-for-papers/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-26
+    tz: AoE
+    label: Extended from 2026-09-30
+  - kind: submission
+    date: 2026-10-28
+    tz: AoE
+    label: Extended from 2026-10-07
+  - kind: notification
+    date: 2026-11-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-12-15
+    tz: AoE
 sources:
 - https://www.sc-asia.org/2026/
 - https://www.sc-asia.org/2026/submit/papers.html
@@ -70,8 +91,8 @@ sources:
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
 unverified:
 - Whether SCA2027 (Singapore) is formally the 2027 HPC Asia edition (only the CFP proceedings line says SCA/HPCAsia 2027;
-  rechecked 2026-10-17, the sc-asia.org home page names only SCA2027)
+  rechecked 2026-10-25, the sc-asia.org home page names only SCA2027); the 2027 edition is listed here on that basis
 - Indexing (Scopus and DBLP not checked live; DBLP blocks automated access)
 - Acceptance rate
 - Deadlines and exact dates of the 2025 (Hsinchu) and 2024 (Nagoya) editions
-last_verified: 2026-10-17
+last_verified: 2026-10-25

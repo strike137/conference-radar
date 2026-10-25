@@ -25,6 +25,7 @@ notes:
 - "2026 rules: up to 8 pages for long papers and 4 pages for short papers in IEEE format; double-blind review via EasyChair"
 - Co-located special sessions (for example quantum computing, HPC at the edge, digital twins) with their own calls
 - In 2026 the main track submission and notification dates were extended by two weeks
+- For 2027 the abstract and paper deadlines were extended to 2026-11-09 (AoE) and notification moved to 2026-12-20
 - "Fees 2026: 600 EUR regular early, 350 EUR student early"
 - "CORE C (ICORE2026); not in the CCF 2026 list"
 editions:
@@ -50,13 +51,15 @@ editions:
   url: https://pdp2027.org/
   deadlines:
   - kind: abstract
-    date: 2026-10-19
+    date: 2026-11-09
     tz: AoE
+    label: Extended from 2026-10-19
   - kind: submission
-    date: 2026-10-26
+    date: 2026-11-09
     tz: AoE
+    label: Extended from 2026-10-26
   - kind: notification
-    date: 2026-12-07
+    date: 2026-12-20
     tz: AoE
   - kind: camera_ready
     date: 2027-01-25
@@ -77,4 +80,4 @@ unverified:
 - PDP 2027 fees not yet announced
 - Scopus indexing of the 2026 proceedings only stated as submitted
 - CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
-last_verified: 2026-10-17
+last_verified: 2026-10-25

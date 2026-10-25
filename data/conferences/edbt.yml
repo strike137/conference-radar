@@ -126,11 +126,27 @@ editions:
     date: 2027-01-04
     label: Round 3 revised paper submission
   - kind: notification
+    date: 2027-01-20
+    label: Demos
+  - kind: notification
     date: 2027-01-27
     label: Round 3 final decision
+  - kind: notification
+    date: 2027-01-29
+    tz: AoE
+    label: Industrial and application papers
+  - kind: camera_ready
+    date: 2027-02-01
+    time: '17:00'
+    tz: PST
+    label: Demos
   - kind: camera_ready
     date: 2027-02-10
     label: Round 3
+  - kind: camera_ready
+    date: 2027-02-12
+    tz: AoE
+    label: Industrial and application papers
 sources:
 - https://edbticdt2027.github.io/
 - https://edbticdt2027.github.io/?contents=important_dates.html
@@ -138,6 +154,9 @@ sources:
 - https://edbticdt2027.github.io/?contents=call_for_demos.html
 - https://edbticdt2027.github.io/?contents=call_for_IAP.html
 - https://edbticdt2027.github.io/?contents=call_for_WP.html
+- https://edbticdt2027.github.io/contents/important_dates.html
+- https://edbticdt2027.github.io/contents/call_for_demos.html
+- https://edbticdt2027.github.io/contents/call_for_IAP.html
 - https://edbticdt2026.github.io/
 - https://edbticdt2026.github.io/?contents=important_dates.html
 - https://edbticdt2026.github.io/?contents=registration.html
@@ -151,4 +170,4 @@ unverified:
   and October
 - EDBT 2026 round 3 revised paper deadline (listed as January 5, 2025 on the official page, an apparent typo)
 - EDBT 2027 registration fees and acceptance rate (not announced)
-last_verified: 2026-10-04
+last_verified: 2026-10-25

@@ -28,6 +28,7 @@ notes:
 - Two submission cycles (December and June, AoE) with one-shot major revision; double-anonymous review; long (16
   pages) and short papers
 - CoNEXT 2025 was at HKUST, Hong Kong; 2026 Utrecht; 2027 planned for Rio de Janeiro
+- 2027 call asks authors to upload their bibliography source (.bbl) so references can be checked for fabricated entries
 editions:
 - year: 2025
   start: 2025-12-01
@@ -91,7 +92,33 @@ editions:
   location: Rio de Janeiro, Brazil
   url: https://conferences.sigcomm.org/co-next/2027/
   status: tentative
-  deadlines: []
+  deadlines:
+  - kind: abstract
+    date: 2026-11-27
+    time: "23:59"
+    tz: AoE
+    label: December cycle (paper registration)
+  - kind: submission
+    date: 2026-12-04
+    time: "23:59"
+    tz: AoE
+    label: December cycle
+  - kind: notification
+    date: 2027-03-31
+    label: December cycle
+  - kind: abstract
+    date: 2027-05-28
+    time: "23:59"
+    tz: AoE
+    label: June cycle (paper registration)
+  - kind: submission
+    date: 2027-06-04
+    time: "23:59"
+    tz: AoE
+    label: June cycle
+  - kind: notification
+    date: 2027-09-10
+    label: June cycle
 sources:
 - https://conferences.sigcomm.org/co-next/2026/partials/cfp.html
 - https://conferences.sigcomm.org/co-next/2026/partials/home.html
@@ -104,5 +131,4 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=CoNEXT&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
 - CoNEXT 2027 dates are marked 'to be confirmed'
-- CoNEXT 2027 December cycle deadline (CFP says 'more information soon')
-last_verified: 2026-09-28
+last_verified: 2026-10-25

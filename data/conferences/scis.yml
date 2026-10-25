@@ -14,13 +14,13 @@ proceedings: None (non-archival; proceedings distributed to participants only)
 archival: false
 rank:
   core: Unranked
-fee: 20,000 JPY student, 36,000 JPY general (2026, early registration and payment by 2026-01-05; banquet extra,
-  8,000 / 12,000 JPY); 33,000 / 53,000 JPY late
+fee: 20,000 JPY student, 33,000 JPY general (2027, early registration and payment by 2027-01-05); 30,000 / 53,000
+  JPY late (from 2027-01-06); banquet 2,000 JPY student, 10,000 JPY general
 typical:
   deadline_months: [12]
   conference_months: [1]
 links:
-  website: https://www.iwsec.org/scis/2026/
+  website: https://www.iwsec.org/scis/2027/
 notes:
 - Organized by IEICE ISEC; held every year since 1984 in various cities across Japan (Nagasaki 2024, Kitakyushu
   2025, Hakodate 2026)
@@ -28,6 +28,8 @@ notes:
   to 8 pages, English or Japanese style files, most talks in Japanese
 - Late January, normally 4 days (Jan 23 to 26 in 2024, Jan 28 to 31 in 2025); SCIS 2026 was extended to 5 days (Jan
   26 to 30); presentation application early December, manuscript mid-December
+- SCIS 2027 is held at the International Conference Center Hiroshima, Jan 26 to 29, 2027 (4 days); papers are
+  submitted under IEICE copyright rules
 - On-site only; poster session and night session; SCIS Paper Award for young presenters (mainly within 10 years
   of undergraduate graduation) and Innovation Paper Award
 editions:
@@ -55,7 +57,34 @@ editions:
   - kind: other
     date: 2026-01-05
     label: Early registration and payment
+- year: 2027
+  start: 2027-01-26
+  end: 2027-01-29
+  location: International Conference Center Hiroshima, Hiroshima, Japan
+  url: https://www.iwsec.org/scis/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-30
+    tz: JST
+    label: Presentation application (after registration; opens 2026-11-11)
+  - kind: abstract
+    date: 2026-12-15
+    time: '23:59'
+    tz: JST
+    label: Web abstract
+  - kind: submission
+    date: 2026-12-15
+    time: '23:59'
+    tz: JST
+    label: Paper manuscript, no review
+  - kind: other
+    date: 2027-01-05
+    label: Early registration and payment
 sources:
+- https://www.iwsec.org/scis/2027/outline.html
+- https://www.iwsec.org/scis/2027/cfp.html
+- https://www.iwsec.org/scis/2027/registration.html
+- https://www.iwsec.org/scis/2027/information.html
 - https://www.iwsec.org/scis/2026/outline.html
 - https://www.iwsec.org/scis/2026/cfp.html
 - https://www.iwsec.org/scis/2026/registration.html
@@ -65,7 +94,4 @@ sources:
 - https://www.iwsec.org/scis/2024/
 - https://www.ieice.org/~isec/main.html
 - https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7%E3%81%A8%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0
-unverified:
-- SCIS 2027 dates, location and deadlines (the 2027 site was still under construction on 2026-10-17 and the IEICE
-  ISEC page does not list it yet)
-last_verified: 2026-10-17
+last_verified: 2026-10-25

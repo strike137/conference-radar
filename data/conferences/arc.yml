@@ -48,22 +48,25 @@ editions:
   url: https://amor.cms.hu-berlin.de/~hubnermi/index.html
   deadlines:
   - kind: submission
-    date: 2026-10-25
+    date: 2026-11-09
+    label: Extended from October 25
   - kind: notification
-    date: 2026-12-07
+    date: 2026-12-21
   - kind: camera_ready
-    date: 2027-01-08
+    date: 2027-01-18
+    label: Camera-ready and author registration
 sources:
 - https://www.arc2026.org/
 - https://link.springer.com/book/10.1007/978-3-032-29365-7
 - https://link.springer.com/conference/arc
 - https://amor.cms.hu-berlin.de/~hubnermi/index.html
 - https://amor.cms.hu-berlin.de/~hubnermi/assets/ARC2027_Preliminary_CFP.pdf
+- https://amor.cms.hu-berlin.de/~hubnermi/assets/ARC2027_CFP.pdf
 - https://portal.core.edu.au/conf-ranks/?search=ARC&by=all&source=ICORE2026
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
 unverified:
-- ARC 2027 dates come from a preliminary CFP on the host group page at Humboldt-Universitaet zu Berlin; www.arc2027.org did not respond
+- ARC 2027 dates come from the host group page at Humboldt-Universitaet zu Berlin; www.arc2027.org returned HTTP 503 on 2026-10-25
 - Deadline times and time zone not stated on the ARC 2026 site or the ARC 2027 CFP
 - LNCS volume number of the ARC 2026 proceedings not confirmed
 - CCF rank checked only via the CCFrank4dblp mirror (updated 2026-04-06), not on ccf.org.cn directly
-last_verified: 2026-10-17
+last_verified: 2026-10-25

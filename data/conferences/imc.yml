@@ -26,6 +26,7 @@ notes:
 - Sponsored by ACM SIGCOMM; the main venue for Internet measurement, including security and privacy measurement
   studies
 - Two deadlines per year since IMC 2025 (November and April/May, AoE) with a one-shot revision across cycles
+- IMC 2027 adds a short rebuttal phase (Cycle 1 rebuttal period Jan 26 to Feb 2, 2027)
 - Full papers up to 13 pages and short papers up to 6 pages (plus references and appendix); replicability track
 - 'Alternates between North America and elsewhere: Madison 2025, Karlsruhe 2026, Atlanta 2027; travel grants and
   a student workshop'
@@ -91,7 +92,6 @@ editions:
   end: 2027-10-29
   location: Atlanta, Georgia, USA
   url: https://conferences.sigcomm.org/imc/2027/
-  status: tentative
   deadlines:
   - kind: abstract
     date: 2026-11-10
@@ -111,8 +111,30 @@ editions:
   - kind: camera_ready
     date: 2027-04-14
     label: Cycle 1
+  - kind: other
+    date: 2027-01-13
+    label: Cycle 2 Replicability Track expression of interest
+  - kind: abstract
+    date: 2027-03-31
+    label: Cycle 2
+  - kind: submission
+    date: 2027-04-07
+    label: Cycle 2
+  - kind: other
+    date: 2027-04-28
+    label: Cycle 2 one-shot revision submission
+  - kind: other
+    date: 2027-05-19
+    label: Cycle 2 early reject notification
+  - kind: notification
+    date: 2027-07-22
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2027-09-02
+    label: Cycle 2
 sources:
 - https://conferences.sigcomm.org/imc/2027/
+- https://conferences.sigcomm.org/imc/2027/cfp/
 - https://conferences.sigcomm.org/imc/2026/
 - https://conferences.sigcomm.org/imc/2026/cfp
 - https://conferences.sigcomm.org/imc/2026/submission-instructions
@@ -123,8 +145,7 @@ sources:
 - https://sites.cs.ucsb.edu/~almeroth/conf/stats/
 - https://portal.core.edu.au/conf-ranks/?search=IMC&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- IMC 2027 important dates are marked tentative on the official site; deadline time zone and Cycle 2 dates not yet
-  stated (as of 2026-10-17)
+- IMC 2027 deadline time and time zone not stated on the official site (as of 2026-10-25)
 - Time zone of IMC 2025 deadlines
 - Acceptance rates after 2022
-last_verified: 2026-10-17
+last_verified: 2026-10-25
