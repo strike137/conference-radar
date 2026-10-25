@@ -1,8 +1,21 @@
 # Maintaining the data
 
-How the data is kept current. A scheduled Claude agent runs this procedure every Sunday and
-publishes the result without manual review, so every rule below matters. Anyone doing a bulk update by hand
-should follow it too. Field definitions are in [CONTRIBUTING.md](CONTRIBUTING.md).
+How the data is kept current. Every Sunday the "Weekly update" workflow runs this procedure with
+`scripts/weekly.py` and publishes the result without manual review, so every rule below matters. Anyone doing a
+bulk update by hand, or with another agent, should follow it too. Field definitions are in
+[CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Automated weekly run
+
+- `scripts/feeds.py` adds new editions found in public deadline feeds (ccfddl, sec-deadlines) only when every
+  deadline appears on the official page, and passes everything else to the agent as hints.
+- `scripts/weekly.py` gives the `stale.py` queue to an OpenCode agent (model `opencode/deepseek-v4.1-flash-free`) a
+  few venues at a time, then asks it for missing venues from a rotating set of angles.
+- After every agent run the script restores anything outside the files the agent was given, and keeps a changed
+  file only if it validates, every new or changed date appears on its edition url, `links.website` or a page under
+  `sources` (`scripts/sourcecheck.py`), and a new or changed CORE rank matches the ICORE2026 export.
+- Logs are kept for 30 days as the `weekly-logs` artifact of each run. Run it by hand from the Actions tab
+  ("Weekly update", with `limit` to try a few batches and `publish` off for a dry run).
 
 ## Scope
 

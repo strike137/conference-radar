@@ -1,0 +1,126 @@
+name: Weekly update
+
+# Every Sunday 00:00 UTC (09:00 JST). scripts/weekly.py first adds new editions from public deadline feeds
+# when the official page confirms them, then has an OpenCode agent (free DeepSeek model) work through the
+# stale.py queue and look for missing venues. A changed file is kept only if it validates and every new date
+# appears on a page the file cites. The agent never sees a token: it runs in steps without one, from a
+# checkout without stored credentials, and each publish step pushes from a fresh clone.
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: Minutes per phase before no new agent run starts
+        default: "150"
+      limit:
+        description: At most this many agent batches or discovery angles per phase (0 = no limit)
+        default: "0"
+      discover:
+        description: Also look for missing venues
+        type: boolean
+        default: true
+      publish:
+        description: Push the result to main
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: weekly-update
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash  # runs with -eo pipefail
+
+env:
+  AGENT: opencode run -m opencode/deepseek-v4.1-flash-free --auto
+  OPENCODE_VERSION: 1.19.4
+  MINUTES: ${{ inputs.minutes || '150' }}
+  LIMIT: ${{ inputs.limit || '0' }}
+  DISCOVER: ${{ github.event_name == 'schedule' || inputs.discover }}
+  PUBLISH: ${{ github.event_name == 'schedule' || inputs.publish }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - name: Install tools
+        run: |
+          pip install pyyaml
+          npm install -g "opencode-ai@${OPENCODE_VERSION}"
+          sudo apt-get install -y -qq poppler-utils > /dev/null || true
+          mkdir -p "$RUNNER_TEMP/base" && cp data/conferences/*.yml "$RUNNER_TEMP/base/"
+
+      - name: Update known venues
+        run: python scripts/weekly.py update --agent "$AGENT" --minutes "$MINUTES" --limit "$LIMIT"
+
+      - name: Publish updates
+        if: env.PUBLISH == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MSG: .weekly/msg-update.txt
+        run: &publish |
+          set -u
+          [ -s "$MSG" ] || { echo "nothing to publish"; exit 0; }
+          dir="$RUNNER_TEMP/publish"; rm -rf "$dir"
+          git clone -q --depth 1 "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "$dir"
+          n=0
+          for f in data/conferences/*.yml; do
+            [ -f "$f" ] && [ ! -L "$f" ] || continue
+            base="$RUNNER_TEMP/base/$(basename "$f")"; main="$dir/$f"
+            if [ -f "$base" ] && cmp -s "$f" "$base"; then continue; fi   # not changed by this run
+            if { [ -f "$base" ] && [ -f "$main" ] && ! cmp -s "$main" "$base"; } || { [ ! -f "$base" ] && [ -f "$main" ]; }; then
+              echo "::warning::$f also changed on main during this run; left as it is on main"; continue
+            fi
+            cp "$f" "$main"; n=$((n + 1))
+          done
+          cd "$dir"
+          if [ "$n" -gt 0 ]; then
+            python scripts/build.py --check > /dev/null
+            git add data/conferences
+            git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -F "$GITHUB_WORKSPACE/$MSG"
+            for i in 1 2 3; do git push -q origin HEAD:main && break; sleep 5; git pull -q --rebase origin main; done
+            gh workflow run deploy.yml --ref main -R "$GITHUB_REPOSITORY"
+            echo "published $n files"
+          fi
+          cd / && rm -rf "$dir"
+          cp "$GITHUB_WORKSPACE"/data/conferences/*.yml "$RUNNER_TEMP/base/"  # the next phase compares against this
+
+      - name: Add missing venues
+        if: env.DISCOVER == 'true'
+        run: python scripts/weekly.py discover --agent "$AGENT" --minutes "$MINUTES" --limit "$LIMIT"
+
+      - name: Publish new venues
+        if: env.DISCOVER == 'true' && env.PUBLISH == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MSG: .weekly/msg-discover.txt
+        run: *publish
+
+      - name: Summary
+        if: always()
+        run: cat .weekly/msg-*.txt >> "$GITHUB_STEP_SUMMARY" 2> /dev/null || true
+
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: weekly-logs
+          path: .weekly/
+          include-hidden-files: true
+          retention-days: 30
