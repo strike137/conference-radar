@@ -23,7 +23,7 @@ notes:
   into it from 2023, so there are separate TSA and DAT submission tracks
 - Accepted papers presented in person are published in IEEE Xplore; selected presentations are invited to extend
   into journal papers
-- Five-day event in 2026 (13 to 17 April); paper deadline in early December
+- Five-day event in 2026 (13 to 17 April) and 2027 (12 to 16 April, with an optional local tour on 16 April); paper deadline in late November or early December
 - The ITRI site path changes every year (2025VLSITSA, 2026VLSITSA, 2027VLSITSA); the IEEE CAS event page is a stable
   backup
 - Not listed in ICORE2026
@@ -70,15 +70,47 @@ editions:
     date: 2026-02-28
     tz: UTC+8
     label: Author registration
+- year: 2027
+  start: 2027-04-12
+  end: 2027-04-16
+  location: Ambassador Hotel, Hsinchu, Taiwan
+  url: https://expo.itri.org.tw/2027VLSITSA/
+  deadlines:
+  - kind: submission
+    date: 2026-11-22
+    time: "23:59"
+    tz: UTC+8
+    label: Regular papers (TSA and DAT)
+  - kind: notification
+    date: 2027-01-27
+    tz: UTC+8
+    label: Regular papers
+  - kind: other
+    date: 2027-02-10
+    tz: UTC+8
+    label: Late news papers submission
+  - kind: other
+    date: 2027-02-18
+    tz: UTC+8
+    label: Late news papers notification
+  - kind: camera_ready
+    date: 2027-02-28
+    tz: UTC+8
+  - kind: other
+    date: 2027-02-28
+    tz: UTC+8
+    label: Author registration
 sources:
 - https://ieee-cas.org/event/conference/2026-international-vlsi-symposium-technology-systems-and-applications
 - https://ieee-cas.org/event/conference/2025-international-vlsi-symposium-technology-systems-and-applications
 - https://ieee-cas.org/event/conference/2025-international-vlsi-symposium-technology-systems-and-applications-0
 - https://ieee-cas.org/files/ieeecass/2025-11/vlsi-tsa-2026_cfp_v2.pdf
 - https://expo.itri.org.tw/2027VLSITSA/
+- https://expo.itri.org.tw/api/information/2027VLSITSA/home
+- https://expo.itri.org.tw/files/downloads/2/e52685aa-42a8-4cd1-9069-c766e27f54ba.pdf
 - https://portal.core.edu.au/conf-ranks/?search=VLSI-TSA&by=all&source=ICORE2026
 unverified:
 - The 2025 and 2026 ITRI sites now return 404; dates and proceedings are taken from the IEEE CAS event pages and
   the 2026 CFP PDF hosted there
-- VLSI TSA 2027 has a submission portal on the ITRI site but no dates or deadlines were visible as of 2026-10-25 (IEEE CAS 2027 event page not found)
-last_verified: 2026-10-25
+- VLSI TSA 2027 dates come from the ITRI site and its CFP PDF; IEEE CAS 2027 event page not found as of 2026-10-31
+last_verified: 2026-10-31

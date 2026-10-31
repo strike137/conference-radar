@@ -54,19 +54,23 @@ editions:
   status: confirmed
   deadlines:
   - kind: notification
-    date: 2026-10-29
-    label: Extended from 2026-10-22 (originally 2026-10-08)
-  - kind: camera_ready
     date: 2026-11-05
-    label: Extended from 2026-10-29 (originally 2026-10-15)
+    label: Extended from 2026-10-29 (earlier 2026-10-22, originally 2026-10-08)
+  - kind: camera_ready
+    date: 2026-11-12
+    time: "23:59"
+    tz: UTC+5:30
+    label: Extended from 2026-11-05 (earlier 2026-10-29, originally 2026-10-15)
   - kind: other
-    date: 2026-10-31
-    tz: AoE
-    label: Author registration
+    date: 2026-11-14
+    time: "23:59"
+    tz: UTC+5:30
+    label: Author registration (extended from 2026-10-31)
 sources:
 - https://buildsec.org/
 - https://www.vau.ac.lk/BuildSec26/
 - https://www.vau.ac.lk/BuildSec26/static/js/main.8b673375.js
+- https://www.vau.ac.lk/BuildSec26/static/js/main.a1781d06.js
 - https://cgi.cse.unsw.edu.au/~buildsec/
 - https://cgi.cse.unsw.edu.au/~buildsec/Register.html
 - https://buildsec2024.vercel.app/
@@ -78,4 +82,4 @@ unverified:
 - BuildSEC 2026 paper registration and submission deadlines (the site only shows them as closed)
 - BuildSEC 2026 acceptance into IEEE Xplore (site says subject to IEEE approval)
 - Indexing in Scopus or DBLP not confirmed
-last_verified: 2026-10-25
+last_verified: 2026-10-31

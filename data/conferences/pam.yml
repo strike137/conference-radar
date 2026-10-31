@@ -42,16 +42,22 @@ editions:
   url: https://pam2027.furg.br/
   deadlines:
   - kind: abstract
-    date: 2026-10-30
-    tz: AoE
-  - kind: submission
     date: 2026-11-06
+    time: "23:59"
     tz: AoE
+    label: Extended from 2026-10-30
+  - kind: submission
+    date: 2026-11-13
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-11-06
   - kind: notification
-    date: 2026-12-14
+    date: 2026-12-21
     tz: AoE
+    label: Extended from 2026-12-14
   - kind: camera_ready
     date: 2027-01-15
+    time: "23:59"
     tz: AoE
 sources:
 - https://pam2027.furg.br/
@@ -61,7 +67,7 @@ sources:
 - https://link.springer.com/book/10.1007/978-3-031-85960-1
 - https://portal.core.edu.au/conf-ranks/?search=PAM&by=all&source=ICORE2026&sort=atitle&page=1
 - https://www.ccf.org.cn/Academic_Evaluation/NIS/
-last_verified: 2026-10-25
+last_verified: 2026-10-31
 unverified:
 - PAM 2026 deadlines (the PAM 2026 official site could not be found; dates of the event taken from the Springer proceedings)
 - Registration fee (not stated on the PAM 2027 site yet)

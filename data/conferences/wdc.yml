@@ -16,7 +16,7 @@ typical:
   deadline_months: [12, 1, 2, 4]
   conference_months: [6, 7, 8]
 links:
-  website: https://sites.google.com/view/wdc-2026/
+  website: https://sites.google.com/view/wdc-2027/
 notes:
 - Co-located with ACM AsiaCCS since 2022 (Nagasaki 2022, Melbourne 2023, Singapore 2024, Hanoi 2025, Bangalore 2026),
   so the location follows AsiaCCS
@@ -50,7 +50,16 @@ editions:
     date: 2026-04-01
     time: "23:59"
     tz: AoE
+- year: 2027
+  start: 2027-07-13
+  end: 2027-07-13
+  location: Macau, China
+  url: https://sites.google.com/view/wdc-2027/
+  status: tentative
 sources:
+- https://sites.google.com/view/wdc-2027/
+- https://sites.google.com/view/wdc-2027/submission
+- https://asiaccs2027.cityu.edu.mo/
 - https://sites.google.com/view/wdc-2026/
 - https://sites.google.com/view/wdc-2026/submission
 - https://sites.google.com/view/wdc-2026/organizers
@@ -66,10 +75,10 @@ sources:
 - https://api.crossref.org/works/10.1145/3595353
 - https://api.crossref.org/works/10.1145/3494109
 - https://portal.core.edu.au/conf-ranks/?search=WDC&by=all&source=ICORE2026
-last_verified: 2026-10-04
+last_verified: 2026-10-31
 unverified:
 - Round 1 notification date for 2026 is shown as "January 11, 2025" on the official page (an obvious typo), so it is
   left out
-- 'WDC 2027 is announced on the 2026 site ("See you next year at WDC 27"), but its site (sites.google.com/view/wdc-2027/)
-  is not public yet as of 2026-10-04, so no dates'
+- WDC 2027 site says the workshop proposal is still under review by AsiaCCS 2027 (Macau, 12 to 16 July 2027); workshop
+  date July 13, 2027 is tentative and all submission deadlines are TBA as of 2026-10-31
 - Acceptance rate and number of submissions not published

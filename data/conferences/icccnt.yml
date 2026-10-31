@@ -9,7 +9,7 @@ language: english
 frequency: annual
 organizer: ICCCNT Foundation (website run by HIBS), hosted by an Indian Institute of Technology
 organizer_country: [india]
-proceedings: IEEE Xplore
+proceedings: IEEE Xplore (up to 2025); EPiC Series in Computing (2026)
 archival: true
 fee: 9,500 INR early / 10,000 INR late for Indian academics; 600 USD early / 650 USD late for authors from Japan, Korea, USA and similar countries (2025)
 typical:
@@ -23,6 +23,7 @@ notes:
 - 2025 edition was a six day hybrid event (online or onsite) with hands-on workshops and an industry exhibition
 - Proceedings of past editions (12th to 15th) are in IEEE Xplore, linked from the official site
 - Submission through EasyChair; registration fees are set per country
+- 17th edition (2026) moves to the University of North Texas, Denton, USA, and its papers use the EPiC Series (EasyChair) paper kit, with eligible papers going to the EPiC Computing digital library instead of IEEE Xplore
 - Not ranked by CORE (ICORE2026) and not on the CCF list
 editions:
 - year: 2025
@@ -39,16 +40,37 @@ editions:
   - kind: camera_ready
     date: 2025-07-05
     label: Revised paper upload
+- year: 2026
+  start: 2026-12-19
+  end: 2026-12-21
+  location: University of North Texas, Denton, TX, USA
+  url: https://17icccnt.com/v1/
+  deadlines:
+  - kind: submission
+    date: 2026-11-01
+    tz: PST
+    label: Full paper
+  - kind: notification
+    date: 2026-12-10
+    tz: PST
+  - kind: camera_ready
+    date: 2026-12-12
+    tz: PST
 sources:
 - https://16icccnt.com/
 - https://16icccnt.com/important_dates.php
 - https://16icccnt.com/call-for-papers.php
 - https://16icccnt.com/registration.php
 - https://17icccnt.com/
+- https://17icccnt.com/v1/
+- https://17icccnt.com/v1/important-dates.php
+- https://17icccnt.com/v1/paper-submission.php
+- https://17icccnt.com/v1/registration.php
 - https://portal.core.edu.au/conf-ranks/?search=ICCCNT&by=all&source=ICORE2026
 unverified:
-- 17th edition (17icccnt.com) shows only an under construction page as of 2026-10-25; its dates, venue and deadlines are not announced
+- 2026 full paper deadline is listed as November 1, 2026, the same day as the call for papers announcement on the official dates page; it may be extended
+- Whether the 2026 EPiC Series proceedings will be indexed in Scopus or EI (only "recommended" on the EasyChair CFP)
 - Original (pre-extension) 2025 submission deadline not shown on the official site
 - Inclusion of the 16th (2025) proceedings in IEEE Xplore not confirmed on the official site
 - Acceptance rate not found
-last_verified: 2026-10-25
+last_verified: 2026-10-31

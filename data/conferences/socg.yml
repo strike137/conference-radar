@@ -27,6 +27,7 @@ notes:
 - Proceedings in the open-access LIPIcs series (Schloss Dagstuhl) since 2015; earlier volumes in the ACM DL
 - Two tracks since 2026, Track T (Theory) and Track P (Practice); abstract registration one week before the paper deadline
 - At least one author of each accepted paper must join the CG Society (free) to present
+- SoCG 2027 adds an AI policy (AI Statement section) and a limit of six submissions per co-author
 - Location rotates worldwide (Athens 2024, Kanazawa 2025, New Brunswick 2026, Bengaluru 2027, Vienna 2028)
 editions:
 - year: 2026
@@ -52,6 +53,20 @@ editions:
   end: 2027-06-25
   location: Bengaluru, India (CG Week 2027, Indian Institute of Science)
   url: https://cgweek27.computational-geometry.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-25
+    time: "23:59"
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-12-02
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-02-05
+  - kind: camera_ready
+    date: 2027-03-29
 sources:
 - https://computational-geometry.org/
 - https://computational-geometry.org/cg-week/
@@ -59,11 +74,10 @@ sources:
 - https://cgweek26.computational-geometry.org/
 - https://cgweek26.computational-geometry.org/contribute/
 - https://cgweek27.computational-geometry.org/
+- https://cgweek27.computational-geometry.org/contribute/
 - https://portal.core.edu.au/conf-ranks/?search=SoCG&by=all&source=ICORE2026
 - https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
 unverified:
-- SoCG 2027 call for papers and deadlines not yet published (CG Week 2027 contribute page under construction as of 2026-10-25)
-- Exact SoCG 2027 days within CG Week 2027 not yet stated (2026 symposium ran across all of CG Week, June 2 to 5)
 - CCF rank checked in the CCF 2026 list PDF mirrored by ccfddl (ccf.org.cn blocks automated access)
 - Acceptance rate not stated on the official site
-last_verified: 2026-10-25
+last_verified: 2026-10-31

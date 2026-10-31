@@ -68,25 +68,65 @@ editions:
     tz: AoE
     label: Workshop proposals
   - kind: abstract
+    date: 2026-11-23
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: abstract
     date: 2026-11-30
     time: "23:59"
     tz: AoE
     label: STARs
+  - kind: submission
+    date: 2026-12-02
+    time: "23:59"
+    tz: AoE
+    label: Full papers
   - kind: submission
     date: 2026-12-07
     time: "23:59"
     tz: AoE
     label: STARs
   - kind: notification
+    date: 2027-02-02
+    time: "23:59"
+    tz: AoE
+    label: STARs, first round
+  - kind: notification
+    date: 2027-02-10
+    time: "23:59"
+    tz: AoE
+    label: Full papers, first round
+  - kind: other
+    date: 2027-02-22
+    time: "23:59"
+    tz: AoE
+    label: STARs revision submission
+  - kind: other
+    date: 2027-03-03
+    time: "23:59"
+    tz: AoE
+    label: Full papers revision submission
+  - kind: notification
     date: 2027-03-08
     time: "23:59"
     tz: AoE
     label: STARs, final
+  - kind: notification
+    date: 2027-03-17
+    time: "23:59"
+    tz: AoE
+    label: Full papers, final
   - kind: camera_ready
     date: 2027-03-22
     time: "23:59"
     tz: AoE
     label: STARs
+  - kind: camera_ready
+    date: 2027-04-14
+    time: "23:59"
+    tz: AoE
+    label: Full papers
 sources:
 - https://eurovis27.github.io/web/
 - https://eurovis27.github.io/web/submissions/all-deadlines/
@@ -95,6 +135,6 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=EuroVis&by=all&source=ICORE2026
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
 unverified:
-- EuroVis 2027 full paper deadlines not yet listed on the official site as of 2026-10-11
+- EuroVis 2027 short paper, poster, demo, panel and tutorial deadlines not listed on the Important Dates page as of 2026-10-31
 - CCF rank checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
-last_verified: 2026-10-11
+last_verified: 2026-10-31

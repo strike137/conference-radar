@@ -26,7 +26,7 @@ notes:
   NDSS template
 - Official proceedings hosted by NDSS; work-in-progress papers are not included, and authors may opt out of the proceedings at submission
 - On-site only; one author per accepted paper must present in person
-- NDSS 2027 moves to Seoul, Korea (March 22 to 26, 2027); a MADWeb 2027 edition there is not announced yet
+- MADWeb 2027 is co-located with NDSS 2027 in Seoul, Korea (workshop on Friday, March 26, 2027)
 editions:
 - year: 2026
   start: 2026-02-27
@@ -47,14 +47,31 @@ editions:
   - kind: camera_ready
     date: 2026-02-17
     label: Tentative
+- year: 2027
+  start: 2027-03-26
+  end: 2027-03-26
+  location: Seoul, Korea
+  url: https://madweb.work/
+  deadlines:
+  - kind: submission
+    date: 2026-12-10
+    tz: AoE
+  - kind: notification
+    date: 2027-01-14
+    label: Tentative
+  - kind: camera_ready
+    date: 2027-01-28
+    label: Tentative
 sources:
 - https://madweb.work/
 - https://madweb.work/program25/
+- https://madweb27.hotcrp.com/
+- https://www.ndss-symposium.org/ndss2027/
 - https://www.ndss-symposium.org/ndss2026/co-located-events/madweb/
 - https://www.ndss-symposium.org/ndss-program/madweb-2026/
 - https://portal.core.edu.au/conf-ranks/?search=MADWeb&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- MADWeb 2027 not announced (NDSS 2027 in Seoul)
+- MADWeb 2027 has no separate abstract registration deadline listed; the 2027 page on the NDSS site was not yet published as of 2026-10-31
 - Not found in the ICORE2026 portal and not in the CCF list, so no rank is given
 - Acceptance rate, registration fee and DBLP indexing not confirmed from an official page
-last_verified: 2026-10-04
+last_verified: 2026-10-31

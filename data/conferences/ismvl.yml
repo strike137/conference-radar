@@ -57,10 +57,16 @@ editions:
   location: Kongsberg, Norway (University of South-Eastern Norway)
   url: http://mvl.jpn.org/ISMVL2027/
   deadlines:
-  - kind: submission
-    date: 2026-11-01
+  - kind: abstract
+    date: 2026-12-01
     time: "23:59"
     tz: AoE
+    label: Abstract (added with the extension)
+  - kind: submission
+    date: 2026-12-08
+    time: "23:59"
+    tz: AoE
+    label: Full paper (extended from 2026-11-01)
   - kind: notification
     date: 2027-02-01
   - kind: camera_ready
@@ -79,4 +85,4 @@ sources:
 unverified:
 - Not found in the CORE ICORE2026 portal; CCF listing not checked
 - The ISMVL 2026 home page also contains leftover text naming Matsue; the location page and announcements say Sendai (RIEC, Tohoku University)
-last_verified: 2026-10-25
+last_verified: 2026-10-31

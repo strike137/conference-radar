@@ -16,7 +16,7 @@ typical:
   deadline_months: [11]
   conference_months: [1]
 links:
-  website: https://rgai.inf.u-szeged.hu/mszny2026
+  website: http://mszny.inf.u-szeged.hu/
 notes:
 - Annual Hungarian national conference on computational linguistics and language technology, held in Szeged
 - 2026 was the 22nd edition, at the Bolyai Building of the University of Szeged
@@ -24,6 +24,7 @@ notes:
 - Double-blind review by two reviewers via EasyChair; novelty is the main criterion
 - English papers can be offered publication in the journal Acta Cybernetica
 - Registration required to attend
+- From 2027 three submission categories (short abstract, full paper for the proceedings, abstract leading to a journal paper in Infocommunications Journal or Digitalis Bolcseszet)
 editions:
 - year: 2026
   start: 2026-01-29
@@ -43,10 +44,31 @@ editions:
   - kind: camera_ready
     date: 2026-01-12
     time: "23:59"
+- year: 2027
+  label: XXIII. MSZNY
+  start: 2027-01-28
+  end: 2027-01-29
+  url: http://mszny.inf.u-szeged.hu/
+  deadlines:
+  - kind: submission
+    date: 2026-11-16
+    time: "23:59"
+    label: All three categories (abstract, full paper, journal abstract)
+  - kind: notification
+    date: 2026-12-18
+  - kind: camera_ready
+    date: 2027-01-11
+    time: "23:59"
+    label: Proceedings final versions
+  - kind: other
+    date: 2027-02-28
+    label: Full journal papers (MSZNY journal category only)
 sources:
 - https://rgai.inf.u-szeged.hu/mszny2026
 - https://rgai.inf.u-szeged.hu/sites/rgai.inf.u-szeged.hu/files/mszny2026.pdf
-last_verified: 2026-10-25
+- https://rgai.inf.u-szeged.hu/mszny2027
+- http://mszny.inf.u-szeged.hu/
+last_verified: 2026-10-31
 unverified:
-- MSZNY 2027 not announced yet
+- MSZNY 2027 venue not announced yet (official site says venue details will follow; previous editions were in Szeged)
 - Registration fee not stated on the official page

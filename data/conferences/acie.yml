@@ -13,7 +13,7 @@ archival: true
 indexing: [EI Compendex, Scopus]
 fee: Full paper 500 USD early / 550 USD normal regular, 450 / 480 USD student, abstract only from 380 USD (2027)
 typical:
-  deadline_months: [11]
+  deadline_months: [1, 11]
   conference_months: [1, 4]
 links:
   website: http://acie.org/
@@ -41,12 +41,14 @@ editions:
   status: confirmed
   deadlines:
   - kind: submission
-    date: 2026-11-10
+    date: 2027-01-10
+    label: Paper submission (extended from 2026-11-10)
   - kind: notification
-    date: 2026-12-10
+    date: 2027-02-10
+    label: Notification (moved from 2026-12-10)
   - kind: other
-    date: 2026-12-30
-    label: Registration
+    date: 2027-03-05
+    label: Registration (extended from 2026-12-30)
   - kind: camera_ready
     date: 2027-03-10
 sources:
@@ -60,7 +62,7 @@ sources:
 - http://acie.org/acie2023.html
 - https://ieeexplore.ieee.org/xpl/conhome/11482893/proceeding
 - https://portal.core.edu.au/conf-ranks/?search=ACIE&by=all&source=ICORE2026
-last_verified: 2026-10-25
+last_verified: 2026-10-31
 unverified:
 - Country of the conference secretariat not stated
 - No deadline time or time zone stated

@@ -36,16 +36,11 @@ editions:
   location: Hitotsubashi Hall, Tokyo, Japan
   url: https://cpal.cc/
   deadlines:
-  - kind: abstract
-    date: 2026-11-13
-    time: "23:59"
-    tz: AoE
-    label: Proceedings track
   - kind: submission
-    date: 2026-11-25
+    date: 2026-12-05
     time: "23:59"
     tz: AoE
-    label: Proceedings track
+    label: Proceedings track (extended from 2026-11-25)
   - kind: other
     date: 2026-12-10
     time: "23:59"
@@ -56,6 +51,14 @@ editions:
     time: "23:59"
     tz: AoE
     label: Recent Spotlight track (non-archival)
+  - kind: other
+    date: 2026-12-15
+    time: "23:59"
+    tz: AoE
+    label: Rising Stars applications
+  - kind: other
+    date: 2027-01-11
+    label: Proceedings track author rebuttal (Jan 11 to 17)
   - kind: notification
     date: 2027-02-01
   - kind: camera_ready
@@ -71,4 +74,6 @@ sources:
 - https://2024.cpal.cc/
 - https://proceedings.mlr.press/v328/
 - https://portal.core.edu.au/conf-ranks/?search=CPAL&by=all&source=ICORE2026
-last_verified: 2026-10-25
+unverified:
+- CPAL 2027 earlier listed an abstract deadline (2026-11-13) and a paper deadline (2026-11-25); as of 2026-10-31 the official site lists only a paper deadline of 2026-12-05 and does not call it an extension
+last_verified: 2026-10-31

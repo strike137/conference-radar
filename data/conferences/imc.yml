@@ -95,9 +95,13 @@ editions:
   deadlines:
   - kind: abstract
     date: 2026-11-10
+    time: '23:59'
+    tz: AoE
     label: Cycle 1
   - kind: submission
     date: 2026-11-17
+    time: '23:59'
+    tz: AoE
     label: Cycle 1
   - kind: other
     date: 2026-12-02
@@ -113,12 +117,18 @@ editions:
     label: Cycle 1
   - kind: other
     date: 2027-01-13
+    time: '23:59'
+    tz: AoE
     label: Cycle 2 Replicability Track expression of interest
   - kind: abstract
     date: 2027-03-31
+    time: '23:59'
+    tz: AoE
     label: Cycle 2
   - kind: submission
     date: 2027-04-07
+    time: '23:59'
+    tz: AoE
     label: Cycle 2
   - kind: other
     date: 2027-04-28
@@ -135,6 +145,7 @@ editions:
 sources:
 - https://conferences.sigcomm.org/imc/2027/
 - https://conferences.sigcomm.org/imc/2027/cfp/
+- https://conferences.sigcomm.org/imc/2027/submission-instructions/
 - https://conferences.sigcomm.org/imc/2026/
 - https://conferences.sigcomm.org/imc/2026/cfp
 - https://conferences.sigcomm.org/imc/2026/submission-instructions
@@ -145,7 +156,6 @@ sources:
 - https://sites.cs.ucsb.edu/~almeroth/conf/stats/
 - https://portal.core.edu.au/conf-ranks/?search=IMC&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- IMC 2027 deadline time and time zone not stated on the official site (as of 2026-10-25)
 - Time zone of IMC 2025 deadlines
 - Acceptance rates after 2022
-last_verified: 2026-10-25
+last_verified: 2026-10-31

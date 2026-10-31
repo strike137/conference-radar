@@ -52,7 +52,9 @@ editions:
   deadlines:
   - kind: submission
     date: 2026-11-13
-    label: Full papers
+    time: "23:59"
+    tz: AoE
+    label: Full papers (firm, no extension; OpenReview shows 2026-11-14 11:59 UTC)
   - kind: notification
     date: 2027-01-25
   - kind: other
@@ -68,11 +70,12 @@ sources:
 - https://sites.google.com/usc.edu/l4dc2026/author-information
 - https://sites.google.com/usc.edu/l4dc2026/organization
 - https://sites.google.com/umich.edu/l4dc2025/
+- https://openreview.net/group?id=L4DC.org/2027/Conference
 - https://openreview.net/group?id=L4DC.org/2026
 - https://proceedings.mlr.press/v331/
 - https://proceedings.mlr.press/v283/
 - https://portal.core.edu.au/conf-ranks/?search=L4DC&by=all&source=ICORE2026
 unverified:
-- L4DC 2027 deadline time and time zone not stated on the official site (as of 2026-10-17)
+- L4DC 2027 deadline time taken from the OpenReview submission page; the official site gives only the date (as of 2026-10-31)
 - Notification and camera-ready dates for 2026 (shown only as an image on the author page)
-last_verified: 2026-10-25
+last_verified: 2026-10-31

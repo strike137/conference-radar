@@ -15,7 +15,7 @@ typical:
   deadline_months: [10]
   conference_months: [12]
 links:
-  website: https://conf.ccf.org.cn/cbcc2025
+  website: https://conf.ccf.org.cn/cbcc2026
 notes:
 - National blockchain conference of the China Computer Federation (CCF), run by its blockchain technical committee;
   2025 was the 8th edition
@@ -42,7 +42,21 @@ editions:
     label: Extended from October 20
   - kind: notification
     date: 2025-12-01
+- year: 2026
+  label: 9th CBCC
+  start: 2026-12-10
+  end: 2026-12-13
+  location: Shanghai, China
+  url: https://conf.ccf.org.cn/cbcc2026
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-25
+    label: Papers (extended from 2026-10-10)
+  - kind: notification
+    date: 2026-11-20
 sources:
+- https://conf.ccf.org.cn/cbcc2026
 - https://conf.ccf.org.cn/cbcc2025
 - https://conf.ccf.org.cn/cbcc2024
 - https://link.springer.com/conference/cbcc
@@ -50,7 +64,8 @@ sources:
 - https://api.crossref.org/works/10.1007/978-981-96-6232-6
 - https://portal.core.edu.au/conf-ranks/?search=CBCC&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- CBCC 2026 dates and location (the CCF conference system has an unpublished cbcc2026 page listing 2026-12-10 to
-  2026-12-13 in Shanghai, with no call for papers yet as of 2026-10-17; no 2026 call for papers found on 2026-10-25)
+- CBCC 2026 exact dates (the official site says participants gather in Shanghai on 2026-12-10, while its committee
+  election notice says the conference runs 2026-12-11 to 2026-12-13; recorded as 2026-12-10 to 2026-12-13)
+- CBCC 2026 venue within Shanghai and camera-ready deadline
 - Number of submissions and acceptance rate
-last_verified: 2026-10-25
+last_verified: 2026-10-31

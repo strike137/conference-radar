@@ -84,6 +84,7 @@ editions:
     label: Invited rebuttal
   - kind: submission
     date: 2026-11-10
+    time: '23:59'
     tz: AoE
     label: Posters and demos
   - kind: notification
@@ -93,9 +94,19 @@ editions:
   - kind: camera_ready
     date: 2026-12-03
     tz: AoE
+  - kind: notification
+    date: 2026-12-14
+    tz: AoE
+    label: Posters and demos
+  - kind: camera_ready
+    date: 2026-12-18
+    time: '23:59'
+    tz: AoE
+    label: Posters and demos
 sources:
 - https://iui.acm.org/2027/
 - https://iui.acm.org/2027/call-for-papers/
+- https://iui.acm.org/2027/call-for-posters-demos/
 - https://iui.acm.org/2026/
 - https://iui.acm.org/
 - https://dl.acm.org/doi/proceedings/10.1145/3742413
@@ -104,4 +115,4 @@ sources:
 unverified:
 - SIGAI co-sponsorship not stated on the IUI 2026/2027 sites (only SIGCHI is named)
 - CCF rank checked via the ccfddl mirror of the CCF list, not on ccf.org.cn directly (site behind a captcha)
-last_verified: 2026-10-25
+last_verified: 2026-10-31

@@ -24,7 +24,7 @@ notes:
 - Held every year since 1994; run by a steering committee with an advisory board of distributed computing researchers
 - Mostly held in Europe (Wroclaw 2021, Paderborn 2022, Alcala de Henares 2023, Salerno 2024, Delphi 2025, Durham 2026); Larnaca, Cyprus announced for 2027
 - Proceedings in Springer LNCS
-- Abstract registration one week before the full paper (2025, 2026; the 2027 call lists only a full paper deadline); papers up to 12 pages in single-column format plus cover page and references
+- Abstract registration one week before the full paper (2025, 2026, and 2027 after the deadline extension); papers up to 12 pages in single-column format plus cover page and references
 - Lightweight double-blind review from 2027; LNCS inclusion requires an in-person presentation; selected 2027 papers invited to a Theoretical Computer Science special issue
 - Papers not accepted as full papers may be invited as brief announcements
 - 'CORE rank B (ICORE2026); not on the CCF 2026 list'
@@ -66,9 +66,13 @@ editions:
   location: Larnaca, Cyprus (Radisson Beach Resort)
   url: https://cyprusconferences.org/sirocco2027/
   deadlines:
-  - kind: submission
+  - kind: abstract
     date: 2026-10-31
     tz: AoE
+  - kind: submission
+    date: 2026-11-07
+    tz: AoE
+    label: Extended from 2026-10-31
   - kind: notification
     date: 2027-01-30
 sources:
@@ -79,5 +83,6 @@ sources:
 - https://www.torontomu.ca/sirocco-2025/
 - https://cyprusconferences.org/sirocco2027/
 - https://cyprusconferences.org/sirocco2027/call-for-papers-2/
+- https://cyprusconferences.org/sirocco2027/submissions-deadline-extended/
 - https://portal.core.edu.au/conf-ranks/?search=SIROCCO&by=all&source=ICORE2026&sort=atitle&page=1
-last_verified: 2026-10-25
+last_verified: 2026-10-31

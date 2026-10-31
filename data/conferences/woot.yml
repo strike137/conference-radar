@@ -19,11 +19,11 @@ typical:
   deadline_months: [3, 12]
   conference_months: [8]
 links:
-  website: https://www.usenix.org/conference/woot26
+  website: https://www.usenix.org/conference/woot27
   dblp: https://dblp.org/db/conf/woot/index.html
 notes:
 - Held annually since 2007 (founded as the Workshop on Offensive Technologies); 20th edition in 2026
-- Co-located with USENIX Security in August (2024 to 2026); earlier editions were workshops co-located with IEEE
+- Co-located with USENIX Security in August (2024 to 2027); earlier editions were workshops co-located with IEEE
   S&P (for example May 2023)
 - From 2026 two submission cycles (December and March); an 'up-and-coming' track gives shepherding to new or non-academic
   researchers
@@ -62,7 +62,13 @@ editions:
     time: '23:59'
     tz: AoE
     label: All tracks
+- year: 2027
+  start: 2027-08-09
+  end: 2027-08-10
+  location: Denver, CO, USA
+  url: https://www.usenix.org/conference/woot27
 sources:
+- https://www.usenix.org/conference/woot27
 - https://www.usenix.org/conference/woot26
 - https://www.usenix.org/conference/woot26/call-for-papers
 - https://www.usenix.org/conference/woot26/registration-information
@@ -72,6 +78,6 @@ sources:
 - https://www.usenix.org/conference/woot23
 - https://portal.core.edu.au/conf-ranks/?search=WOOT&by=all&source=all
 unverified:
-- WOOT 2027 dates, venue and deadlines not announced (usenix.org/conference/woot27 returns page not found)
+- WOOT 2027 deadlines not announced as of 2026-10-31 (the WOOT '27 page says the call for papers will be available soon)
 - Acceptance rate not published on the official site
-last_verified: 2026-09-28
+last_verified: 2026-10-31
