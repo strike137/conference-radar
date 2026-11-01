@@ -1,0 +1,59 @@
+id: ccc-colombia
+name: CCC
+full_name: Colombian Conference on Computing
+name_local: Congreso Colombiano de Computacion
+type: conference
+tier: minor
+areas: [general, ai, software, security]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: Sociedad Colombiana de Computacion (SCo2), with a host university each year
+organizer_country: [other]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://www.sco2.org/20ccc/
+notes:
+- National computing conference of Colombia, run by the Sociedad Colombiana de Computacion (SCo2)
+- "Proceedings: Springer CCIS for long papers; NALEF lab papers go to CEUR Workshop Proceedings"
+- Long papers must be in English (10 to 16 pages, Springer format), double-blind review by three PC members
+- Demos, the Women in Computing workshop (II MCC) and the NALEF workshop accept English, Spanish or Portuguese (6 to 10 pages)
+- 2026 long-paper deadline was extended from 2026-04-20 (CFP PDF) to 2026-05-18 (website)
+- Held in a different Colombian city each year (Manizales 2024, Cajica 2025, Cartagena 2026)
+- Submission via Microsoft CMT
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-09-10
+  end: 2025-09-12
+  location: Cajica, Colombia
+  url: https://sco2.org/evento/19ccc/
+- year: 2026
+  start: 2026-08-12
+  end: 2026-08-14
+  location: Cartagena, Colombia
+  url: https://www.sco2.org/20ccc/
+  deadlines:
+  - kind: submission
+    date: 2026-05-18
+    label: Long papers
+  - kind: notification
+    date: 2026-06-24
+  - kind: camera_ready
+    date: 2026-07-17
+sources:
+- https://www.sco2.org/20ccc/
+- https://sco2.org/pdfs/20CCC-CFP.pdf
+- https://sco2.org/evento/19ccc/
+- https://sco2.org/evento/18ccc/
+- https://sco2.org/
+- https://portal.core.edu.au/conf-ranks/?search=Colombian&by=all&source=ICORE2026
+unverified:
+- 2025 deadlines are not listed on the archived 19CCC page
+- Deadline times and time zones not stated
+- 21CCC (2027) not announced as of 2026-10-31
+last_verified: 2026-10-31
