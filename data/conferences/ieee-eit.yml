@@ -1,0 +1,66 @@
+id: ieee-eit
+name: IEEE EIT
+full_name: IEEE International Conference on Electro/Information Technology
+type: conference
+tier: minor
+areas: [general, communications]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Region 4 and IEEE-USA, hosted by a Midwest US university each year
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5]
+links:
+  website: https://eit.r4.ieee.org/
+notes:
+- Broad electrical, electronic and computer engineering conference of IEEE Region 4 (US Midwest); official archive lists editions back to 2009
+- Sponsored by IEEE Region 4 and IEEE-USA; hosted by a different university in the US Midwest each year
+- 'Recent hosts: Romeoville IL (2023), Eau Claire WI (2024), Valparaiso IN (2025), La Crosse WI (2026), Edwardsville IL (2027)'
+- Accepted papers published in IEEE Xplore
+- Full papers of 4 to 6 pages in IEEE two-column format, extra fee above 6 pages; peer reviewed via Microsoft CMT
+- At least one author must register at the author rate and present in person; one author registration covers up to two papers
+- Also has an undergraduate student poster session
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-21
+  end: 2026-05-23
+  location: University of Wisconsin-La Crosse, La Crosse, Wisconsin, USA
+  url: https://eit.r4.ieee.org/archive/2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-08
+  - kind: notification
+    date: 2026-04-14
+  - kind: camera_ready
+    date: 2026-05-03
+- year: 2027
+  start: 2027-05-20
+  end: 2027-05-22
+  location: Southern Illinois University Edwardsville, Edwardsville, Illinois, USA
+  url: https://eit.r4.ieee.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-15
+  - kind: notification
+    date: 2027-03-29
+  - kind: camera_ready
+    date: 2027-05-03
+sources:
+- https://eit-conference.org/
+- https://eit.r4.ieee.org/
+- https://eit.r4.ieee.org/call-for-papers
+- https://eit.r4.ieee.org/archive
+- https://eit.r4.ieee.org/archive/2026
+- https://api.crossref.org/works/10.1109/eit64391.2025
+- https://api.crossref.org/works/10.1109/eit68936.2026
+- https://portal.core.edu.au/conf-ranks/?search=EIT&by=all&source=ICORE2026
+unverified:
+- The official archive page has no entry for 2025; the 2025 host (Valparaiso, Indiana) is taken from the IEEE proceedings record
+- Acceptance rate and fees not checked
+- Start year of the series (often cited as 2000) not stated on the official site
+last_verified: 2026-10-31

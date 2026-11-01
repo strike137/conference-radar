@@ -1,0 +1,60 @@
+id: phperkaigi
+name: PHPerKaigi
+full_name: PHPerKaigi
+type: industry
+tier: minor
+areas: [software]
+region: japan
+language: japanese
+frequency: annual
+organizer: PHPerKaigi Executive Committee (chair Tomoki Hasegawa)
+organizer_country: [japan]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://phperkaigi.jp/
+notes:
+- Community conference in Tokyo for PHP developers, held every March since 2018
+- Held at Nakano Central Park Conference, Tokyo, with live streaming on Niconico (hybrid)
+- Talks chosen from a call for proposals on fortee; separate calls for pamphlet articles and book reviews
+- Talk videos published later on Niconico and YouTube
+- No papers or proceedings; talks only
+editions:
+- year: 2026
+  start: 2026-03-20
+  end: 2026-03-22
+  location: Nakano Central Park Conference, Nakano, Tokyo, Japan
+  url: https://phperkaigi.jp/2026/
+  deadlines:
+  - kind: other
+    date: 2025-12-10
+    time: "23:59"
+    tz: JST
+    label: Pamphlet articles
+  - kind: submission
+    date: 2025-12-22
+    time: "23:59"
+    tz: JST
+    label: Call for proposals (talks)
+- year: 2027
+  start: 2027-03-20
+  end: 2027-03-22
+  location: Nakano Central Park Conference, Nakano, Tokyo, Japan
+  url: https://phperkaigi.jp/2027/
+  status: confirmed
+  deadlines: []
+sources:
+- https://phperkaigi.jp/2027/
+- https://phperkaigi.jp/2026/
+- https://fortee.jp/phperkaigi-2026/
+- https://fortee.jp/phperkaigi-2026/proposal/all
+- https://phperkaigi.jp/2025/
+- https://blog.phperkaigi.jp/
+- https://portal.core.edu.au/conf-ranks/?search=PHPerKaigi&by=all&source=ICORE2026
+unverified:
+- PHPerKaigi 2027 call for proposals not yet open; deadline unknown
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-31

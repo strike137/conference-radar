@@ -1,0 +1,57 @@
+id: mlgenx
+name: MLGenX
+full_name: Machine Learning for Genomics Explorations Workshop
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: MLGenX workshop organizers; held as an ICLR workshop
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers featured on the workshop website)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://mlgenx.github.io/
+notes:
+- Workshop on ML for genomics and biology, with a focus on target identification and drug discovery, held at ICLR
+- The 2026 edition was the 3rd MLGenX, held on the last workshop day of ICLR 2026 in Rio de Janeiro
+- Non-archival; papers under review elsewhere are allowed, and accepted papers may later be published at conferences or journals
+- Double-blind review on OpenReview with the ICLR template; 2026 had a main track, a lab-in-the-loop special track, a tiny papers track (up to 4 pages) and an AI-generated papers track
+- Top contributions can get a fast-track review at Nature Biotechnology (optional)
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 3rd edition, ICLR 2026 workshop
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Riocentro Convention and Event Center, Rio de Janeiro, Brazil
+  url: https://mlgenx.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-08
+    time: "23:59"
+    tz: AoE
+    label: All tracks (main and special tracks extended from Feb 2)
+  - kind: notification
+    date: 2026-03-01
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-27
+    time: "23:59"
+    tz: AoE
+sources:
+- https://mlgenx.github.io/
+- https://openreview.net/group?id=ICLR.cc/2026/Workshop/MLGenX
+- https://iclr.cc/virtual/2026/events/workshop
+- https://iclr.cc/Conferences/2026
+- https://portal.core.edu.au/conf-ranks/?search=MLGenX&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Earlier editions (presumably ICLR 2024 and 2025) are not documented on the current official site
+- The official site shows the main and special track extension as "February 8, 2025" (year typo); OpenReview lists the submission deadline as Feb 09 2026 11:59AM UTC, i.e. Feb 8 2026 AoE
+- No 2027 edition announced on the official site as of 2026-10-31

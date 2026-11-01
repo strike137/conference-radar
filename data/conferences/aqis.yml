@@ -1,0 +1,83 @@
+id: aqis
+name: AQIS
+full_name: Asian Quantum Information Science Conference
+type: conference
+tier: minor
+areas: [crypto, communications, general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: AQIS Steering Committee (chair Mio Murao, University of Tokyo) with a local host university each year
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8]
+links:
+  website: https://aqis-conf.org/
+notes:
+- Asian conference on quantum information processing, quantum computation, quantum communication and quantum cryptography
+- Successor of the EQIS meetings held in Japan (2001 to 2005); AQIS since 2006, rotating through Japan, Korea, China,
+  Taiwan, Singapore, India and Australia
+- Recent hosts are Seoul 2023, Sapporo 2024, HKU Hong Kong 2025 and KAIST Daejeon 2026
+- Submission is a 3-page extended abstract via EasyChair, considered for a long talk, short talk or poster; separate
+  later poster-only deadline
+- "No published proceedings: previously published work is welcome, and acceptance does not block publication elsewhere"
+- Best student poster award; satellite workshops around the main conference
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-08-04
+  end: 2025-08-08
+  location: The University of Hong Kong, Hong Kong
+  url: https://aqis-conf.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-25
+    time: "23:59"
+    tz: AoE
+    label: Talks
+  - kind: submission
+    date: 2025-05-16
+    time: "23:59"
+    tz: AoE
+    label: Poster-only
+  - kind: notification
+    date: 2025-05-30
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-30
+    time: "23:59"
+    tz: AoE
+    label: Final manuscript
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-28
+  location: KAIST, Daejeon, Korea
+  url: https://aqis-conf.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-29
+    label: Talks (extended from 2026-05-18)
+  - kind: submission
+    date: 2026-06-15
+    label: Poster-only
+  - kind: notification
+    date: 2026-06-30
+  - kind: camera_ready
+    date: 2026-07-22
+    label: Final manuscript (extended from 2026-07-15)
+sources:
+- https://aqis-conf.org/
+- https://aqis-conf.org/2026/
+- https://aqis-conf.org/2026/abstract-submission/
+- https://aqis-conf.org/2026/committees/
+- https://aqis-conf.org/2025/
+- https://aqis-conf.org/2025/submission/
+- https://aqis-conf.org/2025/previous-editions/
+- https://portal.core.edu.au/conf-ranks/?search=AQIS&by=all&source=ICORE2026
+unverified:
+- AQIS 2027 host, dates and deadlines not announced as of 2026-10-31 (the 2026 site only says "See you at AQIS 2027")
+last_verified: 2026-10-31

@@ -1,0 +1,63 @@
+id: sre-kaigi
+name: SRE Kaigi
+full_name: SRE Kaigi
+type: industry
+tier: domestic
+areas: [systems, software]
+region: japan
+language: japanese
+frequency: annual
+organizer: SRE Kaigi Executive Committee (volunteer community committee)
+organizer_country: [japan]
+proceedings: None (non-archival)
+archival: false
+fee: "1,000 JPY without party, 5,000 JPY with party (2026)"
+typical:
+  deadline_months: [10]
+  conference_months: [1, 2]
+links:
+  website: https://srekaigi.net/
+notes:
+- Community-run Japanese practitioner conference on site reliability engineering; separate from SRE NEXT
+- First held in January 2025; the 2027 edition is the third
+- One day on a weekend at Nakano Central Park Conference, Tokyo, in person with some sessions streamed online
+- Talk proposals (30 min sessions) via fortee, plus a later short session call; no papers or proceedings
+- Talks in languages other than Japanese are allowed but there is no simultaneous interpretation
+- Three tracks (hall of about 160 seats and two rooms of about 70); one accepted session per person
+- Co-hosted Cloud Native Kaigi in Nagoya in May 2026 with CloudNative Days and Platform Engineering Kaigi
+editions:
+- year: 2026
+  start: 2026-01-31
+  end: 2026-01-31
+  location: Nakano Central Park Conference, Tokyo, Japan
+  url: https://2026.srekaigi.net/
+  deadlines:
+  - kind: submission
+    date: 2025-10-04
+    time: "23:59"
+    tz: JST
+    label: Talk proposals (CfP)
+- year: 2027
+  start: 2027-02-20
+  end: 2027-02-20
+  location: Nakano Central Park Conference, Tokyo, Japan
+  url: https://2027.srekaigi.net/
+  deadlines:
+  - kind: submission
+    date: 2026-10-15
+    time: "23:59"
+    tz: JST
+    label: Talk proposals (CfP)
+sources:
+- https://srekaigi.net/
+- https://2027.srekaigi.net/
+- https://2026.srekaigi.net/
+- https://2025.srekaigi.net/
+- https://fortee.jp/sre-kaigi-2027/speaker/proposal/cfp
+- https://fortee.jp/sre-kaigi-2026/speaker/proposal/cfp
+- https://kaigi.cloudnativedays.jp/
+- https://portal.core.edu.au/conf-ranks/?search=SRE+Kaigi&by=all&source=ICORE2026
+unverified:
+- Exact notification date for the 2027 CfP not given (CfP page says only mid-November 2026)
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-31

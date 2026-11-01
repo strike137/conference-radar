@@ -1,0 +1,77 @@
+id: smt
+name: SMT
+full_name: International Workshop on Satisfiability Modulo Theories
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: SMT Workshop Steering Committee (elected members plus workshop and SMT-COMP representatives)
+organizer_country: [international]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [7, 8]
+links:
+  website: https://smt-workshop.cs.uiowa.edu/
+notes:
+- Annual workshop on SMT solving (decision procedures, theory combination, solver implementation, benchmarks and applications in verification, synthesis and testing)
+- Held since 2007 (preceded by the PDPAR workshops 2003 to 2006); SMT 2026 was the 24th edition
+- 'Always a satellite of an automated reasoning or verification conference: CAV, IJCAR, CADE or SAT (2026 -> IJCAR at FLoC 2026)'
+- Recent locations rotate between Europe, North America and Israel (2021 online, 2022 Haifa, 2023 Rome, 2024 Montreal, 2025 Glasgow, 2026 Lisbon)
+- Three categories, all peer-reviewed; original papers up to 12 pages, extended abstracts up to 10 pages, and presentation-only papers that are not published
+- Proceedings in open-access CEUR-WS (SMT 2023 -> Vol-3429, SMT 2024 -> Vol-3725, SMT 2025 -> Vol-4008 jointly with PoS)
+- Morgan Deters Travel Award for students
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 23rd SMT
+  start: 2025-08-10
+  end: 2025-08-11
+  location: Glasgow, UK (affiliated with SAT 2025)
+  url: https://smt-workshop.cs.uiowa.edu/2025/index.shtml
+  deadlines:
+  - kind: abstract
+    date: 2025-05-16
+    tz: AoE
+  - kind: submission
+    date: 2025-05-22
+    tz: AoE
+  - kind: notification
+    date: 2025-06-19
+- year: 2026
+  label: 24th SMT
+  start: 2026-07-24
+  end: 2026-07-25
+  location: Lisbon, Portugal (affiliated with IJCAR 2026, FLoC 2026)
+  url: https://smt-workshop.cs.uiowa.edu/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-03
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-05-07
+    tz: AoE
+    label: Extended from 2026-05-03
+  - kind: notification
+    date: 2026-05-30
+sources:
+- https://smt-workshop.cs.uiowa.edu/
+- https://smt-workshop.cs.uiowa.edu/meetings.shtml
+- https://smt-workshop.cs.uiowa.edu/bylaws.shtml
+- https://smt-workshop.cs.uiowa.edu/committees.shtml
+- https://smt-workshop.cs.uiowa.edu/2026/
+- https://smt-workshop.cs.uiowa.edu/2026/committees.shtml
+- https://smt-workshop.cs.uiowa.edu/2025/index.shtml
+- https://smt-workshop.cs.uiowa.edu/2024/index.shtml
+- https://smt-workshop.cs.uiowa.edu/2023/index.shtml
+- https://ceur-ws.org/Vol-4008/
+- https://ceur-ws.org/
+- https://portal.core.edu.au/conf-ranks/?search=SMT&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- SMT 2026 CEUR volume not yet published as of 2026-10-31; the 2026 page says proceedings shall be submitted to CEUR-WS
+- SMT 2027 not announced on an official page as of 2026-10-31

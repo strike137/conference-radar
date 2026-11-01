@@ -1,0 +1,64 @@
+id: valse
+name: VALSE
+full_name: Vision and Learning Seminar
+name_local: 视觉与学习青年学者研讨会
+type: conference
+tier: domestic
+areas: [vision, ai]
+region: china
+language: chinese
+frequency: annual
+organizer: CSIG (China Society of Image and Graphics), with local host universities
+organizer_country: [china]
+proceedings: None (talks and posters of already published papers only)
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [5, 6]
+links:
+  website: https://valser.org/
+notes:
+- Annual meeting of the Chinese-speaking computer vision and machine learning community, aimed at young researchers
+- First held in 2011; 2026 in Wuhan was the 16th edition, with about 5000 expected attendees
+- Run by the China Society of Image and Graphics (CSIG) with local host universities (HUST, Wuhan University and China
+  University of Geosciences in 2026; Sun Yat-sen University in 2025)
+- Invited keynotes, tutorials, workshops and a large poster session of top conference and journal papers already
+  published or accepted, so no proceedings and nothing new is published
+- No registration fee in past editions, but places are limited and pre-registration fills up within an hour
+- Held in a different Chinese city each year (Hangzhou 2021, Tianjin 2022, Wuxi 2023, Chongqing 2024, Zhuhai 2025,
+  Wuhan 2026)
+- Also runs the year-round online VALSE Webinar series
+- Not in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-06-06
+  end: 2025-06-08
+  location: Zhuhai, China
+  url: https://valser.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-20
+    label: Poster applications (top venue papers published or accepted since 2024)
+  - kind: notification
+    date: 2025-04-25
+    label: Poster acceptance
+- year: 2026
+  start: 2026-05-08
+  end: 2026-05-10
+  location: Wuhan, China
+  url: https://valser.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-05
+    label: Poster applications (top venue papers published or accepted since 2025)
+  - kind: notification
+    date: 2026-04-10
+    label: Poster acceptance
+sources:
+- https://valser.org/
+- https://valser.org/2026/
+- https://valser.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=VALSE&by=all&source=ICORE2026
+unverified:
+- VALSE 2027 dates and city
+last_verified: 2026-10-31

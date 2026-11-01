@@ -1,0 +1,66 @@
+id: rage
+name: RAGE
+full_name: Real-time And intelliGent Edge computing workshop
+type: workshop
+tier: minor
+areas: [systems, networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop steering committee (Scuola Superiore Sant'Anna, Robert Bosch GmbH, KTH); co-located with CPS-IoT Week
+organizer_country: [europe]
+proceedings: IEEE Xplore or ACM DL (CPS-IoT Week workshop proceedings)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5]
+links:
+  website: https://rage-workshop.github.io/
+notes:
+- Workshop on predictable, real-time edge computing and edge AI, including scheduling, middleware (ROS, TensorRT), real-time networking and edge security
+- Started with DAC 2022 (San Francisco); held at CPS-IoT Week since 2023 (San Antonio 2023, Hong Kong 2024, Irvine 2025, Saint Malo 2026)
+- Solicits work-in-progress papers, peer reviewed by the TPC, with 15 minute talks; full-day format with invited talks and an open discussion
+- Papers appear in the CPS-IoT Week workshop proceedings, ACM DL in 2023 and 2025 and IEEE Xplore in 2024 and 2026
+- Technically sponsored by the Embedded Systems Special Interest Group (EMSIG), IEEE Future Networks and the EU NANCY project
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 4th edition, at CPS-IoT Week 2025
+  start: 2025-05-06
+  end: 2025-05-06
+  location: Irvine, CA, USA
+  url: https://rage-workshop.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-10
+    tz: AoE
+    label: Extended from Jan 25
+  - kind: notification
+    date: 2025-03-01
+- year: 2026
+  label: 5th edition, at CPS-IoT Week 2026
+  start: 2026-05-11
+  end: 2026-05-11
+  location: Saint Malo, France
+  url: https://rage-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-10
+    tz: AoE
+    label: Extended from Feb 3
+  - kind: notification
+    date: 2026-03-02
+sources:
+- https://rage-workshop.github.io/2026/
+- https://rage-workshop.github.io/2026/organizers/
+- https://rage-workshop.github.io/2026/proceedings/
+- https://rage-workshop.github.io/2026/past-events/
+- https://rage-workshop.github.io/2025/
+- https://rage-workshop.github.io/2025/proceedings/
+- https://rage-workshop.github.io/2024/proceedings/
+- https://rage-workshop.github.io/2023/proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=RAGE&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-31
+unverified:
+- No 2027 edition announced yet (rage-workshop.github.io/2027/ not online on 2026-10-31)
+- Camera-ready deadlines not listed on the official pages

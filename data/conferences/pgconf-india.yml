@@ -1,0 +1,66 @@
+id: pgconf-india
+name: PGConf India
+full_name: PGConf India (PostgreSQL Conference India)
+type: industry
+tier: minor
+areas: [data, software]
+region: south-asia
+language: english
+frequency: annual
+organizer: India PostgreSQL User Group
+organizer_country: [india]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [2, 3]
+links:
+  website: https://pgconf.in/
+notes:
+- Practitioner PostgreSQL conference run by the India PostgreSQL User Group; bills itself as Asia's premier PostgreSQL conference
+- Talks range from PostgreSQL internals by core developers to end user case studies from startups, multinationals and government
+- Format is a training day followed by two conference days; tracks for application developers, DB engine developers, DB administration, case studies, extensions/tools and community
+- Talk proposals (25 or 40 minutes) and 3.5 hour workshop proposals chosen by a program committee; no proceedings
+- 'Held in Bengaluru every edition on the site: 2019, 2020, 2023, 2024, 2025, 2026; 2025, 2026 and 2027 at Sheraton Grand Hotel at Brigade Gateway'
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-03-11
+  end: 2026-03-13
+  location: Sheraton Grand Hotel at Brigade Gateway, Bengaluru, India
+  url: https://pgconf.in/pgconfin/pgconf-india-2026
+- year: 2027
+  start: 2027-03-02
+  end: 2027-03-05
+  location: Sheraton Grand Hotel at Brigade Gateway, Bengaluru, India
+  url: https://pgconf.in/pgconfin/pgconf-india-2027
+  deadlines:
+  - kind: submission
+    date: 2026-10-15
+    time: "23:59"
+    tz: UTC
+    label: Call for papers (talks)
+  - kind: submission
+    date: 2026-10-31
+    time: "23:59"
+    tz: AoE
+    label: Call for workshops
+  - kind: notification
+    date: 2026-11-15
+    label: Workshop decisions
+sources:
+- https://pgconf.in/
+- https://pgconf.in/pgconfin
+- https://pgconf.in/cfp
+- https://pgconf.in/organisers
+- https://pgconf.in/schedule
+- https://pgconf.in/pgconfin/pgconf-india-2026
+- https://pgconf.in/pgconfin/pgconf-india-2025
+- https://pgconf.in/pgconfin/pgconf-india-2024
+- https://pgconf.in/pgconfin/pgconf-india-2023
+- https://pgconf.in/pgconfin/pgconf-india-2020
+- https://pgconf.in/pgconfin/pgconf-india-2019
+- https://portal.core.edu.au/conf-ranks/?search=PGConf&by=all&source=ICORE2026
+unverified:
+- Talk CFP deadline (2026-10-15 23:59 UTC) read from the CFP page data; the visible page only shows the call as closed
+last_verified: 2026-10-31

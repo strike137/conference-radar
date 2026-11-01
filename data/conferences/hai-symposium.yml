@@ -1,0 +1,108 @@
+id: hai-symposium
+name: HAI Symposium
+full_name: HAI Symposium (Human-Agent Interaction Symposium)
+name_local: HAIシンポジウム
+type: conference
+tier: domestic
+areas: [ai]
+region: japan
+language: japanese
+frequency: annual
+organizer: HAI Symposium Steering Committee (HAIシンポジウム運営委員会)
+organizer_country: [japan]
+proceedings: HAI Symposium web proceedings (hai-conference.net)
+archival: false
+typical:
+  deadline_months: [12, 1]
+  conference_months: [2, 3]
+links:
+  website: https://hai-conference.net/symp2027/
+notes:
+- Domestic Japanese symposium on human-agent interaction (agents, robots, communication, cognitive science), held
+  almost every year since 2006 (no 2019 edition in the past proceedings list); 2026 was the 20th edition
+- Separate from the international ACM HAI conference (hai), which shares the hai-conference.net portal
+- No peer review; submissions far outside the scope may be rejected
+- Oral (single track, 4+ pages) and poster (1+ pages) presentations; selected oral papers get a longer discussion
+  session
+- Papers use the JSAI SIG style file; authors keep copyright; past programs and papers are open on the website
+- Recent venues - Shizuoka University Hamamatsu (2023, 2024), Kindai University Higashi-Osaka (2025, 2026), Gifu
+  (2027)
+- Not listed in CORE ICORE2026 (the CORE "HAI" entry is the international conference)
+editions:
+- year: 2026
+  start: 2026-02-27
+  end: 2026-02-28
+  location: Kindai University Higashi-Osaka Campus (Building E, KDIX), Osaka, Japan
+  url: https://hai-conference.net/symp2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-19
+    time: "18:00"
+    tz: JST
+    label: Oral presentation application
+  - kind: notification
+    date: 2026-01-09
+    label: Oral presentations
+  - kind: other
+    date: 2026-01-16
+    time: "18:00"
+    tz: JST
+    label: Poster presentation application
+  - kind: notification
+    date: 2026-01-23
+    label: Poster presentations
+  - kind: camera_ready
+    date: 2026-01-23
+    label: Oral papers
+  - kind: camera_ready
+    date: 2026-02-13
+    label: Poster papers
+- year: 2027
+  start: 2027-03-04
+  end: 2027-03-05
+  location: Juroku Plaza (in front of Gifu Station), Gifu, Japan
+  url: https://hai-conference.net/symp2027/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-12-21
+    time: "18:00"
+    tz: JST
+    label: Oral presentation application
+  - kind: notification
+    date: 2027-01-15
+    label: Oral presentations
+  - kind: other
+    date: 2027-01-22
+    time: "18:00"
+    tz: JST
+    label: Poster presentation application
+  - kind: notification
+    date: 2027-01-29
+    label: Poster presentations
+  - kind: camera_ready
+    date: 2027-01-29
+    label: Oral papers
+  - kind: camera_ready
+    date: 2027-02-12
+    label: Poster papers
+  - kind: other
+    date: 2027-02-19
+    label: Participant registration
+sources:
+- https://hai-conference.net/symp2027/
+- https://hai-conference.net/symp2027/schedule.php
+- https://hai-conference.net/symp2027/information.php
+- https://hai-conference.net/symp2026/
+- https://hai-conference.net/symp2026/schedule.php
+- https://hai-conference.net/symp2026/information.php
+- https://hai-conference.net/symp2026/committee.php
+- https://hai-conference.net/symp2026/proceedings.php
+- https://hai-conference.net/symp2025/
+- https://hai-conference.net/symp2024/
+- https://hai-conference.net/symp2023/
+- https://portal.core.edu.au/conf-ranks/?search=Human-Agent%20Interaction&by=all&source=ICORE2026
+unverified:
+- Camera-ready and registration deadlines are given as 24:00 on the listed day; recorded without a time
+- Number of submissions per edition not stated on the official pages
+last_verified: 2026-10-31

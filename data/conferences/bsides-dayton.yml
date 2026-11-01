@@ -1,0 +1,60 @@
+id: bsides-dayton
+name: BSidesDayton
+full_name: BSides Dayton
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: BSidesDayton (volunteer organizers)
+organizer_country: [usa]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://bsidesdayton.com/
+notes:
+- Community-driven Security BSides conference for the Dayton, Ohio area, run independently by local volunteers
+- First held in 2019; editions in 2019, 2020 (virtual), 2022 (all in November) and 2026 (moved to May)
+- One-day Saturday event at Fairborn City Church, Fairborn, Ohio, USA (2026 and 2027)
+- Single main track of 45 minute talks plus 15 minutes Q&A, hands-on villages, a story-driven CTF and an after party
+- Call for papers with rolling acceptance; speakers get a free ticket, T-shirt and gift
+- About 100 attendees in 2026
+- No proceedings
+editions:
+- year: 2026
+  start: 2026-05-23
+  end: 2026-05-23
+  location: Fairborn City Church, Fairborn, Ohio, USA
+  url: https://bsidesdayton.com/recap-2026
+- year: 2027
+  start: 2027-05-15
+  end: 2027-05-15
+  location: Fairborn City Church, Fairborn, Ohio, USA
+  url: https://bsidesdayton.com/
+  deadlines:
+  - kind: other
+    date: 2026-10-01
+    label: Call for Papers opens
+  - kind: submission
+    date: 2027-03-20
+    time: "23:59"
+    tz: EST
+    label: Call for Papers (rolling)
+  - kind: notification
+    date: 2027-04-22
+sources:
+- https://bsidesdayton.com/
+- https://bsidesdayton.com/submissions
+- https://bsidesdayton.com/schedule
+- https://bsidesdayton.com/recap-2026
+- https://bsidesdayton.com/recaps
+- https://bsidesdayton.com/staff
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- 2026 call for papers dates not found on the official site
+- Not listed in ICORE2026 or the CCF 2026 list

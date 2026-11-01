@@ -1,0 +1,60 @@
+id: yapc-japan
+name: YAPC::Japan
+full_name: YAPC::Japan (Yet Another Perl Conference, Japan)
+type: industry
+tier: minor
+areas: [software]
+region: japan
+language: japanese
+frequency: annual
+organizer: Japan Perl Association
+organizer_country: [japan]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://yapcjapan.org/
+notes:
+- Community conference run by the Japan Perl Association; each edition is named after its host city
+  (YAPC::Kyoto 2023, YAPC::Hiroshima 2024, YAPC::Hakodate 2024, YAPC::Fukuoka 2025, YAPC::Tokyo 2026)
+- Centered on Perl but in practice covers web engineering, SRE, AI and other general software topics
+- Rebooted as YAPC::Japan in 2017; 2024 had two editions (Hiroshima in February, Hakodate in October)
+- Several editions held at universities (Future University Hakodate, Fukuoka Institute of Technology); 2026 at
+  Tokyo Big Sight
+- Talks of 20 or 40 minutes and live coding or hands-on sessions chosen from a call for proposals on fortee
+- Student support and under-29 support programs for attendees
+- No papers or proceedings; talks only
+editions:
+- year: 2025
+  start: 2025-11-14
+  end: 2025-11-15
+  location: Fukuoka Institute of Technology, Fukuoka, Japan
+  url: https://yapcjapan.org/2025fukuoka/
+- year: 2026
+  start: 2026-11-28
+  end: 2026-11-29
+  location: Tokyo Big Sight, Koto, Tokyo, Japan
+  url: https://yapcjapan.org/2026tokyo/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-09-06
+    time: "23:59"
+    tz: JST
+    label: Call for proposals (talks), extended from 2026-09-01
+sources:
+- https://yapcjapan.org/
+- https://yapcjapan.org/2026tokyo/
+- https://blog.yapcjapan.org/entry/2026/07/24/172000
+- https://yapcjapan.org/2025fukuoka/
+- https://yapcjapan.org/2024hakodate/
+- https://yapcjapan.org/2024hiroshima/
+- https://yapcjapan.org/2023kyoto/
+- https://portal.core.edu.au/conf-ranks/?search=YAPC&by=all&source=ICORE2026
+unverified:
+- YAPC::Tokyo 2026 also has an eve event on 2026-11-27; the main conference days are 2026-11-28 and 29
+- YAPC::Fukuoka 2025 call for proposals deadline not checked
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-31

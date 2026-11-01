@@ -1,0 +1,54 @@
+id: biodms
+name: BioDMS
+full_name: Workshop on Biomedical Data Management Systems
+type: workshop
+tier: minor
+areas: [data, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: BioDMS general chairs (Harvard, MIT CSAIL, Northeastern, HU Berlin); co-located with VLDB
+organizer_country: [usa, europe]
+proceedings: VLDB Workshop Proceedings (vldb.org); also hosted on OpenReview
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://biodms.org/
+notes:
+- Inaugural edition in 2026, a half-day afternoon workshop held with VLDB 2026 in Boston
+- Brings biomedical informatics and data management researchers together on biomedical data challenges
+- Lightning talk proposals (2-page abstract) and project talk proposals (4-page short paper), PVLDB format
+- General chairs from Harvard, MIT CSAIL, Northeastern University and Humboldt-Universitaet zu Berlin
+- Single-blind review with at least two reviewers per submission, via OpenReview
+- Camera-ready papers go into the workshop proceedings (9 papers in the VLDB 2026 workshop proceedings); authors also write a blog post for the site
+- Region set as worldwide because it follows VLDB; only the 2026 edition is known
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 1st edition, with VLDB 2026
+  start: 2026-09-04
+  end: 2026-09-04
+  location: Boston, USA
+  url: https://biodms.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    time: "23:59"
+    tz: AoE
+    label: Talk proposals (extended from May 15)
+  - kind: notification
+    date: 2026-06-25
+  - kind: camera_ready
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://biodms.org/
+- https://www.vldb.org/2026/workshops.html
+- https://www.vldb.org/2026/Workshops/vldb.html
+- https://portal.core.edu.au/conf-ranks/?search=BioDMS&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- BioDMS 2027 not announced yet; not yet clear whether the workshop will recur

@@ -1,0 +1,72 @@
+id: ssvm
+name: SSVM
+full_name: International Conference on Scale Space and Variational Methods in Computer Vision
+type: conference
+tier: minor
+areas: [vision]
+region: europe
+language: english
+frequency: biennial
+organizer: Local organizing committee in rotation (TU Eindhoven with Utrecht, Twente, Amsterdam and Copenhagen in 2027)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [5, 6]
+links:
+  website: https://ssvm2027.github.io/
+  dblp: https://dblp.org/db/conf/scalespace/index.html
+notes:
+- Biennial forum on mathematical computer vision and imaging (variational methods, PDEs, scale space, geometry, inverse problems, machine learning in imaging)
+- Held in Europe at a retreat-style venue; 2025 at Dartington Hall near Totnes (UK), 2027 in Veldhoven near Eindhoven (NL)
+- Papers up to 12 pages including references in LNCS format; double-blind review
+- Proceedings in Springer LNCS; 2027 edition supported by the Journal of Mathematical Imaging and Vision
+- Respected in the mathematical imaging community, smaller and more theoretical than mainstream vision venues
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-05-18
+  end: 2025-05-22
+  location: Dartington Hall, Totnes, UK
+  url: https://sites.google.com/view/ssvm-2025/
+  deadlines:
+  - kind: submission
+    date: 2024-12-10
+    time: "23:59"
+    tz: CET
+    label: Papers (extended)
+  - kind: notification
+    date: 2025-02-17
+  - kind: camera_ready
+    date: 2025-03-07
+- year: 2027
+  start: 2027-06-06
+  end: 2027-06-10
+  location: Veldhoven, Netherlands
+  url: https://ssvm2027.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+    time: "23:59"
+    tz: CET
+  - kind: notification
+    date: 2027-02-28
+  - kind: camera_ready
+    date: 2027-03-14
+sources:
+- https://ssvm2027.github.io/
+- https://ssvm2027.github.io/important-dates/
+- https://ssvm2027.github.io/submission/
+- https://ssvm2027.github.io/people/
+- https://ssvm2027.github.io/venue/
+- https://sites.google.com/view/ssvm-2025/
+- https://sites.google.com/view/ssvm-2025/important-dates
+- https://sites.google.com/view/ssvm-2025/submission
+- https://sites.google.com/view/ssvm-2025/camera-ready
+- https://sites.google.com/view/ssvm-2025/venue
+- https://portal.core.edu.au/conf-ranks/?search=SSVM&by=all&source=ICORE2026
+unverified:
+- 2027 site uses the LNCS template but does not yet state the publisher; Springer LNCS assumed from 2025 and earlier editions
+- Acceptance rate and registration fees not found on the official sites
+last_verified: 2026-10-31

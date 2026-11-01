@@ -1,0 +1,69 @@
+id: icsrs
+name: ICSRS
+full_name: International Conference on System Reliability and Safety
+type: conference
+tier: minor
+areas: [systems, ai]
+region: europe
+language: english
+frequency: annual
+organizer: ICSRS organizing committee (general chair Enrico Zio), technically co-sponsored by Politecnico di Milano and the IEEE Reliability Society Italy Chapter
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, EI]
+typical:
+  conference_months: [11]
+links:
+  website: https://www.icsrs.org/
+notes:
+- Annual conference on reliability and safety of engineered systems (fault diagnosis, fault-tolerant control, risk
+  analysis, prognostics and maintenance, ML for reliability, software reliability); 10th edition in 2026
+- Proceedings in IEEE Xplore for every edition since 2016 (no 2020 edition); the site says they are indexed by Scopus and EI Compendex
+- Held in Italy almost every year (Venice 2022, Bologna 2023, Catania 2024, Turin 2025, Rome 2026); Paris 2016 and Barcelona 2018
+- Full papers of 4 to 10 pages in IEEE format via EasyChair; abstract-only submissions are presented but not published
+- "Registration fee: 650 USD for authors, 575 USD for students (2026); one registration covers one paper of up to 5 pages"
+- Selected ICSRS 2024 papers were recommended to an ICSRS special issue of the Journal of Nuclear Engineering (MDPI)
+- ESRA offers four 575 USD PhD student scholarships for in-person presenters (2026)
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2025
+  label: 9th ICSRS
+  start: 2025-11-26
+  end: 2025-11-28
+  location: Turin, Italy
+  url: https://www.icsrs.org/icsrs25.html
+- year: 2026
+  label: 10th ICSRS
+  start: 2026-11-23
+  end: 2026-11-25
+  location: Rome, Italy
+  url: https://www.icsrs.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-10
+    label: Final call
+  - kind: notification
+    date: 2026-10-25
+  - kind: other
+    date: 2026-11-01
+    label: Registration deadline
+sources:
+- https://www.icsrs.org/
+- https://www.icsrs.org/sub.html
+- https://www.icsrs.org/cfp.html
+- https://www.icsrs.org/ICSRS-cfp.pdf
+- https://www.icsrs.org/pub.html
+- https://www.icsrs.org/reg.html
+- https://www.icsrs.org/committee.html
+- https://www.icsrs.org/news.html
+- https://www.icsrs.org/icsrs25.html
+- https://www.icsrs.org/icsrs24.html
+- https://www.icsrs.org/icsrs23.html
+- https://www.icsrs.org/icsrs22.html
+- https://www.icsrs.org/icsrs21.html
+- https://portal.core.edu.au/conf-ranks/?search=ICSRS&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Only the final-call deadline is shown for 2026; earlier submission rounds and the deadline time zone are not stated
+- The body that runs the conference is not named on the site (only co-sponsors), so organizer_country is left out
+- 2021 location conflicts on the site (Palermo on the 2021 page, Rome on the publication page)

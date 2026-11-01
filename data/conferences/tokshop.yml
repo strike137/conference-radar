@@ -1,0 +1,70 @@
+id: tokshop
+name: TokShop
+full_name: Tokenization Workshop (Let's Talk about Tokenization)
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: TokShop organizing committee (researchers from University of Washington, LMU Munich, Ohio State, Charles
+  University, University of Oslo, Google DeepMind, UTN and Ben-Gurion University); co-located with ICML (2025) and
+  COLM (2026)
+organizer_country: [international]
+proceedings: None (non-archival) in 2026; the 2025 ICML edition offered an archival option
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7, 10]
+links:
+  website: https://tokenization-workshop.github.io/
+notes:
+- Workshop on tokenization in its broadest sense, covering subword methods, multimodal and multilingual tokenization,
+  tokenizer modification and byte or pixel level inputs
+- 1st edition at ICML 2025 in Vancouver; 2nd edition at COLM 2026 in San Francisco; the host conference changes
+- 2026 accepts only non-archival submissions, research papers up to 9 pages or extended abstracts up to 2 pages
+- Double-blind review on OpenReview in the host conference style; arXiv posting allowed
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-07-18
+  end: 2025-07-18
+  location: Vancouver, Canada (co-located with ICML 2025)
+  url: https://tokenization-workshop.github.io/tokshop-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-31
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-06-09
+  - kind: camera_ready
+    date: 2025-06-25
+    time: "23:59"
+    tz: AoE
+    label: Extended
+- year: 2026
+  start: 2026-10-09
+  end: 2026-10-09
+  location: San Francisco, USA (co-located with COLM 2026)
+  url: https://tokenization-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-26
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-07-24
+sources:
+- https://tokenization-workshop.github.io/
+- https://tokenization-workshop.github.io/tokshop-2025/
+- https://openreview.net/group?id=colmweb.org/COLM/2026/Workshop/TokShop
+- https://openreview.net/group?id=ICML.cc/2025/Workshop/TokShop
+- https://colm.cc/Conferences/2026/Workshops
+- https://portal.core.edu.au/conf-ranks/?search=TokShop&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Where the 2025 archival-track papers were published is not stated on the site
+- No 2027 edition announced as of 2026-10-31

@@ -1,0 +1,50 @@
+id: mlbench
+name: MLBench
+full_name: Workshop on Benchmarking and Performance of Machine Learning Workloads on Emerging Hardware
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: MLBench organizers (Argonne National Laboratory, Gimlet Labs, Oregon State University); co-located with ACM ASPLOS
+organizer_country: [usa]
+proceedings: Workshop website (accepted papers online, non-archival)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [3]
+links:
+  website: https://memani1.github.io/mlbench26/
+notes:
+- One-day workshop on benchmarking and characterizing ML workloads on emerging hardware, with invited talks, paper talks and a panel
+- Held with MLSys 2020 to 2023 (Austin, virtual, Santa Clara, Miami), no 2024 edition, then with ASPLOS since 2025 (Rotterdam 2025, Pittsburgh 2026)
+- Full papers (8-10 pages) and short or position papers (4-6 pages) in ACM format; double-blind since 2025; at least three reviews per paper
+- Accepted papers and slides are posted on the workshop website only; no formal proceedings
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-03-22
+  end: 2026-03-22
+  location: Pittsburgh, USA
+  url: https://memani1.github.io/mlbench26/
+  deadlines:
+  - kind: submission
+    date: 2026-02-06
+    tz: AoE
+  - kind: notification
+    date: 2026-02-17
+  - kind: camera_ready
+    date: 2026-03-06
+sources:
+- https://memani1.github.io/mlbench26/
+- https://memani1.github.io/mlbench25/
+- https://memani1.github.io/mlbench23/
+- https://memani1.github.io/mlbench22/
+- https://memani1.github.io/mlbench21/
+- https://memani1.github.io/challenge20/
+- https://portal.core.edu.au/conf-ranks/?search=MLBench&by=all&source=ICORE2026
+unverified:
+- MLBench 2027 not announced yet (no 2027 page found on 2026-10-31)
+- Acceptance rate and fee not published (registration goes through the host conference)
+last_verified: 2026-10-31

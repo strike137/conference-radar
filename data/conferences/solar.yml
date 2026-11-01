@@ -1,0 +1,74 @@
+id: solar
+name: SoLaR
+full_name: Workshop on Socially Responsible Language Modelling Research
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: SoLaR organizing committee (researchers from Cambridge, University of Washington, AI2, CMU, UCL, Oxford, Stanford
+  and others); co-located with NeurIPS (2023, 2024) and COLM (2025)
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [6, 9]
+  conference_months: [10, 12]
+links:
+  website: https://solar-neurips.github.io/
+notes:
+- Workshop on responsible and safe language models, with a technical track and a sociotechnical track
+- Held with NeurIPS 2023, NeurIPS 2024 (Vancouver) and COLM 2025 (Montreal, 3rd edition); the host conference changes
+- No formal proceedings; accepted papers are posted on the website and OpenReview
+- Papers up to 5 pages in the host conference style; double-blind review by at least two reviewers
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-10-10
+  end: 2025-10-10
+  location: Montreal, Canada (co-located with COLM 2025)
+  url: https://solar-colm.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-06-27
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-07-24
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-15
+    time: "23:59"
+    tz: AoE
+- year: 2024
+  start: 2024-12-14
+  end: 2024-12-14
+  location: Vancouver, Canada (co-located with NeurIPS 2024)
+  url: https://solar-neurips.github.io/
+  deadlines:
+  - kind: submission
+    date: 2024-09-14
+    tz: AoE
+  - kind: notification
+    date: 2024-10-09
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-12-01
+    tz: AoE
+sources:
+- https://solar-colm.github.io/
+- https://solar-colm.github.io/call
+- https://solar-colm.github.io/organisers
+- https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/SoLaR
+- https://solar-neurips.github.io/
+- https://solar-neurips.github.io/call
+- https://solar-neurips.github.io/organisers
+- https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SoLaR
+- https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/SoLaR
+- https://portal.core.edu.au/conf-ranks/?search=SoLaR&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2026 edition found on the SoLaR or COLM 2026 sites as of 2026-10-31

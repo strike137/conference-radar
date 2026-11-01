@@ -1,0 +1,60 @@
+id: mama
+name: MAMA
+full_name: Workshop on MAthematical performance Modeling and Analysis
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: MAMA workshop organizers with ACM SIGMETRICS (sponsored by ACM and IBM)
+organizer_country: [international]
+proceedings: ACM SIGMETRICS Performance Evaluation Review (PER, ACM DL)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://www.sigmetrics.org/mama/
+notes:
+- One-day workshop held with ACM SIGMETRICS every year since 1999, on the day after the main technical program
+- Focus on mathematical, methodological and theoretical aspects of performance analysis, modeling and optimization of
+  computer systems and networks
+- Accepts 3-page short papers on early research or work in progress, submitted by e-mail and reviewed by the MAMA
+  program committee
+- Revised short papers appear in a special issue of ACM Performance Evaluation Review (PER) after the workshop
+- Authors keep copyright and are free to submit the full work elsewhere, so it works like a talk venue for theory
+  results
+- Follows the SIGMETRICS host city (Orlando 2023, Venice 2024, Stony Brook 2025, Ann Arbor 2026)
+- Not listed in CORE ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-12
+  end: 2026-06-12
+  location: Ann Arbor, USA (with ACM SIGMETRICS 2026)
+  url: https://www.sigmetrics.org/mama/
+  deadlines:
+  - kind: submission
+    date: 2026-04-20
+    label: Hard deadline
+  - kind: notification
+    date: 2026-05-04
+  - kind: camera_ready
+    date: 2026-05-18
+    label: Final versions for the workshop
+  - kind: other
+    date: 2026-07-13
+    label: Final short papers for PER
+sources:
+- https://www.sigmetrics.org/mama/
+- https://www.sigmetrics.org/mama/index.shtml
+- https://www.sigmetrics.org/mama/submission.shtml
+- https://www.sigmetrics.org/mama/history.shtml
+- https://www.sigmetrics.org/sigmetrics2026/
+- https://portal.core.edu.au/conf-ranks/?search=MAMA&by=all&source=ICORE2026
+unverified:
+- The MAMA page does not name the 2026 city; Ann Arbor is taken from the co-located SIGMETRICS 2026
+- Deadline times and time zones are not stated
+- MAMA 2027 not announced yet (SIGMETRICS 2027 is part of ACM FCRC in Atlanta)
+- Registration fee not checked
+last_verified: 2026-10-31

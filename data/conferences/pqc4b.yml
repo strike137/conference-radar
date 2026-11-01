@@ -1,0 +1,55 @@
+id: pqc4b
+name: PQC4B
+full_name: Post-Quantum Cryptography for Blockchains Workshop
+type: workshop
+tier: minor
+areas: [crypto, security]
+region: north-america
+language: english
+frequency: irregular
+organizer: Blockchain Governance Initiative Network (BGIN) with the SSR 2026 Organizing Committee; program chairs Mitchell Travers (BGIN) and Kanta Matsuura (University of Tokyo)
+organizer_country: [international, usa]
+proceedings: None (no proceedings announced; authors wanting an archival full paper are pointed to SSR 2027)
+archival: false
+typical:
+  deadline_months: [10, 11]
+  conference_months: [12]
+links:
+  website: https://ssresearch26.umbc.edu/call-for-papers/pqc-workshop/
+notes:
+- One-day workshop co-located with SSR 2026 (Security Standardisation Research), in parallel with the Protocol Analysis Workshop
+- Focus on migrating blockchains and distributed ledgers to standardized PQC signatures, hybrid designs, crypto-agility, evaluation methods and governance; new PQC primitives are out of scope
+- Feeds the specification of the NEDO/METI (Japan) international prize programme on blockchain PQC migration, FY2026 to 2028
+- Reviewed paper track (double-blind, at least two reviews, LNCS, regular up to 12 pages, short up to 6, SoK or Vision) and a Work-in-Progress track of extended abstracts up to 4 pages
+- No proceedings are announced for reviewed papers; the CFP points authors wanting an archival full paper to SSR 2027, and WiP abstracts are explicitly not in any proceedings (only shared with participants)
+- 'Registration (2026, in person): 200 USD early, 250 USD regular, 300 USD late; virtual 100 to 150 USD; student discount available'
+editions:
+- year: 2026
+  start: 2026-12-13
+  end: 2026-12-13
+  location: Hilton Baltimore Inner Harbor, Baltimore, MD, USA
+  url: https://ssresearch26.umbc.edu/call-for-papers/pqc-workshop/
+  deadlines:
+  - kind: submission
+    date: 2026-10-19
+    tz: AoE
+    label: Reviewed papers
+  - kind: notification
+    date: 2026-11-06
+    label: Reviewed papers
+  - kind: submission
+    date: 2026-11-20
+    tz: AoE
+    label: Work-in-Progress extended abstracts
+  - kind: notification
+    date: 2026-11-23
+    label: Work-in-Progress
+sources:
+- https://ssresearch26.umbc.edu/call-for-papers/pqc-workshop/
+- https://ssresearch26.umbc.edu/
+- https://portal.core.edu.au/conf-ranks/?search=PQC4B&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- First edition in 2026, so frequency and region are assumptions; SSR itself moves between countries
+- The page does not state outright whether reviewed papers get any proceedings; it only points authors wanting an archival paper to SSR 2027
+- Not in the ICORE2026 portal and not in the CCF list, so no rank is given

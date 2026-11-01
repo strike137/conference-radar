@@ -1,0 +1,71 @@
+id: gem-bio
+name: GEM
+full_name: Generative and Experimental Perspectives for Biomolecular Design Workshop
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: GEM workshop organizers; held as an ICLR or NeurIPS workshop
+organizer_country: [international]
+proceedings: None (non-archival; camera-ready papers shown on OpenReview)
+archival: false
+typical:
+  deadline_months: [2, 9]
+  conference_months: [4, 12]
+links:
+  website: https://www.gembio.ai/
+notes:
+- Workshop bringing generative ML and wet-lab experimentalists together on protein, molecule and nucleic acid design
+- Held at ICLR 2024 (Vienna), ICLR 2025 (Singapore) and ICLR 2026 (Rio de Janeiro); moved to NeurIPS 2026 (Atlanta), so 2026 had two editions
+- Two tracks, a dry-lab (in silico) track and a wet-lab track for any work with experimental results
+- Short papers up to 5 pages, or 2-page extended abstracts for the wet-lab track; one round of double-blind review on OpenReview
+- Non-archival with no proceedings; at the ICLR editions selected papers could be fast-tracked to Cell Systems (2024) or Nature Biotechnology (2025, 2026)
+- Runs a binder design competition and USD 1,000 seed grants for new dry/wet lab collaborations; travel grants available
+- Not the GEM workshop on natural language generation (gem)
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: GEM@ICLR2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Riocentro Convention and Event Center, Rio de Janeiro, Brazil
+  url: https://www.gembio.ai/2026-iclr
+  deadlines:
+  - kind: submission
+    date: 2026-02-05
+    time: "23:59"
+    tz: AoE
+    label: Extended from February 2
+  - kind: notification
+    date: 2026-03-01
+  - kind: camera_ready
+    date: 2026-04-15
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  label: GEM@NeurIPS2026
+  start: 2026-12-13
+  end: 2026-12-13
+  location: Atlanta, USA
+  url: https://www.gembio.ai/
+  deadlines:
+  - kind: submission
+    date: 2026-09-06
+    time: "23:59"
+    tz: AoE
+    label: Extended from August 30 and September 2
+  - kind: notification
+    date: 2026-10-11
+  - kind: camera_ready
+    date: 2026-11-25
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.gembio.ai/
+- https://www.gembio.ai/2026-iclr
+- https://www.gembio.ai/2025
+- https://www.gembio.ai/2024
+- https://portal.core.edu.au/conf-ranks/?search=GEM&by=all&source=ICORE2026
+last_verified: 2026-10-31

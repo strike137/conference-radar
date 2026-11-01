@@ -1,0 +1,62 @@
+id: atait
+name: ATAIT
+full_name: International Symposium on Advanced Technologies and Applications in the Internet of Things
+type: conference
+tier: minor
+areas: [networking, systems, ai]
+region: japan
+language: english
+frequency: annual
+organizer: VLSI Center, Ritsumeikan University (supported by IEEE CEDA All Japan Joint Chapter)
+organizer_country: [japan]
+proceedings: CEUR-WS (CEUR Workshop Proceedings)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [8, 9]
+links:
+  website: https://www.atait.se.ritsumei.ac.jp/
+notes:
+- Small IoT symposium run by the VLSI Center of Ritsumeikan University, supported by the IEEE CEDA All Japan Joint Chapter
+- Topics include IoT networking and security, processor architecture, FPGAs and GPUs, embedded software, image processing and machine learning for IoT
+- Held in Kusatsu, Shiga (Ritsumeikan BKC) every year since 2019; the first edition (2018) was in Ibaraki, Osaka; 2021 was virtual
+- Proceedings in CEUR-WS (Vol-3198 for 2022, Vol-3459 for 2023, Vol-3748 for 2024, Vol-4082 for 2025)
+- Selected papers invited to extend for MDPI journal special issues (Drones, Sensors)
+- Papers 5 pages minimum in the one-column CEUR template, submitted via EasyChair
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 7th ATAIT
+  start: 2025-09-10
+  end: 2025-09-11
+  location: Kusatsu, Shiga, Japan
+  url: https://ceur-ws.org/Vol-4082/
+- year: 2026
+  label: 8th ATAIT
+  start: 2026-09-09
+  end: 2026-09-10
+  location: Rohm Plaza, Ritsumeikan University, Kusatsu, Shiga, Japan
+  url: https://www.atait.se.ritsumei.ac.jp/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-08-01
+  - kind: notification
+    date: 2026-08-20
+  - kind: camera_ready
+    date: 2026-08-30
+sources:
+- https://www.atait.se.ritsumei.ac.jp/
+- https://www.atait.se.ritsumei.ac.jp/cfp.html
+- https://www.atait.se.ritsumei.ac.jp/past.html
+- https://www.atait.se.ritsumei.ac.jp/program.html
+- https://www.atait.se.ritsumei.ac.jp/organiza.html
+- https://www.atait.se.ritsumei.ac.jp/data/ATAIT2026_Program.pdf
+- https://ceur-ws.org/Vol-3748/
+- https://ceur-ws.org/Vol-4082/
+- https://portal.core.edu.au/conf-ranks/?search=ATAIT&by=all&source=ICORE2026
+unverified:
+- ATAIT 2027 not announced as of 2026-10-31
+- Typical deadline month based on the 2026 call only (2023 deadline was in May)
+- Not listed in the CCF 2026 list; acceptance rate and fees not published on the site
+last_verified: 2026-10-31

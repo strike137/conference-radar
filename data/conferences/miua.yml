@@ -1,0 +1,65 @@
+id: miua
+name: MIUA
+full_name: Annual Conference on Medical Image Understanding and Analysis
+type: conference
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+frequency: annual
+organizer: BMVA (MIUA Steering Committee of previous conference chairs)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  conference_months: [7]
+links:
+  website: https://www.bmva.org/miua
+notes:
+- UK medical image analysis conference underwritten by the British Machine Vision Association (BMVA), running since 1997
+- Host city chosen each year by the MIUA Steering Committee through a bidding process; almost always held in the UK (Aberdeen 2023, Manchester 2024, Leeds 2025), Dublin in 2026
+- Proceedings in Springer LNCS (2025 in three volumes); selected best papers invited to the Annals of the BMVA
+- Short papers (up to 3 pages, since 2026) are published as abstracts in a Frontiers in Medical Technology ebook, not in LNCS
+- Run on a low-cost financial model to keep fees down for PhD students; often offers bursaries
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 29th edition
+  start: 2025-07-15
+  end: 2025-07-17
+  location: Leeds, UK
+- year: 2026
+  label: 30th edition
+  start: 2026-07-20
+  end: 2026-07-22
+  location: University College Dublin, Dublin, Ireland
+  url: https://www.ucd.ie/medicine/miua2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-23
+    time: "23:59"
+    tz: PDT
+    label: Full papers (extended from 2026-04-02)
+  - kind: submission
+    date: 2026-05-20
+    label: Short papers
+  - kind: other
+    date: 2026-05-20
+    label: Special session deadline
+  - kind: notification
+    date: 2026-06-05
+  - kind: camera_ready
+    date: 2026-06-12
+sources:
+- https://www.bmva.org/miua
+- https://www.ucd.ie/medicine/miua2026/calls/keydates/
+- https://www.ucd.ie/medicine/miua2026/calls/callforpapers/
+- https://doi.org/10.1007/978-3-031-98688-8
+- https://doi.org/10.1007/978-3-031-66955-2
+- https://doi.org/10.1007/978-3-031-48593-0
+- https://portal.core.edu.au/conf-ranks/?search=MIUA&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Key dates page states the full paper deadline time as "23:59 Pacific Time (PT)" (recorded as PDT); the short paper and special session deadlines give no time
+- 2025 dates taken from the Springer LNCS proceedings title; 2025 deadlines not checked
+- No 2027 edition announced on the BMVA page as of 2026-10-31

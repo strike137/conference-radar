@@ -1,0 +1,70 @@
+id: nenlp
+name: NENLP
+full_name: New England NLP Meeting Series (New England NLP Symposium)
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Rotating New England host university (2025 Yale, 2024 Brown, 2023 UMass Lowell, 2022 MIT) with a senior
+  committee from Brown, UMass Lowell, MIT and Yale
+organizer_country: [usa]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [3, 4]
+  conference_months: [4]
+links:
+  website: https://nenlp.github.io/
+notes:
+- One-day regional NLP meeting for academic and industry researchers who live and work in New England, with keynotes,
+  oral talks, posters and a panel
+- Hosts so far 2022 MIT, 2023 UMass Lowell, 2024 Brown (Providence), 2025 Yale (New Haven)
+- Submissions are extended abstracts of at most 500 words; work in progress and already published work are both
+  welcome, so it is non-archival
+- Accepted work is presented as posters, with a few selected for 10-minute oral talks and best paper awards (2025)
+- Aimed mainly at graduate students at New England universities; the 2025 edition reached full capacity and closed
+  registration early
+- Not listed in the CORE ICORE2026 portal and not on the CCF list
+editions:
+- year: 2024
+  start: 2024-04-26
+  end: 2024-04-26
+  location: Sayles Hall, Brown University, Providence, RI, USA
+  url: https://nenlp.github.io/spr2024/
+  deadlines:
+  - kind: submission
+    date: 2024-04-05
+    label: Poster abstract
+  - kind: notification
+    date: 2024-04-12
+- year: 2025
+  start: 2025-04-11
+  end: 2025-04-11
+  location: Yale University, New Haven, CT, USA
+  url: https://nenlp.github.io/spr2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-31
+    tz: AoE
+    label: Extended abstract (500 words)
+  - kind: other
+    date: 2025-04-02
+    tz: AoE
+    label: Registration deadline
+  - kind: notification
+    date: 2025-04-03
+    tz: AoE
+sources:
+- https://nenlp.github.io/
+- https://nenlp.github.io/spr2025/
+- https://nenlp.github.io/spr2025/accepted_work.html
+- https://nenlp.github.io/spr2024/
+- https://portal.core.edu.au/conf-ranks/?search=NENLP&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found on the official site (nenlp.github.io still redirects to the 2025 page); the series may be
+  paused
+- The site does not state explicitly that no proceedings are published; treated as non-archival because only titles
+  of 500-word abstracts are listed
+last_verified: 2026-10-31

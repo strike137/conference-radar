@@ -1,0 +1,67 @@
+id: advml-cv
+name: AdvML@CV
+full_name: Workshop of Adversarial Machine Learning on Computer Vision
+type: workshop
+tier: minor
+areas: [security, vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Organizing team led by Beihang University and Zhongguancun Laboratory with University of Oxford, Johns Hopkins University,
+  UC Berkeley and Nanyang Technological University; co-located with CVPR
+organizer_country: [china]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops), optional for authors
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://cvpr26-advml.github.io/
+notes:
+- Co-located with CVPR every year; 6th edition at CVPR 2026 in Denver, 5th at CVPR 2025 in Nashville
+- Each edition has a theme; 2026 was "Safety of Vision-Language Agents", 2025 was "Foundation Models + X"
+- Topics are adversarial attacks and defenses, jailbreaks and prompt injection on vision-language models and agents, robustness benchmarks
+- Long papers up to 8 pages excluding references, or extended abstracts up to 4 pages, in the CVPR template, submitted via OpenReview
+- Accepted papers can opt into the CVPR Workshops proceedings (IEEE Xplore and CVF Open Access); 7 papers on CVF Open Access for 2026
+- Runs an adversarial attack challenge with cash prizes alongside the workshop (2026 challenge on driving vision-language agents)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 5th AdvML@CV, with CVPR 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Nashville, Tennessee, USA
+  url: https://cvpr25-advml.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-03-25
+    time: "23:59"
+    tz: UTC
+    label: Extended
+- year: 2026
+  label: 6th AdvML@CV, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA
+  url: https://cvpr26-advml.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-07
+    time: "23:59"
+    tz: UTC
+    label: Extended
+  - kind: notification
+    date: 2026-03-23
+  - kind: camera_ready
+    date: 2026-04-08
+sources:
+- https://cvpr26-advml.github.io/
+- https://cvpr26-advml.github.io/res/cvpr26.svg
+- https://cvpr25-advml.github.io/
+- https://openaccess.thecvf.com/CVPR2026_workshops/6thAdvML@CV
+- https://portal.core.edu.au/conf-ranks/?search=AdvML&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Adversarial&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Original 2026 submission deadline before the extension to 2026-03-07 not shown on the site
+- 7th edition (expected with CVPR 2027) not announced yet

@@ -1,0 +1,64 @@
+id: neurreps
+name: NeurReps
+full_name: Workshop on Symmetry and Geometry in Neural Representations
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: NeurReps workshop organizers (UC Santa Barbara and other US institutions); co-located with NeurIPS
+organizer_country: [usa]
+proceedings: PMLR (proceedings track)
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://neurreps.org/
+notes:
+- NeurIPS workshop on geometry, topology and symmetry in deep learning and neuroscience (equivariance, representational geometry, topological data analysis)
+- Moves with NeurIPS; 2024 in Vancouver, 2025 in San Diego, 2026 in Sydney, Australia
+- "Three tracks: archival proceedings papers (9 pages, PMLR), non-archival extended abstracts (4 pages) and a single-blind Findings track for neuroscience work"
+- The 2024 and 2025 proceedings are in PMLR volume 282
+- 2026 received 140 proceedings and 202 extended abstract submissions
+- Double-blind review on OpenReview for the proceedings and extended abstract tracks
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  label: 4th edition, with NeurIPS 2025
+  start: 2025-12-07
+  end: 2025-12-07
+  location: San Diego, California, USA
+  url: https://neurreps.org/
+  deadlines:
+  - kind: submission
+    date: 2025-09-11
+    time: "04:00"
+    tz: UTC
+- year: 2026
+  label: With NeurIPS 2026
+  start: 2026-12-11
+  end: 2026-12-11
+  location: Sydney, Australia
+  url: https://neurreps.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-28
+    time: "10:00"
+    tz: UTC
+    label: Proceedings track
+  - kind: notification
+    date: 2026-09-29
+sources:
+- https://neurreps.org/
+- https://proceedings.mlr.press/v282/
+- https://neurips.cc/virtual/2026/workshop/137485
+- https://neurips.cc/virtual/2025/events/workshop
+- https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/NeurReps_Proceedings
+- https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/NeurReps
+- https://portal.core.edu.au/conf-ranks/?search=NeurReps&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Submission deadlines are taken from the OpenReview venue pages; neurreps.org no longer lists them
+- 2026 camera-ready date not found

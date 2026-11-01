@@ -1,0 +1,48 @@
+id: pgconf-eu
+name: PGConf.EU
+full_name: PostgreSQL Conference Europe
+type: industry
+tier: minor
+areas: [data, software]
+region: europe
+language: english
+frequency: annual
+organizer: PostgreSQL Europe
+organizer_country: [europe]
+proceedings: None
+archival: false
+typical:
+  conference_months: [10]
+links:
+  website: https://www.pgconf.eu/
+notes:
+- Practitioner PostgreSQL conference run entirely by volunteers of PostgreSQL Europe; the largest PostgreSQL conference in Europe
+- Talks range from internals discussions by core developers to end user case studies; multiple parallel tracks for DBAs, developers and decision makers
+- Talk proposals scored 1 to 9 by a volunteer talk selection committee; more than 250 submissions every year; no proceedings
+- Three conference days plus a Community Events Day; five minute lightning talks are proposed at the conference itself
+- Moves around Europe every year (Berlin 2022, Prague 2023, Athens 2024, Riga 2025, Valencia 2026); usually held in October
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-10-21
+  end: 2025-10-24
+  location: Riga, Latvia
+  deadlines: []
+- year: 2026
+  start: 2026-10-20
+  end: 2026-10-23
+  location: Palacio de Congresos, Valencia, Spain
+  url: https://2026.pgconf.eu/
+  deadlines: []
+sources:
+- https://www.pgconf.eu/
+- https://2026.pgconf.eu/about/
+- https://2026.pgconf.eu/call-for-papers/
+- https://2026.pgconf.eu/organisation/
+- https://www.postgresql.eu/events/
+- https://www.postgresql.eu/events/past/
+- https://portal.core.edu.au/conf-ranks/?search=PGConf&by=all&source=ICORE2026
+unverified:
+- 2026 call for papers deadline not shown on the official page after the call closed
+- 2027 dates and location not yet announced
+last_verified: 2026-10-31

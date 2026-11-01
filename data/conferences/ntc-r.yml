@@ -1,0 +1,51 @@
+id: ntc-r
+name: NTC-R
+full_name: Workshop on Network Traffic Classification Reloaded
+type: workshop
+tier: minor
+areas: [networking, ai]
+region: europe
+language: english
+organizer: Politecnico di Torino, ENS de Lyon and Cal Poly (co-located with ACM CoNEXT)
+organizer_country: [europe, usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://ntc-reloaded.github.io/
+notes:
+- Workshop on rigorous, reproducible AI for network traffic classification (benchmarks, datasets, shortcut
+  learning, encrypted traffic, foundation models for networking)
+- First edition in 2026, a half-day workshop co-located with ACM CoNEXT 2026 in Utrecht
+- Accepted papers appear in the ACM Digital Library
+- Double-blind review on HotCRP; up to 5 pages in two-column ACM format (6 pages for camera-ready), excluding
+  references and appendix
+- Welcomes negative results, reproducibility studies and benchmark contributions
+- Registration goes through CoNEXT (Workshops Only or Full Conference and Workshops ticket)
+editions:
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-07
+  location: Utrecht, Netherlands
+  url: https://ntc-reloaded.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-20
+    tz: AoE
+  - kind: submission
+    date: 2026-07-24
+    tz: AoE
+  - kind: notification
+    date: 2026-08-30
+  - kind: camera_ready
+    date: 2026-10-05
+sources:
+- https://ntc-reloaded.github.io/
+- https://conferences.sigcomm.org/co-next/2026/
+- https://portal.core.edu.au/conf-ranks/?search=NTC&by=all&source=ICORE2026
+unverified:
+- Not found on the ICORE2026 portal and not on the CCF 2026 list
+- Whether the workshop will be held again after 2026 (frequency unknown)
+last_verified: 2026-10-31

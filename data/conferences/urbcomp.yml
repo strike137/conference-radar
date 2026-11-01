@@ -1,0 +1,54 @@
+id: urbcomp
+name: UrbComp
+full_name: International Workshop on Urban Computing
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: UrbComp organizing committee (Philip S. Yu, Yu Zheng and others); co-located with ACM SIGKDD
+organizer_country: [china, usa]
+proceedings: Workshop website (accepted papers posted online)
+archival: false
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8]
+links:
+  website: https://urbcomp26.netlify.app/
+notes:
+- Long-running KDD workshop, held every year since 2012; 15th edition in 2026
+- Co-located with ACM SIGKDD, so it moves with KDD (Barcelona 2024, Toronto 2025, Jeju, Korea 2026)
+- 'Scope: urban sensing and data management, trajectory mining, spatio-temporal ML, transportation, environment, LLM-powered urban agents'
+- Full papers up to 9 pages, vision and short papers up to 5 pages (including references), ACM sigconf format, submitted via EasyChair
+- Single-blind review; one best paper award
+- Accepted papers are posted as PDFs on the workshop website; authors may opt for a recommendation to the journal Transactions in Urban Data, Science, and Technology
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 15th edition, with ACM SIGKDD 2026
+  start: 2026-08-09
+  end: 2026-08-09
+  location: Jeju, Korea (ICC Jeju, with KDD 2026)
+  url: https://urbcomp26.netlify.app/
+  deadlines:
+  - kind: submission
+    date: 2026-05-21
+    tz: AoE
+    label: Extended from April 30
+  - kind: notification
+    date: 2026-06-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-09
+    tz: AoE
+sources:
+- https://urbcomp26.netlify.app/
+- https://urbcomp26.netlify.app/app.js
+- https://urbcomp25.netlify.app/
+- http://urban-computing.com/urbcomp2024/
+- https://portal.core.edu.au/conf-ranks/?search=UrbComp&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- The 2026 site does not say whether the papers posted online count as archival; treated as non-archival because no formal proceedings series is named
+- UrbComp 2027 not announced yet

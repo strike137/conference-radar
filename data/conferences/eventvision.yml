@@ -1,0 +1,51 @@
+id: eventvision
+name: EventVision
+full_name: International Workshop on Event-based Vision
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: biennial
+organizer: Organizing team led by TU Berlin (Guillermo Gallego) with University of Pennsylvania, University of Maryland, Prophesee
+  and Tempo Sense; co-located with CVPR
+organizer_country: [europe, usa]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://tub-rip.github.io/eventvision2025/
+notes:
+- CVPR workshop on event cameras and neuromorphic vision (algorithms, datasets, hardware, applications)
+- Held with CVPR in odd years (2019, 2021, 2023, 2025); the 2025 edition was the 5th
+- Accepted papers and demo abstracts are published open access by CVF in the CVPR Workshops proceedings
+- 36 papers on CVF Open Access for CVPR 2025
+- Also takes non-archival courtesy papers already accepted elsewhere, and hosts several challenges (eye tracking, deblurring, SLAM, segmentation)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 5th edition, with CVPR 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Nashville, Tennessee, USA
+  url: https://tub-rip.github.io/eventvision2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-19
+    time: "23:59"
+    tz: PST
+    label: Extended from March 12
+  - kind: notification
+    date: 2025-03-31
+  - kind: camera_ready
+    date: 2025-04-14
+sources:
+- https://tub-rip.github.io/eventvision2025/
+- https://openaccess.thecvf.com/CVPR2025_workshops/EventVision
+- https://openaccess.thecvf.com/CVPR2026_workshops/EventVision
+- https://portal.core.edu.au/conf-ranks/?search=EventVision&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2026 edition (CVF has no EventVision papers for CVPR 2026); the next edition, likely with CVPR 2027, is not announced yet

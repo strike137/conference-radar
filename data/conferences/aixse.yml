@@ -1,0 +1,90 @@
+id: aixse
+name: AIxSE
+full_name: International Conference on Artificial Intelligence x Software Engineering
+type: conference
+tier: minor
+areas: [ai, software]
+region: north-america
+language: english
+frequency: annual
+organizer: AIx conference series (general chair at UC Irvine)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [10, 12]
+links:
+  website: https://www.aixse.org/
+notes:
+- AI for software engineering and software engineering for AI (also called AIxSoftware); first held in 2025
+- One of the AIx conferences that replaced ai4i and TransAI; the 2026 edition is co-located with IEEE ISM
+- Held at VOCO Laguna Hills (The Hills Hotel), Laguna Hills, California, in hybrid format
+- A summer edition was held 2026-08-18 to 2026-08-19 at Shinshu University, Nagano, Japan (with AIxMHC)
+- Accepted papers submitted for inclusion in IEEE Xplore; the 2025 proceedings are in IEEE Xplore
+- Regular 8 pages, short 4, workshop 8, position 2 (IEEE format), at least three reviewers per paper; poster abstracts must be presented in person
+- Each paper needs a full-rate registration and presentation or it is removed from the proceedings
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2025
+  start: 2025-10-01
+  end: 2025-10-03
+  location: Laguna Hills, California, USA
+  url: https://semanticcomputing.wixsite.com/aixse2025
+  deadlines:
+  - kind: notification
+    date: 2025-08-11
+    tz: PDT
+  - kind: submission
+    date: 2025-08-20
+    tz: PDT
+    label: Workshop papers and poster abstracts
+  - kind: camera_ready
+    date: 2025-09-01
+    tz: PDT
+    label: Camera-ready and registration
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-09
+  location: VOCO Laguna Hills, Laguna Hills, California, USA
+  url: https://www.aixse.org/
+  deadlines:
+  - kind: other
+    date: 2026-08-01
+    tz: PDT
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-09-20
+    time: "23:59"
+    tz: PDT
+    label: Papers (extended from 2026-09-01)
+  - kind: notification
+    date: 2026-10-21
+    tz: PDT
+    label: Extended from 2026-10-01 (the dates page says 2026-10-18)
+  - kind: submission
+    date: 2026-10-25
+    tz: PDT
+    label: Workshop papers and poster abstracts (extended from 2026-10-15)
+  - kind: camera_ready
+    date: 2026-11-05
+    time: "23:59"
+    tz: PST
+    label: Camera-ready and registration
+sources:
+- https://www.aixse.org/
+- https://www.aixse.org/dates
+- https://www.aixse.org/submission
+- https://www.aixse.org/history
+- https://semanticcomputing.wixsite.com/aixse2025
+- https://semanticcomputing.wixsite.com/aixse2025/dates
+- https://semanticcomputing.wixsite.com/aixse2026summer
+- https://api.crossref.org/works/10.1109/aixse64906.2025
+- https://portal.core.edu.au/conf-ranks/?search=AIxSE&by=all&source=ICORE2026
+unverified:
+- 2025 paper submission deadline not shown on the 2025 dates page (listed as closed)
+- Notification date differs between the home page (2026-10-21) and the dates page (2026-10-18)
+- Whether the conference is formally IEEE sponsored is not stated on the official pages
+- Acceptance rate not checked
+- Formal organizing body behind the AIx series (beyond the UC Irvine general chair) is not named on the official pages
+last_verified: 2026-10-31

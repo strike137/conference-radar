@@ -1,0 +1,68 @@
+id: smp-cn
+name: SMP
+full_name: China National Conference on Social Media Processing
+name_local: 全国社会媒体处理大会
+type: conference
+tier: domestic
+areas: [nlp, data, ai]
+region: china
+language: chinese
+frequency: annual
+organizer: CIPS Social Media Processing Committee (Chinese Information Processing Society of China)
+organizer_country: [china]
+proceedings: None (poster call only, no paper proceedings)
+archival: false
+fee: Main meeting 1400 CNY (CIPS student member) to 2200 CNY (non-member professional), 2026 normal registration
+typical:
+  deadline_months: [10]
+  conference_months: [11]
+links:
+  website: http://www.cips-smp.org/
+notes:
+- National conference of the CIPS Social Media Processing committee, started in 2012; annual except 2021
+- 'Format: two days of tutorials followed by a two-day main meeting with keynotes, about 12 topical forums,
+  a PhD forum and technical evaluation tasks'
+- Topics now center on large language models, agents, computational social science and communication
+- Poster call accepts work already published in the last three years, arXiv preprints and work under review; no
+  proceedings
+- Held in a different Chinese city each year (Wuhan 2025, Beijing 2026)
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  label: 13th edition
+  start: 2025-11-20
+  end: 2025-11-23
+  location: Wuhan, China
+  url: http://smp2025.cips-smp.org/
+- year: 2026
+  label: 14th edition
+  start: 2026-11-12
+  end: 2026-11-15
+  location: Liaoning Building, Haidian, Beijing, China
+  url: http://smp2026.cips-smp.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-01
+    label: Poster submission (extended from 2026-10-25)
+  - kind: notification
+    date: 2026-11-04
+    label: Poster acceptance (extended)
+  - kind: camera_ready
+    date: 2026-11-07
+    label: Final poster
+sources:
+- http://www.cips-smp.org/
+- http://smp2026.cips-smp.org/
+- http://smp2026.cips-smp.org/hui-yi-jian-jie
+- http://smp2026.cips-smp.org/huiyizhuce
+- http://smp2026.cips-smp.org/hui-yi-ri-cheng
+- http://smp2026.cips-smp.org/archives/1789454456780
+- http://smp2026.cips-smp.org/archives/1793193130395
+- http://smp2026.cips-smp.org/archives/1792745547219
+- http://smp2025.cips-smp.org/hui-yi-ri-cheng
+- http://smp2025.cips-smp.org/huiyizhuce
+- https://portal.core.edu.au/conf-ranks/?search=SMP&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- The committee homepage banner says November 5 to 8, 2026; the SMP 2026 site (intro, registration and schedule
+  pages) says November 12 to 15, which is used here

@@ -1,0 +1,56 @@
+id: cltw
+name: CLTW
+full_name: Celtic Language Technology Workshop
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (2025 from ADAPT Centre at Dublin City University, Trinity College Dublin and
+  Universita Cattolica del Sacro Cuore, Milan); co-located with a host NLP conference
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1]
+links:
+  website: https://cltworkshop.github.io/
+notes:
+- Workshop on NLP and language technology for Irish, Welsh, Scottish Gaelic, Breton, Manx, Cornish and historical Celtic
+  languages
+- Five editions so far (2014, 2016, 2019, 2022, 2025), roughly every three years, each with a different host conference
+- Hosts were COLING 2014 (Dublin), JEP-TALN-RECITAL 2016 (Paris), MT Summit 2019 (Dublin), LREC 2022 (Marseille) and
+  COLING 2025 (Abu Dhabi, moved to a virtual event)
+- Long (8 pages) and short (4 pages) papers, double-blind review; proceedings in the ACL Anthology (2016 proceedings as a
+  JEP-TALN PDF)
+- Small workshop; the 2025 edition had 5 papers and 2 keynotes
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 5th edition, with COLING 2025 (virtual)
+  start: 2025-01-20
+  end: 2025-01-20
+  location: Online (co-located with COLING 2025, Abu Dhabi, UAE)
+  url: https://cltworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2024-11-01
+    label: Extended from 2024-10-18 and 2024-10-25
+  - kind: notification
+    date: 2024-11-29
+    label: Extended from 2024-11-15
+  - kind: camera_ready
+    date: 2024-12-09
+    label: Extended from 2024-12-02
+sources:
+- https://cltworkshop.github.io/
+- https://aclanthology.org/venues/cltw/
+- https://aclanthology.org/volumes/2025.cltw-1/
+- https://portal.core.edu.au/conf-ranks/?search=CLTW&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 6th edition announced on the workshop site as of 2026-10-31
+- Deadline time zones not stated on the official page
+- Typical months are from the 2025 edition only; earlier editions followed their host conferences (June to August)

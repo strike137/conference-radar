@@ -1,0 +1,63 @@
+id: carrv
+name: CARRV
+full_name: Workshop on Computer Architecture Research with RISC-V
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee; co-located with ISCA (2018-2023) or MICRO (2024)
+organizer_country: [usa]
+proceedings: Workshop website (papers and slides posted, non-archival)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://carrv.github.io/
+notes:
+- Workshop on the design, implementation, verification and evaluation of RISC-V cores, SoCs and accelerators, including ISA extensions, security architectures and compilers
+- Co-located with ISCA through 2023 (Phoenix 2019, virtual 2020 and 2021, New York 2022, Orlando 2023) and with MICRO 2024 in Austin
+- Papers up to 6 pages plus references in ACM two-column format, submitted through EasyChair
+- Non-archival; the site states that workshop publications do not preclude publishing at future conference venues, and papers are posted on the workshop site
+- No 2025 or 2026 edition found; carrv.github.io still points to the 2024 edition
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  label: 8th edition, with MICRO 2024
+  start: 2024-11-03
+  end: 2024-11-03
+  location: Austin, TX, USA
+  url: https://carrv.github.io/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-08-11
+    time: "23:59"
+    tz: PST
+    label: Extended from Aug 4
+  - kind: notification
+    date: 2024-09-09
+  - kind: camera_ready
+    date: 2024-09-20
+    time: "23:59"
+    tz: PST
+sources:
+- https://carrv.github.io/
+- https://carrv.github.io/2024/
+- https://carrv.github.io/2023/
+- https://carrv.github.io/2022/
+- https://carrv.github.io/2021/
+- https://carrv.github.io/2020/
+- https://carrv.github.io/2019/
+- https://microarch.org/micro57/
+- https://iscaconf.org/isca2023/
+- https://iscaconf.org/isca2022/
+- https://iscaconf.org/isca2025/program/workshops.php
+- https://iscaconf.org/isca2026/program/workshops.php
+- https://microarch.org/micro58/program/workshops.php
+- https://portal.core.edu.au/conf-ranks/?search=CARRV&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-31
+unverified:
+- Possibly dormant after 2024; no 2025 or 2026 edition page (carrv.github.io/2025/ and /2026/ return 404) and CARRV is not in the ISCA 2025, ISCA 2026 or MICRO 2025 workshop lists; the MICRO 2026 workshop list was not available
+- The 2024 page writes 23:59 PST for an August deadline (Pacific time was PDT then)

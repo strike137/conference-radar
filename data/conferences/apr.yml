@@ -1,0 +1,74 @@
+id: apr
+name: APR
+full_name: International Workshop on Automated Program Repair
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: APR organizing committee (program-repair.org community), co-located with ICSE (2020-2025) and ASE (2026)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://conf.researchr.org/home/ase-2026/apr-2026
+notes:
+- One-day workshop on automated program repair, automated debugging, fault localization, LLM-based repair and repair of vulnerabilities
+- Held with ICSE from 2020 to 2025 (Seoul 2020, virtual 2021, Pittsburgh 2022, Melbourne 2023, Lisbon 2024, Ottawa 2025); moved to ASE in 2026 (Munich)
+- 2026 papers in ACM format with DOIs in the ACM DL; 2025 papers went to the ICSE workshop proceedings (IEEE)
+- "2026 formats: research papers and experience reports 4-8 pages, position papers 2-4 pages, talk proposals 1 page (all including references); double-anonymous review"
+- In 2025 selected research papers could be extended for a special issue of the Automated Software Engineering journal
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-04-29
+  end: 2025-04-29
+  location: Ottawa, Canada (with ICSE 2025)
+  url: https://program-repair.org/workshop-2025/
+  deadlines:
+  - kind: submission
+    date: 2024-11-19
+    tz: AoE
+    label: Submission (extended)
+  - kind: notification
+    date: 2024-12-16
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-02-05
+    tz: AoE
+  - kind: other
+    date: 2025-03-07
+    tz: AoE
+    label: ASE journal special issue submission
+- year: 2026
+  start: 2026-10-12
+  end: 2026-10-12
+  location: Munich, Germany (with ASE 2026)
+  url: https://conf.researchr.org/home/ase-2026/apr-2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    tz: AoE
+  - kind: notification
+    date: 2026-08-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-01
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/ase-2026/apr-2026
+- https://program-repair.org/workshop
+- https://program-repair.org/workshop-2025/
+- https://conf.researchr.org/home/icse-2025/apr-2025
+- https://doi.org/10.1145/3843776.3844668
+- https://portal.core.edu.au/conf-ranks/?search=APR&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- APR 2027 host conference and dates not announced as of 2026-10-31
+- Title of the 2026 ACM proceedings volume not confirmed (paper DOIs use prefix 10.1145/3843776)
+- 2025 submission date taken as the last of the listed extensions (Nov 11 -> Nov 18 -> Nov 19, 2024)
+last_verified: 2026-10-31

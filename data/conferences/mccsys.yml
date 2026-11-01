@@ -1,0 +1,79 @@
+id: mccsys
+name: MCCSys
+full_name: Workshop on Memory-Centric Computing Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: SAFARI Research Group, ETH Zurich (Onur Mutlu); co-located with computer architecture conferences
+organizer_country: [europe]
+proceedings: None (talks only; slides posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [2, 4, 5, 12]
+  conference_months: [2, 3, 6, 7]
+links:
+  website: https://events.safari.ethz.ch/asplos26-MCCSys/
+notes:
+- Combined tutorial and workshop on processing-in-memory (PIM) and memory-centric systems, run by the ETH Zurich SAFARI group
+- Moves between host conferences, often several times a year; ASPLOS 2025, ICS 2025, ISCA 2025, HPCA 2026 (Sydney), ASPLOS 2026 (Pittsburgh), ISCA 2026 (Raleigh), ICS 2026 (Belfast)
+- Grew out of the SAFARI memory-centric computing tutorials (HEART, ISCA and MICRO 2024, PPoPP 2025)
+- Lectures and invited talks plus contributed talks selected from short abstracts submitted through a form; no papers are published
+- Slides are posted on the workshop page and sessions are livestreamed on YouTube
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-23
+  location: Pittsburgh, USA
+  url: https://events.safari.ethz.ch/asplos26-MCCSys/
+  deadlines:
+  - kind: submission
+    date: 2026-02-16
+    time: "23:59"
+    tz: AoE
+    label: Abstract (ASPLOS 2026 edition)
+  - kind: notification
+    date: 2026-02-18
+- year: 2026
+  start: 2026-06-28
+  end: 2026-06-28
+  location: Raleigh, USA
+  url: https://events.safari.ethz.ch/isca26-MCCSys/
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    time: "23:59"
+    tz: AoE
+    label: Abstract (ISCA 2026 edition)
+  - kind: notification
+    date: 2026-05-27
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-06
+  location: Belfast, UK
+  url: https://events.safari.ethz.ch/ics26-MCCSys/
+  deadlines:
+  - kind: submission
+    date: 2026-04-20
+    time: "23:59"
+    tz: AoE
+    label: Extended abstract (ICS 2026 edition)
+  - kind: notification
+    date: 2026-04-25
+sources:
+- https://events.safari.ethz.ch/asplos26-MCCSys/
+- https://events.safari.ethz.ch/isca26-MCCSys/
+- https://events.safari.ethz.ch/ics26-MCCSys/
+- https://events.safari.ethz.ch/hpca26-MCCSys/
+- https://events.safari.ethz.ch/isca25-MCCSys/
+- https://events.safari.ethz.ch/ics25-MCCSys/
+- https://events.safari.ethz.ch/asplos25-MCCSys/
+- https://portal.core.edu.au/conf-ranks/?search=MCCSys&by=all&source=ICORE2026
+unverified:
+- Next edition and host conference not announced yet (checked 2026-10-31)
+- The workshop pages do not say explicitly that there are no proceedings; the talk-only format is inferred from the abstract form and the slide-only agenda
+- Fee not published (registration goes through the host conference)
+last_verified: 2026-10-31

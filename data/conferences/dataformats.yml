@@ -1,0 +1,52 @@
+id: dataformats
+name: FORMATS
+full_name: International Workshop on Data Formats for Modern Architectures and Workloads
+type: workshop
+tier: minor
+areas: [data, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: FORMATS workshop organizers (Microsoft Gray Systems Lab, Tsinghua University); sponsored by and co-located with ACM SIGMOD/PODS
+organizer_country: [international]
+proceedings: ACM DL (FORMATS workshop proceedings, separate from the SIGMOD Companion)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [5, 6]
+links:
+  website: https://dataformats.org/
+notes:
+- 1st edition in 2026, held with ACM SIGMOD/PODS 2026 in Bengaluru, India
+- Not the formal methods FORMATS (Formal Modeling and Analysis of Timed Systems); id dataformats avoids the clash
+- 'Scope: table and file formats, data layouts and encodings, storage and I/O efficiency for analytics, transactions, vector and ML workloads'
+- Submissions up to 3 pages excluding references (4 pages for accepted papers), ACM 2-column format, via Microsoft CMT
+- Single-anonymous review; 9 peer-reviewed papers in 2026
+- Proceedings published independently in the ACM Digital Library; ACM open access APCs may apply
+- Region set as worldwide because it follows SIGMOD; only the 2026 edition is known
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 1st edition, with ACM SIGMOD/PODS 2026
+  start: 2026-05-31
+  end: 2026-05-31
+  location: Bengaluru, India
+  url: https://dataformats.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-08
+    tz: AoE
+  - kind: notification
+    date: 2026-04-01
+    label: Postponed from March 23
+  - kind: camera_ready
+    date: 2026-04-25
+sources:
+- https://dataformats.org/
+- https://dataformats.org/call-for-papers.html
+- https://dataformats.org/accepted-papers.html
+- https://2026.sigmod.org/sigmod_workshops.shtml
+- https://portal.core.edu.au/conf-ranks/?search=FORMATS&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- FORMATS 2027 not announced yet

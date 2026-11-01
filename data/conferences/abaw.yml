@@ -1,0 +1,69 @@
+id: abaw
+name: ABAW
+full_name: Workshop and Competition on Affective & Behavior Analysis in-the-wild
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Organizing team led by Queen Mary University of London (Dimitrios Kollias) with Imperial College London and ETS Montreal;
+  co-located with CVPR and with ICCV or ECCV
+organizer_country: [europe, canada]
+proceedings: IEEE Xplore and CVF Open Access (CVPR/ICCV Workshops); ECCV Workshops proceedings for ECCV editions
+archival: true
+typical:
+  deadline_months: [3, 7]
+  conference_months: [6, 9, 10]
+links:
+  website: https://affective-behavior-analysis-in-the-wild.github.io/11th/
+notes:
+- Workshop plus competition on affect and behavior analysis (expression, action units, valence-arousal) from in-the-wild video
+- Usually two editions a year, one with CVPR and one with ICCV or ECCV; 10th at CVPR 2026, 11th at ECCV 2026
+- Earlier editions at CVPR 2017 and 2022 to 2025, ICCV 2021 and 2025, ECCV 2022 and 2024, FG 2020
+- Accepted papers go into the host conference workshop proceedings; challenge teams also submit papers
+- 30 papers on CVF Open Access for CVPR 2026, 13 for ICCV 2025
+- Double-blind review in the host conference format (CVPR 5 to 8 pages, ECCV 8 to 14 pages)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 10th ABAW, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA
+  url: https://affective-behavior-analysis-in-the-wild.github.io/10th/
+  deadlines:
+  - kind: submission
+    date: 2026-03-19
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-07
+  - kind: camera_ready
+    date: 2026-04-10
+- year: 2026
+  label: 11th ABAW, with ECCV 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmö, Sweden
+  url: https://affective-behavior-analysis-in-the-wild.github.io/11th/
+  deadlines:
+  - kind: submission
+    date: 2026-07-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-08-10
+  - kind: camera_ready
+    date: 2026-08-15
+sources:
+- https://affective-behavior-analysis-in-the-wild.github.io/11th/
+- https://affective-behavior-analysis-in-the-wild.github.io/10th/
+- https://affective-behavior-analysis-in-the-wild.github.io/9th/
+- https://openaccess.thecvf.com/CVPR2026_workshops/ABAW
+- https://openaccess.thecvf.com/ICCV2025_workshops/ABAW
+- https://portal.core.edu.au/conf-ranks/?search=ABAW&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- The 11th edition page says papers are part of the ECCV 2026 proceedings; the series (usually Springer LNCS for ECCV Workshops) is not named
+- 12th edition (expected with CVPR 2027) not announced yet

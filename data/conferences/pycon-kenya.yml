@@ -1,0 +1,57 @@
+id: pycon-kenya
+name: PyCon Kenya
+full_name: PyCon Kenya
+type: industry
+tier: minor
+areas: [software, ai]
+region: africa
+language: english
+frequency: annual
+organizer: Python Nairobi User Group (PyNBO)
+organizer_country: [other]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://www.pycon.ke/
+notes:
+- Community-run conference of the Python community in Kenya, organised by the Python Nairobi User Group (PyNBO)
+- Held in Nairobi at the Ngong' Hills Hotel in 2025 and 2026; earlier editions in 2017, 2018 and 2022
+- Keynotes, talks and lightning talks chosen from an open call for proposals; one proposal per person, in person only
+  with no live stream
+- Proposals written largely by an LLM are rejected
+- 627 attendees and over 40 sessions in 2025; data science and ML the largest topic, then web and DevOps
+- Talks only, no papers or proceedings; keynotes and talks are recorded for the PyCon KE YouTube channel
+editions:
+- year: 2025
+  start: 2025-09-26
+  end: 2025-09-27
+  location: Ngong Hill Hotel, Ngong Road, Nairobi, Kenya
+  url: https://www.pycon.ke/2025
+  deadlines: []
+- year: 2026
+  start: 2026-10-02
+  end: 2026-10-03
+  location: Ngong' Hills Hotel, Nairobi, Kenya
+  url: https://www.pycon.ke/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    time: "23:59"
+    tz: UTC+3
+    label: Call for proposals (keynotes, talks, lightning talks)
+sources:
+- https://www.pycon.ke/
+- https://www.pycon.ke/overview
+- https://www.pycon.ke/proposal
+- https://www.pycon.ke/what-is-pynbo
+- https://www.pycon.ke/2025
+- https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
+unverified:
+- PyCon Kenya 2027 dates not yet announced
+- 2026 notification date given only as late July 2026
+- 2025 CFP deadline not recorded
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-31

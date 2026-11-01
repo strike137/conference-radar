@@ -1,0 +1,49 @@
+id: wptm
+name: WPTM
+full_name: Workshop on Privacy Threat Modeling
+type: workshop
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: MITRE-led organizing team with a program committee from industry and academia, co-located with SOUPS
+organizer_country: [usa]
+proceedings: Workshop website (presentation slides and proposals posted on the proceedings page)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://ptmworkshop.gitlab.io/
+notes:
+- Half-day workshop co-located with the USENIX Symposium on Usable Privacy and Security (SOUPS); 2025 was the 4th annual edition
+- Submissions are 1-page presentation proposals in the SOUPS template, handled on HotCRP; no full papers
+- 'Non-archival: presentations are only posted on the workshop website'
+- Program of a keynote, updates on privacy threat models (LINDDUN, PANOPTIC, UsersFirst), selected presentations and a group discussion
+- "Workshop registration fee: 75 USD on top of SOUPS registration (2025); virtual attendance offered"
+- Not among the accepted SOUPS 2026 (Hannover) workshops
+editions:
+- year: 2025
+  label: 4th WPTM
+  start: 2025-08-10
+  end: 2025-08-10
+  location: Seattle, WA, USA
+  url: https://ptmworkshop.gitlab.io/
+  deadlines:
+  - kind: submission
+    date: 2025-05-22
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-06-05
+sources:
+- https://ptmworkshop.gitlab.io/
+- https://www.usenix.org/conference/soups2025
+- https://soups.page/2026/workshops-all.html
+- https://portal.core.edu.au/conf-ranks/?search=WPTM&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2026 or 2027 edition announced; WPTM is not in the SOUPS 2026 accepted workshops list
+- Dates and locations of the 2022 to 2024 editions not confirmed from the workshop site (the site only links to them)
+- Not listed in ICORE2026 (no result for WPTM or Privacy Threat) and not in the CCF 2026 list, so no rank is given

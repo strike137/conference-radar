@@ -1,0 +1,67 @@
+id: alp
+name: ALP
+full_name: Workshop on Ancient Language Processing
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: Workshop organizing committee (Ariel University, Universita Cattolica del Sacro Cuore, Western Washington University,
+  Nanjing Normal University and others); co-located with *ACL or RANLP
+organizer_country: [europe, usa, china, other]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5, 8, 9]
+links:
+  website: https://www.ancientnlp.com/
+notes:
+- Workshop on NLP for ancient languages and scripts (Sumerian, Akkadian, Ancient Egyptian, Greek, Latin, Sanskrit, Literary
+  Chinese and more), up to 800 CE
+- Held with RANLP 2023 (Varna), NAACL 2025 (Albuquerque) and ACL 2027 (Kyoto); every two years so far
+- Long (8 pages) and short (4 pages) papers in ACL format, double-blind review; shared-task system papers for EvaHan and EvaCun
+- All accepted papers go to the ACL Anthology (25 papers in 2023, 33 in 2025, excluding front matter)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 2nd edition, with NAACL 2025
+  start: 2025-05-04
+  end: 2025-05-04
+  location: Albuquerque, New Mexico, USA
+  url: https://www.ancientnlp.com/alp2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-09
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from Feb 4)
+  - kind: notification
+    date: 2025-03-10
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-03-18
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  label: 3rd edition, with ACL 2027 (August 2027; workshop day TBA)
+  location: Kyoto, Japan
+  url: https://www.ancientnlp.com/alp2027/
+  status: tentative
+sources:
+- https://www.ancientnlp.com/
+- https://www.ancientnlp.com/alp2025/
+- https://www.ancientnlp.com/alp2025/call_for_papers/
+- https://www.ancientnlp.com/alp2025/organization/
+- https://www.ancientnlp.com/alp2027/
+- https://www.ancientnlp.com/alp2027/call_for_papers/
+- https://www.ancientnlp.com/alp2027/organization/
+- https://aclanthology.org/venues/alp/
+- https://portal.core.edu.au/conf-ranks/?search=ALP&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- "ALP 2027 dates are preliminary: submission March 2027, notification April 2027, camera-ready May 2027 (exact days TBA)"
+- Exact day of ALP 2027 within ACL 2027

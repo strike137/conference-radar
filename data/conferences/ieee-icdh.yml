@@ -1,0 +1,56 @@
+id: ieee-icdh
+name: IEEE ICDH
+full_name: IEEE International Conference on Digital Health
+type: conference
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society (Technical Community on Services Computing), part of the IEEE World Congress on SERVICES
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE Computer Society Press)
+archival: true
+indexing: [DBLP, PubMed]
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://services.conferences.computer.org/2026/icdh/
+notes:
+- One of six theme conferences of the IEEE World Congress on SERVICES (with CLOUD, EDGE, ICWS, QSW and SSE), sponsored
+  by IEEE and the IEEE Computer Society and supported by the IEEE Technical Community on Services Computing
+- 'Digital health technologies: sensors and wearables, Internet of Medical Things, remote patient monitoring, AI and generative AI for health, telemedicine'
+- Proceedings published by the IEEE Computer Society Press; the CFP says they are indexed by PubMed and DBLP
+- Every submission reviewed by at least three reviewers
+- 'Rotates worldwide with the congress: Helsinki (2025), Sydney (2026)'
+- Has its own, later submission deadline than the other SERVICES conferences (2026 deadline extended to 2026-04-11)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-18
+  location: Sydney, Australia
+  url: https://services.conferences.computer.org/2026/icdh/
+  deadlines:
+  - kind: submission
+    date: 2026-04-11
+    label: Papers (extended, firm)
+  - kind: notification
+    date: 2026-05-10
+  - kind: camera_ready
+    date: 2026-05-31
+    label: Camera-ready and registration (ICDH CFP page; the congress author page says 2026-06-07)
+sources:
+- https://services.conferences.computer.org/2026/icdh/
+- https://services.conferences.computer.org/2026/icdh/icdh-call-for-papers
+- https://services.conferences.computer.org/2026/info-for-authors/
+- https://services.conferences.computer.org/2025/icdh/
+- https://portal.core.edu.au/conf-ranks/?search=ICDH&by=all&source=ICORE2026&sort=atitle&page=1
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- ICDH 2027 dates and location not announced yet (no SERVICES 2027 site found)
+- Original 2026 submission deadline differs between the ICDH CFP page (2026-03-08) and the congress author page (2026-03-22); both give 2026-04-11 as the extended firm deadline
+- Acceptance rate not stated on the official site
+- Editions before 2025 not checked
+last_verified: 2026-10-31

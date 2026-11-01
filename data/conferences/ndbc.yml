@@ -1,0 +1,66 @@
+id: ndbc
+name: NDBC
+full_name: CCF National Database Conference
+name_local: CCF中国数据库学术会议
+type: conference
+tier: domestic
+areas: [data]
+region: china
+language: chinese
+frequency: annual
+organizer: CCF (China Computer Federation), Technical Committee on Databases
+organizer_country: [china]
+proceedings: Journal special issues (Chinese Journal of Computers, Journal of Software, Journal of Computer Research and Development, Data Science and Engineering and others)
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8, 9, 10]
+links:
+  website: https://conf.ccf.org.cn/ndbc2026
+notes:
+- China's main national database conference, started in 1977 and run by the CCF Technical Committee on Databases since 1999; 2026 is the 43rd edition
+- No conference proceedings; accepted papers are recommended to Chinese journals and to the English journals Data Science and Engineering and International Journal of Software and Informatics
+- Accepts Chinese and English papers (up to 8 pages in Chinese); anonymous review
+- Includes a system demo track, a graduate student mentoring workshop and many industry forums; 2026 added a poster session
+- Hosted by a different Chinese university each year (Weihai 2022, Guiyang 2023, Urumqi 2024, Changchun 2025, Shanghai 2026)
+- About 680 registered attendees in 2025
+- Not ranked in CORE ICORE2026; not on the CCF 2026 recommended list
+editions:
+- year: 2025
+  start: 2025-08-01
+  end: 2025-08-03
+  location: Changchun, China
+  url: https://conf.ccf.org.cn/ndbc2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-05
+  - kind: notification
+    date: 2025-06-15
+  - kind: camera_ready
+    date: 2025-06-30
+- year: 2026
+  start: 2026-10-16
+  end: 2026-10-18
+  location: Shanghai, China
+  url: https://conf.ccf.org.cn/ndbc2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    label: Paper submission (extended from June 1)
+  - kind: notification
+    date: 2026-07-29
+    label: Notification (extended from July 15)
+sources:
+- https://conf.ccf.org.cn/ndbc2026
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1484477481229619200177396861178
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e3a9da01f3c5601a0f139d2e80952
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e3a9da01f3c5601a0f148725a095d
+- https://conf.ccf.org.cn/web/api/m1318869215809245184173448452445.action
+- https://tc.ccf.org.cn/tcdb/tbtj/2025-03-12/839290.shtml
+- https://tc.ccf.org.cn/tcdb/news/2025-08-07/848485.shtml
+- https://tc.ccf.org.cn/tcdb/qkjhy/ndbc/
+- https://portal.core.edu.au/conf-ranks/?search=NDBC&by=all&source=ICORE2026
+unverified:
+- The 2026 notification date was extended again with no new date given; camera-ready follows the recommended journal
+- NDBC 2027 dates and location
+last_verified: 2026-10-31

@@ -1,0 +1,53 @@
+id: spie-medical-imaging
+name: SPIE Medical Imaging
+full_name: SPIE Medical Imaging
+type: conference
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: SPIE
+organizer_country: [usa]
+proceedings: Proceedings of SPIE (SPIE Digital Library)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [2]
+links:
+  website: https://spie.org/conferences-and-exhibitions/medical-imaging
+notes:
+- Large annual SPIE symposium on medical imaging, held in February
+- Several parallel conferences, including Image Processing, Computer-Aided Diagnosis, Physics of Medical Imaging, Imaging Informatics, and Digital and Computational Pathology
+- Held in Vancouver, BC, Canada in 2026 and 2027
+- Papers and presentations are published in the SPIE Digital Library (Proceedings of SPIE)
+- Submission is a 200-300 word abstract plus a required supplemental file for review; accepted papers need a manuscript of at least 4 pages about 3 weeks before the event
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-02-15
+  end: 2026-02-20
+  location: Vancouver, BC, Canada
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13925.toc
+- year: 2027
+  start: 2027-02-14
+  end: 2027-02-18
+  location: Vancouver, BC, Canada
+  url: https://spie.org/conferences-and-exhibitions/medical-imaging
+  deadlines:
+  - kind: submission
+    date: 2026-08-05
+    label: Abstract and supplemental file
+  - kind: notification
+    date: 2026-10-26
+  - kind: camera_ready
+    date: 2027-01-27
+    label: Manuscripts due
+sources:
+- https://spie.org/conferences-and-exhibitions/medical-imaging
+- https://spie.org/conferences-and-exhibitions/medical-imaging/presenters/abstract-submission-guidelines
+- https://spie.org/Publications/Proceedings/Volume/13925
+- https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13925.toc
+- https://portal.core.edu.au/conf-ranks/?search=SPIE&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Medical+Imaging&by=all&source=ICORE2026
+last_verified: 2026-10-31

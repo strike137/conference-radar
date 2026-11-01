@@ -1,0 +1,53 @@
+id: hardbd-active
+name: HardBD & Active
+full_name: Joint International Workshop on Big Data Management on Emerging Hardware and Data Management on Virtualized Active Systems
+type: workshop
+tier: minor
+areas: [data, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: HardBD & Active workshop organizers; co-located with IEEE ICDE
+organizer_country: [international]
+proceedings: IEEE Xplore (ICDE workshop proceedings)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5]
+links:
+  website: https://hardbd-active.github.io/2026/index.html
+notes:
+- One-day workshop held with IEEE ICDE every year since 2015, so it moves with ICDE (2024 Utrecht, 2025 Hong Kong, 2026 Montreal)
+- "Scope: data management on new hardware (GPUs, FPGAs, DPUs, SSDs, NVM, RDMA, CXL), main memory data management, hardware and software co-design, disaggregated storage and memory"
+- Research and position papers up to 6 pages excluding bibliography, IEEE format, submitted on Microsoft CMT; early-stage work welcome
+- ICDE workshop papers are published together with the ICDE conference proceedings
+- Small workshop; 3 research papers and 2 keynotes in 2026
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: With ICDE 2026
+  start: 2026-05-04
+  end: 2026-05-04
+  location: Montreal, Canada
+  url: https://hardbd-active.github.io/2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-26
+    time: "23:59"
+    tz: PST
+    label: Extended from 2026-01-19
+  - kind: notification
+    date: 2026-02-23
+  - kind: camera_ready
+    date: 2026-03-09
+sources:
+- https://hardbd-active.github.io/2026/index.html
+- https://hardbd-active.github.io/2025/index.html
+- https://hardbd-active.github.io/2024/index.html
+- https://icde2026.github.io/workshops.html
+- https://icde2026.github.io/cf-workshop-proposals.html
+- https://portal.core.edu.au/conf-ranks/?search=HardBD&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- HardBD & Active 2027 (with ICDE 2027, Copenhagen) not announced yet
+- The 2026 workshop page does not itself name the proceedings; taken from the ICDE 2026 workshop call, which says workshop proceedings are published alongside the conference proceedings

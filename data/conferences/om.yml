@@ -1,0 +1,70 @@
+id: om
+name: OM
+full_name: International Workshop on Ontology Matching
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: OM organizing committee (co-located with ISWC)
+organizer_country: [europe]
+proceedings: CEUR-WS (CEUR Workshop Proceedings)
+archival: true
+indexing: [DBLP]
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://om.ontologymatching.org/
+notes:
+- One-day workshop on ontology, instance and knowledge graph matching, co-located with ISWC every year since 2006
+- Location follows ISWC (Athens 2023, Baltimore 2024, Nara 2025, Bari 2026)
+- Hosts the results of the OAEI (Ontology Alignment Evaluation Initiative) evaluation campaign
+- Long papers up to 12 pages, short papers up to 6 pages, posters up to 3 pages, CEURART 1-column style, single blind, via EasyChair
+- Accepted papers are published as a CEUR-WS volume and indexed on DBLP (OM 2025 -> Vol-4144)
+- Organizers are mainly European researchers (INRIA, Mannheim, Linkoping, City St George's London, Trentino Digitale) plus IBM Research
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  label: 20th edition
+  start: 2025-11-02
+  end: 2025-11-02
+  location: Nara, Japan
+  url: https://om.ontologymatching.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-02
+    tz: AoE
+  - kind: notification
+    date: 2025-08-29
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-26
+    tz: AoE
+- year: 2026
+  label: 21st edition
+  start: 2026-10-25
+  end: 2026-10-25
+  location: Bari, Italy
+  url: https://om.ontologymatching.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    tz: AoE
+    label: Extended from July 24
+  - kind: notification
+    date: 2026-08-21
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-11
+    tz: AoE
+sources:
+- https://om.ontologymatching.org/
+- https://om.ontologymatching.org/2025/
+- https://om.ontologymatching.org/2026/
+- https://portal.core.edu.au/conf-ranks/?search=OM&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- OM 2027 (expected with ISWC 2027) not announced yet
+- OM 2026 CEUR-WS volume number not yet published

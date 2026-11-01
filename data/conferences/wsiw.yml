@@ -1,0 +1,61 @@
+id: wsiw
+name: WSIW
+full_name: Workshop on Security Information Workers
+type: workshop
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: irregular
+organizer: WSIW organizing committee (workshop at SOUPS)
+organizer_country: [usa, europe]
+proceedings: Workshop website (papers posted on the workshop site, not in the SOUPS proceedings)
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8]
+links:
+  website: https://security-information-workers.github.io/
+notes:
+- Workshop at SOUPS on people who handle security and privacy information as part of their jobs (developers, admins, analysts, consultants, privacy engineers)
+- Series runs back to 2014; WSIW'24 was the 10th edition, held in person in Philadelphia with SOUPS 2024
+- Held with SOUPS in North America; 2020 and 2021 editions were online, plus quarterly online meetings in 2021
+- Papers up to 6 pages excluding references in the SOUPS template, anonymized, submitted via HotCRP
+- Papers are given to attendees and posted on the workshop site but do not appear in the official SOUPS proceedings
+- "Registration fee: 75 USD (2024, through SOUPS)"
+- Not held with SOUPS 2025 or SOUPS 2026
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2024
+  start: 2024-08-11
+  end: 2024-08-11
+  location: Philadelphia, PA, USA (co-located with SOUPS 2024)
+  url: https://security-information-workers.github.io/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-06-04
+    time: "23:59"
+    tz: AoE
+    label: Extended from May 23
+  - kind: notification
+    date: 2024-06-18
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 6
+  - kind: camera_ready
+    date: 2024-06-20
+    time: "23:59"
+    tz: AoE
+sources:
+- https://security-information-workers.github.io/
+- https://security-information-workers.github.io/2024/
+- https://security-information-workers.github.io/2023/
+- https://security-information-workers.github.io/2022/
+- https://security-information-workers.github.io/2020/
+- https://security-information-workers.github.io/2019/
+- https://www.usenix.org/conference/soups2025
+- https://soups.page/2026/workshops-all.html
+- https://portal.core.edu.au/conf-ranks/?search=WSIW&by=all&source=ICORE2026
+unverified:
+- No 2025 or 2026 edition found (not among the SOUPS 2025 or SOUPS 2026 workshops); the series may be dormant
+last_verified: 2026-10-31

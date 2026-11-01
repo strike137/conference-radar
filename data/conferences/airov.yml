@@ -1,0 +1,73 @@
+id: airov
+name: AIRoV
+full_name: Austrian Symposium on AI, Robotics, and Vision
+type: conference
+tier: minor
+areas: [ai, vision]
+region: europe
+language: english
+frequency: annual
+organizer: ASAI, GMAR and OAGM (Austrian AI, robotics and pattern recognition societies)
+organizer_country: [europe]
+proceedings: TU Wien Library (open access, DOI per paper)
+archival: true
+typical:
+  deadline_months: [3, 5]
+  conference_months: [3, 4, 7]
+links:
+  website: https://airov.at/
+notes:
+- Joint symposium since 2024 of at least two of the Austrian Society for AI (ASAI), the robotics society GMAR and the Austrian Association for Pattern Recognition (OAGM, the IAPR member society) (2025 was ASAI and OAGM only); continues the annual OAGM workshop (49th OAGM conference in 2026)
+- Held in Austria (Innsbruck 2024, Klagenfurt 2025, Leoben 2026, Vienna 2027)
+- Built from parallel workshops plus keynotes and a poster session; every paper is submitted to one workshop, no general track
+- Full papers (8 pages) or extended abstracts (2 to 4 pages), reviewed by the program committee
+- Open-access proceedings by TU Wien Library with a DOI per paper (2026); the 2024 proceedings were published by innsbruck university press
+- Small regional event, friendly to students and early-career researchers
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-15
+  location: Leoben, Austria
+  url: https://airov.at/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-14
+    time: "23:59"
+    tz: CET
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-03-24
+    time: "23:59"
+    tz: CET
+  - kind: camera_ready
+    date: 2026-04-03
+    time: "23:59"
+    tz: CET
+    label: Online pre-proceedings
+  - kind: camera_ready
+    date: 2026-05-01
+    time: "23:59"
+    tz: CET
+    label: Final proceedings
+- year: 2027
+  start: 2027-07-05
+  end: 2027-07-07
+  location: WU Vienna, Vienna, Austria
+  url: https://airov.at/2027/
+sources:
+- https://aapr.at/?page_id=43
+- https://workshops.aapr.at/
+- https://airov.at/2024/
+- https://airov.at/2025/
+- https://airov.at/2025/call-for-papers/
+- https://airov.at/2026/
+- https://airov.at/2026/call-for-papers/
+- https://airov.at/2027/
+- https://proceedings.airov.at/
+- https://portal.core.edu.au/conf-ranks/?search=OAGM&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=AIRoV&by=all&source=ICORE2026
+unverified:
+- AIRoV 2027 deadlines not yet announced
+- Acceptance rate and registration fees not found on the official sites
+last_verified: 2026-10-31

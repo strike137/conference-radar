@@ -1,0 +1,59 @@
+id: eccai
+name: ECCAI
+full_name: ACM CoNEXT Workshop on Edge Computing and Communications for AI
+type: workshop
+tier: minor
+areas: [networking, ai, systems]
+region: worldwide
+language: english
+organizer: Workshop chairs (NUS, Beijing Institute of Technology), co-located with ACM CoNEXT
+organizer_country: [china, singapore]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://eccai.github.io/
+notes:
+- Workshop on edge-cloud collaboration and edge networking for AI workloads (split inference, model compression, LLM-based network agents)
+- First edition held as a half-day workshop with ACM CoNEXT 2025 at HKUST, Hong Kong
+- Program co-chairs from the National University of Singapore and Beijing Institute of Technology
+- Papers up to 6 pages excluding references in two-column ACM format, double-blind review, submitted via HotCRP
+- Per the CoNEXT 2025 call for workshops, workshop papers appear in the ACM Digital Library with the CoNEXT short papers
+- Workshop-only registration sold through CoNEXT (2025 -> 300 USD ACM member early, no student workshop-only rate)
+- Not run with CoNEXT 2026 (Utrecht), whose workshop list does not include it
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-01
+  location: Hong Kong (HKUST)
+  url: https://eccai.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-24
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-08-08
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-09-12
+  - kind: camera_ready
+    date: 2025-10-08
+sources:
+- https://eccai.github.io/
+- https://eccai.github.io/program
+- https://eccai.github.io/registration
+- https://conferences.sigcomm.org/co-next/2025/#!/home
+- https://conferences.sigcomm.org/co-next/2025/#!/cfw
+- https://conferences.sigcomm.org/co-next/2025/#!/registration
+- https://conferences.sigcomm.org/co-next/2026/#!/home
+- https://portal.core.edu.au/conf-ranks/?search=ECCAI&by=all&source=ICORE2026
+unverified:
+- ACM DL proceedings entry for the 2025 workshop papers not checked directly (dl.acm.org blocked); based on the CoNEXT 2025 call for workshops
+- Whether ECCAI will run again (only the 2025 edition is known; frequency unknown)
+- CCF 2026 list not checked on ccf.org.cn directly; workshop not expected to be listed
+last_verified: 2026-10-31

@@ -1,0 +1,70 @@
+id: pgconf-dev
+name: PGConf.dev
+full_name: PostgreSQL Development Conference
+type: industry
+tier: minor
+areas: [data, software]
+region: north-america
+language: english
+frequency: annual
+organizer: Slonik Events Canada
+organizer_country: [canada]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://www.pgconf.dev/
+notes:
+- Annual PostgreSQL developer conference run by volunteers for PostgreSQL contributors, committers, extension authors and ecosystem maintainers
+- Successor of PGCon, which ran in Ottawa from 2007 to 2023; first PGConf.dev in Vancouver in 2024
+- Alternates between Vancouver and Montreal (Vancouver 2024, Montreal 2025, Vancouver 2026, Montreal 2027)
+- Four days of talks, workshops, panels, posters, community discussions and an unconference day; about 300 attendees
+- Program committee selects 25 or 50 minute talks from a call for proposals; second round for community discussions; no proceedings
+- "Registration (2027): 350 USD individual, 550 USD corporate, 75 USD student, plus Quebec tax"
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-05-19
+  end: 2026-05-22
+  location: Simon Fraser University Vancouver Campus, Vancouver, Canada
+  url: https://2026.pgconf.dev/
+  deadlines: []
+- year: 2027
+  start: 2027-05-11
+  end: 2027-05-14
+  location: Plaza Centre-Ville, Montreal, Canada
+  url: https://2027.pgconf.dev/
+  deadlines:
+  - kind: submission
+    date: 2027-01-12
+    time: "23:59"
+    tz: EST
+    label: Main call for proposals
+  - kind: notification
+    date: 2027-02-02
+    label: Main call for proposals
+  - kind: other
+    date: 2027-03-15
+    label: Poster interest
+  - kind: submission
+    date: 2027-04-13
+    label: Community discussions (round 2)
+  - kind: other
+    date: 2027-04-19
+    label: Poster final PDF
+  - kind: notification
+    date: 2027-04-27
+    label: Community discussions (round 2)
+sources:
+- https://www.pgconf.dev/
+- https://2027.pgconf.dev/about
+- https://2027.pgconf.dev/about/team
+- https://2027.pgconf.dev/program
+- https://2026.pgconf.dev/
+- https://portal.core.edu.au/conf-ranks/?search=PGConf&by=all&source=ICORE2026
+unverified:
+- Main CFP deadline is stated as 11:59 PM Montreal time; EST assumed for January
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-31

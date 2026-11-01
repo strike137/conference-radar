@@ -1,0 +1,56 @@
+id: es-fomo
+name: ES-FoMo
+full_name: Workshop on Efficient Systems for Foundation Models
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ES-FoMo workshop organizers (Stanford, Together AI, Adaptive ML and others); co-located with ICML
+organizer_country: [usa, europe]
+proceedings: None (non-archival; accepted papers listed on OpenReview)
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7]
+links:
+  website: https://es-fomo.com/
+notes:
+- ICML workshop on training and inference systems and algorithms for foundation models (efficiency in compute, memory, bandwidth, energy)
+- Held with ICML in 2023 (Honolulu), 2024 (Vienna) and 2025 (Vancouver); 2025 was the third edition
+- Non-archival, the CFP states the workshop will not result in proceedings and papers may be submitted elsewhere
+- Recommended length up to 4 pages in the ICML template, double-blind review on OpenReview; engineering and code-focused papers welcome
+- Papers already accepted at ICML may also be presented
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  label: ES-FoMo III, with ICML 2025
+  start: 2025-07-19
+  end: 2025-07-19
+  location: Vancouver, Canada
+  url: https://es-fomo.com/
+  deadlines:
+  - kind: submission
+    date: 2025-05-27
+    time: "23:59"
+    tz: UTC
+    label: Includes one-day extension for US Memorial Day
+  - kind: notification
+    date: 2025-06-09
+  - kind: camera_ready
+    date: 2025-07-03
+    time: "23:59"
+    tz: UTC
+sources:
+- https://es-fomo.com/
+- https://es-fomo.com/call/
+- https://icml.cc/virtual/2025/events/workshop
+- https://icml.cc/virtual/2025/workshop/39969
+- https://icml.cc/virtual/2023/events/workshop
+- https://openreview.net/group?id=ICML.cc/2025/Workshop/ES-FoMo-III
+- https://openreview.net/group?id=ICML.cc/2024/Workshop/ES-FoMo-II
+- https://portal.core.edu.au/conf-ranks/?search=ES-FoMo&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2026 edition found; ES-FoMo is not on the ICML 2026 workshop list and the website still shows the 2025 edition

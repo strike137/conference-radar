@@ -1,0 +1,66 @@
+id: q-data
+name: Q-Data
+full_name: Workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications
+type: workshop
+tier: minor
+areas: [data, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Q-Data workshop chairs and steering committee; co-located with ACM SIGMOD/PODS
+organizer_country: [usa, europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [5, 6]
+links:
+  website: http://www.qdataworkshop.com/
+notes:
+- Workshop held with ACM SIGMOD/PODS since 2024, so it moves with SIGMOD (Berlin in 2025, Bengaluru, India in 2026)
+- 'Scope: quantum computing and quantum-inspired accelerators (annealers, simulators) for data processing and data management'
+- Full papers up to 12 pages, short papers up to 6 pages, single-author one-page abstracts; ACM sigconf format, submitted via EasyChair
+- Triple-blind review
+- Accepted papers and abstracts are included in the workshop proceedings, published by ACM for every edition (2026 proceedings DOI 10.1145/3811628)
+- 3rd edition in 2026, chaired by Ibrahim Sabek (USC), Immanuel Trummer (Cornell) and Rihan Hai (TU Delft)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 3rd edition, with ACM SIGMOD/PODS 2026
+  start: 2026-05-31
+  end: 2026-05-31
+  location: Bengaluru, India (with SIGMOD/PODS 2026)
+  url: http://www.qdataworkshop.com/
+  deadlines:
+  - kind: submission
+    date: 2026-03-30
+    time: "23:59"
+    tz: PDT
+    label: Extended from March 20
+  - kind: notification
+    date: 2026-04-10
+    time: "23:59"
+    tz: PDT
+    label: Moved from April 4
+  - kind: camera_ready
+    date: 2026-05-07
+    time: "23:59"
+    tz: PDT
+    label: Moved from May 1
+sources:
+- http://www.qdataworkshop.com/
+- https://itrummer.github.io/qdata/qdata24.html
+- https://itrummer.github.io/qdata/qdata25.html
+- https://2026.sigmod.org/sigmod_workshops.shtml
+- https://2026.sigmod.org/sigmod_call_for_workshop_papers.shtml
+- https://2026.sigmod.org/calls_workshops.shtml
+- https://itrummer.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=Q-Data&by=all&source=ICORE2026
+- https://doi.org/10.1145/3811628
+- https://doi.org/10.1145/3736393
+- https://doi.org/10.1145/3665225
+last_verified: 2026-10-31
+unverified:
+- The workshop page does not name the publisher; ACM DL is confirmed by the ACM proceedings DOIs of all three editions (Crossref records)
+- The SIGMOD 2026 workshop list gives notification as 7 Apr 2026; the workshop page (used here) says 10 Apr 2026
+- Q-Data 2027 not announced yet

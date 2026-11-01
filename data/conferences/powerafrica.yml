@@ -1,0 +1,59 @@
+id: powerafrica
+name: PowerAfrica
+full_name: IEEE PES/IAS PowerAfrica Conference
+type: conference
+tier: minor
+areas: [communications, general]
+region: africa
+language: english
+frequency: annual
+organizer: IEEE Power & Energy Society (PES) and Industry Applications Society (IAS), with the host IEEE section and IEEE Smart Village
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9, 10]
+links:
+  website: https://ieee-powerafrica.org/
+notes:
+- IEEE PES/IAS power and energy conference for Africa, held yearly since at least 2016 (PAC)
+- Rotates around Africa (2022 Kigali, 2023 Marrakech, 2024 Johannesburg, 2025 Cairo, 2026 Nairobi); 2020 and 2021 were virtual
+- Topics include renewable integration, grid resilience, AI and cyber-physical power systems, smart grid security, EVs and energy markets
+- Full papers up to 6 pages (extra 2 pages at 50 USD each) and short papers up to 3 pages, via EasyChair
+- Accepted and presented full and short papers are published in IEEE Xplore
+- Postgraduate forum (poster session); strong postgraduate papers may also be published
+- IEEE Smart Village co-locates workshops each year
+- Submission deadline is usually extended by several weeks (2026 -> 7 Apr extended to 30 Apr)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-09-28
+  end: 2025-10-02
+  location: Cairo, Egypt
+  url: https://attend.ieee.org/powerafrica-2025/
+- year: 2026
+  start: 2026-09-21
+  end: 2026-09-25
+  location: Safari Park, Nairobi, Kenya
+  url: https://ieee-powerafrica.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+    label: Extended from 2026-04-07
+  - kind: notification
+    date: 2026-06-01
+    label: Extended from 2026-05-22
+  - kind: camera_ready
+    date: 2026-06-22
+sources:
+- https://ieee-powerafrica.org/
+- https://ieee-powerafrica.org/call-for-papers/
+- https://ieee-powerafrica.org/organising-committee/
+- https://attend.ieee.org/powerafrica-2025/
+- https://attend.ieee.org/powerafrica-2024/
+- https://portal.core.edu.au/conf-ranks/?search=PowerAfrica&by=all&source=ICORE2026
+unverified:
+- PowerAfrica 2027 host and dates not announced on the official site as of 2026-10-31
+- rank.ccf left out (power and energy venue, not expected in the CCF CS list)
+last_verified: 2026-10-31

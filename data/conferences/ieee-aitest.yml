@@ -1,0 +1,68 @@
+id: ieee-aitest
+name: IEEE AITest
+full_name: IEEE International Conference on Artificial Intelligence Testing
+type: conference
+tier: minor
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE, as part of the IEEE CISOSE congress (CISOSE Steering Committee)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://ieee-cisose-congress.org/2027/aitest/
+notes:
+- Testing of AI systems and AI for software testing (LLM quality, agentic AI assurance, data quality, autonomous systems); first held in 2019, 8th edition in 2026
+- One of the co-located conferences of the IEEE CISOSE congress (with SOSE, JCC, BigDataService, IMC, DAPPS, FTS, FITYR), which rotates between the Americas, Europe and Asia
+- 'Recent hosts: online (2020, 2021), San Francisco Bay Area (2022), Athens (2023), Shanghai (2024), Tucson (2025), Fukuoka (2026), Oxford (2027)'
+- Papers published by IEEE Computer Society Press in IEEE Xplore (EI indexed per the CFP)
+- 'Paper types (2026): regular 8 pages, short 4, AI Testing in Practice 8, tool demo 6 (IEEE double column); double-blind review; two extra pages at a charge'
+- Each accepted paper must be covered by at least one full author registration and be presented in person
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-27
+  end: 2026-07-30
+  location: Fukuoka, Japan
+  url: https://ieee-cisose-congress.org/2027/aitest/
+  deadlines:
+  - kind: submission
+    date: 2026-04-15
+    time: "23:59"
+    tz: AoE
+    label: Main papers (updated)
+  - kind: notification
+    date: 2026-05-25
+  - kind: submission
+    date: 2026-05-15
+    label: Workshop papers
+  - kind: camera_ready
+    date: 2026-06-15
+    label: Camera-ready and author registration
+- year: 2027
+  start: 2027-06-08
+  end: 2027-06-11
+  location: Oxford, UK (Oxford Brookes University, Headington Campus)
+  url: https://ieee-cisose-congress.org/2027/aitest/
+sources:
+- https://ieee-cisose-congress.org/
+- https://ieee-cisose-congress.org/2026/
+- https://ieee-cisose-congress.org/2027/aitest/
+- https://ieee-cisose-congress.org/2027/aitest/important-dates/
+- https://ieee-cisose-congress.org/2027/aitest/call-for-papers/
+- https://ieee-cisose-congress.org/2027/aitest/paper-submission/
+- https://ieee-cisose-congress.org/2027/aitest/registration/
+- https://ieee-cisose-congress.org/2027/aitest/instructions-for-camera-ready-upload/
+- https://conf.researchr.org/track/cisose-2025/ai-test2025
+- https://api.crossref.org/works/10.1109/aitest66680.2025
+- https://api.crossref.org/works/10.1109/aitest70988.2026
+- https://portal.core.edu.au/conf-ranks/?search=AITest&by=all&source=ICORE2026
+unverified:
+- The CISOSE 2026 congress page gives 2026-07-15 to 2026-07-18; the AITest 2026 page and the IEEE proceedings record give 2026-07-27 to 2026-07-30, used here
+- AITest 2027 dates are those of the CISOSE 2027 congress; the AITest 2027 pages still show 2026 content and no 2027 deadlines as of 2026-10-31
+last_verified: 2026-10-31

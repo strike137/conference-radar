@@ -1,0 +1,70 @@
+id: ml4ps
+name: ML4PS
+full_name: Machine Learning and the Physical Sciences Workshop
+type: workshop
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: ML4PS workshop organizers; held alongside NeurIPS
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers listed on the workshop website)
+archival: false
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://ml4physicalsciences.github.io/
+notes:
+- Annual workshop on ML for physics, astronomy, chemistry, materials and Earth science, and physics-inspired ML, running since 2017
+- Was an official NeurIPS workshop through 2025 (2024 Vancouver, 2025 San Diego)
+- 2026 edition is independent of NeurIPS, held at Georgia Tech in Atlanta near the NeurIPS venue and hosted by the Georgia Tech AI4Science Center; NeurIPS registration not required
+- Non-archival with no published proceedings; extended abstracts of published work are accepted
+- Short papers up to 4 pages in the NeurIPS template, double-blind review on OpenReview; tracks for research, evaluations and datasets, and perspectives
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  label: 8th edition, NeurIPS 2025 workshop
+  start: 2025-12-06
+  end: 2025-12-06
+  location: San Diego Convention Center, San Diego, CA, USA
+  url: https://ml4physicalsciences.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-29
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-09-22
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-14
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  label: 9th edition, independent workshop co-located with NeurIPS 2026
+  start: 2026-12-11
+  end: 2026-12-11
+  location: Georgia Institute of Technology, Atlanta, GA, USA
+  url: https://ml4physicalsciences.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-19
+    time: "23:59"
+    tz: AoE
+    label: Extended from September 12
+  - kind: notification
+    date: 2026-10-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://ml4physicalsciences.github.io/2026/
+- https://ml4physicalsciences.github.io/2026/guidelines.html
+- https://ml4physicalsciences.github.io/2025/
+- https://ml4physicalsciences.github.io/2024/
+- https://portal.core.edu.au/conf-ranks/?search=ML4PS&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- 2026 camera-ready deadline not yet stated on the official site

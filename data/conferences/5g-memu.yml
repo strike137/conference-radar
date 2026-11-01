@@ -1,0 +1,60 @@
+id: 5g-memu
+name: 5G-MeMU
+full_name: ACM Workshop on 5G and Beyond Network Measurements, Modeling, and Use Cases
+type: workshop
+tier: minor
+areas: [networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: Steering committee (Karlstad University, George Mason University, University of Minnesota), at ACM SIGCOMM or CoNEXT
+organizer_country: [usa, europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://5g-memu-2024.github.io/index.html
+notes:
+- Workshop on measurement, modeling and use cases of operational 5G and beyond networks (performance, energy,
+  Open RAN, testbeds, ML for 5G traffic, security)
+- Held with ACM SIGCOMM in 2021 (virtual), 2022 (Amsterdam) and 2023 (New York), then with ACM CoNEXT 2024 in Los Angeles
+- Papers of up to 6 pages excluding references in two-column ACM format, single-blind review on HotCRP
+- Papers appear in the ACM Digital Library (Proceedings of the 4th ACM Workshop on 5G-MeMU, CoNEXT 2024)
+- Half-day program in 2024 with two keynotes and three papers
+- No edition with CoNEXT 2025 or CoNEXT 2026 so far
+editions:
+- year: 2024
+  start: 2024-12-09
+  end: 2024-12-09
+  location: Los Angeles, USA
+  url: https://5g-memu-2024.github.io/index.html
+  deadlines:
+  - kind: submission
+    date: 2024-07-31
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2024-09-30
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-10-12
+    time: "23:59"
+    tz: AoE
+sources:
+- https://5g-memu-2024.github.io/index.html
+- https://5g-memu-2024.github.io/Call4Paper.html
+- https://5g-memu-2024.github.io/committee.html
+- https://5g-memu-2024.github.io/program.html
+- https://conferences.sigcomm.org/co-next/2024/partials/workshopatglance.html
+- https://conferences.sigcomm.org/co-next/2025/partials/program.html
+- https://conferences.sigcomm.org/co-next/2026/partials/home.html
+- https://doi.org/10.1145/3694810.3700159
+- https://portal.core.edu.au/conf-ranks/?search=5G-MeMU&by=all&source=ICORE2026
+unverified:
+- 2021 to 2023 host conferences taken from ACM DL proceedings metadata (Crossref), not from the workshop sites
+- No 2025 or 2026 edition found; the workshop may be dormant
+- Not found on the ICORE2026 portal and not on the CCF 2026 list
+last_verified: 2026-10-31

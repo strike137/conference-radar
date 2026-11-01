@@ -1,0 +1,73 @@
+id: fdg
+name: FDG
+full_name: International Conference on the Foundations of Digital Games
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: SASDG (Society for the Advancement of the Science of Digital Games); 2026 hosted by the Royal Danish Academy
+organizer_country: [international]
+proceedings: ACM DL (Proceedings of the International Conference on the Foundations of Digital Games)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [12]
+  conference_months: [8]
+links:
+  website: https://fdg2026.org/
+notes:
+- Run by SASDG, a California nonprofit founded in 2008 as the organizational home of FDG; host chosen by its steering committee
+- Interdisciplinary games research conference (computer science, engineering, humanities, social sciences, design) with a Game AI track
+- Full papers up to ten pages in ACM SIGCONF format; double-anonymised review with three reviews, a meta-review and an author response
+- Proceedings in the ACM Digital Library; abstract-only submissions are presented but not published
+- Abstract registration about ten days before the full paper deadline; separate later deadline for late-breaking short papers, games/demos and doctoral consortium
+- Hybrid sessions allow remote presentations (2026)
+- CORE ICORE2026 rank C; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-08-10
+  end: 2026-08-13
+  location: Royal Danish Academy, Copenhagen, Denmark
+  url: https://fdg2026.org/
+  deadlines:
+  - kind: other
+    date: 2025-12-05
+    time: "23:59"
+    tz: AoE
+    label: Workshop, competition and panel proposals (extended from 2025-11-21)
+  - kind: abstract
+    date: 2025-12-05
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-12-15
+    time: "23:59"
+    tz: AoE
+    label: Regular papers
+  - kind: notification
+    date: 2026-02-01
+    label: Regular papers
+  - kind: other
+    date: 2026-03-30
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking short papers, games/demos and doctoral consortium
+sources:
+- https://fdg2026.org/
+- https://fdg2026.org/call-for-papers/
+- https://fdg2026.org/organizing-committee/
+- https://fdg2026.org/schedule/
+- https://dl.acm.org/doi/book/10.1145/3815598
+- https://portal.core.edu.au/conf-ranks/?search=FDG&by=all&source=ICORE2026
+- http://www.sasdg.org/
+- http://www.sasdg.org/fdg-call-for-proposals.html
+last_verified: 2026-10-31
+unverified:
+- FDG 2027 host and dates not yet found (SASDG called for 2027-2029 hosting proposals)
+- Worldwide rotation (region) is judged from past host cities, not from an official statement
+- The call for papers page says August 10-14 while the home page and schedule say August 10-13
+- Typical months are taken from the 2026 edition only; earlier editions were held at other times of year
+- Indexing not stated

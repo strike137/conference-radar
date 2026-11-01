@@ -1,0 +1,51 @@
+id: icsidp
+name: IEEE ICSIDP
+full_name: IEEE International Conference on Signal, Information and Data Processing
+type: conference
+tier: minor
+areas: [communications, data]
+region: china
+language: english
+frequency: irregular
+organizer: Beijing Institute of Technology, sponsored by IEEE Signal Processing Society, IEEE Guangzhou Section and the CIE Signal Processing Society
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11, 12]
+links:
+  website: http://www.icsidp.org/
+notes:
+- Signal processing conference with a strong radar, remote sensing and intelligent sensing focus, run by Beijing Institute of Technology
+- Sponsored by IEEE Signal Processing Society, IEEE Guangzhou Section and the Signal Processing Society of the Chinese Institute of Electronics
+- Only two editions so far (Chongqing 2019, Zhuhai 2024); no later edition announced
+- Large event with mostly poster papers; 2024 had 137 oral and 550 poster papers plus 171 invited talks
+- Papers must be presented in person to appear in IEEE Xplore; the 2024 proceedings went online in February 2025
+- Not ranked in CORE ICORE2026; not on the CCF 2026 recommended list
+editions:
+- year: 2024
+  start: 2024-11-22
+  end: 2024-11-24
+  location: Zhuhai, China
+  url: http://www.icsidp.org/
+  deadlines:
+  - kind: submission
+    date: 2024-08-31
+    label: Paper submission (extended from July 31)
+  - kind: notification
+    date: 2024-09-25
+  - kind: camera_ready
+    date: 2024-10-25
+sources:
+- http://www.icsidp.org/
+- http://www.icsidp.org/page.asp?id=166
+- http://www.icsidp.org/page.asp?id=169
+- http://www.icsidp.org/page.asp?id=177
+- http://www.icsidp.org/news_show.asp?newsid=8
+- https://api.crossref.org/works?query.bibliographic=International+Conference+on+Signal+Information+and+Data+Processing+ICSIDP&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ICSIDP&by=all&source=ICORE2026
+unverified:
+- Whether a next edition is planned; the official site still shows the 2024 edition
+- 2019 edition dates and location taken from the IEEE proceedings metadata, not the official site
+last_verified: 2026-10-31

@@ -1,0 +1,53 @@
+id: htapsys
+name: HTAPSys
+full_name: Workshop on Hybrid Transactional/Analytical Processing Systems
+type: workshop
+tier: minor
+areas: [data, systems]
+region: north-america
+language: english
+organizer: HTAPSys workshop chairs (Simon Fraser University, Huawei Canada); co-located with IEEE ICDE
+organizer_country: [canada]
+proceedings: IEEE ICDE Workshops proceedings (published alongside the ICDE proceedings)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://sfu-dis.github.io/htapsys/
+notes:
+- Workshop on hybrid transactional and analytical processing (HTAP) database systems; 1st edition at IEEE ICDE 2026 in Montreal
+- Regular research papers and visionary position papers up to 6 pages including references, IEEE proceedings format; single-blind review on Microsoft CMT
+- ICDE 2026 call for workshops says workshop proceedings are published jointly alongside the conference proceedings
+- Mostly invited talks from academia and industry (Boston University, Huawei, Snowflake, PingCAP) in 2026
+- Co-chairs Tianzheng Wang (SFU) and Xun Xue (Huawei Canada)
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 1st edition, with ICDE 2026
+  start: 2026-05-08
+  end: 2026-05-08
+  location: Montreal, Canada
+  url: https://sfu-dis.github.io/htapsys/
+  deadlines:
+  - kind: submission
+    date: 2026-02-03
+    time: "23:59"
+    tz: PST
+    label: Extended from 2026-01-27
+  - kind: notification
+    date: 2026-03-01
+    label: Moved from 2026-02-24
+  - kind: camera_ready
+    date: 2026-03-19
+    label: Moved from 2026-03-10
+sources:
+- https://sfu-dis.github.io/htapsys/
+- https://icde2026.github.io/workshops.html
+- https://icde2026.github.io/cf-workshop-proposals.html
+- https://portal.core.edu.au/conf-ranks/?search=HTAPSys&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Only one edition so far; whether HTAPSys will run again (with ICDE 2027) is not announced, so frequency is left out
+- The workshop page does not itself name the proceedings; taken from the ICDE 2026 call for workshops. The HTAPSys camera-ready date (March 19) is later than the ICDE workshop camera-ready limit (March 9, to be confirmed), so inclusion of the papers in IEEE Xplore was not confirmed
+- Region set from the single 2026 edition

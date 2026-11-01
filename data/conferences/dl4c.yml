@@ -1,0 +1,52 @@
+id: dl4c
+name: DL4C
+full_name: Workshop on Deep Learning for Code
+type: workshop
+tier: minor
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: irregular
+organizer: DL4C workshop organizers; co-located with ICLR, NeurIPS or ICML
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://dl4c.github.io/
+notes:
+- Workshop on machine learning for code, LLM coding agents, code benchmarks and human-AI interaction for programming
+- Five editions so far, at ICLR 2022 (virtual), ICLR 2023 (Kigali), ICLR 2025 (Singapore), NeurIPS 2025 (San Diego) and ICML 2026 (Seoul)
+- Non-archival, so dual submission is allowed; double-blind review on OpenReview
+- Regular papers up to 8 pages and short papers up to 4 pages in ICML format
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-10
+  end: 2026-07-10
+  location: Seoul, South Korea (co-located with ICML 2026)
+  url: https://dl4c.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-19
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-05-15
+  - kind: notification
+    date: 2026-06-17
+    label: Delayed from 2026-06-09
+  - kind: camera_ready
+    date: 2026-07-04
+    time: "23:59"
+    tz: AoE
+sources:
+- https://dl4c.github.io/
+- https://dl4c.github.io/callforpapers/
+- https://dl4c.github.io/schedule/
+- https://dl4c.github.io/pasteditions/
+- https://portal.core.edu.au/conf-ranks/?search=DL4C&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2027 edition announced on the official site as of 2026-10-31; host conference changes between editions

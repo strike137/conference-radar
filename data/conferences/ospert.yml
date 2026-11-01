@@ -1,0 +1,58 @@
+id: ospert
+name: OSPERT
+full_name: Workshop on Operating Systems Platforms for Embedded Real-Time Applications
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: Satellite workshop of ECRTS; chairs change each year
+organizer_country: [europe]
+proceedings: Workshop website (informal proceedings PDF)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://www.ospert.org/
+notes:
+- Workshop on real-time operating systems (RTOS design, resource management, timing, OS support for embedded platforms), held with ECRTS since 2005; 20th edition in 2026
+- Held on the workshop day of ECRTS in Europe in July (Lund 2026)
+- Formats include full technical papers (up to 6 pages), short papers (up to 3 pages), open problem talks, demos and tutorials, calls to action and experiment reports
+- All proposals and papers are reviewed by the program committee; accepted papers appear in an informal proceedings PDF distributed online and at the workshop
+- The 2026 CFP also offers an optional DOI-based publication track for accepted papers
+- Full-day workshop with an industry keynote (QNX lead architect in 2026); 7 contributions accepted in 2026
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-07
+  end: 2026-07-07
+  location: Lund, Sweden (with ECRTS 2026)
+  url: https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2026/workshops/ospert26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-23
+    tz: AoE
+    label: Extended (original 2026-05-14)
+  - kind: notification
+    date: 2026-06-04
+  - kind: camera_ready
+    date: 2026-06-26
+sources:
+- https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2026/workshops/ospert26/
+- https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2026/workshops/ospert26/contribution-formats-ospert-2026/
+- https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2026/wp-content/uploads/2026/02/ospert2026_cfp.txt
+- https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2026/wp-content/uploads/2026/07/ospert26-proceedings.pdf
+- https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2026/workshops/
+- https://2025.ecrts.org/workshops/
+- https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2024/workshops/
+- https://www.ecrts.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=OSPERT&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- www.ospert.org could not be reached from here; the 2026 details come from the OSPERT 2026 page in the ECRTS archive
+- OSPERT 2027 not announced yet; the ECRTS 2027 workshop call (Prague, July 13 to 16, 2027) is not out
+- The 2026 CFP mentions an optional DOI-based publication track but does not say which repository; the proceedings PDF itself carries no DOI, so archival stays false
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-31

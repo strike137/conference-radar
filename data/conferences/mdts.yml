@@ -1,0 +1,71 @@
+id: mdts
+name: IEEE MDTS
+full_name: IEEE Microelectronics Design and Test Symposium
+type: conference
+tier: minor
+areas: [systems, security]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE MDTS steering committee, co-sponsored by IEEE Region 1, Region 2 and the IEEE Schenectady Section
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://mdts.ieee.org/
+notes:
+- Formerly the IEEE North Atlantic Test Workshop (NATW, 1992 to 2020); renamed MDTS in 2021; 36th edition in 2027
+- Covers electronic test, design for test, EDA, yield, hardware security, reliability, analog/mixed-signal/RF and emerging devices
+- Six-page full papers or two-page extended summaries; only full papers can go to IEEE Xplore
+- Accepted papers presented at the symposium can opt in to post-symposium publication in IEEE Xplore; the pre-symposium digest is attendees only
+- Selected papers invited to the Journal of Electronic Testing (JETTA) (2026 CFP)
+- Held every May in Albany, New York (2023 to 2027); virtual in 2021 and 2022
+- Small academia-industry forum with a best student paper award and student sessions
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 35th MDTS
+  start: 2026-05-18
+  end: 2026-05-20
+  location: Crowne Plaza Albany (The Desmond Hotel), Albany, NY, USA
+  url: https://mdts.ieee.org/full-agenda-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-15
+    label: Full paper or extended summary
+  - kind: notification
+    date: 2026-03-15
+  - kind: camera_ready
+    date: 2026-04-13
+- year: 2027
+  label: 36th MDTS
+  start: 2027-05-17
+  end: 2027-05-19
+  location: Crowne Plaza Albany (The Desmond Hotel), Albany, NY, USA
+  url: https://mdts.ieee.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+    label: Full paper or extended summary
+  - kind: notification
+    date: 2027-03-15
+  - kind: camera_ready
+    date: 2027-04-16
+sources:
+- https://mdts.ieee.org/
+- https://mdts.ieee.org/wp-content/uploads/sites/306/2026/10/2027_MDTS_-CFP.pdf
+- https://mdts.ieee.org/wp-content/uploads/sites/306/2026/03/2026-CFP-0303.pdf
+- https://mdts.ieee.org/full-agenda-2026/
+- https://mdts.ieee.org/informations-for-authors/
+- https://mdts.ieee.org/past-programs/
+- https://mdts.ieee.org/committees/
+- https://mdts.ieee.org/wp-content/uploads/sites/306/2024/02/2024CFP-240213.pdf
+- https://mdts.ieee.org/wp-content/uploads/sites/306/2025/05/2025-CFP-250413-HL-v5.pdf
+- https://portal.core.edu.au/conf-ranks/?search=MDTS&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- "2027 dates conflict: the CFP PDF gives submission 2027-01-15, notification 2027-03-15, final 2027-04-16; the homepage key dates say abstract 2027-01-10, full paper 2027-01-17, notification 2027-02-21, final 2027-04-11"
+- Deadline time zones not stated

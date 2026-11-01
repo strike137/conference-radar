@@ -1,0 +1,75 @@
+id: ruscdays
+name: RuSCDays
+full_name: Russian Supercomputing Days (International Conference)
+name_local: Суперкомпьютерные дни в России
+type: conference
+tier: minor
+areas: [systems]
+region: europe
+language: mixed
+frequency: annual
+organizer: Moscow State University Research Computing Center (coordinator), steering committee chaired by the MSU rector
+organizer_country: [other]
+proceedings: Springer LNCS (English full papers, revised selected papers)
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://russianscdays.org/en
+notes:
+- Russian national HPC and supercomputing conference with international participation; held every year at Moscow State University since 2015, 12th edition in 2026
+- Part of the Russian Supercomputing Days congress (conference, workshops, young scientists conference, exhibition); mixed onsite and online format
+- English full papers (12 to 15 pages, LNCS format) go to a Springer LNCS volume after the conference; Russian full papers, short papers and poster abstracts go to a local proceedings book on the website (RSCI)
+- Papers accepted in English or Russian; blind review by 3 reviewers; one author must present in person and pay the fee
+- Topics cover HPC software and hardware, large-scale simulation, big data, AI, quantum computing and supercomputing education
+- Not ranked in ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-29
+  end: 2025-09-30
+  location: Moscow, Russia (Moscow State University)
+  url: https://2025.russianscdays.org/en
+  deadlines:
+  - kind: abstract
+    date: 2025-04-01
+  - kind: submission
+    date: 2025-04-15
+  - kind: notification
+    date: 2025-05-15
+  - kind: camera_ready
+    date: 2025-05-30
+- year: 2026
+  start: 2026-09-28
+  end: 2026-09-29
+  location: Moscow, Russia (Moscow State University, Shuvalov building)
+  url: https://russianscdays.org/en
+  deadlines:
+  - kind: abstract
+    date: 2026-04-01
+  - kind: submission
+    date: 2026-04-30
+  - kind: notification
+    date: 2026-05-30
+  - kind: camera_ready
+    date: 2026-06-24
+sources:
+- https://russianscdays.org/
+- https://russianscdays.org/en
+- https://russianscdays.org/en/authors
+- https://russianscdays.org/en/venue
+- https://russianscdays.org/en/committees
+- https://russianscdays.org/en/archive
+- https://russianscdays.org/Proceedings
+- https://2025.russianscdays.org/en
+- https://2025.russianscdays.org/Proceedings
+- https://link.springer.com/book/10.1007/978-3-032-13127-0
+- https://portal.core.edu.au/conf-ranks/?search=RuSCDays&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Deadline times and time zones not stated on the official site
+- 2026 Springer LNCS volume not yet published as of 2026-10-31
+- RuSCDays 2027 not announced as of 2026-10-31
+- Acceptance rate and fees not checked
+last_verified: 2026-10-31

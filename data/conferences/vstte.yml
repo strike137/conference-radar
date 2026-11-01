@@ -1,0 +1,54 @@
+id: vstte
+name: VSTTE
+full_name: 'International Conference on Verified Software: Theories, Tools and Experiments'
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: VSTTE steering committee (Verified Software Initiative)
+organizer_country: [international]
+proceedings: Springer LNCS (post-proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://fmcad.org/FMCAD26/vstte/
+notes:
+- Conference of the Verified Software Initiative on program verification theories, tools and case studies
+- Usually co-located with a larger formal methods conference; the 18th edition (2026) was co-located with FMCAD in Graz
+- Post-conference proceedings as a Springer LNCS volume; optional pre-conference version of papers
+- Long papers up to 16 pages and short papers (incl. verification pearls) up to 10 pages, excluding references; work-in-progress talks are presentation-only and not in the proceedings
+- Not listed in ICORE2026 and not in the CCF 2026 list
+- Co-located with FMCAD since 2021 (Lugano 2021, Trento 2022, Ames 2023, Prague 2024, Menlo Park 2025, Graz 2026); with CAV before that
+editions:
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-15
+  location: Graz, Austria
+  url: https://fmcad.org/FMCAD26/vstte/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-17
+    tz: AoE
+    label: Extended from 2026-07-10
+  - kind: submission
+    date: 2026-07-24
+    tz: AoE
+    label: Extended from 2026-07-17
+  - kind: notification
+    date: 2026-08-22
+    tz: AoE
+    label: Tentative
+  - kind: camera_ready
+    date: 2026-10-23
+    label: Post-conference proceedings (tentative)
+sources:
+- https://fmcad.org/FMCAD26/vstte/
+- https://fmcad.org/FMCAD26/
+- https://portal.core.edu.au/conf-ranks/?search=VSTTE&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- VSTTE 2027 not announced yet

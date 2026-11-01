@@ -1,0 +1,50 @@
+id: autosys
+name: AutoSys
+full_name: Workshop on Mobile Agentic Systems
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+organizer: Workshop chairs from Huawei Leibniz Research Center, Hong Kong Polytechnic University and UNSW, co-located with ACM MobiSys
+organizer_country: [china, australia]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://autosys26.github.io/
+notes:
+- Workshop on systems foundations for mobile and on-device AI agents (agent architecture, tool orchestration, security and privacy of agent actions)
+- First edition held with ACM MobiSys 2026 in Cambridge, UK, in an Agentic Systems track together with AutoEdge
+- Two tracks, extended abstracts of 1 to 2 pages and short or position papers up to 6 pages, ACM double-column format
+- Single-blind review with at least two reviews per submission, via HotCRP
+- MobiSys 2026 workshop papers are included in the MobiSys proceedings in the ACM Digital Library
+- Not listed in ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-25
+  end: 2026-06-25
+  location: Cambridge, UK
+  url: https://autosys26.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-15
+    tz: AoE
+  - kind: notification
+    date: 2026-03-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-27
+    tz: AoE
+sources:
+- https://autosys26.github.io/
+- https://www.sigmobile.org/mobisys/2026/accepted_workshops/
+- https://www.sigmobile.org/mobisys/2026/call_for_workshops/
+- https://portal.core.edu.au/conf-ranks/?search=AutoSys&by=all&source=ICORE2026
+unverified:
+- Proceedings taken from the MobiSys 2026 call for workshops; the AutoSys site does not state it and the ACM DL page could not be opened
+- Whether AutoSys will run again in 2027 (only the 2026 edition is known), so frequency is not set
+- Deadline time of day (the page states AoE without a time)
+last_verified: 2026-10-31

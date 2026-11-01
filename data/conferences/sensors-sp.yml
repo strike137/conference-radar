@@ -1,0 +1,50 @@
+id: sensors-sp
+name: Sensors S&P
+full_name: International Workshop on Security and Privacy of Sensing Systems
+type: workshop
+tier: minor
+areas: [security, systems]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Sensors S&P organizers (UMass Amherst, University of Utah), co-located with ACM SenSys
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [2, 9]
+  conference_months: [5, 11]
+links:
+  website: https://emtechlab.github.io/sensors-security-privacy-workshop/
+notes:
+- Workshop on security, privacy and safety of IoT sensing systems, sensor ML, XR and autonomous vehicles
+- 1st edition with ACM SenSys 2023 (Istanbul), 2nd with ACM SenSys at CPS-IoT Week 2025 (Irvine); no 2024 edition
+- Both editions published in the ACM Digital Library
+- 2025 format took technical papers up to 4 pages and vision papers up to 2 pages (ACM format, excluding references); double-blind review
+- Not in the CPS-IoT Week 2026 workshop list
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-05-06
+  end: 2025-05-06
+  location: Irvine, CA, USA
+  url: https://emtechlab.github.io/sensors-security-privacy-workshop/
+  deadlines:
+  - kind: submission
+    date: 2025-02-27
+  - kind: notification
+    date: 2025-03-15
+  - kind: camera_ready
+    date: 2025-03-20
+sources:
+- https://emtechlab.github.io/sensors-security-privacy-workshop/
+- https://sensorssp.github.io/sensorssp23/
+- https://sensys.acm.org/2025/workshops.html
+- https://cps-iot-week2025.ics.uci.edu/events.php
+- https://cps-iot-week2026.inria.fr/events.php
+- https://doi.org/10.1145/3722566.3727632
+- https://doi.org/10.1145/3628356.3630115
+- https://portal.core.edu.au/conf-ranks/?search=Sensors&by=all&source=ICORE2026
+unverified:
+- Next edition not announced as of 2026-10-31 (not among CPS-IoT Week 2026 workshops)
+last_verified: 2026-10-31

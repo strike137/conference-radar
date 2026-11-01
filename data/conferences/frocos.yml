@@ -1,0 +1,68 @@
+id: frocos
+name: FroCoS
+full_name: International Symposium on Frontiers of Combining Systems
+type: conference
+tier: minor
+areas: [ai, software]
+region: europe
+language: english
+frequency: biennial
+organizer: FroCoS Steering Committee
+organizer_country: [international]
+proceedings: Springer LNAI/LNCS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://frocos.cs.uiowa.edu/
+  dblp: https://dblp.org/db/conf/frocos/
+notes:
+- Combination and integration of formal systems (logics, SAT/SMT, decision procedures, rewriting, ontologies) and their use
+  in verification and automated reasoning
+- Standalone symposium in odd years; in even years it merges with CADE and TABLEAUX into IJCAR (IJCAR 2026 at FLoC, Lisbon)
+- Proceedings in Springer LNAI/LNCS (LNAI 15979 in 2025, Gold Open Access)
+- Recent standalone editions co-located with TABLEAUX (Reykjavik 2025 with ITP, Marseille 2027)
+- Small venue (2025 -> 21 full papers accepted out of 32 submissions, per the Springer volume); 15 pages LNCS excluding references; one author must attend in person
+- Mostly held in Europe (London 2019, Birmingham 2021, Prague 2023, Reykjavik 2025, Marseille 2027)
+- Not listed in CORE ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-29
+  end: 2025-10-01
+  location: Reykjavik, Iceland (with ITP and TABLEAUX)
+  url: https://icetcs.github.io/frocos-itp-tableaux25/frocos/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-09
+    tz: AoE
+  - kind: submission
+    date: 2025-05-16
+    tz: AoE
+  - kind: notification
+    date: 2025-06-23
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-07
+    tz: AoE
+- year: 2027
+  start: 2027-09-29
+  end: 2027-10-01
+  location: Marseille, France (with TABLEAUX 2027)
+  url: https://tableaux-frocos27.lis-lab.fr/frocos/index.html
+sources:
+- https://frocos.cs.uiowa.edu/
+- https://frocos.cs.uiowa.edu/meetings.shtml
+- https://frocos.cs.uiowa.edu/proceedings.shtml
+- https://link.springer.com/book/10.1007/978-3-032-04167-8
+- https://icetcs.github.io/frocos-itp-tableaux25
+- https://icetcs.github.io/frocos-itp-tableaux25/frocos/
+- https://tableaux-frocos27.lis-lab.fr/frocos/index.html
+- https://tableaux-frocos27.lis-lab.fr/frocos/dates.html
+- https://portal.core.edu.au/conf-ranks/?search=FroCoS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- FroCoS 2027 deadlines (the important dates page says TBA)
+- FroCoS 2027 dates differ between pages (September 29 to October 1 on the conference site, September 28 to October 1 on
+  the steering committee meetings page)
+last_verified: 2026-10-31

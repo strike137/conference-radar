@@ -1,0 +1,55 @@
+id: veriprop
+name: VeriProP
+full_name: Workshop on Verification of Probabilistic Programs
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: VeriProP steering committee (TU Wien, QMUL, Radboud, Saarland/UCL, DTU)
+organizer_country: [europe]
+proceedings: None (no formal proceedings)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://veriprop.github.io/2026/
+notes:
+- One-day workshop co-located with CAV on tool-supported verification of probabilistic programs, models and systems
+- Topics include probabilistic model checking, inference, and probabilistic reasoning for safety, security and privacy (for example differential privacy)
+- Call for short presentations; extended abstracts of 1 to 2 pages, previously published work welcome
+- No formal proceedings
+- Held every year since 2021 (online 2021, Haifa 2022 at FLoC, Paris 2023, Montreal 2024, Zagreb 2025, Lisbon 2026 at FLoC, Amsterdam 2027)
+editions:
+- year: 2026
+  start: 2026-07-25
+  end: 2026-07-25
+  location: Lisbon, Portugal (FLoC 2026)
+  url: https://veriprop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-21
+    tz: AoE
+    label: Submission (extended from 2026-05-06)
+- year: 2027
+  start: 2027-07-20
+  end: 2027-07-20
+  location: Amsterdam, Netherlands (with CAV 2027)
+  url: https://veriprop.github.io/2027/
+sources:
+- https://veriprop.github.io/2026/
+- https://www.floc26.org/workshops
+- https://veriprop.github.io/2027/
+- https://veriprop.github.io/2025/
+- https://veriprop.github.io/2024/
+- https://veriprop.github.io/2023/
+- https://veriprop.github.io/2022/
+- https://veriprop.github.io/2021/
+- https://portal.core.edu.au/conf-ranks/?search=VeriProP&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- VeriProP 2027 submission deadline and notification date not announced yet
+- 2021 to 2025 locations (online, Haifa, Paris, Montreal, Zagreb) taken from the CAV/FLoC host of each year, not stated on the workshop pages
+- Not listed in CORE ICORE2026 and not in the CCF 2026 list

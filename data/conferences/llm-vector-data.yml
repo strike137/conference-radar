@@ -1,0 +1,58 @@
+id: llm-vector-data
+name: LLM+Vector Data
+full_name: International Workshop on Coupling of Large Language Models with Vector Data Management
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: LLM+Vector Data workshop organizers; co-located with IEEE ICDE
+organizer_country: [international]
+proceedings: IEEE ICDE Workshops proceedings (published alongside the ICDE proceedings)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://llmvdb2.github.io/
+notes:
+- Workshop on combining large language models with vector databases, RAG and AI agents, held with IEEE ICDE, so it moves with ICDE (2025 Hong Kong, 2026 Montreal)
+- 2nd edition in 2026 as the "Agentic RAG Edition"; 1st edition at ICDE 2025
+- Short papers up to 6 pages or long papers up to 12 pages in IEEE two-column format, references unlimited; single-blind review on CMT
+- ICDE 2026 call for workshops says workshop proceedings are published jointly alongside the conference proceedings
+- Co-chairs include Arijit Khan, Yuyu Luo, M. Tamer Ozsu and Danrui Qi
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 2nd edition (Agentic RAG Edition), with ICDE 2026
+  start: 2026-05-04
+  end: 2026-05-04
+  location: Montreal, Canada
+  url: https://llmvdb2.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-02
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2026-02-20
+    time: "23:59"
+    tz: PST
+  - kind: camera_ready
+    date: 2026-03-09
+    time: "23:59"
+    tz: PST
+sources:
+- https://llmvdb2.github.io/
+- https://llmvdb2.github.io/submissions/
+- https://llmvdb2.github.io/people/
+- https://llmvdb2.github.io/schedule/
+- https://llmvdb.github.io/
+- https://icde2026.github.io/workshops.html
+- https://icde2026.github.io/cf-workshop-proposals.html
+- https://portal.core.edu.au/conf-ranks/?search=LLM&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- 2027 edition not announced yet
+- Workshop site itself does not name the proceedings venue; IEEE Xplore inclusion assumed from the ICDE workshop call

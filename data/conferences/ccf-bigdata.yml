@@ -1,0 +1,65 @@
+id: ccf-bigdata
+name: CCF BigData
+full_name: CCF Conference on Big Data
+name_local: CCF大数据学术会议
+type: conference
+tier: minor
+areas: [data, ai]
+region: china
+language: mixed
+frequency: annual
+organizer: CCF (China Computer Federation), Task Force on Big Data
+organizer_country: [china]
+proceedings: Springer CCIS
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [4, 5, 6]
+  conference_months: [8, 9]
+links:
+  website: https://ccf.org.cn/BigData2026
+notes:
+- National big data conference of CCF, run by its Task Force on Big Data (founded 2012); 2026 is the 14th edition
+- English papers not picked for partner journals are published in Springer CCIS (EI indexed); Chinese papers go to Chinese partner journals with no separate proceedings
+- Accepts Chinese and English papers; double-blind review, English papers in Springer CCIS format
+- Held in a different Chinese city each year (Qingdao 2024, Tianjin 2025, Harbin 2026)
+- Not ranked in CORE ICORE2026; not on the CCF 2026 recommended list
+editions:
+- year: 2025
+  start: 2025-09-12
+  end: 2025-09-14
+  location: Tianjin, China
+  url: https://conf.ccf.org.cn/BigData2025
+- year: 2026
+  start: 2026-08-21
+  end: 2026-08-23
+  location: Harbin, China
+  url: https://ccf.org.cn/BigData2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-06
+    time: "23:59"
+    tz: UTC+8
+    label: Paper submission (extended from April 20)
+  - kind: notification
+    date: 2026-06-08
+    time: "23:59"
+    tz: UTC+8
+  - kind: camera_ready
+    date: 2026-06-30
+    time: "23:59"
+    tz: UTC+8
+sources:
+- https://ccf.org.cn/BigData2026
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1457377124343222272176750738320
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e3a9d9b062e32019bbf671f520448
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e3a9d9b062e32019bbf6638fb0446
+- https://conf.ccf.org.cn/BigData2025
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1340696023491809280173968844092
+- https://api.crossref.org/works/10.1007/978-981-95-8447-5
+- https://api.crossref.org/works/10.1007/978-981-96-1024-2
+- https://portal.core.edu.au/conf-ranks/?search=Big+Data&by=all&source=ICORE2026
+unverified:
+- The registration system lists August 21 to 24, 2026; the call for papers says August 21 to 23
+- 2025 deadlines and CCF BigData 2027 dates and location
+last_verified: 2026-10-31

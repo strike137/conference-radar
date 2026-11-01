@@ -1,0 +1,65 @@
+id: mlforsys
+name: MLforSys
+full_name: Workshop on ML for Systems at NeurIPS
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ML for Systems workshop organizers (researchers from Google and US universities); co-located with NeurIPS
+organizer_country: [usa]
+proceedings: Workshop website (accepted papers optionally linked; no formal proceedings)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://mlforsystems.org/
+notes:
+- Workshop on applying machine learning to computer systems problems (compilers, architecture, databases, networking, scheduling, LLM serving)
+- Held with NeurIPS every year since 2018, plus one edition at ISCA 2019; moves with NeurIPS (2026 in Sydney, Australia)
+- 2026 is the 10th edition
+- Non-archival, the CFP states there are no formal proceedings, so papers can be published elsewhere
+- Up to 4-page extended abstracts in the NeurIPS format, submitted through OpenReview; submissions do not have to be anonymized
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  label: 9th edition, with NeurIPS 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  location: San Diego, California, USA
+  url: https://mlforsystems.org/neurips2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-29
+    tz: AoE
+    label: Extended from 2025-08-22
+  - kind: notification
+    date: 2025-09-22
+- year: 2026
+  label: 10th edition, with NeurIPS 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Sydney, Australia
+  url: https://mlforsystems.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    tz: AoE
+    label: Extended from 2026-08-29
+  - kind: notification
+    date: 2026-09-29
+sources:
+- https://mlforsystems.org/
+- https://mlforsystems.org/call_for_papers.html
+- https://mlforsystems.org/neurips2025/
+- https://mlforsystems.org/neurips2025/call_for_papers.html
+- https://neurips.cc/virtual/2026/workshop/137489
+- https://neurips.cc/virtual/2025/events/workshop
+- https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/MLForSys
+- https://portal.core.edu.au/conf-ranks/?search=MLforSys&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- The workshop site still says December 11 or 12 (TBA); 2026-12-12 is taken from the NeurIPS 2026 schedule (Sat Dec 12, 8:00 to 17:00 AEDT)
+- The 2026 CFP lists August 29 under important dates but the submission instructions extend it to Monday August 31

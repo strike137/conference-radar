@@ -1,0 +1,80 @@
+id: i2mtc
+name: IEEE I2MTC
+full_name: IEEE International Instrumentation and Measurement Technology Conference
+type: conference
+tier: minor
+areas: [communications, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Instrumentation and Measurement Society (IMS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [5]
+links:
+  website: https://i2mtc.ieee-ims.org/2027
+notes:
+- Flagship conference of the IEEE Instrumentation and Measurement Society, held every year since 1984
+- Covers measurement theory and metrology, sensors, data acquisition, signal processing, ML and AI for measurement,
+  and instrumentation for communications and IoT, energy, medicine, robotics and industry
+- Rotates worldwide (2021 Glasgow virtual, 2022 Ottawa, 2023 Kuala Lumpur, 2024 Glasgow, 2025 Chemnitz, 2026 Nancy,
+  2027 Chongqing)
+- Full papers 4 to 6 pages in IEEE format via EDAS; two review rounds with a revised paper step
+- Accepted and presented papers are submitted to IEEE Xplore
+- Authors of presented papers can submit extended versions to a special section of IEEE TIM or OJIM; TIM and OJIM
+  journal papers can also be presented
+- Includes special sessions, tutorials, demos, industry sessions and a student poster contest
+- Not listed in ICORE2026 (CORE portal) and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-28
+  location: Nancy, France
+  url: https://i2mtc2026.ieee-ims.org/
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-20
+  location: Chongqing, China
+  url: https://i2mtc.ieee-ims.org/2027
+  deadlines:
+  - kind: other
+    date: 2026-10-02
+    label: Special session proposals
+  - kind: other
+    date: 2026-11-01
+    label: Tutorial proposals
+  - kind: submission
+    date: 2026-12-04
+    label: Full papers
+  - kind: notification
+    date: 2027-01-22
+    label: First round notification
+  - kind: other
+    date: 2027-02-12
+    label: Revised paper submission
+  - kind: notification
+    date: 2027-02-26
+    label: Final acceptance
+  - kind: camera_ready
+    date: 2027-03-19
+    label: Final manuscript and early registration
+sources:
+- https://i2mtc2026.ieee-ims.org/
+- https://i2mtc2026.ieee-ims.org/authors/call-for-papers
+- https://i2mtc2026.ieee-ims.org/about/history
+- https://i2mtc2026.ieee-ims.org/about/organizers
+- https://i2mtc2026.ieee-ims.org/about/2027-call-for-papers
+- https://i2mtc.ieee-ims.org/2027
+- https://i2mtc.ieee-ims.org/2027/authors/call-for-papers
+- https://i2mtc.ieee-ims.org/2027/authors/initial-author-instructions
+- https://confcats-siteplex.s3.amazonaws.com/i2mtc/files/i2mtc27-cfp_web-06.pdf
+- https://portal.core.edu.au/conf-ranks/?search=I2MTC&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- I2MTC 2026 paper deadlines are no longer shown on the 2026 site; typical deadline month taken from the 2027 call only
+- Deadline times and time zones are not stated on the 2027 call for papers
+- Acceptance rate and registration fees not checked
+- CCF list checked through the CCFrank4dblp mirror, not ccf.org.cn directly

@@ -1,0 +1,60 @@
+id: ltb
+name: LTB
+full_name: International Workshop on Load Testing and Benchmarking of Software Systems
+type: workshop
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: LTB chairs (Amazon, York University, Ontario Tech University), co-located with ACM/SPEC ICPE
+organizer_country: [canada, usa]
+proceedings: ACM DL (ICPE Companion)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://ltb2026.github.io/
+notes:
+- One-day workshop co-located with the ACM/SPEC International Conference on Performance Engineering (ICPE); 14th edition in 2026
+- Topics are load testing, benchmarking, performance and resilience testing, chaos engineering, and load testing of cloud, serverless and AI/LLM systems
+- Accepted papers appear in the ICPE Companion proceedings in the ACM Digital Library
+- Research or industry papers (short up to 5 pages, full up to 8 pages, ACM format) via HotCRP; also a presentation-only track with 700-word extended abstracts
+- Double-blind review is not enforced
+- Follows ICPE around the world (Toronto 2025, Florence 2026)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-04
+  location: Florence, Italy
+  url: https://ltb2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-26
+    tz: AoE
+    label: Optional (extended from 2026-01-19)
+  - kind: submission
+    date: 2026-01-26
+    tz: AoE
+    label: Research and industry papers (extended from 2026-01-23)
+  - kind: submission
+    date: 2026-02-16
+    tz: AoE
+    label: Presentation track extended abstracts
+  - kind: notification
+    date: 2026-02-27
+  - kind: camera_ready
+    date: 2026-03-04
+sources:
+- https://ltb2026.github.io/
+- https://ltb2025.github.io/
+- https://icpe2026.spec.org/
+- https://icpe2027.spec.org/
+- https://portal.core.edu.au/conf-ranks/?search=LTB&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Whether LTB will run with ICPE 2027 (Gothenburg, May 2027); the ICPE 2027 workshop list was not yet published
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-31

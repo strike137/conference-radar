@@ -1,0 +1,50 @@
+id: wcet
+name: WCET
+full_name: International Workshop on Worst-Case Execution Time Analysis
+type: workshop
+tier: minor
+areas: [systems, software]
+region: europe
+language: english
+frequency: irregular
+organizer: WCET steering committee (Bjorn Lisper, Isabelle Puaut, Jan Reineke in 2024); co-located with ECRTS
+organizer_country: [europe]
+proceedings: OASIcs (Dagstuhl)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2024/wcet-2024/
+  dblp: https://dblp.org/db/conf/wcet
+notes:
+- Workshop on timing and resource-consumption analysis of embedded real-time software (static and measurement-based WCET analysis, predictable hardware, tools)
+- One-day workshop co-located with ECRTS in Europe (Stuttgart 2019, Modena 2022, Vienna 2023, Lille 2024)
+- Open-access proceedings in Dagstuhl OASIcs since 2005; papers up to 10 pages plus references, not anonymized
+- Annual until 2024 apart from 2020 and 2021; not listed among the ECRTS 2025 or 2026 workshops
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2024
+  start: 2024-07-09
+  end: 2024-07-09
+  location: Lille, France (with ECRTS 2024)
+  url: https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2024/wcet-2024/
+  deadlines:
+  - kind: submission
+    date: 2024-05-16
+    label: Extended from 2024-05-09
+  - kind: notification
+    date: 2024-06-06
+sources:
+- https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2024/wcet-2024/
+- https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2024/wp-content/uploads/2024/03/wcet_2024_cfp.txt
+- https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2024/workshops/
+- https://2025.ecrts.org/workshops/
+- https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2026/workshops/
+- https://drops.dagstuhl.de/entities/conference/WCET
+- https://portal.core.edu.au/conf-ranks/?search=WCET&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- No WCET edition found for 2025 or 2026 (absent from the ECRTS workshop lists; latest OASIcs volume is WCET 2024); unclear whether the series will continue
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-31

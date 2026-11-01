@@ -1,0 +1,62 @@
+id: benevol
+name: BENEVOL
+full_name: Belgium-Netherlands Software Evolution Workshop
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: BENEVOL community, hosted by a Belgian or Dutch university each year (2025 -> University of Twente)
+organizer_country: [europe]
+proceedings: CEUR-WS (post-proceedings)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [11]
+links:
+  website: https://benevol2025.github.io/
+notes:
+- Regional workshop on software evolution and maintenance, held since 2003; informal forum aimed at researchers and students in Belgium and the Netherlands
+- Alternates between Belgium and the Netherlands (2020 Luxembourg, 2021 's-Hertogenbosch, 2022 Mons, 2023 Nijmegen, 2024 Namur, 2025 Enschede); 2026 listed as Madrid
+- Categories CORE (full research), DIVE (position papers), REAP (replications and negative results) and SHOW (2-page abstracts of work published elsewhere, not in the proceedings)
+- At least three PC reviews for CORE, DIVE and REAP papers; single-blind
+- Pre-proceedings on the website; revised papers go to open-access CEUR-WS post-proceedings (2023 -> Vol-3567, 2024 -> Vol-3941)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 24th BENEVOL
+  start: 2025-11-17
+  end: 2025-11-18
+  location: University of Twente, Enschede, Netherlands
+  url: https://benevol2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-10-03
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-10-24
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-07
+    time: "23:59"
+    tz: AoE
+    label: Pre-proceedings
+  - kind: other
+    date: 2026-04-10
+    time: "23:59"
+    tz: AoE
+    label: Post-proceedings
+sources:
+- https://benevol2025.github.io/
+- https://benevol2025.github.io/post/index.html
+- https://ceur-ws.org/Vol-3941
+- https://ceur-ws.org/Vol-3567
+- https://ceur-ws.org/
+- https://portal.core.edu.au/conf-ranks/?search=BENEVOL&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- BENEVOL 2026 is listed as Madrid on the 2025 site, but no official 2026 page (dates, CFP) was found as of 2026-10-31
+- BENEVOL 2025 CEUR post-proceedings volume not yet listed on CEUR-WS as of 2026-10-31

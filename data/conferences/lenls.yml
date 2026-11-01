@@ -1,0 +1,85 @@
+id: lenls
+name: LENLS
+full_name: Logic and Engineering of Natural Language Semantics
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: japan
+language: english
+frequency: annual
+organizer: LENLS organizing committee (Daisuke Bekki, Koji Mineshima and others; under the FoLLI umbrella)
+organizer_country: [japan]
+proceedings: Springer LNCS (FoLLI subline, post-proceedings of full papers submitted after the event); online
+  proceedings of extended abstracts for attendees
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11]
+links:
+  website: https://lenls.github.io/lenls22/
+notes:
+- International conference on formal syntax, semantics and pragmatics, computational semantics and philosophy of
+  language, held in Japan every November
+- Held under the umbrella of FoLLI (Association for Logic, Language and Information)
+- Submission is an abstract; accepted talks submit an extended abstract before the event and a full paper about two
+  weeks after it
+- Full papers are published afterwards in Springer LNCS (post-proceedings volumes listed on the site back to 2005)
+- Hybrid format; 2026 registration 5,000 JPY in person (cash on site), online attendance free
+- No edition in 2024 (LENLS20 in Osaka 2023, LENLS21 in Nagoya 2025)
+- Not listed in the CORE portal (ICORE2026) and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-11-28
+  end: 2025-11-30
+  location: Nagoya University, Nagoya, Japan
+  url: https://lenls.github.io/lenls21/
+  deadlines:
+  - kind: abstract
+    date: 2025-08-31
+    tz: AoE
+  - kind: notification
+    date: 2025-10-01
+    tz: AoE
+  - kind: other
+    date: 2025-11-13
+    tz: AoE
+    label: Extended abstract
+  - kind: other
+    date: 2025-12-11
+    tz: AoE
+    label: Full papers (LNCS)
+- year: 2026
+  start: 2026-11-26
+  end: 2026-11-28
+  location: Kobe University, Kobe, Japan (hybrid)
+  url: https://lenls.github.io/lenls22/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-02
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-10-01
+    tz: AoE
+  - kind: other
+    date: 2026-11-13
+    tz: AoE
+    label: Extended abstract
+  - kind: other
+    date: 2026-12-11
+    tz: AoE
+    label: Full papers (LNCS)
+sources:
+- https://lenls.github.io/lenls22/
+- https://lenls.github.io/lenls21/index.html
+- https://lenls.github.io/lenls20/index.html
+- https://lenls.github.io/lenls19/index.html
+- https://lenls.github.io/lenls18/index.html
+- https://lenls.github.io/lenls17/index.html
+- https://portal.core.edu.au/conf-ranks/?search=LENLS&by=all&source=ICORE2026
+unverified:
+- LENLS22 also has a pre-conference event (JST CREST-PRESTO joint symposium) on 2026-11-25; the site header gives
+  Nov 25-28, the important dates give LENLS22 itself as Nov 26-28
+- LNCS volume for LENLS21 not yet linked on the site
+- Origin as a workshop of the JSAI International Symposia on AI (JSAI-isAI) is not stated on the official LENLS pages
+last_verified: 2026-10-31

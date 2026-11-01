@@ -1,0 +1,54 @@
+id: nist-pqc
+name: NIST PQC Conference
+full_name: NIST PQC Standardization Conference
+type: conference
+tier: minor
+areas: [crypto, security]
+region: north-america
+language: english
+frequency: irregular
+organizer: NIST (Computer Security Resource Center)
+organizer_country: [usa]
+proceedings: None (accepted papers and slides posted online)
+archival: false
+typical:
+  deadline_months: [1, 6]
+  conference_months: [4, 9]
+links:
+  website: https://csrc.nist.gov/events/2025/6th-pqc-standardization-conference
+notes:
+- Run by NIST as part of its post-quantum cryptography standardization project; 6th edition in 2025
+- Submission teams of selected and candidate algorithms give updates; open call for research papers, surveys, presentations and panel proposals
+- Papers up to 20 pages, submitted by email to NIST
+- 'Conference without proceedings: accepted papers and presentations are posted on the NIST website afterwards'
+- NIST encourages preliminary work that authors plan to publish elsewhere
+- Held near NIST in Maryland (Rockville 2024, Gaithersburg 2025), with hybrid attendance in 2025
+- Not in the ICORE2026 portal and not on the CCF list
+editions:
+- year: 2024
+  start: 2024-04-10
+  end: 2024-04-12
+  location: Hilton Washington DC/Rockville Hotel, Rockville, Maryland, USA
+  url: https://csrc.nist.gov/events/2024/fifth-pqc-standardization-conference
+  deadlines:
+  - kind: submission
+    date: 2024-01-26
+- year: 2025
+  start: 2025-09-24
+  end: 2025-09-26
+  location: NIST, Gaithersburg, Maryland, USA (hybrid)
+  url: https://csrc.nist.gov/events/2025/6th-pqc-standardization-conference
+  deadlines:
+  - kind: submission
+    date: 2025-06-16
+sources:
+- https://csrc.nist.gov/events/2025/6th-pqc-standardization-conference
+- https://csrc.nist.gov/csrc/media/events/2025/6th-pqc-standardization-conference/documents/call-for-papers-pqc2025.pdf
+- https://csrc.nist.gov/events/2024/fifth-pqc-standardization-conference
+- https://csrc.nist.gov/csrc/media/Events/2024/fifth-pqc-standardization-conference/documents/call-for-papers-pqc2024.pdf
+- https://csrc.nist.gov/projects/post-quantum-cryptography/workshops-and-timeline
+- https://portal.core.edu.au/conf-ranks/?search=NIST&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 7th edition announced as of 2026-10-31; editions are tied to the standardization process, so timing is irregular
+- Notification dates are not published on the official pages

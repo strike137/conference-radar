@@ -1,0 +1,59 @@
+id: incas
+name: INCAS
+full_name: ACM CoNEXT Workshop on In-Network Computing and AI for Distributed Systems
+type: workshop
+tier: minor
+areas: [networking, systems, ai]
+region: worldwide
+language: english
+organizer: Workshop chairs (NUDT, Peking University, Sun Yat-sen University), co-located with ACM CoNEXT
+organizer_country: [china]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://incas-2025.github.io/
+notes:
+- Workshop on in-network computing with programmable switches, SmartNICs and FPGAs for AI training and inference, analytics, storage and network management
+- First edition held as a half-day morning workshop with ACM CoNEXT 2025 at HKUST, Hong Kong
+- Steering co-chairs from NUDT and Carnegie Mellon University; organization chairs from Peking University, Sun Yat-sen University, BUPT and Nanjing University
+- Papers of 2 to 6 pages excluding references in two-column ACM format, double-blind review, submitted via HotCRP
+- 2025 program had 4 paper presentations and 2 keynotes
+- 2025 papers published in the ACM Digital Library as Proceedings of the ACM CoNEXT Workshop on In-Network Computing and AI for Distributed Systems (DOI 10.1145/3769699)
+- Not run with CoNEXT 2026 (Utrecht), whose workshop list does not include it
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-01
+  location: Hong Kong (HKUST)
+  url: https://incas-2025.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-17
+    tz: AoE
+  - kind: submission
+    date: 2025-09-17
+    tz: AoE
+  - kind: notification
+    date: 2025-09-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-08
+    tz: AoE
+sources:
+- https://incas-2025.github.io/
+- https://incas-2025.github.io/call-for-papers
+- https://incas-2025.github.io/program
+- https://conferences.sigcomm.org/co-next/2025/#!/home
+- https://conferences.sigcomm.org/co-next/2025/#!/cfw
+- https://conferences.sigcomm.org/co-next/2026/#!/home
+- https://portal.core.edu.au/conf-ranks/?search=INCAS&by=all&source=ICORE2026
+- https://doi.org/10.1145/3769699
+unverified:
+- The 2025 deadlines shown are the final (extended) dates on the workshop home page; earlier dates in July were superseded
+- Whether INCAS will run again (only the 2025 edition is known; frequency unknown)
+- CCF 2026 list not checked on ccf.org.cn directly; workshop not expected to be listed
+last_verified: 2026-10-31

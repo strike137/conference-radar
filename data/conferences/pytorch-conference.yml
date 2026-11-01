@@ -1,0 +1,59 @@
+id: pytorch-conference
+name: PyTorch Conference
+full_name: PyTorch Conference North America
+type: industry
+tier: minor
+areas: [ai, software]
+region: north-america
+language: english
+frequency: annual
+organizer: PyTorch Foundation (The Linux Foundation)
+organizer_country: [usa]
+proceedings: None (talks recorded and posted on YouTube)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://events.linuxfoundation.org/pytorch-conference-north-america/
+notes:
+- Flagship community conference of the PyTorch Foundation on open source AI (PyTorch, vLLM, DeepSpeed, Ray and other
+  Foundation projects), run on the Linux Foundation events platform
+- Held in San Francisco in 2023, 2024 and 2025; renamed PyTorch Conference North America and moved to San Jose in 2026
+- Talks chosen through an open call for sessions on Sessionize; posters have a separate call with different deadlines
+- 2026 edition reported 3,500+ attendees and 200+ talks and posters; academic (full-time student or faculty) tickets were 249 USD
+- No papers or proceedings; session recordings go to the PyTorch YouTube channel and slides are linked from the schedule
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-22
+  end: 2025-10-23
+  location: San Francisco, CA, USA
+  url: https://events.linuxfoundation.org/archive/2025/pytorch-conference/
+  deadlines: []
+- year: 2026
+  start: 2026-10-20
+  end: 2026-10-21
+  location: San Jose, CA, USA
+  url: https://events.linuxfoundation.org/pytorch-conference-north-america/
+  deadlines:
+  - kind: submission
+    date: 2026-06-07
+    time: "23:59"
+    tz: PDT
+    label: Session call for proposals
+  - kind: notification
+    date: 2026-07-20
+    label: Session call for proposals
+sources:
+- https://events.linuxfoundation.org/pytorch-conference-north-america/
+- https://events.linuxfoundation.org/pytorch-conference-north-america/program/cfp/
+- https://events.linuxfoundation.org/pytorch-conference-north-america/register/
+- https://events.linuxfoundation.org/archive/2025/pytorch-conference/
+- https://events.linuxfoundation.org/archive/2024/pytorch-conference/
+- https://events.linuxfoundation.org/archive/2023/pytorch-conference/
+- https://portal.core.edu.au/conf-ranks/?search=PyTorch&by=all&source=ICORE2026
+unverified:
+- 2027 edition not announced as of 2026-10-31
+- Poster call for proposals dates for 2026 not recorded
+last_verified: 2026-10-31

@@ -1,0 +1,77 @@
+id: rapido
+name: RAPIDO
+full_name: 'Workshop on Rapid Simulation and Performance Evaluation for Design Optimization: Methods and Tools'
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: Organizing committee from CEA, Universite de Rennes, Thales Research & Technology, Fraunhofer and the
+  University of Auckland; web chair at Politecnico di Milano
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [1]
+links:
+  website: https://rapidoworkshop.github.io/
+notes:
+- Co-located with the HiPEAC conference every January; held since 2009
+- Topics are rapid simulation, performance and power estimation, and design space exploration for embedded and
+  high-performance systems on chip, including AI accelerators
+- Accepted papers are published in the ACM Digital Library; extra fees apply if the author institution is not in
+  ACM Open
+- Papers up to 6 pages in the double-column ACM format, up to 2 extra pages on request
+- Separate abstract deadline one week before the paper deadline
+- Follows HiPEAC around Europe (2023 Toulouse, 2024 Munich, 2025 Barcelona, 2026 Krakow, 2027 Glasgow)
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-01-26
+  end: 2026-01-28
+  location: Krakow, Poland
+  url: https://rapidoworkshop.github.io/2026/index.html
+  deadlines:
+  - kind: abstract
+    date: 2025-11-07
+  - kind: submission
+    date: 2025-11-14
+  - kind: notification
+    date: 2025-12-12
+  - kind: camera_ready
+    date: 2026-01-09
+- year: 2027
+  start: 2027-01-20
+  end: 2027-01-20
+  location: Glasgow, United Kingdom
+  url: https://rapidoworkshop.github.io/2027/index.html
+  deadlines:
+  - kind: abstract
+    date: 2026-11-07
+  - kind: submission
+    date: 2026-11-13
+  - kind: notification
+    date: 2026-12-11
+  - kind: camera_ready
+    date: 2027-01-08
+sources:
+- https://rapidoworkshop.github.io/2027/index.html
+- https://rapidoworkshop.github.io/2027/cfp.html
+- https://rapidoworkshop.github.io/2026/index.html
+- https://rapidoworkshop.github.io/2026/cfp.html
+- https://rapidoworkshop.github.io/2026/tpc.html
+- https://rapidoworkshop.github.io/2026/previous.html
+- https://rapidoworkshop.github.io/2023/index.html
+- https://rapidoworkshop.github.io/2024/index.html
+- https://rapidoworkshop.github.io/2025/index.html
+- https://portal.core.edu.au/conf-ranks/?search=RAPIDO&by=all&source=ICORE2026
+- https://doi.org/10.1145/3787501
+- https://doi.org/10.1145/3721848
+- https://doi.org/10.1145/3642921
+last_verified: 2026-10-31
+unverified:
+- 2026 dates are the HiPEAC 2026 conference dates given on the workshop page; the exact workshop day is not stated (the ACM DL proceedings record dates it 2026-01-27)
+- Edition numbering on the official pages is inconsistent (2025, 2026 and 2027 pages all say 17th)
+- CCF 2026 list page could not be loaded for a full check; RAPIDO is not a known CCF venue, so rank.ccf is left out

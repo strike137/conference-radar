@@ -1,0 +1,56 @@
+id: pycon-sk
+name: PyCon SK
+full_name: PyCon SK
+type: industry
+tier: minor
+areas: [software, ai]
+region: europe
+language: mixed
+frequency: irregular
+organizer: Erudo (2027 edition); SPy o.z. civic association (2024 edition)
+organizer_country: [europe]
+proceedings: None (non-archival; talks and workshops only)
+archival: false
+typical:
+  deadline_months: [10, 12]
+  conference_months: [3]
+links:
+  website: https://pycon.sk/
+notes:
+- Slovak national Python conference, one of the PyCon family, run by volunteers
+- Held at FIIT STU (Faculty of Informatics and Information Technologies, Slovak University of Technology) in Bratislava
+- Editions in 2016, 2017, 2018, 2019, 2022 and 2024 (the 6th); 2027 is the next one
+- 30 minute talks, 5 minute lightning talks and 2 hour workshops chosen from a call for proposals
+- Sessions for schools run in Slovak
+- No papers or proceedings
+editions:
+- year: 2024
+  start: 2024-03-15
+  end: 2024-03-17
+  location: FIIT STU, Bratislava, Slovakia
+  url: https://2024.pycon.sk/
+  deadlines:
+  - kind: submission
+    date: 2023-12-31
+    label: Talk and workshop proposals (first round)
+  - kind: submission
+    date: 2024-01-20
+    label: Talk and workshop proposals (second round)
+- year: 2027
+  start: 2027-03-12
+  end: 2027-03-13
+  location: FIIT STU, Bratislava, Slovakia
+  url: https://pycon.sk/
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    label: Talk, workshop and lightning talk proposals
+sources:
+- https://pycon.sk/
+- https://pycon.sk/cfp/
+- https://2024.pycon.sk/
+- https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
+unverified:
+- Talk language for the main programme not stated on the official pages
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-31

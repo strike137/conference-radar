@@ -1,0 +1,78 @@
+id: anms
+name: ANMS
+full_name: International Workshop on Autonomous Network Management Systems
+type: workshop
+tier: minor
+areas: [networking, communications, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Paul Harvey (University of Glasgow), Miguel Camelo and Paola Soto-Arenas (University of Antwerp - imec) and Francesc
+  Wilhelmi (Nokia Bell Labs)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+links:
+  website: https://anms-conf.github.io/
+notes:
+- Started in 2022 as the International Workshop on Autonomous Network Management in 5G and Beyond Systems
+- Host conference changes, so deadlines move around the year (NOMS 2022, NOMS 2023 Miami, NOMS 2024 Seoul, ICDCS 2025 Glasgow,
+  CNSM 2026 Alcala de Henares)
+- Topics are self-managing 5G/6G networks, AI-native and agentic network management, digital twins, intent and LLMs for
+  network operation
+- Papers up to 6 pages (regular) or 4 pages (position) in IEEE two-column format including references; submission via
+  EDAS in 2026
+- Papers go into the host conference workshop proceedings in IEEE Xplore (CNSM 2026 workshop papers are submitted to IEEE Xplore)
+- Earlier editions offered fast-tracking of the best papers to the Springer Journal of Network and Systems Management
+- Half-day workshop with a keynote; seven papers in the 2026 program
+editions:
+- year: 2025
+  label: 4th ANMS (at ICDCS 2025)
+  start: 2025-07-20
+  end: 2025-07-20
+  location: Glasgow, United Kingdom (with IEEE ICDCS 2025)
+  url: https://anms-conf.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-16
+    tz: AoE
+    label: Extended from 2025-02-24
+  - kind: notification
+    date: 2025-04-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-04-16
+    tz: AoE
+- year: 2026
+  label: 5th ANMS (at CNSM 2026)
+  start: 2026-10-30
+  end: 2026-10-30
+  location: Alcala de Henares (Madrid), Spain (with CNSM 2026)
+  url: https://anms-conf.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    tz: AoE
+    label: Extended from 2026-08-14
+  - kind: notification
+    date: 2026-09-11
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-18
+    tz: AoE
+sources:
+- https://anms-conf.github.io/
+- https://anms-conf.github.io/2025/
+- https://anms-conf.github.io/2024/
+- https://anms-conf.github.io/2023/
+- https://anms-conf.github.io/2022/
+- https://www.cnsm-conf.org/2026/
+- https://www.cnsm-conf.org/2026/workshops.html
+- https://www.cnsm-conf.org/2026/cfw.html
+- https://portal.core.edu.au/conf-ranks/?search=ANMS&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Not listed in CORE ICORE2026 or the CCF list
+- ANMS 2027 and its host conference not yet announced
+- The 2025 and 2026 pages do not name the proceedings; IEEE Xplore is from the CNSM 2026 call for workshops and the 2022/2023
+  pages

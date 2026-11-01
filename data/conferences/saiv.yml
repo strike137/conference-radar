@@ -1,0 +1,76 @@
+id: saiv
+name: SAIV
+full_name: International Symposium on AI Verification
+type: conference
+tier: minor
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SAIV organizers (co-located with CAV until 2026)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://www.aiverification.org/
+notes:
+- Formal methods for AI (neural network verification, safeguards for machine learning) and AI for formal methods
+- Successor to the FoMLAS and WOLVERINE workshops; counts its editions from FoMLAS 2018, so 2026 is the 9th edition but only the third SAIV volume in LNCS
+- Proceedings in Springer LNCS (SAIV 2025 -> LNCS 15947, SAIV 2026 -> LNCS 16831)
+- Hosts the International Verification of Neural Networks Competition (VNN-COMP)
+- 'Co-located with CAV: 2024 Montreal, 2025 Zagreb, 2026 Lisbon (FLoC)'
+- 'SAIV 2027 becomes a standalone event for the first time: a SAIV week in London (Oct 31 to Nov 5, 2027) with an autumn school, main conference on Nov 2 to 3 and a co-located workshop'
+- Single-blind review, LNCS format, papers up to 18 pages; presentation-only papers allowed (not in the proceedings)
+- 2026 had a separate FLoC track for papers rejected from CAV, IJCAR, KR or SAT
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-07-24
+  end: 2026-07-25
+  location: Lisbon, Portugal
+  url: https://www.aiverification.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-24
+    time: "11:59"
+    tz: AoE
+    label: Extended from 2026-03-19
+  - kind: submission
+    date: 2026-04-01
+    time: "11:59"
+    tz: AoE
+    label: Extended from 2026-03-26
+  - kind: submission
+    date: 2026-05-01
+    time: "11:59"
+    tz: AoE
+    label: FLoC track
+  - kind: notification
+    date: 2026-05-15
+- year: 2027
+  start: 2027-11-02
+  end: 2027-11-03
+  location: London, UK
+  url: https://www.aiverification.org/2027/
+  status: tentative
+sources:
+- https://www.aiverification.org/2027/
+- https://www.aiverification.org/2027/call/
+- https://www.aiverification.org/2026/
+- https://www.aiverification.org/2026/call/
+- https://www.aiverification.org/2026/about/
+- https://www.aiverification.org/2025/
+- https://www.aiverification.org/2025/call/
+- https://www.aiverification.org/2024/
+- https://www.aiverification.org/editions.json
+- https://link.springer.com/book/10.1007/978-3-032-32357-6
+- https://link.springer.com/book/10.1007/978-3-031-99991-8
+- https://portal.core.edu.au/conf-ranks/?search=SAIV&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- SAIV 2027 dates are preliminary; deadlines and venue not announced yet
+- CCF list not checked on ccf.org.cn directly; SAIV is not known to be on it
+- Indexing, acceptance rate and registration fee not stated on the official site

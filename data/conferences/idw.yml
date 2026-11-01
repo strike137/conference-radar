@@ -1,0 +1,84 @@
+id: idw
+name: IDW
+full_name: International Display Workshops
+type: conference
+tier: minor
+areas: [general]
+region: japan
+language: english
+frequency: annual
+organizer: International Display Workshops General Incorporated Association, sponsored by ITE and the Society for Information Display (SID)
+organizer_country: [japan]
+proceedings: IDW Proceedings (online open-access archive with a DOI per paper)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [12]
+links:
+  website: https://www.idw.or.jp/
+notes:
+- International conference on information display technology, sponsored by the Institute of Image Information and Television Engineers (ITE) and SID
+- Organized as several technical workshops (each with its own sessions) plus topical sessions; the 3DSA conference runs as a topical session
+- Submissions are technical summaries reviewed for acceptance; separate late-news paper call in September
+- Proceedings go to attendees at the conference and become an online open-access archive with DOIs a few months later
+- I-DEMO hands-on demonstrations and an exhibition run alongside the talks
+- Held every December in a Japanese city (Niigata 2023, Sapporo 2024, Hiroshima 2025, Hamamatsu 2026); 33rd edition in 2026
+- Not ranked by CORE (not listed in ICORE2026) or CCF
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: International Conference Center Hiroshima, Hiroshima, Japan
+  url: https://www.idw.or.jp/25archive/
+  deadlines:
+  - kind: submission
+    date: 2025-07-02
+    time: "23:59"
+    tz: UTC-10
+    label: Technical summary (extended from 2025-06-26)
+  - kind: notification
+    date: 2025-08-01
+  - kind: camera_ready
+    date: 2025-09-09
+    time: "23:59"
+    tz: UTC-10
+  - kind: submission
+    date: 2025-09-30
+    time: "12:00"
+    tz: UTC-10
+    label: Late-news papers (extended from 2025-09-25)
+- year: 2026
+  start: 2026-12-02
+  end: 2026-12-04
+  location: ACT CITY Hamamatsu, Hamamatsu, Japan
+  url: https://www.idw.or.jp/
+  deadlines:
+  - kind: submission
+    date: 2026-06-25
+    time: "23:59"
+    tz: UTC-10
+    label: Technical summary (extended from 2026-06-15)
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-09-08
+    time: "23:59"
+    tz: UTC-10
+  - kind: submission
+    date: 2026-09-22
+    time: "23:59"
+    tz: UTC-10
+    label: Late-news papers (camera-ready manuscript)
+  - kind: notification
+    date: 2026-10-22
+    label: Late-news papers
+sources:
+- https://www.idw.or.jp/
+- https://www.idw.or.jp/authinfo.html
+- https://www.idw.or.jp/archive.html
+- https://www.idw.or.jp/25archive/
+- https://www.idw.or.jp/25archive/authinfo.html
+- https://portal.core.edu.au/conf-ranks/?search=IDW&by=all&source=ICORE2026
+unverified:
+- Indexing of IDW papers in J-STAGE or the SID digital library is not stated on the official site
+last_verified: 2026-10-31

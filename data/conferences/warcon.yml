@@ -1,0 +1,47 @@
+id: warcon
+name: WarCon
+full_name: WarCon
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: biennial
+organizer: antisnatchor and h0wl
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  conference_months: [5, 6]
+links:
+  website: https://warcon.pl/
+notes:
+- Small offensive security hacker conference in Warsaw, Poland, presented by antisnatchor and h0wl
+- Two days of talks (exploitation, hardware and IoT hacking, phishing and MFA bypass, Pwn2Own work) plus lightning
+  talks
+- Held yearly 2016 to 2019, then 2022, 2024 and 2026
+- Talks only, no proceedings
+- Not listed in CORE ICORE2026
+editions:
+- year: 2024
+  start: 2024-06-14
+  end: 2024-06-15
+  location: Warsaw, Poland
+  url: http://warcon.pl/2024/
+- year: 2026
+  start: 2026-05-29
+  end: 2026-05-30
+  location: Warsaw, Poland
+  url: https://warcon.pl/
+sources:
+- https://warcon.pl/
+- https://warcon.pl/schedule.txt
+- http://warcon.pl/2024/
+- http://warcon.pl/2022/
+- http://warcon.pl/2019/
+- https://portal.core.edu.au/conf-ranks/?search=WarCon&by=all&source=ICORE2026
+unverified:
+- Invite-only attendance is widely reported but not stated on the official site
+- No public call for papers or deadlines found on the official site
+- Next edition not announced as of 2026-10-31
+last_verified: 2026-10-31

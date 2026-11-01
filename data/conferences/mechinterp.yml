@@ -1,0 +1,53 @@
+id: mechinterp
+name: MechInterp
+full_name: Mechanistic Interpretability Workshop
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Mechanistic Interpretability Workshop organizers (researchers from Google DeepMind, Harvard, Northeastern, Oxford, Imperial College London, Yonsei and others); co-located with ICML or NeurIPS
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7, 12]
+links:
+  website: https://mechinterpworkshop.com/
+notes:
+- Workshop on mechanistic interpretability, i.e. understanding neural network internals (weights and activations); relevant to AI safety
+- Held with ICML 2024 (Vienna), NeurIPS 2025 (San Diego) and ICML 2026 (Seoul)
+- Non-archival; papers already accepted at ICML 2026 were welcome, but work accepted at other archival venues was not
+- Short (4 pages) and long (8 pages) papers in ICML format (NeurIPS format also accepted for submission in 2026), double-blind on OpenReview, reciprocal reviewing required
+- Submissions in 2026 were 2.6 times those of 2025
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-12-07
+  end: 2025-12-07
+  location: San Diego, USA (co-located with NeurIPS 2025)
+  url: https://mechinterpworkshop.com/neurips2025/
+- year: 2026
+  start: 2026-07-10
+  end: 2026-07-10
+  location: Seoul, South Korea (co-located with ICML 2026)
+  url: https://mechinterpworkshop.com/
+  deadlines:
+  - kind: submission
+    date: 2026-05-08
+    tz: AoE
+  - kind: notification
+    date: 2026-06-12
+    tz: AoE
+sources:
+- https://mechinterpworkshop.com/
+- https://mechinterpworkshop.com/cfp/
+- https://mechinterpworkshop.com/neurips2025/
+- https://icml2024mi.pages.dev/
+- https://portal.core.edu.au/conf-ranks/?search=Mechanistic&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2027 edition announced on the official site as of 2026-10-31
+- Submission deadline of the NeurIPS 2025 edition not recorded (archived page does not show it)

@@ -1,0 +1,70 @@
+id: feast
+name: FEAST
+full_name: Workshop on Forming an Ecosystem Around Software Transformation
+type: workshop
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ACM SIGSAC (co-located with ACM CCS); 2024 PC chairs from ONR and MITRE
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL]
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10]
+links:
+  website: https://feastworkshop.github.io/2024/index.html
+notes:
+- One-day workshop co-located with ACM CCS on late-stage transformation of software executables for security
+  (binary analysis and rewriting, debloating, delayering, formal assurance of transformed code)
+- Held 2016 to 2020, then revived as the 6th edition in 2024 (Salt Lake City, with CCS 2024)
+- Full papers up to 6 pages including references go to the ACM proceedings (2024 volume doi 10.1145/3689937); talk
+  proposals are reviewed but not published
+- Sponsored by ACM SIGSAC, the US Office of Naval Research and MITRE; PC chairs from ONR and MITRE in 2024
+- Small program (14 talks in 2024); deadlines extended by one week (papers) and six weeks (talks) in 2024
+- Not held with CCS 2025 or CCS 2026; not listed on the CORE portal (ICORE2026) or the CCF list
+editions:
+- year: 2024
+  start: 2024-10-18
+  end: 2024-10-18
+  location: Salt Lake City, USA (with ACM CCS 2024)
+  url: https://feastworkshop.github.io/2024/index.html
+  deadlines:
+  - kind: submission
+    date: 2024-07-17
+    time: "00:00"
+    tz: UTC
+    label: Full papers, original deadline (later extended)
+  - kind: submission
+    date: 2024-07-24
+    time: "00:00"
+    tz: UTC
+    label: Full papers, extended deadline
+  - kind: submission
+    date: 2024-08-27
+    time: "00:00"
+    tz: UTC
+    label: Talk proposals, extended deadline
+  - kind: notification
+    date: 2024-08-05
+    label: Full papers
+  - kind: camera_ready
+    date: 2024-08-30
+sources:
+- https://feastworkshop.github.io/2024/index.html
+- https://feastworkshop.github.io/2024/cfp.html
+- https://feastworkshop.github.io/2024/program.html
+- https://feastworkshop.github.io/2024/tpc.html
+- https://www.sigsac.org/ccs/CCS2024/workshops/workshops.html
+- https://www.sigsac.org/ccs/CCS2025/events/
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://doi.org/10.1145/3689937
+- https://portal.core.edu.au/conf-ranks/?search=FEAST&by=all&source=ICORE2026
+unverified:
+- No 2025 or 2026 edition found; feastworkshop.github.io has no page after 2024, so the next edition is unknown
+- Proceedings DOI taken from the Crossref record of the ACM volume (dl.acm.org blocks automated access)
+- CCF list not checked directly; a co-located workshop of this kind is not normally listed
+last_verified: 2026-10-31

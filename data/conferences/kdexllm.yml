@@ -1,0 +1,56 @@
+id: kdexllm
+name: KDExLLM
+full_name: "Workshop on Knowledge and Data Engineering Meets Large Language Models: Challenges and Opportunities"
+type: workshop
+tier: minor
+areas: [data, ai, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: KDExLLM workshop chairs (University of Melbourne, Hong Kong Polytechnic University, East China Normal University); co-located with IEEE ICDE
+organizer_country: [australia, china]
+proceedings: IEEE ICDE Workshops proceedings (published alongside the ICDE proceedings)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5]
+links:
+  website: https://kde-meets-llm.github.io/KDExLLM-ICDE2026/
+notes:
+- Workshop on LLMs for knowledge base and database tasks (data cleaning, query processing, tuning) and on databases and knowledge bases for LLMs (RAG, vector data, data preparation), held with IEEE ICDE, so it moves with ICDE
+- Started as DExLLM (Data Engineering Meets Large Language Models) at ICDE 2025 in Hong Kong (May 19, 2025, at PolyU); renamed KDExLLM for ICDE 2026 in Montreal
+- Papers up to 10 pages including references, IEEE conference template, no appendix; double-blind review on Microsoft CMT
+- ICDE 2026 call for workshops says workshop proceedings are published jointly alongside the conference proceedings
+- Half-day workshop; 5 oral papers, one keynote and one industry talk in 2026
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: With ICDE 2026
+  start: 2026-05-08
+  end: 2026-05-08
+  location: Montreal, Canada
+  url: https://kde-meets-llm.github.io/KDExLLM-ICDE2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-26
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-01-19
+  - kind: notification
+    date: 2026-02-16
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-01
+    time: "23:59"
+    tz: AoE
+sources:
+- https://kde-meets-llm.github.io/KDExLLM-ICDE2026/
+- https://advanced-recommender-systems.github.io/Data-meets-LLMs/
+- https://icde2026.github.io/workshops.html
+- https://icde2026.github.io/cf-workshop-proposals.html
+- https://portal.core.edu.au/conf-ranks/?search=KDExLLM&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- KDExLLM 2027 (with ICDE 2027) not announced yet
+- The workshop pages do not themselves name the proceedings; taken from the ICDE 2026 call for workshops. Inclusion of the papers in IEEE Xplore was not checked (DBLP not reachable)

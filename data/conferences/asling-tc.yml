@@ -1,0 +1,81 @@
+id: asling-tc
+name: TC
+full_name: Translating and the Computer
+type: industry
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: AsLing (International Association for Advancement in Language Technology)
+organizer_country: [europe]
+proceedings: AsLing proceedings (Editions Tradulex, ISBN, open PDF)
+archival: false
+typical:
+  deadline_months: [6, 7]
+  conference_months: [11, 12]
+links:
+  website: https://asling.org/
+notes:
+- Long-running conference on translation and language technology (MT, LLMs, terminology, CAT tools) for translators, language service providers, institutions and researchers; TC47 in 2026 is the 47th edition
+- Run by AsLing, a non-profit association registered in Geneva, Switzerland, since 2014 (TC36)
+- Held in London until 2019, online in 2020 and 2021, and at the European Convention Center Luxembourg since 2022 with support from the EU Publications Office
+- Tracks for research (talk plus paper up to 5,000 words), user experience (optional paper), posters and short talks, workshops and panels; submission via START (softconf)
+- Proceedings are self-published by AsLing with an ISBN (Editions Tradulex) and free to download; older volumes up to TC38 (2016) are in the ACL Anthology
+- No TC conference in 2025 (TC46 in November 2024, TC47 in December 2026); AsLing held an online TCeXcellerate event in late 2025 instead
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  start: 2024-11-18
+  end: 2024-11-20
+  location: Luxembourg, Luxembourg
+  url: https://asling.org/tc46/
+  deadlines:
+  - kind: submission
+    date: 2024-08-15
+    label: All proposals (extended in several steps from 2024-05-30)
+- year: 2026
+  start: 2026-12-08
+  end: 2026-12-10
+  location: Luxembourg, Luxembourg
+  url: https://asling.org/tc47/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    label: Research and user experience talks (extended from 2026-06-30)
+  - kind: submission
+    date: 2026-07-31
+    label: Workshops and panels
+  - kind: notification
+    date: 2026-08-31
+    label: Research and user experience talks
+  - kind: submission
+    date: 2026-09-15
+    label: Posters and short talks
+  - kind: notification
+    date: 2026-09-15
+    label: Workshops and panels
+  - kind: notification
+    date: 2026-10-04
+    label: Posters and short talks (postponed from 2026-09-30)
+  - kind: camera_ready
+    date: 2026-11-05
+    label: Final paper submission (extended from 2026-10-31)
+sources:
+- https://asling.org/
+- https://asling.org/tc46/
+- https://asling.org/tc46/call-for-papers-cfp/
+- https://asling.org/tc46/wp-content/uploads/2025/03/TC46-proceedings.pdf
+- https://asling.org/tc47/
+- https://asling.org/tc47/call-for-papers-cfp/
+- https://asling.org/tc47/2026/10/29/paper-submission-extension/
+- https://asling.org/tc47/2026/09/28/poster-notifications-update/
+- https://asling.org/about/
+- https://asling.org/tc45/
+- https://asling.org/tc44/
+- https://aclanthology.org/venues/tc/
+- https://portal.core.edu.au/conf-ranks/?search=Translating&by=all&source=ICORE2026
+unverified:
+- TC47 deadline times and time zones are not stated on the CfP page
+- Region set to europe because every in-person edition was in Europe (London, then Luxembourg); 2020 and 2021 were online
+last_verified: 2026-10-31

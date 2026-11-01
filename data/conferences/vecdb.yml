@@ -1,0 +1,51 @@
+id: vecdb
+name: VecDB
+full_name: Workshop on Vector Databases
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: VecDB workshop organizers (Yusuke Matsui, Martin Aumuller, Magdalen Dobson Manohar, Harsha Vardhan Simhadri)
+organizer_country: [international]
+proceedings: None (no formal proceedings; accepted papers public on OpenReview)
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7, 9]
+links:
+  website: https://vecdb-ws.github.io/vldb2026/index.html
+notes:
+- Workshop on vector databases, approximate nearest neighbor search, RAG and embedding models; also invites industry white papers on vector DB systems
+- 1st edition with ICML 2025 (Vancouver), 2nd edition with VLDB 2026 (Boston); host conference changes
+- Non-archival, so work can be published later elsewhere; papers up to 8 pages in VLDB style, not anonymized, lightweight review on OpenReview
+- Poster and oral sessions plus keynotes and a dataset announcement track
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 2nd edition, with VLDB 2026
+  start: 2026-09-04
+  end: 2026-09-04
+  location: Boston, USA
+  url: https://vecdb-ws.github.io/vldb2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-06-19
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: camera_ready
+    date: 2026-07-31
+    time: "23:59"
+    tz: AoE
+    label: Extended from July 21
+sources:
+- https://vecdb-ws.github.io/vldb2026/index.html
+- https://vecdb-ws.github.io/vldb2026/cfp.html
+- https://vecdb-ws.github.io/icml2025/
+- https://portal.core.edu.au/conf-ranks/?search=VecDB&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- 2026 notification date given only as "around July 10"
+- 2027 edition and its host conference not announced yet

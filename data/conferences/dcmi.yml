@@ -1,0 +1,66 @@
+id: dcmi
+name: DCMI
+full_name: International Conference on Dublin Core and Metadata Applications
+type: conference
+tier: minor
+areas: [data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Dublin Core Metadata Initiative (DCMI), a project of ASIS&T
+organizer_country: [usa]
+proceedings: DCPapers (open access, ISSN 1939-1366)
+archival: true
+indexing: [Scopus, DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [4]
+  conference_months: [8, 10]
+links:
+  website: https://www.dublincore.org/conferences/
+notes:
+- Annual conference on metadata, linked data, knowledge organization and metadata for AI; 26th edition in 2026, listed as DC in CORE
+- Run by DCMI, a project of the US nonprofit ASIS&T, usually with a host library or university
+- Open-access proceedings on DCPapers with DOIs, indexed by Scopus and DBLP; online before the conference
+- 'Submission types: full papers 8-10 pages, short papers 4-5 pages, plus panels, workshops, posters, project reports, tutorials and a student forum'
+- DCMI 2026 was in person only; at least one author of an accepted submission must attend in person
+- 'Recent hosts: virtual (2020 to 2022), Daegu (2023), Toronto (2024), Barcelona (2025), Seoul (2026)'
+- CORE C (ICORE2026, as DC); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-03
+  end: 2026-08-07
+  location: Seoul, South Korea (National Library of Korea)
+  url: https://www.dublincore.org/conferences/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-13
+    time: "23:59"
+    tz: AoE
+    label: Full and short papers, panels, workshops (extended from 2026-03-30)
+  - kind: submission
+    date: 2026-05-08
+    time: "23:59"
+    tz: AoE
+    label: Posters, project reports, student forum, tutorials (extended from 2026-05-01)
+  - kind: notification
+    date: 2026-05-22
+    label: Papers, panels, workshops
+  - kind: notification
+    date: 2026-06-01
+    label: Posters, project reports, student forum, tutorials
+  - kind: camera_ready
+    date: 2026-06-15
+sources:
+- https://www.dublincore.org/conferences/
+- https://www.dublincore.org/conferences/2026/
+- https://www.dublincore.org/conferences/2026/cfp/
+- https://www.dublincore.org/conferences/2025/
+- https://dcpapers.dublincore.org/issue/dcmi-2026
+- https://portal.core.edu.au/conf-ranks/?search=DC&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- DCMI 2027 dates and location not announced as of 2026-10-31
+- Acceptance rate not stated on the official site
+- Whether the 2023 to 2025 editions were also in person only is not stated on their pages

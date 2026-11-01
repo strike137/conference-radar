@@ -1,0 +1,55 @@
+id: qodanet
+name: QoDaNeT
+full_name: Workshop on Quality of Datasets in Network Telemetry
+type: workshop
+tier: minor
+areas: [networking, ai, data]
+region: worldwide
+language: english
+organizer: Dominik Soukup (FIT CTU Prague) and Karel Hynek (CESNET) in 2025; the 2024 edition was run from the University of Granada
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://www.qodanet-2025.hynek.org/
+notes:
+- Co-located with the IEEE/IFIP network management conferences (NOMS 2024 Seoul, CNSM 2025 Bologna)
+- Data papers on network telemetry datasets; the data must be made public, anonymized, and the paper must assess data quality
+- "Replication papers on existing public datasets are also accepted (title prefix 'Replication:')"
+- Up to 6 pages in IEEE two-column format including references (2025), single-blind review via EDAS
+- Accepted 2025 papers go into the CNSM proceedings and IEEE Xplore once presented
+- 2024 edition ran the IEEE NOMS Data Award and invited selected papers to a Data in Brief special issue
+- Not among the CNSM 2026 workshops
+editions:
+- year: 2025
+  label: 2nd QoDaNeT (at CNSM 2025)
+  start: 2025-10-27
+  end: 2025-10-27
+  location: Bologna, Italy (with CNSM 2025)
+  url: https://www.qodanet-2025.hynek.org/
+  deadlines:
+  - kind: submission
+    date: 2025-08-31
+    label: Extended from 2025-08-11, then 2025-08-25
+  - kind: notification
+    date: 2025-09-08
+  - kind: camera_ready
+    date: 2025-09-21
+    label: Extended from 2025-09-14
+sources:
+- https://www.qodanet-2025.hynek.org/
+- https://www.qodanet-2025.hynek.org/committees
+- https://www.qodanet-2025.hynek.org/previous-workshop
+- https://codas.ugr.es/qodanet2024/
+- http://www.cnsm-conf.org/2025/workshops.html
+- http://www.cnsm-conf.org/2025/program.html
+- http://www.cnsm-conf.org/2026/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=QoDaNeT&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Not listed in CORE ICORE2026 or the CCF list
+- No 2026 edition found (not in the CNSM 2026 workshop list); host conference for a next edition unknown
+- Workshop day 2025-10-27 is from the CNSM 2025 program (afternoon sessions)

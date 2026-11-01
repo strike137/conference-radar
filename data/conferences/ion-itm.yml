@@ -1,0 +1,68 @@
+id: ion-itm
+name: ION ITM
+full_name: ION International Technical Meeting
+type: conference
+tier: minor
+areas: [communications]
+region: north-america
+language: english
+frequency: annual
+organizer: The Institute of Navigation (ION)
+organizer_country: [usa]
+proceedings: ION conference proceedings (ion.org)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: https://www.ion.org/itm/
+notes:
+- Annual positioning, navigation and timing (PNT) meeting of the Institute of Navigation, held every January in
+  California and co-located with PTTI (Precise Time and Time Interval Systems and Applications Meeting)
+- Recent editions in Long Beach (2022 to 2025), Orange County 2026, Anaheim 2027 and Monterey 2028 and 2029
+- Selection is based on abstracts; all ITM manuscripts are then peer reviewed once and designated primary or
+  alternate papers
+- Only manuscripts meeting ION peer review and editorial standards go into the conference proceedings on ion.org
+- Topics include GNSS integrity and security (jamming, spoofing), LEO PNT, sensor fusion, AI/ML for navigation and
+  receiver signal processing
+- Presenting authors must register; in-person, in-person plus video, or on-demand only presentation options
+- Authors may also submit their papers to NAVIGATION, the ION journal
+- Navigation venue outside the usual CS rankings, not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-26
+  end: 2026-01-29
+  location: Hyatt Regency Orange County, California, USA
+  url: https://www.ion.org/itm/past-meetings.cfm
+- year: 2027
+  start: 2027-01-25
+  end: 2027-01-28
+  location: Anaheim, California, USA (Hyatt Regency Orange County)
+  url: https://www.ion.org/itm/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-10-02
+    label: Abstracts via the ION Abstract Management Portal
+  - kind: submission
+    date: 2026-12-01
+    label: Manuscripts for peer review
+  - kind: camera_ready
+    date: 2027-02-03
+    label: Manuscript corrections
+- year: 2028
+  start: 2028-01-24
+  end: 2028-01-27
+  location: Monterey, California, USA (Hyatt Regency Monterey)
+  url: https://www.ion.org/itm/future-meetings.cfm
+sources:
+- https://www.ion.org/itm/
+- https://www.ion.org/itm/call-for-abstracts.cfm
+- https://www.ion.org/itm/past-meetings.cfm
+- https://www.ion.org/itm/future-meetings.cfm
+- https://portal.core.edu.au/conf-ranks/?search=ITM&by=all&source=ICORE2026
+unverified:
+- Abstract acceptance notification date not stated
+- Deadline time zones not stated
+- Acceptance rate and registration fees not recorded
+last_verified: 2026-10-31

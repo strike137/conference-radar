@@ -1,0 +1,57 @@
+id: enlsp
+name: ENLSP
+full_name: Workshop on Efficient Natural Language and Speech Processing
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: ENLSP workshop organizers (led by Huawei Noah's Ark Lab researchers); co-located with NeurIPS
+organizer_country: [international]
+proceedings: PMLR (2024 edition, volume 262); earlier editions non-archival
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://neurips2024-enlsp.github.io/
+notes:
+- Workshop on efficient training and inference of language, speech and foundation models (compression, distillation, efficient architectures)
+- Held with NeurIPS from 2021 to 2024 (ENLSP-I to ENLSP-IV); each edition has its own site (neurips20XX-enlsp.github.io)
+- 2024 papers were published in PMLR volume 262; the 2022 and 2023 editions were non-archival with papers hosted on the website
+- Best paper and best poster awards from industry sponsors
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  label: ENLSP-IV, with NeurIPS 2024
+  start: 2024-12-14
+  end: 2024-12-14
+  location: Vancouver, BC, Canada (co-located with NeurIPS 2024)
+  url: https://neurips2024-enlsp.github.io/
+  deadlines:
+  - kind: submission
+    date: 2024-09-15
+    tz: AoE
+  - kind: submission
+    date: 2024-09-30
+    tz: AoE
+    label: Special NeurIPS fast track
+  - kind: notification
+    date: 2024-10-09
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-10-25
+    tz: AoE
+sources:
+- https://neurips2024-enlsp.github.io/
+- https://neurips2023-enlsp.github.io/
+- https://neurips2022-enlsp.github.io/
+- https://proceedings.mlr.press/v262/
+- https://neurips.cc/virtual/2025/events/workshop
+- https://neurips.cc/virtual/2026/events/workshop
+- https://portal.core.edu.au/conf-ranks/?search=ENLSP&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2025 or 2026 edition found; ENLSP does not appear in the NeurIPS 2025 or 2026 workshop lists
+- The 2024 site calls the workshop non-archival, but its papers appeared in PMLR volume 262

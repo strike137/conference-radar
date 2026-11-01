@@ -1,0 +1,65 @@
+id: neuroinformatics
+name: Neuroinformatics
+full_name: International Scientific and Technical Conference Neuroinformatics
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: mixed
+frequency: annual
+organizer: NRNU MEPhI and MIPT with NRC Kurchatov Institute (SRISA) and the Russian Neural Network Society
+organizer_country: [other]
+proceedings: Springer Studies in Computational Intelligence (selected English papers); other papers in a conference proceedings volume registered in RSCI
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://neuroinfo.ru/
+notes:
+- Russian neural network and neuroscience conference held every October in Moscow or Dolgoprudny (MEPhI or MIPT); 2026 was the 28th edition
+- English site title is "International Conference on Artificial Neural Networks (Neuroinformatics)"; Russian name Neiroinformatika
+- Covers neural network theory, machine learning, neurobiology, adaptive behavior and cognitive research; includes a school-seminar and a young scientists contest
+- Selected English papers go to Springer SCI as "Advances in Neural Computation, Machine Learning, and Cognitive Research" (volume IX for 2025), plus special issues of Optical Memory and Neural Networks
+- Papers may be in Russian or English; non-SCI papers go to a separate proceedings volume indexed in the Russian RSCI (RINTs)
+- Submission through OpenReview; single-blind review; Springer papers 10-15 pages (minimum 6)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-24
+  location: NRNU MEPhI, Moscow, Russia
+  url: https://neuroinfo.ru/archive/2025/program2025.pdf
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-23
+  location: MIPT, Dolgoprudny (Moscow Region), Russia
+  url: https://neuroinfo.ru/index.php/en/
+  deadlines:
+  - kind: submission
+    date: 2026-06-21
+    label: Submission (window 2026-04-02 to 2026-06-21, extended)
+  - kind: notification
+    date: 2026-07-14
+    label: Springer SCI papers
+  - kind: camera_ready
+    date: 2026-07-22
+    label: Springer SCI papers
+  - kind: notification
+    date: 2026-07-25
+    label: All papers
+sources:
+- https://neuroinfo.ru/
+- https://neuroinfo.ru/index.php/en/
+- https://neuroinfo.ru/index.php/ru/callforpapers/springer
+- https://neuroinfo.ru/index.php/ru/info/orgcomitee
+- https://neuroinfo.ru/index.php/ru/info/revinfo
+- https://neuroinfo.ru/index.php/ru/carchive
+- https://neuroinfo.ru/archive/2025/program2025.pdf
+- https://neuroinfo.ru/archive/2026/program2026.pdf
+- https://link.springer.com/conference/neuroinformatics
+- https://portal.core.edu.au/conf-ranks/?search=Neuroinformatics&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Original 2026 submission deadline before the extension to 2026-06-21 not stated
+- Neuroinformatics 2027 not announced as of 2026-10-31

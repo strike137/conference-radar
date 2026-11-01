@@ -1,0 +1,65 @@
+id: enc
+name: ENC
+full_name: European Navigation Conference
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: annual
+organizer: EUGIN (European Group of Institutes of Navigation) and the ENC Foundation; DGON leads ENC 2027
+organizer_country: [europe]
+proceedings: MDPI Engineering Proceedings
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://enc-series.org/
+notes:
+- Annual European positioning, navigation and timing (PNT) conference for industry, academia, government and users
+- Held in Europe; ESA ESTEC in Noordwijk hosted 2023, 2024 and 2027, with Wroclaw 2025 and Vienna 2026
+- Selection is based on abstracts reviewed by the technical programme committee; early submissions get priority
+- Full papers are optional and submitted after the conference; only papers presented at ENC enter peer review
+- Accepted papers (4 to 9 pages) appear in a dedicated open access volume of MDPI Engineering Proceedings with a DOI,
+  plus a conference e-book with ISBN
+- Navigation venue outside the usual CS rankings, not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-28
+  end: 2026-04-30
+  location: Vienna, Austria (Austria Center Vienna)
+  url: https://enc-series.org/encseries/enc-2026/
+- year: 2027
+  start: 2027-05-19
+  end: 2027-05-21
+  location: Noordwijk, The Netherlands (ESA ESTEC)
+  url: https://enc-series.org/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2027-01-10
+    time: "23:59"
+    tz: CET
+    label: Abstracts
+  - kind: notification
+    date: 2027-02-08
+  - kind: other
+    date: 2027-06-06
+    label: Optional full papers for peer review (after the conference)
+  - kind: camera_ready
+    date: 2027-09-05
+    label: Revised papers
+sources:
+- https://enc-series.org/
+- https://enc-series.org/abstract-submission/
+- https://enc-series.org/author-information/
+- https://enc-series.org/encseries/
+- https://enc-series.org/encseries/enc-2026/
+- https://portal.core.edu.au/conf-ranks/?search=Navigation&by=all&source=ICORE2026
+unverified:
+- Editions before 2023 not checked on the official site
+- Proceedings for earlier editions not confirmed on the official site; the MDPI Engineering Proceedings arrangement
+  is stated for ENC 2027
+- Acceptance rate and registration fees not recorded
+last_verified: 2026-10-31

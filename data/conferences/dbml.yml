@@ -1,0 +1,56 @@
+id: dbml
+name: DBML
+full_name: International Workshop on Databases and Machine Learning
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: DBML workshop chairs; co-located with IEEE ICDE
+organizer_country: [usa, europe]
+proceedings: IEEE Xplore (ICDE workshop proceedings)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://dataintelligencecrew.github.io/dbml26/
+notes:
+- Workshop on the intersection of databases and machine learning (ML for DBMS, data management for ML and LLM systems, vector databases), held with IEEE ICDE, so it moves with ICDE
+- 5th edition in 2026; held every year since 2022; earlier editions were hosted by TU Delft
+- Papers up to 6 pages including references, IEEE template, no appendix; single-blind review on Microsoft CMT
+- ICDE workshop papers are published together with the ICDE conference proceedings
+- Small workshop; 3 accepted paper talks and 3 invited talks in 2026
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 5th edition, with ICDE 2026
+  start: 2026-05-08
+  end: 2026-05-08
+  location: Montreal, Canada
+  url: https://dataintelligencecrew.github.io/dbml26/
+  deadlines:
+  - kind: submission
+    date: 2026-02-14
+    time: "23:59"
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2026-04-05
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-19
+    time: "23:59"
+    tz: AoE
+sources:
+- https://dataintelligencecrew.github.io/dbml26/
+- https://www.wis.ewi.tudelft.nl/dbml2025
+- https://icde2026.github.io/workshops.html
+- https://icde2026.github.io/cf-workshop-proposals.html
+- https://portal.core.edu.au/conf-ranks/?search=DBML&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- DBML 2027 (with ICDE 2027, Copenhagen) not announced yet
+- The DBML 2026 page does not itself name the proceedings; taken from the ICDE 2026 workshop call, which says workshop proceedings are published alongside the conference proceedings. The DBML camera-ready date (April 19) is later than the ICDE workshop camera-ready limit, so inclusion of 2026 papers in IEEE Xplore was not confirmed

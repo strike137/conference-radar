@@ -1,0 +1,74 @@
+id: asj-meeting
+name: ASJ Meeting
+full_name: Acoustical Society of Japan Research Meeting (Spring and Autumn Meetings)
+name_local: 日本音響学会 研究発表会
+type: conference
+tier: domestic
+areas: [communications, ai]
+region: japan
+language: japanese
+frequency: multiple-per-year
+organizer: Acoustical Society of Japan (ASJ)
+organizer_country: [japan]
+proceedings: ASJ Meeting Proceedings (日本音響学会研究発表会講演論文集, electronic; download for registered participants,
+  sold after the meeting)
+archival: false
+fee: 'Early registration (2027 spring): 12,000 JPY members, 3,500 JPY student members, 8,800 JPY non-member students,
+  35,200 JPY non-members; plus 5,610 JPY presentation fee per paper'
+typical:
+  deadline_months: [11]
+  conference_months: [3, 9]
+links:
+  website: https://acoustics.jp/annualmeeting/
+notes:
+- National meeting of the Acoustical Society of Japan, held twice a year (spring in March, autumn in September) at a
+  university that changes each time; the 157th meeting is spring 2027
+- Covers all of acoustics, including speech recognition and synthesis, audio and music signal processing, hearing,
+  ultrasonics, noise, architectural and underwater acoustics
+- 'Two-step submission: talk application with title, then a 2 or 4 page paper about two months later; no peer review is
+  mentioned in the call'
+- Proceedings are electronic only since the 2026 autumn meeting; participants download them with their registration
+  ID (non-archival)
+- English call for papers available; student presentation awards and the Awaya Prize for young researchers
+editions:
+- year: 2026
+  label: 156th meeting (2026 autumn)
+  start: 2026-09-08
+  end: 2026-09-10
+  location: Kanazawa Institute of Technology, Ogigaoka Campus, Nonoichi, Ishikawa, Japan
+  url: https://acoustics.jp/annualmeeting/program/
+- year: 2027
+  label: 157th meeting (2027 spring)
+  start: 2027-03-03
+  end: 2027-03-05
+  location: The University of Electro-Communications, Chofu, Tokyo, Japan
+  url: https://acoustics.jp/annualmeeting/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-11-24
+    label: Talk application (open from 2026-11-11)
+  - kind: submission
+    date: 2027-01-21
+    label: Paper (2 or 4 pages, open from 2027-01-08)
+  - kind: other
+    date: 2027-02-10
+    label: Early registration closes
+- year: 2027
+  label: 158th meeting (2027 autumn)
+  start: 2027-09-15
+  end: 2027-09-17
+  location: Hiroshima City University, Hiroshima, Japan
+  url: https://acoustics.jp/annualmeeting/schedule/
+sources:
+- https://acoustics.jp/annualmeeting/
+- https://acoustics.jp/call-for-paper_en/
+- https://acoustics.jp/annualmeeting/schedule/
+- https://acoustics.jp/annualmeeting/program/
+- https://acoustics.jp/annualmeeting/past-meetings/
+- https://portal.core.edu.au/conf-ranks/?search=Acoustical&by=all&source=ICORE2026
+unverified:
+- Not listed in the CORE ICORE2026 portal
+- Application deadlines for autumn meetings (not found on the current pages)
+- Borderline scope; part of the program is non-EE acoustics (architectural, noise, musical acoustics)
+last_verified: 2026-10-31

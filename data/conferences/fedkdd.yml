@@ -1,0 +1,52 @@
+id: fedkdd
+name: FedKDD/FedMAS
+full_name: International Joint Workshop on Federated Learning for Multi-agent Systems and Data Mining
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers co-located with ACM SIGKDD (2026 general chair Haozhao Wang, Huazhong University of
+  Science and Technology)
+organizer_country: [international]
+proceedings: None (non-archival; papers on OpenReview)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://fedmas-fedkdd.github.io/fedmas-fedkdd2026/
+notes:
+- Half-day workshop co-located with ACM SIGKDD; follows FedKDD@KDD 2025 (Toronto)
+- Topics are federated learning for multi-agent systems, federated large models, graph analytics and data mining
+- Short papers up to 5 pages in the ACM sigconf template, double-blind, at least 2 reviewers, submitted via OpenReview
+- Following the KDD 2026 policy, accepted papers are not included in proceedings or any form of publication
+- All accepted papers get posters; best paper awards and possible travel awards
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  start: 2025-08-04
+  end: 2025-08-04
+  location: Toronto, Canada (with KDD 2025)
+  url: https://fedkdd.github.io/fedkdd2025/
+- year: 2026
+  start: 2026-08-09
+  end: 2026-08-09
+  location: Jeju, Korea (with KDD 2026)
+  url: https://fedmas-fedkdd.github.io/fedmas-fedkdd2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-28
+  - kind: notification
+    date: 2026-06-25
+sources:
+- https://fedmas-fedkdd.github.io/fedmas-fedkdd2026/
+- https://fedmas-fedkdd.github.io/fedmas-fedkdd2026/calls/
+- https://fedkdd.github.io/fedkdd2025/
+- https://portal.core.edu.au/conf-ranks/?search=FedKDD&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2027 edition announced
+- Name and scope change between editions (FedKDD 2025 was the Joint Workshop on Federated Learning for Data Mining
+  and Graph Analytics)

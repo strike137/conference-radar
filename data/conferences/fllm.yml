@@ -1,0 +1,88 @@
+id: fllm
+name: FLLM
+full_name: International Conference on Foundation and Large Language Models
+type: conference
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: Independent steering committee, technically co-sponsored by a local IEEE section
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11]
+links:
+  website: https://fllm-conference.org/2026/
+notes:
+- Started in 2023; technically co-sponsored by the IEEE section of the host country (IEEE Austrian Section in 2025, IEEE Spain Section in 2026)
+- Accepted, registered and presented papers are submitted to IEEE Xplore; full papers up to 8 pages in the IEEE conference template
+- Single-blind or double-blind submission is left to the authors
+- Short, poster, position, PhD symposium and SoK tracks plus co-located workshops (GenAISE, LLMCS, PromptEng, AICS, GenAI symposium and others)
+- Hybrid format; at least one author must register and present or the paper is dropped from the proceedings
+- Held in Abu Dhabi (2023), Dubai (2024), Vienna (2025) and Barcelona (2026)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-25
+  end: 2025-11-28
+  location: Vienna, Austria (hybrid)
+  url: https://fllm-conference.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    label: Main track
+  - kind: notification
+    date: 2025-09-15
+    label: Main track
+  - kind: camera_ready
+    date: 2025-10-25
+    label: Main track
+  - kind: submission
+    date: 2025-09-21
+    label: Workshops and special tracks
+  - kind: notification
+    date: 2025-10-10
+    label: Workshops and special tracks
+  - kind: camera_ready
+    date: 2025-10-25
+    label: Workshops and special tracks
+- year: 2026
+  start: 2026-11-17
+  end: 2026-11-20
+  location: Barcelona, Spain (hybrid)
+  url: https://fllm-conference.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-04
+    label: Main track
+  - kind: notification
+    date: 2026-10-01
+    label: Main track
+  - kind: submission
+    date: 2026-09-20
+    label: Advanced main track
+  - kind: notification
+    date: 2026-10-10
+    label: Advanced main track
+  - kind: submission
+    date: 2026-10-01
+    label: Workshops and special tracks
+  - kind: notification
+    date: 2026-10-20
+    label: Workshops and special tracks
+  - kind: camera_ready
+    date: 2026-10-30
+sources:
+- https://fllm-conference.org/2026/
+- https://fllm-conference.org/2026/committee.php
+- https://fllm-conference.org/2025/
+- https://fllm-conference.org/2023/
+- https://portal.core.edu.au/conf-ranks/?search=FLLM&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Organizer country is not stated; the steering committee is spread over Europe, China and the USA
+- Deadline time zone not stated
+- Link to sibling events (IDSTA, MCNA) not stated on the FLLM pages; the site only contains leftover IDSTA submission links

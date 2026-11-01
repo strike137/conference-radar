@@ -1,0 +1,67 @@
+id: inet4ai
+name: INET4AI
+full_name: Workshop on Inter-networking Challenges for AI
+type: workshop
+tier: minor
+areas: [networking, ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IRTF community (chairs from HKUST (GZ) and Huawei), at ACM CoNEXT
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://irtf-net4ai.github.io/inet4ai/
+notes:
+- Workshop on the networking challenges of distributing generative and agentic AI workloads at large scale
+  (collective communication, transport, in-network computing, edge placement, agent-to-agent networking)
+- Started within the Internet Research Task Force (IRTF); co-located with ACM CoNEXT
+- 1st edition 2025 at HKUST, Hong Kong; 2nd edition December 2026 in Utrecht
+- The 2025 papers are in the ACM Digital Library as "Proceedings of the 1st Workshop on Inter-networking challenges for AI" (CoNEXT 2025, SIGCOMM)
+- Double-blind review on HotCRP; up to 6 pages in two-column ACM format, excluding references and appendices
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-01
+  location: Hong Kong, China
+  url: https://irtf-net4ai.github.io/2025.inet4AI/
+  deadlines:
+  - kind: submission
+    date: 2025-09-12
+    tz: AoE
+    label: Extended from 2025-09-03
+  - kind: notification
+    date: 2025-10-01
+  - kind: camera_ready
+    date: 2025-10-08
+- year: 2026
+  location: Utrecht, Netherlands
+  url: https://irtf-net4ai.github.io/inet4ai/
+  deadlines:
+  - kind: submission
+    date: 2026-08-21
+    tz: AoE
+    label: Extended from 2026-07-14
+  - kind: notification
+    date: 2026-09-15
+  - kind: camera_ready
+    date: 2026-09-30
+sources:
+- https://irtf-net4ai.github.io/inet4ai/
+- https://irtf-net4ai.github.io/inet4ai/cfp.html
+- https://irtf-net4ai.github.io/inet4ai/program.html
+- https://irtf-net4ai.github.io/inet4ai/organization.html
+- https://irtf-net4ai.github.io/2025.inet4AI/
+- https://irtf-net4ai.github.io/2025.inet4AI/program.html
+- https://dl.acm.org/doi/10.1145/3769695.3771674
+- https://conferences.sigcomm.org/co-next/2026/
+- https://portal.core.edu.au/conf-ranks/?search=INET4AI&by=all&source=ICORE2026
+unverified:
+- Exact 2026 workshop day not announced (site says December 2026, TBA; CoNEXT 2026 runs December 7-10)
+- 2026 CFP does not state the proceedings venue; ACM DL assumed from the 2025 edition
+- Not found on the ICORE2026 portal and not on the CCF 2026 list
+last_verified: 2026-10-31

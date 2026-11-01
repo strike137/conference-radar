@@ -1,0 +1,63 @@
+id: ecmr
+name: ECMR
+full_name: European Conference on Mobile Robots
+type: conference
+tier: minor
+areas: [ai, systems]
+region: europe
+language: english
+frequency: biennial
+organizer: ECMR Conference Board (with IEEE RAS patronage)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+fee: 650 EUR full, 400 EUR student without paper (2025, early, incl. VAT)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9]
+links:
+  website: https://ecmr2025.dei.unipd.it/
+notes:
+- Biennial European conference on mobile robotics and mobile human-robot systems, held since the first edition in Radziejowice, Poland
+- Always held in Europe (Ancona, Freiburg, Dubrovnik, Orebro, Barcelona, Lincoln, Paris, Prague, Bonn, Coimbra, Padua)
+- Single track with keynotes, oral and poster papers; peer reviewed, 6 pages in IEEE two-column format plus up to 2 paid extra pages
+- 2025 CFP says accepted papers are planned to be included in IEEE Xplore; selected papers invited to a Robotics and Autonomous Systems special issue
+- Workshop and tutorial day before the three-day main conference; late-breaking results track (2-page reports, oral only, not in the proceedings)
+- Under IEEE Robotics and Automation Society patronage; steering by a permanent ECMR Conference Board
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-09-02
+  end: 2025-09-05
+  location: University of Padua, Padova, Italy
+  url: https://ecmr2025.dei.unipd.it/
+  deadlines:
+  - kind: submission
+    date: 2025-05-04
+    time: "23:59"
+    tz: AoE
+    label: Regular papers (extended)
+  - kind: other
+    date: 2025-05-08
+    label: Workshop and tutorial proposals (extended)
+  - kind: notification
+    date: 2025-06-23
+  - kind: camera_ready
+    date: 2025-07-15
+  - kind: other
+    date: 2025-08-05
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking results
+sources:
+- https://ecmr2025.dei.unipd.it/
+- https://ecmr2025.dei.unipd.it/call-for-regular-papers/
+- https://ecmr2025.dei.unipd.it/organization-2/
+- https://ecmr2025.dei.unipd.it/registration/
+- https://ecmr2025.dei.unipd.it/call-for-late-breaking-results/
+- https://portal.core.edu.au/conf-ranks/?search=ECMR&by=all&source=ICORE2026
+unverified:
+- ECMR 2027 (expected, biennial) not announced on an official page as of 2026-10-31
+- Whether ECMR 2025 papers actually appeared in IEEE Xplore not confirmed (CFP says it is planned)
+- CCF 2026 list not checked directly (ccf.org.cn returned a captcha page); rank.ccf left out
+last_verified: 2026-10-31

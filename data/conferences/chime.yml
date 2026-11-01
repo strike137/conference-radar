@@ -1,0 +1,96 @@
+id: chime
+name: CHiME
+full_name: CHiME Workshop on Speech Processing in Everyday Environments
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: CHiME steering group (CHiME challenge organisers; Univ. of Sheffield, Inria, CMU, NTT, JHU and others)
+organizer_country: [international]
+proceedings: ISCA Archive
+archival: true
+links:
+  website: https://www.chimechallenge.org/
+notes:
+- One-day workshop that accompanies the CHiME speech separation and recognition challenges (CHiME = Computational Hearing in Multisource Environments), running since 2011
+- Satellite of Interspeech or ICASSP; CHiME 2024 was an Interspeech satellite on Kos, Greece; CHiME 2026 was held jointly with HSCMA as an ICASSP 2026 satellite in Barcelona
+- Accepts both challenge system papers and regular papers on robust speech processing (enhancement, separation, ASR, diarization)
+- Proceedings in the ISCA Archive with DOIs (10.21437/CHiME.2024); in 2026 HSCMA archival track papers went to IEEE Xplore and CHiME challenge papers to the ISCA Archive, plus a non-archival track
+- 2024 used single-blind review with 4 pages of content plus 1 page of references
+- Recent editions (last six) in San Francisco 2016, Hyderabad 2018, online 2020, Dublin 2023, Kos 2024, Barcelona 2026
+- The CHiME-10 workshop is planned for December 2027 as a satellite or co-located event of ASLI 2027 (TBC)
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  start: 2024-09-06
+  end: 2024-09-06
+  location: Kos, Greece
+  url: https://www.chimechallenge.org/workshops/chime2024/index
+  deadlines:
+  - kind: submission
+    date: 2024-06-28
+    time: "23:59"
+    tz: AoE
+    label: Regular papers
+  - kind: submission
+    date: 2024-07-17
+    time: "23:59"
+    tz: AoE
+    label: Challenge papers and extended abstracts
+  - kind: notification
+    date: 2024-07-30
+  - kind: camera_ready
+    date: 2024-10-02
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-04
+  location: Barcelona, Spain
+  url: https://sites.google.com/view/hscmachime2026/home
+  deadlines:
+  - kind: submission
+    date: 2025-10-22
+    tz: AoE
+    label: HSCMA archival track
+  - kind: notification
+    date: 2025-12-10
+    label: HSCMA archival track
+  - kind: camera_ready
+    date: 2026-01-07
+    label: HSCMA archival track
+  - kind: submission
+    date: 2026-02-06
+    tz: AoE
+    label: CHiME challenge track and non-archival track
+  - kind: other
+    date: 2026-02-12
+    tz: AoE
+    label: Paper revision (CHiME challenge and non-archival tracks)
+  - kind: notification
+    date: 2026-03-10
+    label: CHiME challenge track and non-archival track
+  - kind: camera_ready
+    date: 2026-04-24
+    label: CHiME challenge track
+sources:
+- https://www.chimechallenge.org/
+- https://www.chimechallenge.org/workshops/chime2024/index
+- https://www.chimechallenge.org/workshops/chime2024/submissions
+- https://www.chimechallenge.org/workshops/chime2023/index
+- https://www.chimechallenge.org/workshops/chime2020/index
+- https://www.chimechallenge.org/workshops/chime2018/index
+- https://www.chimechallenge.org/workshops/chime2016/index
+- https://www.chimechallenge.org/workshops/hscma2026/index
+- https://www.chimechallenge.org/challenges/chime9/workshop
+- https://www.chimechallenge.org/challenges/chime10/dates
+- https://sites.google.com/view/hscmachime2026/home
+- https://sites.google.com/view/hscmachime2026/call-for-papers
+- https://www.isca-archive.org/chime_2024/index.html
+- https://www.isca-archive.org/chime_2026/index.html
+- https://portal.core.edu.au/conf-ranks/?search=CHiME&by=all&source=ICORE2026
+unverified:
+- CHiME 2027 (CHiME-10 workshop) date, location and paper deadlines not yet announced as of 2026-10-31; only "December 2027, ASLI 2027 satellite (TBC)"
+last_verified: 2026-10-31

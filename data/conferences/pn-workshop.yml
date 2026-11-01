@@ -1,0 +1,50 @@
+id: pn-workshop
+name: PN
+full_name: ACM CoNEXT Workshop on the Polymorphic Network
+type: workshop
+tier: minor
+areas: [networking]
+region: worldwide
+language: english
+organizer: Workshop chairs (NDSC China, Peking University, Beijing Institute of Technology), co-located with ACM CoNEXT
+organizer_country: [china]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://pn-workshop.github.io/pn-workshop-2025/index
+notes:
+- Workshop on polymorphic networks, a programmable network architecture where IP, NDN and other network paradigms coexist, plus traffic engineering, congestion control and verification
+- First edition held as a morning workshop with ACM CoNEXT 2025 at HKUST, Hong Kong
+- Program chairs from the National Digital Switching System Engineering and Technological Research Center (China), Peking University and Beijing Institute of Technology; TPC almost entirely from China
+- Papers up to 6 pages including references in two-column ACM format, double-blind review, submitted via HotCRP
+- Per the CoNEXT 2025 call for workshops, workshop papers appear in the ACM Digital Library with the CoNEXT short papers
+- Not run with CoNEXT 2026 (Utrecht), whose workshop list does not include it
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-01
+  location: Hong Kong (HKUST)
+  url: https://pn-workshop.github.io/pn-workshop-2025/index
+  deadlines:
+  - kind: submission
+    date: 2025-08-11
+  - kind: notification
+    date: 2025-09-30
+  - kind: camera_ready
+    date: 2025-10-08
+sources:
+- https://pn-workshop.github.io/pn-workshop-2025/index
+- https://conferences.sigcomm.org/co-next/2025/#!/home
+- https://conferences.sigcomm.org/co-next/2025/#!/cfw
+- https://conferences.sigcomm.org/co-next/2026/#!/home
+- https://portal.core.edu.au/conf-ranks/?search=Polymorphic&by=all&source=ICORE2026
+unverified:
+- ACM DL proceedings entry for the 2025 workshop papers not checked directly (dl.acm.org blocked); based on the CoNEXT 2025 call for workshops
+- Deadline time and zone not stated
+- Whether the PN workshop will run again (only the 2025 edition is known; frequency unknown)
+- CCF 2026 list not checked on ccf.org.cn directly; workshop not expected to be listed
+last_verified: 2026-10-31

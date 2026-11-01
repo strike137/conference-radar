@@ -1,0 +1,56 @@
+id: ieee-sds
+name: IEEE SDS
+full_name: IEEE International Conference on Software Defined Systems
+type: conference
+tier: minor
+areas: [networking, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Emerging Technologies Network (emergingtechnet.org), technically co-sponsored by IEEE
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://gcet-conference.com/SDS2025/
+notes:
+- Run by the Emerging Technologies Network, the same group behind FMEC and SNAMS; not the same venue as sds (Swiss Conference on Data Science)
+- Topics are software-defined networking, storage, data centers and clouds, softwarization, and their security and automation
+- Proceedings published by IEEE and submitted to IEEE Xplore; full papers 6 to 8 pages, short papers 3 to 4 pages
+- Mostly held in Europe (2019 Rome, 2020 Paris, 2021 Gandia, 2022 Paris, 2024 Gran Canaria, 2025 Lyon); 2023 was in San Antonio, Texas
+- Latest edition is the 12th (SDS 2025, Lyon, proceedings in IEEE Xplore); no 2026 edition has been announced
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-02
+  end: 2025-12-05
+  location: Lyon, France
+  url: https://gcet-conference.com/SDS2025/
+- year: 2024
+  start: 2024-12-09
+  end: 2024-12-11
+  location: Gran Canaria, Spain
+  url: https://emergingtechnet.org/SDS2024/
+  deadlines:
+  - kind: submission
+    date: 2024-09-21
+  - kind: camera_ready
+    date: 2024-10-30
+sources:
+- https://emergingtechnet.org/SDS2024/
+- https://emergingtechnet.org/SDS2024/important-dates.php
+- https://emergingtechnet.org/SDS2024/submission.php
+- https://emergingtechnet.org/SDS2024/history.php
+- https://emergingtechnet.org/SDS2023/
+- https://emergingtechnet.org/
+- https://doi.org/10.1109/sds68531.2025.11409811
+- https://portal.core.edu.au/conf-ranks/?search=SDS&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- SDS 2024 notification date is printed as "20 October 2023" on the official page (a typo), so it is left out
+- SDS 2025 dates and location are from the IEEE Xplore proceedings record (DOI 10.1109/SDS68531.2025); the official site gcet-conference.com/SDS2025/ could not be loaded (expired certificate), so its deadlines are left out
+- No 2026 edition has been announced
+- Organizer country is not stated; the advisory board is spread over Europe, North America and the Middle East

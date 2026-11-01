@@ -1,0 +1,91 @@
+id: aixmhc
+name: AIxMHC
+full_name: International Conference on Artificial Intelligence for Medicine, Health, and Care
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AIx conference series (Phillip Sheu, UC Irvine, and co-chairs)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9, 10]
+links:
+  website: https://www.aixmhc.org/
+notes:
+- One of the AIx conferences (with AIxSET, AIxHEART and AIxB) that replaced ai4i and TransAI in 2024; same organizer group as IEEE AIxVR and IEEE ISM
+- Covers AI for medicine, health, mental health, well-being and senior care
+- Proceedings published by IEEE Computer Society Press (2025); 2026 papers submitted for inclusion in IEEE Xplore
+- Regular (6 pages), short (4 pages) and position (2 pages) papers in IEEE double-column format, at least three reviewers per paper
+- Also has poster abstracts, co-located workshops and a journal-first presentation track
+- Held in Laguna Hills, California (2024, 2026, 2027) and Taichung, Taiwan (2025, at Asia University); hybrid format
+- A summer edition (AIxSummer) shared with AIxB, AIxHEART and AIxSET is announced for June 7-8 2027 in Nagano, Japan
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-28
+  end: 2026-09-30
+  location: VOCO Laguna Hills, Laguna Hills, California, USA
+  url: https://semanticcomputing.wixsite.com/aixmhc2026
+  deadlines:
+  - kind: submission
+    date: 2026-07-08
+    time: "23:59"
+    tz: PDT
+    label: Main track papers (extended from 2026-06-10, then 2026-07-01)
+  - kind: notification
+    date: 2026-08-05
+    tz: PDT
+  - kind: submission
+    date: 2026-08-12
+    tz: PDT
+    label: Workshop papers and poster abstracts (extended from 2026-07-30)
+  - kind: camera_ready
+    date: 2026-08-21
+    tz: PDT
+- year: 2027
+  start: 2027-09-27
+  end: 2027-09-29
+  location: VOCO Laguna Hills, Laguna Hills, California, USA
+  url: https://www.aixmhc.org/
+  deadlines:
+  - kind: submission
+    date: 2027-06-10
+    tz: PDT
+    label: Papers
+  - kind: other
+    date: 2027-07-05
+    tz: PDT
+    label: Workshop proposals
+  - kind: notification
+    date: 2027-07-20
+    tz: PDT
+  - kind: submission
+    date: 2027-07-30
+    tz: PDT
+    label: Workshop papers and poster abstracts
+  - kind: camera_ready
+    date: 2027-08-21
+    tz: PDT
+sources:
+- https://www.aixmhc.org/
+- https://www.aixmhc.org/dates
+- https://www.aixmhc.org/submission
+- https://www.aixmhc.org/history
+- https://semanticcomputing.wixsite.com/aixmhc2026
+- https://semanticcomputing.wixsite.com/aixmhc2026/dates
+- https://semanticcomputing.wixsite.com/aixmhc2026/committees
+- https://chaoneng.github.io/aixmhc2025.github.io/
+- https://chaoneng.github.io/aixmhc2025.github.io/about.html
+- https://chaoneng.github.io/aixmhc2025.github.io/callforpaper.html
+- https://www.aixsummer.org/
+- https://portal.core.edu.au/conf-ranks/?search=AIxMHC&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- The official history page lists the 2026 edition as Taichung, October 13-15 2025, which conflicts with the 2026 site (Laguna Hills, September 28-30 2026); the 2026 site is used here
+- Exact dates and venue of the 2024 first edition (listed as AIMHC 2024, Laguna Hills, February 5-7 2024) not checked against its own site
+- Whether the conference is formally IEEE sponsored is not stated on the official pages

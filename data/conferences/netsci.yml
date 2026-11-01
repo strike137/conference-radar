@@ -1,0 +1,79 @@
+id: netsci
+name: NetSci
+full_name: International School and Conference on Network Science
+type: conference
+tier: major
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Network Science Society (NSS); local host changes each year (2026 Northeastern University Network Science Institute, 2027 SynoSys at TU Dresden)
+organizer_country: [international]
+proceedings: None (non-archival; one-page abstracts for talks and posters)
+archival: false
+typical:
+  deadline_months: [12, 1]
+  conference_months: [5, 6]
+links:
+  website: https://netscisociety.net/netsci-conferences/
+notes:
+- Flagship annual conference of the Network Science Society, held since 2006; interdisciplinary (physics, computer science, biology, social science) on complex networks
+- Submissions are one-page abstracts with one mandatory figure, reviewed by the program committee and accepted as a contributed talk or poster; no paper proceedings
+- Each accepted abstract must be presented in person; each author may present only one abstract at the main conference
+- Program includes a one-day school and satellite workshops before the main conference; satellites have their own call with an earlier deadline
+- Host city changes every year (Shanghai 2022, Vienna 2023, Quebec City 2024, Maastricht 2025, Boston 2026, Dresden 2027); the society says NetSci 2027 and 2029 are in Europe
+- The society also runs NetSciX, a separate winter edition with the same full name (NetSciX 2026 Auckland, NetSciX 2027 Hong Kong, January 24 to 27, 2027)
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+- Related venues already listed - Complex Networks (CNA) and CompleNet, which publish full papers
+editions:
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-05
+  location: Boston, MA, USA
+  url: http://netsci2026.com/
+  deadlines:
+  - kind: other
+    date: 2025-12-08
+    label: Satellite proposals
+  - kind: submission
+    date: 2026-01-09
+    tz: AoE
+    label: Abstracts (extended from 2025-12-19)
+  - kind: notification
+    date: 2026-02-14
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-21
+  location: Dresden, Germany
+  url: https://netsci2027.github.io/
+  status: confirmed
+  deadlines:
+  - kind: other
+    date: 2026-11-15
+    label: Satellite proposals
+  - kind: submission
+    date: 2026-12-01
+    label: Abstracts
+  - kind: other
+    date: 2026-12-15
+    label: Satellite notification
+  - kind: notification
+    date: 2027-01-15
+  - kind: other
+    date: 2027-02-28
+    label: Early bird registration
+sources:
+- https://netscisociety.net/netsci-conferences/
+- https://netscisociety.net/events/netsci-2027/
+- https://netscisociety.net/events/netscix-2027/
+- https://netscisociety.net/call-for-netsci-2028/
+- https://netsci2027.github.io/
+- https://netsci2027.github.io/calls/abstracts
+- http://netsci2026.com/
+- https://nunetsi.wixstudio.com/netsci2026/call-for-abstracts
+- https://portal.core.edu.au/conf-ranks/?search=NetSci&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Time zone of the NetSci 2027 deadlines not stated
+- Whether accepted abstracts are collected in a book of abstracts is not stated on the calls
+- CCF 2026 list not checked directly; NetSci is not a CCF-listed computing venue as far as known

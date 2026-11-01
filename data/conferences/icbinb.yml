@@ -1,0 +1,78 @@
+id: icbinb
+name: ICBINB
+full_name: I Can't Believe It's Not Better Workshop
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICBINB initiative (volunteer team with advisors David Blei, Max Welling, Robert Williamson and Tamara
+  Broderick); co-located with NeurIPS or ICLR
+organizer_country: [international]
+proceedings: PMLR (NeurIPS 2020 v137, NeurIPS 2021 v163, NeurIPS 2023 v239, ICLR 2025 v296)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [4]
+links:
+  website: https://icbinb.cc/
+notes:
+- Workshop on negative results, failure modes and surprising shortcomings of machine learning methods; yearly theme
+- Held with NeurIPS 2020 to 2023, then ICLR 2025 (Singapore) and ICLR 2026 (Rio de Janeiro)
+- ICLR 2025 edition published 14 papers in PMLR volume 296; earlier PMLR volumes 137 (2020), 163 (2021) and 239 (2023)
+- A non-archival option is always offered
+- Full papers up to 4 pages and tiny papers up to 2 pages (2026); double-blind review on OpenReview
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-04-28
+  end: 2025-04-28
+  location: Singapore (co-located with ICLR 2025)
+  url: https://sites.google.com/view/icbinb-2025/home
+  deadlines:
+  - kind: notification
+    date: 2025-03-05
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-03-19
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Rio de Janeiro, Brazil (co-located with ICLR 2026)
+  url: https://sites.google.com/view/icbinb-2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-03-01
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-08
+    time: "23:59"
+    tz: AoE
+sources:
+- https://icbinb.cc/
+- https://sites.google.com/view/icbinb-2026/home
+- https://sites.google.com/view/icbinb-2026/submit
+- https://sites.google.com/view/icbinb-2025/home
+- https://sites.google.com/view/icbinb-2023
+- https://icbinb.cc/workshops.html
+- https://proceedings.mlr.press/v137/
+- https://proceedings.mlr.press/v163/
+- https://proceedings.mlr.press/v239/
+- https://proceedings.mlr.press/v296/
+- https://iclr.cc/Conferences/2026
+- https://portal.core.edu.au/conf-ranks/?search=ICBINB&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- 2025 submission deadline unclear (the official page lists both 2025-02-03 and 2025-02-06)
+- Archival status of the ICLR 2026 edition was "still being clarified" on the submission page; no PMLR volume for 2026 confirmed
+- No PMLR volume confirmed for the NeurIPS 2022 edition
+- No 2027 edition announced on the official site as of 2026-10-31

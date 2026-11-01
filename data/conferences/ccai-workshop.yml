@@ -1,0 +1,70 @@
+id: ccai-workshop
+name: CCAI Workshop
+full_name: Tackling Climate Change with Machine Learning (Climate Change AI Workshop)
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Climate Change AI (CCAI); co-located with NeurIPS, ICLR or ICML
+organizer_country: [international]
+proceedings: None (non-archival; accepted works listed on the Climate Change AI website)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://www.climatechange.ai/events/neurips2026
+notes:
+- Workshop series run by Climate Change AI on ML for climate change mitigation, adaptation and climate science
+- "Held since 2019 at ICML, NeurIPS, ICLR and AAAI FSS; recent editions: ICLR 2024, NeurIPS 2024, ICLR 2025, NeurIPS 2025 (San Diego), NeurIPS 2026 (Sydney)"
+- Papers track (up to 4 pages), Proposals track (up to 3 pages) and Tutorials track (executable notebooks); every submission must state a climate impact pathway
+- Submitted through OpenReview; reciprocal reviewing introduced in 2026 for experienced authors
+- Mentorship program pairs early-career authors with mentors before the deadline
+- Work already published at non-ML venues may be eligible; accepted works are listed on climatechange.ai/papers
+- Not the Chinese Congress on Artificial Intelligence (ccai)
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  label: NeurIPS 2025 workshop
+  start: 2025-12-07
+  end: 2025-12-07
+  location: San Diego Convention Center, San Diego, CA, USA (co-located with NeurIPS 2025)
+  url: https://www.climatechange.ai/events/neurips2025
+  deadlines:
+  - kind: camera_ready
+    date: 2025-11-14
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  label: NeurIPS 2026 workshop (Fostering Ground-Up Innovation in AI and Climate)
+  start: 2026-12-11
+  end: 2026-12-11
+  location: Sydney, Australia (co-located with NeurIPS 2026)
+  url: https://www.climatechange.ai/events/neurips2026
+  deadlines:
+  - kind: abstract
+    date: 2026-08-29
+    time: "23:59"
+    tz: AoE
+    label: Extended from Aug 22
+  - kind: submission
+    date: 2026-08-29
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-29
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.climatechange.ai/events/neurips2026
+- https://www.climatechange.ai/events/neurips2025
+- https://www.climatechange.ai/events
+- https://www.climatechange.ai/papers
+- https://neurips.cc/virtual/2026/events/workshop
+- https://portal.core.edu.au/conf-ranks/?search=CCAI&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- The event pages do not use the word non-archival; the status is inferred from accepted works being listed only on the CCAI website
+- NeurIPS 2025 paper submission deadline not shown on the 2025 page

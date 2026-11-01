@@ -1,0 +1,69 @@
+id: wism
+name: WISM
+full_name: IFIP WG 11.1 Working Conference on Information Security Management
+type: conference
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: IFIP TC11 Working Group 11.1 (Information Security Management)
+organizer_country: [international]
+proceedings: Springer IFIP AICT (within the IFIP SEC proceedings)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [6]
+links:
+  website: https://www.ifiptc11.org/wism-18
+notes:
+- Working conference of IFIP TC11 WG 11.1 (Information Security Management), co-located with IFIP SEC
+- Accepted papers appear in the IFIP SEC proceedings, Springer IFIP AICT series
+- Full papers up to 14 pages, short (research in progress) papers up to 8 pages, LNCS format; anonymised
+  submissions with at least two reviews; panel and tutorial proposals also welcome
+- Topics on the management side of security (policy, security culture, governance and compliance, risk
+  assessment, standards, awareness); practitioner and academic contributions; friendly stream for students
+- Numbering is inconsistent; the 2026 Perth edition was called the 19th WISM, while the 2027 Linköping call
+  is titled the 18th
+- 'CORE: not listed in ICORE2026'
+editions:
+- year: 2026
+  label: WISM-19
+  start: 2026-06-09
+  end: 2026-06-11
+  location: Perth, Australia
+  url: https://ifiptc11.org/images/WG11.1/WG11.1-WISM19-2026.pdf
+  deadlines:
+  - kind: submission
+    date: 2025-12-19
+  - kind: notification
+    date: 2026-02-13
+  - kind: camera_ready
+    date: 2026-03-13
+    label: Final paper and author registration
+- year: 2027
+  label: 18th WISM
+  start: 2027-06-14
+  end: 2027-06-16
+  location: Linköping, Sweden
+  url: https://www.ifiptc11.org/wism-18
+  deadlines:
+  - kind: submission
+    date: 2026-12-15
+    tz: AoE
+  - kind: notification
+    date: 2027-02-18
+  - kind: camera_ready
+    date: 2027-03-15
+    label: Camera-ready, registration and payment
+sources:
+- https://www.ifiptc11.org/wism-18
+- https://ifiptc11.org/images/WG11.1/WISM-18-CfP.pdf
+- https://ifiptc11.org/images/WG11.1/WG11.1-WISM19-2026.pdf
+- https://www.ifiptc11.org/wg111-events
+- https://ifipsec.org/
+- https://portal.core.edu.au/conf-ranks/?search=WISM&by=all&source=ICORE2026
+unverified:
+- Editions between 2016 and 2025 (the WG 11.1 event history stops at 2016); region follows IFIP SEC and is
+  judged from the two recent editions only
+last_verified: 2026-10-31

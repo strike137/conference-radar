@@ -1,0 +1,58 @@
+id: ctt
+name: CTT
+full_name: Workshop on Creative-text Translation and Technology
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+organizer: Workshop organizing committee led by Bram Vanroy (KU Leuven); proceedings published by EAMT; co-located with EAMT or MT Summit
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://ctt2025.ccl.kuleuven.be/
+notes:
+- Workshop on machine translation, CAT tools and LLMs for creative texts (literature, poetry, marketing, subtitling, video games, social media)
+- First edition with EAMT 2024 in Sheffield (2024-06-27); second edition with MT Summit 2025 in Geneva
+- Long papers up to 10 pages plus references; double-blind review via EasyChair; MT Summit template
+- Papers appear in the proceedings only if presented in person
+- Proceedings published by EAMT in the ACL Anthology (2025.ctt-1, ISBN 978-2-9701897-6-3)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 2nd edition, with MT Summit 2025
+  start: 2025-06-24
+  end: 2025-06-24
+  location: Geneva, Switzerland
+  url: https://ctt2025.ccl.kuleuven.be/
+  deadlines:
+  - kind: submission
+    date: 2025-03-16
+    time: "23:59"
+    tz: UTC
+    label: Extended from March 10
+  - kind: notification
+    date: 2025-04-07
+    time: "23:59"
+    tz: UTC
+    label: Moved from March 31
+  - kind: camera_ready
+    date: 2025-04-21
+    time: "23:59"
+    tz: UTC
+    label: Moved from April 7
+sources:
+- https://ctt2025.ccl.kuleuven.be/
+- https://ctt2025.ccl.kuleuven.be/calls
+- https://sites.google.com/view/ctt-2024
+- https://aclanthology.org/venues/ctt/
+- https://aclanthology.org/volumes/2025.ctt-1/
+- https://portal.core.edu.au/conf-ranks/?search=CTT&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2026 or 2027 edition found as of 2026-10-31; frequency unclear
+- Acceptance rate not published

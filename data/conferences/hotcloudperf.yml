@@ -1,0 +1,70 @@
+id: hotcloudperf
+name: HotCloudPerf
+full_name: Workshop on Hot Topics in Cloud Computing Performance
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: SPEC Research Group Cloud Group, co-located with ACM/SPEC ICPE
+organizer_country: [europe]
+proceedings: ACM DL (ICPE Companion)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5]
+links:
+  website: https://hotcloudperf.spec.org/
+notes:
+- Workshop co-located with ACM/SPEC ICPE, technically sponsored by the SPEC Research Group and ACM and organized each year by the SPEC RG Cloud Group; held since 2018 (10th edition in 2027)
+- Topics are cloud and computing-continuum performance (edge, IoT, serverless, microservices), benchmarking, modeling, simulation, resource management and energy efficiency
+- Full papers 5 pages and short papers 3 pages (plus 1 page of references), single-anonymous review, ACM format via HotCRP; talk-only submissions are not in the proceedings
+- Papers appear in the ICPE Companion proceedings in the ACM Digital Library, open access with no APC for papers within the page limits
+- Follows ICPE around the world (Florence 2026, Gothenburg 2027); organizing chairs from VU Amsterdam, ETH Zurich and University of Klagenfurt
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-05
+  end: 2026-05-05
+  location: Florence, Italy
+  url: https://hotcloudperf.spec.org/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-01-19
+    tz: AoE
+  - kind: submission
+    date: 2026-01-30
+    tz: AoE
+    label: Extended from 2026-01-26
+  - kind: notification
+    date: 2026-02-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-04
+- year: 2027
+  location: Gothenburg, Sweden
+  url: https://hotcloudperf.spec.org/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-25
+    tz: AoE
+  - kind: submission
+    date: 2027-02-01
+    tz: AoE
+  - kind: notification
+    date: 2027-03-05
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-03-12
+sources:
+- https://hotcloudperf.spec.org/
+- https://hotcloudperf.spec.org/2026
+- https://dl.acm.org/doi/proceedings/10.1145/3777911
+- https://icpe2027.spec.org/
+- https://portal.core.edu.au/conf-ranks/?search=HotCloudPerf&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Exact 2027 workshop day (announced as May 24 or 25, 2027)
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-31

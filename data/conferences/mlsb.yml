@@ -1,0 +1,54 @@
+id: mlsb
+name: MLSB
+full_name: Machine Learning in Structural Biology Workshop
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: MLSB workshop organizing committee
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers may be shared on the workshop website)
+archival: false
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://www.mlsb.io/
+notes:
+- Annual workshop on ML for structural biology (structure prediction, protein design, cryo-EM, dynamics), held next to NeurIPS since 2020
+- 2020 and 2021 were virtual, 2022 and 2023 in New Orleans, 2024 in Vancouver
+- 2025 ran in two venues on the same day, San Diego next to NeurIPS (not affiliated with NeurIPS) and Copenhagen as an official EurIPS workshop, with one shared submission portal
+- Non-archival; concurrent submissions and work in progress or position papers are welcome
+- Short papers up to 5 pages in the NeurIPS style, light double-blind review on CMT
+- Open-sourced code, models or data get priority for spotlight talks; a few travel awards
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  label: San Diego (next to NeurIPS 2025) and Copenhagen (EurIPS 2025)
+  start: 2025-12-07
+  end: 2025-12-07
+  location: UCSD Park & Market, San Diego, CA, USA and Bella Center, Copenhagen, Denmark
+  url: https://www.mlsb.io/
+  deadlines:
+  - kind: submission
+    date: 2025-10-01
+    time: "23:59"
+    tz: AoE
+    label: Extended from September 26
+  - kind: notification
+    date: 2025-10-15
+  - kind: camera_ready
+    date: 2025-12-01
+    tz: AoE
+sources:
+- https://www.mlsb.io/
+- https://www.mlsb.io/call-for-papers
+- https://www.mlsb.io/past-editions
+- https://www.mlsb.io/committee
+- https://www.mlsb.io/scheduleeu
+- https://portal.core.edu.au/conf-ranks/?search=MLSB&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2026 edition announced on the official site as of 2026-10-31

@@ -1,0 +1,75 @@
+id: rams
+name: RAMS
+full_name: Annual Reliability and Maintainability Symposium
+type: conference
+tier: minor
+areas: [systems, general]
+region: north-america
+language: english
+frequency: annual
+organizer: RAMS Board of Directors and Management Committee, with 8 sponsor societies (IEEE Reliability Society, ASQ, IEST, IISE, SAE, SRE, ISSS)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [1]
+links:
+  website: https://www.rams.org/
+notes:
+- Long-running US symposium on reliability, availability, maintainability and safety, held every January since 1954
+- Covers hardware and software systems (fault tolerance, FMEA, fault tree analysis, prognostics, AI and ML for R&M)
+- Abstract first (late April), then draft paper in July, peer review in August and September, final paper at the end of September
+- RAMS policy is to publish all presented papers in IEEE Xplore; presentation-only and tutorial tracks also exist
+- Held in the USA, alternating between east and west coast areas (Miramar Beach FL 2026, St. Petersburg FL 2027, Houston 2028)
+- Practitioner-heavy audience with a large tutorial program; costly (presenter early rate 845 USD for members, 2027)
+- Reliability engineering in general, not computing only
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+- 2026 edition moved from Planet Hollywood, Las Vegas to Miramar Beach, Florida (old venue struck through on the 2026 call for papers)
+editions:
+- year: 2026
+  label: 72nd RAMS
+  start: 2026-01-19
+  end: 2026-01-22
+  location: Hilton Sandestin Beach Golf Resort & Spa, Miramar Beach, FL, USA
+  url: https://rams.org/2026-call-for-papers/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-10
+    label: Abstract (extended from 2025-04-30)
+  - kind: notification
+    date: 2025-06-02
+  - kind: submission
+    date: 2025-07-31
+    label: Draft paper and presentation
+  - kind: camera_ready
+    date: 2025-09-30
+- year: 2027
+  label: 73rd RAMS
+  start: 2027-01-25
+  end: 2027-01-28
+  location: Hilton St. Petersburg Bayfront, St. Petersburg, FL, USA
+  url: https://rams.org/2027-call-for-papers/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-30
+  - kind: notification
+    date: 2026-06-02
+  - kind: submission
+    date: 2026-07-31
+    label: Draft paper and presentation
+  - kind: camera_ready
+    date: 2026-09-30
+sources:
+- https://www.rams.org/
+- https://rams.org/2027-call-for-papers/
+- https://rams.org/2027-author-to-do-list/
+- https://rams.org/2027-future-rams/
+- https://rams.org/2027-registration-rates/
+- https://rams.org/2026-call-for-papers/
+- https://rams.org/2026-author-to-do-list/
+- https://rams.org/about-rams-who-we-are-and-how-we-operate/
+- https://portal.core.edu.au/conf-ranks/?search=RAMS&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Deadline time zones not stated

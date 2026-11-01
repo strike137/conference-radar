@@ -1,0 +1,71 @@
+id: cros
+name: CROS
+full_name: Brazilian Conference on Robotics
+type: conference
+tier: minor
+areas: [ai, vision]
+region: latin-america
+language: english
+frequency: annual
+organizer: SBRobotica (Sociedade Brasileira de Robótica)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11, 1]
+  conference_months: [4]
+links:
+  website: https://sbrobotica.org/cros2026/
+notes:
+- Flagship conference of the Brazilian Robotics Society (SBRobotica), a scientific society founded in 2024; first
+  edition in 2025
+- Covers all areas of robotics, with workshops in robotics, AI and computer vision, plus industry and government panels
+- Papers in English, up to 6 pages in IEEE conference format, double-blind review via Microsoft CMT
+- Accepted and presented papers are submitted to IEEE Xplore; extended versions of outstanding papers are invited to
+  the Journal of Intelligent and Robotic Systems (South America Topical Collection)
+- Held in a different Brazilian city each year (Belo Horizonte 2025, João Pessoa 2026, São Paulo 2027)
+- Separate from the older SBC robotics symposium SBR/LARS
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-30
+  location: João Pessoa, Brazil
+  url: https://sbrobotica.org/cros2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-05
+    label: Manuscripts (hard deadline, extended from 2025-11-28)
+  - kind: notification
+    date: 2026-02-23
+  - kind: camera_ready
+    date: 2026-04-07
+- year: 2027
+  start: 2027-04-27
+  end: 2027-04-30
+  location: São Paulo, Brazil
+  url: https://sbrobotica.org/cros2027/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    label: Manuscripts
+  - kind: notification
+    date: 2027-02-23
+  - kind: camera_ready
+    date: 2027-04-07
+sources:
+- https://sbrobotica.org/cros2026/
+- https://sbrobotica.org/cros2026/call_for_papers.html
+- https://sbrobotica.org/cros2027/
+- https://sbrobotica.org/cros2027/call_for_papers.html
+- https://sbrobotica.org/cros2025/
+- https://sbrobotica.org/cros2025/call_for_papers.html
+- https://sbrobotica.org/
+- https://portal.core.edu.au/conf-ranks/?search=CROS&by=all&source=ICORE2026
+unverified:
+- CROS 2027 call for papers is headed "Dates to be announced"; its notification date is 2027-02-23 on the call for
+  papers page but 2027-01-23 on the home page
+- Whether the CROS 2025 papers have appeared in IEEE Xplore (could not check)
+- Acceptance rate
+last_verified: 2026-10-31

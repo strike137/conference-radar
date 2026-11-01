@@ -1,0 +1,53 @@
+id: synthai
+name: SynthAI
+full_name: Workshop on Synthetic Data Generation and Management for Building AI Systems
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: SynthAI workshop organizers (Adobe Research, Columbia, UC San Diego, IIT Delhi, Databricks); co-located with ACM SIGMOD/PODS
+organizer_country: [usa, india]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://synthetic-data-sigmod.github.io/syndata2026/
+notes:
+- One-day workshop held with ACM SIGMOD/PODS 2026 in Bengaluru, India
+- 'Scope: synthetic data pipelines, LLM-based data synthesis, evaluation and benchmarking, privacy and fairness, storage and management of synthetic datasets'
+- Long papers up to 8 pages and short papers 4 to 6 pages, ACM SIGMOD template, submitted via Microsoft CMT
+- Double-anonymous review
+- Non-archival; accepted papers do not appear in the SIGMOD proceedings
+- Region set as worldwide because it follows SIGMOD; only the 2026 edition is known
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: With ACM SIGMOD/PODS 2026
+  start: 2026-06-05
+  end: 2026-06-05
+  location: Bengaluru, India
+  url: https://synthetic-data-sigmod.github.io/syndata2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-20
+    tz: AoE
+  - kind: notification
+    date: 2026-04-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-25
+    tz: AoE
+sources:
+- https://synthetic-data-sigmod.github.io/syndata2026/
+- https://synthetic-data-sigmod.github.io/syndata2026/cfp.html
+- https://synthetic-data-sigmod.github.io/syndata2026/schedule.html
+- https://2026.sigmod.org/sigmod_workshops.shtml
+- https://portal.core.edu.au/conf-ranks/?search=SynthAI&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- SynthAI 2027 not announced yet; not clear whether the workshop will recur
+- Earlier editions not found; 2026 may be the first

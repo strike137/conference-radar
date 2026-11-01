@@ -1,0 +1,52 @@
+id: ml4rs
+name: ML4RS
+full_name: Machine Learning for Remote Sensing Workshop
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (researchers from US, German and Canadian universities, IBM, Ai2 and DLR); co-located with ICLR
+organizer_country: [usa, europe, canada]
+proceedings: None (non-archival; papers on OpenReview)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [4, 5]
+links:
+  website: https://ml-for-rs.github.io/
+notes:
+- Workshop on machine learning methods for remote sensing (Earth observation, satellite) data, co-located with ICLR every year since 2023
+- 'Past venues follow ICLR: Kigali 2023, Vienna 2024, Singapore 2025, Rio de Janeiro 2026'
+- Non-archival, so dual submission is allowed; submissions and reviews on OpenReview
+- 'Tracks in 2026: 4-page workshop papers (double blind), 2-page tiny papers and a new tutorials track (single blind)'
+- Authors can opt for a fast extra review for a special stream in IEEE Geoscience and Remote Sensing Letters (extra fees)
+- Travel support for students offered in past editions through sponsors
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Rio de Janeiro, Brazil (co-located with ICLR 2026)
+  url: https://ml-for-rs.github.io/iclr2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-06
+    tz: AoE
+  - kind: notification
+    date: 2026-03-01
+  - kind: other
+    date: 2026-09-01
+    label: GRSL special stream submission close
+sources:
+- https://ml-for-rs.github.io/
+- https://ml-for-rs.github.io/iclr2026/
+- https://ml-for-rs.github.io/iclr2025/
+- https://ml-for-rs.github.io/iclr2024/
+- https://ml-for-rs.github.io/iclr2023/
+- https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Main_Track
+- https://portal.core.edu.au/conf-ranks/?search=ML4RS&by=all&source=ICORE2026
+unverified:
+- A 2027 edition (ICLR 2027 workshop) not yet announced
+last_verified: 2026-10-31

@@ -1,0 +1,78 @@
+id: fmbc
+name: FMBC
+full_name: International Workshop on Formal Methods for Blockchains
+type: workshop
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: FMBC Steering Committee (co-located with ETAPS)
+organizer_country: [europe]
+proceedings: Dagstuhl OASIcs
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [4, 5]
+links:
+  website: https://fmbc.gitlab.io/
+notes:
+- One-day workshop on formal methods for blockchains, smart contracts, consensus protocols and zero-knowledge proofs
+- Steering committee from Nomadic Labs (France) and the University of Exeter (UK)
+- Proceedings in Dagstuhl OASIcs every year since 2020 (FMBC 2026 -> OASIcs volume 142, FMBC 2025 -> volume 129)
+- 'Hosts follow the parent event: FM 2019 (Porto), CAV 2020 and 2021 (online), CAV/FLoC 2022 (Haifa), ETAPS since 2024 (2024 Luxembourg City, 2025 Hamilton, 2026 Turin)'
+- No edition in 2023
+- Full papers up to 12 pages, short and tool papers up to 6 pages; 2-page extended abstracts get a lightning talk but are not in the proceedings
+- At least three reviews per paper; revised selected papers considered for a JLAMP special issue (2026)
+- Deadlines were extended by about one week in 2025 and ten days in 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-05-04
+  end: 2025-05-04
+  location: Hamilton, ON, Canada
+  url: https://fmbc.gitlab.io/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-02-10
+    tz: AoE
+    label: Extended from 2025-02-03
+  - kind: submission
+    date: 2025-02-17
+    tz: AoE
+    label: Extended from 2025-02-10
+  - kind: notification
+    date: 2025-03-21
+    label: Extended from 2025-03-14
+  - kind: camera_ready
+    date: 2025-03-31
+- year: 2026
+  start: 2026-04-11
+  end: 2026-04-11
+  location: Turin, Italy
+  url: https://fmbc.gitlab.io/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-18
+    tz: AoE
+    label: Extended from 2026-01-08
+  - kind: submission
+    date: 2026-01-25
+    tz: AoE
+    label: Extended from 2026-01-15
+  - kind: notification
+    date: 2026-02-28
+  - kind: camera_ready
+    date: 2026-03-15
+sources:
+- https://fmbc.gitlab.io/
+- https://fmbc.gitlab.io/2026/
+- https://fmbc.gitlab.io/2026/cfp.html
+- https://fmbc.gitlab.io/2025/
+- https://fmbc.gitlab.io/2025/cfp.html
+- https://fmbc.gitlab.io/2024/
+- https://portal.core.edu.au/conf-ranks/?search=FMBC&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- FMBC 2027 not announced yet (the 2027 page could not be loaded)
+- Indexing, acceptance rate and registration fee not stated on the workshop site

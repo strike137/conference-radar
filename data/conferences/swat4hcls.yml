@@ -1,0 +1,74 @@
+id: swat4hcls
+name: SWAT4HCLS
+full_name: International Conference on Semantic Web Applications and Tools for Health Care and Life Sciences
+type: conference
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: SWAT4HCLS organizers (community-run)
+organizer_country: [europe]
+proceedings: CEUR-WS (CEUR Workshop Proceedings)
+archival: true
+typical:
+  deadline_months: [9, 12]
+  conference_months: [2, 3]
+links:
+  website: https://www.swat4ls.org/
+notes:
+- Semantic web, knowledge graphs, ontologies and FAIR data for health care and life sciences, held since 2008 (formerly SWAT4LS)
+- Always held in Europe (Leiden 2024, Barcelona 2025, Amsterdam 2026, Basel 2027)
+- Four days with a tutorial day, the main conference and a biohackathon
+- Long papers (at least 10 pages), short papers (at least 5 pages), posters and demos (at least 2 pages), CEURART 1-column style
+- Papers are reviewed by at least three PC members and published in CEUR Workshop Proceedings (CC BY 4.0); posters go to PUBLISSO FRL with a DOI
+- Accepted contributions (2027) are invited to an extended-version special issue or collection in the Journal of Biomedical Semantics
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-26
+  location: Amsterdam, Netherlands
+  url: https://www.swat4ls.org/workshops/amsterdam2026
+  deadlines:
+  - kind: submission
+    date: 2025-12-22
+    tz: AoE
+    label: Papers, posters and demos (extended)
+  - kind: notification
+    date: 2026-01-23
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-08
+    tz: AoE
+- year: 2027
+  label: 15th edition
+  start: 2027-02-01
+  end: 2027-02-04
+  location: Basel, Switzerland
+  url: https://www.swat4ls.org/workshops/basel2027
+  deadlines:
+  - kind: abstract
+    date: 2026-09-07
+    tz: AoE
+    label: Optional abstract
+  - kind: submission
+    date: 2026-09-30
+    tz: AoE
+    label: Papers, posters and demos (moved from September 14)
+  - kind: notification
+    date: 2026-11-23
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-12-14
+    tz: AoE
+sources:
+- https://www.swat4ls.org/
+- https://www.swat4ls.org/workshops/amsterdam2026
+- https://www.swat4ls.org/workshops/amsterdam2026/call-for-papers/
+- https://www.swat4ls.org/workshops/basel2027
+- https://www.swat4ls.org/workshops/basel2027/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=SWAT4&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- The official site currently shows injected spam text and intermittent database errors; dates were read from the CFP pages

@@ -1,0 +1,78 @@
+id: dothack
+name: .HACK
+full_name: .HACK Conference
+name_local: 닷핵 컨퍼런스
+type: industry
+tier: minor
+areas: [security]
+region: korea
+language: mixed
+frequency: annual
+organizer: Project Plasma (사단법인 프로젝트 플라즈마), a Korean non-profit supporting white-hat hackers
+organizer_country: [korea]
+proceedings: None (talks only; slides posted on the session pages for speakers who agree)
+archival: false
+rank:
+  core: Unranked
+fee: 'General 200,000 KRW, Youth (undergraduates) 50,000 KRW, Junior (middle and high school) 10,000 KRW (2026); online
+  pre-sale only, no on-site tickets'
+typical:
+  deadline_months: [11]
+  conference_months: [3, 4]
+links:
+  website: https://dothack.io/
+notes:
+- Hacker and security practitioner conference in Seoul, run by the non-profit Project Plasma; editions in 2024, 2025
+  and 2026
+- Held at COEX Conference Room South (4F), Seoul
+- Open call for speakers on Sessionize with two tracks, Tech and Lessons Learned (40 min talk plus 10 min Q&A); the
+  2026 program also had Junior, Web3 and CISO tracks
+- Talks in Korean or English, Korean recommended because there is no simultaneous interpretation; speakers get a
+  small honorarium
+- Hosts the Dreamhack Invitational CTF final (online qualifier in January, top 20 plus top 10 of the Dreamhack CTF
+  season ranking go to the on-site final; top prize 5,000,000 KRW sponsored by Dunamu)
+- Sessions are not streamed online; industry event with no papers or proceedings
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-04-07
+  end: 2026-04-08
+  location: Seoul, Korea (COEX)
+  url: https://dothack.io/
+  deadlines:
+  - kind: other
+    date: 2026-01-24
+    time: '09:00'
+    tz: KST
+    label: Dreamhack Invitational 2026 CTF qualifier starts (online, 24 hours)
+  - kind: other
+    date: 2026-03-20
+    time: '18:00'
+    tz: KST
+    label: Ticket sales and cancellation close
+- year: 2027
+  start: 2027-03-31
+  end: 2027-03-31
+  location: Seoul, Korea (COEX)
+  url: https://sessionize.com/dothack2027_call-for-papers/
+  deadlines:
+  - kind: submission
+    date: 2026-11-29
+    time: '23:59'
+    tz: KST
+    label: Call for speakers closes (Sessionize)
+sources:
+- https://dothack.io/
+- https://dothack.io/ctf
+- https://dothack.io/ticket
+- https://dothack.io/faq
+- https://dothack.io/archive
+- https://sessionize.com/dothack2027_call-for-papers/
+- https://project-plasma.org/
+- https://portal.core.edu.au/conf-ranks/?search=.HACK&by=all&source=ICORE2026
+unverified:
+- Exact dates and venues of the 2024 and 2025 editions (the archive page lists them without dates)
+- .HACK 2027 is listed as one day (Mar 31) on Sessionize; whether it runs a second day is not stated
+- Exact notification date for the 2027 call (Sessionize says late December 2026, by email; schedule may change)
+- 2027 ticket prices not announced as of 2026-10-31
+last_verified: 2026-10-31

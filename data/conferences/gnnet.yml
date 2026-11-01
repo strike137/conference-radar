@@ -1,0 +1,56 @@
+id: gnnet
+name: GNNet
+full_name: Graph Neural Networking Workshop
+type: workshop
+tier: minor
+areas: [networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Barcelona Neural Networking Center (UPC) with AIT, University of Siena and Telefonica Research, at ACM CoNEXT
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://bnn.upc.edu/workshops/gnnet2024/
+notes:
+- Workshop on graph neural networks and other graph-based machine learning applied to networking problems
+  (network modeling, digital twins, traffic analysis, security and anomaly detection)
+- Co-located with ACM CoNEXT; 1st edition 2022 in Rome, 2nd 2023 in Paris, 3rd 2024 in Los Angeles
+- Run by the Barcelona Neural Networking Center (UPC), which also ran the yearly Graph Neural Networking Challenge
+- Papers of up to 6 pages including references in two-column ACM format, single-blind review on HotCRP
+- Accepted papers appear in the ACM Digital Library
+- No edition with CoNEXT 2025 or CoNEXT 2026 so far
+editions:
+- year: 2024
+  start: 2024-12-09
+  end: 2024-12-09
+  location: Los Angeles, USA
+  url: https://bnn.upc.edu/workshops/gnnet2024/
+  deadlines:
+  - kind: submission
+    date: 2024-07-31
+    label: Hard deadline, extended from 2024-07-15
+  - kind: notification
+    date: 2024-09-10
+    label: Extended from 2024-08-31
+  - kind: camera_ready
+    date: 2024-09-30
+    label: Extended from 2024-09-23
+sources:
+- https://bnn.upc.edu/workshops/gnnet2024/
+- https://bnn.upc.edu/workshops/gnnet2024/program/
+- https://bnn.upc.edu/workshops/gnnet2023/
+- https://bnn.upc.edu/workshops/gnnet2022/
+- https://conferences.sigcomm.org/co-next/2024/partials/workshopatglance.html
+- https://conferences.sigcomm.org/co-next/2025/partials/program.html
+- https://conferences.sigcomm.org/co-next/2026/partials/home.html
+- https://doi.org/10.1145/3694811.3697818
+- https://portal.core.edu.au/conf-ranks/?search=GNNet&by=all&source=ICORE2026
+unverified:
+- No 2025 or 2026 edition found; the workshop may be dormant
+- Not found on the ICORE2026 portal and not on the CCF 2026 list
+last_verified: 2026-10-31

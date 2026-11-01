@@ -1,0 +1,72 @@
+id: isprasopen
+name: ISP RAS Open
+full_name: Ivannikov ISP RAS Open Conference
+name_local: Открытая конференция ИСП РАН им. В.П. Иванникова
+type: conference
+tier: minor
+areas: [software, systems, security, data, ai]
+region: europe
+language: mixed
+frequency: annual
+organizer: Ivannikov Institute for System Programming of the Russian Academy of Sciences (ISP RAS)
+organizer_country: [other]
+proceedings: Proceedings of ISP RAS (Trudy ISP RAN) journal, ISSN 2079-8156
+archival: true
+indexing: [RSCI, RINC]
+typical:
+  deadline_months: [11]
+  conference_months: [12]
+links:
+  website: https://www.isprasopen.ru/
+notes:
+- Annual open conference of the Ivannikov Institute for System Programming RAS (ISP RAS), held in Moscow in December
+- Peer-reviewed sections on program analysis and transformation (reverse engineering, vulnerability search, compilers), data management, CAD for microelectronics, open source CFD and linguistic analysis
+- Also a trusted AI workshop, a Secure Software Development block, round tables and a technology exhibition
+- Papers in Russian (8-20 pages) or English (7-15 pages), double-blind review via EasyChair; in-person presentation required
+- Accepted papers presented at the conference go into the journal Proceedings of ISP RAS (RSCI on Web of Science, VAK list); up to 2024 an IEEE Xplore proceedings volume was also an option
+- Free for attendees and speakers
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  start: 2025-12-09
+  end: 2025-12-10
+  location: Lomonosov innovation cluster, Moscow, Russia
+  url: https://www.isprasopen.ru/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-11-08
+  - kind: notification
+    date: 2025-11-21
+  - kind: camera_ready
+    date: 2025-12-25
+- year: 2026
+  start: 2026-12-09
+  end: 2026-12-11
+  location: NUST MISIS, Moscow, Russia
+  url: https://www.isprasopen.ru/
+  deadlines:
+  - kind: submission
+    date: 2026-11-04
+    time: "23:59"
+    tz: UTC+3
+  - kind: notification
+    date: 2026-11-17
+    time: "23:59"
+    tz: UTC+3
+  - kind: camera_ready
+    date: 2026-12-17
+sources:
+- https://www.isprasopen.ru/
+- https://www.isprasopen.ru/en/
+- https://www.isprasopen.ru/2025/
+- https://www.isprasopen.ru/2024/
+- https://www.isprasopen.ru/2023/
+- https://www.isprasopen.ru/2022/
+- https://www.isprasopen.ru/2021/
+- https://www.isprasopen.ru/2020/
+- https://easychair.org/conferences/?conf=isprasopen2026
+- https://portal.core.edu.au/conf-ranks/?search=ISPRAS&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- The English page still names the venue "Proceedings of Ivannikov ISPRAS Open Conference" while the Russian page names the journal Proceedings of ISP RAS
+- 2025 deadlines are stated as 23:59 without a time zone, so times are left out

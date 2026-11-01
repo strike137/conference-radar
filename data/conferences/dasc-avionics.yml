@@ -1,0 +1,67 @@
+id: dasc-avionics
+name: AIAA/IEEE DASC
+full_name: AIAA DATC/IEEE Digital Avionics Systems Conference
+type: conference
+tier: minor
+areas: [systems, communications, security, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Digital Avionics Technical Committee (DATC), co-sponsored by AIAA and IEEE AESS
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [2, 5]
+  conference_months: [9, 10]
+links:
+  website: https://dasconline.org/2026
+notes:
+- R&D conference on digital avionics (avionics architectures, air traffic management, autonomy, UAS, aviation
+  cybersecurity and communications); founded by AIAA in 1975, annual since 1990
+- Owned by the AIAA Digital Avionics Technical Committee; IEEE AESS oversees it with the DATC, AIAA co-sponsors
+- Two-stage double-blind review -> 750-word abstract decides talk or poster, then a 5 to 10 page full paper decides
+  publication
+- Papers in IEEE Xplore since 1990; papers not presented on site by an author are excluded
+- Usually held in the USA in September or October, sometimes in Europe (Barcelona 2023, Belfast 2027)
+- Not to be confused with IEEE DASC (Dependable, Autonomic and Secure Computing)
+- Not listed in CORE ICORE2026 (only the other DASC is) or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 45th DASC
+  start: 2026-09-13
+  end: 2026-09-17
+  location: Orlando, Florida, USA
+  url: https://dasconline.org/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-02-07
+  - kind: other
+    date: 2026-03-07
+    label: Abstract acceptance
+  - kind: submission
+    date: 2026-05-02
+    label: Full paper
+  - kind: notification
+    date: 2026-05-30
+  - kind: camera_ready
+    date: 2026-06-19
+- year: 2027
+  start: 2027-09-12
+  end: 2027-09-16
+  location: Belfast, Northern Ireland, UK
+  url: https://dasconline.org/
+sources:
+- https://dasconline.org/2026
+- https://dasconline.org/2026/authors/call-for-papers
+- https://dasconline.org/2026/author-instructions-for-papers-and-panels
+- https://dasconline.org/2026/about/general-faq
+- https://dasconline.org/2026/conference-history
+- https://dasconline.org/2026/dasc-conference
+- https://dasconline.org/2026/registration
+- https://portal.core.edu.au/conf-ranks/?search=DASC&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- 44th DASC (2025) location and dates not confirmed from an official page (the 2025 site is offline and the history page lists editions only up to 2024)
+- DASC 2027 call for papers and deadlines not announced yet (2027 website coming soon)
+- Registration fees are not shown on the 2026 registration page text; deadline times and time zones not stated

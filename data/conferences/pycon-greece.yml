@@ -1,0 +1,56 @@
+id: pycon-greece
+name: PyCon Greece
+full_name: PyCon Greece
+type: industry
+tier: minor
+areas: [software, ai]
+region: europe
+language: english
+frequency: annual
+organizer: PyGreece (volunteer organizing team)
+organizer_country: [europe]
+proceedings: None (non-archival; talks and tutorials only)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8, 10]
+links:
+  website: https://pycon.gr/
+notes:
+- Greek national Python conference, one of the PyCon family, run by volunteers from PyGreece
+- Held at Technopolis City of Athens in 2025 and 2026; 2026 was the 2nd edition
+- Conference language is English and all proposals must be submitted in English
+- 30 minute talks and 90 minute hands-on tutorials chosen from a spring call for proposals; up to 3 proposals per speaker
+- No papers or proceedings; talk recordings are published on YouTube
+- Both editions so far sold out
+editions:
+- year: 2025
+  start: 2025-08-29
+  end: 2025-08-30
+  location: Technopolis City of Athens, Athens, Greece
+  url: https://2025.pycon.gr/en/
+  deadlines: []
+- year: 2026
+  start: 2026-10-12
+  end: 2026-10-13
+  location: Technopolis City of Athens, Athens, Greece
+  url: https://2026.pycon.gr/
+  deadlines:
+  - kind: submission
+    date: 2026-05-18
+    label: Talk and tutorial proposals (CFP opened 2026-04-14)
+  - kind: notification
+    date: 2026-06-30
+    label: Speaker notifications (proposal guidelines timeline)
+sources:
+- https://2026.pycon.gr/
+- https://2026.pycon.gr/en/program/proposal-guidelines/
+- https://2026.pycon.gr/en/program/cfp-faq/
+- https://2025.pycon.gr/en/
+- https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
+unverified:
+- The CFP FAQ gives a 2026 close date of May 11 and notifications by June 15, while the proposal guidelines timeline gives May 18 and June 30 (timeline values used)
+- 2025 call for proposals deadline
+- 2027 dates not announced
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-10-31

@@ -1,0 +1,137 @@
+id: pods
+name: PODS
+full_name: ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems
+type: conference
+tier: top
+areas: [data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGMOD (with SIGACT and SIGAI)
+organizer_country: [international]
+proceedings: ACM DL (PACMMOD journal, PODS issue)
+archival: true
+rank:
+  core: A*
+  ccf: B
+typical:
+  deadline_months: [6, 12]
+  conference_months: [6]
+links:
+  website: https://sigmod.org/pods-home/
+  dblp: https://dblp.org/db/conf/pods/
+notes:
+- Premier venue for the theoretical foundations of data management (query languages, logic, complexity, algorithms)
+- Held jointly with SIGMOD every year since 1991; one registration covers both
+- Accepted papers appear in a PODS issue of the PACMMOD journal (ACM DL)
+- Two submission cycles a year (June and December) with a rebuttal phase and a revision option
+- Double-anonymous review; up to 15 pages in ACM acmsmall format plus references
+- About 25 research papers a year according to the PODS pages
+- Location follows SIGMOD (Bengaluru 2026, Huntington Beach 2027)
+editions:
+- year: 2026
+  start: 2026-05-31
+  end: 2026-06-05
+  location: Bengaluru, India (with SIGMOD)
+  url: https://2026.sigmod.org/calls_papers_pods_research.shtml
+  deadlines:
+  - kind: abstract
+    date: 2025-06-03
+    time: "23:59"
+    tz: AoE
+    label: Cycle 1
+  - kind: submission
+    date: 2025-06-10
+    time: "23:59"
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2025-09-01
+    time: "23:59"
+    tz: AoE
+    label: Cycle 1 final
+  - kind: abstract
+    date: 2025-12-03
+    time: "23:59"
+    tz: AoE
+    label: Cycle 2
+  - kind: submission
+    date: 2025-12-10
+    time: "23:59"
+    tz: AoE
+    label: Cycle 2
+  - kind: notification
+    date: 2026-03-01
+    time: "23:59"
+    tz: AoE
+    label: Cycle 2 final
+- year: 2027
+  start: 2027-06-13
+  end: 2027-06-18
+  location: Huntington Beach, USA (with SIGMOD)
+  url: https://2027.sigmod.org/calls_papers_pods_research.shtml
+  deadlines:
+  - kind: abstract
+    date: 2026-05-23
+    time: "23:59"
+    tz: AoE
+    label: Cycle 1
+  - kind: submission
+    date: 2026-05-30
+    time: "23:59"
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2026-08-11
+    time: "23:59"
+    tz: AoE
+    label: Cycle 1 initial
+  - kind: notification
+    date: 2026-09-01
+    time: "23:59"
+    tz: AoE
+    label: Cycle 1 final
+  - kind: abstract
+    date: 2026-12-03
+    time: "23:59"
+    tz: AoE
+    label: Cycle 2
+  - kind: submission
+    date: 2026-12-10
+    time: "23:59"
+    tz: AoE
+    label: Cycle 2
+  - kind: other
+    date: 2027-01-29
+    time: "23:59"
+    tz: AoE
+    label: Cycle 2 rebuttal (January 26 to 29)
+  - kind: notification
+    date: 2027-02-08
+    time: "23:59"
+    tz: AoE
+    label: Cycle 2 initial
+  - kind: other
+    date: 2027-02-22
+    time: "23:59"
+    tz: AoE
+    label: Cycle 2 revision submission
+  - kind: notification
+    date: 2027-03-01
+    time: "23:59"
+    tz: AoE
+    label: Cycle 2 final
+sources:
+- https://sigmod.org/pods-home/
+- https://2027.sigmod.org/calls_papers_pods_research.shtml
+- https://2027.sigmod.org/calls_papers_important_dates.shtml
+- https://2026.sigmod.org/calls_papers_pods_research.shtml
+- https://2026.sigmod.org/calls_papers_important_dates.shtml
+- https://2026.sigmod.org/
+- https://portal.core.edu.au/conf-ranks/?search=PODS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- PODS 2026 and 2027 acceptance rates
+- PODS-specific days within the joint SIGMOD/PODS week (dates given are the joint conference)
+- CCF rank read from the ccfddl mirror of the CCF 2026 list (database / data mining category, B)
+last_verified: 2026-10-31

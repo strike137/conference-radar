@@ -1,0 +1,70 @@
+id: envsys
+name: EnvSys
+full_name: International Workshop on Advances in Environmental Sensing Systems for Smart Cities
+type: workshop
+tier: minor
+areas: [networking, communications, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: University of Helsinki, co-located with ACM MobiSys
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://envsensys.github.io/2026/
+notes:
+- Workshop on IoT, wireless and AI systems for environmental monitoring in smart cities
+- Held with ACM MobiSys every year since 2023 (Helsinki 2023, Tokyo 2024, Anaheim 2025, Cambridge UK 2026)
+- Runs as a joint one-day workshop with NetAISys
+- Research papers up to 6 pages and challenge papers up to 4 pages including references, ACM format
+- Single-blind review by default, double-blind accepted if the authors prefer
+- Accepted papers are published in the ACM MobiSys workshop proceedings in the ACM Digital Library
+- Small workshop, 7 of 8 papers accepted in 2023 and 7 of 8 in 2025
+- Organized by the University of Helsinki
+- Not listed in ICORE2026 and not on the CCF 2026 list
+acceptance_rate: 88% (2025, 7/8)
+editions:
+- year: 2025
+  start: 2025-06-27
+  end: 2025-06-27
+  location: Anaheim, USA
+  url: https://envsensys.github.io/2025
+  deadlines:
+  - kind: submission
+    date: 2025-04-21
+    tz: AoE
+  - kind: notification
+    date: 2025-05-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-08
+    tz: AoE
+- year: 2026
+  start: 2026-06-25
+  end: 2026-06-25
+  location: Cambridge, UK
+  url: https://envsensys.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-15
+    tz: AoE
+  - kind: notification
+    date: 2026-04-24
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-30
+sources:
+- https://envsensys.github.io/2026/
+- https://envsensys.github.io/2025
+- https://blogs.helsinki.fi/envsys-2023/
+- https://www.sigmobile.org/mobisys/2026/accepted_workshops/
+- https://www.sigmobile.org/mobisys/2026/call_for_workshops/
+- https://portal.core.edu.au/conf-ranks/?search=EnvSys&by=all&source=ICORE2026
+unverified:
+- EnvSys 2027 dates and deadlines not announced yet
+- Deadline time of day (pages state AoE without a time)
+last_verified: 2026-10-31

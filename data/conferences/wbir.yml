@@ -1,0 +1,57 @@
+id: wbir
+name: WBIR
+full_name: International Workshop on Biomedical Image Registration
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: WBIR general chairs (2024 held as a MICCAI satellite workshop)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://wbir.info/
+  dblp: https://dblp.org/db/conf/wbir/index.html
+notes:
+- Workshop series on biomedical image registration (learning-based and classical registration, validation, motion modelling)
+- Accepted papers published in Springer LNCS (Biomedical Image Registration volumes)
+- Open review on OpenReview; papers are public during review and reviews are published afterwards
+- 2024 was the 11th edition, held as part of MICCAI 2024 in Marrakesh together with the Learn2Reg challenge
+- 'Past venues: London 2014, Las Vegas 2016, Leiden 2018, Portoroz 2020 (online), Munich 2022, Marrakesh 2024'
+- 2024 general chairs from King's College London, Sussex, Ljubljana, Erasmus MC, Radboud UMC and HKUST
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2024
+  start: 2024-10-06
+  end: 2024-10-06
+  location: Marrakesh, Morocco (MICCAI 2024)
+  url: https://wbir.info/
+  deadlines:
+  - kind: submission
+    date: 2024-06-27
+    time: "23:59"
+    tz: AoE
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2024-07-15
+  - kind: camera_ready
+    date: 2024-07-28
+sources:
+- https://wbir.info/
+- https://wbir.info/themenmenue/information/timeline/index.html
+- https://wbir.info/themenmenue/information/guidelines/index.html
+- https://wbir.info/themenmenue/people/general-chairs/index.html
+- https://wbir.info/themenmenue/history/history/index.html
+- https://link.springer.com/conference/wbir
+- https://conferences.miccai.org/2024/en/
+- https://conferences.miccai.org/2026/en/workshops.asp
+- https://portal.core.edu.au/conf-ranks/?search=WBIR&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2026 edition found; WBIR is not on the MICCAI 2026 workshop list and wbir.info still shows the 2024 edition
+- The 2024 location (Marrakesh) comes from the Springer proceedings page and the MICCAI 2024 site; wbir.info only names the room

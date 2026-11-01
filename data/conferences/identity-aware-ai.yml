@@ -1,0 +1,63 @@
+id: identity-aware-ai
+name: Identity-Aware AI
+full_name: Workshop on Ethical and Technical Challenges for Identity-Aware AI
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Organizing committee from University of Hamburg, University of Turin, University of Stuttgart, GESIS and University of Michigan
+organizer_country: [europe, usa]
+proceedings: ACL Anthology (2026); CEUR-WS (2025)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5, 10]
+links:
+  website: https://identity-aware-ai.github.io/
+notes:
+- Interdisciplinary workshop on how the identities of people behind and in texts should be handled in AI and NLP (perspectivism, fairness, bias, sociodemographics in LLMs)
+- 1st edition with ECAI 2025 in Bologna (proceedings CEUR-WS Vol-4136, 13 of 16 submissions accepted); 2nd edition with LREC 2026 in Palma de Mallorca
+- 2026 proceedings published by ELRA in the ACL Anthology (2026.iaai-1)
+- Papers 4 to 8 pages excluding references, LREC format, double-blind review
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 1st edition, with ECAI 2025
+  start: 2025-10-28
+  end: 2025-10-28
+  location: Bologna, Italy
+  url: https://identity-aware-ai.github.io/previous_workshops
+- year: 2026
+  label: 2nd edition, with LREC 2026
+  start: 2026-05-16
+  end: 2026-05-16
+  location: Palma de Mallorca, Spain
+  url: https://identity-aware-ai.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-25
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-03-25
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://identity-aware-ai.github.io/
+- https://identity-aware-ai.github.io/cfp
+- https://identity-aware-ai.github.io/author
+- https://identity-aware-ai.github.io/organization
+- https://identity-aware-ai.github.io/previous_workshops
+- https://ceur-ws.org/Vol-4136/
+- https://aclanthology.org/volumes/2026.iaai-1/
+- https://portal.core.edu.au/conf-ranks/?search=Identity&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2027 edition announced as of 2026-10-31
+- 2025 deadlines not checked

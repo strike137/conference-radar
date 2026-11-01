@@ -1,0 +1,53 @@
+id: trec
+name: TREC
+full_name: Text REtrieval Conference
+type: conference
+tier: minor
+areas: [data, nlp, ai]
+region: online
+language: english
+frequency: annual
+organizer: NIST (National Institute of Standards and Technology), Multimodal Language Technology Group
+organizer_country: [usa]
+proceedings: TREC Proceedings (NIST Special Publication, free online on the TREC site)
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [11]
+links:
+  website: https://trec.nist.gov/
+notes:
+- IR evaluation campaign run by NIST since 1992; the yearly cycle ends with a conference for track participants
+- Organizations register to take part in tracks (2026 tracks include RAG, RAGTIME, AutoJudge, Change Detection,
+  Million LLM, User Simulation and Video QA), submit runs in June to August and write a notebook paper in October
+- "No open call for papers: attendance requires registering as a participant"
+- Notebook papers are revised for the TREC Proceedings (due January or early February); TREC states they are not
+  peer-reviewed and equal unreviewed working papers, so the venue is non-archival
+- Held at NIST in Gaithersburg, MD, USA until 2019; online from 2020 to 2025; 2026 back in person at NIST with a
+  remote attendance option
+- Peer of NTCIR (Japan) and CLEF (Europe)
+- Not listed in ICORE2026 or the CCF 2026 list
+- Region is online because the last six held editions (2020 to 2025) were online; 2026 returns to NIST
+editions:
+- year: 2025
+  start: 2025-12-10
+  end: 2025-12-11
+  location: Online
+  url: https://trec.nist.gov/publications.html
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-18
+  location: NIST, Gaithersburg, MD, USA (with remote attendance)
+  url: https://trec.nist.gov/cfp.html
+sources:
+- https://trec.nist.gov/
+- https://trec.nist.gov/cfp.html
+- https://trec.nist.gov/about.html
+- https://trec.nist.gov/howto.html
+- https://trec.nist.gov/publications.html
+- https://portal.core.edu.au/conf-ranks/?search=TREC&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Text+Retrieval&by=all&source=ICORE2026
+unverified:
+- Per-track run and notebook paper deadlines for 2026 are only in the track guidelines (not checked)
+- TREC 2027 dates not announced (participation starts early 2027)
+last_verified: 2026-10-31

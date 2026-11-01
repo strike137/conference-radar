@@ -1,0 +1,64 @@
+id: emc2
+name: EMC2
+full_name: Workshop on Energy Efficient Machine Learning and Cognitive Computing
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: EMC2 organizing committee (industry researchers from d-Matrix, Google, Meta and Intel); co-located with ASPLOS, HPCA or AAAI
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [2, 3]
+links:
+  website: https://www.emc2-ai.org/
+notes:
+- Workshop on efficient machine learning, ML hardware and sustainable AI computing; 12th edition in 2027
+- Host conference changes; ASPLOS 2026 (Pittsburgh), HPCA 2025 (Las Vegas), ASPLOS 2024 (San Diego), AAAI 2023 (Washington DC), AAAI 2027 (Montreal)
+- Peer-reviewed papers, including work in progress; proceedings published independently through IEEE CPS and listed in IEEE Xplore
+- Runs an EMC2 competition alongside the workshop (Speculative Decoding Championship in 2027)
+- Follows the formatting and duplicate submission rules of the host conference
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-03-22
+  end: 2026-03-22
+  location: Pittsburgh, USA
+  url: https://www.emc2-ai.org/asplos-26
+- year: 2027
+  start: 2027-02-22
+  end: 2027-02-23
+  location: Montreal, Canada
+  url: https://www.emc2-ai.org/aaai-27
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-12-25
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2027-01-15
+    time: "23:59"
+    tz: PST
+sources:
+- https://www.emc2-ai.org/
+- https://www.emc2-ai.org/aaai-27
+- https://www.emc2-ai.org/submission
+- https://www.emc2-ai.org/asplos-26
+- https://www.emc2-ai.org/hpca-25
+- https://www.emc2-ai.org/previous-editions
+- https://www.emc2-ai.org/program-committee
+- https://ieeexplore.ieee.org/xpl/conhome/1826546/all-proceedings
+- https://www.asplos-conference.org/asplos2026/workshops-and-tutorials.html
+- https://portal.core.edu.au/conf-ranks/?search=EMC2&by=all&source=ICORE2026
+unverified:
+- Exact 2027 workshop day (the site says "Monday/Tuesday, February 22/23, 2027")
+- Whether the 2027 (AAAI) papers will also go to IEEE Xplore (the AAAI 2027 call does not mention proceedings)
+- 2026 (ASPLOS) deadlines not shown on the archived edition page
+- Not in the CCF 2026 list as far as checked
+- Acceptance rate and fee not published (registration goes through the host conference)
+last_verified: 2026-10-31

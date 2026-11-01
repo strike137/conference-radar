@@ -1,0 +1,70 @@
+id: qcrypt
+name: QCrypt
+full_name: Annual International Conference on Quantum Cryptography
+type: conference
+tier: major
+areas: [crypto, security, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: 'QCrypt Steering Committee with a local host each year (2026: University of Ottawa)'
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [3, 4]
+  conference_months: [8, 9]
+links:
+  website: https://qcrypt.net/
+notes:
+- Main yearly conference of the quantum cryptography community (QKD, quantum protocols, quantum-secure computation), theory and experiment; founded 2011
+- Steering committee picks the host and PC chairs and rotates the venue across continents (Amsterdam 2021 online, Taiwan 2022, Maryland 2023, Vigo 2024, Sanya 2025, Ottawa 2026, Vienna 2027)
+- Submission is a 2 to 3 page extended abstract, selected for a contributed talk or a poster; separate later poster-only deadline
+- "No published proceedings: results may be published elsewhere, but contributed talks are highly competitive (32 contributed talks in 2026)"
+- Student paper prize awarded since 2012; talks are recorded and posted on the site
+- Held in person; usually one week (Monday to Friday) in August or September
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-28
+  location: University of Ottawa, Ottawa, Canada
+  url: https://qcrypt.net/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-13
+    time: "23:59"
+    tz: AoE
+    label: Talks
+  - kind: notification
+    date: 2026-04-03
+    time: "23:59"
+    tz: AoE
+    label: Early poster notification
+  - kind: submission
+    date: 2026-05-01
+    time: "23:59"
+    tz: AoE
+    label: Poster-only
+  - kind: notification
+    date: 2026-05-15
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-08-23
+  end: 2027-08-27
+  location: Vienna, Austria
+  url: https://qcrypt.net/2026/2027/
+  deadlines: []
+sources:
+- https://qcrypt.net/
+- https://qcrypt.net/2026/technical/call/
+- https://qcrypt.net/2026/charter/
+- https://qcrypt.net/2026/history/
+- https://qcrypt.net/2026/2027/
+- https://qcrypt.net/2025/
+- http://2024.qcrypt.net/
+- https://portal.core.edu.au/conf-ranks/?search=QCrypt&by=all&source=ICORE2026
+unverified:
+- QCrypt 2027 (Vienna) deadlines and website not announced as of 2026-10-31; the 2028 host is still being selected (letters of intent due 2026-11-01)
+last_verified: 2026-10-31

@@ -1,0 +1,61 @@
+id: genbench
+name: GenBench
+full_name: GenBench Workshop on Generalisation (Benchmarking) in NLP
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: GenBench team (2024 organizers from Meta, University of Edinburgh, Openstream.ai, McGill University and Mila, Amazon
+  Research Cambridge and ETH Zurich); co-located with EMNLP
+organizer_country: [europe, usa, canada]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [8]
+  conference_months: [11, 12]
+links:
+  website: https://genbench.org/workshop/
+notes:
+- Workshop on generalisation in NLP and how to evaluate it, especially for LLMs; grew out of the GenBench taxonomy project
+- Held with EMNLP 2023 (Singapore) and EMNLP 2024 (Miami)
+- Runs a Collaborative Benchmarking Task alongside regular papers (2024 task on distribution shift for MMLU, HumanEval and
+  SiQA)
+- Archival papers up to 8 pages; non-archival extended abstracts up to 2 pages; double-blind review on OpenReview
+- Proceedings in the ACL Anthology (14 papers in 2024, 19 in 2023)
+- Amazon sponsored a best paper award and five student travel scholarships of up to 750 USD (2024)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  label: 2nd edition, with EMNLP 2024
+  start: 2024-11-16
+  end: 2024-11-16
+  location: Miami, Florida, USA
+  url: https://genbench.org/workshop/
+  deadlines:
+  - kind: submission
+    date: 2024-08-18
+    time: "23:59"
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2024-09-20
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-10-04
+    time: "23:59"
+    tz: AoE
+sources:
+- https://genbench.org/workshop/
+- https://genbench.org/team/
+- https://aclanthology.org/venues/genbench/
+- https://aclanthology.org/volumes/2023.genbench-1/
+- https://portal.core.edu.au/conf-ranks/?search=GenBench&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Generalisation&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- 2024 important dates were labelled tentative on the workshop page
+- No 2025 or 2026 edition found (no newer volume in the ACL Anthology as of October 2026); next edition not announced

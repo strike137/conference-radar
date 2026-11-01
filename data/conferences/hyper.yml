@@ -1,0 +1,52 @@
+id: hyper
+name: HYPER
+full_name: 'Workshop on Hyperproperties: Advances in Theory and Applications'
+type: workshop
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs of each edition; website hosted by CISPA Helmholtz Center for Information Security
+organizer_country: [international]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://hyperworkshop26.cispa.io
+notes:
+- One-day workshop on hyperproperties (information-flow policies, noninterference, robustness, fairness) for the formal methods, security and machine learning communities
+- Co-located with CAV (2023, Montreal 2024, Zagreb 2025, Lisbon 2026 at FLoC, Amsterdam 2027)
+- Call for presentations, extended abstracts of up to 3 pages (LNCS format), single-blind review; overlap with published work is allowed
+- No formal proceedings are mentioned on the site; 2024 invited selected submissions to an Acta Informatica topical collection
+- Editions so far 2021, 2023, 2024, 2025, 2026; 2027 is the 6th edition
+editions:
+- year: 2026
+  start: 2026-07-24
+  end: 2026-07-24
+  location: Lisbon, Portugal (FLoC 2026)
+  url: https://hyperworkshop26.cispa.io
+  deadlines:
+  - kind: submission
+    date: 2026-05-08
+    tz: AoE
+- year: 2027
+  start: 2027-07-19
+  end: 2027-07-19
+  location: Amsterdam, Netherlands (with CAV 2027)
+  url: https://hyperworkshop27.cispa.io
+sources:
+- https://hyperworkshop26.cispa.io
+- https://hyperworkshop27.cispa.io
+- https://hyperworkshop25.cispa.io
+- https://hyperworkshop24.cispa.io
+- https://hyperworkshop23.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=HYPER&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No proceedings statement on the site; treated as talks only because the call asks for presentation abstracts that may overlap with published work
+- HYPER 2027 submission deadline not announced yet
+- HYPER 2021 site (hyperproperties.soe.ucsc.edu) could not be reached, and the 2023 site does not name the city, so those locations were not checked
+- Not listed in CORE ICORE2026 and not in the CCF 2026 list

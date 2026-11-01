@@ -1,0 +1,91 @@
+id: indoml
+name: IndoML
+full_name: Indian Symposium on Machine Learning
+type: conference
+tier: minor
+areas: [ai, nlp, vision]
+region: south-asia
+language: english
+frequency: annual
+organizer: Rotating Indian host institute (2026 IIT Kharagpur with APPCAIR and Dept of CSIS, BITS Pilani; 2025 BITS
+  Pilani Hyderabad Campus)
+organizer_country: [india]
+proceedings: None
+archival: false
+fee: 'INR 15,000 regular (faculty, postdocs, industry); INR 2,500 for shortlisted Graduate Forum students (2026)'
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://indoml.in/
+notes:
+- Indian national machine learning symposium built around 20+ invited talks from Indian and overseas researchers,
+  plus student mentoring; started online in 2020, held every year since
+- Hosts so far 2020 and 2021 virtual, 2022 IIT Gandhinagar, 2023 IIT Bombay, 2024 BITS Pilani Goa, 2025 BITS Pilani
+  Hyderabad, 2026 IIT Kharagpur Kolkata Extension Centre
+- No paper track; Graduate Forum (MTech/MS/PhD students in India) and Undergraduate Forum take 2-page extended
+  abstracts with a signed faculty recommendation via Microsoft CMT, presented as posters and spotlight talks
+- Graduate Forum accepts already published work as well as work in progress; top five presenters share INR 50,000
+  in prizes and selected students get travel, meal and accommodation support
+- Early Career Researcher Forum for postdocs, final-year PhD students abroad and early-career faculty (8-minute
+  talks, Google Form application); also a datathon with an INR 200,000 prize pool, open to people based in India
+- Not listed in the CORE ICORE2026 portal and not on the CCF list
+- Graduate Forum is limited to students enrolled in India and the datathon to people based in India, so it is mainly
+  useful for India-based labs
+editions:
+- year: 2025
+  label: IndoML 2025 (6th)
+  start: 2025-12-19
+  end: 2025-12-21
+  location: BITS Pilani Hyderabad Campus, Hyderabad, India
+  url: https://indoml.in/2025/
+- year: 2026
+  label: IndoML 2026 (7th)
+  start: 2026-12-18
+  end: 2026-12-20
+  location: IIT Kharagpur Kolkata Extension Centre, Rajarhat, Kolkata, India
+  url: https://indoml.in/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    label: Graduate Forum (extended)
+  - kind: submission
+    date: 2026-09-15
+    label: Early Career Researcher Forum application
+  - kind: submission
+    date: 2026-09-15
+    label: Undergraduate Forum
+  - kind: other
+    date: 2026-09-24
+    time: "23:59"
+    tz: IST
+    label: Datathon Track 2 material deadline
+  - kind: notification
+    date: 2026-09-30
+    label: Early Career Researcher Forum
+  - kind: notification
+    date: 2026-10-30
+    label: Undergraduate Forum
+  - kind: notification
+    date: 2026-10-31
+    label: Graduate Forum poster/spotlight decision
+  - kind: camera_ready
+    date: 2026-11-30
+    label: Graduate Forum final slide/poster upload
+sources:
+- https://indoml.in/
+- https://indoml.in/archives
+- https://indoml.in/graduate-forum
+- https://indoml.in/undergraduate-forum
+- https://indoml.in/early-career-researcher-forum
+- https://indoml.in/datathon
+- https://indoml.in/registration
+- https://indoml.in/2025/
+- https://portal.core.edu.au/conf-ranks/?search=IndoML&by=all&source=ICORE2026
+unverified:
+- The 2026 registration page lists "Conference kit & proceedings" for regular registrants, but no forum page says
+  the abstracts are published; treated as non-archival
+- Original (pre-extension) Graduate Forum deadline
+- IndoML 2027 host and dates
+last_verified: 2026-10-31

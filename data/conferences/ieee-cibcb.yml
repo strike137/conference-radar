@@ -1,0 +1,98 @@
+id: ieee-cibcb
+name: IEEE CIBCB
+full_name: IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computational Intelligence Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://attend.ieee.org/cibcb-2027/
+notes:
+- Flagship IEEE CIS conference on computational intelligence and machine learning for bioinformatics, computational biology and biomedical engineering
+- 24th edition in 2027
+- Accepted and presented papers are submitted to IEEE Xplore
+- In 2025 short papers appeared only on the conference website, not in IEEE Xplore
+- Full papers up to 8 pages (oral), short papers up to 2 pages (poster), IEEE two-column format
+- 2027 edition adds a pre-conference PhD competition and hackathon day
+- CORE ICORE2026 rank C (listed as IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology); not on the CCF 2026 list
+editions:
+- year: 2027
+  start: 2027-08-31
+  end: 2027-09-03
+  location: Milan, Italy
+  url: https://attend.ieee.org/cibcb-2027/
+  deadlines:
+  - kind: other
+    date: 2027-01-29
+    time: "23:59"
+    tz: AoE
+    label: Special session proposals
+  - kind: other
+    date: 2027-02-19
+    time: "23:59"
+    tz: AoE
+    label: Tutorial and workshop proposals
+  - kind: submission
+    date: 2027-04-02
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2027-05-21
+    label: Full papers
+  - kind: submission
+    date: 2027-06-11
+    time: "23:59"
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2027-06-18
+    label: Short papers
+  - kind: camera_ready
+    date: 2027-06-25
+    time: "23:59"
+    tz: AoE
+- year: 2025
+  start: 2025-08-20
+  end: 2025-08-22
+  location: Tainan, Taiwan
+  url: https://easychair.org/cfp/cibcb2025
+  deadlines:
+  - kind: other
+    date: 2025-01-31
+    label: Special session and tutorial proposals
+  - kind: submission
+    date: 2025-04-20
+    label: Full papers
+  - kind: notification
+    date: 2025-06-10
+  - kind: submission
+    date: 2025-06-17
+    label: Short papers
+  - kind: camera_ready
+    date: 2025-06-30
+sources:
+- https://attend.ieee.org/cibcb-2027/
+- https://attend.ieee.org/cibcb-2027/call-for-papers/
+- https://attend.ieee.org/cibcb-2027/important-dates/
+- https://attend.ieee.org/cibcb-2027/organizing-committee/
+- https://cis.ieee.org/conferences/conference-calendar
+- https://portal.core.edu.au/conf-ranks/?search=CIBCB&by=all&source=ICORE2026&sort=atitle&page=1
+- https://easychair.org/cfp/cibcb2025
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- 2026 edition (reported as 2026-08-31 to 2026-09-02, Athens, Greece) not added because the official site cibcb2026.dib.uth.gr was unreachable when checked; region worldwide also relies on unverified 2022 to 2024 locations (Ottawa, Eindhoven, Natal)
+- Main conference days are 2027-09-01 to 2027-09-03; 2027-08-31 is the pre-conference PhD competition and hackathon day
+- Acceptance rate not stated on the official site
+last_verified: 2026-10-31

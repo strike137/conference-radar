@@ -1,0 +1,59 @@
+id: socalnlp
+name: SoCalNLP
+full_name: Southern California Natural Language Processing Symposium
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Southern California NLP groups (USC, UCLA, UCSD and others; host rotates)
+organizer_country: [usa]
+proceedings: None (accepted work listed on the symposium site)
+archival: false
+typical:
+  deadline_months: [10, 11]
+  conference_months: [11]
+links:
+  website: https://socalnlp.github.io/symp26/
+notes:
+- One-day regional NLP and ML symposium for researchers in Southern California, with keynotes and poster sessions
+- Editions in 2018, 2019, 2021 (as SoCal ML & NLP Symposium), 2022, 2023 (UCLA), 2024 (UCSD) and 2026 (USC)
+- Non-archival; already published or concurrently submitted work is welcome
+- Submissions via OpenReview; new work as an extended summary of up to 2 pages in ACL format; single-blind review
+- Large poster program (155 accepted in 2023, 166 in 2024); registration limited by venue capacity
+- Not listed in CORE ICORE2026
+editions:
+- year: 2024
+  start: 2024-11-22
+  end: 2024-11-22
+  location: UC San Diego, La Jolla, CA, USA
+  url: https://socalnlp.github.io/symp24/
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-20
+  location: USC Ginsburg Hall Auditorium, Los Angeles, CA, USA
+  url: https://socalnlp.github.io/symp26/
+  deadlines:
+  - kind: submission
+    date: 2026-11-05
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-11-10
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-11-15
+    time: "23:59"
+    tz: AoE
+    label: Registration deadline
+sources:
+- https://socalnlp.github.io/symp26/
+- https://socalnlp.github.io/symp24/
+- https://socalnlp.github.io/symp23/
+- https://portal.core.edu.au/conf-ranks/?search=SoCalNLP&by=all&source=ICORE2026
+unverified:
+- No 2025 edition is listed among the past symposiums
+- Registration fee not stated
+last_verified: 2026-10-31

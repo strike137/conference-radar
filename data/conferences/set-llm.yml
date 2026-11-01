@@ -1,0 +1,53 @@
+id: set-llm
+name: SeT-LLM
+full_name: Workshop on Secure and Trustworthy Large Language Models
+type: workshop
+tier: minor
+areas: [security, ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: SeT-LLM organizers (Penn State, Stony Brook, USC, JHU, MBZUAI, Amazon in 2026), co-located with ACM SIGKDD (2026) and ICLR (2024)
+organizer_country: [usa]
+proceedings: None (non-archival; accepted papers posted on OpenReview)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [8]
+links:
+  website: https://secure-and-trustworthy-llm.github.io/
+notes:
+- Workshop on LLM security and trustworthiness (prompt injection, jailbreaks, privacy leakage, robustness,
+  alignment, agent security)
+- 1st edition at ICLR 2024 in Vienna; 2nd edition at KDD 2026 in Jeju, Korea (half day)
+- Papers up to 4 pages plus references and appendix in the ACM two-column format, double-blind review on OpenReview
+- Non-archival; accepted papers are made public on OpenReview and are not in the KDD proceedings
+- Concurrent submission to other venues is allowed
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-08-10
+  end: 2026-08-10
+  location: Jeju, South Korea (with KDD 2026)
+  url: https://secure-and-trustworthy-llm.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+    tz: AoE
+  - kind: notification
+    date: 2026-07-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-17
+    tz: AoE
+sources:
+- https://secure-and-trustworthy-llm.github.io/
+- https://openreview.net/group?id=KDD.org/2026/Workshop/SeT-LLM
+- https://kdd2026.kdd.org/workshops/
+- https://set-llm.github.io/
+- https://iclr.cc/virtual/2024/workshop/20577
+- https://portal.core.edu.au/conf-ranks/?search=SeT-LLM&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Deadline time of day (the page states AoE but no time)
+- No 2025 edition found; SeT-LLM 2027 not announced and the host conference may change

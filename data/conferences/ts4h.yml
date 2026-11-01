@@ -1,0 +1,57 @@
+id: ts4h
+name: TS4H
+full_name: Learning from Time Series for Health Workshop
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: TS4H workshop organizers (UIUC, MIT and University of Washington researchers in 2025); co-located with NeurIPS or ICLR
+organizer_country: [usa]
+proceedings: None (non-archival; accepted papers posted on OpenReview)
+archival: false
+typical:
+  deadline_months: [1, 9]
+  conference_months: [4, 12]
+links:
+  website: https://timeseries4health.github.io/
+notes:
+- ML workshop on time series in healthcare (wearables, sensors, medical waveforms, EHR), covering methods, foundation models, multimodal learning and clinical deployment
+- "Editions: NeurIPS 2022, ICLR 2024, NeurIPS 2025 (San Diego)"
+- Short papers up to 4 pages in the host conference template, double-blind review on OpenReview; in-person presentation required
+- Non-archival with no formal proceedings; papers can be submitted elsewhere later
+- ML4H-to-TS4H cross-submission track for full 9-page papers accepted at ML4H
+- 96 papers accepted in 2025; 500 USD best paper prize sponsored by Google and Apple
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  label: NeurIPS 2025 workshop
+  start: 2025-12-07
+  end: 2025-12-07
+  location: San Diego Convention Center, San Diego, CA, USA (co-located with NeurIPS 2025)
+  url: https://timeseries4health.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-09-02
+    tz: AoE
+    label: Extended from Aug 22 and Sep 1
+  - kind: notification
+    date: 2025-09-22
+  - kind: camera_ready
+    date: 2025-11-23
+    tz: AoE
+sources:
+- https://timeseries4health.github.io/
+- https://timeseries4health.github.io/call_for_papers.html
+- https://timeseries4health.github.io/schedule.html
+- https://timeseries4health.github.io/iclr2026/index.html
+- https://timeseries4health.github.io/iclr2026/call_for_papers.html
+- https://timeseries4health.github.io/iclr2026/schedule.html
+- https://iclr.cc/virtual/2026/events/workshop
+- https://neurips.cc/virtual/2026/events/workshop
+- https://portal.core.edu.au/conf-ranks/?search=TS4H&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- The site has an ICLR 2026 page (Rio de Janeiro, deadline Jan 30 2026, workshop Apr 28 or 29), but TS4H is not in the official ICLR 2026 workshop list or on OpenReview, so no 2026 edition is recorded
+- No NeurIPS 2026 edition found in the NeurIPS 2026 workshop list

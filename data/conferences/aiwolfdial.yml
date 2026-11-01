@@ -1,0 +1,66 @@
+id: aiwolfdial
+name: AIWolfDial
+full_name: International Workshop on AI Werewolf and Dialog Systems
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AIWolf Project (Yoshinobu Kano, Shizuoka University, with members from UEC, Keio, Tokyo and other Japanese
+  universities); co-located with INLG
+organizer_country: [japan]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [9, 10]
+links:
+  website: https://aiwolfdial.github.io/aiwolf-nlp/en/page/inlg_2026/
+notes:
+- Workshop on LLM dialogue agents and game AI using the Werewolf social deduction game, with an international AIWolf
+  agent contest as its shared task
+- Run by the Japanese AIWolf Project; contact is Yoshinobu Kano (Shizuoka University)
+- Co-located with INLG; editions in 2019 (Tokyo), 2024 (Tokyo), 2025 (Hanoi) and 2026 (Utrecht); held every year since
+  2024
+- Proceedings of the 2019, 2024 and 2025 editions in the ACL Anthology
+- Long (8 pages) and short (4 pages) peer-reviewed papers in ACL format; contest team descriptions are non-archival
+- Half-day workshop, hybrid in 2026; papers rejected from the INLG main conference may be resubmitted
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 3rd edition, with INLG 2025
+  start: 2025-10-30
+  end: 2025-10-30
+  location: Hanoi, Vietnam (co-located with INLG 2025)
+  url: https://aiwolfdial.github.io/aiwolf-nlp/en/page/inlg_2025/
+- year: 2026
+  label: 4th edition, with INLG 2026
+  start: 2026-10-17
+  end: 2026-10-17
+  location: Utrecht, Netherlands (co-located with INLG 2026)
+  url: https://aiwolfdial.github.io/aiwolf-nlp/en/page/inlg_2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+    tz: AoE
+    label: Workshop papers (extended)
+  - kind: notification
+    date: 2026-09-07
+  - kind: camera_ready
+    date: 2026-09-15
+sources:
+- https://aiwolfdial.github.io/aiwolf-nlp/en/page/inlg_2026/
+- https://aiwolfdial.github.io/aiwolf-nlp/en/menu/inlg_2026_en/paper_submission/
+- https://aiwolfdial.github.io/aiwolf-nlp/en/menu/inlg_2026_en/program/
+- https://aiwolfdial.github.io/aiwolf-nlp/en/menu/inlg_2026_en/organizer/
+- https://aiwolfdial.github.io/aiwolf-nlp/en/page/inlg_2025/
+- https://aclanthology.org/venues/aiwolfdial/
+- https://aclanthology.org/volumes/2025.aiwolfdial-1/
+- https://portal.core.edu.au/conf-ranks/?search=AIWolfDial&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Where the 2026 workshop papers will be published is not stated on the official site (earlier editions are in the ACL
+  Anthology)
+- 2025 workshop paper deadlines not found on the official site
+- AIWolfDial 2027 not announced yet

@@ -1,0 +1,74 @@
+id: fmas
+name: FMAS
+full_name: International Workshop on Formal Methods for Autonomous Systems
+type: workshop
+tier: minor
+areas: [software, ai]
+region: europe
+language: english
+frequency: annual
+organizer: FMAS Steering Committee (sponsored by Formal Methods Europe)
+organizer_country: [europe]
+proceedings: EPTCS
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://fmasworkshop.github.io/
+  dblp: https://dblp.org/db/conf/fmas/index.html
+notes:
+- Peer-reviewed academic workshop (at least three reviews per paper) on formal specification and verification of autonomous and robotic systems
+- Organised by researchers from UK, German and Irish universities; steering committee at the Universities of Nottingham and Manchester
+- Proceedings in EPTCS (FMAS 2025 -> EPTCS volume 436); a journal special issue collects extended papers
+- 'Satellite of SEFM 2022 (Berlin), iFM 2023 to 2025 (Leiden, Manchester, Paris) and ICFEM 2026 (Southampton)'
+- Short papers (vision, research preview) up to 6 pages and long papers (regular, experience report) up to 15 pages, EPTCS style
+- Remote participation is free, but one author per paper must pay for on-site registration; FME-sponsored student registration waivers
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-19
+  location: Inria Paris Center, Paris, France
+  url: https://fmasworkshop.github.io/FMAS2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-28
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-10-06
+  - kind: camera_ready
+    date: 2025-10-17
+- year: 2026
+  start: 2026-11-17
+  end: 2026-11-18
+  location: Southampton, UK
+  url: https://fmasworkshop.github.io/FMAS2026/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-08-14
+    tz: AoE
+  - kind: submission
+    date: 2026-08-20
+    tz: AoE
+  - kind: notification
+    date: 2026-10-06
+  - kind: camera_ready
+    date: 2026-10-17
+sources:
+- https://fmasworkshop.github.io/
+- https://fmasworkshop.github.io/FMAS2026/
+- https://fmasworkshop.github.io/FMAS2025/
+- https://fmasworkshop.github.io/FMAS2024/
+- https://fmasworkshop.github.io/FMAS2023/
+- https://fmasworkshop.github.io/FMAS2022/
+- https://fmasworkshop.github.io/organisation.html
+- https://portal.core.edu.au/conf-ranks/?search=FMAS&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- FMAS 2025 original (pre-extension) submission deadline unclear; the page shows "22nd 28th August 2025" under Extended Submission
+- FMAS 2026 proceedings venue stated as intended (EPTCS), not yet confirmed
+- CCF list not checked on ccf.org.cn directly; FMAS is not known to be on it
+- Indexing, acceptance rate and registration fee not stated on the workshop site

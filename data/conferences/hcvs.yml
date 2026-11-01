@@ -1,0 +1,66 @@
+id: hcvs
+name: HCVS
+full_name: Workshop on Horn Clauses for Verification and Synthesis
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: HCVS program chairs (series site hosted at the University of Chieti-Pescara)
+organizer_country: [europe]
+proceedings: EPTCS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://www.sci.unich.it/hcvs26/
+notes:
+- Workshop on constrained Horn clauses for program analysis, verification and synthesis, bridging constraint/logic programming, program verification and automated deduction
+- Held since 2014; HCVS 2026 was the 13th edition
+- Satellite of ETAPS (2016, 2019 to 2024), CAV (2015, 2025, 2026 at FLoC), CADE (2017), FLoC 2018 or VSL 2014; mostly held in Europe
+- Regular papers up to 12 pages and tool papers up to 4 pages in EPTCS format, extended abstracts and presentation-only papers; all refereed
+- Proceedings in EPTCS (HCVS 2021 -> EPTCS 344, HCVS 2022 -> EPTCS 373 jointly with VPT, HCVS 2025 -> EPTCS 434), published only if enough regular papers are accepted; EPTCS states it is not publishing proceedings for HCVS 2023 and HCVS 2024
+- Includes the presentation of the CHC-COMP solver competition results
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 12th HCVS
+  start: 2025-07-22
+  end: 2025-07-22
+  location: Zagreb, Croatia (co-located with CAV 2025)
+  url: https://www.sci.unich.it/hcvs25/
+  deadlines:
+  - kind: submission
+    date: 2025-05-30
+    tz: AoE
+    label: Extended from 2025-05-16
+- year: 2026
+  label: 13th HCVS
+  start: 2026-07-25
+  end: 2026-07-25
+  location: Lisbon, Portugal (FLoC 2026, affiliated with CAV 2026)
+  url: https://www.sci.unich.it/hcvs26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-14
+    tz: AoE
+    label: Extended from 2026-05-07
+sources:
+- https://www.sci.unich.it/hcvs26/
+- https://www.sci.unich.it/hcvs25/
+- https://www.sci.unich.it/hcvs24/
+- https://www.sci.unich.it/hcvs23/
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?HCVS2025
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?HCVS2022
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?HCVS2021
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?HCVS2024
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?HCVS2023
+- https://portal.core.edu.au/conf-ranks/?search=HCVS&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- Notification dates given only as "mid June 2025" and "end of May 2026"
+- HCVS 2026 EPTCS volume not found as of 2026-10-31; the 2026 call says only that papers are published electronically if enough regular papers are accepted
+- HCVS 2027 not announced on an official page as of 2026-10-31
+- No steering committee is named on the workshop site

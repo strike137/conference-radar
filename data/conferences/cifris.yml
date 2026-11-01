@@ -1,0 +1,59 @@
+id: cifris
+name: CIFRIS
+full_name: CIFRIS - De Cifris National Conference on Cryptography
+type: conference
+tier: domestic
+areas: [crypto, security]
+region: europe
+language: mixed
+frequency: annual
+organizer: De Cifris (De Componendis Cifris) with Roma Tre University
+organizer_country: [europe]
+proceedings: De Cifris Koine (two-page abstracts, De Cifris Press)
+archival: false
+typical:
+  conference_months: [9, 10]
+links:
+  website: https://www.decifris.it/cifris26/
+notes:
+- National cryptography conference of the Italian association De Cifris, held in or near Rome since 2023 (CIFRIS23 in
+  December 2023, CIFRIS24 in Frascati in September 2024, CIFRIS25 and CIFRIS26 at Roma Tre University)
+- One-day format in 2026 - morning session for institutional and industry stakeholders (in Italian), scientific session
+  of invited talks, then parallel workshops in the afternoon
+- Permanent workshops on applied cryptography, number theory, post-quantum cryptography and symmetric/code-based
+  cryptography, plus an open workshop
+- Each workshop talk gets a two-page abstract in the De Cifris Koine book series; the full paper can still be published
+  elsewhere
+- Koine is open access with no author fees but is not indexed (not in Scopus), so the venue is marked non-archival here
+- Italian national cybersecurity agency (ACN) was the cooperating body in 2025 and co-chairs the 2026 organizing committee
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-09-11
+  end: 2025-09-12
+  location: Roma Tre University, Rome, Italy
+  url: https://www.decifris.it/cifris25/
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-05
+  location: Rettorato, Roma Tre University, Rome, Italy
+  url: https://www.decifris.it/cifris26/
+  deadlines:
+  - kind: camera_ready
+    date: 2026-09-04
+    label: Two-page abstract for Koine (accepted workshop talks)
+sources:
+- https://www.decifris.it/cifris26/
+- https://www.decifris.it/cifris26/program
+- https://www.decifris.it/cifris26/workshops
+- https://www.decifris.it/cifris26/proceedings
+- https://www.decifris.it/cifris26/registration
+- https://www.decifris.it/cifris25/
+- https://www.decifris.it/cifris25/proceedings
+- https://www.decifris.it/cifris24/
+- https://www.decifris.it/cifris23/
+- https://portal.core.edu.au/conf-ranks/?search=CIFRIS&by=all&source=ICORE2026
+unverified:
+- Talk submission deadlines for the workshops are not given on the CIFRIS pages
+- CIFRIS27 not yet announced
+last_verified: 2026-10-31

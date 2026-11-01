@@ -1,0 +1,63 @@
+id: humeval
+name: HumEval
+full_name: Workshop on Human Evaluation of NLP Systems
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: HumEval organisers (2024 from Charles University, ADAPT Centre / Dublin City University, University of Aberdeen
+  and New York University); co-located with ACL-family and European NLP conferences
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [2, 3]
+  conference_months: [4, 5]
+links:
+  website: https://humeval.github.io/
+notes:
+- Workshop on human evaluation of NLP systems, covering experimental design, agreement, reproducibility and meta-evaluation
+  of metrics
+- Held at EACL 2021 (online), ACL 2022 (Dublin), RANLP 2023 (Varna) and LREC-COLING 2024 (Turin)
+- Hosts the ReproNLP shared task on reproducing human evaluations
+- Long papers up to 8 pages and short papers up to 4 pages; multiple submissions allowed if declared
+- Proceedings in the ACL Anthology (26 papers in 2024, 16 in 2023)
+- No edition announced after 2024 (as of 2026-10-31)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  start: 2024-05-21
+  end: 2024-05-21
+  location: Turin, Italy (co-located with LREC-COLING 2024)
+  url: https://humeval.github.io/
+  deadlines:
+  - kind: submission
+    date: 2024-03-11
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2024-04-04
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-04-19
+    time: "23:59"
+    tz: AoE
+sources:
+- https://humeval.github.io/
+- https://humeval.github.io/2024/call-for-papers/
+- https://humeval.github.io/2024/committees/
+- https://humeval.github.io/2023/
+- https://humeval.github.io/2022/
+- https://humeval.github.io/2021/
+- https://aclanthology.org/venues/humeval/
+- https://portal.core.edu.au/conf-ranks/?search=HumEval&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-10-31
+unverified:
+- No 2025 or 2026 edition found on humeval.github.io or in the ACL Anthology; whether the series continues
+- Region based on only four editions (three in Europe, one online)

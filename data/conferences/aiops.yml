@@ -1,0 +1,61 @@
+id: aiops
+name: AIOps
+full_name: Workshop on Cloud Intelligence / AIOps
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Cloud Intelligence / AIOps workshop organizers (steering committee chaired by Microsoft, with NVIDIA, IBM, Queen's University and CUHK members)
+organizer_country: [international]
+proceedings: Workshop website
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [3, 4, 5]
+links:
+  website: https://cloudintelligenceworkshop.org/
+notes:
+- Workshop on AI and ML for efficient and manageable cloud services (scheduling, anomaly detection, incident management, LLMs for cloud ops); 7th edition in 2026
+- Host conference changes; ASPLOS 2026 (Pittsburgh), ICSE 2025 (Ottawa), ASPLOS 2024 (San Diego), ICSE 2023 (Melbourne), MLSys 2022 (Santa Clara)
+- Non-archival; accepted papers are listed and posted as PDFs on the workshop website (2026 template uses the nonacm option)
+- Double-blind review; technical papers up to 6 pages, 1-page abstracts, 2-page project and dataset showcases
+- Run largely by Microsoft researchers; strong industry participation
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-03-22
+  end: 2026-03-22
+  location: Pittsburgh, USA
+  url: https://cloudintelligenceworkshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-08
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-02-22
+  - kind: camera_ready
+    date: 2026-03-16
+sources:
+- https://cloudintelligenceworkshop.org/
+- https://cloudintelligenceworkshop.org/CFP.html
+- https://cloudintelligenceworkshop.org/organizers.html
+- https://cloudintelligenceworkshop.org/accepted-papers.html
+- https://cloudintelligenceworkshop.org/js/components/banner.js
+- https://cloudintelligenceworkshop.org/2025/index.html
+- https://cloudintelligenceworkshop.org/2024/index.html
+- https://cloudintelligenceworkshop.org/2024/CFP.html
+- https://cloudintelligenceworkshop.org/2024/js/components/banner.js
+- https://cloudintelligenceworkshop.org/2023/index.html
+- https://cloudintelligenceworkshop.org/2023/js/components/banner.js
+- https://cloudintelligenceworkshop.org/2022/index.html
+- https://www.asplos-conference.org/asplos2026/workshops-and-tutorials.html
+- https://portal.core.edu.au/conf-ranks/?search=AIOps&by=all&source=ICORE2026
+unverified:
+- AIOps 2027 host conference, dates and deadlines (not announced yet)
+- Whether the 2025 (ICSE) edition had formal proceedings
+- Not in the CCF 2026 list as far as checked
+- Acceptance rate and fee not published (registration goes through the host conference)
+last_verified: 2026-10-31

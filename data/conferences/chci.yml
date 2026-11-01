@@ -1,0 +1,105 @@
+id: chci
+name: CHCI
+full_name: China Conference on Human-Computer Interaction
+name_local: 全国人机交互学术会议
+type: conference
+tier: domestic
+areas: [general, ai]
+region: china
+language: mixed
+frequency: annual
+organizer: CCF (China Computer Federation), Technical Committees on HCI, Pervasive Computing and Collaborative Computing
+organizer_country: [china]
+proceedings: Springer CCIS (Harmonious Human-Machine Environment volumes)
+archival: true
+indexing: [EI]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [6]
+  conference_months: [8]
+links:
+  website: https://hhme.ccf.org.cn/
+notes:
+- Main Chinese HCI conference, held as part of the CCF HHME joint conference (Harmonious Human-Machine Environment)
+  together with the national pervasive computing conference PCC; since 2025 co-located with HMCC (China
+  Conference on Human-Machine Collaborative Computing)
+- Accepts anonymous papers in Chinese (Chinese Journal of Computers template) or English (Springer template);
+  accepted papers must be prepared in English for the Springer proceedings
+- HHME 2025 papers appeared in two Springer CCIS volumes titled Harmonious Human-Machine Environment
+- Also has exchange papers (recent CHI, UIST, IMWUT, CSCW, IEEE VR and similar papers, not published) and tech demos
+- Selected papers recommended to journals such as CCF Transactions on Pervasive Computing and Interaction
+- Held in a different Chinese city each year (Harbin 2023, Taiyuan 2024, Dalian 2025, Changsha 2026)
+- Not in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  label: 21st CHCI (HHME 2025)
+  start: 2025-08-21
+  end: 2025-08-25
+  location: Dalian, China
+  url: https://hhme.ccf.org.cn/history/2025/index1.html
+  deadlines:
+  - kind: submission
+    date: 2025-06-15
+    time: "23:59"
+    tz: UTC+8
+  - kind: notification
+    date: 2025-07-15
+    time: "23:59"
+    tz: UTC+8
+  - kind: camera_ready
+    date: 2025-07-23
+    time: "23:59"
+    tz: UTC+8
+  - kind: other
+    date: 2025-06-30
+    time: "23:59"
+    tz: UTC+8
+    label: Tech demo submission
+- year: 2026
+  label: 22nd CHCI (HHME 2026)
+  start: 2026-08-15
+  end: 2026-08-17
+  location: Changsha, China
+  url: https://hhme.ccf.org.cn/ZGTZ_CHCI_Eng.html
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    time: "23:59"
+    tz: UTC+8
+    label: Extended
+  - kind: notification
+    date: 2026-07-15
+    time: "23:59"
+    tz: UTC+8
+  - kind: camera_ready
+    date: 2026-07-23
+    time: "23:59"
+    tz: UTC+8
+  - kind: other
+    date: 2026-06-30
+    time: "23:59"
+    tz: UTC+8
+    label: Tech demo submission
+sources:
+- https://hhme.ccf.org.cn/
+- https://hhme.ccf.org.cn/ZGTZ_CHCI_Eng.html
+- https://hhme.ccf.org.cn/ZGTZ_CHCI.html
+- https://hhme.ccf.org.cn/HYGK.html
+- https://hhme.ccf.org.cn/history/2025/index1.html
+- https://hhme.ccf.org.cn/history/2025/ZGTZ_CHCI.html
+- https://hhme.ccf.org.cn/history/2024/index1.html
+- https://hhme.ccf.org.cn/history/2024/ZGTZ_CHCI.html
+- https://hhme.ccf.org.cn/history/2023/index1.html
+- https://api.crossref.org/works/10.1007/978-981-92-3991-7
+- https://api.crossref.org/works/10.1007/978-981-92-3994-8
+- https://portal.core.edu.au/conf-ranks/?search=CHCI&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+unverified:
+- Original 2026 submission deadline before the extension to 30 June
+- Springer series for the 2026 proceedings (the CFP says Springer proceedings indexed by EI)
+- Whether 2024 and earlier papers were formally published (the 2024 CFP only promised posters and journal
+  recommendations)
+- CHCI 2027 dates and location
+- Acceptance rate and registration fee
+last_verified: 2026-10-31

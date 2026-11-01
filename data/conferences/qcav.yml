@@ -1,0 +1,62 @@
+id: qcav
+name: QCAV
+full_name: International Conference on Quality Control by Artificial Vision
+type: conference
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: JSPE Technical Committee on Industrial Application of Image Processing (IAIP) with French partners
+organizer_country: [japan, europe]
+proceedings: SPIE Digital Library (Proceedings of SPIE)
+archival: true
+typical:
+  deadline_months: [10, 3]
+  conference_months: [6]
+links:
+  website: https://www.tc-iaip.org/qcav/
+notes:
+- Biennial machine vision conference focused on image processing and computer vision for industrial quality control
+- Alternates between Japan and Europe, mostly France (Tokushima 2021, Albi 2023, Yamanashi 2025, Montenegro 2027)
+- Run jointly by a Japanese (JSPE TC-IAIP) and French steering committee; started in 1993 in Le Creusot
+- Two-stage submission - 2-page abstract in October, then 4 to 8 page full paper reviewed in spring
+- Accepted full papers are published in the SPIE Digital Library after the conference
+editions:
+- year: 2025
+  start: 2025-06-04
+  end: 2025-06-06
+  location: Yamanashi Prefectural Library, Kofu, Japan
+  url: https://www.tc-iaip.org/qcav/2025/
+  deadlines:
+  - kind: abstract
+    date: 2024-10-21
+    tz: JST
+    label: 2-page abstract (extended from 2024-10-07)
+  - kind: notification
+    date: 2024-11-23
+    tz: JST
+    label: Abstract acceptance
+  - kind: submission
+    date: 2025-03-31
+    tz: JST
+    label: Full paper (4 to 8 pages)
+  - kind: camera_ready
+    date: 2025-07-12
+    tz: JST
+    label: Final paper for the SPIE proceedings
+- year: 2027
+  location: Montenegro
+  url: https://www.tc-iaip.org/qcav/
+sources:
+- https://www.tc-iaip.org/qcav/
+- https://www.tc-iaip.org/qcav/2025/
+- https://www.tc-iaip.org/qcav/2025/QCAV2025_CFP.pdf
+- https://www.tc-iaip.org/qcav/2025/aboutus.html
+- https://www.tc-iaip.org/qcav/2025/information.html
+- https://portal.core.edu.au/conf-ranks/?search=QCAV&by=all&source=ICORE2026
+unverified:
+- Not found in the ICORE2026 portal search
+- QCAV2027 dates and deadlines are not yet announced (only the location, Montenegro)
+- Edition numbering differs between pages (the 2025 site calls QCAV2025 the 17th edition)
+last_verified: 2026-10-31

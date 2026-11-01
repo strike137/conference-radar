@@ -1,0 +1,63 @@
+id: biokdd
+name: BIOKDD
+full_name: International Workshop on Data Mining in Bioinformatics
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee co-located with ACM SIGKDD; 2026 general chairs Da Yan (Indiana University), Jake
+  Y. Chen (UAB) and Mohammed J. Zaki (RPI)
+organizer_country: [usa]
+proceedings: None (full papers invited to an IEEE/ACM TCBB special issue)
+archival: false
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8]
+links:
+  website: https://biokdd.org/biokdd26/
+notes:
+- Long-running KDD workshop on data mining for bioinformatics and biomedical informatics; 2026 was the 25th edition
+- Co-located with ACM SIGKDD, so it moves with KDD (Toronto in 2025, Jeju, Korea in 2026)
+- Three tracks -> regular papers (up to 10 pages), abstracts, and late-breaking research on already published work
+- Single-blind review via Microsoft CMT; all accepted submissions get an oral slot
+- No workshop proceedings; full papers are invited to a BIOKDD special issue of IEEE/ACM TCBB, which since 2025 needs at least 30% new material
+- 2026 theme was digital twins for disease modeling
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-08-03
+  end: 2025-08-03
+  location: Toronto, Canada (with KDD 2025)
+  url: https://biokdd.org/biokdd25/
+  deadlines:
+  - kind: submission
+    date: 2025-05-15
+    label: Extended from 2025-05-08
+  - kind: notification
+    date: 2025-06-08
+- year: 2026
+  start: 2026-08-10
+  end: 2026-08-10
+  location: Jeju, South Korea (with KDD 2026, ICC Jeju)
+  url: https://biokdd.org/biokdd26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-14
+    label: Extended from 2026-04-30
+  - kind: notification
+    date: 2026-06-04
+sources:
+- https://biokdd.org/biokdd26/
+- https://biokdd.org/biokdd26/about.html
+- https://biokdd.org/biokdd26/regular.html
+- https://biokdd.org/biokdd26/committee.html
+- https://biokdd.org/biokdd26/glance.html
+- https://biokdd.org/biokdd25/
+- https://portal.core.edu.au/conf-ranks/?search=BIOKDD&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- BIOKDD 2027 not announced yet
+- The BIOKDD 2025 page does not name the city; Toronto is taken from the KDD 2025 host city
+- Acceptance rate not published

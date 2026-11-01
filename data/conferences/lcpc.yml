@@ -1,0 +1,55 @@
+id: lcpc
+name: LCPC
+full_name: International Workshop on Languages and Compilers for Parallel Computing
+type: conference
+tier: minor
+areas: [systems, software]
+region: north-america
+language: english
+frequency: annual
+organizer: LCPC workshop series (hosted by a different university or company each year; permanent site run by Hank Dietz,
+  University of Kentucky)
+organizer_country: [usa]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [10]
+links:
+  website: http://lcpcworkshop.org/
+notes:
+- Long-running workshop on languages, compilers, runtimes and programming models for parallel computing, held every year since 1988
+- Standalone event (not co-located), usually hosted by a US university in September or October (Salt Lake City 2018, Atlanta 2019, Stony Brook 2020, Delaware 2021, Chicago 2022, Lexington 2023)
+- Informal proceedings at the workshop; revised papers appear afterwards as Springer LNCS post-proceedings
+- Regular papers 12 to 15 pages, short papers 6 to 11 pages and panel overviews (2023); single track
+- Attendee registration was free and included the banquet (2023)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2023
+  start: 2023-10-11
+  end: 2023-10-13
+  location: Lexington, Kentucky, USA (University of Kentucky)
+  url: http://lcpcworkshop.org/LCPC23/
+  deadlines:
+  - kind: submission
+    date: 2023-09-04
+    label: Extended from 2023-08-21
+  - kind: notification
+    date: 2023-09-18
+  - kind: camera_ready
+    date: 2023-10-02
+    label: Pre-workshop papers (informal proceedings)
+  - kind: other
+    date: 2023-11-06
+    label: Post-workshop revisions for LNCS
+sources:
+- http://lcpcworkshop.org/
+- http://lcpcworkshop.org/LCPC23/
+- https://link.springer.com/conference/lcpc
+- https://portal.core.edu.au/conf-ranks/?search=LCPC&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- The permanent site still names LCPC 2023 as the next workshop; no official page for a 2024, 2025 or 2026 edition was found, and Springer lists volumes only up to LCPC 2023
+- The https version of lcpcworkshop.org has a certificate error; the http site was used
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
+last_verified: 2026-10-31

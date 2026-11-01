@@ -1,0 +1,60 @@
+id: ctcrypt
+name: CTCrypt
+full_name: Workshop on Current Trends in Cryptology
+type: conference
+tier: minor
+areas: [crypto]
+region: europe
+language: mixed
+frequency: annual
+organizer: Academy of Cryptography of the Russian Federation, TC 26, National Technology Center for Digital Cryptography and Steklov Mathematical Institute RAS
+organizer_country: [other]
+proceedings: Electronic proceedings on ctcrypt.ru; selected papers in the journal Mathematical Aspects of Cryptography (Matematicheskie Voprosy Kriptografii)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://ctcrypt.ru/en
+notes:
+- Russian cryptography symposium (Sovremennye tendentsii v kriptografii); 16th edition in 2027
+- Run by the Academy of Cryptography of the Russian Federation, the standardization committee TC 26, NTC DC and the Steklov Mathematical Institute
+- Topics include symmetric and asymmetric cryptography, cryptanalysis, Russian GOST algorithms and protocols, post-quantum and quantum cryptography
+- Official languages Russian and English; papers up to 15 pages in LaTeX, anonymous submission
+- Accepted papers go into electronic proceedings only; selected papers are recommended to the journal Mathematical Aspects of Cryptography, which publishes Russian authors mostly in Russian
+- Held in a different Russian city each year (Moscow region 2021, Novosibirsk 2022, Volgograd 2023, Petrozavodsk 2024, Veliky Novgorod 2025); Minsk, Belarus in 2026
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-05
+  location: President Hotel, Minsk, Belarus
+  url: https://ctcrypt.ru/en/archive/2026/program
+- year: 2027
+  start: 2027-05-31
+  end: 2027-06-04
+  location: Manzherok, Altai Republic, Russia
+  url: https://ctcrypt.ru/en
+  deadlines:
+  - kind: submission
+    date: 2027-02-14
+  - kind: notification
+    date: 2027-04-12
+  - kind: camera_ready
+    date: 2027-05-03
+    label: Final version for the electronic proceedings
+sources:
+- https://ctcrypt.ru/
+- https://ctcrypt.ru/en
+- https://ctcrypt.ru/archive
+- https://ctcrypt.ru/archive/2026/program
+- https://ctcrypt.ru/archive/2025/program
+- https://ctcrypt.ru/archive/2024/program
+- https://ctcrypt.ru/archive/2023/program
+- https://ctcrypt.ru/archive/2022/program
+- https://ctcrypt.ru/archive/2021/program
+- https://portal.core.edu.au/conf-ranks/?search=CTCrypt&by=all&source=ICORE2026
+unverified:
+- 2027 submission server and submission opening date not announced yet
+- 2026 dates are the program days (1 June arrival, 5 June departure)
+last_verified: 2026-10-31

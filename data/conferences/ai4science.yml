@@ -1,0 +1,81 @@
+id: ai4science
+name: AI4Science
+full_name: AI for Science Workshop
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: AI for Science community (workshop series at NeurIPS, ICML and ICLR)
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [5, 8]
+  conference_months: [7, 12]
+links:
+  website: https://ai4sciencecommunity.github.io/
+notes:
+- Workshop series on AI and ML for scientific discovery (physics, chemistry, biology, materials, climate, math), with a new theme each edition
+- "Editions: NeurIPS 2021, ICML 2022, NeurIPS 2022, NeurIPS 2023, ICML 2024, NeurIPS 2025, ICML 2026 (Seoul), NeurIPS 2026 (8th); an ICLR 2027 edition is announced"
+- Non-archival; accepted papers stay eligible for later archival venues
+- Papers 4-8 pages plus unlimited appendices in the host conference template, double-blind review on OpenReview; research and position tracks
+- Also runs dataset and AI scientist proposal competitions; ICML 2026 offered an optional journal route
+- Not the IJCAI AI for sustainability workshop (ai4s-ijcai)
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 7th edition, ICML 2026 workshop
+  start: 2026-07-11
+  end: 2026-07-11
+  location: Hall C, COEX Convention & Exhibition Center, Seoul, South Korea
+  url: https://ai4sciencecommunity.github.io/icml26.html
+  deadlines:
+  - kind: abstract
+    date: 2026-05-05
+    tz: AoE
+  - kind: submission
+    date: 2026-05-07
+    tz: AoE
+  - kind: notification
+    date: 2026-05-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-30
+    tz: AoE
+- year: 2026
+  label: 8th edition, NeurIPS 2026 workshop (Verification in the Age of AI Scientists)
+  location: Sydney, Australia
+  url: https://ai4sciencecommunity.github.io/neurips26.html
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-08-29
+    tz: AoE
+  - kind: notification
+    date: 2026-09-29
+    tz: AoE
+- year: 2027
+  label: ICLR 2027 workshop (Scientific Workbenches for Discovery)
+  url: https://ai4sciencecommunity.github.io/iclr27.html
+  deadlines:
+  - kind: submission
+    date: 2027-02-01
+    tz: AoE
+    label: Papers and competition proposals
+  - kind: notification
+    date: 2027-02-26
+    tz: AoE
+sources:
+- https://ai4sciencecommunity.github.io/
+- https://ai4sciencecommunity.github.io/icml26.html
+- https://ai4sciencecommunity.github.io/neurips26.html
+- https://ai4sciencecommunity.github.io/iclr27.html
+- https://ai4sciencecommunity.github.io/neurips25.html
+- https://icml.cc/Conferences/2026
+- https://portal.core.edu.au/conf-ranks/?search=AI4Science&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- NeurIPS 2026 workshop date given only as December 11 or 12, 2026 and the dates are marked tentative
+- ICLR 2027 workshop date and location not yet announced

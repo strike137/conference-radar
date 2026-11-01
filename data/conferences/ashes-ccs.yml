@@ -1,0 +1,44 @@
+id: ashes-ccs
+name: ASHES
+full_name: Workshop on Attacks and Solutions in Hardware Security
+type: workshop
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGSAC (co-located with ACM CCS)
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL]
+typical:
+  conference_months: [10, 11]
+links:
+  website: https://ashesworkshop.org/
+notes:
+- Hardware security workshop co-located with ACM CCS, held every year from 2017 to 2024
+- Not the same venue as AsHES (accelerators and hybrid systems, with IEEE IPDPS)
+- Location follows CCS (2022 Los Angeles, 2023 Copenhagen, 2024 Salt Lake City; virtual in 2020 and 2021)
+- Proceedings in the ACM Digital Library as a separate volume each year (2024 volume doi 10.1145/3689939)
+- Not held with CCS 2025 or CCS 2026; not listed on the CORE portal (ICORE2026) or the CCF list
+editions:
+- year: 2024
+  start: 2024-10-18
+  end: 2024-10-18
+  location: Salt Lake City, USA (with ACM CCS 2024)
+  url: https://ashesworkshop.org/
+sources:
+- https://www.sigsac.org/ccs/CCS2024/workshops/workshops.html
+- https://www.sigsac.org/ccs/CCS2025/events/
+- https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html
+- https://doi.org/10.1145/3689939
+- https://doi.org/10.1145/3605769
+- https://doi.org/10.1145/3560834
+- https://portal.core.edu.au/conf-ranks/?search=ASHES&by=all&source=ICORE2026
+unverified:
+- The official site ashesworkshop.org was unreachable (503 / TLS error) on 2026-10-31, so 2024 deadlines, organizers
+  and organizer country could not be checked; the workshop date comes from the CCS 2024 workshops page
+- No 2025 or 2026 edition found (not among the CCS 2025 or CCS 2026 workshops)
+- Proceedings DOIs and past locations taken from the Crossref records of the ACM volumes (dl.acm.org blocks
+  automated access)
+last_verified: 2026-10-31

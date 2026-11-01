@@ -1,0 +1,52 @@
+id: math-ai
+name: MATH-AI
+full_name: Workshop on Mathematical Reasoning and AI
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: MATH-AI workshop organizers (academic and industry researchers); co-located with NeurIPS
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers listed on the workshop website)
+archival: false
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://mathai2025.github.io/
+notes:
+- Workshop on AI and mathematical reasoning (theorem proving, math benchmarks, LLM reasoning, math education)
+- First held at ICLR 2021, then with NeurIPS every year from 2022 to 2025; each edition has its own site (mathai20XX.github.io)
+- Non-archival, accepted papers are shown on the workshop homepage; papers under review elsewhere are allowed
+- Papers up to 4 pages plus references and appendices; double-blind review on OpenReview
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 5th edition, with NeurIPS 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  location: San Diego, CA, USA (co-located with NeurIPS 2025)
+  url: https://mathai2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-09-26
+    tz: AoE
+    label: Extended from August 29
+  - kind: notification
+    date: 2025-10-16
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-30
+sources:
+- https://mathai2025.github.io/
+- https://mathai2025.github.io/cfp/
+- https://mathai2024.github.io/
+- https://mathai2024.github.io/cfp/
+- https://neurips.cc/virtual/2025/events/workshop
+- https://neurips.cc/virtual/2026/events/workshop
+- https://portal.core.edu.au/conf-ranks/?search=MATH-AI&by=all&source=ICORE2026
+last_verified: 2026-10-31
+unverified:
+- No 2026 edition announced; MATH-AI does not appear in the NeurIPS 2026 workshop list as of 2026-10-31
