@@ -1,6 +1,7 @@
 id: case-workshop
-name: CASE
-full_name: Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text
+name: EEUCA (formerly CASE)
+full_name: 'Workshop on Event Extraction and Understanding: Challenges and Applications (formerly Workshop on Challenges
+  and Applications of Automated Extraction of Socio-political Events from Text)'
 type: workshop
 tier: minor
 areas: [nlp, ai]
@@ -14,14 +15,16 @@ proceedings: ACL Anthology
 archival: true
 typical:
   deadline_months: [1, 8]
-  conference_months: [3, 9]
+  conference_months: [3, 7, 9]
 links:
-  website: https://emw.ku.edu.tr/workshops/case-2025/
+  website: https://research.ku.edu.tr/research-infrastructure/research-centers-and-units/emw/workshops/#eeuca-2026
 notes:
 - Workshop on event extraction from text for social and political science (protests, conflict, hate speech, event
   datasets and ontologies); follows CLEF ProtestNews 2019 and AESPEN at LREC 2020
 - Co-located with ACL-IJCNLP 2021 (online), EMNLP 2022 (Abu Dhabi), RANLP 2023 (Varna), EACL 2024 (St. Julians) and
   RANLP 2025 (Varna)
+- Renamed EEUCA (Workshop on Event Extraction and Understanding) for its 9th edition, held at ACL 2026 in San Diego
+  on 3 July 2026 with two shared tasks (vaccine critical memes, toxic intent in gaming chat)
 - Proceedings in the ACL Anthology; the RANLP editions are published by INCOMA and indexed there too
 - Short and long papers following ARR page limits; double-blind review by at least three PC members; submission via
   START or ARR
@@ -56,15 +59,27 @@ editions:
   - kind: camera_ready
     date: 2025-08-30
     tz: AoE
+- year: 2026
+  start: 2026-07-03
+  end: 2026-07-03
+  location: San Diego, CA, USA (co-located with ACL 2026)
+  url: https://research.ku.edu.tr/research-infrastructure/research-centers-and-units/emw/workshops/#eeuca-2026
+  deadlines: []
 sources:
+- https://2026.aclweb.org/program/workshops/
+- https://aclanthology.org/volumes/2026.eeuca-1/
+- https://aclanthology.org/venues/eeuca/
+- https://api2.openreview.net/groups?id=aclweb.org/ACL/2026/Workshop/EEUCA
 - https://emw.ku.edu.tr/workshops/case-2025/
 - https://emw.ku.edu.tr/case-2024/
 - https://emw.ku.edu.tr/case-2023/
 - https://ranlp.org/ranlp2025/index.php/workshops/
 - https://aclanthology.org/venues/case/
 - https://portal.core.edu.au/conf-ranks/?search=Socio-political&by=all&source=ICORE2026
-last_verified: 2026-10-31
+last_verified: 2026-11-07
 unverified:
-- No CASE 2026 or 2027 edition found as of 2026-10-31 (none in the ACL Anthology); the workshop site emw.ku.edu.tr returned HTTP 403 and could not be re-read
+- 2026 deadlines not recorded because the official workshop page (research.ku.edu.tr) returned HTTP 403; the CFP posted to
+  the Corpora mailing list gave submission 2026-03-16, notification 2026-04-28 and camera ready 2026-05-12
+- No 2027 edition announced as of 2026-11-07
 - Acceptance rate not published
 - CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
