@@ -18,9 +18,10 @@ links:
   website: https://www.tc-iaip.org/qcav/
 notes:
 - Biennial machine vision conference focused on image processing and computer vision for industrial quality control
-- Alternates between Japan and Europe, mostly France (Tokushima 2021, Albi 2023, Yamanashi 2025, Montenegro 2027)
+- Alternates between Japan and Europe, mostly France (Tokushima 2021, Albi 2023, Yamanashi 2025, Kotor, Montenegro 2027)
 - Run jointly by a Japanese (JSPE TC-IAIP) and French steering committee; started in 1993 in Le Creusot
-- Two-stage submission - 2-page abstract in October, then 4 to 8 page full paper reviewed in spring
+- Two-stage submission up to 2025 (2-page abstract in October, then 4 to 8 page full paper in spring); 2027 has a single full paper deadline in February with double-blind review
+- "Registration fee: 650 EUR regular, 450 EUR student (2027 early bird until March 31)"
 - Accepted full papers are published in the SPIE Digital Library after the conference
 editions:
 - year: 2025
@@ -46,10 +47,27 @@ editions:
     tz: JST
     label: Final paper for the SPIE proceedings
 - year: 2027
-  location: Montenegro
-  url: https://www.tc-iaip.org/qcav/
+  start: 2027-06-16
+  end: 2027-06-18
+  location: Cultural Center Nikola Durkovic, Kotor, Montenegro
+  url: https://qcav2027.ucg.ac.me/
+  deadlines:
+  - kind: submission
+    date: 2027-02-10
+    label: Full paper (4 to 8 pages)
+  - kind: notification
+    date: 2027-04-10
+  - kind: camera_ready
+    date: 2027-05-01
+  - kind: other
+    date: 2027-07-16
+    label: Final version for the proceedings
 sources:
 - https://www.tc-iaip.org/qcav/
+- https://qcav2027.ucg.ac.me/
+- https://qcav2027.ucg.ac.me/submission
+- https://qcav2027.ucg.ac.me/registration
+- https://qcav2027.ucg.ac.me/committee
 - https://www.tc-iaip.org/qcav/2025/
 - https://www.tc-iaip.org/qcav/2025/QCAV2025_CFP.pdf
 - https://www.tc-iaip.org/qcav/2025/aboutus.html
@@ -57,6 +75,7 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=QCAV&by=all&source=ICORE2026
 unverified:
 - Not found in the ICORE2026 portal search
-- QCAV2027 dates and deadlines are not yet announced (only the location, Montenegro)
+- QCAV 2027 notification date differs between pages (2027-04-10 under Important Dates on the home page, March 10, 2027 on the submission page); the home page value is recorded
+- Deadline times and time zone for QCAV 2027 are not stated
 - Edition numbering differs between pages (the 2025 site calls QCAV2025 the 17th edition)
-last_verified: 2026-10-31
+last_verified: 2026-11-07

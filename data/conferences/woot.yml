@@ -67,8 +67,32 @@ editions:
   end: 2027-08-10
   location: Denver, CO, USA
   url: https://www.usenix.org/conference/woot27
+  deadlines:
+  - kind: submission
+    date: 2026-12-17
+    time: '23:59'
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2027-02-02
+    label: Cycle 1
+  - kind: submission
+    date: 2027-03-02
+    time: '23:59'
+    tz: AoE
+    label: Cycle 2
+  - kind: notification
+    date: 2027-04-15
+    label: Cycle 2
+  - kind: other
+    date: 2027-05-06
+    label: Artifact submission
+  - kind: camera_ready
+    date: 2027-06-08
+    label: Both cycles
 sources:
 - https://www.usenix.org/conference/woot27
+- https://www.usenix.org/conference/woot27/call-for-papers
 - https://www.usenix.org/conference/woot26
 - https://www.usenix.org/conference/woot26/call-for-papers
 - https://www.usenix.org/conference/woot26/registration-information
@@ -78,6 +102,5 @@ sources:
 - https://www.usenix.org/conference/woot23
 - https://portal.core.edu.au/conf-ranks/?search=WOOT&by=all&source=all
 unverified:
-- WOOT 2027 deadlines not announced as of 2026-10-31 (the WOOT '27 page says the call for papers will be available soon)
 - Acceptance rate not published on the official site
-last_verified: 2026-10-31
+last_verified: 2026-11-07

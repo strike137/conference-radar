@@ -15,14 +15,31 @@ typical:
   deadline_months: [8, 9]
   conference_months: [12]
 links:
-  website: https://mathai2025.github.io/
+  website: https://mathai-2026.github.io/
 notes:
 - Workshop on AI and mathematical reasoning (theorem proving, math benchmarks, LLM reasoning, math education)
-- First held at ICLR 2021, then with NeurIPS every year from 2022 to 2025; each edition has its own site (mathai20XX.github.io)
+- First held at ICLR 2021, then with NeurIPS every year from 2022 to 2026; each edition has its own site (mathai20XX.github.io, mathai-2026.github.io for 2026)
 - Non-archival, accepted papers are shown on the workshop homepage; papers under review elsewhere are allowed
 - Papers up to 4 pages plus references and appendices; double-blind review on OpenReview
+- 2026 uses reciprocal reviewing (one author per submission must review) and focuses on agentic AI for mathematical research
 - Not listed in ICORE2026 and not on the CCF list
 editions:
+- year: 2026
+  label: 6th edition, with NeurIPS 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Atlanta, GA, USA (co-located with NeurIPS 2026)
+  url: https://mathai-2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-09-06
+    tz: AoE
+  - kind: notification
+    date: 2026-09-28
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-02
+    tz: AoE
 - year: 2025
   label: 5th edition, with NeurIPS 2025
   start: 2025-12-06
@@ -40,6 +57,9 @@ editions:
   - kind: camera_ready
     date: 2025-10-30
 sources:
+- https://mathai-2026.github.io/
+- https://mathai-2026.github.io/cfp/
+- https://neurips.cc/virtual/2026/workshop/137559
 - https://mathai2025.github.io/
 - https://mathai2025.github.io/cfp/
 - https://mathai2024.github.io/
@@ -47,6 +67,4 @@ sources:
 - https://neurips.cc/virtual/2025/events/workshop
 - https://neurips.cc/virtual/2026/events/workshop
 - https://portal.core.edu.au/conf-ranks/?search=MATH-AI&by=all&source=ICORE2026
-last_verified: 2026-10-31
-unverified:
-- No 2026 edition announced; MATH-AI does not appear in the NeurIPS 2026 workshop list as of 2026-10-31
+last_verified: 2026-11-07

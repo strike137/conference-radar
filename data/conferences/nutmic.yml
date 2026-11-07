@@ -7,7 +7,7 @@ areas: [crypto]
 region: europe
 language: english
 frequency: irregular
-organizer: 'Polish and French universities (2024: University of Szczecin)'
+organizer: 'Polish and French universities (2026: University of Silesia in Katowice)'
 organizer_country: [europe]
 proceedings: Springer LNCS
 archival: true
@@ -15,12 +15,13 @@ typical:
   deadline_months: [2]
   conference_months: [6]
 links:
-  website: https://nutmic2024.usz.edu.pl/
+  website: https://nutmic.us.edu.pl/
 notes:
 - Small conference on number theory for cryptology (lattices, elliptic and higher genus curves, post-quantum cryptography, quantum computing in cryptology)
-- Held in Poland and France roughly every two years (Warsaw 2017, Paris 2019, Poznan 2022, Szczecin 2024)
+- Held in Poland and France roughly every two years (Warsaw 2017, Paris 2019, Poznan 2022, Szczecin 2024, Katowice 2026)
 - Full papers up to 30 pages via EasyChair; revised selected papers in Springer LNCS (LNCS 14966 for 2024)
 - Single-track program of invited talks plus about 9 contributed talks (2024)
+- 2026 edition had 34 participants from 10 countries, 4 plenary lectures and 11 contributed talks
 - "Registration fee about 200 EUR (2024: 900 PLN including VAT)"
 - Not listed in CORE ICORE2026 or the CCF list
 editions:
@@ -34,7 +35,23 @@ editions:
     date: 2024-02-09
   - kind: notification
     date: 2024-03-20
+- year: 2026
+  start: 2026-09-21
+  end: 2026-09-23
+  location: Institute of Mathematics, University of Silesia, Katowice, Poland
+  url: https://nutmic.us.edu.pl/
+  deadlines:
+  - kind: submission
+    date: 2026-04-11
+    label: Extended (original date not stated on the official site)
+  - kind: notification
+    date: 2026-05-30
+    label: extended from 2026-05-23
 sources:
+- https://nutmic.us.edu.pl/
+- https://nutmic.us.edu.pl/submission.html
+- https://nutmic.us.edu.pl/program.html
+- https://easychair.org/cfp/nutmic2026
 - https://nutmic2024.usz.edu.pl/
 - https://nutmic2024.usz.edu.pl/aim-and-scope/
 - https://nutmic2024.usz.edu.pl/information-for-authors/
@@ -46,6 +63,7 @@ sources:
 - https://link.springer.com/book/10.1007/978-3-031-82380-0
 - https://portal.core.edu.au/conf-ranks/?search=NuTMiC&by=all&source=ICORE2026
 unverified:
-- No NuTMiC 2026 or later edition found as of 2026-10-31 (web search budget was exhausted, so this was not fully checked)
+- NuTMiC 2027 or later not announced as of 2026-11-07 (series runs roughly every two years)
+- LNCS volume for the 2026 post-proceedings not yet listed
 - Organizers of the 2017, 2019 and 2022 editions taken from the 2024 homepage summary only
-last_verified: 2026-10-31
+last_verified: 2026-11-07
