@@ -15,10 +15,10 @@ typical:
   deadline_months: [12, 1]
   conference_months: [3, 4]
 links:
-  website: https://fc26.ifca.ai/voting/
+  website: https://fc27.ifca.ai/voting/
 notes:
 - One-day workshop associated with FC (Financial Cryptography and Data Security); location follows FC (2024 Curacao,
-  2025 Miyakojima, 2026 St. Kitts)
+  2025 Miyakojima, 2026 St. Kitts, 2027 Barbados)
 - 2026 was the 11th edition; also listed as Workshop on Advances in Secure Electronic Voting Schemes
 - Papers appear in the joint Springer LNCS volume of FC workshops (revised selected papers); authors may opt out with
   an extended abstract only
@@ -58,6 +58,21 @@ editions:
   - kind: notification
     date: 2026-01-19
     tz: AoE
+- year: 2027
+  start: 2027-02-12
+  end: 2027-02-12
+  location: Accra Beach Hotel & Spa, Barbados
+  url: https://fc27.ifca.ai/voting/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-23
+  - kind: submission
+    date: 2026-12-01
+  - kind: notification
+    date: 2026-12-22
+  - kind: other
+    date: 2027-02-01
+    label: Discussion panel extended abstracts (rolling deadline)
 sources:
 - https://fc26.ifca.ai/voting/
 - https://fc26.ifca.ai/voting/cfp.html
@@ -68,9 +83,12 @@ sources:
 - https://fc24.ifca.ai/voting/
 - https://link.springer.com/book/10.1007/978-3-031-69231-4
 - https://fc27.ifca.ai/
+- https://fc27.ifca.ai/voting/
+- https://fc27.ifca.ai/voting/cfp.html
+- https://fc27.ifca.ai/workshops.html
 - https://portal.core.edu.au/conf-ranks/?search=voting&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- Voting 2027 at FC 2027 (Barbados, February 2027) not announced yet; no workshop page or CFP found
+- Voting 2027 submission website and time zone of the deadlines not stated yet on the CFP
 - Springer LNCS volume for the FC 2025 and FC 2026 workshops not checked; LNCS taken from the official CFP
 - Acceptance rate not published
-last_verified: 2026-10-04
+last_verified: 2026-11-07

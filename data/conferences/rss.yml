@@ -55,16 +55,31 @@ editions:
     time: "23:59"
     tz: AoE
     label: Stage 1 extended abstract (6 pages)
+  - kind: notification
+    date: 2027-02-05
+    time: "23:59"
+    tz: AoE
+    label: Stage 1 decision (reject or invitation to rebuttal)
   - kind: other
     date: 2027-02-12
     time: "23:59"
     tz: AoE
     label: Rebuttal
+  - kind: notification
+    date: 2027-02-26
+    time: "23:59"
+    tz: AoE
+    label: Stage 2 decision (reject or invitation to execute an extension charter)
   - kind: submission
     date: 2027-04-16
     time: "23:59"
     tz: AoE
     label: Stage 2 final paper
+  - kind: other
+    date: 2027-04-19
+    time: "23:59"
+    tz: AoE
+    label: Supplementary material
   - kind: notification
     date: 2027-04-30
   - kind: camera_ready
@@ -79,6 +94,4 @@ sources:
 - https://www.roboticsproceedings.org/
 - https://portal.core.edu.au/conf-ranks/?search=RSS&by=all&source=ICORE2026
 - https://github.com/ccfddl/ccf-deadlines
-unverified:
-- RSS 2027 venue in Athens not yet confirmed on the official site
-last_verified: 2026-10-11
+last_verified: 2026-11-07

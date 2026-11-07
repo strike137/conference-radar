@@ -83,9 +83,9 @@ editions:
     tz: AoE
     label: Workshop / special session / tutorial / demo / panel proposals
   - kind: submission
-    date: 2026-10-22
+    date: 2026-10-29
     tz: AoE
-    label: Position/regular papers (2nd stage)
+    label: Position/regular papers (2nd stage, extended from 2026-10-22)
   - kind: notification
     date: 2026-11-13
     tz: AoE
@@ -94,6 +94,10 @@ editions:
     date: 2026-11-27
     tz: AoE
     label: Regular papers (1st stage), with registration
+  - kind: submission
+    date: 2026-11-29
+    tz: AoE
+    label: Late-breaking papers
   - kind: abstract
     date: 2026-12-03
     tz: AoE
@@ -114,6 +118,14 @@ editions:
     date: 2027-01-08
     tz: AoE
     label: Abstracts track, with registration
+  - kind: notification
+    date: 2026-12-18
+    tz: AoE
+    label: Late-breaking papers
+  - kind: camera_ready
+    date: 2027-01-08
+    tz: AoE
+    label: Late-breaking papers, with registration
 sources:
 - https://grivapp.scitevents.org/
 - https://grivapp.scitevents.org/ImportantDates.aspx
@@ -125,4 +137,4 @@ sources:
 unverified:
 - Acceptance rate (not shown on the conference site)
 - Springer CCIS book for 2027 extended papers is pending final approval
-last_verified: 2026-10-17
+last_verified: 2026-11-07

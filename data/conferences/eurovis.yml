@@ -103,6 +103,11 @@ editions:
     tz: AoE
     label: STARs revision submission
   - kind: other
+    date: 2027-02-03
+    time: "23:59"
+    tz: AoE
+    label: Dirk Bartz Prize submission
+  - kind: other
     date: 2027-03-03
     time: "23:59"
     tz: AoE
@@ -117,11 +122,21 @@ editions:
     time: "23:59"
     tz: AoE
     label: Full papers, final
+  - kind: notification
+    date: 2027-03-24
+    time: "23:59"
+    tz: AoE
+    label: Dirk Bartz Prize, final
   - kind: camera_ready
     date: 2027-03-22
     time: "23:59"
     tz: AoE
     label: STARs
+  - kind: camera_ready
+    date: 2027-04-07
+    time: "23:59"
+    tz: AoE
+    label: Dirk Bartz Prize
   - kind: camera_ready
     date: 2027-04-14
     time: "23:59"
@@ -135,6 +150,6 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=EuroVis&by=all&source=ICORE2026
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
 unverified:
-- EuroVis 2027 short paper, poster, demo, panel and tutorial deadlines not listed on the Important Dates page as of 2026-10-31
+- EuroVis 2027 short paper, poster, demo, panel and tutorial deadlines not listed on the Important Dates page as of 2026-11-07
 - CCF rank checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
-last_verified: 2026-10-31
+last_verified: 2026-11-07

@@ -73,9 +73,9 @@ editions:
     tz: AoE
     label: Regular papers, stage 1
   - kind: submission
-    date: 2026-10-22
+    date: 2026-10-29
     tz: AoE
-    label: Position/regular papers, stage 2
+    label: Position/regular papers, stage 2 (extended from 2026-10-22)
   - kind: notification
     date: 2026-11-13
     tz: AoE
@@ -84,6 +84,10 @@ editions:
     date: 2026-11-27
     tz: AoE
     label: Stage 1 camera-ready and registration
+  - kind: submission
+    date: 2026-11-29
+    tz: AoE
+    label: Late-breaking papers
   - kind: submission
     date: 2026-12-03
     tz: AoE
@@ -97,6 +101,10 @@ editions:
     tz: AoE
     label: Stage 2 camera-ready and registration
   - kind: notification
+    date: 2026-12-18
+    tz: AoE
+    label: Late-breaking papers
+  - kind: notification
     date: 2026-12-21
     tz: AoE
     label: Abstracts track
@@ -104,6 +112,10 @@ editions:
     date: 2027-01-08
     tz: AoE
     label: Abstracts track camera-ready and registration
+  - kind: camera_ready
+    date: 2027-01-08
+    tz: AoE
+    label: Late-breaking papers, with registration
 sources:
 - https://modelsward.scitevents.org/
 - https://modelsward.scitevents.org/ImportantDates.aspx
@@ -116,4 +128,4 @@ unverified:
 - Acceptance rate not found on official pages
 - Springer CCIS book for 2027 marked "final approval pending" on the official site
 - Not on the CCF 2026 list (checked via the CCFrank4dblp mirror, not on ccf.org.cn directly)
-last_verified: 2026-10-17
+last_verified: 2026-11-07

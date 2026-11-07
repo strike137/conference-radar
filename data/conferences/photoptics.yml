@@ -67,9 +67,9 @@ editions:
     tz: AoE
     label: Regular papers (1st stage)
   - kind: submission
-    date: 2026-10-22
+    date: 2026-10-29
     tz: AoE
-    label: Position/regular papers (2nd stage)
+    label: Position/regular papers (2nd stage, extended from 2026-10-22)
   - kind: notification
     date: 2026-11-13
     tz: AoE
@@ -78,6 +78,10 @@ editions:
     date: 2026-11-27
     tz: AoE
     label: Regular papers (1st stage), with registration
+  - kind: submission
+    date: 2026-11-29
+    tz: AoE
+    label: Late-breaking papers
   - kind: submission
     date: 2026-12-03
     tz: AoE
@@ -90,6 +94,22 @@ editions:
     date: 2026-12-18
     tz: AoE
     label: Position/regular papers (2nd stage), with registration
+  - kind: notification
+    date: 2026-12-18
+    tz: AoE
+    label: Late-breaking papers
+  - kind: notification
+    date: 2026-12-21
+    tz: AoE
+    label: Workshop, special session and abstracts track papers
+  - kind: camera_ready
+    date: 2027-01-08
+    tz: AoE
+    label: Workshop, special session and abstracts track papers, with registration
+  - kind: camera_ready
+    date: 2027-01-08
+    tz: AoE
+    label: Late-breaking papers, with registration
 sources:
 - https://photoptics.scitevents.org/
 - https://photoptics.scitevents.org/ImportantDates.aspx
@@ -102,4 +122,4 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=PHOTOPTICS&by=all&source=ICORE2026
 unverified:
 - Acceptance rate not found on official pages
-last_verified: 2026-10-17
+last_verified: 2026-11-07

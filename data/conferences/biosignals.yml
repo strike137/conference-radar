@@ -72,9 +72,9 @@ editions:
     tz: AoE
     label: Regular papers, stage 1
   - kind: submission
-    date: 2026-10-22
+    date: 2026-10-29
     tz: AoE
-    label: Position/regular papers, stage 2
+    label: Position/regular papers, stage 2 (extended from 2026-10-22)
   - kind: notification
     date: 2026-11-13
     tz: AoE
@@ -83,6 +83,10 @@ editions:
     date: 2026-11-27
     tz: AoE
     label: Stage 1 camera-ready and registration
+  - kind: submission
+    date: 2026-11-29
+    tz: AoE
+    label: Late-breaking papers
   - kind: submission
     date: 2026-12-03
     tz: AoE
@@ -103,6 +107,26 @@ editions:
     date: 2027-01-08
     tz: AoE
     label: Abstracts track camera-ready and registration
+  - kind: notification
+    date: 2026-12-18
+    tz: AoE
+    label: Late-breaking papers
+  - kind: camera_ready
+    date: 2027-01-08
+    tz: AoE
+    label: Late-breaking papers camera-ready and registration
+  - kind: other
+    date: 2026-12-22
+    tz: AoE
+    label: Doctoral Consortium paper submission
+  - kind: notification
+    date: 2027-01-12
+    tz: AoE
+    label: Doctoral Consortium
+  - kind: camera_ready
+    date: 2027-01-20
+    tz: AoE
+    label: Doctoral Consortium camera-ready and registration
 sources:
 - https://biosignals.scitevents.org/
 - https://biosignals.scitevents.org/ImportantDates.aspx
@@ -113,6 +137,6 @@ sources:
 - https://biosignals.scitevents.org/CallForPapers.aspx?y=2026
 - https://biosignals.scitevents.org/ConferenceVenue.aspx?y=2026
 - https://portal.core.edu.au/conf-ranks/?search=BIOSIGNALS&by=all&source=ICORE2026&sort=atitle&page=1
-last_verified: 2026-10-17
+last_verified: 2026-11-07
 unverified:
 - Acceptance rate and fees not checked on official pages

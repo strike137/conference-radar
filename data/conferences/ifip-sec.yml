@@ -46,10 +46,21 @@ editions:
     tz: AoE
     label: Including registration and payment
 - year: 2027
-  location: Linköping, Sweden
+  start: 2027-06-14
+  end: 2027-06-16
+  location: Linköping University, Linköping, Sweden
   url: https://ifipsec.org/
-  status: tentative
-  deadlines: []
+  deadlines:
+  - kind: submission
+    date: 2026-12-15
+    tz: AoE
+  - kind: notification
+    date: 2027-02-18
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-03-15
+    tz: AoE
+    label: Including registration and payment
 sources:
 - https://ifipsec.org/
 - https://ifipsec.org/cfp.html
@@ -58,6 +69,4 @@ sources:
 - https://history.ifipsec.org/
 - https://portal.core.edu.au/conf-ranks/?search=IFIP%20SEC&by=all&source=ICORE2026&sort=atitle&page=1
 - https://github.com/ccfddl/ccf-deadlines
-unverified:
-- IFIP SEC 2027 dates and deadlines not announced (only 'Linköping, Sweden next year' on the 2026 site)
-last_verified: 2026-09-28
+last_verified: 2026-11-07
