@@ -1,0 +1,68 @@
+id: acl-srw
+name: ACL SRW
+full_name: ACL Student Research Workshop
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACL (Association for Computational Linguistics), held with the ACL annual meeting
+organizer_country: [international]
+proceedings: ACL Anthology (ACL proceedings, Student Research Workshop volume)
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://2026.aclweb.org/calls/student_research_workshop/
+notes:
+- Student workshop held as part of the ACL annual meeting; topics are the same as the main ACL conference
+- First author must be a current student (high school to senior PhD); thesis proposals are a separate category
+- Long (8 pages), short (4 pages) and thesis proposal papers; double-blind review with at least three reviews
+- Two routes, direct submission on OpenReview or commitment of papers already reviewed in ACL Rolling Review
+- Authors choose archival or non-archival; archival papers appear as a volume of the ACL proceedings in the ACL Anthology
+- Optional pre-submission mentorship about six weeks before the direct submission deadline; travel grants for students
+- ACL 2026 SRW volume has 109 papers (2026.acl-srw in the ACL Anthology)
+- ACL 2027 is in Kyoto, Japan (Aug 17-22, 2027); its SRW call is marked coming soon
+editions:
+- year: 2026
+  start: 2026-07-05
+  end: 2026-07-07
+  location: San Diego, California, USA (with ACL 2026)
+  url: https://2026.aclweb.org/calls/student_research_workshop/
+  deadlines:
+  - kind: other
+    date: 2026-02-04
+    time: "23:59"
+    tz: AoE
+    label: Pre-submission mentorship
+  - kind: submission
+    date: 2026-03-18
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: other
+    date: 2026-04-15
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-04-24
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-08
+    time: "23:59"
+    tz: AoE
+sources:
+- https://2026.aclweb.org/calls/student_research_workshop/
+- https://2026.aclweb.org/
+- https://aclanthology.org/volumes/2026.acl-srw/
+- https://2027.aclweb.org/
+- https://2027.aclweb.org/calls/student_research_workshop/
+- https://portal.core.edu.au/conf-ranks/?search=SRW&by=all&source=ICORE2026
+unverified:
+- ACL 2027 SRW dates and deadlines not announced yet
+- Not listed separately in ICORE2026 or the CCF 2026 list
+last_verified: 2026-11-07

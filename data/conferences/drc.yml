@@ -1,0 +1,52 @@
+id: drc
+name: DRC
+full_name: Device Research Conference
+type: conference
+tier: major
+areas: [communications, general]
+region: north-america
+language: english
+frequency: annual
+organizer: DRC organizing committee (hosted by a US university each year; run with Conference Catalysts)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  conference_months: [6]
+links:
+  website: https://deviceresearchconference.org/
+notes:
+- Longest-running device research meeting; 84th edition in 2026
+- Covers device science, technology and modeling (2D materials, power, RF and THz, memory, neuromorphic, quantum, spintronic, optoelectronic devices)
+- Submission is a two-page abstract (one page of text and one page of figures) used as the sole basis for acceptance
+- Accepted abstracts are reproduced as submitted; authors can opt in to IEEE Xplore publication, which needs registration and in-person presentation
+- Program includes plenary and invited talks, a short course, rump sessions and a Young Professionals workshop
+- Held on a US university campus each June (Ann Arbor 2026, Minneapolis 2027)
+- Not ranked by CORE or CCF, whose lists cover computing venues
+editions:
+- year: 2026
+  start: 2026-06-21
+  end: 2026-06-24
+  location: University of Michigan (Michigan League), Ann Arbor, MI, USA
+  url: https://deviceresearchconference.org/2026
+  deadlines:
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Final paper and author registration
+- year: 2027
+  start: 2027-06-20
+  end: 2027-06-23
+  location: University of Minnesota, Minneapolis, MN, USA
+  url: https://deviceresearchconference.org/
+sources:
+- https://deviceresearchconference.org/
+- https://deviceresearchconference.org/2026/authors/initial-author-instructions
+- https://deviceresearchconference.org/2026/authors/final-paper-submission-instructions
+- https://deviceresearchconference.org/2026/about/organizing-committee
+- https://deviceresearchconference.org/2026/travel-and-venue/venue
+- https://portal.core.edu.au/conf-ranks/?search=DRC&by=all&source=ICORE2026
+unverified:
+- DRC 2026 abstract submission deadline not stated on the official pages checked; DRC 2027 call for papers not yet published
+- IEEE sponsorship of the conference not stated on the official pages checked
+- Not listed on the CORE portal (ICORE2026) and not on the CCF 2026 list
+last_verified: 2026-11-07

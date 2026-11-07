@@ -1,0 +1,60 @@
+id: reneuir
+name: ReNeuIR
+full_name: Workshop on Reaching Efficiency in Neural Information Retrieval
+type: workshop
+tier: minor
+areas: [data, nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Friedrich-Schiller-Universitaet Jena, University of Kassel, ISTI-CNR Pisa in 2026)
+organizer_country: [europe]
+proceedings: CEUR-WS (announced in the CFP)
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7]
+links:
+  website: https://reneuir.org/
+notes:
+- Workshop on efficiency of neural information retrieval models (fast training and inference, distillation, pruning, quantization, efficiency evaluation)
+- Co-located with ACM SIGIR every year since 2022 (Madrid 2022, Taipei 2023, Washington D.C. 2024, Padua 2025, Melbourne 2026)
+- Runs an efficiency-oriented IR shared task alongside the paper call since 2024
+- Posters up to 6 pages and articles of 10 to 20 pages in CEUR-ART single-column style; single-blind review, submission via EasyChair
+- Extensions or revisions of already published articles are welcome
+- The CFP states that accepted papers appear in CEUR proceedings, with the final proceedings deadline after the workshop
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-24
+  end: 2026-07-24
+  location: Melbourne, Australia (co-located with SIGIR 2026)
+  url: https://reneuir.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-10
+    time: "23:59"
+    tz: AoE
+    label: Extended (originally May 27)
+  - kind: notification
+    date: 2026-06-24
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-07-15
+    time: "23:59"
+    tz: AoE
+    label: Shared task deadline
+sources:
+- https://reneuir.org/
+- https://reneuir.org/cfp.html
+- https://reneuir.org/program.html
+- https://reneuir.org/organization.html
+- https://reneuir.org/2025/cfp.html
+- https://reneuir.org/2024/cfp.html
+- https://ceur-ws.org/
+- https://portal.core.edu.au/conf-ranks/?search=ReNeuIR&by=all&source=ICORE2026
+unverified:
+- No ReNeuIR volume found in the CEUR-WS index as of 2026-11-07, although the CFPs since 2023 announce CEUR proceedings
+- No 2027 edition announced as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

@@ -1,0 +1,67 @@
+id: scp-conf
+name: SCP
+full_name: Conference on Sociotechnical Cybersecurity and Privacy
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: SCP Steering Committee; 2026 hosted by the University of Luxembourg (SnT)
+organizer_country: [europe]
+proceedings: IEEE CPS (Conference Publishing Services)
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://scpconf.eu/
+notes:
+- New conference formed by merging EuroUSEC (European Symposium on Usable Security) and STAST (International Workshop
+  on Socio-Technical Aspects in Security)
+- Usable security and privacy, human factors, socio-technical analysis of incidents, policies and regulations
+- Full papers 8 to 12 pages including references and appendices, IEEE conference template (A4), double-anonymous
+  review by at least two PC members via EasyChair
+- Abstract registration is mandatory about one week before the paper deadline
+- Accepted papers are published by IEEE through Conference Publishing Services (CPS)
+- First edition held in Belval, Luxembourg, 2 to 3 September 2026; general chairs Gabriele Lenzini (University of
+  Luxembourg) and Karen Renaud (University of Strathclyde)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-02
+  end: 2026-09-03
+  location: Belval, Luxembourg
+  url: https://scpconf.eu/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-27
+    time: "23:59"
+    tz: AoE
+    label: Abstract registration (extended from May 20)
+  - kind: submission
+    date: 2026-06-01
+    time: "23:59"
+    tz: AoE
+    label: Extended from May 25
+  - kind: notification
+    date: 2026-07-07
+    time: "23:59"
+    tz: AoE
+    label: Extended from Jun 25
+  - kind: camera_ready
+    date: 2026-08-03
+    time: "23:59"
+    tz: AoE
+    label: Extended from Jul 27
+sources:
+- https://scpconf.eu/
+- https://scpconf.eu/calls.html
+- https://scpconf.eu/submission.html
+- https://scpconf.eu/committee.html
+- https://portal.core.edu.au/conf-ranks/?search=SCP&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=EuroUSEC&by=all&source=ICORE2026
+unverified:
+- SCP 2027 not announced yet; annual frequency assumed from the annual EuroUSEC and STAST predecessors
+- Region taken from the European predecessors and the 2026 edition only
+last_verified: 2026-11-07

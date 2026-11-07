@@ -1,0 +1,57 @@
+id: nsad
+name: NSAD
+full_name: ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domains
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: ACM DL (full papers only)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10]
+links:
+  website: https://2026.splashcon.org/home/nsad-2026
+notes:
+- Workshop on abstract domains for abstract interpretation, static analysis and verification (numerical, symbolic and shape domains)
+- Usually held with SAS (Static Analysis Symposium); recent editions at SPLASH 2020 (online), SPLASH 2024 (Pasadena) and SPLASH/ISSTA 2026 (Oakland)
+- Not held every year (2020, 2024 and 2026 on the researchr series page); 2026 was the 11th edition
+- Full papers (6-8 pages, double-blind) go into the ACM Digital Library; short papers (2-4 pages, single-blind) appear only on the workshop website
+- Two-phase submission in 2026 (June and July deadlines) for the same program
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-10-07
+  end: 2026-10-07
+  location: Oakland, California, USA (with SPLASH/ISSTA 2026 and SAS 2026)
+  url: https://2026.splashcon.org/home/nsad-2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-21
+    tz: AoE
+    label: First phase
+  - kind: submission
+    date: 2026-07-17
+    tz: AoE
+    label: Second phase
+  - kind: notification
+    date: 2026-08-17
+    tz: AoE
+    label: Second phase
+  - kind: camera_ready
+    date: 2026-08-28
+    tz: AoE
+sources:
+- https://2026.splashcon.org/home/nsad-2026
+- https://2024.splashcon.org/home/nsad-2024
+- https://conf.researchr.org/series/nsad
+- https://portal.core.edu.au/conf-ranks/?search=NSAD&by=all&source=ICORE2026
+unverified:
+- Next edition not announced yet
+- Notification date for first-phase submissions not stated on the official page
+- Not checked against the CCF 2026 list (workshop; rank.ccf left out)
+last_verified: 2026-11-07

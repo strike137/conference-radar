@@ -1,0 +1,68 @@
+id: spelll
+name: SPELLL
+full_name: International Conference on Speech and Language Technologies for Low-resource Languages
+type: conference
+tier: minor
+areas: [nlp]
+region: south-asia
+language: english
+frequency: annual
+organizer: SPELLL organizing committee (rotating host institutions in India)
+organizer_country: [india]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11, 12]
+links:
+  website: https://spelll.org/
+notes:
+- Speech and language technology for low-resource and minority languages; tracks on language resources, language technologies, speech technologies, vision and NLP, and NLP applications
+- Proceedings in Springer CCIS; submissions in the Springer template, double-blind review on OpenReview
+- Held in India every year at a different host (SSN College of Engineering 2022, Kongu Engineering College 2023, VIT Chennai 2024, IIIT Kottayam 2025, Amrita Vishwa Vidyapeetham Coimbatore 2026)
+- SPELLL 2025 was hybrid
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-18
+  end: 2025-12-20
+  location: Kottayam, India (IIIT Kottayam, hybrid)
+  url: https://spelll.org/SPELLL2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-09-03
+    time: "23:59"
+    tz: IST
+    label: Extended from 2025-08-20
+  - kind: notification
+    date: 2025-11-10
+  - kind: camera_ready
+    date: 2025-11-20
+- year: 2026
+  start: 2026-12-17
+  end: 2026-12-19
+  location: Coimbatore, India (Amrita Vishwa Vidyapeetham)
+  url: https://spelll.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-12
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-20
+  - kind: camera_ready
+    date: 2026-10-03
+sources:
+- https://spelll.org/
+- https://spelll.org/imp-dates.html
+- https://spelll.org/callforpapers.html
+- https://spelll.org/SPELLL2025/index.html
+- https://spelll.org/SPELLL2025/imp-dates.html
+- https://spelll.org/SPELLL2024/index.html
+- https://spelll.org/SPELLL2023/index.html
+- https://spelll.org/SPELLL2023/SPELLL2022/index.html
+- https://portal.core.edu.au/conf-ranks/?search=SPELLL&by=all&source=ICORE2026
+unverified:
+- SPELLL 2025 deadline time zone stated ambiguously ("11:59 PM IST (Anywhere on Earth)")
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-07

@@ -1,0 +1,78 @@
+id: qip
+name: QIP
+full_name: Annual Conference on Quantum Information Processing
+type: conference
+tier: top
+areas: [general, crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: QIP Steering Committee with a local host each year (2027 Centre for Quantum Technologies, Singapore)
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [9, 10]
+  conference_months: [1, 2]
+links:
+  website: https://qipconference.org/2027/
+notes:
+- Largest and leading conference on the theory of quantum information and computation (algorithms, complexity, error correction, cryptography, information theory); held since 1998
+- "No published proceedings by charter: work already published elsewhere can be presented"
+- Talk submission is an extended abstract of at most 3 pages plus the full paper, which must be public on arXiv by the deadline; separate later poster deadline
+- Contributed talks are highly selective (charter mentions around 32 accepted talks); posters are generally accepted unless off-topic
+- Single-track week with tutorials on the weekend before; recent editions draw nearly 1,000 participants
+- Location rotates worldwide (Ghent 2023, Taipei 2024, Raleigh 2025, Riga 2026, Singapore 2027)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-01-24
+  end: 2026-01-30
+  location: University of Latvia, Riga, Latvia
+  url: https://qip2026.lu.lv/
+  deadlines:
+  - kind: submission
+    date: 2025-09-12
+    tz: AoE
+    label: Talks
+  - kind: submission
+    date: 2025-10-10
+    tz: AoE
+    label: Poster-only
+  - kind: notification
+    date: 2025-11-07
+- year: 2027
+  start: 2027-02-20
+  end: 2027-02-26
+  location: University Cultural Centre, NUS, Singapore (hosted by CQT)
+  url: https://qipconference.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-28
+    time: "23:59"
+    tz: AoE
+    label: Talk registration
+  - kind: submission
+    date: 2026-10-05
+    time: "23:59"
+    tz: AoE
+    label: Talks
+  - kind: notification
+    date: 2026-11-30
+    label: Talks
+  - kind: submission
+    date: 2026-12-04
+    time: "23:59"
+    tz: AoE
+    label: Posters (rolling decisions)
+sources:
+- https://qipconference.org/2027/
+- https://qipconference.org/2027/call/
+- https://qipconference.org/2027/about-qip/
+- https://qip2026.lu.lv/
+- https://qip.iaqi.org/previousqips
+- https://qip.iaqi.org/qipcharter
+- https://portal.core.edu.au/conf-ranks/?search=QIP&by=all&source=ICORE2026
+unverified:
+- CCF 2026 list not checked directly on ccf.org.cn
+last_verified: 2026-11-07

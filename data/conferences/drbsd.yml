@@ -1,0 +1,53 @@
+id: drbsd
+name: DRBSD
+full_name: International Workshop on Data Analysis and Reduction for Big Scientific Data
+type: workshop
+tier: minor
+areas: [data, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: DRBSD organizing committee (Argonne National Laboratory and partners), held with SC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (ACM DL 2025)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://drbsd.github.io/
+notes:
+- One-day workshop on data reduction, lossy compression and online analysis of large scientific data, held with SC; 2025 was the 11th edition (DRBSD-11)
+- In cooperation with IEEE Computer Society and ACM
+- Full papers (10 pages including references) and short papers (6 pages), single-blind ACM format, at least three reviews
+- All accepted papers appear in the SC workshop proceedings (ACM DL for SC25)
+- Best Paper, Best Paper Runner-up and Best Short Paper awards
+- Held at SC every year in the USA (Denver 2023, Atlanta 2024, St. Louis 2025)
+- Not among the workshops announced for SC26
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: America's Center, St. Louis, MO, USA (with SC25)
+  url: https://drbsd.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-08-25
+    tz: AoE
+    label: Full papers (extended from 2025-08-15)
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-22
+    tz: AoE
+sources:
+- https://drbsd.github.io/
+- https://drbsd.github.io/drbsd2024.html
+- https://drbsd.github.io/drbsd2023.html
+- https://sc25.supercomputing.org/program/proceedings-archives/
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=DRBSD&by=all&source=ICORE2026
+unverified:
+- No 2026 edition announced; DRBSD is not in the SC26 workshop list
+last_verified: 2026-11-07

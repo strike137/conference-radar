@@ -1,0 +1,68 @@
+id: icuas
+name: ICUAS
+full_name: International Conference on Unmanned Aircraft Systems
+type: conference
+tier: minor
+areas: [ai, systems]
+region: europe
+language: english
+frequency: annual
+organizer: ICUAS Association, Inc.
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://uasconferences.com/
+notes:
+- Run by the ICUAS Association, Inc., a non-profit registered in Colorado, USA; IEEE and IEEE CSS are technical sponsors
+- Aerial robotics and unmanned aviation (perception, navigation, control, aerial manipulation, regulation and safety)
+- All ICUAS proceedings are on IEEE Xplore according to the association
+- Papers up to 8 pages in IEEE two-column format via PaperCept, at least three reviewers; double-blind review from ICUAS 2027 following IEEE RAS rules
+- Physical presence only; first day for workshops and tutorials, then three technical days with a UAV competition
+- Held in the USA until 2019, then mostly Greece and elsewhere in Europe (Athens, Dubrovnik, Warsaw, Chania, Corfu, Charlotte in 2025); 2027 in Fortaleza, Brazil
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-18
+  location: Divani Corfu Palace, Corfu, Greece
+  url: https://uasconferences.com/2026_icuas/
+  deadlines:
+  - kind: submission
+    date: 2026-02-27
+    label: Full papers, invited sessions, tutorial proposals
+  - kind: notification
+    date: 2026-04-20
+  - kind: camera_ready
+    date: 2026-04-30
+- year: 2027
+  start: 2027-06-14
+  end: 2027-06-17
+  location: Gran Mareiro Hotel, Fortaleza, Brazil
+  url: https://uasconferences.com/2027_icuas/
+  deadlines:
+  - kind: submission
+    date: 2027-02-05
+    label: Full and invited papers, invited session and workshop/tutorial proposals
+  - kind: notification
+    date: 2027-04-23
+  - kind: camera_ready
+    date: 2027-04-30
+sources:
+- https://uasconferences.com/2027_icuas/
+- https://uasconferences.com/2027_icuas/call-for-papers/
+- https://uasconferences.com/2027_icuas/double-blind-paper-reviews/
+- https://uasconferences.com/2026_icuas/
+- https://uasconferences.com/2026_icuas/call-for-papers/
+- https://uasconferences.com/2026_icuas/sponsors/
+- https://icuas.com/conference
+- https://icuas.com/
+- https://portal.core.edu.au/conf-ranks/?search=ICUAS&by=all&source=ICORE2026
+unverified:
+- CCF 2026 list not checked directly; rank.ccf left out
+- dblp page could not be opened (bot check), so no dblp link
+last_verified: 2026-11-07

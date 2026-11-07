@@ -1,0 +1,65 @@
+id: nesecor
+name: NeSecOr
+full_name: Workshop on Network Security Operations
+type: workshop
+tier: minor
+areas: [security, networking]
+region: europe
+language: english
+frequency: annual
+organizer: Martin Husák (Masaryk University) and Brian Lee (Technological University of the Shannon), workshop chairs in 2024
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [10]
+links:
+  website: https://sites.google.com/mail.muni.cz/nesecor-2025
+notes:
+- Workshop co-located with CNSM (Prague 2024, Bologna 2025)
+- Topics are network monitoring and intrusion detection, NOC/SOC operations, SOAR and automation of security workflows, cyber situational awareness and resilience
+- Regular papers up to 7 pages and short papers up to 4 pages in IEEE two-column format (2024); submission via EDAS
+- Presented workshop papers appear in the CNSM proceedings on IEEE Xplore
+- Not among the CNSM 2026 workshops
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2024
+  label: 1st NeSecOr (at CNSM 2024)
+  start: 2024-10-28
+  end: 2024-10-28
+  location: Prague, Czech Republic (with CNSM 2024)
+  url: http://www.cnsm-conf.org/2024/NeSecOr.html
+  deadlines:
+  - kind: submission
+    date: 2024-09-06
+    tz: AoE
+    label: Extended from 2024-08-23
+  - kind: notification
+    date: 2024-09-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-09-27
+    tz: AoE
+- year: 2025
+  label: 2nd NeSecOr (at CNSM 2025)
+  start: 2025-10-31
+  end: 2025-10-31
+  location: Bologna, Italy (with CNSM 2025)
+  url: https://sites.google.com/mail.muni.cz/nesecor-2025
+  deadlines:
+  - kind: submission
+    date: 2025-08-31
+    label: Extended deadline for all CNSM 2025 workshops
+sources:
+- http://www.cnsm-conf.org/2024/NeSecOr.html
+- http://www.cnsm-conf.org/2024/workshops.html
+- http://www.cnsm-conf.org/2025/workshops.html
+- http://www.cnsm-conf.org/2025/program.html
+- http://www.cnsm-conf.org/2025/authors.html
+- http://www.cnsm-conf.org/2026/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=NeSecOr&by=all&source=ICORE2026
+unverified:
+- NeSecOr 2025 site requires a Google sign-in; 2025 notification and camera-ready dates not confirmed
+- No 2026 edition found (not on the CNSM 2026 workshops page)
+last_verified: 2026-11-07

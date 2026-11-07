@@ -1,0 +1,50 @@
+id: wqunets
+name: WQuNets
+full_name: Quantum Networks Workshop
+name_local: Workshop de Redes Quânticas
+type: workshop
+tier: domestic
+areas: [networking, crypto]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação), co-located with SBRC
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://sbrc.sbc.org.br/2026/wqunets/
+notes:
+- Co-located workshop of SBRC, the Brazilian Symposium on Computer Networks and Distributed Systems run by the
+  Brazilian Computer Society (SBC); 3rd edition (III WQuNets) in 2026
+- Covers quantum networks and quantum internet, quantum key distribution, quantum repeaters and routers, and
+  post-quantum cryptography
+- Papers in Portuguese or English, up to 6 pages including references in the SBC template; submission through JEMS3
+- Accepted papers published in the SBC digital library on the SOL platform; organizers planned to negotiate a JBCS
+  special issue for the best papers (not confirmed)
+- One-day workshop held with SBRC in a different Brazilian city each year (Praia do Forte, Bahia in 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-27
+  end: 2026-05-27
+  location: Praia do Forte, Bahia, Brazil (SBRC 2026)
+  url: https://sbrc.sbc.org.br/2026/wqunets/
+  deadlines:
+  - kind: submission
+    date: 2026-03-30
+    label: Papers (extended from 2026-03-20)
+  - kind: notification
+    date: 2026-04-14
+  - kind: camera_ready
+    date: 2026-04-17
+sources:
+- https://sbrc.sbc.org.br/2026/wqunets/
+- https://portal.core.edu.au/conf-ranks/?search=WQuNets&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- WQuNets 2027 (SBRC 2027) dates and location not yet announced
+- Review process (single or double blind) not described on the call
+last_verified: 2026-11-07

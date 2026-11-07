@@ -1,0 +1,64 @@
+id: dasc-icde
+name: DASC
+full_name: International Workshop on Data-Driven Smart Cities
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: DASC workshop organizers (University of Oulu, University of Helsinki, CentraleSupelec / Paris-Saclay University); co-located with IEEE ICDE
+organizer_country: [europe]
+proceedings: IEEE ICDE Workshops proceedings (published alongside the ICDE proceedings)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5]
+links:
+  website: https://dasc2026.wordpress.com/
+notes:
+- Workshop on data management, analytics and AI for smart cities (IoT data, stream processing, digital twins, applications)
+- Not to be confused with IEEE DASC (Dependable, Autonomic and Secure Computing) or the AIAA/IEEE Digital Avionics Systems Conference
+- 6th edition with ICDE 2025 in Hong Kong, 7th edition with ICDE 2026 in Montreal
+- Papers up to 8 pages in IEEE format via EasyChair; each paper reviewed by at least two reviewers
+- ICDE 2026 call for workshops says workshop proceedings are published jointly alongside the conference proceedings
+- Small program in 2026 (one invited talk, four research papers, a panel)
+- Organized by Ekaterina Gilman, Xiang Su and Francesca Bugiotti
+- Not listed in CORE ICORE2026 (the DASC entry there is Dependable, Autonomic and Secure Computing) and not on the CCF list
+editions:
+- year: 2026
+  label: 7th edition, with ICDE 2026
+  start: 2026-05-08
+  end: 2026-05-08
+  location: Montreal, Canada
+  url: https://dasc2026.wordpress.com/
+  deadlines:
+  - kind: submission
+    date: 2026-02-02
+    time: "23:59"
+    tz: CEST
+    label: Extended from January 18
+  - kind: notification
+    date: 2026-02-27
+    time: "23:59"
+    tz: CEST
+    label: Moved from February 16
+  - kind: camera_ready
+    date: 2026-03-18
+    label: Moved from March 9
+sources:
+- https://dasc2026.wordpress.com/
+- https://dasc2026.wordpress.com/call-for-papers/
+- https://dasc2026.wordpress.com/program/
+- https://dasc2026.wordpress.com/organizers/
+- https://dasc2025.wordpress.com/
+- https://icde2026.github.io/workshops.html
+- https://icde2026.github.io/cf-workshop-proposals.html
+- https://portal.core.edu.au/conf-ranks/?search=DASC&by=all&source=ICORE2026
+unverified:
+- The call for papers page lists the workshop date as May 4, 2026, while the home page and the ICDE 2026 workshops page list May 8, 2026 (May 8 used)
+- The call states deadlines in CEST although CET applied in January and February
+- The workshop page does not itself name the proceedings; taken from the ICDE 2026 call for workshops, and inclusion in IEEE Xplore was not confirmed
+- Venues of editions 1 to 5 not checked; region set from the 2025 and 2026 editions
+- No 2027 edition announced as of November 2026
+last_verified: 2026-11-07

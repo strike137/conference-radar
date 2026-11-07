@@ -1,0 +1,63 @@
+id: mfps
+name: MFPS
+full_name: Conference on Mathematical Foundations of Programming Semantics
+type: conference
+tier: major
+areas: [general, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: MFPS Organizers
+organizer_country: [international]
+proceedings: ENTICS (Episciences)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6, 7]
+links:
+  website: https://mfpsconf.org/
+  dblp: https://dblp.org/db/conf/mfps/index.html
+notes:
+- Conference on the semantics of programming languages and its logical and mathematical foundations (domain theory, category theory, type theory, process calculi, quantum computation)
+- Programme mixes plenary talks, special sessions on chosen topics and contributed papers
+- Final proceedings in Electronic Notes in Theoretical Informatics and Computer Science (ENTICS), an open-access overlay series on Episciences; a preliminary version is handed out at the meeting
+- Papers of at most 15 pages using the MFPS macros, submitted via EasyChair
+- Often co-located with CALCO (odd years) or other meetings such as QPL, ACT or SSTT
+- Held in Europe and North America (Ithaca 2022, Bloomington 2023, Oxford 2024, Glasgow 2025, Ljubljana 2026, Erlangen 2027)
+- Ranked B in ICORE2026
+editions:
+- year: 2026
+  label: MFPS XLII
+  start: 2026-06-01
+  end: 2026-06-03
+  location: Ljubljana, Slovenia (University of Ljubljana, co-located with SSTT 2026)
+  url: https://ul-fmf.github.io/mfps-sstt-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-12
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-04-23
+- year: 2027
+  label: MFPS XLIII
+  start: 2027-07-12
+  end: 2027-07-16
+  location: Erlangen, Germany (FAU, joint with CALCO 2027)
+  url: https://www.coalg.org/calco-mfps-2027/
+sources:
+- https://mfpsconf.org/
+- https://mfpsconf.org/recent-meetings
+- https://www.mfpsconf.org/mfps-organizers/
+- https://ul-fmf.github.io/mfps-sstt-2026/
+- https://ul-fmf.github.io/mfps-sstt-2026/mfps-call-for-papers/
+- https://www.coalg.org/calco-mfps-2025/
+- https://www.coalg.org/calco-mfps-2027/
+- https://portal.core.edu.au/conf-ranks/?search=MFPS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- MFPS 2027 dates are for the joint CALCO and MFPS event; the call for papers is not yet published
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn blocks automated access)
+last_verified: 2026-11-07

@@ -1,0 +1,67 @@
+id: psb
+name: PSB
+full_name: Pacific Symposium on Biocomputing
+type: conference
+tier: minor
+areas: [ai, data]
+region: north-america
+language: english
+frequency: annual
+organizer: PSB organizing committee (coordinated from the Altman Lab, Stanford University)
+organizer_country: [usa]
+proceedings: World Scientific (open access proceedings, PubMed indexed)
+archival: true
+indexing: [PubMed, DBLP]
+rank:
+  core: 'National: USA'
+typical:
+  deadline_months: [8]
+  conference_months: [1]
+links:
+  website: https://psb.stanford.edu/
+  dblp: https://dblp.org/db/conf/psb/index.html
+notes:
+- Computational biology and biomedical informatics conference held since 1996; 2027 is the 32nd edition
+- Held every January at the Fairmont Orchid on the Big Island of Hawaii (2021 was virtual)
+- Sessions are defined each year from session proposals (AI in clinical medicine, NLP for clinical LLMs, precision
+  medicine, systems biology in 2027)
+- Peer-reviewed full papers published as open access (CC BY 4.0) chapters by World Scientific and indexed in PubMed
+- Separate abstract/poster track with a late deadline; workshops before the main sessions
+- CORE National USA (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-04
+  end: 2026-01-08
+  location: Fairmont Orchid, Big Island of Hawaii, USA
+  url: https://psb.stanford.edu/previous/psb26/
+- year: 2027
+  start: 2027-01-03
+  end: 2027-01-07
+  location: Fairmont Orchid, Big Island of Hawaii, USA
+  url: https://psb.stanford.edu/
+  deadlines:
+  - kind: submission
+    date: 2026-08-03
+  - kind: notification
+    date: 2026-09-08
+  - kind: camera_ready
+    date: 2026-10-01
+    time: "23:59"
+    tz: PDT
+  - kind: other
+    date: 2026-12-01
+    time: "23:59"
+    tz: PST
+    label: Abstract/poster submission
+sources:
+- https://psb.stanford.edu/
+- https://psb.stanford.edu/keydates
+- https://psb.stanford.edu/callfor/papers
+- https://psb.stanford.edu/welcome
+- https://psb.stanford.edu/previous/psb26/
+- https://psb.stanford.edu/previous/psb25/
+- https://psb.stanford.edu/previous/psb21/
+- https://psb.stanford.edu/psb-online/proceedings/psb26/
+- https://psb.stanford.edu/contact
+- https://portal.core.edu.au/conf-ranks/?search=PSB&by=all&source=ICORE2026
+last_verified: 2026-11-07

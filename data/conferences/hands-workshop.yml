@@ -1,0 +1,82 @@
+id: hands-workshop
+name: HANDS
+full_name: International Workshop on Observing and Understanding Hands in Action
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: HANDS workshop organizing committee (2026 organizers from University of Birmingham, Shanghai AI Laboratory, NTU, Yale,
+  SJTU, Zhejiang University, Meta Reality Labs, University of Tokyo, NUS); co-located with ICCV or ECCV
+organizer_country: [international]
+proceedings: ICCV Workshops proceedings (IEEE Xplore, CVF Open Access) or ECCV Workshops proceedings (Springer LNCS)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://hands-workshop.org
+notes:
+- Half-day workshop on hand perception, hand pose estimation, hand-object interaction and dexterous manipulation, with challenges
+- Held with ICCV or ECCV; editions 2015 to 2019 and every year since 2022 (2025 at ICCV Honolulu was the ninth edition)
+- Renamed DexHAND ("Observing and Acting as Dexterous Hands") for the ECCV 2026 edition in Malmo, adding robotic dexterous hands
+- Full-length papers are anonymized, one-round peer reviewed on OpenReview and go into the host conference workshop proceedings
+- Extended abstracts and posters are not peer reviewed and are only shown on the workshop website (non-archival track)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Honolulu, Hawaii, USA (with ICCV 2025)
+  url: https://hands-workshop.org/workshop2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-07-01
+    time: "23:59"
+    tz: UTC
+    label: Full-length papers (extended)
+  - kind: notification
+    date: 2025-07-09
+    label: Full-length papers
+  - kind: camera_ready
+    date: 2025-08-01
+    label: Full-length papers
+  - kind: other
+    date: 2025-08-30
+    time: "23:59"
+    tz: UTC
+    label: Extended abstracts and posters (non-proceedings)
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026, as DexHAND)
+  url: https://hands-workshop.org/workshop2026.html
+  deadlines:
+  - kind: submission
+    date: 2026-07-16
+    time: "23:59"
+    tz: UTC
+    label: Full-length papers (extended)
+  - kind: notification
+    date: 2026-08-03
+    label: Full-length papers
+  - kind: camera_ready
+    date: 2026-08-10
+    time: "23:59"
+    tz: UTC
+    label: Full-length papers
+  - kind: other
+    date: 2026-08-31
+    time: "23:59"
+    tz: UTC
+    label: Extended abstracts and posters (non-proceedings, extended)
+sources:
+- https://hands-workshop.org/workshop2026.html
+- https://hands-workshop.org/workshop2025.html
+- https://openaccess.thecvf.com/ICCV2025_workshops/HANDS
+- https://openaccess.thecvf.com/ICCV2025_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=HANDS&by=all&source=ICORE2026
+unverified:
+- Next edition (2027, presumably with ICCV 2027) not announced yet
+last_verified: 2026-11-07

@@ -1,0 +1,58 @@
+id: cvamd
+name: CVAMD
+full_name: Workshop on Computer Vision for Automated Medical Diagnosis
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Organizing team from HKU, Stanford, UCSC, UCLA, HKUST, Helmholtz Munich, Weill Cornell Medicine and UT Austin; co-located with ICCV
+organizer_country: [usa, china, europe]
+proceedings: CVF Open Access (ICCV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10]
+links:
+  website: https://cvamd.github.io/CVAMD2025/
+notes:
+- Workshop on computer vision for medical diagnosis (foundation models and LLMs in healthcare, segmentation, multimodal biomedical imaging, fairness and robustness)
+- Held with ICCV 2023 (Paris) and ICCV 2025 (Honolulu); 2025 was the 3rd edition
+- Long papers (4 to 8 pages, ICCV format) go into the ICCV Workshops proceedings; extended abstracts (2 to 4 pages) and 1-page highlights are non-archival
+- Submission through OpenReview; anonymous review
+- 49 papers on CVF Open Access for ICCV 2025, 50 for ICCV 2023
+- Ran the CXR-LT chest X-ray long-tail competition alongside the 2023 edition
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 3rd CVAMD, with ICCV 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, Hawaii, USA (Hawaii Convention Center)
+  url: https://cvamd.github.io/CVAMD2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 21
+  - kind: notification
+    date: 2025-07-10
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-16
+    time: "23:59"
+    tz: AoE
+sources:
+- https://cvamd.github.io/CVAMD2025/
+- https://cvamd.github.io/CVAMD2023/
+- https://openaccess.thecvf.com/ICCV2025_workshops/CVAMD
+- https://openaccess.thecvf.com/ICCV2023_workshops/CVAMD
+- https://portal.core.edu.au/conf-ranks/?search=CVAMD&by=all&source=ICORE2026
+unverified:
+- Host conference and year of the 2nd edition not found on the official pages
+- Next edition not announced yet (no CVAMD 2026 or 2027 page)
+- IEEE Xplore inclusion of the ICCV 2025 workshop papers not stated on the workshop page
+last_verified: 2026-11-07

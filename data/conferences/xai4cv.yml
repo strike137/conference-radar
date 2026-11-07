@@ -1,0 +1,58 @@
+id: xai4cv
+name: XAI4CV
+full_name: Explainable AI for Computer Vision Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers from Universidad Carlos III de Madrid, Stanford, Duke, Fraunhofer HHI,
+  University of Calgary, Boston University, UIUC, MPI for Informatics, UT Austin and DTU); co-located with CVPR
+organizer_country: [international]
+proceedings: CVF Open Access (CVPR Workshops proceedings), proceedings track only
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://xai4cv-workshop.github.io/xai4cv2026/
+notes:
+- Half-day CVPR workshop on explainable and interpretable computer vision; the 2026 edition was the 5th
+- Two tracks; proceedings track (max 8 pages) goes into the CVPR workshop proceedings, non-proceedings track (max 4 pages) does not
+- Accepts papers and demos; anonymized CVPR format, submitted through Microsoft CMT
+- 14 proceedings track papers in 2026 and 12 in 2025 on CVF Open Access
+- All accepted papers are presented as in-person posters; some are picked as spotlights
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://xai4cv-workshop.github.io/xai4cv2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-27
+    tz: AoE
+    label: Proceedings track
+  - kind: notification
+    date: 2026-03-20
+    tz: AoE
+    label: Proceedings track
+  - kind: camera_ready
+    date: 2026-04-07
+    tz: AoE
+    label: Proceedings track
+  - kind: other
+    date: 2026-03-20
+    tz: AoE
+    label: Non-proceedings track (extended, for spotlights)
+sources:
+- https://xai4cv-workshop.github.io/xai4cv2026/
+- https://openaccess.thecvf.com/CVPR2026_workshops/XAI4CV
+- https://openaccess.thecvf.com/CVPR2025_workshops/XAI4CV
+- https://openaccess.thecvf.com/CVPR2023_workshops/XAI4CV
+- https://portal.core.edu.au/conf-ranks/?search=XAI4CV&by=all&source=ICORE2026
+unverified:
+- Next edition (XAI4CV 2027) not announced yet
+last_verified: 2026-11-07

@@ -1,0 +1,58 @@
+id: h2rc
+name: H2RC
+full_name: International Workshop on Heterogeneous High-performance Reconfigurable Computing
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: H2RC organizers (University of South Carolina, AMD, KAUST), held with SC
+organizer_country: [international]
+proceedings: SC Workshops Proceedings (IEEE Xplore 2026, ACM DL 2025)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://h2rc.cse.sc.edu/
+notes:
+- Half-day workshop on FPGAs and other spatial or reconfigurable architectures (CGRAs, AI engines, dataflow processors) in HPC, held with SC every year since 2015; 2026 is the 12th edition
+- Track 1 full papers (up to 8 pages excluding references, IEEE format) published in the SC Workshop Proceedings; Track 2 two-page extended abstracts for talks only, not published
+- Single-blind review by at least three program committee members
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-21
+  end: 2025-11-21
+  location: St. Louis, MO, USA (with SC25)
+  url: http://h2rc.cse.sc.edu/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-13
+    label: Papers (extended from 2025-08-06)
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-26
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-16
+  location: Chicago, IL, USA (with SC26)
+  url: https://h2rc.cse.sc.edu/
+  deadlines:
+  - kind: submission
+    date: 2026-08-15
+    label: Papers (extended from 2026-08-05)
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://h2rc.cse.sc.edu/
+- https://h2rc.cse.sc.edu/submissions.html
+- http://h2rc.cse.sc.edu/2025/
+- https://sc25.supercomputing.org/program/proceedings-archives/
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=H2RC&by=all&source=ICORE2026
+last_verified: 2026-11-07

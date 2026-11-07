@@ -1,0 +1,61 @@
+id: fun
+name: FUN
+full_name: International Conference on Fun with Algorithms
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: biennial
+organizer: FUN Steering Committee
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: "National: Italy"
+typical:
+  deadline_months: [1]
+  conference_months: [5, 6]
+links:
+  website: https://fun2026.limos.fr/
+  dblp: https://dblp.org/db/conf/fun/index.html
+notes:
+- Algorithms conference for results that are fun (elegant, surprising, witty) but original and scientifically solid
+- Held every two years (even years), traditionally on an Italian island (Elba, Lipari, La Maddalena, Favignana); FUN 2026 was on Porquerolles, France
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl); FUN 2026 is LIPIcs volume 366
+- Paper registration with abstract six days before the paper deadline
+- No length limit for submissions; final versions are limited to 20 pages in LIPIcs style
+- Selected papers invited to a special issue of Theoretical Computer Science
+- At least one author of each accepted paper must attend in person
+- "Ranked National: Italy in ICORE2026"
+- FUN 2028 announced for Elba, Italy (dates not yet published)
+editions:
+- year: 2026
+  label: 13th FUN
+  start: 2026-05-18
+  end: 2026-05-22
+  location: Porquerolles, France
+  url: https://fun2026.limos.fr/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-07
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-01-13
+    tz: AoE
+  - kind: notification
+    date: 2026-02-17
+  - kind: camera_ready
+    date: 2026-03-03
+sources:
+- https://fun2026.limos.fr/
+- https://fun2026.limos.fr/cfp/
+- https://fun2026.limos.fr/commitees/
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-366
+- https://portal.core.edu.au/conf-ranks/?search=FUN&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- FUN 2028 dates and deadlines not yet announced
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn blocks automated access)
+last_verified: 2026-11-07

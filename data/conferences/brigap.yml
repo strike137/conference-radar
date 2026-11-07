@@ -1,0 +1,60 @@
+id: brigap
+name: BriGap
+full_name: Workshop on the Bridges and Gaps between Formal and Computational Linguistics
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: irregular
+organizer: BriGap workshop chairs (Université Paris Cité and others), linked to the ILFC online seminar; funded by RT LIFT2
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [4, 5, 6]
+  conference_months: [7, 9]
+links:
+  website: https://brigap-workshop.github.io/
+notes:
+- Workshop bringing together formal linguists, computational linguists and NLP researchers
+- First edition at ESSLLI 2022, second at IWCS 2025 (Düsseldorf), third as a standalone event in Paris in 2026
+- Archival papers (4 or 8 pages, ACL style) go to the ACL Anthology; non-archival and dissemination submissions are also accepted
+- Submission via OpenReview; BriGap-3 strongly discouraged the use of generative AI in submissions
+- BriGap-3 registration was free but mandatory
+- A fourth edition is being organised (no dates yet)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: BriGap-3, standalone event
+  start: 2026-07-11
+  end: 2026-07-11
+  location: Université Paris Cité (Grands moulins campus), Paris, France
+  url: https://brigap-workshop.github.io/2026/index
+  deadlines:
+  - kind: submission
+    date: 2026-05-03
+    time: "23:59"
+    tz: AoE
+    label: Extended from April 27
+  - kind: notification
+    date: 2026-05-18
+  - kind: camera_ready
+    date: 2026-06-11
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-06-22
+    time: "23:59"
+    tz: CEST
+    label: Registration deadline (Paris time)
+sources:
+- https://brigap-workshop.github.io/
+- https://brigap-workshop.github.io/2026/index
+- https://brigap-workshop.github.io/2025/index
+- https://aclanthology.org/venues/brigap/
+- https://aclanthology.org/volumes/2026.brigap-1/
+- https://portal.core.edu.au/conf-ranks/?search=BriGap&by=all&source=ICORE2026
+unverified:
+- Dates and venue of the fourth edition (announced as being organised, nothing published yet)
+last_verified: 2026-11-07

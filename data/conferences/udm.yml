@@ -1,0 +1,70 @@
+id: udm
+name: UDM
+full_name: Workshop on Uncertainty Reasoning and Quantification in Decision Making
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers co-located with ACM SIGKDD (Xujiang Zhao, NEC Laboratories America; Chen Zhao, Baylor University;
+  Feng Chen, UT Dallas)
+organizer_country: [usa]
+proceedings: Workshop website (non-archival, not in the KDD proceedings)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://sites.google.com/view/udmkdd26/home
+notes:
+- Half-day workshop on uncertainty quantification, out-of-distribution detection and decision making under uncertainty,
+  including foundation models
+- First held at AAAI 2023, then at KDD every year since 2023 (Long Beach 2023, Barcelona 2024, Toronto 2025, Jeju 2026)
+- Papers up to 5 pages in the ACM two-column template, double-blind review via CMT
+- Accepted papers are posted on the workshop website but are not included in the KDD proceedings, so they can be published
+  elsewhere
+- Run by the same group as the EAI workshop at KDD
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  start: 2025-08-03
+  end: 2025-08-03
+  location: Toronto, Canada (with KDD 2025)
+  url: https://meviuslab.github.io/UDM2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-03
+    tz: AoE
+    label: Extended from 2025-05-08
+  - kind: notification
+    date: 2025-06-08
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-08
+    tz: AoE
+- year: 2026
+  start: 2026-08-09
+  end: 2026-08-09
+  location: Jeju, South Korea (with KDD 2026, ICC Jeju)
+  url: https://sites.google.com/view/udmkdd26/home
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    time: "23:59"
+    tz: PDT
+    label: Extended from 2026-04-30
+  - kind: notification
+    date: 2026-06-04
+    time: "23:59"
+    tz: PDT
+sources:
+- https://sites.google.com/view/udmkdd26/home
+- https://meviuslab.github.io/UDM2025/
+- https://meviuslab.github.io/UDM2025/cfp
+- https://kdd2026.kdd.org/workshops/
+- https://kdd2025.kdd.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=UDM&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- No 2027 edition announced

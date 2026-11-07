@@ -1,0 +1,87 @@
+id: acvr
+name: ACVR
+full_name: International Workshop on Assistive Computer Vision and Robotics
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers led by University of Catania (Farinella, Furnari, Ragusa) with CNR ISASI, USC and UC San Diego
+organizer_country: [europe, usa]
+proceedings: ICCV Workshops proceedings (IEEE Xplore, CVF Open Access) or ECCV Workshops proceedings (Springer LNCS)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://iplab.dmi.unict.it/acvr2026/
+notes:
+- Workshop on computer vision and robotics for assistive technologies (wearable and egocentric vision, healthcare, ageing, visually impaired users)
+- Held every year since 2013, alternating between ICCV and ECCV (first edition with ICIAP 2013); 2026 is the 14th edition
+- Full papers are double-blind, three reviewers each, length as the host conference (8 pages for ICCV 2025, 14 pages for ECCV 2026)
+- Accepted full papers go into the host conference workshop proceedings; abstracts and doctoral consortium papers are not published
+- Includes a doctoral consortium with a best student presentation award
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, Hawaii, USA (with ICCV 2025)
+  url: https://iplab.dmi.unict.it/acvr2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: "11:59"
+    tz: PST
+    label: Full papers
+  - kind: notification
+    date: 2025-07-10
+    label: Full papers
+  - kind: camera_ready
+    date: 2025-08-10
+    time: "11:59"
+    tz: PST
+  - kind: other
+    date: 2025-07-31
+    time: "11:59"
+    tz: PST
+    label: Abstracts and doctoral consortium (not published)
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026)
+  url: https://iplab.dmi.unict.it/acvr2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    time: "11:59"
+    tz: CEST
+    label: Full papers (extended)
+  - kind: other
+    date: 2026-07-31
+    time: "11:59"
+    tz: CEST
+    label: Abstracts and doctoral consortium (not published)
+  - kind: notification
+    date: 2026-08-04
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-08-10
+    time: "11:59"
+    tz: CEST
+sources:
+- https://iplab.dmi.unict.it/acvr2026/
+- https://iplab.dmi.unict.it/acvr2026/dates.html
+- https://iplab.dmi.unict.it/acvr2026/submission.html
+- https://iplab.dmi.unict.it/acvr2025/
+- https://iplab.dmi.unict.it/acvr2025/dates.html
+- https://iplab.dmi.unict.it/acvr2025/submission.html
+- https://iplab.dmi.unict.it/acvr2025/committees.html
+- https://iplab.dmi.unict.it/acvr2025/previous-editions.html
+- https://openaccess.thecvf.com/ICCV2025_workshops/ACVR
+- https://portal.core.edu.au/conf-ranks/?search=ACVR&by=all&source=ICORE2026
+unverified:
+- Deadline times are given as "11:59" on the official dates pages (copied as stated; may mean 23:59)
+- Next edition (2027, presumably with ICCV 2027) not announced yet
+last_verified: 2026-11-07

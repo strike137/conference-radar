@@ -1,0 +1,57 @@
+id: devsumi
+name: Developers Summit
+full_name: Developers Summit (Devsumi)
+name_local: デブサミ
+type: industry
+tier: domestic
+areas: [software]
+region: japan
+language: japanese
+frequency: annual
+organizer: Shoeisha (CodeZine editorial department)
+organizer_country: [japan]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://event.shoeisha.jp/devsumi/
+notes:
+- Long-running Japanese software developer conference run by the publisher Shoeisha (CodeZine); 2027 is the 25th edition
+- Main edition every February in Tokyo; the event index also lists smaller Developers Summit editions later in the year
+- 2026 and 2027 held at Ariake Central Tower Hall & Conference, Tokyo; on site only, no online streaming
+- Free admission with advance registration; sponsor-driven talk conference
+- Some sessions chosen by public call for proposals (2027 -> 10 regular 30-minute slots and a few 10-minute indie development slots)
+- Talks only, no papers or proceedings
+editions:
+- year: 2026
+  start: 2026-02-18
+  end: 2026-02-20
+  location: Ariake Central Tower Hall & Conference, Tokyo, Japan
+  url: https://event.shoeisha.jp/devsumi/20260218
+  status: confirmed
+  deadlines: []
+- year: 2027
+  start: 2027-02-17
+  end: 2027-02-19
+  location: Ariake Central Tower Hall & Conference, Tokyo, Japan
+  url: https://event.shoeisha.jp/devsumi/20270217
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-11-12
+    time: "18:00"
+    tz: JST
+    label: Session proposals (public call)
+  - kind: notification
+    date: 2026-11-27
+sources:
+- https://event.shoeisha.jp/devsumi/
+- https://event.shoeisha.jp/devsumi/20260218
+- https://event.shoeisha.jp/devsumi/20270217
+- https://portal.core.edu.au/conf-ranks/?search=Developers+Summit&by=all&source=ICORE2026
+unverified:
+- Session proposal deadline for the 2026 edition not shown on the official page
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-11-07

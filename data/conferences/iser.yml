@@ -1,0 +1,57 @@
+id: iser
+name: ISER
+full_name: International Symposium on Experimental Robotics
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: International Foundation of Robotics Research (IFRR)
+organizer_country: [international]
+proceedings: Springer Proceedings in Advanced Robotics (SPAR)
+archival: true
+indexing: [DBLP]
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://iser2025.org/
+  dblp: https://dblp.org/db/conf/iser/
+notes:
+- Sponsored by the International Foundation of Robotics Research (IFRR), which also runs ISRR
+- Focus on robotics work validated by physical experiments or new experimental paradigms
+- Submission is a six-page extended abstract in SPAR format, single-blind review via PaperCept, optional video
+- Accepted papers submit a final paper of up to ten pages (two extra pages at 125 USD per page) for the SPAR volume
+- 2025 was the 19th edition, at La Fonda on the Plaza, Santa Fe, New Mexico, with single-track sessions and social
+  excursions
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-07-06
+  end: 2025-07-10
+  location: Santa Fe, New Mexico, USA
+  url: https://iser2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-03-15
+    label: Extended abstract
+  - kind: other
+    date: 2025-03-22
+    label: Optional video attachment
+  - kind: camera_ready
+    date: 2025-06-10
+    tz: PST
+    label: Final full paper
+sources:
+- https://iser2025.org/
+- https://iser2025.org/call-for-papers/
+- https://iser2025.org/author-instructions/
+- https://iser2025.org/ifrr/
+- https://iser2025.org/venue/
+- https://iser2025.org/program/
+- https://portal.core.edu.au/conf-ranks/?search=ISER&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- 2027 edition (20th ISER) not yet found on an official page
+- Notification date for 2025 not stated on the official site

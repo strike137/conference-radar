@@ -1,0 +1,71 @@
+id: icaccm
+name: ICACCM
+full_name: International Conference on Advances in Computing, Communication and Materials
+type: conference
+tier: minor
+areas: [general, communications, ai]
+region: south-asia
+language: english
+frequency: biennial
+organizer: Tula's Institute / TULAS University, Dehradun (IEEE UP Section technical co-sponsorship)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://icaccm.in/
+notes:
+- Organized by Tula's Institute (now TULAS University), Dehradun, Uttarakhand, India; every edition so far held in Dehradun
+- Technically co-sponsored by IEEE UP Section (R10); accepted papers are submitted to IEEE Xplore
+- Held every two years so far (2020, 2022, 2024, 2026)
+- Broad scope covering computing, communication systems and materials science
+- Reviewing via Microsoft CMT; the 2026 edition is physical mode only
+- "Registration fee 2026: INR 7,000 to 12,000 for Indian participants, USD 200 to 300 for foreign participants"
+- Not listed in ICORE2026 or CCF
+editions:
+- year: 2024
+  start: 2024-11-22
+  end: 2024-11-23
+  location: Tula's Institute, Dehradun, India
+  url: https://icaccm.in/previous.php
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-20
+  location: TULAS University, Dehradun, India
+  url: https://icaccm.in/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+    time: "23:59"
+    tz: PDT
+    label: Final extended deadline
+  - kind: notification
+    date: 2026-10-15
+    time: "17:00"
+    tz: PDT
+  - kind: other
+    date: 2026-10-18
+    time: "23:59"
+    tz: PDT
+    label: Revision submission
+  - kind: camera_ready
+    date: 2026-10-20
+    time: "23:59"
+    tz: PDT
+  - kind: other
+    date: 2026-11-05
+    time: "23:59"
+    tz: PST
+    label: Last date of registration
+sources:
+- https://icaccm.in/
+- https://icaccm.in/programs.php
+- https://icaccm.in/previous.php
+- https://icaccm.in/registration.php
+- https://icaccm.in/committee.php
+- https://portal.core.edu.au/conf-ranks/?search=ICACCM&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) 2026 submission deadline not shown on the official site
+last_verified: 2026-11-07

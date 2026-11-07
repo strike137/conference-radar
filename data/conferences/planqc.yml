@@ -1,0 +1,58 @@
+id: planqc
+name: PLanQC
+full_name: International Workshop on Programming Languages for Quantum Computing
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: PLanQC organizers (Matthew Amy, Ross Duncan, Robert Rand, Mathys Rennela), co-located with ACM SIGPLAN POPL
+organizer_country: [international]
+proceedings: None (extended abstracts posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: https://popl27.sigplan.org/home/planqc-2027
+notes:
+- One-day workshop bringing together programming languages and quantum information researchers
+- Held with POPL in 2020, 2024, 2025, 2026 and 2027, with PLDI in 2021 and with ICFP in 2022; 2027 is the 7th edition
+- Submissions are 2 to 5 page abstracts (single-column acmsmall, references excluded); work in progress welcome
+- Accepted authors give talks or posters; no formal proceedings, abstracts and links to full papers are posted on the website
+- Not listed in CORE ICORE2026; not in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-12
+  end: 2026-01-12
+  location: Rennes, France (co-located with POPL 2026)
+  url: https://popl26.sigplan.org/home/planqc-2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-31
+    tz: AoE
+  - kind: notification
+    date: 2025-11-28
+    tz: AoE
+- year: 2027
+  start: 2027-01-12
+  end: 2027-01-12
+  location: Mexico City, Mexico (co-located with POPL 2027)
+  url: https://popl27.sigplan.org/home/planqc-2027
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    tz: AoE
+  - kind: notification
+    date: 2026-11-27
+    tz: AoE
+sources:
+- https://popl27.sigplan.org/home/planqc-2027
+- https://popl26.sigplan.org/home/planqc-2026
+- https://popl25.sigplan.org/home/planqc-2025
+- https://popl24.sigplan.org/home/planqc-2024
+- https://portal.core.edu.au/conf-ranks/?search=PLanQC&by=all&source=ICORE2026
+unverified:
+- Acceptance rate and registration fee not stated on the workshop pages
+last_verified: 2026-11-07

@@ -1,0 +1,63 @@
+id: ieee-imc
+name: IEEE IMC
+full_name: IEEE International Conference on Intelligent Mobile Computing
+type: conference
+tier: minor
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE, as part of the IEEE CISOSE congress
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [4]
+  conference_months: [6, 7]
+links:
+  website: https://ieee-cisose-congress.org/2027/imc/
+notes:
+- Intelligent mobile, edge and cloud computing, including edge AI, LLMs and AI agents on the mobile-edge-cloud continuum, 5G and 6G
+- Formerly IEEE MobileCloud; 14th edition in 2026
+- Not the ACM Internet Measurement Conference (also IMC)
+- One of the co-located conferences of the IEEE CISOSE congress (with SOSE, JCC, BigDataService, DAPPS, AITest), which rotates between the Americas, Europe and Asia
+- Proceedings published by IEEE Computer Society Press in IEEE Xplore, EI indexed; one author must register and present in person
+- Regular papers 8 pages, short papers 6 pages, posters 2 pages (IEEE double-column); single-blind review
+- Not ranked in ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-27
+  end: 2026-07-30
+  location: Fukuoka, Japan
+  url: https://ieee-cisose-congress.org/2026/imc/
+  deadlines:
+  - kind: submission
+    date: 2026-04-26
+    time: "23:59"
+    tz: AoE
+    label: Firm deadline after extensions (earlier April 10 and April 19)
+  - kind: notification
+    date: 2026-05-15
+  - kind: camera_ready
+    date: 2026-07-18
+- year: 2027
+  start: 2027-06-08
+  end: 2027-06-11
+  location: Oxford, UK (Oxford Brookes University, Headington Campus)
+  url: https://ieee-cisose-congress.org/2027/imc/
+sources:
+- https://ieee-cisose-congress.org/2027/imc/
+- https://ieee-cisose-congress.org/2027/imc/important-dates/
+- https://ieee-cisose-congress.org/2027/imc/call-for-papers/
+- https://ieee-cisose-congress.org/2027/imc/paper-submission/
+- https://ieee-cisose-congress.org/2026/imc/
+- https://ieee-cisose-congress.org/
+- https://ieee-cisose-congress.org/past-events/
+- https://conf.researchr.org/track/cisose-2025/imc-2025
+- https://portal.core.edu.au/conf-ranks/?search=IMC&by=all&source=ICORE2026
+unverified:
+- IMC 2027 dates are the CISOSE 2027 congress dates (2027-06-08 to 2027-06-11, Oxford); the IMC 2027 page still shows 2026 content and no 2027 deadlines
+- The 2026 CFP writes the deadline as "23:59 UTC (anywhere on Earth)"; recorded as AoE
+- dblp page not checked (dblp did not respond)
+last_verified: 2026-11-07

@@ -1,0 +1,75 @@
+id: wicv
+name: WiCV
+full_name: Women in Computer Vision Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: WiCV organizing committee (volunteer researchers); held with CVPR and with ICCV, ECCV or ACCV
+organizer_country: [international]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops proceedings); Springer LNCS (ECCV Workshops)
+archival: true
+typical:
+  deadline_months: [3, 7]
+  conference_months: [6, 9]
+links:
+  website: https://sites.google.com/view/wicv-cvpr-2026/
+notes:
+- Workshop for women researchers in computer vision with invited talks, mentoring, posters and travel grants; held since 2015
+- Usually held twice a year, with CVPR and with ICCV, ECCV or ACCV (CVPR 2025 Nashville, ICCV 2025 Honolulu, CVPR 2026 Denver, ECCV 2026 Malmo)
+- Paper submission open to those who identify as women; all genders may attend
+- Full papers are double-blind reviewed and published in the host conference workshop proceedings (CVPR -> IEEE Xplore and CVF Open Access, ECCV -> Springer)
+- Extended abstracts (2 pages at CVPR 2026, 4 pages at ECCV 2026) are presented as posters and are not in the proceedings
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, USA (with CVPR 2026)
+  url: https://sites.google.com/view/wicv-cvpr-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-01
+    time: "23:59"
+    tz: PST
+    label: Full papers
+  - kind: notification
+    date: 2026-03-19
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-03-29
+    label: Full papers
+  - kind: other
+    date: 2026-03-24
+    time: "23:59"
+    tz: PST
+    label: Extended abstracts (non-archival)
+- year: 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo, Sweden (with ECCV 2026)
+  url: https://sites.google.com/view/wicv-eccv-2026
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    tz: AoE
+    label: Papers (last extension)
+  - kind: notification
+    date: 2026-08-10
+  - kind: camera_ready
+    date: 2026-08-14
+sources:
+- https://sites.google.com/view/wicv-cvpr-2026/
+- https://sites.google.com/view/wicv-cvpr-2026/participation
+- https://sites.google.com/view/wicv-cvpr-2026/wicv-editions
+- https://sites.google.com/view/wicv-eccv-2026
+- https://sites.google.com/view/wicv-eccv-2026/participation
+- https://sites.google.com/view/wicv-iccv-2025
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://openaccess.thecvf.com/CVPR2025_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=WiCV&by=all&source=ICORE2026
+unverified:
+- WiCV at CVPR 2027 not announced yet
+last_verified: 2026-11-07

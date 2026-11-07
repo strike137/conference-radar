@@ -1,0 +1,54 @@
+id: vand
+name: VAND
+full_name: Visual Anomaly and Novelty Detection Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers from MedUni Vienna, AWS AI Labs, Singapore Management University, Durham
+  University, Intel, Endress + Hauser and MVTec); co-located with CVPR
+organizer_country: [international]
+proceedings: CVF Open Access (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/vand4-cvpr2026
+notes:
+- Half-day CVPR workshop on anomaly, novelty and out-of-distribution detection in images and video; VAND 4.0 in 2026
+- With CVPR every year since 2023 (VAND 1.0 at CVPR 2023)
+- Full papers only (8 pages, CVPR format), double-blind review on OpenReview with no rebuttal
+- Strong industry involvement (Intel, MVTec, AWS, Amazon); runs anomaly detection challenges, including a retail track on the Kaputt dataset in 2026
+- 7 papers in 2026 and 15 in 2025 on CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://sites.google.com/view/vand4-cvpr2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-02
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-03-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-08
+    tz: AoE
+sources:
+- https://sites.google.com/view/vand4-cvpr2026
+- https://openaccess.thecvf.com/CVPR2026_workshops/VAND
+- https://openaccess.thecvf.com/CVPR2025_workshops/VAND
+- https://openaccess.thecvf.com/CVPR2023_workshops/VAND
+- https://portal.core.edu.au/conf-ranks/?search=VAND&by=all&source=ICORE2026
+unverified:
+- Original 2026 submission deadline was 2026-02-26 (AoE) before the extension
+- The 2026 dates page says deadlines are end of day Pacific time but labels each date AoE; AoE kept
+- Next edition (VAND 5.0) not announced yet
+last_verified: 2026-11-07

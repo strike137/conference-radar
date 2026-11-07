@@ -1,0 +1,47 @@
+id: dashsys
+name: DASHSys
+full_name: Workshop on Systems for Data-centric Agents with Human-in-the-loop
+type: workshop
+tier: minor
+areas: [data, ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: DASHSys workshop organizers (Megagon Labs, Adobe and academic co-chairs); co-located with VLDB
+organizer_country: [international]
+proceedings: VLDB Workshop Proceedings (vldb.org)
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://dashsys-workshop-vldb.github.io/
+notes:
+- Full-day workshop on data-centric agentic AI systems, LLM agents over data and human-in-the-loop methods, held with VLDB
+- 2026 edition at VLDB 2026 in Boston, so the location follows VLDB
+- Research track with long papers (up to 8 pages excluding references) and short papers (up to 4 pages including references); single-blind review on Microsoft CMT
+- Separate systems track run as a competition for agentic SQL and API systems, with monetary prizes and 4-page system papers
+- Accepted papers appear in the official VLDB workshop proceedings
+- Steering committee includes Michael Stonebraker, Tom Mitchell, H.V. Jagadish and Renee J. Miller
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-04
+  end: 2026-09-04
+  location: Boston, USA (with VLDB 2026)
+  url: https://dashsys-workshop-vldb.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-02
+    tz: AoE
+    label: Research track (extended from May 19)
+  - kind: notification
+    date: 2026-07-06
+sources:
+- https://dashsys-workshop-vldb.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=DASHSys&by=all&source=ICORE2026
+unverified:
+- Camera-ready date was listed as TBD on the official site
+- Region and frequency judged from the 2026 edition only; earlier editions not confirmed
+- DASHSys 2027 not announced yet
+last_verified: 2026-11-07

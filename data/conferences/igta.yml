@@ -1,0 +1,70 @@
+id: igta
+name: IGTA
+full_name: Chinese Conference on Image and Graphics Technologies and Applications
+name_local: 图像图形技术与应用学术会议
+type: conference
+tier: minor
+areas: [vision]
+region: china
+language: mixed
+frequency: annual
+organizer: Beijing Society of Image and Graphics (BSIG)
+organizer_country: [china]
+proceedings: Springer CCIS
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8]
+links:
+  website: http://www.igta.org.cn
+notes:
+- Annual conference of the Beijing Society of Image and Graphics (BSIG), hosted by a different Beijing university each year; not the CSIG conferences ICIG or CCIG
+- Accepts English papers (up to 15 pages) and Chinese papers (up to 8 pages)
+- Accepted and registered English papers appear in Springer CCIS (IGTA 2025 volume online), EI indexed; Chinese papers go to an outstanding paper program with journal editors instead
+- First come, first reviewed; two submission rounds in 2026
+- Held in Beijing every year (online in 2020 and 2022)
+- Each accepted paper needs its own full registration and page fee
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-09
+  end: 2025-08-10
+  location: Beijing, China (hosted by Beijing Technology and Business University)
+  url: http://www.igta.org.cn/news/496.html
+- year: 2026
+  start: 2026-08-07
+  end: 2026-08-08
+  location: Beijing, China
+  url: http://www.igta.org.cn
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-05-17
+    label: First round
+  - kind: notification
+    date: 2026-06-23
+    label: First round
+  - kind: submission
+    date: 2026-06-21
+    label: Second round
+  - kind: notification
+    date: 2026-07-14
+    label: Second round
+sources:
+- http://www.igta.org.cn
+- http://www.igta.org.cn/news/495.html
+- http://www.igta.org.cn/news/496.html
+- http://www.igta.org.cn/news/499.html
+- http://www.igta.org.cn/news/494.html
+- http://www.bsig.org.cn/list/igtanianhui
+- https://link.springer.com/book/10.1007/978-981-95-4966-5
+- https://portal.core.edu.au/conf-ranks/?search=IGTA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- IGTA 2026 dates conflict on the official site (home page says Aug 6-7, the paper submission page says Aug 7-8); Aug 7-8 used; both pages call the dates planned
+- CCIS volume number and 2025 acceptance rate not confirmed (Springer page not reachable)
+- IGTA 2025 deadlines not found on an official page; its dates are from the Springer proceedings title (the past-editions page misprints the year)
+- IGTA 2026 proceedings volume not yet found
+- dblp page not checked
+last_verified: 2026-11-07

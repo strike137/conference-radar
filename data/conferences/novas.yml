@@ -1,0 +1,57 @@
+id: novas
+name: NOVAS
+full_name: Workshop on Novel Optimizations for Visionary AI Systems
+type: workshop
+tier: minor
+areas: [data, systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: NOVAS workshop chairs (MIT, Purdue University, Stanford, Harvard, UTN Nuremberg, EURECOM); co-located with VLDB
+organizer_country: [international]
+proceedings: VLDB Workshop Proceedings (vldb.org); also hosted on OpenReview
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9]
+links:
+  website: https://www.novasworkshop.org
+notes:
+- Full-day workshop with VLDB bridging data management and generative AI (LLM-powered data systems, semantic operators,
+  LLM serving, vector databases, benchmarks)
+- First edition in 2025 with VLDB; 2nd edition at VLDB 2026 in Boston
+- Regular papers 6 pages and short papers 4 pages excluding references, VLDB workshop template, submitted via OpenReview
+- Single-blind review; reviews of accepted papers are public on OpenReview
+- 2026 papers appear in the VLDB 2026 Workshop Proceedings on vldb.org
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  label: 2nd edition, with VLDB 2026
+  start: 2026-08-31
+  end: 2026-08-31
+  location: Boston, USA (with VLDB 2026, Westin Boston Seaport District)
+  url: https://www.novasworkshop.org
+  deadlines:
+  - kind: submission
+    date: 2026-06-21
+    time: "23:59"
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2026-07-17
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-23
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.novasworkshop.org
+- https://www.novasworkshop.org/call-for-papers
+- https://www.novasworkshop.org/accepted-papers
+- https://vldb.org/2026/Workshops/vldb.html
+- https://portal.core.edu.au/conf-ranks/?search=NOVAS&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- No 2027 edition announced
+- Dates and location of the 2025 edition not stated on the current workshop site

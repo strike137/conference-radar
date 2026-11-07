@@ -1,0 +1,57 @@
+id: cvpm
+name: CVPM
+full_name: International Workshop on Computer Vision for Physiological Measurement
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Organizing team from SUSTech, Google Research, Eindhoven University of Technology and MERL; co-located with CVPR or ICCV
+organizer_country: [china, usa, europe]
+proceedings: CVF Open Access (CVPR/ICCV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3, 7]
+  conference_months: [6, 10]
+links:
+  website: https://sstuijk.estue.nl/cvpm/cvpm25/
+notes:
+- Workshop on camera-based measurement of vital signs and health monitoring (remote PPG, respiration, sleep, clinical monitoring)
+- Held with CVPR 2020 to 2024 and with ICCV 2019 and 2025; 2025 was the 8th edition
+- CVPM 2020 also ran a challenge on remote physiological measurement
+- Papers of up to eight pages plus references in the host conference format, submitted through OpenReview with blind review
+- 4 papers on CVF Open Access for ICCV 2025
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 8th CVPM, with ICCV 2025
+  start: 2025-10-19
+  end: 2025-10-20
+  location: Honolulu, Hawaii, USA
+  url: https://sstuijk.estue.nl/cvpm/cvpm25/
+  deadlines:
+  - kind: submission
+    date: 2025-07-01
+  - kind: notification
+    date: 2025-07-10
+  - kind: camera_ready
+    date: 2025-07-25
+sources:
+- https://sstuijk.estue.nl/cvpm/cvpm25/
+- https://sstuijk.estue.nl/cvpm/cvpm25/dates.html
+- https://sstuijk.estue.nl/cvpm/cvpm25/submission.html
+- https://sstuijk.estue.nl/cvpm/cvpm25/committee.html
+- https://sstuijk.estue.nl/cvpm/cvpm24/
+- https://sstuijk.estue.nl/cvpm/cvpm24/dates.html
+- https://sstuijk.estue.nl/cvpm/cvpm23/
+- https://sstuijk.estue.nl/cvpm/cvpm22/
+- https://sstuijk.estue.nl/cvpm/cvpm21/
+- https://sstuijk.estue.nl/cvpm/cvpm20/
+- https://sstuijk.estue.nl/cvpm/cvpm19/
+- https://openaccess.thecvf.com/ICCV2025_workshops/CVPM
+- https://portal.core.edu.au/conf-ranks/?search=CVPM&by=all&source=ICORE2026
+unverified:
+- The 2025 site gives the ICCV workshop days (October 19 to 20) but not the exact CVPM day
+- No CVPM 2026 page and no CVPM workshop in the CVPR 2026 Open Access menu; next edition not announced
+last_verified: 2026-11-07

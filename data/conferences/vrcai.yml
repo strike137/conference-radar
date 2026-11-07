@@ -1,0 +1,70 @@
+id: vrcai
+name: VRCAI
+full_name: ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry
+type: conference
+tier: minor
+areas: [vision, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ACM SIGGRAPH (sponsor); organized by Chinese universities and the Asia Simulation Federation (ASIASIM)
+organizer_country: [china]
+proceedings: ACM DL
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11, 12]
+links:
+  website: http://vrcai.cn
+notes:
+- ACM SIGGRAPH sponsored conference on VR, AR, MR and XR with a focus on industrial applications; started in Hangzhou in 1993
+- Full papers 8 pages and short papers 4 pages (including references), double-blind review; posters and demos 2 pages
+- Accepted papers and abstracts appear in the ACM Digital Library (EI indexed); selected papers invited to journals such as Computational Visual Media and Computer Animation and Virtual Worlds
+- Usually several submission rounds and frequent deadline extensions (2026 deadline moved from Aug 15 to Aug 31, then a second round to Sep 20)
+- 2025 edition (20th) at Macau University of Science and Technology; 2026 edition (21st) planned at Beihang University's Hangzhou institute, then moved fully online
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-13
+  end: 2025-12-14
+  location: Macau, China (Macau University of Science and Technology)
+  url: https://easychair.org/cfp/vrcai2025
+  deadlines:
+  - kind: submission
+    date: 2025-09-15
+  - kind: other
+    date: 2025-10-15
+    label: Final submission round
+- year: 2026
+  start: 2026-11-29
+  end: 2026-12-01
+  location: Online (originally Hangzhou, China)
+  url: http://vrcai.cn
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    time: "23:59"
+    tz: AoE
+    label: Extended deadline (originally Aug 15)
+  - kind: other
+    date: 2026-09-20
+    label: Second submission round
+  - kind: notification
+    date: 2026-10-29
+  - kind: camera_ready
+    date: 2026-11-16
+sources:
+- http://vrcai.cn
+- http://vrcai.cn/dates.html
+- http://vrcai.cn/submission.html
+- http://vrcai.cn/call_for_papers.html
+- http://vrcai.cn/venue.html
+- https://easychair.org/cfp/vrcai2025
+- https://portal.core.edu.au/conf-ranks/?search=VRCAI&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- Locations of editions before 2025 not checked on official pages (dblp was not reachable); region asia-pacific is an estimate
+- The 2026 site does not say whether the Aug 31 extension kept the 23:59 AoE time
+- dblp page not checked
+last_verified: 2026-11-07

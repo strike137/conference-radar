@@ -1,0 +1,54 @@
+id: wiki-workshop
+name: Wiki Workshop
+full_name: Wiki Workshop
+type: workshop
+tier: minor
+areas: [data, ai]
+region: online
+language: english
+frequency: annual
+organizer: Wikimedia Foundation Research team with members of the Wikimedia research community
+organizer_country: [usa]
+proceedings: Workshop website (extended abstracts, non-archival)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [3]
+links:
+  website: https://wikiworkshop.org/
+notes:
+- Annual research forum on all aspects of Wikimedia projects (Wikipedia, Wikidata, Commons and others), from computational and AI work to social science
+- Co-organized by the Wikimedia Foundation Research team; held with WWW (The Web Conference) or ICWSM from 2015, online since 2021 and as a standalone virtual event since 2023
+- Research track takes 2-page extended abstracts (plus 1 page of references, figures, tables) submitted via OpenReview; single-blind review by the program committee
+- Non-archival; accepted abstracts are posted on the workshop website and published work is welcome
+- Accepted authors present a pre-recorded talk with live Q&A; registration via Pretix
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: 13th Wiki Workshop
+  start: 2026-03-25
+  end: 2026-03-26
+  location: Online (standalone virtual event)
+  url: https://meta.wikimedia.org/wiki/Wiki_Workshop
+  deadlines:
+  - kind: submission
+    date: 2026-01-23
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-02-25
+  - kind: camera_ready
+    date: 2026-03-13
+    time: "23:59"
+    tz: AoE
+    label: Final abstract and pre-recorded video
+sources:
+- https://wikiworkshop.org/
+- https://meta.wikimedia.org/wiki/Wiki_Workshop
+- https://meta.wikimedia.org/wiki/Wiki_Workshop/Submit
+- https://meta.wikimedia.org/wiki/Wiki_Workshop/Attend
+- https://meta.wikimedia.org/wiki/Wiki_Workshop/Organization
+- https://portal.core.edu.au/conf-ranks/?search=Wiki&by=all&source=ICORE2026
+unverified:
+- Wiki Workshop 2027 not announced as of 2026-11-07
+last_verified: 2026-11-07

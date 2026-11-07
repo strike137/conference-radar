@@ -1,0 +1,53 @@
+id: wrla
+name: WRLA
+full_name: International Workshop on Rewriting Logic and its Applications
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: biennial
+organizer: WRLA Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS (post-proceedings)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [4]
+links:
+  website: https://wrla2026.github.io/
+notes:
+- Workshop on rewriting and rewriting logic (Maude, CafeOBJ, ELAN) as a semantic and logical framework, verification techniques and applications
+- Held since 1996, every two years; satellite event of ETAPS
+- Recent editions all in Europe (Eindhoven 2016, Thessaloniki 2018, Dublin 2020, Munich 2022, Luxembourg 2024, Turin 2026)
+- Regular papers up to 16 pages, tool and education papers up to 10 pages, work-in-progress up to 8 pages, Springer LNCS format
+- Informal pre-proceedings at the workshop; regular, tool and invited papers published afterwards as a Springer LNCS volume (2024 -> LNCS 14953, 2022 -> LNCS 13252); ENTCS until 2008
+- Selected papers often invited to a JLAMP special issue
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: 16th WRLA
+  start: 2026-04-11
+  end: 2026-04-12
+  location: Turin, Italy (ETAPS 2026)
+  url: https://wrla2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    tz: AoE
+    label: Extended from 2026-01-16
+  - kind: notification
+    date: 2026-02-27
+  - kind: camera_ready
+    date: 2026-03-13
+    tz: AoE
+    label: Pre-proceedings version
+sources:
+- https://wrla2026.github.io/
+- https://wrla2026.github.io/cfp.html
+- https://wrla2026.github.io/previous.html
+- https://wrla2026.github.io/committee.html
+- https://portal.core.edu.au/conf-ranks/?search=WRLA&by=all&source=ICORE2026
+unverified:
+- WRLA 2028 not announced on an official page as of 2026-11-07
+last_verified: 2026-11-07

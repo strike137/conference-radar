@@ -1,0 +1,62 @@
+id: ieee-robosoft
+name: RoboSoft
+full_name: IEEE International Conference on Soft Robotics
+type: conference
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE RAS
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [10]
+  conference_months: [4]
+links:
+  website: https://www.robosoft2026.org/
+notes:
+- Fully sponsored by the IEEE Robotics and Automation Society; the main venue for soft robotics
+- Contributed papers are published in the proceedings and on IEEE Xplore; extended abstracts are presented but not published
+- Double-anonymous review on OpenReview, no rebuttal, reviews made public after decisions; 6 pages plus up to 2 paid pages
+- Papers already published in RAS journals (RA-L, T-RO and others) can be transferred for presentation
+- At least one author must present on site or the paper is dropped from the proceedings
+- Recent editions in Lausanne (2025) and Kanazawa (2026)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-04-07
+  end: 2026-04-11
+  location: Kanazawa, Japan
+  url: https://www.robosoft2026.org/
+  deadlines:
+  - kind: submission
+    date: 2025-10-30
+    time: "23:59"
+    tz: PST
+    label: Contributed papers (extended from 2025-10-15)
+  - kind: other
+    date: 2025-11-15
+    label: Workshop and tutorial proposals (extended)
+  - kind: notification
+    date: 2026-01-30
+  - kind: camera_ready
+    date: 2026-02-20
+  - kind: other
+    date: 2026-02-15
+    time: "23:59"
+    tz: PST
+    label: Extended abstracts (not published)
+sources:
+- https://www.robosoft2026.org/
+- https://www.robosoft2026.org/calls/call-for-papers/
+- https://www.robosoft2025.org/
+- https://portal.core.edu.au/conf-ranks/?search=RoboSoft&by=all&source=ICORE2026
+unverified:
+- RoboSoft 2027 not announced on an official page as of 2026-11-07
+- Region set from past editions not confirmed on an official history page
+- CCF 2026 list not checked directly; rank.ccf left out
+- dblp page could not be opened (bot check), so no dblp link
+last_verified: 2026-11-07

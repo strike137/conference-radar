@@ -1,0 +1,52 @@
+id: llm4eval
+name: LLM4Eval
+full_name: Workshop on Large Language Models for Evaluation in Information Retrieval
+type: workshop
+tier: minor
+areas: [data, nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (University College London, University of Amsterdam, Microsoft, University of Waterloo, University of Padua, CWI); co-located with SIGIR or WSDM
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://llm4eval.github.io/
+notes:
+- Workshop on using LLMs for IR evaluation (relevance judgments, RAG evaluation, simulated users, synthetic corpora)
+- Held at SIGIR 2024 (Washington D.C.), WSDM 2025 and SIGIR 2025 (Padua)
+- Accepted papers are non-archival; authors are encouraged to post them on arXiv and the workshop site links them
+- Research papers up to 9 pages plus position, opinion and demo papers in SIGIR format; double-blind review; previously published work accepted
+- First two editions also ran an automated relevance judgment challenge
+- 2025 edition built around breakout discussion sessions that feed a workshop report
+- No 2026 edition announced on the official site as of November 2026
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-07-17
+  end: 2025-07-17
+  location: Padua, Italy (co-located with SIGIR 2025)
+  url: https://llm4eval.github.io/SIGIR2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-30
+    tz: AoE
+  - kind: notification
+    date: 2025-05-28
+    tz: AoE
+sources:
+- https://llm4eval.github.io/
+- https://llm4eval.github.io/SIGIR2024/
+- https://llm4eval.github.io/WSDM2025/
+- https://llm4eval.github.io/SIGIR2025/
+- https://llm4eval.github.io/SIGIR2025/cfp/
+- https://llm4eval.github.io/SIGIR2025/program/
+- https://llm4eval.github.io/SIGIR2025/organisers/
+- https://portal.core.edu.au/conf-ranks/?search=LLM4Eval&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found on the official site; whether the series continues is unknown
+last_verified: 2026-11-07

@@ -1,0 +1,51 @@
+id: sab
+name: SAB
+full_name: International Conference on the Simulation of Adaptive Behavior (From Animals to Animats)
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: International Society for Adaptive Behavior (ISAB)
+organizer_country: [international]
+proceedings: Springer LNAI
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10]
+links:
+  website: https://sab-conference.org/
+notes:
+- Interdisciplinary conference on adaptive behavior in animals and artificial agents (animats); AI, robotics, artificial life, neuroscience, ethology
+- Running since 1990 and held every two years; run by the International Society for Adaptive Behavior (ISAB)
+- Peer-reviewed conference papers published in "From Animals to Animats" (Springer LNAI); a non-archival paper track, poster abstracts and position papers also exist
+- Single-track, single-blind review via CMT, 12-page LNCS limit
+- Selected papers invited to a special issue of the journal Adaptive Behavior
+- Mostly held in Europe (Frankfurt 2018, Cergy-Pontoise 2022, Berlin 2026), with Irvine, USA in 2024
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-22
+  location: Berlin, Germany (TU Berlin)
+  url: https://sab-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2026-06-19
+  - kind: camera_ready
+    date: 2026-07-17
+sources:
+- https://sab-conference.org/
+- https://sab-conference.org/call-for-contributions/
+- https://isab.org/sab-2026/
+- https://isab.org/history/
+- https://portal.core.edu.au/conf-ranks/?search=SAB&by=all&source=ICORE2026
+unverified:
+- SAB 2028 not yet announced
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-07

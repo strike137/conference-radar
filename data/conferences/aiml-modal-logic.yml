@@ -1,0 +1,70 @@
+id: aiml-modal-logic
+name: AiML
+full_name: Advances in Modal Logic
+type: conference
+tier: major
+areas: [general, ai]
+region: europe
+language: english
+frequency: biennial
+organizer: AiML Steering Committee, with a local host institution each edition
+organizer_country: [international]
+proceedings: EPTCS
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 8]
+links:
+  website: http://www.aiml.net/
+  dblp: https://dblp.org/db/conf/aiml/index.html
+notes:
+- Biennial conference and book series on pure and applied modal logic (semantics, proof theory, description, epistemic, temporal and provability logics)
+- Proceedings in EPTCS (open access) from 2026 (vol. 447); earlier volumes published as books by College Publications
+- Full papers up to 12 pages plus up to 5 pages of appendix, not anonymised; plain-text abstract registration required before the paper deadline
+- Short presentations (3-page extended abstracts, light review) are not in the formal proceedings
+- Mostly held in Europe (Bern 2018, online 2020, Rennes 2022, Prague 2024, Amsterdam 2026)
+- Ranked B in ICORE2026; not on the CCF 2026 list
+- Part of the community is philosophical logic; the rest is logic in computer science
+editions:
+- year: 2026
+  label: 16th AiML
+  start: 2026-06-29
+  end: 2026-07-03
+  location: Amsterdam, Netherlands (ILLC, University of Amsterdam)
+  url: https://events.illc.uva.nl/aiml2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-20
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-03-06
+    time: "23:59"
+    tz: AoE
+    label: Full papers, extended from 2026-02-27
+  - kind: notification
+    date: 2026-04-24
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-05-05
+    time: "23:59"
+    tz: AoE
+    label: Short presentations
+  - kind: camera_ready
+    date: 2026-05-15
+    time: "23:59"
+    tz: AoE
+sources:
+- http://www.aiml.net/
+- http://www.aiml.net/volumes/
+- https://events.illc.uva.nl/aiml2026/
+- https://events.illc.uva.nl/aiml2026/Call-for-Papers/
+- https://events.illc.uva.nl/aiml2026/Proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=AiML&by=all&source=ICORE2026
+unverified:
+- AiML 2028 host and dates not announced as of 2026-11-07
+- CCF list checked in a mirrored copy of the CCF 2026 list (ccf.org.cn not reachable)
+last_verified: 2026-11-07

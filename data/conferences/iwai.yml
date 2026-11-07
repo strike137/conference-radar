@@ -1,0 +1,60 @@
+id: iwai
+name: IWAI
+full_name: International Workshop on Active Inference
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IWAI organizing committee (rotating host institutions)
+organizer_country: [international]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://iwaiconference.org/
+notes:
+- Interdisciplinary venue on active inference, predictive coding, the free energy principle and related machine learning, neuroscience and robotics work
+- Started in 2020 as a workshop co-located with ECML/PKDD (2020 to 2022); a standalone event since 2023
+- Accepted full papers (up to 12 pages, LNCS format) are published in Springer CCIS; extended abstracts are presented as posters and not published in the proceedings
+- Double-blind, community-based review on OpenReview; abstract registration two weeks before the paper deadline
+- Not listed in ICORE2026 or the CCF 2026 list
+- Past locations include Ghent 2023, Oxford 2024, Montreal 2025 and Madrid 2026; Kyoto University hosts 2027
+- "Registration fee 2024: 150 GBP student, 500 GBP regular"
+editions:
+- year: 2026
+  start: 2026-10-14
+  end: 2026-10-16
+  location: Madrid, Spain (Spanish National Research Council, CSIC)
+  url: https://iwaiworkshop.github.io/2026.html
+  deadlines:
+  - kind: abstract
+    date: 2026-05-24
+    label: Abstract registration
+  - kind: submission
+    date: 2026-06-12
+    label: Extended from 2026-06-07
+  - kind: notification
+    date: 2026-07-17
+  - kind: camera_ready
+    date: 2026-09-20
+- year: 2027
+  start: 2027-10-13
+  end: 2027-10-16
+  location: Kyoto, Japan (Clock Tower Centennial Hall, Kyoto University)
+  url: https://iwaiconference.org/
+sources:
+- https://iwaiconference.org/
+- https://iwaiworkshop.github.io/
+- https://iwaiworkshop.github.io/2026.html
+- https://iwaiworkshop.github.io/2025.html
+- https://iwaiworkshop.github.io/2024.html
+- https://iwaiworkshop.github.io/2022.html
+- https://portal.core.edu.au/conf-ranks/?search=IWAI&by=all&source=ICORE2026
+unverified:
+- Call for papers and deadlines of IWAI 2027 not yet announced
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-07

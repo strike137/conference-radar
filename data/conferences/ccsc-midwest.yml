@@ -1,0 +1,56 @@
+id: ccsc-midwest
+name: CCSC Midwest
+full_name: CCSC Midwestern Conference (Consortium for Computing Sciences in Colleges)
+type: conference
+tier: minor
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: Consortium for Computing Sciences in Colleges (CCSC), Midwest region
+organizer_country: [usa]
+proceedings: Journal of Computing Sciences in Colleges (ACM DL)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [10]
+links:
+  website: https://www.ccsc.org/midwest/
+notes:
+- Regional computing education conference of the CCSC, aimed at teaching faculty and students at US colleges
+- Papers are double-blind peer reviewed, up to twelve double-spaced pages
+- Accepted papers appear in the Journal of Computing Sciences in Colleges; only works presented at the conference go to the ACM Digital Library
+- Also panels, tutorials, workshops, nifty tools and assignments, works in progress and a student showcase
+- 2026 edition is hybrid (in person or virtual) at Kenyon College, Gambier, Ohio
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-10-09
+  end: 2026-10-10
+  location: Kenyon College, Gambier, OH, USA
+  url: https://www.ccsc.org/midwest/
+  deadlines:
+  - kind: submission
+    date: 2026-05-11
+    label: Papers, panels, tutorials and workshops
+  - kind: other
+    date: 2026-06-13
+    label: Works-in-progress abstracts, nifty tools and assignments
+  - kind: notification
+    date: 2026-06-30
+  - kind: camera_ready
+    date: 2026-08-09
+    label: Publication deadline
+  - kind: other
+    date: 2026-09-25
+    time: "23:59"
+    tz: EDT
+    label: Student showcase
+sources:
+- https://www.ccsc.org/midwest/
+- https://www.ccsc.org/midwest/conference-home/call-for-submissions
+- https://www.ccsc.org/regions/future-conferences/
+- https://portal.core.edu.au/conf-ranks/?search=CCSC&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- CCSC Midwest 2027 dates and host not yet announced

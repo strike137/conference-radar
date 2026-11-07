@@ -1,0 +1,55 @@
+id: icarcv
+name: ICARCV
+full_name: International Conference on Control, Automation, Robotics and Vision
+type: conference
+tier: minor
+areas: [vision]
+region: asia-pacific
+language: english
+frequency: biennial
+organizer: Nanyang Technological University (EEE) and the Society of Control, Automation, Robotics and Vision
+organizer_country: [singapore]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+rank:
+  core: C
+typical:
+  deadline_months: [6]
+  conference_months: [11]
+links:
+  website: https://icarcv.pages.dev/
+  dblp: https://dblp.uni-trier.de/db/conf/icarcv
+notes:
+- Biennial conference with over 35 years of history, run from NTU Singapore; covers control, automation, robotics and computer vision
+- Technically co-sponsored by the IEEE Control Systems Society; 2026 edition co-organized with VinUniversity (Vietnam)
+- Full papers up to 8 pages (6 free), IEEE two-column format, submitted via PaperCept
+- Extended abstracts (2 to 4 pages) appear in the conference proceedings but not in IEEE Xplore or EI
+- Past proceedings indexed by ISI Proceedings, EI Compendex and IEEE Xplore
+- CORE C (ICORE2026); not in the CCF list
+- The old domain icarcv.org still shows the 2016 edition; the 2026 site is icarcv.pages.dev (linked from PaperCept)
+editions:
+- year: 2026
+  start: 2026-11-14
+  end: 2026-11-17
+  location: Halong Bay, Vietnam
+  url: https://icarcv.pages.dev/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    label: Full papers and invited session proposals
+  - kind: other
+    date: 2026-07-15
+    label: Extended abstracts
+  - kind: notification
+    date: 2026-08-18
+  - kind: camera_ready
+    date: 2026-09-15
+sources:
+- https://icarcv.pages.dev/
+- https://icarcv.pages.dev/ICARCV2026_CFP.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ICARCV&by=all&source=ICORE2026
+unverified:
+- ICARCV 2024 (previous edition) dates and location not confirmed from an official page (old site domain lost)
+- Region judged from the series' history of editions mostly in Singapore and Asia; not checked edition by edition
+last_verified: 2026-11-07

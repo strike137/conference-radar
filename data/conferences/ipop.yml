@@ -1,0 +1,60 @@
+id: ipop
+name: iPOP
+full_name: International Conference on IP/IoT & Processing + Optical Network
+type: conference
+tier: minor
+areas: [networking, communications]
+region: japan
+language: english
+frequency: annual
+organizer: Photonic Internet Labs (PIL) and ISOCORE
+organizer_country: [japan, usa]
+proceedings: Online proceedings on the iPOP website (presentation slides)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [5, 6, 7]
+links:
+  website: https://www.pilab.jp/ipop2026/
+notes:
+- Annual international conference on IP and optical networking (SDN/NFV, all-photonic networks, IOWN, 6G) held in Japan since 2005
+- Founded and sponsored by Photonic Internet Labs (PIL) and ISOCORE; general chairs from Keio University, NTT and ISOCORE
+- Submissions are one-page extended abstracts (400 words); accepted speakers then submit presentation slides
+- Slides are posted on the Online Proceedings page; no formal proceedings, so non-archival
+- Includes an exhibition and an interoperability showcase alongside the technical sessions
+- iPOP 2026 reported over 300 participants
+- Held at company and university sites in Japan (NTT Musashino 2023, Hakodate 2024, NICT Koganei 2025, Keio Yagami 2026)
+editions:
+- year: 2026
+  start: 2026-07-30
+  end: 2026-07-31
+  location: Yokohama, Japan (Keio University Yagami Campus)
+  url: https://www.pilab.jp/ipop2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-28
+    label: One-page abstract (extended from May 14)
+  - kind: notification
+    date: 2026-06-11
+  - kind: camera_ready
+    date: 2026-07-20
+    label: Final presentation slides
+- year: 2027
+  start: 2027-12-06
+  end: 2027-12-07
+  location: Naha, Okinawa, Japan
+  url: https://pilab.jp/ipop2027/
+sources:
+- https://www.pilab.jp/ipop2026/
+- https://www.pilab.jp/ipop2026/proposals/cfp.html
+- https://www.pilab.jp/ipop2026/about/index.html
+- https://www.pilab.jp/ipop2026/info/onlineproceedings.html
+- https://www.pilab.jp/ipop2025/
+- https://www.pilab.jp/ipop2024/
+- https://www.pilab.jp/ipop2023/
+- https://pilab.jp/ipop2027/
+- https://portal.core.edu.au/conf-ranks/?search=iPOP&by=all&source=ICORE2026
+unverified:
+- iPOP 2027 venue in Naha is still a placeholder on the official site, and its December dates break the usual May to July pattern
+- No call for presentations for iPOP 2027 yet
+last_verified: 2026-11-07

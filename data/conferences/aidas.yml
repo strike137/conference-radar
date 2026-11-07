@@ -1,0 +1,51 @@
+id: aidas
+name: AiDAS
+full_name: International Conference on Artificial Intelligence and Data Sciences
+type: conference
+tier: minor
+areas: [ai, data]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Faculty of Computer and Mathematical Sciences, Universiti Teknologi MARA (UiTM) Perak Branch
+organizer_country: [malaysia]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://aidas2026.com/
+notes:
+- Annual AI and data science conference organized by the Faculty of Computer and Mathematical Sciences, UiTM Perak Branch, Malaysia; 7th edition in 2026
+- Co-organizer changes each year (BINUS University and UTAR in 2025, Universiti Malaysia Sabah in 2026)
+- Technically co-sponsored by the IEEE Computer Society Malaysia Chapter (2026)
+- Accepted papers are submitted to IEEE Xplore and forwarded for Scopus indexing; the official site links the IEEE Xplore proceedings of earlier editions
+- Hybrid conference (virtual and in-person); registration and submission through the ConfBay system
+- Not listed in ICORE2026; a small regional venue
+editions:
+- year: 2026
+  start: 2026-09-02
+  end: 2026-09-03
+  location: Universiti Malaysia Sabah (UMS), Sabah, Malaysia (hybrid)
+  url: https://aidas2026.com/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    tz: UTC+8
+    label: Full paper (extended from 2026-05-15)
+  - kind: notification
+    date: 2026-06-28
+sources:
+- https://aidas2026.com/
+- https://submit.confbay.com/conf/aidas2026
+- https://submit.confbay.com/conf/aidas2025
+- https://ieeexplore.ieee.org/xpl/conhome/1834007/all-proceedings
+- https://portal.core.edu.au/conf-ranks/?search=AiDAS&by=all&source=ICORE2026
+unverified:
+- The ConfBay page prints the 2026 full paper deadline as 25 June 2025 (a typo); the official site gives 25 May 2026, extended from 15 May 2026
+- Camera-ready deadline differs between the official site (5 August 2026) and the ConfBay page (7 August 2026), so it is left out
+- AiDAS 2027 not announced yet
+last_verified: 2026-11-07

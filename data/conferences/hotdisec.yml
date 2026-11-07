@@ -1,0 +1,58 @@
+id: hotdisec
+name: HotDiSec
+full_name: International Workshop on Hot Topics at the Intersection of Distributed Machine Learning and Security
+type: workshop
+tier: minor
+areas: [security, ai, systems]
+region: europe
+language: english
+frequency: annual
+organizer: TU Delft and Sapienza University of Rome organizers; co-located with ESORICS (2026)
+organizer_country: [europe]
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://hotdisec.github.io/website_2026/
+notes:
+- Workshop on security of federated, split and decentralized learning and on distributed ML for security applications
+- Previous edition held as HotDiML (Workshop on Hot Topics in Distributed Machine Learning) with ICDCS 2025 in Glasgow;
+  renamed HotDiSec and moved to ESORICS for 2026 (Rome)
+- Welcomes position papers, negative results and lessons learned as well as full (16 pages) and short (6 pages) research
+  papers, in LNCS format with double-blind review
+- All accepted papers submit a web-site camera-ready version shared with workshop participants
+- Half-day program in 2026 with a keynote and 5 accepted papers
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-18
+  end: 2026-09-18
+  location: Rome, Italy (co-located with ESORICS 2026)
+  url: https://hotdisec.github.io/website_2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-05
+    tz: AoE
+    label: Extended from June 15 (firm)
+  - kind: notification
+    date: 2026-07-31
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-15
+    tz: AoE
+    label: Web-site camera-ready
+sources:
+- https://hotdisec.github.io/website_2026/
+- https://hotdisec.github.io/website_2026/cfp/
+- https://hotdisec.github.io/website_2026/dates/
+- https://hotdisec.github.io/website_2026/program/
+- https://hotdisec.github.io/website_2026/accepted/
+- https://hotdisec.github.io/website_2026/committee/
+- https://hotdisec.github.io/website_2026/previous_editions/
+- https://sites.google.com/di.uniroma1.it/esorics2026/program/accepted-workshops
+- https://portal.core.edu.au/conf-ranks/?search=HotDiSec&by=all&source=ICORE2026
+unverified:
+- Proceedings not confirmed; a CEUR-WS proceedings section exists only as commented-out text in the 2026 CFP page source, and the
+  visible pages do not say whether papers are published
+- HotDiSec 2027 not announced yet
+last_verified: 2026-11-07

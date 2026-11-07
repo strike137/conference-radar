@@ -1,0 +1,77 @@
+id: places
+name: PLACES
+full_name: Workshop on Programming Language Approaches to Concurrency- and Communication-cEntric Software
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: PLACES program chairs (ETAPS satellite workshop)
+organizer_country: [international]
+proceedings: EPTCS
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [4, 5]
+links:
+  website: https://places-workshop.github.io/
+notes:
+- Workshop on programming language approaches to concurrency, communication and distribution (session and behavioural types, process calculi, actors, verification of concurrent software)
+- Satellite workshop of ETAPS since 2009 (first edition 2008 with DisCoTec); PLACES 2026 was the 17th edition
+- Held with ETAPS, so mostly in Europe (Munich 2022, Paris 2023, Luxembourg 2024, Hamilton 2025, Turin 2026)
+- Research papers up to 8 pages in EPTCS style appear in the proceedings; talk proposals up to 2 pages are presented only
+- At least three reviewers per submission
+- Proceedings in the open-access EPTCS series (PLACES 2025 -> EPTCS 420, PLACES 2026 -> EPTCS 444)
+- Best papers invited to a JLAMP special issue (2026)
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  label: 16th PLACES
+  start: 2025-05-04
+  end: 2025-05-04
+  location: Hamilton, Canada (ETAPS 2025)
+  url: https://places-workshop.github.io/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-02-27
+    tz: AoE
+    label: Extended from 2025-02-20
+  - kind: submission
+    date: 2025-03-07
+    tz: AoE
+    label: Extended from 2025-02-28
+  - kind: notification
+    date: 2025-04-10
+    tz: AoE
+- year: 2026
+  label: 17th PLACES
+  start: 2026-04-11
+  end: 2026-04-11
+  location: Turin, Italy (ETAPS 2026)
+  url: https://places-workshop.github.io/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-01-30
+    tz: AoE
+    label: Extended from 2026-01-23
+  - kind: submission
+    date: 2026-02-06
+    tz: AoE
+    label: Extended from 2026-01-30
+  - kind: notification
+    date: 2026-03-08
+    tz: AoE
+sources:
+- https://places-workshop.github.io/
+- https://places-workshop.github.io/2026/
+- https://places-workshop.github.io/2026/cfp
+- https://places-workshop.github.io/2026/programme-proceedings
+- https://places-workshop.github.io/2025/
+- https://places-workshop.github.io/2025/cfp
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?PLACES2025
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?PLACES2026
+- https://portal.core.edu.au/conf-ranks/?search=PLACES&by=all&source=ICORE2026
+unverified:
+- PLACES 2027 not announced on the official site as of 2026-11-07
+last_verified: 2026-11-07

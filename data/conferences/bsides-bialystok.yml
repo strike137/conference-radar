@@ -1,0 +1,51 @@
+id: bsides-bialystok
+name: BSides Białystok
+full_name: Security BSides Białystok
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: BSides Białystok (non-profit volunteer community team)
+organizer_country: [europe]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://bsidesbialystok.pl/
+notes:
+- Community-run, non-profit Security BSides conference in Białystok, Poland
+- Single-track day of talks with hands-on workshops and a hardware and CTF village, preceded by training days
+- 2027 edition at Białostocki Park Naukowo-Technologiczny (ul. Żurawia 71)
+- Electronic conference badge; site published bilingually in English and Polish
+- Talks chosen through a CFP; no proceedings
+- Not listed in the CORE ICORE2026 portal or on the CCF list
+editions:
+- year: 2027
+  start: 2027-05-22
+  end: 2027-05-22
+  location: Białostocki Park Naukowo-Technologiczny, Białystok, Poland
+  url: https://bsidesbialystok.pl/
+  deadlines:
+  - kind: other
+    date: 2026-10-15
+    label: CFP opens
+  - kind: submission
+    date: 2027-02-01
+    label: CFP closes
+  - kind: notification
+    date: 2027-03-01
+    label: Speakers and schedule announced
+  - kind: other
+    date: 2027-05-20
+    label: Training days (20-21 May)
+sources:
+- https://bsidesbialystok.pl/
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Past editions could not be checked (the official archive page returned an error on 2026-11-07)
+- Talk language not stated on the official site

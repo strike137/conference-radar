@@ -1,0 +1,48 @@
+id: live-etaps
+name: LiVe
+full_name: Workshop on Learning in Verification
+type: workshop
+tier: minor
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Jan Kretinsky (TU Munich) and Joost-Pieter Katoen (RWTH Aachen)
+organizer_country: [europe]
+proceedings: None (informal pre-proceedings for participants)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://www7.in.tum.de/~kretinsk/LiVe2026.html
+notes:
+- One-day workshop on machine learning for formal verification and synthesis, and on verifying learning-based systems such as neural networks
+- Satellite event of ETAPS since 2017 (Uppsala 2017 to Turin 2026); the 2020 edition was postponed and held online with the 2021 edition, and 2025 was in Hamilton, Canada; LiVe 2026 was the 10th edition
+- Submissions are abstracts of at most two pages in LNCS style; already published and ongoing work welcome
+- Non-archival; abstracts appear only in informal pre-proceedings, with no formal publication or post-proceedings
+- Submission via EasyChair
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: 10th LiVe
+  start: 2026-04-12
+  end: 2026-04-12
+  location: Turin, Italy (satellite event of ETAPS 2026)
+  url: https://www7.in.tum.de/~kretinsk/LiVe2026.html
+  deadlines:
+  - kind: submission
+    date: 2026-02-01
+  - kind: notification
+    date: 2026-03-01
+  - kind: camera_ready
+    date: 2026-03-10
+    label: Final versions for informal pre-proceedings
+sources:
+- https://www7.in.tum.de/~kretinsk/LiVe2026.html
+- https://etaps.org/2027/sat-events
+- https://portal.core.edu.au/conf-ranks/?search=LiVe&by=all&source=ICORE2026
+unverified:
+- LiVe 2027 not announced as of 2026-11-07 (not in the ETAPS 2027 satellite event list)
+- Deadline time and zone not stated
+last_verified: 2026-11-07

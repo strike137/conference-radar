@@ -1,0 +1,63 @@
+id: aofa
+name: AofA
+full_name: International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: AofA Steering Committee (Analysis of Algorithms community)
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://www.math.aau.at/AofA
+  dblp: https://dblp.org/db/conf/aofa/index.html
+notes:
+- Annual meeting of the Analysis of Algorithms community (analytic combinatorics, probabilistic and average-case analysis of algorithms and data structures)
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl); AofA 2026 is LIPIcs volume 381
+- Extended abstracts of 12 to 15 pages in LIPIcs style, submitted via EasyChair
+- Hosts the Flajolet Lecture, given by the winner of the Philippe Flajolet Lecture Prize
+- Location rotates worldwide (Taipei 2023, Bath 2024, Toronto 2025, Munich 2026, Marne-la-Vallee 2027, Graz 2028)
+- Ranked C in ICORE2026
+editions:
+- year: 2026
+  label: 37th AofA
+  start: 2026-06-22
+  end: 2026-06-26
+  location: Munich, Germany (LMU Munich)
+  url: https://aofa2026.info/
+  deadlines:
+  - kind: submission
+    date: 2026-03-08
+    tz: AoE
+    label: Extended from 2026-03-01
+  - kind: notification
+    date: 2026-04-20
+  - kind: camera_ready
+    date: 2026-05-04
+- year: 2027
+  label: 38th AofA
+  start: 2027-06-14
+  end: 2027-06-18
+  location: Marne-la-Vallee, France
+  url: https://www.math.aau.at/AofA
+sources:
+- https://aofa2026.info/
+- https://aofa2026.info/calls/
+- https://www.math.aau.at/AofA
+- https://www.math.aau.at/AofA/meetings
+- https://analysisofalgorithms.github.io/AofA2028/
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-381
+- https://portal.core.edu.au/conf-ranks/?search=AofA&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- AofA 2027 has no website or call for papers yet; dates come from the AofA community site
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn blocks automated access)
+last_verified: 2026-11-07

@@ -1,0 +1,55 @@
+id: wccce
+name: WCCCE
+full_name: Western Canadian Conference on Computing Education
+type: conference
+tier: minor
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: Western Canadian Computing Education Society (WCCES)
+organizer_country: [canada]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [4, 5]
+links:
+  website: https://wcces.ca/
+  dblp: https://dblp.org/db/conf/wccce/index.html
+notes:
+- Regional computing education conference run by the Western Canadian Computing Education Society since 1996
+- Two-day meeting in late April or early May, hosted by a different Western Canadian institution each year (Calgary 2025, Vancouver 2026, Kamloops 2027)
+- Proceedings in the ACM Digital Library for 2023, 2024 and 2026; the 2025 papers went to the Mount Royal University Open Access Repository instead
+- Long papers up to 6 pages plus 1 page of references in ACM format, also short papers, panels, posters, nifty assignments, blizzard talks and a student research showcase
+- Anonymized review for most submission types; fully in person
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-30
+  end: 2026-05-01
+  location: Vancouver, Canada
+  url: https://event.fourwaves.com/wccce2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-08
+    time: "23:59"
+    tz: AoE
+    label: All submissions
+- year: 2027
+  start: 2027-04-29
+  end: 2027-04-30
+  location: Kamloops, Canada
+  url: https://wcces.ca/
+sources:
+- https://wcces.ca/
+- https://event.fourwaves.com/wccce2026/
+- https://event.fourwaves.com/wccce2026/pages/3b7bb20c-4e26-4c5f-995f-ccf45e8fff75
+- https://event.fourwaves.com/wccce-2025-calgary/
+- https://event.fourwaves.com/wccce-2025-calgary/pages/e6beea94-0b2f-47bd-9e88-68374fafe48b
+- https://api.crossref.org/works/10.1145/3828792
+- https://portal.core.edu.au/conf-ranks/?search=WCCCE&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- WCCCE 2027 call for participation and deadlines not yet published (conference web site TBA as of 2026-11-07)
+- ACM DL publication of the 2026 proceedings confirmed only through the Crossref DOI record (10.1145/3828792); dl.acm.org and dblp were not reachable

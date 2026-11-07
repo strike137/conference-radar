@@ -1,0 +1,55 @@
+id: scolia
+name: SCOLIA (formerly BIR)
+full_name: International Workshop on Scholarly Information Access (formerly International Workshop on Bibliometric-enhanced Information Retrieval, BIR)
+type: workshop
+tier: minor
+areas: [data, nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: BIR/SCOLIA organizing committee (Modul University Vienna, TH Mittelhessen, GESIS, University of Toulouse in 2026)
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [3, 4]
+links:
+  website: https://sites.google.com/view/bir-ws/
+notes:
+- Workshop on academic search and recommendation at the crossroads of information retrieval, NLP and bibliometrics/scientometrics
+- Continues the BIR (Bibliometric-enhanced Information Retrieval) series founded in 2014 (14 editions to 2024, some as BIRNDL at SIGIR or JCDL)
+- Renamed SCOLIA in 2025 with a broader scope including generative AI, RAG and scientific integrity; SCOLIA 2026 is the second edition
+- Co-located with ECIR almost every year; half-day workshop
+- Proceedings in CEUR-WS (SCOLIA 2026 is Vol-4187); 8 of 17 submissions accepted in 2026
+- Full papers 12 pages and short papers 6 pages in CEUR-ART style, single-blind, at least two reviewers; no-show papers are removed from the proceedings
+- Hosts shared tasks (UP2DATE on updating systematic reviews in 2026)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-04-02
+  end: 2026-04-02
+  location: Delft, The Netherlands (co-located with ECIR 2026)
+  url: https://sites.google.com/view/bir-ws/scolia-2026
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    time: "23:59"
+    tz: AoE
+    label: Extended (originally January 19)
+  - kind: notification
+    date: 2026-03-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-15
+    tz: AoE
+sources:
+- https://sites.google.com/view/bir-ws/
+- https://sites.google.com/view/bir-ws/scolia-2026
+- https://ceur-ws.org/Vol-4187/
+- https://portal.core.edu.au/conf-ranks/?search=SCOLIA&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Bibliometric&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of 2026-11-07 (the 2026 page only mentions shared task results to be presented at SCOLIA 2027)
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

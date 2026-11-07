@@ -1,0 +1,45 @@
+id: adecos
+name: ADeCoS
+full_name: International Workshop on Agentic and Decentralized Coordination for Softwarized Networks
+type: workshop
+tier: minor
+areas: [networking, ai]
+region: europe
+language: english
+organizer: Fetia Bannour (ensIIE / Telecom SudParis), Nakjung Choi (Nokia Bell Labs), Chrysa Papagianni (University of Amsterdam) and others
+organizer_country: [europe, usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://adecos-netsoft.com/
+notes:
+- Workshop co-located with IEEE NetSoft; first edition at NetSoft 2026 in Berlin
+- Topics are agentic AI and multi-agent coordination for SDN/NFV control, intent-to-action, decentralized and federated control planes, multi-domain orchestration, safety and verification
+- Papers up to 7 pages in IEEE two-column format including references; at least 3 reviews per paper; submission via EDAS
+- Papers appear in the IEEE NetSoft 2026 workshop proceedings (IEEE Xplore, subject to policy)
+- Half-day workshop with a keynote and five papers in 2026
+editions:
+- year: 2026
+  label: 1st ADeCoS (at NetSoft 2026)
+  start: 2026-06-29
+  end: 2026-06-29
+  location: Berlin, Germany (with IEEE NetSoft 2026)
+  url: https://adecos-netsoft.com/
+  deadlines:
+  - kind: submission
+    date: 2026-04-08
+  - kind: notification
+    date: 2026-04-24
+  - kind: camera_ready
+    date: 2026-05-04
+sources:
+- https://adecos-netsoft.com/
+- https://netsoft2026.ieee-netsoft.org/workshops
+- https://portal.core.edu.au/conf-ranks/?search=ADeCoS&by=all&source=ICORE2026
+unverified:
+- Not listed in CORE ICORE2026 or the CCF list
+- No 2027 edition announced yet
+last_verified: 2026-11-07

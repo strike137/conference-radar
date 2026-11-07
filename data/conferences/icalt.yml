@@ -1,0 +1,85 @@
+id: icalt
+name: IEEE ICALT
+full_name: IEEE International Conference on Advanced Learning Technologies
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Computer Society Technical Community on Learning Technology (TCLT)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [1, 2]
+  conference_months: [7]
+links:
+  website: https://tc.computer.org/tclt/icalt-2026/
+  dblp: https://dblp.org/db/conf/icalt/index.html
+notes:
+- Flagship conference of the IEEE Computer Society Technical Community on Learning Technology (TCLT)
+- CORE B (ICORE2026); not on the CCF 2026 list
+- Proceedings published by IEEE Computer Society Conference Publishing Services and IEEE Xplore; the CFP says Xplore papers are passed to EI, Scopus and CPCI
+- Full papers 5 pages, short papers 3 pages, discussion papers 2 pages, doctoral consortium papers 3 pages
+- Many topical tracks, plus a doctoral consortium, best paper awards and a student award
+- Single deadline for all paper types in January, usually extended by a few weeks; deadlines are 23:59 Pacific Time
+- Rotates worldwide with in-person and online registration (Bucharest 2022, Orem 2023, Nicosia 2024, Changhua 2025, Hung Yen 2026, Dortmund 2027)
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-09
+  location: Hung Yen, Vietnam
+  url: https://tc.computer.org/tclt/icalt-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-09
+    time: "23:59"
+    tz: PST
+    label: Original deadline
+  - kind: submission
+    date: 2026-02-06
+    time: "23:59"
+    tz: PST
+    label: Extended deadline
+  - kind: notification
+    date: 2026-04-03
+  - kind: camera_ready
+    date: 2026-05-01
+    time: "23:59"
+    tz: PDT
+    label: Camera-ready, copyright form and author registration
+- year: 2027
+  start: 2027-07-19
+  end: 2027-07-22
+  location: Dortmund, Germany
+  url: https://tc.computer.org/tclt/icalt-2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+    time: "23:59"
+    tz: PST
+    label: All papers (full, short, discussion, doctoral consortium)
+  - kind: notification
+    date: 2027-04-12
+  - kind: camera_ready
+    date: 2027-05-10
+    time: "23:59"
+    tz: PDT
+    label: Camera-ready, copyright form and author registration
+sources:
+- https://tc.computer.org/tclt/icalt-2026/
+- https://tc.computer.org/tclt/icalt-2027/
+- https://tc.computer.org/tclt/icalt-2025/
+- https://tc.computer.org/tclt/icalt-2025-venue/
+- https://tc.computer.org/tclt/icalt-2024/
+- https://tc.computer.org/tclt/icalt-2023-venue/
+- https://tc.computer.org/tclt/icalt-2022-venue/
+- https://portal.core.edu.au/conf-ranks/?search=ICALT&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- The CFP says "Pacific Time"; PST or PDT is chosen by date
+- Whether the 2027 deadline will be extended is not yet announced
+- Acceptance rate not published on the official site

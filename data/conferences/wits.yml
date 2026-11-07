@@ -1,0 +1,47 @@
+id: wits
+name: WITS
+full_name: Workshop on the Implementation of Type Systems
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: WITS program committee, co-located with ACM SIGPLAN POPL
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [1]
+links:
+  website: https://popl26.sigplan.org/home/wits-2026
+notes:
+- Workshop for implementors of languages with advanced type systems (binders, unification, elaboration, tactics, error messages)
+- First held in 2022 (Philadelphia); 2026 was the 5th edition; co-located with POPL (London 2024, Denver 2025, Rennes 2026)
+- Contributed talks and 45-minute roundtable proposals, each with an abstract of at most 1 page (SIGPLAN acmart format)
+- No published proceedings, so submitting does not conflict with other venues
+- 2026 edition sponsored by Jane Street
+- Not listed in CORE ICORE2026; not in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-17
+  end: 2026-01-17
+  location: Rennes, France (co-located with POPL 2026)
+  url: https://popl26.sigplan.org/home/wits-2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-06
+    tz: AoE
+  - kind: notification
+    date: 2025-12-01
+sources:
+- https://popl26.sigplan.org/home/wits-2026
+- https://popl25.sigplan.org/home/wits-2025
+- https://popl24.sigplan.org/home/wits-2024
+- https://popl22.sigplan.org/home/wits-2022
+- https://popl27.sigplan.org/
+- https://portal.core.edu.au/conf-ranks/?search=WITS&by=all&source=ICORE2026
+unverified:
+- No WITS 2027 announced yet; it is not in the POPL 2027 workshop list as of 2026-11-07
+last_verified: 2026-11-07

@@ -1,0 +1,53 @@
+id: bsides-dehradun
+name: BSides Dehradun
+full_name: Security BSides Dehradun
+type: industry
+tier: minor
+areas: [security]
+region: south-asia
+language: english
+frequency: irregular
+organizer: Security BSides Dehradun (volunteer organizing team)
+organizer_country: [india]
+proceedings: None (talks only)
+archival: false
+fee: From INR 999 (student, early bird) to INR 9,099 (corporate, last call) (2027)
+typical:
+  deadline_months: [12]
+  conference_months: [4]
+links:
+  website: https://bsidesdehradun.com/
+notes:
+- Volunteer-run Security BSides conference in Dehradun, Uttarakhand, India
+- Editions so far are 0x01 (2024), 0x02 (2026) and 0x03 (2027); checked-in attendance 187 in 2024 and 255 in 2026
+- Two days of hands-on trainings, then a CTF final day and a single track of talks with villages
+- Talks are 45 minutes or 15 minute lightning talks, chosen by five volunteer reviewers through an open CFP on cfp.directory
+- Talks are in English; no proceedings
+- Not listed in the CORE ICORE2026 portal or on the CCF list
+editions:
+- year: 2027
+  start: 2027-04-03
+  end: 2027-04-04
+  location: Dehradun, India (venue to be announced)
+  url: https://bsidesdehradun.com/
+  deadlines:
+  - kind: other
+    date: 2026-10-25
+    label: CFP opens
+  - kind: submission
+    date: 2026-12-06
+    tz: IST
+    label: CFP closes (end of day)
+  - kind: notification
+    date: 2027-01-15
+  - kind: other
+    date: 2027-04-01
+    label: Trainings (1-2 April)
+sources:
+- https://bsidesdehradun.com/
+- https://bsidesdehradun.com/cfp
+- https://bsidesdehradun.com/speakers
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Exact dates and venues of the 2024 (0x01) and 2026 (0x02) editions are not stated on the official site

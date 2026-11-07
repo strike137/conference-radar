@@ -1,0 +1,56 @@
+id: works-workshop
+name: WORKS
+full_name: Workshop on Workflows in Support of Large-Scale Science
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: WORKS Steering Committee (held with SC)
+organizer_country: [international]
+proceedings: SC Workshops Proceedings (IEEE Xplore 2026, ACM DL 2025)
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://works-workshop.org/
+notes:
+- Long-running one-day workshop on scientific workflows, held with SC (the ACM/IEEE supercomputing conference); 2026 is the 21st edition
+- Full papers up to 8 pages in IEEE format, single-blind review with at least three reviews, published in the SC Workshops Proceedings
+- Abstracts up to 4 pages feed a contributed panel discussion and are not published
+- WORKS 2026 papers go to IEEE Xplore; SC25 workshop papers went to the ACM DL
+- Submission goes through the SC submission site (submissions.supercomputing.org); deadlines are AoE
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, MO, USA (with SC25)
+  url: https://sc25.conference-program.com/session/?sess=sess208
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: McCormick Place, Chicago, IL, USA (with SC26)
+  url: https://works-workshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-07
+    tz: AoE
+    label: Papers and abstracts (final extension, originally 2026-07-31)
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+    tz: AoE
+sources:
+- https://works-workshop.org/
+- https://sc25.conference-program.com/session/?sess=sess208
+- https://sc25.supercomputing.org/program/proceedings-archives/
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=WORKS&by=all&source=ICORE2026
+unverified:
+- Deadlines of WORKS 2025 not found on an official page (the 2025 archive page of works-workshop.org is missing)
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-07

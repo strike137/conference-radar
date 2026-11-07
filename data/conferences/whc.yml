@@ -1,0 +1,75 @@
+id: whc
+name: IEEE WHC
+full_name: IEEE World Haptics Conference
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IEEE Robotics and Automation Society, Technical Committee on Haptics, with the EuroHaptics Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://2027.worldhaptics.org/
+  dblp: https://dblp.org/db/conf/haptics/index.html
+notes:
+- Premier international conference on haptics (science, technology, algorithms and applications of touch)
+- Joint gathering of the IEEE Haptics Symposium and the EuroHaptics Conference, held in odd years; the IEEE Haptics Symposium takes the even years
+- Sponsored by IEEE RAS; 2025 edition organized by the Korea Haptics Society with technical support from the Technical Committee on Haptics and the EuroHaptics Society
+- Long papers (8 to 12 pages plus up to 3 of references) and regular papers (4 to 6 pages plus up to 2), double-blind review, published in IEEE Xplore
+- Later tracks for work-in-progress papers, hands-on demos, workshops and IEEE Transactions on Haptics presentations
+- CCF C (human-computer interaction); not listed in CORE ICORE2026
+- Location rotates worldwide (Suwon 2025, Boston 2027)
+editions:
+- year: 2025
+  start: 2025-07-08
+  end: 2025-07-11
+  location: Suwon Convention Center, Suwon, Korea
+  url: https://2025.worldhaptics.org/
+  deadlines:
+  - kind: notification
+    date: 2025-04-16
+    label: Long and regular papers
+  - kind: submission
+    date: 2025-04-30
+    label: Work-in-progress papers (extended)
+  - kind: camera_ready
+    date: 2025-05-16
+    tz: AoE
+- year: 2027
+  start: 2027-07-13
+  end: 2027-07-16
+  location: Boston, Massachusetts, USA
+  url: https://2027.worldhaptics.org/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2027-01-29
+    label: Long and regular papers
+  - kind: notification
+    date: 2027-04-16
+    label: Long and regular papers
+  - kind: submission
+    date: 2027-04-30
+    label: Work-in-progress papers
+  - kind: camera_ready
+    date: 2027-05-14
+sources:
+- https://2027.worldhaptics.org/
+- https://2025.worldhaptics.org/
+- https://2025.worldhaptics.org/conference-overview/
+- https://2025.worldhaptics.org/papers-a/
+- https://portal.core.edu.au/conf-ranks/?search=Haptics&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/ (CCF 2026 list PDF, IEEE World Haptics Conference in the human-computer interaction C list)
+unverified:
+- 2027 dates are marked tentative on the official site; no time zone given
+- 2025 long and regular paper submission deadline no longer shown on the 2025 site
+- dblp conf/haptics stream covers both WHC and the IEEE Haptics Symposium
+last_verified: 2026-11-07

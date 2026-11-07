@@ -1,0 +1,59 @@
+id: ddd-melbourne
+name: DDD Melbourne
+full_name: DDD Melbourne
+type: industry
+tier: minor
+areas: [software]
+region: oceania
+language: english
+frequency: annual
+organizer: Oz Dev Inc. (non-profit association)
+organizer_country: [australia]
+proceedings: None (talks only)
+archival: false
+fee: AUD 89 (2027, includes food, coffee and afterparty)
+typical:
+  deadline_months: [9]
+  conference_months: [2]
+links:
+  website: https://www.dddmelbourne.com/
+notes:
+- Inclusive non-profit one day conference for the Melbourne software community, held on a Saturday
+- Part of the Developer! Developer! Developer! family of community events; run by the non-profit Oz Dev Inc.
+- Open call for presentations on any software industry topic, followed by public voting that decides the agenda
+- Free onsite childcare, financial assistance tickets available; no papers
+- Held at Melbourne Town Hall; also runs the regular DDD By Night meetup
+editions:
+- year: 2027
+  start: 2027-02-20
+  end: 2027-02-20
+  location: Melbourne Town Hall, Melbourne, VIC, Australia
+  url: https://www.dddmelbourne.com/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+    time: "23:59"
+    tz: AEST
+    label: Call for presentations closes
+  - kind: other
+    date: 2026-10-21
+    time: "23:59"
+    tz: AEDT
+    label: Public voting closes
+  - kind: notification
+    date: 2026-11-04
+    time: "12:00"
+    tz: AEDT
+    label: Agenda published
+sources:
+- https://www.dddmelbourne.com/
+- https://www.dddmelbourne.com/about
+- https://www.dddmelbourne.com/faq
+- https://www.dddmelbourne.com/agenda/2026
+- https://portal.core.edu.au/conf-ranks/?search=DDD&by=all&source=ICORE2026
+unverified:
+- Date of DDD Melbourne 2026 not stated on the official site (2026 agenda page has no date)
+- Official site gives times in Australia/Melbourne time; AEST/AEDT chosen from the daylight saving switch on 4 Oct 2026
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-11-07

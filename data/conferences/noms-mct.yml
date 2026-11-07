@@ -1,0 +1,48 @@
+id: noms-mct
+name: MCT
+full_name: Workshop on Management of Complex Threats
+type: workshop
+tier: minor
+areas: [security, networking, ai]
+region: europe
+language: english
+organizer: Pierre Parrend (LRE-EPITA / University of Strasbourg) and Marc-Oliver Pahl (IMT Atlantique)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5]
+links:
+  website: https://noms-mct.lre.epita.fr/
+notes:
+- Workshop co-located with IEEE/IFIP NOMS; first held at NOMS 2026 in Rome
+- Grew out of the Detection of Complex Attacks (DCA) invited sessions at KES 2024 (Seville) and KES 2025 (Osaka)
+- Topics are AI and machine learning for network security, generative AI for defense and pen testing, adversarial ML and complex threats such as APTs
+- Papers up to 6 pages in IEEE two-column format; tutorial and tool demo proposals of 2 to 6 pages; submission via JEMS3
+- Accepted and presented papers go into the NOMS 2026 proceedings and are submitted to IEEE Xplore
+- One-day workshop; eight papers and one tool demo in the 2026 program
+editions:
+- year: 2026
+  label: MCT 2026 (at NOMS 2026)
+  start: 2026-05-22
+  end: 2026-05-22
+  location: Rome, Italy (with IEEE/IFIP NOMS 2026)
+  url: https://noms-mct.lre.epita.fr/
+  deadlines:
+  - kind: submission
+    date: 2026-02-09
+    label: Extended from 2026-01-19
+  - kind: notification
+    date: 2026-03-02
+  - kind: camera_ready
+    date: 2026-03-16
+sources:
+- https://noms-mct.lre.epita.fr/
+- https://noms-mct.lre.epita.fr/dca_2025/index.html
+- https://noms2026.ieee-noms.org/workshops
+- https://portal.core.edu.au/conf-ranks/?search=MCT&by=all&source=ICORE2026
+unverified:
+- Not listed in CORE ICORE2026 or the CCF list
+- No 2027 edition announced yet
+last_verified: 2026-11-07

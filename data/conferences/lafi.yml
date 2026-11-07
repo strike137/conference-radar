@@ -1,0 +1,55 @@
+id: lafi
+name: LAFI
+full_name: Languages for Inference Workshop
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: LAFI organizers, co-located with ACM SIGPLAN POPL
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1]
+links:
+  website: https://popl27.sigplan.org/home/lafi-2027
+notes:
+- One-day workshop co-located with ACM POPL, moving with it each year
+- Brings programming-language and machine-learning researchers together on probabilistic and differentiable programming languages and inference
+- Submissions are anonymized extended abstracts of 2 pages plus references and optional appendices
+- Informal workshop; proceedings are not a formal or archival publication, so later publication elsewhere is allowed
+- Does not demand travel for presenters or participants
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  start: 2026-01-11
+  end: 2026-01-11
+  location: Rennes, France (with POPL 2026)
+  url: https://popl26.sigplan.org/home/lafi-2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-30
+    tz: AoE
+  - kind: notification
+    date: 2025-11-27
+    tz: AoE
+- year: 2027
+  location: Mexico City, Mexico (with POPL 2027, 10 to 16 January 2027)
+  url: https://popl27.sigplan.org/home/lafi-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-02
+    tz: AoE
+  - kind: notification
+    date: 2026-11-27
+    tz: AoE
+sources:
+- https://popl26.sigplan.org/home/lafi-2026
+- https://popl27.sigplan.org/home/lafi-2027
+- https://portal.core.edu.au/conf-ranks/?search=LAFI&by=all&source=ICORE2026
+unverified:
+- Exact LAFI 2027 workshop day within POPL 2027 (10 to 16 January 2027) not yet stated
+last_verified: 2026-11-07

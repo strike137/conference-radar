@@ -1,0 +1,66 @@
+id: p3hpc
+name: P3HPC
+full_name: International Workshop on Performance, Portability and Productivity in HPC
+type: workshop
+tier: minor
+areas: [systems, software]
+region: north-america
+language: english
+frequency: annual
+organizer: SC workshop; IEEE/ACM, with papers published through IEEE TCHPC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (IEEE Xplore via IEEE TCHPC)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://p3hpc.org/
+notes:
+- IEEE/ACM workshop run as part of the SC program since 2018; a separate P3HPC Forum (talks, panels and posters) grew out of the DOE Centers of Excellence performance portability meetings
+- Topics include performance portable programming models, libraries and DSLs, case studies and P3 metrics
+- Papers of 5 to 12 pages excluding references (16 pages maximum with references and appendices), IEEE template
+- Single-blind review with at least three reviews per paper
+- Optional Artifact Description and Artifact Evaluation appendices following the SC reproducibility initiative
+- Full day in 2025; location follows SC (St. Louis 2025, Chicago 2026)
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, MO, USA (with SC25)
+  url: https://p3hpc.org/workshop/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-13
+    label: Extended from 2025-08-07
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-22
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-20
+  location: Chicago, IL, USA (with SC26)
+  url: https://p3hpc.org/workshop/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-12
+    label: Extended from 2026-08-05
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://p3hpc.org/
+- https://p3hpc.org/workshop/2026/
+- https://p3hpc.org/workshop/2026/submissions/
+- https://p3hpc.org/workshop/2025/
+- https://p3hpc.org/workshop/2025/program/
+- https://sc25.supercomputing.org/
+- https://sc26.supercomputing.org/
+- https://portal.core.edu.au/conf-ranks/?search=P3HPC&by=all&source=ICORE2026
+unverified:
+- Exact day of P3HPC 2026 not announced; the site gives only the SC26 week (November 15-20)
+- Not listed on the CORE portal (ICORE2026) and not on the CCF 2026 list
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

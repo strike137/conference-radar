@@ -1,0 +1,67 @@
+id: dsc-cyberspace
+name: DSC
+full_name: International Conference on Data Science in Cyberspace
+type: conference
+tier: minor
+areas: [data, security, ai]
+region: china
+language: english
+frequency: annual
+organizer: DSC Steering Committee (Peng Cheng Laboratory site; host university changes each year)
+organizer_country: [china]
+proceedings: Springer LNCS
+archival: true
+indexing: [EI, Scopus, DBLP]
+typical:
+  deadline_months: [6, 9]
+  conference_months: [8, 11]
+links:
+  website: https://dsc.pcl.ac.cn/
+notes:
+- Annual since 2016 (Changsha); held in China every year (Shenzhen 2021, Guilin 2022, Hefei 2023, Jinan 2024, Baoding 2025, Qingdao 2026)
+- Known as IEEE DSC through 2025 with proceedings in IEEE Xplore; DSC 2026 moved to Springer LNCS
+- Not the same venue as IEEE DSC (Dependable and Secure Computing)
+- Co-located workshops such as MDATA, BDBA, PSTF-AI, GRLA and VAAL
+- Single-blind review on CMT; LNCS papers up to 16 pages (2026)
+- Deadlines are often extended; 2026 paper deadline moved from August 15 to September 5 and the conference from September to November
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-15
+  end: 2025-08-17
+  location: Xiong'an (Baoding), Hebei, China (Hebei University)
+  url: https://dsc.pcl.ac.cn/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-07-20
+  - kind: camera_ready
+    date: 2025-08-05
+- year: 2026
+  start: 2026-11-06
+  end: 2026-11-08
+  location: Qingdao, China (Harbin Institute of Technology, Weihai)
+  url: https://dsc.pcl.ac.cn/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-05
+  - kind: notification
+    date: 2026-10-12
+  - kind: camera_ready
+    date: 2026-10-29
+sources:
+- https://dsc.pcl.ac.cn/
+- https://dsc.pcl.ac.cn/2026/
+- https://dsc.pcl.ac.cn/2026/importantdates.html
+- https://dsc.pcl.ac.cn/2026/CallForPapers.html
+- https://dsc.pcl.ac.cn/2025/
+- https://dsc.pcl.ac.cn/2025/importantdates.html
+- https://dsc.pcl.ac.cn/2025/CallForPapers.html
+- https://portal.core.edu.au/conf-ranks/?search=DSC&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- dblp page not checked (dblp blocked automated access)
+last_verified: 2026-11-07

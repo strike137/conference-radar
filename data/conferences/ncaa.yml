@@ -1,0 +1,82 @@
+id: ncaa
+name: NCAA
+full_name: International Conference on Neural Computing for Advanced Applications
+type: conference
+tier: minor
+areas: [ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Asia-Pacific Association of Cognitive Intelligence (AACI)
+organizer_country: [china]
+proceedings: Springer CCIS
+archival: true
+indexing: [EI, CPCI]
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://aaci.org.hk/ncaa2026/
+notes:
+- Annual neural computing and applications conference hosted by AACI (Hong Kong); first edition 2020
+- Proceedings in Springer CCIS; full papers 12 to 15 pages in CCIS format, double-blind review on CMT
+- Two submission rounds (early round in March, second round in April)
+- Hybrid events; Jinan 2022, Hefei 2023, Guilin 2024, Hong Kong 2025, Osaka 2026
+- Authors of selected papers are invited to submit extended versions to journals
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-07-04
+  end: 2025-07-06
+  location: Hong Kong, China (hybrid; Hong Kong Metropolitan University)
+  url: https://aaci.org.hk/ncaa2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-01
+    time: "23:59"
+    tz: PST
+    label: Early round
+  - kind: notification
+    date: 2025-03-31
+    label: Early round
+  - kind: submission
+    date: 2025-04-21
+    label: Second round
+  - kind: notification
+    date: 2025-05-14
+    label: Second round
+- year: 2026
+  start: 2026-07-09
+  end: 2026-07-12
+  location: Osaka, Japan (hybrid; Ritsumeikan University)
+  url: https://aaci.org.hk/ncaa2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-01
+    time: "23:59"
+    tz: PST
+    label: Early round
+  - kind: notification
+    date: 2026-03-31
+    label: Early round
+  - kind: submission
+    date: 2026-04-28
+    label: Second round
+  - kind: notification
+    date: 2026-05-14
+    label: Second round
+sources:
+- https://aaci.org.hk/ncaa2026/
+- https://aaci.org.hk/ncaa2026/calls/callforPapersAndsubmission
+- https://aaci.org.hk/ncaa2026/calls/previousConferences
+- https://aaci.org.hk/ncaa2026/organization/organizingCommittee
+- https://aaci.org.hk/ncaa2025/
+- https://aaci.org.hk/ncaa2024/
+- https://dl2link.com/ncaa2022/
+- https://dl2link.com/ncaa2023/
+- https://link.springer.com/book/10.1007/978-981-95-3736-5
+- https://portal.core.edu.au/conf-ranks/?search=NCAA&by=all&source=ICORE2026
+unverified:
+- Location of the 2021 edition not confirmed, so region is set to asia-pacific
+- NCAA 2027 not announced yet
+last_verified: 2026-11-07

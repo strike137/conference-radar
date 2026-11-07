@@ -1,0 +1,55 @@
+id: facctrec
+name: FAccTRec
+full_name: FAccTRec Workshop on Responsible Recommendation
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (Drexel University, Microsoft, Utrecht University and others)
+organizer_country: [usa, europe]
+proceedings: None (papers posted on arXiv by the authors)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://facctrec.github.io/
+notes:
+- Half-day workshop at ACM RecSys on fairness, accountability, transparency and social responsibility in recommender systems
+- Held as FATREC in 2017 and 2018 and as FAccTRec from 2020; the 8th edition was at RecSys 2025 in Prague
+- No official proceedings; authors are expected to post accepted papers on arXiv, and already published work may be submitted
+- A workshop summary article appears in the ACM Digital Library
+- Position papers (2 pages sigconf) and research papers (6 pages sigconf), single-blind review via EasyChair
+- Remote presentation possible
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-09-26
+  end: 2025-09-26
+  location: Prague, Czech Republic (with ACM RecSys 2025)
+  url: https://facctrec.github.io/facctrec2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-17
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-08-13
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-27
+    tz: AoE
+sources:
+- https://facctrec.github.io/
+- https://facctrec.github.io/facctrec2025/
+- https://facctrec.github.io/facctrec2025/cfp/
+- https://facctrec.github.io/facctrec2025/program/
+- https://facctrec.github.io/facctrec2024/
+- https://recsys.acm.org/recsys25/workshops/
+- https://recsys.acm.org/recsys26/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=FAccTRec&by=all&source=ICORE2026
+unverified:
+- Not on the RecSys 2026 workshop list and no 2026 or 2027 edition announced on the website
+last_verified: 2026-11-07

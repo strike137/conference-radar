@@ -1,0 +1,61 @@
+id: sumeval
+name: SUMEval
+full_name: Workshop on Scaling Up Multilingual & Multi-Cultural Evaluation
+type: workshop
+tier: minor
+areas: [nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: SUMEval organizers (Microsoft, MBZUAI, Cohere, UC Berkeley, Santa Clara University)
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1]
+links:
+  website: https://sites.google.com/view/sumeval-2025
+notes:
+- Workshop on multilingual and multicultural evaluation of language models (benchmarks, metrics, under-represented languages)
+- First edition with AACL-IJCNLP 2022 (online) as the Workshop on Scaling Up Multilingual Evaluation; second edition with COLING 2025 (Abu Dhabi)
+- Archival papers up to 8 pages, ARR guidelines, double-blind review via Softconf; non-archival track for papers published elsewhere
+- 2025 edition was in person only and had best paper awards sponsored by Microsoft
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  label: SUMEval-2, with COLING 2025
+  start: 2025-01-20
+  end: 2025-01-20
+  location: Abu Dhabi, UAE
+  url: https://sites.google.com/view/sumeval-2025
+  deadlines:
+  - kind: submission
+    date: 2024-11-08
+    time: "23:59"
+    tz: AoE
+    label: Archival papers (extended from 2024-10-18)
+  - kind: submission
+    date: 2024-11-25
+    time: "23:59"
+    tz: AoE
+    label: Non-archival papers
+  - kind: notification
+    date: 2024-12-03
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-12-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sites.google.com/view/sumeval-2025
+- https://sites.google.com/view/sumeval-2025/previous-workshops
+- https://coling2025.org/program/workshops/
+- https://aclanthology.org/venues/sumeval/
+- https://aclanthology.org/volumes/2025.sumeval-2/
+- https://aclanthology.org/volumes/2022.sumeval-1/
+- https://portal.core.edu.au/conf-ranks/?search=SUMEval&by=all&source=ICORE2026
+unverified:
+- No third edition announced yet
+last_verified: 2026-11-07

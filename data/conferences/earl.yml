@@ -1,0 +1,72 @@
+id: earl
+name: EARL
+full_name: Workshop on Evaluating and Applying Recommender Systems with Large Language Models
+type: workshop
+tier: minor
+areas: [ai, data, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (Shanghai Jiao Tong University, University College Dublin, University of Tokyo, Shenzhen University and others)
+organizer_country: [china, europe, japan]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [7, 8]
+  conference_months: [9, 11]
+links:
+  website: https://earl-workshop.github.io/
+notes:
+- Half-day workshop on LLM-based recommender systems, with a focus on evaluation, reproducibility and deployment
+- Held with ACM RecSys 2024 (Bari) and RecSys 2025 (Prague); the third edition moved to CIKM 2026 in Rome
+- Non-archival; papers are not indexed and there are no formal proceedings
+- Long and short papers in the ACM double-column format, double-blind review by at least three reviewers
+- 2026 submissions via OpenReview; in person only
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-09-26
+  end: 2025-09-26
+  location: Prague, Czech Republic (with ACM RecSys 2025)
+  url: https://earl-workshop.github.io/earl2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-10
+    label: First round
+  - kind: submission
+    date: 2025-08-07
+    label: Second round
+  - kind: notification
+    date: 2025-08-25
+  - kind: camera_ready
+    date: 2025-09-04
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-08
+  location: Rome, Italy (with CIKM 2026)
+  url: https://earl-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-30
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-09-23
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-16
+    time: "23:59"
+    tz: AoE
+sources:
+- https://earl-workshop.github.io/
+- https://earl-workshop.github.io/call-for-papers/
+- https://earl-workshop.github.io/organizers/
+- https://earl-workshop.github.io/earl2025/
+- https://earl-workshop.github.io/earl2024/
+- https://recsys.acm.org/recsys25/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=EARL&by=all&source=ICORE2026
+unverified:
+- No 2027 edition or host conference announced yet
+last_verified: 2026-11-07

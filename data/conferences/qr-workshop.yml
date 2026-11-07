@@ -1,0 +1,67 @@
+id: qr-workshop
+name: QR
+full_name: International Workshop on Qualitative Reasoning
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: QR community (2026 chairs at University of Luebeck and Umea University)
+organizer_country: [international]
+proceedings: None (collection of working papers on the workshop website)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://dwolter.github.io/qr26/
+notes:
+- Long-running workshop of the qualitative reasoning community; the 2026 edition was the 39th
+- Co-located with IJCAI in recent years (Montreal 2025, Bremen 2026)
+- Accepted papers are published as a collection of working papers archived on the workshop website, so the same work may also go to a conference or journal
+- Full papers up to 8 pages plus references (7 in 2025), short papers up to 3 pages plus references, IJCAI format, not anonymized
+- At least two reviewers per paper; separate late-breaking deadline for short papers and demos
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-08-16
+  end: 2025-08-16
+  location: Montreal, Canada (with IJCAI 2025)
+  url: https://mob00.github.io/qr25/
+  deadlines:
+  - kind: submission
+    date: 2025-05-30
+  - kind: notification
+    date: 2025-06-06
+  - kind: camera_ready
+    date: 2025-06-26
+- year: 2026
+  start: 2026-08-15
+  end: 2026-08-15
+  location: Bremen, Germany (with IJCAI-ECAI 2026)
+  url: https://dwolter.github.io/qr26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    tz: AoE
+  - kind: notification
+    date: 2026-06-12
+  - kind: other
+    date: 2026-07-12
+    label: Late-breaking short papers
+  - kind: camera_ready
+    date: 2026-08-01
+sources:
+- https://dwolter.github.io/qr26/
+- https://dwolter.github.io/qr26/dates.html
+- https://dwolter.github.io/qr26/submissions.html
+- https://dwolter.github.io/qr26/committee.html
+- https://2026.ijcai.org/accepted-workshops/
+- https://mob00.github.io/qr25/
+- https://mob00.github.io/qr25/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=QR&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced yet
+- The 2026 dates page called the workshop date preliminary; the IJCAI 2026 accepted workshops page lists August 15
+last_verified: 2026-11-07

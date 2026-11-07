@@ -1,0 +1,65 @@
+id: ramics
+name: RAMiCS
+full_name: International Conference on Relational and Algebraic Methods in Computer Science
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: irregular
+organizer: RAMiCS Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [11, 1]
+  conference_months: [4, 8]
+links:
+  website: https://ramics-conf.github.io/
+  dblp: https://dblp.org/db/conf/RelMiCS/index.html
+notes:
+- Theory venue on relation algebras, Kleene algebras, residuated lattices, semirings and related algebraic methods, with applications to program verification and concurrency
+- Runs since 1994, first as RelMiCS; merged with the AKA (Applications of Kleene Algebra) conferences and named RAMiCS since 2009
+- Proceedings in Springer LNCS, ready at the conference; papers up to 16 pages in LNCS style, at least three reviewers each
+- Selected papers invited to a journal special issue; separate call for unpublished presentations and tutorials
+- Mostly held in Europe (Groningen 2018, Palaiseau 2020 virtual, Marseille 2021, Augsburg 2023, Prague 2024, Bedlewo 2026); 2027 in South Africa
+- Irregular schedule, roughly every one to two years
+- "CORE ICORE2026: C; not in the CCF 2026 list"
+editions:
+- year: 2026
+  label: 22nd edition
+  start: 2026-04-07
+  end: 2026-04-10
+  location: Bedlewo, Poland (Institute of Mathematics of the Polish Academy of Sciences)
+  url: https://ramics-conf.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-20
+    label: Extended from November 13
+  - kind: notification
+    date: 2026-01-20
+  - kind: camera_ready
+    date: 2026-02-10
+- year: 2027
+  label: 23rd edition
+  start: 2027-08-16
+  end: 2027-08-20
+  location: Hoedspruit, South Africa (Wits Rural Facility)
+  url: https://ramics-conf.github.io/2027/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-08
+  - kind: submission
+    date: 2027-01-22
+  - kind: notification
+    date: 2027-04-23
+sources:
+- https://ramics-conf.github.io/
+- https://ramics-conf.github.io/2026/
+- https://ramics-conf.github.io/2027/
+- https://portal.core.edu.au/conf-ranks/?search=RAMiCS&by=all&source=ICORE2026
+unverified:
+- The RAMiCS 2027 page lists the final version deadline on the same day as the notification (23 April 2027), so it is left out
+last_verified: 2026-11-07

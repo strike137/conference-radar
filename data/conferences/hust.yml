@@ -1,0 +1,65 @@
+id: hust
+name: HUST
+full_name: International Workshop on HPC User Support Tools
+type: workshop
+tier: minor
+areas: [systems, software]
+region: north-america
+language: english
+frequency: annual
+organizer: SC workshop; organizers from LLNL, Georgia Tech, Globus (University of Chicago), Juelich Supercomputing Centre and UWA
+organizer_country: [usa, europe, australia]
+proceedings: SC Workshops Proceedings (ACM DL for 2023 to 2025; IEEE Xplore for 2020 and 2022)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://hust-workshop.github.io/
+notes:
+- Workshop held with SC (the International Conference for High Performance Computing, Networking, Storage and Analysis); 13th edition in 2026, first held in 2014
+- Audience of HPC system administrators, user support staff and tool developers; topics include software build tools, user environments, monitoring, documentation and AI-based user support
+- Full papers of 5 to 12 pages (including references) go into the proceedings; 2 to 4 page short papers are not published
+- Double-blind review, submitted through the SC submissions site
+- Optional Artifact Description appendix following the SC reproducibility initiative
+- Half day (Sunday afternoon in 2025, Sunday morning in 2026); location follows SC (St. Louis 2025, Chicago 2026)
+- 2021 papers went to Zenodo and 2019 papers to Springer instead of the SC workshops proceedings
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: St. Louis, MO, USA (with SC25)
+  url: https://github.com/hust-workshop/hust-workshop.github.io/blob/b3f062c/_posts/2025-01-05-dates.md
+  deadlines:
+  - kind: submission
+    date: 2025-08-11
+    label: Extended from 2025-08-04
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-29
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Chicago, IL, USA (with SC26)
+  url: https://hust-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    label: Final extension (original 2026-08-07)
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://hust-workshop.github.io/
+- https://github.com/hust-workshop/hust-workshop.github.io/blob/b3f062c/_posts/2025-01-05-dates.md
+- https://github.com/hust-workshop/hust-workshop.github.io/blob/b3f062c/_posts/2025-01-02-program.md
+- https://dl.acm.org/doi/proceedings/10.1145/3731599
+- https://sc26.supercomputing.org/
+- https://portal.core.edu.au/conf-ranks/?search=HUST&by=all&source=ICORE2026
+unverified:
+- HUST 2025 dates are taken from the workshop site's own source history (November 2025 version), since the live site now shows only 2026
+- Not listed on the CORE portal (ICORE2026) and not on the CCF 2026 list
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

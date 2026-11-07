@@ -1,0 +1,94 @@
+id: eacl-srw
+name: EACL SRW
+full_name: EACL Student Research Workshop
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: irregular
+organizer: EACL (European Chapter of the ACL), held with the EACL conference
+organizer_country: [international]
+proceedings: ACL Anthology (EACL proceedings, Student Research Workshop volume)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://2027.eacl.org/calls/srw/
+notes:
+- Student workshop held as part of the EACL conference; topics are the same as the main EACL conference
+- First author of research papers must be a student (undergraduate or graduate); thesis proposals for PhD students are a separate category
+- Long (8 pages), short (4 pages) and thesis proposal papers; ACL templates and the ARR anonymity policy
+- Two routes, direct submission on OpenReview or commitment of papers already reviewed in ACL Rolling Review
+- Authors choose archival or non-archival; archival papers appear as a volume of the EACL proceedings in the ACL Anthology
+- Optional pre-submission mentorship (not anonymous) about six weeks before the direct submission deadline; grants for students
+- All accepted papers are presented in the main conference poster sessions
+- EACL 2026 SRW volume (Rabat, Morocco) has 71 papers (2026.eacl-srw in the ACL Anthology)
+- EACL is not held every year (2023 Dubrovnik, 2024 Malta, 2026 Rabat, 2027 Athens)
+- Not listed separately in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-26
+  end: 2026-03-26
+  location: Rabat, Morocco (with EACL 2026)
+  url: https://2026.eacl.org/calls/srw/
+  deadlines:
+  - kind: other
+    date: 2025-10-29
+    time: "23:59"
+    tz: AoE
+    label: Pre-submission mentorship (extended from Oct 27)
+  - kind: submission
+    date: 2025-12-22
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: other
+    date: 2026-01-06
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-02-02
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-08
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-03-09
+  end: 2027-03-14
+  location: Athens, Greece (with EACL 2027)
+  url: https://2027.eacl.org/calls/srw/
+  deadlines:
+  - kind: other
+    date: 2026-11-06
+    time: "23:59"
+    tz: AoE
+    label: Pre-submission mentorship
+  - kind: submission
+    date: 2026-12-15
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: notification
+    date: 2027-01-05
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-19
+    time: "23:59"
+    tz: AoE
+sources:
+- https://2027.eacl.org/calls/srw/
+- https://2027.eacl.org/
+- https://2026.eacl.org/calls/srw/
+- https://aclanthology.org/volumes/2026.eacl-srw/
+- https://aclanthology.org/volumes/2024.eacl-srw/
+- https://portal.core.edu.au/conf-ranks/?search=SRW&by=all&source=ICORE2026
+unverified:
+- "EACL 2027 SRW ARR commitment deadline is printed as December 22, 2027 on the call page (apparently a typo, left out)"
+- EACL 2027 SRW workshop day not announced; the edition uses the EACL 2027 conference dates
+last_verified: 2026-11-07

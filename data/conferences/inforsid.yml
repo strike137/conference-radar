@@ -1,0 +1,75 @@
+id: inforsid
+name: INFORSID
+full_name: Congres INFORSID (INFormatique des ORganisations et Systemes d'Information et de Decision)
+name_local: Congrès INFORSID (INFormatique des ORganisations et Systèmes d'Information et de Décision)
+type: conference
+tier: domestic
+areas: [data]
+region: europe
+language: mixed
+frequency: annual
+organizer: Association INFORSID with the host university (Université de Reims Champagne-Ardenne in 2027)
+organizer_country: [europe]
+proceedings: Conference proceedings (actes) PDF on the conference website
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://inforsid2027.sciencesconf.org/
+notes:
+- Annual French national conference on information systems engineering, held since 1982 by the INFORSID association
+- Topics include big data, data science, security, AI and generative AI, process engineering and IS governance
+- Official language is French; contributions in English are accepted
+- "Categories: research papers (long 12 to 16 pages, short 4 to 6 pages), international (3-page French summary of a paper published elsewhere), demo (2 to 4 pages)"
+- Reviewed by the program committee; accepted papers appear in the conference proceedings (actes), published as a PDF on the conference website
+- Best papers can be invited to a special issue of the Revue ouverte d'ingénierie des systèmes d'information (ISI)
+- 2026 edition held jointly with IEEE RCIS in Toulouse, with a dual submission option; 53 submissions in 2026
+- Not ranked in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  label: 44th edition
+  start: 2026-05-26
+  end: 2026-05-29
+  location: Toulouse, France (Université Toulouse Capitole, joint with RCIS 2026)
+  url: https://inforsid2026.sciencesconf.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-15
+    label: Articles (extended from 2026-02-02)
+  - kind: notification
+    date: 2026-04-03
+    label: Extended from 2026-03-31
+  - kind: camera_ready
+    date: 2026-04-20
+- year: 2027
+  label: 45th edition
+  start: 2027-05-24
+  end: 2027-05-28
+  location: Reims, France (Université de Reims Champagne-Ardenne)
+  url: https://inforsid2027.sciencesconf.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-15
+    label: Articles
+  - kind: other
+    date: 2027-02-15
+    label: Workshop proposals
+  - kind: notification
+    date: 2027-04-05
+  - kind: other
+    date: 2027-03-15
+    label: Forum JCJC papers
+  - kind: camera_ready
+    date: 2027-05-03
+sources:
+- https://inforsid2027.sciencesconf.org/
+- https://inforsid2027.sciencesconf.org/page/dates?lang=fr
+- https://inforsid2027.sciencesconf.org/page/cfp?lang=fr
+- https://inforsid2027.sciencesconf.org/page/instructions_aux_auteurs?lang=fr
+- https://inforsid2026.sciencesconf.org/
+- https://inforsid2026.sciencesconf.org/page/dates
+- https://inforsid2026.sciencesconf.org/page/cfp
+- https://inforsid2026.sciencesconf.org/data/Actes_INFORSID2026.pdf
+- https://portal.core.edu.au/conf-ranks/?search=INFORSID&by=all&source=ICORE2026
+last_verified: 2026-11-07

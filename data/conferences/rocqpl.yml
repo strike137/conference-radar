@@ -1,0 +1,62 @@
+id: rocqpl
+name: RocqPL
+full_name: Workshop on Rocq for Programming Languages (formerly CoqPL)
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: RocqPL program committee, co-located with ACM SIGPLAN POPL
+organizer_country: [international]
+proceedings: None (no papers published; talks may be recorded)
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: https://popl27.sigplan.org/home/rocqpl-2027
+notes:
+- Workshop for PL researchers and practitioners using the Rocq Prover, with members of the core Rocq development team
+- Called CoqPL until 2025 (11th edition in 2025); renamed RocqPL from 2026 after Coq was renamed Rocq
+- Co-located with POPL every January; location follows POPL (London 2024, Denver 2025, Rennes 2026, Mexico City 2027)
+- Submissions are 1 to 2 page extended abstracts (ACM SIGPLAN two-column style suggested), single-blind review via HotCRP
+- No papers are published, so work can later go to full conferences; presentations may be recorded and posted
+- Not listed in CORE ICORE2026 (under RocqPL or CoqPL); not in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-17
+  end: 2026-01-17
+  location: Rennes, France (co-located with POPL 2026)
+  url: https://popl26.sigplan.org/home/rocqpl-2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-31
+    tz: AoE
+  - kind: notification
+    date: 2025-11-28
+    tz: AoE
+- year: 2027
+  start: 2027-01-16
+  end: 2027-01-16
+  location: Mexico City, Mexico (co-located with POPL 2027)
+  url: https://popl27.sigplan.org/home/rocqpl-2027
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2026-11-20
+    tz: AoE
+sources:
+- https://popl27.sigplan.org/home/rocqpl-2027
+- https://popl26.sigplan.org/home/rocqpl-2026
+- https://popl25.sigplan.org/home/coqpl-2025
+- https://popl24.sigplan.org/home/CoqPL-2024
+- https://portal.core.edu.au/conf-ranks/?search=RocqPL&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=CoqPL&by=all&source=ICORE2026
+unverified:
+- RocqPL 2026 call text gave earlier dates (submission 2025-10-24, notification 2025-11-21); the important dates box shows 2025-10-31 and 2025-11-28, used here
+- Original (pre-extension) 2027 submission deadline not shown on the page
+last_verified: 2026-11-07

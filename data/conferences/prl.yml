@@ -1,0 +1,66 @@
+id: prl
+name: PRL
+full_name: Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: PRL organizing committee (planning and RL researchers), co-located with ICAPS and IJCAI or AAAI
+organizer_country: [europe, usa, other]
+proceedings: None (non-archival; papers posted on the PRL website); optional CEUR-WS volume for CAIPI&PRL 2026 at IJCAI
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [6, 8]
+links:
+  website: https://prl-theworkshop.github.io/
+notes:
+- Workshop series on the intersection of AI planning and (reinforcement) learning, started at ICAPS 2020
+- Held with ICAPS every year since 2020, plus a second edition with IJCAI (2022, 2023, 2026) or AAAI (2025)
+- PRL @ ICAPS 2026 in Dublin was the tenth edition
+- ICAPS editions have no formal proceedings; accepted papers are posted publicly on the PRL website
+- 2026 IJCAI edition was a joint workshop with CAIPI (Planning for Complex Real-World Applications) with optional archival CEUR-WS proceedings
+- Long papers up to 8 pages (ICAPS edition), short papers and 2-page extended abstracts; submission via OpenReview, anonymity optional
+- Coordinates with the ICAPS workshops RIPL and LM4Plan
+- Recordings of remote editions on the PRL YouTube channel
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: PRL @ ICAPS 2026
+  start: 2026-06-28
+  end: 2026-06-28
+  location: Dublin, Ireland (ICAPS 2026)
+  url: https://prl-theworkshop.github.io/prl2026-icaps/
+  deadlines:
+  - kind: submission
+    date: 2026-05-20
+    tz: AoE
+    label: Submission (final extension from 10 May)
+  - kind: notification
+    date: 2026-06-10
+    tz: AoE
+- year: 2026
+  label: CAIPI&PRL @ IJCAI 2026
+  start: 2026-08-15
+  end: 2026-08-17
+  location: Bremen, Germany (IJCAI-ECAI 2026)
+  url: https://prl-theworkshop.github.io/caipi_prl2026-ijcai/
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    tz: AoE
+    label: Submission (extended from 15 May)
+  - kind: notification
+    date: 2026-06-15
+    tz: AoE
+sources:
+- https://prl-theworkshop.github.io/
+- https://prl-theworkshop.github.io/prl2026-icaps/
+- https://prl-theworkshop.github.io/caipi_prl2026-ijcai/
+- https://portal.core.edu.au/conf-ranks/?search=PRL&by=all&source=ICORE2026
+unverified:
+- The CAIPI&PRL page gives only the IJCAI workshop period (August 15 to 17, 2026), not the exact workshop day
+- 2027 editions not announced as of 2026-11-07
+last_verified: 2026-11-07

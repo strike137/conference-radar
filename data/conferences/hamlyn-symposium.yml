@@ -1,0 +1,55 @@
+id: hamlyn-symposium
+name: Hamlyn Symposium
+full_name: Hamlyn Symposium on Medical Robotics
+type: conference
+tier: minor
+areas: [ai, vision]
+region: europe
+language: english
+frequency: annual
+organizer: Hamlyn Centre for Robotic Surgery, Imperial College London
+organizer_country: [europe]
+proceedings: Hamlyn Symposium proceedings (Hamlyn Centre, Imperial College London, papers with DOIs)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [6]
+links:
+  website: https://www.hamlynsymposium.org/
+notes:
+- Annual medical robotics symposium of the Hamlyn Centre at Imperial College London, held since 2007; usually in London in June
+- Papers are 2 pages, peer reviewed by the Hamlyn Symposium Programme Committee, submitted via EasyChair
+- Accepted papers appear in the Hamlyn Symposium proceedings published by the Hamlyn Centre, with a DOI per paper
+- Accepted papers are presented as a talk or a poster with a 90-second teaser
+- Strong clinical audience (surgeons and engineers), about 500 delegates; includes workshops and the Surgical Robot Challenge
+- 2027 is a one-off Hamlyn-MRC Joint Symposium in Hong Kong with the Multi-Scale Medical Robotics Center (CUHK), right after ICRA 2027 in Seoul; returns to London in 2028
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-23
+  end: 2026-06-26
+  location: London, UK
+  url: https://www.hamlynsymposium.org/proceedings/
+- year: 2027
+  start: 2027-05-30
+  end: 2027-06-02
+  location: Hong Kong Science Park and Hyatt Regency Sha Tin, Hong Kong (Hamlyn-MRC Joint Symposium)
+  url: https://www.hamlynsymposium.org/call-for-papers/
+  deadlines:
+  - kind: submission
+    date: 2027-01-14
+  - kind: notification
+    date: 2027-03-10
+  - kind: camera_ready
+    date: 2027-03-31
+sources:
+- https://www.hamlynsymposium.org/
+- https://www.hamlynsymposium.org/call-for-papers/
+- https://www.hamlynsymposium.org/proceedings/
+- https://www.hamlynsymposium.org/about/
+- https://www.hamlynsymposium.org/wp-content/uploads/2026/07/HSMR26-Proceedings-web.pdf
+- https://portal.core.edu.au/conf-ranks/?search=Hamlyn&by=all&source=ICORE2026
+unverified:
+- 2026 submission deadlines not checked on an official page
+- ISSN of the proceedings not checked (the 2026 proceedings PDF could not be opened)
+last_verified: 2026-11-07

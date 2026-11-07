@@ -1,0 +1,76 @@
+id: macvi
+name: MaCVi
+full_name: Workshop on Maritime Computer Vision
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Organizing committee led by Benjamin Kiefer (LOOKOUT / University of Tuebingen) with the University of Ljubljana and others
+organizer_country: [europe]
+proceedings: IEEE Xplore and CVF Open Access (WACV or CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [10, 12]
+  conference_months: [1]
+links:
+  website: https://macvi.org/
+notes:
+- Workshop on computer vision for maritime, surface vessel, aerial and underwater settings, with benchmark challenges and keynotes
+- Held with WACV in 2023, 2024 and 2025, with CVPR 2026 (4th edition, Denver) and with WACV 2027 (5th edition, Orlando)
+- Papers up to 8 pages excluding references in the host conference format, double-blind review on OpenReview
+- Accepted archival papers appear in the host conference workshop proceedings and IEEE Xplore
+- 15 papers in the CVPR 2026 workshop proceedings on CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 4th edition, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, USA
+  url: https://macvi.org/workshop/cvpr
+  deadlines:
+  - kind: submission
+    date: 2026-03-15
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-03-25
+  - kind: camera_ready
+    date: 2026-04-09
+- year: 2027
+  label: 5th edition, with WACV 2027
+  start: 2027-01-05
+  end: 2027-01-05
+  location: Orlando, USA
+  url: https://macvi.org/workshop/macvi27
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-10-16
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-10-30
+  - kind: camera_ready
+    date: 2026-11-25
+  - kind: other
+    date: 2026-10-27
+    time: "23:59"
+    tz: AoE
+    label: Challenge submissions
+sources:
+- https://macvi.org/workshop/cvpr
+- https://macvi.org/workshop/cvpr/participate
+- https://macvi.org/workshop/cvpr/program
+- https://macvi.org/workshop/cvpr/people
+- https://macvi.org/workshop/macvi27
+- https://macvi.org/workshop/macvi27/participate
+- https://macvi.org/workshop/macvi27/people
+- https://macvi.org/workshop/macvi25
+- https://openaccess.thecvf.com/CVPR2026_workshops/MaCVi
+- https://portal.core.edu.au/conf-ranks/?search=MaCVi&by=all&source=ICORE2026
+unverified:
+- The WACV 2027 workshop day (January 5, 2027) is from WACV's draft schedule; the notification date is given as a target
+last_verified: 2026-11-07

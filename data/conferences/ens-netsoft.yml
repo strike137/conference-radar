@@ -1,0 +1,53 @@
+id: ens-netsoft
+name: ENS
+full_name: International Workshop on Edge Network Softwarization
+type: workshop
+tier: minor
+areas: [networking, communications]
+region: europe
+language: english
+frequency: annual
+organizer: Alessio Sacco (Politecnico di Torino), Christian Grasso (University of Catania) and Sebastian Troia (Politecnico di Milano) in 2026
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/ens2026/
+notes:
+- Workshop co-located with IEEE NetSoft every year since 2022 (Milan 2022 hybrid, Madrid 2023, St. Louis 2024, Budapest 2025, Berlin 2026)
+- Not to be confused with the ARES workshop on Emerging Network Security, also called ENS
+- Topics are softwarization and virtualization at the network edge, orchestration, P4/eBPF/XDP data planes, low latency edge use cases and 6G
+- Papers up to 7 pages in IEEE two-column format including references; submission via EDAS
+- Accepted and presented papers go into the IEEE NetSoft proceedings on IEEE Xplore
+- Half-day workshop with two technical sessions and two keynotes in 2026
+editions:
+- year: 2026
+  label: 5th ENS (at NetSoft 2026)
+  start: 2026-06-29
+  end: 2026-06-29
+  location: Berlin, Germany (with IEEE NetSoft 2026)
+  url: https://sites.google.com/view/ens2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-07
+    label: Extended from 2026-03-30 (firm)
+  - kind: notification
+    date: 2026-04-27
+  - kind: camera_ready
+    date: 2026-05-04
+sources:
+- https://sites.google.com/view/ens2026/
+- https://sites.google.com/view/ens2026/program
+- https://sites.google.com/view/ens2025
+- https://sites.google.com/view/ens2024
+- https://sites.google.com/view/ens2023
+- https://sites.google.com/view/ens2022
+- https://netsoft2026.ieee-netsoft.org/workshops
+- https://portal.core.edu.au/conf-ranks/?search=ENS&by=all&source=ICORE2026
+unverified:
+- Not listed in CORE ICORE2026 or the CCF list
+- ENS 2027 not yet announced; NetSoft 2027 location and dates not published
+last_verified: 2026-11-07

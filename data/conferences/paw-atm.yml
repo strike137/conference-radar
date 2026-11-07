@@ -1,0 +1,64 @@
+id: paw-atm
+name: PAW-ATM
+full_name: Parallel Applications Workshop, Alternatives To MPI+X
+type: workshop
+tier: minor
+areas: [systems, software]
+region: north-america
+language: english
+frequency: annual
+organizer: SC workshop; chairs from Sandia, LBNL, SLAC, BSC and others (site hosted by Sourcery Institute)
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (ACM DL in 2025; IEEE template in 2026)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [11]
+links:
+  website: https://sourceryinstitute.github.io/PAW/
+notes:
+- Workshop held with SC (the International Conference for High Performance Computing, Networking, Storage and Analysis)
+- Forum for HPC applications written in programming models other than MPI+X (PGAS, task-based runtimes, high-level languages)
+- Started as the PGAS Applications Workshop (PAW) in 2016 and 2017; PAW-ATM since 2018
+- Full papers of 8 to 10 pages are published in the SC workshops proceedings; 1 to 4 page user experience abstracts are not published
+- Artifact Description appendix mandatory for papers; optional Artifact Evaluation with reproducibility badges
+- Location follows SC (St. Louis 2025, Chicago 2026)
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: St. Louis, MO, USA (with SC25)
+  url: https://sourceryinstitute.github.io/PAW/PAW-ATM25/indexPAW-ATM25.html
+  deadlines:
+  - kind: submission
+    date: 2025-07-31
+    label: Extended from 2025-07-24
+  - kind: notification
+    date: 2025-08-30
+  - kind: camera_ready
+    date: 2025-09-22
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Chicago, IL, USA (with SC26)
+  url: https://sourceryinstitute.github.io/PAW/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    label: Extended from 2026-07-24
+  - kind: notification
+    date: 2026-09-02
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://sourceryinstitute.github.io/PAW/
+- https://sourceryinstitute.github.io/PAW/PAW-ATM25/indexPAW-ATM25.html
+- https://dl.acm.org/doi/proceedings/10.1145/3731599
+- https://sc25.supercomputing.org/
+- https://sc26.supercomputing.org/
+- https://portal.core.edu.au/conf-ranks/?search=PAW-ATM&by=all&source=ICORE2026
+unverified:
+- Not listed on the CORE portal (ICORE2026) and not on the CCF 2026 list
+- 2026 publisher not named on the workshop page (it asks for the IEEE proceedings template)
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

@@ -1,0 +1,49 @@
+id: qpl
+name: QPL
+full_name: International Conference on Quantum Physics and Logic
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: QPL Steering Committee with a local host each year (2026 University of Amsterdam and QuSoft)
+organizer_country: [international]
+proceedings: EPTCS
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7, 8]
+links:
+  website: https://qplconference.org/
+notes:
+- Conference on logical, algebraic, compositional and categorical methods for quantum theory, quantum computing and quantum foundations
+- Started in 2003 as the Workshop on Quantum Programming Languages; a full conference since 2016
+- Three submission types; proceedings papers (5 to 12 pages, EPTCS style), talk proposals (3 page summary of a separate paper) and posters
+- Proceedings papers published in Electronic Proceedings in Theoretical Computer Science (EPTCS) after the conference
+- Best Student Paper award; weekend tutorials before the conference and a career fair with industry sponsors
+- Mostly held in Europe (Gdansk 2021, Oxford 2022, Paris 2023, Buenos Aires 2024, Varna 2025, Amsterdam 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-21
+  location: Amsterdam, The Netherlands
+  url: https://qplconference.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-27
+    tz: AoE
+  - kind: submission
+    date: 2026-03-06
+    tz: AoE
+  - kind: notification
+    date: 2026-04-17
+sources:
+- https://qplconference.org/
+- https://www.mathstat.dal.ca/~selinger/qpl/
+- https://portal.core.edu.au/conf-ranks/?search=QPL&by=all&source=ICORE2026
+unverified:
+- QPL 2027 host, dates and deadlines not announced as of 2026-11-07
+- CCF 2026 list not checked directly on ccf.org.cn
+last_verified: 2026-11-07

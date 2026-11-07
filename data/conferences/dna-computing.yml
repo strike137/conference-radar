@@ -1,0 +1,63 @@
+id: dna-computing
+name: DNA
+full_name: International Conference on DNA Computing and Molecular Programming
+type: conference
+tier: major
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: DNA Computing Steering Committee, under the auspices of ISNSCE
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://dna-computing.org/
+  dblp: https://dblp.org/db/conf/dna/index.html
+notes:
+- Main annual venue for biomolecular computing, DNA nanotechnology and molecular programming, held since 1995
+- Organized under the auspices of the International Society for Nanoscale Science, Computation and Engineering (ISNSCE)
+- Track A full papers (15 pages, LIPIcs style) appear in LIPIcs (open access); Track B one-page abstracts for experimental work and Track C posters are not in the proceedings
+- Proceedings in LIPIcs since 2020; earlier volumes in Springer LNCS
+- Rotates worldwide (Sendai 2023, Baltimore 2024, Lyon 2025, Fayetteville 2026, Pohang 2027)
+- Ranked B in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  label: DNA32
+  start: 2026-08-03
+  end: 2026-08-07
+  location: Fayetteville, Arkansas, USA (Graduate Hotel)
+  url: https://dna32.sciencesconf.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-03
+    time: "23:59"
+    tz: AoE
+    label: Track A full papers and Track B abstracts
+  - kind: notification
+    date: 2026-05-18
+  - kind: camera_ready
+    date: 2026-06-01
+  - kind: other
+    date: 2026-05-25
+    time: "23:59"
+    tz: AoE
+    label: Track C posters
+sources:
+- https://dna-computing.org/
+- https://dna-computing.org/schedule.html
+- https://dna-computing.org/proceedings.html
+- https://dna32.sciencesconf.org/
+- https://dna32.sciencesconf.org/resource/page/id/10
+- https://dna32.sciencesconf.org/page/proceedings?lang=en
+- https://dna32.sciencesconf.org/page/venue?lang=en
+- https://portal.core.edu.au/conf-ranks/?search=DNA&by=all&source=ICORE2026
+unverified:
+- DNA33 (Pohang, 2027) listed on the series site without dates or deadlines as of 2026-11-07
+- CCF list checked in a mirrored copy of the CCF 2026 list (ccf.org.cn not reachable)
+last_verified: 2026-11-07

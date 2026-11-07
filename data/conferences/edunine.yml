@@ -1,0 +1,59 @@
+id: edunine
+name: IEEE EDUNINE
+full_name: IEEE World Engineering Education Conference (EDUNINE)
+type: conference
+tier: minor
+areas: [general]
+region: latin-america
+language: english
+frequency: annual
+organizer: IEEE Education Society and COPEC
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9, 11]
+  conference_months: [3]
+links:
+  website: https://edunine.eu/
+notes:
+- IEEE Education Society conference for Region 9 (Latin America), organized with COPEC; sibling of FIE, EDUCON and TALE
+- Accepted and orally presented papers go to IEEE Xplore
+- Full papers 6 pages, work-in-progress and doctoral symposium papers 4 pages; papers in English, talks in English, Spanish or Portuguese
+- Two review rounds; conditionally accepted papers are re-checked by the program committee before final acceptance
+- Hybrid, held in a different Latin American city each March (Bogota 2023, Guatemala 2024, Montevideo 2025, Mexico City 2026, Santa Cruz 2027)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-08
+  end: 2026-03-11
+  location: Mexico City, Mexico
+  url: https://edunine.eu/edunine2026/eng/index.php
+  deadlines:
+  - kind: submission
+    date: 2025-11-11
+    label: Extended deadline, full and WIP papers and workshop proposals
+- year: 2027
+  start: 2027-02-28
+  end: 2027-03-03
+  location: Santa Cruz, Bolivia
+  url: https://edunine.eu/edunine2027/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+  - kind: notification
+    date: 2026-10-30
+sources:
+- https://edunine.eu/
+- https://edunine.eu/js/conferences.js
+- https://edunine.eu/edunine2026/eng/index.php
+- https://edunine.eu/edunine2027/index.php?page=home&lang=en
+- https://edunine.eu/edunine2027/index.php?page=cfp&lang=en
+- https://edunine.eu/edunine2027/index.php?page=information&lang=en
+- https://ieeexplore.ieee.org/xpl/conhome/11546678/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=EDUNINE&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Original EDUNINE 2026 deadline (before the extension to 2025-11-11) not shown on the official site
+- Time zone of EDUNINE deadlines not stated
+- Whether the 2027 deadline of 2026-09-30 was extended is not stated

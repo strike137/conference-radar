@@ -1,0 +1,70 @@
+id: waccpd
+name: WACCPD
+full_name: Workshop on Accelerator Programming and Directives
+type: workshop
+tier: minor
+areas: [systems, software]
+region: north-america
+language: english
+frequency: annual
+organizer: SC workshop; general chairs from LBNL, University of Delaware and HZDR
+organizer_country: [usa, europe]
+proceedings: SC Workshops Proceedings (IEEE templates in 2026; ACM DL and Springer LNCS in earlier years)
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://waccpd.org/
+notes:
+- Half-day workshop held with SC (the International Conference for High Performance Computing, Networking, Storage and Analysis)
+- Thirteenth edition in 2026; held every year since 2014
+- 'Topics: portable programming of GPUs and other accelerators (OpenMP offloading, OpenACC, SYCL, Kokkos, RAJA, standard language parallelism) and quantum computing'
+- Full papers of 8 to 10 two-column pages, double-blind review, submitted through the SC submissions site (Linklings)
+- Full papers are published in the SC Workshop Proceedings; earlier volumes linked from the site are in the ACM DL and Springer LNCS
+- Distinguished paper recognition requires an Artifact Description appendix (SC reproducibility initiative)
+- Location follows SC (Atlanta 2024, St. Louis 2025, Chicago 2026)
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-21
+  location: St. Louis, MO, USA (with SC25)
+  url: https://waccpd.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-01
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-07-28
+  - kind: notification
+    date: 2025-08-29
+  - kind: camera_ready
+    date: 2025-09-22
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-20
+  location: Chicago, IL, USA (with SC26, room W180)
+  url: https://waccpd.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-08-06
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-21
+sources:
+- https://waccpd.org/
+- https://waccpd.org/call-for-papers/
+- https://waccpd.org/program/
+- https://waccpd.org/2025/
+- https://waccpd.org/2024
+- https://sc26.supercomputing.org/submit/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=WACCPD&by=all&source=ICORE2026
+unverified:
+- WACCPD 2025 workshop day not stated on the official page; dates shown are the SC25 week (November 16 to 21, 2025)
+- Publisher of the SC26 Workshop Proceedings (IEEE Xplore or ACM DL) not stated on the WACCPD or SC26 workshop pages
+- Not listed on the CORE portal (ICORE2026) and not on the CCF 2026 list
+last_verified: 2026-11-07

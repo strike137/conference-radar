@@ -1,0 +1,60 @@
+id: oars
+name: OARS
+full_name: International Workshop on Online and Adaptive Recommender Systems
+type: workshop
+tier: minor
+areas: [ai, data]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers from industry and academia (Workday, Google, Emory University, Lyft and others)
+organizer_country: [usa]
+proceedings: Workshop website (accepted papers posted as PDFs)
+archival: false
+typical:
+  deadline_months: [5, 7]
+  conference_months: [8, 9]
+links:
+  website: https://oars-workshop.github.io/
+notes:
+- Half-day workshop on real-time and adaptive recommender systems, run mainly by industry researchers
+- Held with KDD 2021 to 2023 and 2025, with CIKM 2024 and with ACM RecSys 2026; 2026 was the sixth edition
+- Double-blind review, ACM two-column template, submissions via EasyChair
+- Requires work not published or under review elsewhere; accepted papers are posted on the workshop website
+- At least one author must register and present in person
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-08-03
+  end: 2025-08-03
+  location: Toronto, Canada (with KDD 2025)
+  url: https://oars-workshop.github.io/2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-06-01
+  - kind: notification
+    date: 2025-06-08
+  - kind: camera_ready
+    date: 2025-07-06
+- year: 2026
+  start: 2026-09-28
+  end: 2026-09-28
+  location: Minneapolis, MN, USA (with ACM RecSys 2026)
+  url: https://oars-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-20
+  - kind: camera_ready
+    date: 2026-08-28
+sources:
+- https://oars-workshop.github.io/
+- https://oars-workshop.github.io/OARS%20CFP%202026.pdf
+- https://oars-workshop.github.io/2025/index.html
+- https://oars-workshop.github.io/2024/index.html
+- https://kdd2025.kdd.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=OARS&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced yet
+- The 2026 notification date is August 10 on the website but August 14 in the CFP PDF
+- No formal proceedings series is named; papers appear only on the workshop website
+last_verified: 2026-11-07

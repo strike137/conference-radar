@@ -1,0 +1,73 @@
+id: bench
+name: Bench
+full_name: BenchCouncil International Symposium on Evaluation Science and Engineering (formerly Benchmarking, Measuring and Optimizing)
+type: conference
+tier: minor
+areas: [systems, data, ai]
+region: china
+language: english
+frequency: annual
+organizer: International Open Benchmark Council (BenchCouncil)
+organizer_country: [china]
+proceedings: Springer LNCS
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [9]
+  conference_months: [11, 12]
+links:
+  website: https://www.benchcouncil.org/bench2026/
+notes:
+- Organized by the International Open Benchmark Council (BenchCouncil); grew out of the BPOE and SDBA workshops held with ASPLOS, VLDB and ICS
+- Renamed from Symposium on Benchmarking, Measuring and Optimizing to Symposium on Evaluation Science and Engineering in 2025
+- Topics include benchmarks, datasets, metrics, measurement, workload characterization and evaluation methodology
+- Full papers up to 15 pages and short papers up to 12 pages in LNCS format (excluding references), double-blind review
+- Revised selected papers in Springer LNCS (Bench 2024 and Bench 2025 volumes confirmed); extended versions invited to BenchCouncil Transactions on Benchmarks, Standards and Evaluations
+- Held with the Federated Intelligent Computing and Chip Conference; in China since 2023 (Sanya, Guangzhou, Guanghan, Guilin); 2021 moved online (planned for Atlanta)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Guanghan, Sichuan, China
+  url: https://www.benchcouncil.org/bench2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-23
+    time: "20:00"
+    tz: AoE
+    label: Abstract and paper
+  - kind: notification
+    date: 2025-10-28
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-15
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-11-06
+  end: 2026-11-08
+  location: Guilin, Guangxi, China
+  url: https://www.benchcouncil.org/bench2026/
+sources:
+- https://www.benchcouncil.org/bench2026/
+- https://www.benchcouncil.org/bench2026/committees.html
+- https://www.benchcouncil.org/bench2025/
+- https://www.benchcouncil.org/bench2025/cfp.html
+- https://www.benchcouncil.org/bench2025/submission.html
+- https://www.benchcouncil.org/bench/
+- https://www.benchcouncil.org/bench2024/
+- https://www.benchcouncil.org/bench2023/
+- https://www.benchcouncil.org/bench2022/
+- https://www.benchcouncil.org/bench2021/
+- https://link.springer.com/book/9789819650316
+- https://link.springer.com/book/10.1007/978-981-95-9694-2
+- https://portal.core.edu.au/conf-ranks/?search=Bench&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- Bench 2026 deadlines not sourced; the bench2026 CFP and submission pages still show the 2025 dates
+- dblp page not checked
+- LNCS volume numbers not confirmed (Springer pages not reachable)
+- Format of Bench 2022 (online or in person) not checked
+last_verified: 2026-11-07

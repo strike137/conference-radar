@@ -1,0 +1,61 @@
+id: hackover
+name: Hackover
+full_name: Hackover
+type: industry
+tier: minor
+areas: [security, software]
+region: europe
+language: mixed
+frequency: annual
+organizer: Hackover e.V.
+organizer_country: [europe]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [7]
+links:
+  website: https://hackover.de/
+notes:
+- Volunteer-run hacker event ("Geekend") in Hannover, Germany, organized by Hackover e.V.
+- Held at the Buergerschule Nordstadt in Hannover; a CCC-family event like GPN and MRMCD
+- Talks, workshops and lightning talks submitted through a pretalx call for participation; no proceedings
+- Each edition has a theme (2025 "Cloud Native", 2026 "100 Jahre Hackover")
+- Official site and calls mostly in German
+editions:
+- year: 2025
+  start: 2025-07-04
+  end: 2025-07-06
+  location: Buergerschule Nordstadt, Hannover, Germany
+  url: https://talks.hackover.de/ho25/schedule/
+  deadlines:
+  - kind: submission
+    date: 2025-06-23
+    time: "23:59"
+    tz: CEST
+    label: Call for participation (talks, workshops)
+- year: 2026
+  start: 2026-07-16
+  end: 2026-07-19
+  location: Hannover, Germany
+  url: https://talks.hackover.de/ho26/schedule/
+  deadlines:
+  - kind: submission
+    date: 2026-06-21
+    time: "10:00"
+    tz: CEST
+    label: Call for participation (talks, workshops, lightning talks)
+sources:
+- https://hackover.de/
+- https://hackover.de/impressum/
+- https://talks.hackover.de/ho25/cfp
+- https://talks.hackover.de/ho25/schedule/
+- https://talks.hackover.de/ho26/cfp
+- https://talks.hackover.de/ho26/schedule/
+- https://portal.core.edu.au/conf-ranks/?search=Hackover&by=all&source=ICORE2026
+unverified:
+- 2025 CFP closed 2025-06-24 00:00 Europe/Berlin, recorded as 2025-06-23 23:59 CEST
+- Venue of the 2026 edition not stated on the 2026 posts (association address is the Buergerschule Nordstadt)
+- No 2027 edition announced yet (as of 2026-11-07)
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-11-07

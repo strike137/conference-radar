@@ -1,0 +1,69 @@
+id: cras
+name: CRAS
+full_name: Conference on New Technologies for Computer and Robot Assisted Surgery
+type: conference
+tier: minor
+areas: [ai, vision]
+region: europe
+language: english
+frequency: annual
+organizer: CRAS steering board (European surgical robotics community)
+organizer_country: [europe]
+proceedings: CRAS proceedings (2-page extended abstracts, PDF on the conference website)
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://cras-eu.org/
+notes:
+- European meeting on computer and robot assisted surgery, started as a workshop in 2011; 15th edition in 2026
+- Submissions are 2-page extended abstracts, peer reviewed (CMT in 2026, EasyChair in 2025)
+- Proceedings are a self-published open-access PDF on the website (2025 volume password protected), so non-archival
+- Selected authors are invited to journal special issues (2026, Magnetic Medicine and Advanced Robotics Research)
+- Held in a different European city each year (Paris 2023, Odense 2024, Lisbon 2025, Leeds 2026), usually in September
+- 2026 hosted the CoSuR Summer School on Control of Surgical Robots
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-10
+  end: 2025-09-12
+  location: Lisbon, Portugal
+  url: https://cras-eu.org/cras-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-06
+    time: "23:59"
+    tz: WEST
+    label: Extended abstracts
+  - kind: notification
+    date: 2025-07-10
+  - kind: camera_ready
+    date: 2025-08-15
+    time: "23:59"
+    tz: WEST
+- year: 2026
+  start: 2026-09-16
+  end: 2026-09-18
+  location: University of Leeds, Leeds, UK
+  url: https://cras-eu.org/cras-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-17
+    label: 2-page extended abstracts (extended from 2026-04-30)
+  - kind: notification
+    date: 2026-06-17
+    label: Moved from 2026-06-12
+  - kind: camera_ready
+    date: 2026-08-14
+sources:
+- https://cras-eu.org/
+- https://cras-eu.org/cras-2026/
+- https://cras-eu.org/deadline-extension-17-may-cras-2026-leeds/
+- https://cras-eu.org/cras-2025/
+- https://cras-eu.org/past-events/
+- https://cras-eu.org/wp-content/uploads/2026/01/CRAS2024-proceedings.pdf
+- https://portal.core.edu.au/conf-ranks/?search=CRAS&by=all&source=ICORE2026
+unverified:
+- CRAS 2027 not announced yet
+last_verified: 2026-11-07

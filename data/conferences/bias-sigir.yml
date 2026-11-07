@@ -1,0 +1,55 @@
+id: bias-sigir
+name: BIAS
+full_name: International Workshop on Algorithmic Bias in Search and Recommendation
+type: workshop
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Universidad Autonoma de Madrid, University of Cagliari, Open University of Cyprus, Graz University of Technology); co-located with ECIR or SIGIR
+organizer_country: [europe]
+proceedings: Springer CCIS (revised post-proceedings)
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [4, 5]
+  conference_months: [7]
+links:
+  website: https://biasinrecsys.github.io/sigir2025/
+notes:
+- Workshop on defining, measuring and mitigating algorithmic bias and unfairness in search and recommender systems
+- Co-located with ECIR from 2020 to 2023 and with SIGIR in 2024 (Washington D.C.) and 2025 (Padua)
+- Revised post-proceedings in Springer Communications in Computer and Information Science (CCIS); 2025 volume is CCIS 2786, shared with IR4U2 2025
+- "BIAS 2025: 3 full papers accepted out of 7 submissions"
+- Full and reproducibility papers up to 12 pages, short papers 6 pages, position papers 4 pages, in Springer format; double-blind review
+- At least one author per paper must register and attend
+- No 2026 edition announced on the official site as of November 2026
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-07-17
+  end: 2025-07-17
+  location: Padua, Italy (co-located with SIGIR 2025)
+  url: https://biasinrecsys.github.io/sigir2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-08
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-05-29
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-06-05
+    time: "23:59"
+    tz: AoE
+sources:
+- https://biasinrecsys.github.io/sigir2025/
+- https://link.springer.com/book/10.1007/978-3-032-12717-4
+- https://portal.core.edu.au/conf-ranks/?search=BIAS&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found on the official site; whether the series continues is unknown
+- Acceptance rates of editions before 2025 not checked
+last_verified: 2026-11-07

@@ -1,0 +1,67 @@
+id: greens
+name: GREENS
+full_name: International Workshop on Green and Sustainable Software
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: GREENS steering committee (Vrije Universiteit Amsterdam, University of Hawaii), co-located with ICSE (IEEE/ACM)
+organizer_country: [international]
+proceedings: ACM DL or IEEE Xplore (ICSE or ICSA workshop proceedings; IEEE in 2023 to 2025, ACM in 2026)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4]
+links:
+  website: https://greensworkshop.github.io/
+notes:
+- One-day ICSE workshop on green software engineering and software sustainability; not to be confused with SMARTGREENS
+- Series dates back to 2012; usually co-located with ICSE (Melbourne 2023, Ottawa 2025, Rio de Janeiro 2026, Dublin 2027); 2024 edition was co-located with ICSA 2024
+- 2026 was the 10th edition; 2027 is the 11th
+- Emerging research papers up to 8 pages, position papers up to 5, extended abstracts up to 2, plus registered reports with a path to ACM TOSEM
+- Single-anonymous review; pitch sessions followed by group discussion
+- 2026 proceedings in the ACM Digital Library as "Proceedings of the IEEE/ACM 10th International Workshop on Green and Sustainable Software"
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-14
+  end: 2026-04-14
+  location: Rio de Janeiro, Brazil
+  url: https://greensworkshop.github.io/previous_editions/GREENS2026/
+  deadlines:
+  - kind: submission
+    date: 2025-10-27
+    label: Extended
+  - kind: notification
+    date: 2025-11-24
+  - kind: camera_ready
+    date: 2026-01-26
+- year: 2027
+  start: 2027-04-27
+  end: 2027-04-27
+  location: Dublin, Ireland
+  url: https://greensworkshop.github.io/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+  - kind: notification
+    date: 2026-12-11
+  - kind: camera_ready
+    date: 2027-01-29
+sources:
+- https://greensworkshop.github.io/
+- https://greensworkshop.github.io/previous_editions/GREENS2026/
+- https://greensworkshop.github.io/previous_editions
+- https://greensworkshop.github.io/previous_editions/GREENS2024/
+- https://conf.researchr.org/home/icse-2026/greens-2026
+- https://conf.researchr.org/series/greens
+- https://doi.org/10.1145/3786148
+- https://portal.core.edu.au/conf-ranks/?search=GREENS&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- GREENS 2027 workshop date (April 27, 2027) is marked tentative on the official site
+- GREENS 2027 proceedings stated as ICSE 2027 Companion proceedings; publisher (ACM or IEEE) not stated
+- Acceptance rate not found on an official page

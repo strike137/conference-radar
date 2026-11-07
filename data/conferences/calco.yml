@@ -1,0 +1,70 @@
+id: calco
+name: CALCO
+full_name: Conference on Algebra and Coalgebra in Computer Science
+type: conference
+tier: major
+areas: [general]
+region: europe
+language: english
+frequency: biennial
+organizer: CALCO Steering Committee (coalgebra community)
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: B
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://coalg.org/events/calco/
+  dblp: https://dblp.org/db/conf/calco/index.html
+notes:
+- Conference on algebraic and coalgebraic methods in computer science (semantics, automata, modal logic, rewriting, specification)
+- Formed by merging CMCS and WADT; held every two years (odd years) since 2005, usually co-located with MFPS
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl); CALCO 2025 is LIPIcs volume 342
+- Submission categories are regular papers, (co)algebraic pearls, tool papers and early ideas abstracts (abstracts not in the LIPIcs volume)
+- Abstract registration a few days before the full paper deadline
+- Ranked B in ICORE2026
+editions:
+- year: 2025
+  label: 11th CALCO
+  start: 2025-06-16
+  end: 2025-06-18
+  location: Glasgow, UK (University of Strathclyde, co-located with MFPS XLI)
+  url: https://www.coalg.org/calco-mfps-2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-10
+    tz: AoE
+    label: Extended from 2025-03-03
+  - kind: submission
+    date: 2025-03-13
+    tz: AoE
+    label: Extended from 2025-03-06
+  - kind: notification
+    date: 2025-04-28
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-30
+    tz: AoE
+- year: 2027
+  label: 12th CALCO
+  start: 2027-07-12
+  end: 2027-07-16
+  location: Erlangen, Germany (FAU, joint with MFPS XLIII)
+  url: https://www.coalg.org/calco-mfps-2027/
+sources:
+- https://coalg.org/events/calco/
+- https://www.coalg.org/
+- https://www.coalg.org/calco-mfps-2025/
+- https://www.coalg.org/calco-mfps-2025/calco/
+- https://www.coalg.org/calco-mfps-2025/calco/cfp/
+- https://www.coalg.org/calco-mfps-2027/
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-342
+- https://portal.core.edu.au/conf-ranks/?search=CALCO&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js (CCF list mirror)
+unverified:
+- CALCO 2027 dates are for the joint CALCO and MFPS event; the split between the two and the deadlines are not yet published
+- Not found in the CCF 2026 list via the CCFrank4dblp mirror (ccf.org.cn blocks automated access)
+last_verified: 2026-11-07

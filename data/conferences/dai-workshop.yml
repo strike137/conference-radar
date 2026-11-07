@@ -1,0 +1,84 @@
+id: dai-workshop
+name: DAI
+full_name: Workshop on Deployable AI
+type: workshop
+tier: minor
+areas: [ai, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: AAAI workshop program; chaired by Balaraman Ravindran (Wadhwani School of Data Science and AI, IIT Madras) with co-organizers from IIT Madras, Rutgers and Google DeepMind India
+organizer_country: [india]
+proceedings: None (non-archival; the CFP states there are no official proceedings, accepted papers are made public)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [1, 2, 3]
+links:
+  website: https://dai-workshop.github.io/
+notes:
+- Workshop held with AAAI since 2023 (2023 Washington DC, 2024 Vancouver, 2025 Philadelphia, 2026 Singapore, 2027 Montreal)
+- 2027 is the 5th edition, with a special focus on deployability of AI agents
+- Topics include fairness, explainability, privacy, safety and security of deployed AI models
+- Poster, short or position papers up to 4 pages and full papers up to 7 pages in AAAI format; double-blind review (2025)
+- Non-archival, papers under review elsewhere are welcome
+- Submissions via OpenReview since 2026
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  label: 3rd edition, with AAAI-25
+  start: 2025-03-03
+  end: 2025-03-03
+  location: Philadelphia, Pennsylvania, USA
+  url: https://sites.google.com/view/dai-2025
+  deadlines:
+  - kind: submission
+    date: 2024-11-26
+    tz: AoE
+    label: Extended from 2024-11-22
+  - kind: notification
+    date: 2024-12-09
+- year: 2026
+  label: 4th edition, with AAAI-26
+  start: 2026-01-26
+  end: 2026-01-26
+  location: Topaz Concourse, Singapore EXPO, Singapore
+  url: https://dai-workshop.github.io/dai_2026.html
+  deadlines:
+  - kind: submission
+    date: 2025-10-23
+    tz: AoE
+    label: Extended from 2025-10-22 after an OpenReview outage
+  - kind: notification
+    date: 2025-11-08
+    tz: AoE
+    label: Moved from 2025-11-05
+  - kind: camera_ready
+    date: 2025-12-01
+    tz: AoE
+- year: 2027
+  label: 5th edition, with AAAI-27
+  location: Montreal, Canada
+  url: https://dai-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-11-20
+    tz: AoE
+  - kind: notification
+    date: 2026-12-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-12-20
+    tz: AoE
+sources:
+- https://dai-workshop.github.io/
+- https://dai-workshop.github.io/dai_2026.html
+- https://sites.google.com/view/dai-2025
+- https://sites.google.com/view/dai-2025/submission
+- https://sites.google.com/view/dai-2025/past-editions
+- https://aaai.org/conference/aaai/aaai-26/workshops-program/
+- https://aaai.org/conference/aaai/aaai-27/aaai-27-workshop-program-list/
+- https://portal.core.edu.au/conf-ranks/?search=DAI&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- DAI 2027 workshop day not fixed yet; the AAAI-27 workshop list says February 22 or 23, 2027

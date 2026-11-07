@@ -1,0 +1,75 @@
+id: icxr
+name: ICXR
+full_name: CCF International Conference on Extended Reality
+type: conference
+tier: minor
+areas: [vision]
+region: china
+language: english
+frequency: annual
+organizer: CCF Technical Committee on Virtual Reality and Visualization Technology
+organizer_country: [china]
+proceedings: Springer LNCS
+archival: true
+indexing: [EI, DBLP]
+rank:
+  ccf: C
+typical:
+  deadline_months: [7]
+  conference_months: [11]
+links:
+  website: https://icxr.net/
+  dblp: https://dblp.org/db/conf/icxr/index.html
+notes:
+- VR, AR and MR conference organized by the China Computer Federation (CCF), started in 2024
+- Part of the CCF high-quality international conference incubation program; CCF C on the 2026 list
+- Co-located with ChinaVR (Xiamen 2024, Qingdao 2025, Guangzhou 2026)
+- Proceedings in Springer LNCS (EI indexed); selected papers recommended to journals such as IEEE TVCG
+- Double-blind review with two cycles (conditional acceptance, then a short re-review of the revision)
+- Papers 12 to 15 pages in LNCS format plus up to 3 pages of references
+- "Registration 2026: about 2800 CNY for a CCF member paper registration, 3600 CNY for non-members"
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-11-05
+  end: 2026-11-06
+  location: Langham Place, Guangzhou, China
+  url: https://icxr.net/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-01
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-07-07
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-03
+    label: Initial notification
+  - kind: other
+    date: 2026-09-19
+    time: "23:59"
+    tz: AoE
+    label: Revised submission
+  - kind: notification
+    date: 2026-09-23
+    label: Final notification
+  - kind: camera_ready
+    date: 2026-10-01
+    time: "23:59"
+    tz: AoE
+sources:
+- https://icxr.net/index.html
+- https://icxr.net/2026/
+- https://icxr.net/2026/CallForPapers.html
+- https://icxr.net/2026/Registration.html
+- https://icxr.net/2026/Venue.html
+- https://icxr.net/2025/
+- https://icxr.net/2024/index.html
+- https://portal.core.edu.au/conf-ranks/?search=ICXR&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CCF rank checked in the CCF 2026 list PDF mirrored by ccfddl (ccf.org.cn blocks automated access)
+- ICXR 2027 not announced yet
+last_verified: 2026-11-07

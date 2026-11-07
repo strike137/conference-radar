@@ -1,0 +1,53 @@
+id: sigir-ecom
+name: SIGIR eCom
+full_name: SIGIR Workshop on eCommerce
+type: workshop
+tier: minor
+areas: [data, nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee from industry and academia (UIUC, Meta, Coursera, Vody, Adobe, University of Otago in 2026)
+organizer_country: [usa, new-zealand]
+proceedings: CEUR-WS
+archival: true
+acceptance_rate: 69% (2026, 20/29)
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://sigir-ecom.github.io/
+notes:
+- Workshop on information retrieval, NLP and computer vision for eCommerce (product search, recommendation), co-located with ACM SIGIR since 2017
+- Strong industry participation (Walmart, Meta, eBay, Amazon, Uber papers in 2026); special theme in 2026 was agentic user interaction and experience
+- Proceedings in CEUR-WS (2025 Vol-4123, 2026 Vol-4250)
+- "Acceptance: 20 of 29 submissions in 2026"
+- Short (8 pages) and long (15 pages) papers in CEUR single-column format; submission via the SIGIR EasyChair instance
+- Runs a data challenge each year (2026 with the TREC Product Search track on query reformulation)
+- In-person full-day workshop
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-24
+  end: 2026-07-24
+  location: Melbourne, Australia (co-located with SIGIR 2026)
+  url: https://sigir-ecom.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-02
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-05-21
+  - kind: camera_ready
+    date: 2026-06-15
+sources:
+- https://sigir-ecom.github.io/
+- https://sigir-ecom.github.io/organizers.html
+- https://ceur-ws.org/Vol-4250/
+- https://ceur-ws.org/Vol-4123/
+- https://portal.core.edu.au/conf-ranks/?search=eCom&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

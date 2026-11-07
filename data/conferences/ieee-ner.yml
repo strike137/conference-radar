@@ -1,0 +1,78 @@
+id: ieee-ner
+name: IEEE NER
+full_name: IEEE EMBS International Conference on Neural Engineering
+type: conference
+tier: minor
+areas: [general, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IEEE EMBS
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  conference_months: [9, 11]
+links:
+  website: https://neuro.embs.org/
+notes:
+- Biennial neural engineering conference of the IEEE Engineering in Medicine and Biology Society (EMBS); sibling of EMBC
+- Covers neurotechnology, brain-computer interfaces and neural interfaces, for engineers, neuroscientists and clinicians
+- Full contributed papers (up to 6 pages, IEEE format) are peer reviewed and published in IEEE Xplore; late-breaking one-page abstracts are selected for posters and demos
+- NER 2025 in San Diego had over 660 attendees and over 200 proceedings papers
+- Held in San Diego in 2025 and at Politecnico di Milano in 2027
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-11
+  end: 2025-11-14
+  location: San Diego, CA, USA
+  url: https://neuro.embs.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-10
+    time: "23:59"
+    tz: PST
+    label: Full contributed papers (extended)
+  - kind: notification
+    date: 2025-08-01
+    label: Full contributed papers
+  - kind: camera_ready
+    date: 2025-08-18
+    time: "23:59"
+    tz: PST
+    label: Full contributed papers
+  - kind: other
+    date: 2025-09-12
+    time: "23:59"
+    tz: PST
+    label: Late-breaking one-page abstracts
+- year: 2027
+  start: 2027-09-07
+  end: 2027-09-10
+  location: Politecnico di Milano, Leonardo Campus, Milan, Italy
+  url: https://neuro.embs.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2027-03-15
+    label: 6-page papers
+  - kind: notification
+    date: 2027-05-15
+    label: 6-page papers
+  - kind: camera_ready
+    date: 2027-06-02
+    label: Final 6-page papers
+  - kind: other
+    date: 2027-06-02
+    label: 1-page abstracts
+sources:
+- https://neuro.embs.org/2027/
+- https://neuro.embs.org/2025/
+- https://neuro.embs.org/2025/call-for-papers/
+- https://neuro.embs.org/2025/full-contributed-papers-and-late-breaking-abstracts/
+- https://neuro.embs.org/2021/
+- https://neuro.embs.org/2019/
+- https://portal.core.edu.au/conf-ranks/?search=NER&by=all&source=ICORE2026
+unverified:
+- NER 2027 deadline times and time zone not stated (the 2027 page also still shows leftover 2022 dates further down)
+last_verified: 2026-11-07

@@ -1,0 +1,53 @@
+id: ala-workshop
+name: ALA
+full_name: Adaptive and Learning Agents Workshop
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ALA organizers and senior steering committee, co-located with AAMAS
+organizer_country: [europe, usa, canada]
+proceedings: None (camera-ready papers posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://ala-workshop.github.io/
+notes:
+- Long-running AAMAS workshop on adaptive and learning agents and multi-agent systems (reinforcement learning, multi-agent learning, game theory)
+- 2026 edition held with AAMAS 2026 in Paphos, Cyprus; the series is in its eighteenth year
+- Two-day workshop, in person only in line with AAMAS
+- Double-blind review on OpenReview; up to 8 pages in ACM (AAMAS) format, 6-page work-in-progress and 2-page abstracts of recent journal papers
+- Accepts work accepted only as a poster or extended abstract at AAMAS
+- Camera-ready papers posted on the workshop website with the AAMAS copyright block removed
+- ALA 2025 extended papers were eligible for a special issue of the Springer journal Neural Computing and Applications
+- Best paper award each year
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-26
+  location: Paphos, Cyprus (AAMAS 2026)
+  url: https://alaworkshop2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-26
+    time: "23:59"
+    tz: AoE
+    label: Submission (extended from 4 February)
+  - kind: notification
+    date: 2026-03-26
+  - kind: camera_ready
+    date: 2026-04-15
+sources:
+- https://ala-workshop.github.io/
+- https://alaworkshop2026.github.io/
+- https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/ALA
+- https://portal.core.edu.au/conf-ranks/?search=ALA&by=all&source=ICORE2026
+unverified:
+- The site does not say explicitly whether the workshop is archival
+- ALA 2027 (expected with AAMAS 2027) not announced as of 2026-11-07
+last_verified: 2026-11-07

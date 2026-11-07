@@ -1,0 +1,68 @@
+id: kroc
+name: KRoC
+full_name: Korea Robotics Society Annual Conference (Korea Robotics Conference)
+name_local: 한국로봇종합학술대회
+type: conference
+tier: domestic
+areas: [ai]
+region: korea
+language: korean
+frequency: annual
+organizer: Korea Robotics Society (KROS, 한국로봇학회)
+organizer_country: [korea]
+proceedings: KRoC proceedings (KROS)
+archival: false
+fee: 230,000 KRW member, 330,000 KRW non-member, 130,000 KRW member graduate student (2026, early)
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://kros.org/
+notes:
+- National robotics conference of the Korea Robotics Society; 22nd edition in 2027, over 2,000 participants
+- General papers are 2 pages (up to 2 extra pages allowed), with a separate undergraduate paper category
+- Optional joint submission to the Journal of Korea Robotics Society (KCI listed, 4 pages or more) with a September
+  deadline; accepted papers appear in the journal instead of the KRoC proceedings
+- Held in a Gangwon resort in February (Alpensia 2026, Sono Belle Vivaldi Park 2027)
+- Includes workshops, tutorials, the KROS RED Awards and a robot competition
+- The international sister conference run by KROS is UR (International Conference on Ubiquitous Robots)
+editions:
+- year: 2026
+  start: 2026-02-04
+  end: 2026-02-07
+  location: Alpensia, Gangwon, Korea
+  url: https://kros.org/Conference/ConferenceView.asp?AC=0&CODE=CC20250902&CpPage=289
+- year: 2027
+  start: 2027-02-15
+  end: 2027-02-17
+  location: Sono Belle Vivaldi Park Convention Center, Hongcheon, Gangwon, Korea
+  url: https://kros.org/Conference/ConferenceView.asp?AC=0&CODE=CC20260604&CpPage=336
+  deadlines:
+  - kind: submission
+    date: 2026-09-10
+    time: "23:59"
+    tz: KST
+    label: Joint submission to the Journal of Korea Robotics Society
+  - kind: other
+    date: 2026-10-29
+    label: Workshop and tutorial proposals
+  - kind: submission
+    date: 2026-11-26
+    label: Papers, KROS RED Awards and competition (no extension)
+  - kind: notification
+    date: 2026-12-30
+  - kind: other
+    date: 2027-01-20
+    label: End of pre-registration (opens 2027-01-07)
+sources:
+- https://kros.org/
+- https://kros.org/Conference/ConferenceView.asp?AC=0&CODE=CC20260604&CpPage=336
+- https://kros.org/Conference/ConferenceView.asp?AC=0&CODE=CC20260604&CpPage=339
+- https://kros.org/Conference/ConferenceView.asp?AC=0&CODE=CC20250902&CpPage=289
+- https://kros.org/Conference/ConferenceRegistration.asp?AC=0&CODE=CC20250902&CpPage=R
+- https://portal.core.edu.au/conf-ranks/?search=KRoC&by=all&source=ICORE2026
+unverified:
+- The KRoC 2027 welcome message says 14 to 17 February 2027 (four days) while the schedule table and the KROS home page
+  say 15 to 17 February; the schedule dates are used
+- The CFP mentions the KRoC 2027 proceedings but does not say how they are distributed or whether papers are peer reviewed
+last_verified: 2026-11-07

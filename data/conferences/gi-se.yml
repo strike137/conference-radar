@@ -1,0 +1,89 @@
+id: gi-se
+name: SE
+full_name: Software Engineering (SE) Conference of the GI Software Engineering Division
+name_local: Fachtagung Software Engineering (SE) des GI-Fachbereichs Softwaretechnik
+type: conference
+tier: domestic
+areas: [software]
+region: europe
+language: mixed
+frequency: annual
+organizer: GI (Gesellschaft für Informatik e.V.), Fachbereich Softwaretechnik (SWT), with SI (Switzerland) and OCG
+  (Austria) and a host university
+organizer_country: [europe]
+proceedings: GI Lecture Notes in Informatics (LNI), GI Digital Library (2-page summaries; workshop papers in companion
+  proceedings)
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [2]
+links:
+  website: https://se2027.cs.tu-dortmund.de/
+notes:
+- Annual conference of the German Informatics Society (GI) software engineering division, held since 2005 (earlier
+  as GI Softwaretechnik conference); the main meeting of the German-speaking software engineering community
+- Run with the Swiss Informatics Society (SI) and the Austrian Computer Society (OCG)
+- "Main scientific track is a presentation track: authors present full peer-reviewed papers already accepted or published at a top international venue"
+- Submissions are a 2-page summary in LNI format (German or English) plus the original paper; only the summaries appear
+  in the proceedings, so the main track is not a new formal publication
+- Proceedings and companion proceedings (workshop papers) are published in the GI Digital Library; SE 2025 appeared as
+  LNI volume P-360
+- Week also includes workshops, an industry day, a student research competition, the GI Softwaretechnik award and the
+  SE dissertation award
+- Held in Germany, Austria or Switzerland (Linz 2024, Karlsruhe 2025, Bern 2026, Dortmund 2027)
+- Not ranked in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-02-23
+  end: 2026-02-27
+  location: Bern, Switzerland (University of Bern)
+  url: https://se2026.inf.unibe.ch/en/
+  deadlines:
+  - kind: submission
+    date: 2025-10-26
+    tz: AoE
+    label: Scientific program
+  - kind: notification
+    date: 2025-11-28
+  - kind: camera_ready
+    date: 2025-12-10
+    tz: AoE
+- year: 2027
+  start: 2027-02-22
+  end: 2027-02-26
+  location: Dortmund, Germany (TU Dortmund)
+  url: https://se2027.cs.tu-dortmund.de/
+  deadlines:
+  - kind: other
+    date: 2026-09-07
+    tz: AoE
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-10-29
+    tz: AoE
+    label: Scientific contributions (extended)
+  - kind: notification
+    date: 2026-11-25
+  - kind: other
+    date: 2026-12-01
+    tz: AoE
+    label: Workshop papers
+  - kind: camera_ready
+    date: 2026-12-09
+    tz: AoE
+sources:
+- https://se2027.cs.tu-dortmund.de/
+- https://se2027.cs.tu-dortmund.de/calls/wissenschaftliche-beitraege/
+- https://se2027.cs.tu-dortmund.de/calls/workshop-vorschlaege/
+- https://se2027.cs.tu-dortmund.de/calls/workshop-beitraege/
+- https://se2026.inf.unibe.ch/en/
+- https://se2026.inf.unibe.ch/en/tracks/scientific-program/
+- https://se2026.inf.unibe.ch/en/proceedings/
+- https://se2026.inf.unibe.ch/en/history/
+- https://se2025.sdq.kastel.kit.edu/
+- https://fb-swt.gi.de/
+- https://portal.core.edu.au/conf-ranks/?search=Software+Engineering&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) 2027 submission deadline not stated on the official site
+- LNI volume numbers for SE 2026 and SE 2027 not confirmed (GI Digital Library did not respond)
+last_verified: 2026-11-07

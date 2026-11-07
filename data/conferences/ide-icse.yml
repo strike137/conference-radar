@@ -1,0 +1,64 @@
+id: ide-icse
+name: IDE
+full_name: International Workshop on Integrated Development Environments
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: IDE workshop organizing committee (JetBrains Research and academic co-chairs), co-located with ICSE (IEEE/ACM)
+organizer_country: [international]
+proceedings: ACM DL (ICSE workshop proceedings, 2026)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4, 5]
+links:
+  website: https://ide-workshop.github.io/
+notes:
+- One-day ICSE workshop on IDEs and developer productivity that brings together researchers and IDE builders from industry
+- Held with ICSE since 2024; Lisbon 2024, Ottawa 2025, Rio de Janeiro 2026 (3rd edition), Dublin 2027 (4th edition)
+- Short papers up to 6 pages and extended abstracts up to 4 pages, both including references; single-blind review
+- "2026: 11 submissions, 11 accepted after one major revision (8 short papers, 3 extended abstracts)"
+- 2026 proceedings in the ACM Digital Library as "Proceedings of the 3rd ACM/IEEE International Workshop on Integrated Development Environments"
+- 2027 submissions use the IEEE template
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-18
+  end: 2026-04-18
+  location: Rio de Janeiro, Brazil
+  url: https://ide-workshop.github.io/content/ide-2026.html
+  deadlines:
+  - kind: submission
+    date: 2025-10-27
+    label: Extended
+  - kind: notification
+    date: 2025-11-28
+  - kind: camera_ready
+    date: 2026-01-26
+- year: 2027
+  start: 2027-05-01
+  end: 2027-05-01
+  location: Dublin, Ireland
+  url: https://ide-workshop.github.io/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+  - kind: notification
+    date: 2026-12-11
+  - kind: camera_ready
+    date: 2027-01-29
+sources:
+- https://ide-workshop.github.io/
+- https://ide-workshop.github.io/content/ide-2026.html
+- https://conf.researchr.org/home/icse-2026/ide-2026
+- https://conf.researchr.org/series/ide
+- https://doi.org/10.1145/3786151
+- https://portal.core.edu.au/conf-ranks/?search=IDE&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- IDE 2027 workshop date (May 1, 2027) is marked subject to change on the official site
+- IDE 2027 proceedings publisher (ACM or IEEE) not stated

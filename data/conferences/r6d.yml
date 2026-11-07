@@ -1,0 +1,81 @@
+id: r6d
+name: R6D
+full_name: International Workshop on Recovering 6D Object Pose
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizing committee from CTU in Prague (BOP benchmark), Google, NVIDIA, MVTec and others
+organizer_country: [europe, usa]
+proceedings: ECCV Workshops proceedings or ICCV Workshops proceedings (IEEE Xplore, CVF Open Access)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://cmp.felk.cvut.cz/sixd/workshop_2026/
+notes:
+- Workshop on 6D object pose estimation, held with ICCV or ECCV since 2015; 2026 was the 11th edition
+- Run together with the BOP Challenge on the BOP object pose benchmark
+- 2025 at ICCV in Honolulu, 2026 at ECCV in Malmo
+- "Peer reviewed papers (7 to 14 pages in 2026, 4 to 8 pages in 2025) appear in the host conference workshop proceedings"
+- In 2025 a second, later deadline accepted non-proceedings papers presented at the workshop only
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 10th edition, with ICCV 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, USA
+  url: https://cmp.felk.cvut.cz/sixd/workshop_2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: "23:59"
+    tz: PST
+    label: In-proceedings papers
+  - kind: notification
+    date: 2025-07-14
+    label: In-proceedings papers
+  - kind: camera_ready
+    date: 2025-08-14
+    label: In-proceedings papers
+  - kind: submission
+    date: 2025-10-01
+    time: "23:59"
+    tz: PST
+    label: Non-proceedings papers (extended)
+  - kind: notification
+    date: 2025-10-05
+    label: Non-proceedings papers
+- year: 2026
+  label: 11th edition, with ECCV 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden
+  url: https://cmp.felk.cvut.cz/sixd/workshop_2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-29
+    label: Workshop papers (extended)
+  - kind: notification
+    date: 2026-08-07
+  - kind: camera_ready
+    date: 2026-08-14
+  - kind: other
+    date: 2026-11-27
+    label: BOP Challenge 2026 final submission
+sources:
+- https://cmp.felk.cvut.cz/sixd/workshop_2026/
+- https://cmp.felk.cvut.cz/sixd/workshop_2025/
+- http://cmp.felk.cvut.cz/sixd/workshop_2024/
+- https://openaccess.thecvf.com/ICCV2025_workshops/R6D
+- https://eccv.ecva.net/Conferences/2026/CallForWorkshops
+- https://eccv.ecva.net/virtual/2026/events/workshop
+- https://portal.core.edu.au/conf-ranks/?search=R6D&by=all&source=ICORE2026
+unverified:
+- The official pages say "ECCV workshop proceedings" without naming Springer LNCS
+- Next edition (expected with ICCV 2027) not announced as of 2026-11-07
+last_verified: 2026-11-07

@@ -1,0 +1,55 @@
+id: itc-asia
+name: ITC-Asia
+full_name: IEEE International Test Conference in Asia
+type: conference
+tier: minor
+areas: [general, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ITC-Asia Steering Committee (IEEE)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5, 8]
+  conference_months: [9, 12]
+links:
+  website: https://www.itc-asia.info.hiroshima-cu.ac.jp/2025/
+notes:
+- Asian offshoot of the IEEE International Test Conference (ITC), started in Taipei in 2017
+- Topics are VLSI and system test (DFT, ATPG, BIST, memory test, fault diagnosis, test for AI, hardware security)
+- Regular papers up to 6 pages in IEEE two-column format; at least one full registration per accepted paper
+- The 2023 call stated that papers go to IEEE Xplore; technically co-sponsored by the IEEE Computer Society in 2023
+- Outstanding papers can be invited in extended form to ITC in the US
+- The 2025 edition (9th) was held jointly with ATS 2025 alongside SEMICON Japan at Tokyo Big Sight, with one joint call for papers
+- Deadlines are usually extended several times
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-16
+  end: 2025-12-19
+  location: Conference Tower of Tokyo Big Sight, Tokyo, Japan (joint with ATS 2025)
+  url: https://www.itc-asia.info.hiroshima-cu.ac.jp/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-12
+    label: Regular papers (extended from 2025-07-22, then 2025-08-05)
+  - kind: notification
+    date: 2025-09-24
+  - kind: camera_ready
+    date: 2025-10-24
+sources:
+- https://www.itc-asia.info.hiroshima-cu.ac.jp/2025/
+- https://www.itc-asia.info.hiroshima-cu.ac.jp/2025/call-for-papers/
+- https://www.itc-asia.info.hiroshima-cu.ac.jp/2025/wp-content/uploads/sites/6/2025/08/ats-itc-asia2025_cfp_v20250805_resized.pdf
+- https://www.itc-asia.info.hiroshima-cu.ac.jp/2025/committees/
+- https://www.itc-asia.info.hiroshima-cu.ac.jp/2023/
+- https://www.itc-asia.info.hiroshima-cu.ac.jp/2023/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=ITC-Asia&by=all&source=ICORE2026
+unverified:
+- ITC-Asia 2026 (reportedly Ningbo, China, August 2026) not confirmed on an official page; the official site still shows 2025
+- The 2025 call mentions official proceedings but does not name IEEE Xplore; IEEE Xplore is taken from the 2023 call
+- CCF 2026 list not checked directly (ccf.org.cn blocks automated access); no CCF rank recorded
+- dblp page not checked (bot check)
+last_verified: 2026-11-07

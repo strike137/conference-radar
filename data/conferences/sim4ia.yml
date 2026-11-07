@@ -1,0 +1,44 @@
+id: sim4ia
+name: Sim4IA
+full_name: Workshop on Simulations for Information Access
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (TH Koeln, TH Mittelhessen, University of Stavanger); co-located with SIGIR
+organizer_country: [europe]
+proceedings: None (non-archival; results summarized in a SIGIR Forum workshop report)
+archival: false
+typical:
+  deadline_months: [5, 7]
+  conference_months: [7]
+links:
+  website: https://sim4ia.org/
+notes:
+- Interactive workshop on user simulation for evaluating search, recommendation and conversational systems
+- Held at SIGIR 2024 (Washington D.C.) and SIGIR 2025 (Padua)
+- 2024 took two-page extended abstracts for lightning talks, editorially reviewed; presenters were invited as co-authors of a SIGIR Forum report
+- 2025 ran a micro shared task (search session and conversational simulation) with short lab notes instead of a paper call
+- Aims to prepare a TREC or CLEF campaign on user simulation
+- No 2026 edition announced on the official site as of November 2026
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-07-17
+  end: 2025-07-17
+  location: Padua, Italy (co-located with SIGIR 2025)
+  url: https://sim4ia.org/sigir2025/
+  deadlines:
+  - kind: other
+    date: 2025-07-04
+    label: Shared task runs and lab notes
+sources:
+- https://sim4ia.org/
+- https://sim4ia.org/sigir2024/
+- https://sim4ia.org/sigir2025/
+- https://portal.core.edu.au/conf-ranks/?search=Sim4IA&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found on the official site; whether the series continues is unknown
+last_verified: 2026-11-07

@@ -1,0 +1,57 @@
+id: clvl
+name: CLVL
+full_name: Workshop on Closing the Loop Between Vision and Language
+type: workshop
+tier: minor
+areas: [vision, nlp, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: Organizing committee from KAUST, Simon Fraser University, TU Darmstadt, UC Santa Cruz and Adobe (2025)
+organizer_country: [other, canada, europe, usa]
+proceedings: IEEE Xplore and CVF Open Access (ICCV Workshops proceedings, archival track)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://iccv-clvl.github.io/2025/
+notes:
+- Workshop on joint vision and language understanding, held with ICCV every two years since 2015; 2025 was the 6th edition
+- Archival papers (more than 4 and up to 8 pages) appear in the ICCV workshop proceedings; non-archival papers up to 4 pages
+- Double-blind review through CMT; several vision and language challenges run with the workshop
+- 5 papers in the ICCV 2025 workshop proceedings on CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 6th edition, with ICCV 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Honolulu, USA
+  url: https://iccv-clvl.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-07
+    time: "23:59"
+    tz: AoE
+    label: Archival track
+  - kind: notification
+    date: 2025-07-11
+    label: Archival track
+  - kind: camera_ready
+    date: 2025-08-18
+    label: Archival track
+  - kind: submission
+    date: 2025-08-15
+    label: Non-archival track
+  - kind: notification
+    date: 2025-09-19
+    label: Non-archival track
+sources:
+- https://iccv-clvl.github.io/2025/
+- https://iccv-clvl.github.io/2023/
+- https://openaccess.thecvf.com/ICCV2025_workshops/CLVL
+- https://portal.core.edu.au/conf-ranks/?search=CLVL&by=all&source=ICORE2026
+unverified:
+- Next edition (expected with ICCV 2027) not announced as of 2026-11-07
+last_verified: 2026-11-07

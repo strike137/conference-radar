@@ -1,0 +1,48 @@
+id: genairecp
+name: GenAIRecP
+full_name: Workshop on Generative AI for Recommender Systems and Personalization
+type: workshop
+tier: minor
+areas: [data, ai, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (AWS AI Labs, Databricks, Google DeepMind, Snap, UC San Diego, Texas A&M University, University of Minnesota); co-located with KDD or WSDM
+organizer_country: [usa]
+proceedings: Workshop website (non-archival, not in the WSDM proceedings)
+archival: false
+typical:
+  deadline_months: [5, 11]
+  conference_months: [2, 8]
+links:
+  website: https://genai-personalization.github.io/GenAIRecP2026
+notes:
+- Workshop on LLMs and generative models for recommendation, personalization and personalized generation
+- Held at KDD 2024 (Barcelona), KDD 2025 (Toronto) and WSDM 2026 (Boise, Idaho)
+- Papers 2 to 8 pages via OpenReview; double-blind review
+- Accepts papers under review or recently accepted elsewhere; papers are not included in the WSDM proceedings and accepted PDFs are posted on the workshop site
+- Organizers mostly from industry research labs (AWS, Google DeepMind, Snap, Databricks)
+- No fourth edition announced on the official site as of November 2026
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-02-26
+  end: 2026-02-26
+  location: Boise, Idaho, USA (co-located with WSDM 2026)
+  url: https://genai-personalization.github.io/GenAIRecP2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-28
+    label: Extended from November 21
+  - kind: notification
+    date: 2025-12-18
+sources:
+- https://genai-personalization.github.io/GenAIRecP2024
+- https://genai-personalization.github.io/GenAIRecP2025
+- https://genai-personalization.github.io/GenAIRecP2026
+- https://genai-personalization.github.io/GenAIRecP2026/call-for-papers
+- https://portal.core.edu.au/conf-ranks/?search=GenAIRecP&by=all&source=ICORE2026
+unverified:
+- The 2026 call says the workshop proceedings policy would be clarified later; no archival proceedings found
+- Time zone of deadlines not stated
+last_verified: 2026-11-07

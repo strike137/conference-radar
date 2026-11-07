@@ -1,0 +1,52 @@
+id: eai-adhip
+name: EAI ADHIP
+full_name: EAI International Conference on Advanced Hybrid Information Processing
+type: conference
+tier: minor
+areas: [ai, data, communications]
+region: china
+language: english
+frequency: annual
+organizer: EAI (European Alliance for Innovation)
+organizer_country: [europe]
+proceedings: Springer LNICST
+archival: true
+indexing: [Web of Science, Compendex, Scopus, DBLP, Inspec, zbMATH]
+typical:
+  deadline_months: [7, 9]
+  conference_months: [12]
+links:
+  website: https://adhip.eai-conferences.org/2025/
+notes:
+- EAI conference on hybrid information processing, weak signal processing, multi-source information fusion and hybrid intelligent computing
+- Proceedings published by Springer in the LNICST series; selected papers invited to the MONET journal
+- Main track and late track with separate submission deadlines; submission via Confy+
+- Held in China since 2017 (Harbin 2017 and 2023, Yiyang 2018, Nanjing 2019, Changsha 2022, Jiaxing 2024); 2020 and 2021 were virtual
+- 9th edition in 2025 was held online (nominally Zhengzhou) on 18 to 19 December 2025
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-18
+  end: 2025-12-19
+  location: Zhengzhou, China (online)
+  url: https://adhip.eai-conferences.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-15
+    label: Main track
+  - kind: submission
+    date: 2025-09-15
+    label: Late track
+  - kind: notification
+    date: 2025-11-05
+  - kind: camera_ready
+    date: 2025-12-12
+sources:
+- https://adhip.eai-conferences.org/2025/
+- https://adhip.eai-conferences.org/2025/call-for-paper/
+- https://adhip.eai-conferences.org/2024/
+- https://portal.core.edu.au/conf-ranks/?search=ADHIP&by=all&source=ICORE2026
+unverified:
+- No 2026 or later edition announced as of 2026-11-07; the /2026/ path on the official site returns 404
+- CCF 2026 list not checked directly on ccf.org.cn
+last_verified: 2026-11-07

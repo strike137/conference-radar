@@ -1,0 +1,62 @@
+id: dossa
+name: DoSSA
+full_name: International Workshop on Domain Specific System Architecture
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizers from Georgia Tech, Sejong University and Seoul National University
+organizer_country: [usa, korea]
+proceedings: Workshop website (papers and slides posted online)
+archival: false
+typical:
+  deadline_months: [5, 9]
+  conference_months: [6, 10, 11]
+links:
+  website: https://prism.sejong.ac.kr/dossa-8/
+notes:
+- Half-day computer architecture workshop on hardware and software for domain specific systems and accelerators
+- Co-located with a major architecture conference that changes by year (ISCA 2023 and 2024, MICRO 2025 and 2026)
+- Submissions are 2-page presentation abstracts via Microsoft CMT; final papers and slides are posted on the workshop website only (non-archival)
+- Program built around invited talks from academia and industry plus a few papers
+- Held in Orlando 2023, Buenos Aires 2024, Seoul 2025, Athens 2026
+editions:
+- year: 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Seoul, Korea (with MICRO-58)
+  url: https://prism.sejong.ac.kr/dossa-7/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-08
+    label: Extended from 2025-08-26
+  - kind: notification
+    date: 2025-09-15
+  - kind: camera_ready
+    date: 2025-10-06
+- year: 2026
+  start: 2026-11-01
+  end: 2026-11-01
+  location: Athens, Greece (with MICRO-59)
+  url: https://prism.sejong.ac.kr/dossa-8/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-15
+    label: Extended from 2026-09-01
+  - kind: notification
+    date: 2026-09-22
+  - kind: camera_ready
+    date: 2026-10-13
+sources:
+- https://prism.sejong.ac.kr/dossa-8/
+- https://prism.sejong.ac.kr/dossa-7/
+- https://prism.sejong.ac.kr/dossa-6/
+- https://prism.sejong.ac.kr/dossa-5/
+- https://prism.sejong.ac.kr/dossa-4/
+- https://prism.sejong.ac.kr/dossa-3/
+- https://portal.core.edu.au/conf-ranks/?search=DoSSA&by=all&source=ICORE2026
+unverified:
+- Not listed on the CORE portal (ICORE2026) and not on the CCF 2026 list
+last_verified: 2026-11-07

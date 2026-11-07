@@ -1,0 +1,49 @@
+id: funarch
+name: FUNARCH
+full_name: ACM SIGPLAN Workshop on Functional Software Architecture - FP in the Large
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9, 10]
+links:
+  website: https://icfp26.sigplan.org/home/funarch-2026
+notes:
+- Workshop on architecture of large, long-lived software built with functional languages, often from industry
+- Co-located with ICFP every year since 2022 (Ljubljana 2022, Seattle 2023, Milan 2024, Singapore 2025, Indianapolis 2026)
+- Proceedings in the ACM Digital Library; research papers and architectural pearls 5-12 pages, experience reports 3-6 pages
+- Open category submissions not intended for publication are also accepted, plus lightning talks outside the proceedings
+- ACM SIGPLAN acmart format; remote presentation only in special cases
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-08-29
+  end: 2026-08-29
+  location: Indianapolis, Indiana, USA (with ICFP 2026)
+  url: https://icfp26.sigplan.org/home/funarch-2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-01
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-15
+    tz: AoE
+sources:
+- https://icfp26.sigplan.org/home/funarch-2026
+- https://conf.researchr.org/home/icfp-splash-2025/funarch-2025
+- https://conf.researchr.org/series/funarch
+- https://portal.core.edu.au/conf-ranks/?search=FUNARCH&by=all&source=ICORE2026
+unverified:
+- "2026 camera-ready deadline unclear: the call for papers says 7 July 2026, the Important Dates box says 14 July 2026"
+- FUNARCH 2027 not announced yet
+- Not checked against the CCF 2026 list (workshop; rank.ccf left out)
+last_verified: 2026-11-07

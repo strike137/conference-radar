@@ -1,0 +1,66 @@
+id: canopie-hpc
+name: CANOPIE-HPC
+full_name: International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: CANOPIE-HPC steering committee (LBNL, Sandia National Laboratories), held with SC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (IEEE Xplore 2026, ACM DL 2025)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://canopie-hpc.org/
+notes:
+- One-day workshop on containers, virtualization and orchestration (Kubernetes, HPC container runtimes) for HPC and AI, held with SC since 2019
+- 2026 is the 8th edition (SC26); the site text still calls it the seventh in places
+- Peer-reviewed papers plus lightning talks; papers published by IEEE in 2026 and by ACM in 2025, following the SC workshop proceedings publisher
+- Hard submission deadline with no extensions, 23:59 AoE
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, MO, USA (with SC25)
+  url: https://canopie-hpc.org/prev/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-29
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-16
+  location: Chicago, IL, USA (with SC26)
+  url: https://canopie-hpc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+    time: "23:59"
+    tz: AoE
+sources:
+- https://canopie-hpc.org/
+- https://canopie-hpc.org/cfp/
+- https://canopie-hpc.org/organizers/
+- https://canopie-hpc.org/prev/2025/
+- https://canopie-hpc.org/prev/2025/cfp/
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=CANOPIE&by=all&source=ICORE2026
+last_verified: 2026-11-07

@@ -1,0 +1,42 @@
+id: propl
+name: PROPL
+full_name: Workshop on Programming for the Planet
+type: workshop
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: PROPL organizers, co-located with ACM SIGPLAN PLDI; 2026 organizers Anil Madhavapeddy, Cyrus Omar, Dominic Orchard and KC Sivaramakrishnan
+organizer_country: [international]
+proceedings: Workshop website (position papers)
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://pldi26.sigplan.org/home/propl-2026
+notes:
+- One-day workshop co-located with ACM PLDI; earlier editions in 2024 and 2025, 2026 was the third
+- Programming languages and systems for climate, biodiversity and planetary data
+- 2026 ran as an open working meeting on a planetary compute engine, with 1-page position papers or shorter notes
+- Position papers are lightly reviewed and posted on the workshop webpage; no formal proceedings
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-15
+  location: Boulder, Colorado, USA (with PLDI 2026)
+  url: https://pldi26.sigplan.org/home/propl-2026
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+    tz: AoE
+    label: Position papers
+sources:
+- https://pldi26.sigplan.org/home/propl-2026
+- https://pldi27.sigplan.org/
+- https://portal.core.edu.au/conf-ranks/?search=PROPL&by=all&source=ICORE2026
+unverified:
+- PROPL 2027 not yet announced on the PLDI 2027 site (PLDI 2027 is 5 to 11 June 2027 in Atlanta)
+last_verified: 2026-11-07

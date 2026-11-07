@@ -1,0 +1,56 @@
+id: hacker-hotel
+name: Hackerhotel
+full_name: Hackerhotel
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: mixed
+frequency: annual
+organizer: Stichting Connected Freedom
+organizer_country: [europe]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [12]
+  conference_months: [2]
+links:
+  website: https://hackerhotel.nl/
+notes:
+- Non-profit, volunteer-run Dutch hacker weekend organized by Stichting Connected Freedom (Amersfoort)
+- Held in a hotel in the Netherlands every February; attendees book a hotel room package that includes the program and meals
+- Talks, workshops and quizzes on pentesting, hardware hacking, cryptography, ransomware and maker topics, plus a CTF
+- Call for participation through pretalx; talks preferably in English, Dutch accepted; talks are recorded and classified with the Traffic Light Protocol
+- No proceedings; videos are published afterwards
+- No edition in 2026 because of renovations at the former venue (Hotel De Werelt, Garderen); 2027 moves to Hotel Zuiderduin, Egmond aan Zee
+- Tickets usually sell out quickly; 2027 prices from 452 euro (single room, two nights)
+editions:
+- year: 2025
+  start: 2025-02-14
+  end: 2025-02-16
+  location: Hotel De Werelt, Garderen, Netherlands
+  url: https://hackerhotel.nl/ev/2025/hh2025/
+- year: 2027
+  start: 2027-02-19
+  end: 2027-02-21
+  location: Hotel Zuiderduin, Egmond aan Zee, Netherlands
+  url: https://hackerhotel.nl/ev/2027/hh2027/
+  deadlines:
+  - kind: submission
+    date: 2026-12-31
+    time: "23:59"
+    tz: UTC
+    label: Call for participation (talks, workshops, quizzes)
+sources:
+- https://hackerhotel.nl/
+- https://hackerhotel.nl/about
+- https://hackerhotel.nl/ev/2025/hh2025/
+- https://hackerhotel.nl/ev/2027/hh2027/
+- https://hackerhotel.nl/tags/hh2026/
+- https://pretalx.hackerhotel.nl/2025/cfp
+- https://pretalx.hackerhotel.nl/2027/cfp
+- https://portal.core.edu.au/conf-ranks/?search=Hackerhotel&by=all&source=ICORE2026
+unverified:
+- CFP deadline of the 2025 edition not shown on the closed pretalx page
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-11-07

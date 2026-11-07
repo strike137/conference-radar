@@ -1,0 +1,104 @@
+id: nime
+name: NIME
+full_name: International Conference on New Interfaces for Musical Expression
+type: conference
+tier: minor
+areas: [general, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: NIME community (NIME Board and steering committees)
+organizer_country: [international]
+proceedings: NIME Proceedings (open access on nime.org and Zenodo, ISSN 2220-4806)
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://nime.org/
+  dblp: https://dblp.org/db/conf/nime/index.html
+notes:
+- Main venue for new musical interfaces, instruments, music HCI and performance technology
+- Started as a workshop at ACM CHI in 2001; an annual international conference since 2002
+- Tracks for papers, music, installations, alt.nime, workshops and a doctoral consortium
+- Papers get double-blind review by at least three reviewers; 2,000 to 6,000 words in 2027
+- Proceedings are gold open access (CC BY 4.0) with Zenodo DOIs and indexed in Scopus
+- Location rotates worldwide (Auckland 2022, Mexico City 2023, Utrecht 2024, Canberra 2025, London 2026, Paris 2027,
+  Auckland 2028)
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-23
+  end: 2026-06-26
+  location: London, UK (Loughborough University London Here East and Rich Mix; hybrid)
+  url: https://nime2026.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-05
+    time: "23:59"
+    tz: AoE
+    label: Papers and music, titles, abstracts and authors
+  - kind: submission
+    date: 2026-02-12
+    time: "23:59"
+    tz: AoE
+    label: Papers and music
+  - kind: other
+    date: 2026-03-05
+    time: "23:59"
+    tz: AoE
+    label: Workshop, alt.nime and student consortium submissions
+  - kind: notification
+    date: 2026-04-03
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-30
+    time: "23:59"
+    tz: AoE
+    label: Camera ready and presenter registration
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-25
+  location: Devinci Higher Education, Paris, France
+  url: https://nime2027.org/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-24
+    time: "23:59"
+    tz: AoE
+    label: Peer reviewed tracks, titles, abstracts and authors
+  - kind: submission
+    date: 2027-01-31
+    time: "23:59"
+    tz: AoE
+    label: Peer reviewed tracks (papers)
+  - kind: notification
+    date: 2027-03-19
+    label: Peer reviewed tracks
+  - kind: submission
+    date: 2027-04-04
+    time: "23:59"
+    tz: AoE
+    label: Juried tracks (music, installations)
+  - kind: camera_ready
+    date: 2027-04-30
+    time: "23:59"
+    tz: AoE
+    label: Peer reviewed tracks, camera ready and presenter registration
+sources:
+- https://nime.org/
+- https://nime.org/past-nimes/
+- https://nime.org/papers/
+- https://nime2026.org/
+- https://nime2027.org/
+- https://nime2027.org/call/key-dates
+- https://nime2027.org/call/papers
+- https://portal.core.edu.au/conf-ranks/?search=NIME&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- NIME 2026 main conference days were 24 to 26 June with workshops on 23 June; the informal open day on 27 June is not counted
+- CCF status checked in the CCF 2026 list PDF mirrored by ccfddl (ccf.org.cn blocks automated access)
+- Acceptance rate not stated on the official sites
+last_verified: 2026-11-07

@@ -1,0 +1,58 @@
+id: egovis-cv
+name: EgoVis
+full_name: Joint Egocentric Vision (EgoVis) Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 organizers from University of Bristol, University of Tokyo, Bocconi University,
+  University of Catania and FAIR Meta); co-located with CVPR
+organizer_country: [international]
+proceedings: CVF Open Access (CVPR Workshops proceedings), full papers only since 2026
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://egovis.github.io/cvpr26/
+notes:
+- CVPR workshop on egocentric (first-person) vision that joins the EPIC, Ego4D, HBHA and Aria events; first EgoVis edition at CVPR 2024
+- Successor of the EPIC workshop series (since ECCV 2016) and the joint Ego4D and EPIC workshops (2022, 2023)
+- Hosts challenges on HoloAssist, Ego4D, Ego-Exo4D, EPIC-KITCHENS and HD-EPIC; challenge entrants submit 2 to 6 page technical reports
+- 2026 added a full paper track (max 8 pages, CVPR format, double-blind, at least two reviewers, via CMT) published with the CVPR proceedings
+- 2024 and 2025 editions accepted only non-archival extended abstracts
+- 2 full papers appeared in CVF Open Access in 2026; extended abstracts (2 to 4 pages) stay non-archival
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://egovis.github.io/cvpr26/
+  deadlines:
+  - kind: submission
+    date: 2026-02-27
+    tz: PST
+    label: Full papers
+  - kind: notification
+    date: 2026-04-03
+    tz: PDT
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-04-07
+    tz: PDT
+    label: Full papers
+  - kind: other
+    date: 2026-04-27
+    tz: PDT
+    label: Extended abstracts (non-archival)
+sources:
+- https://egovis.github.io/cvpr26/
+- https://egovis.github.io/cvpr25/
+- https://openaccess.thecvf.com/CVPR2026_workshops/EgoVis
+- https://portal.core.edu.au/conf-ranks/?search=EgoVis&by=all&source=ICORE2026
+unverified:
+- Next edition (EgoVis 2027) not announced yet
+last_verified: 2026-11-07

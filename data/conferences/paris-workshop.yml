@@ -1,0 +1,51 @@
+id: paris-workshop
+name: PaRiS
+full_name: Workshop on Personalization and Recommendations in Search
+type: workshop
+tier: minor
+areas: [data, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers from Netflix Research
+organizer_country: [usa]
+proceedings: None (non-archival extended abstracts)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [8]
+links:
+  website: https://paris-workshop.github.io/www/index.html
+notes:
+- Half-day workshop on search personalization and recommendations within search, run by Netflix Research
+- Host conference changes each year (WSDM 2022, The Web Conference 2023, SIGIR 2024, KDD 2025)
+- Two-page extended abstracts plus references in the ACM sigconf template, submitted via EasyChair
+- Accepted submissions are presented but not archived; previously published work is welcome
+- At least one author of each accepted paper must attend and present
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-08-04
+  end: 2025-08-04
+  location: Toronto, Canada (with KDD 2025)
+  url: https://paris-workshop.github.io/www/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-06-01
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-06-08
+    time: "23:59"
+    tz: AoE
+sources:
+- https://paris-workshop.github.io/www/index.html
+- https://paris-workshop.github.io/www/dates.html
+- https://paris-workshop.github.io/www/submissions.html
+- https://paris-workshop.github.io/www/previous.html
+- https://kdd2025.kdd.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=PaRiS&by=all&source=ICORE2026
+unverified:
+- No 2026 or later edition found; not in the KDD 2026 workshop list
+- The 2025 CFP says both that papers appear in the KDD 2025 companion proceedings and that they will not be archived
+last_verified: 2026-11-07

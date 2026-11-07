@@ -1,0 +1,78 @@
+id: types
+name: TYPES
+full_name: International Conference on Types for Proofs and Programs
+type: conference
+tier: minor
+areas: [general, software]
+region: europe
+language: english
+frequency: annual
+organizer: TYPES Steering Committee, with a local host institution each year
+organizer_country: [europe]
+proceedings: LIPIcs (Schloss Dagstuhl), post-proceedings
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5, 6]
+links:
+  website: https://sites.google.com/view/thetypesconferences
+  dblp: https://dblp.org/db/conf/types/index.html
+notes:
+- Forum for type theory and its applications (proof assistants, dependently typed programming, formalised mathematics, homotopy type theory)
+- Talks are selected from 2-page extended abstracts; abstracts go into an informal book of abstracts handed out at the meeting
+- Formal post-proceedings in the open-access LIPIcs series, with a separate call open to everyone after the meeting (TYPES 2025 -> LIPIcs vol. 384, up to 20 pages)
+- Workshop style meeting; talks may present published work, work under submission or work in progress
+- Grew out of EU funded projects (1990 to 2008); independent conference series since 2009, with a steering committee
+- Held in Europe (Copenhagen 2024, Glasgow 2025, Gothenburg 2026, Udine 2027, Paris 2028 tentative)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  label: 31st TYPES
+  start: 2025-06-09
+  end: 2025-06-13
+  location: Glasgow, Scotland, UK (University of Strathclyde)
+  url: https://msp.cis.strath.ac.uk/types2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-10
+    tz: AoE
+    label: 2-page abstract, extended from 2025-03-03
+  - kind: notification
+    date: 2025-04-11
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-09
+    tz: AoE
+  - kind: other
+    date: 2025-12-05
+    tz: AoE
+    label: Post-proceedings full paper, extended from 2025-12-01
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-08
+  location: Gothenburg, Sweden
+  url: https://sites.google.com/view/thetypesconferences/earlier-meetings
+- year: 2027
+  start: 2027-06-07
+  end: 2027-06-11
+  location: Udine, Italy
+  url: https://sites.google.com/view/thetypesconferences/next-types-meeting
+- year: 2028
+  start: 2028-06-12
+  end: 2028-06-16
+  location: Paris, France
+  url: https://sites.google.com/view/thetypesconferences/next-types-meeting
+  status: tentative
+sources:
+- https://sites.google.com/view/thetypesconferences
+- https://sites.google.com/view/thetypesconferences/next-types-meeting
+- https://sites.google.com/view/thetypesconferences/earlier-meetings
+- https://msp.cis.strath.ac.uk/types2025/index.html
+- https://msp.cis.strath.ac.uk/types2025/cfp.html
+- https://msp.cis.strath.ac.uk/types2025/postproceedings.html
+- https://portal.core.edu.au/conf-ranks/?search=TYPES&by=all&source=ICORE2026
+unverified:
+- TYPES 2026 (Gothenburg) website and deadlines not found; dates taken from the series page
+- TYPES 2027 call for contributions and deadlines not yet published on an official page found as of 2026-11-07
+- CCF list checked in a mirrored copy of the CCF 2026 list (ccf.org.cn not reachable)
+last_verified: 2026-11-07

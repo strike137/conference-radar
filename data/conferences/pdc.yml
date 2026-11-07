@@ -1,0 +1,66 @@
+id: pdc
+name: PDC
+full_name: Participatory Design Conference
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: biennial
+organizer: PDC Advisory Board with a local host (Politecnico di Milano in 2026)
+organizer_country: [international]
+proceedings: ACM DL (open access)
+archival: true
+typical:
+  deadline_months: [6, 10]
+  conference_months: [6]
+links:
+  website: https://www.pdc2026.polimi.it/
+  dblp: https://dblp.org/db/conf/pdc/index.html
+notes:
+- Biennial conference on participatory design and co-design theory, practice and methods
+- Full papers (up to 8,500 words) go through two rounds of blind review by three reviewers; the same reviewers judge
+  the revision
+- Exploratory papers (up to 4,000 words) get one round of review by two reviewers; deadline in October
+- Also has workshops, situated actions, PDC Places and a doctoral colloquium; all appear in the proceedings
+- Proceedings published open access in the ACM Digital Library (three volumes in 2026)
+- 2026 was onsite only, with no online or pre-recorded presentations
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-19
+  location: Campus Bovisa Durando, Politecnico di Milano, Milan, Italy
+  url: https://www.pdc2026.polimi.it/
+  deadlines:
+  - kind: submission
+    date: 2025-06-16
+    label: Full papers (extended from 2025-06-04)
+  - kind: notification
+    date: 2025-09-09
+    label: Full papers, first round reviews (moved from 2025-08-29)
+  - kind: submission
+    date: 2025-10-16
+    label: Revised full papers, exploratory papers, workshops, situated actions, PDC Places and doctoral colloquium
+      (extended from 2025-10-07)
+  - kind: camera_ready
+    date: 2026-01-27
+    label: Full and exploratory papers, workshops, doctoral colloquium (extended from 2026-01-18)
+  - kind: other
+    date: 2026-02-25
+    label: ACM rights forms and TAPS upload for all submissions
+sources:
+- https://www.pdc2026.polimi.it/
+- https://www.pdc2026.polimi.it/guidelines-and-dates/
+- https://www.pdc2026.polimi.it/conference-organization/
+- https://www.pdc2026.polimi.it/david-hakken-pd-grant/
+- https://pdc2022.org/
+- https://portal.core.edu.au/conf-ranks/?search=Participatory+Design&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- PDC 2028 host and dates not found on an official page as of 2026-11-07
+- Region worldwide is based on the general rotation of past editions; host cities of editions before 2026 could not be
+  confirmed on an official page (pdcproceedings.org was unreachable)
+- Notification date for full papers and exploratory papers given only as December 2025
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-07

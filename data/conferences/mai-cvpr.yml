@@ -1,0 +1,57 @@
+id: mai-cvpr
+name: MAI
+full_name: Mobile AI Workshop and Associated Challenges (CVPR)
+type: workshop
+tier: minor
+areas: [vision, ai, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: AI Benchmark project (ETH Zurich, Andrey Ignatov) with the Computer Vision Lab, University of Wurzburg
+organizer_country: [europe]
+proceedings: CVF Open Access and IEEE Xplore (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://ai-benchmark.com/workshops/mai/2026/
+notes:
+- CVPR workshop on efficient deep learning for smartphones, embedded and IoT hardware; held with CVPR every year since 2021, 6th
+  edition in 2026
+- Runs challenges where solutions are evaluated on real mobile NPUs and GPUs (super-resolution, denoising, ISP, bokeh, efficient LLMs
+  and Stable Diffusion in 2026)
+- Papers up to 8 pages excluding references in CVPR format, double-blind review via Microsoft CMT
+- Dual submission allowed with the CVPR main conference only
+- Early and late paper deadlines; the late deadline also covers challenge papers
+- Accepted papers go into the CVPR Workshops proceedings on CVF Open Access and IEEE Xplore
+- Same organizing team as the NTIRE (CVPR) and AIM (ICCV/ECCV) workshops
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://ai-benchmark.com/workshops/mai/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-10
+    tz: PDT
+    label: Early submission
+  - kind: submission
+    date: 2026-03-22
+    tz: PDT
+    label: Late submission and challenge papers
+  - kind: notification
+    date: 2026-03-25
+  - kind: camera_ready
+    date: 2026-04-08
+sources:
+- https://ai-benchmark.com/workshops/mai/2026/
+- https://openaccess.thecvf.com/CVPR2026_workshops/MAI
+- https://openaccess.thecvf.com/CVPR2025_workshops/MAI
+- https://portal.core.edu.au/conf-ranks/?search=MAI&by=all&source=ICORE2026
+unverified:
+- Deadline times are given only as Pacific Time without a clock time
+- Next edition (MAI 2027) not announced yet
+last_verified: 2026-11-07

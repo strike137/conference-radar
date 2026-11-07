@@ -1,0 +1,69 @@
+id: expressive
+name: Expressive
+full_name: ACM/EG Expressive Symposium
+type: conference
+tier: minor
+areas: [vision]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ACM SIGGRAPH and Eurographics (co-sponsored)
+organizer_country: [international]
+proceedings: Eurographics Digital Library and ACM DL (journal track in Elsevier Computers & Graphics)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://expressive.graphics/
+notes:
+- Symposium on computational aesthetics, non-photorealistic rendering and animation, and sketch-based interfaces and modeling
+- Successor of the CAe, SBIM and NPAR workshops, merged as Expressive in 2012
+- Held yearly from 2012 to 2019, then no edition until the 9th Expressive in London in 2025
+- 2025 edition joined with WICED and co-located with Eurographics 2025
+- Two paper tracks in 2025, a journal track (Elsevier Computers & Graphics special issue) and a conference track
+- Conference papers, posters and demos appear in the Eurographics Digital Library and the ACM Digital Library
+- Anonymous submission; all deadlines 23:59:59 UTC
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  label: 9th Expressive (with WICED)
+  start: 2025-05-11
+  end: 2025-05-12
+  location: London, UK (co-located with Eurographics 2025)
+  url: https://expressive.graphics/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-10
+    time: "23:59"
+    tz: UTC
+    label: Full papers (extended from 2025-02-03)
+  - kind: other
+    date: 2025-02-20
+    time: "23:59"
+    tz: UTC
+    label: Posters and demos (extended)
+  - kind: notification
+    date: 2025-03-10
+    label: First review notification
+  - kind: other
+    date: 2025-03-17
+    time: "23:59"
+    tz: UTC
+    label: Revised submission (conditionally accepted journal papers)
+  - kind: camera_ready
+    date: 2025-04-12
+    time: "23:59"
+    tz: UTC
+sources:
+- https://expressive.graphics/
+- https://expressive.graphics/2025/
+- https://expressive.graphics/2025/submissions/
+- https://expressive.graphics/previous/
+- https://portal.core.edu.au/conf-ranks/?search=Expressive&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- No 2026 or 2027 edition announced on expressive.graphics (checked 2026-11-07); not on the Eurographics 2026 site
+- dblp page not checked (dblp blocked automated access)
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-11-07

@@ -1,0 +1,54 @@
+id: tx4nets
+name: TX4Nets
+full_name: International Workshop on Trustworthy and eXplainable Artificial Intelligence for Networks
+type: workshop
+tier: minor
+areas: [networking, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizers from SUPSI, Chalmers, Politecnico di Milano, Politecnico di Torino and partners, at IFIP Networking
+organizer_country: [europe]
+proceedings: IEEE Xplore (IFIP Networking workshop proceedings)
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [5, 6]
+links:
+  website: https://networking.ifip.org/2026/index.php/workshops/tx4nets.html
+notes:
+- Workshop held with IFIP Networking on trustworthy, robust and explainable AI for network management and operation
+- Editions in Thessaloniki 2024, Limassol 2025 and Lugano 2026, always with IFIP Networking
+- Papers up to 6 pages in IEEE double-column format, single-blind review via EDAS
+- Papers appear in the IFIP Networking proceedings and are submitted to IEEE Xplore
+- Deadlines were extended twice in 2026 (March 22 -> April 7 -> April 14)
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  label: 3rd TX4Nets
+  start: 2026-05-24
+  end: 2026-05-24
+  location: Lugano, Switzerland
+  url: https://networking.ifip.org/2026/index.php/workshops/tx4nets.html
+  deadlines:
+  - kind: submission
+    date: 2026-04-14
+    tz: AoE
+    label: Firm (originally 2026-03-22, then 2026-04-07)
+  - kind: notification
+    date: 2026-04-28
+    label: Originally 2026-04-21
+  - kind: camera_ready
+    date: 2026-05-04
+    label: Originally 2026-04-30
+sources:
+- https://networking.ifip.org/2026/index.php/workshops/tx4nets.html
+- https://networking.ifip.org/2025/index.php/workshops/tx4nets.html
+- https://networking.ifip.org/2024/index.php/workshops/tx4nets.html
+- https://networking.ifip.org/2027/
+- https://portal.core.edu.au/conf-ranks/?search=TX4Nets&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
+unverified:
+- TX4Nets 2027 not announced yet; IFIP Networking 2027 is set for 2027-06-13 to 06-16 in Dublin, Ireland
+- CCF absence checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
+last_verified: 2026-11-07
