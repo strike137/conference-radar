@@ -1,0 +1,79 @@
+id: sportshci
+name: SportsHCI
+full_name: International Conference for Human-Computer Interaction and Sports
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: SportsHCI organizing committee, in cooperation with ACM SIGCHI
+organizer_country: [international]
+proceedings: ACM DL (ICPS)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [11]
+links:
+  website: https://www.sportshci2026.com/
+notes:
+- New series on HCI and sports, started in 2025 (Enschede, Netherlands); 2026 is the second edition
+- In cooperation with ACM SIGCHI; proceedings in the ACM International Conference Proceedings Series (ICPS), open access with APCs for authors outside ACM Open
+- Full papers have a mandatory abstract one week before the paper deadline; double-blind review, single-column ACM format, no upper page limit
+- Late-breaking work and demo tracks with later deadlines
+- Single-track, fully in-person conference
+- Not ranked by ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-19
+  location: Enschede, Netherlands (University of Twente)
+  url: https://www.sportshci2025.com/
+  deadlines:
+  - kind: submission
+    date: 2025-04-24
+    tz: AoE
+    label: Full papers (extended from 2025-04-17)
+  - kind: notification
+    date: 2025-07-04
+    tz: AoE
+    label: Full papers
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-18
+  location: Saarbruecken, Germany
+  url: https://www.sportshci2026.com/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-20
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-04-27
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2026-05-25
+    tz: AoE
+    label: Late-breaking work
+  - kind: notification
+    date: 2026-06-25
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2026-07-01
+    tz: AoE
+    label: Demos
+  - kind: camera_ready
+    date: 2026-07-20
+    tz: AoE
+sources:
+- https://www.sportshci2026.com/
+- https://www.sportshci2026.com/call-for-papers
+- https://www.sportshci2025.com/
+- https://www.sportshci2025.com/call-for-papers
+- https://sigchi.org/events/sportshci-2026/
+- https://portal.core.edu.au/conf-ranks/?search=SportsHCI&by=all&source=ICORE2026
+unverified:
+- No DBLP venue page confirmed (dblp.org was not reachable)
+last_verified: 2026-11-07

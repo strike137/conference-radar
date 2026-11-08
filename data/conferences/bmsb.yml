@@ -1,0 +1,66 @@
+id: bmsb
+name: IEEE BMSB
+full_name: IEEE International Symposium on Broadband Multimedia Systems and Broadcasting
+type: conference
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Broadcast Technology Society (BTS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://bts.ieee.org/conferences-events/ieee-international-symposium-on-broadband-multimedia-systems-and-broadcasting.html
+notes:
+- Annual symposium of the IEEE Broadcast Technology Society, with an international steering committee
+- Topics are broadcasting, multimedia transmission and networking, multimedia signal processing and service quality
+- Extended abstracts (3 pages) or full papers (6 pages) in the IEEE template, submitted via EasyChair
+- Papers of registered authors go to IEEE Xplore; one full registration covers up to two papers (2026)
+- Not listed in ICORE2026 or the CCF 2026 list
+- Location rotates worldwide (Joao Pessoa, Brazil 2026; Sydney, Australia 2027)
+editions:
+- year: 2026
+  start: 2026-07-08
+  end: 2026-07-10
+  location: Joao Pessoa, Paraiba, Brazil (Mackenzie Presbyterian University)
+  url: https://bmsb2026.com/
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    label: Extended abstract / full paper (extended from 2026-01-10)
+  - kind: notification
+    date: 2026-02-28
+  - kind: camera_ready
+    date: 2026-05-12
+- year: 2027
+  start: 2027-07-07
+  end: 2027-07-09
+  location: Sydney, Australia (University of Technology Sydney)
+  url: https://www.bmsb2027.com/
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+    time: "23:59"
+    tz: AoE
+    label: Extended abstract / full paper
+  - kind: notification
+    date: 2027-03-01
+  - kind: camera_ready
+    date: 2027-04-15
+sources:
+- https://bts.ieee.org/conferences-events/ieee-international-symposium-on-broadband-multimedia-systems-and-broadcasting.html
+- https://bts.ieee.org/conferences-events.html
+- https://bmsb2026.com/
+- https://bmsb2026.com/index.php/call-for-papers/
+- https://bmsb2026.com/index.php/registration-fees/
+- https://www.bmsb2027.com/
+- https://portal.core.edu.au/conf-ranks/?search=BMSB&by=all&source=ICORE2026
+unverified:
+- dblp page not checked (dblp blocked automated access)
+- Acceptance rate and indexing not stated on the official sites
+last_verified: 2026-11-07

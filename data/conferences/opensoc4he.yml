@@ -1,0 +1,53 @@
+id: opensoc4he
+name: OpenSoC4HE
+full_name: Workshop on Open SoCs for Higher Education in Computer Architecture
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: irregular
+organizer: Organizing committee from IMT School for Advanced Studies Lucca, Politecnico di Torino, Universidad Politecnica de Madrid and Graz University of Technology; co-located with HiPEAC
+organizer_country: [europe]
+proceedings: OASIcs (Schloss Dagstuhl)
+archival: true
+indexing: [DBLP, Scopus]
+typical:
+  deadline_months: [11]
+  conference_months: [1]
+links:
+  website: https://edge-group-polito.github.io/OpenSoC4HE/
+notes:
+- First edition in 2027, a one-day workshop at the HiPEAC 2027 conference in Glasgow
+- Teaching computer architecture and digital design with open-source SoCs, RISC-V, FPGA labs, verification and classroom tape-outs
+- Three tracks; full papers (up to 10 pages) and short papers or experience reports (up to 6 pages) get double-blind review and go into the proceedings
+- Talk or demo only contributions (1 to 2 page abstract) appear in the program but not in the proceedings
+- Papers use the Dagstuhl OASIcs template and are published open access in the HiPEAC workshop proceedings by Schloss Dagstuhl
+- Main output is a community roadmap for teaching with open hardware, drafted at a closing panel
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2027
+  start: 2027-01-18
+  end: 2027-01-18
+  location: Glasgow, United Kingdom (HiPEAC 2027)
+  url: https://edge-group-polito.github.io/OpenSoC4HE/
+  deadlines:
+  - kind: submission
+    date: 2026-11-16
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-12-14
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-07
+    time: "23:59"
+    tz: AoE
+sources:
+- https://edge-group-polito.github.io/OpenSoC4HE/
+- https://easychair.org/cfp/opensoc4he2027
+- https://portal.core.edu.au/conf-ranks/?search=OpenSoC&by=all&source=ICORE2026
+unverified:
+- First edition; not yet known whether it will recur at later HiPEAC conferences
+last_verified: 2026-11-07

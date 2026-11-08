@@ -1,0 +1,49 @@
+id: ai4math-icml
+name: AI4Math
+full_name: AI for Math Workshop @ ICML
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AI4Math workshop organizers (academic and industry researchers); co-located with ICML
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://ai4math2026.github.io/
+notes:
+- Workshop on AI for mathematics (formal and informal theorem proving, mathematical reasoning, math agents), held with ICML every year since 2024
+- Editions at ICML 2024 (Vienna), ICML 2025 (Vancouver) and ICML 2026 (Seoul); a separate series from MATH-AI at NeurIPS
+- Non-archival; papers submitted to or accepted at other venues are welcome
+- Papers 2 to 8 pages in ICML format; double-blind review on OpenReview
+- 346 submissions in 2026, about double the 2025 volume; also runs a challenge track
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 3rd edition, with ICML 2026
+  start: 2026-07-11
+  end: 2026-07-11
+  location: Seoul, South Korea (co-located with ICML 2026)
+  url: https://ai4math2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    tz: AoE
+  - kind: notification
+    date: 2026-06-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-25
+    tz: AoE
+sources:
+- https://ai4math2026.github.io/
+- https://sites.google.com/view/ai4mathworkshopicml2025
+- https://portal.core.edu.au/conf-ranks/?search=AI4Math&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- No 2027 edition announced as of 2026-11-07

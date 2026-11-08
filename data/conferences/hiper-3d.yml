@@ -1,0 +1,44 @@
+id: hiper-3d
+name: HiPER-3D
+full_name: Workshop on High Performance and Energy Efficient Architectures for 3D Chiplets
+type: workshop
+tier: minor
+areas: [systems, general]
+region: europe
+language: english
+organizer: Workshop chairs from University of Thessaly, University of Amsterdam, University of Bremen and University of Glasgow, at IEEE ICDCS
+organizer_country: [europe]
+proceedings: IEEE Xplore (IEEE ICDCSW companion proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://coin3d-project.github.io/hiper-3d/
+notes:
+- Workshop held with IEEE ICDCS on 3D chiplet architectures, power and thermal management, EDA for AI and AI for EDA
+- First edition in 2025 with ICDCS 2025 in Glasgow (July 20, 2025); six papers in the program
+- Papers up to 6 pages in IEEE two-column format, single-blind review, submitted via EasyChair
+- Accepted and presented papers go into the IEEE ICDCSW companion proceedings and the IEEE digital library; in-person presentation required
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-07-20
+  end: 2025-07-20
+  location: Glasgow, UK (IEEE ICDCS 2025)
+  url: https://coin3d-project.github.io/hiper-3d/
+  deadlines:
+  - kind: submission
+    date: 2025-03-24
+    label: Final deadline (first 2025-03-05, then 2025-03-16)
+  - kind: notification
+    date: 2025-04-02
+  - kind: camera_ready
+    date: 2025-04-16
+sources:
+- https://coin3d-project.github.io/hiper-3d/
+- https://icdcs2025.icdcs.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=HiPER-3D&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found; HiPER-3D is not on the ICDCS 2026 workshops page
+last_verified: 2026-11-07

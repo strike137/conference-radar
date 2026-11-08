@@ -1,0 +1,61 @@
+id: dlt
+name: DLT
+full_name: International Conference on Developments in Language Theory
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: DLT Steering Committee (under the auspices of EATCS)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+indexing: [DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://math.utu.fi/dlt/
+  dblp: https://dblp.org/db/conf/dlt/index.html
+notes:
+- Theory venue on formal languages and automata, running since 1993 under the auspices of EATCS
+- Proceedings in Springer LNCS (DLT 2026 is LNCS 16578); selected papers invited to a special issue of IJFCS
+- CORE C; not on the CCF 2026 list
+- Mostly held in Europe, sometimes elsewhere (Tampa 2022, Umea 2023, Goettingen 2024, Seoul 2025, Rouen 2026, Saskatoon 2027)
+- Papers up to 12 pages in LNCS style excluding bibliography; appendix allowed
+- DLT 2026 was held jointly with the NCMA 2026 workshop; the Salomaa Prize is awarded at the conference
+editions:
+- year: 2026
+  start: 2026-06-30
+  end: 2026-07-03
+  location: Rouen, France (jointly with NCMA 2026)
+  url: https://dlt-ncma-2026.sciencesconf.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-13
+    label: Extended from 2026-03-06
+  - kind: notification
+    date: 2026-04-10
+    label: Extended from 2026-04-03
+  - kind: camera_ready
+    date: 2026-04-15
+- year: 2027
+  start: 2027-07-27
+  end: 2027-07-30
+  location: Saskatoon, Canada (University of Saskatchewan)
+  url: https://math.utu.fi/dlt/#next
+  status: tentative
+sources:
+- https://math.utu.fi/dlt/
+- https://dlt-ncma-2026.sciencesconf.org/
+- https://dlt-ncma-2026.sciencesconf.org/page/dlt_cfp?lang=en
+- https://dlt-ncma-2026.sciencesconf.org/page/proceedings?lang=en
+- http://math.utu.fi/dlt/wp-content/uploads/sites/17/2026/07/dlt2027-slides.pdf
+- https://portal.core.edu.au/conf-ranks/?search=DLT&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- DLT 2027 dates are tentative (from the DLT 2027 presentation slides); no call for papers yet
+last_verified: 2026-11-07

@@ -1,0 +1,54 @@
+id: mlvis
+name: MLVis
+full_name: Machine Learning Methods in Visualisation for Big Data
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Daniel Archambault (Newcastle University), Ian Nabney (University of Bristol), Jaakko Peltonen (Tampere University), Eurographics
+organizer_country: [europe]
+proceedings: Eurographics Digital Library (MLVis workshop proceedings)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [5, 6]
+links:
+  website: https://events.tuni.fi/mlvis/
+notes:
+- Part-tutorial, part-workshop event on combining machine learning and visualisation (explainable ML, dimensionality reduction, visual analytics)
+- Co-located with EuroVis every year since 2016 (Odense 2024, Luxembourg City 2025, Nottingham 2026); 2026 was the eleventh edition
+- Short papers of at most 4 pages plus one page of references; submissions need not be blind
+- Submission through PCS as a EuroVis track; deadlines 23:59 AoE
+- Proceedings published by the Eurographics Association in the Eurographics Digital Library
+- Small program (five contributed papers in 2026)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-08
+  location: Nottingham, United Kingdom (co-located with EuroVis 2026)
+  url: https://events.tuni.fi/mlvis/mlvis-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-16
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-28
+  - kind: camera_ready
+    date: 2026-05-05
+    time: "23:59"
+    tz: AoE
+sources:
+- https://events.tuni.fi/mlvis/
+- https://events.tuni.fi/mlvis/mlvis-2026/
+- https://events.tuni.fi/mlvis/mlvis-2025/
+- https://diglib.eg.org/handle/10.2312/3607325
+- https://www.eg.org/wp/event/machine-learning-methods-in-visualisation-for-big-data-mlvis-workshop/
+- https://portal.core.edu.au/conf-ranks/?search=MLVis&by=all&source=ICORE2026
+unverified:
+- MLVis 2027 not announced yet; expected with EuroVis 2027 in Stuttgart
+- CCF absence checked in a text copy of the CCF 2026 list, not on ccf.org.cn directly
+last_verified: 2026-11-07

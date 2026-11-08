@@ -1,0 +1,67 @@
+id: acm-rep
+name: ACM REP
+full_name: ACM Conference on Reproducibility and Replicability
+type: conference
+tier: minor
+areas: [software, systems, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM (ACM Emerging Interest Group for Reproducibility and Replicability)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6, 7]
+links:
+  website: https://acm-rep.github.io/
+notes:
+- Young ACM conference on reproducibility of computational research, first held in 2023 at UC Santa Cruz
+- Associated with the ACM Emerging Interest Group for Reproducibility and Replicability (EIGREP)
+- All accepted papers are published in the ACM Digital Library (ACM Open from 2026)
+- Double-blind review; full papers (10 pages) and short papers (4 pages), page limit without references and appendices
+- Artifacts are mandatory for full papers with experimental results and are reviewed for ACM availability badges
+- Topics include systems and security reproducibility (reproducing security findings, comparing published systems)
+- Location rotates (Santa Cruz 2023, Rennes 2024, Vancouver 2025, Delft 2026, Salt Lake City 2027); remote participation supported
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-22
+  location: Delft, Netherlands (Delft University of Technology)
+  url: https://acm-rep.github.io/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-17
+    time: "23:59"
+    tz: AoE
+    label: Abstract (extended from March 10)
+  - kind: submission
+    date: 2026-03-24
+    time: "23:59"
+    tz: AoE
+    label: Paper (extended from March 17)
+  - kind: notification
+    date: 2026-05-26
+  - kind: camera_ready
+    date: 2026-07-01
+- year: 2027
+  start: 2027-07-12
+  end: 2027-07-15
+  location: Salt Lake City, Utah, USA (University of Utah)
+  url: https://acm-rep.github.io/2027/
+sources:
+- https://acm-rep.github.io/
+- https://acm-rep.github.io/2024/
+- https://acm-rep.github.io/2025/
+- https://acm-rep.github.io/2025/cfp/
+- https://acm-rep.github.io/2026/
+- https://acm-rep.github.io/2026/cfp/
+- https://acm-rep.github.io/2027/
+- https://dl.acm.org/doi/proceedings/10.1145/3820002
+- https://portal.core.edu.au/conf-ranks/?search=Reproducibility&by=all&source=ICORE2026
+unverified:
+- ACM REP 2027 deadlines not yet announced
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-07

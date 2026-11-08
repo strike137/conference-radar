@@ -1,0 +1,52 @@
+id: hbai
+name: HBAI
+full_name: International Workshop on Human Brain and Artificial Intelligence
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers from Chinese universities (2026 chair Xinyu Zhao, Tsinghua University)
+organizer_country: [china]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://hbai2026.github.io/
+notes:
+- Workshop on NeuroAI (brain computing and brain-inspired computing) held with IJCAI in 2019, 2021, 2022, 2024 and 2026
+- Proceedings in Springer CCIS (HBAI 2019 CCIS 1072, 2021 CCIS 1369, 2022 CCIS 1757, 2024 CCIS 2225)
+- Double-blind review through OpenReview; at least one author must present in person
+- One-day workshop with invited talks, short oral presentations and a poster session
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-17
+  location: Bremen, Germany (with IJCAI 2026)
+  url: https://hbai2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    time: "23:59"
+    tz: AoE
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2026-07-01
+  - kind: camera_ready
+    date: 2026-07-13
+    time: "23:59"
+    tz: AoE
+sources:
+- https://hbai2026.github.io/
+- https://doi.org/10.1007/978-981-96-4001-0 (HBAI 2024 CCIS volume, via Crossref)
+- https://portal.core.edu.au/conf-ranks/?search=HBAI&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- The 2026 site lists the CCIS volumes of past editions and provides Springer proceedings templates, but does not name the series for the 2026 volume
+- Next edition not announced; the workshop has run at IJCAI every one or two years
+- CCF rank checked in the CCF 2026 list PDF mirrored by ccfddl (ccf.org.cn blocks automated access)
+last_verified: 2026-11-07

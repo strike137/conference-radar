@@ -1,0 +1,78 @@
+id: dataed
+name: DataEd
+full_name: International Workshop on Data Systems Education
+type: workshop
+tier: minor
+areas: [data]
+region: worldwide
+language: english
+frequency: annual
+organizer: DataEd Initiative (organizers from TU/e, University of Amsterdam and others)
+organizer_country: [international]
+proceedings: CEUR-WS (EDBT/ICDT Workshops volume)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3, 4]
+links:
+  website: https://dataedinitiative.github.io/
+notes:
+- Workshop on teaching and learning databases and data systems, bridging the database and computing education research communities
+- Co-located with ACM SIGMOD 2022 to 2025 (Philadelphia, Seattle, Santiago, Berlin) and with EDBT/ICDT since 2026 (Tampere 2026, Lille 2027)
+- Research papers, experience reports and artefact papers, up to 5 pages excluding references; single-anonymous review
+- Since 2026 papers appear in the CEUR-WS EDBT/ICDT workshops volume (Vol-4192 for 2026); the 2025 edition at SIGMOD used the ACM Digital Library
+- Abstract registration one week before the paper deadline
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-03-24
+  end: 2026-03-24
+  location: Tampere, Finland (co-located with EDBT/ICDT 2026)
+  url: https://dataedinitiative.github.io/DataEd26/index.html
+  deadlines:
+  - kind: abstract
+    date: 2025-12-12
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-12-19
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-02-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-13
+    tz: AoE
+- year: 2027
+  start: 2027-04-06
+  end: 2027-04-06
+  location: Lille, France (co-located with EDBT/ICDT 2027)
+  url: https://dataedinitiative.github.io/DataEd27/index.html
+  deadlines:
+  - kind: abstract
+    date: 2026-12-11
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-12-18
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-02-03
+    tz: AoE
+sources:
+- https://dataedinitiative.github.io/
+- https://dataedinitiative.github.io/DataEd27/index.html
+- https://dataedinitiative.github.io/DataEd27/submission.html
+- https://dataedinitiative.github.io/DataEd27/organization.html
+- https://dataedinitiative.github.io/DataEd26/index.html
+- https://dataedinitiative.github.io/DataEd26/submission.html
+- https://dataedinitiative.github.io/DataEd26/program.html
+- https://dataedinitiative.github.io/DataEd25/submission.html
+- https://ceur-ws.org/Vol-4192/
+- https://portal.core.edu.au/conf-ranks/?search=DataEd&by=all&source=ICORE2026
+unverified:
+- DataEd 2027 camera-ready is given only as end of February 2027
+- CEUR publication of DataEd 2027 papers is stated as pending approval
+last_verified: 2026-11-07

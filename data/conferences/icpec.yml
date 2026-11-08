@@ -1,0 +1,57 @@
+id: icpec
+name: ICPEC
+full_name: International Computer Programming Education Conference
+type: conference
+tier: minor
+areas: [software, general]
+region: europe
+language: english
+frequency: annual
+organizer: ICPEC steering committee (Portuguese universities and polytechnics; 2026 edition run by Algoritmi, University of Minho)
+organizer_country: [europe]
+proceedings: OASIcs (Schloss Dagstuhl)
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [4]
+  conference_months: [6, 7]
+links:
+  website: https://www.icpeconf.org/
+  dblp: https://dblp.org/db/conf/icpec
+notes:
+- Small conference on programming education (teaching tools, AI in education, pedagogy, gamification), held every year since 2020
+- Always held in Portugal (Vila do Conde 2023, Lisbon 2024, Porto 2025, Guimaraes 2026)
+- Proceedings in the open-access OASIcs series (Schloss Dagstuhl), indexed by Scopus and DBLP
+- Full papers 8-14 pages, short papers 6-8 pages, OASIcs template, submission via Microsoft CMT
+- Two submission calls in 2026; best paper invited to a journal special issue
+- "Registration fee: 195 EUR regular, 170 EUR student author (2026)"
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-11
+  end: 2026-06-12
+  location: Guimaraes, Portugal (University of Minho, Campus de Azurem)
+  url: https://www.icpeconf.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-12
+    label: 1st call
+  - kind: notification
+    date: 2026-05-01
+    label: 1st call
+  - kind: submission
+    date: 2026-04-30
+    label: 2nd call
+  - kind: notification
+    date: 2026-05-12
+    label: 2nd call
+  - kind: camera_ready
+    date: 2026-05-20
+sources:
+- https://www.icpeconf.org/
+- https://drops.dagstuhl.de/entities/conference/ICPEC
+- https://portal.core.edu.au/conf-ranks/?search=ICPEC&by=all&source=ICORE2026
+unverified:
+- 2027 edition not announced yet
+- No time zone given for the deadlines
+last_verified: 2026-11-07

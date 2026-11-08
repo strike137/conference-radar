@@ -1,0 +1,56 @@
+id: nisk
+name: NISK
+full_name: Norsk informasjonssikkerhetskonferanse (Norwegian Information Security Conference)
+name_local: Norsk informasjonssikkerhetskonferanse
+type: conference
+tier: domestic
+areas: [security]
+region: europe
+language: mixed
+frequency: annual
+organizer: NIKT-stiftelsen (NIKT Foundation), hosted by a different Norwegian university each year
+organizer_country: [europe]
+proceedings: NIKT Journal (open access, NTNU OJS)
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://nikt.org/nisk/
+notes:
+- Main annual Norwegian research conference on ICT security and privacy
+- One of four tracks of NIKT, the Norwegian ICT Conference for Research and Education (with NIK, NOKOBIT and UDIT)
+- Full papers (up to 16 pages) and short papers (up to 5 pages), double-blind review, LNCS format, English or Norwegian
+- Accepted papers appear in the open access NIKT Journal (ISSN 1892-0721, Norwegian level 1 channel); extended abstracts are not part of the proceedings
+- NISK 2025 proceedings had seven full articles and one short paper
+- Host rotates within Norway (Trondheim 2021, Kristiansand 2022, Stavanger 2023, Bergen 2024, Halden 2025)
+editions:
+- year: 2025
+  start: 2025-11-24
+  end: 2025-11-26
+  location: Halden, Norway (NIKT 2025, Østfold University College)
+  url: https://www.hiof.no/iio/itk/om/konferanser/NIKT2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-01
+  - kind: submission
+    date: 2025-09-26
+    label: Extended from 2025-09-08
+  - kind: notification
+    date: 2025-10-11
+  - kind: camera_ready
+    date: 2025-10-25
+sources:
+- https://nikt.org/
+- https://nikt.org/konferanser/
+- https://www.hiof.no/iio/itk/om/konferanser/NIKT2025/
+- https://www.hiof.no/iio/om/aktuelt/arrangementer/konferanser/NIKT2025/dates_no.html
+- https://www.hiof.no/iio/om/aktuelt/arrangementer/konferanser/NIKT2025/call-for-papers/nisk2025_cfp.pdf
+- https://www.ntnu.no/ojs/index.php/nikt
+- https://www.ntnu.no/ojs/index.php/nikt/issue/view/573
+- https://portal.core.edu.au/conf-ranks/?search=NISK&by=all&source=ICORE2026
+unverified:
+- NIKT 2026 host, dates and deadlines not found on nikt.org or the NIKT journal site
+- Notification and camera-ready dates are from the NISK 2025 CFP and may have moved after the deadline extension
+- Not listed in ICORE2026 or the CCF 2026 list
+last_verified: 2026-11-07

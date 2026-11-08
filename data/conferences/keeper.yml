@@ -1,0 +1,49 @@
+id: keeper
+name: KEEPER
+full_name: Workshop on Knowledge Elicitation, Externalization, and Preservation for Expert Repositories
+type: workshop
+tier: minor
+areas: [data, nlp, ai]
+region: europe
+language: english
+organizer: KEEPER organizers (Deggendorf Institute of Technology AI4CARE, University of Passau, Ansbach University of Applied Sciences)
+organizer_country: [europe]
+proceedings: CEUR-WS (intended; Zenodo as fallback)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://cikm-keeper.ai4care.de/
+notes:
+- Workshop on eliciting, externalizing, integrating and preserving implicit expert knowledge with human-in-the-loop AI (LLM interviewing, knowledge graphs, organizational memory)
+- 1st edition at ACM CIKM 2026 in Rome, half-day morning workshop
+- Open-access proceedings (CC BY 4.0) intended with CEUR-WS; Zenodo with DOIs if CEUR-WS is not possible
+- Full papers 5-12 pages in the single-column CEURART template, double-blind review via EasyChair
+- Fully on-site; no hybrid or remote presentation
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-08
+  location: Rome, Italy (co-located with ACM CIKM 2026)
+  url: https://cikm-keeper.ai4care.de/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-09-23
+    time: "23:59"
+    tz: AoE
+sources:
+- https://cikm-keeper.ai4care.de/
+- https://cikm2026.diag.uniroma1.it/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=KEEPER&by=all&source=ICORE2026
+unverified:
+- Camera-ready date not announced on the official site
+- CEUR-WS volume not yet published as of 2026-11-07
+- 2027 edition not announced as of 2026-11-07
+last_verified: 2026-11-07

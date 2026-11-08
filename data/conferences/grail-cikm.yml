@@ -1,0 +1,55 @@
+id: grail-cikm
+name: GRAIL
+full_name: Workshop on Generative, Retrieval-augmented, and Agentic Intelligence for Personalization
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+organizer: Workshop organizers (Airbnb, Amazon, Google DeepMind, Missouri S&T, University of Sheffield, Emory University); co-located with ACM CIKM
+organizer_country: [usa, europe]
+proceedings: Workshop website (PDFs of accepted papers, non-archival)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://grail2026.github.io/
+notes:
+- Half-day workshop on generative, retrieval-augmented and agentic approaches to recommendation and personalization
+- Co-located with ACM CIKM 2026 in Rome (Sapienza University of Rome), listed among the CIKM 2026 accepted workshops
+- Organizing team mixes industry (Airbnb, Amazon, Google DeepMind, Disney, Thumbtack) and academia
+- Papers are non-archival; accepted papers are posted as PDFs on the workshop website
+- Full papers up to 8 pages, short papers up to 4 pages (plus references and appendix), ACM double-column template, single-blind review via EasyChair
+- At least three reviews per paper; at least one author must present in person in Rome
+- 2026 submission deadline was extended from 24 August to 28 August 2026
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+- Unrelated to the MICCAI GRAIL workshop on graphs in biomedical image analysis (id grail)
+editions:
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-08
+  location: Rome, Italy (co-located with ACM CIKM 2026)
+  url: https://grail2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-28
+    time: "23:59"
+    tz: AoE
+    label: Extended from August 24
+  - kind: notification
+    date: 2026-09-23
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-05
+    time: "23:59"
+    tz: AoE
+sources:
+- https://grail2026.github.io/
+- https://cikm2026.diag.uniroma1.it/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=GRAIL&by=all&source=ICORE2026
+unverified:
+- Only one edition found so far; region and frequency follow the 2026 edition
+- DBLP page not checked
+last_verified: 2026-11-08

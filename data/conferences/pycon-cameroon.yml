@@ -1,0 +1,48 @@
+id: pycon-cameroon
+name: PyCon Cameroon
+full_name: PyCon Cameroon
+type: industry
+tier: minor
+areas: [software, ai]
+region: africa
+language: mixed
+organizer: Python Cameroon
+organizer_country: [other]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://cm.pycon.org/2026/
+notes:
+- Python community conference run by Python Cameroon; website in English and French
+- 2026 was the first PyCon held in Cameroon
+- 2026 edition was three days of talks and workshops (3 hour hands-on workshops, regular talks, panels) at the Girafe Hotel, Yaounde
+- 2026 added a dedicated Ubuntu and open source track co-organized with UbuCon Cameroon, plus a Django track
+- Proposals via Sessionize; in-person talks only, at most two proposals per person, proposals largely written by AI are rejected
+- Talks only, no papers or proceedings
+editions:
+- year: 2026
+  start: 2026-09-17
+  end: 2026-09-19
+  location: Girafe Hotel, Elig-Essono, Yaounde, Cameroon
+  url: https://cm.pycon.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    time: "23:59"
+    tz: UTC+1
+    label: Call for proposals (talks, workshops; WAT)
+  - kind: notification
+    date: 2026-05-30
+    label: Speaker announcement
+sources:
+- https://cm.pycon.org/2026/
+- https://pycon.pythoncameroon.org
+- https://pycon.org/
+- https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced on the official site as of 2026-11-07; frequency not stated
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-11-07

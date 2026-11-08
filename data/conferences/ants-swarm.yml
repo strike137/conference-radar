@@ -1,0 +1,58 @@
+id: ants-swarm
+name: ANTS
+full_name: "ANTS: International Conference on Swarm Intelligence"
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer: ANTS conference series (local host university; TU Darmstadt in 2026)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [6, 10]
+links:
+  website: https://www.ants2026.org/
+notes:
+- Single-track, selective conference on swarm intelligence held since 1998 (ant colony optimization, swarm robotics, collective behavior, PSO)
+- Every two years; held in Brussels from 2002 to 2016; recent editions in Barcelona 2020, Malaga 2022, Konstanz 2024 and Darmstadt 2026
+- Proceedings in Springer LNCS (Swarm Intelligence volumes)
+- Full papers 7 to 11 pages and short papers up to 7 pages in LNCS format; extended versions of selected papers go to a special issue of the Swarm Intelligence journal
+- Separate call for Late Breaking Results and Fresh Perspectives (poster session, open to any discipline)
+- ANTS 2028 was announced at ANTS 2026; dates not yet on an official page
+- Not to be confused with ICSI (International Conference on Swarm Intelligence, China) or IEEE ANTS (networking)
+editions:
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-10
+  location: darmstadtium, Darmstadt, Germany (TU Darmstadt)
+  url: https://www.ants2026.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-20
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-11-10
+  - kind: notification
+    date: 2026-01-30
+  - kind: camera_ready
+    date: 2026-02-13
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-04-03
+    time: "23:59"
+    tz: AoE
+    label: Late Breaking Results and Fresh Perspectives (extended)
+sources:
+- https://www.ants2026.org/
+- https://link.springer.com/conference/antsw
+- https://link.springer.com/book/10.1007/978-3-032-26123-6
+- https://portal.core.edu.au/conf-ranks/?search=ANTS&by=all&source=ICORE2026
+unverified:
+- ANTS 2028 dates and location not announced on an official page yet
+- Not listed in ICORE2026 or the CCF 2026 list
+last_verified: 2026-11-07

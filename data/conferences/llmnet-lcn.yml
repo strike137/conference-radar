@@ -1,0 +1,56 @@
+id: llmnet-lcn
+name: LLMNet
+full_name: IEEE LCN Special Track on Large Language Models and Networking
+type: workshop
+tier: minor
+areas: [networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: LLMNet track chairs (University of Sydney, University College Dublin) as a special track of IEEE LCN
+organizer_country: [international]
+proceedings: IEEE Xplore (IEEE LCN Companion Proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://llmnet.nss-research.io/
+notes:
+- Special track of the IEEE Conference on Local Computer Networks (LCN) on large language models for and in networking
+- First held at LCN 2025 (Sydney), second at LCN 2026 (Coimbra)
+- Accepted papers appear in the IEEE LCN Companion Proceedings in IEEE Xplore
+- Papers up to 6 pages excluding references in two-column IEEE format, double-blind review, submission via EDAS
+- One author of each accepted paper must register and present; the LCN no-show policy applies
+- 2026 program had six papers, an invited talk and a community discussion
+- Location follows LCN
+- Not listed in CORE ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-09
+  end: 2026-10-09
+  location: Coimbra, Portugal (with IEEE LCN 2026)
+  url: https://llmnet.nss-research.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-22
+    tz: AoE
+    label: Paper registration (extended; originally 2026-06-08)
+  - kind: submission
+    date: 2026-06-22
+    tz: AoE
+    label: Papers (firm; originally 2026-06-15)
+  - kind: notification
+    date: 2026-08-06
+  - kind: camera_ready
+    date: 2026-08-19
+sources:
+- https://llmnet.nss-research.io/
+- https://llmnet.nss-research.io/llmnet-special-track-program-2/
+- https://www.ieeelcn.org/Author_SpecialTracks.html
+- https://www.ieeelcn.org/
+- https://portal.core.edu.au/conf-ranks/?search=LLMNet&by=all&source=ICORE2026
+unverified:
+- LLMNet 2027 not announced yet
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-07

@@ -1,0 +1,53 @@
+id: tensor-kdd
+name: TensorKDD
+full_name: Workshop on Interplay of Classical Tensor Methods and Foundation Models
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+organizer: Workshop organizers from Seoul National University, KAIST, DGIST and UC Riverside
+organizer_country: [korea, usa]
+proceedings: None (non-archival; not in the KDD proceedings)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://tensorkddworkshop.github.io/
+notes:
+- Half-day workshop on tensor methods for modern machine learning and foundation models, held with ACM SIGKDD
+- First edition at KDD 2026 in Jeju, Korea (August 9, 2026, afternoon)
+- Papers up to 4 pages (excluding references) in the KDD 2026 ACM format, double-blind review via OpenReview
+- Non-archival; previously published or concurrently submitted work is welcome
+- Accepted papers are presented as posters, with a few selected for oral talks; in-person attendance required
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: With KDD 2026
+  start: 2026-08-09
+  end: 2026-08-09
+  location: Jeju, Korea (with KDD 2026)
+  url: https://tensorkddworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-30
+  - kind: notification
+    date: 2026-06-11
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-22
+    time: "23:59"
+    tz: AoE
+sources:
+- https://tensorkddworkshop.github.io/
+- https://tensorkddworkshop.github.io/data/overview.json
+- https://kdd2026.kdd.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=Tensor&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of 2026-11-07
+last_verified: 2026-11-07

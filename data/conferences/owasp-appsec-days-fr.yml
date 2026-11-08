@@ -1,0 +1,50 @@
+id: owasp-appsec-days-fr
+name: AppSec Days France
+full_name: OWASP AppSec Days France
+type: industry
+tier: minor
+areas: [security, software]
+region: europe
+language: mixed
+frequency: annual
+organizer: OWASP France Chapter
+organizer_country: [europe]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://www.owaspappsecdays.fr/
+notes:
+- One-day application security conference of the OWASP France Chapter, held in Paris since 2025
+- Both editions so far were held at La Maison des Associations et de la Solidarite, Paris 13e
+- Around 150 security professionals expected; talks in French or English
+- Call for presentations via Sessionize; 20 minute lightning talks and 45 minute sessions, in person only
+- No proceedings; practitioner talks only
+editions:
+- year: 2025
+  start: 2025-09-23
+  end: 2025-09-23
+  location: Paris, France
+  url: https://www.owaspappsecdays.fr/2025/fr/index.html
+- year: 2026
+  start: 2026-09-24
+  end: 2026-09-24
+  location: La Maison des Associations et de la Solidarite, Paris, France
+  url: https://www.owaspappsecdays.fr/2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-05-07
+    time: "23:59"
+    tz: CEST
+    label: Call for speakers closes
+sources:
+- https://www.owaspappsecdays.fr/2026/index.html
+- https://www.owaspappsecdays.fr/2025/fr/index.html
+- https://sessionize.com/owasp-appsec-days-france-2026
+- https://portal.core.edu.au/conf-ranks/?search=OWASP&by=all&source=ICORE2026
+unverified:
+- 2027 edition not yet announced on the official site
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+last_verified: 2026-11-07

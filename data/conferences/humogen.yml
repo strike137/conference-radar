@@ -1,0 +1,54 @@
+id: humogen
+name: HuMoGen
+full_name: Workshop on Human Motion Generation
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: HuMoGen workshop organizing committee; co-located with CVPR
+organizer_country: [international]
+proceedings: CVPR Workshops proceedings (CVF Open Access, IEEE Xplore)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://humogen.github.io/
+notes:
+- Workshop on generative human motion synthesis (character animation, AR/VR, robotics learning, co-speech gestures, interaction motion)
+- Held with CVPR since 2024 (Seattle 2024, Nashville 2025, Denver 2026); 2026 was the third edition
+- Full papers up to 8 pages in the CVPR format, double-blind, single-stage review on OpenReview without rebuttal
+- Accepted full papers go into the CVPR Workshops proceedings (listed in CVF Open Access)
+- Separate call for 1-page abstracts of already published work, presented as posters
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 3rd HuMoGen, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://humogen.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-14
+    time: "23:59"
+    tz: PDT
+    label: Full papers (extended from March 7)
+  - kind: notification
+    date: 2026-03-24
+    label: Extended from March 19
+  - kind: camera_ready
+    date: 2026-04-10
+  - kind: other
+    date: 2026-05-10
+    label: 1-page abstracts of accepted or published work (poster only)
+sources:
+- https://humogen.github.io/
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://openaccess.thecvf.com/CVPR2025_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=HuMoGen&by=all&source=ICORE2026
+unverified:
+- Next edition (2027) not announced yet
+last_verified: 2026-11-07

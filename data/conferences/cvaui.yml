@@ -1,0 +1,81 @@
+id: cvaui
+name: Marine Vision (CVAUI)
+full_name: Workshop on Marine Vision (joint Workshop on Computer Vision for Analysis of Underwater Imagery and Automated Analysis of Marine Visual Data for Environmental Monitoring)
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Organizing committee (Aalborg University, GEOMAR, Kitware, University of Victoria and others)
+organizer_country: [europe, usa, canada]
+proceedings: Springer LNCS (ECCV Workshops proceedings) or CVF Open Access (ICCV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://vap.aau.dk/marinevision/
+notes:
+- Workshop on computer vision for underwater and marine environments, from underwater image formation to fish and coral monitoring
+- Merges the CVAUI series (earlier held with ICPR, latest ICPR 2022) and the AAMVEM series (CVPR 2018, CVPR 2019)
+- Joint Workshop on Marine Vision at ICCV 2025 (6th CVAUI, 3rd AAMVEM); 2nd Workshop on Marine Vision at ECCV 2026 (7th CVAUI, 4th AAMVEM)
+- Full papers get double-blind review by 2 to 3 reviewers on OpenReview and appear in the host conference workshop proceedings
+- ECCV 2026 full papers up to 14 pages in Springer LNCS style; short papers are on OpenReview only and a Nectar track for already published work is non-archival
+- In-person presentation is mandatory for accepted papers
+- Distinct from MaCVi (Maritime Computer Vision workshop)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: Joint Workshop on Marine Vision, with ICCV 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, USA
+  url: https://vap.aau.dk/marinevision/marine25/
+  deadlines:
+  - kind: submission
+    date: 2025-07-01
+    tz: UTC
+    label: Full papers (extended)
+  - kind: notification
+    date: 2025-07-11
+  - kind: camera_ready
+    date: 2025-08-18
+- year: 2026
+  label: 2nd Workshop on Marine Vision, with ECCV 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmö, Sweden
+  url: https://vap.aau.dk/marinevision/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    tz: UTC
+    label: Full papers (extended)
+  - kind: other
+    date: 2026-07-31
+    tz: UTC
+    label: Short papers (OpenReview only)
+  - kind: notification
+    date: 2026-08-06
+  - kind: camera_ready
+    date: 2026-08-13
+  - kind: other
+    date: 2026-08-14
+    tz: UTC
+    label: Nectar track (non-archival)
+sources:
+- https://vap.aau.dk/marinevision/
+- https://vap.aau.dk/marinevision/call-for-papers/
+- https://vap.aau.dk/marinevision/call-for-abstracts/
+- https://vap.aau.dk/marinevision/nectar-track/
+- https://vap.aau.dk/marinevision/papers/
+- https://vap.aau.dk/marinevision/organizing-committee/
+- https://vap.aau.dk/marinevision/marine25/
+- https://vap.aau.dk/marinevision/marine25/call-for-papers
+- https://openaccess.thecvf.com/ICCV2025_workshops/menu
+- https://iccv.thecvf.com/virtual/2025/workshop/2825
+- https://portal.core.edu.au/conf-ranks/?search=CVAUI&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of November 2026
+last_verified: 2026-11-07

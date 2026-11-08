@@ -1,0 +1,81 @@
+id: ic2ai
+name: IC2AI
+full_name: International Conference on Control, Automation and Instrumentation
+type: conference
+tier: minor
+areas: [general, systems]
+region: middle-east
+language: english
+frequency: irregular
+organizer: IEEE Joint RA/IM/CS Lebanon Chapter and Lebanese IFAC Chapter
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, EI]
+typical:
+  deadline_months: [11]
+  conference_months: [2, 3]
+links:
+  website: https://www.ic2ai.org/
+notes:
+- Official scientific conference of the IEEE Joint RA/IM/CS Lebanon Chapter and the Lebanese IFAC Chapter; 2027 is the second edition
+- Technical co-sponsors for 2027 are IEEE RAS, IEEE CSS, IEEE IMS, IFAC and the IEEE Lebanon Section
+- Proceedings in IEEE Xplore (2025 volume online); the site states Scopus and EI Compendex indexing
+- Single-blind review by at least two TPC members; IEEE two-column papers of 4 to 6 pages, submitted via EDAS
+- At least one author per accepted paper must register at the full rate and present
+- Held in Lebanon so far (La Sagesse University, Beirut 2025; LAU Byblos 2027); two years between the first two editions
+- Topics cover control theory, industrial automation, robotics, instrumentation, AI and machine learning in control, IoT
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2025
+  start: 2025-02-11
+  end: 2025-02-13
+  location: La Sagesse University, Beirut, Lebanon
+  url: https://lreee.org/ic2ai/
+  deadlines:
+  - kind: submission
+    date: 2024-12-08
+    label: Full papers (extended from 2024-10-25)
+  - kind: notification
+    date: 2024-12-28
+  - kind: camera_ready
+    date: 2025-01-15
+- year: 2027
+  start: 2027-03-17
+  end: 2027-03-19
+  location: Lebanese American University (LAU), Byblos Campus, Lebanon
+  url: https://www.ic2ai.org/
+  deadlines:
+  - kind: other
+    date: 2026-11-01
+    time: "23:59"
+    tz: AoE
+    label: Special session and tutorial/workshop proposals
+  - kind: submission
+    date: 2026-11-20
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2027-01-15
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-02-05
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.ic2ai.org/
+- https://www.ic2ai.org/about.html
+- https://www.ic2ai.org/cfp.html
+- https://www.ic2ai.org/dates.html
+- https://www.ic2ai.org/submission.html
+- https://www.ic2ai.org/history-2025.html
+- https://lreee.org/ic2ai/
+- https://ieeexplore.ieee.org/xpl/conhome/10931857/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=IC2AI&by=all&source=ICORE2026
+unverified:
+- The 2027 submission page body text gives a camera-ready date of 2026-12-20, while its Key Deadlines box and the Important Dates page give 2027-02-05; the Important Dates page is used
+- 2025 deadline time zone not stated; frequency after 2027 not announced
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

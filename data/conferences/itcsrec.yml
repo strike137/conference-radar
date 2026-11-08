@@ -1,0 +1,60 @@
+id: itcsrec
+name: ITCSREC
+full_name: International and Transnational Computer Science Research and Education Conference
+type: conference
+tier: minor
+areas: [general]
+region: oceania
+language: english
+frequency: annual
+organizer: Part of the Australasian Computer Science Week (ACSW), jointly sponsored by CORE and ACDICT
+organizer_country: [australia, new-zealand]
+proceedings: ACM DL (ACM ICPS, ACSW proceedings)
+archival: true
+indexing: [ACM DL]
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://itcsrec.github.io/
+notes:
+- New conference within ACSW; first edition in 2026 (Melbourne), second in 2027 (ANU Canberra)
+- Topic is international and transnational CS/IT education and research collaboration (offshore campuses, joint programs, curricula, cross-cultural teaching)
+- Double-blind review; full papers up to 8 pages and short papers 2 to 4 pages, ACM template, EasyChair
+- Accepted papers published in the ACM Digital Library as part of the ACSW proceedings; authors outside ACM Open may have to pay an APC
+- Track chairs from Deakin University and the University of Auckland
+- Not found in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  label: 1st ITCSREC (ACSW 2026)
+  start: 2026-02-10
+  end: 2026-02-10
+  location: Melbourne, Australia (Deakin City Campus)
+  url: https://acsw.core.edu.au/2026-program
+- year: 2027
+  label: 2nd ITCSREC (ACSW 2027)
+  start: 2027-02-01
+  end: 2027-02-05
+  location: Canberra, Australia (Australian National University)
+  url: https://itcsrec.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-11-27
+    tz: AEST
+    label: Papers (extended from 2026-11-15)
+  - kind: notification
+    date: 2026-12-15
+    tz: AEST
+  - kind: camera_ready
+    date: 2026-12-20
+    tz: AEST
+sources:
+- https://itcsrec.github.io/
+- https://acsw.core.edu.au/
+- https://acsw.core.edu.au/2026-acsw
+- https://acsw.core.edu.au/2026-program
+- https://portal.core.edu.au/conf-ranks/?search=ITCSREC&by=all&source=ICORE2026
+unverified:
+- ITCSREC 2026 deadlines (the official site now shows only the 2027 edition)
+- 2027 dates are the ACSW week; the exact ITCSREC day is not announced yet
+last_verified: 2026-11-07

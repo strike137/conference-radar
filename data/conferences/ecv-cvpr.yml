@@ -1,0 +1,51 @@
+id: ecv-cvpr
+name: ECV
+full_name: Workshop on Efficient Deep Learning for Computer Vision
+type: workshop
+tier: minor
+areas: [vision, ai, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Qualcomm, Purdue University, University of Central Florida, NVIDIA, Meta); co-located with CVPR
+organizer_country: [usa]
+proceedings: CVF Open Access and IEEE Xplore (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://ecv-workshop.github.io/
+notes:
+- CVPR workshop on efficient computer vision for mobile, wearable, edge and robotics devices; 9th edition in 2026
+- Short papers (up to 4 pages) and long papers (up to 8 pages) excluding references, CVPR format, double-blind review via Microsoft CMT
+- Accepted papers are published in the CVPR Workshops proceedings
+- Hosts the IEEE Low-Power Computer Vision Challenge (LPCVC), sponsored by Qualcomm and the IEEE Computer Society
+- Different from the MAI (Mobile AI) workshop at CVPR
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://ecv-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-06
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2026-03-20
+  - kind: camera_ready
+    date: 2026-04-10
+    time: "23:59"
+    tz: PST
+sources:
+- https://ecv-workshop.github.io/
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://openaccess.thecvf.com/CVPR2026_workshops/ECV
+- https://openaccess.thecvf.com/CVPR2024_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=ECV&by=all&source=ICORE2026
+unverified:
+- Next edition (ECV 2027) not announced yet
+last_verified: 2026-11-07

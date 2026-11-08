@@ -1,0 +1,61 @@
+id: essa
+name: ESSA
+full_name: International Workshop on Extreme-Scale Storage and Analysis
+type: workshop
+tier: minor
+areas: [systems, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE IPDPS workshop; 2026 chairs from Nanyang Technological University and Inria
+organizer_country: [singapore, europe]
+proceedings: IEEE Xplore (IPDPS Workshops)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://sites.google.com/view/essa-2026/
+notes:
+- Workshop co-located with IEEE IPDPS since 2020; called HPS (International Workshop on High Performance Storage) in 2020 and 2021, ESSA since 2022
+- IPDPS workshop papers are submitted to IEEE Xplore after the conference
+- 'Topics: storage and I/O for HPC, cloud and edge, I/O libraries, data reduction and compression, in-situ processing, I/O for machine learning workloads'
+- Regular papers up to 8 pages and short papers up to 5 pages, excluding references; IEEE conference format, not anonymous
+- Submission through the IPDPS Linklings portal; deadlines AoE, and the 2026 deadline was extended by two weeks
+- Half-day workshop in 2027 (Tuesday afternoon of IPDPS week)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  label: ESSA 2026 (7th)
+  start: 2026-05-26
+  end: 2026-05-26
+  location: New Orleans, USA (with IPDPS 2026)
+  url: https://sites.google.com/view/essa-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-06
+    tz: AoE
+    label: Extended from 2026-01-23
+  - kind: notification
+    date: 2026-02-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-06
+    tz: AoE
+- year: 2027
+  label: ESSA 2027 (8th)
+  start: 2027-06-01
+  end: 2027-06-01
+  location: Bellevue (Seattle), USA (with IPDPS 2027)
+  url: https://www.ipdps.org/ipdps2027/2027-workshops.html
+sources:
+- https://sites.google.com/view/essa-2026/
+- https://sites.google.com/view/essa-2026/cfp
+- https://sites.google.com/view/essa-2026/previous-editions
+- https://www.ipdps.org/ipdps2026/2026-workshops.html
+- https://www.ipdps.org/ipdps2027/2027-workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=ESSA&by=all&source=ICORE2026
+unverified:
+- ESSA 2027 call for papers and deadlines not yet published (IPDPS 2027 lists it as a half-day workshop on June 1, 2027)
+- Acceptance rate not published
+last_verified: 2026-11-07

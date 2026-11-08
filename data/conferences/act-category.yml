@@ -1,0 +1,64 @@
+id: act-category
+name: ACT
+full_name: International Conference on Applied Category Theory
+type: conference
+tier: minor
+areas: [general, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Applied Category Theory community (local organizers each year)
+organizer_country: [international]
+proceedings: EPTCS (Electronic Proceedings in Theoretical Computer Science)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://www.appliedcategorytheory.org/
+notes:
+- Annual conference on applications of category theory in computer science, logic, semantics, physics and other sciences
+- Held since 2018 (Leiden); hosts alternate between Europe and North America (Cambridge 2021, Strathclyde 2022, Maryland 2023, Oxford 2024, Florida 2025, Tallinn 2026)
+- Preceded by the Adjoint School research week for students
+- Three submission types; original papers (up to 12 pages, considered for talk and proceedings), talk proposals and software demos (1 to 2 page abstracts, not published)
+- Proceedings papers appear in EPTCS (ACT 2025 is EPTCS volume 442); single-blind review
+- "Registration fees 2025: 140 USD students, 300 USD academics, 700 USD industry"
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-06-02
+  end: 2025-06-06
+  location: Gainesville, FL, USA (University of Florida)
+  url: https://gataslab.org/act2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-02-26
+    tz: AoE
+    label: Title and brief abstract
+  - kind: submission
+    date: 2025-03-03
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-04-07
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-19
+    tz: AoE
+    label: Pre-proceedings ready versions
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-10
+  location: Tallinn, Estonia
+  url: https://compose.ioc.ee/act2026/
+sources:
+- https://www.appliedcategorytheory.org/
+- https://gataslab.org/act2025/
+- https://gataslab.org/act2025/cfp/index.html
+- https://eptcs.web.cse.unsw.edu.au/published.cgi
+- https://cgi.cse.unsw.edu.au/~eptcs/forthcoming.cgi
+- https://portal.core.edu.au/conf-ranks/?search=ACT&by=all&source=ICORE2026
+unverified:
+- ACT 2026 deadlines not recorded; the official ACT 2026 site (compose.ioc.ee/act2026) did not respond on 2026-11-07
+- ACT 2027 host and dates not announced on the series site as of 2026-11-07
+last_verified: 2026-11-07

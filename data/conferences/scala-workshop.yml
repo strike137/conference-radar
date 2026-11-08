@@ -1,0 +1,68 @@
+id: scala-workshop
+name: Scala Workshop
+full_name: The Scala Workshop
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: EPFL LAMP (Scala Workshop organizers)
+organizer_country: [europe]
+proceedings: Workshop website (talk proposals as informal post-proceedings)
+archival: false
+typical:
+  deadline_months: [3, 7]
+  conference_months: [6, 10]
+links:
+  website: https://2026.workshop.scala-lang.org
+notes:
+- Workshop on the design, implementation and applications of the Scala programming language; continuation of the ACM SIGPLAN Scala Symposium (last held 2022)
+- Since 2025 a talk-proposal format; submissions are anonymous 2-page summaries in the ACM sigplan template
+- Accepted talk proposals appear as post-proceedings on the workshop website only (non-archival)
+- Co-located with a PL conference that changes yearly (ICFP/SPLASH 2025 in Singapore, ECOOP 2026 in Brussels)
+- No edition in 2023 or 2024
+- Organized by EPFL LAMP, the group behind Scala; keynotes by Martin Odersky and Li Haoyi in 2025
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-14
+  location: Singapore (co-located with ICFP/SPLASH 2025)
+  url: https://2025.splashcon.org/home/scala-2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-18
+    tz: AoE
+    label: Talk proposals
+  - kind: notification
+    date: 2025-08-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-08-31
+    tz: AoE
+- year: 2026
+  start: 2026-06-29
+  end: 2026-06-29
+  location: Brussels, Belgium (co-located with ECOOP 2026, Vrije Universiteit Brussel)
+  url: https://2026.workshop.scala-lang.org
+  deadlines:
+  - kind: submission
+    date: 2026-03-23
+    tz: AoE
+    label: Talk proposals
+  - kind: notification
+    date: 2026-04-13
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-27
+    tz: AoE
+sources:
+- https://2025.splashcon.org/home/scala-2025
+- https://2026.workshop.scala-lang.org
+- https://conf.researchr.org/series/scala
+- https://portal.core.edu.au/conf-ranks/?search=Scala&by=all&source=ICORE2026
+unverified:
+- No Scala Workshop 2027 announced as of 2026-11-07
+- Acceptance rate not found on an official page
+last_verified: 2026-11-07

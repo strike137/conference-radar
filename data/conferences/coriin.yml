@@ -1,0 +1,55 @@
+id: coriin
+name: CoRIIN
+full_name: Conférence sur la Réponse aux Incidents et l'Investigation Numérique
+type: industry
+tier: domestic
+areas: [security]
+region: europe
+frequency: annual
+organizer: CECyF (Centre expert contre la cybercriminalité français)
+organizer_country: [europe]
+proceedings: None (slides posted online)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [3, 4]
+links:
+  website: https://www.cecyf.fr/coriin/
+notes:
+- One-day French conference on incident response and digital forensics run by CECyF; held every year since 2015 (2026 is the 12th)
+- Held in Lille on the first day of Forum InCyber (formerly FIC); Forum InCyber registration is required plus a CoRIIN fee
+- 30 minute talks selected by a programme committee; optional articles of 5 to 20 pages and posters
+- Audience of law enforcement investigators, court experts, CERT and incident response staff, academics and lawyers
+- Slides of many talks are posted as PDF on the CECyF edition pages; website and CFP are in French
+- Not in the ICORE2026 portal and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-04-01
+  end: 2025-04-01
+  location: Lille Grand Palais, Lille, France
+  url: https://www.cecyf.fr/coriin/coriin-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-01-20
+- year: 2026
+  start: 2026-03-31
+  end: 2026-03-31
+  location: Lille Grand Palais, Lille, France
+  url: https://www.cecyf.fr/coriin/coriin-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-14
+    time: "20:00"
+    tz: CET
+    label: Extended from 2026-01-07
+sources:
+- https://www.cecyf.fr/coriin/coriin-2026/
+- https://cfp.cecyf.fr/coriin2026/cfp
+- https://www.cecyf.fr/coriin/coriin-2025/
+- https://www.cecyf.fr/coriin/coriin-2024/
+- https://portal.core.edu.au/conf-ranks/?search=CoRIIN&by=all&source=ICORE2026
+unverified:
+- The CFP invites optional 5 to 20 page articles in a publication format, but no page says where they are published
+- Notification dates are not published
+- CoRIIN 2027 not yet announced as of 2026-11-07
+last_verified: 2026-11-07

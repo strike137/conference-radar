@@ -1,0 +1,73 @@
+id: iadis-is
+name: IADIS IS
+full_name: IADIS International Conference on Information Systems
+type: conference
+tier: minor
+areas: [general, data]
+region: europe
+language: english
+frequency: annual
+organizer: IADIS (International Association for Development of the Information Society)
+organizer_country: [europe]
+proceedings: IADIS Digital Library (proceedings with a DOI per paper via Crossref)
+archival: true
+typical:
+  deadline_months: [11, 1]
+  conference_months: [3]
+links:
+  website: https://www.is-conf.org/
+notes:
+- Run by IADIS since 2008; blind peer review
+- Information systems from a socio-technological perspective (design, use and teaching of IS in organisations)
+- Proceedings in the IADIS Digital Library, a DOI per paper via Crossref
+- Best papers invited to the IADIS Journal on WWW/Internet and the IADIS Journal on Computer Science and Information Systems
+- Several calls for papers per edition; the last call closes about two months before the conference
+- Held in Europe (Porto 2024, Madeira 2025, Zagreb 2026, Porto 2027)
+- Not listed in ICORE2026 or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-07
+  end: 2026-03-09
+  location: Zagreb, Croatia
+  url: https://www.is-conf.org/oldconferences/2026/
+  deadlines:
+  - kind: camera_ready
+    date: 2025-12-08
+    label: 1st CFP (camera ready and early registration)
+  - kind: submission
+    date: 2026-01-09
+    label: Last CFP
+  - kind: notification
+    date: 2026-02-02
+    label: Last CFP
+- year: 2027
+  start: 2027-03-13
+  end: 2027-03-15
+  location: Porto, Portugal
+  url: https://www.is-conf.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+    label: 1st CFP extension
+  - kind: camera_ready
+    date: 2026-12-11
+    label: 1st CFP (camera ready and early registration)
+  - kind: notification
+    date: 2026-12-18
+    label: 1st CFP extension
+sources:
+- https://www.is-conf.org/
+- https://www.is-conf.org/important-dates/
+- https://www.is-conf.org/publications/
+- https://www.is-conf.org/host-city/
+- https://www.is-conf.org/previous-editions/
+- https://www.is-conf.org/oldconferences/2026/
+- https://www.is-conf.org/oldconferences/2026/important-dates/
+- https://www.is-conf.org/oldconferences/2026/location/
+- https://www.is-conf.org/oldconferences/2025/
+- https://www.is-conf.org/oldconferences/2024/
+- https://portal.core.edu.au/conf-ranks/?search=IADIS&by=all&source=ICORE2026
+unverified:
+- IS 2027 last-CFP deadline not yet shown on the important dates page
+- Indexing not confirmed; the site says proceedings will be submitted (pending approval) to indexing services
+last_verified: 2026-11-07

@@ -1,0 +1,62 @@
+id: cdve
+name: CDVE
+full_name: International Conference on Cooperative Design, Visualization and Engineering
+type: conference
+tier: minor
+areas: [general, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: CDVE organizers (University of the Balearic Islands with the host university)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+indexing: [Scopus, DBLP, EI]
+rank:
+  core: C
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9]
+links:
+  website: http://www.cdve.org
+  dblp: https://dblp.org/db/conf/cdve/index.html
+notes:
+- Small conference on computer supported cooperative work in design, cooperative visualization and cooperative engineering, held since 2004
+- Proceedings in Springer LNCS; full papers 12 pages, short papers 6 pages; double-blind review
+- Two submission rounds (first and second call); poster abstracts are not in the proceedings
+- Technical sponsor is the IEEE SMC Visual Analytics and Communication Technical Committee
+- Often held in Mallorca, Spain; recently Valencia 2024, Bangkok 2025, Lueneburg 2026
+- Extended papers can go to MDPI journal special issues
+- "CORE rank: C (ICORE2026)"
+editions:
+- year: 2026
+  start: 2026-09-21
+  end: 2026-09-23
+  location: Leuphana University, Lueneburg, Germany
+  url: http://www.cdve.org
+  deadlines:
+  - kind: submission
+    date: 2026-04-10
+    label: First call
+  - kind: notification
+    date: 2026-05-20
+    label: First call
+  - kind: submission
+    date: 2026-05-10
+    label: Second call
+  - kind: notification
+    date: 2026-05-30
+    label: Second call
+  - kind: camera_ready
+    date: 2026-06-25
+sources:
+- http://www.cdve.org
+- http://www.cdve.org/dates.html
+- http://www.cdve.org/submit.html
+- http://www.cdve.org/publication.html
+- https://link.springer.com/conference/cdve
+- https://portal.core.edu.au/conf-ranks/?search=CDVE&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CDVE 2027 not announced yet
+last_verified: 2026-11-07

@@ -1,0 +1,61 @@
+id: elex
+name: eLex
+full_name: Electronic Lexicography in the 21st Century (eLex) Conference
+type: conference
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: biennial
+organizer: eLex organizing committee (Trojina, Lexical Computing, EKI, UCLouvain) with a local host
+organizer_country: [europe]
+proceedings: Electronic lexicography in the 21st century (Lexical Computing CZ, ISSN 2533-5626)
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [11]
+links:
+  website: https://elex.link/
+notes:
+- Biennial conference on electronic and computational lexicography, dictionaries and language technology
+- Two-stage submission, an abstract first and a full paper after abstract acceptance
+- Proceedings published by Lexical Computing CZ in the series Electronic lexicography in the 21st century (ISSN 2533-5626), open access
+- Held in Europe (Herstmonceux Castle 2015, Leiden 2017, Sintra 2019, online 2021, Brno 2023, Bled 2025, Bolzano 2027)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-11-18
+  end: 2025-11-20
+  location: Bled, Slovenia
+  url: https://elex.link/elex2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-04-07
+    label: Abstract submission (extended)
+  - kind: notification
+    date: 2025-05-12
+    label: Abstract acceptance (extended)
+  - kind: submission
+    date: 2025-07-21
+    label: Full paper submission (new date)
+  - kind: notification
+    date: 2025-09-08
+    label: Full paper acceptance (new date)
+  - kind: camera_ready
+    date: 2025-10-08
+- year: 2027
+  start: 2027-11-17
+  end: 2027-11-19
+  location: Bolzano/Bozen, Italy (Eurac Research)
+  url: https://elex.link/elex2027/
+sources:
+- https://elex.link/
+- https://elex.link/elex2025/
+- https://elex.link/elex2025/important-dates/
+- https://elex.link/elex2025/proceedings/
+- https://elex.link/elex2027/
+- https://portal.core.edu.au/conf-ranks/?search=eLex&by=all&source=ICORE2026
+unverified:
+- eLex 2027 call for papers and deadlines not yet published
+- dblp page not checked (dblp blocked automated access)
+last_verified: 2026-11-07

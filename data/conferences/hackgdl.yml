@@ -1,0 +1,54 @@
+id: hackgdl
+name: HackGDL
+full_name: HackGDL
+type: industry
+tier: minor
+areas: [security]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: HackGDL (volunteer organizing team, Guadalajara)
+organizer_country: [other]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://www.hackgdl.net/
+notes:
+- Community hacking and cybersecurity conference in Guadalajara, Mexico; the official archive lists the 2024, 2025 and 2026 editions
+- Mainly offensive security talks; commercial talks are not accepted
+- Talks of 30 to 40 minutes plus Q&A, and Pueblitos Magicos (villages) running all day
+- Call for speakers runs on Sessionize and is bilingual (Spanish and English)
+- 2027 edition is one day at Jardin Americana, Guadalajara; no workshops in 2027
+- Talks only, no proceedings; travel costs are not covered
+editions:
+- year: 2026
+  start: 2026-03-14
+  end: 2026-03-14
+  url: https://www.hackgdl.net/2026/index.html
+- year: 2027
+  start: 2027-03-20
+  end: 2027-03-20
+  location: Jardin Americana, Guadalajara, Mexico
+  url: https://www.hackgdl.net/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    time: "23:59"
+    tz: UTC-6
+    label: Call for speakers closes
+  - kind: notification
+    date: 2026-12-20
+    label: Notification (December 14 to 20)
+sources:
+- https://www.hackgdl.net/
+- https://www.hackgdl.net/archive.html
+- https://www.hackgdl.net/2026/index.html
+- https://www.hackgdl.net/organizers.html
+- https://sessionize.com/hackgdl
+- https://portal.core.edu.au/conf-ranks/?search=HackGDL&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Location of the 2024 to 2026 editions is not stated on the archive pages

@@ -1,0 +1,63 @@
+id: gateways
+name: Gateways
+full_name: Gateways Conference
+type: conference
+tier: minor
+areas: [software, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: SGX3 (Science Gateways Center of Excellence, NSF funded)
+organizer_country: [usa]
+proceedings: ACM ICPS (ACM DL, open access) from 2026; earlier open-access proceedings; abstracts, posters and tutorials on Zenodo
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://sciencegateways.org/networking-community/annual-conference
+notes:
+- Annual conference of the science gateways community (web platforms giving access to HPC, data and research software), run since 2016
+- Organized by SGX3, the NSF-funded Science Gateways Center of Excellence; held at a different US location each year (Bozeman 2024, Green Bay 2025, Washington DC 2026, San Diego 2027)
+- Papers of 4 to 6 pages; talk-only, poster, demo (bring-your-own-portal) and virtual tutorial tracks
+- From 2026 papers appear in the ACM International Conference Proceedings Series; APC 250 or 350 USD in 2026 unless covered by ACM Open
+- Accepted papers invited to extend for a journal special issue on science gateways
+- "Registration 2026: 450 USD students, 550 USD early bird, 650 USD regular"
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-23
+  end: 2026-09-25
+  location: Washington, DC, USA (JHU Bloomberg Center)
+  url: https://sciencegateways.org/gateways2026
+  deadlines:
+  - kind: other
+    date: 2026-06-05
+    time: "23:59"
+    tz: AoE
+    label: Tutorial proposals
+  - kind: submission
+    date: 2026-07-06
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2026-08-03
+    time: "23:59"
+    tz: AoE
+    label: Talk-only, BYOP and poster abstracts
+- year: 2027
+  location: San Diego, CA, USA
+  url: https://sciencegateways.org/networking-community/annual-conference
+  deadlines: []
+sources:
+- https://sciencegateways.org/gateways2026
+- https://sciencegateways.org/gateways2026-cfp
+- https://sciencegateways.org/gateways2026-about
+- https://sciencegateways.org/publishing-with-acm
+- https://sciencegateways.org/networking-community/annual-conference
+- https://portal.core.edu.au/conf-ranks/?search=Gateways&by=all&source=ICORE2026
+unverified:
+- Gateways 2027 dates and deadlines not announced yet (only San Diego as location)
+- Paper notification for 2026 given only as early August
+last_verified: 2026-11-07

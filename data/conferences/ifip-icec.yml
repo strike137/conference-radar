@@ -1,0 +1,62 @@
+id: ifip-icec
+name: IFIP ICEC
+full_name: IFIP International Conference on Entertainment Computing
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IFIP TC14 (Entertainment Computing)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3]
+  conference_months: [8, 9, 10]
+links:
+  website: https://icec2026.cnam.fr/
+notes:
+- Main conference of IFIP Technical Committee 14 (Entertainment Computing); 24th edition in 2025, 25th in 2026
+- Proceedings in Springer LNCS, with a separate LNCS volume for the IFIP TC 14 workshops (2025)
+- "Acceptance: 28 full and 17 short papers from 109 submissions (2025)"
+- Topics are games, interactive art, XR entertainment, serious games, accessibility and AI for entertainment
+- Double-blind review, full papers up to 12 pages in LNCS format (2025)
+- ICEC 2025 in Tokyo was co-organized with IPSJ and ran a joint session with the domestic EC symposium; ICEC 2026 was announced for Paris, France
+- CORE C in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-27
+  end: 2025-08-30
+  location: Tokyo, Japan
+  url: https://icec2025.entcomp.org/
+  deadlines:
+  - kind: submission
+    date: 2025-03-31
+    tz: AoE
+    label: Conference track full paper (extended from 2025-03-17)
+  - kind: submission
+    date: 2025-04-18
+    tz: AoE
+    label: Work in progress, interactive work and student competition (extended from 2025-04-11)
+  - kind: notification
+    date: 2025-05-12
+  - kind: camera_ready
+    date: 2025-05-30
+- year: 2026
+  location: Paris, France
+  url: https://icec2026.cnam.fr/
+sources:
+- https://icec2025.entcomp.org/
+- https://icec2025.entcomp.org/cfp-conference/
+- https://icec2025.entcomp.org/proceedings
+- https://link.springer.com/book/10.1007/978-3-032-02555-5
+- https://link.springer.com/book/10.1007/978-3-032-02534-0
+- https://ifip-tc14.org/
+- https://portal.core.edu.au/conf-ranks/?search=ICEC&by=all&source=ICORE2026
+unverified:
+- ICEC 2026 dates and deadlines not recorded; the official site icec2026.cnam.fr was unreachable (TLS error and HTTP 503) on 2026-11-07 and 2026-11-08
+- ICEC 2027 not yet announced as of 2026-11-07
+last_verified: 2026-11-07

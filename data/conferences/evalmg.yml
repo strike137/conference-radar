@@ -1,0 +1,55 @@
+id: evalmg
+name: EvalMG
+full_name: Workshop on Evaluation for Multimodal Generation
+type: workshop
+tier: minor
+areas: [nlp, vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organisers (Adelaide University, CSIRO, Monash University, University of Copenhagen, Oracle)
+organizer_country: [australia]
+proceedings: ACL Anthology (2025 edition, 2025.evalmg-1)
+archival: true
+indexing: [ACL Anthology]
+links:
+  website: https://evalmg.github.io/
+notes:
+- Workshop on evaluation methods, metrics and benchmarks for multimodal generation and retrieval
+- 1st edition (EvalMG25) with COLING 2025 in Abu Dhabi; proceedings in the ACL Anthology
+- 2nd edition (EvalMG26) with SIGIR 2026 in Melbourne, special theme on evaluation of multimodal generation and retrieval systems
+- Long (9 pages) and short (4 pages) papers, double-blind via OpenReview; ARR commitment and SIGIR fast track also accepted
+- Has a non-archival track for papers accepted elsewhere
+- Host conference changes per edition
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-24
+  end: 2026-07-24
+  location: Melbourne, Australia (with SIGIR 2026)
+  url: https://evalmg.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-02
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: submission
+    date: 2026-05-27
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment and SIGIR fast track
+  - kind: notification
+    date: 2026-06-02
+    time: "23:59"
+    tz: AoE
+sources:
+- https://evalmg.github.io/
+- https://evalmg.github.io/2025/
+- https://aclanthology.org/venues/evalmg/
+- https://aclanthology.org/volumes/2025.evalmg-1/
+- https://portal.core.edu.au/conf-ranks/?search=EvalMG&by=all&source=ICORE2026
+unverified:
+- Where the 2026 (SIGIR) workshop papers are published is not stated on the workshop page and they are not in the ACL Anthology
+- No 2027 edition announced
+last_verified: 2026-11-07

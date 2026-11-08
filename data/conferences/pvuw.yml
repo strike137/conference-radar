@@ -1,0 +1,63 @@
+id: pvuw
+name: PVUW
+full_name: Pixel-level Video Understanding in the Wild Workshop and Challenge
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: PVUW organizing committee (2026 organizers from Fudan University, Meta AI, Shanghai University of Finance and Economics, Beijing Jiaotong University, University of Oxford and others); co-located with CVPR
+organizer_country: [international]
+proceedings: CVPR Workshops proceedings (CVF Open Access, IEEE Xplore)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://pvuw.github.io/
+notes:
+- Workshop and challenge on video segmentation (video object segmentation, referring and audio-guided video segmentation, video scene parsing)
+- Held with CVPR (Seattle 2024, Nashville 2025, Denver 2026); 2026 was the fifth PVUW challenge
+- "2026 challenge tracks: MOSEv2, MeViSv2-Text and MeViSv2-Audio"
+- Regular papers up to 8 pages in the CVPR format, double-blind review on OpenReview; separate deadline for challenge papers
+- Accepted papers go into the CVPR Workshops proceedings and CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 5th PVUW, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://pvuw.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-13
+    time: "23:59"
+    tz: UTC
+    label: Regular papers
+  - kind: notification
+    date: 2026-03-19
+    label: Regular papers
+  - kind: other
+    date: 2026-03-14
+    time: "23:59"
+    tz: UTC
+    label: Challenge result submission
+  - kind: submission
+    date: 2026-03-20
+    time: "23:59"
+    tz: UTC
+    label: Challenge papers
+  - kind: camera_ready
+    date: 2026-03-24
+    time: "23:59"
+    tz: UTC
+sources:
+- https://pvuw.github.io/
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://openaccess.thecvf.com/CVPR2025_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=PVUW&by=all&source=ICORE2026
+unverified:
+- Next edition (2027) not announced yet
+last_verified: 2026-11-07

@@ -1,0 +1,59 @@
+id: ai4va
+name: AI4VA
+full_name: AI for Visual Arts Workshop and Challenges
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (contact Deblina Bhattacharjee, University of Bath); co-located with ICCV/CVPR
+organizer_country: [europe]
+proceedings: IEEE Xplore and CVF Open Access (CVPR/ICCV Workshops) for archival full papers
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://ai4va-cvpr.github.io/
+notes:
+- Workshop on computer vision for paintings, comics, sculpture and other stylized imagery (segmentation, depth, saliency,
+  provenance, generative models)
+- 2nd edition at ICCV 2025, 3rd edition at CVPR 2026 (Denver, half day)
+- Two tracks in 2026, archival full papers of 5 to 8 pages in CVPR format (double-blind) and 2-page non-archival extended
+  abstracts
+- 4 full papers and 6 extended abstracts accepted in 2026
+- Runs challenges (PortraitCraft image composition challenge in 2026) with cash prizes
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (CVPR 2026)
+  url: https://ai4va-cvpr.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-13
+    time: "23:59"
+    tz: AoE
+    label: Full papers (archival)
+  - kind: notification
+    date: 2026-03-30
+    label: Full papers (archival)
+  - kind: camera_ready
+    date: 2026-04-10
+  - kind: other
+    date: 2026-04-25
+    time: "23:59"
+    tz: AoE
+    label: Extended abstracts (non-archival)
+sources:
+- https://ai4va-cvpr.github.io/
+- https://openaccess.thecvf.com/CVPR2026_workshops/AI4VA
+- https://openaccess.thecvf.com/ICCV2025_workshops/AI4VA
+- https://cvpr.thecvf.com/Conferences/2026/Workshops
+- https://portal.core.edu.au/conf-ranks/?search=AI4VA&by=all&source=ICORE2026
+unverified:
+- First edition and the ICCV 2025 deadlines not checked on an official page
+- Next edition not announced yet
+last_verified: 2026-11-07

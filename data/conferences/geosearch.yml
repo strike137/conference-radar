@@ -1,0 +1,51 @@
+id: geosearch
+name: GeoSearch
+full_name: ACM SIGSPATIAL International Workshop on Searching and Mining Large Collections of Geospatial Data
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers from National University of Singapore, Oak Ridge National Laboratory, University of Maryland, HafenCity University Hamburg, TU Munich and Arizona State University
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://geosearch-workshop.github.io/geosearch2026/
+notes:
+- Half-day workshop co-located with ACM SIGSPATIAL (Beijing 2021, Hamburg 2023, Atlanta 2024, Minneapolis 2025, Riverside 2026)
+- Topics are search and retrieval over large geospatial data, LLM and VLM based geospatial retrieval, spatial indexing and keyword search
+- Proceedings of each edition in the ACM Digital Library (GeoSearch 2025 -> DOI 10.1145/3764920)
+- Full papers 6-8 pages, short or demo papers 4 pages; single-blind review; extended versions of SIGSPATIAL 4-page papers allowed
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-11-03
+  end: 2026-11-03
+  location: Riverside, CA, USA (Riverside Convention Center, with ACM SIGSPATIAL 2026)
+  url: https://geosearch-workshop.github.io/geosearch2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-06
+    label: Extended
+  - kind: notification
+    date: 2026-09-25
+  - kind: camera_ready
+    date: 2026-10-12
+sources:
+- https://geosearch-workshop.github.io/geosearch2026/
+- https://sigspatial2026.sigspatial.org/workshops.html
+- https://api.crossref.org/works/10.1145/3764920
+- https://api.crossref.org/works/10.1145/3681769
+- https://api.crossref.org/works/10.1145/3615890
+- https://api.crossref.org/works/10.1145/3486640
+- https://portal.core.edu.au/conf-ranks/?search=GeoSearch&by=all&source=ICORE2026
+unverified:
+- 2027 edition not announced yet
+- No time zone stated for the 2026 deadlines
+- dblp page not checked (dblp not reachable)
+last_verified: 2026-11-07

@@ -1,0 +1,72 @@
+id: inciscos
+name: INCISCOS
+full_name: International Conference on Information Systems and Computer Science
+name_local: Congreso Internacional en Ciencias de la Computacion y Sistemas de Informacion
+type: conference
+tier: minor
+areas: [general, ai, security, software]
+region: latin-america
+language: english
+frequency: irregular
+organizer: Universidad UTE (Universidad Tecnologica Equinoccial), with Universidad de Alicante
+organizer_country: [other, europe]
+proceedings: IEEE CPS (submitted to IEEE Xplore)
+archival: true
+indexing: [Scopus, EI]
+typical:
+  deadline_months: [9, 10]
+  conference_months: [11]
+links:
+  website: https://inciscos.ute.edu.ec/
+notes:
+- Run by Universidad UTE in Quito, Ecuador, co-organized with Universidad de Alicante (Spain)
+- Editions 2016 to 2019, then a gap; revived as the 5th edition in 2026 ("Mechatronics edition")
+- Proceedings by IEEE Conference Publishing Services (CPS), sent to IEEE Xplore; 2018 and 2019 proceedings in IEEE CSDL
+- Papers in English, IEEE format, 4 to 8 pages; double-blind review with at least two reviewers
+- Tracks on mechatronics, robotics, intelligent systems, software engineering, cybersecurity, HPC, embedded systems and HCI
+- Best papers invited to extended versions in the Enfoque UTE journal
+- Deadlines in Ecuador time (GMT-5); pre-congress sessions the day before the conference
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2018
+  start: 2018-11-14
+  end: 2018-11-16
+  location: Quito, Ecuador
+  url: https://inciscos.ute.edu.ec/archive-inciscos/2018
+  deadlines:
+  - kind: submission
+    date: 2018-09-02
+  - kind: notification
+    date: 2018-10-02
+  - kind: camera_ready
+    date: 2018-10-15
+- year: 2026
+  start: 2026-11-18
+  end: 2026-11-19
+  location: Quito, Ecuador (Universidad UTE, Campus Occidental)
+  url: https://inciscos.ute.edu.ec/
+  deadlines:
+  - kind: submission
+    date: 2026-10-04
+    tz: UTC-5
+    label: Papers (extended from 2026-09-13)
+  - kind: notification
+    date: 2026-10-23
+    tz: UTC-5
+    label: Notification (moved from 2026-10-04)
+  - kind: camera_ready
+    date: 2026-10-30
+    tz: UTC-5
+    label: Final version (moved from 2026-10-11)
+sources:
+- https://inciscos.ute.edu.ec/
+- https://inciscos.ute.edu.ec/dates/
+- https://inciscos.ute.edu.ec/call-for-papers/
+- https://inciscos.ute.edu.ec/proceedings/
+- https://inciscos.ute.edu.ec/archive/
+- https://inciscos.ute.edu.ec/archive-inciscos/2018
+- https://portal.core.edu.au/conf-ranks/?search=INCISCOS&by=all&source=ICORE2026
+unverified:
+- Dates of the 2019 edition (latest before the gap) not stated on the official site; the 2018 edition is kept instead
+- Whether the 2026 proceedings actually appear in IEEE Xplore (the site says they will be sent to it)
+last_verified: 2026-11-07

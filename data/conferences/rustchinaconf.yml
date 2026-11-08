@@ -1,0 +1,53 @@
+id: rustchinaconf
+name: RustChinaConf
+full_name: RustChinaConf (China Rust Developer Conference) and RustGlobal China
+type: industry
+tier: minor
+areas: [software, systems]
+region: china
+language: mixed
+frequency: annual
+organizer: RustCC (Rust Chinese community)
+organizer_country: [china]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://rustcc.cn/2025conf/
+notes:
+- Community conference on the Rust programming language in China, hosted by RustCC (rustcc.cn), the Rust Chinese community
+- 2025 edition held together with RustGlobal China in Hangzhou, marking 10 years of Rust; Shanghai in 2024
+- Talk proposals (abstract of 200 to 300 words) through a Google Form; talks are 25 minutes plus 5 minutes of discussion, in Chinese or English, on site only
+- 2025 tracks covered production use in industry, language ecosystem, and Rust for AI and OS infrastructure
+- No papers or proceedings; talks only
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2024
+  label: Rust China Conf 2024
+  start: 2024-09-07
+  end: 2024-09-08
+  location: Shanghai, China
+  url: https://rustcc.cn/2024conf/
+  deadlines: []
+- year: 2025
+  label: RustGlobal China and RustChinaConf 2025
+  start: 2025-09-13
+  end: 2025-09-14
+  location: Hangzhou Platinum Hanjue Hotel, Hangzhou, China
+  url: https://rustcc.cn/2025conf/
+  deadlines:
+  - kind: submission
+    date: 2025-07-31
+    label: Talk proposals
+  - kind: notification
+    date: 2025-08-05
+sources:
+- https://rustcc.cn/2025conf/
+- https://rustcc.cn/2025conf/cfp.html
+- https://rustcc.cn/2024conf/
+- https://portal.core.edu.au/conf-ranks/?search=RustChinaConf&by=all&source=ICORE2026
+unverified:
+- No 2026 edition page found on rustcc.cn as of 2026-11-07 (rustcc.cn/2026conf/ returns 404)
+last_verified: 2026-11-07

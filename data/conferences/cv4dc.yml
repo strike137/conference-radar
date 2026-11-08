@@ -1,0 +1,94 @@
+id: cv4dc
+name: CV4DC
+full_name: Workshop on Computer Vision for Developing Countries
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Computer Vision for Developing Countries (US 501(c)(3) non-profit); co-located with ACCV or ICCV
+organizer_country: [usa]
+proceedings: Host conference workshop proceedings (ACCV 2026 Workshop Proceedings; IEEE Xplore and CVF Open Access for ICCV
+  2025)
+archival: true
+typical:
+  deadline_months: [7, 9, 10]
+  conference_months: [10, 12]
+links:
+  website: https://cv4dc.github.io/
+notes:
+- Workshop for research done in or relevant to developing regions; open to all, with emphasis on authors from developing
+  countries
+- Editions at ACCV 2024 (Hanoi), ICCV 2025 (Honolulu) and ACCV 2026 (Osaka)
+- Two tracks, a proceedings track (14 pages in ACCV LNCS style in 2026, double-blind on OpenReview) and a non-archival track
+  (4 to 7 pages, also accepts recently published work)
+- Includes a mentoring session for junior researchers; travel grants planned subject to sponsorship
+- First workshop challenge in 2026 on resource-constrained computer vision
+- Run by a non-profit founded in March 2025
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, Hawaii, USA (ICCV 2025)
+  url: https://cv4dc.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-02
+    time: "23:59"
+    tz: AoE
+    label: Proceedings track
+  - kind: notification
+    date: 2025-07-10
+    label: Proceedings track
+  - kind: camera_ready
+    date: 2025-08-18
+  - kind: other
+    date: 2025-08-15
+    time: "23:59"
+    tz: AoE
+    label: Non-proceedings track submission
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-14
+  location: Osaka, Japan (ACCV 2026)
+  url: https://cv4dc.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-10-09
+    time: "23:59"
+    tz: AoE
+    label: Proceedings track (extended)
+  - kind: notification
+    date: 2026-10-20
+    time: "23:59"
+    tz: AoE
+    label: Proceedings track
+  - kind: camera_ready
+    date: 2026-10-25
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-10-30
+    time: "23:59"
+    tz: AoE
+    label: Non-proceedings track submission
+  - kind: other
+    date: 2026-11-20
+    time: "23:59"
+    tz: AoE
+    label: Non-proceedings track notification
+sources:
+- https://cv4dc.github.io/
+- https://cv4dc.github.io/about
+- https://cv4dc.github.io/programs
+- https://cv4dc.github.io/2026/
+- https://cv4dc.github.io/2026/call-for-papers
+- https://cv4dc.github.io/2026/dates
+- https://cv4dc.github.io/2025/
+- https://openaccess.thecvf.com/ICCV2025_workshops/CV4DC
+- https://portal.core.edu.au/conf-ranks/?search=CV4DC&by=all&source=ICORE2026
+unverified:
+- Publisher of the ACCV 2026 workshop proceedings not named on the workshop site (LNCS style files are used)
+last_verified: 2026-11-07

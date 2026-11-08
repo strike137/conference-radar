@@ -1,0 +1,70 @@
+id: intel4ec
+name: Intel4EC
+full_name: International Workshop on Intelligent and Adaptive Edge-Cloud Operations and Services
+type: workshop
+tier: minor
+areas: [systems, networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Intel4EC organizers (Utrecht University, University of Amsterdam, University of Klagenfurt)
+organizer_country: [europe]
+proceedings: IEEE Xplore (IPDPS Workshops)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://www.intel4ec-workshop.nl/
+notes:
+- Workshop on AI/ML and LLM based operations (AIOps) for Edge-Cloud systems, such as monitoring, root-cause analysis, anomaly detection and fault prediction
+- Held with IEEE/ACM UCC in 2022 (Vancouver, WA) and 2023 (Taormina); with IEEE IPDPS since 2025 (Milan 2025, New Orleans 2026, Seattle 2027)
+- Accepted papers go into the IPDPS workshop proceedings, submitted to IEEE Xplore; papers must be presented to be included
+- Full papers up to 8 pages and short papers up to 4 pages, IEEE style including references; single-blind review by at least three PC members
+- 2026 program had four full and four short papers
+- Not listed in CORE ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-25
+  location: New Orleans, USA (with IPDPS 2026)
+  url: https://www.intel4ec-workshop.nl/editions/intel4ec-2026
+  deadlines:
+  - kind: submission
+    date: 2026-02-12
+    time: "23:59"
+    tz: AoE
+    label: Papers (final extension from 2026-01-22)
+  - kind: notification
+    date: 2026-03-04
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-13
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-06-01
+  end: 2027-06-01
+  location: Seattle, USA (with IPDPS 2027)
+  url: https://www.intel4ec-workshop.nl/intel4ec-2027
+  deadlines:
+  - kind: camera_ready
+    date: 2027-03-06
+    tz: AoE
+sources:
+- https://www.intel4ec-workshop.nl/
+- https://www.intel4ec-workshop.nl/intel4ec-2027/cfp
+- https://www.intel4ec-workshop.nl/editions/intel4ec-2026
+- https://www.intel4ec-workshop.nl/editions/intel4ec-2026/call-for-papers
+- https://www.intel4ec-workshop.nl/editions/intel4ec-2026/organization
+- https://www.intel4ec-workshop.nl/editions/intel4ec-2026/program
+- https://www.intel4ec-workshop.nl/editions/intel4ec-2025
+- https://www.intel4ec-workshop.nl/editions/intel4ec-2023
+- https://www.intel4ec-workshop.nl/editions/intel4ec-2022
+- https://www.ipdps.org/ipdps2026/2026-workshops.html
+- https://www.ipdps.org/ipdps2027/2027-workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=Intel4EC&by=all&source=ICORE2026
+unverified:
+- 2027 submission and notification dates are TBA on the official site
+last_verified: 2026-11-07

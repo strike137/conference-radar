@@ -1,0 +1,58 @@
+id: from-symposium
+name: FROM
+full_name: Working Formal Methods Symposium
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: Romanian universities (Bucharest, Cluj-Napoca, Iasi, Timisoara) in rotation
+organizer_country: [europe]
+proceedings: EPTCS
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://from2026.uvt.ro/
+notes:
+- Romanian formal methods symposium, rotating among the University of Bucharest, Babes-Bolyai University Cluj-Napoca, Alexandru Ioan Cuza University Iasi and West University of Timisoara
+- Held in Romania every year since 2017 (10th edition in 2026); 2020 and 2021 were virtual
+- FROM 2026 co-located with SYNASC 2026 in Timisoara; submissions go through the SYNASC EasyChair as the FROM track
+- Research papers (up to 16 pages) in EPTCS (FROM 2025 -> EPTCS 427, FROM 2026 -> EPTCS 452); extended abstracts up to 8 pages also accepted
+- Selected papers invited to a journal (JLAMP planned for 2026)
+- "Registration fee: 300 EUR (2026)"
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-09-15
+  end: 2026-09-17
+  location: Timisoara, Romania (with SYNASC 2026)
+  url: https://from2026.uvt.ro/
+  deadlines:
+  - kind: submission
+    date: 2026-07-06
+  - kind: notification
+    date: 2026-07-25
+  - kind: camera_ready
+    date: 2026-08-23
+  - kind: other
+    date: 2026-09-04
+    label: Registration
+sources:
+- https://from2026.uvt.ro/
+- https://from2026.uvt.ro/dates/
+- https://from2026.uvt.ro/cfps/
+- https://from2026.uvt.ro/submission/
+- https://from2026.uvt.ro/about/
+- https://from2026.uvt.ro/previous-editions/
+- https://from2026.uvt.ro/fees/
+- https://synasc.ro/2026/
+- https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?FROM2026
+- https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?FROM2025
+- https://portal.core.edu.au/conf-ranks/?search=FROM&by=all&source=ICORE2026
+unverified:
+- FROM 2027 host and dates not announced yet
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

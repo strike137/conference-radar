@@ -1,0 +1,57 @@
+id: mcg
+name: MCG
+full_name: Workshop on Multilingual Counterspeech Generation
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (HiTZ Center UPV/EHU, Fondazione Bruno Kessler, University of Jaen); co-located with COLING 2025
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [11]
+  conference_months: [1]
+links:
+  website: https://sites.google.com/view/multilang-counterspeech-gen/
+notes:
+- Workshop on generating counterspeech (counter narratives) against online hate speech in English and lower-resourced languages, with LLMs
+- 1st edition held at COLING 2025 on 19 January 2025, entirely online via Zoom, together with a joint shared task
+- Organizers from HiTZ Center (UPV/EHU, Spain), Fondazione Bruno Kessler (Italy) and University of Jaen (Spain)
+- Regular papers up to 8 pages, double-blind review via START; accepted papers appear in the ACL Anthology (10 papers in 2025.mcg-1)
+- Non-archival track for cross-submissions and 2-page extended abstracts
+- Only one edition so far; no later edition in the ACL Anthology as of 2026-11
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  label: 1st MCG, with COLING 2025
+  start: 2025-01-19
+  end: 2025-01-19
+  location: Online (COLING 2025, Abu Dhabi, UAE)
+  url: https://sites.google.com/view/multilang-counterspeech-gen/
+  deadlines:
+  - kind: submission
+    date: 2024-11-25
+    time: "23:59"
+    tz: AoE
+    label: Extended from November 20
+  - kind: notification
+    date: 2024-12-08
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-12-13
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sites.google.com/view/multilang-counterspeech-gen/
+- https://aclanthology.org/volumes/2025.mcg-1/
+- https://aclanthology.org/venues/mcg/
+- https://portal.core.edu.au/conf-ranks/?search=MCG&by=all&source=ICORE2026
+unverified:
+- No second edition announced as of 2026-11-07
+- The official page gives the 2025 deadlines as day and month only; the year 2024 follows from the January 2025 workshop date
+last_verified: 2026-11-07

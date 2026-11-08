@@ -1,0 +1,49 @@
+id: pila
+name: PILA
+full_name: Workshop on Personal Intelligence in the Agentic AI Era
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+organizer: Workshop organizers from NUS, USTC, CUHK, Rutgers and Meta
+organizer_country: [singapore, china, usa]
+proceedings: None (non-archival; not in the KDD proceedings)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://pila26-workshop.github.io/
+notes:
+- Half-day workshop on personalized agents, user modeling, memory and human-centered AI, held with ACM SIGKDD
+- First edition (PILA '26) at KDD 2026 in Jeju, Korea (August 10, 2026, morning)
+- ACM two-column format, double-blind review via OpenReview
+- Non-archival; accepted papers do not appear in the KDD 2026 proceedings and can be submitted elsewhere
+- Best paper award
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: With KDD 2026
+  start: 2026-08-10
+  end: 2026-08-10
+  location: Jeju, Korea (with KDD 2026)
+  url: https://pila26-workshop.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-19
+    tz: AoE
+  - kind: submission
+    date: 2026-05-21
+    tz: AoE
+  - kind: notification
+    date: 2026-06-10
+    tz: AoE
+sources:
+- https://pila26-workshop.github.io/
+- https://kdd2026.kdd.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=Personal+Intelligence&by=all&source=ICORE2026
+unverified:
+- Camera-ready date not stated on the official site
+- No 2027 edition announced as of 2026-11-07
+last_verified: 2026-11-07

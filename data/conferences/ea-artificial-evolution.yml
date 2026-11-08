@@ -1,0 +1,48 @@
+id: ea-artificial-evolution
+name: EA
+full_name: International Conference on Artificial Evolution
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: biennial
+organizer_country: [europe]
+proceedings: Springer LNCS (selected best papers; full conference proceedings before the event)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://ea2026.inria.fr/
+  dblp: https://dblp.org/db/conf/ea/index.html
+notes:
+- Biennial evolutionary computation conference run by the French community (Evolution Artificielle); 17th edition in 2026
+- Non-profit conference on optimisation techniques that simulate natural evolution; 2026 focus on metaheuristics combined with reinforcement learning
+- All accepted papers in the conference proceedings available before the event; selected best oral papers later in a Springer LNCS volume
+- In-person presentation expected; remote talks only in exceptional cases
+- Almost always held in France (Lyon 2015, Paris 2017, Mulhouse 2019, Exeter UK 2022, Bordeaux 2024, Nice 2026)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-27
+  end: 2026-10-29
+  location: Nice, France
+  url: https://ea2026.inria.fr/
+  deadlines:
+  - kind: submission
+    date: 2026-06-28
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-09-09
+sources:
+- https://ea2026.inria.fr/
+- https://ea2026.inria.fr/docs/poster_EA2026.pdf
+- https://link.springer.com/conference/ae
+- https://portal.core.edu.au/conf-ranks/?search=EA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Organizing body not named on the 2026 website
+- EA 2028 not announced yet
+last_verified: 2026-11-07

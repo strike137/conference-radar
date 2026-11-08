@@ -1,0 +1,48 @@
+id: fp-matsuri
+name: Functional Matsuri
+full_name: Functional Programming Matsuri
+name_local: 関数型まつり
+type: industry
+tier: domestic
+areas: [software]
+region: japan
+language: japanese
+frequency: annual
+organizer: Functional Matsuri Organizing Committee (volunteer community committee)
+organizer_country: [japan]
+proceedings: None
+archival: false
+fee: "10,000 JPY general, 5,000 JPY student, without party (2026)"
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6, 7]
+links:
+  website: https://2026.fp-matsuri.org/
+notes:
+- Community-run Japanese conference on functional programming across language communities (Haskell, OCaml, Scala, Elixir, F# and others)
+- First held in June 2025; 494 attendees and 48 speakers at the 2025 edition according to the organizers
+- Two days on a weekend at Nakano Central Park Conference, Tokyo
+- Public call for session proposals via fortee with 10, 25 and 50 minute slots, in Japanese or English, up to three proposals per person
+- Talks only; no papers or proceedings
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-07-11
+  end: 2026-07-12
+  location: Nakano Central Park Conference, Tokyo, Japan
+  url: https://2026.fp-matsuri.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-05
+    time: "23:59"
+    tz: JST
+    label: Session proposals (CfP)
+sources:
+- https://2026.fp-matsuri.org/
+- https://blog.fp-matsuri.org/entry/2026/03/04/183518
+- https://blog.fp-matsuri.org/
+- https://2025.fp-matsuri.org/
+- https://portal.core.edu.au/conf-ranks/?search=Matsuri&by=all&source=ICORE2026
+unverified:
+- 2027 edition not yet announced on the official site or blog as of 2026-11-07
+last_verified: 2026-11-07

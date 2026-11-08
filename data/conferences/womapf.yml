@@ -1,0 +1,61 @@
+id: womapf
+name: WoMAPF
+full_name: International Workshop on Multi-Agent Path Finding
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers with an advisory committee (Daniel Harabor, Jiaoyang Li, Hang Ma, Jingjin Yu)
+organizer_country: [international]
+proceedings: None (non-archival; papers are posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1, 2, 3]
+links:
+  website: https://wo-mapf.github.io/aaai27/
+notes:
+- Workshop on multi-agent path finding, planning and coordination, held with IJCAI or AAAI (editions in 2012, 2016, 2019, 2020, 2023, 2025, 2026 and 2027)
+- Annual with AAAI since 2025 (Philadelphia 2025, Singapore 2026, Montreal 2027)
+- Non-archival, light single-blind review with at least two reviews per submission; no page limit, published or concurrent work welcome
+- Industry panel and poster session; all presentations in person under AAAI policy
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 7th edition, with AAAI-26
+  start: 2026-01-26
+  end: 2026-01-26
+  location: Singapore EXPO, Singapore
+  url: https://mapf-workshop.github.io/aaai26/
+  deadlines:
+  - kind: submission
+    date: 2025-11-06
+    tz: AoE
+    label: Extended from 2025-10-22
+  - kind: notification
+    date: 2025-11-13
+    label: Moved from 2025-11-05
+  - kind: camera_ready
+    date: 2026-01-05
+- year: 2027
+  label: 8th edition, with AAAI-27
+  location: Montreal, Canada
+  url: https://wo-mapf.github.io/aaai27/
+  deadlines:
+  - kind: submission
+    date: 2026-11-20
+  - kind: notification
+    date: 2026-12-02
+sources:
+- https://wo-mapf.github.io/aaai27/
+- https://wo-mapf.github.io/aaai27/call/
+- https://mapf-workshop.github.io/aaai26/
+- https://womapf.github.io/aaai-25/
+- https://aaai.org/conference/aaai/aaai-27/aaai-27-workshop-program-list/
+- https://portal.core.edu.au/conf-ranks/?search=WoMAPF&by=all&source=ICORE2026
+unverified:
+- WoMAPF 2027 workshop day not announced; AAAI-27 workshops are on February 22 to 23, 2027
+- Camera-ready deadline for 2027 not announced
+last_verified: 2026-11-07

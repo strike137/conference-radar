@@ -1,0 +1,72 @@
+id: rc-reversible
+name: RC
+full_name: International Conference on Reversible Computation
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: RC Steering Committee, with a local host institution each year
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://reversible-computation.github.io/
+  dblp: https://dblp.uni-trier.de/db/conf/rc/index.html
+notes:
+- Annual conference on reversible computation, including reversible circuits, programming languages, process calculi and quantum computation
+- Proceedings in Springer LNCS since 2011
+- Full papers and tutorials up to 15 pages, work-in-progress and tool papers up to 6 pages (LNCS style, excluding references)
+- Abstract registration one week before the paper deadline
+- Started as a workshop in 2009; a conference since 2013
+- Mostly held in Europe (Urbino 2022, Giessen 2023, Torun 2024, Odense 2025, Torino 2026, Nancy 2027)
+- Ranked C in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  label: 18th RC
+  start: 2026-07-09
+  end: 2026-07-10
+  location: Torino, Italy
+  url: https://reversible-computation.github.io/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-21
+    label: Extended from 2026-02-06
+  - kind: submission
+    date: 2026-02-28
+    label: Extended from 2026-02-13
+  - kind: notification
+    date: 2026-04-21
+  - kind: camera_ready
+    date: 2026-05-15
+- year: 2027
+  label: 19th RC
+  start: 2027-07-08
+  end: 2027-07-09
+  location: Nancy, France
+  url: https://reversible-computation.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2027-02-05
+  - kind: submission
+    date: 2027-02-12
+  - kind: notification
+    date: 2027-04-23
+  - kind: camera_ready
+    date: 2027-05-05
+sources:
+- https://reversible-computation.github.io/
+- https://reversible-computation.github.io/cfp
+- https://reversible-computation.github.io/2026/
+- https://reversible-computation-2025.github.io/
+- https://reversible-computation-2025.github.io/past.html
+- https://portal.core.edu.au/conf-ranks/?search=Reversible&by=all&source=ICORE2026
+unverified:
+- Deadline time zone not stated for RC 2026 and RC 2027 (RC 2025 used AoE)
+last_verified: 2026-11-07

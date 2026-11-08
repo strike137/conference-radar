@@ -1,0 +1,49 @@
+id: aism
+name: AISM
+full_name: International Workshop on AI for Software Modernization
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ASE workshop program; organized by researchers from IBM, IIT Tirupati and TCS Research
+organizer_country: [india, usa]
+proceedings: ASE workshop proceedings (ACM/IEEE Digital Library)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10, 11]
+links:
+  website: https://conf.researchr.org/home/ase-2026/aism-2026
+notes:
+- One-day workshop co-located with ASE (IEEE/ACM Automated Software Engineering); 1st edition at ASE 2025 in Seoul, 2nd at ASE 2026 in Munich
+- Topics include legacy transformation (COBOL to Java, C++ to Rust), framework and dependency upgrades, cloud migration, data migration and testing of modernized code with AI
+- Research and vision papers, plus invited talks and discussions
+- Accepted papers go into the ASE conference proceedings, available in the ACM/IEEE Digital Library
+- Organizers 2026 are Shivali Agarwal (IBM India), Sridhar Chimalakonda (IIT Tirupati), Rahul Krishna (IBM Research), Raveendra Kumar Medicherla (TCS Research) and Srikanth G. Tamilselvam (IBM)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 2nd edition, with ASE 2026
+  start: 2026-10-12
+  end: 2026-10-12
+  location: Munich, Germany
+  url: https://conf.researchr.org/home/ase-2026/aism-2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-11
+    tz: AoE
+  - kind: notification
+    date: 2026-08-23
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-28
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/ase-2026/aism-2026
+- https://conf.researchr.org/home/ase-2025/aism-2025
+- https://portal.core.edu.au/conf-ranks/?search=AISM&by=all&source=ICORE2026
+unverified:
+- AISM 2027 not announced yet
+last_verified: 2026-11-07

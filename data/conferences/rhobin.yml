@@ -1,0 +1,49 @@
+id: rhobin
+name: RHOBIN
+full_name: Workshop on Reconstruction of Human-Object Interactions
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Organizers from the University of Tuebingen, ETH Zurich, Max Planck Institute for Informatics and others (Gerard Pons-Moll et al.)
+organizer_country: [europe]
+proceedings: CVF Open Access (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://rhobin-challenge.github.io/
+notes:
+- Workshop and challenge on 3D reconstruction of humans, objects and their interactions, held with CVPR
+- Editions at CVPR 2023, CVPR 2024 and CVPR 2025 (3rd edition, Nashville)
+- Full papers up to 8 pages in CVPR format, double-blind single-stage review without rebuttal; 1-page abstracts of published or ongoing work also invited
+- 4 papers in the CVPR 2025 workshop proceedings on CVF Open Access
+- No 2026 edition announced as of November 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 3rd edition, with CVPR 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Nashville, USA
+  url: https://rhobin-challenge.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-03-17
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2025-03-31
+  - kind: camera_ready
+    date: 2025-04-07
+    time: "23:59"
+    tz: PDT
+sources:
+- https://rhobin-challenge.github.io/
+- https://openaccess.thecvf.com/CVPR2025_workshops/RHOBIN
+- https://openaccess.thecvf.com/CVPR2025_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=RHOBIN&by=all&source=ICORE2026
+last_verified: 2026-11-07

@@ -1,0 +1,66 @@
+id: ai4space
+name: AI4Space
+full_name: Workshop on Artificial Intelligence for Space
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (series started by Tat-Jun Chin and Bo Chen, University of Adelaide); co-located with
+  CVPR
+organizer_country: [australia]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops) for long papers
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://ai4space.space/
+notes:
+- Workshop on computer vision and machine learning for space systems (spacecraft navigation, Earth observation onboard AI,
+  planetary robotics, space debris)
+- Editions at CVPR 2021, ECCV 2022, CVPR 2024, CVPR 2026 (4th, Denver) and CVPR 2027 (5th, announced as tentative)
+- Long papers up to 8 pages in CVPR format, double-blind on OpenReview, published in the CVPR Workshops proceedings
+- Short papers up to 4 pages appear only on the workshop website (non-archival)
+- Hosts the SPARK spacecraft perception challenge (SPARK 2026 with the University of Luxembourg)
+- Papers must target peaceful use of AI for space
+- Older editions on https://aiforspace.github.io/
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (CVPR 2026)
+  url: https://ai4space.space/
+  deadlines:
+  - kind: submission
+    date: 2026-03-03
+    label: Extended
+  - kind: notification
+    date: 2026-03-22
+  - kind: camera_ready
+    date: 2026-04-10
+- year: 2027
+  location: CVPR 2027
+  url: https://ai4space.space/2027/index.html
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2027-02-21
+  - kind: notification
+    date: 2027-03-21
+sources:
+- https://ai4space.space/
+- https://ai4space.space/call4paper.html
+- https://ai4space.space/program.html
+- https://ai4space.space/2027/index.html
+- https://aiforspace.github.io/
+- https://aiforspace.github.io/2024/
+- https://openaccess.thecvf.com/CVPR2026_workshops/AI4Space
+- https://cvpr.thecvf.com/Conferences/2026/Workshops
+- https://portal.core.edu.au/conf-ranks/?search=AI4Space&by=all&source=ICORE2026
+unverified:
+- The 2026 home page lists paper decisions on 2026-03-25 while the call for papers page says 2026-03-22
+- 2027 dates are marked tentative on the workshop site; CVPR 2027 workshop date and venue not stated there
+last_verified: 2026-11-07

@@ -1,0 +1,58 @@
+id: wace
+name: WACE
+full_name: "WebAssembly, Cloud and Edge: Shaping the Future of Computing Workshop"
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Bytecode Alliance with Ghent University - imec
+organizer_country: [usa, europe]
+proceedings: ACM DL (Middleware 2026 proceedings); IEEE Xplore in 2025 (NOMS)
+archival: true
+typical:
+  deadline_months: [1, 10]
+  conference_months: [5, 12]
+links:
+  website: https://bytecodealliance.org/wace2026
+notes:
+- Workshop on WebAssembly, MicroVMs, WASI, sandboxing and orchestration across the cloud-edge continuum
+- Organized by the Bytecode Alliance with Ghent University - imec (2026 also with the EU ELASTIC project)
+- Host conference changes; 1st edition at IEEE/IFIP NOMS 2025 (Honolulu), 2nd at ACM Middleware 2026 (Tarragona)
+- 2025 papers in IEEE Xplore and the IFIP digital library; 2026 papers in the Middleware 2026 proceedings (ACM)
+- Half-day event mixing peer-reviewed papers (up to 6 pages) and invited industry talks
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-05-12
+  end: 2025-05-16
+  location: Honolulu, HI, USA (IEEE/IFIP NOMS 2025)
+  url: https://bytecodealliance.org/wace2025
+  deadlines:
+  - kind: submission
+    date: 2025-01-31
+  - kind: notification
+    date: 2025-02-28
+  - kind: camera_ready
+    date: 2025-03-14
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-18
+  location: Tarragona, Spain (ACM Middleware 2026)
+  url: https://bytecodealliance.org/wace2026
+  deadlines:
+  - kind: submission
+    date: 2026-10-01
+  - kind: notification
+    date: 2026-10-29
+  - kind: camera_ready
+    date: 2026-11-12
+sources:
+- https://bytecodealliance.org/wace2026
+- https://bytecodealliance.org/wace2025
+- https://middleware-conf.github.io/2026/camera-ready-instructions/
+- https://portal.core.edu.au/conf-ranks/?search=WACE&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within NOMS 2025 and Middleware 2026 not stated; dates shown are the host conference dates
+last_verified: 2026-11-07

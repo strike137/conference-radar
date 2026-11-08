@@ -1,0 +1,52 @@
+id: geoindustry
+name: GeoIndustry
+full_name: ACM SIGSPATIAL International Workshop on Spatial Big Data and AI for Industrial Applications
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers from Amazon, University of Maryland, Google DeepMind and University of Wisconsin-Madison
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11]
+links:
+  website: https://geoindustry.github.io/geoindustryworkshop2026/
+notes:
+- One-day workshop co-located with ACM SIGSPATIAL since 2022 (Seattle 2022, Hamburg 2023, Atlanta 2024, Minneapolis 2025, Riverside 2026)
+- Bridges industry and academia on geospatial big data and AI; organized largely by Amazon researchers with academic co-chairs
+- Proceedings of each edition in the ACM Digital Library (GeoIndustry 2025 -> DOI 10.1145/3764919)
+- Regular papers 8-10 pages, short papers 4 pages; ACM format; at least one author must register and present
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-11-03
+  end: 2026-11-03
+  location: Riverside, CA, USA (with ACM SIGSPATIAL 2026)
+  url: https://geoindustry.github.io/geoindustryworkshop2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-04
+    time: "23:59"
+    tz: AoE
+    label: Extended from August 28
+  - kind: notification
+    date: 2026-09-20
+  - kind: camera_ready
+    date: 2026-10-02
+sources:
+- https://geoindustry.github.io/geoindustryworkshop2026/
+- https://sigspatial2026.sigspatial.org/workshops.html
+- https://api.crossref.org/works/10.1145/3764919
+- https://api.crossref.org/works/10.1145/3681766
+- https://api.crossref.org/works/10.1145/3615888
+- https://api.crossref.org/works/10.1145/3557922
+- https://portal.core.edu.au/conf-ranks/?search=GeoIndustry&by=all&source=ICORE2026
+unverified:
+- 2027 edition not announced yet
+- dblp page not checked (dblp not reachable)
+last_verified: 2026-11-07

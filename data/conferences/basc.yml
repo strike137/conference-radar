@@ -1,0 +1,62 @@
+id: basc
+name: BASC
+full_name: Boston Application Security Conference (OWASP Boston)
+type: industry
+tier: minor
+areas: [security, software]
+region: north-america
+language: english
+frequency: annual
+organizer: OWASP Boston Chapter
+organizer_country: [usa]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [4]
+links:
+  website: https://basconf.org/
+notes:
+- One-day application security conference of the OWASP Boston chapter with talks and workshops
+- Held at the Boston Marriott Cambridge in 2026 and 2027; 500+ attendees expected
+- Described by the organizers as running for 14 years
+- Three tracks (Development, Leadership, Research); call for speakers via Sessionize
+- No proceedings; practitioner talks only
+editions:
+- year: 2026
+  start: 2026-04-11
+  end: 2026-04-11
+  location: Boston Marriott Cambridge, Cambridge, Massachusetts, USA
+  url: https://sessionize.com/owasp-basc-2026
+  deadlines:
+  - kind: submission
+    date: 2026-01-11
+    time: "23:59"
+    tz: EST
+    label: Call for speakers closes
+- year: 2027
+  start: 2027-04-03
+  end: 2027-04-03
+  location: Boston Marriott Cambridge, Cambridge, Massachusetts, USA
+  url: https://basconf.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+    time: "23:59"
+    tz: EST
+    label: Call for speakers closes
+  - kind: notification
+    date: 2027-02-05
+    label: First round of acceptances
+  - kind: notification
+    date: 2027-02-15
+    label: Second round of acceptances
+sources:
+- https://basconf.org/
+- https://basconf.org/call-for-papers
+- https://sessionize.com/owasp-basc-2027
+- https://sessionize.com/owasp-basc-2026
+- https://portal.core.edu.au/conf-ranks/?search=BASC&by=all&source=ICORE2026
+unverified:
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+last_verified: 2026-11-07

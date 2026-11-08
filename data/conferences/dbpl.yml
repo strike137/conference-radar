@@ -1,0 +1,53 @@
+id: dbpl
+name: DBPL
+full_name: International Symposium on Database Programming Languages
+type: workshop
+tier: minor
+areas: [data, software]
+region: worldwide
+language: english
+frequency: irregular
+organizer: DBPL organizers; co-located with ACM SIGMOD in 2025
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [DBLP]
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/dbpl2025/home
+  dblp: https://dblp.org/db/conf/dbpl/index.html
+notes:
+- Long-running venue (over 35 years) at the intersection of data management and programming languages
+- 19th edition in 2025, a one-day symposium co-located with ACM SIGMOD 2025 in Berlin
+- Proceedings in the ACM Digital Library
+- Regular papers up to 10 pages; short papers (4 pages) and extended abstracts (2 pages) may opt out of the formal proceedings; single-anonymous review
+- Not among the SIGMOD 2026 workshops; next edition not announced
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2025
+  label: 19th DBPL, with SIGMOD 2025
+  start: 2025-06-27
+  end: 2025-06-27
+  location: Berlin, Germany
+  url: https://sites.google.com/view/dbpl2025/home
+  deadlines:
+  - kind: submission
+    date: 2025-04-11
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-05-12
+  - kind: camera_ready
+    date: 2025-06-05
+sources:
+- https://sites.google.com/view/dbpl2025/home
+- https://sites.google.com/view/dbpl2025/home/call-for-papers
+- https://2025.sigmod.org/sigmod_workshops.shtml
+- https://2026.sigmod.org/sigmod_workshops.shtml
+- https://dl.acm.org/doi/proceedings/10.1145/3735106
+- https://portal.core.edu.au/conf-ranks/?search=DBPL&by=all&source=ICORE2026
+unverified:
+- Next DBPL edition not announced
+last_verified: 2026-11-07

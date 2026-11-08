@@ -1,0 +1,69 @@
+id: express-sos
+name: EXPRESS/SOS
+full_name: Combined International Workshop on Expressiveness in Concurrency and Workshop on Structural Operational Semantics
+type: workshop
+tier: minor
+areas: [software, general]
+region: europe
+language: english
+frequency: annual
+organizer: EXPRESS/SOS workshop chairs (affiliated with CONCUR)
+organizer_country: [europe]
+proceedings: EPTCS (post-proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9]
+links:
+  website: https://expresssos.github.io/
+notes:
+- Long-running theory workshop on concurrency semantics; EXPRESS dates back to 1994, SOS to 2004, combined since 2012
+- Affiliated workshop of CONCUR, held at CONFEST (Aarhus 2025, Liverpool 2026)
+- Full papers (15 to 18 pages, EPTCS style) appear in EPTCS post-proceedings; short papers (up to 5 pages) are presented only
+- Final versions are due about a month after the workshop (post-proceedings)
+- Selected papers have gone to journal special issues (Information and Computation, Acta Informatica)
+- Not listed in ICORE2026 or the CCF list
+- The old site express-sos.github.io still shows the 2024 edition; the current site is expresssos.github.io
+editions:
+- year: 2025
+  start: 2025-08-25
+  end: 2025-08-25
+  location: Aarhus, Denmark (CONFEST 2025)
+  url: https://expresssos.github.io/conf/2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-13
+    label: Extended (originally 2025-06-03)
+  - kind: notification
+    date: 2025-07-10
+  - kind: camera_ready
+    date: 2025-09-25
+    label: Final version (post-proceedings)
+- year: 2026
+  start: 2026-09-05
+  end: 2026-09-05
+  location: Liverpool, United Kingdom (CONFEST 2026)
+  url: https://expresssos.github.io/conf/2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-29
+    label: Extended (originally 2026-06-22)
+  - kind: notification
+    date: 2026-07-25
+  - kind: camera_ready
+    date: 2026-10-25
+    label: Final version (post-proceedings)
+sources:
+- https://expresssos.github.io/
+- https://expresssos.github.io/conf/2026
+- https://expresssos.github.io/conf/2025
+- https://expresssos.github.io/pastconf/
+- https://express-sos.github.io/
+- https://confest-2026.github.io/workshops/
+- https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?EXPRESSSOS2025
+- https://portal.core.edu.au/conf-ranks/?search=EXPRESS&by=all&source=ICORE2026
+unverified:
+- 'The past events page and the EPTCS 433 preface give 25 September 2025, but the 2025 workshop page and the EPTCS 433 title page give 25 August 2025'
+- EXPRESS/SOS 2027 not announced yet
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

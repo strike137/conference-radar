@@ -1,0 +1,67 @@
+id: sciprodllm
+name: SciProdLLM
+full_name: Workshop on Human-LLM Collaboration for Ethical and Responsible Science Production
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: SciProdLLM organizing committee (2025 editors Wei Zhao, Jennifer D'Souza, Steffen Eger, Anne Lauscher, Yufang Hou, Nafise Sadat Moosavi, Tristan Miller, Chenghua Lin); co-located with IJCNLP-AACL 2025
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [9, 11]
+  conference_months: [12]
+links:
+  website: https://sciprodllm.github.io/2025/
+notes:
+- Workshop on LLMs in the research workflow (ideation, experimentation, writing, peer review) with human oversight, and on evaluating LLM-assisted papers
+- 1st edition held at IJCNLP-AACL 2025 in Mumbai (hybrid) on 23 December 2025
+- Long (8 pages) and short (4 pages) papers, double-blind review via OpenReview; also takes ARR commitments and non-archival presentations of published papers
+- Accepted papers appear in the ACL Anthology with DOIs (5 papers in 2025.sciprodllm-1)
+- Only one edition so far; no 2026 edition announced as of 2026-11
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  label: 1st SciProdLLM, with IJCNLP-AACL 2025
+  start: 2025-12-23
+  end: 2025-12-23
+  location: Mumbai, India (hybrid)
+  url: https://sciprodllm.github.io/2025/
+  deadlines:
+  - kind: other
+    date: 2025-10-27
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: submission
+    date: 2025-11-02
+    time: "23:59"
+    tz: AoE
+    label: Direct submissions (extended from September 29)
+  - kind: notification
+    date: 2025-11-05
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-14
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2025-11-14
+    time: "23:59"
+    tz: AoE
+    label: Non-archival submissions (previously published papers)
+sources:
+- https://sciprodllm.github.io/2025/
+- https://sciprodllm.github.io/2025/cfp.html
+- https://aclanthology.org/volumes/2025.sciprodllm-1/
+- https://2025.aaclnet.org/program/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=SciProdLLM&by=all&source=ICORE2026
+unverified:
+- No 2026 edition announced as of 2026-11-07 (sciprodllm.github.io/2026/ does not exist)
+- Organizer affiliations not stated on the workshop site
+- The extended direct submission date (November 2) falls after the ARR commitment date; copied as stated on the official page
+last_verified: 2026-11-07

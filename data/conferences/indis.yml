@@ -1,0 +1,60 @@
+id: indis
+name: INDIS
+full_name: International Workshop on Innovating the Network for Data-Intensive Science
+type: workshop
+tier: minor
+areas: [networking]
+region: north-america
+language: english
+frequency: annual
+organizer: SCinet (SC Conference), in cooperation with IEEE TCHPC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (IEEE TCHPC)
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://scinet.supercomputing.org/workshop/
+notes:
+- One-day workshop of SCinet, the volunteer-built network of the SC conference, on research and education networking for data-intensive science
+- Held with SC every year since SC14 (New Orleans); 2026 is the 13th edition
+- Accepted papers appear in the SC workshop proceedings through IEEE TCHPC
+- Full papers 8 pages and short papers 5 pages (excluding references), IEEE template, submitted via the SC Linklings system
+- Short papers on testbed results (FABRIC, Chameleon, SCinet deployments) are encouraged; best paper award
+- New in 2026, a Student Track for 2-page extended abstracts with a lightning talk
+- Held at SC in the USA (Denver 2023, Atlanta 2024, St. Louis 2025, Chicago 2026)
+- Not listed in CORE ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: St. Louis, MO, USA (with SC25)
+  url: https://scinet.supercomputing.org/community/indis/previous-editions/
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Chicago, IL, USA (with SC26)
+  url: https://scinet.supercomputing.org/community/indis/indis2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-10
+    label: Student Track extended abstracts
+  - kind: submission
+    date: 2026-08-03
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://scinet.supercomputing.org/workshop/
+- https://scinet.supercomputing.org/community/indis/indis2026/
+- https://scinet.supercomputing.org/community/indis/submission/
+- https://scinet.supercomputing.org/community/indis/about-indis/
+- https://scinet.supercomputing.org/community/indis/previous-editions/
+- https://portal.core.edu.au/conf-ranks/?search=INDIS&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) paper deadline for 2026 and the 2025 deadlines are not shown on the official pages
+last_verified: 2026-11-07

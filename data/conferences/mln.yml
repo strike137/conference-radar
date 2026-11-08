@@ -1,0 +1,82 @@
+id: mln
+name: MLN
+full_name: International Conference on Machine Learning for Networking
+type: conference
+tier: minor
+areas: [networking, ai]
+region: europe
+language: english
+frequency: annual
+organizer: ADDA association (general chairs Selma Boumerdassi, Universite Paris 8, and Nour El Houda Yellas, Telecom SudParis; TPC chair Eric Renault, ESIEE Paris)
+organizer_country: [europe]
+proceedings: Springer LNCS (post-proceedings)
+archival: true
+indexing: [Scopus, EI, DBLP]
+fee: 450 EUR early author registration, 350 EUR non-author student (2026)
+typical:
+  deadline_months: [9, 10]
+  conference_months: [11, 12]
+links:
+  website: https://www.adda-association.org/mln-2026/
+notes:
+- Small annual conference on machine learning for networks and networks for AI, held since 2018
+- Held in France, mostly Paris (virtual in 2020 and 2021, Reims in 2024)
+- Revised selected papers in Springer LNCS after the event (LNCS 11407 for 2018 to LNCS 16424 for 2025)
+- 2026 edition has two submission rounds; registration forms are sent by email to the TPC chair
+- Selected papers considered for a journal special issue (MDPI Machine Learning and Knowledge Extraction for 2026)
+- 2019 edition was technically co-sponsored by IFIP WG 6.2
+- Not listed in CORE ICORE2026 or the CCF 2026 list; the mlnlp entry is a different venue
+editions:
+- year: 2025
+  start: 2025-12-02
+  end: 2025-12-04
+  location: Paris, France (INRIA Paris)
+  url: https://www.adda-association.org/mln-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-10-03
+    label: Paper submission (extended from 2025-09-19)
+  - kind: notification
+    date: 2025-10-17
+    label: Notification (extended from 2025-10-10)
+  - kind: camera_ready
+    date: 2025-10-31
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-03
+  location: Noisy-le-Grand (Paris), France (ESIEE Paris)
+  url: https://www.adda-association.org/mln-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-10-02
+    label: Paper submission, 1st round (extended from 2026-09-11)
+  - kind: notification
+    date: 2026-10-16
+    label: 1st round
+  - kind: submission
+    date: 2026-10-15
+    label: Paper submission, 2nd round
+  - kind: notification
+    date: 2026-10-30
+    label: 2nd round
+  - kind: camera_ready
+    date: 2026-11-06
+sources:
+- https://www.adda-association.org/mln-2026/
+- https://www.adda-association.org/mln-2026/Important_dates.html
+- https://www.adda-association.org/mln-2026/Committees.html
+- https://www.adda-association.org/mln-2026/Past_events.html
+- https://www.adda-association.org/mln-2026/Registration_and_venue.html
+- https://www.adda-association.org/mln-2025/
+- https://www.adda-association.org/mln-2025/Important_dates.html
+- https://www.adda-association.org/mln-2025/Committees.html
+- https://www.adda-association.org/mln-2025/Registration_and_venue.html
+- https://www.adda-association.org/mln-2019/
+- https://www.adda-association.org/mln-2024/
+- https://doi.org/10.1007/978-3-032-18494-8 (MLN 2025 LNCS volume, via Crossref)
+- https://portal.core.edu.au/conf-ranks/?search=MLN&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CCF rank checked in the CCF 2026 list PDF mirrored by ccfddl (ccf.org.cn blocks automated access)
+- Deadline times and time zone not stated on the official site
+last_verified: 2026-11-07

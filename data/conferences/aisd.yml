@@ -1,0 +1,51 @@
+id: aisd
+name: AISD
+full_name: "Workshop on AI and Scientific Discovery: Directions and Opportunities"
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: AISD organizers (Ai2, Microsoft, Hebrew University of Jerusalem, Stony Brook University, University of Arizona)
+organizer_country: [usa]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://ai-and-scientific-discovery.github.io/
+notes:
+- Workshop on language models and agents for scientific discovery (literature-based discovery, automated experiments, data-driven discovery)
+- First edition held with NAACL 2025 in Albuquerque on May 3, 2025
+- Archival papers up to 8 pages with double-blind review on OpenReview; non-archival papers and cross-submissions also accepted
+- Proceedings in the ACL Anthology (2025.aisd-1, 8 papers)
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 1st edition, with NAACL 2025
+  start: 2025-05-03
+  end: 2025-05-03
+  location: Albuquerque, New Mexico, USA
+  url: https://ai-and-scientific-discovery.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-02-06
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-02-27
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-03-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://ai-and-scientific-discovery.github.io/
+- https://aclanthology.org/venues/aisd/
+- https://portal.core.edu.au/conf-ranks/?search=AISD&by=all&source=ICORE2026
+unverified:
+- No second edition announced yet
+last_verified: 2026-11-07

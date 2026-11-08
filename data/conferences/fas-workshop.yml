@@ -1,0 +1,51 @@
+id: fas-workshop
+name: FAS
+full_name: Face Anti-Spoofing Workshop and Challenge
+type: workshop
+tier: minor
+areas: [vision, security]
+region: north-america
+language: english
+frequency: irregular
+organizer: Organizers led by Jun Wan (CASIA) with Sergio Escalera, Hugo Jair Escalante and Isabelle Guyon (ChaLearn)
+organizer_country: [china, europe]
+proceedings: CVF Open Access (CVPR or ICCV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://sites.google.com/view/face-anti-spoofing-challenge/
+notes:
+- Workshop and challenge on face presentation attack detection, held with CVPR or ICCV
+- Editions at CVPR 2019, CVPR 2020, ICCV 2021, CVPR 2023, CVPR 2024 and ICCV 2025
+- The 6th edition (ICCV 2025) focused on unified physical and digital attack detection with the UniAttackData+ dataset
+- 14 papers in the ICCV 2025 workshop proceedings on CVF Open Access
+- Workshop paper deadline comes right after the challenge ends
+- No 2026 edition announced as of November 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 6th edition, with ICCV 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, USA
+  url: https://sites.google.com/view/face-anti-spoofing-challenge/welcome/challengeiccv2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-09
+  - kind: camera_ready
+    date: 2025-08-18
+  - kind: other
+    date: 2025-06-28
+    label: Challenge final predictions and code
+sources:
+- https://sites.google.com/view/face-anti-spoofing-challenge/
+- https://sites.google.com/view/face-anti-spoofing-challenge/welcome/challengeiccv2025
+- https://openaccess.thecvf.com/ICCV2025_workshops/FAS2025
+- https://openaccess.thecvf.com/ICCV2025_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=FAS&by=all&source=ICORE2026
+unverified:
+- Notification date for the 2025 workshop papers is not stated on the official page
+- Workshop city taken from the ICCV 2025 venue; the challenge page names only ICCV
+last_verified: 2026-11-07

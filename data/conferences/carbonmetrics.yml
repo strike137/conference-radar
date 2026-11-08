@@ -1,0 +1,57 @@
+id: carbonmetrics
+name: CarbonMetrics
+full_name: Workshop on Measurements, Modeling, and Metrics for Carbon-Aware Computing
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: north-america
+language: english
+frequency: annual
+organizer: CarbonMetrics workshop chairs (AWS, Indiana University, UMass Amherst) with ACM SIGMETRICS
+organizer_country: [usa]
+proceedings: ACM SIGMETRICS Performance Evaluation Review (PER, ACM DL)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://noman-bashir.github.io/CarbonMetrics/index.html
+notes:
+- One-day workshop held with ACM SIGMETRICS on metrics, modeling and measurement for carbon-aware computing
+- First edition in 2025 (Stony Brook), second in 2026 (Ann Arbor)
+- Short submissions of up to 2 pages excluding references (talk abstracts and vision statements) in the PER template,
+  via HotCRP
+- Revised accepted submissions are published in a special issue of ACM Performance Evaluation Review (PER), with
+  one extra page allowed
+- Authors keep copyright and are free to submit the work elsewhere
+- Location follows SIGMETRICS
+- Not listed in CORE ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-12
+  end: 2026-06-12
+  location: Ann Arbor, USA (with ACM SIGMETRICS 2026, University of Michigan)
+  url: https://noman-bashir.github.io/CarbonMetrics/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-04-22
+    tz: AoE
+  - kind: notification
+    date: 2026-04-29
+    time: "09:00"
+    tz: EDT
+  - kind: camera_ready
+    date: 2026-05-29
+    time: "17:00"
+    tz: EDT
+sources:
+- https://noman-bashir.github.io/CarbonMetrics/index.html
+- https://noman-bashir.github.io/CarbonMetrics/submission_guidelines
+- https://noman-bashir.github.io/CarbonMetrics/program
+- https://noman-bashir.github.io/CarbonMetrics/index_2025.html
+- https://www.sigmetrics.org/sigmetrics2026/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=CarbonMetrics&by=all&source=ICORE2026
+unverified:
+- CarbonMetrics 2027 not announced yet (SIGMETRICS 2027 is part of ACM FCRC in Atlanta)
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-07

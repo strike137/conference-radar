@@ -1,0 +1,54 @@
+id: iadis-ac
+name: AC
+full_name: IADIS International Conference on Applied Computing
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: IADIS (International Association for Development of the Information Society)
+organizer_country: [europe]
+proceedings: IADIS Digital Library (proceedings book with ISBN, DOIs via Crossref)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [9]
+  conference_months: [10]
+links:
+  website: https://www.computing-conf.org/
+notes:
+- Run by IADIS since 2004; blind peer review; CORE C (listed as IADIS AC)
+- Proceedings book and digital copy with ISBN in the IADIS Digital Library, a DOI per paper
+- Best papers invited to the IADIS Journal on Computer Science and Information Systems
+- Several calls for papers per edition; the last call closes about seven weeks before the conference
+- Co-located with IADIS WWW/Internet; held in Europe (Zagreb 2024, Porto 2025, Lisbon 2026)
+editions:
+- year: 2026
+  start: 2026-10-24
+  end: 2026-10-26
+  location: Lisbon, Portugal
+  url: https://www.computing-conf.org/
+  deadlines:
+  - kind: camera_ready
+    date: 2026-07-24
+    label: 1st CFP (camera ready and early registration)
+  - kind: submission
+    date: 2026-09-04
+    label: Last CFP
+  - kind: notification
+    date: 2026-09-28
+    label: Last CFP
+sources:
+- https://www.computing-conf.org/
+- https://www.computing-conf.org/important-dates
+- https://www.computing-conf.org/publications
+- https://www.computing-conf.org/previous-editions
+- https://computing-conf.org/oldconferences/2025/
+- https://computing-conf.org/oldconferences/2024/
+- https://portal.core.edu.au/conf-ranks/?search=IADIS&by=all&source=ICORE2026
+unverified:
+- First-CFP submission deadline not shown on the important dates page
+- Indexing not confirmed; the site says proceedings will be submitted (pending approval) to indexing services
+last_verified: 2026-11-07

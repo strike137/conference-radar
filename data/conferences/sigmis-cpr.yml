@@ -1,0 +1,66 @@
+id: sigmis-cpr
+name: ACM SIGMIS CPR
+full_name: ACM SIGMIS Computers and People Research Conference
+type: conference
+tier: minor
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGMIS
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://sigmis.org/cpr/
+notes:
+- Annual conference of ACM SIGMIS on IT and people (IT workforce, careers, education, future of work), held for over 60 years (64th edition in 2027)
+- Started as the Computer Personnel Research conference (SIGCPR); renamed Computers and People Research in 2012
+- Proceedings in the ACM Digital Library
+- Includes a doctoral consortium the day before the main conference; SEED track with a later deadline
+- Usually held in the USA (Atlanta 2022, Pomona 2023, Murfreesboro 2024, Waco 2025, Flagstaff 2026, St. Louis 2027); virtual in 2021
+- Deadlines stated in CDT (UTC-5)
+editions:
+- year: 2026
+  start: 2026-05-20
+  end: 2026-05-22
+  location: Flagstaff, Arizona, USA (Little America Hotel)
+  url: https://sigmis.org/cpr/conference-registration/
+  status: confirmed
+- year: 2027
+  start: 2027-05-19
+  end: 2027-05-21
+  location: St. Louis, Missouri, USA
+  url: https://sigmis.org/cpr/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-02-07
+    tz: UTC-5
+  - kind: notification
+    date: 2027-03-15
+    label: Initial notification
+  - kind: submission
+    date: 2027-03-28
+    tz: UTC-5
+    label: SEED submissions
+  - kind: notification
+    date: 2027-04-02
+    label: Final notification
+  - kind: camera_ready
+    date: 2027-04-07
+sources:
+- https://sigmis.org/cpr/
+- https://sigmis.org/cpr/submissions/
+- https://sigmis.org/cpr/conference-hotel/
+- https://sigmis.org/cpr/conference-registration/
+- https://sigmis.org/cpr/proceedings/
+- https://sigmis.org/events/cpr-conference/
+- https://sigmis.org/events/upcoming-conferences/
+- https://portal.core.edu.au/conf-ranks/?search=SIGMIS&by=all&source=ICORE2026
+unverified:
+- Not listed in ICORE2026 or CCF 2026
+last_verified: 2026-11-07

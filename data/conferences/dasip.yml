@@ -1,0 +1,106 @@
+id: dasip
+name: DASIP
+full_name: Workshop on Design and Architectures for Signal and Image Processing
+type: workshop
+tier: minor
+areas: [systems, vision]
+region: europe
+language: english
+frequency: annual
+organizer: DASIP steering committee (European universities; chairs rotate), co-located with HiPEAC
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [9, 11]
+  conference_months: [1]
+links:
+  website: https://dasip-2027.github.io/
+notes:
+- Workshop on signal, image and video processing and machine learning on embedded, edge and cloud architectures, held since 2007
+- Co-located with the HiPEAC conference since 2021 (January, Europe)
+- Proceedings in Springer LNCS since 2022 (2021 edition in the ACM ICPS)
+- Two submission cycles (preliminary and main); papers rejected in the preliminary cycle can be resubmitted to the main cycle
+- Full papers up to 12 pages in LNCS format, double-blind, at least three reviews; no short paper track
+- Submission through OpenReview; at least one author must pay the full HiPEAC registration
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-01-27
+  end: 2026-01-28
+  location: Krakow, Poland (with HiPEAC 2026)
+  url: https://dasip-2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-21
+    time: "23:59"
+    tz: AoE
+    label: Preliminary cycle (extended)
+  - kind: submission
+    date: 2025-09-26
+    time: "23:59"
+    tz: AoE
+    label: Preliminary cycle (extended)
+  - kind: abstract
+    date: 2025-11-17
+    time: "23:59"
+    tz: AoE
+    label: Main cycle (extended)
+  - kind: submission
+    date: 2025-11-24
+    time: "23:59"
+    tz: AoE
+    label: Main cycle (extended)
+  - kind: camera_ready
+    date: 2026-01-17
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-01-18
+  end: 2027-01-20
+  location: Glasgow, UK (with HiPEAC 2027)
+  url: https://dasip-2027.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-26
+    time: "23:59"
+    tz: AoE
+    label: Preliminary cycle (extended from 2026-08-18)
+  - kind: submission
+    date: 2026-09-10
+    time: "23:59"
+    tz: AoE
+    label: Preliminary cycle (extended from 2026-08-25)
+  - kind: notification
+    date: 2026-10-13
+    label: Preliminary cycle (extended from 2026-10-06)
+  - kind: abstract
+    date: 2026-11-04
+    time: "23:59"
+    tz: AoE
+    label: Main cycle (extended from 2026-10-20)
+  - kind: submission
+    date: 2026-11-10
+    time: "23:59"
+    tz: AoE
+    label: Main cycle (extended from 2026-10-27)
+  - kind: notification
+    date: 2026-12-14
+    label: Main cycle
+  - kind: camera_ready
+    date: 2027-01-09
+    time: "23:59"
+    tz: AoE
+sources:
+- https://dasip-2027.github.io/
+- https://dasip-2026.github.io/
+- https://link.springer.com/conference/dasip
+- https://doi.org/10.1145/3441110 (DASIP 2021 ACM ICPS volume, via Crossref)
+- https://doi.org/10.1007/978-3-032-23871-9 (DASIP 2026 LNCS volume, via Crossref)
+- https://doi.org/10.1007/978-3-031-87897-8 (DASIP 2025 LNCS volume, via Crossref)
+- https://portal.core.edu.au/conf-ranks/?search=DASIP&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CCF rank checked in the CCF 2026 list PDF mirrored by ccfddl (ccf.org.cn blocks automated access)
+- 2027 start and end dates are those of the HiPEAC 2027 conference; the workshop program days are not announced yet (the 2026 workshop ran on 2026-01-27 and 2026-01-28 within HiPEAC 2026, January 26 to 28)
+last_verified: 2026-11-07

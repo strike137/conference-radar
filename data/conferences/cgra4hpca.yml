@@ -1,0 +1,54 @@
+id: cgra4hpca
+name: CGRA4HPCA
+full_name: International Workshop on Coarse-Grained Reconfigurable Architectures for High-Performance Computing and AI
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: CGRA4HPCA organizers (KTH, RIKEN, University of Toronto), held with IEEE IPDPS
+organizer_country: [europe, japan, canada]
+proceedings: IEEE Xplore (IPDPS Workshops)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://cgra4hpca.github.io/
+notes:
+- Workshop on coarse-grained reconfigurable arrays (CGRAs) for HPC and AI, covering architectures, compilers, runtimes and applications
+- Co-located with IEEE IPDPS, so it moves with IPDPS (New Orleans 2026, Seattle 2027); 2027 is the sixth edition
+- Accepted papers go into the IPDPS workshop proceedings, submitted to IEEE Xplore
+- Papers up to 8 pages, IEEE conference style; single-blind review
+- Industry and startup talks on new CGRA technologies in a lightning session
+- Organized by Artur Podobas (KTH), Kentaro Sano and Tomohiro Ueno (RIKEN) and Jason Anderson (University of Toronto)
+- Not listed in CORE ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-25
+  location: New Orleans, USA (with IPDPS 2026)
+  url: https://cgra4hpca.github.io/CGRA4HPC_CFP.txt
+  deadlines:
+  - kind: submission
+    date: 2026-02-24
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-03-06
+  - kind: camera_ready
+    date: 2026-03-13
+- year: 2027
+  start: 2027-06-02
+  end: 2027-06-02
+  location: Seattle, USA (with IPDPS 2027)
+  url: https://cgra4hpca.github.io/
+sources:
+- https://cgra4hpca.github.io/
+- https://cgra4hpca.github.io/CGRA4HPC_CFP.txt
+- https://www.ipdps.org/ipdps2026/2026-workshops.html
+- https://www.ipdps.org/ipdps2027/2027-workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=CGRA4HPCA&by=all&source=ICORE2026
+unverified:
+- 2027 submission and camera-ready dates are "to be announced" on the official site
+last_verified: 2026-11-07

@@ -1,0 +1,72 @@
+id: icicic
+name: ICICIC
+full_name: International Conference on Innovative Computing, Information and Control
+type: conference
+tier: minor
+areas: [ai, general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ICIC International
+organizer_country: [japan, china]
+proceedings: ICICIC program and proceedings (ICIC International)
+archival: false
+typical:
+  deadline_months: [5, 7]
+  conference_months: [8, 11]
+links:
+  website: http://www.icicconference.org/
+notes:
+- Run by ICIC International (founded 2004); 20th edition in 2026
+- Alternates between Japan and China (Kumamoto 2023, Qinhuangdao 2024, Kitakyushu 2025, Chongqing 2026); earlier also Korea and Taiwan
+- Broad scope across computing, information and control (AI, data analytics, systems, control, signal processing)
+- Two submission types, full papers (up to 8 pages) and 2-page extended abstracts; many special sessions and co-located workshops
+- Accepted papers go into the conference program and proceedings; selected papers are recommended to Scopus, ESCI or Ei indexed journals
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 19th ICICIC
+  start: 2025-08-26
+  end: 2025-08-29
+  location: Kitakyushu, Japan
+  url: http://www.icicconference.org/icicic2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-30
+  - kind: notification
+    date: 2025-06-20
+    label: From this date
+  - kind: camera_ready
+    date: 2025-07-20
+    label: Final submission
+- year: 2026
+  label: 20th ICICIC
+  start: 2026-11-20
+  end: 2026-11-23
+  location: Chongqing, China
+  url: http://www.icicconference.org/icicic2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    label: Papers and abstracts (extended)
+  - kind: notification
+    date: 2026-08-20
+    label: From this date
+  - kind: other
+    date: 2026-10-15
+    label: Registration deadline
+  - kind: other
+    date: 2027-02-20
+    label: Full paper final submission
+sources:
+- http://www.icicconference.org/
+- http://www.icicconference.org/icicic2025/
+- http://www.icicconference.org/icicic2026/
+- http://www.icicconference.org/icicic2026/assets/IndexPage-BjPOe5cS.js (dates of the JS-rendered 2026 page)
+- http://www.icicconference.org/icicic2026/assets/MainLayout-DJp3hI3i.js (text of the JS-rendered 2026 page)
+- https://portal.core.edu.au/conf-ranks/?search=ICICIC&by=all&source=ICORE2026
+unverified:
+- Proceedings format (ISBN or digital library) not stated on the official pages
+- Not listed in the CCF 2026 list as far as checked; acceptance rate not published
+last_verified: 2026-11-07

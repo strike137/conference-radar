@@ -1,0 +1,66 @@
+id: icns3
+name: ICNS3
+full_name: International Conference on ns-3
+type: conference
+tier: minor
+areas: [networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ns-3 project (nsnam); formerly the Workshop on ns-3 run by the ns-3 Consortium
+organizer_country: [international]
+proceedings: ACM DL (ACM ICPS)
+archival: true
+typical:
+  deadline_months: [3, 5]
+  conference_months: [8, 10]
+links:
+  website: https://www.nsnam.org/research/icns3/
+notes:
+- Annual conference on the ns-3 discrete-event network simulator, its models, validation and use in networking research
+- Renamed from the Workshop on ns-3 (WNS3, 2009 to 2024) to ICNS3 in 2025
+- Proceedings in the ACM International Conference Proceeding Series (ACM DL); APC applies to authors outside ACM Open without a waiver
+- Papers up to 9 pages in the ACM format, single-blind review; reproducibility and artifacts weigh in the review and ACM badges are awarded
+- Held together with the ns-3 developers meeting, training and tutorials; posters, demos and lightning talks are published on the ns-3 website only
+- Location moves around (2023 Washington DC area, 2024 Barcelona, 2025 Osaka, 2026 Naples)
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-08-19
+  end: 2025-08-21
+  location: Osaka, Japan (Ritsumeikan University Osaka Ibaraki Campus)
+  url: https://www.nsnam.org/research/icns3/icns3-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-21
+    time: "17:00"
+    tz: EST
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-21
+  location: Naples, Italy (University of Naples Federico II)
+  url: https://www.nsnam.org/research/icns3/icns3-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    label: Extended from 2026-05-24
+  - kind: notification
+    date: 2026-07-01
+sources:
+- https://www.nsnam.org/research/icns3/
+- https://www.nsnam.org/research/icns3/icns3-2026/
+- https://www.nsnam.org/research/icns3/icns3-2026/call-for-papers/
+- https://www.nsnam.org/research/icns3/icns3-2025/
+- https://www.nsnam.org/research/icns3/icns3-2025/call-for-papers/
+- https://www.nsnam.org/research/wns3/
+- https://www.nsnam.org/research/wns3/wns3-2024/
+- https://www.nsnam.org/research/wns3/wns3-2023/
+- https://www.nsnam.org/research/wns3/wns3-2022/
+- https://www.nsnam.org/research/wns3/wns3-2021/
+- https://portal.core.edu.au/conf-ranks/?search=ICNS3&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=WNS3&by=all&source=ICORE2026
+unverified:
+- 2026 notification date is given as tentative on the CFP page
+- 2027 edition not announced yet
+- DBLP page could not be checked (dblp.org blocks automated access); CCF 2026 list not checked online, ICNS3 is not a known CCF venue
+last_verified: 2026-11-07

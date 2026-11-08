@@ -1,0 +1,46 @@
+id: arlet
+name: ARLET
+full_name: Workshop on Aligning Reinforcement Learning Experimentalists and Theorists
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ARLET workshop organizers (Politecnico di Milano, University of Zurich and others); co-located with ICML or NeurIPS
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://arlet-workshop.github.io/
+notes:
+- Workshop bridging reinforcement learning theory and practice, with a research paper track and an idea track for open problems
+- Two editions so far, at ICML 2024 (Vienna) and NeurIPS 2025 (San Diego)
+- No proceedings; parallel submissions and already published papers are allowed
+- Papers up to 9 pages in adapted NeurIPS style; double-blind review on OpenReview
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 2nd edition, with NeurIPS 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  location: San Diego, CA, USA (co-located with NeurIPS 2025)
+  url: https://arlet-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-09-02
+    tz: AoE
+  - kind: notification
+    date: 2025-09-22
+    tz: AoE
+sources:
+- https://arlet-workshop.github.io/
+- https://arlet-workshop.github.io/neurips2025/cfp
+- https://arlet-workshop.github.io/icml2024/about
+- https://portal.core.edu.au/conf-ranks/?search=ARLET&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- No 2026 or 2027 edition announced on the official site as of 2026-11-07

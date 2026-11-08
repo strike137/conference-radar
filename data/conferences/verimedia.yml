@@ -1,0 +1,50 @@
+id: verimedia
+name: VERIMEDIA
+full_name: International Workshop on Media Verification and Integrity
+type: workshop
+tier: minor
+areas: [security, ai, vision]
+region: europe
+language: english
+organizer: VERIMEDIA organizers (Sapienza University of Rome, University of Siena, University of Cagliari)
+organizer_country: [europe]
+proceedings: Springer CCIS (post-proceedings)
+archival: true
+typical:
+  deadline_months: [3, 9]
+  conference_months: [7, 11]
+links:
+  website: https://verimedia.github.io/workshop.website/
+notes:
+- Workshop on multimedia forensics, deepfake detection, adversarial ML and AI-generated media attribution across images, video, text and audio
+- 1st edition at IJCNN 2025 in Rome (July 2025); 2nd edition at ACM CIKM 2026 in Rome; host conference is not fixed
+- 2026 accepted papers published as post-proceedings in Springer CCIS
+- Full papers 12-15 pages, short papers 6-11 pages (Springer format), double-blind review via Microsoft CMT
+- Fully in-person; at least one author must register for CIKM 2026 and present in Rome
+- The 2025 edition was supported by the Italian SERICS project (FF4ALL)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-08
+  location: Rome, Italy (co-located with ACM CIKM 2026)
+  url: https://verimedia.github.io/workshop.website/
+  deadlines:
+  - kind: submission
+    date: 2026-09-12
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-09-17
+  - kind: camera_ready
+    date: 2026-10-01
+sources:
+- https://verimedia.github.io/workshop.website/
+- https://verimedia.github.io/workshop.website/ijcnn2025.html
+- https://cikm2026.diag.uniroma1.it/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=VERIMEDIA&by=all&source=ICORE2026
+unverified:
+- Proceedings series of the 2025 IJCNN edition not stated on the official site
+- 2027 edition and host conference not announced as of 2026-11-07
+last_verified: 2026-11-07

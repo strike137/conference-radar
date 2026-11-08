@@ -1,0 +1,78 @@
+id: cslaw
+name: CS&Law
+full_name: ACM Symposium on Computer Science and Law
+type: conference
+tier: minor
+areas: [security, ai, general]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM (CS&Law steering committee)
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [3]
+links:
+  website: https://computersciencelaw.org/
+notes:
+- Interdisciplinary ACM venue for research that combines rigorous computer science with rigorous legal analysis
+- Topics include privacy, encryption and surveillance, cybersecurity regulation, AI regulation, ML fairness, digital forensics and platform governance
+- Three submission types; full archival papers in the ACM DL proceedings, full non-archival papers (one-page summary only) and posters
+- Single-blind review with an author response phase; 15-page archival versions may be submitted to law reviews in parallel
+- Held in the USA except 2025 (New York 2019, Washington DC 2022, Boston 2024, Munich 2025, Berkeley 2026, Chicago 2027)
+- Annual since 2024; a workshop for junior scholars runs alongside
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-03-03
+  end: 2026-03-05
+  location: Berkeley, California, USA
+  url: https://computersciencelaw.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-09-30
+    tz: AoE
+    label: Full papers (archival and non-archival)
+  - kind: notification
+    date: 2025-12-05
+  - kind: camera_ready
+    date: 2026-01-16
+  - kind: other
+    date: 2026-01-20
+    tz: AoE
+    label: Posters
+- year: 2027
+  start: 2027-03-23
+  end: 2027-03-25
+  location: Northwestern University, Chicago, Illinois, USA
+  url: https://computersciencelaw.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-20
+    tz: AoE
+    label: Full papers (archival and non-archival)
+  - kind: other
+    date: 2026-11-30
+    label: Optional author responses
+  - kind: notification
+    date: 2027-01-02
+  - kind: camera_ready
+    date: 2027-02-05
+  - kind: other
+    date: 2027-02-09
+    tz: AoE
+    label: Posters
+sources:
+- https://computersciencelaw.org/
+- https://computersciencelaw.org/2027-cfp/
+- https://computersciencelaw.org/2026/
+- https://computersciencelaw.org/2026-2/2026-cfp/
+- https://computersciencelaw.org/2026-proceedings/
+- https://computersciencelaw.org/2025/
+- https://computersciencelaw.org/2024-2/
+- https://computersciencelaw.org/2022/
+- https://computersciencelaw.org/2019/
+- https://portal.core.edu.au/conf-ranks/?search=CSLAW&by=all&source=ICORE2026
+last_verified: 2026-11-07

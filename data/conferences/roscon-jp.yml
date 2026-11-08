@@ -1,0 +1,61 @@
+id: roscon-jp
+name: ROSCon JP
+full_name: ROSCon JP
+type: industry
+tier: domestic
+areas: [software, systems]
+region: japan
+language: japanese
+frequency: annual
+organizer: ROSCon JP (general incorporated association), co-hosted with Open Robotics
+organizer_country: [japan]
+proceedings: None
+archival: false
+fee: 'Conference only 2027: business 55,000 JPY early, individual 33,000 JPY early, student 16,500 JPY early'
+typical:
+  deadline_months: [1, 5]
+  conference_months: [5, 8]
+links:
+  website: https://roscon.ros.org/jp/2027/
+notes:
+- Official Japanese local edition of ROSCon, the ROS (Robot Operating System) developer conference, held since 2018
+- Talks on ROS, Gazebo and Open-RMF packages, tools and robot software practice; proposals and talks in Japanese
+- Talk proposals reviewed by a program committee; lightning talks registered on the day; hands-on workshops on the
+  morning of day 1
+- Held mostly in Tokyo (Kyoto 2022, Nagoya 2025, Tsukuba 2026, Osaka 2027); over 200 participants at every edition
+- Diversity scholarship for women and students; talk slides and videos archived on the site
+- No papers or proceedings; talks only
+editions:
+- year: 2026
+  start: 2026-08-04
+  end: 2026-08-05
+  location: Tsukuba Capio, Tsukuba, Japan
+  url: https://roscon.ros.org/jp/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-01
+    label: Talk proposals (extended)
+  - kind: notification
+    date: 2026-06-12
+- year: 2027
+  start: 2027-05-20
+  end: 2027-05-21
+  location: MyDome Osaka, Osaka, Japan
+  url: https://roscon.ros.org/jp/2027/
+  deadlines:
+  - kind: other
+    date: 2026-12-18
+    label: Workshop proposals
+  - kind: submission
+    date: 2027-01-29
+    label: Talk proposals
+  - kind: notification
+    date: 2027-03-19
+sources:
+- https://roscon.ros.org/jp/2027/
+- https://roscon.ros.org/jp/2026/
+- https://portal.core.edu.au/conf-ranks/?search=ROSCon&by=all&source=ICORE2026
+unverified:
+- Deadline times are not stated
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-11-07

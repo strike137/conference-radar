@@ -1,0 +1,51 @@
+id: conacic
+name: CONACIC
+full_name: Congreso Internacional y Congreso Nacional de Ciencias de la Computación (International and National Congress of Computer Science)
+type: conference
+tier: domestic
+areas: [general, ai, data]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: Facultad de Ciencias de la Computación, Benemérita Universidad Autónoma de Puebla (BUAP)
+organizer_country: [other]
+proceedings: Book chapters with ISBN (CONACIC books) or articles in the journal Abstraction and Application (UADY)
+archival: false
+fee: Free attendance; a fee applies only for publication as a book chapter with ISBN (2026)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10]
+links:
+  website: https://conacic.siycise.org/
+notes:
+- Mexican computer science congress run by the BUAP Faculty of Computer Science in Puebla; 16th national and 8th international edition in 2026
+- Broad topics (AI, data science, robotics, cybersecurity, software engineering, IoT, education) plus a special health topic in 2026
+- Papers up to 10 pages in Spanish or English, double-blind review via EasyChair
+- Accepted papers appear as book chapters with ISBN or in the journal Abstraction and Application; extended versions can go to IJCOPI or Computación y Sistemas
+- 2026 edition was virtual, with on-demand paper talks; national program on four days and international program on one day
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-09
+  location: BUAP, Puebla, Mexico (virtual)
+  url: https://conacic.siycise.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-13
+    label: Extended from Jun 15
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-08-31
+sources:
+- https://conacic.siycise.org/
+- https://conacic.siycise.org/convocatoria
+- https://conacic.siycise.org/program
+- https://conacic.siycise.org/books
+- https://easychair.org/cfp/CONACIC2026
+- https://portal.core.edu.au/conf-ranks/?search=CONACIC&by=all&source=ICORE2026
+unverified:
+- Notification date differs between the official site (Aug 15) and the EasyChair CFP (Aug 3); the official site value is used
+- Locations of editions before 2026 not checked
+last_verified: 2026-11-07

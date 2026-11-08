@@ -1,0 +1,95 @@
+id: icsbt
+name: ICSBT
+full_name: International Conference on Smart Business Technologies
+type: conference
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: INSTICC (Institute for Systems and Technologies of Information, Control and Communication)
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7]
+links:
+  website: https://icsbt.scitevents.org/
+notes:
+- Organized by INSTICC; formerly ICE-B (International Conference on e-Business); 2027 is the 24th edition
+- Proceedings published by Springer in a CCIS book; 2026 papers also in the SCITEPRESS Digital Library
+- Business-oriented scope with technical tracks on AI and decision intelligence, FinTech, blockchain and digital trust
+- Not listed in the ICORE2026 CORE ranking
+- 'Two submission stages: regular papers in stage 1, regular or position papers in stage 2 (earlier stage gives earlier notification)'
+- Held in Europe every year, co-located with SECRYPT, QUANTICS, SIMULTECH and ABH (2027); one registration covers them as a non-speaker
+- Locations (Dijon 2024, Bilbao 2025, Porto 2026, Rome 2027)
+editions:
+- year: 2026
+  start: 2026-07-19
+  end: 2026-07-20
+  location: Porto, Portugal
+  url: https://icsbt.scitevents.org/?y=2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-23
+    tz: AoE
+    label: Regular papers (stage 1)
+  - kind: submission
+    date: 2026-04-23
+    tz: AoE
+    label: Position / regular papers (stage 2)
+  - kind: notification
+    date: 2026-04-30
+    label: Stage 1
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Stage 1
+  - kind: notification
+    date: 2026-05-22
+    label: Stage 2
+  - kind: camera_ready
+    date: 2026-06-05
+    label: Stage 2
+- year: 2027
+  start: 2027-07-22
+  end: 2027-07-23
+  location: Rome, Italy
+  url: https://icsbt.scitevents.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-16
+    tz: AoE
+    label: Regular papers (stage 1)
+  - kind: submission
+    date: 2027-03-25
+    tz: AoE
+    label: Position / regular papers (stage 2)
+  - kind: notification
+    date: 2027-04-09
+    label: Stage 1
+  - kind: camera_ready
+    date: 2027-04-21
+    label: Stage 1
+  - kind: other
+    date: 2027-05-13
+    tz: AoE
+    label: Abstracts track submission
+  - kind: notification
+    date: 2027-05-17
+    label: Stage 2
+  - kind: camera_ready
+    date: 2027-06-01
+    label: Stage 2
+sources:
+- https://icsbt.scitevents.org/
+- https://icsbt.scitevents.org/ImportantDates.aspx
+- https://icsbt.scitevents.org/?y=2026
+- https://icsbt.scitevents.org/ImportantDates.aspx?y=2026
+- https://icsbt.scitevents.org/?y=2025
+- https://icsbt.scitevents.org/?y=2024
+- https://icsbt.scitevents.org/BooksPublished.aspx
+- https://portal.core.edu.au/conf-ranks/?search=ICSBT&by=all&source=ICORE2026
+unverified:
+- Indexing not confirmed; the site says proceedings will be submitted to Web of Science CPCI for evaluation
+last_verified: 2026-11-07

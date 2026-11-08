@@ -1,0 +1,73 @@
+id: nice
+name: NICE
+full_name: Neuro Inspired Computational Elements Conference
+type: conference
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: NICE Workshop Foundation (organizing committee from labs and companies such as Sandia, Intel, IBM, Heidelberg and Manchester)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [3, 4]
+links:
+  website: https://niceworkshop.org/
+notes:
+- Annual meeting of the neuromorphic computing community since 2013 (neural algorithms, neuromorphic hardware, spiking networks, applications)
+- Three conference days plus a hands-on tutorial day
+- Regular papers of 4 to 8 pages are reviewed by the program committee and accepted as full talk, lightning talk or poster
+- Proceedings in IEEE Xplore since 2024 (ACM DL for 2022 and 2023); authors can opt out of the proceedings
+- Separate late breaking news abstract track about two months before the conference
+- Talk videos are published on the NICE YouTube channel
+- Location alternates between the USA and Europe (2023 San Antonio, 2024 La Jolla, 2025 Heidelberg, 2026 Atlanta, 2027 Brighton)
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-03-24
+  end: 2026-03-27
+  location: Atlanta, GA, USA (Georgia Institute of Technology; tutorial day on 27 March)
+  url: https://niceworkshop.org/nice-2026/
+  deadlines:
+  - kind: submission
+    date: 2025-12-02
+    label: Extended from 2025-11-24
+  - kind: camera_ready
+    date: 2026-02-27
+  - kind: other
+    date: 2026-02-01
+    label: Late breaking news abstracts
+- year: 2027
+  start: 2027-04-06
+  end: 2027-04-09
+  location: Brighton, United Kingdom (University of Sussex; tutorial day on 9 April)
+  url: https://niceworkshop.org/nice-2027/
+  deadlines:
+  - kind: submission
+    date: 2026-11-11
+    label: Paper submission (the site says it will be extended to at least 2026-11-23)
+  - kind: other
+    date: 2026-12-02
+    label: Tutorial suggestions
+  - kind: other
+    date: 2027-02-01
+    label: Late breaking news abstracts
+sources:
+- https://niceworkshop.org/
+- https://niceworkshop.org/nice-2027/
+- https://niceworkshop.org/nice-2026/
+- https://niceworkshop.org/nice-2026/venue/
+- https://niceworkshop.org/nice-2025/
+- https://niceworkshop.org/nice-2024/
+- https://niceworkshop.org/nice-2023/
+- https://niceworkshop.org/nice-2023/nice2023-organisers/
+- https://niceworkshop.org/nice-2022/
+- https://portal.core.edu.au/conf-ranks/?search=NICE&by=all&source=ICORE2026
+unverified:
+- NICE 2027 paper deadline is announced to be extended to at least 2026-11-23; the final date is not yet published
+- Country of the NICE Workshop Foundation is not stated on the site
+- DBLP page could not be checked (dblp.org blocks automated access); CCF 2026 list not checked online, NICE is not a known CCF venue
+last_verified: 2026-11-07

@@ -1,0 +1,102 @@
+id: abh
+name: ABH
+full_name: International Conference on AI and Blockchain in Healthcare
+type: conference
+tier: minor
+areas: [ai, security, nlp]
+region: europe
+language: english
+frequency: annual
+organizer: INSTICC (Institute for Systems and Technologies of Information, Control and Communication)
+organizer_country: [europe]
+proceedings: SCITEPRESS
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [7]
+links:
+  website: https://abh.scitevents.org/
+notes:
+- INSTICC conference on AI and blockchain applied to healthcare (blockchain engineering, agentic AI, NLP and knowledge graphs, governance and ethics by design); first held in 2026
+- Proceedings in the SCITEPRESS Digital Library; selected papers invited to extend for Springer and journal special issues
+- Two submission stages (regular papers in stage 1, regular or position papers in stage 2); earlier stage gives earlier notification
+- 2026 co-located with SIMULTECH and ICSBT in Porto; 2027 with SECRYPT, QUANTICS, SIMULTECH and ICSBT in Rome; one registration covers them as a non-speaker
+- Remote presentation allowed when travel is not possible
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-07-19
+  end: 2026-07-20
+  location: Porto, Portugal
+  url: https://abh.scitevents.org/?y=2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-23
+    tz: AoE
+    label: Regular papers (stage 1)
+  - kind: submission
+    date: 2026-04-23
+    tz: AoE
+    label: Position / regular papers (stage 2)
+  - kind: notification
+    date: 2026-04-30
+    label: Stage 1
+  - kind: submission
+    date: 2026-05-15
+    tz: AoE
+    label: Late-breaking papers
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Stage 1
+  - kind: notification
+    date: 2026-05-22
+    label: Stage 2
+  - kind: camera_ready
+    date: 2026-06-05
+    label: Stage 2
+- year: 2027
+  start: 2027-07-22
+  end: 2027-07-23
+  location: Rome, Italy
+  url: https://abh.scitevents.org/
+  deadlines:
+  - kind: other
+    date: 2027-03-01
+    tz: AoE
+    label: Workshop and special session proposals
+  - kind: submission
+    date: 2027-02-16
+    tz: AoE
+    label: Regular papers (stage 1)
+  - kind: submission
+    date: 2027-03-25
+    tz: AoE
+    label: Position / regular papers (stage 2)
+  - kind: notification
+    date: 2027-04-09
+    label: Stage 1
+  - kind: camera_ready
+    date: 2027-04-21
+    label: Stage 1
+  - kind: other
+    date: 2027-05-13
+    tz: AoE
+    label: Abstracts track
+  - kind: notification
+    date: 2027-05-17
+    label: Stage 2
+  - kind: camera_ready
+    date: 2027-06-01
+    label: Stage 2
+sources:
+- https://abh.scitevents.org/
+- https://abh.scitevents.org/ImportantDates.aspx
+- https://abh.scitevents.org/ConferenceVenue.aspx
+- https://abh.scitevents.org/BooksPublished.aspx
+- https://abh.scitevents.org/?y=2026
+- https://abh.scitevents.org/ImportantDates.aspx?y=2026
+- https://portal.core.edu.au/conf-ranks/?search=ABH&by=all&source=ICORE2026
+unverified:
+- Indexing not confirmed; the site only says proceedings will be submitted to Web of Science CPCI for evaluation
+- CCF 2026 list not checked directly on ccf.org.cn
+last_verified: 2026-11-07

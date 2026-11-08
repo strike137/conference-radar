@@ -1,0 +1,79 @@
+id: inra
+name: INRA
+full_name: International Workshop on News Recommendation and Analytics
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: INRA organizers and steering committee (NTNU NorwAI, University of Mannheim, University of Fribourg, TU Berlin, Northwestern University)
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [4, 7]
+  conference_months: [6, 9]
+links:
+  website: https://research.idi.ntnu.no/NewsTech/INRA/index.html
+notes:
+- Workshop series on news recommendation, news analytics and the effect of LLMs on the news ecosystem; 14th edition in 2026
+- Host conference varies; at ACM RecSys in most years (Bari 2024, Prague 2025), at ACM UMAP 2026 in Gothenburg
+- Proceedings in CEUR-WS for every edition from 2021 to 2025 (Vol-4056 for INRA 2025); the 2026 call also states CEUR-WS
+- Papers in the CEUR-WS single-column template, peer reviewed by the program committee, submitted via EasyChair
+- At least one author must register and present in person
+- Run from NTNU (Norway) with a steering committee of Jon Atle Gulla and Edward C. Malthouse
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-26
+  end: 2025-09-26
+  location: Prague, Czech Republic (co-located with ACM RecSys 2025)
+  url: https://research.idi.ntnu.no/NewsTech/INRA/previous_year_inra_2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-07-20
+    time: "23:59"
+    tz: AoE
+    label: Extended from July 17
+  - kind: notification
+    date: 2025-08-13
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-01
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-08
+  location: Gothenburg, Sweden (co-located with ACM UMAP 2026)
+  url: https://research.idi.ntnu.no/NewsTech/INRA/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-04-14
+    time: "23:59"
+    tz: AoE
+    label: Extended from April 9
+  - kind: notification
+    date: 2026-04-28
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-07
+    time: "23:59"
+    tz: AoE
+sources:
+- https://research.idi.ntnu.no/NewsTech/INRA/index.html
+- https://research.idi.ntnu.no/NewsTech/INRA/important_dates.html
+- https://research.idi.ntnu.no/NewsTech/INRA/program.html
+- https://research.idi.ntnu.no/NewsTech/INRA/previous_year_inra_2025.html
+- https://ceur-ws.org/Vol-4056/
+- https://recsys.acm.org/recsys25/workshops/
+- https://www.um.org/umap2026/
+- https://portal.core.edu.au/conf-ranks/?search=INRA&by=all&source=ICORE2026
+unverified:
+- CEUR-WS volume for INRA 2026 not yet seen
+- DBLP page not checked (dblp.org blocked automated access)
+- Next edition not announced yet
+last_verified: 2026-11-08

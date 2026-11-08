@@ -1,0 +1,64 @@
+id: wirtschaftsinformatik
+name: WI
+full_name: Internationale Tagung Wirtschaftsinformatik
+type: conference
+tier: minor
+areas: [general, data, ai]
+region: europe
+language: mixed
+frequency: annual
+organizer: Host university each year (JKU Linz in 2026), with the association Die Wirtschaftsinformatik e.V.
+organizer_country: [europe]
+proceedings: AIS eLibrary (AISeL)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [9]
+links:
+  website: https://wi2026.at/
+notes:
+- Largest information systems (Wirtschaftsinformatik) conference of the German-speaking countries; held every year at a different university in Germany, Austria, Switzerland or Liechtenstein
+- Alternated yearly with the Multikonferenz Wirtschaftsinformatik (MKWI) until 2018; annual since 2019
+- Papers in German or English; completed research and research-in-progress papers, double-blind review per track
+- Proceedings mostly in the AIS eLibrary (volumes up to 2024 listed there)
+- Information systems (business school) venue rather than core CS
+- WI 2026 (21st edition) at Johannes Kepler University Linz, theme "Soziotechnische Systeme im Zeitalter von KI"
+- Has a student track, doctoral consortium, student challenge and an industry track open to practitioners
+- Not listed in ICORE2026 (the ICORE "WI" is Web Intelligence)
+editions:
+- year: 2026
+  start: 2026-09-06
+  end: 2026-09-10
+  location: Linz, Austria (Johannes Kepler University)
+  url: https://wi2026.at/
+  deadlines:
+  - kind: other
+    date: 2025-11-28
+    label: Workshop, tutorial and community event proposals
+  - kind: submission
+    date: 2026-03-16
+    label: Research papers (updates possible until 2026-03-23 13:00)
+  - kind: other
+    date: 2026-04-13
+    label: Student track manuscripts
+  - kind: notification
+    date: 2026-06-01
+  - kind: camera_ready
+    date: 2026-06-22
+  - kind: notification
+    date: 2026-07-07
+    label: Final acceptance
+sources:
+- https://wi2026.at/
+- https://wi2026.at/en/submission_dates.html
+- https://wi2026.at/en/submission_cfp.html
+- https://wi2026.at/en/submission_guidelines.html
+- https://wi2026.at/en/programm_overview.html
+- https://wirtschaftsinformatik.de/forschung/konferenzen
+- https://aisel.aisnet.org/wi/
+- https://portal.core.edu.au/conf-ranks/?search=WI&by=all&source=ICORE2026
+unverified:
+- Host, dates and website of WI 2027 not found
+- AISeL lists proceedings up to 2024; where the 2025 and 2026 proceedings appear was not confirmed
+- CCF 2026 list not checked directly on ccf.org.cn
+last_verified: 2026-11-07

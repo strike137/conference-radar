@@ -1,0 +1,71 @@
+id: dicg
+name: DICG
+full_name: International Workshop on Distributed Infrastructure for Common Good
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: TU Delft and Inria workshop chairs (Johan Pouwelse, Francois Taiani, Jeremie Decouchant)
+organizer_country: [europe]
+proceedings: ACM DL (Middleware companion proceedings, 2026)
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://dicg-workshop.github.io/2026/
+notes:
+- Workshop on decentralized and peer-to-peer infrastructure for the common good (trust and reputation, self-sovereign identity, decentralized markets and governance, decentralized ML)
+- Co-located with ACM/IFIP Middleware 2020 to 2023 (2020 and 2021 online, Quebec 2022, Bologna 2023), with IEEE ICDCS 2025 in Glasgow, and back with Middleware in 2026 (Tarragona)
+- 2025 papers (up to 7 pages, IEEE format) appeared in the ICDCS 2025 companion proceedings in the IEEE digital library
+- 2026 papers up to 6 pages in ACM SIGPLAN format, single-blind review via HotCRP; published in the Middleware 2026 companion proceedings in the ACM DL
+- One author must register and present the paper
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-07-20
+  end: 2025-07-20
+  location: Glasgow, UK (IEEE ICDCS 2025)
+  url: https://dicg-workshop.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-21
+    tz: AoE
+    label: Extended from 2025-03-10
+  - kind: notification
+    date: 2025-04-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-04-16
+    tz: AoE
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-18
+  location: Tarragona, Spain (ACM Middleware 2026)
+  url: https://dicg-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+    tz: AoE
+    label: Extended from 2026-09-17
+  - kind: notification
+    date: 2026-10-12
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-16
+    tz: AoE
+sources:
+- https://dicg-workshop.github.io/2026/
+- https://dicg-workshop.github.io/2025/
+- https://dicg-workshop.github.io/2023/
+- https://dicg-workshop.github.io/2022/
+- https://dicg-workshop.github.io/2021/
+- https://dicg2020.github.io/
+- https://middleware-conf.github.io/2026/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=DICG&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within Middleware 2026 not stated; dates shown are the host conference dates
+- No DICG edition in 2024
+last_verified: 2026-11-07

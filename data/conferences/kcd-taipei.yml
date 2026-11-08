@@ -1,0 +1,50 @@
+id: kcd-taipei
+name: KCD Taipei
+full_name: Kubernetes Community Days Taipei
+type: industry
+tier: domestic
+areas: [systems, software]
+region: taiwan
+language: mixed
+frequency: annual
+organizer: Cloud Native Taiwan User Group (CNTUG), CNCF Kubernetes Community Days program
+organizer_country: [taiwan]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [7, 8]
+links:
+  website: https://community.cncf.io/kcd-taiwan/
+notes:
+- Taiwan's Kubernetes Community Days, a CNCF-backed community conference on Kubernetes and cloud native projects
+- Run by volunteers of the Cloud Native Taiwan User Group (CNTUG)
+- Held at National Taiwan University of Science and Technology (NTUST), Taipei; KCD Taiwan 2023 (two days, hybrid), KCD Taipei 2024 (two days), KCD Taipei 2025 (one day)
+- Talks chosen from a public CFP; bilingual Chinese and English event pages; no papers
+- Paid tickets sold through KKTIX; no meals provided at the venue (2025)
+- No 2026 edition announced on the CNCF KCD Taiwan page as of 2026-11-07
+editions:
+- year: 2025
+  start: 2025-07-05
+  end: 2025-07-05
+  location: International Building, National Taiwan University of Science and Technology, Taipei, Taiwan
+  url: https://community.cncf.io/events/details/cncf-kcd-taiwan-presents-kcd-taipei-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-20
+    time: "23:59"
+    tz: UTC+8
+    label: Talk proposals (CFP)
+  - kind: notification
+    date: 2025-05-07
+sources:
+- https://community.cncf.io/kcd-taiwan/
+- https://community.cncf.io/events/details/cncf-kcd-taiwan-presents-kcd-taipei-2025/
+- https://cntug.kktix.cc/events/kcd-taipei-2025
+- https://community2.cncf.io/events/details/cncf-kcd-taiwan-presents-kcd-taipei-2024/
+- https://community2.cncf.io/events/details/cncf-kcd-taiwan-presents-kcd-taiwan-2023/
+- https://portal.core.edu.au/conf-ranks/?search=KCD&by=all&source=ICORE2026
+unverified:
+- Not listed in the CORE ICORE2026 portal
+- KCD Taipei 2026 not found; the series may skip years
+last_verified: 2026-11-07

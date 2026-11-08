@@ -1,0 +1,59 @@
+id: eurova
+name: EuroVA
+full_name: EuroVis Workshop on Visual Analytics
+type: workshop
+tier: minor
+areas: [data, vision]
+region: europe
+language: english
+frequency: annual
+organizer: EuroVA steering committee, co-located with EuroVis (Eurographics)
+organizer_country: [europe]
+proceedings: Eurographics Digital Library (EuroVA proceedings, Eurographics Association)
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: C
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5, 6]
+links:
+  website: https://www.eurova.org/
+  dblp: https://dblp.org/db/conf/eurova-ws/index.html
+notes:
+- International EuroVis Workshop on Visual Analytics; 2026 was the 17th edition, so the series began in 2010
+- One-day workshop held on the Monday of EuroVis (Odense 2024, Luxembourg 2025, Nottingham 2026)
+- Proceedings published by the Eurographics Association in the EG Digital Library; indexed in dblp and Scopus
+- Research, application and position papers up to 5 pages plus references, submitted via PCS
+- Best paper award each year; ICORE2026 C, not on the CCF 2026 list
+- Steering committee from University of Konstanz, Fraunhofer IGD, University of Zurich and Link Campus University
+editions:
+- year: 2026
+  label: 17th EuroVA, with EuroVis 2026
+  start: 2026-06-08
+  end: 2026-06-08
+  location: Nottingham, United Kingdom
+  url: https://www.eurova.org/eurova-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-05
+    time: "23:59"
+    tz: GMT
+    label: Extended from February 27
+  - kind: notification
+    date: 2026-04-10
+  - kind: camera_ready
+    date: 2026-04-30
+sources:
+- https://www.eurova.org/
+- https://www.eurova.org/eurova-2026
+- https://www.eurova.org/eurova-2026/program-2026
+- https://www.eurova.org/eurova-2025
+- https://www.eurova.org/eurova-2024
+- https://www.eurova.org/publications
+- https://diglib.eg.org/collections/32d9960e-7612-4cd8-b15c-89f5de1334f6
+- https://portal.core.edu.au/conf-ranks/?search=EuroVA&by=all&source=ICORE2026
+unverified:
+- EuroVA 2027 not announced yet (EuroVis 2027 is in Stuttgart)
+- CCF rank checked via the CCFrank4dblp mirror (not listed), not on ccf.org.cn directly
+last_verified: 2026-11-07

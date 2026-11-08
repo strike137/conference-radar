@@ -1,0 +1,50 @@
+id: llvm-devmtg
+name: LLVM Dev Meeting
+full_name: US LLVM Developers' Meeting
+type: industry
+tier: minor
+areas: [software, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: LLVM Foundation
+organizer_country: [usa]
+proceedings: None (talks only; slides and videos on llvm.org)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://llvm.org/devmtg/
+notes:
+- Main yearly meeting of the LLVM compiler community (LLVM, Clang, MLIR, Flang, LLDB and related projects), organized by the LLVM Foundation
+- Held every October in the San Francisco Bay Area (San Jose until 2022, Santa Clara Marriott since 2023)
+- Separate EuroLLVM (spring, Europe) and AsiaLLVM meetings are run by the same community
+- Technical talks, tutorials, student technical talks, quick and lightning talks, panels and posters; proposals reviewed by a program committee via HotCRP; speaker details are not shown to the committee
+- Co-located workshops on the first day (2026 workshops on October 26, main program October 27 to 28)
+- No papers; slides and videos of talks are posted on llvm.org; LLVM Foundation student travel grants available
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-26
+  end: 2026-10-28
+  location: Santa Clara, CA, USA (Santa Clara Marriott)
+  url: https://llvm.org/devmtg/2026-10/
+  deadlines:
+  - kind: submission
+    date: 2026-07-14
+    time: "23:59"
+    tz: AoE
+    label: Talk proposals
+  - kind: notification
+    date: 2026-07-30
+sources:
+- https://llvm.org/devmtg/
+- https://llvm.org/devmtg/2026-10/
+- https://llvm.org/devmtg/2025-10/
+- https://discourse.llvm.org/t/2026-us-llvm-developers-meeting-call-for-proposals/91080
+- https://discourse.llvm.org/t/deadline-tomorrow-2026-us-llvm-dev-mtg-call-for-proposals/91283
+- https://portal.core.edu.au/conf-ranks/?search=LLVM&by=all&source=ICORE2026
+unverified:
+- 2027 US meeting dates not announced yet
+last_verified: 2026-11-07

@@ -1,0 +1,46 @@
+id: ads-vldb
+name: ADS
+full_name: International Workshop on Agentic Data Systems (Joint Workshop on Agentic Data Systems and Data-Centric AI)
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ADS workshop organizers; co-located with VLDB
+organizer_country: [international]
+proceedings: VLDB Workshop Proceedings (vldb.org)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://vldb-ads.top/
+notes:
+- Workshop on agentic data systems (LLM agents over data stacks) and data-centric AI, co-located with VLDB
+- 2026 edition held jointly as the 1st ADS and 3rd DATAI workshop, at VLDB 2026 in Boston
+- All accepted papers are included in the VLDB 2026 workshop proceedings
+- Organizers mostly from Chinese universities (Tsinghua, Renmin, Shanghai Jiao Tong) with US co-organizers
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 1st ADS and 3rd DATAI, with VLDB 2026
+  start: 2026-09-04
+  end: 2026-09-04
+  location: Boston, USA
+  url: https://vldb-ads.top/
+  deadlines:
+  - kind: submission
+    date: 2026-06-06
+    tz: AoE
+  - kind: notification
+    date: 2026-07-01
+  - kind: camera_ready
+    date: 2026-07-15
+sources:
+- https://vldb-ads.top/
+- https://portal.core.edu.au/conf-ranks/?search=ADS&by=all&source=ICORE2026
+unverified:
+- Dates read from the workshop site's JavaScript bundle (single-page site); VLDB 2026 workshops page blocked automated access
+- ADS 2027 not announced yet
+last_verified: 2026-11-07

@@ -1,0 +1,86 @@
+id: icis-ais
+name: ICIS
+full_name: International Conference on Information Systems
+type: conference
+tier: top
+areas: [general, data, security, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Association for Information Systems (AIS)
+organizer_country: [international]
+proceedings: AIS eLibrary (AISeL)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [12]
+links:
+  website: https://aisnet.org/conferences/icis/
+notes:
+- Annual flagship conference of the Association for Information Systems (AIS)
+- Information systems (business school) venue rather than core CS; 2026 tracks include data management and analytics, cybersecurity and privacy, and blockchain and fintech
+- Proceedings published in the AIS eLibrary
+- Not the same venue as IEEE/ACIS ICIS (Computer and Information Science) or ICIS (Intelligence Science)
+- Last listed in CORE2018 (rank A*); not in ICORE2026 or the CCF list
+- Held in December; Nashville 2025, Lisbon 2026, Orlando 2027
+editions:
+- year: 2025
+  start: 2025-12-14
+  end: 2025-12-17
+  location: Nashville, TN, USA
+  url: https://icis2025.aisconferences.org/
+  deadlines:
+  - kind: submission
+    date: 2025-05-01
+    time: "23:59"
+    tz: UTC-5
+  - kind: notification
+    date: 2025-07-29
+  - kind: camera_ready
+    date: 2025-09-03
+    label: Final paper deadline
+  - kind: other
+    date: 2025-09-30
+    label: Final acceptance notification
+- year: 2026
+  start: 2026-12-13
+  end: 2026-12-16
+  location: Lisbon, Portugal (Lisbon Congress Centre)
+  url: https://icis2026.aisconferences.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-01
+    time: "23:59"
+    tz: WEST
+  - kind: notification
+    date: 2026-07-27
+  - kind: camera_ready
+    date: 2026-09-01
+    time: "23:59"
+    tz: WEST
+    label: Final paper deadline
+  - kind: other
+    date: 2026-09-25
+    time: "23:59"
+    tz: WEST
+    label: Final acceptance notification
+- year: 2027
+  start: 2027-12-12
+  end: 2027-12-15
+  location: Orlando, FL, USA
+  url: https://icis2027.aisconferences.org/
+sources:
+- https://aisnet.org/conferences/icis/
+- https://aisnet.org/event/icis-2026
+- https://aisnet.org/conferences/
+- https://icis2025.aisconferences.org/
+- https://icis2025.aisconferences.org/submissions/call-for-papers/
+- https://icis2026.aisconferences.org/
+- https://icis2026.aisconferences.org/submissions/call-for-papers/
+- https://icis2027.aisconferences.org/
+- https://aisel.aisnet.org/icis2025/
+- https://portal.core.edu.au/conf-ranks/?search=ICIS&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=ICIS&by=acronym&source=all
+unverified:
+- ICIS 2027 call for papers and deadlines not yet published
+last_verified: 2026-11-07

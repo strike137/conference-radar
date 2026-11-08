@@ -1,0 +1,69 @@
+id: alis
+name: ALIS
+full_name: Adaptive Learning and Intelligent Systems Conference
+type: conference
+tier: minor
+areas: [ai]
+region: oceania
+language: english
+frequency: annual
+organizer: Part of the Australasian Computer Science Week (ACSW), jointly sponsored by CORE and ACDICT
+organizer_country: [australia, new-zealand]
+proceedings: ACM DL (ACM ICPS, ACSW proceedings)
+archival: true
+indexing: [ACM DL]
+typical:
+  deadline_months: [11, 12]
+  conference_months: [2]
+links:
+  website: https://sites.google.com/view/alis2027/home
+notes:
+- AI conference (the AI track) of the Australasian Computer Science Week (ACSW); first edition in 2026
+- Covers all areas of AI with a focus on deep learning, reinforcement learning, generative AI, LLMs and agentic systems
+- Double-blind review; full papers up to 8 pages and short papers 2 to 4 pages; papers already on arXiv are accepted
+- Accepted papers published in the ACM Digital Library (ICPS) as part of the ACSW proceedings; authors outside ACM Open may have to pay an APC
+- ALIS 2026 was a one-day program at Deakin City Campus, Melbourne; organisers mainly from Deakin University
+- Not found in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  label: 1st ALIS (ACSW 2026)
+  start: 2026-02-12
+  end: 2026-02-12
+  location: Melbourne, Australia (Deakin City Campus)
+  url: https://sites.google.com/view/alis2026/home
+  deadlines:
+  - kind: submission
+    date: 2025-12-19
+    time: "23:59"
+    tz: AEST
+    label: Abstract and paper (extended from 2025-12-12)
+  - kind: notification
+    date: 2026-01-21
+  - kind: camera_ready
+    date: 2026-01-30
+- year: 2027
+  label: 2nd ALIS (ACSW 2027)
+  start: 2027-02-01
+  end: 2027-02-05
+  location: Canberra, Australia (Australian National University)
+  url: https://sites.google.com/view/alis2027/home
+  status: tentative
+  deadlines:
+  - kind: abstract
+    date: 2026-11-20
+  - kind: submission
+    date: 2026-11-27
+  - kind: notification
+    date: 2027-01-10
+    label: Tentative
+sources:
+- https://sites.google.com/view/alis2027/home
+- https://sites.google.com/view/alis2026/home
+- https://acsw.core.edu.au/
+- https://acsw.core.edu.au/2026-acsw
+- https://acsw.core.edu.au/2026-program
+- https://portal.core.edu.au/conf-ranks/?search=ALIS&by=all&source=ICORE2026
+unverified:
+- ALIS 2027 exact day not announced; the site says between 1 and 5 February 2027 (ACSW week)
+- Time zone of the 2027 deadlines not stated
+last_verified: 2026-11-07

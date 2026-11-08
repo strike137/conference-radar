@@ -1,0 +1,55 @@
+id: icar
+name: ICAR
+full_name: International Conference on Advanced Robotics
+type: conference
+tier: minor
+areas: [ai, general]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IEEE Robotics and Automation Society (IEEE RAS) with a local host institution
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [12]
+links:
+  website: https://icar2025.inaut.unsj.edu.ar/
+notes:
+- Long-running robotics conference held since 1983, now every two years (2025 San Juan, 2027 Zagreb)
+- Covers all areas of robotics (vision, cognitive robotics, humanoids, HRI, multi-robot, aerial and underwater robots, learning, control)
+- Listed by IEEE RAS among its sponsored conferences; the 2025 call says technically co-sponsored, the 2025 home page says supported technically and financially
+- Full papers 6 pages including references (up to 2 extra pages for a fee), IEEE format, submitted via PaperPlaza; optional 1-minute video
+- Accepted papers are published in IEEE Xplore
+- 2025 (22nd edition) was hosted by the Instituto de Automatica (INAUT), Universidad Nacional de San Juan, Argentina, with a special session on mining and robotics
+- Not listed in CORE ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2025
+  label: 22nd ICAR
+  start: 2025-12-02
+  end: 2025-12-05
+  location: San Juan, Argentina (INAUT, Universidad Nacional de San Juan)
+  url: https://icar2025.inaut.unsj.edu.ar/
+  deadlines:
+  - kind: submission
+    date: 2025-08-17
+    label: Full papers (final extension from 2025-07-25)
+  - kind: notification
+    date: 2025-09-22
+  - kind: camera_ready
+    date: 2025-10-21
+    label: Final paper (extended)
+- year: 2027
+  location: Zagreb, Croatia
+  url: https://www.ieee-ras.org/conferences-workshops/fully-sponsored
+sources:
+- https://icar2025.inaut.unsj.edu.ar/
+- https://icar2025.inaut.unsj.edu.ar/CFP.php
+- https://www.ieee-ras.org/conferences-workshops/fully-sponsored
+- https://portal.core.edu.au/conf-ranks/?search=ICAR&by=all&source=ICORE2026
+unverified:
+- ICAR 2027 dates, website and deadlines not announced yet (only the city is listed by IEEE RAS)
+- Region judged as worldwide from the 2025 and 2027 hosts; earlier hosts not checked on official pages
+- CCF rank checked in the CCF 2026 list PDF (not listed)
+last_verified: 2026-11-07

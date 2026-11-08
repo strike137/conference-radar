@@ -1,0 +1,55 @@
+id: qcmc
+name: QCMC
+full_name: International Conference on Quantum Communication, Measurement and Computing
+type: conference
+tier: minor
+areas: [crypto, communications, general]
+region: worldwide
+language: english
+frequency: biennial
+organizer: QCMC Steering Committee with a local host each edition
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [8]
+links:
+  website: https://qcmc-conference.org/
+notes:
+- Long-running quantum information science conference established in 1990; physics-leaning
+- Scope covers quantum communication and cryptography, sensing and metrology, computing and simulation, quantum networks, information theory, control and foundations
+- Contributions are abstracts for talks and posters; QCMC 2024 published only an abstract booklet
+- Roughly biennial; rotates worldwide (Vienna 2012, Hefei 2014, Singapore 2016, Baton Rouge 2018, Lisbon 2022, Chennai 2024, Ottawa 2027)
+- Also awards the biennial International Quantum Award
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2024
+  start: 2024-08-26
+  end: 2024-08-30
+  location: Chennai, India (IIT Madras)
+  url: https://quantum.iitm.ac.in/qcmc24/
+  deadlines:
+  - kind: submission
+    date: 2024-06-07
+    label: Abstracts
+  - kind: notification
+    date: 2024-07-15
+- year: 2027
+  start: 2027-08-09
+  end: 2027-08-13
+  location: Ottawa, Canada
+  url: https://qcmc-conference.org/
+sources:
+- https://qcmc-conference.org/
+- https://qcmc-conference.org/previous-qcmc-meetings.html
+- https://qcmc-conference.org/calls.html
+- https://qcmc-conference.org/call-abstracts.html
+- https://qcmc-conference.org/steering-committee.html
+- https://quantum.iitm.ac.in/qcmc24/
+- https://quantum.iitm.ac.in/qcmc24/wp-content/uploads/2024/08/abstract_of_booklet.pdf
+- https://portal.core.edu.au/conf-ranks/?search=QCMC&by=all&source=ICORE2026
+unverified:
+- QCMC 2027 call for abstracts not yet open (official site says it will open early 2027)
+- No official page states a formal proceedings series; only the 2024 abstract booklet was found
+last_verified: 2026-11-07

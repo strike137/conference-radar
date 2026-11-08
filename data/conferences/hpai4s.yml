@@ -1,0 +1,68 @@
+id: hpai4s
+name: HPAI4S
+full_name: Workshop on HPC for AI Foundation Models and LLMs for Science
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: HPAI4S steering committee (Argonne, Oak Ridge and Lawrence Livermore National Laboratories), held with IEEE IPDPS
+organizer_country: [usa]
+proceedings: IEEE Xplore (IPDPS Workshops)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [5, 6]
+links:
+  website: https://sites.google.com/view/hpai4s/
+notes:
+- Workshop on training, fine-tuning and serving foundation models and LLMs for science at HPC scale
+- Co-located with IEEE IPDPS since 2025 (Milan 2025, New Orleans 2026, Seattle 2027); 2027 is the third edition
+- Accepted papers are published in the IPDPS workshop proceedings (IEEE Xplore)
+- Full papers 8 pages and short or work-in-progress papers 5 pages, including references, IEEE style; single-blind review
+- Run by researchers from Argonne (steering chair Franck Cappello), Oak Ridge and Lawrence Livermore
+- Not listed in CORE ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-26
+  location: New Orleans, USA (with IPDPS 2026)
+  url: https://sites.google.com/view/hpai4s/hpai4s-2026
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    tz: AoE
+    label: Papers (extended from 2026-02-06)
+  - kind: notification
+    date: 2026-02-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-06
+    tz: AoE
+- year: 2027
+  start: 2027-06-02
+  end: 2027-06-02
+  location: Seattle, USA (with IPDPS 2027)
+  url: https://sites.google.com/view/hpai4s/hpai4s-2027
+  deadlines:
+  - kind: submission
+    date: 2027-01-29
+    tz: AoE
+  - kind: notification
+    date: 2027-02-28
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-03-06
+    tz: AoE
+sources:
+- https://sites.google.com/view/hpai4s/
+- https://sites.google.com/view/hpai4s/hpai4s-2027
+- https://sites.google.com/view/hpai4s/hpai4s-2026
+- https://sites.google.com/view/hpai4s/hpai4s-2025
+- https://www.ipdps.org/ipdps2026/2026-workshops.html
+- https://www.ipdps.org/ipdps2027/2027-workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=HPAI4S&by=all&source=ICORE2026
+unverified:
+- 2027 workshop day differs between sources; the IPDPS 2027 workshops page lists HPAI4S on Wednesday 2 June (morning), while the HPAI4S site still says June 1st 2027
+last_verified: 2026-11-07

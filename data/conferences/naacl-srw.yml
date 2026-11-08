@@ -1,0 +1,61 @@
+id: naacl-srw
+name: NAACL SRW
+full_name: NAACL Student Research Workshop
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: NAACL (Nations of the Americas Chapter of the ACL), held with the NAACL conference
+organizer_country: [international]
+proceedings: ACL Anthology (NAACL proceedings, Student Research Workshop volume)
+archival: true
+typical:
+  deadline_months: [1, 3]
+  conference_months: [4, 6]
+links:
+  website: https://naacl2025-srw.github.io/
+notes:
+- Student workshop held as part of NAACL; topics are the same as the main NAACL conference
+- Only held in years with a NAACL conference (2024 Mexico City, 2025 Albuquerque; no NAACL in 2026; NAACL 2027 in San Francisco)
+- Research papers (first author must be a student) and thesis proposals, up to 5 pages plus references, submitted on OpenReview
+- Authors choose archival or non-archival; archival papers appear as the Student Research Workshop volume of the NAACL proceedings in the ACL Anthology
+- Optional pre-submission mentorship about two months before the deadline; travel grants for students
+- Accepted papers are presented in the main conference poster session
+- NAACL 2025 SRW volume has 53 papers (2025.naacl-srw in the ACL Anthology)
+- Not listed separately in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-04-30
+  end: 2025-05-01
+  location: Albuquerque, New Mexico, USA (with NAACL 2025)
+  url: https://naacl2025-srw.github.io/
+  deadlines:
+  - kind: other
+    date: 2024-12-01
+    time: "23:59"
+    tz: AoE
+    label: Pre-submission mentorship
+  - kind: submission
+    date: 2025-01-30
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-03-11
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-03-25
+    time: "23:59"
+    tz: AoE
+sources:
+- https://naacl2025-srw.github.io/
+- https://naacl2025-srw.github.io/cfp
+- https://aclanthology.org/volumes/2025.naacl-srw/
+- https://naacl2024-srw.github.io/
+- https://2027.naacl.org/
+- https://portal.core.edu.au/conf-ranks/?search=Student+Research&by=all&source=ICORE2026
+unverified:
+- NAACL 2027 SRW call not announced yet (NAACL 2027 is June 1 to 5, 2027 in San Francisco)
+last_verified: 2026-11-07

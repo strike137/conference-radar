@@ -1,0 +1,50 @@
+id: usm3d
+name: USM3D
+full_name: 'Workshop on Urban Scene Modeling: Structured, Semantic, and Synthetic 3D Habitats'
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Shenzhen University, Apple, HOVER and others); co-located with CVPR
+organizer_country: [international]
+proceedings: CVF Open Access and IEEE Xplore (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://usm3d.github.io/
+notes:
+- CVPR workshop on structured and semantic 3D reconstruction of urban and built environments (photogrammetry, vision, graphics)
+- Held with CVPR since 2024 (Seattle 2024, Nashville 2025, Denver 2026); 3rd edition in 2026
+- Earlier editions were titled Urban Scene Modeling, Where Vision Meets Photogrammetry and Graphics
+- Paper track takes extended abstracts (up to 4 pages) and full papers (up to 8 pages) in CVPR format, submitted via Microsoft CMT
+- Accepted papers go into the CVPR Workshops proceedings; the site also lists some non-archival papers
+- Runs the S23DR (HoHo house wireframes) and Building3D challenges
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://usm3d.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-24
+    tz: AoE
+  - kind: notification
+    date: 2026-04-01
+  - kind: camera_ready
+    date: 2026-04-08
+sources:
+- https://usm3d.github.io/
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://openaccess.thecvf.com/CVPR2026_workshops/USM3D
+- https://openaccess.thecvf.com/CVPR2025_workshops/menu
+- https://openaccess.thecvf.com/CVPR2024_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=USM3D&by=all&source=ICORE2026
+unverified:
+- Next edition (USM3D 2027) not announced yet
+last_verified: 2026-11-07

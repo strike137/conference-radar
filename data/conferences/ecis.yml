@@ -1,0 +1,79 @@
+id: ecis
+name: ECIS
+full_name: European Conference on Information Systems
+type: conference
+tier: major
+areas: [general, data, security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Association for Information Systems (AIS), Region 2
+organizer_country: [international]
+proceedings: AIS eLibrary (AISeL)
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [5, 6]
+links:
+  website: https://aisnet.org/conferences/ecis/
+notes:
+- AIS premier conference for Region 2 (Europe, the Middle East and Africa), governed by the AIS Region 2 Board; first held in 1993
+- Information systems (business school) venue rather than core CS
+- About 1,200 paper submissions a year (AIS); proceedings in the AIS eLibrary
+- Completed research papers up to 16 pages, short research papers up to 8 pages; TREO extended abstracts up to 3 pages
+- Usually held in Europe (Kristiansand 2023, Paphos 2024, Amman 2025, Milan 2026, Luxembourg 2027, Dublin 2028)
+- Last listed in CORE2018 (rank A); not in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-17
+  location: Milan, Italy (Bocconi University and University of Milan)
+  url: https://ecis2026.it/
+  deadlines:
+  - kind: submission
+    date: 2025-11-17
+    time: "23:59"
+    tz: CET
+    label: Completed research and short papers
+  - kind: notification
+    date: 2026-02-28
+    label: Conditional acceptance
+  - kind: other
+    date: 2026-03-25
+    time: "23:59"
+    tz: CET
+    label: TREO forum papers and panel proposals
+- year: 2027
+  start: 2027-05-24
+  end: 2027-05-26
+  location: Luxembourg City, Luxembourg (University of Luxembourg)
+  url: https://ecis2027.uni.lu/
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    time: "23:59"
+    tz: CET
+    label: Completed research and short papers
+  - kind: other
+    date: 2026-10-30
+    time: "23:59"
+    tz: CET
+    label: Workshop proposals
+  - kind: notification
+    date: 2027-02-01
+    label: Papers
+  - kind: other
+    date: 2027-02-17
+    time: "23:59"
+    tz: CET
+    label: TREO forum, panels, consortia
+sources:
+- https://aisnet.org/conferences/ecis/
+- https://ecis2026.it/
+- https://ecis2026.it/call-for-submissions/
+- https://ecis2027.uni.lu/
+- https://ecis2027.uni.lu/important-dates/
+- https://aisel.aisnet.org/ecis2026/
+- https://portal.core.edu.au/conf-ranks/?search=ECIS&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=ECIS&by=acronym&source=all
+last_verified: 2026-11-07

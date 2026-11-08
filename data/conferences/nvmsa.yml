@@ -1,0 +1,70 @@
+id: nvmsa
+name: IEEE NVMSA
+full_name: Non-Volatile Memory Systems and Applications Symposium
+type: conference
+tier: minor
+areas: [systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: NVMSA organizing committee, held jointly with IEEE RTCSA (2026 sponsors include IEEE CEDA and CCF)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8]
+links:
+  website: https://nvmsa2026.github.io/
+notes:
+- Small symposium on non-volatile memory systems and emerging memory technologies, from devices and circuits to architecture, storage software and applications
+- Held each year together with IEEE RTCSA, sharing keynotes and venue
+- Accepted papers are submitted to IEEE Xplore and indexed by EI; papers not presented in person are excluded from Xplore
+- Regular papers up to 6 pages in IEEE two-column format; single-blind review; research and industry track papers plus a 2-page poster track
+- Selected papers invited to fast-track extended versions in IEEE TCSAI or ACM Transactions on Storage (2026)
+- Deadlines have been extended by about two to four weeks in recent years (2025, 2026)
+- Rotates within Asia (Taipei 2022, Niigata 2023, Sokcho 2024, Singapore 2025, Qingdao 2026; 2021 was virtual)
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-11
+  end: 2026-08-13
+  location: Qingdao, China (Huanghai Hotel, with IEEE RTCSA 2026)
+  url: https://nvmsa2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-04
+    tz: AoE
+    label: Abstract (extended from 2026-04-20)
+  - kind: submission
+    date: 2026-05-04
+    tz: AoE
+    label: Full paper (extended from 2026-04-27)
+  - kind: submission
+    date: 2026-06-03
+    tz: AoE
+    label: Poster (extended from 2026-04-30)
+  - kind: notification
+    date: 2026-05-27
+    tz: AoE
+    label: Papers (moved from 2026-05-20)
+  - kind: camera_ready
+    date: 2026-06-03
+    tz: AoE
+    label: Papers (moved from 2026-05-27)
+sources:
+- https://nvmsa2026.github.io/
+- https://nvmsa2025.github.io/cfp.html
+- https://nvmsa2025.github.io/venue.html
+- https://nvmsa2024.github.io/cfp.html
+- https://nvmsa2024.github.io/venue.html
+- https://nvmsa2023.github.io/
+- https://nvmsa2022.github.io/
+- https://nvmsa2021.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=NVMSA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/ccf_recommended_2026.pdf
+unverified:
+- Next edition (2027) not announced yet
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-07

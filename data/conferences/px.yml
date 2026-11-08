@@ -1,0 +1,69 @@
+id: px
+name: PX
+full_name: Programming Experience Workshop
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: <Programming> conference workshop; organized by HPI / University of Potsdam, University of Cambridge and Institute of Science Tokyo
+organizer_country: [europe, japan]
+proceedings: ACM DL (<Programming> Conference Companion)
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [3]
+links:
+  website: https://2027.programming-conference.org/home/px-2027
+notes:
+- Workshop co-located with the <Programming> conference every year since 2017 (PX/16 was at ECOOP 2016, PX/17.2 at SPLASH 2017)
+- Focus on the experience of programming (what makes it fun or annoying) rather than productivity
+- Accepts academic papers, essays and demos; no page limit, ACM sigconf format, submission via EasyChair
+- Papers and essays marked for publication are peer reviewed and appear in the ACM DL as part of the <Programming> Conference Companion
+- Run in a Writers' Workshop format with structured feedback; hybrid, online participation possible
+- Mostly held in Europe (Munich 2026, Prague 2025, Lund 2024), Tokyo 2023 and Kyoto 2027
+- Organizers are Luke Church, Robert Hirschfeld, Hidehiko Masuhara and Marcel Taeumel
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: PX/26, 12th edition, with <Programming> 2026
+  start: 2026-03-16
+  end: 2026-03-16
+  location: Munich, Germany (LMU Munich)
+  url: https://2026.programming-conference.org/home/px-2026
+  deadlines:
+  - kind: submission
+    date: 2026-01-09
+    tz: CET
+  - kind: notification
+    date: 2026-01-30
+    tz: CET
+  - kind: camera_ready
+    date: 2026-02-25
+    tz: CET
+    label: Tentative
+- year: 2027
+  label: PX/27, 13th edition, with <Programming> 2027
+  start: 2027-03-15
+  end: 2027-03-16
+  location: Kyoto, Japan (Kyoto University)
+  url: https://2027.programming-conference.org/home/px-2027
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-12-10
+    tz: AoE
+  - kind: notification
+    date: 2027-01-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-02-15
+    tz: AoE
+    label: Tentative
+sources:
+- https://2027.programming-conference.org/home/px-2027
+- https://2027.programming-conference.org/
+- https://2026.programming-conference.org/home/px-2026
+- https://portal.core.edu.au/conf-ranks/?search=PX&by=all&source=ICORE2026
+last_verified: 2026-11-07

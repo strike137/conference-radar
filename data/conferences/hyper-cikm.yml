@@ -1,0 +1,66 @@
+id: hyper-cikm
+name: HyPeR
+full_name: International Workshop on Hybrid AI for Human-Centric Personalization and Recommendation
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+organizer: HyPeR organizers (TU Graz, University of Primorska, University of Klagenfurt, JKU Linz)
+organizer_country: [europe]
+proceedings: CEUR-WS (joint CIKM 2026 workshop volume)
+archival: true
+typical:
+  deadline_months: [4, 8, 9]
+  conference_months: [6, 11]
+links:
+  website: https://aisocietylab.github.io/hyper26/
+notes:
+- Workshop on hybrid (neuro-symbolic, cognition-informed) AI for user modeling, personalization and recommender systems
+- 1st edition (HyPer, Hybrid AI for Human-Centric Personalization) at ACM UMAP 2025 in New York, papers in the ACM DL (UMAP Adjunct Proceedings)
+- 2nd edition at ACM CIKM 2026 in Rome; scope widened to recommendation; papers in the joint CEUR-WS workshop volume
+- Full papers up to 12 pages, short and position papers up to 6 pages (excluding references), CEUR-WS template, single-blind review via EasyChair
+- 2026 submission deadline was extended from 24 August to 7 September 2026
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-06-16
+  end: 2025-06-16
+  location: New York, USA (co-located with ACM UMAP 2025)
+  url: https://aisocietylab.github.io/hyper25/
+  deadlines:
+  - kind: submission
+    date: 2025-04-16
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-04-30
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-05
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-08
+  location: Rome, Italy (co-located with ACM CIKM 2026)
+  url: https://aisocietylab.github.io/hyper26/
+  deadlines:
+  - kind: submission
+    date: 2026-09-07
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-23
+    time: "23:59"
+    tz: AoE
+sources:
+- https://aisocietylab.github.io/hyper26/
+- https://aisocietylab.github.io/hyper26/assets/pdfs/CIKM_26__HyPer_WS.pdf
+- https://aisocietylab.github.io/hyper25/
+- https://cikm2026.diag.uniroma1.it/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=HyPeR&by=all&source=ICORE2026
+unverified:
+- DBLP page not checked
+last_verified: 2026-11-07

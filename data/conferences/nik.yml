@@ -1,0 +1,58 @@
+id: nik
+name: NIK
+full_name: Norsk informatikkonferanse (Norwegian Informatics Conference)
+name_local: Norsk informatikkonferanse
+type: conference
+tier: domestic
+areas: [general]
+region: europe
+language: mixed
+frequency: annual
+organizer: NIKT-stiftelsen (NIKT Foundation), hosted by a different Norwegian university each year
+organizer_country: [europe]
+proceedings: NIKT Journal (open access, NTNU OJS)
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://nikt.org/nik/
+notes:
+- Broad national conference on theoretical and applied informatics and computer science, held since 1988
+- One of four tracks of NIKT, the Norwegian ICT Conference for Research and Education (with NOKOBIT, NISK and UDIT)
+- Research papers (up to 10 pages) and work-in-progress papers (up to 4 pages) are peer reviewed and published in the open access NIKT Journal (ISSN 1892-0721, Norwegian level 1 channel)
+- Extended abstracts of published work (up to 2 pages) are not part of the proceedings
+- Papers and talks in Norwegian, another Scandinavian language or English; LNCS format
+- Desk rejection for papers with no author close to Norwegian academia or industry
+- Host rotates within Norway (Trondheim 2021, Kristiansand 2022, Stavanger 2023, Bergen 2024, Halden 2025)
+editions:
+- year: 2025
+  start: 2025-11-24
+  end: 2025-11-26
+  location: Halden, Norway (NIKT 2025, Østfold University College)
+  url: https://www.hiof.no/iio/itk/om/konferanser/NIKT2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-10
+    label: Optional abstract
+  - kind: submission
+    date: 2025-09-21
+    label: Extended from 2025-09-17
+  - kind: notification
+    date: 2025-10-18
+  - kind: camera_ready
+    date: 2025-11-01
+sources:
+- https://nikt.org/
+- https://nikt.org/konferanser/
+- https://www.hiof.no/iio/itk/om/konferanser/NIKT2025/
+- https://www.hiof.no/iio/om/aktuelt/arrangementer/konferanser/NIKT2025/dates_no.html
+- https://www.hiof.no/iio/om/aktuelt/arrangementer/konferanser/NIKT2025/call_no.html
+- https://www.hiof.no/iio/om/aktuelt/arrangementer/konferanser/NIKT2025/call-for-papers/nik-2025-first-call-for-papers.pdf
+- https://www.ntnu.no/ojs/index.php/nikt
+- https://www.ntnu.no/ojs/index.php/nikt/issue/view/571
+- https://portal.core.edu.au/conf-ranks/?search=NIK&by=all&source=ICORE2026
+unverified:
+- NIKT 2026 host, dates and deadlines not found on nikt.org or the NIKT journal site
+- Not listed in ICORE2026 or the CCF 2026 list
+last_verified: 2026-11-07

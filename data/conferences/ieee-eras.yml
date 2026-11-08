@@ -1,0 +1,69 @@
+id: ieee-eras
+name: ERAS
+full_name: IEEE RAS International Conference on Engineering Reliable Autonomous Systems
+type: conference
+tier: minor
+areas: [software, ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Robotics and Automation Society (IEEE RAS), three Technical Committees (performance evaluation, software engineering, verification of autonomous systems)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [5, 7]
+links:
+  website: https://erasrobotics.org/
+notes:
+- New conference series started in 2025 on engineering reliable autonomous systems and robots (systems and software engineering, verification and validation, testing, assurance, standards)
+- Fully sponsored by IEEE RAS since 2026 and run by the TCs on performance evaluation and benchmarking, software engineering for robotics, and verification of autonomous systems
+- Editions so far are 2025 Worcester (WPI), 2026 Zagreb (FER) and 2027 Halifax (Dalhousie University)
+- Regular papers 6 pages and short/position papers 4 pages including references, double-blind review, submitted via PaperPlaza
+- Accepted regular and short papers go to IEEE Xplore (from 2026); late-breaking reports are poster-only and not in the proceedings
+- Accepts r-articles (reproducibility articles) and presentations of papers accepted in IEEE RAS journals
+- Not listed in CORE ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-28
+  end: 2026-05-29
+  location: Zagreb, Croatia (FER, University of Zagreb)
+  url: https://2026.ieee-eras.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-21
+    label: Regular, short/position papers and r-articles (updated from 2026-03-07)
+  - kind: notification
+    date: 2026-04-15
+  - kind: other
+    date: 2026-04-14
+    label: Late breaking reports
+  - kind: other
+    date: 2026-04-16
+    label: Workshop, tutorial and competition proposals
+  - kind: camera_ready
+    date: 2026-05-15
+    label: Final contribution
+- year: 2027
+  location: Halifax, Canada (Dalhousie University)
+  url: https://erasrobotics.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2027-03-02
+    tz: AoE
+sources:
+- https://erasrobotics.org/
+- https://erasrobotics.org/2025/index.html
+- https://2026-erasrobotics.org/
+- https://2026.ieee-eras.org/
+- https://2026.ieee-eras.org/contribute/
+- https://2026.ieee-eras.org/2026/02/05/submission/
+- https://erasrobotics.org/2027/index.html
+- https://www.ieee-ras.org/conferences-workshops/fully-sponsored
+- https://portal.core.edu.au/conf-ranks/?search=ERAS&by=all&source=ICORE2026
+unverified:
+- ERAS 2027 exact days in July 2027 not announced yet; submissions open in November 2026
+- ERAS 2025 proceedings venue not stated on the 2025 site (selected papers went to an ASME journal special issue)
+- CCF rank checked in the CCF 2026 list PDF (not listed)
+last_verified: 2026-11-07

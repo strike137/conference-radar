@@ -1,0 +1,59 @@
+id: urbanai
+name: UrbanAI
+full_name: ACM SIGSPATIAL International Workshop on Advances in Urban-AI
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers led by the Computational Urban Sciences Group of Oak Ridge National Laboratory
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://events.ornl.gov/urbanai2026/
+notes:
+- Workshop co-located with ACM SIGSPATIAL since 2023 (Hamburg 2023, Atlanta 2024, Minneapolis 2025, Riverside 2026); website hosted by Oak Ridge National Laboratory
+- Topics are AI for cities, urban mobility, infrastructure, resilience, urban sensing and urban analytics
+- Proceedings of each edition in the ACM Digital Library (UrbanAI 2025 -> DOI 10.1145/3764926)
+- Full papers 8-10 pages, short or demo papers 4-6 pages, vision papers 2 pages; ACM SIG format
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-11-03
+  end: 2026-11-03
+  location: Riverside, CA, USA (with ACM SIGSPATIAL 2026)
+  url: https://events.ornl.gov/urbanai2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-28
+    time: "23:59"
+    tz: PDT
+    label: Extended from August 21
+  - kind: notification
+    date: 2026-09-20
+    time: "23:59"
+    tz: PDT
+  - kind: camera_ready
+    date: 2026-10-03
+    time: "23:59"
+    tz: PDT
+sources:
+- https://events.ornl.gov/urbanai2026/
+- https://events.ornl.gov/urbanai2026/important-dates/
+- https://events.ornl.gov/urbanai2026/organizers-urbanai/
+- https://events.ornl.gov/urbanai2026/urban-ai-2025/
+- https://sigspatial2026.sigspatial.org/workshops.html
+- https://api.crossref.org/works/10.1145/3764926
+- https://api.crossref.org/works/10.1145/3681780
+- https://api.crossref.org/works/10.1145/3615900
+- https://portal.core.edu.au/conf-ranks/?search=UrbanAI&by=all&source=ICORE2026
+unverified:
+- 2027 edition not announced yet
+- The important dates page also says camera-ready is due September 25, 2026 in its step-by-step section; the updated date at the top is October 3
+- dblp page not checked (dblp not reachable)
+last_verified: 2026-11-07

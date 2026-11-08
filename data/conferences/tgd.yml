@@ -1,0 +1,56 @@
+id: tgd
+name: TGD
+full_name: International Workshop on Transforming Graph Data
+type: workshop
+tier: minor
+areas: [data]
+region: europe
+language: english
+frequency: annual
+organizer: TGD workshop organisers; co-located with EDBT/ICDT
+organizer_country: [europe]
+proceedings: CEUR-WS (EDBT/ICDT Workshops volume)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [3]
+links:
+  website: https://transforming-graph-data.github.io/2026/
+notes:
+- Workshop on graph transformations, graph query languages and evolving graph data, held with EDBT/ICDT since 2025
+- Research, application and vision papers of six pages in CEUR double column format; single-blind review via CMT
+- Papers appear in the joint EDBT/ICDT Workshops volume of CEUR-WS (2026 Vol-4192, 2025 Vol-3946)
+- Previously published results may be presented; only a short abstract then goes into the proceedings
+- 3rd edition announced with EDBT/ICDT 2027 in Lille
+- Not ranked in ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2026
+  label: 2nd edition, with EDBT/ICDT 2026
+  start: 2026-03-24
+  end: 2026-03-24
+  location: Tampere, Finland
+  url: https://transforming-graph-data.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-30
+  - kind: notification
+    date: 2026-02-15
+  - kind: camera_ready
+    date: 2026-02-26
+- year: 2027
+  label: 3rd edition, with EDBT/ICDT 2027
+  location: Lille, France
+  url: https://edbticdt2027.github.io/contents/workshops.html
+  deadlines: []
+sources:
+- https://transforming-graph-data.github.io/2026/
+- https://transforming-graph-data.github.io/2026/cfp/
+- https://transforming-graph-data.github.io/2025/
+- https://edbticdt2026.github.io/contents/workshops.html
+- https://edbticdt2027.github.io/contents/workshops.html
+- https://ceur-ws.org/Vol-4192/
+- https://ceur-ws.org/Vol-3946/
+- https://portal.core.edu.au/conf-ranks/?search=TGD&by=all&source=ICORE2026
+unverified:
+- TGD 2027 workshop date and deadlines not announced yet (EDBT/ICDT 2027 runs April 6 to 9, 2027)
+last_verified: 2026-11-07

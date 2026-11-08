@@ -1,0 +1,46 @@
+id: xai4science
+name: XAI4Science
+full_name: International Workshop on Explainable Data Science and Machine Learning for the Sciences
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+organizer: XAI4Science organizers (ETIS CNRS/ENSEA, University of Tours, INSA Lyon, University of Ioannina and others), co-located with EDBT/ICDT
+organizer_country: [europe]
+proceedings: CEUR-WS (EDBT/ICDT Workshops volume)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [3]
+links:
+  website: https://mlinardicyu.github.io/edbt_XAI4Science/
+notes:
+- Workshop on explainable AI methods that support scientific discovery (hypothesis generation and validation, counterfactuals, interpretable models for scientific data)
+- 1st edition co-located with EDBT/ICDT 2026 in Tampere, Finland (half-day, 24 March 2026)
+- Papers appear in the CEUR-WS EDBT/ICDT 2026 workshops volume (Vol-4192)
+- Full papers up to 6 pages (excluding references), short papers up to 4 pages (including references), ACM double-column format; double-blind review via Microsoft CMT
+- Not in the list of EDBT/ICDT 2027 workshops (Lille); no next edition announced
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-24
+  end: 2026-03-24
+  location: Tampere, Finland (co-located with EDBT/ICDT 2026)
+  url: https://mlinardicyu.github.io/edbt_XAI4Science/
+  deadlines:
+  - kind: submission
+    date: 2026-01-12
+  - kind: notification
+    date: 2026-02-03
+  - kind: camera_ready
+    date: 2026-02-17
+sources:
+- https://mlinardicyu.github.io/edbt_XAI4Science/
+- https://ceur-ws.org/Vol-4192/
+- https://edbticdt2027.github.io/?contents=workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=XAI4Science&by=all&source=ICORE2026
+unverified:
+- Workshop site gives deadlines without a time zone
+- DBLP page not checked
+last_verified: 2026-11-07

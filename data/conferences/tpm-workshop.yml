@@ -1,0 +1,68 @@
+id: tpm-workshop
+name: TPM
+full_name: Workshop on Tractable Probabilistic Modeling
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: TPM workshop organizers (co-located with UAI)
+organizer_country: [international]
+proceedings: OpenReview (accepted papers and reviews posted publicly, no formal proceedings)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [7, 8]
+links:
+  website: https://tractable-probabilistic-modeling.github.io/tpm2026/
+notes:
+- Workshop on tractable probabilistic models (probabilistic circuits, tensor networks, normalizing flows, bounded-treewidth models)
+- Co-located with UAI (TPM 2025 in Rio de Janeiro, TPM 2026 in Amsterdam); earlier editions at ICML (2018, 2019)
+- Papers up to 4 pages in UAI format; recently accepted papers from top ML venues can also be submitted
+- Double-blind review on OpenReview; accepted papers and reviews are public there, with no formal proceedings
+- One or two best paper awards per edition
+editions:
+- year: 2025
+  start: 2025-07-25
+  end: 2025-07-25
+  location: Rio de Janeiro, Brazil (UAI 2025)
+  url: https://tractable-probabilistic-modeling.github.io/tpm2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-02
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-06-18
+  - kind: camera_ready
+    date: 2025-07-14
+- year: 2026
+  start: 2026-08-21
+  end: 2026-08-21
+  location: Amsterdam, Netherlands (UAI 2026)
+  url: https://tractable-probabilistic-modeling.github.io/tpm2026/
+  deadlines:
+  - kind: other
+    date: 2026-04-09
+    label: Submission opening
+  - kind: submission
+    date: 2026-06-17
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-07-03
+    time: "23:59"
+    tz: AoE
+sources:
+- https://tractable-probabilistic-modeling.github.io/tpm2026/
+- https://tractable-probabilistic-modeling.github.io/tpm2026/cfp
+- https://tractable-probabilistic-modeling.github.io/tpm2025/
+- https://portal.core.edu.au/conf-ranks/?search=TPM&by=all&source=ICORE2026
+unverified:
+- TPM 2027 not announced yet
+- Original (pre-extension) deadlines not stated on the official pages
+- Not listed in ICORE2026 or the CCF 2026 list
+last_verified: 2026-11-07

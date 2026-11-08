@@ -1,0 +1,58 @@
+id: imageomics
+name: Imageomics
+full_name: "Imageomics: Discovering Biological Knowledge from Images Using AI (Workshop)"
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: north-america
+language: english
+frequency: irregular
+organizer: Imageomics workshop organizers led by The Ohio State University (Imageomics Institute); co-located with AAAI or NeurIPS
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://imageomics.github.io/Imageomics-NeurIPS-2025/
+notes:
+- Workshop on machine learning and computer vision for extracting biological traits and knowledge from images and video
+- Three editions so far, at AAAI 2024 (Vancouver), AAAI 2025 (Philadelphia) and NeurIPS 2025 (San Diego); host conference changes between editions
+- Non-archival, accepted papers are not included in the host conference proceedings
+- Short papers up to 5 pages and already published full papers up to 9 pages in NeurIPS style; anonymous review on OpenReview
+- The 2025 edition had a second, later submission round
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 3rd edition, with NeurIPS 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  location: San Diego, CA, USA (co-located with NeurIPS 2025)
+  url: https://imageomics.github.io/Imageomics-NeurIPS-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-29
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-09-22
+  - kind: submission
+    date: 2025-09-28
+    time: "23:59"
+    tz: AoE
+    label: Second round
+  - kind: notification
+    date: 2025-10-08
+    label: Second round
+  - kind: camera_ready
+    date: 2025-11-05
+sources:
+- https://imageomics.github.io/Imageomics-NeurIPS-2025/
+- https://imageomics.github.io/Imageomics-NeurIPS-2025/cfp.html
+- https://sites.google.com/view/imageomics-aaai-25
+- https://sites.google.com/vt.edu/imageomics-aaai-24/
+- https://portal.core.edu.au/conf-ranks/?search=Imageomics&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- No 2026 or 2027 edition found on the official site as of 2026-11-07

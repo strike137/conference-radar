@@ -1,0 +1,57 @@
+id: pgconf-jp
+name: PostgreSQL Conference Japan
+full_name: PostgreSQL Conference Japan
+name_local: PostgreSQL カンファレンス
+type: industry
+tier: domestic
+areas: [data, software]
+region: japan
+language: japanese
+frequency: annual
+organizer: Japan PostgreSQL Users Group (JPUG)
+organizer_country: [japan]
+proceedings: None (participants only)
+archival: false
+fee: "8,000 JPY regular, 4,000 JPY early bird, talks incl. tutorials (2026)"
+typical:
+  deadline_months: [9]
+  conference_months: [11, 12]
+links:
+  website: https://www.postgresql.jp/jpug-pgcon2026
+notes:
+- One-day practitioner PostgreSQL conference run by the nonprofit Japan PostgreSQL Users Group (JPUG) in Tokyo
+- Two morning keynotes (in English with interpretation in 2026) and three afternoon tracks including a tutorial track
+- Call for talks by email for six 50 minute general sessions; lightning talks in the closing session
+- Speakers submit a manuscript for a printed booklet handed to attendees; no formal proceedings
+- About 200 attendees expected (2026)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-11-21
+  end: 2025-11-21
+  location: AP Nihonbashi, Tokyo, Japan
+  url: https://www.postgresql.jp/jpug-pgcon2025
+  deadlines:
+  - kind: submission
+    date: 2025-09-08
+    label: Talk proposals
+  - kind: camera_ready
+    date: 2025-11-01
+    label: Handout manuscript
+- year: 2026
+  start: 2026-11-27
+  end: 2026-11-27
+  location: AP Tokyo Yaesu, Tokyo, Japan
+  url: https://www.postgresql.jp/jpug-pgcon2026
+  deadlines:
+  - kind: submission
+    date: 2026-09-09
+    label: Talk proposals
+  - kind: camera_ready
+    date: 2026-10-27
+    label: Handout manuscript
+sources:
+- https://www.postgresql.jp/jpug-pgcon2026
+- https://www.postgresql.jp/jpug-pgcon2025
+- https://portal.core.edu.au/conf-ranks/?search=PostgreSQL&by=all&source=ICORE2026
+last_verified: 2026-11-07

@@ -1,0 +1,71 @@
+id: usrse
+name: USRSE
+full_name: US Research Software Engineering Conference
+type: conference
+tier: minor
+areas: [software]
+region: north-america
+language: english
+frequency: annual
+organizer: US-RSE Association
+organizer_country: [usa]
+proceedings: Zenodo (papers, talk abstracts, notebooks, posters); selected papers extended in Future Generation Computer Systems special issue
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [10]
+links:
+  website: https://us-rse.org/usrse26/
+notes:
+- Annual conference of the US Research Software Engineer Association (US-RSE), a fiscally sponsored project of Community Initiatives
+- 2027 is the fifth edition; held in a different US city each year (Philadelphia 2025, San Jose 2026, Ann Arbor 2027)
+- Tracks for papers (up to 10 pages, IEEE template), talks, notebooks, BoFs, workshops and posters; all peer reviewed, submitted via EasyChair
+- Papers, abstracts, notebooks and posters are published on Zenodo; accepted papers and talks can be extended (40% new content) for a special issue of Future Generation Computer Systems
+- Poster deadline is after the main notification so rejected submissions can be resubmitted as posters
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-21
+  location: San Jose, CA, USA (San Jose Marriott)
+  url: https://us-rse.org/usrse26/
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+    time: "23:59"
+    tz: AoE
+    label: Papers, talks, notebooks, BoFs, workshops (extended)
+  - kind: notification
+    date: 2026-07-28
+  - kind: submission
+    date: 2026-08-07
+    time: "23:59"
+    tz: AoE
+    label: Posters
+  - kind: notification
+    date: 2026-08-25
+    label: Posters
+  - kind: camera_ready
+    date: 2026-09-25
+    label: Papers
+- year: 2027
+  start: 2027-10-25
+  end: 2027-10-27
+  location: Ann Arbor, MI, USA (University of Michigan, Michigan Union)
+  url: https://us-rse.org/usrse27/
+  deadlines: []
+sources:
+- https://us-rse.org/usrse26/
+- https://us-rse.org/usrse26/participate/
+- https://us-rse.org/usrse26/2026-05-22-usrse26/
+- https://us-rse.org/usrse26/attend/
+- https://us-rse.org/usrse26/participate/special-issue/
+- https://us-rse.org/usrse27/
+- https://us-rse.org/usrse27/about/dates/
+- https://us-rse.org/usrse27/attend/
+- https://us-rse.org/usrse25/about/
+- https://portal.core.edu.au/conf-ranks/?search=USRSE&by=all&source=ICORE2026
+unverified:
+- USRSE'27 deadlines given only as tentative months (submissions mid April 2027, posters late June 2027)
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-07

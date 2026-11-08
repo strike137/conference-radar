@@ -1,0 +1,58 @@
+id: ijtcs-faw
+name: IJTCS-FAW
+full_name: International Joint Conference on Theoretical Computer Science - Frontier of Algorithmic Wisdom
+type: conference
+tier: minor
+areas: [general]
+region: china
+language: english
+frequency: annual
+organizer: IJTCS-FAW Steering Committee (Peking University, Tsinghua University, SUFE, CUHK-Shenzhen, CAS) with a local host each year
+organizer_country: [china]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: 'National: China'
+  ccf: C
+acceptance_rate: 48% (2025, 30/63)
+fee: 420 EUR (2025, normal); 350 EUR student; reduced rates for CCF members
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6, 7, 8]
+links:
+  website: https://ijtcs-faw.github.io/2025/
+notes:
+- Joint conference of IJTCS (started 2020) and FAW, Frontiers of Algorithmics Workshop (started 2007); joint since 2021
+- Three tracks in 2025, algorithms and complexity (the FAW track), blockchain and multi-agent systems, and algorithmic game theory and ML theory
+- Proceedings in Springer LNCS titled Frontiers of Algorithmics (LNCS 15828 for 2025)
+- Selected papers invited to special issues of TCS, Journal of Combinatorial Optimization, Theory of Computing Systems and Blockchain
+- Held in China until 2024 (Beijing 2020 and 2021, Hong Kong 2022, Macao 2023, Hong Kong 2024); Paris 2025 hosted by Sorbonne University
+- 12 page extended abstracts in LNCS format via EasyChair
+- CCF C (2026 list); ranked National China in ICORE2026 under its old name International Frontiers of Algorithmics Workshop (FAW)
+editions:
+- year: 2025
+  label: 6th IJTCS and 19th FAW
+  start: 2025-06-30
+  end: 2025-07-02
+  location: Sorbonne University, Paris, France
+  url: https://ijtcs-faw.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-16
+    tz: AoE
+    label: Extended from 2025-01-29
+  - kind: notification
+    date: 2025-03-20
+  - kind: camera_ready
+    date: 2025-04-20
+    label: Full version
+sources:
+- https://ijtcs-faw.github.io/2025/
+- https://link.springer.com/book/10.1007/978-981-96-8312-3
+- https://link.springer.com/conference/faw
+- https://portal.core.edu.au/conf-ranks/?search=FAW&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- No 2026 or 2027 edition found; ijtcs-faw.github.io/2026/ returns 404
+- CCF rank checked in the CCF 2026 list PDF mirrored by ccfddl (ccf.org.cn blocks automated access)
+last_verified: 2026-11-07

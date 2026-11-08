@@ -1,0 +1,61 @@
+id: foiks
+name: FoIKS
+full_name: International Symposium on Foundations of Information and Knowledge Systems
+type: conference
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: biennial
+organizer: FoIKS symposium series, hosted by a European university each time (2026 Leibniz Universitat Hannover)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [10, 12]
+  conference_months: [3, 4]
+links:
+  website: https://foiks2026.github.io/
+notes:
+- Biennial symposium on theoretical foundations of information and knowledge systems (databases, logic, knowledge representation, reasoning)
+- Proceedings in Springer LNCS (FoIKS 2022, 2024 and 2026 volumes)
+- Long papers 16 pages and short papers 10 pages in LNCS format, plus references; single-blind review
+- Each participant is asked to prepare a first response to another paper to start discussion
+- Selected papers invited to a special issue (Information and Computation for 2026)
+- Held in Europe (Linz 2016, Budapest 2018, Dortmund 2020, Helsinki 2022, Sheffield 2024, Hanover 2026)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-26
+  location: Hanover, Germany (Leibniz Universitat Hannover)
+  url: https://foiks2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-10-02
+    time: "23:59"
+    tz: AoE
+    label: Abstract submission (extended)
+  - kind: submission
+    date: 2025-10-09
+    time: "23:59"
+    tz: AoE
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2025-12-13
+  - kind: camera_ready
+    date: 2026-01-06
+sources:
+- https://foiks2026.github.io/
+- https://foiks2026.github.io/cfp.html
+- https://foiks2026.github.io/organisation.html
+- https://doi.org/10.1007/978-3-032-21540-6 (FoIKS 2026 LNCS volume, via Crossref)
+- https://doi.org/10.1007/978-3-031-56940-1 (FoIKS 2024 LNCS volume, Sheffield)
+- https://doi.org/10.1007/978-3-031-11321-5 (FoIKS 2022 LNCS volume, Helsinki)
+- https://portal.core.edu.au/conf-ranks/?search=FoIKS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- FoIKS 2028 not announced yet
+- Locations of the 2016 and 2018 editions taken from the series history, not from their own sites
+- CCF rank checked in the CCF 2026 list PDF mirrored by ccfddl (ccf.org.cn blocks automated access)
+last_verified: 2026-11-07

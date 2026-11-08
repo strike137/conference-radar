@@ -1,0 +1,50 @@
+id: msfp
+name: MSFP
+full_name: Workshop on Mathematically Structured Functional Programming
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: biennial
+organizer: MSFP workshop organizers (programme co-chairs change each edition)
+organizer_country: [europe]
+proceedings: EPTCS
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [7]
+links:
+  website: https://msfp-workshop.github.io/
+notes:
+- Workshop on deriving functionality from mathematical structure in functional programming (monads, effects, recursion schemes, type theory)
+- Held every two years since 2006, usually affiliated with ETAPS, FLoC or ICALP (ICFP in 2010); 2022 Munich at ETAPS, 2024 Tallinn, 2026 Lisbon at FLoC
+- Full papers (up to 15 pages, EPTCS format) appear in EPTCS proceedings; extended abstracts (up to 2 pages) are posted on the website only
+- MSFP 2024 proceedings will be published in a combined EPTCS volume with MSFP 2026
+- 2026 programme co-chairs are Robert Atkey (University of Strathclyde) and Marie Kerjean (CNRS, Universite Sorbonne Paris Nord)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 11th edition, with FSCD 2026 at FLoC 2026
+  start: 2026-07-18
+  end: 2026-07-18
+  location: Lisbon, Portugal
+  url: https://msfp-workshop.github.io/msfp2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-07
+    tz: AoE
+    label: Extended from 2026-04-29
+  - kind: notification
+    date: 2026-05-27
+  - kind: other
+    date: 2026-06-24
+    label: Pre-proceedings version
+sources:
+- https://msfp-workshop.github.io/
+- https://msfp-workshop.github.io/msfp2026/
+- https://msfp-workshop.github.io/msfp2024/
+- https://portal.core.edu.au/conf-ranks/?search=MSFP&by=all&source=ICORE2026
+unverified:
+- MSFP 2028 not announced yet
+last_verified: 2026-11-07

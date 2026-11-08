@@ -1,0 +1,59 @@
+id: climate-informatics
+name: CI
+full_name: International Conference on Climate Informatics
+type: conference
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Climate Informatics community (series founded by Claire Monteleoni and Gavin Schmidt), local host institution
+organizer_country: [international]
+proceedings: Environmental Data Science journal (special issue)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [4]
+links:
+  website: https://www.climateinformatics.org/
+notes:
+- Interdisciplinary conference on machine learning, statistics and data science for climate science, held since 2011
+- First held in New York in 2011, at NCAR Boulder from 2012 to 2018, then Paris 2019, Oxford 2020 (virtual), Asheville 2022, Cambridge 2023, London 2024, Rio de Janeiro 2025 and Lausanne 2026
+- Held in September or October until 2020 and in spring (April) since 2022
+- Two tracks, full papers and extended abstracts; double-blind review by at least two reviewers
+- Accepted full papers are published in a special issue of the Environmental Data Science (EDS) journal
+- Hybrid format with a hackathon; CI 2026 received more than 100 submissions
+editions:
+- year: 2025
+  start: 2025-04-28
+  end: 2025-04-30
+  location: Rio de Janeiro, Brazil (IBM Research Brazil and FGV EMAp)
+  url: https://2025.climateinformatics.com.br/
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-30
+  location: University of Lausanne, Lausanne, Switzerland
+  url: https://wp.unil.ch/ci26/
+  deadlines:
+  - kind: submission
+    date: 2026-01-23
+    time: "23:59"
+    tz: AoE
+    label: Full papers and extended abstracts (extended from 2026-01-16)
+  - kind: notification
+    date: 2026-03-09
+  - kind: camera_ready
+    date: 2026-03-31
+sources:
+- https://www.climateinformatics.org/conferences/
+- https://wp.unil.ch/ci26/
+- https://wp.unil.ch/ci26/call-for-conference-papers/
+- https://wp.unil.ch/ci26/submission-guidelines/
+- https://wp.unil.ch/ci26/author-guidelines/
+- https://2025.climateinformatics.com.br/
+- https://portal.core.edu.au/conf-ranks/?search=Climate+Informatics&by=all&source=ICORE2026
+unverified:
+- CI 2027 not announced yet
+- Notification and camera-ready dates for CI 2026 were moved (CFP page lists 2026-02-17 and 2026-03-10; the home page lists 2026-03-09 and 2026-03-31)
+- Not listed in ICORE2026 or the CCF 2026 list
+last_verified: 2026-11-07

@@ -1,0 +1,61 @@
+id: paise
+name: PAISE
+full_name: Workshop on Parallel AI and Systems for the Edge
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE IPDPS workshop; organizers from Inria, Argonne National Laboratory, University of Illinois Chicago and Intel
+organizer_country: [usa, europe]
+proceedings: IEEE Xplore (IPDPS Workshops)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://paise.org/
+notes:
+- One-day workshop co-located with IEEE IPDPS every year since 2019; 9th edition in 2027
+- Accepted full and short papers appear in the IPDPS workshop proceedings (IEEE Xplore)
+- Full papers up to 8 pages and short papers up to 4 pages, including references; IEEE format
+- Submission through the IPDPS Linklings portal; single-blind, double-blind also accepted; three reviewers per paper
+- At least one co-author must present in person
+- 'Topics: edge AI learning and inference, edge applications, systems and programming models for the edge, edge security and data lifecycle'
+- Mixes paper talks with keynote, invited talks and a panel on the future of AI at the edge
+- Location follows IPDPS (Milan 2025, New Orleans 2026, Seattle area 2027)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-26
+  location: New Orleans, USA (with IPDPS 2026)
+  url: https://paise.org/2026
+- year: 2027
+  label: PAISE 2027 (9th)
+  start: 2027-06-01
+  end: 2027-06-01
+  location: Bellevue (Seattle), USA (with IPDPS 2027)
+  url: https://paise.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-03
+    tz: AoE
+  - kind: notification
+    date: 2027-02-27
+  - kind: camera_ready
+    date: 2027-03-06
+sources:
+- https://paise.org/
+- https://paise.org/cfp
+- https://paise.org/2026
+- https://paise.org/2025
+- https://paise.org/organizers
+- https://www.ipdps.org/ipdps2026/2026-workshops.html
+- https://www.ipdps.org/ipdps2027/2027-workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=PAISE&by=all&source=ICORE2026
+unverified:
+- PAISE 2026 submission and notification dates (the site now shows only the 2027 call)
+- Acceptance rate not published
+last_verified: 2026-11-07

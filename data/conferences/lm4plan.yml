@@ -1,0 +1,55 @@
+id: lm4plan
+name: LM4Plan
+full_name: Workshop on Planning in the Era of Language Models
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: LM4Plan organizing committee (2026 committee from IBM, Oxford, Melbourne, Colorado State, Saarland and Linkoping)
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [6, 7]
+links:
+  website: https://llmforplanning.github.io/
+notes:
+- Workshop on large language models and automated planning, held at ICAPS and at AI or ML conferences
+- Previous editions at AAAI 2025 and ICAPS 2025; in 2026 it ran at both ICAPS 2026 (3rd ICAPS edition) and ICML 2026
+- Non-archival with no official proceedings; work can be submitted concurrently elsewhere
+- Double-blind review on OpenReview; long papers up to 8 pages, short up to 4 pages, AAAI style
+editions:
+- year: 2026
+  label: LM4Plan @ ICAPS 2026
+  start: 2026-06-29
+  end: 2026-06-29
+  location: Dublin, Ireland (ICAPS 2026)
+  url: https://llmforplanning.github.io/ICAPS26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-08
+    tz: AoE
+    label: Submission (extended from 1 May)
+  - kind: notification
+    date: 2026-06-02
+    tz: AoE
+- year: 2026
+  label: LM4Plan @ ICML 2026
+  start: 2026-07-11
+  end: 2026-07-11
+  location: Seoul, South Korea (ICML 2026)
+  url: https://llmforplanning.github.io/ICML26/
+sources:
+- https://llmforplanning.github.io/
+- https://llmforplanning.github.io/ICAPS26/
+- https://llmforplanning.github.io/ICML26/
+- https://llmforplanning.github.io/previous/
+- https://icaps26.icaps-conference.org/program/workshops/lm4plan/
+- https://portal.core.edu.au/conf-ranks/?search=LM4Plan&by=all&source=ICORE2026
+unverified:
+- ICML 2026 edition deadlines not found on the official site
+- 2027 editions not announced as of 2026-11-07
+last_verified: 2026-11-07

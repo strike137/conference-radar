@@ -1,0 +1,53 @@
+id: pci-greece
+name: PCI
+full_name: Pan-Hellenic Conference on Progress in Computing and Informatics
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: irregular
+organizer: Greek Computer Society (GCS / EPY) with a host Greek university
+organizer_country: [europe]
+proceedings: ACM DL (ACM ICPS)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [4]
+links:
+  website: https://pci2026.uniwa.gr/
+notes:
+- National Greek general computer science conference with international participation, established by the Greek Computer Society in 1984
+- Proceedings published by ACM in the International Conference Proceedings Series (ICPS) since 2013
+- Papers in English, ACM format; up to 9 pages single column for review, 8 pages two column camera-ready (5 for short papers)
+- Held in Greece (mostly Athens) and occasionally Cyprus; 2024 and 2026 in Athens, no 2025 edition
+- Research papers, research project results and special sessions tracks
+- ACM ICPS open access model, so authors outside ACM Open institutions may have to pay an APC
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-24
+  end: 2026-04-26
+  location: Athens, Greece (University of West Attica)
+  url: https://pci2026.uniwa.gr/
+  deadlines:
+  - kind: submission
+    date: 2026-01-18
+    label: Main track (extended from January 11)
+  - kind: submission
+    date: 2026-02-01
+    label: Special sessions (extended from January 25)
+  - kind: notification
+    date: 2026-03-07
+  - kind: camera_ready
+    date: 2026-03-20
+sources:
+- https://pci2026.uniwa.gr/
+- https://pci2026.uniwa.gr/important_dates/
+- https://pci2026.uniwa.gr/call-for-papers/
+- https://pci2026.uniwa.gr/932/
+- https://pci2026.uniwa.gr/proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=PCI&by=all&source=ICORE2026
+unverified:
+- Next edition (30th PCI) not yet announced
+last_verified: 2026-11-07

@@ -1,0 +1,47 @@
+id: mpts
+name: MPTS
+full_name: NIST Workshop on Multi-Party Threshold Schemes
+type: conference
+tier: minor
+areas: [crypto, security]
+region: online
+language: english
+frequency: irregular
+organizer: NIST (Computer Security Resource Center)
+organizer_country: [usa]
+proceedings: None (slides and preview writeups posted online)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [1, 9, 11]
+links:
+  website: https://csrc.nist.gov/events/2026/mpts2026
+notes:
+- Virtual workshop run by NIST within its Multi-Party Threshold Cryptography (MPTC) program
+- Earlier editions MPTS 2020 (Nov 4 to 6) and MPTS 2023 (Sep 26 to 28), both virtual
+- Call for talk proposals, not papers; no formal proceedings, slides are posted on the NIST site
+- 2026 edition had regular talks plus preview talks of planned submissions to the NIST Threshold Call (NIST IR 8214C)
+- Free to attend via ZoomGov; 2026 drew over 600 registrations from more than 50 countries
+- Not in the ICORE2026 portal and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-01-26
+  end: 2026-01-29
+  location: Virtual
+  url: https://csrc.nist.gov/events/2026/mpts2026
+  deadlines:
+  - kind: submission
+    date: 2025-09-10
+    label: Regular talk proposals
+  - kind: other
+    date: 2026-01-12
+    label: Preview talk proposals (originally 2025-11-03)
+sources:
+- https://csrc.nist.gov/events/2026/mpts2026
+- https://csrc.nist.gov/events/2023/mpts2023
+- https://csrc.nist.gov/events/2020/mpts2020
+- https://portal.core.edu.au/conf-ranks/?search=MPTS&by=all&source=ICORE2026
+unverified:
+- No next edition announced as of 2026-11-07; editions are tied to the NIST threshold project, so timing is irregular
+- Notification dates are not published on the official page
+last_verified: 2026-11-07

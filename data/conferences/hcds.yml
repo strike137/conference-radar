@@ -1,0 +1,48 @@
+id: hcds
+name: HCDS
+full_name: Workshop on Heterogeneous Composable and Disaggregated Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: HCDS workshop organizers (IBM Research Europe, UC Merced, IMDEA Software, University of Toronto, William & Mary, NTUA in 2026); held with ACM ASPLOS
+organizer_country: [international]
+proceedings: ACM DL (ICPS, optional)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [3]
+links:
+  website: https://hcds-workshop.github.io/
+notes:
+- Workshop on disaggregated and composable systems (CXL, memory pooling, OS and runtime support, AI system disaggregation)
+- Co-located with ASPLOS (San Diego 2024, Rotterdam 2025 with EuroSys, Pittsburgh 2026)
+- 4 to 6 page papers in ACM sigplan format, double-blind review
+- Accepted papers can go to the ACM DL (ICPS, open access with possible APC); authors may opt out and publish only on the workshop website
+- Successor of the COMPSYS (2022, 2023) and HCM (2023) workshops listed as past editions
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-23
+  location: Pittsburgh, PA, USA (with ASPLOS 2026)
+  url: https://hcds-workshop.github.io/edition/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-30
+    tz: AoE
+    label: Extended from 2026-01-23
+  - kind: notification
+    date: 2026-02-20
+  - kind: camera_ready
+    date: 2026-02-27
+sources:
+- https://hcds-workshop.github.io/edition/2026/
+- https://hcds-workshop.github.io/edition/2025/
+- https://hcds-workshop.github.io/edition/2024/
+- https://portal.core.edu.au/conf-ranks/?search=HCDS&by=all&source=ICORE2026
+unverified:
+- HCDS 2027 host conference and dates (not announced)
+last_verified: 2026-11-07

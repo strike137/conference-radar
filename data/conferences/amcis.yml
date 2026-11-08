@@ -1,0 +1,68 @@
+id: amcis
+name: AMCIS
+full_name: Americas Conference on Information Systems
+type: conference
+tier: major
+areas: [general, data, security, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Association for Information Systems (AIS), Region 1
+organizer_country: [international]
+proceedings: AIS eLibrary (AISeL)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [7, 8]
+links:
+  website: https://aisnet.org/conferences/amcis/
+notes:
+- AIS premier conference for Region 1 (the Americas); tracks and minitracks largely shaped by the AIS Special Interest Groups
+- Information systems (business school) venue rather than core CS
+- About 700 paper submissions a year (AIS); proceedings in the AIS eLibrary
+- Rotates within the Americas (Panama City 2023, Salt Lake City 2024, Montreal 2025, Reno 2026, Sao Paulo 2027, Boston 2028)
+- "AMCIS 2026 rules: at most three papers per author and five authors per paper; in-person only"
+- Last listed in CORE2018 (rank A); not in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-08-20
+  end: 2026-08-22
+  location: Reno, NV, USA
+  url: https://amcis2026.aisconferences.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-01
+    time: "17:00"
+    tz: PST
+    label: Full and emergent research forum (ERF) papers
+  - kind: notification
+    date: 2026-04-19
+  - kind: camera_ready
+    date: 2026-04-30
+    time: "17:00"
+    tz: PDT
+  - kind: other
+    date: 2026-05-11
+    label: Final acceptance notification
+  - kind: other
+    date: 2026-05-09
+    time: "17:00"
+    tz: PDT
+    label: TREO, panel, PDS and workshop submissions
+- year: 2027
+  start: 2027-07-28
+  end: 2027-07-30
+  location: Sao Paulo, Brazil
+  url: https://amcis2027.aisconferences.org/
+sources:
+- https://aisnet.org/conferences/amcis/
+- https://amcis2026.aisconferences.org/
+- https://amcis2026.aisconferences.org/submissions/call-for-papers/
+- https://amcis2027.aisconferences.org/
+- https://amcis2027.aisconferences.org/submissions/call-for-papers/
+- https://aisel.aisnet.org/amcis2026/
+- https://portal.core.edu.au/conf-ranks/?search=AMCIS&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=AMCIS&by=acronym&source=all
+unverified:
+- AMCIS 2027 call for papers and deadlines not yet published (the site says submissions open in early January 2027)
+last_verified: 2026-11-07

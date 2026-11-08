@@ -1,0 +1,47 @@
+id: galm
+name: GaLM
+full_name: "International Workshop on Graph-Augmented LLMs (GaLM): Bridging Language and Structured Knowledge"
+type: workshop
+tier: minor
+areas: [ai, nlp, data]
+region: worldwide
+language: english
+organizer: GaLM organizers led by IIT (BHU) Varanasi (with CUHK Shenzhen, Halmstad University, JNU, Capital One)
+organizer_country: [india]
+proceedings: CEUR-WS (planned, subject to enough submissions)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://galm-workshop.github.io/
+notes:
+- Workshop on combining LLMs with graph learning and structured knowledge (graph-enhanced LLMs, LLMs for graphs, graph unlearning, privacy)
+- 1st edition at IEEE ICDM 2025 in Washington DC, USA; 2nd edition at ACM CIKM 2026 in Rome; host conference is not fixed
+- Organizers plan to publish accepted papers in CEUR Workshop Proceedings if there are enough submissions
+- Full papers up to 8 pages, short papers up to 4 pages (ACM sigconf), single-blind review via OpenReview; papers already published elsewhere are also accepted
+- 7 papers on the 2026 program (half-day afternoon session)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-08
+  location: Rome, Italy (co-located with ACM CIKM 2026)
+  url: https://galm-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    label: Extended
+  - kind: notification
+    date: 2026-09-23
+sources:
+- https://galm-workshop.github.io/
+- https://www.iitbhu.ac.in/cf/jcsic/activities/workshops
+- https://www3.cs.stonybrook.edu/~icdm2025/workshops.html
+- https://cikm2026.diag.uniroma1.it/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=GaLM&by=all&source=ICORE2026
+unverified:
+- 2025 edition date unclear (the 2025 page says both November 12 and November 14, 2025), so it is not listed
+- CEUR-WS volume not yet published as of 2026-11-07
+- 2027 edition and host conference not announced as of 2026-11-07
+last_verified: 2026-11-07

@@ -1,0 +1,67 @@
+id: annsim
+name: ANNSIM
+full_name: Annual Modeling and Simulation Conference
+type: conference
+tier: minor
+areas: [systems, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: Society for Modeling and Simulation International (SCS)
+organizer_country: [usa]
+proceedings: ANNSIM Proceedings (SCS), indexed in Scopus, DBLP, ACM and IEEE databases
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [12, 1]
+  conference_months: [5]
+links:
+  website: https://scs.org/annsim/
+notes:
+- Main annual conference of the Society for Modeling and Simulation International (SCS); successor of the SpringSim and SummerSim multi-conferences, which ran until 2020
+- Tracks include the Annual Simulation Symposium (ANSS), communications and networking simulation, cyber-physical systems and digital twins, ML and AI in simulation, and SimAUD
+- Mostly held in North America (Virtual 2021, San Diego 2022, Hamilton 2023, Washington DC 2024, Madrid 2025, Orlando 2026, Wroclaw 2027)
+- Technical papers go to digital libraries for archiving; Work-in-Progress papers appear only in the SCS Digital Library, not in IEEE/ACM
+- Ph.D. colloquium 2-page abstracts are posted on the website but not archived in the proceedings
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-07
+  location: University of Central Florida, Orlando, Florida, USA
+  url: https://scs.org/wp-content/uploads/2026/01/ANNSIM26-CFP-Extended-1.pdf
+  deadlines:
+  - kind: submission
+    date: 2026-01-25
+    label: Papers (extended from 2026-01-11)
+  - kind: notification
+    date: 2026-03-02
+  - kind: camera_ready
+    date: 2026-03-20
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-21
+  location: Wroclaw University of Science and Technology, Wroclaw, Poland
+  url: https://scs.org/annsim/
+  deadlines:
+  - kind: submission
+    date: 2026-12-18
+  - kind: other
+    date: 2026-12-18
+    label: Tutorials, workshops, WiP papers and PhD colloquium (tentative)
+  - kind: notification
+    date: 2027-02-09
+  - kind: camera_ready
+    date: 2027-03-09
+sources:
+- https://scs.org/annsim/
+- https://scs.org/wp-content/uploads/2026/10/CFP-2027-ANNSIM-October.pdf
+- https://scs.org/wp-content/uploads/2025/09/68ba7495bf3f9_CFP-2026-ANNSIMv2.pdf
+- https://scs.org/wp-content/uploads/2026/01/ANNSIM26-CFP-Extended-1.pdf
+- https://scs.org/archives
+- https://scs.org/publications/
+- https://portal.core.edu.au/conf-ranks/?search=ANNSIM&by=all&source=ICORE2026
+unverified:
+- The official pages say papers are indexed in IEEE and ACM databases but do not name the exact digital library series
+- Deadline time zones not stated
+last_verified: 2026-11-07
