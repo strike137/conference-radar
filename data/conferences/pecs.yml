@@ -1,0 +1,56 @@
+id: pecs
+name: PECS
+full_name: International Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: Euro-Par co-located workshop; 2026 chairs Pierangelo di Sanzo (Roma Tre University) and Romolo Marotta (University of Rome Tor Vergata)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://pecs-workshop.github.io/
+notes:
+- Workshop on energy efficiency and performance analysis and optimization in concurrent, parallel and distributed systems
+- Papers must address energy; performance-only papers may be rejected before review
+- Running since 2021 (called Performance and Energy Efficiency in Concurrent Systems in 2021 and 2022); 6th edition in 2026
+- Co-located with Euro-Par 2026 in Pisa; 2025 edition at TU Dresden, 2024 edition at the University of Pisa
+- Revised papers appear in the Euro-Par workshops volume of Springer LNCS after the conference
+- LNCS format, 10 to 12 pages; papers under 10 pages are presented but not published
+- Double-blind review; submission through the shared Euro-Par workshops EasyChair
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  label: 6th PECS
+  start: 2026-08-24
+  end: 2026-08-24
+  location: Pisa, Italy (with Euro-Par 2026)
+  url: https://pecs-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-26
+    time: "23:59"
+    tz: AoE
+    label: Extended (originally May 15)
+  - kind: notification
+    date: 2026-06-24
+  - kind: camera_ready
+    date: 2026-07-10
+    label: Firm
+sources:
+- https://pecs-workshop.github.io/2026/
+- https://pecs-workshop.github.io/2026/cfp
+- https://pecs-workshop.github.io/2026/organization
+- https://pecs-workshop.github.io/editions.html
+- https://2026.euro-par.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=PECS&by=all&source=ICORE2026
+unverified:
+- Euro-Par workshops page gives an updated camera-ready deadline of August 10, 2026 for all workshop papers; the PECS call for papers says July 10, 2026
+- PECS 2027 (with Euro-Par 2027) not yet announced as of 2026-11-07
+last_verified: 2026-11-07

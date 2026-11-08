@@ -1,0 +1,53 @@
+id: rust-verification-workshop
+name: RW
+full_name: Rust Verification Workshop
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizers (Inria, AWS, University of British Columbia), co-located with ETAPS
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [1, 2]
+  conference_months: [4, 5]
+links:
+  website: https://sites.google.com/view/rustverify2026/home
+notes:
+- Informal workshop on formal verification of Rust programs, for language designers, developers and verification tool builders
+- No published proceedings; talk proposals of at most 2 pages, slides and working documents posted on the website
+- Invited talks, contributed talks (30 minutes by default), tool demos and discussion sessions
+- Co-located with ETAPS every year since 2022 (first edition virtual in 2021); two days since 2024
+- Follows ETAPS around (Munich 2022, Paris 2023, Luxembourg 2024, Hamilton, Canada 2025, Turin 2026, Copenhagen 2027)
+- Listed as RUST 2027 on the ETAPS 2027 site
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-14
+  location: Turin, Italy (with ETAPS 2026)
+  url: https://sites.google.com/view/rustverify2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-02-13
+    tz: AoE
+  - kind: notification
+    date: 2026-02-20
+    tz: AoE
+- year: 2027
+  start: 2027-04-12
+  end: 2027-04-13
+  location: Copenhagen, Denmark (with ETAPS 2027)
+  url: https://etaps.org/2027/colocated-events
+sources:
+- https://sites.google.com/view/rustverify2026/home
+- https://sites.google.com/view/rustverify2025/home
+- https://etaps.org/2027/colocated-events
+- https://etaps.org/2027/
+- https://portal.core.edu.au/conf-ranks/?search=Rust&by=all&source=ICORE2026
+unverified:
+- RW 2027 call for talks and deadlines not announced yet
+last_verified: 2026-11-07

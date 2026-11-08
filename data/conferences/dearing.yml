@@ -1,0 +1,48 @@
+id: dearing
+name: DEARING
+full_name: International Workshop on Data-Centric Artificial Intelligence
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: DEARING organizers (University of Bari Aldo Moro, University of Modena and Reggio Emilia, Lyon 1 University and others); co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (ECML PKDD post-workshop proceedings, opt-in)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://dearing-workshop.github.io/
+notes:
+- Workshop on data-centric AI (data quality, data preparation, bias and fairness in data), held with ECML PKDD
+- Editions at ECML PKDD 2024 (Vilnius), 2025 (Porto) and 2026 (Naples, 3rd edition)
+- Includes a tutorial on data-centric AI alongside the paper sessions
+- Papers in Springer LNCS format; papers can go into the joint ECML PKDD post-workshop proceedings in Springer CCIS (opt-in or opt-out)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-11
+  end: 2026-09-11
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://dearing-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-14
+    label: Extended from 2026-06-05
+  - kind: notification
+    date: 2026-07-03
+  - kind: camera_ready
+    date: 2026-07-10
+sources:
+- https://dearing-workshop.github.io/
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://ecmlpkdd.org/2026/submissions-workshop-track/
+- https://portal.core.edu.au/conf-ranks/?search=DEARING&by=all&source=ICORE2026
+unverified:
+- Time zone of the 2026 deadlines not stated
+- DEARING 2027 (not announced as of 2026-11-07)
+- dblp page not checked (dblp blocked automated access)
+last_verified: 2026-11-07

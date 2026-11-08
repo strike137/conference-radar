@@ -1,0 +1,73 @@
+id: ieee-smartcity
+name: IEEE SmartCity
+full_name: IEEE International Conference on Smart City
+type: conference
+tier: minor
+areas: [data, systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE; part of the IEEE Hyper Intelligence Congress (with HPCC, DSS, DependSys, Embodied AI and ICESS)
+organizer_country: [china]
+proceedings: IEEE Xplore (IEEE Computer Society Press)
+archival: true
+indexing: [IEEE Xplore, EI]
+typical:
+  deadline_months: [4, 5, 8]
+  conference_months: [8, 10, 12]
+links:
+  website: https://ieee-hyper-intelligence.org/2026/smartcity/index.html
+notes:
+- Smart city computing conference (23rd edition in 2025), held jointly with IEEE HPCC and DSS since 2016 and with DependSys since 2021
+- Earlier editions shared joint HPCC/SmartCity/DSS(/DependSys) proceedings in IEEE Xplore; 2024 had its own volume
+- Four tracks in 2026 (smart city systems, data processing technology, data systems, data applications)
+- Single-blind review via EDAS; 8 pages (10 with overlength charge) in IEEE CS format
+- Selected best papers invited to journal special issues
+- Mostly held in China (2021 Haikou, 2022 Hainan, 2024 Wuhan, 2026 Luoyang) with editions abroad (2023 Melbourne, 2025 Exeter)
+- Deadlines are usually extended by one to three weeks
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-13
+  end: 2025-08-15
+  location: Exeter, UK
+  url: https://hpcn.exeter.ac.uk/smartcity2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-18
+    label: Paper submission (extended from 2025-04-30, firm)
+  - kind: notification
+    date: 2025-06-15
+  - kind: camera_ready
+    date: 2025-07-15
+    label: Final manuscript and registration
+- year: 2026
+  start: 2026-10-29
+  end: 2026-11-02
+  location: Luoyang, China
+  url: https://ieee-hyper-intelligence.org/2026/smartcity/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-08-25
+    label: Paper submission (extended from 2026-08-15)
+  - kind: notification
+    date: 2026-09-15
+    label: Author notification (moved from 2026-09-10)
+  - kind: camera_ready
+    date: 2026-10-08
+    label: Camera-ready (moved from 2026-09-30)
+  - kind: other
+    date: 2026-10-11
+    label: Registration due (moved from 2026-09-30)
+sources:
+- https://ieee-hyper-intelligence.org/2026/smartcity/index.html
+- https://hpcn.exeter.ac.uk/smartcity2025/
+- https://hpcn.exeter.ac.uk/smartcity2025/important_dates.php
+- https://api.crossref.org/works?query.bibliographic=IEEE+International+Conference+on+Smart+City+SmartCity&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=SmartCity&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js
+unverified:
+- Acceptance rate
+- Deadline time zone (not stated)
+- SmartCity 2027 not announced yet (as of 2026-11-07)
+last_verified: 2026-11-07

@@ -1,0 +1,64 @@
+id: confws
+name: ConfWS
+full_name: International Workshop on Configuration
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: ConfWS organizers (configuration research community; 2027 hosted by the University of Seville)
+organizer_country: [europe]
+proceedings: CEUR Workshop Proceedings
+archival: true
+typical:
+  deadline_months: [5, 6, 7]
+  conference_months: [8, 9, 10]
+links:
+  website: https://confws.github.io/
+  dblp: https://dblp.org/db/conf/confws/index.html
+notes:
+- Two-day workshop on knowledge-based configuration (constraint solving, knowledge representation, product configuration, reconfiguration, feature models)
+- Started at the AAAI 1996 Fall Symposium; since 1999 held with IJCAI, AAAI, ECAI, CP or SPLC, and stand-alone since 2013 in some years
+- Recent editions in Europe (Vienna 2021, Graz 2022 with SPLC, Malaga 2023, Girona 2024 with CP, Bologna 2025 with ECAI, Bremen 2026 with IJCAI-ECAI)
+- ConfWS 2027 (29th edition) will be a stand-alone onsite event at the University of Seville, early September 2027 (exact dates TBD)
+- Full papers 10 to 30 pages, short papers 5 to 9 pages, or one-page abstracts of already published articles (not in the proceedings); at least two reviewers per paper
+- Proceedings in CEUR Workshop Proceedings (CEUR-ART one-column style); best paper and best PhD student paper awards
+- Mixed academic and industry audience (Siemens, Mercedes-Benz and others on the PC)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  label: 28th ConfWS, with IJCAI-ECAI 2026
+  start: 2026-08-15
+  end: 2026-08-16
+  location: Bremen, Germany (co-located with IJCAI-ECAI 2026)
+  url: https://confws.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-29
+    tz: AoE
+  - kind: notification
+    date: 2026-06-14
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-11
+    tz: AoE
+- year: 2027
+  label: 29th ConfWS, stand-alone
+  location: University of Seville, Seville, Spain (early September 2027)
+  url: https://confws.github.io/
+  status: tentative
+  deadlines: []
+sources:
+- https://confws.github.io/
+- https://confws.github.io/dates/
+- https://confws.github.io/call-for-papers/
+- https://confws.github.io/history/
+- https://confws.github.io/2026/
+- https://confws.github.io/2026/call-for-papers/
+- https://confws.github.io/2025/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=ConfWS&by=all&source=ICORE2026
+unverified:
+- ConfWS 2027 exact dates and deadlines not announced as of 2026-11-07 (only early September 2027)
+- CEUR volume numbers for the 2024 to 2026 editions not linked from the official history page
+last_verified: 2026-11-07

@@ -1,0 +1,47 @@
+id: thedu
+name: ThEdu
+full_name: International Workshop on Theorem Proving Components for Educational Software
+type: workshop
+tier: minor
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ThEdu Steering Committee (ThEdu interest group)
+organizer_country: [europe]
+proceedings: EPTCS (post-proceedings)
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [7]
+links:
+  website: https://theduworkshop.github.io/ThEduWebSite/
+notes:
+- Workshop on proof assistants, automated theorem provers, computer algebra and dynamic geometry systems for education
+- Annual since 2011, co-located with CADE or an umbrella event containing it (IJCAR, FLoC)
+- Steering committee from Brazil, Serbia, France, Austria, Portugal and Denmark; series website and mailing list hosted by the University of Coimbra
+- Extended abstracts (2 to 10 pages, EPTCS style) and demos are reviewed for the workshop; revised papers go through a second review round for EPTCS post-proceedings
+- Post-proceedings in EPTCS (ThEdu'24 -> EPTCS 419, ThEdu'23 -> EPTCS 400, ThEdu'22 -> EPTCS 375); 2013, 2014 and 2016 editions in CEUR-WS
+- Accepts repeat papers (already published work) that do not enter the formal record
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: ThEdu'26 (16th)
+  start: 2026-07-19
+  end: 2026-07-19
+  location: Lisbon, Portugal (FLoC 2026)
+  url: https://theduworkshop.github.io/ThEduWebSite/
+  deadlines:
+  - kind: submission
+    date: 2026-04-29
+    label: Extended abstracts
+  - kind: notification
+    date: 2026-05-27
+sources:
+- https://theduworkshop.github.io/ThEduWebSite/
+- https://portal.core.edu.au/conf-ranks/?search=ThEdu&by=all&source=ICORE2026
+unverified:
+- ThEdu'26 EPTCS post-proceedings plan was to be confirmed at the business meeting; deadline for revised papers not found
+- ThEdu'27 not announced as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

@@ -1,0 +1,74 @@
+id: tpc-workshop
+name: TPC Workshop
+full_name: Trillion Parameter Consortium Workshop at SC
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: Trillion Parameter Consortium (TPC), held with SC
+organizer_country: [international]
+proceedings: SC Workshops Proceedings
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://tpc.dev/tpc-workshop-at-sc26/
+notes:
+- Half-day or full-day workshop at SC on large-scale AI models and agentic systems for science, run by the international Trillion Parameter Consortium
+- Title changes each year; 2026 title "Building Open AI Infrastructure, Models, and Agentic Systems for Science" (4th edition)
+- Papers limited to 5 content pages in IEEE format, references and appendices excluded; presented as 15-minute lightning talks
+- Double-blind review following the SC process; teams spanning institutions, disciplines and countries are prioritized
+- Accepted papers appear in the SC Workshops Proceedings
+- "Acceptance: 10 of 40 (2026), 12 of 26 (2025)"
+- TPC also runs workshops at ISC and SCA and quarterly hackathons
+- Not listed in CORE ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: St. Louis, MO, USA (with SC25)
+  url: https://tpc.dev/tpc-workshop-sc25/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    time: "23:59"
+    tz: AoE
+    label: Original deadline (later extended)
+  - kind: notification
+    date: 2025-09-05
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-22
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-20
+  location: Chicago, IL, USA (with SC26)
+  url: https://tpc.dev/tpc-workshop-at-sc26/
+  deadlines:
+  - kind: submission
+    date: 2026-07-17
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-08-25
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-25
+    time: "23:59"
+    tz: AoE
+sources:
+- https://tpc.dev/tpc-workshop-at-sc26/
+- https://tpc.dev/tpc-workshop-sc25/
+- https://tpc.dev/tpc-workshop-at-sc24/
+- https://tpc.dev/tpc-events/
+- https://portal.core.edu.au/conf-ranks/?search=TPC&by=all&source=ICORE2026
+unverified:
+- The SC25 page gives the extended submission deadline as "August 22, 2026", evidently a typo; the extended date is not recorded
+last_verified: 2026-11-07

@@ -1,0 +1,49 @@
+id: dialres
+name: DialRes
+full_name: 'Workshop on Dialects in NLP: A Resource Perspective'
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+organizer: Workshop organizing committee (George Mason University; ILSP and Archimedes/Athena RC; University of Patras); co-located with LREC
+organizer_country: [usa, europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5]
+links:
+  website: https://dialres.github.io/dialres/
+notes:
+- Workshop on the creation, documentation and use of dialectal language resources (text and speech) for NLP
+- First edition (DialRes-LREC26) held with LREC 2026 in Palma de Mallorca on May 16 2026, as a hybrid event
+- Proceedings in the ACL Anthology (2026.dialres-1, 34 papers)
+- Papers of 4 to 8 pages in the LREC template, double-blind review by at least two PC members; papers rejected from the LREC main conference may be revised and resubmitted
+- Offers tutoring and mentoring for early-career authors on request
+- Endorsed by the UniDive COST Action CA21167 and Archimedes Athena R.C.
+- No 2027 or later edition announced as of 2026-11-07
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 1st DialRes
+  start: 2026-05-16
+  end: 2026-05-16
+  location: Palma de Mallorca, Spain (co-located with LREC 2026)
+  url: https://dialres.github.io/dialres/
+  deadlines:
+  - kind: submission
+    date: 2026-03-02
+    label: Papers (extended from 2026-02-20)
+  - kind: camera_ready
+    date: 2026-03-28
+sources:
+- https://dialres.github.io/dialres/
+- https://dialres.github.io/dialres/call.html
+- https://dialres.github.io/dialres/program.html
+- https://lrec2026.info/workshops-and-tutorials/workshop-and-tutorials-schedule/
+- https://aclanthology.org/volumes/2026.dialres-1/
+- https://portal.core.edu.au/conf-ranks/?search=DialRes&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Notification date not stated on the official call for papers

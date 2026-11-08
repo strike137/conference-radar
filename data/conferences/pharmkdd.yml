@@ -1,0 +1,45 @@
+id: pharmkdd
+name: PharmKDD
+full_name: KDD Workshop on Knowledge Discovery and Data Mining for Pharmaceutical Research and Development
+type: workshop
+tier: minor
+areas: [data, ai]
+region: north-america
+language: english
+organizer: Workshop organizing committee co-located with ACM SIGKDD; led by Fei Wang (Weill Cornell Medicine) with Mila, AbbVie and Regeneron co-organizers
+organizer_country: [usa, canada]
+proceedings: None (accepted papers presented on the workshop website)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://wcm-wanglab.github.io/workshops/PharmKDD2025/homepage.html
+notes:
+- Half-day KDD workshop on data mining and AI for drug discovery and development (molecule design, foundation models, real world evidence, in-silico trials)
+- Short papers up to 5 pages in the ACM two-column template; double-blind, at least two reviewers, submitted via EasyChair
+- In-person presentation required; all accepted papers get posters and some get oral or spotlight slots and best paper awards
+- Per the KDD policy, accepted papers are not included in proceedings or any form of publication
+- Only the 2025 edition (with KDD 2025, Toronto) was found; not in the KDD 2026 workshop list
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-08-03
+  end: 2025-08-03
+  location: Toronto, Canada (with KDD 2025)
+  url: https://wcm-wanglab.github.io/workshops/PharmKDD2025/homepage.html
+  deadlines:
+  - kind: submission
+    date: 2025-05-15
+  - kind: notification
+    date: 2025-06-08
+sources:
+- https://wcm-wanglab.github.io/workshops/PharmKDD2025/homepage.html
+- https://wcm-wanglab.github.io/workshops/PharmKDD2025/CFP.html
+- https://kdd2025.kdd.org/workshops/
+- https://kdd2026.kdd.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=PharmKDD&by=all&source=ICORE2026
+unverified:
+- Frequency unclear; no earlier or later edition found on the organizer site
+- The PharmKDD 2025 page does not name the city; Toronto is taken from the KDD 2025 host city
+last_verified: 2026-11-07

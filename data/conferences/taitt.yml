@@ -1,0 +1,50 @@
+id: taitt
+name: TAITT
+full_name: International Workshop on Teaching AI-based Translation and Technologies
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+organizer: Organising committee from TH Koeln, Dublin City University, UAB, UPV/EHU, UCLouvain and Ghent University; held as part of EAMT
+organizer_country: [europe]
+proceedings: ACL Anthology (published by the European Association for Machine Translation)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/taitt2026/home
+notes:
+- Workshop on teaching machine translation, CAT tools and LLMs in translator education (curricula, classroom exercises, AI literacy)
+- First edition in 2026, held with EAMT 2026 in Tilburg, the Netherlands
+- Research papers (4 to 10 pages), extended abstracts and demos (2 pages), submitted via EasyChair; archival submissions anonymised
+- Proceedings in the ACL Anthology (2026.taitt-1, ISBN 9789403901398)
+- "Acceptance rate: 82% (2026, 14 of 17 submissions)"
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 1st edition, with EAMT 2026
+  start: 2026-06-15
+  end: 2026-06-15
+  location: Tilburg, the Netherlands
+  url: https://sites.google.com/view/taitt2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-04-20
+    time: "23:59"
+    tz: AoE
+    label: Extended (originally 2026-04-10)
+  - kind: notification
+    date: 2026-05-08
+  - kind: camera_ready
+    date: 2026-05-26
+sources:
+- https://sites.google.com/view/taitt2026/home
+- https://sites.google.com/view/taitt2026/submissions
+- https://aclanthology.org/volumes/2026.taitt-1/
+- https://aclanthology.org/2026.taitt-1.0.pdf
+- https://portal.core.edu.au/conf-ranks/?search=TAITT&by=all&source=ICORE2026
+unverified:
+- No second edition announced yet; frequency unknown
+last_verified: 2026-11-07

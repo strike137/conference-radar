@@ -1,0 +1,51 @@
+id: hipes
+name: HiPES
+full_name: Workshop on High-Performance eScience Tools and Applications
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: HiPES organizers (Raffaele Montella, University of Naples Parthenope; Iacopo Colonnelli, University of Turin; Daniela Cassol, LBNL)
+organizer_country: [europe, usa]
+proceedings: Springer LNCS (Euro-Par workshops volume)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://www.hipes-workshop.org/
+notes:
+- Workshop on high-performance eScience tools, scientific workflows, FAIR data and provenance across HPC, cloud and edge
+- Co-located with Euro-Par (Madrid 2024, Dresden 2025, Pisa 2026)
+- Revised papers appear in the Euro-Par workshops volume of Springer LNCS; up to 12 pages in LNCS format
+- Authors of accepted 2026 papers were invited to extend them for a journal special issue on scientific workflows in the compute continuum
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-25
+  end: 2026-08-25
+  location: Pisa, Italy (Euro-Par 2026)
+  url: https://www.hipes-workshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-29
+    label: Extended (originally 2026-05-10, then 2026-05-24)
+  - kind: notification
+    date: 2026-06-22
+  - kind: camera_ready
+    date: 2026-08-10
+    label: Updated Euro-Par workshops deadline
+sources:
+- https://www.hipes-workshop.org/
+- https://2026.euro-par.org/workshops
+- https://easychair.org/smart-program/Euro-Par2026Workshops/
+- https://2025.euro-par.org/workshops/
+- https://2024.euro-par.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=HiPES&by=all&source=ICORE2026
+unverified:
+- The HiPES site lists important dates without a year; they are read as 2026 since the page is for HiPES 2026
+- Camera-ready date is the updated Euro-Par deadline for all workshop papers (August 10, 2026); the HiPES site still says July 3
+- HiPES 2027 not yet announced as of 2026-11-07
+last_verified: 2026-11-07

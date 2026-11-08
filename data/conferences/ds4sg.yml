@@ -1,0 +1,53 @@
+id: ds4sg
+name: DS4SG
+full_name: Data Science for Social Good Brazilian Workshop
+type: workshop
+tier: domestic
+areas: [data, ai]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação), co-located with SBBD
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL), Anais Estendidos do SBBD
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://sbbd.org.br/2026/ds4sg/
+notes:
+- Satellite workshop of SBBD, the Brazilian Symposium on Databases run by the Brazilian Computer Society (SBC)
+- Data science for social challenges such as public health, public safety, sustainability, misinformation and algorithmic fairness
+- Papers of 6 to 10 pages in SBC format, in Portuguese, English or Spanish (English abstract required), submitted via JEMS
+- Accepted papers appear in the Anais Estendidos do SBBD (ISSN 2966-3946) in SBC OpenLib (SOL), each with a DOI
+- At least one author must register for SBBD and present in person
+- Held on the first day of SBBD 2026 in São Carlos
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: São Carlos, Brazil (ICMC, University of São Paulo, with SBBD 2026)
+  url: https://sbbd.org.br/2026/ds4sg/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-22
+    label: Extended (earlier 2026-05-01, 2026-05-08)
+  - kind: submission
+    date: 2026-05-26
+    label: Grace period end (earlier 2026-05-15, 2026-05-22)
+  - kind: notification
+    date: 2026-06-20
+  - kind: camera_ready
+    date: 2026-06-27
+sources:
+- https://sbbd.org.br/2026/ds4sg/
+- https://sbbd.org.br/2026/programacao/
+- https://sol.sbc.org.br/index.php/sbbd_estendido/issue/view/1724
+- https://sol.sbc.org.br/index.php/sbbd_estendido/issue/view/1580
+- https://portal.core.edu.au/conf-ranks/?search=DS4SG&by=all&source=ICORE2026
+unverified:
+- The 2026 page lists several dates per deadline without marking which replaced which; the latest ones are recorded
+- DS4SG 2027 (SBBD 2027) dates and location not yet announced
+last_verified: 2026-11-07

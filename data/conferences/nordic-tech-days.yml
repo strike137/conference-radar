@@ -1,0 +1,54 @@
+id: nordic-tech-days
+name: Nordic Tech Days
+full_name: Nordic Tech Days (formerly Nordic Testing Days)
+type: industry
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: Nordic Conferences OÜ with community volunteers
+organizer_country: [europe]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [12]
+  conference_months: [6]
+links:
+  website: https://nordictechdays.com/
+notes:
+- Practitioner conference on software quality and delivery in Tallinn, Estonia; Nordic Testing Days ran from 2012 to 2026
+- From 2027 merged with Nordic DevOps Days into Nordic Tech Days, with four tracks (testing, DevOps, development, leadership) and a shared main stage
+- About 400 attendees; held at Kultuurikatel (Tallinn Creative Hub)
+- Call for speakers on Sessionize for 30-minute talks and 2 or 4 hour workshops; speakers get a free ticket, travel support and two hotel nights
+- "Fee: 425 EUR incl. VAT until 2026-12-31 (2027)"
+- No papers or proceedings; talks are recorded on YouTube
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-05
+  location: Kultuurikatel, Tallinn, Estonia (as Nordic Testing Days 2026, tutorial day plus two conference days)
+  url: https://nordictechdays.com/2026/
+  deadlines: []
+- year: 2027
+  start: 2027-06-02
+  end: 2027-06-03
+  location: Kultuurikatel, Tallinn, Estonia
+  url: https://nordictechdays.com/
+  deadlines:
+  - kind: submission
+    date: 2026-12-31
+    time: "23:59"
+    tz: UTC+2
+    label: Call for speakers closes
+  - kind: notification
+    date: 2027-01-07
+sources:
+- https://nordictechdays.com/
+- https://nordictechdays.com/2026/
+- https://nordictechdays.com/archive/
+- https://sessionize.com/ntd-2027
+unverified:
+- Call for speakers deadline for 2026 not checked
+last_verified: 2026-11-07

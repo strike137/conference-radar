@@ -1,0 +1,71 @@
+id: cas-workshop
+name: CAS
+full_name: Workshop on Computational Affective Science
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizing committee (University of Bamberg, National Research Council Canada, Ohio State University, University of Pennsylvania)
+organizer_country: [europe, canada, usa]
+proceedings: ACL Anthology (2026 volume published by ELRA)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [3, 5]
+links:
+  website: https://casworkshop.github.io/
+notes:
+- Workshop series at the intersection of NLP and affective science (emotion modeling, affective data, emotion recognition)
+- 1st edition at LREC 2026 (Palma de Mallorca), afternoon session; 21 papers in the ACL Anthology
+- 2026 had archival long (8 pages) and short (4 pages) papers plus non-archival 2-page extended abstracts
+- "2027 edition is a preconference on Computational Affective Linguistics (CAL) at the Society for Affective Science (SAS) 2027 conference, San Diego"
+- 2027 takes 300-word abstracts and 2-page extended abstracts, presented in person as posters; extended abstracts may be published in the ACL Anthology
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 1st workshop, with LREC 2026
+  start: 2026-05-16
+  end: 2026-05-16
+  location: Palma de Mallorca, Spain
+  url: https://casworkshop.github.io/2026/motivation/
+  deadlines:
+  - kind: submission
+    date: 2026-02-26
+    label: Extended from 2026-02-16, then 2026-02-20
+  - kind: notification
+    date: 2026-03-20
+  - kind: camera_ready
+    date: 2026-03-30
+- year: 2027
+  label: CAL preconference at SAS 2027
+  start: 2027-03-04
+  end: 2027-03-04
+  location: San Diego, California, USA
+  url: https://casworkshop.github.io/cal-sas/about/
+  deadlines:
+  - kind: submission
+    date: 2027-01-11
+    time: "23:59"
+    tz: AoE
+    label: Abstracts and extended abstracts
+  - kind: notification
+    date: 2027-01-19
+  - kind: other
+    date: 2027-02-01
+    label: Confirm intent to present (SAS early bird registration)
+sources:
+- https://casworkshop.github.io/
+- https://casworkshop.github.io/2026/motivation/
+- https://casworkshop.github.io/2026/calls/fcfp/
+- https://casworkshop.github.io/2026/calls/tcfp/
+- https://casworkshop.github.io/2026/organizers/
+- https://casworkshop.github.io/cal-sas/about/
+- https://aclanthology.org/venues/cas/
+- https://aclanthology.org/volumes/2026.cas-1/
+- https://portal.core.edu.au/conf-ranks/?search=CAS&by=all&source=ICORE2026
+unverified:
+- The third call for papers lists both the updated dates (submission 26 Feb, notification 20 Mar 2026) and the earlier ones (20 Feb, 16 Mar); the updated dates are used
+- The 2027 page calls the abstracts non-archival while offering ACL Anthology publication of extended abstracts
+last_verified: 2026-11-07

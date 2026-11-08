@@ -1,0 +1,71 @@
+id: bphte
+name: BPHTE
+full_name: SC Workshop on Best Practices for HPC Training and Education
+type: workshop
+tier: minor
+areas: [general, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGHPC Education Chapter, held with SC
+organizer_country: [usa]
+proceedings: Journal of Computational Science Education (special issue)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://sighpceducation.acm.org/events/bphte26_cfp/
+notes:
+- Workshop on HPC training and education practice, held with IEEE/ACM SC every year since 2014; 2026 is the thirteenth edition
+- Coordinated by the ACM SIGHPC Education Chapter
+- Three-stage submission -> two-page extended abstract, then full paper (up to 8 pages, JOCSE template), then presentation
+- Papers, extended lightning talks and demo abstracts are published in a special issue of the Journal of Computational Science Education, not in the SC Workshops Proceedings
+- At least three reviewers per submission, with a rebuttal phase; reproducibility is a review criterion
+- SC26 lists it among the workshops with non-SC proceedings
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, MO, USA (with SC25)
+  url: https://sighpceducation.acm.org/events/bphte25cfp-cfp/
+  deadlines:
+  - kind: abstract
+    date: 2025-08-18
+    time: "23:59"
+    tz: EDT
+    label: Abstract (extended from August 12)
+  - kind: notification
+    date: 2025-08-31
+  - kind: camera_ready
+    date: 2025-09-09
+    label: Final paper
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-20
+  location: Chicago, IL, USA (with SC26)
+  url: https://sighpceducation.acm.org/events/bphte26_cfp/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-12
+    time: "23:59"
+    tz: EDT
+    label: Two-page extended abstract
+  - kind: notification
+    date: 2026-08-31
+  - kind: camera_ready
+    date: 2026-09-09
+    label: Final paper
+  - kind: other
+    date: 2026-09-16
+    label: Final presentation
+sources:
+- https://sighpceducation.acm.org/events/bphte26_cfp/
+- https://sighpceducation.acm.org/events/bphte25cfp-cfp/
+- https://sighpceducation.acm.org/events/
+- https://sc26.conference-program.com/session/?sess=sess150
+- https://sc25.conference-program.com/session/?sess=sess203
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=BPHTE&by=all&source=ICORE2026
+last_verified: 2026-11-07

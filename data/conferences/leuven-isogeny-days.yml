@@ -1,0 +1,62 @@
+id: leuven-isogeny-days
+name: LID
+full_name: Leuven Isogeny Days
+type: conference
+tier: minor
+areas: [crypto]
+region: europe
+language: english
+frequency: annual
+organizer: COSIC, KU Leuven (ERC ISOCRYPT project)
+organizer_country: [europe]
+proceedings: None (talks only)
+archival: false
+typical:
+  conference_months: [9]
+links:
+  website: https://www.esat.kuleuven.be/cosic/projects/isocrypt/lid7/
+notes:
+- Research workshop on isogeny-based cryptography run by COSIC at KU Leuven, held every September at ESAT in Leuven
+- Format is research talks in the morning and brainstorming sessions in break-out rooms in the afternoon, plus lightning talks
+- No call for papers and no proceedings; talks are streamed on Zoom and some recordings go to the COSIC YouTube channel
+- "Registration fee 2026: 100 EUR for master and PhD students, 200 EUR for senior participants (workshop dinner included)"
+- A limited number of stipends for students, requested by email before early August
+- Funded by the ERC ISOCRYPT project, which runs until 31 December 2026
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-09-10
+  end: 2025-09-12
+  location: Leuven, Belgium (KU Leuven, ESAT)
+  url: https://www.esat.kuleuven.be/cosic/projects/isocrypt/lid6/
+  deadlines:
+  - kind: other
+    date: 2025-08-01
+    time: "23:59"
+    tz: AoE
+    label: Student stipend requests
+  - kind: other
+    date: 2025-08-15
+    label: Registration
+- year: 2026
+  start: 2026-09-16
+  end: 2026-09-18
+  location: Leuven, Belgium (KU Leuven, ESAT)
+  url: https://www.esat.kuleuven.be/cosic/projects/isocrypt/lid7/
+  deadlines:
+  - kind: other
+    date: 2026-08-08
+    time: "23:59"
+    tz: AoE
+    label: Student stipend requests
+  - kind: other
+    date: 2026-08-22
+    label: Registration
+sources:
+- https://www.esat.kuleuven.be/cosic/projects/isocrypt/lid7/
+- https://www.esat.kuleuven.be/cosic/projects/isocrypt/lid6/
+- https://portal.core.edu.au/conf-ranks/?search=Isogeny&by=all&source=ICORE2026
+unverified:
+- LID 2027 not yet announced; the ISOCRYPT project funding ends in December 2026
+- Editions 1 to 5 not checked on an official page
+last_verified: 2026-11-07

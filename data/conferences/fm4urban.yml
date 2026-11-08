@@ -1,0 +1,52 @@
+id: fm4urban
+name: FM4Urban
+full_name: Workshop on Foundation Models for Urban Analytics and Intelligence
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+organizer: FM4Urban organizers (University of Modena and Reggio Emilia, Hong Kong Polytechnic University, RPI, ServiceNow); co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (ECML PKDD post-workshop proceedings, opt-in)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://fm4urban.github.io
+notes:
+- Workshop on foundation models (language, vision, time series, geospatial) for urban data, mobility, climate and planning
+- First edition at ECML PKDD 2026 in Naples (7 Sep 2026)
+- Full papers up to 8 pages, short and position papers up to 4 pages, extended abstracts up to 2 pages; Springer LNCS format
+- Accepted full and short papers can go into Springer CCIS proceedings (opt-in); extended abstracts of published work are not included
+- All accepted papers must be presented in person
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-07
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://fm4urban.github.io
+  deadlines:
+  - kind: submission
+    date: 2026-06-20
+    time: "23:59"
+    tz: AoE
+    label: Final extended deadline
+  - kind: notification
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-29
+    time: "23:59"
+    tz: AoE
+sources:
+- https://fm4urban.github.io
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://ecmlpkdd.org/2026/submissions-workshop-track/
+- https://portal.core.edu.au/conf-ranks/?search=FM4Urban&by=all&source=ICORE2026
+unverified:
+- FM4Urban 2027 (not announced as of 2026-11-07)
+last_verified: 2026-11-07

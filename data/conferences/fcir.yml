@@ -1,0 +1,54 @@
+id: fcir
+name: FCiR
+full_name: Financial Cryptography in Rome
+type: conference
+tier: minor
+areas: [crypto, security]
+region: europe
+language: english
+frequency: annual
+organizer: Banca d'Italia and De Cifris (De Componendis Cifris)
+organizer_country: [europe]
+proceedings: De Cifris Koine (FCiR25 talks, with informal pre-proceedings); also a Journal of Mathematical Cryptology special issue
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [9, 10]
+links:
+  website: https://www.decifris.it/fcir26
+notes:
+- One-day conference on cryptography for finance, payments, blockchain and digital currencies, jointly run by the Bank of Italy and the De Cifris association
+- Held at the Bank of Italy conference centre (Centro Convegni Carlo Azeglio Ciampi), Via Nazionale, Rome
+- Started as a joint workshop within CIFRIS24 (September 2024); first standalone edition FCiR25 on 1 October 2025
+- FCiR25 had a call for papers via EasyChair (LNCS format, regular papers up to 15 pages, short papers up to 8 pages)
+- FCiR25 talks appear in draft pre-proceedings, and the site says they will be published in a De Cifris Koine volume and a Journal of Mathematical Cryptology special issue; Koine is not indexed, so marked non-archival here
+- FCiR26 (6 October 2026) had a program of invited talks from central banks and academia; no 2026 paper call appears on the site
+- Not listed in ICORE2026 and not on the CCF list (unrelated to the CORE A conference FC)
+editions:
+- year: 2025
+  start: 2025-10-01
+  end: 2025-10-01
+  location: Centro Convegni Carlo A. Ciampi, Banca d'Italia, Rome, Italy
+  url: https://www.decifris.it/fcir25
+  deadlines:
+  - kind: submission
+    date: 2025-05-28
+  - kind: notification
+    date: 2025-07-01
+  - kind: camera_ready
+    date: 2025-09-01
+- year: 2026
+  start: 2026-10-06
+  end: 2026-10-06
+  location: Centro Convegni Carlo Azeglio Ciampi, Banca d'Italia, Rome, Italy
+  url: https://www.decifris.it/fcir26
+sources:
+- https://www.decifris.it/fcir26
+- https://www.decifris.it/fcir25
+- https://www.decifris.it/cifris24/fcir24
+- https://portal.core.edu.au/conf-ranks/?search=FCiR&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Financial+Cryptography&by=all&source=ICORE2026
+unverified:
+- FCiR26 page gives no call for papers or proceedings; the proceedings field reflects FCiR25
+- FCiR27 not yet announced
+last_verified: 2026-11-07

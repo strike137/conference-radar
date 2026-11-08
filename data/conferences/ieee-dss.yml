@@ -1,0 +1,79 @@
+id: ieee-dss
+name: IEEE DSS
+full_name: IEEE International Conference on Data Science and Systems
+type: conference
+tier: minor
+areas: [data, ai, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IEEE; part of the IEEE Hyper Intelligence Congress with HPCC, SmartCity, DependSys, Embodied AI and ICESS
+  (steering chairs Jinjun Chen, Laurence T. Yang)
+organizer_country: [china]
+proceedings: IEEE Xplore (IEEE CS Conference Publishing Services)
+archival: true
+indexing: [IEEE Xplore, EI]
+typical:
+  deadline_months: [4, 5, 7, 8]
+  conference_months: [8, 10, 12]
+links:
+  website: https://ieee-hyper-intelligence.org/2026/dss/index.html
+notes:
+- Data science and data systems conference; 11th edition in 2025 (Exeter)
+- Always co-located with IEEE HPCC; until 2023 papers appeared in joint HPCC/DSS/SmartCity/DependSys proceedings,
+  since 2024 in its own IEEE volume
+- Recent editions in Haikou (2021), Hainan (2022), Melbourne (2023), Wuhan (2024), Exeter (2025) and Luoyang (2026)
+- Single-blind review via EDAS; 8 pages IEEE CS format (10 with over-length charge)
+- Four tracks (data science, data processing technology, data systems, data applications)
+- Not ranked by CORE (ICORE2026) or CCF; deadlines are usually extended by about three weeks
+editions:
+- year: 2025
+  start: 2025-08-13
+  end: 2025-08-15
+  location: Exeter, UK
+  url: https://hpcn.exeter.ac.uk/dss2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-30
+    label: Paper submission (original)
+  - kind: submission
+    date: 2025-05-18
+    label: Paper submission (extended, firm)
+  - kind: notification
+    date: 2025-06-15
+  - kind: camera_ready
+    date: 2025-07-15
+    label: Final manuscript and registration
+- year: 2026
+  start: 2026-10-29
+  end: 2026-11-02
+  location: Luoyang, Henan, China
+  url: https://ieee-hyper-intelligence.org/2026/dss/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    label: Paper submission (original)
+  - kind: submission
+    date: 2026-08-05
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2026-09-15
+    label: Author notification (moved from 2026-09-10)
+  - kind: camera_ready
+    date: 2026-10-08
+    label: Camera-ready (extended from 2026-09-30)
+  - kind: other
+    date: 2026-10-11
+    label: Registration due (extended from 2026-09-30)
+sources:
+- https://ieee-hyper-intelligence.org/2026/dss/index.html
+- https://hpcn.exeter.ac.uk/dss2025/
+- https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=11326669 (DSS 2024 proceedings, doi 10.1109/dss64273.2024)
+- https://api.crossref.org/works?query.bibliographic=IEEE+International+Conference+on+Data+Science+and+Systems&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=DSS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- Next (2027) edition not announced yet
+- Deadline time zone (not stated)
+- Acceptance rate
+last_verified: 2026-11-07

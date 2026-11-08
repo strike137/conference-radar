@@ -1,0 +1,52 @@
+id: oran-icc
+name: Open RAN
+full_name: International Workshop on Open Radio Access Networks
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+organizer: Workshop TPC co-chairs (Nima Afraz, Mohammad Shojafar, Hamed Ahmadi) with IEEE ICC (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://nia.ucd.ie/ORAN-WS/
+notes:
+- First edition ran with IEEE WCNC 2025; second edition (WS01, half day) with IEEE ICC 2026 in Glasgow
+- Host conference may change from year to year
+- Topics include RIC architecture, xApp/rApp conflicts and interoperability, AI for the RAN, testbeds, security and spectrum policy for Open RAN
+- TPC co-chairs from University College Dublin, University of Surrey and University of York
+- Accepted and presented papers go into the IEEE ICC 2026 proceedings and IEEE Xplore
+- Papers up to 6 pages; submissions via EDAS
+- Distinct from the ACM Open-AI RAN workshop (MobiCom) and INTRAN (WCNC)
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-24
+  end: 2026-05-24
+  location: Glasgow, UK (with IEEE ICC 2026)
+  url: https://icc2026.ieee-icc.org/workshop/ws01-2nd-international-workshop-open-radio-access-networks-open-ran.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    label: Extended (firm) on the ICC workshop call (workshop page says 2026-01-18)
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-22
+    label: ICC workshop call date (workshop page says 2026-03-15)
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws01-2nd-international-workshop-open-radio-access-networks-open-ran.html
+- https://nia.ucd.ie/ORAN-WS/
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2026.ieee-icc.org/authors/instructions-final-camera-ready-manuscripts.html
+- https://icc2027.ieee-icc.org/authors/call-workshop-papers
+- https://portal.core.edu.au/conf-ranks/?search=Open+RAN&by=all&source=ICORE2026
+unverified:
+- Whether and where a 2027 edition will run (the ICC 2027 call for workshop papers said "coming soon" on 2026-11-07)
+- Deadline time zone not stated
+last_verified: 2026-11-07

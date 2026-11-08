@@ -1,0 +1,53 @@
+id: ai-ss
+name: AI-SS
+full_name: International Workshop on AI Safety and Security
+type: workshop
+tier: minor
+areas: [ai, security]
+region: europe
+language: english
+organizer: Workshop chairs from the University of Salford and the University of Kent (iCSS), co-located with EDCC
+organizer_country: [europe]
+proceedings: IEEE CPS (EDCC Companion Proceedings, EDCC-C)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [4]
+links:
+  website: https://cyber.kent.ac.uk/events/AI-SS2026/index.html
+notes:
+- One-day workshop on AI safety, security and trustworthiness, bridging the dependability and AI communities
+- First edition on 7 April 2026 at the University of Kent, Canterbury, UK, co-located with EDCC 2026
+- Papers published in the EDCC 2026 Companion Proceedings (IEEE Conference Publishing Services); Crossref lists them with IEEE DOIs
+- Technical sponsors include the CRANE AI-Cyber SIG; supported by several IEEE UK and Ireland chapters
+- Program had a keynote, paper sessions, a panel and a best paper award
+- Not on the EDCC 2027 workshop list, so a second edition at EDCC 2027 is unlikely
+- Not listed in CORE ICORE2026 or on the CCF list
+editions:
+- year: 2026
+  start: 2026-04-07
+  end: 2026-04-07
+  location: University of Kent, Canterbury, UK (co-located with EDCC 2026)
+  url: https://cyber.kent.ac.uk/events/AI-SS2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-26
+    tz: AoE
+    label: Extended from January 19
+  - kind: notification
+    date: 2026-02-24
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-05
+    tz: AoE
+    label: With author registration (hard deadline)
+sources:
+- https://cyber.kent.ac.uk/events/AI-SS2026/index.html
+- https://cyber.kent.ac.uk/events/AI-SS2026/program.html
+- https://cyber.kent.ac.uk/events/AI-SS2026/committees.html
+- https://api.crossref.org/works?query.bibliographic=HaiR+Human-Centric+AI+Remediation+Framework
+- https://edcc2027.idi.ntnu.no/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=AI-SS&by=all&source=ICORE2026
+unverified:
+- Whether the workshop continues after 2026
+last_verified: 2026-11-07

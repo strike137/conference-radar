@@ -1,0 +1,53 @@
+id: cgmta
+name: CG/FST NLP Workshop
+full_name: Workshop on Constraint Grammar and Finite State NLP
+type: workshop
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: biennial
+organizer: Divvun and Giellatekno teams (UiT The Arctic University of Norway) with the Constraint Grammar community; co-located with NoDaLiDa
+organizer_country: [europe]
+proceedings: ACL Anthology (2025 volume published by University of Tartu Library)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3, 5]
+links:
+  website: https://divvungiellatekno.github.io/giellalt.uit.no/events/2025-cg/
+notes:
+- Workshop on Constraint Grammar (CG) and finite state transducer (FST) methods, rule-based and hybrid NLP tools for user communities
+- Focus on under-resourced and minority languages (spelling and grammar checking, CALL, machine translation, lexicography)
+- Held with NoDaLiDa (Vilnius 2015, Gothenburg 2017, Turku 2019, Torshavn 2023, Tallinn 2025), so it follows the NoDaLiDa schedule
+- 2025 was the 9th workshop; proceedings in the ACL Anthology under the venue CGMTA (9 papers in 2025)
+- Regular (8 pages), short and demo papers (4 pages), anonymous review on OpenReview in 2025; demo papers are not published
+- Full-day, on-site only event in 2025
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 9th workshop, with NoDaLiDa/Baltic-HLT 2025
+  start: 2025-03-05
+  end: 2025-03-05
+  location: Tallinn, Estonia
+  url: https://divvungiellatekno.github.io/giellalt.uit.no/events/2025-cg/
+  deadlines:
+  - kind: submission
+    date: 2024-12-22
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2024-12-16
+  - kind: camera_ready
+    date: 2025-02-03
+    time: "23:59"
+    tz: AoE
+sources:
+- https://divvungiellatekno.github.io/giellalt.uit.no/events/2025-cg/
+- https://divvungiellatekno.github.io/giellalt.uit.no/events/cgworkshoplist.html
+- https://aclanthology.org/venues/cgmta/
+- https://aclanthology.org/volumes/2025.cgmta-1/
+- https://portal.core.edu.au/conf-ranks/?search=CGMTA&by=all&source=ICORE2026
+unverified:
+- No 2027 workshop announced yet (NoDaLiDa 2027 is planned for Copenhagen in May 2027)
+- 2025 notification date not stated on the official page
+last_verified: 2026-11-07

@@ -1,0 +1,49 @@
+id: page-pldi
+name: PAgE
+full_name: Workshop on Principles of Agentic Engineering
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: PAgE organizers (Microsoft Research and others), held with SIGPLAN conferences (PLDI 2026, POPL 2027)
+organizer_country: [usa]
+proceedings: None (non-archival in 2027; the 2026 archived track was published in the ACM DL)
+archival: false
+typical:
+  deadline_months: [5, 11]
+  conference_months: [1, 6]
+links:
+  website: https://conf.researchr.org/series/page
+notes:
+- Workshop on programming languages, formal verification, software engineering and neuro-symbolic methods for safe and reliable AI agents
+- First edition at PLDI 2026 (Boulder); second edition at POPL 2027 (Mexico City)
+- 2026 had an archived track (up to 10 pages, ACM DL) and a non-archival track (up to 6 pages)
+- 2027 is fully non-archival; submissions up to 8 pages in SIGPLAN two-column format, anonymized, via HotCRP
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-15
+  location: Boulder, CO, USA (with PLDI 2026)
+  url: https://pldi26.sigplan.org/home/page-2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-06
+    tz: AoE
+- year: 2027
+  start: 2027-01-11
+  end: 2027-01-11
+  location: Mexico City, Mexico (with POPL 2027)
+  url: https://popl27.sigplan.org/home/page-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-06
+    tz: AoE
+sources:
+- https://pldi26.sigplan.org/home/page-2026
+- https://popl27.sigplan.org/home/page-2027
+- https://conf.researchr.org/series/page
+- https://portal.core.edu.au/conf-ranks/?search=PAgE&by=all&source=ICORE2026
+last_verified: 2026-11-07

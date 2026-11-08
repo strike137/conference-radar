@@ -1,0 +1,50 @@
+id: agentsearch
+name: AgentSearch
+full_name: Workshop on Indexing, Retrieval, and Ranking of AI Agents
+type: workshop
+tier: minor
+areas: [data, ai]
+region: oceania
+language: english
+frequency: irregular
+organizer: Workshop organizers (Bin Wu, UCL; To Eun Kim and Fernando Diaz, CMU; Yue Feng, University of Birmingham; Zhaochun Ren, Leiden University; Emine Yilmaz, UCL and Amazon)
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [4, 5]
+  conference_months: [7]
+links:
+  website: https://agent-search.github.io/agentsearch-sigir26/
+notes:
+- Workshop on discovering, indexing, ranking and evaluating AI agents and tools as an information retrieval problem
+- First edition co-located with ACM SIGIR 2026 in Melbourne, Australia (full-day workshop on July 24, 2026)
+- Non-archival; double-blind review in the ACM two-column SIGIR 2026 template
+- Extended abstracts up to 2 pages and research, perspective or demo papers of 4 to 9 pages (excluding references), submitted via EasyChair
+- "11 papers accepted in 2026"
+- Runs the AgentSearch Challenge, a shared task on retrieving and reranking nearly 10,000 real-world agents (dataset released August 2026)
+- Only one edition so far; region reflects the single 2026 edition
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-24
+  end: 2026-07-24
+  location: Melbourne, Australia (co-located with SIGIR 2026)
+  url: https://agent-search.github.io/agentsearch-sigir26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-08
+    tz: AoE
+    label: Extended from April 15, 2026
+  - kind: notification
+    date: 2026-05-20
+    tz: AoE
+sources:
+- https://agent-search.github.io/agentsearch-sigir26/
+- https://agent-search.github.io/agentsearch-sigir26/cfp-poster.html
+- https://sigir2026.org/en-AU/pages/program/accepted-workshops
+- https://portal.core.edu.au/conf-ranks/?search=AgentSearch&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of 2026-11-07 (challenge results are to be announced at the next workshop)
+- Camera-ready date not stated on the official pages
+last_verified: 2026-11-07

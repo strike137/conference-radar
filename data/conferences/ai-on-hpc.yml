@@ -1,0 +1,79 @@
+id: ai-on-hpc
+name: AI on HPC
+full_name: "AI on HPC: Performance Engineering, Challenges and Opportunities"
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: AI on HPC organizers (TU Dresden/ScaDS.AI, Sweden AI Factory, NTNU), held with ISC High Performance, SC and SCA
+organizer_country: [europe]
+proceedings: SC Workshops Proceedings (SC editions), Springer LNCS (ISC editions), SCA Workshops Proceedings (SCA editions)
+archival: true
+typical:
+  deadline_months: [3, 8, 12]
+  conference_months: [3, 6, 11]
+links:
+  website: https://ai-on-hpc.github.io/
+notes:
+- Workshop series on performance engineering of AI and ML workloads on HPC systems, held with several HPC conferences (ISC High Performance 2026 in Hamburg, SC26 in Chicago, SCA27 in Singapore)
+- SC26 edition is a half-day workshop (Monday afternoon); full papers of 4 to 10 pages in IEEE two-column style, double-blind review, papers planned for the SC Workshops Proceedings
+- ISC 2026 edition took LNCS-format papers of 6 to 12 pages, published in Springer LNCS
+- 1-page lightning talk abstracts are not included in the proceedings; papers must be presented in person to appear in the proceedings
+- SC26 submissions must include an artifact description appendix; artifact evaluation is encouraged
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  label: AI on HPC at ISC 2026
+  start: 2026-06-26
+  end: 2026-06-26
+  location: Hamburg, Germany (with ISC High Performance 2026)
+  url: https://ai-on-hpc.github.io/isc26/
+  deadlines:
+  - kind: submission
+    date: 2026-03-15
+    tz: AoE
+  - kind: notification
+    date: 2026-04-16
+  - kind: camera_ready
+    date: 2026-05-11
+    tz: AoE
+- year: 2026
+  label: AI on HPC at SC26
+  start: 2026-11-16
+  end: 2026-11-16
+  location: Chicago, IL, USA (with SC26)
+  url: https://ai-on-hpc.github.io/sc26/
+  deadlines:
+  - kind: submission
+    date: 2026-08-09
+    tz: AoE
+    label: Papers (extended from 2026-07-31)
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+- year: 2027
+  label: AI on HPC at SCA27
+  location: Singapore (with Supercomputing Asia 2027)
+  url: https://ai-on-hpc.github.io/sca27/
+  deadlines:
+  - kind: submission
+    date: 2026-12-08
+    tz: AoE
+  - kind: notification
+    date: 2026-12-21
+  - kind: camera_ready
+    date: 2027-01-08
+    tz: AoE
+sources:
+- https://ai-on-hpc.github.io/
+- https://ai-on-hpc.github.io/isc26/
+- https://ai-on-hpc.github.io/sc26/
+- https://ai-on-hpc.github.io/sca27/
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=AI+on+HPC&by=all&source=ICORE2026
+unverified:
+- SCA27 workshop day and location not yet announced (site says tba, 1 and 4 March 2027)
+last_verified: 2026-11-07

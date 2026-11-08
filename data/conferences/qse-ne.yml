@@ -1,0 +1,53 @@
+id: qse-ne
+name: QSE-NE
+full_name: "International Workshop on Quantum Software Engineering: The Next Evolution"
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: QSE-NE workshop chairs (University of Oulu, LUT University, Wuhan University, University of Hertfordshire), co-located with ACM FSE
+organizer_country: [europe, china]
+proceedings: ACM DL (FSE Companion Proceedings)
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://sites.google.com/view/qse-ne-fse26/home/
+notes:
+- FSE workshop on quantum software engineering (hybrid quantum-classical software, quantum programming, design, testing and process)
+- Editions with FSE 2024 (Porto de Galinhas), FSE 2025 (Trondheim) and FSE 2026 (Montreal)
+- Papers appear in the FSE companion proceedings in the ACM Digital Library; 2024 had its own ACM volume (QSE-NE '24)
+- Research track up to 10 pages, ideas and visions and industry tracks up to 6 pages, plus 2 pages of references (2026)
+- Double-anonymous review via HotCRP (2026)
+- Different venue from the ICSE Q-SE workshop
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  location: Montreal, Canada (with FSE 2026, 5 to 9 July 2026)
+  url: https://sites.google.com/view/qse-ne-fse26/home/
+  deadlines:
+  - kind: submission
+    date: 2026-03-26
+  - kind: notification
+    date: 2026-04-15
+  - kind: camera_ready
+    date: 2026-04-24
+sources:
+- https://sites.google.com/view/qse-ne-fse26/home/
+- https://sites.google.com/view/qse-ne-fse26/call-for-papers
+- https://conf.researchr.org/home/fse-2026/qse-ne-2026
+- https://conf.researchr.org/track/fse-2026/fse-2026-workshops
+- https://conf.researchr.org/home/fse-2025/qse-ne-2025
+- https://sites.google.com/view/qse-ne/home
+- https://sites.google.com/view/qse-ne/call-for-papers
+- https://api.crossref.org/works?query.bibliographic=Workshop+on+Quantum+Software+Engineering+The+Next+Evolution&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=QSE&by=all&source=ICORE2026
+unverified:
+- Exact 2026 workshop day not confirmed (the workshop site lists 26 July 2026 as tentative, which falls after FSE 2026; the FSE program does not show it)
+- 2026 accepted papers and program not published on the workshop site (TBA)
+- Deadline time zone not stated
+- QSE-NE 2027 not announced yet (as of 2026-11-07)
+last_verified: 2026-11-07

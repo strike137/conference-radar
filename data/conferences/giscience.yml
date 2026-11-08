@@ -1,0 +1,84 @@
+id: giscience
+name: GIScience
+full_name: International Conference on Geographic Information Science
+type: conference
+tier: minor
+areas: [data]
+region: worldwide
+language: english
+frequency: biennial
+organizer: GIScience conference series (international steering committee) with a local host university each edition
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [8, 9, 10]
+links:
+  website: https://giscience2027.org/
+  dblp: https://dblp.org/db/conf/giscience/index.html
+notes:
+- Biennial international conference on geographic information science and spatial data science
+- Full papers (about 18 pages) published open access in LIPIcs (Schloss Dagstuhl); short papers and abstracts go to a Zenodo community
+- Double-blind review with at least three program committee members per paper (2027 call)
+- Recent editions in Poznan (2021, virtual), Leeds (2023), Christchurch (2025) and Shanghai (2027)
+- GIScience 2027 at Tongji University is the first edition held in Asia
+- First day is for workshops and tutorials, followed by three days of main conference
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-26
+  end: 2025-08-29
+  location: Christchurch, New Zealand (University of Canterbury)
+  url: https://giscience2025.org/
+  deadlines:
+  - kind: submission
+    date: 2025-02-16
+    tz: AoE
+    label: Proceedings papers (extended from Jan 31)
+  - kind: notification
+    date: 2025-04-09
+    label: Proceedings papers
+  - kind: camera_ready
+    date: 2025-05-24
+    label: Proceedings papers
+  - kind: other
+    date: 2025-04-13
+    tz: AoE
+    label: Abstracts and demos submission (extended)
+- year: 2027
+  start: 2027-10-18
+  end: 2027-10-22
+  location: Shanghai, China (Tongji University)
+  url: https://geods.github.io/GIScience2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-29
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2027-03-26
+    label: Full papers
+  - kind: other
+    date: 2027-04-02
+    tz: AoE
+    label: Short papers submission
+  - kind: camera_ready
+    date: 2027-05-30
+    label: Full and short papers
+  - kind: other
+    date: 2027-05-14
+    tz: AoE
+    label: Abstracts and demos submission
+sources:
+- https://giscience2027.org/
+- https://geods.github.io/GIScience2027/
+- https://giscience2025.org/
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-346
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-277
+- https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-208
+- https://portal.core.edu.au/conf-ranks/?search=GIScience&by=all&source=ICORE2026
+unverified:
+- giscience.org (series site) could not be loaded (certificate error); dblp page blocked automated access
+- Deadline times not stated (only AoE)
+last_verified: 2026-11-07

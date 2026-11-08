@@ -1,0 +1,48 @@
+id: bsides-dresden
+name: BSides Dresden
+full_name: Security BSides Dresden
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: BSides Dresden (community-driven non-profit team)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://bsidesdresden.com/
+notes:
+- Independent Security BSides community event in Dresden, Germany, held on a Saturday in early December
+- One-day, in-person conference in English with 30-minute talks, a CTF and a post-event activity
+- Open CFP on pretalx; topics include vulnerability research, offensive and defensive security, AI security and cryptography
+- Low-cost tickets (2026, 10 EUR students, 30 EUR regular, including catering)
+- No proceedings
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  location: Hertha-Lindner-Str. 15, Dresden, Germany
+  url: https://web.archive.org/web/20260104094525/https://bsidesdresden.com/
+- year: 2026
+  start: 2026-12-05
+  end: 2026-12-05
+  location: Hertha-Lindner-Str. 15, Dresden, Germany
+  url: https://bsidesdresden.com/
+  deadlines:
+  - kind: submission
+    date: 2026-10-05
+    time: "08:00"
+    tz: CEST
+    label: Call for papers closes
+sources:
+- https://bsidesdresden.com/
+- https://pretalx.com/bsidesdresden2026/cfp
+- https://web.archive.org/web/20260104094525/https://bsidesdresden.com/
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-11-07

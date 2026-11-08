@@ -1,0 +1,46 @@
+id: blackhat-eu
+name: Black Hat Europe
+full_name: Black Hat Europe (Briefings and Trainings)
+type: industry
+tier: major
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: Black Hat (Informa Festivals, Informa PLC)
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [12]
+links:
+  website: https://www.blackhat.com/eu-26/
+notes:
+- European edition of Black Hat, held in December at ExCeL London
+- Talks are selected through a Call for Briefings (formerly Call for Papers); speaking teams are limited to two people
+- Each speaker may submit up to five proposals; LLM-generated text is not permitted in submissions
+- CFP deadlines are in GMT (UTC+0)
+- Industry talks with slides and white papers on the website, no archival proceedings
+editions:
+- year: 2026
+  start: 2026-12-09
+  end: 2026-12-10
+  location: ExCeL London, London, UK
+  url: https://www.blackhat.com/eu-26/
+  deadlines:
+  - kind: submission
+    date: 2026-07-22
+    time: "23:59"
+    tz: UTC
+    label: Call for Briefings closes (dates are the Briefings days)
+  - kind: notification
+    date: 2026-09-25
+sources:
+- https://i.blackhat.com/briefings/BHEU26%20Submission%20Preparation%20Doc.pdf
+- https://portal.core.edu.au/conf-ranks/?search=Black+Hat&by=all&source=ICORE2026
+unverified:
+- blackhat.com blocked automated access on 2026-11-07; the 2026 dates come only from the official Call for Briefings preparation PDF, which gives the Briefings days (Dec 9-10) but not the Trainings days
+- The 2025 edition could not be checked on an official page
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+last_verified: 2026-11-07

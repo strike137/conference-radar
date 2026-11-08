@@ -1,0 +1,54 @@
+id: rehmed
+name: REHMED
+full_name: Workshop on Representation Learning from Heterogeneous and Multi-source Biomedical Data
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop chairs from University of Naples Federico II, eCampus University, University of Chieti-Pescara, University of Macerata and Human Technopole, co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (joint ECML PKDD workshop post-proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://rehmed-workshop.github.io/ecmlpkdd2026/
+notes:
+- First edition held as a half-day workshop at ECML PKDD 2026 in Naples on 11 September 2026
+- Topics are representation learning for biomedical data (EHR, imaging, omics, signals, clinical text), multimodal fusion and trustworthy clinical AI
+- Long papers up to 12 pages and short papers up to 6 pages plus references, Springer LNCS format, submitted via the ECML PKDD workshop CMT
+- Double-blind review with at least two reviews per paper
+- Accepted papers can opt in to the joint ECML PKDD post-workshop proceedings in Springer CCIS; non-archival submissions are presentation only
+- At least one author of each accepted paper must register and present
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-11
+  end: 2026-09-11
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://rehmed-workshop.github.io/ecmlpkdd2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 5
+  - kind: notification
+    date: 2026-06-30
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://rehmed-workshop.github.io/ecmlpkdd2026/
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://ecmlpkdd.org/2026/submissions-workshop-track/
+- https://portal.core.edu.au/conf-ranks/?search=REHMED&by=all&source=ICORE2026
+unverified:
+- REHMED 2027 (not announced as of 2026-11-07)
+last_verified: 2026-11-07

@@ -1,0 +1,53 @@
+id: rex-io
+name: REX-IO
+full_name: Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads
+type: workshop
+tier: minor
+areas: [systems, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop co-chairs Sarah M. Neuwirth (Johannes Gutenberg University Mainz), Arnab K. Paul (BITS Pilani Goa)
+  and Jay Lofstead (Sandia National Laboratories)
+organizer_country: [europe, india, usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://sites.google.com/view/rexio/
+notes:
+- Workshop on HPC I/O and storage for hybrid workloads (simulation, AI, data analytics, workflows)
+- Held with IEEE Cluster from 2021 to 2025 (proceedings in IEEE Xplore); co-located with ACM HPDC from 2026
+- 2026 papers published in the HPDC 2026 workshop proceedings (ACM)
+- Papers of 5 to 8 pages (excluding references) in ACM sigconf format; single-blind review by at least three PC members
+- Not listed in the ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-13
+  location: Cleveland, OH, USA (with HPDC 2026, Case Western Reserve University)
+  url: https://sites.google.com/view/rexio/
+  deadlines:
+  - kind: submission
+    date: 2026-04-13
+    tz: AoE
+    label: Paper submission (final extension from 2026-03-31)
+  - kind: notification
+    date: 2026-05-04
+    tz: AoE
+    label: Notification (moved from 2026-04-30)
+  - kind: camera_ready
+    date: 2026-05-22
+    tz: AoE
+    label: Camera-ready (moved from 2026-05-16)
+sources:
+- https://sites.google.com/view/rexio/
+- https://sites.google.com/view/rexio/call-for-papers
+- https://sites.google.com/view/rexio/previous-editions
+- https://hpdc.sci.utah.edu/2026/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=REX-IO&by=all&source=ICORE2026
+unverified:
+- REX-IO 2027 not yet announced
+last_verified: 2026-11-07

@@ -1,0 +1,71 @@
+id: repss
+name: RePSS
+full_name: Workshop on Remote Physiological Signal Sensing
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: RePSS organizers (Zhejiang University, University of Oulu, ICT CAS, Inria, Nanjing University of Information Science and Technology)
+organizer_country: [china, europe]
+proceedings: CEUR-WS (CEUR Workshop Proceedings)
+archival: true
+typical:
+  deadline_months: [5, 7]
+  conference_months: [8]
+links:
+  website: https://repss-2026.github.io/5th-RePSS/
+notes:
+- Workshop and challenge on contactless physiological sensing (rPPG from face video, NIR video, radar)
+- Held at CVPR 2020 and ICCV 2021, then at IJCAI every year since 2024 (Jeju 2024, Guangzhou 2025, Bremen 2026)
+- Format is workshop plus challenge plus invited talks; the 2026 challenge ran on Kaggle with an RGB-NIR fusion track and a radar track
+- Papers under 7 pages in CEURART style; accepted papers go into a CEUR Workshop Proceedings volume
+- At least one author must present onsite
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-08-28
+  end: 2025-08-28
+  location: Guangzhou, China (IJCAI 2025)
+  url: https://repss-w.github.io/4th-repss
+  deadlines:
+  - kind: submission
+    date: 2025-05-31
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-06-06
+  - kind: camera_ready
+    date: 2025-06-13
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-17
+  location: Bremen, Germany (IJCAI-ECAI 2026)
+  url: https://repss-2026.github.io/5th-RePSS/
+  deadlines:
+  - kind: submission
+    date: 2026-07-02
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-07-07
+  - kind: camera_ready
+    date: 2026-07-14
+sources:
+- https://repss-2026.github.io/5th-RePSS/
+- https://repss-2026.github.io/5th-RePSS/workshop.html
+- https://repss-2026.github.io/5th-RePSS/event_schedule.html
+- https://repss-2026.github.io/5th-RePSS/organizers.html
+- https://2026.ijcai.org/accepted-workshops/
+- https://repss-w.github.io/4th-repss
+- https://repss-w.github.io/4th-repss/workshop.html
+- https://repss-w.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=RePSS&by=all&source=ICORE2026
+unverified:
+- 2026 date given as 17 August by IJCAI and the event schedule page but 18 August in the workshop overview text
+- 2025 location given as Guangzhou on the 4th RePSS home page but Montreal on its workshop page (IJCAI 2025 had both venues)
+- Important dates on the workshop pages give no year; taken as the year of each edition
+- CEUR volume numbers not checked (ceur-ws.org returned a bot check)
+- RePSS 2027 not announced as of 2026-11-07
+last_verified: 2026-11-07

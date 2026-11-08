@@ -1,0 +1,52 @@
+id: q-works
+name: Q-WORKS
+full_name: Workshop on Quantum-HPC Workflows, Resource Allocation, and Scheduling
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop chairs from LINKS Foundation, CINECA, University of Turin and E4 Computer Engineering (Italy)
+organizer_country: [europe]
+proceedings: Springer LNCS (Euro-Par workshops volume)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://q-works.github.io/
+notes:
+- Workshop on integrating quantum computers into HPC facilities, hybrid workflows, resource allocation and scheduling
+- First edition in 2026, a half-day workshop co-located with Euro-Par 2026 in Pisa
+- Full papers up to 12 pages (LNCS) go to the Springer proceedings; short papers up to 10 pages are presented but not published
+- At least three reviews per paper through the Euro-Par 2026 workshops EasyChair
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-24
+  location: Pisa, Italy (Euro-Par 2026)
+  url: https://q-works.github.io/home/
+  deadlines:
+  - kind: submission
+    date: 2026-05-29
+    label: Extended from 2026-05-15
+  - kind: notification
+    date: 2026-06-24
+    label: Extended from 2026-06-12
+  - kind: camera_ready
+    date: 2026-07-10
+sources:
+- https://q-works.github.io/home/
+- https://q-works.github.io/cfp/
+- https://q-works.github.io/program/
+- https://q-works.github.io/organisation/
+- https://2026.euro-par.org/workshops
+- https://easychair.org/smart-program/Euro-Par2026Workshops/
+- https://portal.core.edu.au/conf-ranks/?search=Q-WORKS&by=all&source=ICORE2026
+unverified:
+- Deadline time zone not stated on the call for papers
+- Euro-Par workshops page gives an updated camera-ready deadline of August 10, 2026 for all workshop papers
+- Whether Q-WORKS returns in 2027 is not announced as of 2026-11-07
+last_verified: 2026-11-07

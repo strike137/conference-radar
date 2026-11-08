@@ -1,0 +1,66 @@
+id: overlay
+name: OVERLAY
+full_name: International Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis
+type: workshop
+tier: minor
+areas: [ai, software]
+region: europe
+language: english
+frequency: annual
+organizer: OVERLAY group (Italian researchers in formal methods and AI)
+organizer_country: [europe]
+proceedings: CEUR Workshop Proceedings
+archival: true
+typical:
+  conference_months: [7, 10, 11]
+links:
+  website: https://overlay.uniud.it/workshop/2026/
+notes:
+- Workshop on the interaction of AI and formal methods (verification of ML and LLM-based systems, neuro-symbolic AI, automata, synthesis, planning)
+- Run by the Italian OVERLAY research group; first held in 2019
+- Co-located with a different event each year (AIxIA 2019, BOSK 2020, GandALF 2021, AIxIA 2022, AIxIA 2023, Bolzano 2024, ECAI 2025 in Bologna, FLoC 2026 in Lisbon)
+- Regular papers up to 9 pages and short papers up to 4 pages (short papers may present already published work), CEUR-WS template
+- Proceedings in CEUR Workshop Proceedings (OVERLAY 2025 -> Vol. 4142, 2024 -> Vol. 3904, 2023 -> Vol. 3629)
+- Deadline month varies with the host event (September 2024, July 2025, May 2026)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  label: 7th OVERLAY
+  start: 2025-10-26
+  end: 2025-10-26
+  location: Bologna, Italy (co-located with ECAI 2025)
+  url: https://overlay.uniud.it/workshop/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-19
+    label: Extended deadline (originally 2025-07-12)
+  - kind: notification
+    date: 2025-08-08
+  - kind: camera_ready
+    date: 2025-09-17
+- year: 2026
+  label: 8th OVERLAY
+  start: 2026-07-18
+  end: 2026-07-19
+  location: Lisbon, Portugal (FLoC 2026)
+  url: https://overlay.uniud.it/workshop/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-01
+    tz: AoE
+    label: Extended deadline (originally 2026-04-17)
+  - kind: notification
+    date: 2026-05-25
+sources:
+- https://overlay.uniud.it/
+- https://overlay.uniud.it/workshop/2026/
+- https://overlay.uniud.it/workshop/2025/
+- https://overlay.uniud.it/workshop/2024/
+- https://overlay.uniud.it/workshop/2023/
+- https://ceur-ws.org/Vol-4142/
+- https://portal.core.edu.au/conf-ranks/?search=OVERLAY&by=all&source=ICORE2026
+unverified:
+- OVERLAY 2026 CEUR volume not found on the official site as of 2026-11-07
+- OVERLAY 2027 not announced as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

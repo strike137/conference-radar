@@ -1,0 +1,59 @@
+id: t4v
+name: T4V
+full_name: Workshop on Transformers for Vision and Multimodal AI
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (UNC Chapel Hill and NVIDIA, with Meta AI and others); co-located with CVPR
+organizer_country: [usa]
+proceedings: None (accepted abstracts listed on the workshop site only)
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/t4v-cvpr26/
+notes:
+- Half-day CVPR workshop on Transformers and other backbones for image, video, 3D and multimodal vision
+- Called Workshop on Transformers for Vision until 2025; renamed to Transformers for Vision and Multimodal AI for the 5th edition
+- 3rd edition at CVPR 2024 (Seattle), 4th at CVPR 2025 (Nashville), 5th at CVPR 2026 (Denver)
+- 2025 took abstract submissions of up to 4 pages in CVPR format via CMT, presented as posters; papers not in the CVPR Workshops proceedings
+- 2026 edition was invited talks only, with no call for papers
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 4th T4V, with CVPR 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Nashville, Tennessee, USA
+  url: https://sites.google.com/view/t4v-cvpr25/
+  deadlines:
+  - kind: submission
+    date: 2025-04-18
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2025-05-25
+  - kind: camera_ready
+    date: 2025-06-08
+- year: 2026
+  label: 5th T4V, with CVPR 2026 (invited talks only)
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA
+  url: https://sites.google.com/view/t4v-cvpr26/
+sources:
+- https://sites.google.com/view/t4v-cvpr26/
+- https://sites.google.com/view/t4v-cvpr26/schedule
+- https://cvpr.thecvf.com/virtual/2026/workshop/35977
+- https://sites.google.com/view/t4v-cvpr25/
+- https://sites.google.com/view/t4v-cvpr24/
+- https://openaccess.thecvf.com/CVPR2025_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=T4V&by=all&source=ICORE2026
+unverified:
+- 2025 page writes the deadline as 11:59pm PST although Pacific time was on daylight saving (PDT) in April; recorded as stated
+- Whether a 2027 edition will take paper submissions again is not announced
+last_verified: 2026-11-07

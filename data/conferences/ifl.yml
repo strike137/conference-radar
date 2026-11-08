@@ -1,0 +1,69 @@
+id: ifl
+name: IFL
+full_name: International Symposium on Implementation and Application of Functional Languages
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: IFL Steering Committee
+organizer_country: [international]
+proceedings: ACM DL (ACM ICPS)
+archival: true
+typical:
+  deadline_months: [9, 11]
+  conference_months: [8, 9, 10]
+links:
+  website: https://ifl-symposia.org/
+  dblp: https://dblp.org/db/conf/ifl/index.html
+notes:
+- Annual symposium on implementing and applying functional programming languages, held since 1989 (started in Nijmegen)
+- Post-symposium review; draft papers are screened before the event, then revised full papers are reviewed (single-blind, at least three reviews) for the formal proceedings
+- 2026 proceedings in the ACM International Conference Proceedings Series (ACM DL), ACM two-column format, up to 12 pages excluding references; ACM ICPS open access may require an APC
+- Proceedings from 1996 to 2010 were Springer LNCS volumes
+- Mostly held in Europe (Copenhagen 2022, Braga 2023, Nijmegen 2024, Gothenburg 2026); 2025 in Montevideo, Uruguay; 2020 and 2021 online
+- Awards the Peter Landin Prize for the best paper
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-01
+  end: 2025-10-03
+  location: Montevideo, Uruguay (Universidad de la Republica)
+  url: https://www.fing.edu.uy/inco/congresos/ifl2025/index.html
+- year: 2026
+  start: 2026-10-28
+  end: 2026-10-30
+  location: Aspenas Herrgard near Gothenburg, Sweden
+  url: https://ifl26.cse.chalmers.se/
+  deadlines:
+  - kind: submission
+    date: 2026-09-04
+    tz: AoE
+    label: Draft papers
+  - kind: notification
+    date: 2026-09-11
+    tz: AoE
+    label: Draft papers
+  - kind: other
+    date: 2026-11-25
+    tz: AoE
+    label: Full papers for post-proceedings
+  - kind: other
+    date: 2027-02-12
+    tz: AoE
+    label: Post-proceedings notification
+  - kind: other
+    date: 2027-03-12
+    tz: AoE
+    label: Post-proceedings camera-ready
+sources:
+- https://ifl-symposia.org/
+- https://ifl-symposia.org/Events
+- https://ifl26.cse.chalmers.se/
+- https://ifl26.cse.chalmers.se/cfp/
+- https://portal.core.edu.au/conf-ranks/?search=IFL&by=all&source=ICORE2026
+unverified:
+- IFL 2025 site was down when checked; 2025 dates taken from the IFL Events page
+- IFL 2027 not announced yet
+last_verified: 2026-11-07

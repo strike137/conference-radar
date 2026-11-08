@@ -1,0 +1,66 @@
+id: ai4sys
+name: AI4Sys
+full_name: Workshop on AI for Systems
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs Jay Lofstead (Sandia National Laboratories) and Jai Dayal (HPE)
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6, 7]
+links:
+  website: https://ai4sys.github.io/
+notes:
+- Half-day workshop co-located with ACM HPDC, held on the HPDC workshop day since 2023
+- Topics are AI for system management and monitoring of HPC and cloud systems (I/O prediction, log analysis, scheduling, storage)
+- Papers up to 5 pages in ACM format (excluding references); single-blind review
+- Accepted papers appear in the ACM proceedings (ACM DL); 2026 papers are in the HPDC 2026 proceedings volume
+- Follows HPDC's location (Orlando 2023, Pisa 2024, Notre Dame 2025, Cleveland 2026)
+- Not listed in the ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-07-20
+  end: 2025-07-20
+  location: Notre Dame, IN, USA (with HPDC 2025)
+  url: https://ai4sys.github.io/2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-04-18
+    tz: AoE
+    label: Paper submission (extended from 2025-04-11)
+  - kind: notification
+    date: 2025-05-06
+  - kind: camera_ready
+    date: 2025-05-16
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-13
+  location: Cleveland, OH, USA (with HPDC 2026, Case Western Reserve University)
+  url: https://ai4sys.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-04-18
+    tz: AoE
+  - kind: notification
+    date: 2026-05-06
+  - kind: camera_ready
+    date: 2026-05-16
+sources:
+- https://ai4sys.github.io/
+- https://ai4sys.github.io/2025/index.html
+- https://ai4sys.github.io/2024/index.html
+- https://ai4sys.github.io/2023/index.html
+- https://hpdc.sci.utah.edu/2026/workshops.html
+- https://doi.org/10.1145/3660605
+- https://doi.org/10.1145/3588982
+- https://doi.org/10.1145/3806645.3816737
+- https://portal.core.edu.au/conf-ranks/?search=AI4Sys&by=all&source=ICORE2026
+unverified:
+- AI4Sys 2027 not yet announced (HPDC 2027 dates not announced as of 2026-11-07)
+last_verified: 2026-11-07

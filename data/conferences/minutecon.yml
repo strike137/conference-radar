@@ -1,0 +1,44 @@
+id: minutecon
+name: MinuteCon
+full_name: MinuteCon
+type: industry
+tier: minor
+areas: [security, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: NEISA (New England Information Security Alliance)
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [4, 5]
+links:
+  website: https://minutecon.org/
+notes:
+- New independent hacker conference in Boston, first edition in 2027
+- Run by NEISA, the group behind the Boston Security Meetup and the Boston Hackers Meetup
+- Two tracks over two days, about 500 attendees, held at the Boston Marriott Cambridge
+- Talks on offensive security, defense and detection, appsec, hardware and embedded, AI security and policy
+- Talks only, no formal proceedings
+editions:
+- year: 2027
+  start: 2027-04-30
+  end: 2027-05-01
+  location: Boston Marriott Cambridge, Cambridge, MA, USA
+  url: https://minutecon.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+    time: "23:59"
+    tz: EST
+    label: Call for Speakers
+sources:
+- https://minutecon.org/
+- https://minutecon.org/about
+- https://sessionize.com/MinuteCon/
+- https://portal.core.edu.au/conf-ranks/?search=MinuteCon&by=all&source=ICORE2026
+unverified:
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-11-07

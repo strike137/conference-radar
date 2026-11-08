@@ -1,0 +1,64 @@
+id: mlic
+name: MLIC
+full_name: International Conference on Machine Learning and Intelligent Computing
+type: conference
+tier: minor
+areas: [ai]
+region: china
+language: english
+frequency: annual
+organizer: Conference committee with Chinese university chairs (2026 hosted by Zhengzhou University; 2027 conference and organizing chairs from Wuhan University)
+organizer_country: [china]
+proceedings: ACM DL (2026); PMLR (2024 vol. 245, 2025 vol. 278)
+archival: true
+indexing: [EI, Scopus]
+fee: 545 USD or 3800 CNY per 4-page paper (2027, regular); 55 USD per extra page
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://www.icmlic.org/
+notes:
+- Annual since 2024; 4th edition in 2027
+- Website hosted on the AiScholar (ais.cn) conference platform; presenter and listener options without publication
+- Proceedings in PMLR for 2024 (vol. 245) and 2025 (vol. 278), ACM Digital Library for 2026; the 2027 publisher is not named yet
+- Stated as indexed by EI Compendex and Scopus
+- MLIC 2026 held in Zhengzhou, hosted by Zhengzhou University; MLIC 2027 in Wuhan, with conference and organizing chairs from Wuhan University
+- Not to be confused with EAI MLICOM (Machine Learning and Intelligent Communications)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-24
+  end: 2026-04-26
+  location: Zhengzhou, China (Zhengzhou University)
+  url: https://www.icmlic.org/History2026
+- year: 2027
+  start: 2027-04-23
+  end: 2027-04-25
+  location: Wuhan, China
+  url: https://www.icmlic.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-05
+    label: Full paper
+  - kind: notification
+    date: 2027-03-07
+  - kind: camera_ready
+    date: 2027-03-22
+sources:
+- https://www.icmlic.org/
+- https://www.icmlic.org/Publication
+- https://www.icmlic.org/committee
+- https://www.icmlic.org/RegistrationAll
+- https://www.icmlic.org/History2026
+- https://www.icmlic.org/History2025
+- https://www.icmlic.org/History2024
+- https://proceedings.mlr.press/v245/
+- https://proceedings.mlr.press/v278/
+- https://dl.acm.org/doi/proceedings/10.1145/3829441
+- https://portal.core.edu.au/conf-ranks/?search=MLIC&by=all&source=ICORE2026
+unverified:
+- The site history says MLIC 2024 and 2025 were held online (Apr 25 to 27), while the PMLR volumes say Wuhan (Apr 26 to 28, 2024) and Zhengzhou (Apr 25 to 27, 2025)
+- MLIC 2026 deadlines not recorded; no deadline time or time zone stated
+- ACM DL page for the MLIC 2026 proceedings could not be loaded (bot check); confirmed through the ACM DOI metadata (10.1145/3829441)
+last_verified: 2026-11-07

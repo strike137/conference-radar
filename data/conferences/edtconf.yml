@@ -1,0 +1,59 @@
+id: edtconf
+name: EDTconf
+full_name: International Conference on Engineering Digital Twins
+type: conference
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: EDTconf Steering Committee, co-located with MODELS (ACM/IEEE)
+organizer_country: [international]
+proceedings: ACM DL (MODELS Companion proceedings, 2026); IEEE Xplore (MODELS companion, 2025)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://conf.researchr.org/series/edtconf
+notes:
+- Two-day conference on systematic engineering of digital twins (modelling, DevOps, co-simulation, quality assurance), co-located with MODELS
+- Grew out of the Model-Driven Engineering of Digital Twins (ModDiT) workshop series at MODELS; first edition 2024
+- Editions in Linz 2024, Grand Rapids 2025 (hybrid), Malaga 2026, Budapest 2027
+- 2026 has an Extended Abstracts track (vision, exemplar and demo papers, 4+1 pages, ACM format, single-anonymous) published in the MODELS 2026 companion proceedings by ACM
+- Full papers go through a SoSyM journal theme section whose accepted papers are presented at the conference
+- 2025 papers were published in the MODELS companion proceedings with IEEE
+- Also has an industrial talks track
+- Not listed in ICORE2026 or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-06
+  location: Malaga, Spain (with MODELS 2026)
+  url: https://conf.researchr.org/home/edtconf-2026
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    tz: AoE
+    label: Extended abstracts and industrial talks
+  - kind: notification
+    date: 2026-08-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-11
+    tz: AoE
+- year: 2027
+  location: Budapest, Hungary (with MODELS 2027)
+  url: https://conf.researchr.org/home/edtconf-2027
+sources:
+- https://conf.researchr.org/home/edtconf-2026
+- https://conf.researchr.org/track/edtconf-2026/edtconf-2026-extended-abstracts
+- https://conf.researchr.org/track/edtconf-2026/edtconf-2026-industrial-talks
+- https://conf.researchr.org/track/edtconf-2026/edtconf-2026-journal-track
+- https://conf.researchr.org/home/edtconf-2027
+- https://conf.researchr.org/home/edtconf-2025
+- https://conf.researchr.org/track/edtconf-2025/edtconf-2025-papers
+- https://portal.core.edu.au/conf-ranks/?search=EDTconf&by=all&source=ICORE2026
+unverified:
+- EDTconf 2027 dates and deadlines are listed as to be announced
+last_verified: 2026-11-07

@@ -1,0 +1,53 @@
+id: humanaise
+name: HumanAISE
+full_name: Workshop on Human-Centered AI for Software Engineering
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: HumanAISE organizing and steering committee (Vanderbilt University, UC Irvine and others), co-located with FSE
+organizer_country: [international]
+proceedings: ACM DL (FSE companion proceedings)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6, 7]
+links:
+  website: https://humanai4se.github.io/
+notes:
+- FSE workshop on human-centered AI for software engineering (human-AI collaboration, explainable AI for SE, trust, ethics and fairness, SE education with AI)
+- Held with FSE since 2025; Trondheim 2025 (1st, with FSE and ISSTA), Montreal 2026 (2nd)
+- Full papers up to 8 pages plus 2 pages of references, short papers up to 4 plus 1, position papers up to 2 pages, extended abstracts up to 5 pages (APC free)
+- Double-blind review by at least three PC members; accepted papers published in the ACM Digital Library as part of the FSE companion proceedings
+- Linked special issue on HumanAISE in Empirical Software Engineering (EMSE) for extended versions of selected papers
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-05
+  end: 2026-07-05
+  location: Montreal, Canada (with FSE 2026)
+  url: https://humanai4se.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-12
+    tz: AoE
+  - kind: notification
+    date: 2026-03-19
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-09
+    tz: AoE
+sources:
+- https://humanai4se.github.io/
+- https://humanai4se.github.io/archive/2025/
+- https://conf.researchr.org/home/fse-2026/humanaise-2026
+- https://conf.researchr.org/series/humanaise
+- https://conf.researchr.org/track/fse-2026/fse-2026-workshops
+- https://portal.core.edu.au/conf-ranks/?search=HumanAISE&by=all&source=ICORE2026
+unverified:
+- HumanAISE 2027 not announced yet (no FSE 2027 workshop page found as of 2026-11-07)
+- Region set to worldwide because it follows FSE, which rotates globally (only two editions so far)
+- Acceptance rate not found on an official page
+last_verified: 2026-11-07

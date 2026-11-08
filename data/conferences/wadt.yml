@@ -1,0 +1,56 @@
+id: wadt
+name: WADT
+full_name: Workshop on Algebraic Development Techniques
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: biennial
+organizer: WADT Steering Committee, under the auspices of IFIP WG 1.3
+organizer_country: [international]
+proceedings: Springer LNCS (post-proceedings)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6, 7]
+links:
+  website: https://conf.researchr.org/series/wadt
+notes:
+- Long-running workshop on algebraic specification and formal software development (27th edition in 2024)
+- Held as part of STAF in 2024 (Enschede) and 2026 (Rennes); the related CALCO conference runs separately in odd years
+- Talks selected from two-page abstracts in LNCS format
+- After the workshop, authors are invited to submit full papers to refereed post-proceedings, typically in Springer LNCS
+- Not listed in ICORE2026 or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-30
+  end: 2026-06-30
+  location: Rennes, France (STAF 2026, Inria Center, University of Rennes)
+  url: https://conf.researchr.org/home/wadt-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-04-30
+    tz: AoE
+  - kind: notification
+    date: 2026-05-07
+    tz: AoE
+    label: Abstract notification
+  - kind: other
+    date: 2026-10-01
+    tz: AoE
+    label: Full papers for post-proceedings (call text said 2026-09-24)
+  - kind: other
+    date: 2026-10-29
+    tz: AoE
+    label: Full-paper notification
+sources:
+- https://conf.researchr.org/home/wadt-2026
+- https://conf.researchr.org/track/wadt-2026/wadt-2026-papers
+- https://conf.researchr.org/home/wadt-2024
+- https://conf.researchr.org/series/wadt
+- https://portal.core.edu.au/conf-ranks/?search=WADT&by=all&source=ICORE2026
+unverified:
+- Next edition (likely 2028) not yet announced
+- Earlier editions before 2024 not listed on the current series page
+last_verified: 2026-11-07

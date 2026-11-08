@@ -1,0 +1,82 @@
+id: ieee-bdcloud
+name: IEEE BDCloud
+full_name: IEEE International Conference on Big Data and Cloud Computing
+type: conference
+tier: minor
+areas: [data, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Part of the IEEE AI for Science Congress (with IEEE ISPA, SocialCom, SustainCom, SpaCCS)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, EI, DBLP]
+typical:
+  deadline_months: [8, 9, 10]
+  conference_months: [10, 12]
+links:
+  website: https://ieee-ai-for-science.org/2026/bdcloud/index.php
+  dblp: https://dblp.org/db/conf/bdcloud/index.html
+notes:
+- Big data and cloud computing conference; 16th edition in 2026
+- Runs as a sibling conference of IEEE ISPA in the IEEE AI for Science Congress, with its own chairs and steering committee
+- Papers published by IEEE Computer Society Press and submitted to IEEE Xplore and EI; selected papers invited to a journal
+  special issue
+- Submission via EDAS in the two-column IEEE Computer Society proceedings format
+- Deadlines are usually extended by several weeks (2025 -> Aug 16 to Aug 25; 2026 -> Sep 30 to Oct 15)
+- Held in Shenyang, China in 2025 and Kuala Lumpur, Malaysia in 2026
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-10
+  end: 2025-10-12
+  location: Shenyang, China
+  url: https://ieee-ai-for-science.org/2025/bdcloud/
+  deadlines:
+  - kind: submission
+    date: 2025-08-25
+    tz: AoE
+    label: Papers (extended from 2025-08-16)
+  - kind: notification
+    date: 2025-08-25
+    label: Extended from 2025-08-15
+  - kind: other
+    date: 2025-09-10
+    label: Registration
+  - kind: camera_ready
+    date: 2025-09-18
+    label: Extended from 2025-08-31
+- year: 2026
+  start: 2026-12-27
+  end: 2027-01-02
+  location: Kuala Lumpur, Malaysia
+  url: https://ieee-ai-for-science.org/2026/bdcloud/index.php
+  deadlines:
+  - kind: other
+    date: 2026-08-15
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-10-15
+    tz: AoE
+    label: Regular papers (extended from 2026-09-30)
+  - kind: notification
+    date: 2026-11-10
+    label: Extended from 2026-10-30
+  - kind: camera_ready
+    date: 2026-11-30
+  - kind: other
+    date: 2026-11-30
+    label: Paper registration
+sources:
+- https://ieee-ai-for-science.org/2026/bdcloud/index.php
+- https://ieee-ai-for-science.org/2026/bdcloud/cfp.php
+- https://ieee-ai-for-science.org/2025/bdcloud/
+- https://ieee-ai-for-science.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=BDCloud&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Region judged from the 2024 (Kaifeng), 2025 (Shenyang) and 2026 (Kuala Lumpur) congress editions; earlier locations not checked
+- 2025 notification date on the official page equals the extended submission date
+- dblp page not checked (dblp blocks automated access); acceptance rate and fee not found
+last_verified: 2026-11-07

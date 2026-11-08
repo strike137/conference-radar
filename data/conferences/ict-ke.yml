@@ -1,0 +1,66 @@
+id: ict-ke
+name: ICT&KE
+full_name: International Conference on ICT and Knowledge Engineering
+type: conference
+tier: minor
+areas: [ai, data, general]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Siam University (Graduate School of IT) with the IEEE Thailand Section and its Computer Chapter (2026)
+organizer_country: [thailand]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+fee: 'USD 500 IEEE member / 550 non-member, advance; USD 550 / 600 late (2026)'
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://www.ict-ke.org/
+notes:
+- Long-running Thai IT conference (24th edition in 2026) hosted every year by Siam University in Bangkok
+- Co-organized by the IEEE Thailand Section and the IEEE Thailand Section Computer Chapter (2026); the 2027 page lists APDMEN and the Computer Association of Thailand as joint organizers
+- Accepted papers are submitted to IEEE Xplore; earlier volumes (2014 to 2025) are in IEEE Xplore
+- Held in Bangkok every November (2020 to 2025 per the IEEE proceedings records)
+- Topics in knowledge and data engineering, data mining, machine learning, information retrieval and web technologies
+- Single paper deadline about seven weeks before the conference (2026); the 2027 call moves it to June
+editions:
+- year: 2026
+  start: 2026-11-18
+  end: 2026-11-20
+  location: Bangkok, Thailand (Siam University)
+  url: https://www.ict-ke.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+  - kind: notification
+    date: 2026-10-07
+  - kind: camera_ready
+    date: 2026-10-15
+    label: Camera-ready and payment
+- year: 2027
+  start: 2027-11-17
+  end: 2027-11-19
+  location: Bangkok, Thailand (Siam University)
+  url: https://www.ict-ke.org/ict-ke-2027/
+  deadlines:
+  - kind: submission
+    date: 2027-06-30
+  - kind: notification
+    date: 2027-07-31
+  - kind: camera_ready
+    date: 2027-08-15
+    label: Camera-ready and payment
+sources:
+- https://www.ict-ke.org/
+- https://www.ict-ke.org/ict-ke-2027/
+- https://www.ict-ke.org/conference-location/
+- https://www.ict-ke.org/registration-fee/
+- https://api.crossref.org/works?query.bibliographic=International+Conference+on+ICT+and+Knowledge+Engineering&filter=prefix:10.1109 (IEEE proceedings records, used for past locations only)
+- https://portal.core.edu.au/conf-ranks/?search=ICTKE&by=all&source=ICORE2026
+unverified:
+- "ICT&KE 2025 (23rd, Bangkok) dates are only in the IEEE proceedings metadata (2025-11-19 to 2025-11-21); the official 2025 page is no longer online"
+- Not listed in ICORE2026 or the CCF 2026 list
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-07

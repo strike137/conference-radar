@@ -1,0 +1,47 @@
+id: nalef
+name: NALEF
+full_name: NALEF Workshop (Nations of the Americas Conference and Labs of the Evaluation Forum)
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: latin-america
+language: english
+organizer: NALEF Initiative (Universidad Tecnológica de Bolívar, Cartagena), within the Colombian Conference on Computing (SCo2)
+organizer_country: [other]
+proceedings: CEUR Workshop Proceedings
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://nalef-initiative.github.io/labs/2026/index.html
+notes:
+- Evaluation forum for multilingual and multimodal information access in the languages of the Americas and the Caribbean
+- 2026 shared tasks on food safety image classification and Spanish-English gastronomic NER, plus applied AI and software engineering, education and doctoral symposium tracks
+- System description papers of 5 to 8 pages in English (CEURART template), anonymous peer review via OpenReview
+- Accepted papers published open access in CEUR Workshop Proceedings
+- 1st edition in 2026, co-located with the 20th Colombian Conference on Computing (20CCC) in Cartagena
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-08-12
+  end: 2026-08-14
+  location: Almirante Padilla Naval Academy, Cartagena, Colombia (with 20CCC)
+  url: https://nalef-initiative.github.io/labs/2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    time: "23:59"
+    tz: UTC
+  - kind: notification
+    date: 2026-06-30
+  - kind: camera_ready
+    date: 2026-07-10
+sources:
+- https://nalef-initiative.github.io/labs/2026/index.html
+- https://nalef-initiative.github.io/index.html
+- https://portal.core.edu.au/conf-ranks/?search=NALEF&by=all&source=ICORE2026
+unverified:
+- NALEF 2027 not yet announced
+- CEUR volume number for 2026 not yet found
+last_verified: 2026-11-07

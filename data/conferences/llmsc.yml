@@ -1,0 +1,67 @@
+id: llmsc
+name: LLMSC
+full_name: International Workshop on Large Language Model Supply Chain Analysis
+type: workshop
+tier: minor
+areas: [software, security, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: LLMSC organizing committee (Huazhong University of Science and Technology and others), co-located with ISSTA, FSE or ICSE
+organizer_country: [international]
+proceedings: IEEE Xplore (ICSE 2027 workshop proceedings; ACM DL FSE/ISSTA companion proceedings in 2025 and 2026)
+archival: true
+typical:
+  deadline_months: [11, 2]
+  conference_months: [4, 7]
+links:
+  website: https://llmsc.github.io/
+notes:
+- Workshop on analysis, security and governance of the LLM and agentic supply chain (models, datasets, prompts, tools, MCP servers, skills, agent frameworks)
+- Held with ISSTA 2025 (Trondheim), FSE 2026 (Montreal) and ICSE 2027 (Dublin); host conference and season change by year
+- 2027 accepts research papers (4 to 8 pages), position papers (1 to 4 pages) and new 2-page Skill Papers with a runnable agent skill artifact, IEEE format, double-blind
+- 2027 papers appear in the IEEE ICSE workshop proceedings; 2025 and 2026 papers used the ACM companion proceedings of the host conference
+- Selected 2027 papers invited to extended versions in the Automated Software Engineering journal
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-05
+  end: 2026-07-05
+  location: Montreal, Canada (with FSE 2026)
+  url: https://llmsc.github.io/archive/26/
+  deadlines:
+  - kind: submission
+    date: 2026-02-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-03-19
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-02
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-04-27
+  end: 2027-04-27
+  location: Dublin, Ireland (with ICSE 2027)
+  url: https://conf.researchr.org/home/icse-2027/llmsc-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+    tz: AoE
+  - kind: notification
+    date: 2026-12-11
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-29
+    tz: AoE
+sources:
+- https://llmsc.github.io/
+- https://llmsc.github.io/archive/26/
+- https://llmsc.github.io/archive/25/
+- https://conf.researchr.org/home/icse-2027/llmsc-2027
+- https://conf.researchr.org/home/fse-2026/llmsc-2026
+- https://portal.core.edu.au/conf-ranks/?search=LLMSC&by=all&source=ICORE2026
+last_verified: 2026-11-07

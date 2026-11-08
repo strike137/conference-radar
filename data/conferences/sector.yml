@@ -1,0 +1,57 @@
+id: sector
+name: SecTor
+full_name: Black Hat SecTor (Security Education Conference Toronto)
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: Black Hat (Informa Festivals, Informa PLC)
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [10]
+links:
+  website: https://www.blackhat.com/sector/
+notes:
+- Canadian security conference held at the Metro Toronto Convention Centre, now run by Black Hat; sector.ca redirects to blackhat.com/sector/
+- Talks selected through a call for papers on the Black Hat portal; selected speakers present in person in Toronto
+- CFP deadlines are in Eastern Time (UTC-4)
+- Industry talks only, no archival proceedings
+editions:
+- year: 2025
+  start: 2025-10-01
+  end: 2025-10-02
+  location: Metro Toronto Convention Centre, Toronto, Canada
+  url: https://www.blackhat.com/sector/
+  deadlines:
+  - kind: submission
+    date: 2025-05-16
+    time: "23:59"
+    tz: EDT
+    label: Call for Papers closes (dates are the Briefings days)
+- year: 2026
+  start: 2026-10-07
+  end: 2026-10-08
+  location: Metro Toronto Convention Centre, Toronto, Canada
+  url: https://www.blackhat.com/sector/
+  deadlines:
+  - kind: submission
+    date: 2026-05-26
+    time: "23:59"
+    tz: EDT
+    label: Call for Papers closes (dates are the Briefings days)
+  - kind: notification
+    date: 2026-07-24
+sources:
+- https://i.blackhat.com/SecTor-2026/SecTor-2026-CFP-Preparation-Doc.pdf
+- https://i.blackhat.com/SecTor-2025/SecTor-2025-CFP-Preparation-Doc.pdf
+- https://portal.core.edu.au/conf-ranks/?search=SecTor&by=all&source=ICORE2026
+unverified:
+- blackhat.com blocked automated access on 2026-11-07; dates come only from the official CFP preparation PDFs, which give the Briefings days but not the training days
+- 2027 edition not yet announced
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+last_verified: 2026-11-07

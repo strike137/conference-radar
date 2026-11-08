@@ -1,0 +1,79 @@
+id: ieee-icca-eg
+name: IEEE ICCA
+full_name: IEEE International Conference on Computer and Applications
+type: conference
+tier: minor
+areas: [general, ai, security, data]
+region: middle-east
+language: english
+frequency: annual
+organizer: IEEE-ICCA steering committee with host universities (The British University in Egypt in 2026, Arab Open
+  University Bahrain in 2025)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+fee: 450 USD per paper (2026, non-IEEE member); 400 USD IEEE member or early bird; 150 USD attendee without paper
+typical:
+  deadline_months: [11, 12]
+  conference_months: [12]
+links:
+  website: https://icca-conf.info/
+notes:
+- Broad computer science and applications conference; editions in 2017, 2018 and every year since 2022
+- Proceedings published in IEEE Xplore (IEEE conference record 70833 in 2026); the site says ICCA 2025 proceedings were indexed by Scopus in May 2026
+- Not listed in the CORE ICORE2026 portal; the site itself says it holds no CORE rank and only describes itself as comparable to CORE C
+- Very short cycle in 2026 (submission Nov 30, notification Dec 11, camera-ready Dec 17, conference Dec 21-24)
+- Large volume; the site claims about 600 papers from 50 countries per edition
+- Single-blind review via EDAS; papers up to six IEEE pages, fee covers one paper only
+- Held in the Middle East (Arab Open University Bahrain 2025 hybrid, British University in Egypt Cairo 2026)
+- Not the same venue as ICCA (International Conference on Computing Advancements, Bangladesh)
+editions:
+- year: 2025
+  start: 2025-12-22
+  end: 2025-12-24
+  location: Arab Open University, Bahrain (hybrid)
+  url: https://icca-conf.info/icca25
+  deadlines:
+  - kind: submission
+    date: 2025-12-05
+  - kind: notification
+    date: 2025-12-11
+  - kind: camera_ready
+    date: 2025-12-17
+- year: 2026
+  start: 2026-12-21
+  end: 2026-12-24
+  location: The British University in Egypt, Cairo, Egypt
+  url: https://icca-conf.info/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+  - kind: notification
+    date: 2026-12-11
+  - kind: camera_ready
+    date: 2026-12-17
+- year: 2027
+  start: 2027-12-21
+  end: 2027-12-23
+  location: The British University in Egypt, Cairo, Egypt
+  url: https://icca-conf.info/icca-2027
+  deadlines:
+  - kind: submission
+    date: 2027-04-30
+  - kind: notification
+    date: 2027-06-30
+  - kind: camera_ready
+    date: 2027-12-17
+sources:
+- https://icca-conf.info/
+- https://icca-conf.info/icca25
+- https://icca-conf.info/icca-2027
+- https://icca-conf.info/ieee-icca-call-for-papers
+- https://portal.core.edu.au/conf-ranks/?search=ICCA&by=all&source=ICORE2026
+unverified:
+- Locations of the 2017, 2018 and 2022 to 2024 editions not confirmed from an official page
+- dblp page (the site links dblp conf/icca3) not checked; dblp blocked automated access
+- IEEE Xplore proceedings pages not checked (IEEE Xplore blocked automated access)
+- The 2027 page does not say whether the 2027 edition keeps IEEE sponsorship
+last_verified: 2026-11-07

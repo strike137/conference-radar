@@ -1,0 +1,79 @@
+id: sigops-atc
+name: ATC
+full_name: ACM SIGOPS Annual Technical Conference
+type: conference
+tier: major
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGOPS (formerly USENIX)
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+indexing: [DBLP]
+rank:
+  core: A
+  ccf: A
+typical:
+  deadline_months: [6]
+  conference_months: [11]
+links:
+  website: https://atc.sigops.org/2026/index.html
+  dblp: https://dblp.org/db/conf/usenix/index.html
+notes:
+- Continues USENIX ATC; became an ACM SIGOPS conference in 2026 with the same community and scope
+- Proceedings in the ACM DL under ACM Open Access from 2026; USENIX published the papers until 2025
+- Broad practical systems scope (OS, distributed systems, storage, networking, ML systems, security)
+- Double-blind review; a two-page extended abstract is reviewed first and papers below the bar are rejected early
+- 2026 moved from July in the USA (co-located with OSDI until 2025) to November in Hong Kong; 135 papers accepted in 2026
+- ICORE2026 rank A (listed as Usenix Annual Technical Conference) and CCF A (listed as ACM SIGOPS ATC, formerly USENIX ATC)
+editions:
+- year: 2025
+  start: 2025-07-07
+  end: 2025-07-09
+  location: Sheraton Boston, Boston, MA, USA (USENIX ATC '25)
+  url: https://www.usenix.org/conference/atc25
+  deadlines:
+  - kind: abstract
+    date: 2025-01-07
+    time: "23:59"
+    tz: UTC
+  - kind: submission
+    date: 2025-01-14
+    time: "23:59"
+    tz: UTC
+  - kind: notification
+    date: 2025-04-25
+  - kind: camera_ready
+    date: 2025-06-03
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-18
+  location: Hyatt Regency Sha Tin, Hong Kong (workshops on November 15, main conference November 16-18)
+  url: https://atc.sigops.org/2026/index.html
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-06-10
+  - kind: other
+    date: 2026-08-01
+    label: Early rejection notifications
+  - kind: notification
+    date: 2026-09-18
+  - kind: camera_ready
+    date: 2026-10-16
+sources:
+- https://atc.sigops.org/2026/index.html
+- https://atc.sigops.org/2026/cfp.html
+- https://atc.sigops.org/2026/workshops.html
+- https://atc.sigops.org/2026/accepted.html
+- https://atc.sigops.org/2026/schedule.html
+- https://www.usenix.org/conference/atc25/call-for-papers
+- https://portal.core.edu.au/conf-ranks/?search=USENIX&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/ARCH_DCP_SS/
+unverified:
+- CCF rank read from a copy of the CCF 2026 list PDF (computer architecture / parallel and distributed computing / storage category, class A, "ACM SIGOPS ATC, formerly USENIX ATC"), not from the ccf.org.cn page itself
+- The 2026 CFP gives the submission date without a time or time zone
+- ATC 2027 not announced yet
+last_verified: 2026-11-07

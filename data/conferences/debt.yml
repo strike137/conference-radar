@@ -1,0 +1,53 @@
+id: debt
+name: DEBT
+full_name: Workshop on Future Debugging Techniques
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: DEBT steering committee, held with ECOOP
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://conf.researchr.org/series/debt
+notes:
+- One-day workshop on debugging techniques and debuggers (static and dynamic debugging, visualization, concurrent and distributed programs), held with ECOOP
+- Held with ECOOP in Europe (Vienna 2024, Bergen 2025, Brussels 2026, Turin 2027); 2023 was in Seattle with ECOOP and ISSTA
+- Technical papers up to 8 pages, work-in-progress papers of 2 to 4 pages, and talk or tool demo abstracts of 1 to 2 pages, via EasyChair
+- Accepted papers are published in the ACM Digital Library; authors may opt out
+- Not related to TechDebt (International Conference on Technical Debt)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-06-29
+  location: Brussels, Belgium (with ECOOP 2026)
+  url: https://2026.ecoop.org/home/debt-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-03-11
+    tz: AoE
+  - kind: submission
+    date: 2026-03-14
+    tz: AoE
+  - kind: notification
+    date: 2026-04-15
+  - kind: camera_ready
+    date: 2026-04-28
+- year: 2027
+  location: Turin, Italy (with ECOOP 2027, 28 June to 2 July 2027)
+  url: https://2027.ecoop.org/home/debt-2027
+sources:
+- https://2026.ecoop.org/home/debt-2026
+- https://2027.ecoop.org/home/debt-2027
+- https://conf.researchr.org/series/debt
+- https://portal.core.edu.au/conf-ranks/?search=DEBT&by=all&source=ICORE2026
+unverified:
+- Workshop day and deadlines for DEBT 2027 not yet announced (ECOOP 2027 runs 28 June to 2 July 2027)
+last_verified: 2026-11-07

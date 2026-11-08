@@ -1,0 +1,55 @@
+id: mipi
+name: MIPI
+full_name: Mobile Intelligent Photography and Imaging Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee led by Nanyang Technological University; co-located with ECCV, CVPR or ICCV
+organizer_country: [singapore]
+proceedings: CVF Open Access and IEEE Xplore (ICCV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://mipi-challenge.org/
+notes:
+- Workshop on mobile image sensing and intelligent imaging systems, run together with the MIPI challenges
+- Held with ECCV 2022, CVPR 2023, CVPR 2024 and ICCV 2025
+- Peer-reviewed papers in ICCV format; accepted papers that are registered and presented appear in IEEE Xplore and CVF Open Access
+- Separate deadline for challenge papers describing methods from the MIPI challenges
+- Deadlines are 11:59 PM HST (2025)
+- Different from the MAI (Mobile AI) and ECV workshops at CVPR
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Honolulu, Hawaii, USA (with ICCV 2025)
+  url: https://mipi-challenge.org/MIPI2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-08
+    time: "23:59"
+    tz: UTC-10
+    label: Workshop and challenge papers (extended from Jul 4)
+  - kind: notification
+    date: 2025-07-11
+  - kind: camera_ready
+    date: 2025-08-18
+    time: "23:59"
+    tz: UTC-10
+sources:
+- https://mipi-challenge.org/MIPI2025/
+- https://iccv.thecvf.com/virtual/2025/workshop/2730
+- https://openaccess.thecvf.com/ICCV2025_workshops/MIPI
+- https://mipi-challenge.org/MIPI2024/
+- https://mipi-challenge.org/MIPI2023/
+- https://mipi-challenge.org/MIPI2022/
+- https://portal.core.edu.au/conf-ranks/?search=MIPI&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found (no MIPI 2026 page as of 2026-11-07)
+last_verified: 2026-11-07

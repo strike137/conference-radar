@@ -1,0 +1,53 @@
+id: ssba
+name: SSBA
+full_name: Swedish Symposium on Image Analysis
+type: conference
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Swedish Society for Automated Image Analysis (SSBA)
+organizer_country: [europe]
+proceedings: Informal symposium proceedings (shared only with authors' permission)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [3]
+links:
+  website: https://ssba.org.se/
+notes:
+- National symposium of the Swedish Society for Automated Image Analysis (SSBA), the Swedish member of IAPR
+- Held jointly with the Swedish Symposium on Deep Learning (SSDL); host university in Sweden changes every year
+- 2027 edition organized by the Computer Vision and Medical Image Analysis Group at Chalmers University of Technology
+- SSBA takes short papers up to 6 pages (mostly oral); SSDL takes 2-3 page extended abstracts (mostly posters); submission by email
+- Non-archival; contributions are not made openly available online, and work submitted or published elsewhere is welcome
+- "Registration fee 2026: 2600 SEK regular, 3200 SEK late (excluding VAT)"
+- Includes a PhD student day, industry session and the SSBA annual meeting
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 43rd SSBA with 9th SSDL
+  start: 2026-03-11
+  end: 2026-03-13
+  location: Orebro University, Orebro, Sweden
+  url: https://ssba.org.se/ssba2026
+  deadlines:
+  - kind: submission
+    date: 2026-02-27
+    label: Papers and abstracts (extended from 2026-02-20)
+- year: 2027
+  label: 44th SSBA with 10th SSDL
+  start: 2027-03-17
+  end: 2027-03-19
+  location: Gothenburg, Sweden
+  url: https://ssba.org.se/ssba2027/
+sources:
+- https://ssba.org.se/
+- https://ssba.org.se/ssba2026
+- https://ssba.org.se/ssba2027/
+- https://ssba.org.se/ssba-ssdl-2027/
+- https://portal.core.edu.au/conf-ranks/?search=SSBA&by=all&source=ICORE2026
+unverified:
+- 2027 submission deadline not announced yet (TBA on the official page)
+last_verified: 2026-11-07

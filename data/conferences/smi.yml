@@ -1,0 +1,91 @@
+id: smi
+name: SMI
+full_name: Shape Modeling International
+type: conference
+tier: minor
+areas: [vision, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: SMI conference committee (rotating host institution; journal partner Computers & Graphics)
+organizer_country: [international]
+proceedings: Computers & Graphics (Elsevier) special issue
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://smiconf.github.io/2027/
+  dblp: https://dblp.org/db/conf/smi/
+notes:
+- Long-running international conference on shape modeling, geometry processing and geometric learning (since 1997)
+- Accepted papers are published in a special issue of Computers & Graphics (Elsevier) after a two-round double-blind review
+- Year-round journal track since late 2025 (Shape Modeling section of Computers & Graphics); accepted papers are presented
+  at SMI
+- Replicability Stamp (GRSI) is a prerequisite for best paper nomination
+- Often co-located with SPM, GMP or SGP; 2027 edition is part of the International Geometry Summit in Singapore
+- Rotates worldwide (Genova 2023, Detroit 2024, Hangzhou 2025, Istanbul 2026, Singapore 2027)
+- Not listed in ICORE2026; CCF C (computer graphics and multimedia)
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-09
+  location: Istanbul, Turkey (joint with SPM 2026)
+  url: https://smiconf.github.io/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-23
+    time: "23:59"
+    tz: UTC
+  - kind: submission
+    date: 2026-03-30
+    time: "23:59"
+    tz: UTC
+  - kind: notification
+    date: 2026-04-27
+    label: First review round
+  - kind: other
+    date: 2026-05-11
+    label: Revised papers
+  - kind: notification
+    date: 2026-05-25
+    label: Second review round
+  - kind: camera_ready
+    date: 2026-06-08
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-25
+  location: Singapore (International Geometry Summit 2027)
+  url: https://smiconf.github.io/2027/
+  deadlines:
+  - kind: abstract
+    date: 2027-03-01
+    tz: AoE
+    label: Recommended
+  - kind: submission
+    date: 2027-03-08
+    tz: AoE
+  - kind: notification
+    date: 2027-04-05
+    label: First round
+  - kind: other
+    date: 2027-04-19
+    tz: AoE
+    label: Revised papers
+  - kind: notification
+    date: 2027-05-03
+    label: Second round
+  - kind: camera_ready
+    date: 2027-05-17
+    tz: AoE
+sources:
+- https://smiconf.github.io/2026/
+- https://smiconf.github.io/2027/
+- https://portal.core.edu.au/conf-ranks/?search=SMI&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Shape%20Modeling&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CCF rank checked in a mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-11-07

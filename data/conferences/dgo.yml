@@ -1,0 +1,86 @@
+id: dgo
+name: dg.o
+full_name: Annual International Conference on Digital Government Research
+type: conference
+tier: minor
+areas: [data, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: Digital Government Society (DGS)
+organizer_country: [international]
+proceedings: TU Delft OPEN Publishing (dg.o proceedings)
+archival: true
+indexing: [DBLP]
+typical:
+  deadline_months: [1, 2]
+  conference_months: [6]
+links:
+  website: https://dgsociety.org/dg-o-2027/
+  dblp: https://dblp.org/db/conf/dgo/index.html
+notes:
+- Annual conference of the Digital Government Society; 28th edition in 2027
+- Interdisciplinary research on digital government, AI in the public sector, civic engagement, interoperability and cybersecurity
+- Proceedings published open access (CC BY 4.0) by TU Delft OPEN Publishing since 2025; earlier volumes in the ACM International
+  Conference Proceeding Series
+- Research papers (about 8,000 words) and management or policy papers (about 5,000 words) get double-blind review by at least
+  two PC members
+- Panels, posters, demos and workshops are submitted as proposals with a later deadline; Doctoral Colloquium material is not published
+- Location rotates worldwide (Gdansk 2023, Taipei 2024, Porto Alegre 2025, Omaha 2026, Seoul 2027)
+- Sister conference of IFIP EGOV-CeDEM-ePart
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-01
+  end: 2026-06-04
+  location: Omaha, Nebraska, USA (University of Nebraska at Omaha)
+  url: https://dgsociety.org/dgo-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-07
+    label: Papers (extended from 2026-01-31)
+  - kind: notification
+    date: 2026-03-31
+  - kind: other
+    date: 2026-04-07
+    label: Panel, workshop, tutorial, poster and demo proposals
+  - kind: camera_ready
+    date: 2026-05-10
+    label: Extended from 2026-04-28
+- year: 2027
+  start: 2027-06-28
+  end: 2027-07-01
+  location: Seoul, Korea (Seoul National University of Science and Technology)
+  url: https://dgsociety.org/dg-o-2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-17
+    time: "23:59"
+    tz: AoE
+    label: Papers
+  - kind: other
+    date: 2027-01-31
+    time: "23:59"
+    tz: AoE
+    label: Doctoral colloquium, panel, workshop, tutorial, poster and demo proposals
+  - kind: notification
+    date: 2027-03-26
+  - kind: camera_ready
+    date: 2027-05-16
+    time: "23:59"
+    tz: AoE
+sources:
+- https://dgsociety.org/dg-o-2027/
+- https://dgsociety.org/dg-o-2027-call-for-papers/
+- https://dgsociety.org/impdates-dg-o-2027/
+- https://dgsociety.org/dgo-2026/
+- https://dgsociety.org/dgo-2026/important-dates/
+- https://dgsociety.org/dgo-2026/submission/
+- https://dgsociety.org/dg-o-archives/
+- https://proceedings.open.tudelft.nl/dgo/issue/archive
+- https://portal.core.edu.au/conf-ranks/?search=dg.o&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- dg.o 2026 proceedings volume not yet seen in the TU Delft archive (only Vol. 26, 2025, listed)
+- Acceptance rate and registration fee not checked
+last_verified: 2026-11-07

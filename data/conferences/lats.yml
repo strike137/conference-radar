@@ -1,0 +1,71 @@
+id: lats
+name: LATS
+full_name: IEEE Latin American Test Symposium
+type: conference
+tier: minor
+areas: [systems, security]
+region: latin-america
+language: english
+frequency: annual
+organizer: IEEE (sponsors IEEE CEDA and IEEE Computer Society TTTC)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [3, 4]
+links:
+  website: https://lats.tttc-events.org/
+  dblp: https://dblp.org/db/conf/latw/index.html
+notes:
+- IEEE test symposium for Latin America; the official site links IEEE CEDA and IEEE TTTC as sponsors
+- Covers electronic circuit and system test, reliability, fault tolerance, radiation effects and hardware security
+- Accepted papers are submitted to IEEE Xplore; best papers of the 2027 edition invited to IEEE Design&Test
+- Extended abstracts (1 to 3 pages), full papers (6 pages) or late contributions (2 pages) in IEEE format
+- Hosts a semi-final of the TTTC E. J. McCluskey Best Doctoral Thesis Award contest
+- Held in a different Latin American city each year (Florianopolis, Brazil 2026; Lima, Peru 2027)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  label: 27th LATS
+  start: 2026-03-17
+  end: 2026-03-20
+  location: Florianopolis, Brazil
+  url: https://cas.polito.it/LATS2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-11-07
+    label: Title and abstract (extended)
+  - kind: submission
+    date: 2025-11-25
+    label: Full paper (extended, firm)
+  - kind: notification
+    date: 2025-12-22
+  - kind: camera_ready
+    date: 2026-01-09
+- year: 2027
+  label: 28th LATS
+  start: 2027-04-13
+  end: 2027-04-16
+  location: Lima, Peru
+  url: https://lats.tttc-events.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-23
+    label: Title and abstract
+  - kind: submission
+    date: 2026-11-30
+    label: Full paper
+  - kind: notification
+    date: 2027-01-20
+  - kind: camera_ready
+    date: 2027-01-30
+sources:
+- https://cas.polito.it/LATS2026/
+- https://lats.tttc-events.org/
+- https://portal.core.edu.au/conf-ranks/?search=LATS&by=all&source=ICORE2026
+unverified:
+- The 2027 site page header still shows placeholder dates (2027-03-17 to 2027-03-20, Florianopolis); the call for papers on the same site gives Lima, Peru, April 13 to 16, 2027
+- Deadline time zones not stated
+- dblp page could not be opened (bot check); link taken as conf/latw
+last_verified: 2026-11-07

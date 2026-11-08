@@ -1,0 +1,53 @@
+id: flexscience
+name: FlexScience
+full_name: Workshop on AI and Scientific Computing at Scale using Flexible Computing Infrastructures
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs Alexandru Costan (University Politehnica of Bucharest), Bogdan Nicolae (Argonne National
+  Laboratory) and Kento Sato (RIKEN)
+organizer_country: [europe, usa, japan]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6, 7]
+links:
+  website: https://sites.google.com/view/flexscience
+notes:
+- Long-running workshop co-located with ACM HPDC (16th edition in 2026); earlier editions ran as the Workshop on Scientific Cloud Computing (ScienceCloud)
+- Topics are HPC, big data and AI workflows on elastic and heterogeneous infrastructures across the edge-to-HPC continuum
+- Short (5-page) and regular (8-page) papers in ACM sigconf format; single-blind review
+- Accepted papers in the ACM Digital Library; 2026 papers are in the HPDC 2026 proceedings volume
+- Follows HPDC's location (Pisa 2024, Cleveland 2026)
+- Not listed in the ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-13
+  location: Cleveland, OH, USA (with HPDC 2026, Case Western Reserve University)
+  url: https://sites.google.com/view/flexscience
+  deadlines:
+  - kind: submission
+    date: 2026-05-04
+    label: Paper submission (extended from 2026-04-26, firm)
+  - kind: notification
+    date: 2026-05-09
+  - kind: camera_ready
+    date: 2026-05-16
+sources:
+- https://sites.google.com/view/flexscience
+- https://sites.google.com/view/flexscience/call-for-papers
+- https://hpdc.sci.utah.edu/2026/workshops.html
+- https://doi.org/10.1145/3659995
+- https://doi.org/10.1145/3452370
+- https://doi.org/10.1145/3806645.3816237
+- https://portal.core.edu.au/conf-ranks/?search=FlexScience&by=all&source=ICORE2026
+unverified:
+- The 2026 page header and agenda give July 13, 2026 (the HPDC workshop day), while the important dates list says July 16, 2026
+- The 2026 call for papers page still shows an earlier schedule (deadline 2026-04-17, notification 2026-05-06); dates above follow the newer home page
+- FlexScience 2027 not yet announced
+last_verified: 2026-11-07

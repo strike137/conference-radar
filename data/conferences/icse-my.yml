@@ -1,0 +1,53 @@
+id: icse-my
+name: IEEE ICSE
+full_name: IEEE International Conference on Semiconductor and Electronics
+type: conference
+tier: minor
+areas: [communications]
+region: southeast-asia
+language: english
+frequency: biennial
+organizer: Electron Devices Chapter, IEEE Malaysia Section
+organizer_country: [malaysia]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [8, 11]
+links:
+  website: https://ieeemalaysia-eds.org/icse2026/
+notes:
+- Semiconductor electronics conference of the IEEE EDS Malaysia Chapter; not the software engineering ICSE
+- Earlier editions were titled IEEE International Conference on Semiconductor Electronics
+- Technically co-sponsored by the IEEE Electron Devices Society
+- Biennial (even years), alternating with the sibling RSM symposium in odd years
+- Topics include devices, modeling and simulation, photonics and sensors, MEMS, fabrication, packaging, reliability and nanoelectronics
+- Held in Malaysia, mostly Kuala Lumpur; 2026 edition is hybrid
+- 4 to 5 page papers via EDAS; presented papers are submitted to IEEE Xplore
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-11-22
+  end: 2026-11-24
+  location: Kuala Lumpur, Malaysia (hybrid)
+  url: https://ieeemalaysia-eds.org/icse2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-30
+    label: Initial full paper (page also lists 2026-07-31 and 2026-08-15)
+  - kind: notification
+    date: 2026-09-25
+  - kind: camera_ready
+    date: 2026-10-15
+sources:
+- https://ieeemalaysia-eds.org/icse2026/
+- https://ieeemalaysia-eds.org/icse2026/important-dates/
+- https://ieeemalaysia-eds.org/icse2026/submission-guideline/
+- https://ieeemalaysia-eds.org/conferences-icse-rsm/
+- https://ieeemalaysia-eds.org/icse2024/
+- https://portal.core.edu.au/conf-ranks/?search=ICSE&by=all&source=ICORE2026
+unverified:
+- Important dates page lists three submission dates (31 July, 15 August, 30 August 2026) without saying which are extensions
+- ICSE 2024 (16th, Kuala Lumpur, August 2024) exact days not on the official page; IEEE proceedings metadata gives 19 to 21 August 2024
+- Deadline time zones not stated
+last_verified: 2026-11-07

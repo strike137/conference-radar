@@ -1,0 +1,63 @@
+id: aspocp
+name: ASPOCP
+full_name: Workshop on Answer Set Programming and Other Computing Paradigms
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ASPOCP workshop chairs, held as a workshop of ICLP (Association for Logic Programming)
+organizer_country: [international]
+proceedings: CEUR-WS (joint proceedings of the ICLP workshops and doctoral consortium)
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7, 9, 10]
+links:
+  website: https://sites.google.com/view/aspocp2026
+notes:
+- Workshop on answer set programming and its relation to SAT, SMT, CP, QBF, first-order logic and other paradigms, plus ASP applications and tools
+- Held every year since 2008 as a workshop of ICLP; 2026 was the 19th edition
+- Follows ICLP (Porto 2021, Haifa 2022 at FLoC, London 2023, Dallas 2024, Rende 2025, Lisbon 2026 at FLoC)
+- Regular papers of 9 to 13 pages and short papers of 4 to 5 pages in 1-column CEURART style; short papers may be non-original
+- Papers appear in the joint CEUR-WS proceedings of the ICLP workshops (Vol-4117 for 2025, Vol-4311 for 2026)
+- Selected regular papers are invited to an extended version in Theory and Practice of Logic Programming (TPLP)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-07-18
+  end: 2026-07-18
+  location: Lisbon, Portugal (ICLP 2026 workshop at FLoC 2026)
+  url: https://sites.google.com/view/aspocp2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-01
+    time: "23:59"
+    tz: AoE
+    label: Abstract registration (extended)
+  - kind: submission
+    date: 2026-05-08
+    time: "23:59"
+    tz: AoE
+    label: Submission (extended)
+  - kind: notification
+    date: 2026-05-31
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sites.google.com/view/aspocp2026
+- https://sites.google.com/view/aspocp2026/call-for-papers
+- https://sites.google.com/view/aspocp-2025/
+- https://sites.google.com/view/aspocp-2025/call-for-papers
+- https://sites.google.com/unical.it/aspocp2024
+- https://sites.google.com/unical.it/aspocp2023
+- https://sites.google.com/view/aspocp2022/
+- https://sites.google.com/view/aspocp2021/
+- https://ceur-ws.org/Vol-4311/
+- https://ceur-ws.org/Vol-4117/
+- https://portal.core.edu.au/conf-ranks/?search=ASPOCP&by=all&source=ICORE2026
+unverified:
+- ASPOCP 2027 not announced yet; expected with ICLP 2027
+- CCF absence checked in the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-11-07

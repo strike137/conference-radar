@@ -1,0 +1,74 @@
+id: cmsb
+name: CMSB
+full_name: International Conference on Computational Methods in Systems Biology
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: CMSB Steering Committee
+organizer_country: [international]
+proceedings: Springer LNCS (LNBI subseries)
+archival: true
+indexing: [Scopus, DBLP, Web of Science]
+acceptance_rate: 37% (2026, 17/46)
+typical:
+  deadline_months: [4, 5]
+  conference_months: [7, 9]
+links:
+  website: https://cmsb.sciencesconf.org/
+  dblp: https://dblp.org/db/conf/cmsb/index.html
+notes:
+- Annual conference since 2003 on modelling, simulation, analysis and design of biological systems, with a strong formal methods side
+- Proceedings in Springer Lecture Notes in Bioinformatics (LNCS/LNBI); indexed in Web of Science, Scopus and DBLP
+- Regular papers up to 15 pages and tool papers of 4 to 6 pages in LNCS style; abstract pre-submission one week before the paper deadline
+- Posters (1 to 4 pages) are presented but not included in the proceedings
+- "Acceptance rate: 37% in 2026 (17/46), 54% in 2025 (21/39); mean 42% from 2003 to 2025"
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+- Held in Europe (Konstanz online 2020, Bordeaux 2021, Bucharest 2022, Luxembourg 2023, Pisa 2024, Lyon 2025, Lisbon 2026 at FLoC, Paris 2027)
+- Registration fee about 200 EUR in 2025
+editions:
+- year: 2026
+  label: 24th CMSB
+  start: 2026-07-24
+  end: 2026-07-25
+  location: Lisbon, Portugal (FLoC 2026)
+  url: https://arsr.inesc-id.pt/cmsb2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-03
+    label: Abstract pre-submission, extended
+  - kind: submission
+    date: 2026-04-10
+    label: Paper submission, extended
+  - kind: notification
+    date: 2026-05-02
+  - kind: camera_ready
+    date: 2026-05-13
+  - kind: other
+    date: 2026-06-26
+    tz: AoE
+    label: Poster submission
+- year: 2027
+  label: 25th CMSB
+  start: 2027-09-22
+  end: 2027-09-24
+  location: Paris, France
+  url: https://cmsb.sciencesconf.org/
+sources:
+- https://cmsb.sciencesconf.org/
+- https://cmsb.sciencesconf.org/resource/page/id/1
+- https://cmsb.sciencesconf.org/resource/page/id/2
+- https://cmsb.sciencesconf.org/resource/page/id/4
+- https://arsr.inesc-id.pt/cmsb2026/
+- https://arsr.inesc-id.pt/cmsb2026/submission.html
+- https://cmsb2025.sciencesconf.org/
+- https://cmsb2025.sciencesconf.org/resource/page/id/4
+- https://link.springer.com/book/10.1007/978-3-032-30870-2
+- https://portal.core.edu.au/conf-ranks/?search=CMSB&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- CMSB 2027 call for papers and deadlines not yet published as of 2026-11-07
+- DBLP page not opened (dblp.org blocked automated access)
+last_verified: 2026-11-07

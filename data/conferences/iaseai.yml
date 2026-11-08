@@ -1,0 +1,60 @@
+id: iaseai
+name: IASEAI
+full_name: Conference of the International Association for Safe and Ethical AI
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: International Association for Safe and Ethical AI (IASEAI)
+organizer_country: [international]
+proceedings: Proceedings of IASEAI Conference (AAAI Press, AAAI OJS)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [2]
+links:
+  website: https://www.iaseai.org/
+notes:
+- Annual interdisciplinary conference on AI safety and ethics, covering technical, policy and ethics research
+- First edition at OECD Headquarters in Paris in February 2025; 2026 and 2027 editions at UNESCO House, Paris
+- Proceedings of IASEAI Conference published by AAAI Press on AAAI OJS; IASEAI'26 is Vol. 2 with 57 papers
+- Double-blind review with author response; papers can be archival (in the proceedings) or non-archival (presentation only)
+- Besides papers, there are talk proposals, workshops and (from 2027) a model policy track
+- Attendance is by invitation; the submitting author of an accepted paper is invited to attend and present in person
+- "IASEAI'26 fees: 750 USD for-profit, 525 USD nonprofit, 325 USD student"
+editions:
+- year: 2026
+  start: 2026-02-24
+  end: 2026-02-26
+  location: UNESCO House, Paris, France
+  url: https://www.iaseai.org/our-programs/iaseai26
+- year: 2027
+  start: 2027-02-09
+  end: 2027-02-12
+  location: UNESCO House, Paris, France
+  url: https://www.iaseai.org/our-programs/iaseai27
+  deadlines:
+  - kind: submission
+    date: 2026-10-05
+    tz: AoE
+    label: Papers, workshops and model policy proposals
+  - kind: notification
+    date: 2026-11-20
+  - kind: other
+    date: 2027-01-08
+    label: Talk proposals (rolling)
+sources:
+- https://www.iaseai.org/our-programs/iaseai26
+- https://www.iaseai.org/our-programs/iaseai27
+- https://www.iaseai.org/our-programs/iaseai27-faq
+- https://ojs.aaai.org/index.php/IASEAI/issue/view/741
+- https://docs.google.com/document/d/e/2PACX-1vR_hLJSEv5WZF66P2HPg8zvezNttnaHvuekFJGdam3gYBMJu57ma2iKeXJKl_DHF4oCuJZ7CLc-IE3d/pub
+- https://portal.core.edu.au/conf-ranks/?search=IASEAI&by=all&source=ICORE2026
+unverified:
+- Not listed in ICORE2026 or the CCF 2026 list
+- dblp page could not be checked (dblp blocked automated access)
+- IASEAI'26 acceptance numbers could not be checked (the AAAI OJS issue page blocked automated access)
+- The IASEAI'27 timeline gives 8 January 2027 for talk proposals, while another passage on the same page says 9 January
+last_verified: 2026-11-07

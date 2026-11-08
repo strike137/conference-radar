@@ -1,0 +1,54 @@
+id: mol
+name: MOL
+full_name: Meeting on the Mathematics of Language
+type: conference
+tier: minor
+areas: [nlp]
+region: worldwide
+language: english
+frequency: biennial
+organizer: ACL SIGMOL (Association for Mathematics of Language)
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [4]
+  conference_months: [8]
+links:
+  website: https://wwwhomes.uni-bielefeld.de/mol/
+notes:
+- Biennial meeting of ACL SIGMOL on mathematical structures and methods in linguistics (formal language theory, grammar formalisms, learnability, logic, neural network foundations)
+- Held since 1984 and every two years since 1991, sometimes jointly with Formal Grammar; no meeting between MoL 17 (2021) and MoL 18 (2025)
+- Recent meetings in Stony Brook (2025), online with MALIN in Montpellier (2021), Toronto (2019), London (2017), Chicago (2015)
+- Peer-reviewed papers (up to 12 pages, at least three reviewers) published in the open-access MOL proceedings in the ACL Anthology
+- Small meeting, 13 papers in the 2025 proceedings
+- Not ranked in ICORE2026 and not on the CCF 2026 list
+editions:
+- year: 2025
+  label: MoL 18
+  start: 2025-08-16
+  end: 2025-08-17
+  location: Stony Brook University, Stony Brook, NY, USA
+  url: https://mol2025.molweb.xyz/
+  deadlines:
+  - kind: submission
+    date: 2025-04-20
+    tz: AoE
+    label: Extended from April 4 and April 11
+  - kind: camera_ready
+    date: 2025-07-23
+sources:
+- https://mol2025.molweb.xyz/
+- https://mol2025.molweb.xyz/call-for-papers.html
+- https://mol2025.molweb.xyz/programproceedings.html
+- https://wwwhomes.uni-bielefeld.de/mol/
+- https://wwwhomes.uni-bielefeld.de/mol/meetings.html
+- https://aclanthology.org/venues/mol/
+- https://aclanthology.org/volumes/2025.mol-1/
+- https://portal.core.edu.au/conf-ranks/?search=MOL&by=all&source=ICORE2026
+unverified:
+- MoL 2025 notification date given only as early June
+- No announcement of MoL 19 (2027) found on the SIGMOL site
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

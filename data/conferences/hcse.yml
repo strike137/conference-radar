@@ -1,0 +1,53 @@
+id: hcse
+name: HCSE
+full_name: IFIP WG 13.2 International Working Conference on Human-Centered Software Engineering
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: biennial
+organizer: IFIP WG 13.2 (Methodology for User-Centred System Design)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+acceptance_rate: 15 of 29 submissions (2026, 11 full papers plus 2 demos and 2 posters)
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://hcse-conference.org/
+notes:
+- Small single-track working conference of IFIP Working Group 13.2 on human-centered design as part of software engineering
+- Held every two years; 11th edition in 2026
+- HCSE 2026 was co-located with IEEE VL/HCC 2026 at Paderborn University, Germany
+- Proceedings in Springer LNCS (2026 is LNCS volume 16992)
+- Full papers and late-breaking results reviewed double-blind; also demos, posters and a PhD discussion forum
+- Not ranked by CORE (not found in ICORE2026) and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-30
+  end: 2026-10-01
+  location: Paderborn, Germany (co-located with VL/HCC 2026)
+  url: https://conf.researchr.org/home/hcse-2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    tz: AoE
+  - kind: notification
+    date: 2026-06-26
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-17
+    tz: AoE
+sources:
+- https://hcse-conference.org/
+- https://conf.researchr.org/track/hcse-2026/hcse-2026-papers
+- https://conf.researchr.org/series/hcse
+- https://link.springer.com/book/9783032416261
+- https://portal.core.edu.au/conf-ranks/?search=HCSE&by=all&source=ICORE2026
+unverified:
+- "Region: past editions before 2026 were not checked on an official page; set to europe from the 2026 edition and the IFIP WG 13.2 base"
+- HCSE 2028 not announced yet
+- dblp page not checked (dblp throttled automated access)
+last_verified: 2026-11-07

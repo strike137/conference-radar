@@ -1,0 +1,52 @@
+id: ttc
+name: TTC
+full_name: Transformation Tool Contest
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: TTC organizers and steering committee, within the STAF federation
+organizer_country: [europe]
+proceedings: CEUR-WS (joint STAF workshops proceedings, post-proceedings)
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6, 7]
+links:
+  website: https://conf.researchr.org/home/staf-2026/ttc-2026
+notes:
+- Contest comparing graph, model and program transformation tools on shared case studies; participants submit a solution paper plus the solution itself
+- Long-running series (AGTiVE 2007 session, GraBaTs 2008 and 2009, TTC 2010, 2011 and 2013 onward); part of STAF, held in Rennes in 2026
+- Open peer review round among solution authors right after the submission deadline
+- Revised solution papers and case descriptions appear in formal post-proceedings (CEUR-WS Vol-4122 for 2025); per-case journal articles may follow in SoSyM, JOT or STTT
+- Solutions to older cases are also accepted
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-02
+  end: 2026-07-02
+  location: Rennes, France (with STAF 2026)
+  url: https://conf.researchr.org/home/staf-2026/ttc-2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-03
+    tz: AoE
+    label: Solution submission (extended from 2026-04-14)
+  - kind: notification
+    date: 2026-05-18
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-01
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/staf-2026/ttc-2026
+- https://conf.researchr.org/home/staf-2025/ttc-2025
+- https://conf.researchr.org/home/staf-2027
+- https://ceur-ws.org/Vol-4122/
+- https://portal.core.edu.au/conf-ranks/?search=TTC&by=all&source=ICORE2026
+unverified:
+- TTC 2027 not announced as of 2026-11-07 (STAF 2027 is scheduled for 6-9 July 2027)
+- Proceedings volume for the 2026 edition not yet published
+last_verified: 2026-11-07

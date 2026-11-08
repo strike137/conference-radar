@@ -1,0 +1,67 @@
+id: recpad
+name: RECPAD
+full_name: Portuguese Conference on Pattern Recognition
+name_local: Conferência Portuguesa de Reconhecimento de Padrões
+type: conference
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+frequency: annual
+organizer: APRP (Portuguese Association for Pattern Recognition)
+organizer_country: [europe]
+proceedings: APRP website (PDF of two-page extended abstracts)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [10, 11]
+links:
+  website: https://aprp.pt/recpad/
+notes:
+- Annual one-day national conference of APRP, the Portuguese member society of IAPR, held since 1989
+- Hosted by a different Portuguese university or polytechnic each year (Coimbra 2023, Covilha 2024, Aveiro 2025, Viseu 2026)
+- Submissions are two-page extended abstracts in English; novelty not required; at least two reviewers per paper
+- Mostly poster sessions plus a few oral talks; best paper and best poster awards
+- Proceedings are a PDF of the abstracts on the APRP website, so non-archival
+- Topics cover pattern recognition, image analysis, computer vision, machine learning and related areas; a friendly venue for students in Portugal
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 31st RECPAD
+  start: 2025-10-31
+  end: 2025-10-31
+  location: University of Aveiro, Aveiro, Portugal
+  url: https://sites.google.com/view/recpad2025
+  deadlines:
+  - kind: submission
+    date: 2025-09-15
+    label: Extended from 2025-09-05
+  - kind: notification
+    date: 2025-09-30
+  - kind: camera_ready
+    date: 2025-10-10
+- year: 2026
+  label: 32nd RECPAD
+  start: 2026-10-30
+  end: 2026-10-30
+  location: School of Technology and Management, Polytechnic University of Viseu, Viseu, Portugal
+  url: https://recpad2026.estgv.ipv.pt/
+  deadlines:
+  - kind: submission
+    date: 2026-09-13
+  - kind: notification
+    date: 2026-09-30
+  - kind: camera_ready
+    date: 2026-10-13
+sources:
+- https://aprp.pt/recpad/
+- https://aprp.pt/wp-content/themes/total-child-theme/data/data-recpad.json
+- https://aprp.pt/wp-content/uploads/2026/06/RECPAD2025_Proceedings.pdf
+- https://sites.google.com/view/recpad2025
+- https://sites.google.com/view/recpad2025/c4p-instructions-4-authors
+- https://recpad2026.estgv.ipv.pt/
+- https://portal.core.edu.au/conf-ranks/?search=RECPAD&by=all&source=ICORE2026
+unverified:
+- The APRP page lists the RECPAD 2026 submission deadline as 2026-09-06; the RECPAD 2026 site gives 2026-09-13, which is used here
+- RECPAD 2027 host and dates not announced as of 2026-11-07
+last_verified: 2026-11-07

@@ -1,0 +1,61 @@
+id: bighpc
+name: BigHPC
+full_name: Workshop on Big Data and High-Performance Computing
+type: workshop
+tier: minor
+areas: [systems, data]
+region: europe
+language: english
+frequency: annual
+organizer: Steering committee of Italian HPC researchers (chair Patrizio Dazzi, University of Pisa)
+organizer_country: [europe]
+proceedings: Springer LNCS (Euro-Par workshops volume)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://bighpc2026.di.unipi.it/
+notes:
+- Workshop on HPC for big data and AI workloads, data-intensive parallel computing, storage and I/O, cloud and edge HPC, and quantum-related paradigms
+- 2023 to 2025 editions were special tracks of ITADATA (Italian Conference on Big Data and Data Science) with CEUR-WS papers
+- Moved to Euro-Par in 2026 (4th edition, Pisa); full papers go to the Euro-Par workshops volume of Springer LNCS
+- Full papers and extended abstracts; a late extended abstract deadline with fast-track review; camera-ready only for full papers
+- Held in Italy so far (Naples 2023, Pisa 2024, Turin 2025, Pisa 2026)
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-24
+  location: Pisa, Italy (Euro-Par 2026)
+  url: https://bighpc2026.di.unipi.it/
+  deadlines:
+  - kind: submission
+    date: 2026-05-29
+    tz: AoE
+    label: Full papers (extended from 2026-05-15)
+  - kind: other
+    date: 2026-05-19
+    tz: AoE
+    label: Extended abstracts
+  - kind: other
+    date: 2026-06-19
+    tz: AoE
+    label: Late extended abstracts (fast-track review)
+  - kind: notification
+    date: 2026-06-26
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-10
+    tz: AoE
+sources:
+- https://bighpc2026.di.unipi.it/
+- https://2026.euro-par.org/workshops
+- https://easychair.org/smart-program/Euro-Par2026Workshops/
+- https://www.itadata.it/2025/bighpc2025
+- https://portal.core.edu.au/conf-ranks/?search=BigHPC&by=all&source=ICORE2026
+unverified:
+- The workshop site gives August 24 to 25, 2026 (the Euro-Par workshop days); the Euro-Par workshops program schedules all BigHPC sessions on August 24
+- Euro-Par workshops page gives an updated camera-ready deadline of August 10, 2026 for all workshop papers; the BigHPC site says July 10, 2026
+- BigHPC 2027 not yet announced as of 2026-11-07
+last_verified: 2026-11-07

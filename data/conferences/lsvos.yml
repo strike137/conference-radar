@@ -1,0 +1,61 @@
+id: lsvos
+name: LSVOS
+full_name: Large-scale Video Object Segmentation Workshop and Challenge
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: LSVOS organizing committee (2026 organizers from Fudan University, SUFE, Apple, ByteDance and Meta Reality Labs); co-located with ECCV or ICCV
+organizer_country: [international]
+proceedings: ECCV/ICCV Workshops proceedings (CVF Open Access)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://lsvos.github.io/
+notes:
+- Workshop and challenge on video object segmentation and referring video object segmentation
+- Held with the major computer vision conference of the year (ECCV 2024 Milan, ICCV 2025 Honolulu, ECCV 2026 Malmo)
+- "2026 challenge tracks: MOSEv2, MeViSv2-Text and MeViSv2-Audio, plus the extra MUMU track"
+- Regular papers up to 8 pages in the ECCV/ICCV format, double-blind review on OpenReview; accepted papers are presented as posters
+- Accepted papers go into the official ECCV/ICCV Workshops proceedings and the CVF Open Access archive
+- Separate PVUW workshop (with CVPR) covers related video segmentation challenges
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 8th LSVOS, with ECCV 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo Arena, Malmo, Sweden (with ECCV 2026)
+  url: https://lsvos.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-20
+    time: "23:59"
+    tz: UTC
+    label: Regular papers
+  - kind: other
+    date: 2026-07-27
+    time: "23:59"
+    tz: UTC
+    label: Challenge result submission
+  - kind: notification
+    date: 2026-08-05
+    time: "23:59"
+    tz: UTC
+  - kind: camera_ready
+    date: 2026-08-10
+    time: "23:59"
+    tz: UTC
+sources:
+- https://lsvos.github.io/
+- https://lsvos.github.io/content/2026.md
+- https://lsvos.github.io/content/2025.md
+- https://lsvos.github.io/content/2024.md
+- https://portal.core.edu.au/conf-ranks/?search=LSVOS&by=all&source=ICORE2026
+unverified:
+- Next edition (2027) not announced yet
+last_verified: 2026-11-07

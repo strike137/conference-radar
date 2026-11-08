@@ -1,0 +1,44 @@
+id: acv-ws
+name: ACV
+full_name: Workshop on Abstract and Concrete Techniques in Verification
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+organizer: ACV organizers (Ichiro Hasuo, Bart Jacobs, Joost-Pieter Katoen, Sam Staton)
+organizer_country: [japan, europe]
+proceedings: None (no formal proceedings)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://acv-ws.github.io/2026/
+notes:
+- Workshop bridging abstract semantics (lattice and category theory, coalgebra, string diagrams) and concrete verification algorithms (model checking, theorem proving, probabilistic and quantum verification)
+- First edition in 2026 at FLoC 2026 in Lisbon, affiliated with LICS 2026 and CAV 2026
+- Organized by Ichiro Hasuo (NII Tokyo), Bart Jacobs (Radboud), Joost-Pieter Katoen (RWTH Aachen) and Sam Staton (Oxford)
+- Calls for presentation proposals (typically 1-2 pages); already published work and work under review are welcome
+- No formal proceedings; two-day program of invited and contributed talks
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: 1st ACV
+  start: 2026-07-24
+  end: 2026-07-25
+  location: Lisbon, Portugal (FLoC 2026, affiliated with LICS 2026 and CAV 2026)
+  url: https://acv-ws.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-20
+    tz: AoE
+    label: Presentation proposals (extended from 2026-05-06)
+sources:
+- https://acv-ws.github.io/2026/
+- https://portal.core.edu.au/conf-ranks/?search=ACV&by=all&source=ICORE2026
+unverified:
+- Notification date only given as late May 2026
+- No second edition announced as of 2026-11-07; frequency unknown
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

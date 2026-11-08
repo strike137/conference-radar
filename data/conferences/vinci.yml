@@ -1,0 +1,59 @@
+id: vinci
+name: VINCI
+full_name: International Symposium on Visual Information Communication and Interaction
+type: conference
+tier: minor
+areas: [data, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: VINCI symposium with a rotating host (Hangzhou City University, Zhejiang University and China Graphics Society
+  in 2026)
+organizer_country: [international]
+proceedings: ACM ICPS (ACM DL)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [6, 7]
+  conference_months: [11, 12]
+links:
+  website: https://vinci-symp.org/
+notes:
+- Symposium on visual information communication, information visualization, visual analytics, HCI and visual arts
+- Proceedings in the ACM International Conference Proceeding Series (ICPS); ACM open access APC may apply
+- Tracks for technical papers (full 8 pages, short 4+1, posters 2), art papers, art and media galleries, and a cultural
+  computing special track; double-blind review via CMT
+- Selected papers invited to special issues of Journal of Visualization and Visual Informatics
+- Rotates worldwide (Potsdam 2021, Chur 2022, Guangzhou 2023, Hsinchu 2024, Linz 2025, Hangzhou 2026)
+- ICORE2026 C; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-11-01
+  end: 2026-11-04
+  location: Hangzhou, China
+  url: https://vinci-symp.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-29
+    time: "23:59"
+    tz: AoE
+    label: All tracks (extended from June 12)
+  - kind: notification
+    date: 2026-08-30
+  - kind: other
+    date: 2026-09-15
+    time: "23:59"
+    tz: AoE
+    label: Revised version
+  - kind: notification
+    date: 2026-09-22
+    label: Final notification
+sources:
+- https://vinci-symp.org/
+- https://vinci-symp.org/submissions.html
+- https://vinci-symp.org/technical.html
+- https://portal.core.edu.au/conf-ranks/?search=VINCI&by=all&source=ICORE2026
+unverified:
+- VINCI 2027 not announced yet
+last_verified: 2026-11-07

@@ -1,0 +1,60 @@
+id: iscol
+name: ISCOL
+full_name: Israel Seminar on Computational Linguistics
+type: conference
+tier: minor
+areas: [nlp]
+region: middle-east
+language: english
+frequency: annual
+organizer: Israeli NLP community (hosted by a different Israeli university each year)
+organizer_country: [other]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [12]
+links:
+  website: https://iscol-meeting.github.io/iscol2026/
+notes:
+- Annual meeting of the Israeli NLP and computational linguistics community, established in 1995
+- Non-archival (the FAQ says presented works are not archived); work submitted or published elsewhere is welcome
+- Submissions are 2-page extended abstracts (*ACL format) or full papers from other venues, through OpenReview
+- Light, non-anonymous review by the organizing committee
+- One-day event with oral and poster sessions; registration is required, presentations in English
+- Hosted by Bar-Ilan University in 2025 and the Hebrew University of Jerusalem in 2026
+- Earlier hosts -> University of Haifa (2024), Tel Aviv University (2022), Ben-Gurion University (2021), online (2020)
+- New in 2026 -> a Call for Collaborations track for one-page collaboration pitches
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-12-18
+  end: 2025-12-18
+  location: Ramat Gan, Israel (Bar-Ilan University)
+  url: https://iscol-meeting.github.io/iscol2025
+  deadlines:
+  - kind: submission
+    date: 2025-11-13
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-11-20
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-12-23
+  end: 2026-12-23
+  location: Jerusalem, Israel (Hebrew University of Jerusalem, Mount Scopus campus)
+  url: https://iscol-meeting.github.io/iscol2026/
+  deadlines:
+  - kind: submission
+    date: 2026-11-21
+    time: "23:59"
+    tz: UTC+2
+  - kind: notification
+    date: 2026-11-29
+sources:
+- https://iscol-meeting.github.io/iscol2025
+- https://iscol-meeting.github.io/iscol2026/
+- https://portal.core.edu.au/conf-ranks/?search=ISCOL&by=all&source=ICORE2026
+last_verified: 2026-11-07

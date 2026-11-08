@@ -1,0 +1,61 @@
+id: synthir
+name: SynthIR
+full_name: Workshop on Synthetic Content in Information Retrieval Ecosystems
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+organizer: Workshop organizers (Ping Liu, University of Nevada; Zhedong Zheng, University of Macau; J. Shane Culpepper, University of Queensland; Xin Yu, Adelaide University)
+organizer_country: [international]
+proceedings: Workshop website (accepted papers posted as PDFs)
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7]
+links:
+  website: https://www.zdzheng.xyz/SIGIR2026Workshop-SynthIR
+notes:
+- Workshop on AI-generated content in retrieval ecosystems (evaluation validity, provenance and attribution, trust signals, user interaction)
+- First edition co-located with ACM SIGIR 2026 in Melbourne, Australia (half-day workshop on July 24, 2026)
+- Papers up to 4 pages plus references in the ACM sigconf format, anonymous submission via OpenReview
+- Runs micro shared tasks and the SEED competition on provenance tracing in sequential deepfake facial edits (Codabench)
+- Accepted papers are posted as PDFs on the workshop website; 8 papers in the 2026 program
+- Only one edition so far
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-24
+  end: 2026-07-24
+  location: Melbourne, Australia (co-located with SIGIR 2026)
+  url: https://www.zdzheng.xyz/SIGIR2026Workshop-SynthIR
+  deadlines:
+  - kind: other
+    date: 2026-05-21
+    time: "23:59"
+    tz: AoE
+    label: Competition deadline
+  - kind: submission
+    date: 2026-06-06
+    time: "23:59"
+    tz: AoE
+    label: Extended from May 30, 2026
+  - kind: notification
+    date: 2026-06-29
+    time: "23:59"
+    tz: AoE
+    label: Revised from June 22, 2026
+  - kind: camera_ready
+    date: 2026-07-04
+    time: "23:59"
+    tz: AoE
+    label: Revised from June 29, 2026
+sources:
+- https://www.zdzheng.xyz/SIGIR2026Workshop-SynthIR
+- https://openreview.net/group?id=ACM.org/SIGIR/2026/Workshop/SynthIR
+- https://sigir2026.org/en-AU/pages/program/accepted-workshops
+- https://portal.core.edu.au/conf-ranks/?search=SynthIR&by=all&source=ICORE2026
+unverified:
+- The workshop site does not state whether papers are archival; accepted papers are only posted on the website
+- No 2027 edition announced as of 2026-11-07
+last_verified: 2026-11-07

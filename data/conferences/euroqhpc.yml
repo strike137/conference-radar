@@ -1,0 +1,53 @@
+id: euroqhpc
+name: EuroQHPC
+full_name: International European Workshop on Quantum Computing for High-Performance Computing
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop chairs from CESGA, Universidade da Coruna and Universidade de Santiago de Compostela (Spain)
+organizer_country: [europe]
+proceedings: Springer LNCS (Euro-Par workshops volume)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://www.euroqhpc.eu/home
+notes:
+- Workshop on integrating quantum computers into HPC, hybrid quantum-classical software, parallel and distributed quantum computing, QEC and quantum networks
+- 2nd edition in 2026, co-located with Euro-Par 2026 in Pisa
+- Full papers of 10 to 12 pages (LNCS) go to the Euro-Par workshops volume of Springer LNCS; shorter papers can be accepted as short papers but are not published
+- At least 3 blind reviews per paper; at least one author must register and present in person
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-25
+  end: 2026-08-25
+  location: Pisa, Italy (Euro-Par 2026)
+  url: https://www.euroqhpc.eu/home
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    label: Extended from 2026-05-15
+  - kind: notification
+    date: 2026-06-12
+  - kind: camera_ready
+    date: 2026-07-10
+sources:
+- https://www.euroqhpc.eu/home
+- https://www.euroqhpc.eu/submission
+- https://www.euroqhpc.eu/program
+- https://www.euroqhpc.eu/committee
+- https://2026.euro-par.org/workshops
+- https://easychair.org/smart-program/Euro-Par2026Workshops/
+- https://portal.core.edu.au/conf-ranks/?search=EuroQHPC&by=all&source=ICORE2026
+unverified:
+- The home page gives August 24 to 25, 2026; the workshop program and the Euro-Par workshops program place it on August 25
+- Venue and date of the 1st edition not found on the official site
+- Deadline time zone not stated on the submission page
+- Euro-Par workshops page gives an updated camera-ready deadline of August 10, 2026 for all workshop papers
+- EuroQHPC 2027 not yet announced as of 2026-11-07
+last_verified: 2026-11-07

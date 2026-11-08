@@ -1,0 +1,67 @@
+id: rcra
+name: RCRA
+full_name: International Workshop on Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: AI*IA working group on Knowledge Representation and Automated Reasoning (RCRA)
+organizer_country: [europe]
+proceedings: CEUR Workshop Proceedings (accepted original papers, upon author confirmation)
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7, 9]
+links:
+  website: https://rcra2026.github.io
+notes:
+- Annual workshop of the Italian AI*IA RCRA group since 1994 (33rd edition in 2026)
+- Experimental evaluation of AI algorithms for SAT, constraints, planning, scheduling, answer set programming, model checking and combinatorial optimization
+- Co-located with a host event each year (AI*IA 2023 Rome, AI*IA 2024 Bolzano, ICLP 2025 Rende, FLoC 2026 Lisbon)
+- Accepts original and non-original papers; only original papers go to CEUR-WS, sometimes with a journal special issue
+- Full papers up to 15 pages, short papers up to 8 pages, CEUR single-column format
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-12
+  end: 2025-09-13
+  location: Rende, Italy (with ICLP 2025)
+  url: https://rcra2025.wordpress.com/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-30
+    label: Abstract submission (extended from 2025-06-20)
+  - kind: submission
+    date: 2025-06-30
+    label: Paper submission (extended from 2025-06-23)
+  - kind: notification
+    date: 2025-07-20
+  - kind: camera_ready
+    date: 2025-08-31
+- year: 2026
+  start: 2026-07-18
+  end: 2026-07-18
+  location: Lisbon, Portugal (with FLoC 2026)
+  url: https://rcra2026.github.io
+  deadlines:
+  - kind: abstract
+    date: 2026-05-12
+  - kind: submission
+    date: 2026-05-15
+    label: Paper submission (extended from 2026-04-24)
+  - kind: notification
+    date: 2026-05-29
+    label: Notification (moved from 2026-05-20)
+  - kind: camera_ready
+    date: 2026-07-01
+sources:
+- https://rcra2026.github.io
+- https://rcra2025.wordpress.com/
+- https://www.floc26.org/
+- https://portal.core.edu.au/conf-ranks/?search=RCRA&by=all&source=ICORE2026
+unverified:
+- Deadline time zone not stated
+- RCRA 2027 not announced yet (as of 2026-11-07)
+last_verified: 2026-11-07

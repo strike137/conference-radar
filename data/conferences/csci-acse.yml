@@ -1,0 +1,56 @@
+id: csci-acse
+name: CSCI
+full_name: International Conference on Computational Science and Computational Intelligence
+type: conference
+tier: minor
+areas: [general, ai, data]
+region: north-america
+language: english
+frequency: annual
+organizer: American Council on Science and Education (ACSE)
+organizer_country: [usa]
+proceedings: Springer CCIS
+archival: true
+indexing: [Scopus, DBLP, EI]
+typical:
+  deadline_months: [10, 11]
+  conference_months: [12]
+links:
+  website: https://www.american-cse.org/csci2026/
+notes:
+- Large multi-track congress run by the American Council on Science and Education; steering committee co-chaired by Hamid R. Arabnia
+- Held every December in Las Vegas (Luxor Hotel); sister event of the CSCE congress
+- Proceedings by Springer Nature since 2024 (Springer CCIS, 8 volumes, in 2025), published after the event; IEEE Xplore proceedings from 2014 to 2023
+- Rolling review with a decision about seven days after submission; deadlines are extended repeatedly
+- Very large event with rolling decisions, widely regarded as low tier
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-03
+  end: 2025-12-05
+  location: Luxor Hotel, Las Vegas, USA
+  url: https://www.american-cse.org/csci2025/
+  deadlines:
+  - kind: submission
+    date: 2025-10-26
+    label: Late breaking papers (extended)
+- year: 2026
+  start: 2026-12-16
+  end: 2026-12-18
+  location: Luxor Hotel, Las Vegas, USA
+  url: https://www.american-cse.org/csci2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-11-14
+    label: Extended deadline; notification about 7 days after submission
+sources:
+- https://www.american-cse.org/csci2026/
+- https://www.american-cse.org/csci2026/deadlines
+- https://www.american-cse.org/csci2026/publisher
+- https://www.american-cse.org/csci2025/
+- https://portal.core.edu.au/conf-ranks/?search=CSCI&by=all&source=ICORE2026
+unverified:
+- Indexing (Scopus, DBLP, EI) as claimed by the organizer, not checked in the databases
+- The 2026 site names Springer Nature as publisher; the CCIS series is confirmed for 2025, not yet for 2026
+last_verified: 2026-11-07

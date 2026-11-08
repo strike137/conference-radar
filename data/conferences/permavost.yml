@@ -1,0 +1,52 @@
+id: permavost
+name: PERMAVOST
+full_name: Workshop on Performance EngineeRing, Modelling, Analysis, and VisualizatiOn STrategy
+type: workshop
+tier: minor
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: PERMAVOST organizers (NHR@FAU, Johannes Gutenberg University Mainz, University of Goettingen, University of Chicago), held with ACM HPDC
+organizer_country: [europe, usa]
+proceedings: ACM DL (HPDC workshop proceedings, open access)
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6, 7]
+links:
+  website: https://permavost.github.io/
+notes:
+- Half-day workshop on HPC performance analysis, modelling, tools and visualization, bridging tool developers and application users
+- Held with ACM HPDC every year since 2021, so it follows HPDC between the USA and Europe (Pisa 2024, Notre Dame 2025, Cleveland 2026)
+- Full papers 5 to 8 pages in ACM sigconf format, single-blind review with at least three reviews, submitted via HotCRP
+- Accepted papers published open access in the ACM Digital Library with no extra fee
+- Deadlines are usually extended by one to four weeks
+- Program has a keynote, an invited talk and a few paper presentations (three papers in 2026)
+- Not listed in CORE ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-13
+  location: Cleveland, OH, USA (with ACM HPDC 2026, Case Western Reserve University)
+  url: https://permavost.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-04-13
+    tz: AoE
+    label: Papers (extended from 2026-04-03)
+  - kind: notification
+    date: 2026-05-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-16
+    tz: AoE
+sources:
+- https://permavost.github.io/
+- https://permavost.github.io/2025.html
+- https://permavost.github.io/2024.html
+- https://permavost.github.io/2021.html
+- https://portal.core.edu.au/conf-ranks/?search=PERMAVOST&by=all&source=ICORE2026
+unverified:
+- PERMAVOST 2027 not announced yet
+last_verified: 2026-11-07

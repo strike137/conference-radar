@@ -1,0 +1,57 @@
+id: vhpc
+name: VHPC
+full_name: Workshop on Virtualization in High-Performance Cloud Computing
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: VHPC chairs (Michael Alexander, Austrian Academy of Sciences; Anastassios Nanos, Nubificus Ltd.)
+organizer_country: [europe]
+proceedings: Springer LNCS (Euro-Par workshops volume)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://vhpc.org/
+notes:
+- Long-running workshop on virtualization, containers, unikernels and resource isolation for HPC, cloud and AI infrastructures
+- 21st edition in 2026; retitled "Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI" on its 2026 site
+- Co-located with Euro-Par (Madrid 2024, Dresden 2025, Pisa 2026), so held in Europe
+- Accepted papers go to the Euro-Par workshops volume of Springer LNCS; LNCS format up to 12 pages, short or work-in-progress papers up to 6 pages
+- Single-blind review by at least two PC members; the 2026 site expected about 20 submissions and 6 accepted papers
+- Submission through EDAS; non-paper lightning talks (5 minutes) are also offered
+- 2026 sessions were shared with GraphSys on August 24
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-24
+  location: Pisa, Italy (Euro-Par 2026)
+  url: https://vhpc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-26
+    time: "23:59"
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2026-06-12
+  - kind: camera_ready
+    date: 2026-08-10
+    label: Updated Euro-Par workshops deadline
+sources:
+- https://vhpc.org/
+- https://2026.euro-par.org/workshops
+- https://easychair.org/smart-program/Euro-Par2026Workshops/
+- https://2025.euro-par.org/workshops/
+- https://2024.euro-par.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=VHPC&by=all&source=ICORE2026
+unverified:
+- The VHPC site gives August 24 to 25, 2026 (the Euro-Par workshop days); the Euro-Par workshops program schedules all VHPC sessions on August 24
+- The VHPC site renders as a WebAssembly canvas; dates were read from its embedded text
+- Camera-ready date is the updated Euro-Par deadline for all workshop papers (August 10, 2026); the VHPC site still says July 10, 2026
+- VHPC 2027 not yet announced as of 2026-11-07
+last_verified: 2026-11-07

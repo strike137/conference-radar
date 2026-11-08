@@ -1,0 +1,76 @@
+id: cveu
+name: CVEU
+full_name: Workshop on AI for Creative Visual Content Generation, Editing and Understanding
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Organizing team led by HKUST (Anyi Rao) with Adobe, Google and others
+organizer_country: [international]
+proceedings: CVF Open Access and IEEE Xplore (CVPR Workshops); ACM (SIGGRAPH Asia proceedings) for SIGGRAPH Asia editions
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6, 12]
+links:
+  website: https://cveu.github.io/
+notes:
+- Workshop on generative AI for visual content creation, editing and understanding (film, video, storytelling)
+- Held with ICCV 2021, ECCV 2022, ICCV 2023, CVPR 2024, CVPR 2025 and CVPR 2026, plus courses at SIGGRAPH
+- In-proceedings track (8 pages, double-blind, CVPR template) goes into the CVPR workshop proceedings; extended
+  abstract track (4 pages) is non-archival
+- 17 papers on CVF Open Access for CVPR 2026, 15 for CVPR 2025
+- SIGGRAPH Asia 2026 edition runs as AI Film Frontiers (AIFF), a film challenge with 3-page technical reports
+  published in the SIGGRAPH Asia 2026 proceedings
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: CVEU at CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA
+  url: https://cveu.github.io/event/cvpr2026.html
+  deadlines:
+  - kind: abstract
+    date: 2026-03-16
+    time: "23:59"
+    tz: UTC
+  - kind: submission
+    date: 2026-03-17
+    time: "23:59"
+    tz: UTC
+    label: In-proceedings track
+  - kind: notification
+    date: 2026-03-24
+    time: "23:59"
+    tz: UTC
+  - kind: camera_ready
+    date: 2026-04-09
+- year: 2026
+  label: AI Film Frontiers (CVEU) at SIGGRAPH Asia 2026
+  start: 2026-12-02
+  end: 2026-12-04
+  location: Kuala Lumpur, Malaysia (KLCC)
+  url: https://cveu.github.io/event/siga2026.html
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-08-23
+    label: Film and technical report
+  - kind: notification
+    date: 2026-09-13
+  - kind: camera_ready
+    date: 2026-09-23
+sources:
+- https://cveu.github.io/
+- https://cveu.github.io/event/cvpr2026.html
+- https://cveu.github.io/event/cvpr2025.html
+- https://cveu.github.io/event/siga2026.html
+- https://openaccess.thecvf.com/CVPR2026_workshops/CVEU
+- https://openaccess.thecvf.com/CVPR2025_workshops/CVEU
+- https://portal.core.edu.au/conf-ranks/?search=CVEU&by=all&source=ICORE2026
+unverified:
+- Exact workshop day at SIGGRAPH Asia 2026 not announced; the site gives December 2 to 4, 2026 for presentations
+last_verified: 2026-11-07

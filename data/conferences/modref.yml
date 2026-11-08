@@ -1,0 +1,50 @@
+id: modref
+name: ModRef
+full_name: International Workshop on Constraint Modelling and Reformulation
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ModRef workshop chairs, held with the CP conference (Association for Constraint Programming)
+organizer_country: [international]
+proceedings: Workshop website (informal online proceedings)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7, 8, 9]
+links:
+  website: https://archive.modref.org/
+notes:
+- One-day workshop on constraint modelling, model reformulation, modelling languages and automated modelling for CP, MIP, SAT and SMT solvers
+- Held every year alongside the CP conference since 2002; 2026 was the 25th edition
+- Follows CP around the world (Montpellier 2021 virtual, Haifa 2022, Toronto 2023, Girona 2024, Glasgow 2025, Lisbon 2026)
+- Extended abstracts (2 pages), short papers (8 pages) and long papers (15 pages) in LIPIcs style; submissions need not be anonymised
+- Accepted papers appear in workshop proceedings on the workshop website only, so it is non-archival
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-07-19
+  end: 2026-07-19
+  location: Lisbon, Portugal (with CP 2026 at FLoC 2026)
+  url: https://2026.modref.org/mainpage.html
+  deadlines:
+  - kind: abstract
+    date: 2026-05-11
+    label: Abstract submission (extended)
+  - kind: submission
+    date: 2026-05-15
+  - kind: notification
+    date: 2026-05-25
+  - kind: camera_ready
+    date: 2026-07-05
+sources:
+- https://2026.modref.org/mainpage.html
+- https://archive.modref.org/
+- https://portal.core.edu.au/conf-ranks/?search=ModRef&by=all&source=ICORE2026
+unverified:
+- ModRef 2027 not announced yet; expected with CP 2027
+- Time zone of the 2026 deadlines not stated on the site
+- CCF absence checked in the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
+last_verified: 2026-11-07

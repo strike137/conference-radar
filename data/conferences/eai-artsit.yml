@@ -1,0 +1,81 @@
+id: eai-artsit
+name: ArtsIT
+full_name: "EAI International Conference: ArtsIT, Interactivity & Game Creation"
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: EAI (European Alliance for Innovation)
+organizer_country: [europe]
+proceedings: Springer LNICST
+archival: true
+indexing: [Scopus, DBLP, Web of Science]
+rank:
+  core: C
+typical:
+  deadline_months: [7]
+  conference_months: [11, 12]
+links:
+  website: https://artsit.eai-conferences.org/2026/
+notes:
+- EAI conference on arts and technology, interactivity and game creation (formerly International Conference on Arts and Technology)
+- Steering committee chaired by Anthony L. Brooks (Aalborg University); 15th edition in 2026
+- Proceedings in Springer LNICST; extended papers can go to EAI Endorsed Transactions on Creative Technologies
+- Several tracks with their own deadlines (main, late, last, posters and demos, special tracks)
+- Hybrid conference with online presentation for remote authors
+- Location rotates (Faro 2022, Campinas 2023, Abu Dhabi 2024, Dubai 2025, Bratislava 2026)
+- CORE C (ICORE2026); not on the CCF list
+editions:
+- year: 2025
+  start: 2025-11-07
+  end: 2025-11-09
+  location: Dubai, UAE (Heriot-Watt University Dubai, hybrid)
+  url: https://artsit.eai-conferences.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-01
+    label: Main track
+  - kind: notification
+    date: 2025-08-25
+    label: Main track
+  - kind: camera_ready
+    date: 2025-10-24
+- year: 2026
+  start: 2026-12-02
+  end: 2026-12-04
+  location: Bratislava, Slovakia (hybrid)
+  url: https://artsit.eai-conferences.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    time: "23:59"
+    tz: UTC
+    label: Main track
+  - kind: submission
+    date: 2026-08-01
+    time: "23:59"
+    tz: UTC
+    label: Late track
+  - kind: submission
+    date: 2026-09-01
+    time: "23:59"
+    tz: UTC
+    label: Last track
+  - kind: notification
+    date: 2026-09-01
+    label: Main track
+  - kind: notification
+    date: 2026-10-08
+    label: Late and last tracks (extended)
+  - kind: camera_ready
+    date: 2026-11-01
+sources:
+- https://artsit.eai-conferences.org/2026/
+- https://artsit.eai-conferences.org/2026/call-for-papers/
+- https://artsit.eai-conferences.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=ArtsIT&by=all&source=ICORE2026
+unverified:
+- dblp page not checked (dblp throttled automated access)
+last_verified: 2026-11-07

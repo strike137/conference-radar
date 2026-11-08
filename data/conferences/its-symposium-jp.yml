@@ -1,0 +1,65 @@
+id: its-symposium-jp
+name: ITS Symposium
+full_name: ITS Japan ITS Symposium
+name_local: ITSシンポジウム
+type: conference
+tier: domestic
+areas: [systems, ai, communications]
+region: japan
+language: japanese
+frequency: annual
+organizer: ITS Japan
+organizer_country: [japan]
+proceedings: None (participants only)
+archival: false
+typical:
+  deadline_months: [5, 7]
+  conference_months: [11, 12]
+links:
+  website: https://www.its-jp.org/katsudou/its_symposium/
+notes:
+- Annual Japanese symposium on intelligent transport systems run by ITS Japan since 2002, spanning engineering
+  (civil, mechanical, electrical, information) and social sciences
+- Co-sponsored by IPSJ, IEICE, IEEJ, SICE, JSAI, JSAE, JSCE and others, including the IPSJ and IEICE ITS SIGs
+- Two tracks; peer-reviewed full papers submitted to a journal (preprints shown at the symposium) and non-reviewed
+  abstracts followed by full papers of up to 6 pages
+- Papers are posted on a participants-only website; full texts later go to an ITS Japan members-only page
+- Presentations are 30-second shotgun talks plus posters; Japanese or English
+- "Fee: 8,000 JPY student presenter, 15,000 JPY general presenter (2026)"
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-17
+  end: 2025-12-18
+  location: Hiroshima International Conference Center, Hiroshima, Japan
+  url: https://www.its-jp.org/katsudou/its_symposium/23th2025/
+- year: 2026
+  start: 2026-11-12
+  end: 2026-11-13
+  location: Sapporo Education and Culture Hall, Sapporo, Japan
+  url: https://www.its-jp.org/katsudou/its_symposium/24th2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    label: Peer-reviewed full papers (journal track)
+  - kind: submission
+    date: 2026-07-21
+    label: Non-reviewed abstracts
+  - kind: camera_ready
+    date: 2026-10-05
+- year: 2027
+  start: 2027-11-25
+  end: 2027-11-26
+  location: Kurume City Plaza, Kurume, Fukuoka, Japan
+  url: https://www.its-jp.org/katsudou/its_symposium/
+sources:
+- https://www.its-jp.org/katsudou/its_symposium/
+- https://www.its-jp.org/katsudou/its_symposium/24th2026/
+- https://www.its-jp.org/katsudou/its_symposium/24th2026/speakerguide/
+- https://www.its-jp.org/katsudou/its_symposium/24th2026/registration/
+- https://www.its-jp.org/katsudou/its_symposium/23th2025/
+- https://portal.core.edu.au/conf-ranks/?search=ITS&by=all&source=ICORE2026
+unverified:
+- The journal that publishes peer-reviewed track papers is not named on the official pages
+- 2027 deadlines not announced as of 2026-11-07
+last_verified: 2026-11-07

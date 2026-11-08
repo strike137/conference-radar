@@ -1,0 +1,71 @@
+id: spm
+name: SPM
+full_name: Symposium on Solid and Physical Modeling
+type: conference
+tier: major
+areas: [vision, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: Solid Modeling Association (SMA), with a rotating local host
+organizer_country: [international]
+proceedings: Computer-Aided Design (Elsevier)
+archival: true
+rank:
+  core: C
+  ccf: B
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://spmconf2026.github.io/
+  dblp: https://dblp.org/db/conf/sma/
+notes:
+- Annual symposium on geometric and physical modeling (solid modeling, CAD, computational fabrication, simulation), held
+  with the support of the Solid Modeling Association
+- Accepted full papers are published in the journal Computer-Aided Design (Elsevier) after a two-stage double-blind review
+- Poster track with a separate, later deadline
+- The Pierre Bezier Prize of the Solid Modeling Association is presented at the symposium
+- Held jointly with SMI in Istanbul in 2026; 2027 edition is part of the International Geometry Summit in Singapore
+- ICORE2026 C (listed as ACM Symposium on Solid and Physical Modelling); CCF B (computer graphics and multimedia)
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-09
+  location: Istanbul, Turkey (Istanbul Technical University, joint with SMI 2026)
+  url: https://spmconf2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-08
+    label: Extended from January 25
+  - kind: submission
+    date: 2026-02-15
+    label: Extended from February 1
+  - kind: other
+    date: 2026-03-29
+    label: Poster submission
+  - kind: notification
+    date: 2026-04-03
+    label: First review round
+  - kind: other
+    date: 2026-05-01
+    label: Revised papers
+  - kind: notification
+    date: 2026-05-19
+    label: Final notification
+  - kind: camera_ready
+    date: 2026-06-02
+- year: 2027
+  location: Singapore (International Geometry Summit 2027, Suntec Singapore Convention and Exhibition Centre)
+  url: https://igs2027singapore.github.io/
+sources:
+- https://spmconf2026.github.io/
+- https://spmconf2026.github.io/cfp.html
+- https://smiconf.github.io/2027/
+- https://igs2027singapore.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=SPM&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- SPM 2027 exact days within IGS 2027 (June 21 to 25, 2027) and deadlines not yet published; no SPM 2027 website or call for papers yet
+- CCF rank checked in a mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-11-07

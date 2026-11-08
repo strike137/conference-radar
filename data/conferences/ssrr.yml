@@ -1,0 +1,51 @@
+id: ssrr
+name: IEEE SSRR
+full_name: IEEE International Symposium on Safety, Security, and Rescue Robotics
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Robotics and Automation Society (RAS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://www.ssrr-ieee.org/
+  dblp: https://dblp.org/db/conf/ssrr/index.html
+notes:
+- IEEE RAS symposium on field robotics for public safety, security, emergency response and disaster relief, established in 2002
+- Single track; full papers of up to 8 pages including references, published by the IEEE in IEEE Xplore
+- Papers must be motivated by real end-user needs; general robot safety is out of scope
+- Hands-on and community oriented; usually includes field tours of training facilities or exercises
+- Location rotates worldwide (Galway 2025, New York City 2024, Fukushima 2023, Sevilla 2022, Incheon 2026)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-11-02
+  end: 2026-11-04
+  location: Incheon, Korea (Inha University Songdo Aerospace Convergence Campus)
+  url: https://www.ssrr-ieee.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    label: Full paper (extended from June 19)
+  - kind: notification
+    date: 2026-09-06
+  - kind: camera_ready
+    date: 2026-10-15
+sources:
+- https://www.ssrr-ieee.org/
+- https://www.ssrr-ieee.org/contribute
+- https://www.ssrr-ieee.org/importantdates
+- https://www.ssrr-ieee.org/about
+- https://www.ssrr-ieee.org/venue-and-travel
+- https://www.ssrr-ieee.org/progr
+- https://portal.core.edu.au/conf-ranks/?search=SSRR&by=all&source=ICORE2026
+unverified:
+- 2027 edition not yet announced on the official site
+last_verified: 2026-11-07

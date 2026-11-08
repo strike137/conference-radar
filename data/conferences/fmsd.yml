@@ -1,0 +1,77 @@
+id: fmsd
+name: FMSD
+full_name: ICML Workshop on Foundation Models for Structured Data
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: FMSD workshop organizers (Prior Labs, Amazon Web Services and others); co-located with ICML
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers on OpenReview and the workshop site)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://icml-structured-fm-workshop.github.io/
+notes:
+- ICML workshop on foundation models for tabular and time-series data (classification, regression, forecasting, structured generation)
+- Held with ICML 2025 (Vancouver, first edition, 99 submissions) and ICML 2026 (Seoul, second edition)
+- Non-archival, the CFP states there are no formally published proceedings; accepted papers appear on OpenReview and the workshop site
+- Short papers up to 4 pages in the ICML template, double-blind review on OpenReview, no rebuttal
+- Papers accepted at the ICML main conference may not be submitted
+- 2026 edition added industry spotlight talks
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  label: FMSD with ICML 2025
+  start: 2025-07-18
+  end: 2025-07-18
+  location: Vancouver, Canada
+  url: https://icml-structured-fm-workshop.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-23
+    time: "23:59"
+    tz: AoE
+    label: Extended from May 19
+  - kind: notification
+    date: 2025-06-09
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-02
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  label: FMSD with ICML 2026
+  start: 2026-07-11
+  end: 2026-07-11
+  location: Seoul, South Korea (COEX)
+  url: https://icml-structured-fm-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-08
+    time: "23:59"
+    tz: AoE
+    label: Extended from May 1
+  - kind: notification
+    date: 2026-05-24
+    tz: AoE
+    label: Moved from May 22
+  - kind: camera_ready
+    date: 2026-06-29
+    time: "23:59"
+    tz: AoE
+sources:
+- https://icml-structured-fm-workshop.github.io/
+- https://icml-structured-fm-workshop.github.io/call-for-papers/
+- https://icml-structured-fm-workshop.github.io/organizers/
+- https://icml-structured-fm-workshop.github.io/2025/
+- https://icml-structured-fm-workshop.github.io/2025/call-for-papers/
+- https://icml.cc/virtual/2026/workshop/54066
+- https://portal.core.edu.au/conf-ranks/?search=FMSD&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced yet
+last_verified: 2026-11-07

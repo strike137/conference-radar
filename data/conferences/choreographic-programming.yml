@@ -1,0 +1,45 @@
+id: choreographic-programming
+name: CP
+full_name: Workshop on Choreographic Programming
+type: workshop
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: irregular
+organizer: CP organizers (Tallinn University of Technology, University at Buffalo, University of Southern Denmark), co-located with ACM SIGPLAN PLDI
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://pldi26.sigplan.org/home/cp-2026
+notes:
+- One-day workshop on choreographic programming, i.e. languages, types, runtimes and verification for coordination plans of concurrent and distributed systems
+- Held with PLDI in 2024 (Copenhagen) and 2026 (Boulder); the PLDI series page lists no 2025 edition
+- Talk proposals as extended abstracts of up to 6 pages in ACM format, lightweight double-blind review
+- No formal published proceedings, so work in progress and already published work are welcome
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-16
+  end: 2026-06-16
+  location: Boulder, Colorado, USA (with PLDI 2026)
+  url: https://pldi26.sigplan.org/home/cp-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-30
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-05-01
+    tz: AoE
+sources:
+- https://pldi26.sigplan.org/home/cp-2026
+- https://pldi26.sigplan.org/series/cp
+- https://portal.core.edu.au/conf-ranks/?search=Choreographic&by=all&source=ICORE2026
+unverified:
+- CP 2027 not yet announced (not on the PLDI 2027 site)
+last_verified: 2026-11-07

@@ -1,0 +1,60 @@
+id: nlp4re
+name: NLP4RE
+full_name: Workshop on Natural Language Processing for Requirements Engineering
+type: workshop
+tier: minor
+areas: [nlp, software]
+region: europe
+language: english
+frequency: annual
+organizer: NLP4RE workshop organizers (co-located with REFSQ)
+organizer_country: [europe]
+proceedings: CEUR-WS (Joint Proceedings of REFSQ Co-Located Events)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [3, 4]
+links:
+  website: https://nlp4re.github.io/2026/
+notes:
+- Full-day workshop co-located with REFSQ; 9th edition in 2026 (Poznan), 10th planned for REFSQ 2027 (Basel)
+- Papers appear in the joint CEUR-WS volume of the REFSQ co-located events (2026 -> Vol-4208)
+- Technical papers of 8 pages plus 2 pages of references, CEUR-ART single-column format
+- Also accepts tool papers, report papers on a team's research, and summaries of papers already published at RE, ICSE or REFSQ (the latter not in the proceedings)
+- Each submission gets three reviews
+- Not listed in ICORE2026 and not on the CCF list (REFSQ itself is CORE B, CCF C)
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-23
+  location: Poznan, Poland (co-located with REFSQ 2026)
+  url: https://nlp4re.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-22
+    tz: AoE
+    label: Extended from 2026-01-15
+  - kind: notification
+    date: 2026-02-14
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-21
+    tz: AoE
+- year: 2027
+  start: 2027-04-12
+  end: 2027-04-12
+  location: Basel, Switzerland (co-located with REFSQ 2027)
+  url: https://nlp4re.github.io/2027/
+  status: tentative
+sources:
+- https://nlp4re.github.io/2026/
+- https://nlp4re.github.io/2027/
+- https://ceur-ws.org/Vol-4208/
+- https://2026.refsq.org/
+- https://2027.refsq.org/
+- https://ceur-ws.org/
+- https://portal.core.edu.au/conf-ranks/?search=NLP4RE&by=all&source=ICORE2026
+unverified:
+- NLP4RE 2027 is announced as planned for April 12, 2027 with REFSQ 2027; deadlines not yet published
+- dblp page not checked
+last_verified: 2026-11-07

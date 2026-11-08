@@ -1,0 +1,44 @@
+id: chainsec
+name: ChainSEC
+full_name: Workshop on Software Supply Chain Security
+type: workshop
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ChainSEC organizers (KTH, University of Calgary, Malardalen University, Endor Labs, NC State University), co-located with ICSE
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [4]
+links:
+  website: https://chain-sec.github.io/
+notes:
+- New ICSE workshop on software supply chain security (provenance, SBOMs, reproducible builds, malicious packages, AI supply chains); 1st edition at ICSE 2027 in Dublin
+- Non-archival and discussion-oriented, with no formal proceedings; work under submission elsewhere is welcome
+- "Tracks: talk proposals up to 2 pages, poster proposals and lightning-talk proposals of 1 page, IEEEtran format"
+- Single-blind review by at least two PC members; submission via HotCRP
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2027
+  start: 2027-04-25
+  end: 2027-04-25
+  location: Dublin, Ireland (co-located with ICSE 2027)
+  url: https://chain-sec.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-12-11
+    tz: AoE
+sources:
+- https://chain-sec.github.io/
+- https://conf.researchr.org/home/icse-2027/chainsec-2027
+- https://conf.researchr.org/track/icse-2027/icse-2027-workshops
+- https://portal.core.edu.au/conf-ranks/?search=ChainSEC&by=all&source=ICORE2026
+last_verified: 2026-11-07

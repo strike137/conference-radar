@@ -1,0 +1,58 @@
+id: causalml-kdd
+name: CausalML@KDD
+full_name: KDD Workshop on Causal Inference and Machine Learning in Practice
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee co-located with ACM SIGKDD; 2025 main contacts Jing Pan (Snap) and Zeyu Zheng (UC Berkeley)
+organizer_country: [usa]
+proceedings: Workshop website (accepted papers posted as PDFs)
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8]
+links:
+  website: https://causal-machine-learning.github.io/kdd2025-workshop/
+notes:
+- Half-day KDD workshop on applying causal inference with machine learning in industry; organizers are mostly from industry (Snap, Amazon, Instacart, Uber, Roblox) plus UC Berkeley and UW
+- Held with KDD 2023 (Long Beach), KDD 2024 (Barcelona) and KDD 2025 (Toronto); not in the KDD 2026 workshop list
+- Abstract deadline about five weeks before the paper deadline; all deadlines AoE
+- Single-blind review via Microsoft CMT; up to 6 pages excluding references in the ACM two-column template
+- Accepted papers are given as oral talks or posters and their PDFs are posted on the workshop website; no formal proceedings series
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-08-04
+  end: 2025-08-04
+  location: Toronto, Canada (with KDD 2025, Metro Toronto Convention Centre)
+  url: https://causal-machine-learning.github.io/kdd2025-workshop/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-08
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-06-15
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-07-01
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-14
+    time: "23:59"
+    tz: AoE
+sources:
+- https://causal-machine-learning.github.io/kdd2025-workshop/
+- https://causal-machine-learning.github.io/kdd2025-workshop/cfp/
+- https://kdd2025.kdd.org/workshops/
+- https://kdd2026.kdd.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=CausalML&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found (no kdd2026-workshop page and not in the KDD 2026 workshop list); next edition not announced
+- Acceptance rate not published
+last_verified: 2026-11-07

@@ -1,0 +1,49 @@
+id: itms
+name: ITMS
+full_name: IEEE International Scientific Conference on Information Technology and Management Science of Riga Technical University (ITMS)
+type: conference
+tier: minor
+areas: [general, data, ai, security]
+region: europe
+language: english
+frequency: annual
+organizer: Riga Technical University with IEEE Latvia Section and its Computer Society chapter
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://itms.rtu.lv/
+notes:
+- Long-running conference of the Faculty of Computer Science and IT, Riga Technical University (67th edition in 2026)
+- Co-organized with the IEEE Latvia Section and the IEEE Computer Society chapter; IEEE Conference Record 71583 (2026)
+- Accepted and presented papers go to IEEE Xplore; papers not presented are excluded
+- Double-blind review via Microsoft CMT; IEEE double-column format
+- Broad topics including data science, cybersecurity, cloud computing, AI, HCI, modelling and simulation, and management
+- Hybrid format in 2026 (one online day, one day on site in Riga)
+- "Fees (2026): 400 EUR regular, 350 EUR IEEE members, 160 EUR students, 80 EUR IEEE student members"
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-10-08
+  end: 2026-10-10
+  location: Riga Technical University, Riga, Latvia (online on Oct 8)
+  url: https://itms.rtu.lv/
+  deadlines:
+  - kind: submission
+    date: 2026-07-30
+  - kind: notification
+    date: 2026-09-02
+    label: Moved from 2026-08-27
+  - kind: camera_ready
+    date: 2026-09-17
+sources:
+- https://itms.rtu.lv/
+- https://ieeexplore.ieee.org/xpl/conhome/1828544/all-proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ITMS&by=all&source=ICORE2026
+unverified:
+- ITMS 2027 not announced yet
+- Locations of editions before 2024 not checked on the official site
+last_verified: 2026-11-07

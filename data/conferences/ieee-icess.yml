@@ -1,0 +1,80 @@
+id: ieee-icess
+name: IEEE ICESS
+full_name: IEEE International Conference on Embedded Software and Systems
+type: conference
+tier: minor
+areas: [systems, software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE; part of the IEEE Hyper Intelligence Congress with HPCC, DSS, SmartCity, DependSys and Embodied AI
+  (steering chair Laurence T. Yang)
+organizer_country: [china]
+proceedings: IEEE Xplore (IEEE CS Conference Publishing Services)
+archival: true
+indexing: [IEEE Xplore, EI]
+typical:
+  deadline_months: [4, 5, 7, 8]
+  conference_months: [8, 10, 12]
+links:
+  website: https://ieee-hyper-intelligence.org/2026/icess/index.html
+notes:
+- Embedded software and systems conference with a focus on edge intelligence; 21st edition in 2025 (Exeter)
+- Co-located with IEEE HPCC, DSS, SmartCity and DependSys since 2024 (Wuhan 2024, Exeter 2025, Luoyang 2026);
+  earlier editions in Las Vegas (2019) and Shanghai (2020)
+- Single-blind review via EDAS; 8 pages IEEE CS format (10 with over-length charge)
+- Selected papers invited to journal special issues (IEEE TCE, IEEE IoT Journal, Journal of Systems Architecture,
+  ...)
+- Not ranked by CORE (ICORE2026) or CCF; deadlines are usually extended by about three weeks
+editions:
+- year: 2025
+  start: 2025-08-13
+  end: 2025-08-15
+  location: Exeter, UK
+  url: https://hpcn.exeter.ac.uk/icess2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-30
+    label: Paper submission (original)
+  - kind: submission
+    date: 2025-05-18
+    label: Paper submission (extended, firm)
+  - kind: notification
+    date: 2025-06-15
+  - kind: camera_ready
+    date: 2025-07-15
+    label: Final manuscript and registration
+- year: 2026
+  start: 2026-10-29
+  end: 2026-11-02
+  location: Luoyang, Henan, China
+  url: https://ieee-hyper-intelligence.org/2026/icess/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    label: Paper submission (original)
+  - kind: submission
+    date: 2026-08-05
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2026-09-15
+    label: Author notification (moved from 2026-09-10)
+  - kind: camera_ready
+    date: 2026-10-08
+    label: Camera-ready (extended from 2026-09-30)
+  - kind: other
+    date: 2026-10-11
+    label: Registration due (extended from 2026-09-30)
+sources:
+- https://ieee-hyper-intelligence.org/2026/icess/index.html
+- https://hpcn.exeter.ac.uk/icess2025/
+- https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10917021 (ICESS 2024 proceedings, doi 10.1109/icess64277.2024)
+- https://api.crossref.org/works?query.bibliographic=IEEE+International+Conference+on+Embedded+Software+and+Systems&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ICESS&by=all&source=ICORE2026
+- https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
+unverified:
+- No ICESS proceedings found for 2021 to 2023
+- Next (2027) edition not announced yet
+- Deadline time zone (not stated)
+- Acceptance rate
+last_verified: 2026-11-07

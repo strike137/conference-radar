@@ -1,0 +1,47 @@
+id: ml4sp
+name: ML4SP
+full_name: Workshop on Machine Learning for Solvers and Provers
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+organizer: ML4SP organizers (Vijay Ganesh, Nguyen Dang)
+organizer_country: [usa, europe]
+proceedings: Workshop website (accepted papers online, non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://ml4sp.github.io
+notes:
+- Workshop on machine learning for SAT, SMT, CP and MIP solvers and for automated and interactive theorem provers, including LLMs for proof guidance
+- 1st edition (invited talks only) at SoCS/SAT/CP 2025 in Glasgow; 2nd edition with contributed papers at FLoC 2026 in Lisbon
+- Organized by Vijay Ganesh (Georgia Tech) and Nguyen Dang (University of St Andrews)
+- Extended abstracts (up to 2 pages) or full papers (up to 15 pages) in LIPIcs format, not anonymized; previously published work welcome
+- Accepted papers are posted as PDFs on the workshop website
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: 2nd ML4SP
+  start: 2026-07-18
+  end: 2026-07-18
+  location: Lisbon, Portugal (FLoC 2026)
+  url: https://ml4sp.github.io
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    tz: AoE
+  - kind: notification
+    date: 2026-05-25
+  - kind: camera_ready
+    date: 2026-07-02
+sources:
+- https://ml4sp.github.io
+- https://ml4sp.github.io/2025/
+- https://portal.core.edu.au/conf-ranks/?search=ML4SP&by=all&source=ICORE2026
+unverified:
+- The site does not state whether there are formal proceedings; papers are only seen on the workshop website
+- Next edition not announced as of 2026-11-07
+last_verified: 2026-11-07

@@ -1,0 +1,52 @@
+id: case-ar
+name: CASE
+full_name: Congreso Argentino de Sistemas Embebidos
+type: conference
+tier: domestic
+areas: [systems]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: CASE permanent organizing committee (held within SASE, Simposio Argentino de Sistemas Embebidos)
+organizer_country: [other]
+proceedings: CASE proceedings book (ISBN, published on case.ar)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [7, 8]
+links:
+  website: https://case.ar/
+notes:
+- Scientific congress of SASE, the Argentine embedded systems symposium; held every year since 2011
+- Papers in Spanish or English, up to 4 pages, double-blind review with rebuttal
+- Three categories (Artículo, Foro Tecnológico, Reporte); all appear in the ISBN proceedings book on the website
+- Best Artículo papers invited to a special issue of IEEE Embedded Systems Letters; others to the journal Elektron
+- Free submission and free attendance
+- Held at a different Argentine university each year (Tucumán 2024, San Martín 2025, San Rafael 2026)
+- "Acceptance: 39 papers in 2026 (15 Artículo, 20 Foro, 4 Reporte)"
+editions:
+- year: 2025
+  start: 2025-07-31
+  end: 2025-08-01
+  location: Universidad Nacional de San Martín, Buenos Aires, Argentina
+  url: https://case.ar/?page_id=4733
+  deadlines:
+  - kind: submission
+    date: 2025-05-01
+- year: 2026
+  start: 2026-08-06
+  end: 2026-08-07
+  location: UTN Facultad Regional San Rafael, Mendoza, Argentina
+  url: https://case.ar/?page_id=5309
+sources:
+- https://case.ar/?page_id=5309
+- https://case.ar/?page_id=4733
+- https://case.ar/?page_id=4249
+- https://case.ar/?page_id=39
+- https://case.ar/?page_id=52
+- https://case.ar/?page_id=986
+- https://portal.core.edu.au/conf-ranks/?search=CASE&by=all&source=ICORE2026
+unverified:
+- CASE 2026 submission deadline no longer shown on the official page
+- CASE 2027 not yet announced
+last_verified: 2026-11-07

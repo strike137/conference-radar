@@ -1,0 +1,48 @@
+id: dise-fse
+name: DISE
+full_name: International Workshop on Data Intensive Software Engineering
+type: workshop
+tier: minor
+areas: [software, data, ai]
+region: north-america
+language: english
+organizer: DISE workshop organizers (UCLA, Virginia Tech, Concordia University, University of Waterloo, CUHK, Singapore Management University, University College Dublin); co-located with ACM FSE
+organizer_country: [usa, canada]
+proceedings: ACM DL (FSE 2026 workshop proceedings)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://seed-vt.github.io/dise/
+notes:
+- One-day workshop on testing, debugging, monitoring and log analytics of data-intensive and AI-enabled software systems
+- First edition co-located with ACM FSE 2026 in Montreal (Concordia SGW campus) on 5 July 2026
+- Position statements (2 pages), short papers (4+1 pages), full papers (10+2 pages) and non-archival arXiv presentations; FSE industry track format, double-blind review via HotCRP
+- Full and short papers appear in the FSE 2026 workshop proceedings; position statements and arXiv presentations are non-archival
+- Breakout sessions aim at a joint community article (for example in IEEE Software)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-05
+  end: 2026-07-05
+  location: Montreal, Canada (co-located with ACM FSE 2026)
+  url: https://seed-vt.github.io/dise/
+  deadlines:
+  - kind: submission
+    date: 2026-02-01
+    tz: AoE
+  - kind: notification
+    date: 2026-02-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-02
+    tz: AoE
+sources:
+- https://seed-vt.github.io/dise/
+- https://conf.researchr.org/home/fse-2026/dise-2026
+- https://portal.core.edu.au/conf-ranks/?search=DISE&by=all&source=ICORE2026
+unverified:
+- Only one edition so far; frequency and a 2027 edition not announced
+- DBLP page not checked (dblp.org blocks automated access)
+last_verified: 2026-11-07

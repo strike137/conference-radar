@@ -1,0 +1,62 @@
+id: nines
+name: NINeS
+full_name: New Ideas in Networked Systems
+type: conference
+tier: minor
+areas: [networking, systems]
+region: online
+language: english
+frequency: annual
+organizer: NINeS steering committee (Antichi, Argyraki, Balakrishnan, Foster, Panda, Shenker)
+organizer_country: [international]
+proceedings: OASIcs (Schloss Dagstuhl)
+archival: true
+typical:
+  deadline_months: [8, 10]
+  conference_months: [2]
+links:
+  website: https://nines-conference.org/
+notes:
+- New conference with the same scope as SIGCOMM and NSDI but a reviewing philosophy focused on new ideas rather than detailed evaluation; not an ACM conference
+- First edition on 2026-02-10 (online with local pods in Boston and New York); second on 2027-02-16
+- One-day global, decentralized event; papers are not presented live on the day, recorded talks are posted online, and an online seminar series is planned for 2027
+- Papers up to 12 pages plus references and appendices, two-column 10-point format; double-blind review
+- Accepted papers appear in the NINeS proceedings in OASIcs (2026 proceedings are OASIcs volume 139)
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-02-10
+  end: 2026-02-10
+  location: Online (with local pods)
+  url: https://2026.nines-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2025-10-01
+    tz: AoE
+  - kind: notification
+    date: 2025-12-19
+- year: 2027
+  start: 2027-02-16
+  end: 2027-02-16
+  location: Online (decentralized, with local pods)
+  url: https://nines-conference.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-08-06
+    tz: AoE
+  - kind: notification
+    date: 2026-11-27
+sources:
+- https://nines-conference.org/
+- https://nines-conference.org/cfp.html
+- https://nines-conference.org/faq.html
+- https://nines-conference.org/orgs.html
+- https://2026.nines-conference.org/
+- https://2026.nines-conference.org/papers.html
+- https://drops.dagstuhl.de/entities/volume/OASIcs-volume-139
+- https://portal.core.edu.au/conf-ranks/?search=NINeS&by=all&source=ICORE2026
+unverified:
+- DROPS volume page for OASIcs 139 could not be loaded from this environment; the link comes from the official 2026 papers page
+- Acceptance rate not found on an official page
+last_verified: 2026-11-07

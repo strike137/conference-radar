@@ -1,0 +1,69 @@
+id: fics
+name: FICS
+full_name: International Workshop on Fixed Points in Computer Science
+type: workshop
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: irregular
+organizer: FICS Steering Committee (satellite workshop of CSL)
+organizer_country: [europe]
+proceedings: Book of abstracts on the workshop website; EPTCS post-proceedings in some editions
+archival: false
+typical:
+  deadline_months: [11, 12, 1]
+  conference_months: [1, 2]
+links:
+  website: https://fics2027.codeberg.page/
+notes:
+- Workshop on fixed points in logic, automata, games, coalgebra, type theory, programming language semantics and verification
+- Satellite workshop of CSL (Computer Science Logic) in recent editions; 14th edition in 2027
+- Held in Europe (Warsaw 2023, Naples 2024, Paris 2026, Brighton 2027); irregular schedule with gaps (no edition between 2015 and 2023)
+- Two submission types, short abstracts (3 to 5 pages) for talks and extended abstracts (6 to 10 pages) of original results, EPTCS format
+- FICS 2024 post-proceedings appeared as EPTCS 435; for FICS 2026 the planned EPTCS volume was dropped and selected papers go to a Fundamenta Informaticae special issue
+- FICS 2027 aims to offer post-proceedings for extended abstracts
+- "Registration fee in 2026: 150 EUR (via CSL), EACSL membership not required"
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-02-23
+  end: 2026-02-24
+  location: Paris, France (satellite of CSL 2026, Campus Condorcet)
+  url: https://fics2026.github.io
+  deadlines:
+  - kind: abstract
+    date: 2026-01-09
+    tz: AoE
+    label: Paper registration (extended)
+  - kind: submission
+    date: 2026-01-11
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-01-27
+- year: 2027
+  start: 2027-01-25
+  end: 2027-01-26
+  location: Brighton, UK (satellite of CSL 2027)
+  url: https://fics2027.codeberg.page/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-23
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-11-30
+    tz: AoE
+  - kind: notification
+    date: 2026-12-21
+sources:
+- https://fics2027.codeberg.page/
+- https://fics2027.codeberg.page/cfp/
+- https://fics2027.codeberg.page/committees/
+- https://fics2026.github.io
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?FICS2024
+- https://portal.core.edu.au/conf-ranks/?search=FICS&by=all&source=ICORE2026
+unverified:
+- Whether FICS 2027 will have post-proceedings, and in which series, is not yet confirmed
+last_verified: 2026-11-07

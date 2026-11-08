@@ -1,0 +1,53 @@
+id: graphicon
+name: GraphiCon
+full_name: International Conference on Computer Graphics, Image Processing and Machine Vision, Visualization Systems and Virtual Environments
+name_local: ГрафиКон
+type: conference
+tier: minor
+areas: [vision, ai]
+region: europe
+language: mixed
+frequency: annual
+organizer: ITMO University, Keldysh Institute of Applied Mathematics (RAS) and ANO Research Center of Physical and Technical Informatics, with Russian universities as co-organizers
+organizer_country: [other]
+proceedings: GraphiCon conference proceedings (RSCI/RINC indexed)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [9]
+links:
+  website: https://graphicon.srcipt.ru/
+notes:
+- Largest Russian and CIS conference on computer graphics, image processing, machine vision, visualization and virtual environments; held every year since 1991
+- 2026 was the 36th edition, at ITMO University in St. Petersburg; host city changes every year (2025 at Volga State University of Technology)
+- Working languages Russian and English; templates for both are provided
+- Peer-reviewed papers accepted into the program are published in the conference proceedings, indexed in RSCI (RINC)
+- Best papers are recommended to Russian journals such as Programming (Scopus, WoS) and Scientific Visualization (Scopus)
+- Registration fee paid after acceptance; papers after the deadline are accepted only by agreement with section chairs
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 36th GraphiCon
+  start: 2026-09-22
+  end: 2026-09-24
+  location: ITMO University, St. Petersburg, Russia
+  url: https://graphicon.itmo.ru/ru
+  deadlines:
+  - kind: submission
+    date: 2026-08-15
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-09
+    label: Registration and final papers
+sources:
+- https://graphicon.srcipt.ru/
+- https://graphicon.srcipt.ru/participants/main-date/
+- https://graphicon.srcipt.ru/publications/
+- https://graphicon.srcipt.ru/organizatory/
+- https://graphicon.itmo.ru/ru
+- https://portal.core.edu.au/conf-ranks/?search=GraphiCon&by=all&source=ICORE2026
+unverified:
+- The main site gives 22-25 September 2026, while the ITMO event page and its program show 22-24 September
+- Next edition (2027) not announced yet
+last_verified: 2026-11-07

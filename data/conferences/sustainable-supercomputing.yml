@@ -1,0 +1,55 @@
+id: sustainable-supercomputing
+name: Sustainable Supercomputing
+full_name: Sustainable Supercomputing Workshop at SC
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop committee from HPE, EPCC, CSC, RIKEN R-CCS and ORNL, held with SC
+organizer_country: [usa, europe, japan]
+proceedings: SC Workshops Proceedings (IEEE 2026)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://sites.google.com/view/sc2026/home
+notes:
+- Half-day workshop at IEEE/ACM SC on sustainability of supercomputing, from data centres and hardware to system software and applications
+- Topics include energy efficient HPC and AI hardware, embodied carbon and lifecycle, data centre operation, power monitoring and energy optimisation
+- Short work in progress papers (up to 5 pages) and full papers (6 to 10 pages), IEEE template, submitted via the SC Linklings system
+- Accepted papers appear in the SC Workshop Proceedings; at least one author must present in person
+- SC26 lists it among the workshops with SC Workshop Proceedings
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: St. Louis, MO, USA (with SC25)
+  url: https://sc25.conference-program.com/session/?sess=sess204
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-20
+  location: Chicago, IL, USA (with SC26)
+  url: https://sites.google.com/view/sc2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-08-07
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://sites.google.com/view/sc2026/home
+- https://sites.google.com/view/sc2026/info-for-authors
+- https://sc26.conference-program.com/session/?sess=sess157
+- https://sc25.conference-program.com/session/?sess=sess204
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=Sustainable+Supercomputing&by=all&source=ICORE2026
+unverified:
+- Deadlines of the 2025 edition not found on an official page (the 2025 workshop site is no longer public)
+- Original paper deadline before the extension not stated on the 2026 site
+last_verified: 2026-11-07

@@ -1,0 +1,55 @@
+id: geollm-kdd
+name: GALOP
+full_name: Workshop on Geometric Space, Architecture and Learning Objectives for Large Pre-Trained Models
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+organizer: Workshop organizers from HKUST (Guangzhou), CUHK, JPMorgan Chase and Yale University; held with ACM SIGKDD
+organizer_country: [china, usa]
+proceedings: OpenReview (not in the ACM DL)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://hyperboliclearning.github.io/events/kdd2026workshop
+notes:
+- Half-day workshop on hyperbolic, spherical and other geometric spaces, architectures and objectives for foundation models
+- First edition at KDD 2026 in Jeju, Korea (August 9, 2026, afternoon)
+- Submission and review via OpenReview; accepted papers presented as oral talks or posters, in person
+- KDD 2026 workshop papers are not archived in the ACM Digital Library; accepted GALOP papers are listed on OpenReview
+- "6 accepted papers in 2026, 4 of them with oral talks"
+- Run by the same group as the NEGEL workshops (TheWebConf 2025, NeurIPS 2025) and the hyperbolic learning tutorials at KDD and AAAI
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: With KDD 2026
+  start: 2026-08-09
+  end: 2026-08-09
+  location: Jeju, Korea (with KDD 2026)
+  url: https://hyperboliclearning.github.io/events/kdd2026workshop
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-04-30
+  - kind: notification
+    date: 2026-06-10
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-15
+    time: "23:59"
+    tz: AoE
+sources:
+- https://hyperboliclearning.github.io/events/kdd2026workshop
+- https://openreview.net/group?id=KDD.org/2026/Workshop/GALOP
+- https://kdd2026.kdd.org/workshops/
+- https://kdd2026.kdd.org/call-for-workshop-proposals/
+- https://portal.core.edu.au/conf-ranks/?search=GALOP&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of 2026-11-07
+last_verified: 2026-11-07

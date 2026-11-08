@@ -1,0 +1,64 @@
+id: lanc
+name: LANC
+full_name: Latin America Networking Conference
+type: conference
+tier: minor
+areas: [networking]
+region: latin-america
+language: english
+frequency: biennial
+organizer: LANC organizing committee, co-located with CLEI (in cooperation with ACM SIGCOMM in 2022 and 2024)
+organizer_country: [other]
+proceedings: ACM DL (ACM ICPS)
+archival: true
+fee: 350 USD per paper (2026, ACM Open APC included); 100 USD if an author is at an ACM Open institution
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9, 10]
+links:
+  website: https://lanc.top/2026/
+notes:
+- Networking conference for Latin America, held together with CLEI (Latin American Conference on Computing)
+- Proceedings in the ACM Digital Library, ICPS open access
+- Single-blind review, at least three reviews per paper; full and short papers, English only
+- Hybrid (in person and virtual)
+- Editions in 2016, 2018, 2022, 2024 and 2026; moves around Latin America (Armenia, Colombia 2022; Bahía Blanca, Argentina 2024; Mexico City 2026)
+- Deadlines are usually extended once or twice
+editions:
+- year: 2024
+  start: 2024-08-15
+  end: 2024-08-16
+  location: Bahía Blanca, Argentina (with CLEI 2024)
+  url: https://lanc.top/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-06-01
+    label: Extended deadline (firm), originally Apr 17 then May 17
+  - kind: notification
+    date: 2024-07-05
+  - kind: camera_ready
+    date: 2024-07-17
+- year: 2026
+  start: 2026-09-10
+  end: 2026-09-11
+  location: ITAM, Mexico City, Mexico (with CLEI 2026, hybrid)
+  url: https://lanc.top/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    label: Extended deadline, originally Apr 19 then May 30
+  - kind: notification
+    date: 2026-07-20
+  - kind: camera_ready
+    date: 2026-07-27
+sources:
+- https://lanc.top/2026/papers-call/
+- https://lanc.top/2024/papers-call/
+- https://lanc.top/2024/
+- https://lanc.top/2022/
+- https://conferencia2026.clei.org/es-cl/lanc-conferencia-latinoamericana-de-redes/
+- https://portal.core.edu.au/conf-ranks/?search=LANC&by=all&source=ICORE2026
+unverified:
+- dblp page not checked (dblp blocked automated access)
+- Locations of the 2016 and 2018 editions not confirmed
+last_verified: 2026-11-07

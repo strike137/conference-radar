@@ -1,0 +1,43 @@
+id: hclh
+name: HCLH
+full_name: High-Accuracy Computing on Low-Precision Hardware
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: HCLH organizers (Argonne National Laboratory, Oak Ridge National Laboratory, MIT Lincoln Laboratory/UTK, NVIDIA, Synopsys), held with SC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://hclh-sc.github.io
+notes:
+- Half-day workshop on accurate scientific computing on low-precision hardware (mixed precision, FP64 emulation and Ozaki schemes, posits, numerical stability), held with SC26 in Chicago
+- Technical papers of 4 to 8 pages (excluding references) in IEEE two-column format, double-blind review, at least 3 reviews per paper
+- Accepted papers are published in the SC Workshops Proceedings
+- SC26 appears to be the first edition; the site gives no edition number
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-16
+  location: Chicago, IL, USA (with SC26)
+  url: https://hclh-sc.github.io
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    label: Papers (extended from 2026-08-10)
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://hclh-sc.github.io
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=HCLH&by=all&source=ICORE2026
+last_verified: 2026-11-07

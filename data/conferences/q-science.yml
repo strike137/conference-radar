@@ -1,0 +1,55 @@
+id: q-science
+name: Q-SCIENCE
+full_name: Workshop on Advancing Scientific Computing through Quantum and HPC Synergies
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Lawrence Berkeley National Laboratory (with RIKEN and University of Arkansas), held with IEEE IPDPS
+organizer_country: [usa]
+proceedings: IEEE Xplore (IPDPS Workshops)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5, 6]
+links:
+  website: https://sites.google.com/lbl.gov/q-science
+notes:
+- Half-day workshop on quantum computing and HPC integration for science (hybrid algorithms, architectures, applications)
+- Held with IEEE IPDPS since 2025 (Milan 2025, New Orleans 2026, Seattle 2027); 2027 is the third edition
+- Full papers up to 6 pages and short papers up to 4 pages, IEEE style, plus up to 2 pages of references; single-blind review
+- Workshop proceedings submitted to IEEE Xplore with the IPDPS workshops
+- Chaired by LBNL researchers (Anastasiia Butko, Katie Klymko, Jonathan Carter) with RIKEN and University of Arkansas
+- Not listed in CORE ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-26
+  location: New Orleans, LA, USA (with IPDPS 2026)
+  url: https://www.ipdps.org/ipdps2026/2026-workshops.html
+- year: 2027
+  start: 2027-06-01
+  end: 2027-06-01
+  location: Seattle, WA, USA (with IPDPS 2027, Hyatt Regency Bellevue)
+  url: https://sites.google.com/lbl.gov/q-science
+  deadlines:
+  - kind: submission
+    date: 2027-01-31
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-02-28
+  - kind: camera_ready
+    date: 2027-03-06
+    tz: AoE
+sources:
+- https://sites.google.com/lbl.gov/q-science
+- https://www.ipdps.org/ipdps2027/2027-workshops.html
+- https://www.ipdps.org/ipdps2026/2026-workshops.html
+- https://www.ipdps.org/ipdps2025/2025-workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=Q-SCIENCE&by=all&source=ICORE2026
+unverified:
+- Deadlines of the 2026 edition are no longer on the official site
+last_verified: 2026-11-07

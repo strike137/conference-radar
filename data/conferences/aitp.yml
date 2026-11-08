@@ -1,0 +1,50 @@
+id: aitp
+name: AITP
+full_name: Conference on Artificial Intelligence and Theorem Proving
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: AITP organizers (Gonthier, Kaliszyk, Urban)
+organizer_country: [europe]
+proceedings: Book of abstracts on the conference website (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://aitp-conference.org/
+notes:
+- Small conference on AI and machine learning for automated and interactive theorem proving, autoformalization and formal mathematics
+- Held every year at the CNRS Paul-Langevin conference center in Aussois, Savoy, France (Obergurgl, Austria in some early years)
+- Contributed talks selected from 2-page extended abstracts; abstracts are non-archival and appear in an informal book of abstracts
+- Week-long in-person meeting; accommodation and food cost about 650 EUR for five days (2026)
+- Organized by Georges Gonthier (INRIA), Cezary Kaliszyk (University of Melbourne) and Josef Urban (CTU Prague)
+editions:
+- year: 2026
+  start: 2026-08-30
+  end: 2026-09-04
+  location: CNRS Paul-Langevin Conference Center, Aussois, France
+  url: https://aitp-conference.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-12
+    label: Extended abstracts (extended from May 5)
+  - kind: notification
+    date: 2026-06-20
+- year: 2027
+  start: 2027-08-29
+  end: 2027-09-03
+  location: Aussois, France
+  url: https://aitp-conference.org/
+sources:
+- https://aitp-conference.org/
+- https://aitp-conference.org/2026/
+- https://aitp-conference.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=AITP&by=all&source=ICORE2026
+unverified:
+- AITP 2027 deadlines not yet announced
+- Not listed in ICORE2026 or the CCF 2026 list
+last_verified: 2026-11-07

@@ -1,0 +1,50 @@
+id: 3dmv
+name: 3DMV
+full_name: Workshop on Learning 3D with Multi-View Supervision
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (KAUST, with Snap Research and University of Liege); co-located with CVPR
+organizer_country: [other]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops), archival track only
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://3dmv.org/2026/
+notes:
+- CVPR workshop on multi-view learning for 3D and 4D understanding and generation, world models, NeRFs and Gaussian splatting
+- 1st edition at CVPR 2023, 2nd at CVPR 2024, 3rd at CVPR 2026 in Denver (no 2025 edition)
+- Archival and non-archival tracks; papers up to 8 pages excluding references in CVPR format, double-blind review via CMT
+- Archival papers go into the CVPR 2026 Workshops proceedings; non-archival track accepts previously published work
+- Best poster award with prize money
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 3rd 3DMV, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA
+  url: https://3dmv.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-06
+    time: "23:59"
+    tz: GMT
+    label: Extended from 2026-03-04
+  - kind: notification
+    date: 2026-03-23
+  - kind: camera_ready
+    date: 2026-04-02
+sources:
+- https://3dmv.org/2026/
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://openaccess.thecvf.com/CVPR2026_workshops/3DMV
+- https://portal.core.edu.au/conf-ranks/?search=3DMV&by=all&source=ICORE2026
+unverified:
+- Next edition not announced yet
+last_verified: 2026-11-07

@@ -1,0 +1,59 @@
+id: icsob
+name: ICSOB
+full_name: International Conference on Software Business
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: ICSOB community (hosted by a European university each year; 2026 by Chalmers and BTH)
+organizer_country: [europe]
+proceedings: Springer LNBIP
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10, 11]
+links:
+  website: https://www.icsob.org/
+notes:
+- Multidisciplinary conference on software-intensive business (software product management, ecosystems and platforms, entrepreneurship, cloud, AI-native software business)
+- Draws on software engineering, information systems, business and economics
+- Proceedings in Springer LNBIP, indexed in Scopus and DBLP
+- Full research papers 15 pages, short position and research-in-progress papers 6 pages; double-blind review with at least three reviewers
+- Also has a poster and demo track, a PhD retreat and a workshop
+- Held in Europe (Utrecht 2024, Stuttgart 2025, Gothenburg 2026)
+- 2026 research paper deadline was extended twice (July 20 -> August 7)
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-26
+  end: 2026-10-28
+  location: Gothenburg, Sweden
+  url: https://www.icsob.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-07
+    tz: AoE
+    label: Research papers (final extension)
+  - kind: notification
+    date: 2026-09-04
+    tz: AoE
+    label: Research papers
+  - kind: camera_ready
+    date: 2026-10-06
+    tz: AoE
+    label: Research papers
+  - kind: submission
+    date: 2026-09-14
+    tz: AoE
+    label: Posters and demos
+sources:
+- https://www.icsob.org/
+- https://www.icsob.org/ResearchPapers/
+- https://link.springer.com/conference/icsob
+- https://portal.core.edu.au/conf-ranks/?search=ICSOB&by=all&source=ICORE2026
+unverified:
+- ICSOB 2027 not announced yet
+last_verified: 2026-11-07

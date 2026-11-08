@@ -1,0 +1,99 @@
+id: aixset
+name: AIxSET
+full_name: International Conference on Artificial Intelligence x Science, Engineering, and Technology
+type: conference
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: AIx conference series (same organizers as AIxSE, AIxMHC, AIxB and AIxHEART)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://www.aixset.org/
+notes:
+- AI applications in science, engineering and technology domains; first held in 2024
+- Successor of ai4i (AI for Industries, 2018 to 2023) and TransAI (Transdisciplinary AI, 2019 to 2023)
+- Co-located with AIxB, AIxHEART and AIxMHC at VOCO Laguna Hills, Laguna Hills, California, in hybrid format; one registration
+  covers all co-located conferences
+- Accepted papers submitted for inclusion in IEEE Xplore; 2024 and 2025 proceedings are in IEEE Xplore
+- Regular and workshop papers 8 pages, short 4, position 2 (IEEE format); at least three reviewers per paper
+- Each paper needs a full-rate registration and presentation or it is removed from the proceedings; posters are in person only
+- Deadlines were extended by about three weeks in 2026
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-28
+  end: 2026-09-30
+  location: VOCO Laguna Hills, Laguna Hills, California, USA
+  url: https://semanticcomputing.wixsite.com/aixset2026
+  deadlines:
+  - kind: submission
+    date: 2026-07-08
+    time: "23:59"
+    tz: PDT
+    label: Papers (extended from 2026-06-10, then 2026-07-01)
+  - kind: other
+    date: 2026-07-05
+    tz: PDT
+    label: Workshop proposals
+  - kind: notification
+    date: 2026-08-05
+    tz: PDT
+    label: Extended from 2026-07-20
+  - kind: submission
+    date: 2026-08-12
+    tz: PDT
+    label: Workshop papers and poster abstracts (extended from 2026-07-30)
+  - kind: camera_ready
+    date: 2026-08-21
+    tz: PDT
+    label: Camera-ready and registration
+- year: 2027
+  start: 2027-09-27
+  end: 2027-09-29
+  location: VOCO Laguna Hills, Laguna Hills, California, USA
+  url: https://www.aixset.org/
+  deadlines:
+  - kind: submission
+    date: 2027-06-10
+    tz: PDT
+    label: Papers
+  - kind: other
+    date: 2027-07-05
+    tz: PDT
+    label: Workshop proposals
+  - kind: notification
+    date: 2027-07-20
+    tz: PDT
+  - kind: submission
+    date: 2027-07-30
+    tz: PDT
+    label: Workshop papers and poster abstracts
+  - kind: camera_ready
+    date: 2027-08-21
+    tz: PDT
+    label: Camera-ready and registration
+sources:
+- https://www.aixset.org/
+- https://www.aixset.org/dates
+- https://www.aixset.org/submission
+- https://www.aixset.org/past-history
+- https://semanticcomputing.wixsite.com/aixset2026
+- https://semanticcomputing.wixsite.com/aixset2026/dates
+- https://semanticcomputing.wixsite.com/aixset2026/submission
+- https://semanticcomputing.wixsite.com/aixset2025
+- https://api.crossref.org/works?query.bibliographic=Artificial+Intelligence+x+Science+Engineering+and+Technology+AIxSET&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=AIxSET&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- The 2027 home page mentions only journal publication for outstanding papers; IEEE Xplore inclusion for 2027 not yet stated
+- The 2027 deadlines repeat the original 2026 day and month and may change
+- The 2026 home page gives a final paper deadline of July 8 while the dates page shows July 1 (extended)
+- dblp entry not checked (dblp blocks automated access); acceptance rate not checked
+last_verified: 2026-11-07

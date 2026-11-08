@@ -1,0 +1,55 @@
+id: vulgen
+name: VulGen
+full_name: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval
+type: workshop
+tier: minor
+areas: [data, security, ai]
+region: worldwide
+language: english
+organizer: Workshop organizers (Shuoqi Sun, Sara Allawati, Madhurima Khirbat and Damiano Spina, RMIT University; Laura Dietz, University of New Hampshire; Bhaskar Mitra; Maarten de Rijke, University of Amsterdam), supported by ADM+S
+organizer_country: [international]
+proceedings: None (non-archival; accepted extended abstracts are posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://vulgen-workshop.github.io/SIGIR2026/
+notes:
+- Workshop on vulnerabilities of generative systems used for IR (black-hat SEO, prompt injection, adversarial attacks, bias, misinformation, harm to users)
+- First edition (VulGen'26) is a full-day workshop at ACM SIGIR 2026, Melbourne Convention and Exhibition Centre, July 24, 2026
+- Extended abstracts of 2 pages plus references in the ACM SIGIR format, not anonymized (single-blind), submitted via EasyChair
+- Non-archival; accepted PDFs are hosted on the workshop website and authors are encouraged to post them on arXiv
+- In-person attendance required
+- 8 accepted extended abstracts listed for 2026; joint panel session with the JEDI workshop
+- Supported by the ARC Centre of Excellence for Automated Decision-Making and Society (ADM+S)
+- Only one edition so far
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-24
+  end: 2026-07-24
+  location: Melbourne, Australia (co-located with SIGIR 2026)
+  url: https://vulgen-workshop.github.io/SIGIR2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-04
+    tz: AoE
+    label: Extended abstracts
+  - kind: notification
+    date: 2026-05-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-15
+    tz: AoE
+    label: Final PDF
+sources:
+- https://vulgen-workshop.github.io/SIGIR2026/
+- https://vulgen-workshop.github.io/SIGIR2026/submission/
+- https://vulgen-workshop.github.io/SIGIR2026/accepted-submissions/
+- https://vulgen-workshop.github.io/SIGIR2026/organizers/
+- https://sigir2026.org/en-AU/pages/program/accepted-workshops
+- https://portal.core.edu.au/conf-ranks/?search=VulGen&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of 2026-11-07
+last_verified: 2026-11-07

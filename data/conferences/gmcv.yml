@@ -1,0 +1,61 @@
+id: gmcv
+name: GMCV
+full_name: Workshop on Generative Models for Computer Vision
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (CISPA, HKUST, Stanford, MPI for Informatics, Johns Hopkins University); co-located with CVPR
+organizer_country: [europe, usa]
+proceedings: None (non-archival; papers linked on the workshop site)
+archival: false
+typical:
+  deadline_months: [3, 4, 5]
+  conference_months: [6]
+links:
+  website: https://generative-vision.github.io/workshop-CVPR-26/
+notes:
+- Full-day CVPR workshop on using generative image models for visual recognition
+- Held with CVPR each year since 2023; 3rd at CVPR 2025 (Nashville), 4th at CVPR 2026 (Denver)
+- The site uses no acronym; the OpenReview venue is named GCV
+- Short papers (4 page abstracts) and long papers (8 pages), double-blind review on OpenReview
+- Non-archival, not in the CVPR proceedings; dual submission allowed; accepted papers presented as posters
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 3rd workshop, with CVPR 2025
+  start: 2025-06-11
+  end: 2025-06-11
+  location: Nashville, Tennessee, USA
+  url: https://generative-vision.github.io/workshop-CVPR-25/
+  deadlines:
+  - kind: submission
+    date: 2025-04-25
+    tz: AoE
+    label: Extended from 2025-03-25
+  - kind: notification
+    date: 2025-04-30
+- year: 2026
+  label: 4th workshop, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA
+  url: https://generative-vision.github.io/workshop-CVPR-26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-10
+    tz: AoE
+  - kind: notification
+    date: 2026-05-20
+sources:
+- https://generative-vision.github.io/workshop-CVPR-26/
+- https://cvpr.thecvf.com/virtual/2026/workshop/36030
+- https://generative-vision.github.io/workshop-CVPR-25/
+- https://generative-vision.github.io/workshop-CVPR-24/
+- https://portal.core.edu.au/conf-ranks/?search=GMCV&by=all&source=ICORE2026
+unverified:
+- Acronym GMCV is not used by the organizers
+- 5th edition not announced yet
+last_verified: 2026-11-07

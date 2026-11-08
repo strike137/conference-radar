@@ -1,0 +1,53 @@
+id: agentic-se-kdd
+name: Agentic SE
+full_name: "Workshop on Agentic Software Engineering (SE 3.0): The Rise of AI Teammates"
+type: workshop
+tier: minor
+areas: [software, ai, data]
+region: worldwide
+language: english
+organizer: Workshop organizers (Hao Li, Haoxiang Zhang and Ahmed E. Hassan, Queen's University; Jie M. Zhang, King's College London; Yiling Lou, UIUC; Baishakhi Ray, Columbia University; Thomas Zimmermann, UC Irvine)
+organizer_country: [international]
+proceedings: OpenReview (accepted papers public; KDD workshop papers are not in the ACM DL)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [8]
+links:
+  website: https://agent-se.github.io/
+notes:
+- Workshop on AI coding agents as software engineering teammates (agentic pull requests, human review, cost, AgentOps)
+- Anchored by the AIDev dataset of over one million agentic pull requests; other datasets are welcome
+- First edition is a half-day (morning) workshop at ACM SIGKDD 2026, Jeju ICC, Korea, August 9, 2026
+- Long papers up to 8 pages, short and position papers up to 4 pages (excluding references) in the ACM KDD format, submitted via OpenReview
+- 20 accepted papers listed for 2026, with PDFs on OpenReview
+- KDD 2026 states that workshop papers are not archived in the ACM Digital Library
+- The workshop site states it is non-archival with no formal proceedings
+- Only one edition so far
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-08-09
+  end: 2026-08-09
+  location: Jeju, Korea (with KDD 2026, Jeju ICC)
+  url: https://agent-se.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-01
+    time: "23:59"
+    tz: AoE
+    label: Extended from May 10, 2026
+  - kind: notification
+    date: 2026-06-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://agent-se.github.io/
+- https://openreview.net/group?id=KDD.org/2026/Workshop/AgenticSE
+- https://kdd2026.kdd.org/workshops/
+- https://kdd2026.kdd.org/call-for-workshop-proposals/
+- https://portal.core.edu.au/conf-ranks/?search=Agentic&by=all&source=ICORE2026
+unverified:
+- Camera-ready date not stated on the official site
+- No 2027 edition announced as of 2026-11-07
+last_verified: 2026-11-07
