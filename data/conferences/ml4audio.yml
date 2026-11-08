@@ -1,0 +1,51 @@
+id: ml4audio
+name: ML4Audio
+full_name: Workshop on Machine Learning for Audio
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (2026 included Alice Baird, Chris Donahue, Sander Dieleman, Brian Kulis, David Liu,
+  Rachel Manzelli, Shrikanth Narayanan); co-located with ICML, NeurIPS or ICLR
+organizer_country: [international]
+proceedings: None (non-archival; accepted abstracts posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://mlforaudioworkshop.github.io/
+notes:
+- Machine learning for speech, music and environmental sound (generation, TTS, separation, audio language models)
+- Held at NeurIPS 2023, ICML 2025 (AI Heard That!) and ICML 2026 (Learning to Listen, Seoul)
+- Extended abstracts up to 4 pages in the ICML format; double-blind review; poster and live demo session
+- Non-archival; accepted submissions are posted on the website but not published
+- Modulate and Hume AI release large speech datasets for use in submissions
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: Learning to Listen (ICML 2026)
+  start: 2026-07-10
+  end: 2026-07-10
+  location: Seoul, Korea (co-located with ICML 2026)
+  url: https://mlforaudioworkshop.github.io/icml2026.html
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-05-25
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-01
+    tz: AoE
+sources:
+- https://mlforaudioworkshop.github.io/
+- https://mlforaudioworkshop.github.io/icml2026.html
+- https://mlforaudioworkshop.github.io/icml2025.html
+- https://icml.cc/virtual/2026/workshop/54087
+- https://portal.core.edu.au/conf-ranks/?search=ML4Audio&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- The website announces an ICLR 2027 edition but gives no date, location or deadlines yet

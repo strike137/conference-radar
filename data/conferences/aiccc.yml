@@ -1,0 +1,63 @@
+id: aiccc
+name: AICCC
+full_name: Artificial Intelligence and Cloud Computing Conference
+type: conference
+tier: minor
+areas: [ai, systems]
+region: japan
+language: english
+frequency: annual
+organizer: Commercially run; chairs from Japanese and US universities, hosted by a Tokyo university (The University of Electro-Communications in 2026)
+proceedings: ACM DL (ACM ICPS)
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://www.aiccc.net/
+notes:
+- Smaller commercially run conference (secretariat on a gmail address, submission via zmeeting, site registered in Shanghai)
+- Held in Japan every year since 2018 (Tokyo 2018, Kobe 2019, Osaka 2022, Kyoto 2023, Tokyo 2024 to 2026); online in 2020 and 2021
+- Proceedings in the ACM Digital Library every year, stated as indexed by EI Compendex and Scopus
+- Double-blind review by 2 to 3 reviewers; selected papers recommended to journal special issues
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  label: 8th AICCC
+  start: 2025-12-20
+  end: 2025-12-22
+  location: Tokyo University of Agriculture and Technology (Koganei campus), Tokyo, Japan
+  url: https://www.aiccc.net/2025.html
+- year: 2026
+  label: 9th AICCC
+  start: 2026-12-18
+  end: 2026-12-21
+  location: The University of Electro-Communications, Tokyo, Japan
+  url: https://www.aiccc.net/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-25
+  - kind: notification
+    date: 2026-11-10
+  - kind: other
+    date: 2026-11-20
+    label: Registration
+sources:
+- https://www.aiccc.net/
+- https://www.aiccc.net/important%20date.html
+- https://www.aiccc.net/publication.html
+- https://www.aiccc.net/committee.html
+- https://www.aiccc.net/2025.html
+- https://www.aiccc.net/2024.html
+- https://www.aiccc.net/2023.html
+- https://www.aiccc.net/2022.html
+- https://www.aiccc.net/2021.html
+- https://dl.acm.org/doi/proceedings/10.1145/3789982
+- https://portal.core.edu.au/conf-ranks/?search=AICCC&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Deadlines of AICCC 2025 not given on the official history page
+- Organizing company and its country not stated, so organizer_country is left out
+- No deadline time or time zone stated

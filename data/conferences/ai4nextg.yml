@@ -1,0 +1,54 @@
+id: ai4nextg
+name: AI4NextG
+full_name: Workshop on AI and ML for Next-Generation Wireless Communications and Networking
+type: workshop
+tier: minor
+areas: [ai, communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: AI4NextG workshop organizers (University of Virginia, Ericsson Research, Samsung Research America, UT Austin, King's College London, Qualcomm); co-located with NeurIPS or ICML
+organizer_country: [usa, europe]
+proceedings: None (non-archival; accepted papers on OpenReview)
+archival: false
+typical:
+  deadline_months: [5, 8]
+  conference_months: [7, 12]
+links:
+  website: https://ai4nextg.github.io/
+notes:
+- ML venue workshop bridging the AI/ML and wireless communities (6G, WiFi 9, O-RAN, AI-native protocols)
+- 1st edition at NeurIPS 2025 (San Diego, 61 accepted papers), 2nd at ICML 2026 (Seoul)
+- Non-archival with no formal proceedings; papers under submission elsewhere are allowed
+- Technical papers up to 6 pages, position papers up to 4, demo papers up to 2; double-blind review on OpenReview
+- Best Paper and Runner-up awards sponsored by Qualcomm
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 2nd edition, with ICML 2026
+  start: 2026-07-10
+  end: 2026-07-10
+  location: Seoul, South Korea
+  url: https://ai4nextg.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-04
+    tz: AoE
+    label: Extended from May 1
+  - kind: notification
+    date: 2026-05-31
+    tz: AoE
+    label: Postponed
+  - kind: camera_ready
+    date: 2026-07-31
+    tz: AoE
+sources:
+- https://ai4nextg.github.io/
+- https://ai4nextg.github.io/2025/
+- https://icml.cc/virtual/2026/workshop/54101
+- https://icml.cc/virtual/2026/events/workshop
+- https://openreview.net/group?id=ICML.cc/2026/Workshop/AI4NextG
+- https://portal.core.edu.au/conf-ranks/?search=AI4NextG&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced yet; not on the NeurIPS 2026 workshop list
+last_verified: 2026-11-07

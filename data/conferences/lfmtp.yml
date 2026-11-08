@@ -1,0 +1,79 @@
+id: lfmtp
+name: LFMTP
+full_name: "Workshop on Logical Frameworks and Meta-Languages: Theory and Practice"
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: LFMTP Steering Committee
+organizer_country: [international]
+proceedings: EPTCS
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [7]
+links:
+  website: https://lfmtp.github.io/lfmtp-page/
+notes:
+- Workshop on type theories, logical frameworks and meta-languages for representing and reasoning about deductive systems (binders, mechanized metatheory, proof assistants)
+- Formed in 2006 by merging the LFM and MERLIN workshops (series since 1999); LFMTP 2026 was the 21st edition
+- Affiliated with FSCD most years, sometimes with FLoC, CADE, IJCAR or LICS
+- Recent locations are Pittsburgh 2021, Haifa 2022, Rome 2023, Tallinn 2024, Birmingham 2025 and Lisbon 2026 (FLoC); mostly held in Europe
+- Accepts regular papers (15 pages), system descriptions (10 pages) and work in progress reports (8 pages) in EPTCS style
+- A selection of the presented papers appears in the open-access EPTCS series (LFMTP 2024 -> EPTCS 404, LFMTP 2025 -> EPTCS 431, LFMTP 2026 -> EPTCS 448)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  label: 20th LFMTP
+  start: 2025-07-19
+  end: 2025-07-19
+  location: Birmingham, UK (FSCD 2025)
+  url: https://lfmtp.github.io/lfmtp-page/workshops/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-09
+    tz: AoE
+    label: Extended from 2025-05-02
+  - kind: submission
+    date: 2025-05-16
+    tz: AoE
+    label: Extended from 2025-05-09
+  - kind: notification
+    date: 2025-06-08
+    tz: AoE
+- year: 2026
+  label: 21st LFMTP
+  start: 2026-07-24
+  end: 2026-07-24
+  location: Lisbon, Portugal (FLoC 2026, affiliated with FSCD 2026)
+  url: https://lfmtp.github.io/lfmtp-page/workshops/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-21
+    tz: AoE
+  - kind: submission
+    date: 2026-05-01
+    tz: AoE
+    label: Extended from 2026-04-28
+  - kind: notification
+    date: 2026-05-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-17
+    tz: AoE
+sources:
+- https://lfmtp.github.io/lfmtp-page/
+- https://lfmtp.github.io/lfmtp-page/workshops/
+- https://lfmtp.github.io/lfmtp-page/workshops/2026/
+- https://lfmtp.github.io/lfmtp-page/workshops/2025/
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?LFMTP26
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?LFMTP2025
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?LFMTP2024
+- https://portal.core.edu.au/conf-ranks/?search=LFMTP&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- LFMTP 2027 not announced on the official site as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

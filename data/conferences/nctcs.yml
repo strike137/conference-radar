@@ -1,0 +1,62 @@
+id: nctcs
+name: NCTCS
+full_name: CCF National Conference of Theoretical Computer Science
+name_local: CCF全国理论计算机科学学术年会
+type: conference
+tier: minor
+areas: [general]
+region: china
+language: mixed
+frequency: annual
+organizer: CCF (China Computer Federation), Technical Committee on Theoretical Computer Science
+organizer_country: [china]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7, 8]
+links:
+  website: https://conf.ccf.org.cn/TCS2026
+notes:
+- National Chinese theory conference sponsored by the China Computer Federation (CCF) and run by its Technical Committee on Theoretical Computer Science with a local host university
+- Topics include computational complexity, algorithms and data structures, logic and program theory, models of computation (quantum, economics, bioinformatics) and theory of AI and data science
+- Accepts Chinese or English papers; English papers go to a Springer CCIS volume of revised selected papers, Chinese papers are recommended to Chinese journals
+- Also invites talks on papers already published at top venues; those are presented but not included in the proceedings
+- "NCTCS 2025 (43rd edition) CCIS volume 2710: 10 papers selected from 83 submissions"
+- Held in a different Chinese city each year (Yinchuan 2021, Changchun 2022, Guangzhou 2023, Qingdao 2024, Kunming 2025, Jinhua 2026)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-03
+  end: 2025-08-05
+  location: Kunming, Yunnan, China
+  url: https://conf.ccf.org.cn/TCS2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-25
+    label: Papers (extended from 2025-05-16)
+  - kind: notification
+    date: 2025-07-13
+- year: 2026
+  start: 2026-08-23
+  end: 2026-08-25
+  location: Zhejiang Normal University, Jinhua, Zhejiang, China
+  url: https://conf.ccf.org.cn/TCS2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-28
+    label: Papers (extended from 2026-06-14)
+  - kind: notification
+    date: 2026-07-28
+sources:
+- https://conf.ccf.org.cn/TCS2026
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1486439887916896256177443648599
+- https://conf.ccf.org.cn/TCS2025
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1351543392185749504174227465515
+- https://link.springer.com/conference/nctcs
+- https://link.springer.com/book/10.1007/978-981-95-3643-6
+- https://portal.core.edu.au/conf-ranks/?search=NCTCS&by=all&source=ICORE2026
+unverified:
+- Whether the NCTCS 2026 CCIS volume has appeared (the 2026 CFP says it is planned)
+- NCTCS 2027 dates and location (not announced as of 2026-11-07)
+last_verified: 2026-11-07

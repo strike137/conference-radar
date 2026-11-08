@@ -1,0 +1,86 @@
+id: pmbs
+name: PMBS
+full_name: International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: PMBS organizers (University of York, TU Wien), held with SC
+organizer_country: [europe]
+proceedings: SC Workshops Proceedings (ACM DL 2025)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://pmbs-workshop.github.io/
+notes:
+- One-day workshop on performance modeling, benchmarking and simulation of HPC systems, held with SC since 2010; 2026 is the 17th edition (PMBS26)
+- Full papers of 8 pages and a Late-Breaking Research track with 4-page short papers, IEEE template, double-anonymous review
+- Accepted papers appear in the SC workshop proceedings (ACM DL for SC25; earlier volumes in IEEE Xplore, ACM DL and Springer LNCS)
+- Selected papers have been invited to journal special issues (Concurrency and Computation, FGCS, The Computer Journal)
+- Distinguished Student Paper award with a free SC workshop registration
+- Held at SC every year in the USA (Denver 2023, Atlanta 2024, St. Louis 2025, Chicago 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, MO, USA (with SC25)
+  url: https://pmbs-workshop.github.io/past-workshops/pmbs25/
+  deadlines:
+  - kind: submission
+    date: 2025-08-13
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended from 2025-08-06)
+  - kind: submission
+    date: 2025-09-03
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking and short papers
+  - kind: notification
+    date: 2025-09-12
+    label: Full papers
+  - kind: notification
+    date: 2025-09-19
+    label: Late-breaking and short papers
+  - kind: camera_ready
+    date: 2025-09-26
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: McCormick Place, Chicago, IL, USA (with SC26)
+  url: https://pmbs-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-09
+    time: "23:59"
+    tz: AoE
+    label: Full papers (extended firm deadline)
+  - kind: submission
+    date: 2026-08-26
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking and short papers
+  - kind: notification
+    date: 2026-09-07
+    label: Full papers (moved from 2026-09-04)
+  - kind: notification
+    date: 2026-09-09
+    label: Late-breaking and short papers
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://pmbs-workshop.github.io/
+- https://pmbs-workshop.github.io/submit.html
+- https://pmbs-workshop.github.io/past-workshops/pmbs25/
+- https://pmbs-workshop.github.io/past-workshops/pmbs25/proceedings.html
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=PMBS&by=all&source=ICORE2026
+unverified:
+- Publisher of the SC26 workshop proceedings not stated on the PMBS site
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

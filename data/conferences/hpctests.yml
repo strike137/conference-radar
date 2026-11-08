@@ -1,0 +1,67 @@
+id: hpctests
+name: HPCTESTS
+full_name: International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software
+type: workshop
+tier: minor
+areas: [systems, software]
+region: north-america
+language: english
+frequency: annual
+organizer: HPC System Test Working Group (hosted by OLCF), held with SC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (ACM template in 2025; IEEE templates in 2026)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2026
+notes:
+- Half-day workshop on HPC system testing, acceptance and regression testing, benchmarks and monitoring, held with SC since 2023 (2026 is the 4th edition)
+- Run by the HPC System Test Working Group; chairs and committee from HPC centers and vendors in the USA, Europe, Saudi Arabia and Australia
+- Papers of at least 4 two-column pages excluding bibliography (IEEE template in 2026), single-blind review
+- Follows the SC reproducibility initiative; only the Artifact Evaluation-Functional badge is offered
+- Listed by SC26 among the workshops with papers in the SC Workshop Proceedings
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-21
+  end: 2025-11-21
+  location: St. Louis, MO, USA (with SC25)
+  url: https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2025
+  deadlines:
+  - kind: submission
+    date: 2025-08-07
+    tz: AoE
+    label: Extended from 2025-08-01
+  - kind: notification
+    date: 2025-09-05
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-29
+    tz: AoE
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-20
+  location: Chicago, IL, USA (with SC26)
+  url: https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    tz: AoE
+    label: Extended from 2026-08-03
+  - kind: notification
+    date: 2026-09-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-25
+    tz: AoE
+sources:
+- https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2026
+- https://olcf.github.io/hpc-system-test-wg/hpctests/hpctests2025
+- https://olcf.github.io/hpc-system-test-wg/
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=HPCTESTS&by=all&source=ICORE2026
+unverified:
+- Publisher of the SC26 Workshop Proceedings (IEEE Xplore or ACM DL) not stated on the HPCTESTS or SC26 pages
+last_verified: 2026-11-07

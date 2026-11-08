@@ -1,0 +1,59 @@
+id: chomps
+name: CHOMPS
+full_name: Workshop on Confabulation, Hallucinations and Overgeneration in Multilingual and Practical Settings
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: University of Lorraine, University of Helsinki, UiT Tromso and Charles University; co-located with an ACL conference
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://chomps2025.github.io/
+notes:
+- Workshop on LLM hallucination detection and mitigation, focused on multilingual and precision-critical (medical, legal) settings
+- 1st edition with IJCNLP-AACL 2025 in Mumbai, India, with a hallucination detection shared task
+- Archival and non-archival papers up to 8 pages (long) or 4 pages (short), plus 1-page dissemination submissions
+- Double-blind review via OpenReview; ARR commitments accepted
+- Archival papers in the ACL Anthology (2025.chomps-main, 10 papers)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  label: 1st edition, with IJCNLP-AACL 2025
+  start: 2025-12-23
+  end: 2025-12-23
+  location: Mumbai, India
+  url: https://chomps2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-10-03
+    time: "23:59"
+    tz: UTC-11
+    label: Extended from September 29
+  - kind: other
+    date: 2025-10-27
+    time: "23:59"
+    tz: UTC-11
+    label: ARR commitment
+  - kind: notification
+    date: 2025-11-03
+    time: "23:59"
+    tz: UTC-11
+  - kind: camera_ready
+    date: 2025-11-14
+    time: "23:59"
+    tz: UTC-11
+sources:
+- https://chomps2025.github.io/
+- https://aclanthology.org/volumes/2025.chomps-main/
+- https://portal.core.edu.au/conf-ranks/?search=CHOMPS&by=all&source=ICORE2026
+unverified:
+- The important dates say 11:59 PM Samoa Standard Time (UTC-11) and also call it Anywhere on Earth; the extension notice says AoE. Recorded as UTC-11
+- Only one edition so far; no second edition announced as of 2026-11-07, so region and frequency are guesses
+last_verified: 2026-11-07

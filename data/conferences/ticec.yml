@@ -1,0 +1,54 @@
+id: ticec
+name: TICEC
+full_name: Conference on Information and Communication Technologies of Ecuador (Conferencia Ecuatoriana de Tecnologías de la Información y la Comunicación)
+type: conference
+tier: minor
+areas: [general, ai, data]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: CEDIA (Ecuadorian research and education network) with a host Ecuadorian university
+organizer_country: [other]
+proceedings: Springer CCIS
+archival: true
+indexing: [Scopus, DBLP, EI]
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://ticec2026.cedia.edu.ec/
+notes:
+- Ecuador's national ICT conference, organized by CEDIA since 2013 (14th edition in 2026)
+- Scientific track papers in Springer CCIS (indexed in Scopus, EI Compendex, DBLP); technical track papers in a special issue of the RTE ESPOL journal
+- Scientific track requires full papers in English, 12 to 15 pages, double-blind review via EasyChair, at most 6 authors
+- Held in Ecuador, rotating between cities (Manta 2022, Cuenca 2023, Loja 2024, Quito 2025, Ambato 2026)
+- Also has a doctoral consortium, workshops and demos
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-10-15
+  end: 2026-10-16
+  location: Ambato, Ecuador (Universidad Indoamérica)
+  url: https://ticec2026.cedia.edu.ec/
+  deadlines:
+  - kind: submission
+    date: 2026-06-28
+    time: "23:59"
+    tz: UTC-5
+  - kind: notification
+    date: 2026-08-11
+  - kind: camera_ready
+    date: 2026-08-16
+    time: "23:59"
+    tz: UTC-5
+sources:
+- https://ticec2026.cedia.edu.ec/
+- https://ticec2026.cedia.edu.ec/acerca-de/
+- https://ticec2026.cedia.edu.ec/track-cientifico/
+- https://ticec2026.cedia.edu.ec/publicaciones/
+- https://link.springer.com/conference/ticec
+- https://portal.core.edu.au/conf-ranks/?search=TICEC&by=all&source=ICORE2026
+unverified:
+- TICEC 2027 not yet announced
+- DBLP venue page could not be checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

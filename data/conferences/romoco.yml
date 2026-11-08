@@ -1,0 +1,60 @@
+id: romoco
+name: RoMoCo
+full_name: International Workshop on Robot Motion and Control
+type: conference
+tier: minor
+areas: [ai, systems]
+region: europe
+language: english
+frequency: irregular
+organizer: Institute of Automatic Control and Robotics, Poznan University of Technology
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [7]
+links:
+  website: https://romoco.put.poznan.pl/
+notes:
+- Standalone robotics workshop held at Poznan University of Technology, Poland, since 1999
+- Technically co-sponsored by IEEE RAS; under the auspices of the Committee of Automatic Control and Robotics of the
+  Polish Academy of Sciences
+- Accepted and presented papers are expected to be published in IEEE Xplore (2027 CFP); the 2024 CFP said the same
+- Robot control, motion planning, multi-robot systems, perception, teleoperation, autonomous vehicles
+- Roughly biennial until 2019, then 2024 (13th) and 2027 (14th)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2024
+  start: 2024-07-02
+  end: 2024-07-04
+  location: Poznan University of Technology, Poznan, Poland
+  url: https://fee.put.poznan.pl/sites/default/files/2024-01/CFP_RoMoCo2024v3.pdf
+  deadlines:
+  - kind: submission
+    date: 2024-01-26
+  - kind: notification
+    date: 2024-04-09
+  - kind: camera_ready
+    date: 2024-05-11
+    label: Revised papers
+- year: 2027
+  start: 2027-06-30
+  end: 2027-07-02
+  location: Poznan University of Technology, Poznan, Poland
+  url: https://romoco.put.poznan.pl/
+  deadlines:
+  - kind: submission
+    date: 2027-02-13
+  - kind: notification
+    date: 2027-04-23
+  - kind: camera_ready
+    date: 2027-05-29
+    label: Revised papers
+sources:
+- https://romoco.put.poznan.pl/
+- https://romoco.put.poznan.pl/call-for-papers/
+- https://romoco.put.poznan.pl/history/
+- https://fee.put.poznan.pl/sites/default/files/2024-01/CFP_RoMoCo2024v3.pdf
+- https://portal.core.edu.au/conf-ranks/?search=RoMoCo&by=all&source=ICORE2026
+last_verified: 2026-11-07

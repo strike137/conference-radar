@@ -1,0 +1,56 @@
+id: dronet
+name: DroNet
+full_name: Workshop on Micro Aerial Vehicle Networks, Systems, and Applications
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop co-chairs (University of Montana, University of Klagenfurt) and steering committee (JKU Linz, University of
+  Padua, KU Leuven, Macquarie University, Northeastern University); co-located with ACM MobiSys
+organizer_country: [europe, usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/dronet2025/
+notes:
+- Workshop on drones as mobile computing platforms (drone networking, systems, applications), held with ACM MobiSys
+- 10th edition at MobiSys 2024 in Tokyo, 11th at MobiSys 2025 in Anaheim
+- Full papers up to 6 pages; 2-page poster and demo papers; single-blind review in MobiSys format
+- Proceedings in the ACM Digital Library (10th edition proceedings DOI prefix 10.1145/3661810)
+- Not among the MobiSys 2026 workshops
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  label: 11th DroNet, with ACM MobiSys 2025
+  start: 2025-06-27
+  end: 2025-06-27
+  location: Anaheim, California, USA
+  url: https://sites.google.com/view/dronet2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-04
+    label: Extended from 2025-04-19
+  - kind: notification
+    date: 2025-05-19
+    label: Moved from 2025-05-16
+  - kind: camera_ready
+    date: 2025-05-23
+sources:
+- https://sites.google.com/view/dronet2025/
+- https://sites.google.com/view/dronet2025/submissions
+- https://sites.google.com/view/dronet2025/committee
+- https://sites.google.com/view/dronet2024/
+- https://www.sigmobile.org/mobisys/2025/accepted_workshops/
+- https://www.sigmobile.org/mobisys/2025/call_for_workshops/
+- https://www.sigmobile.org/mobisys/2026/accepted_workshops/
+- https://doi.org/10.1145/3661810.3663469
+- https://portal.core.edu.au/conf-ranks/?search=DroNet&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found; not listed among MobiSys 2026 workshops, so whether the series continues is unknown
+- Region judged from the MobiSys host cities; editions before 2024 not checked on official pages
+last_verified: 2026-11-07

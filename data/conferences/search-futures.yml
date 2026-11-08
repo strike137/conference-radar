@@ -1,0 +1,47 @@
+id: search-futures
+name: Search Futures
+full_name: Search Futures Workshop
+type: workshop
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Search Futures organizing committee (IR researchers), co-located with ECIR
+organizer_country: [international]
+proceedings: None (talk abstracts only; organizers publish a workshop report)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [3, 4]
+links:
+  website: https://searchfutures.github.io/
+notes:
+- Full-day discussion workshop on the future of information retrieval, held with ECIR since 2024
+- Call for speakers, not for papers; submit a one-page abstract (up to 600 words) for a lightning talk
+- Abstracts get single-blind review via EasyChair
+- No proceedings; the outcome is a report written by the organizers (the 2nd edition report is in the ACM DL)
+- Editions at ECIR 2024 (Glasgow), ECIR 2025 (Lucca) and ECIR 2026 (Delft)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-04-02
+  end: 2026-04-02
+  location: Delft, The Netherlands (ECIR 2026)
+  url: https://searchfutures.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-14
+    tz: AoE
+    label: Talk abstract
+  - kind: notification
+    date: 2026-02-21
+    tz: AoE
+sources:
+- https://searchfutures.github.io/
+- https://searchfutures.github.io/searchfuture01/
+- https://searchfutures.github.io/searchfuture02/
+- https://portal.core.edu.au/conf-ranks/?search=Search+Futures&by=all&source=ICORE2026
+unverified:
+- No 4th edition (ECIR 2027) announced as of 2026-11-07
+last_verified: 2026-11-07

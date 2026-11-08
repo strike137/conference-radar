@@ -1,0 +1,62 @@
+id: llvm-hpc
+name: LLVM-HPC
+full_name: Workshop on the LLVM Compiler Infrastructure in HPC
+type: workshop
+tier: minor
+areas: [software, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: LLVM-HPC organizing committee (AMD, NVIDIA, Los Alamos National Laboratory, Tactical Computing Laboratories), held with SC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (IEEE Xplore 2026)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://llvm-in-hpc-workshop.github.io/LLVM-HPC-2026-Workshop.github.io/
+notes:
+- One-day workshop on LLVM, MLIR and Flang based compilers, tools and runtimes for HPC and AI, held with SC; 2026 is the 12th edition
+- In cooperation with IEEE Computer Society and ACM
+- Contributed papers of at least 5 pages (8 two-column pages maximum in 2026, excluding references) plus an invited talk and short talks
+- Accepted papers appear in the SC workshop proceedings (IEEE Xplore for SC26)
+- 2026 papers use the IEEE template; 2025 used the ACM template with single-blind review
+- Held at SC every year in the USA (St. Louis 2025, Chicago 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, MO, USA (with SC25)
+  url: https://llvm-in-hpc-workshop.github.io/LLVM-HPC-2025-Workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    tz: AoE
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-22
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-16
+  location: Chicago, IL, USA (with SC26)
+  url: https://llvm-in-hpc-workshop.github.io/LLVM-HPC-2026-Workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    tz: AoE
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://llvm-in-hpc-workshop.github.io/LLVM-HPC-2026-Workshop.github.io/
+- https://llvm-in-hpc-workshop.github.io/LLVM-HPC-2025-Workshop.github.io/
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=LLVM&by=all&source=ICORE2026
+unverified:
+- Publisher of the SC25 workshop proceedings for LLVM-HPC 2025 not confirmed on the workshop page (it names IEEE Xplore but asked for the ACM template)
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

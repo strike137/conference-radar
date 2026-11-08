@@ -1,0 +1,55 @@
+id: qbf-workshop
+name: QBF
+full_name: International Workshop on Quantified Boolean Formulas and Beyond
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: QBF Workshop organizers (co-located with SAT)
+organizer_country: [international]
+proceedings: None (extended abstracts in a public technical report)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://qbf-workshop.github.io
+notes:
+- Workshop on QBF theory, solving and applications, and on related quantified formalisms (DQBF, QCSP, SMT with quantifiers)
+- Affiliated with and co-located with the SAT conference; QBF 2026 was the 13th edition, at FLoC 2026 in Lisbon
+- Earlier editions co-located with SAT 2020, SAT 2021 (virtual) and SAT 2022 (hybrid)
+- Extended abstracts on published, unpublished or in-progress work, plus short tutorial proposals; no mandatory format
+- Discussions and extended abstracts are collected in a public technical report, not a formal proceedings series
+- Hosts the QBF Gallery solver evaluation (2026 edition)
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: 13th QBF
+  start: 2026-07-19
+  end: 2026-07-19
+  location: Lisbon, Portugal (FLoC 2026, affiliated with SAT 2026)
+  url: https://qbf-workshop.github.io
+  deadlines:
+  - kind: submission
+    date: 2026-05-13
+    tz: AoE
+  - kind: notification
+    date: 2026-05-27
+    tz: AoE
+sources:
+- https://qbf-workshop.github.io
+- https://qbf-workshop.github.io/dates/
+- https://qbf-workshop.github.io/submissions/
+- https://qbf-workshop.github.io/organisation/
+- https://satlive.org/2026/03/11/qbf26-cfp.html
+- https://ac.tuwien.ac.at/qbf2022/
+- https://www.ac.tuwien.ac.at/qbf2021/
+- https://www.ac.tuwien.ac.at/qbf2020/
+- https://portal.core.edu.au/conf-ranks/?search=QBF&by=all&source=ICORE2026
+unverified:
+- QBF 2025 site (qbf.pages.sai.jku.at/qbf25) could not be fetched, so the 2025 dates and location are not checked; 2023 and 2024 editions not checked
+- QBF 2027 not announced as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

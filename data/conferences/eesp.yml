@@ -1,0 +1,70 @@
+id: eesp
+name: EESP
+full_name: "International Workshop on Energy Efficiency with Sustainable Performance: Techniques, Tools, and Best Practices"
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: NHR@FAU (Erlangen National High Performance Computing Center), held with ISC and SC
+organizer_country: [europe]
+proceedings: ISC workshop proceedings (Springer LNCS) for ISC editions; SC Workshops Proceedings (IEEE Xplore) for SC editions
+archival: true
+acceptance_rate: 33% (SC 2026, 15/45)
+typical:
+  deadline_months: [3, 8]
+  conference_months: [6, 11]
+links:
+  website: https://ayeshaafzal91.github.io/eesp/
+notes:
+- Workshop on energy efficiency and sustainable performance in HPC and AI (energy-aware software, power management, monitoring, benchmarking, procurement)
+- Started with ISC 2025 in Hamburg; held with ISC in June (Springer LNCS) and since 2026 also with IEEE/ACM SC in November (IEEE Xplore)
+- SC edition uses double-blind review with at least three reviews; short (4 pages) and regular (8 pages) papers
+- Best papers invited to a special issue of the International Journal of High Performance Computing Applications (IJHPCA)
+- General chair Ayesha Afzal (NHR@FAU, Germany)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-26
+  end: 2026-06-26
+  location: Hamburg, Germany (with ISC 2026)
+  url: https://ayeshaafzal91.github.io/eesp/ISC26.html
+  deadlines:
+  - kind: submission
+    date: 2026-03-20
+    tz: AoE
+    label: ISC 2026 edition (extended from March 1)
+  - kind: notification
+    date: 2026-04-19
+    tz: AoE
+    label: ISC 2026 edition
+  - kind: camera_ready
+    date: 2026-05-26
+    tz: AoE
+    label: ISC 2026 edition
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Chicago, IL, USA (with SC26)
+  url: https://ayeshaafzal91.github.io/eesp/SC26
+  deadlines:
+  - kind: submission
+    date: 2026-08-05
+    tz: AoE
+    label: SC26 edition (extended from July 25, firm)
+  - kind: notification
+    date: 2026-09-02
+    tz: AoE
+    label: SC26 edition
+  - kind: camera_ready
+    date: 2026-09-25
+    tz: AoE
+    label: SC26 edition
+sources:
+- https://ayeshaafzal91.github.io/eesp/SC26
+- https://ayeshaafzal91.github.io/eesp/ISC26.html
+- https://ayeshaafzal91.github.io/eesp/2025.html
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=EESP&by=all&source=ICORE2026
+last_verified: 2026-11-07

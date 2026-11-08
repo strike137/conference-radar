@@ -1,0 +1,68 @@
+id: ieee-mesa
+name: MESA
+full_name: IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE ITSS and ASME (MESA Technical Committee)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, EI]
+typical:
+  deadline_months: [6, 7]
+  conference_months: [8, 11]
+links:
+  website: https://ieee-mesa.org/
+  dblp: https://dblp.org/db/conf/mesa/index.html
+notes:
+- Mechatronics and embedded systems conference run by the ASME/IEEE MESA Technical Committee; financially co-sponsored by IEEE ITSS
+- Accepted and presented papers go to IEEE Xplore and are submitted to Scopus and Ei Compendex
+- Full papers of 6 to 8 pages, submitted via PaperCept; single-blind review
+- Location rotates worldwide (Taipei 2022, Genova 2024, Macau 2025, Beijing 2026)
+- The MESA committee also runs an ASME-led MESA within ASME IDETC/CIE in odd years (Anaheim 2025)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-08
+  end: 2025-11-10
+  location: Macau, China
+  url: https://ieee-mesa.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-30
+  - kind: notification
+    date: 2025-09-08
+  - kind: camera_ready
+    date: 2025-10-15
+- year: 2026
+  start: 2026-08-16
+  end: 2026-08-19
+  location: Beijing, China
+  url: https://ieee-mesa.org/2026/
+  deadlines:
+  - kind: other
+    date: 2026-04-30
+    label: Session proposals
+  - kind: submission
+    date: 2026-06-15
+    label: Extended from 2026-05-31
+  - kind: notification
+    date: 2026-07-15
+  - kind: camera_ready
+    date: 2026-07-22
+sources:
+- https://ieee-mesa.org/
+- https://ieee-mesa.org/2025/
+- https://ieee-mesa.org/2025/contributions/call-for-papers/
+- https://ieee-mesa.org/2026/
+- https://ieee-mesa.org/2026/contributions/call-for-papers/
+- https://ieee-itss.org/conf/mesa/
+- https://iel.ucdavis.edu/mesa/conferences.php
+- https://portal.core.edu.au/conf-ranks/?search=MESA&by=all&source=ICORE2026
+unverified:
+- MESA 2027 not announced yet
+last_verified: 2026-11-07

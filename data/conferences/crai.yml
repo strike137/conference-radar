@@ -1,0 +1,51 @@
+id: crai
+name: CRAI
+full_name: International Workshop on Composable Resilience for Agentic AI
+type: workshop
+tier: minor
+areas: [ai, security, systems]
+region: north-america
+language: english
+organizer: Texas A&M University (Eman Hammad) and Texas A&M Global Cyber Research Institute, held with IEEE/IFIP DSN
+organizer_country: [usa]
+proceedings: IEEE Xplore (DSN-W supplemental volume)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://crai-ws.org/
+notes:
+- Workshop on dependable and secure agentic AI through compositional design (verified orchestration, fault tolerance, runtime assurance, secure agent communication)
+- First edition in 2026, co-located with IEEE/IFIP DSN 2026 in Charlotte; shared a room with the RASACC workshop on the workshop day
+- Regular papers 8 pages, short or position papers 4 pages, vision papers up to 15 pages; IEEE Computer Society two-column format
+- Double-blind review for regular research papers; submission via the DSN 2026 EasyChair
+- DSN workshop papers are published in the DSN-W supplemental volume on IEEE Xplore
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-22
+  location: Charlotte, NC, USA (with DSN 2026)
+  url: https://crai-ws.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-10
+    tz: AoE
+  - kind: notification
+    date: 2026-04-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-27
+    tz: AoE
+sources:
+- https://crai-ws.org/
+- https://crai-ws.org/files/CRAI2026_flyer.pdf
+- https://dsn2026.github.io/cfworkshops.html
+- https://dsn2026.github.io/workshop_crai.html
+- https://dsn2026.github.io/cproglance.html
+- https://portal.core.edu.au/conf-ranks/?search=CRAI&by=all&source=ICORE2026
+unverified:
+- Proceedings stated on the DSN 2026 call for workshops, not on the CRAI site
+- No 2027 edition announced yet
+last_verified: 2026-11-07

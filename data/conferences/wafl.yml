@@ -1,0 +1,69 @@
+id: wafl
+name: WAFL
+full_name: Workshop on Advancements in Federated Learning
+type: workshop
+tier: minor
+areas: [ai, security]
+region: europe
+language: english
+frequency: annual
+organizer: WAFL workshop organizers (University of Torino, University of Naples Federico II, L3S Research Center); co-located with ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (ECML PKDD workshops post-proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://wafl2026.di.unito.it/
+notes:
+- Workshop on federated learning (non-IID data, security and privacy, fairness, interpretability, decentralized FL), co-located with ECML PKDD; 4th edition in 2026, themed on trustworthy FL
+- Short papers 6 pages and long papers 12 pages plus references, ECML PKDD format, double-blind, via Microsoft CMT
+- Accepted short and long papers go into the Springer CCIS ECML PKDD workshop proceedings; authors can opt out
+- Non-archival track for papers accepted or under review elsewhere
+- Selected 2026 papers invited to a special issue of Discover Artificial Intelligence (Springer)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 3rd edition, with ECML PKDD 2025
+  start: 2025-09-15
+  end: 2025-09-15
+  location: Porto, Portugal (ECML PKDD 2025)
+  url: https://wafl2025.di.unito.it/
+  deadlines:
+  - kind: submission
+    date: 2025-06-22
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 14
+  - kind: notification
+    date: 2025-07-22
+    time: "23:59"
+    tz: AoE
+    label: Moved from July 14
+- year: 2026
+  label: 4th edition, with ECML PKDD 2026
+  start: 2026-09-11
+  end: 2026-09-11
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://wafl2026.di.unito.it/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    label: Extended from June 5
+  - kind: notification
+    date: 2026-07-01
+  - kind: camera_ready
+    date: 2026-07-10
+sources:
+- https://wafl2026.di.unito.it/
+- https://wafl2026.di.unito.it/important-dates
+- https://wafl2025.di.unito.it/
+- https://wafl2025.di.unito.it/important-dates
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://portal.core.edu.au/conf-ranks/?search=WAFL&by=all&source=ICORE2026
+unverified:
+- WAFL 2027 not announced as of 2026-11-07
+- First and second editions (sites wafl2023/wafl2024 could not be reached) not checked
+- dblp page not checked (dblp returned a bot check)
+last_verified: 2026-11-07

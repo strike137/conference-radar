@@ -1,0 +1,64 @@
+id: web-as-corpus
+name: WaC
+full_name: Web-as-Corpus Workshop
+type: workshop
+tier: minor
+areas: [nlp, data]
+region: europe
+language: english
+frequency: irregular
+organizer: ACL SIGWAC (Special Interest Group on Web as Corpus)
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://wackyworkshop.org/
+notes:
+- Long-running workshop series on web corpora since 2005, endorsed by ACL SIGWAC; 13th edition (WaC-13) in 2026
+- Co-located with different NLP and linguistics conferences (EMNLP 2026, LREC 2020, Corpus Linguistics 2017, ACL 2016,
+  EACL 2014)
+- Mostly held in Europe (Budapest 2026, Marseille 2020, Birmingham 2017, Berlin 2016, Herstmonceux 2015, Gothenburg 2014)
+- WaC-12 (LREC 2020) was cancelled but its proceedings were published
+- 2026 edition also endorsed by the Common Crawl Foundation and the OpenEuroLLM project
+- Long (8 pages) and short (4 pages) papers; direct submission on OpenReview or ARR commitment; archival or non-archival
+  option
+- Proceedings in the ACL Anthology (30 papers in 2026)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: WaC-13, with EMNLP 2026
+  start: 2026-10-29
+  end: 2026-10-29
+  location: Budapest, Hungary
+  url: https://wackyworkshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-15
+    time: "23:59"
+    tz: AoE
+    label: Direct paper submission
+  - kind: other
+    date: 2026-09-01
+    time: "23:59"
+    tz: AoE
+    label: Pre-reviewed ARR commitment
+  - kind: notification
+    date: 2026-09-10
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-20
+    time: "23:59"
+    tz: AoE
+sources:
+- https://wackyworkshop.org/
+- https://sigwac.org
+- https://aclanthology.org/venues/wac/
+- https://aclanthology.org/volumes/2026.wac-1/
+- https://portal.core.edu.au/conf-ranks/?search=Web+as+Corpus&by=all&source=ICORE2026
+unverified:
+- Next WaC edition not announced as of 2026-11-07
+last_verified: 2026-11-07

@@ -1,0 +1,53 @@
+id: sede
+name: SEDE
+full_name: ISCA International Conference on Software Engineering and Data Engineering
+type: conference
+tier: minor
+areas: [software, data]
+region: north-america
+language: english
+frequency: annual
+organizer: ISCA (International Society for Computers and Their Applications)
+organizer_country: [usa]
+proceedings: Springer CCIS
+archival: true
+indexing: [Scopus, EI, DBLP]
+acceptance_rate: 62% (2025, 26/42)
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://www.isca-hq.org/SEDE/index.html
+notes:
+- Software engineering and data engineering conference of ISCA (35th edition in 2026), co-located with CAINE
+- Proceedings in Springer CCIS since 2024; earlier volumes (2019 to 2021 listed by ISCA) in EasyChair EPiC Series in Computing
+- Held in the USA (San Diego 2024, New Orleans 2025, San Francisco 2026)
+- Single-blind review by at least two experts, no page limit; best paper award
+- Not listed in ICORE2026 or the CCF 2026 list
+- Extended papers may go to the ISCA journal (IJCA)
+editions:
+- year: 2026
+  start: 2026-10-19
+  end: 2026-10-20
+  location: San Francisco, CA, USA (Crowne Plaza San Francisco Airport)
+  url: https://www.isca-hq.org/SEDE/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-07-30
+    label: Papers (extended from 2026-07-15)
+  - kind: notification
+    date: 2026-08-10
+  - kind: camera_ready
+    date: 2026-08-25
+sources:
+- https://www.isca-hq.org/isca.php?p=Conferences
+- https://www.isca-hq.org/isca.php?p=Proceedings
+- https://www.isca-hq.org/SEDE/index.html
+- https://www.isca-hq.org/SEDE/publications.html
+- https://link.springer.com/conference/sede
+- https://link.springer.com/book/10.1007/978-3-032-08649-5
+- https://portal.core.edu.au/conf-ranks/?search=SEDE&by=all&source=ICORE2026
+unverified:
+- SEDE 2027 not announced yet
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

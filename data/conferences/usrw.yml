@@ -1,0 +1,55 @@
+id: usrw
+name: USRW
+full_name: Unified Search and Recommendation Workshop
+type: workshop
+tier: minor
+areas: [data, ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizers (Spotify, University of Glasgow, Deezer); co-located with ACM RecSys
+organizer_country: [europe]
+proceedings: Workshop website (non-archival)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://usrw-workshop.github.io/2026
+notes:
+- Full-day workshop on the convergence of information retrieval and recommender systems (unified architectures, generative retrieval, semantic IDs, shared evaluation)
+- First edition in 2026 with RecSys 2026 in Minneapolis; organizers are collecting feedback for a 2027 edition
+- Non-archival; accepted papers are hosted on the workshop website
+- Papers of 4 to 9 pages in ACM sigconf format, double-blind review by at least two reviewers, via EasyChair
+- At least one author must attend in person; best paper award
+- Not listed in the CORE ICORE2026 portal and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-10-02
+  end: 2026-10-02
+  location: Minneapolis, Minnesota, USA (co-located with RecSys 2026)
+  url: https://usrw-workshop.github.io/2026
+  deadlines:
+  - kind: submission
+    date: 2026-07-27
+    time: "23:59"
+    tz: AoE
+    label: Extended from July 20
+  - kind: notification
+    date: 2026-08-14
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-28
+    time: "23:59"
+    tz: AoE
+sources:
+- https://usrw-workshop.github.io/2026
+- https://usrw-workshop.github.io/2026/call-for-papers.html
+- https://usrw-workshop.github.io/2026/config.js
+- https://recsys.acm.org/recsys26/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=USRW&by=all&source=ICORE2026
+unverified:
+- Only one edition so far; region and frequency follow the 2026 edition
+- No 2027 edition announced
+last_verified: 2026-11-07

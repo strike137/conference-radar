@@ -1,0 +1,47 @@
+id: dc2-fpga
+name: DC2-FPGA
+full_name: Workshop on FPGA Systems for Data Centers and Cloud
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+organizer: Workshop organizers (ETH Zurich, Tokyo University of Science), co-located with ACM SOSP
+organizer_country: [europe, japan]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://dc2fpga-workshop.github.io/
+notes:
+- Written DC²-FPGA; first edition co-located with SOSP 2026 in Prague
+- Half-day workshop on FPGA computing stacks at cloud scale (SmartNICs, accelerators, OS and hypervisor support, CXL memory, quantum control, cloud FPGA security)
+- "Format: hands-on Coyote tutorial (open-source HW/SW stack for data center FPGAs), invited talks and contributed talks"
+- Contributed talks selected from short abstracts (up to 1000 words) sent through a Google Form; published and ongoing work both welcome
+- No papers or proceedings; talk only
+- Organized by Gustavo Alonso, Benjamin Ramhorst, Maximilian Heer (ETH Zurich) and Atsushi Koshiba (Tokyo University of Science, chair)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-09-29
+  end: 2026-09-29
+  location: Prague, Czechia (co-located with SOSP 2026)
+  url: https://dc2fpga-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-18
+    tz: AoE
+    label: Talk abstract
+  - kind: notification
+    date: 2026-07-29
+sources:
+- https://dc2fpga-workshop.github.io/
+- https://dc2fpga-workshop.github.io/about.md
+- https://sigops.org/s/conferences/sosp/2026/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=DC2-FPGA&by=all&source=ICORE2026
+unverified:
+- Whether a second edition will be held is not announced
+- region set from the single 2026 edition; the workshop may follow SOSP elsewhere
+last_verified: 2026-11-07

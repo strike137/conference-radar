@@ -1,0 +1,64 @@
+id: docinsights
+name: DocInsights
+full_name: Workshop on Document Intelligence and Understanding
+type: workshop
+tier: minor
+areas: [nlp, ai, vision]
+region: europe
+language: english
+organizer: Workshop organizing committee (Amazon, Oracle, Arizona State University, MBZUAI, Adobe, IT:U Austria and IBM Research Europe); co-located with EMNLP
+organizer_country: [usa, europe, other]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://docinsights-workshop.github.io/docinsights-2026/
+notes:
+- Workshop bridging NLP and document AI (layout, tables, forms, charts, multimodal and long-document reasoning, grounding, robustness to OCR noise)
+- First edition held with EMNLP 2026 in Budapest on 29 October 2026
+- Proceedings in the ACL Anthology (2026.docinsights-1, 34 papers); 48 accepted papers presented including non-archival ones
+- Long (8 pages) and short (4 pages) papers, double-blind review via OpenReview; archival and non-archival direct submissions, plus ARR commitments
+- Two shared tasks in 2026 (DocSem and Dr.DocBench) with system paper track
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: DocInsights 2026, with EMNLP 2026
+  start: 2026-10-29
+  end: 2026-10-29
+  location: Budapest, Hungary
+  url: https://docinsights-workshop.github.io/docinsights-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    time: "12:59"
+    tz: UTC
+    label: Direct submission (extended from August 2)
+  - kind: other
+    date: 2026-08-30
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-09-13
+  - kind: camera_ready
+    date: 2026-09-27
+  - kind: other
+    date: 2026-09-15
+    time: "23:59"
+    tz: UTC
+    label: Shared-task system papers
+sources:
+- https://docinsights-workshop.github.io/docinsights-2026/
+- https://docinsights-workshop.github.io/docinsights-2026/dates/
+- https://docinsights-workshop.github.io/docinsights-2026/call-for-papers/
+- https://docinsights-workshop.github.io/docinsights-2026/organizers/
+- https://2026.emnlp.org/program/workshops/
+- https://aclanthology.org/volumes/2026.docinsights-1/
+- https://aclanthology.org/venues/docinsights/
+- https://portal.core.edu.au/conf-ranks/?search=DocInsights&by=all&source=ICORE2026
+unverified:
+- Only one edition so far; frequency and next edition not announced
+last_verified: 2026-11-07

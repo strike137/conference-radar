@@ -1,0 +1,71 @@
+id: fidta
+name: FIDTA
+full_name: Workshop on Federated Intelligence and Digital Twins for Autonomous Systems and IoT
+type: workshop
+tier: minor
+areas: [ai, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Francesco Piccialli et al. (University of Naples Federico II)
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [10, 11]
+links:
+  website: https://modal-unina.github.io/FIDTA2026/
+notes:
+- Workshop co-located with ACM MobiHoc; first edition 2025 (Houston), second edition 2026 (Tokyo)
+- Topics are federated learning, digital twins, privacy-preserving and distributed AI for mobile, autonomous and IoT systems
+- Papers up to 6 pages in the ACM double-column template; single-blind review; submission via HotCRP
+- Accepted papers appear in the ACM Digital Library as part of the MobiHoc workshop proceedings
+- ACM Open Access from 2026; APC of 250 USD (ACM/SIG members) or 350 USD (non-members) unless the institution is in ACM Open
+- 2025 program had five papers in a half-day morning session
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: FIDTA 2025 (at MobiHoc 2025)
+  start: 2025-10-30
+  end: 2025-10-30
+  location: Houston, USA (with MobiHoc 2025)
+  url: https://fidta2025.github.io/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-08-03
+    label: Extended
+  - kind: notification
+    date: 2025-08-24
+  - kind: camera_ready
+    date: 2025-08-30
+    time: "23:59"
+    tz: UTC+1
+- year: 2026
+  label: FIDTA 2026 (at MobiHoc 2026)
+  start: 2026-11-26
+  end: 2026-11-26
+  location: Tokyo, Japan (with MobiHoc 2026)
+  url: https://modal-unina.github.io/FIDTA2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-07
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-08-31
+  - kind: camera_ready
+    date: 2026-09-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://modal-unina.github.io/FIDTA2026/
+- https://fidta2025.github.io/index.html
+- https://fidta2025.github.io/call_for_papers.html
+- https://fidta2025.github.io/accepted_papers.html
+- https://fidta2025.github.io/camera_ready.html
+- https://www.sigmobile.org/mobihoc/2025/workshop-FIDTA.html
+- https://portal.core.edu.au/conf-ranks/?search=FIDTA&by=all&source=ICORE2026
+unverified:
+- FIDTA 2025 CFP page gives the workshop date as October 27, 2025, while the later program page gives October 30, 2025; the program date is used
+- FIDTA 2026 notification date not stated on the official site
+last_verified: 2026-11-07

@@ -1,0 +1,48 @@
+id: nfmcp
+name: NFMCP
+full_name: International Workshop on New Frontiers in Mining Complex Patterns
+type: workshop
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizing committee (University of Bari Aldo Moro, ICAR-CNR, University of Naples Federico II, University of Udine); co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer (joint ECML PKDD post-workshop proceedings, named LNCS on the site)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://nfmcpworkshop.github.io/
+notes:
+- Workshop co-located with ECML PKDD, held in Europe every September; 14th edition in 2026 (first in 2012, no 2021 edition listed)
+- Italian organizing committee; the 2012 to 2015 edition sites were hosted by the University of Bari
+- Accepted papers go into the joint ECML PKDD post-workshop proceedings published by Springer; authors may opt in or out
+- The site names Lecture Notes in Computer Science but links the Springer CCIS series page (series 7899)
+- Regular papers up to 12 pages or extended abstracts up to 8 pages, references included, LNCS format, submitted via Microsoft CMT
+- Covers mining of complex data such as graphs, sequences, time series, spatio-temporal, multi-relational and semi-structured data
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-07
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://nfmcpworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-24
+    label: Extended from 2026-06-14
+  - kind: notification
+    date: 2026-07-16
+sources:
+- https://nfmcpworkshop.github.io/
+- https://nfmcpworkshop.github.io/2025/
+- https://portal.core.edu.au/conf-ranks/?search=NFMCP&by=all&source=ICORE2026
+unverified:
+- NFMCP 2027 (not announced as of 2026-11-07)
+- Exact Springer series (LNCS or CCIS) for the post-proceedings
+- Deadline time and time zone not stated on the official site
+- dblp page not checked (dblp blocked automated access)
+last_verified: 2026-11-07

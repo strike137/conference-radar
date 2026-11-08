@@ -1,0 +1,63 @@
+id: iccar
+name: ICCAR
+full_name: International Conference on Control, Automation and Robotics
+type: conference
+tier: minor
+areas: [ai, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Smaller commercially run series, sponsored each year by a host university (East China Jiaotong University in 2027)
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [12]
+  conference_months: [4]
+links:
+  website: https://www.iccar.org/
+notes:
+- Smaller commercially run conference (secretariat on outlook.com and yeah.net addresses, registration via zmeeting)
+- Held every April since 2016 (May in 2015); online 2020 to 2022, then Beijing 2023, Singapore 2024, Kyoto 2025, Nagoya 2026, Nanchang 2027
+- Proceedings in IEEE Xplore every year since 2015, stated as indexed by EI Compendex and Scopus
+- Full papers 4 to 10 pages, double-blind review; registration covers 6 pages, 70 USD per extra page
+- Abstract-only presentations accepted without publication
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 12th ICCAR
+  start: 2026-04-08
+  end: 2026-04-10
+  location: Nagoya, Japan
+  url: https://www.iccar.org/2026.html
+- year: 2027
+  label: 13th ICCAR
+  start: 2027-04-23
+  end: 2027-04-25
+  location: Nanchang, Jiangxi, China
+  url: https://www.iccar.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-12-25
+  - kind: notification
+    date: 2027-01-25
+  - kind: other
+    date: 2027-02-15
+    label: Registration
+  - kind: camera_ready
+    date: 2027-03-30
+sources:
+- https://www.iccar.org/
+- https://www.iccar.org/sub.html
+- https://www.iccar.org/pro.html
+- https://www.iccar.org/proceedings.html
+- https://www.iccar.org/2026.html
+- https://www.iccar.org/2025.html
+- https://portal.core.edu.au/conf-ranks/?search=ICCAR&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Publisher of the ICCAR 2027 proceedings not named on the official site (it says only ICCAR Conference Proceedings)
+- Deadlines of ICCAR 2026 not given on the official history page
+- Organizing company and its country not stated, so organizer_country is left out
+- No deadline time or time zone stated

@@ -1,0 +1,61 @@
+id: cvmi-microscopy
+name: CVMI (CVPR)
+full_name: IEEE Workshop on Computer Vision for Multimodal Microscopy Image Analysis
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (chairs from Gladstone Institutes/UCSF and Dolby, with Rutgers University and Recursion
+  Pharmaceuticals); co-located with CVPR
+organizer_country: [usa]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://cvmi-workshop.github.io/index.html
+notes:
+- Workshop on computer vision for microscopy and multimodal (imaging plus omics) biomedical data, held with CVPR
+- 11th edition in 2026; earlier editions held every year since 2016, with CVPR since at least 2022
+- Named "Computer Vision for Microscopy Image Analysis" until 2025; "Multimodal" added in 2026
+- Full papers up to 8 pages excluding references in CVPR style, double-blind review on Microsoft CMT, no rebuttal or supplementary material
+- Accepted papers appear in the CVPR Workshops proceedings on IEEE Xplore and CVF Open Access (7 papers on CVF Open Access in 2026)
+- Also takes short work-in-progress spotlight submissions and has run the CTMC cell tracking challenge
+- Hybrid format; talks recorded and posted on YouTube
+- Not related to the Indian IEEE CVMI conference (Computer Vision and Machine Intelligence)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://cvmi-workshop.github.io/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-03-08
+    tz: AoE
+  - kind: other
+    date: 2026-03-31
+    tz: AoE
+    label: Work-in-progress spotlight
+  - kind: notification
+    date: 2026-03-27
+  - kind: camera_ready
+    date: 2026-04-10
+    tz: AoE
+sources:
+- https://cvmi-workshop.github.io/index.html
+- https://cvmi-workshop.github.io/dates.html
+- https://cvmi-workshop.github.io/submission.html
+- https://cvmi-workshop.github.io/program.html
+- https://cvmi-workshop.github.io/venue.html
+- https://cvmi-workshop.github.io/pastcvmi.html
+- https://cvmi-workshop.github.io/CVMI2025/index.html
+- https://openaccess.thecvf.com/CVPR2026_workshops/CVMI
+- https://portal.core.edu.au/conf-ranks/?search=CVMI&by=all&source=ICORE2026
+unverified:
+- Next edition (expected with CVPR 2027) not announced yet
+last_verified: 2026-11-07

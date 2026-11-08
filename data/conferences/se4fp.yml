@@ -1,0 +1,76 @@
+id: se4fp
+name: SE4FP
+full_name: Workshop on Software Engineering for Functional Programming
+name_local: Workshop em Engenharia de Software para Programação Funcional
+type: workshop
+tier: domestic
+areas: [software]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: Co-located with CBSoft (Brazilian Conference on Software, SBC)
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://se4fp.github.io/2026/
+notes:
+- Brazilian workshop on software engineering for functional programming, for academia and industry; held since 2025, 2nd edition in 2026
+- Co-located with CBSoft (Recife 2025, São Paulo at IME-USP 2026)
+- Research papers up to 5 pages plus 1 page of references, industry papers up to 3 pages plus 1, CBSoft ACM-like template, Portuguese or English
+- Double-blind review with at least three PC members; submission via JEMS
+- Proceedings published in SBC OpenLib (SOL) as part of the CBSoft proceedings
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-23
+  end: 2025-09-23
+  location: Recife, Brazil (with CBSoft 2025)
+  url: https://se4fp.github.io/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-07-11
+    time: "23:59"
+    tz: AoE
+    label: Paper registration (extended)
+  - kind: submission
+    date: 2025-07-11
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-08-01
+  - kind: camera_ready
+    date: 2025-08-08
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: São Paulo, Brazil (IME-USP, with CBSoft 2026)
+  url: https://se4fp.github.io/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+    label: Paper registration (extended)
+  - kind: submission
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-08-03
+  - kind: camera_ready
+    date: 2026-08-10
+sources:
+- https://se4fp.github.io/2026/
+- https://se4fp.github.io/2025/
+- https://cbsoft.sbc.org.br/2026/pt/workshops/accepted
+- https://sol.sbc.org.br/index.php/se4fp/issue/archive
+- https://portal.core.edu.au/conf-ranks/?search=SE4FP&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not stated
+- SE4FP 2027 not yet announced
+last_verified: 2026-11-07

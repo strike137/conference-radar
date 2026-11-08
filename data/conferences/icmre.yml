@@ -1,0 +1,64 @@
+id: icmre
+name: ICMRE
+full_name: International Conference on Mechatronics and Robotics Engineering
+type: conference
+tier: minor
+areas: [ai, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Smaller commercially run series (academic.net secretariat), hosted by a European university (University of Agder in 2027)
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [11]
+  conference_months: [2, 3]
+links:
+  website: https://www.icmre.org/
+notes:
+- Smaller commercially run conference (secretariat on an academic.net address, registration via iconf.org)
+- Held since 2015 (Kuala Lumpur); mostly in Europe (Milan 2024, Lille 2025, Oldenburg 2026, Grimstad 2027); online 2021 to 2023
+- Proceedings in IEEE Xplore since 2020 (ACM 2017 to 2019, Springer 2016), stated as indexed by EI Compendex and Scopus
+- Double-blind review; manuscripts at least 4 pages; abstract-only presentations accepted
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 12th ICMRE
+  start: 2026-03-02
+  end: 2026-03-04
+  location: Oldenburg, Germany
+  url: https://www.icmre.org/2026.html
+- year: 2027
+  label: 13th ICMRE
+  start: 2027-03-03
+  end: 2027-03-05
+  location: University of Agder, Grimstad, Norway
+  url: https://www.icmre.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-11-25
+  - kind: notification
+    date: 2026-12-20
+  - kind: other
+    date: 2027-01-01
+    label: Registration
+  - kind: camera_ready
+    date: 2027-02-10
+sources:
+- https://www.icmre.org/
+- https://www.icmre.org/date.html
+- https://www.icmre.org/submission.html
+- https://www.icmre.org/2026.html
+- https://www.icmre.org/2025.html
+- https://www.icmre.org/2024.html
+- https://www.icmre.org/2023.html
+- https://www.icmre.org/2022.html
+- https://www.icmre.org/2021.html
+- https://portal.core.edu.au/conf-ranks/?search=ICMRE&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Deadlines of ICMRE 2026 not given on the official history page
+- Organizing company and its country not stated, so organizer_country is left out
+- No deadline time or time zone stated

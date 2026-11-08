@@ -1,0 +1,61 @@
+id: greensys
+name: GreenSys
+full_name: International Workshop on Systems and Methods for Sustainable Large-Scale AI
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Shashikant Ilager (University of Amsterdam) and Shaolei Ren (UC Riverside); co-located with ACM EuroSys
+organizer_country: [europe, usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [3, 4]
+links:
+  website: https://greensys-org.github.io/workshop/
+notes:
+- Workshop on energy and carbon efficiency of large-scale AI training and inference, AI data centers and environmental impact of AI
+- Co-located with ACM EuroSys (Rotterdam 2025, Edinburgh 2026)
+- Papers up to 6 pages including references, ACM sigconf format, single-blind review via HotCRP
+- Accepted papers published in the ACM Digital Library; one author must register and present
+- Program mixes invited talks, paper presentations and lightning talks; the 2025 edition also had journal-first presentations
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 1st edition, with EuroSys 2025
+  start: 2025-03-30
+  end: 2025-03-30
+  location: Rotterdam, Netherlands
+  url: https://greensys-org.github.io/workshop/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-19
+- year: 2026
+  label: 2nd edition, with EuroSys 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Edinburgh, Scotland, UK (EICC)
+  url: https://greensys-org.github.io/workshop/
+  deadlines:
+  - kind: submission
+    date: 2026-02-24
+    label: Extended from February 14
+  - kind: notification
+    date: 2026-03-16
+    label: Extended from March 12
+sources:
+- https://greensys-org.github.io/workshop/
+- https://greensys-org.github.io/workshop/call-for-papers/
+- https://greensys-org.github.io/workshop/committee/
+- https://greensys-org.github.io/workshop/2025/
+- https://2026.eurosys.org/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=GreenSys&by=all&source=ICORE2026
+unverified:
+- Deadline time and time zone not stated on the official site
+- Camera-ready date not stated for 2026
+- No 2027 edition announced as of 2026-11-07
+- Not in the CCF 2026 list as far as checked (workshop)
+last_verified: 2026-11-07

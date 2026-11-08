@@ -1,0 +1,53 @@
+id: nipa
+name: NIPA
+full_name: IEEE ICNP Workshop on Network Infrastructure and Protocols for AI Agents
+type: workshop
+tier: minor
+areas: [networking, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop co-chairs from Futurewei Technologies, LUMS and CUHK, co-located with IEEE ICNP
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://fwrsj.github.io/nipa2026
+notes:
+- Workshop on networking for the Internet of Agents (agent communication protocols such as MCP, A2A and ANP,
+  discovery, congestion control for agentic workloads, security of multi-agent systems)
+- Held with IEEE ICNP 2026 in Tempe, Arizona; not among the ICNP 2025 workshops
+- Original research, position papers and early-stage work; up to 6 pages including references in IEEE Computer
+  Society format; double-blind review via HotCRP
+- Accepted papers are published in the ICNP workshop proceedings in IEEE Xplore
+- Not listed in the CORE portal (ICORE2026) or the CCF list
+editions:
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-05
+  location: Tempe, USA (with IEEE ICNP 2026)
+  url: https://fwrsj.github.io/nipa2026
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2026-07-31
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-25
+    tz: AoE
+sources:
+- https://fwrsj.github.io/nipa2026
+- https://icnp26.cs.ucr.edu/
+- https://icnp26.cs.ucr.edu/cfw.html
+- https://ieeeicnp2025.pages.dev/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=NIPA&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) submission deadline of NIPA 2026
+- Whether NIPA continues with ICNP 2027
+last_verified: 2026-11-07

@@ -1,0 +1,54 @@
+id: ml4its
+name: ML4ITS
+full_name: International Workshop on Machine Learning for Irregular Time Series
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizing committee (NTNU and SINTEF, University of Pisa, KP Labs); co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (ECML PKDD post-workshop proceedings, opt-in)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://ml4its.github.io/ml4its2026/
+notes:
+- Workshop co-located with ECML PKDD (2021 virtual, then 2023 to 2026); 5th edition in Naples 2026
+- Grew out of the Norwegian Research Council project "Machine Learning for Irregular Time Series" at NTNU and SINTEF
+- Authors can opt in or out of the joint ECML PKDD post-workshop proceedings in Springer CCIS
+- Regular papers up to 14 pages and short papers up to 6 pages, including references, LNCS style; presentation-only track for already published work
+- 2026 edition had a special session on time series for space applications
+- In-person presentation by a fully registered author required for inclusion in the proceedings
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-11
+  end: 2026-09-11
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://ml4its.github.io/ml4its2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    tz: AoE
+    label: Extended from 2026-06-05
+  - kind: notification
+    date: 2026-07-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-20
+    tz: AoE
+sources:
+- https://ml4its.github.io/ml4its2026/
+- https://ml4its.github.io/ml4its2025/
+- https://ml4its.github.io/ml4its2024/
+- https://ml4its.github.io/ml4its2023/
+- https://ml4its.github.io/ml4its2021/
+- https://portal.core.edu.au/conf-ranks/?search=ML4ITS&by=all&source=ICORE2026
+unverified:
+- ML4ITS 2027 (not announced as of 2026-11-07)
+- dblp page not checked (dblp blocked automated access)
+last_verified: 2026-11-07

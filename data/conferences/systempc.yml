@@ -1,0 +1,52 @@
+id: systempc
+name: SysteMPC
+full_name: Workshop on Systems for Secure Multi-Party Computation
+type: workshop
+tier: minor
+areas: [security, crypto, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Boston University (BU systems research group and BU security group, RISCS)
+organizer_country: [usa]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [7, 9]
+links:
+  website: https://www.bu.edu/riscs/systempc-2026/
+notes:
+- Brings together systems researchers and cryptographers on deploying secure multi-party computation (MPC) in practice
+- Organized by Vasia Kalavri, John Liagouris and Mayank Varia (Boston University); supported by the MPC Alliance
+- 1st edition was a standalone event at Boston University (July 10, 2025); 2nd edition co-located with SOSP 2026 in Prague
+- Half-day workshop with a keynote, invited talk, contributed talks and posters
+- Submissions for full talks (20 min), lightning talks (5 min) and posters via a Google Form; published work and work in progress both welcome
+- No papers or proceedings; talks and posters only
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-07-10
+  end: 2025-07-10
+  location: Boston, MA, USA (Boston University, Duan Family Center for Computing and Data Sciences)
+  url: https://www.bu.edu/riscs/events/systempc-2025/
+- year: 2026
+  start: 2026-09-29
+  end: 2026-09-29
+  location: Prague, Czechia (co-located with SOSP 2026)
+  url: https://www.bu.edu/riscs/systempc-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    label: Talk and poster submission
+  - kind: notification
+    date: 2026-07-24
+sources:
+- https://www.bu.edu/riscs/systempc-2026/
+- https://www.bu.edu/riscs/events/systempc-2025/
+- https://sigops.org/s/conferences/sosp/2026/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=SysteMPC&by=all&source=ICORE2026
+unverified:
+- Deadlines of the 2025 edition are not stated on its official page
+- Submission deadline time zone not stated
+last_verified: 2026-11-07

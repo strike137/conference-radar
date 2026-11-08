@@ -1,0 +1,81 @@
+id: musiml
+name: MusIML
+full_name: Muslims in ML Workshop
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Muslims in ML (MusIML) community; co-located with NeurIPS
+organizer_country: [international]
+proceedings: None (accepted papers posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://www.musiml.org/
+notes:
+- Affinity workshop for Muslim researchers in machine learning and for ML research relevant to Muslim communities; first held at NeurIPS 2020
+- This entry tracks the NeurIPS editions; MusIML also runs workshops at ICML (4th at ICML 2025, 6th at ICML 2026 in Seoul on 2026-07-09)
+- Short (4 page) or long (8 page) papers, system demos and competition proposals; 2025 used double-blind review on OpenReview
+- "Non-archival: accepted papers are not in formal proceedings and can be submitted elsewhere"
+- Visa-friendly early deadline plus a regular deadline
+- NeurIPS 2025 edition accepted 60 papers with 300+ attendees
+- Requires NeurIPS workshop registration; fee coverage may be offered for one author of an accepted paper
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: 5th MusIML (NeurIPS 2025)
+  start: 2025-12-02
+  end: 2025-12-02
+  location: San Diego Convention Center, San Diego, CA, USA (co-located with NeurIPS 2025)
+  url: https://www.musiml.org/events/2025-NeurIPS/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-08-22
+    tz: AoE
+    label: Visa-friendly deadline
+  - kind: notification
+    date: 2025-08-31
+    tz: AoE
+    label: Visa-friendly notification
+  - kind: submission
+    date: 2025-09-20
+    tz: AoE
+    label: Regular deadline, extended from Sep 15
+  - kind: notification
+    date: 2025-09-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-14
+    tz: AoE
+- year: 2026
+  label: 7th MusIML (NeurIPS 2026)
+  location: Sydney, Australia (co-located with NeurIPS 2026)
+  url: https://www.musiml.org/events/2026-NeurIPS/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    label: Visa-friendly deadline
+  - kind: notification
+    date: 2026-08-20
+    label: Visa-friendly notification
+  - kind: submission
+    date: 2026-09-10
+    label: Final deadline
+  - kind: notification
+    date: 2026-09-20
+  - kind: camera_ready
+    date: 2026-11-10
+sources:
+- https://www.musiml.org/
+- https://www.musiml.org/events/2026-NeurIPS/index.html
+- https://www.musiml.org/events/2025-NeurIPS/index.html
+- https://www.musiml.org/events/2026-ICML/index.html
+- https://neurips.cc/Conferences/2026/Dates
+- https://portal.core.edu.au/conf-ranks/?search=MusIML&by=all&source=ICORE2026
+unverified:
+- Exact day of the NeurIPS 2026 workshop in Sydney not yet stated (NeurIPS Sydney runs Dec 6 to 12)
+last_verified: 2026-11-07

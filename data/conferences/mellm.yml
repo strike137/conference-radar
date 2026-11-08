@@ -1,0 +1,58 @@
+id: mellm
+name: MeLLM
+full_name: Workshop on Multilinguality in the Era of Large Language Models
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (Université de Montréal, Beijing Jiaotong University, University of Edinburgh, University of Notre Dame, Capital One, Saarland University); co-located with ACL 2026
+organizer_country: [canada, china, europe, usa]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://www.mellm.org/
+notes:
+- Workshop on multilingual large language models (training and adaptation, multilingual retrieval and RAG,
+  applications, speech and vision, resources and benchmarks)
+- First edition on July 4, 2026, co-located with ACL 2026 in San Diego, USA
+- Proceedings in the ACL Anthology (2026.mellm-1, 31 papers); a non-archival track allows dual submission
+- Direct submissions up to 8 pages on OpenReview, plus ARR commitment; best paper awards
+- Not listed in the CORE ICORE2026 portal or on the CCF list
+editions:
+- year: 2026
+  label: 1st edition, with ACL 2026
+  start: 2026-07-04
+  end: 2026-07-04
+  location: San Diego, CA, USA (co-located with ACL 2026)
+  url: https://www.mellm.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-01
+    tz: AoE
+    label: Direct submission (extended from 2026-04-20)
+  - kind: submission
+    date: 2026-05-01
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-05-20
+    tz: AoE
+    label: Extended from 2026-05-14
+  - kind: camera_ready
+    date: 2026-05-25
+    tz: AoE
+    label: Extended from 2026-05-20
+sources:
+- https://www.mellm.org/
+- https://aclanthology.org/volumes/2026.mellm-1/
+- https://aclanthology.org/venues/mellm/
+- https://portal.core.edu.au/conf-ranks/?search=MeLLM&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Second edition (2027 host conference and dates) not announced on the official site as of 2026-11-07

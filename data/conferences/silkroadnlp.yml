@@ -1,0 +1,84 @@
+id: silkroadnlp
+name: SilkRoadNLP
+full_name: Workshop on NLP and LLMs for the Iranian Language Family
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: SilkRoadNLP organizing committee (Zoorna Institute, University of Washington, QCRI); co-located with EACL
+organizer_country: [usa, other]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [3]
+links:
+  website: https://www.silkroadnlp.org/
+notes:
+- Workshop on NLP for Persian, Dari, Tajik, Kurdish, Pashto, Balochi and other Iranian languages
+- First edition with EACL 2026 in Rabat; second edition with EACL 2027 in Athens
+- 2026 edition accepted 14 of 18 submissions; proceedings in the ACL Anthology
+- Long (8 pages), short and demo (4 pages) papers, double-blind review; 2027 accepts direct OpenReview and ARR
+  submissions
+- Hybrid format with online participation
+- 2027 adds a shared task on Tajik Cyrillic and Perso-Arabic transliteration
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 1st edition, with EACL 2026
+  start: 2026-03-29
+  end: 2026-03-29
+  location: Rabat, Morocco
+  url: https://www.silkroadnlp.org/callforpapers2026
+  deadlines:
+  - kind: submission
+    date: 2026-01-14
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (extended from 2026-01-08)
+  - kind: notification
+    date: 2026-02-02
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-16
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  label: 2nd edition, with EACL 2027 (March 9 to 14; workshop day TBA)
+  location: Athens, Greece
+  url: https://www.silkroadnlp.org/callforpapers
+  deadlines:
+  - kind: submission
+    date: 2026-12-15
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: other
+    date: 2026-12-22
+    time: "23:59"
+    tz: AoE
+    label: Pre-reviewed ARR commitment
+  - kind: notification
+    date: 2027-01-05
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-09
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.silkroadnlp.org/
+- https://www.silkroadnlp.org/callforpapers
+- https://www.silkroadnlp.org/callforpapers2026
+- https://www.silkroadnlp.org/pastworkshops
+- https://www.silkroadnlp.org/team
+- https://aclanthology.org/venues/silkroadnlp/
+- https://aclanthology.org/volumes/2026.silkroadnlp-1/
+- https://portal.core.edu.au/conf-ranks/?search=SilkRoadNLP&by=all&source=ICORE2026
+unverified:
+- Exact day of the 2027 workshop within EACL 2027 (March 9 to 14)
+- Shared task dates for 2027 not yet announced
+last_verified: 2026-11-07

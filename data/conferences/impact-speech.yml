@@ -1,0 +1,56 @@
+id: impact-speech
+name: IMPACT-SPEECH
+full_name: Workshop on Identifying, Measuring, Preventing, and Assessing Consequences of Bias in Speech LLMs
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+organizer: Workshop organizing committee (University of Essex, JKU Linz, University of Eastern Finland, Fraunhofer IIS, QMUL and JSI); co-located with EMNLP
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://impactspeech.github.io/
+notes:
+- Full-day workshop on bias and fairness in speech LLMs and multimodal speech systems (accent, gender, speaker identity, low-resource languages)
+- First edition held with EMNLP 2026 in Budapest on 29 October 2026
+- Archival papers appear in the ACL Anthology (2026.impactspeech-1); non-archival track for published work, work in progress and 2-page extended abstracts
+- Long (8 pages) and short (4 pages) papers in ACL format, double-blind review via OpenReview; also takes ARR commitments
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: IMPACT-SPEECH 2026, with EMNLP 2026
+  start: 2026-10-29
+  end: 2026-10-29
+  location: Budapest, Hungary
+  url: https://impactspeech.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-25
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (extended from July 1)
+  - kind: other
+    date: 2026-08-31
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment and extended abstracts (extended from August 25)
+  - kind: notification
+    date: 2026-09-03
+  - kind: camera_ready
+    date: 2026-09-15
+sources:
+- https://impactspeech.github.io/
+- https://impactspeech.github.io/call-for-papers.html
+- https://2026.emnlp.org/program/workshops/
+- https://aclanthology.org/volumes/2026.impactspeech-1/
+- https://aclanthology.org/venues/impactspeech/
+- https://portal.core.edu.au/conf-ranks/?search=IMPACT&by=all&source=ICORE2026
+unverified:
+- Only one edition so far; frequency and next edition not announced
+last_verified: 2026-11-07

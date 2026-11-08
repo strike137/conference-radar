@@ -1,0 +1,73 @@
+id: scheme-workshop
+name: Scheme
+full_name: Scheme and Functional Programming Workshop
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [8, 9, 10]
+links:
+  website: https://icfp26.sigplan.org/home/scheme-2026
+notes:
+- Yearly workshop for Scheme, Racket, Lisp dialects and other dynamic functional languages, co-located with ICFP
+- Full papers and experience reports 6 to 12 pages go into the proceedings; position papers 2 to 4 pages are optional in the proceedings; 1-page lightning talks are not published
+- Proceedings are published in the ACM Digital Library
+- Lightweight double-blind review; acmart sigplan two-column format; HotCRP submission
+- 2026 had a second submission round two weeks after the first deadline
+- Authors of accepted papers can apply for SIGPLAN PAC travel grants
+- Follows ICFP (Singapore 2025 with ICFP/SPLASH, Indianapolis 2026)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-10-16
+  end: 2025-10-16
+  location: Singapore (with ICFP/SPLASH 2025)
+  url: https://conf.researchr.org/home/icfp-splash-2025/scheme-2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-24
+    tz: AoE
+  - kind: notification
+    date: 2025-08-14
+  - kind: camera_ready
+    date: 2025-08-25
+    tz: AoE
+- year: 2026
+  start: 2026-08-29
+  end: 2026-08-29
+  location: Indianapolis, Indiana, USA (with ICFP 2026)
+  url: https://icfp26.sigplan.org/home/scheme-2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+    tz: AoE
+    label: First round
+  - kind: submission
+    date: 2026-06-19
+    tz: AoE
+    label: Second round
+  - kind: notification
+    date: 2026-07-01
+    label: First round
+  - kind: notification
+    date: 2026-07-14
+    label: Second round
+  - kind: camera_ready
+    date: 2026-07-21
+    tz: AoE
+sources:
+- https://icfp26.sigplan.org/home/scheme-2026
+- https://conf.researchr.org/home/icfp-splash-2025/scheme-2025
+- https://portal.core.edu.au/conf-ranks/?search=Scheme&by=all&source=ICORE2026
+unverified:
+- Scheme 2027 not announced yet (ICFP 2027 is in Nijmegen, September 2027)
+- Organizer and steering committee not stated on the workshop pages
+- dblp page could not be checked (dblp blocked automated access); links.dblp left out
+- Not checked against the CCF 2026 list; rank.ccf left out
+last_verified: 2026-11-07

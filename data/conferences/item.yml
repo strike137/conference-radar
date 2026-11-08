@@ -1,0 +1,52 @@
+id: item
+name: ITEM
+full_name: Workshop on IoT, Edge, and Mobile for Embedded Machine Learning
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizing committee (University of Duisburg-Essen, Heidelberg University, TU Darmstadt); co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (ECML PKDD post-workshop proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://www.item-workshop.org/
+notes:
+- Workshop co-located with ECML PKDD every year since 2020 (2020 and 2021 virtual); 7th edition in Naples 2026
+- Covers embedded and edge machine learning across the stack (compression, hardware-aware NAS, compilers, accelerators, federated learning on devices)
+- Accepted papers go into the joint ECML PKDD post-workshop proceedings in Springer CCIS
+- Full papers up to 12 pages, short papers up to 6 pages, including references; Springer LNCS style; single-blind review via Microsoft CMT
+- Envisioned as the peer-reviewed counterpart to the invitation-only WEML workshop series on embedded machine learning
+- Best paper award
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-11
+  end: 2026-09-11
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://www.item-workshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-06-05
+  - kind: notification
+    date: 2026-07-08
+  - kind: camera_ready
+    date: 2026-08-02
+sources:
+- https://www.item-workshop.org/
+- https://www.item-workshop.org/item-workshop-series/item-2025
+- https://www.item-workshop.org/item-workshop-series/item-2021
+- https://www.item-workshop.org/item-workshop-series/item2020
+- https://portal.core.edu.au/conf-ranks/?search=ITEM&by=all&source=ICORE2026
+unverified:
+- ITEM 2027 (not announced as of 2026-11-07)
+- dblp page not checked (dblp blocked automated access)
+last_verified: 2026-11-07

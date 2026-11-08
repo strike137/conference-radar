@@ -1,0 +1,57 @@
+id: qcds
+name: QCDS
+full_name: Workshop on Quantification and Classification under Dataset Shift
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop chairs from CNR-ISTI Pisa, University of Oviedo, TU Dortmund (Lamarr Institute) and LMU Munich; co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Informal proceedings on the workshop website (opt-in)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://qcds-2026.github.io/
+notes:
+- Half-day workshop co-located with ECML PKDD on quantification (class prevalence estimation) and classification under dataset shift
+- Follow-up of the Learning to Quantify (LQ) workshop series, with a broader scope that also covers classification under dataset shift
+- Non-archival; informal proceedings on the workshop website, so papers can be resubmitted elsewhere
+- Accepts original papers and papers already published or under submission elsewhere in 2026
+- Up to 16 pages in Springer LNCS format, submitted via EasyChair; in-person presentation required
+- Selected papers invited to a special issue of the Data Mining and Knowledge Discovery journal (Springer)
+- 2026 program had 8 oral talks and a poster session
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-07
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://qcds-2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-06-05
+  - kind: notification
+    date: 2026-06-29
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://qcds-2026.github.io/
+- http://lq-2025.github.io/
+- https://ecmlpkdd.org/2026/
+- https://portal.core.edu.au/conf-ranks/?search=QCDS&by=all&source=ICORE2026
+unverified:
+- QCDS 2027 (not announced as of 2026-11-07)
+- Workshop page names the venue only as Building 1, Via Claudio; Naples taken from the ECML PKDD 2026 location
+- dblp page not checked
+last_verified: 2026-11-07

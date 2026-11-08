@@ -1,0 +1,68 @@
+id: xkdd
+name: XKDD
+full_name: International Workshop on eXplainable Knowledge Discovery in Data Mining
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: KDD Lab (University of Pisa and ISTI-CNR) led organizing committee, co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (joint ECML PKDD workshop post-proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://xkdd2026.isti.cnr.it/
+notes:
+- Workshop on explainable AI in data mining, co-located with ECML PKDD; 8th edition in 2026
+- 2026 edition themed on the validation of explanations; full-day workshop
+- Research and position papers up to 16 pages including references in Springer LNCS format, submitted via Microsoft CMT
+- 2 to 4 page abstracts accepted for presentation only; authors may opt out of the post-proceedings
+- Accepted full papers appear in the joint ECML PKDD workshop post-proceedings; the XKDD site says LNCS, but the ECML PKDD 2026 workshop call names Springer CCIS and the 2025 papers appeared in CCIS (Part IV)
+- Pre-proceedings online before the workshop; at least one co-author must present
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-19
+  end: 2025-09-19
+  location: Porto, Portugal (ECML PKDD 2025)
+  url: https://xkdd2025.isti.cnr.it/
+  deadlines:
+  - kind: submission
+    date: 2025-06-17
+    label: Extended from June 6 and June 14
+  - kind: notification
+    date: 2025-07-14
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-07
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://xkdd2026.isti.cnr.it/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 5
+  - kind: notification
+    date: 2026-07-08
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-20
+    time: "23:59"
+    tz: AoE
+sources:
+- https://xkdd2026.isti.cnr.it/
+- https://xkdd2025.isti.cnr.it/
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://ecmlpkdd.org/2026/submissions-workshop-track/
+- https://link.springer.com/book/10.1007/978-3-032-19096-3
+- https://portal.core.edu.au/conf-ranks/?search=XKDD&by=all&source=ICORE2026
+unverified:
+- XKDD 2027 (not announced as of 2026-11-07)
+- dblp page not checked (dblp returned errors)
+last_verified: 2026-11-07

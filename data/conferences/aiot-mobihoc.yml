@@ -1,0 +1,53 @@
+id: aiot-mobihoc
+name: AIoT
+full_name: International Workshop on the Integration between Distributed Machine Learning and the Internet of Things
+type: workshop
+tier: minor
+areas: [ai, networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (University of Catania, University of Palermo, Auburn University, Ohio State University),
+  co-located with ACM MobiHoc
+organizer_country: [europe, usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11]
+links:
+  website: https://aiot2026.github.io/
+notes:
+- Workshop on distributed, federated and split learning, TinyML and edge intelligence for IoT systems
+- 3rd edition in 2026 with ACM MobiHoc in Tokyo; earlier editions in 2023 and 2024
+- Not the same as the COMSNETS AIoT workshop (aiot-comsnets)
+- Papers up to 6 pages in ACM sigconf format including references; single-blind review; submission via HotCRP
+- Accepted papers go into the ACM MobiHoc 2026 proceedings; one full registration per paper; ACM open access APC
+  (250 USD members, 350 USD non-members in 2026) applies outside ACM Open institutions
+- Not listed in the CORE portal (ICORE2026) or the CCF list
+editions:
+- year: 2026
+  start: 2026-11-26
+  end: 2026-11-26
+  location: Tokyo, Japan (with ACM MobiHoc 2026)
+  url: https://aiot2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-09-07
+    time: "23:59"
+    tz: EDT
+    label: Firm, extended from 2026-08-31
+  - kind: notification
+    date: 2026-09-21
+  - kind: camera_ready
+    date: 2026-09-30
+    time: "23:59"
+    tz: EDT
+sources:
+- https://aiot2026.github.io/
+- https://www.sigmobile.org/mobihoc/2026/workshop-aiot.html
+- https://www.sigmobile.org/mobihoc/2026/camera-ready.html
+- https://portal.core.edu.au/conf-ranks/?search=AIoT&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Host conferences and dates of the 2023 and 2024 editions (the old workshop domain no longer resolves)

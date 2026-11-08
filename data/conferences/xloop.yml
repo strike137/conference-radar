@@ -1,0 +1,62 @@
+id: xloop
+name: XLOOP
+full_name: Workshop on Extreme-Scale Experiment-in-the-Loop Computing
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: XLOOP organizing committee (Argonne National Laboratory and partners), held with SC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (IEEE Xplore 2026, ACM DL 2025)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://wordpress.cels.anl.gov/xloop-2026/
+notes:
+- Half-day workshop on coupling large experimental and observational facilities with HPC, held with SC since 2019; 2026 is the 8th edition
+- Papers of 8 pages including references, reviewed by at least three program committee members
+- SC reproducibility initiative applies; an Artifact Description appendix is mandatory, badges optional
+- 2025 papers appeared in the SC25 workshop proceedings in the ACM DL; for 2026 XLOOP works with IEEE on the proceedings
+- Held at SC every year in the USA (Denver 2023, Atlanta 2024, St. Louis 2025, Chicago 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: St. Louis, MO, USA (with SC25)
+  url: https://wordpress.cels.anl.gov/xloop-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-11
+  - kind: notification
+    date: 2025-08-29
+  - kind: camera_ready
+    date: 2025-09-26
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: McCormick Place, Chicago, IL, USA (with SC26)
+  url: https://wordpress.cels.anl.gov/xloop-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+  - kind: notification
+    date: 2026-08-28
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://wordpress.cels.anl.gov/xloop-2026/
+- https://wordpress.cels.anl.gov/xloop-2026/paper-submission-and-dates/
+- https://wordpress.cels.anl.gov/xloop-2025/
+- https://wordpress.cels.anl.gov/xloop-2025/paper-submission-and-dates/
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=XLOOP&by=all&source=ICORE2026
+unverified:
+- 2026 dates on the official page are given without a year and without a time zone
+- The 2026 home page still says papers are published with ACM, while the 2026 submission page says XLOOP works with IEEE
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

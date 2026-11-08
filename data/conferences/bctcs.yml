@@ -1,0 +1,62 @@
+id: bctcs
+name: BCTCS
+full_name: British Colloquium for Theoretical Computer Science
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: BCTCS Organising Committee, with a host UK university
+organizer_country: [europe]
+proceedings: None (abstracts only, collected in the Bulletin of the EATCS)
+archival: false
+fee: 45 GBP early, 60 GBP late (2025)
+typical:
+  deadline_months: [2]
+  conference_months: [3, 4]
+links:
+  website: https://www.bctcs.ac.uk/
+notes:
+- Annual meeting for UK-based researchers in theoretical computer science, held since 1985
+- Aimed at training PhD students; 30 minute contributed talks submitted as abstracts
+- No restrictions on originality or publication status of submissions; no formal proceedings
+- A report and the contributed abstracts appear in the Bulletin of the EATCS
+- Covers algorithms, complexity, automata, semantics, formal methods, concurrency, types and logic
+- Held at a different UK university each year (Glasgow 2023, Bath 2024, Strathclyde 2025, Birmingham 2026)
+- Small travel bursaries for students supported by the Heilbronn Institute (2025)
+- Not listed in the CORE portal (ICORE2026) or the CCF list
+editions:
+- year: 2025
+  label: 41st BCTCS
+  start: 2025-04-14
+  end: 2025-04-16
+  location: Glasgow, UK (University of Strathclyde)
+  url: https://msp.cis.strath.ac.uk/bctcs2025/
+  deadlines:
+  - kind: submission
+    date: 2025-02-21
+    label: Abstracts
+  - kind: notification
+    date: 2025-02-27
+- year: 2026
+  label: 42nd BCTCS
+  start: 2026-03-30
+  end: 2026-04-01
+  location: Birmingham, UK (University of Birmingham)
+  url: https://toddwaughambridge.co.uk/bctcs2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-28
+    label: Abstracts
+  - kind: notification
+    date: 2026-03-06
+sources:
+- https://www.bctcs.ac.uk/
+- https://www.bctcs.ac.uk/previous-meetings
+- https://msp.cis.strath.ac.uk/bctcs2025/
+- https://toddwaughambridge.co.uk/bctcs2026/
+- https://portal.core.edu.au/conf-ranks/?search=BCTCS&by=all&source=ICORE2026
+unverified:
+- BCTCS 2027 host and dates not yet announced on the official site
+last_verified: 2026-11-07

@@ -1,0 +1,49 @@
+id: aidem
+name: AIDEM
+full_name: International Workshop on Artificial Intelligence, Data Analytics and Democracy
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizing committee (University of Pisa, IIT-CNR, Ghent University); co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer LNCS (ECML PKDD post-workshop proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://aidem2026.isti.cnr.it/
+notes:
+- Workshop co-located with ECML PKDD; first edition in Porto 2025 (as tutorial and workshop), 2nd edition in Naples 2026
+- Organized by researchers from the University of Pisa, IIT-CNR and Ghent University
+- Accepted regular and short papers go into the Springer LNCS post-workshop proceedings of ECML PKDD; at least one author must present in person
+- Regular papers 12 to 16 pages, short papers 6 to 11 pages, references included, LNCS format; double-blind review by at least three PC members
+- Non-archival track for work accepted or under review elsewhere
+- Topics include disinformation, content moderation, bias in generative AI, regulation and AI for democratic processes
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-07
+  location: Naples, Italy (ECML PKDD 2026, University of Naples Federico II)
+  url: https://aidem2026.isti.cnr.it/
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    label: Extended from 2026-06-05
+  - kind: notification
+    date: 2026-07-10
+  - kind: camera_ready
+    date: 2026-07-20
+sources:
+- https://aidem2026.isti.cnr.it/
+- https://aidem2025.isti.cnr.it/
+- https://portal.core.edu.au/conf-ranks/?search=AIDEM&by=all&source=ICORE2026
+unverified:
+- AIDEM 2027 (not announced as of 2026-11-07)
+- Deadline time and time zone not stated on the official site
+- dblp page not checked (dblp blocked automated access)
+last_verified: 2026-11-07

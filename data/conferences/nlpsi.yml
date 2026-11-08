@@ -1,0 +1,52 @@
+id: nlpsi
+name: NLPSI
+full_name: Workshop on Integrating NLP and Psychology to Study Social Interactions
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizers from University of Bamberg, Ghent University, University of Stuttgart, Leiden University and Tilburg University
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6]
+links:
+  website: https://nlpsi-workshop.github.io/
+notes:
+- Interdisciplinary workshop on NLP grounded in psychological theory, social interaction and interpersonal communication
+- First edition at ICWSM 2025 in Copenhagen (proceedings published by AAAI, listed in the ACL Anthology)
+- Second edition held jointly with the 1st Workshop on Social Context (SoCon) at LREC 2026 in Palma de Mallorca, with separate SoCon and NLPSI tracks
+- 2026 joint proceedings published by ELRA in the ACL Anthology (2026.socon-1)
+- Long papers up to 8 pages and short papers up to 4 pages, submitted via Softconf
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 2nd edition, joint with SoCon at LREC 2026
+  start: 2026-05-12
+  end: 2026-05-12
+  location: Palma de Mallorca, Spain
+  url: https://socon-nlpsi.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-23
+    label: Joint SoCon-NLPSI call (the NLPSI site listed 2026-02-16)
+  - kind: notification
+    date: 2026-03-23
+  - kind: camera_ready
+    date: 2026-03-30
+sources:
+- https://nlpsi-workshop.github.io/
+- https://socon-nlpsi.github.io/
+- https://socon-nlpsi.github.io/call_for_papers/
+- https://aclanthology.org/venues/nlpsi/
+- https://aclanthology.org/volumes/2025.nlpsi-1/
+- https://aclanthology.org/volumes/2026.socon-1/
+- https://portal.core.edu.au/conf-ranks/?search=NLPSI&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- No 2027 edition or host conference announced as of 2026-11-07
+- Acceptance rate not published

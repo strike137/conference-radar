@@ -1,0 +1,64 @@
+id: iccai
+name: ICCAI
+full_name: International Conference on Computing and Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai, general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Commercially run with a host university each year (Yonsei University in 2027) and supporting universities in Japan, China and Indonesia
+proceedings: ACM DL
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [12]
+  conference_months: [3, 4]
+links:
+  website: https://www.iccai.net/
+notes:
+- Smaller commercially run conference (secretariat on a vip.163.com address with a Chinese phone number, submission via iconf.org)
+- Not the same as ICCAI (International Conference on Computing and Applied Informatics, Universitas Sumatera Utara)
+- Held since 2015; Chengdu 2018, Kyoto 2019, Tianjin 2020 to 2023 (online 2020 to 2022), then Bali 2024, Kyoto 2025, Okinawa 2026 and Seoul 2027; hybrid since 2023
+- Proceedings in the ACM Digital Library 2018 to 2024, stated as indexed by EI Compendex and Scopus
+- 2025 edition had 167 presentations and over 280 participants from 27 countries and regions
+- Abstract-only presentation without publication is also offered
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 12th ICCAI
+  start: 2026-04-24
+  end: 2026-04-27
+  location: University of the Ryukyus, Okinawa, Japan (hybrid)
+  url: https://www.iccai.net/iccai2026.html
+- year: 2027
+  label: 13th ICCAI
+  start: 2027-04-23
+  end: 2027-04-26
+  location: Yonsei University, Seoul, South Korea
+  url: https://www.iccai.net/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-12-10
+  - kind: notification
+    date: 2027-01-10
+  - kind: other
+    date: 2027-02-10
+    label: Registration
+sources:
+- https://www.iccai.net/
+- https://www.iccai.net/history.html
+- https://www.iccai.net/iccai2026.html
+- https://www.iccai.net/iccai2025.html
+- https://www.iccai.net/iccai2024.html
+- https://www.iccai.net/registration.html
+- https://dl.acm.org/doi/proceedings/10.1145/3669754
+- https://portal.core.edu.au/conf-ranks/?search=ICCAI&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Publisher of the 2025 and 2027 proceedings not named on the official site (2025 gives only ISBN 979-8-3315-2491-3, an IEEE-style ISBN; 2027 says only ICCAI 2027 International Conference Proceedings)
+- The history page says ACM Conference Proceedings for 2026 but gives the same ISBN as 2025
+- Deadlines of ICCAI 2026 not given on the official history page
+- Organizing company and its country not stated, so organizer_country is left out
+- No deadline time or time zone stated

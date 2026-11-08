@@ -1,0 +1,64 @@
+id: sers
+name: SERS
+full_name: International Workshop on Software Engineering and Research Software
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SERS organizing committee, co-located with ICSE (IEEE/ACM)
+organizer_country: [international]
+proceedings: IEEE (ICSE 2027 Companion Proceedings); ACM DL in 2026
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [4]
+links:
+  website: https://conf.researchr.org/home/icse-2027/sers-2027
+notes:
+- ICSE workshop connecting software engineering research with research software and research software engineers (RSEs)
+- 1st edition at ICSE 2026 in Rio de Janeiro (2026-04-14); 2nd edition at ICSE 2027 in Dublin
+- Organizers include Jeffrey Carver, Daniel S. Katz, Stephan Druskat and Nasir Eisty
+- Extended abstracts only (2 pages in 2026, up to 4 pages in 2027), single-blind review
+- 2026 abstracts in the ICSE proceedings under ACM open access (APC free); 2027 abstracts published by IEEE in the ICSE 2027 Companion Proceedings
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-14
+  end: 2026-04-14
+  location: Rio de Janeiro, Brazil
+  url: https://conf.researchr.org/home/icse-2026/sers-2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-24
+    tz: AoE
+    label: Extended abstracts (extended)
+  - kind: notification
+    date: 2025-12-03
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-26
+    tz: AoE
+- year: 2027
+  location: Dublin, Ireland
+  url: https://conf.researchr.org/home/icse-2027/sers-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+    tz: AoE
+  - kind: notification
+    date: 2026-12-11
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-29
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/icse-2027/sers-2027
+- https://conf.researchr.org/home/icse-2026/sers-2026
+- https://conf.researchr.org/series/sers
+- https://portal.core.edu.au/conf-ranks/?search=SERS&by=all&source=ICORE2026
+unverified:
+- 2027 workshop day not announced yet (ICSE 2027 runs 2027-04-25 to 2027-05-01)
+- Acceptance rate not found on an official page
+last_verified: 2026-11-07

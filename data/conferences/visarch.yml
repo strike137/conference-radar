@@ -1,0 +1,59 @@
+id: visarch
+name: VisArch
+full_name: Workshop on Systems and Architectures for Visual Computing, AR/VR, and Embodied Intelligence
+type: workshop
+tier: minor
+areas: [systems, vision]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Sai Qian Zhang (New York University), Yuhao Zhu (University of Rochester) and co-organizers
+organizer_country: [usa]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [2, 5]
+  conference_months: [3, 6]
+links:
+  website: https://sai-lab-nyu.github.io/VisArch_ISCA26/
+notes:
+- Workshop on systems and hardware for neural rendering (NeRF, Gaussian splatting), AR/VR/XR and embodied visual AI
+- First edition with ASPLOS 2026 (Pittsburgh, March 2026) as Workshop on Systems and Architectures for Neural Rendering, AR/VR, and Visual Computing
+- Second edition with ISCA 2026 (Raleigh, June 2026), renamed to cover embodied intelligence
+- Papers up to 4 pages plus references in ACM sigplan format, anonymous; previously published work and work in progress welcome
+- The CFP states that proceedings will not be published; accepted paper PDFs are linked from the site
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-03-22
+  end: 2026-03-22
+  location: Pittsburgh, PA, USA (with ASPLOS 2026)
+  url: https://sai-lab-nyu.github.io/VisArch/
+  deadlines:
+  - kind: submission
+    date: 2026-02-24
+    tz: AoE
+    label: ASPLOS edition
+  - kind: notification
+    date: 2026-02-28
+    label: ASPLOS edition
+- year: 2026
+  start: 2026-06-27
+  end: 2026-06-27
+  location: Raleigh, NC, USA (with ISCA 2026)
+  url: https://sai-lab-nyu.github.io/VisArch_ISCA26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-29
+    tz: AoE
+    label: ISCA edition
+  - kind: notification
+    date: 2026-06-01
+    label: ISCA edition
+sources:
+- https://sai-lab-nyu.github.io/VisArch_ISCA26/
+- https://sai-lab-nyu.github.io/VisArch/
+- https://portal.core.edu.au/conf-ranks/?search=VisArch&by=all&source=ICORE2026
+unverified:
+- Only two editions so far (both 2026); no 2027 edition announced yet
+last_verified: 2026-11-07

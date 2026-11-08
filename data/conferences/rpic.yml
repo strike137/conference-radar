@@ -1,0 +1,62 @@
+id: rpic
+name: RPIC
+full_name: Reunión de Trabajo en Procesamiento de la Información y Control
+type: conference
+tier: minor
+areas: [general, ai, communications]
+region: latin-america
+language: mixed
+frequency: biennial
+organizer: Host Argentine university (UTN Facultad Regional San Francisco in 2025, Universidad Nacional de Rio Cuarto in 2027)
+organizer_country: [other]
+proceedings: IEEE Xplore (English papers); all papers in the RPIC proceedings
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://rpic.com.ar/
+notes:
+- Argentine biennial meeting on information processing and control, held since 1985 (22nd edition in 2027)
+- Topics include control, signal and image processing, AI, communications, robotics, embedded systems and IoT, power electronics
+- Full papers appear in the RPIC proceedings; accepted English papers are also sent to IEEE Xplore for an extra fee (2025)
+- Papers reviewed by the scientific committee; includes an RPIC Estudiantil track for undergraduate students
+- Held in Argentina, rotating between host universities (Obera 2023, San Francisco 2025, Rio Cuarto 2027)
+- All presentations in person (2027)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-17
+  end: 2025-09-19
+  location: San Francisco, Cordoba, Argentina (UTN Facultad Regional San Francisco)
+  url: https://sites.google.com/view/rpic2023/ediciones-anteriores/2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-02
+    label: Paper submission (extended from 2025-05-05, then 2025-05-19)
+  - kind: notification
+    date: 2025-07-28
+  - kind: camera_ready
+    date: 2025-08-15
+- year: 2027
+  start: 2027-09-22
+  end: 2027-09-24
+  location: Rio Cuarto, Cordoba, Argentina (Universidad Nacional de Rio Cuarto)
+  url: https://rpic.com.ar/
+  deadlines:
+  - kind: submission
+    date: 2027-05-03
+  - kind: notification
+    date: 2027-07-12
+  - kind: camera_ready
+    date: 2027-08-02
+sources:
+- https://rpic.com.ar/
+- https://sites.google.com/view/rpic2023/ediciones-anteriores/2025
+- https://sites.google.com/view/rpic2023/ediciones-anteriores/2025/lugar
+- https://sites.google.com/view/rpic2023/ediciones-anteriores/2023
+- https://sites.google.com/view/rpic2023/ediciones-anteriores/2023/lugar
+- https://portal.core.edu.au/conf-ranks/?search=RPIC&by=all&source=ICORE2026
+unverified:
+- The 2027 site does not yet state the proceedings or IEEE Xplore arrangement; taken from the 2025 call
+last_verified: 2026-11-07

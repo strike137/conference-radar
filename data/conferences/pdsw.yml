@@ -1,0 +1,90 @@
+id: pdsw
+name: PDSW
+full_name: International Parallel Data Systems Workshop
+type: workshop
+tier: minor
+areas: [systems, data]
+region: north-america
+language: english
+frequency: annual
+organizer: PDSW organizing committee (Sandia National Laboratories, Johannes Gutenberg University Mainz and partners), held with SC
+organizer_country: [usa, europe]
+proceedings: SC Workshops Proceedings (IEEE Xplore 2026, ACM DL 2025)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://www.pdsw.org/index.shtml
+notes:
+- One-day workshop on parallel storage, file systems, I/O and data management for HPC and AI, held with SC; 2026 is the 11th edition under the PDSW name
+- Successor of the Petascale Data Storage Workshop (2006 to 2015) and the DISCS workshop (2012 to 2015), which ran together as PDSW-DISCS from 2016 to 2018
+- In cooperation with IEEE Computer Society and ACM
+- Regular papers of up to 6 pages, double-anonymous review; an Artifact Description appendix is mandatory
+- Accepted papers appear in the SC workshop proceedings; IEEE template in 2026, ACM template in 2025
+- Work-in-progress session with one-page abstracts and 5-minute talks; WIP papers are not in the proceedings
+- Held at SC every year in the USA (St. Louis 2025, Chicago 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: America's Center, St. Louis, MO, USA (with SC25)
+  url: https://www.pdsw.org/pdsw25/index.shtml
+  deadlines:
+  - kind: submission
+    date: 2025-08-08
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2025-08-15
+    time: "23:59"
+    tz: AoE
+    label: Artifact Description appendix
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-27
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2025-09-19
+    tz: AoE
+    label: WIP abstracts (extended from 2025-09-12)
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-16
+  location: McCormick Place, Chicago, IL, USA (with SC26)
+  url: https://www.pdsw.org/index.shtml
+  deadlines:
+  - kind: submission
+    date: 2026-08-07
+    time: "23:59"
+    tz: AoE
+    label: Regular papers (final extension from 2026-07-31)
+  - kind: other
+    date: 2026-08-14
+    time: "23:59"
+    tz: AoE
+    label: Artifact Description appendix (final extension from 2026-08-07)
+  - kind: notification
+    date: 2026-09-04
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-25
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-09-11
+    tz: AoE
+    label: WIP abstracts
+sources:
+- https://www.pdsw.org/index.shtml
+- https://www.pdsw.org/pdsw26/PDSW-2026-cfp.pdf
+- https://www.pdsw.org/pdsw25/index.shtml
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=PDSW&by=all&source=ICORE2026
+unverified:
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

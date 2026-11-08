@@ -1,0 +1,73 @@
+id: pragmatics-of-sat
+name: PoS
+full_name: Pragmatics of SAT International Workshop
+type: workshop
+tier: minor
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: PoS Steering Committee (chair Daniel Le Berre)
+organizer_country: [international]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [7, 8]
+links:
+  website: https://www.pragmaticsofsat.org/
+notes:
+- Workshop on the design, implementation and application of SAT solvers and related solvers (SMT, ASP, CP, MaxSAT, PB), including the technical details rarely published at main conferences
+- Held since 2010 as a satellite of the SAT conference or FLoC; PoS 2026 was the 17th edition
+- Recent locations rotate (online 2021, Haifa 2022, Alghero 2023, Pune 2024, Glasgow 2025, Lisbon 2026)
+- Original papers (short up to 8 pages, long 8 to 15 pages), work-in-progress papers and presentation-only papers; each submission gets at least two reviews
+- Proceedings in open-access CEUR-WS when enough original papers are accepted (PoS 2025 -> Vol-4008 jointly with SMT); authors may opt out of the proceedings
+- Fast track for papers rejected from FLoC conferences such as SAT, reusing their reviews
+- Managed by a steering committee since October 2023, with new PC chairs each year
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 16th PoS
+  start: 2025-08-11
+  end: 2025-08-11
+  location: Glasgow, UK (co-located with SAT 2025 and CP 2025)
+  url: https://www.pragmaticsofsat.org/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-12
+    label: Extended from 2025-05-05
+  - kind: submission
+    date: 2025-05-19
+    label: Extended from 2025-05-12
+  - kind: other
+    date: 2025-06-01
+    label: SAT/CP Fast Track (extended from 2025-05-30)
+  - kind: notification
+    date: 2025-06-20
+- year: 2026
+  label: 17th PoS
+  start: 2026-07-19
+  end: 2026-07-19
+  location: Lisbon, Portugal (FLoC 2026, workshop of SAT 2026)
+  url: https://www.pragmaticsofsat.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-07
+    tz: AoE
+  - kind: submission
+    date: 2026-05-10
+    tz: AoE
+    label: Extended from 2026-05-07
+  - kind: notification
+    date: 2026-06-01
+sources:
+- https://www.pragmaticsofsat.org/
+- https://www.pragmaticsofsat.org/2026/
+- https://www.pragmaticsofsat.org/2025/
+- https://ceur-ws.org/Vol-4008/
+- https://portal.core.edu.au/conf-ranks/?search=Pragmatics&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=PoS&by=all&source=ICORE2026
+unverified:
+- PoS 2026 CEUR-WS volume not yet found; the 2026 page says the proceedings are planned via CEUR-WS
+- PoS 2027 not announced on the official site as of 2026-11-07
+last_verified: 2026-11-07

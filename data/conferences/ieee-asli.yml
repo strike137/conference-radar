@@ -1,0 +1,80 @@
+id: ieee-asli
+name: IEEE ASLI
+full_name: IEEE International Conference on Audio, Speech, and Language Intelligence
+type: conference
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Signal Processing Society (SLTC and AASP TC)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [11, 12]
+links:
+  website: https://2027.ieeeasli.org/
+notes:
+- New IEEE SPS conference formed by merging the core activities of IEEE ASRU and IEEE SLT; first edition in 2027
+- Covers speech, audio, spoken language and multimodal intelligence (SLTC and AASP TC scope)
+- Held as part of the IEEE Signal Processing Summit together with IEEE ICIP and IEEE CAI (Singapore 2027 and 2028, Silicon Valley 2029 planned)
+- Papers up to 6 pages of main text in IEEE two-column format, with no page limit on references or appendices
+- Has an author rebuttal period and a reviewer discussion period
+- New Findings track; top papers go to the main Proceedings of ASLI, other accepted papers to the Findings of ASLI, both in IEEE Xplore
+- At least one author of each accepted paper (main or Findings) must register and present
+- Not listed in ICORE2026 (new venue)
+editions:
+- year: 2027
+  start: 2027-11-29
+  end: 2027-12-04
+  location: Singapore (IEEE Signal Processing Summit 2027, Marina Bay Sands)
+  url: https://2027.ieeeasli.org/
+  status: confirmed
+  deadlines:
+  - kind: other
+    date: 2026-12-03
+    time: "23:59"
+    tz: AoE
+    label: Challenge proposals
+  - kind: submission
+    date: 2027-04-21
+    time: "23:59"
+    tz: AoE
+    label: Regular papers
+  - kind: other
+    date: 2027-04-28
+    time: "23:59"
+    tz: AoE
+    label: Paper revision deadline (regular papers)
+  - kind: submission
+    date: 2027-06-17
+    time: "23:59"
+    tz: AoE
+    label: Challenge papers
+  - kind: other
+    date: 2027-06-23
+    label: Rebuttal period (23 to 30 Jun)
+  - kind: notification
+    date: 2027-07-28
+  - kind: camera_ready
+    date: 2027-08-11
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2027-08-27
+    time: "23:59"
+    tz: AoE
+    label: Author and early registration
+sources:
+- https://2027.ieeeasli.org/
+- https://2027.ieeeasli.org/about/
+- https://2027.ieeeasli.org/call-for-papers/
+- https://2027.ieeeasli.org/important-dates/
+- https://2027.ieeespsummit.org/
+- https://ieeespsummit.org/about-sp-summit/
+- https://portal.core.edu.au/conf-ranks/?search=ASLI&by=all&source=ICORE2026
+unverified:
+- CCF 2026 list status (new venue, rank.ccf left out)
+last_verified: 2026-11-07

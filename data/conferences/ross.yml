@@ -1,0 +1,57 @@
+id: ross
+name: ROSS
+full_name: International Workshop on Runtime and Operating Systems for Supercomputers
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: ROSS workshop chairs (Sandia National Laboratories, ORNL, Intel, ETH Zurich), held with SC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (ACM DL in 2025)
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [11]
+links:
+  website: https://sites.google.com/view/rossworkshop/home
+notes:
+- Half-day workshop on operating systems and runtime systems for extreme-scale HPC and cloud, held with SC
+- 2026 is the 15th edition
+- Listed by SC26 among the workshops with papers in the SC Workshop Proceedings
+- Single-blind review; papers of 5 to 11 pages in IEEE two-column format for 2026
+- Position papers and early, immature ideas are explicitly welcome
+- Optional artifact description and evaluation with reproducibility badges
+- 2026 submission deadline was extended from 31 July to 7 August 2026 (AoE)
+- SC25 workshop papers were archived in the ACM Digital Library
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  location: St. Louis, MO, USA (with SC25)
+  url: https://sc25.supercomputing.org/proceedings/workshops/
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Chicago, IL, USA (with SC26)
+  url: https://sites.google.com/view/rossworkshop/home
+  deadlines:
+  - kind: submission
+    date: 2026-08-07
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://sites.google.com/view/rossworkshop/home
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://sc26.supercomputing.org/program/workshops/
+- https://sc25.supercomputing.org/proceedings/workshops/
+- https://sc25.supercomputing.org/program/proceedings-archives/
+- https://portal.core.edu.au/conf-ranks/?search=ROSS&by=all&source=ICORE2026
+unverified:
+- Exact date and deadlines of ROSS 2025 (14th edition, SC25) not found on an official page; the workshop site only shows 2026
+- Publisher of the SC26 workshop proceedings not stated; the 2026 template is IEEE
+last_verified: 2026-11-07

@@ -1,0 +1,52 @@
+id: stai-ecml
+name: STAI
+full_name: ECML PKDD Workshop on Secure and Trustworthy AI
+type: workshop
+tier: minor
+areas: [security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop chairs from University of Bari, University of Trieste and KIT, co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (joint ECML PKDD workshop post-proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://stai-workshop.org/
+notes:
+- Workshop on AI security co-located with ECML PKDD; 2026 edition held in Naples on 7 September (afternoon)
+- Topics include adversarial machine learning, poisoning and backdoors, prompt injection, privacy attacks, explainability and robustness
+- Regular papers of 12 to 16 pages and short research statements up to 6 pages, including references; Springer LNCS style, submitted via Microsoft CMT
+- "CFP: regular papers tentatively published in an LNCS proceedings volume; papers based on recently published work are not included in the proceedings"
+- The ECML PKDD 2026 workshop call names Springer CCIS for the joint post-workshop proceedings, not LNCS
+- One author of each accepted paper must attend and present
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-07
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://stai-workshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 5
+  - kind: notification
+    date: 2026-06-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://stai-workshop.org/
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://ecmlpkdd.org/2026/submissions-workshop-track/
+- https://portal.core.edu.au/conf-ranks/?search=STAI&by=all&source=ICORE2026
+unverified:
+- Camera-ready deadline "to be announced" on the official site
+- Previous editions not stated on the official site
+- STAI 2027 (not announced as of 2026-11-07)
+last_verified: 2026-11-07

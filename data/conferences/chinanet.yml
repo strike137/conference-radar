@@ -1,0 +1,72 @@
+id: chinanet
+name: ChinaNet
+full_name: CCF China Conference on Networking
+name_local: CCF网络大会
+type: conference
+tier: minor
+areas: [networking]
+region: china
+language: mixed
+frequency: annual
+organizer: CCF (China Computer Federation), Technical Committees on Network and Data Communication and on Internet
+organizer_country: [china]
+proceedings: Springer CCIS
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [8, 10]
+  conference_months: [9, 11]
+links:
+  website: https://conf.ccf.org.cn/chinanet2026
+notes:
+- National networking conference of the China Computer Federation (CCF), started in 2023 by its technical committees on network and data communication and on Internet
+- English papers are published in Springer CCIS as "Frontiers of Networking Technologies"; selected Chinese papers are recommended to Chinese journals such as the Chinese Journal of Computers
+- "Acceptance (English proceedings): 13 of 61 (2023), 13 of 102 (2025)"
+- Accepts Chinese and English papers; English long papers 12 pages or more, short papers 6 to 11 pages; double-blind review in 2026
+- Large event with keynotes, many industry forums and exhibitions; the English proceedings are small (13 papers in 2023 and in 2025)
+- Held in a different Chinese city each year (Wenzhou 2023, Zhangjiagang 2024, Shenyang 2025, Xiamen 2026)
+- Not ranked in CORE ICORE2026; not on the CCF 2026 recommended list
+editions:
+- year: 2025
+  label: 3rd ChinaNet
+  start: 2025-09-12
+  end: 2025-09-14
+  location: Shenyang, China (Northeastern University)
+  url: https://conf.ccf.org.cn/chinanet2025
+  deadlines:
+  - kind: submission
+    date: 2025-08-04
+    label: Papers
+- year: 2026
+  label: 4th ChinaNet
+  start: 2026-11-20
+  end: 2026-11-22
+  location: Xiamen, China (Xiamen University)
+  url: https://conf.ccf.org.cn/chinanet2026
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-19
+    label: Papers (extended by 7 days)
+  - kind: notification
+    date: 2026-10-31
+sources:
+- https://conf.ccf.org.cn/chinanet2026
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1528828373181272064178454268842
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e3a9d9f636b1a019f87940b4301a6
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e3a9d9f636b1a019f8794558b01a8
+- https://conf.ccf.org.cn/chinanet2025
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1373055454321709056174740353044
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e362c983bcec501986fbd6ad000f0
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1275479648918179840172413964556
+- https://link.springer.com/conference/chinanet
+- https://link.springer.com/book/10.1007/978-981-97-3890-8
+- https://link.springer.com/book/10.1007/978-981-95-8450-5
+- https://portal.core.edu.au/conf-ranks/?search=ChinaNet&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- ChinaNet 2026 camera-ready deadline
+- Whether the 2024 edition had English proceedings (Springer lists only 2023 and 2025)
+- Acceptance rate of the Chinese track
+- CCF list checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-11-07

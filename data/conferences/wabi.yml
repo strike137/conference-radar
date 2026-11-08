@@ -1,0 +1,65 @@
+id: wabi
+name: WABI
+full_name: International Conference on Algorithms for Bioinformatics (formerly Workshop on Algorithms in Bioinformatics)
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: WABI Steering Committee
+organizer_country: [international]
+proceedings: LIPIcs (Schloss Dagstuhl)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [5]
+  conference_months: [8, 9]
+links:
+  website: https://algo-conference.org/2026/wabi/
+  dblp: https://dblp.org/db/conf/wabi/index.html
+notes:
+- Conference on discrete algorithms and machine learning methods for molecular biology, bioinformatics and systems biology; CORE C
+- Named Workshop on Algorithms in Bioinformatics until 2024; International Conference on Algorithms for Bioinformatics since 2025, acronym kept
+- Proceedings in the open-access LIPIcs series (Schloss Dagstuhl); selected papers invited to a thematic series in Algorithms for Molecular Biology (AMB)
+- Papers up to 15 pages in LIPIcs style plus a short appendix; abstract registration a few days before the full paper deadline
+- Simultaneous journal submission allowed if the chairs are told; such papers appear only as a short abstract in the proceedings
+- Alternates between the European ALGO meeting and North America (Potsdam 2022, Houston 2023, Egham 2024, College Park 2025, L'Aquila 2026)
+- Also has a poster track with 500-word abstracts
+editions:
+- year: 2026
+  label: 26th WABI
+  start: 2026-08-31
+  end: 2026-09-02
+  location: L'Aquila, Italy (ALGO 2026)
+  url: https://algo-conference.org/2026/wabi/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-14
+    tz: AoE
+    label: Extended from 2026-05-11
+  - kind: submission
+    date: 2026-05-21
+    tz: AoE
+    label: Full paper, extended from 2026-05-14
+  - kind: notification
+    date: 2026-06-25
+  - kind: camera_ready
+    date: 2026-07-02
+  - kind: other
+    date: 2026-08-16
+    tz: AoE
+    label: Poster abstracts, extended from 2026-08-09
+sources:
+- https://algo-conference.org/2026/wabi/
+- https://algo-conference.org/2026/
+- https://algo-conference.org/2024/wabi/
+- https://www.dagstuhl.de/dagpub/978-3-95977-446-8
+- https://drops.dagstuhl.de/entities/conference/WABI
+- https://portal.core.edu.au/conf-ranks/?search=WABI&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- WABI 2027 not announced on an official page as of 2026-11-07
+- Not found in the CCF 2026 list (checked in the PDF mirrored by ccfddl, ccf.org.cn not checked directly)
+last_verified: 2026-11-07

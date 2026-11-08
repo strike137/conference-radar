@@ -1,0 +1,53 @@
+id: galop
+name: GaLoP
+full_name: Workshop on Games for Logic and Programming Languages
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: GaLoP organisers (program co-chairs)
+organizer_country: [europe]
+proceedings: None (talk abstracts on workshop website)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://galop-2026.lacl.fr
+notes:
+- Workshop on game semantics and other interaction-based models of programs, logics and proofs
+- First held in 2005; GaLoP 2026 was the 17th edition
+- Usually a satellite of ETAPS (Uppsala 2017, Thessaloniki 2018, Prague 2019); 2020 edition postponed; POPL 2024 in London; FLoC 2026 in Lisbon
+- Informal workshop; submissions are talk abstracts of up to 2 pages (work in progress, overviews, position papers and tutorials welcome)
+- No formal proceedings; abstracts are posted on the workshop website; some past editions led to special issues in Annals of Pure and Applied Logic
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 17th GaLoP
+  start: 2026-07-18
+  end: 2026-07-19
+  location: Lisbon, Portugal (FLoC 2026)
+  url: https://galop-2026.lacl.fr
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    tz: AoE
+    label: Abstracts, extended from 2026-05-06
+  - kind: notification
+    date: 2026-05-26
+sources:
+- https://galop-2026.lacl.fr
+- https://popl24.sigplan.org/home/galop-2024
+- https://sites.google.com/site/galopws/games-for-logic-and-programming-languages-xv
+- https://sites.google.com/site/galopws/game-semantics-xv
+- https://sites.google.com/site/galopws/galop-xiii
+- https://sites.google.com/site/galopws/galop-xii
+- https://portal.core.edu.au/conf-ranks/?search=GaLoP&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- GaLoP 2025 site (galop2025.di.ens.psl.eu) could not be fetched; its dates and location not checked
+- GaLoP 2027 not announced as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

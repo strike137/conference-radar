@@ -1,0 +1,50 @@
+id: wpte
+name: WPTE
+full_name: International Workshop on Rewriting Techniques for Program Transformations and Evaluation
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: WPTE Steering Committee
+organizer_country: [international]
+proceedings: Informal proceedings (participants); selected papers in JLAMP special issues
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://wpte2026.github.io
+notes:
+- Workshop on program transformations, evaluation strategies and operational semantics using rewriting methods
+- Held since 2014; WPTE 2026 was the 12th edition (no edition in 2024)
+- Affiliated with FSCD most years (Rome 2023, Birmingham 2025, Lisbon 2026 at FLoC); 2020 and 2021 online, 2022 in Haifa at FLoC
+- Three submission categories (regular paper, work in progress, presentation only), up to 10 pages in EPTCS style
+- All accepted contributions go into informal proceedings for participants; 2020 to 2025 papers were selected for JLAMP special issues
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 12th WPTE
+  start: 2026-07-19
+  end: 2026-07-19
+  location: Lisbon, Portugal (FLoC 2026, affiliated with FSCD 2026)
+  url: https://wpte2026.github.io
+  deadlines:
+  - kind: submission
+    date: 2026-04-29
+    tz: AoE
+    label: Extended from 2026-04-22
+  - kind: notification
+    date: 2026-05-25
+  - kind: camera_ready
+    date: 2026-06-29
+    label: Final version for informal proceedings
+sources:
+- https://wpte2026.github.io
+- https://wpte2026.github.io/cfp.txt
+- https://portal.core.edu.au/conf-ranks/?search=WPTE&by=all&source=ICORE2026
+unverified:
+- WPTE 2027 not announced as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

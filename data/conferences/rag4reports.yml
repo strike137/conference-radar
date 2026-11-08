@@ -1,0 +1,61 @@
+id: rag4reports
+name: RAG4Reports
+full_name: Workshop on Multilingual Report Generation via Retrieval Augmented Generation
+type: workshop
+tier: minor
+areas: [nlp, ai, data]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers from the JHU HLTCOE, University of Glasgow and Microsoft AI; co-located with ACL 2026
+organizer_country: [usa, europe]
+proceedings: ACL Anthology
+archival: true
+indexing: [ACL Anthology]
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://rag4reports.github.io/
+notes:
+- Workshop on long-form, citation-grounded report generation with RAG ("deep research"), multilingual RAG and
+  report evaluation
+- First edition on July 4, 2026, co-located with ACL 2026 in San Diego, USA
+- Two shared tasks (automatic report evaluation, multilingual report generation) run on TIRA, using a corpus of
+  English, Chinese, Russian and Arabic news
+- Papers up to 8 pages in ACL format; direct submissions on OpenReview get single-blind review, ARR commitment
+  also accepted
+- Archival or non-archival at the authors' choice; archival papers in the ACL Anthology (2026.rag4reports-1, 14 papers)
+- Not listed in the CORE ICORE2026 portal or on the CCF list
+editions:
+- year: 2026
+  label: 1st edition, with ACL 2026
+  start: 2026-07-04
+  end: 2026-07-04
+  location: San Diego, CA, USA (co-located with ACL 2026)
+  url: https://rag4reports.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-05
+    label: Papers
+  - kind: submission
+    date: 2026-03-24
+    label: ARR commitment
+  - kind: other
+    date: 2026-04-15
+    label: Shared task A and B submissions
+  - kind: notification
+    date: 2026-04-28
+  - kind: camera_ready
+    date: 2026-05-12
+    label: Camera-ready papers and shared task system papers
+sources:
+- https://rag4reports.github.io/
+- https://aclanthology.org/volumes/2026.rag4reports-1/
+- https://aclanthology.org/2026.rag4reports-1.0.pdf
+- https://aclanthology.org/venues/rag4reports/
+- https://portal.core.edu.au/conf-ranks/?search=RAG4Reports&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Time zone of the 2026 deadlines not stated on the official site
+- Second edition (2027 host conference and dates) not announced on the official site as of 2026-11-07

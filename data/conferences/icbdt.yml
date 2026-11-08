@@ -1,0 +1,60 @@
+id: icbdt
+name: ICBDT
+full_name: International Conference on Big Data Technologies
+type: conference
+tier: minor
+areas: [data]
+region: china
+language: english
+frequency: annual
+organizer: Conference secretariat (icbdt@young.ac.cn, zmeeting submission system) with a host university that changes each year; 2027 sponsored by Chengdu University of Technology
+organizer_country: [china]
+proceedings: ACM DL
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://www.icbdt.org/
+notes:
+- Held annually in China since 2018 (Hangzhou, Jinan, Qingdao, Zibo, Qingdao, Qingdao, Hangzhou, Nanchang); no edition in 2025
+- Proceedings in the ACM Digital Library for 2018 to 2024 per the official publication page; 2026 proceedings also published by ACM
+- Moved from September (2019 to 2024) to May (2026, 2027)
+- Papers 4 to 12 pages; abstract-only presentation without publication also offered
+- Seven tracks covering big data infrastructure, acquisition, storage, analytics, AI fusion, security and privacy, and applications
+- Not listed in the CORE ICORE2026 portal and not on the CCF 2026 list
+editions:
+- year: 2026
+  label: 8th ICBDT
+  start: 2026-05-22
+  end: 2026-05-24
+  location: Nanchang, China
+  url: https://www.icbdt.org/icbdt2026.html
+- year: 2027
+  label: 9th ICBDT
+  start: 2027-05-21
+  end: 2027-05-23
+  location: Chengdu, China
+  url: https://www.icbdt.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-10
+  - kind: notification
+    date: 2027-02-15
+  - kind: camera_ready
+    date: 2027-03-05
+    label: Final paper and registration
+sources:
+- https://www.icbdt.org/
+- https://www.icbdt.org/sub.html
+- https://www.icbdt.org/pub.html
+- https://www.icbdt.org/news.html
+- https://www.icbdt.org/icbdt2026.html
+- https://www.icbdt.org/committee.html
+- https://doi.org/10.1145/3830360
+- https://portal.core.edu.au/conf-ranks/?search=ICBDT&by=all&source=ICORE2026
+unverified:
+- Publisher of the ICBDT 2027 proceedings not named on the site (only "ICBDT 2027 Conference Proceedings")
+- ICBDT 2026 deadlines no longer on the site
+last_verified: 2026-11-07

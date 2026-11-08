@@ -1,0 +1,54 @@
+id: mlg
+name: MLG
+full_name: International Workshop on Mining and Learning with Graphs
+type: workshop
+tier: minor
+areas: [ai, data]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizing committee (CISPA, TU Wien, University of Siena, University of Vienna, Lancaster University Leipzig in 2026); co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (ECML PKDD post-workshop proceedings, invited selected papers); other papers on the workshop website
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://mlg-europe.github.io/2026/
+notes:
+- Long-running workshop series on graph mining and graph machine learning; 23rd edition in 2026
+- Co-located with ECML PKDD since 2022 (in 2022 and 2023 also held with KDD); earlier editions mostly at KDD, some at ICML and ECML PKDD
+- Accepted papers are posted on the workshop website and are not considered archival for resubmission purposes; work under review elsewhere is welcome
+- High quality original papers that are not dual submissions are invited to the ECML PKDD post-workshop Springer proceedings (CCIS in 2026), if ECML PKDD offers them
+- Long papers up to 12 pages, short papers up to 8 pages, Springer LNCS style, references and appendix excluded; single-blind review
+- Pitch and poster session for all accepted papers, best four chosen for oral talks
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-11
+  end: 2026-09-11
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://mlg-europe.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-08
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-06-05
+  - kind: notification
+    date: 2026-07-01
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-31
+    time: "23:59"
+    tz: AoE
+sources:
+- https://mlg-europe.github.io/2026/
+- https://mlg-europe.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=MLG&by=all&source=ICORE2026
+unverified:
+- MLG 2027 (not announced as of 2026-11-07)
+- dblp page not checked (dblp blocked automated access)
+last_verified: 2026-11-07

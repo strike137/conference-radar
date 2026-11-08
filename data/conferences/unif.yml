@@ -1,0 +1,52 @@
+id: unif
+name: UNIF
+full_name: International Workshop on Unification
+type: workshop
+tier: minor
+areas: [ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: UNIF program chairs (rotating host institutions)
+organizer_country: [international]
+proceedings: Informal proceedings (RISC JKU technical report in 2026)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://www3.risc.jku.at/conferences/unif2026/
+notes:
+- Annual forum on unification theory and its applications (equational and higher-order unification, matching, anti-unification, narrowing, disunification)
+- UNIF 2026 was the 40th edition; previous editions mostly in Europe, also in the USA and Japan
+- Usually a satellite of FSCD or IJCAR/CADE (Nancy 2024 with IJCAR, Birmingham 2025 with FSCD, Lisbon 2026 at FLoC with FSCD and IJCAR)
+- Accepts short papers or extended abstracts up to 5 pages in EasyChair style; recent or unfinished work welcome
+- Accepted abstracts go into informal proceedings published as a technical report (RISC, Johannes Kepler University Linz, in 2026); a journal special issue is decided case by case
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 40th UNIF
+  start: 2026-07-24
+  end: 2026-07-24
+  location: Lisbon, Portugal (FLoC 2026, affiliated with FSCD and IJCAR)
+  url: https://www3.risc.jku.at/conferences/unif2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    label: Extended from 2026-05-07
+  - kind: notification
+    date: 2026-05-28
+  - kind: camera_ready
+    date: 2026-06-13
+sources:
+- https://www3.risc.jku.at/conferences/unif2026/
+- https://www3.risc.jku.at/conferences/unif2026/cfp.html
+- https://www3.risc.jku.at/conferences/unif2026/submission.html
+- https://www3.risc.jku.at/publications/download/risc_7248/26-10.pdf
+- https://cs.newpaltz.edu/unif2025/
+- https://lat.inf.tu-dresden.de/unif2024/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=UNIF&by=all&source=ICORE2026
+unverified:
+- UNIF 2027 not announced as of 2026-11-07
+- Series homepage (irif.fr/~treinen/unif) no longer available; DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

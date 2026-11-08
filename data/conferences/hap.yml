@@ -1,0 +1,53 @@
+id: hap
+name: HAP
+full_name: Workshop on Holistic Architecture for Privacy in Clouds, Edges, and IoT
+type: workshop
+tier: minor
+areas: [security, systems]
+region: north-america
+language: english
+organizer: Workshop chairs from Keio University, IIJ Research Laboratory and TU Dresden (co-located workshop of IEEE/IFIP DSN)
+organizer_country: [japan, europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://plaublin.codeberg.page/2026-hap-workshop/@pages/
+notes:
+- Workshop at IEEE/IFIP DSN on data privacy through co-design of hardware architecture, system software and formal verification
+- Topics include TEEs, confidential VMs, trusted I/O and accelerators, verified hypervisors and OSes, and side-channel defenses
+- First edition 2026 at DSN in Charlotte, USA; five accepted papers and a keynote by Takahiro Shinagawa (University of Tokyo)
+- DSN workshop papers go in the DSN-W supplement to the DSN proceedings on IEEE Xplore
+- Regular papers up to 8 pages and short papers up to 4 pages including references, IEEE format, double-blind, at least three reviews
+- Submission via EasyChair (DSN track)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-22
+  location: Charlotte, NC, USA (co-located with DSN 2026)
+  url: https://plaublin.codeberg.page/2026-hap-workshop/@pages/
+  deadlines:
+  - kind: submission
+    date: 2026-04-06
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-20
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-27
+    time: "23:59"
+    tz: AoE
+sources:
+- https://plaublin.codeberg.page/2026-hap-workshop/@pages/
+- https://dsn2026.github.io/workshop_hap.html
+- https://dsn2026.github.io/cfworkshops.html
+- https://portal.core.edu.au/conf-ranks/?search=HAP&by=all&source=ICORE2026
+unverified:
+- New series with one edition so far; frequency unknown and no 2027 edition announced as of 2026-11-07
+- Proceedings taken from the DSN 2026 call for workshops; the workshop site does not name the proceedings
+last_verified: 2026-11-07

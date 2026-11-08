@@ -1,0 +1,55 @@
+id: genai4sm
+name: GenAI4SM
+full_name: Workshop on Generative AI for Streaming Media
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (Amazon Music, Spotify, Netflix, YouTube, Lyft); co-located with ACM WSDM
+organizer_country: [usa]
+proceedings: ACM DL (WSDM Companion Proceedings)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [2]
+links:
+  website: https://genai4streamingmedia-workshop.github.io/wsdm/index.html
+notes:
+- Workshop on generative AI and ML for streaming media (music, podcasts, video) recommendation, search and content understanding
+- Held at WSDM 2026 in Boise, Idaho on February 26, 2026
+- Organizers and program committee mostly from industry (Amazon, Spotify, Netflix, YouTube, Disney Streaming)
+- Accepted papers published in the WSDM 2026 Companion (workshop) proceedings in the ACM Digital Library
+- Previously published or under-review work may be presented but is not included in the proceedings
+- No 2027 edition announced as of November 2026
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-02-26
+  end: 2026-02-26
+  location: Boise, Idaho, USA (co-located with WSDM 2026)
+  url: https://genai4streamingmedia-workshop.github.io/wsdm/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-12-01
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-12-18
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-06
+    time: "23:59"
+    tz: AoE
+sources:
+- https://genai4streamingmedia-workshop.github.io/wsdm/index.html
+- https://genai4streamingmedia-workshop.github.io/wsdm/dates.html
+- https://genai4streamingmedia-workshop.github.io/wsdm/submissions.html
+- https://wsdm-conference.org/2026/index.php/workshops/
+- https://dl.acm.org/doi/proceedings/10.1145/3779211
+- https://portal.core.edu.au/conf-ranks/?search=GenAI4SM&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced
+last_verified: 2026-11-07

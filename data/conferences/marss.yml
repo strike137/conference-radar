@@ -1,0 +1,63 @@
+id: marss
+name: MARSS
+full_name: International Conference on Manipulation, Automation and Robotics at Small Scales
+type: conference
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: MARSS community (non-profit), technically supported by IEEE RAS and IEEE NTC
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://marss-conference.org/
+notes:
+- Annual non-profit conference run by the microrobotics community; technical support from IEEE RAS and IEEE NTC
+- Micro/nano manipulation, automation and characterization, and small-scale robots (nm to cm)
+- Full papers 5 to 6 pages go to IEEE Xplore (Ei indexed); short papers 1 to 3 pages are accepted on a rolling basis
+- Full paper decisions within two weeks of submission; selected papers invited to a Journal of Micro-Bio Robotics
+  special issue
+- In person only, no online or poster presentations
+- Rotates worldwide (Helsinki 2019, Toronto 2022, Abu Dhabi 2023, Delft 2024, West Lafayette 2025, Hangzhou 2026,
+  Istanbul 2027; Tokyo 2028 tentative, Barcelona 2029)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-27
+  end: 2026-07-31
+  location: Zhejiang University, Hangzhou, China
+  url: https://marss-conference.org/history/marss2026-hangzhou/
+- year: 2027
+  start: 2027-07-11
+  end: 2027-07-15
+  location: Koc University, Istanbul, Turkey
+  url: https://marss-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2027-04-12
+    time: "12:00"
+    tz: GMT
+    label: Full papers (5-6 pages), no extension
+  - kind: submission
+    date: 2027-04-12
+    label: Short papers (1-3 pages), may be extended to June 10 if slots remain
+  - kind: camera_ready
+    date: 2027-05-15
+    label: Camera-ready full papers and early bird registration
+  - kind: other
+    date: 2027-06-15
+    label: Speaker registration
+sources:
+- https://marss-conference.org/
+- https://marss-conference.org/history/
+- https://marss-conference.org/history/marss2026-hangzhou/
+- https://marss-conference.org/marss-future/
+- https://marss-conference.org/submission/journal-publication-after-conference/
+- https://portal.core.edu.au/conf-ranks/?search=MARSS&by=all&source=ICORE2026
+last_verified: 2026-11-07

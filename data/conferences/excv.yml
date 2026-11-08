@@ -1,0 +1,80 @@
+id: excv
+name: eXCV
+full_name: Workshop on Explainable Computer Vision
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (MPI for Informatics, TUM and Helmholtz Munich, TU Darmstadt, Telecom Paris)
+organizer_country: [europe]
+proceedings: ICCV Workshops proceedings (CVF Open Access) or ECCV Workshops proceedings, proceedings track only
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://excv-workshop.github.io/
+notes:
+- Workshop on explainable AI (XAI) for computer vision, with a new sub-theme each year (foundation models in 2026)
+- Held with ECCV 2024 (Milan), ICCV 2025 (Honolulu, "Quo Vadis?") and ECCV 2026 (3rd edition, Malmo)
+- Proceedings track papers (4 to 14 pages in 2026, incl. position papers) go into the host conference workshop proceedings
+- Nectar track (non-archival) for work already published at major CV and ML venues
+- Different from the CVPR XAI4CV workshop
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, Hawaii, USA (with ICCV 2025)
+  url: https://excv-workshop.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-26
+    time: "23:59"
+    tz: AoE
+    label: Proceedings track
+  - kind: notification
+    date: 2025-07-10
+  - kind: camera_ready
+    date: 2025-08-18
+  - kind: other
+    date: 2025-08-15
+    time: "23:59"
+    tz: AoE
+    label: Non-proceedings track
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026, Malmo Arena)
+  url: https://excv-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-11
+    time: "23:59"
+    tz: CEST
+    label: Proceedings track (extended from July 7)
+  - kind: notification
+    date: 2026-08-06
+    time: "23:59"
+    tz: CEST
+  - kind: camera_ready
+    date: 2026-08-11
+    time: "23:59"
+    tz: CEST
+  - kind: other
+    date: 2026-07-10
+    time: "23:59"
+    tz: CEST
+    label: Nectar track (first round, then rolling)
+sources:
+- https://excv-workshop.github.io/
+- https://excv-workshop.github.io/2025/
+- https://excv-workshop.github.io/2024/
+- https://openaccess.thecvf.com/ICCV2025_workshops/eXCV
+- https://portal.core.edu.au/conf-ranks/?search=eXCV&by=all&source=ICORE2026
+unverified:
+- Publisher of the ECCV 2026 workshop proceedings not named on the workshop page
+- Next edition (2027) not announced yet
+last_verified: 2026-11-07

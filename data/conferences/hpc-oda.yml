@@ -1,0 +1,53 @@
+id: hpc-oda
+name: HPC-ODA
+full_name: International Workshop on HPC Operational Data Analytics
+type: workshop
+tier: minor
+areas: [systems, data]
+region: north-america
+language: english
+frequency: annual
+organizer: EE HPC WG Operational Data Analytics team, held with SC
+organizer_country: [usa, europe]
+proceedings: SC Workshops Proceedings (IEEE Xplore)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://hpc-oda.org/workshop2026
+notes:
+- Half-day workshop on operational data analytics for HPC systems (logs, scheduler records, telemetry, energy data, digital twins), held with IEEE/ACM SC
+- 2026 is the first edition; grew out of eight years of Birds-of-a-Feather sessions at SC and ISC
+- Full papers (8 pages) and short papers (4 pages) in the IEEE template, at least three single-blind reviews
+- Papers published in the SC26 workshop proceedings in IEEE Xplore; lightning talks only go into a workshop report from the EE HPC WG
+- Organizers from LRZ, Boston University, HPE, NERSC/LBNL and ORNL
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-20
+  location: Chicago, IL, USA (with SC26)
+  url: https://hpc-oda.org/workshop2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-12
+    time: "23:59"
+    tz: AoE
+    label: Full and short papers (extended from July 31)
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-18
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-09-18
+    time: "23:59"
+    tz: AoE
+    label: Lightning talk submission
+sources:
+- https://hpc-oda.org/workshop2026
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=HPC-ODA&by=all&source=ICORE2026
+last_verified: 2026-11-07

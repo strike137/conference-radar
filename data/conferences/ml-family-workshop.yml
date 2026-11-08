@@ -1,0 +1,69 @@
+id: ml-family-workshop
+name: ML Family
+full_name: ML Family Workshop
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGPLAN
+organizer_country: [international]
+proceedings: None (abstracts on the workshop website)
+archival: false
+typical:
+  deadline_months: [6, 7]
+  conference_months: [8, 9, 10]
+links:
+  website: https://www.mlworkshop.org/
+notes:
+- Annual workshop on Standard ML, OCaml, F# and other ML-family languages, held with ICFP since 2005 and sponsored by ACM SIGPLAN
+- Informal format since 2010; presentations are selected from short proposals and there are no published proceedings
+- Only the abstract of accepted submissions is posted on the workshop website, so work can be published elsewhere
+- Submission kinds are research presentations, experience reports, demos and informed positions
+- Organized in close coordination with the OCaml Users and Developers Workshop
+- In 2026 the workshop ran as two events with one program committee, at ICFP 2026 in Indianapolis and at FW'26
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-10-16
+  end: 2025-10-16
+  location: Singapore (with ICFP/SPLASH 2025)
+  url: https://conf.researchr.org/home/icfp-splash-2025/mlsymposium-2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-03
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-07-31
+    label: Initial
+  - kind: notification
+    date: 2025-08-07
+    label: Final (if needed)
+- year: 2026
+  start: 2026-08-28
+  end: 2026-08-28
+  location: Indianapolis, Indiana, USA (with ICFP 2026)
+  url: https://icfp26.sigplan.org/home/mlfamilyworkshop-2026
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    tz: AoE
+    label: Extended from 2026-06-24
+  - kind: notification
+    date: 2026-07-23
+    label: Initial
+  - kind: notification
+    date: 2026-07-30
+    label: Final (if needed)
+sources:
+- https://www.mlworkshop.org/
+- https://icfp26.sigplan.org/home/mlfamilyworkshop-2026
+- https://conf.researchr.org/home/icfp-splash-2025/mlsymposium-2025
+- https://portal.core.edu.au/conf-ranks/?search=ML&by=all&source=ICORE2026
+unverified:
+- Date and place of the second 2026 event (co-located with FW'26) could not be read from the official pages
+- ML Family 2027 not announced yet (ICFP 2027 is in Nijmegen, September 2027)
+- dblp page could not be checked (dblp blocked automated access); links.dblp left out
+last_verified: 2026-11-07

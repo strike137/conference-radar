@@ -1,0 +1,60 @@
+id: pandora
+name: PANDORA
+full_name: "Workshop on Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment"
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+organizer: Workshop organizers from University of Copenhagen, LMU Munich, Amazon, UNSW, AI Security Institute, MBZUAI and Ai2; co-located with EMNLP 2026
+organizer_country: [international]
+proceedings: ACL Anthology (EMNLP 2026 workshop proceedings)
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10]
+links:
+  website: https://pandora-workshop.github.io/
+notes:
+- First edition in 2026, a one-day workshop at EMNLP 2026 in Budapest
+- Topic is pluralism in NLP and AI alignment (human label variation, disagreement-aware data, pluralistic alignment and evaluation)
+- Long (8 pages), short (4 pages) and extended abstract (2 pages) submissions; double-blind via OpenReview
+- Authors choose archival or non-archival; archival papers appear in the ACL Anthology (2026.pandora-1)
+- Direct submission and ARR commitment tracks
+- Hybrid format (online and in person)
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 1st workshop, with EMNLP 2026
+  start: 2026-10-29
+  end: 2026-10-29
+  location: Budapest, Hungary
+  url: https://pandora-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-07
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (extended from July 31)
+  - kind: other
+    date: 2026-08-28
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-09-10
+  - kind: camera_ready
+    date: 2026-09-23
+    time: "23:59"
+    tz: AoE
+sources:
+- https://pandora-workshop.github.io/
+- https://pandora-workshop.github.io/cfp
+- https://pandora-workshop.github.io/schedule
+- https://pandora-workshop.github.io/organization
+- https://2026.emnlp.org/program/workshops/
+- https://aclanthology.org/volumes/2026.pandora-1/
+- https://portal.core.edu.au/conf-ranks/?search=PANDORA&by=all&source=ICORE2026
+unverified:
+- No edition after 2026 announced
+last_verified: 2026-11-07

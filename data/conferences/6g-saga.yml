@@ -1,0 +1,99 @@
+id: 6g-saga
+name: 6G-SAGA
+full_name: International Workshop on Intelligent Aerial and Spaceborne Systems for 6G (6G-SAGA)
+type: workshop
+tier: minor
+areas: [communications, networking, ai]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Waseda University (Shimamoto group) with international co-chairs, co-located with IEEE ComSoc and VTS conferences
+organizer_country: [japan]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1, 6, 8, 10, 12]
+  conference_months: [1, 4, 6, 9, 12]
+links:
+  website: https://6g-saga.w.waseda.jp/5th-ws/
+notes:
+- Workshop series on space, air and ground integrated networks (satellites, UAVs, HAPS) for 6G, run from a Waseda University series site
+- Moves between host conferences, several editions a year -> CCNC 2026 (1st), VTC2026-Spring (2nd), PIMRC 2026 (3rd), GLOBECOM 2026 (4th), CCNC 2027 (5th), WCNC 2027 (6th), VTC2027-Spring (7th)
+- Title and theme change with each host (the CCNC 2027 edition is the 2nd Workshop on Edge AI and AI-Native SAGIN for Consumer-Centric Communications)
+- Papers follow the host conference format and appear in the host proceedings in IEEE Xplore; papers must be presented
+- 2nd edition technically supported by JST ASPIRE and the IEICE Information Network technical committee
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: 3rd 6G-SAGA, with IEEE PIMRC 2026
+  start: 2026-09-01
+  end: 2026-09-04
+  location: Singapore (with IEEE PIMRC 2026)
+  url: https://6g-saga.w.waseda.jp/3rd-ws/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    label: Extended from 5 June
+  - kind: notification
+    date: 2026-07-08
+  - kind: camera_ready
+    date: 2026-08-01
+- year: 2026
+  label: 4th 6G-SAGA, with IEEE GLOBECOM 2026
+  start: 2026-12-07
+  end: 2026-12-11
+  location: Macau, China (with IEEE GLOBECOM 2026)
+  url: https://6g-saga.w.waseda.jp/4th-ws/
+  deadlines:
+  - kind: submission
+    date: 2026-08-12
+  - kind: notification
+    date: 2026-09-20
+  - kind: camera_ready
+    date: 2026-09-30
+- year: 2027
+  label: 5th 6G-SAGA'27, with IEEE CCNC 2027
+  start: 2027-01-09
+  end: 2027-01-12
+  location: Las Vegas, NV, USA (with IEEE CCNC 2027)
+  url: https://6g-saga.w.waseda.jp/5th-ws/
+  deadlines:
+  - kind: submission
+    date: 2026-10-19
+  - kind: notification
+    date: 2026-11-10
+  - kind: camera_ready
+    date: 2026-11-23
+- year: 2027
+  label: 6th 6G-SAGA, with IEEE WCNC 2027
+  start: 2027-04-05
+  end: 2027-04-08
+  location: Panama City, Panama (with IEEE WCNC 2027)
+  url: https://6g-saga.w.waseda.jp/6th-ws/
+- year: 2027
+  label: 7th 6G-SAGA, with IEEE VTC2027-Spring
+  start: 2027-06-20
+  end: 2027-06-23
+  location: Hamburg, Germany (with IEEE VTC2027-Spring)
+  url: https://events.vtsociety.org/vtc2027-spring/current-workshops/w11/
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+    label: VTC workshop papers
+sources:
+- https://6g-saga.w.waseda.jp/1st-ws/
+- https://6g-saga.w.waseda.jp/2nd-ws/
+- https://6g-saga.w.waseda.jp/3rd-ws/
+- https://6g-saga.w.waseda.jp/3rd-ws/submission/
+- https://6g-saga.w.waseda.jp/4th-ws/
+- https://6g-saga.w.waseda.jp/4th-ws/committee/
+- https://6g-saga.w.waseda.jp/5th-ws/
+- https://6g-saga.w.waseda.jp/6th-ws/
+- https://events.vtsociety.org/vtc2027-spring/current-workshops/w11/
+- https://events.vtsociety.org/vtc2027-spring/
+- https://portal.core.edu.au/conf-ranks/?search=SAGA&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Exact workshop day within each host conference (GLOBECOM 2026 page says 7 or 11 December, CCNC 2027 page says 9 or 12 January)
+- WCNC 2027 edition deadlines not stated on the series page
+- VTC2027-Spring workshop notification and camera-ready dates not yet stated
+last_verified: 2026-11-07

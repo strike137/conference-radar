@@ -1,0 +1,60 @@
+id: wqse
+name: WQSE
+full_name: Brazilian Workshop on Quantum Software Engineering
+type: workshop
+tier: domestic
+areas: [software]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: Co-located with CBSoft (Brazilian Conference on Software, SBC)
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://wqseworkshop.github.io/WQSE2026/
+notes:
+- Brazilian national forum on quantum software engineering; first edition in 2026
+- Co-located with CBSoft 2026 at IME-USP, São Paulo
+- Different from the international Q-SE workshop at ICSE
+- Full research papers up to 6 pages plus 1 page of references, Portuguese or English (English encouraged), CBSoft ACM-like template
+- Double-blind review with at least two PC members; submission via JEMS
+- Accepted and presented papers published in SBC OpenLib (SOL)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: São Paulo, Brazil (IME-USP, with CBSoft 2026)
+  url: https://wqseworkshop.github.io/WQSE2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-03
+    time: "23:59"
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-08-03
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://wqseworkshop.github.io/WQSE2026/
+- https://wqseworkshop.github.io/WQSE2026/cfp.html
+- https://wqseworkshop.github.io/WQSE2026/program.html
+- https://cbsoft.sbc.org.br/2026/pt/workshops/accepted
+- https://portal.core.edu.au/conf-ranks/?search=WQSE&by=all&source=ICORE2026
+unverified:
+- Acceptance rate not stated
+- WQSE 2027 not yet announced
+last_verified: 2026-11-07

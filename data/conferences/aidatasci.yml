@@ -1,0 +1,45 @@
+id: aidatasci
+name: AI Data Scientist
+full_name: International Workshop on AI Data Scientist
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+organizer: Workshop organizers from HKUST (Guangzhou), Harvard University, Tsinghua University, Shandong University, Shanghai AI Laboratory and Microsoft Research Asia
+organizer_country: [china, usa]
+proceedings: None (non-archival; submissions via OpenReview, not in the ACM Digital Library)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://usail-hkust.github.io/aidatasci/
+notes:
+- Half-day workshop on AI agents and LLMs that automate data science work, held with ACM SIGKDD
+- 1st edition at KDD 2026 in Jeju, Korea (August 10, 2026, morning, ICC Jeju)
+- Research papers up to 8 pages and system or demo papers up to 4 pages in the KDD 2026 template
+- Papers are expected to be non-archival and do not appear in the ACM Digital Library
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 1st edition, with KDD 2026
+  start: 2026-08-10
+  end: 2026-08-10
+  location: Jeju, Korea (with KDD 2026)
+  url: https://usail-hkust.github.io/aidatasci/
+  deadlines:
+  - kind: submission
+    date: 2026-05-23
+    tz: UTC+8
+    label: Extended deadline
+  - kind: notification
+    date: 2026-06-11
+    tz: AoE
+sources:
+- https://usail-hkust.github.io/aidatasci/
+- https://kdd2026.kdd.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=AIDataSci&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- No 2027 edition announced as of 2026-11-07

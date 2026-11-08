@@ -1,0 +1,57 @@
+id: bigmem
+name: BigMem
+full_name: International Workshop on Big Memory
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop program chairs (Huazhong University of Science and Technology, McGill University), co-located with ACM SOSP
+organizer_country: [china, canada]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://bigmem2026.github.io/
+notes:
+- Workshop on big memory systems (CXL, persistent and disaggregated memory, memory-centric networking, OS support for heterogeneous memory)
+- Co-located with ACM SOSP; registration handled by SOSP
+- Two-page extended abstracts (references excluded), ACM template recommended, double-blind review via HotCRP
+- Non-archival; the workshop states it does not produce formal proceedings
+- Program includes keynotes and invited talks besides contributed talks
+- Held with SOSP (Seoul 2025, Prague 2026)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Seoul, Republic of Korea (co-located with SOSP 2025)
+  url: https://bigmem2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-07-30
+    tz: AoE
+  - kind: notification
+    date: 2025-08-25
+- year: 2026
+  start: 2026-09-29
+  end: 2026-09-29
+  location: Prague, Czechia (co-located with SOSP 2026)
+  url: https://bigmem2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    tz: AoE
+  - kind: notification
+    date: 2026-07-10
+sources:
+- https://bigmem2026.github.io/
+- https://bigmem2026.github.io/BigMem26CFP.pdf
+- https://bigmem2025.github.io/
+- https://sigops.org/s/conferences/sosp/2026/workshops.html
+- https://sigops.org/s/conferences/sosp/2025/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=BigMem&by=all&source=ICORE2026
+last_verified: 2026-11-07

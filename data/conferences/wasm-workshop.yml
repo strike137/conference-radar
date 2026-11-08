@@ -1,0 +1,62 @@
+id: wasm-workshop
+name: WAW
+full_name: WebAssembly Workshop
+type: workshop
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: WAW organizers (chaired by Conrad Watt, NTU Singapore), co-located with POPL or ICFP/SPLASH (ACM SIGPLAN)
+organizer_country: [international]
+proceedings: None (no formal proceedings)
+archival: false
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1]
+links:
+  website: https://popl27.sigplan.org/home/waw-2027
+notes:
+- Workshop on WebAssembly research, its formal semantics and specification, tooling and industrial use
+- Held at POPL 2024 (London), POPL 2025 (Denver), ICFP/SPLASH 2025 (Singapore) and POPL 2027 (Mexico City)
+- No formal proceedings; submissions are abstracts of up to 500 words or PDFs of up to 2 pages, prior work welcome
+- Lightweight review with a single feedback comment; in-person talks favoured, limited remote speakers
+- Invited keynotes from WebAssembly designers and industry
+- Not to be confused with WAW (Workshop on Algorithms and Models for the Web Graph), which is CORE C
+- This WAW is not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-16
+  end: 2025-10-16
+  location: Singapore (with ICFP/SPLASH 2025)
+  url: https://conf.researchr.org/home/icfp-splash-2025/webassembly-ws-2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-31
+    tz: AoE
+  - kind: notification
+    date: 2025-08-08
+    tz: AoE
+- year: 2027
+  start: 2027-01-16
+  end: 2027-01-16
+  location: Mexico City, Mexico (with POPL 2027)
+  url: https://popl27.sigplan.org/home/waw-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-06
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-11-10
+    tz: AoE
+sources:
+- https://popl27.sigplan.org/home/waw-2027
+- https://conf.researchr.org/home/icfp-splash-2025/webassembly-ws-2025
+- https://conf.researchr.org/series/webassembly-ws
+- https://popl25.sigplan.org/home/waw-2025
+- https://popl24.sigplan.org/home/waw-2024
+- https://portal.core.edu.au/conf-ranks/?search=WAW&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) 2027 submission deadline not shown on the official page
+last_verified: 2026-11-07

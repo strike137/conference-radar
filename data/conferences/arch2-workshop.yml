@@ -1,0 +1,61 @@
+id: arch2-workshop
+name: Architecture 2.0
+full_name: "Architecture 2.0: Workshop on AI for Computing Systems Design"
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Harvard University (Vijay Janapa Reddi's group) with industry co-organizers
+organizer_country: [usa]
+proceedings: None (accepted papers posted on OpenReview)
+archival: false
+typical:
+  deadline_months: [2, 5]
+  conference_months: [3, 6]
+links:
+  website: https://harvard-edge.github.io/isca-26-arch-2-workshop/
+notes:
+- Workshop on using AI and agentic AI to design, optimize and evaluate computer architectures and systems
+- Held with ASPLOS 2026 (Pittsburgh, March 2026, with a student question-writing competition for QuArch) and ISCA 2026 (Raleigh, June 2026, themed on agentic AI)
+- Formats are 4-page work-in-progress papers, 2-page extended abstracts of completed work and 2-page position papers; single-blind review
+- No formal proceedings; accepted papers are on OpenReview and authors may publish extended versions elsewhere
+- The ASPLOS 2026 edition piloted an AI review assistant (ArchScholar) whose feedback was posted on OpenReview
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-23
+  location: Pittsburgh, PA, USA (with ASPLOS 2026)
+  url: https://harvard-edge.github.io/asplos-26-arch-2-workshop/
+  deadlines:
+  - kind: submission
+    date: 2026-02-19
+    tz: AoE
+    label: ASPLOS edition
+  - kind: notification
+    date: 2026-02-24
+    label: ASPLOS edition
+- year: 2026
+  start: 2026-06-27
+  end: 2026-06-27
+  location: Raleigh, NC, USA (with ISCA 2026)
+  url: https://harvard-edge.github.io/isca-26-arch-2-workshop/
+  deadlines:
+  - kind: submission
+    date: 2026-05-19
+    tz: AoE
+    label: ISCA edition
+  - kind: notification
+    date: 2026-05-22
+    label: ISCA edition
+sources:
+- https://harvard-edge.github.io/isca-26-arch-2-workshop/
+- https://harvard-edge.github.io/asplos-26-arch-2-workshop/
+- https://openreview.net/group?id=iscaconf.org/ISCA/2026/Workshop/ARCH-2
+- https://openreview.net/group?id=ACM.org/ASPLOS/2026/Workshop/Architecture_2.0
+- https://portal.core.edu.au/conf-ranks/?search=Architecture%202.0&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced yet
+last_verified: 2026-11-07

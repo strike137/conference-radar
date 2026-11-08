@@ -1,0 +1,57 @@
+id: synt
+name: SYNT
+full_name: Workshop on Synthesis
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SYNT Steering Committee (series page hosted at the University of Liverpool)
+organizer_country: [international]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://synt2027.github.io/
+notes:
+- Workshop on synthesis of computing systems from formal specifications (reactive, functional and neuro-symbolic synthesis, complexity, tools, benchmarks)
+- Held since 2012; SYNT 2026 was the 15th edition and SYNT 2027 is the 16th
+- Co-located with CAV (Paris 2023, Montreal 2024, Zagreb 2025, Amsterdam 2027) and with FLoC 2026 in Lisbon
+- Calls for extended abstracts of up to 3 pages in LNCS format; no published proceedings, so parallel submissions are welcome
+- Hosts the reactive synthesis competition (SYNTCOMP); SYNT 2027 also hosts the syntax-guided synthesis competition (SyGuS)
+- Selected papers of some past editions went to special issues of Acta Informatica and Formal Methods in System Design
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 15th SYNT
+  start: 2026-07-25
+  end: 2026-07-25
+  location: Lisbon, Portugal (co-located with FLoC 2026)
+  url: https://synt2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    label: Extended from 2026-05-01
+  - kind: notification
+    date: 2026-05-28
+- year: 2027
+  label: 16th SYNT
+  start: 2027-07-20
+  end: 2027-07-20
+  location: Amsterdam, Netherlands (co-located with CAV 2027)
+  url: https://synt2027.github.io/
+sources:
+- https://cgi.csc.liv.ac.uk/~sven/synt/
+- https://synt2027.github.io/
+- https://synt2026.github.io/
+- https://synt2026.github.io/cfp.html
+- https://synt2025.github.io/
+- https://synt2024.github.io/
+- https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/
+- https://portal.core.edu.au/conf-ranks/?search=SYNT&by=all&source=ICORE2026
+unverified:
+- SYNT 2027 submission and notification dates are TBA on the official site as of 2026-11-07
+last_verified: 2026-11-07

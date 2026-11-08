@@ -1,0 +1,55 @@
+id: itrs
+name: ITRS
+full_name: Workshop on Intersection Types and Related Systems
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: biennial
+organizer: ITRS Steering Committee
+organizer_country: [europe]
+proceedings: Informal workshop proceedings (workshop website)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: http://itrs.di.unito.it/
+notes:
+- Workshop on intersection types, union and refinement types and related type systems, in theory and applications
+- Held about every two years since 2000 (no edition in 2006, and 2020 skipped because of COVID-19); ITRS 2026 was the 12th edition
+- Affiliated with FSCD, LICS, ICALP or FLoC; Vienna 2014, Porto 2016, Oxford 2018, online 2021, Tallinn 2024, Lisbon 2026
+- Extended abstracts of 3 to 5 pages; short versions of published papers and papers submitted elsewhere are welcome
+- Accepted papers appear on the workshop website as workshop proceedings
+- Steering committee from Turin, TU Dortmund and Heriot-Watt
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 12th ITRS
+  start: 2026-07-18
+  end: 2026-07-18
+  location: Lisbon, Portugal (FLoC 2026, affiliated with FSCD 2026)
+  url: https://itrs2026.tu-dortmund.de
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    tz: AoE
+    label: Extended from 2026-05-15
+  - kind: notification
+    date: 2026-05-29
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-28
+    tz: AoE
+sources:
+- https://itrs2026.tu-dortmund.de
+- https://itrs2026.tu-dortmund.de/itrs-cfp.txt
+- http://itrs.di.unito.it/workshops.html
+- https://itrs2024.di.unito.it/
+- https://portal.core.edu.au/conf-ranks/?search=ITRS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- ITRS 2028 not announced as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

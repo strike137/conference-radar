@@ -1,0 +1,69 @@
+id: icist-rs
+name: ICIST
+full_name: International Conference on Information Society and Technology
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: Information Society of Serbia (ISOS, Informaciono drustvo Srbije), held together with YU INFO
+organizer_country: [other]
+proceedings: Springer Lecture Notes book (full papers) and ISOS Conference Proceedings Series (ISOS-CPS, open access on Eventiotic)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [3]
+links:
+  website: https://www.eventiotic.com/eventiotic/conference/icist2027
+notes:
+- International English-language sister conference of the Serbian YU INFO, held at the same time at Kopaonik, Serbia since 2011
+- Not the same as ICIST, the International Conference on Information Science and Technology (icist)
+- Broad ICT scope (information systems, model-based software engineering, e-government, big data, IoT, AI) with special tracks
+- 60 to 100 papers and about 200 participants per edition
+- Two routes - full papers (8 to 16 pages, single-blind) by the February deadline for a Springer Lecture Notes book; extended abstracts (up to 4 pages, double-blind) whose authors submit full papers after the conference for ISOS-CPS (ISSN 2738-1447)
+- Submission via Microsoft CMT; at least one author must register and present
+- "Registration fee: 17,500 RSD (2026, ICIST and YU INFO share the same fee)"
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-03-08
+  end: 2026-03-10
+  location: Kopaonik, Serbia
+  url: https://www.eventiotic.com/eventiotic/conference/icist2026
+  deadlines:
+  - kind: submission
+    date: 2026-02-01
+    label: Full papers (Springer) and extended abstracts
+  - kind: notification
+    date: 2026-02-15
+    label: Abstract acceptance
+  - kind: other
+    date: 2026-06-01
+    label: Post-conference full papers (ISOS-CPS)
+- year: 2027
+  start: 2027-03-14
+  end: 2027-03-16
+  location: Kopaonik, Serbia
+  url: https://www.eventiotic.com/eventiotic/conference/icist2027
+  deadlines:
+  - kind: submission
+    date: 2027-02-01
+    label: Full papers (Springer) and extended abstracts
+  - kind: notification
+    date: 2027-02-15
+    label: Abstract acceptance
+  - kind: other
+    date: 2027-06-01
+    label: Post-conference full papers (ISOS-CPS)
+sources:
+- https://www.eventiotic.com/eventiotic/conference/icist2027
+- https://www.eventiotic.com/eventiotic/conference/icist2026
+- https://www.eventiotic.com/eventiotic/conference/icist2025
+- https://www.yuinfo.org/
+- https://portal.core.edu.au/conf-ranks/?search=ICIST&by=all&source=ICORE2026
+unverified:
+- The ICIST 2027 page gives the dates as Mar 14-16, 2026 (year typo for the 17th edition, which opens Mar 14 per its date list); 2027 taken from the strict full paper deadline 1.2.2027
+- Springer series for the Lecture Notes book not named on the call
+- dblp page not checked
+last_verified: 2026-11-07

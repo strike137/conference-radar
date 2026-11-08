@@ -1,0 +1,59 @@
+id: trustaudio
+name: TrustAudio
+full_name: Workshop on Secure, Safe, and Privacy-Preserving Speech and Audio AI
+type: workshop
+tier: minor
+areas: [security, ai, nlp]
+region: asia-pacific
+language: english
+organizer: Workshop organizers (Nancy F. Chen, Haizhou Li, Björn Schuller, Berrak Sisman and others), co-located with AACL-IJCNLP 2026
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://trustaudio.github.io/
+notes:
+- First edition in 2026, a one-day workshop at AACL-IJCNLP 2026 in Hengqin (Zhuhai), China
+- Topics are security, safety and privacy of speech and audio models (adversarial audio, deepfakes, backdoors, privacy leakage, jailbreaks of audio-language models)
+- Archival track with long (8 pages) and short (4 pages) papers, double-blind review on OpenReview, ARR commitment accepted
+- Non-archival track for papers already accepted elsewhere
+- Proceedings in the ACL Anthology (2026.trustaudio-1)
+- Invited speakers in 2026 were Hung-yi Lee, Shinji Watanabe and Junichi Yamagishi
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-11-10
+  end: 2026-11-10
+  location: Hengqin (Zhuhai), China (with AACL-IJCNLP 2026)
+  url: https://trustaudio.github.io/
+  deadlines:
+  - kind: other
+    date: 2026-09-15
+    tz: AoE
+    label: ARR commitment
+  - kind: submission
+    date: 2026-09-28
+    tz: AoE
+    label: Archival papers
+  - kind: other
+    date: 2026-10-04
+    tz: AoE
+    label: Non-archival submission
+  - kind: notification
+    date: 2026-10-06
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-11
+    tz: AoE
+sources:
+- https://trustaudio.github.io/
+- https://trustaudio.github.io/call-for-papers/
+- https://trustaudio.github.io/organizers/
+- https://aclanthology.org/volumes/2026.trustaudio-1/
+- https://portal.core.edu.au/conf-ranks/?search=TrustAudio&by=all&source=ICORE2026
+unverified:
+- Only one edition so far; frequency and future host conference not announced
+last_verified: 2026-11-07

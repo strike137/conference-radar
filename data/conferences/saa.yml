@@ -1,0 +1,49 @@
+id: saa
+name: SAA
+full_name: Workshop on Systems for Agentic AI
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+organizer: Byung-Gon Chun (FriendliAI and Seoul National University), Jae Wook Lee (Seoul National University), Gyeong-In Yu (FriendliAI); co-located with ACM SOSP
+organizer_country: [korea]
+proceedings: Workshop website (accepted papers online, non-archival)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://saa2025.github.io/
+notes:
+- Workshop on systems and infrastructure for serving generative and agentic AI (inference optimization, model serving, hardware-aware tuning)
+- 1st edition SAA '25 held with ACM SOSP 2025 in Seoul, Korea (Lotte Hotel World)
+- Call for presentations; abstracts of at most 2 pages in ACM two-column format, single-blind review
+- Camera-ready papers up to 4 pages, posted online before the workshop; not published in the ACM Digital Library
+- Strong industry involvement (FriendliAI organizers, sponsorship from AI infrastructure companies)
+- Not among the SOSP 2026 workshops; no 2nd edition announced as of 2026-11-07
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 1st edition, with ACM SOSP 2025
+  start: 2025-10-13
+  end: 2025-10-13
+  location: Seoul, Republic of Korea (Lotte Hotel World)
+  url: https://saa2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-08-14
+    label: Extended from August 7
+  - kind: notification
+    date: 2025-08-23
+  - kind: camera_ready
+    date: 2025-10-03
+sources:
+- https://saa2025.github.io/
+- https://sigops.org/s/conferences/sosp/2026/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=SAA&by=all&source=ICORE2026
+unverified:
+- Deadline time and time zone not stated on the official site
+- No 2026 or later edition announced as of 2026-11-07
+- Not in the CCF 2026 list as far as checked (workshop)
+last_verified: 2026-11-07

@@ -1,0 +1,72 @@
+id: nora
+name: NORA
+full_name: Workshop on Knowledge Graphs and Agentic Systems Interplay
+type: workshop
+tier: minor
+areas: [ai, nlp, data]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Workshop organizers (Btissam Er-Rahmadi, Sébastien Montella, Damien Graux, André Melo, Hajira Jabeen), co-located with a major AI or NLP conference
+organizer_country: [international]
+proceedings: ACL Anthology (2026 AACL edition); CEUR-WS (2025 and IJCAI-ECAI 2026 editions)
+archival: true
+typical:
+  deadline_months: [5, 9, 10]
+  conference_months: [8, 11, 12]
+links:
+  website: https://nora-workshop.github.io/AACL2026/
+notes:
+- Workshop on knowledge graphs as memory and reasoning support for LLM agents
+- 1st edition at NeurIPS 2025 (Mexico City), 2nd at IJCAI-ECAI 2026 (Bremen, jointly with GenAIK 2026), 3rd at AACL-IJCNLP 2026 (Hengqin, Zhuhai)
+- "Proceedings vary by host: CEUR-WS for NeurIPS 2025 (Vol-4162) and IJCAI-ECAI 2026, ACL Anthology for AACL-IJCNLP 2026 (2026.nora-1)"
+- Research (8 pages), position and demo (6 pages), industry and use case (5 pages) and short (2 pages) papers; submission on OpenReview, ARR commitment accepted at AACL 2026
+- At least one author must register and present for the paper to be included in the proceedings
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-17
+  location: Bremen, Germany (with IJCAI-ECAI 2026, joint with GenAIK 2026)
+  url: https://nora-workshop.github.io/IJCAIECAI2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-14
+    tz: AoE
+    label: Extended from May 7
+  - kind: notification
+    date: 2026-06-10
+  - kind: camera_ready
+    date: 2026-06-25
+    tz: AoE
+- year: 2026
+  start: 2026-11-10
+  end: 2026-11-10
+  location: Hengqin (Zhuhai), China (with AACL-IJCNLP 2026)
+  url: https://nora-workshop.github.io/AACL2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-14
+    tz: AoE
+    label: Extended from Sep 9
+  - kind: other
+    date: 2026-09-14
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-10-05
+    tz: AoE
+    label: Extended from Oct 1
+  - kind: camera_ready
+    date: 2026-10-12
+    tz: AoE
+sources:
+- https://nora-workshop.github.io/AACL2026/
+- https://nora-workshop.github.io/IJCAIECAI2026/
+- https://nora-workshop.github.io/2025/
+- https://aclanthology.org/volumes/2026.nora-1/
+- https://ceur-ws.org/Vol-4162/
+- https://portal.core.edu.au/conf-ranks/?search=NORA&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced yet
+last_verified: 2026-11-07

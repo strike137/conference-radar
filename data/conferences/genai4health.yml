@@ -1,0 +1,59 @@
+id: genai4health
+name: GenAI4Health
+full_name: Workshop on GenAI for Health
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (2026 from Hippocratic AI, Harvard, NUS, KAIST, Stanford and others); co-located with NeurIPS
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers public on OpenReview unless authors opt out)
+archival: false
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://genai4health.github.io/
+notes:
+- Generative AI in healthcare, clinical trust, safety, policy and regulatory compliance
+- "Held at NeurIPS every year since 2024 (2024 Vancouver, 2025 San Diego, 2026 Sydney)"
+- 2024 and 2025 subtitle "Potential, Trust, and Policy Compliance"; 2026 subtitle "Agentic Systems, Clinical Trust, and Future Potential"
+- Non-archival; research papers up to 9 pages plus demonstration and position papers
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-12-06
+  end: 2025-12-07
+  location: San Diego, USA (co-located with NeurIPS 2025)
+  url: https://genai4health.github.io/2025-NeurIPS/
+  deadlines:
+  - kind: submission
+    date: 2025-08-22
+- year: 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Sydney, Australia (co-located with NeurIPS 2026)
+  url: https://genai4health.github.io/2026-NeurIPS/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-09-09
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-09-29
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-25
+    time: "23:59"
+    tz: AoE
+sources:
+- https://genai4health.github.io/2026-NeurIPS/
+- https://genai4health.github.io/2025-NeurIPS/
+- https://neurips.cc/virtual/2026/workshop/137506
+- https://portal.core.edu.au/conf-ranks/?search=GenAI4Health&by=all&source=ICORE2026
+last_verified: 2026-11-07

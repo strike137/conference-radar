@@ -1,0 +1,49 @@
+id: visart
+name: VISART
+full_name: Workshop on VISion for ART
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: Workshop organizers (Piera Riccio, Eva Cetinic, Amanda Wasielewski, Nanne van Noord, Peter Bell, Stuart James)
+organizer_country: [europe]
+proceedings: ECCV Workshops proceedings (Springer LNCS), technical track only
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://visarts.eu/
+notes:
+- Workshop on computer vision for art, art history and cultural heritage, bringing together computer vision and digital humanities researchers
+- Biennial with ECCV since 2012 (2012, 2014, 2016, 2018, 2020, 2022, 2024); VISART VIII in 2026
+- Two tracks; technical papers (14 pages, ECCV style) appear in the proceedings, extended abstracts (4 pages) on uses and reflection do not
+- Double-blind review by at least three reviewers via OpenReview
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026)
+  url: https://visarts.eu/
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    time: "22:00"
+    tz: UTC
+    label: Full papers and extended abstracts (extended from 2026-06-24)
+  - kind: notification
+    date: 2026-08-05
+  - kind: camera_ready
+    date: 2026-08-15
+    time: "22:00"
+    tz: CET
+sources:
+- https://visarts.eu/
+- https://link.springer.com/book/10.1007/978-3-031-91575-8
+- https://portal.core.edu.au/conf-ranks/?search=VISART&by=all&source=ICORE2026
+unverified:
+- Next edition (2028, presumably with ECCV 2028) not announced yet
+last_verified: 2026-11-07

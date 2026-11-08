@@ -1,0 +1,64 @@
+id: ieee-icves
+name: ICVES
+full_name: IEEE International Conference on Vehicular Electronics and Safety
+type: conference
+tier: minor
+areas: [systems, communications]
+region: worldwide
+language: english
+frequency: irregular
+organizer: IEEE ITSS
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11]
+links:
+  website: https://ieee-icves.org/
+  dblp: https://dblp.org/db/conf/icves/index.html
+notes:
+- Financially sponsored by the IEEE Intelligent Transportation Systems Society (ITSS); vehicle electronics, driver assistance, V2X, ECUs, automotive cybersecurity and road safety
+- Accepted papers are submitted to IEEE Xplore
+- Held since 2005; no edition in 2020, 2021 or 2023
+- Location rotates worldwide (Madrid 2018, Cairo 2019, Bogota 2022, Ahmedabad 2024, Coventry 2025, Cochabamba 2026)
+- Double-blind review via PaperCept; 6 pages expected, up to 8 with extra page charges (2026)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-27
+  end: 2025-10-28
+  location: Coventry, UK
+  url: https://ieee-icves.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-15
+  - kind: notification
+    date: 2025-08-15
+  - kind: camera_ready
+    date: 2025-09-08
+- year: 2026
+  start: 2026-11-09
+  end: 2026-11-11
+  location: Cochabamba, Bolivia
+  url: https://ieee-icves.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-27
+  - kind: notification
+    date: 2026-09-02
+  - kind: camera_ready
+    date: 2026-10-09
+sources:
+- https://ieee-icves.org/
+- https://ieee-icves.org/2025/
+- https://ieee-icves.org/2025/contributions/call-for-papers/
+- https://ieee-icves.org/2026/
+- https://ieee-icves.org/2026/contributions/call-for-papers/
+- https://ieee-icves.org/2026/contributions/information-for-authors/
+- https://ieee-itss.org/conf/icves/
+- https://portal.core.edu.au/conf-ranks/?search=ICVES&by=all&source=ICORE2026
+unverified:
+- ICVES 2025 end date differs between the 2025 site (Oct 27-28) and the series home page (Oct 27-29)
+- The 2026 author page says submission by 2026-07-19 23:59 PT; the important dates list 2026-07-27 (strict)
+last_verified: 2026-11-07

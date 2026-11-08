@@ -1,0 +1,65 @@
+id: eecr
+name: EECR
+full_name: International Conference on Electrical Engineering, Control and Robotics
+type: conference
+tier: minor
+areas: [general, systems]
+region: china
+language: english
+frequency: annual
+organizer: Smaller commercially run series, sponsored each year by a host university (Harbin Institute of Technology, Shenzhen in 2027)
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3, 4]
+links:
+  website: https://www.eecr.org/
+notes:
+- Smaller commercially run conference (secretariat on a vip.163.com address, payment via zmeeting)
+- Held in China every year (Wuhan 2023, Guangzhou 2024, Changzhou 2025, Suzhou 2026, Shenzhen 2027); online in 2021 and 2022
+- Proceedings in IEEE Xplore since 2023; 2021 and 2022 proceedings appeared in IOP Journal of Physics Conference Series
+- Covers electrical and power engineering, control and robotics; full papers 4 to 10 pages
+- Abstract-only presentations accepted without publication
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 12th EECR
+  start: 2026-04-06
+  end: 2026-04-08
+  location: Suzhou, China
+  url: https://www.eecr.org/2026.html
+- year: 2027
+  label: 13th EECR
+  start: 2027-04-23
+  end: 2027-04-25
+  location: Shenzhen, China
+  url: https://www.eecr.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-12-10
+  - kind: notification
+    date: 2027-01-10
+  - kind: other
+    date: 2027-01-30
+    label: Registration
+sources:
+- https://www.eecr.org/
+- https://www.eecr.org/sub.html
+- https://www.eecr.org/cfp.html
+- https://www.eecr.org/com.html
+- https://www.eecr.org/2026.html
+- https://www.eecr.org/2025.html
+- https://www.eecr.org/2024.html
+- https://www.eecr.org/2023.html
+- https://www.eecr.org/2022.html
+- https://www.eecr.org/2021.html
+- https://ieeexplore.ieee.org/xpl/conhome/11548697/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=EECR&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Publisher of the EECR 2027 proceedings not named on the official site (it says only EECR 2027 Conference Proceedings)
+- Deadlines of EECR 2026 not given on the official history page
+- Organizing company and its country not stated, so organizer_country is left out
+- No deadline time or time zone stated

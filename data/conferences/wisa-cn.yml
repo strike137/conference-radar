@@ -1,0 +1,79 @@
+id: wisa-cn
+name: WISA
+full_name: CCF Web Information Systems and Applications Conference
+name_local: CCF中国信息系统及应用大会
+type: conference
+tier: minor
+areas: [data]
+region: china
+language: mixed
+frequency: annual
+organizer: CCF (China Computer Federation), Technical Committee on Information Systems
+organizer_country: [china]
+proceedings: Springer LNCS
+archival: true
+indexing: [EI]
+rank:
+  ccf: C
+typical:
+  deadline_months: [5]
+  conference_months: [8, 10]
+links:
+  website: https://conf.ccf.org.cn/WISA2026
+  dblp: https://dblp.org/db/conf/IEEEwisa/index.html
+notes:
+- Flagship conference of the CCF Technical Committee on Information Systems; 2026 was the 23rd edition
+- The CCF C ranked "WISA" (Web Information Systems and Applications); not the Korean WISA on information security applications
+- Accepts Chinese and English papers; English papers (Springer LNCS format, at least 12 pages) go into the Springer LNCS proceedings, EI indexed
+- Selected Chinese papers are recommended to Chinese journals such as Journal of Computer Research and Development (with a second review)
+- Double-blind review in 2026; at least one author of each accepted paper must register and present
+- Also has a system demo track and a poster session; topics include information system architecture, data management, large models and knowledge graphs
+- Hosted by a different Chinese university each year (Xi'an 2025, Kunming 2026)
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  label: 22nd WISA
+  start: 2025-10-31
+  end: 2025-11-02
+  location: Xi'an, China (Chang'an University and Northwest University)
+  url: https://conf.ccf.org.cn/WISA2025
+- year: 2026
+  label: 23rd WISA
+  start: 2026-08-07
+  end: 2026-08-09
+  location: Kunming, China (Kunming University of Science and Technology)
+  url: https://conf.ccf.org.cn/WISA2026
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-05-10
+    time: "23:59"
+    tz: UTC+8
+    label: Abstract (extended from 2026-04-21)
+  - kind: submission
+    date: 2026-05-10
+    time: "23:59"
+    tz: UTC+8
+    label: Full paper (extended from 2026-04-28)
+  - kind: notification
+    date: 2026-06-30
+    label: Extended from 2026-06-21
+  - kind: camera_ready
+    date: 2026-07-16
+    time: "23:59"
+    tz: UTC+8
+sources:
+- https://conf.ccf.org.cn/WISA2026
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1464737864993607680176926232052
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=b34d19ddd25845adbd29a92c1be534a7
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e3a9d9e38a74b019f37e3a5f00fc2
+- https://conf.ccf.org.cn/WISA2025
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1368277325078204416174626433566
+- https://portal.core.edu.au/conf-ranks/?search=WISA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- WISA 2025 deadlines
+- WISA 2027 dates and location
+- Acceptance rate
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-11-07

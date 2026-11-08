@@ -1,0 +1,69 @@
+id: agents-in-the-wild
+name: Agents in the Wild
+full_name: "Workshop on Agents in the Wild: Safety, Security, and Beyond"
+type: workshop
+tier: minor
+areas: [ai, security]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: AIWILD workshop organizers (UC Santa Cruz, UC Berkeley, UCLA, Scale AI); co-located with ICLR, ICML and NeurIPS
+organizer_country: [usa]
+proceedings: None (non-archival; accepted papers on OpenReview)
+archival: false
+typical:
+  deadline_months: [2, 5, 9]
+  conference_months: [4, 7, 12]
+links:
+  website: https://agentwild-workshop.github.io/
+notes:
+- Workshop series (AIWILD) on the safety, security and trustworthiness of AI agents
+- Three editions in 2026, at ICLR (Rio de Janeiro, 237 submissions), ICML (Seoul, 327 submissions) and NeurIPS (Sydney)
+- Non-archival; papers under review or recently accepted elsewhere are welcome
+- Regular papers up to 9 or 10 pages and short papers up to 4 pages; double-blind review on OpenReview
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 2nd edition, with ICML 2026
+  start: 2026-07-11
+  end: 2026-07-11
+  location: Seoul, South Korea
+  url: https://agentwild-workshop.github.io/icml2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-08
+    tz: AoE
+    label: Extended from May 1
+  - kind: notification
+    date: 2026-05-22
+    tz: AoE
+    label: Extended from May 15
+  - kind: camera_ready
+    date: 2026-06-30
+    tz: AoE
+- year: 2026
+  label: 3rd edition, with NeurIPS 2026
+  start: 2026-12-11
+  end: 2026-12-11
+  location: Sydney, Australia
+  url: https://agentwild-workshop.github.io/neurips2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-05
+    tz: AoE
+    label: Extended from August 29
+  - kind: notification
+    date: 2026-09-29
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-12-04
+    tz: AoE
+sources:
+- https://agentwild-workshop.github.io/
+- https://agentwild-workshop.github.io/icml2026/
+- https://agentwild-workshop.github.io/neurips2026/
+- https://iclr.cc/virtual/2026/workshop/10000781
+- https://icml.cc/virtual/2026/workshop/54082
+- https://neurips.cc/virtual/2026/workshop/137500
+- https://portal.core.edu.au/conf-ranks/?search=Agents%20in%20the%20Wild&by=all&source=ICORE2026
+last_verified: 2026-11-07

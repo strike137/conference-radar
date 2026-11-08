@@ -1,0 +1,60 @@
+id: ai4s-sc
+name: AI4S
+full_name: Workshop on Artificial Intelligence and Machine Learning for Scientific Applications
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: AI4S organizers (BSC, UC Merced, Argonne National Laboratory, Oregon State University), held with SC
+organizer_country: [international]
+proceedings: SC Workshops Proceedings
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://ai4s.github.io/
+notes:
+- One-day workshop on AI and ML for scientific applications on HPC systems (scientific foundation models, surrogates, scalable training and inference), held with SC
+- 2026 is the 8th edition; held with SC since 2020 except 2021, when it was held with IEEE Cluster
+- Technical papers of 5 to 8 pages in IEEE two-column format, single-blind review, submitted through the SC Linklings site
+- Accepted papers appear in the SC Workshops Proceedings
+- Not the same venue as the IJCAI workshop AI4S (AI for Sustainability, file ai4s-ijcai)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, MO, USA (with SC25)
+  url: https://ai4s.github.io/archive/sc25/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-26
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Chicago, IL, USA (with SC26)
+  url: https://ai4s.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://ai4s.github.io/
+- https://ai4s.github.io/archive/sc25/index.html
+- https://portal.core.edu.au/conf-ranks/?search=AI4S&by=all&source=ICORE2026
+last_verified: 2026-11-07

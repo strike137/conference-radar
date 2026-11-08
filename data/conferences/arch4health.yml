@@ -1,0 +1,49 @@
+id: arch4health
+name: Arch4Health
+full_name: Workshop on Architecture for Health
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: SAFARI Research Group, ETH Zurich (Onur Mutlu); co-located with computer architecture conferences
+organizer_country: [europe]
+proceedings: None (talks only; ICS 2026 edition short papers in the ACM proceedings)
+archival: false
+typical:
+  deadline_months: [4, 10, 12]
+  conference_months: [1, 7, 11]
+links:
+  website: https://events.safari.ethz.ch/micro26-arch4health/
+notes:
+- Workshop on computer architecture for healthcare workloads such as genomics, medical imaging, brain-machine interfaces and wearables
+- Run by the ETH Zurich SAFARI group (Nika Mansouri Ghiasi, Konstantina Koliogeorgi, Onur Mutlu)
+- Moves between host conferences; MICRO 2025 (Seoul), HPCA 2026 (Sydney), ICS 2026 (Belfast), MICRO 2026 (Athens)
+- Invited talks plus contributed talks selected from extended abstracts submitted through a Google Form
+- The ICS 2026 edition also took short papers (up to 4 pages) for the ACM proceedings; other editions are talk only
+- Sessions are livestreamed on YouTube
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-11-01
+  end: 2026-11-01
+  location: Athens, Greece (co-located with MICRO 2026)
+  url: https://events.safari.ethz.ch/micro26-arch4health/
+  deadlines:
+  - kind: submission
+    date: 2026-10-04
+    label: Extended abstract (MICRO 2026 edition)
+  - kind: notification
+    date: 2026-10-09
+sources:
+- https://events.safari.ethz.ch/micro26-arch4health/
+- https://events.safari.ethz.ch/ics26-arch4health/
+- https://events.safari.ethz.ch/hpca26-arch4health/
+- https://events.safari.ethz.ch/micro25-arch4health/
+- https://portal.core.edu.au/conf-ranks/?search=Arch4Health&by=all&source=ICORE2026
+unverified:
+- Next edition and host conference not announced yet (checked 2026-11-07)
+- The MICRO and HPCA editions do not say explicitly that there are no proceedings; talk-only format inferred from the abstract form
+- Fee not published (registration goes through the host conference)
+last_verified: 2026-11-07

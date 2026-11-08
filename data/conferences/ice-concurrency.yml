@@ -1,0 +1,54 @@
+id: ice-concurrency
+name: ICE
+full_name: Interaction and Concurrency Experience
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: ICE chairs and Steering Committee (DisCoTec satellite workshop)
+organizer_country: [international]
+proceedings: EPTCS (post-proceedings)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://ice-workshop.github.io/
+  dblp: https://dblp.org/db/conf/ice/index.html
+notes:
+- Workshop on models, verification, tools and programming primitives for concurrent systems and complex interactions (process calculi, session types, protocols)
+- Held since 2008 and a satellite workshop of DisCoTec since 2010; ICE 2026 was the 19th edition
+- Held in June with DisCoTec in Europe (Lucca 2022, Lisbon 2023, Groningen 2024, Lille 2025, Urbino 2026; online 2020 and 2021)
+- Distinctive review process with an online forum where authors and PC members discuss each submission; light double-anonymous reviewing
+- Research papers (4 to 17 pages) appear in the open-access EPTCS post-proceedings (ICE 2025 -> EPTCS 425, ICE 2026 -> EPTCS 453); oral communications up to 2 pages are presented only
+- Selected papers usually invited to a special issue of JLAMP (Elsevier)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 19th ICE
+  start: 2026-06-12
+  end: 2026-06-12
+  location: Urbino, Italy (DisCoTec 2026)
+  url: https://www.discotec.org/2026/satellite/ice
+  deadlines:
+  - kind: submission
+    date: 2026-04-09
+    tz: AoE
+    label: Extended from 2026-04-02
+  - kind: notification
+    date: 2026-04-30
+    tz: AoE
+sources:
+- https://ice-workshop.github.io/
+- https://www.discotec.org/2026/satellite/ice
+- https://www.discotec.org/
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2026
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2025
+- https://portal.core.edu.au/conf-ranks/?search=ICE&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- ICE 2026 post-proceedings camera-ready date given only as July 12 (tentative)
+- ICE 2027 not announced as of 2026-11-07; DisCoTec 2027 is announced for Augsburg, Germany
+last_verified: 2026-11-07

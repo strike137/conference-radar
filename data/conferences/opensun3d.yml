@@ -1,0 +1,75 @@
+id: opensun3d
+name: OpenSUN3D
+full_name: Workshop on Open-World 3D Scene Understanding
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Workshop organizing committee (ETH Zurich, INSAIT, Google, TUM, Microsoft, Stanford); co-located with CVPR, ICCV or ECCV
+organizer_country: [international]
+proceedings: CVPR/ICCV Workshops proceedings (CVF Open Access) or ECCV Workshops proceedings, proceedings track only
+archival: true
+typical:
+  deadline_months: [3, 8]
+  conference_months: [6, 9]
+links:
+  website: https://opensun3d.github.io/
+notes:
+- Workshop on open-world and open-vocabulary 3D scene understanding, spatial intelligence and world models
+- Full title in 2026 is Workshop on Open-World 3D Scene Understanding and Representations
+- Held with ICCV 2023, CVPR 2024, ECCV 2024, CVPR 2025, ICCV 2025, CVPR 2026 (6th, Denver) and ECCV 2026 (7th, Malmo); twice a year since 2024
+- Proceedings track (14-page ECCV format) goes into the host conference workshop proceedings; non-archival track for extended abstracts and published work
+- Submissions via OpenReview; also runs a 3D functionality and interaction challenge (SceneFun3D, Articulate3D)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://opensun3d.github.io/index_cvpr26.html
+  deadlines:
+  - kind: submission
+    date: 2026-03-12
+    time: "23:59"
+    tz: GMT
+    label: Proceedings track
+  - kind: notification
+    date: 2026-03-19
+    label: Proceedings track
+  - kind: camera_ready
+    date: 2026-04-10
+    label: Proceedings track
+  - kind: other
+    date: 2026-04-20
+    time: "23:59"
+    tz: GMT
+    label: Non-archival track
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026)
+  url: https://opensun3d.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-01
+    label: Proceedings track
+  - kind: notification
+    date: 2026-08-10
+  - kind: camera_ready
+    date: 2026-08-15
+  - kind: other
+    date: 2026-08-01
+    label: Non-archival track
+sources:
+- https://opensun3d.github.io/
+- https://opensun3d.github.io/index_cvpr26.html
+- https://openaccess.thecvf.com/ICCV2025_workshops/OpenSUN3D
+- https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/OpenSUN3D
+- https://portal.core.edu.au/conf-ranks/?search=OpenSUN3D&by=all&source=ICORE2026
+unverified:
+- Time and time zone of the ECCV 2026 paper deadlines not stated on the official page
+- Publisher of the ECCV 2026 workshop proceedings not named on the workshop page
+- Next edition (2027) not announced yet
+last_verified: 2026-11-07

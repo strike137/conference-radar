@@ -1,0 +1,48 @@
+id: bic-workshop
+name: BIC
+full_name: BioImage Computing Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (University of Birmingham, NIST, EMBL-EBI, Human Technopole, BioVisionCenter Zurich, TU Dresden)
+organizer_country: [international]
+proceedings: Host conference workshop proceedings (ECCV Workshops in Springer LNCS for 2026)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://bioimagecomputing.com
+notes:
+- Workshop on computer vision for light and electron microscopy (restoration, segmentation, tracking, registration, phenotyping)
+- Held with CVPR, ICCV or ECCV since 2015; recent editions ECCV 2022, ICCV 2023, ECCV 2024, ICCV 2025, ECCV 2026
+- Double-blind review via OpenReview; accepted papers are published in the official conference proceedings
+- Supported by the University of Birmingham
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo, Sweden (with ECCV 2026)
+  url: https://bioimagecomputing.com
+  deadlines:
+  - kind: submission
+    date: 2026-07-20
+    label: Extended
+  - kind: camera_ready
+    date: 2026-08-15
+sources:
+- https://bioimagecomputing.com
+- https://bioimagecomputing.com/call-for-papers/
+- https://bioimagecomputing.com/organisers/
+- https://bioimagecomputing.com/bioimage-computing-iccv-2025/
+- https://link.springer.com/book/10.1007/978-3-031-91575-8
+- https://portal.core.edu.au/conf-ranks/?search=BIC&by=all&source=ICORE2026
+unverified:
+- Time and time zone of the 2026 deadlines not stated on the official page
+- Notification date for 2026 not stated on the official page
+- Next edition (2027) not announced yet
+last_verified: 2026-11-07

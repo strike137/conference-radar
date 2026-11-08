@@ -1,0 +1,71 @@
+id: keir
+name: KEIR
+full_name: Workshop on Knowledge-Enhanced Information Retrieval
+type: workshop
+tier: minor
+areas: [data, nlp, ai]
+region: europe
+language: english
+frequency: annual
+organizer: KEIR organizing committee (University of Bologna, University of Glasgow and others), co-located with ECIR or CIKM
+organizer_country: [international]
+proceedings: Springer LNCS (revised post-proceedings, opt-in)
+archival: true
+acceptance_rate: 47% (2026, 15/32)
+typical:
+  deadline_months: [1, 9]
+  conference_months: [4, 11]
+links:
+  website: https://keir-workshop.github.io/
+notes:
+- Workshop on augmenting retrieval and LLM-based systems with external knowledge (RAG, knowledge graphs, agents)
+- Editions at ECIR 2024 (Glasgow), ECIR 2025 (Lucca) and CIKM 2026 (Rome)
+- 2024 edition was non-archival; 2025 and 2026 papers can go into a Springer LNCS post-proceedings volume (2025 -> LNCS 16086)
+- Publishing in LNCS is optional; authors can keep the paper non-archival
+- Double-blind review; half-day, in-person workshop in 2026
+- "Acceptance rate: 47% (2026, 15 of 32 submissions)"
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-04-10
+  end: 2025-04-10
+  location: Lucca, Italy (ECIR 2025)
+  url: https://keir-ecir2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-01-31
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-02-23
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-08
+  location: Rome, Italy (CIKM 2026, Sapienza University of Rome)
+  url: https://keir-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-09-16
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-23
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-12-15
+    time: "23:59"
+    tz: AoE
+    label: LNCS revised papers
+sources:
+- https://keir-workshop.github.io/
+- https://keir-workshop.github.io/call-for-papers
+- https://keir-ecir2025.github.io/
+- https://keirworkshop.github.io/
+- https://link.springer.com/book/10.1007/978-3-032-02899-0
+- https://portal.core.edu.au/conf-ranks/?search=KEIR&by=all&source=ICORE2026
+unverified:
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

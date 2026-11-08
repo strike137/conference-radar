@@ -1,0 +1,50 @@
+id: oscar-arch
+name: OSCAR
+full_name: Workshop on Open-Source Computer Architecture Research
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Luca Carloni (Columbia University, chair), Pradip Bose (IBM), Margaret Martonosi (Princeton), Sophia Shao (UC Berkeley), Caroline Trippel (Stanford); co-located with ISCA
+organizer_country: [usa]
+proceedings: None (no formal proceedings)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [6]
+links:
+  website: https://oscar-workshop.github.io/
+notes:
+- Workshop on open-source hardware (processors, accelerators, SoC components, CAD tools, FPGA and chip prototyping)
+- Co-located with ISCA every year since 2022 (New York 2022, Orlando 2023, Buenos Aires 2024, Tokyo 2025, Raleigh 2026)
+- Mix of invited talks and talks selected from 2-page abstracts submitted via EasyChair
+- No formal proceedings; organizers may arrange a journal special issue for selected contributions
+- Not the same as the invitation-only OSCAR (Open Systems Challenges, Agenda and Roadmap) workshop held with EuroSys 2026
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  label: 5th edition, with ISCA 2026
+  start: 2026-06-28
+  end: 2026-06-28
+  location: Raleigh, NC, USA
+  url: https://oscar-workshop.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-15
+    label: Abstract submission (extended)
+  - kind: notification
+    date: 2026-05-24
+    label: Updated from May 22
+sources:
+- https://oscar-workshop.github.io/
+- https://oscar-workshop.github.io/files/OSCAR_2026_Call_for_Abstracts-1.pdf
+- https://oscar-workshop.github.io/Archive.html
+- https://eurosys-oscar.github.io/eurosys-oscar/
+- https://portal.core.edu.au/conf-ranks/?search=OSCAR&by=all&source=ICORE2026
+unverified:
+- Deadline time and time zone not stated on the official site
+- No 2027 edition announced as of 2026-11-07
+- Not in the CCF 2026 list as far as checked (workshop)
+last_verified: 2026-11-07

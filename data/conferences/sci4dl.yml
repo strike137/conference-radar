@@ -1,0 +1,49 @@
+id: sci4dl
+name: Sci4DL
+full_name: Workshop on Scientific Methods for Understanding Deep Learning
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Sci4DL workshop organizers (Flatiron Institute, NYU, UPenn, UCL, University of Amsterdam, UC Berkeley); sponsored by the Simons Foundation
+organizer_country: [usa, europe]
+proceedings: None (no proceedings; accepted papers on OpenReview)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://scienceofdlworkshop.github.io/
+notes:
+- Workshop on empirical, hypothesis-driven study of deep networks (training dynamics, representations, scaling laws)
+- 1st edition at NeurIPS 2024, 2nd at ICLR 2026 in Rio de Janeiro
+- No proceedings; accepted submissions are made public on OpenReview
+- Papers up to 4 pages plus references and appendices; double-blind review
+- Runs a Science of DL Improvement Challenge alongside the paper track
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 2nd edition, with ICLR 2026
+  start: 2026-04-26
+  end: 2026-04-26
+  location: Rio de Janeiro, Brazil
+  url: https://scienceofdlworkshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-04
+    tz: AoE
+  - kind: notification
+    date: 2026-03-01
+    tz: AoE
+sources:
+- https://scienceofdlworkshop.github.io/
+- https://scienceofdlworkshop.github.io/2026/
+- https://scienceofdlworkshop.github.io/2026/submissions/
+- https://iclr.cc/virtual/2026/workshop/10000783
+- https://iclr.cc/virtual/2026/events/workshop
+- https://portal.core.edu.au/conf-ranks/?search=Sci4DL&by=all&source=ICORE2026
+unverified:
+- No next edition announced yet
+last_verified: 2026-11-07

@@ -1,0 +1,48 @@
+id: fta-workshop
+name: FTA
+full_name: International Workshop on Firmware Testing and Analysis
+type: workshop
+tier: minor
+areas: [security, software, systems]
+region: north-america
+language: english
+frequency: irregular
+organizer: Purdue University (TianoShield NSF project), ACM sponsored, co-located with SPLASH/ISSTA
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://conf.researchr.org/home/splash-issta-2026/fta-2026
+notes:
+- Workshop on testing, security analysis, verification and maintenance of firmware, with a focus on UEFI and the TianoCore EDK II ecosystem
+- First edition in 2026 with SPLASH/ISSTA 2026 in Oakland, California; organized as part of the NSF-funded TianoShield project (2025 to 2027)
+- Chairs from Purdue University; follows the FirmVuln26 workshop held at VulnCon26 in April 2026
+- Technical papers up to 18 pages, industry reports 12, short papers 8, tool papers 5, extended abstracts 4; ACM acmsmall single-column format, double-blind, HotCRP
+- Accepted papers are published open access by ACM (article processing charges may apply); in-person presentation required
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-05
+  location: Oakland, California, USA (with SPLASH/ISSTA 2026)
+  url: https://conf.researchr.org/home/splash-issta-2026/fta-2026
+  deadlines:
+  - kind: submission
+    date: 2026-07-20
+    tz: AoE
+  - kind: notification
+    date: 2026-08-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-20
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/splash-issta-2026/fta-2026
+- https://conf.researchr.org/series/fta
+- https://portal.core.edu.au/conf-ranks/?search=FTA&by=all&source=ICORE2026
+unverified:
+- No second edition announced as of 2026-11-07; continuation beyond the TianoShield project is unclear
+last_verified: 2026-11-07

@@ -1,0 +1,67 @@
+id: wiuhpc
+name: WIUHPC
+full_name: Combined Workshop on Interactive and Urgent High-Performance Computing
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Interactive and Urgent HPC community (organizers from CEA, NERSC, Indiana University and Allen Institute), held with SC and ISC
+organizer_country: [usa, europe]
+proceedings: SC Workshops Proceedings for SC editions; ISC workshop proceedings (Springer LNCS) for ISC editions
+archival: true
+typical:
+  deadline_months: [3, 8]
+  conference_months: [6, 11]
+links:
+  website: https://www.interactivehpc.com/
+notes:
+- Workshop on interactive HPC and urgent computing (disaster response, human-in-the-loop simulation, interactive supercomputing)
+- Held twice a year, with ISC High Performance in Hamburg (June) and with IEEE/ACM SC in the USA (November); ISC26 was the 7th edition and SC26 the 8th
+- SC editions take 6 to 10 page two-column papers and publish them in the SC Workshops Proceedings
+- ISC editions take 6 to 12 page LNCS papers; papers of significant scientific value are considered for the ISC workshop proceedings (Springer LNCS)
+- Accepts original work, work in progress and position papers
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-26
+  end: 2026-06-26
+  location: Hamburg, Germany (with ISC 2026, Congress Center Hamburg)
+  url: https://www.interactivehpc.com/previous-editions/isc26-cfp
+  deadlines:
+  - kind: submission
+    date: 2026-03-29
+    label: ISC26 edition (extended from March 25)
+  - kind: notification
+    date: 2026-04-08
+    label: ISC26 edition
+  - kind: camera_ready
+    date: 2026-05-26
+    label: ISC26 edition
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-20
+  location: Chicago, IL, USA (with SC26, McCormick Place)
+  url: https://www.interactivehpc.com/cfp
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    label: SC26 edition
+  - kind: notification
+    date: 2026-09-04
+    label: SC26 edition
+  - kind: camera_ready
+    date: 2026-09-25
+    label: SC26 edition
+sources:
+- https://www.interactivehpc.com/cfp
+- https://www.interactivehpc.com/previous-editions/isc26-cfp
+- https://www.interactivehpc.com/previous-editions/sc25-cfp
+- https://www.interactivehpc.com/previous-editions/sc-2025
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://sc26.conference-program.com/?post_type=page&p=16&id=wksp126&sess=sess151
+- https://portal.core.edu.au/conf-ranks/?search=WIUHPC&by=all&source=ICORE2026
+unverified:
+- Publisher of the SC26 workshop proceedings not confirmed; the WIUHPC SC26 CfP asks for the ACM template and the SC26 proceedings page says ACM Digital Library, while other SC26 workshop pages say IEEE Xplore
+last_verified: 2026-11-07

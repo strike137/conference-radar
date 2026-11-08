@@ -1,0 +1,59 @@
+id: iwc-confluence
+name: IWC
+full_name: International Workshop on Confluence
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: IWC Steering Committee
+organizer_country: [international]
+proceedings: Informal proceedings (PDF on workshop website)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://iwc2026.github.io
+notes:
+- Workshop on confluence and related properties of rewriting systems (commutation, completion, critical pairs, certification, tools)
+- Annual since 2012 (Nagoya); IWC 2026 was the 15th edition
+- Co-located with FSCD, IJCAR, FLoC or similar events; Buenos Aires/online 2021, Haifa 2022, Obergurgl 2023, Tallinn 2024, Leipzig 2025, Lisbon 2026
+- Short papers or extended abstracts of at most 5 pages in EasyChair style; no formal reviewing, short versions of published papers welcome
+- Accepted papers are released electronically as informal proceedings before the workshop
+- The Confluence Competition (CoCo) runs live during the workshop
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 15th IWC
+  start: 2026-07-24
+  end: 2026-07-24
+  location: Lisbon, Portugal (FLoC 2026, co-located with FSCD and IJCAR)
+  url: https://iwc2026.github.io
+  deadlines:
+  - kind: abstract
+    date: 2026-05-04
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2026-05-04
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-05-28
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-23
+    tz: AoE
+sources:
+- https://iwc2026.github.io
+- https://iwc2026.github.io/documents/iwc2026_proceedings.pdf
+- https://portal.core.edu.au/conf-ranks/?search=IWC&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Original 2026 submission deadline before the extension not shown on the official page
+- The previous IWCs list on the 2026 page gives Leipzig with the year 2026, which appears to be the 2025 edition
+- IWC 2027 not announced as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

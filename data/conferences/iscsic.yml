@@ -1,0 +1,76 @@
+id: iscsic
+name: ISCSIC
+full_name: International Symposium on Computer Science and Intelligent Control
+type: conference
+tier: minor
+areas: [ai, vision, systems]
+region: china
+language: english
+frequency: annual
+organizer: Organized by Chinese universities (Huazhong University of Science and Technology and China University of Geosciences in 2027)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI Compendex, Scopus]
+fee: Full paper authors 500 USD early / 550 USD regular / 600 USD on site, students 450 / 500 / 550 USD; abstract presenters 400 / 450 / 500 USD (students 350 / 400 / 450 USD); listeners 250 USD (2027)
+typical:
+  deadline_months: [3]
+  conference_months: [9]
+links:
+  website: https://www.iscsic.org/
+notes:
+- Smaller commercially run conference (secretariat with a Chengdu phone number, site hosted on forwardacademy.org.cn)
+- Topics mix computer science (vision, AI, security, networks) with control engineering (unmanned systems, cyber-physical systems, robotics)
+- Held in Europe 2017 to 2019 (Budapest, Stockholm, Amsterdam), online 2020 to 2022, in China since 2023 (Nanjing, Zhengzhou, Hangzhou, Nanjing, Wuhan)
+- Proceedings in IEEE Xplore (2017, 2021 to 2025) and the ACM DL (2018 to 2020), stated as indexed by EI Compendex and Scopus
+- Full papers reviewed on a rolling basis; abstract-only presentation without publication is also offered
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 10th ISCSIC
+  start: 2026-09-11
+  end: 2026-09-13
+  location: Nanjing, China
+  url: https://www.iscsic.org/confhis.html
+- year: 2027
+  label: 11th ISCSIC
+  start: 2027-09-17
+  end: 2027-09-19
+  location: Wuhan, China
+  url: https://www.iscsic.org/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2027-03-11
+    tz: UTC+8
+    label: First round
+  - kind: submission
+    date: 2027-03-25
+    tz: UTC+8
+    label: First round
+  - kind: notification
+    date: 2027-05-20
+    tz: UTC+8
+    label: First round
+  - kind: other
+    date: 2027-07-04
+    tz: UTC+8
+    label: Registration
+  - kind: camera_ready
+    date: 2027-08-04
+    tz: UTC+8
+sources:
+- https://www.iscsic.org/
+- https://www.iscsic.org/sub.html
+- https://www.iscsic.org/pub.html
+- https://www.iscsic.org/confhis.html
+- https://www.iscsic.org/committee.html
+- https://www.iscsic.org/reg.html
+- https://www.iscsic.org/cfp.html
+- https://ieeexplore.ieee.org/xpl/conhome/11349715/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ISCSIC&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- Publisher of the 2026 and 2027 proceedings not named on the official site (only "digital conference proceedings")
+- Deadlines of ISCSIC 2026 not given on the official site
+- No deadline time stated; the registration page says all dates are Beijing Time (UTC+8)

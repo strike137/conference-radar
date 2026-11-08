@@ -1,0 +1,56 @@
+id: applied-electronics
+name: AE
+full_name: International Conference on Applied Electronics
+type: conference
+tier: minor
+areas: [communications, systems]
+region: europe
+language: english
+frequency: annual
+organizer: University of West Bohemia in Pilsen, Faculty of Electrical Engineering
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+fee: 430 EUR early, 490 EUR late (2026; 30% off for PhD students, IEEE member discounts)
+typical:
+  deadline_months: [5, 8]
+  conference_months: [9]
+links:
+  website: https://www.appel.zcu.cz/
+notes:
+- Annual conference on applied electronic circuits and systems, organized since 1996 by the Faculty of Electrical Engineering, University of West Bohemia in Pilsen, Czech Republic
+- Held in Pilsen; AE2026 took place at the Techmania Science Center
+- Topics include analogue and digital electronics, automotive and biomedical electronics, EMC, embedded systems and signal processing
+- Two-stage submission since 2026 -> 2-page abstract first, then a 4 to 6 page full paper in IEEE format after abstract acceptance
+- Accepted and presented papers are submitted to IEEE Xplore (IEEE Conference Record 70687); the organizers expect Web of Science and Scopus indexing
+- Double-blind review
+- Up to two papers per author (extra fee for the second); online presentation for an additional fee
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-09
+  location: Techmania Science Center, Pilsen, Czech Republic
+  url: https://www.appel.zcu.cz/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-03
+    label: Extended from 2026-04-20
+  - kind: notification
+    date: 2026-05-15
+    label: Abstract acceptance
+  - kind: submission
+    date: 2026-08-09
+    label: Full paper
+  - kind: notification
+    date: 2026-09-16
+    label: Full paper acceptance
+  - kind: camera_ready
+    date: 2026-09-30
+sources:
+- https://www.appel.zcu.cz/
+- https://www.appel.zcu.cz/authors.aspx
+- https://portal.core.edu.au/conf-ranks/?search=Applied+Electronics&by=all&source=ICORE2026
+unverified:
+- AE2027 dates not yet announced
+last_verified: 2026-11-07

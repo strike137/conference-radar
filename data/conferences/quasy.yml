@@ -1,0 +1,65 @@
+id: quasy
+name: QUASY
+full_name: Workshop on Quantitative Syntax
+type: workshop
+tier: minor
+areas: [nlp]
+region: europe
+language: english
+frequency: biennial
+organizer: QUASY organizing committee under the auspices of the International Quantitative Linguistics Association (IQLA), held within SyntaxFest
+organizer_country: [international]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://quansyntax.github.io/quasy2025/index.html
+notes:
+- Workshop on quantitative and statistical approaches to syntax using corpora and treebanks
+- Part of the biennial SyntaxFest with Depling, IWPT, UDW and TLT or SLiDE, with one joint OpenReview submission
+- Editions in 2019 (Paris), 2021 (Sofia, online), 2025 (Ljubljana); 4th edition at SyntaxFest 2027 in Prague
+- Regular papers up to 8 pages and short papers up to 4 pages; archival or non-archival (previously published) submissions
+- Proceedings in the ACL Anthology (14 papers in 2025, 2025.quasy-1)
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-29
+  end: 2025-08-29
+  location: Ljubljana, Slovenia (with SyntaxFest 2025)
+  url: https://quansyntax.github.io/quasy2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-04-22
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-06-02
+  - kind: camera_ready
+    date: 2025-06-16
+- year: 2027
+  start: 2027-08-30
+  end: 2027-09-03
+  location: Prague, Czech Republic (with SyntaxFest 2027)
+  url: https://syntaxfest.github.io/syntaxfest27/
+  deadlines:
+  - kind: submission
+    date: 2027-04-22
+    time: "23:59"
+    tz: AoE
+    label: SyntaxFest joint submission
+  - kind: notification
+    date: 2027-06-03
+sources:
+- https://quansyntax.github.io/quasy2025/index.html
+- https://syntaxfest.github.io/syntaxfest25/
+- https://syntaxfest.github.io/syntaxfest25/cfp_quasy.html
+- https://syntaxfest.github.io/syntaxfest27/
+- https://aclanthology.org/venues/quasy/
+- https://aclanthology.org/volumes/2025.quasy-1/
+- https://portal.core.edu.au/conf-ranks/?search=QUASY&by=all&source=ICORE2026
+unverified:
+- QUASY 2027 day within SyntaxFest not announced; the 2027 dates are those of the whole SyntaxFest
+last_verified: 2026-11-07

@@ -1,0 +1,55 @@
+id: ieee-amc
+name: IEEE AMC
+full_name: IEEE International Conference on Advanced Motion Control
+type: conference
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IEEE Industrial Electronics Society (IES)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://amc2026.ieee-ies.org/
+notes:
+- Biennial IEEE IES conference on motion control and mechatronics; 19th edition in 2026
+- Motion control in mechatronics, robotics, haptics, actuators and sensors, machine learning for motion control
+- Accepted and presented regular papers are submitted to IEEE Xplore; papers use the IEEE two-column format
+- Work-in-progress track (2 to 4 pages) appears only in local proceedings, not IEEE Xplore
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-09
+  end: 2026-03-11
+  location: Daegu, Korea
+  url: https://amc2026.ieee-ies.org/
+  deadlines:
+  - kind: other
+    date: 2025-10-14
+    label: Special session proposals (extended from October 1)
+  - kind: submission
+    date: 2025-11-21
+    label: Regular and special session papers (extended from November 3)
+  - kind: submission
+    date: 2025-12-12
+    label: Work-in-progress papers
+  - kind: notification
+    date: 2025-12-22
+  - kind: notification
+    date: 2026-01-05
+    label: Work-in-progress papers
+  - kind: camera_ready
+    date: 2026-01-12
+sources:
+- https://amc2026.ieee-ies.org/
+- https://amc2026.ieee-ies.org/for_authors/index.html
+- https://portal.core.edu.au/conf-ranks/?search=AMC&by=all&source=ICORE2026
+unverified:
+- Next edition (2028) not announced yet
+- Host cities of earlier editions (region set from the rotating IEEE IES pattern; the IEEE IES site could not be loaded)
+last_verified: 2026-11-07

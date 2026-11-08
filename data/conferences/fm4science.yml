@@ -1,0 +1,58 @@
+id: fm4science
+name: FM4Science
+full_name: Workshop on Foundation Models for Science
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: FM4Science organizing committee (Simon Fraser University, LBNL/ICSI and others), co-located with NeurIPS or ICLR
+organizer_country: [canada, usa]
+proceedings: None (non-archival; accepted papers posted on OpenReview)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://fm-science.github.io/
+notes:
+- Workshop on foundation models for scientific problems (PDEs, materials, biomedicine, Earth and space science)
+- 1st edition at NeurIPS 2024 (Vancouver), 2nd at ICLR 2026 (Rio de Janeiro)
+- A 3rd edition on scientific agents is proposed for ICLR 2027 (San Francisco); not yet accepted by ICLR as of 2026-11-07
+- Non-archival with no formal proceedings; accepted papers are public on OpenReview
+- Papers of 4 to 9 pages in the host conference template plus a short paper track; reviewed on OpenReview
+- Each of the first two editions received about 100 submissions
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 2nd edition, with ICLR 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Rio de Janeiro, Brazil
+  url: https://fm-science.github.io/2026/index.html
+  deadlines:
+  - kind: abstract
+    date: 2026-02-08
+    tz: AoE
+  - kind: submission
+    date: 2026-02-10
+    tz: AoE
+  - kind: notification
+    date: 2026-03-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-07
+    tz: AoE
+sources:
+- https://fm-science.github.io/
+- https://fm-science.github.io/cfp.html
+- https://fm-science.github.io/2026/index.html
+- https://fm-science.github.io/2026/cfp.html
+- https://fm-science.github.io/2024/index.html
+- https://iclr.cc/virtual/2026/workshop/10000801
+- https://portal.core.edu.au/conf-ranks/?search=FM4Science&by=all&source=ICORE2026
+unverified:
+- ICLR 2027 edition is only a proposal (planned for April 29 or 30, 2027 with abstract registration on 2027-01-25 and
+  papers due 2027-02-01); not added until ICLR accepts it
+last_verified: 2026-11-07

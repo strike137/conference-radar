@@ -1,0 +1,63 @@
+id: klee-workshop
+name: KLEE Workshop
+full_name: International KLEE Workshop on Symbolic Execution
+type: workshop
+tier: minor
+areas: [software, security]
+region: europe
+language: english
+frequency: irregular
+organizer: Klovo and the Software Reliability Group, Imperial College London (Cristian Cadar, Frank Busse, Martin Nowack, Daniel Schemmel)
+organizer_country: [europe]
+proceedings: None (no proceedings; accepted talks and posters are listed in the program)
+archival: false
+typical:
+  deadline_months: [4, 7]
+  conference_months: [10]
+links:
+  website: https://srg.doc.ic.ac.uk/klee26/
+notes:
+- Informal workshop on symbolic execution around the KLEE engine, organised by Klovo and the Software Reliability Group at Imperial College London
+- Editions in 2018 (London), 2021 (online), 2022 (London and online), 2024 (Lisbon, with ICSE) and 2026 (Munich, with ASE)
+- Calls for presentations and posters; a presentation proposal is an extended abstract of up to two pages, submitted on HotCRP
+- No proceedings, the extended abstract is only used for selection
+- Two submission rounds in 2026, an early visa-safe round and a late round with fewer slots
+- At least one author must register and attend in person
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 5th edition, with ASE 2026
+  start: 2026-10-16
+  end: 2026-10-16
+  location: Munich, Germany
+  url: https://srg.doc.ic.ac.uk/klee26/
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+    tz: AoE
+    label: Early round
+  - kind: notification
+    date: 2026-05-15
+    label: Early round
+  - kind: submission
+    date: 2026-07-10
+    tz: AoE
+    label: Late round
+  - kind: notification
+    date: 2026-07-24
+    label: Late round
+sources:
+- https://srg.doc.ic.ac.uk/klee26/
+- https://srg.doc.ic.ac.uk/klee26/deadlines.html
+- https://srg.doc.ic.ac.uk/klee26/cfpresentations.html
+- https://srg.doc.ic.ac.uk/klee26/cfposters.html
+- https://srg.doc.ic.ac.uk/klee26/organisation.html
+- https://srg.doc.ic.ac.uk/klee24/
+- https://srg.doc.ic.ac.uk/klee22/
+- https://srg.doc.ic.ac.uk/klee21/
+- https://srg.doc.ic.ac.uk/klee18/
+- https://conf.researchr.org/home/ase-2026/klee-2026
+- https://portal.core.edu.au/conf-ranks/?search=KLEE&by=all&source=ICORE2026
+unverified:
+- Next edition not announced; region set to europe because every in-person edition so far was in Europe (2021 was online)
+last_verified: 2026-11-07

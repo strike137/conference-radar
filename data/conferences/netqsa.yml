@@ -1,0 +1,54 @@
+id: netqsa
+name: NetQSA
+full_name: International Workshop on Networked Quantum Systems and Applications
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: General chairs from Arizona State University and Kanazawa University, co-located with IEEE ICNP
+organizer_country: [usa, japan]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://netqsa.github.io/netqsa26/
+notes:
+- Workshop on networked quantum systems (quantum networks and repeaters, distributed quantum computing and sensing,
+  QKD, quantum Internet, testbeds); 1st edition with IEEE ICNP 2026 in Tempe, Arizona
+- Full papers up to 6 pages including references and short papers or extended abstracts up to 2 pages, IEEE template;
+  submission via HotCRP
+- Accepted papers go into the ICNP 2026 workshop proceedings on IEEE Xplore (subject to IEEE approval)
+- Not listed in the CORE portal (ICORE2026) or the CCF list
+editions:
+- year: 2026
+  label: 1st NetQSA, with IEEE ICNP 2026
+  start: 2026-10-05
+  end: 2026-10-05
+  location: Tempe, USA (with IEEE ICNP 2026)
+  url: https://netqsa.github.io/netqsa26/
+  deadlines:
+  - kind: submission
+    date: 2026-07-08
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-06-09 (firm)
+  - kind: notification
+    date: 2026-08-11
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-25
+    time: "23:59"
+    tz: AoE
+sources:
+- https://netqsa.github.io/netqsa26/
+- https://icnp26.cs.ucr.edu/
+- https://icnp26.cs.ucr.edu/cfw.html
+- https://portal.core.edu.au/conf-ranks/?search=NetQSA&by=all&source=ICORE2026
+unverified:
+- Whether NetQSA continues with ICNP 2027
+last_verified: 2026-11-07

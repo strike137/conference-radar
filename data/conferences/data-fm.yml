@@ -1,0 +1,50 @@
+id: data-fm
+name: DATA-FM
+full_name: Workshop on Navigating and Addressing Data Problems for Foundation Models
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (2026 from Princeton, UIUC, EPFL, Virginia Tech, DatologyAI/CMU, Google and Meta);
+  co-located with ICLR
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers and reviews public on OpenReview)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://data-fm-iclr2026.github.io/
+notes:
+- Data curation, attribution, synthetic data, copyright and data-centric alignment for foundation models
+- Held at ICLR every year since 2024 (first as DPFM at ICLR 2024 Vienna, ICLR 2025 Singapore, ICLR 2026 Rio de Janeiro)
+- Non-archival; papers up to 10 pages plus short papers, double-blind review on OpenReview
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-04-26
+  end: 2026-04-26
+  location: Rio de Janeiro, Brazil (co-located with ICLR 2026)
+  url: https://data-fm-iclr2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-08
+    tz: AoE
+    label: Papers (extended from Feb 6)
+  - kind: notification
+    date: 2026-03-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-01
+    time: "23:59"
+    tz: AoE
+sources:
+- https://data-fm-iclr2026.github.io/
+- https://iclr.cc/virtual/2026/workshop/10000798
+- https://datafm.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=DATA-FM&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- No ICLR 2027 edition announced as of 2026-11-07

@@ -1,0 +1,61 @@
+id: isav
+name: ISAV
+full_name: "ISAV: In Situ AI, Analysis and Visualization"
+type: workshop
+tier: minor
+areas: [systems, data, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: ISAV organizing committee (US national laboratories, universities and industry), held with SC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (ACM template in 2025; IEEE templates in 2026)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://isav-workshop.github.io/2026/
+notes:
+- Workshop on in situ visualization, analysis and AI/ML for large-scale HPC simulations, held with SC since 2015 (2026 is the 12th edition)
+- Full papers up to 10 pages including references and short papers of 5 pages plus 1 page of references appear in the proceedings; community talk abstracts (1 page) are not published
+- Three reviews per submission; participates in the SC reproducibility initiative
+- Listed by SC26 among the workshops with papers in the SC Workshop Proceedings
+- Half-day workshop
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: St. Louis, MO, USA (with SC25)
+  url: https://isav-workshop.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    label: Extended from 2025-08-08
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-22
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Chicago, IL, USA (with SC26)
+  url: https://isav-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    label: Extended from 2026-08-07
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://isav-workshop.github.io/2026/
+- https://isav-workshop.github.io/2025/
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=ISAV&by=all&source=ICORE2026
+unverified:
+- Publisher of the SC26 Workshop Proceedings (IEEE Xplore or ACM DL) not stated on the ISAV or SC26 pages
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

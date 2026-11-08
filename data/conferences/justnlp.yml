@@ -1,0 +1,61 @@
+id: justnlp
+name: JUST-NLP
+full_name: Workshop on NLP for Empowering Justice
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: IIT Kanpur, IIT Kharagpur, IIT Patna, IIT Jodhpur and NIT Kurukshetra; co-located with an ACL conference
+organizer_country: [india]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://exploration-lab.github.io/JUST-NLP/
+notes:
+- Workshop on legal NLP (legal summarization, translation, judgment prediction, retrieval, legal LLMs), motivated by court backlogs in India
+- 1st edition with IJCNLP-AACL 2025 at IIT Bombay, Mumbai
+- Shared tasks on legal summarization (L-SUMM) and legal machine translation (L-MT) in 2025
+- Long (8 pages) and short (4 pages) papers following ARR rules; direct submission or ARR commitment via OpenReview
+- Proceedings in the ACL Anthology (2025.justnlp-main, 22 papers)
+- Different from NLLP, the legal NLP workshop held with EMNLP
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  label: 1st edition, with IJCNLP-AACL 2025
+  start: 2025-12-24
+  end: 2025-12-24
+  location: Mumbai, India
+  url: https://exploration-lab.github.io/JUST-NLP/
+  deadlines:
+  - kind: submission
+    date: 2025-09-29
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (the call page later lists October 27)
+  - kind: other
+    date: 2025-10-27
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2025-11-22
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://exploration-lab.github.io/JUST-NLP/
+- https://exploration-lab.github.io/JUST-NLP/call
+- https://aclanthology.org/volumes/2025.justnlp-main/
+- https://portal.core.edu.au/conf-ranks/?search=JUST-NLP&by=all&source=ICORE2026
+unverified:
+- The home page gives a direct submission deadline of September 29, 2025 while the call page gives October 27, 2025
+- Only one edition so far; no second edition announced as of 2026-11-07, so region and frequency are guesses
+last_verified: 2026-11-07

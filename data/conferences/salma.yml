@@ -1,0 +1,63 @@
+id: salma
+name: SALMA
+full_name: Speech and Audio Language Models Workshop
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+organizer: Workshop organizers from Amazon, Google DeepMind, University of Maryland, Carnegie Mellon University, Johns Hopkins University and Hebrew University of Jerusalem
+organizer_country: [usa]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://salma-workshop.github.io/salma-2026/
+notes:
+- Workshop on LLM-based speech and audio models (large audio-language models) covering speech, non-speech sounds and music
+- Inaugural edition at ICASSP 2025 (25 accepted papers); second edition a full-day workshop at EMNLP 2026 in Budapest
+- 2026 proceedings in the ACL Anthology (2026.salma-1); authors choose archival or non-archival
+- Long papers up to 8 pages and short papers up to 4 pages, ACL format, double-blind via OpenReview; ARR commitment also accepted
+- All accepted 2026 papers presented as posters
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 2nd edition, with EMNLP 2026
+  start: 2026-10-28
+  end: 2026-10-28
+  location: Budapest, Hungary
+  url: https://salma-workshop.github.io/salma-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-27
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: other
+    date: 2026-08-26
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2026-09-09
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-23
+    time: "23:59"
+    tz: AoE
+sources:
+- https://salma-workshop.github.io/salma-2026/
+- https://salma-workshop.github.io/salma-2026/call-for-papers/
+- https://salma-workshop.github.io/salma-2026/program/
+- https://salma-workshop.github.io/salma-2026/organizers/
+- https://2026.emnlp.org/program/workshops/
+- https://aclanthology.org/venues/salma/
+- https://aclanthology.org/volumes/2026.salma-1/
+- https://portal.core.edu.au/conf-ranks/?search=SALMA&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- No 2027 edition or host conference announced as of 2026-11-07
+- Acceptance rate not published

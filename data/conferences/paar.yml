@@ -1,0 +1,59 @@
+id: paar
+name: PAAR
+full_name: Workshop on Practical Aspects of Automated Reasoning
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: PAAR Steering Committee
+organizer_country: [international]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://paar2026.github.io
+notes:
+- Workshop on implementation and application of automated reasoning tools (SAT, SMT, first-order and higher-order provers, proof assistants, benchmarking)
+- Held with IJCAR since 2008, every two years; PAAR 2026 was the 10th edition
+- Recent locations are Coimbra 2016, Oxford 2018, online 2020, Haifa 2022, Nancy 2024 and Lisbon 2026 (FLoC)
+- Extended abstracts (up to 8 pages) or regular papers (up to 15 pages), refereed by the program committee
+- Proceedings in CEUR-WS (PAAR 2024 -> Vol-3717, PAAR 2026 -> Vol-4241)
+- Steering committee consists of all past program chairs
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 10th PAAR
+  start: 2026-07-25
+  end: 2026-07-25
+  location: Lisbon, Portugal (FLoC 2026, co-located with IJCAR 2026)
+  url: https://paar2026.github.io
+  deadlines:
+  - kind: abstract
+    date: 2026-04-20
+    tz: AoE
+    label: Extended from 2026-04-14
+  - kind: submission
+    date: 2026-04-26
+    tz: AoE
+    label: Extended from 2026-04-21
+  - kind: notification
+    date: 2026-05-20
+    label: Moved from 2026-05-12
+  - kind: camera_ready
+    date: 2026-07-01
+sources:
+- https://paar2026.github.io
+- https://paar2026.github.io/dates.html
+- https://paar2026.github.io/submission.html
+- https://paar2026.github.io/proceedings.html
+- https://ceur-ws.org/Vol-4241/
+- http://www.eprover.org/EVENTS/PAAR.html
+- https://portal.core.edu.au/conf-ranks/?search=PAAR&by=all&source=ICORE2026
+unverified:
+- PAAR 2028 not announced as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

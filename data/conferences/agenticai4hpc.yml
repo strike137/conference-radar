@@ -1,0 +1,47 @@
+id: agenticai4hpc
+name: AgenticAI4HPC
+full_name: International Workshop on Agentic AI for HPC
+type: workshop
+tier: minor
+areas: [ai, systems, software]
+region: north-america
+language: english
+organizer: Oak Ridge National Laboratory (steering committee from US national labs and universities, BSC Spain, RIKEN and Institute of Science Tokyo), held with SC
+organizer_country: [usa]
+proceedings: IEEE Xplore (SC26 Workshops Proceedings)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://ornl.github.io/events/agenticai4hpc2026/
+notes:
+- Half-day workshop on agentic AI for HPC (code modernization and translation, performance tuning, workflows, HPC facility operations), held with SC
+- First edition in 2026 (AgenticAI4HPC'26), opened by Jeffrey S. Vetter (ORNL)
+- Full papers up to 10 pages including references, IEEE conference template, single-blind review, submitted via the SC26 workshop system
+- Accepted papers appear in the IEEE Digital Library as part of the SC 2026 workshop proceedings
+- Optional SC-style Artifact Description and Artifact Evaluation appendices; a Distinguished Paper Recognition is given
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Chicago, IL, USA (with SC26)
+  url: https://ornl.github.io/events/agenticai4hpc2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    tz: AoE
+  - kind: notification
+    date: 2026-09-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-25
+    tz: AoE
+sources:
+- https://ornl.github.io/events/agenticai4hpc2026/
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=AgenticAI4HPC&by=all&source=ICORE2026
+unverified:
+- Only one edition so far; whether the workshop recurs at SC27 is not announced
+last_verified: 2026-11-07

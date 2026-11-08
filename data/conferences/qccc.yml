@@ -1,0 +1,50 @@
+id: qccc
+name: QCCC
+full_name: International Workshop on Quantum Classical Cooperative Computing
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizing committee led by Pacific Northwest National Laboratory (PNNL) with University of Naples Federico II; co-located with ISCA
+organizer_country: [usa, europe]
+proceedings: Workshop proceedings (extended abstracts posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [6]
+links:
+  website: https://qcccadmin.github.io/qccc/
+notes:
+- Half-day workshop on hybrid quantum-classical systems, architecture, compilation and error correction
+- QCCC-26 was the fifth edition, held with ISCA 2026 in Raleigh; QCCC-25 was held with ISCA 2025 in Tokyo
+- Submissions are 2 to 4 page extended abstracts in IEEE or ISCA workshop format via EasyChair
+- Accepted abstracts appear in the workshop proceedings and authors remain free to submit a full version elsewhere
+- Pure quantum or pure classical work and device benchmarking are out of scope
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-27
+  end: 2026-06-27
+  location: Raleigh, NC, USA (with ISCA 2026)
+  url: https://qcccadmin.github.io/qccc/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-03
+    tz: AoE
+  - kind: submission
+    date: 2026-05-10
+    tz: AoE
+    label: Extended abstract
+  - kind: camera_ready
+    date: 2026-05-29
+    tz: AoE
+sources:
+- https://qcccadmin.github.io/qccc/
+- https://qcccadmin.github.io/qccc/files/QCCC26_Call_for_Papers.pdf
+- https://portal.core.edu.au/conf-ranks/?search=QCCC&by=all&source=ICORE2026
+unverified:
+- Notification date differs between the website (May 21, 2026) and the CFP PDF (May 18, 2026); left out
+- No 2027 edition announced yet
+last_verified: 2026-11-07

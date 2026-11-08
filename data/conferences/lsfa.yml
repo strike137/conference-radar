@@ -1,0 +1,63 @@
+id: lsfa
+name: LSFA
+full_name: International Symposium on Logical and Semantic Frameworks, with Applications
+type: conference
+tier: minor
+areas: [general, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: LSFA Steering Committee
+organizer_country: [other]
+proceedings: EPTCS
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [7, 9]
+links:
+  website: https://lsfa-workshop.github.io/
+notes:
+- Symposium on logical and semantic frameworks, lambda calculi, type theory, proof theory, rewriting and their applications; launched in 2006
+- Rooted in the Brazilian logic community; mostly held in Brazil, sometimes as a satellite of FSCD or FLoC abroad (Rome 2023, Lisbon 2026)
+- Recent editions in Buenos Aires 2021 (online), Belo Horizonte 2022, Rome 2023, Goiania 2024, Brasilia 2025 (with CICM), Lisbon 2026 (FSCD at FLoC); LSFA 2027 in Santo Andre, Brazil
+- Proceedings in EPTCS since 2021 (LSFA 2026 -> EPTCS 449, LSFA 2025 -> EPTCS 430); ENTCS before that
+- Full papers up to 16 pages and short papers up to 6 pages, EPTCS style
+- Selected papers of two editions go to a joint journal special issue (recently Mathematical Structures in Computer Science)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 21st LSFA
+  start: 2026-07-18
+  end: 2026-07-19
+  location: Lisbon, Portugal (FSCD at FLoC 2026)
+  url: https://lsfa-workshop.github.io/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-20
+    label: Extended and final
+  - kind: submission
+    date: 2026-04-28
+    label: Full paper, extended and final
+  - kind: notification
+    date: 2026-05-27
+    label: Moved from 2026-05-25
+- year: 2027
+  label: 22nd LSFA
+  start: 2027-09-22
+  end: 2027-09-24
+  location: Santo Andre, SP, Brazil (Universidade Federal do ABC)
+  url: https://lsfa-workshop.github.io/2027/
+sources:
+- https://lsfa-workshop.github.io/
+- https://lsfa-workshop.github.io/2026/
+- https://lsfa-workshop.github.io/2026/files/call-for-papers.md
+- https://lsfa-workshop.github.io/2027/
+- https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LFSA2026
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?LSFA2025
+- https://portal.core.edu.au/conf-ranks/?search=LSFA&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- LSFA 2027 deadlines not yet announced (the 2027 page says they will be announced soon)
+- Deadline time zone not stated in the LSFA 2026 call for papers
+- DBLP page not checked (dblp.org did not answer automated requests)
+last_verified: 2026-11-07

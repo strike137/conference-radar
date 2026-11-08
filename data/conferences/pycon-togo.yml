@@ -1,0 +1,63 @@
+id: pycon-togo
+name: PyCon Togo
+full_name: PyCon Togo
+type: industry
+tier: minor
+areas: [software, ai]
+region: africa
+language: mixed
+frequency: annual
+organizer: Python Software Community Togo
+organizer_country: [other]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [8]
+links:
+  website: https://pycontg.pytogo.org/
+notes:
+- National conference of the Python community in Togo, run by the Python Software Community Togo
+- First edition in 2025, second edition in Lome in August 2026
+- Three days in 2026 (workshop day, conference day, speakers' dinner)
+- Talks and workshops chosen from an open call for speakers; site in French and English
+- Talks only, no papers or proceedings; an edition report is published after each event
+editions:
+- year: 2025
+  start: 2025-08-23
+  location: Lome, Togo
+  url: https://pycontg.pytogo.org/2025
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: "16:00"
+    tz: UTC
+    label: Call for speakers
+  - kind: notification
+    date: 2025-07-13
+    time: "16:00"
+    tz: UTC
+- year: 2026
+  start: 2026-08-28
+  end: 2026-08-30
+  location: Lome, Togo
+  url: https://pycontg.pytogo.org/2026
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-06-04
+    time: "18:00"
+    tz: UTC
+    label: Call for speakers
+sources:
+- https://pycontg.pytogo.org/
+- https://pycontg.pytogo.org/2026
+- https://pycontg.pytogo.org/2026/about
+- https://pycontg.pytogo.org/2026/call-for-speakers
+- https://pycontg.pytogo.org/2025
+- https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
+unverified:
+- 2025 end date not stated on the 2025 page (program shows August 23)
+- PyCon Togo 2027 dates not yet announced
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-11-07

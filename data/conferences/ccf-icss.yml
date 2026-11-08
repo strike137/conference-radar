@@ -1,0 +1,71 @@
+id: ccf-icss
+name: ICSS
+full_name: CCF International Conference on Service Science
+type: conference
+tier: minor
+areas: [software]
+region: china
+language: english
+frequency: annual
+organizer: CCF (China Computer Federation), Technical Committee on Service Computing
+organizer_country: [china]
+proceedings: Springer CCIS
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://conf.ccf.org.cn/ICSS2026
+  dblp: https://dblp.org/db/conf/service/index.html
+notes:
+- Service science conference started in 2008 on the initiative of IBM, now run by the CCF Technical Committee on Service Computing; 2026 was the 19th edition
+- Proceedings in Springer Communications in Computer and Information Science (CCIS); CCF C
+- English only; full papers 12 to 15 pages, short papers 6 to 11 pages; review is not blind
+- Besides the main research topics it has demo, dataset and education tracks
+- Held in a different Chinese city each year (Harbin 2023, Hong Kong 2024, Nanjing 2025, Macau 2026)
+- Not ranked in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-05-09
+  end: 2025-05-11
+  location: Nanjing, China (Hohai University)
+  url: https://conf.ccf.org.cn/ICSS2025
+  deadlines:
+  - kind: submission
+    date: 2025-03-22
+    label: Papers (extended from 2025-03-15)
+  - kind: notification
+    date: 2025-04-15
+  - kind: camera_ready
+    date: 2025-04-30
+- year: 2026
+  label: 19th ICSS
+  start: 2026-05-15
+  end: 2026-05-17
+  location: Macau, China (Macau University of Science and Technology)
+  url: https://conf.ccf.org.cn/ICSS2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-25
+    label: Papers (updated date)
+  - kind: notification
+    date: 2026-04-25
+  - kind: camera_ready
+    date: 2026-05-10
+sources:
+- https://conf.ccf.org.cn/ICSS2026
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1459509318306107392176801573785
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e3a9d9b062e32019bbc4c855f03dc
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e3a9d9b062e32019bbc52824e03f2
+- https://conf.ccf.org.cn/ICSS2025
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1327239349280051200173648011978
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e362c955f3e8401956bf2f75a0150
+- https://portal.core.edu.au/conf-ranks/?search=ICSS&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- ICSS 2027 dates and location
+- Acceptance rate
+- CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly
+last_verified: 2026-11-07

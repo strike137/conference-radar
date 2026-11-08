@@ -1,0 +1,56 @@
+id: eresearch-australasia
+name: eResearch Australasia
+full_name: eResearch Australasia Conference
+type: conference
+tier: minor
+areas: [systems, data]
+region: oceania
+language: english
+frequency: annual
+organizer: Australasian eResearch Organisations (AeRO) Inc.
+organizer_country: [australia]
+proceedings: Zenodo (abstracts only, eResearch Australasia community)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://conference.eresearch.edu.au/
+notes:
+- Annual AU/NZ conference on research computing, research data, HPC, cloud and research software, hosted by AeRO; held every year since 2007
+- Held in Australian cities (Brisbane, Melbourne, Sydney); 2026 edition at the Melbourne Cricket Ground
+- Abstract-based, with 250-word abstracts for oral presentations, lightning talks, posters and BoF sessions and single-blind review by two reviewers
+- Accepted abstracts are stored on Zenodo with a DOI; no full papers, so non-archival
+- Week format with pre- and post-conference workshops around a three-day main program
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-24
+  location: Brisbane Convention and Exhibition Centre, Brisbane, Australia
+  url: https://conference.eresearch.edu.au/2025-home/
+  deadlines:
+  - kind: abstract
+    date: 2025-06-06
+    label: Call for abstracts closes
+- year: 2026
+  start: 2026-10-26
+  end: 2026-10-30
+  location: Melbourne Cricket Ground, Melbourne, Australia
+  url: https://conference.eresearch.edu.au/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-06-24
+    label: Call for abstracts closes (extended)
+  - kind: notification
+    date: 2026-07-31
+sources:
+- https://conference.eresearch.edu.au/
+- https://conference.eresearch.edu.au/abstracts/
+- https://conference.eresearch.edu.au/2025-home/
+- https://conference.eresearch.edu.au/archive/
+- https://portal.core.edu.au/conf-ranks/?search=eResearch&by=all&source=ICORE2026
+unverified:
+- 2027 dates and venue (not announced)
+last_verified: 2026-11-07

@@ -1,0 +1,60 @@
+id: resdis
+name: RESDIS
+full_name: International Workshop on RESource DISaggregation in High-Performance Computing
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: RESDIS workshop chairs (Intel/RIKEN, Queen's University, LBNL), held with SC
+organizer_country: [international]
+proceedings: SC Workshops Proceedings
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://resdis.github.io/ws/2026/sc/
+notes:
+- Half-day workshop on resource disaggregation and composable systems for HPC and cloud (memory pooling, optical interconnects, runtime and OS support), held with SC
+- 2026 is the 6th edition; the 3rd (2023) to 6th (2026) editions were all held with SC in the USA
+- Papers of at least 5 pages with no upper limit, IEEE template in 2026 (ACM in 2025), submitted through the SC Linklings site
+- Papers published in the SC Workshops Proceedings volume
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: St. Louis, MO, USA (with SC25)
+  url: https://resdis.github.io/ws/2025/sc/
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    tz: AoE
+    label: Extended, final
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-26
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-16
+  location: Chicago, IL, USA (with SC26)
+  url: https://resdis.github.io/ws/2026/sc/
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+    tz: AoE
+    label: Extended, final
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://resdis.github.io/ws/2026/sc/
+- https://resdis.github.io/ws/2025/sc/
+- https://resdis.github.io/ws/2024/sc/
+- https://resdis.github.io/ws/2023/sc/
+- https://portal.core.edu.au/conf-ranks/?search=RESDIS&by=all&source=ICORE2026
+last_verified: 2026-11-07

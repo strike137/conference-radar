@@ -1,0 +1,56 @@
+id: causalbench
+name: CausalBench
+full_name: WSDM Workshop on Benchmarking Causal Models
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Arizona State University (K. Selcuk Candan, Huan Liu) with Intuit AI Research and Amazon; co-located with ACM WSDM
+organizer_country: [usa]
+proceedings: ACM DL (WSDM Companion Proceedings)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [2]
+links:
+  website: https://wsdm26.causalbench.org/
+notes:
+- Workshop on benchmarks, datasets, metrics and reproducible evaluation for causal discovery and causal inference
+- Held at WSDM 2026 in Boise, Idaho on February 26, 2026 (as CausalBench'26)
+- Linked to the CausalBench benchmarking platform from Arizona State University
+- Accepted papers included in the WSDM 2026 Companion Proceedings in the ACM Digital Library
+- Extended abstracts 2 to 3 pages and research papers 4 to 6 pages, ACM double-column, single-blind, via EasyChair
+- Concurrent submission to other venues not allowed
+- No 2027 edition announced as of November 2026
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-02-26
+  end: 2026-02-26
+  location: Boise Center, Boise, Idaho, USA (co-located with WSDM 2026)
+  url: https://wsdm26.causalbench.org/
+  deadlines:
+  - kind: submission
+    date: 2025-12-07
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-11-13
+  - kind: notification
+    date: 2026-01-05
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2025-12-18
+  - kind: camera_ready
+    date: 2026-02-05
+    time: "23:59"
+    tz: AoE
+sources:
+- https://wsdm26.causalbench.org/
+- https://wsdm-conference.org/2026/index.php/workshops/
+- https://dl.acm.org/doi/proceedings/10.1145/3779211
+- https://portal.core.edu.au/conf-ranks/?search=CausalBench&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced
+last_verified: 2026-11-07

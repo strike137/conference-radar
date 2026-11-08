@@ -1,0 +1,61 @@
+id: icbip
+name: ICBIP
+full_name: International Conference on Biomedical Signal and Image Processing
+type: conference
+tier: minor
+areas: [vision]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Conference secretariat (contact icbip@cbees.net) with host universities (Yonsei University and Kyung Hee University in 2027)
+organizer_country: [china]
+proceedings: Conference proceedings (IEEE for 2025; 2027 publisher not named) or Journal of Image and Graphics (JOIG)
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [1]
+  conference_months: [7, 8]
+links:
+  website: https://www.icbip.org/
+notes:
+- Annual since 2016 (Budapest); 12th edition in 2027
+- Covers biomedical signal processing (EEG, ECG, EMG), medical image analysis, reconstruction and segmentation
+- Held in China in 2019 and 2023 to 2026 (Chengdu, Suzhou, Shanghai), online 2020 to 2022; Jeju, South Korea in 2027
+- "Site states ICBIP 2025 papers were published in IEEE Conference Proceedings (ISBN: 979-8-3503-5722-6)"
+- Papers go either to the conference proceedings (submitted to EI Compendex and Scopus) or to the journal JOIG
+- Blind review by two reviewers; abstract-only presentation option without publication
+- Not listed in the CORE ICORE2026 portal and not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-14
+  end: 2026-08-16
+  location: Shanghai, China
+  url: https://www.icbip.org/history.html
+- year: 2027
+  label: 12th ICBIP
+  start: 2027-07-16
+  end: 2027-07-18
+  location: Jeju Island, South Korea
+  url: https://www.icbip.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-01-25
+  - kind: notification
+    date: 2027-02-15
+  - kind: camera_ready
+    date: 2027-03-05
+  - kind: other
+    date: 2027-03-05
+    label: Registration
+sources:
+- https://www.icbip.org/
+- https://www.icbip.org/history.html
+- https://www.icbip.org/publication.html
+- https://www.icbip.org/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=ICBIP&by=all&source=ICORE2026
+unverified:
+- Publisher of the 2026 and 2027 proceedings not named on the site
+- 2026 deadlines not recorded; no deadline time or time zone stated
+- Not checked against ccf.org.cn directly (checked in a local copy of the CCF 2026 list)
+last_verified: 2026-11-07

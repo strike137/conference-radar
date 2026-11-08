@@ -1,0 +1,61 @@
+id: termgraph
+name: TERMGRAPH
+full_name: International Workshop on Computing with Terms and Graphs
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: biennial
+organizer: TERMGRAPH Steering Committee (Maribel Fernandez, Ian Mackie, Detlef Plump)
+organizer_country: [europe]
+proceedings: EPTCS (post-proceedings)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: http://www.termgraph.org.uk/
+notes:
+- Workshop on term graph rewriting, graph transformation, interaction nets, string diagrams and their use in programming languages and automated reasoning
+- Held since 2002 (as the Workshop on Term Graph Rewriting until 2006); biennial in recent years, TERMGRAPH 2026 was the 14th edition
+- Satellite of ETAPS, FSCD or FLoC; held in Eindhoven 2016, Oxford 2018, online 2020, Haifa 2022, Luxembourg 2024 and Lisbon 2026, so mostly in Europe
+- Extended abstracts up to 8 pages in EPTCS style for the pre-proceedings; after the workshop authors may submit a 15-page paper that is refereed again for the EPTCS post-proceedings
+- Post-proceedings in EPTCS (TERMGRAPH 2020 -> EPTCS 334, TERMGRAPH 2022 -> EPTCS 377); EPTCS states it is not publishing proceedings for TERMGRAPH 2024; the TERMGRAPH 2026 volume is listed as to appear
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 14th TERMGRAPH
+  start: 2026-07-19
+  end: 2026-07-19
+  location: Lisbon, Portugal (FLoC 2026)
+  url: http://www.termgraph.org.uk/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-06
+    tz: AoE
+    label: Titles and short abstracts
+  - kind: submission
+    date: 2026-05-11
+    tz: AoE
+    label: Extended abstracts, extended from 2026-04-27
+  - kind: notification
+    date: 2026-05-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-15
+    tz: AoE
+    label: Final pre-proceedings version
+sources:
+- http://www.termgraph.org.uk/
+- http://www.termgraph.org.uk/2026/
+- http://www.termgraph.org.uk/2024/
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?TERMGRAPH2026
+- https://eptcs.web.cse.unsw.edu.au/content.cgi?TERMGRAPH2024
+- https://portal.core.edu.au/conf-ranks/?search=TERMGRAPH&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- Post-proceedings deadline for TERMGRAPH 2026 given only as mid October 2026, notification December 2026
+- TERMGRAPH 2028 not announced as of 2026-11-07
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

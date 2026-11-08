@@ -1,0 +1,56 @@
+id: wst
+name: WST
+full_name: International Workshop on Termination
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: irregular
+organizer: Termination research community (Termination-Portal.org)
+organizer_country: [international]
+proceedings: arXiv (informal proceedings)
+archival: false
+typical:
+  deadline_months: [4, 5]
+  conference_months: [7]
+links:
+  website: https://termination-portal.org/wiki/WST
+notes:
+- Informal workshop on all aspects of termination and complexity analysis (rewriting, lambda calculus, program analysis, probabilistic programs, SAT/SMT for termination)
+- No formal reviewing; extended abstracts up to 5 pages in LIPIcs style, short versions of published or submitted work welcome
+- Proceedings collected as an arXiv report (WST 2026 -> arXiv 2607.13065), so non-archival
+- Held since 1993, often as a satellite of FLoC or another logic meeting (CADE 2021, Obergurgl Summer on Rewriting 2023); not held every year (no edition in 2019, 2020 and 2024)
+- Recent editions in Oxford 2018, online 2021 (CADE), Haifa 2022, Obergurgl 2023, Leipzig 2025 (joint with IWC) and Lisbon 2026 (FLoC)
+- The Termination Competition runs alongside the workshop
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 21st WST
+  start: 2026-07-25
+  end: 2026-07-25
+  location: Lisbon, Portugal (FLoC 2026, co-located with IJCAR 2026)
+  url: https://termination-portal.org/wiki/21st_International_Workshop_on_Termination
+  deadlines:
+  - kind: abstract
+    date: 2026-04-28
+    label: Title and abstract
+  - kind: submission
+    date: 2026-05-05
+  - kind: notification
+    date: 2026-05-26
+  - kind: camera_ready
+    date: 2026-06-26
+    label: Final version
+sources:
+- https://termination-portal.org/wiki/WST
+- https://termination-portal.org/wiki/21st_International_Workshop_on_Termination
+- https://arxiv.org/abs/2607.13065
+- https://www.imn.htwk-leipzig.de/WST2025/
+- https://portal.core.edu.au/conf-ranks/?search=WST&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- WST 2027 not announced as of 2026-11-07
+- Deadline time zone not stated on the WST 2026 page
+- DBLP page not checked (dblp.org did not answer automated requests)
+last_verified: 2026-11-07

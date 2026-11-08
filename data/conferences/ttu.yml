@@ -1,0 +1,43 @@
+id: ttu
+name: TTU
+full_name: Workshop on Test-Time Updates
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (2026 Evan Shelhamer, Francesco Croce, Teresa Yeo, Shuaicheng Niu, Behzad Bozorgtabar, Xiaoxiao Li); co-located with a major ML/vision conference
+organizer_country: [international]
+proceedings: None (no proceedings; papers on OpenReview)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://ttu-iclr2026.github.io/
+notes:
+- Test-time adaptation, test-time training, post-training updates and model editing
+- "Editions: MAT at CVPR 2024, PUT at ICML 2025, TTU at ICLR 2026; the host conference changes each year"
+- No proceedings; short papers 4 pages and tiny papers 2 pages, submitted on OpenReview
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Rio de Janeiro, Brazil (co-located with ICLR 2026)
+  url: https://ttu-iclr2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-06
+    tz: AoE
+  - kind: notification
+    date: 2026-03-01
+sources:
+- https://ttu-iclr2026.github.io/
+- https://ttu-iclr2026.github.io/past_editions.html
+- https://iclr.cc/virtual/2026/workshop/10000776
+- https://portal.core.edu.au/conf-ranks/?search=TTU&by=all&source=ICORE2026
+last_verified: 2026-11-07
+unverified:
+- No 2027 edition announced as of 2026-11-07

@@ -1,0 +1,63 @@
+id: retailvision
+name: RetailVision
+full_name: Retail Vision Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Walmart Global Tech, Bar-Ilan University, University of Macerata, Universitas Mercatorum, Amazon)
+organizer_country: [international]
+proceedings: CVPR/ICCV Workshops proceedings (CVF Open Access) or ECCV Workshops proceedings
+archival: true
+typical:
+  deadline_months: [3, 6, 7]
+  conference_months: [6, 9, 10]
+links:
+  website: https://retailvisionworkshop.github.io/
+notes:
+- Workshop on computer vision for retail (product recognition, shopper action detection, virtual try-on, product image generation)
+- Theme title "Revolutionizing the World of Retail"
+- Held with CVPR 2020 to CVPR 2024, ICCV 2025 (Honolulu) and ECCV 2026 (Malmo)
+- Accepted papers go into the official host conference workshop proceedings; submissions via OpenReview
+- Often runs a challenge with industry data (GroceryVision challenge based on Amazon data)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, Hawaii, USA (with ICCV 2025)
+  url: https://retailvisionworkshop.github.io/old/iccv2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-07-11
+  - kind: camera_ready
+    date: 2025-07-20
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026)
+  url: https://retailvisionworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-17
+  - kind: notification
+    date: 2026-08-03
+  - kind: camera_ready
+    date: 2026-08-15
+sources:
+- https://retailvisionworkshop.github.io/
+- https://retailvisionworkshop.github.io/old/iccv2025/
+- https://openaccess.thecvf.com/ICCV2025_workshops/RetailVision
+- https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/RetailVision
+- https://portal.core.edu.au/conf-ranks/?search=RetailVision&by=all&source=ICORE2026
+unverified:
+- Time and time zone of the 2026 deadlines not stated on the official page
+- Publisher of the ECCV 2026 workshop proceedings not named on the workshop page
+- Next edition (2027) not announced yet
+last_verified: 2026-11-07

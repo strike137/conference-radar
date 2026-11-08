@@ -1,0 +1,65 @@
+id: agent-icse
+name: AGENT
+full_name: International Workshop on Agentic Engineering
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AGENT organizing committee (CSIRO Data61, Singapore Management University, Queen's University), co-located with ICSE
+organizer_country: [international]
+proceedings: IEEE Xplore (ICSE workshop proceedings, from 2027; ACM DL in 2026)
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [4]
+links:
+  website: https://conf.researchr.org/home/icse-2027/agent-2027
+notes:
+- ICSE workshop on engineering agentic AI systems (requirements, architecture, testing, AgentOps, evaluation) and agents for software engineering
+- First held at ICSE 2026 in Rio de Janeiro; second edition at ICSE 2027 in Dublin
+- 2027 accepts full papers up to 8 pages and short papers up to 5 pages, IEEE format, single-anonymous review
+- 2027 papers published by IEEE; 2026 papers used the ACM template and were published by ACM
+- Selected 2026 papers invited to an IEEE Software special issue on engineering agentic systems
+- Different from AGENT-SEC (security of agentic AI systems)
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-14
+  end: 2026-04-14
+  location: Rio de Janeiro, Brazil (with ICSE 2026)
+  url: https://conf.researchr.org/home/icse-2026/agent-2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-07
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-12-08
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-26
+    tz: AoE
+- year: 2027
+  location: Dublin, Ireland (with ICSE 2027, 2027-04-25 to 2027-05-01)
+  url: https://conf.researchr.org/home/icse-2027/agent-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-20
+    tz: AoE
+    label: Extended from 2026-11-13
+  - kind: notification
+    date: 2026-12-11
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-29
+    tz: AoE
+sources:
+- https://conf.researchr.org/home/icse-2027/agent-2027
+- https://conf.researchr.org/home/icse-2026/agent-2026
+- https://conf.researchr.org/series/agent
+- https://portal.core.edu.au/conf-ranks/?search=AGENT&by=all&source=ICORE2026
+unverified:
+- Exact AGENT 2027 workshop day within ICSE 2027 (2027-04-25 to 2027-05-01) not announced
+last_verified: 2026-11-07

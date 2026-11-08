@@ -1,0 +1,76 @@
+id: sogood
+name: SoGood
+full_name: Workshop on Data Science for Social Good
+type: workshop
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Organizing chairs from University of Porto, University of Sydney and UPC BarcelonaTech, co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (joint ECML PKDD workshops post-proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://sites.google.com/view/sogood-2026/
+notes:
+- Workshop co-located with ECML PKDD every year since 2016; 11th edition in 2026
+- Applications of data science for social good (public safety, health, climate, sustainability, fairness, UN development goals)
+- Papers up to 16 pages in Springer LNCS format, single-blind, submitted via Microsoft CMT
+- Accepted papers are published by Springer in the joint ECML PKDD workshop proceedings (2025 in Springer CCIS; the ECML PKDD 2026 workshop call also names CCIS)
+- Best paper award; half-day workshop with keynote and panel
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-19
+  end: 2025-09-19
+  location: Porto, Portugal (ECML PKDD 2025)
+  url: https://sites.google.com/view/sogood-2025/home
+  deadlines:
+  - kind: submission
+    date: 2025-06-20
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-07-21
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-31
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-07
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://sites.google.com/view/sogood-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-14
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 5
+  - kind: notification
+    date: 2026-07-13
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-09-25
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sites.google.com/view/sogood-2026/
+- https://sites.google.com/view/sogood-2026/important-dates
+- https://sites.google.com/view/sogood-2026/organization
+- https://sites.google.com/view/sogood-2025/home
+- https://link.springer.com/book/10.1007/978-3-032-19096-3
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://ecmlpkdd.org/2026/submissions-workshop-track/
+- https://portal.core.edu.au/conf-ranks/?search=SoGood&by=all&source=ICORE2026
+unverified:
+- SoGood 2027 (not announced as of 2026-11-07)
+last_verified: 2026-11-07

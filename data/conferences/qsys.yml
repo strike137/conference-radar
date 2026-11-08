@@ -1,0 +1,49 @@
+id: qsys
+name: QSys
+full_name: ACM International Workshop on Exploring Sensing, Computing, and Communication Systems with Quantum
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: north-america
+language: english
+organizer: General chairs from UMass Amherst and University of Maryland, TPC chairs from Riverlane/Yale and Lawrence Berkeley
+  National Laboratory; co-located with ACM MobiSys
+organizer_country: [usa]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [6]
+links:
+  website: http://wsslab.org/workshops/qsys25/
+notes:
+- First quantum computing systems workshop at a SIGMOBILE conference; 1st edition at ACM MobiSys 2025 in Anaheim
+- Topics are quantum system architectures, hybrid quantum-classical execution, compilers, error correction, quantum networking
+- Papers up to 6 pages in ACM sigconf format, submitted via HotCRP
+- MobiSys workshop papers are published in the ACM Digital Library
+- Not among the MobiSys 2026 workshops
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  label: 1st QSys, with ACM MobiSys 2025
+  start: 2025-06-27
+  end: 2025-06-27
+  location: Anaheim, California, USA
+  url: http://wsslab.org/workshops/qsys25/
+  deadlines:
+  - kind: submission
+    date: 2025-05-16
+  - kind: notification
+    date: 2025-05-17
+  - kind: camera_ready
+    date: 2025-05-20
+sources:
+- http://wsslab.org/workshops/qsys25/
+- https://www.sigmobile.org/mobisys/2025/accepted_workshops/
+- https://www.sigmobile.org/mobisys/2025/call_for_workshops/
+- https://www.sigmobile.org/mobisys/2026/accepted_workshops/
+- https://portal.core.edu.au/conf-ranks/?search=QSys&by=all&source=ICORE2026
+unverified:
+- Only one edition so far; no 2026 edition found, so frequency is unknown
+- Workshop papers in the ACM DL taken from the MobiSys 2025 call for workshops; the QSys proceedings entry itself was not checked
+last_verified: 2026-11-07

@@ -1,0 +1,63 @@
+id: minikanren
+name: miniKanren
+full_name: miniKanren and Relational Programming Workshop
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+proceedings: arXiv
+archival: false
+typical:
+  deadline_months: [6, 7]
+  conference_months: [8, 9, 10]
+links:
+  website: https://icfp26.sigplan.org/home/minikanren-2026
+notes:
+- Workshop on relational programming and the miniKanren family of languages (miniKanren, microKanren, core.logic, OCanren, ...), co-located with ICFP
+- Scope includes pure logic programming, constraint programming, program synthesis and running programs backwards
+- Proceedings are published on arXiv; publication is not meant to replace a conference or journal paper
+- Short papers about 2 to 7 pages and long papers 8 to 25 pages (acmart acmsmall); lightweight double-blind review
+- 2026 special theme was Relating Relational Languages (proof assistants, solver-aided tools, datalog, equality saturation)
+- Authors of accepted papers can apply for SIGPLAN PAC travel grants
+- Follows ICFP (Singapore 2025 with ICFP/SPLASH, Indianapolis 2026, the day before ICFP)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-10-17
+  end: 2025-10-17
+  location: Singapore (with ICFP/SPLASH 2025)
+  url: https://conf.researchr.org/home/icfp-splash-2025/minikanren-2025
+  deadlines:
+  - kind: submission
+    date: 2025-07-20
+    tz: AoE
+  - kind: notification
+    date: 2025-08-22
+- year: 2026
+  start: 2026-08-24
+  end: 2026-08-24
+  location: Indianapolis, Indiana, USA (with ICFP 2026)
+  url: https://icfp26.sigplan.org/home/minikanren-2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-21
+    time: "23:59"
+    tz: AoE
+sources:
+- https://icfp26.sigplan.org/home/minikanren-2026
+- https://conf.researchr.org/home/icfp-splash-2025/minikanren-2025
+- https://portal.core.edu.au/conf-ranks/?search=miniKanren&by=all&source=ICORE2026
+unverified:
+- "miniKanren 2025 camera-ready: the call for papers text says 2025-09-04, the important dates sidebar says 2025-10-03"
+- "miniKanren 2026 notification: the call for papers text says 2026-07-01, the important dates sidebar says 2026-07-03"
+- miniKanren 2027 not announced yet (ICFP 2027 is in Nijmegen, September 2027)
+- Organizer and steering committee not stated on the workshop pages
+- dblp page could not be checked (dblp blocked automated access); links.dblp left out
+- Not checked against the CCF 2026 list; rank.ccf left out
+last_verified: 2026-11-07

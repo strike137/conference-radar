@@ -1,0 +1,49 @@
+id: hild
+name: HiLD
+full_name: Workshop on High-dimensional Learning Dynamics
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: HiLD organizing committee (2026 included Francis Bach, Alberto Bietti, Junyang Lin, Elliot Paquette, Inbar Seroussi,
+  Lechao Xiao); co-located with ICML
+organizer_country: [international]
+proceedings: None (non-archival; papers via OpenReview)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://sites.google.com/view/hidimlearning/home
+notes:
+- ML theory workshop on learning dynamics of large models in high dimensions (scaling laws, stochastic optimization limits, random matrix theory, loss landscapes)
+- Held at ICML every year since 2023; the 4th edition at ICML 2026 in Seoul had the theme scaling laws
+- Non-archival; submitting to HiLD and to a conference such as NeurIPS at the same time is usually allowed
+- Up to 5 pages plus supplementary material in the HiLD style file, double-blind review on OpenReview; camera-ready up to 6 pages
+- Accepted papers presented as posters
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-07-10
+  end: 2026-07-10
+  location: Seoul, Korea (co-located with ICML 2026)
+  url: https://sites.google.com/view/hidimlearning/home
+  deadlines:
+  - kind: submission
+    date: 2026-05-11
+    tz: AoE
+  - kind: notification
+    date: 2026-05-25
+  - kind: camera_ready
+    date: 2026-07-03
+sources:
+- https://sites.google.com/view/hidimlearning/home
+- https://sites.google.com/view/hidimlearning/call-for-papers
+- https://sites.google.com/view/hidimlearning/organizers
+- https://icml.cc/virtual/2026/workshop/54077
+- https://portal.core.edu.au/conf-ranks/?search=HiLD&by=all&source=ICORE2026
+unverified:
+- HiLD 2027 not announced as of 2026-11-07
+last_verified: 2026-11-07

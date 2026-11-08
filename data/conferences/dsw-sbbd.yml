@@ -1,0 +1,48 @@
+id: dsw-sbbd
+name: DSW
+full_name: Dataset Showcase Workshop
+type: workshop
+tier: domestic
+areas: [data]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SBC (Sociedade Brasileira de Computação), co-located with SBBD
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL), Anais do Dataset Showcase Workshop
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://sbbd.org.br/2026/dsw/
+notes:
+- Workshop of SBBD (Brazilian Symposium on Databases) for papers that present and describe new datasets
+- Papers of 6 to 10 pages plus up to 2 pages of acknowledgments and references, SBC format, submitted via JEMS
+- Papers in Portuguese, English or Spanish; an English abstract is mandatory
+- Proceedings published open access in SBC OpenLib with a DOI per paper (2026 volume ISBN 978-85-7669-399-4)
+- Publication requires SBBD registration and an oral presentation
+- Held on one day of the SBBD week (São Carlos 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: São Carlos, Brazil (ICMC, University of São Paulo, with SBBD 2026)
+  url: https://sbbd.org.br/2026/dsw/
+  deadlines:
+  - kind: submission
+    date: 2026-05-11
+    label: Extended date (original 2026-05-04)
+  - kind: notification
+    date: 2026-06-22
+  - kind: camera_ready
+    date: 2026-06-30
+sources:
+- https://sbbd.org.br/2026/dsw/
+- https://sbbd.org.br/2026/programacao/
+- https://portal.core.edu.au/conf-ranks/?search=DSW&by=all&source=ICORE2026
+unverified:
+- The 2026 page calls it the 8th edition while the proceedings are titled VII DSW
+- DSW 2027 (SBBD 2027) dates and location not yet announced
+last_verified: 2026-11-07

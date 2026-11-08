@@ -1,0 +1,60 @@
+id: se4as
+name: SE4AS
+full_name: Workshop on Software Engineering for Agentic Systems
+name_local: Workshop em Engenharia de Software para Sistemas Agênticos
+type: workshop
+tier: domestic
+areas: [software, ai]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: Co-located with CBSoft (Brazilian Conference on Software, SBC)
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://agents4good.github.io/se4as26-workshop/
+notes:
+- Brazilian workshop on software engineering for AI agent and agentic systems; first edition in 2026
+- Co-located with CBSoft 2026 at IME-USP, São Paulo
+- "Paper types: short papers 6 pages, position and vision papers 4, industrial experience reports 4, tool, framework or benchmark proposals 2 (all including references)"
+- Portuguese or English, CBSoft ACM-like template, submission via JEMS
+- Proceedings published in SBC OpenLib (SOL) (16 papers in 2026); papers not presented are left out
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: São Paulo, Brazil (IME-USP, with CBSoft 2026)
+  url: https://agents4good.github.io/se4as26-workshop/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+    label: Paper registration
+  - kind: submission
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-08-03
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://agents4good.github.io/se4as26-workshop/
+- https://cbsoft.sbc.org.br/2026/pt/workshops/accepted
+- https://sol.sbc.org.br/index.php/se4as/issue/archive
+- https://portal.core.edu.au/conf-ranks/?search=SE4AS&by=all&source=ICORE2026
+unverified:
+- Review model (single or double blind) not stated
+- Acceptance rate not stated
+- SE4AS 2027 not yet announced
+last_verified: 2026-11-07

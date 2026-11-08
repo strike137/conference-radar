@@ -1,0 +1,64 @@
+id: hpcsyspros
+name: HPCSYSPROS
+full_name: SIGHPC Systems Professionals Workshop
+type: workshop
+tier: minor
+areas: [systems]
+region: north-america
+language: english
+frequency: annual
+organizer: ACM SIGHPC Systems Professionals (SYSPROS) virtual chapter, held with and in cooperation with SC
+organizer_country: [usa]
+proceedings: Workshop GitHub repository with Zenodo DOIs (not in the SC Workshops Proceedings)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://sighpc-syspros.org/workshops/2026
+notes:
+- Workshop for HPC systems administrators, architects and analysts on best practices for running supercomputing systems, held with SC every year since 2016
+- Accepts papers (2 to 8 pages excluding references, SC proceedings template), slide decks, 5-minute lightning talks and reproducible artifacts
+- Two review rounds, with a resubmission window after the first reviews
+- Accepted papers and artifacts are published on the workshop GitHub repository and archived on Zenodo with a DOI
+- SC26 lists it among the workshops with non-SC proceedings
+- The same chapter also runs an HPCSYSPROS Symposium at PEARC
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: St. Louis, MO, USA (with SC25)
+  url: https://sighpc-syspros.org/workshops/2025
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+  - kind: other
+    date: 2025-08-29
+    label: Resubmission closed
+  - kind: notification
+    date: 2025-09-05
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-16
+  location: Chicago, IL, USA (with SC26)
+  url: https://sighpc-syspros.org/workshops/2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-14
+  - kind: other
+    date: 2026-09-04
+    label: Resubmission closed
+  - kind: notification
+    date: 2026-09-11
+sources:
+- https://sighpc-syspros.org/workshops/2026
+- https://github.com/SIGHPC-SYSPROS/sighpc-syspros.github.io/blob/main/workshops/2026/SC26%20Call%20For%20Participation%20-%20long%20form.pdf
+- https://sighpc-syspros.org/workshops/2025
+- https://sighpc-syspros.org/PastActivities.html
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=HPCSYSPROS&by=all&source=ICORE2026
+unverified:
+- Deadline time zone not stated on the CfP
+- Edition count inconsistent on the official pages (the 2026 page says eighth, the 2026 CfP says tenth)
+last_verified: 2026-11-07

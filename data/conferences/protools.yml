@@ -1,0 +1,60 @@
+id: protools
+name: ProTools
+full_name: Workshop on Programming and Performance Visualization Tools
+type: workshop
+tier: minor
+areas: [systems, software]
+region: north-america
+language: english
+frequency: annual
+organizer: ProTools workshop chairs (LLNL, TU Darmstadt, FAU), supported by VI-HPS, held with SC
+organizer_country: [international]
+proceedings: SC Workshops Proceedings (IEEE Xplore)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://sc-protools-workshop.github.io/protools26
+notes:
+- Workshop on HPC performance analysis, debugging, correctness and performance visualization tools, held with SC since 2019
+- Merger of two earlier SC workshops, Visual Performance Analytics (VPA) and Extreme-Scale Programming Tools (ESPT)
+- 2026 is the 8th edition; supported by the Virtual Institute for High Productivity Supercomputing (VI-HPS)
+- Up to 10 pages in the IEEE proceedings template in 2026 (ACM template in 2025), single-blind review, submitted through the SC Linklings site
+- Accepted papers appear in the SC workshop proceedings
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, MO, USA (with SC25)
+  url: https://sc-protools-workshop.github.io/protools25/
+  deadlines:
+  - kind: submission
+    date: 2025-08-09
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-19
+    tz: AoE
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-16
+  location: Chicago, IL, USA (with SC26)
+  url: https://sc-protools-workshop.github.io/protools26
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    tz: AoE
+    label: Extended from Aug 5
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://sc-protools-workshop.github.io/protools26
+- https://sc-protools-workshop.github.io/protools25/
+- https://portal.core.edu.au/conf-ranks/?search=ProTools&by=all&source=ICORE2026
+last_verified: 2026-11-07

@@ -1,0 +1,66 @@
+id: ccdm
+name: CCDM
+full_name: CCF China Conference on Data Mining
+name_local: CCF中国数据挖掘会议
+type: conference
+tier: domestic
+areas: [data, ai]
+region: china
+language: chinese
+frequency: biennial
+organizer: CCF (China Computer Federation) and CAAI; CCF Technical Committee on AI and Pattern Recognition and CAAI Technical Committee on Machine Learning
+organizer_country: [china]
+proceedings: Chinese journals (accepted papers recommended to partner journals)
+archival: false
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7, 8]
+links:
+  website: https://conf.ccf.org.cn/CCDM2026
+notes:
+- Main national data mining conference in China, sponsored by CCF and the Chinese Association for Artificial Intelligence (CAAI); 2026 was the 11th edition
+- Held every two years in even years
+- No conference proceedings; accepted papers are recommended to partner Chinese journals (2026 had a Journal of Computer Research and Development special issue forum)
+- Calls for Chinese papers; peer reviewed by the program committee
+- Hosted by a different Chinese university each time (Tai'an 2024, Taiyuan 2026)
+- Not ranked in CORE ICORE2026; not on the CCF 2026 recommended list
+editions:
+- year: 2024
+  label: 10th CCDM
+  start: 2024-07-28
+  end: 2024-07-30
+  location: Tai'an, China (University of Jinan and Shandong Agricultural University)
+  url: https://conf.ccf.org.cn/CCDM2024
+  deadlines:
+  - kind: submission
+    date: 2024-03-25
+    time: "23:59"
+    tz: UTC+8
+    label: Papers (extended from 2024-03-10)
+  - kind: notification
+    date: 2024-05-19
+- year: 2026
+  label: 11th CCDM
+  start: 2026-07-31
+  end: 2026-08-02
+  location: Taiyuan, China (Shanxi University)
+  url: https://conf.ccf.org.cn/CCDM2026
+  deadlines:
+  - kind: submission
+    date: 2026-04-13
+    time: "23:59"
+    tz: UTC+8
+    label: Papers (extended)
+sources:
+- https://conf.ccf.org.cn/CCDM2026
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1460578855122243584176827073530
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=74d1fcc538634d40a581608d9e8b0256
+- https://conf.ccf.org.cn/web/api/newsAll.action?channelId=8a9e3a9d9f636b1a019f6e0c80170059
+- https://conf.ccf.org.cn/CCDM2024
+- https://conf.ccf.org.cn/web/api/meetingInfo.action?meetingId=m1153800034500874240169512896479
+- https://portal.core.edu.au/conf-ranks/?search=CCDM&by=all&source=ICORE2026
+- https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
+unverified:
+- The CCDM 2026 call for papers is no longer online, so its original deadline and notification date are missing; the journal-only publication model is stated on the 2024 site
+- CCDM 2028 dates and location
+last_verified: 2026-11-07

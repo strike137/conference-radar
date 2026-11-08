@@ -1,0 +1,47 @@
+id: ilr-workshop
+name: ILR+G
+full_name: Instance-Level Recognition and Generation Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Google DeepMind, Czech Technical University, The University of Osaka, Amazon, xAI)
+organizer_country: [international]
+proceedings: Host conference workshop proceedings (ECCV Workshops in Springer LNCS for 2026), long papers only
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://ilr-workshop.github.io/ECCVW2026/
+notes:
+- Workshop on instance-level recognition and generation (particular object retrieval, image matching, geo-localization, personalized generation)
+- Started as a landmark recognition workshop at CVPR 2018 and 2019, then ECCV 2020, ICCV 2021, ECCV 2022, ECCV 2024, ICCV 2025 and ECCV 2026 (8th edition)
+- Long papers (14 pages) and short papers (4 pages), double-blind review; only long papers go into the ECCV workshop proceedings
+- Also hosts invited talks for papers from the main conference; best paper awards and student support grants in 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026)
+  url: https://ilr-workshop.github.io/ECCVW2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    label: Extended from 2026-06-26
+  - kind: notification
+    date: 2026-07-24
+  - kind: camera_ready
+    date: 2026-08-15
+sources:
+- https://ilr-workshop.github.io/ECCVW2026/
+- https://ilr-workshop.github.io/ICCVW2025/
+- https://link.springer.com/book/10.1007/978-3-031-91575-8
+- https://portal.core.edu.au/conf-ranks/?search=ILR&by=all&source=ICORE2026
+unverified:
+- Time and time zone of the 2026 deadlines not stated on the official page
+- Next edition (2027) not announced yet
+last_verified: 2026-11-07

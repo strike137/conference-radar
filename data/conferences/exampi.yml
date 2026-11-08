@@ -1,0 +1,68 @@
+id: exampi
+name: ExaMPI
+full_name: Workshop on Extreme Scale MPI
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: north-america
+language: english
+frequency: annual
+organizer: ExaMPI organizing committee (Sandia National Laboratories and partners), held with SC
+organizer_country: [usa]
+proceedings: SC Workshops Proceedings (ACM DL 2025; IEEE templates in 2026)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://sites.google.com/site/workshopexampi/home
+notes:
+- Workshop on MPI and message passing at extreme scale, held with SC every year since 2013
+- Topics include collective operations, one-sided communication and RDMA, GPU-aware MPI, fault tolerance in MPI and MPI I/O
+- Papers of 6 to 10 pages excluding references, IEEE conference template in 2026, submitted through the SC submissions site
+- Listed by SC26 among the workshops with papers in the SC Workshop Proceedings; 2025 papers are in the ACM DL
+- Half-day workshop in 2026 (full day in 2025)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-16
+  end: 2025-11-16
+  location: St. Louis, MO, USA (with SC25)
+  url: https://sites.google.com/view/exampiworkshop2025/home
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+    tz: AoE
+    label: Extended from 2025-08-11
+  - kind: notification
+    date: 2025-09-08
+  - kind: camera_ready
+    date: 2025-09-22
+    label: Moved from 2025-09-29
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-16
+  location: Chicago, IL, USA (with SC26)
+  url: https://sites.google.com/site/workshopexampi/home
+  deadlines:
+  - kind: submission
+    date: 2026-08-07
+    tz: AoE
+    label: Extended from 2026-07-31
+  - kind: notification
+    date: 2026-09-04
+  - kind: camera_ready
+    date: 2026-09-25
+sources:
+- https://sites.google.com/site/workshopexampi/home
+- https://sites.google.com/site/workshopexampi/cfp
+- https://sites.google.com/site/workshopexampi/archive
+- https://sites.google.com/view/exampiworkshop2025/home
+- https://sites.google.com/view/exampiworkshop2025/cfp
+- https://dl.acm.org/doi/proceedings/10.1145/3731599
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=ExaMPI&by=all&source=ICORE2026
+unverified:
+- Publisher of the SC26 Workshop Proceedings (IEEE Xplore or ACM DL) not stated on the ExaMPI or SC26 pages
+- DBLP page not checked (dblp.org blocked automated access)
+last_verified: 2026-11-07

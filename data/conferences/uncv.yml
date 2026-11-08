@@ -1,0 +1,51 @@
+id: uncv
+name: UNCV
+full_name: Workshop on Uncertainty Quantification for Computer Vision
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (NVIDIA, AMIAD, valeo.ai, Inria, Aalto University, KTH, NUS, Koc University)
+organizer_country: [international]
+proceedings: Host conference workshop proceedings (ECCV Workshops in Springer LNCS for 2026; CVPR Workshops for 2025)
+archival: true
+typical:
+  deadline_months: [3, 6]
+  conference_months: [6, 9, 10]
+links:
+  website: https://uncertainty-cv.github.io/2026/
+notes:
+- Workshop on predictive uncertainty, calibration, failure prediction and out-of-distribution detection in computer vision
+- Held with a major vision conference every year since 2022 (ECCV 2022, ICCV 2023, ECCV 2024, CVPR 2025, ECCV 2026); 2026 is the 5th edition
+- Regular papers follow the host conference format and go into the workshop proceedings; extended abstracts (up to 4 pages) are not published
+- Submissions via OpenReview, all peer reviewed
+- Different from the MICCAI UNSURE workshop
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026)
+  url: https://uncertainty-cv.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-08-07
+    label: Tentative
+  - kind: camera_ready
+    date: 2026-08-15
+    label: Tentative
+sources:
+- https://uncertainty-cv.github.io/2026/
+- https://uncertainty-cv.github.io/2025/
+- https://link.springer.com/book/10.1007/978-3-031-91575-8
+- https://portal.core.edu.au/conf-ranks/?search=UNCV&by=all&source=ICORE2026
+unverified:
+- Notification and camera-ready dates for 2026 were marked tentative on the official page
+- Next edition (2027) not announced yet
+last_verified: 2026-11-07

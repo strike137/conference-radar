@@ -1,0 +1,43 @@
+id: pycon-ci
+name: PyCon CI
+full_name: PyCon Cote d'Ivoire
+type: industry
+tier: minor
+areas: [software, ai]
+region: africa
+language: mixed
+frequency: annual
+organizer: Python Cote d'Ivoire
+organizer_country: [other]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [1]
+links:
+  website: https://pycon.ci/
+notes:
+- Python community conference of Cote d'Ivoire run by Python Cote d'Ivoire
+- First edition announced for January 2027 in Abidjan; exact dates not yet published
+- Talks, hands-on workshops and lightning talks chosen from an open call for proposals
+- Site in French and English
+- Talks only, no papers or proceedings
+editions:
+- year: 2027
+  location: Abidjan, Cote d'Ivoire
+  url: https://pycon.ci/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-11-15
+    time: "23:59"
+    tz: UTC
+    label: Call for proposals (talks)
+sources:
+- https://pycon.ci/
+- https://pycon.ci/participer/cfp
+- https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
+unverified:
+- Exact dates and venue of PyCon CI 2027 not yet announced (site says January 2027)
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-11-07

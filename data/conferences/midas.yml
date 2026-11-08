@@ -1,0 +1,63 @@
+id: midas
+name: MIDAS
+full_name: Workshop on MIning DAta for financial applicationS
+type: workshop
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: MIDAS workshop organizers (UniCredit, ENEA and Italian universities); co-located with ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (ECML PKDD workshops post-proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: http://midas.portici.enea.it/
+notes:
+- Workshop on data mining, network science and NLP for finance (trading, risk, fraud, anti-money laundering, LLMs in finance), co-located with ECML PKDD
+- 11th edition in 2026; held with ECML PKDD every year since at least 2019 (Virtual 2021, Turin 2023, Vilnius 2024, Porto 2025, Naples 2026)
+- Organized by researchers from UniCredit, ENEA, University of L'Aquila and University of Calabria
+- Full regular papers up to 15 pages, short papers up to 8 pages, extended abstracts up to 4 pages, excluding references, Springer LNCS style, via Microsoft CMT
+- Regular papers are peer reviewed and go into the joint ECML PKDD workshop post-proceedings (expected to be a Springer CCIS volume); extended abstracts are not peer reviewed and may opt out
+- At least one author must attend in person
+- Not listed in CORE ICORE2026
+- Official site is served over plain http
+editions:
+- year: 2026
+  label: 11th edition, with ECML PKDD 2026
+  start: 2026-09-11
+  end: 2026-09-11
+  location: Naples, Italy (ECML PKDD 2026, University of Naples Federico II)
+  url: http://midas.portici.enea.it/
+  deadlines:
+  - kind: submission
+    date: 2026-06-19
+    time: "23:59"
+    tz: AoE
+    label: Extended from June 5
+  - kind: notification
+    date: 2026-07-15
+    time: "23:59"
+    tz: AoE
+    label: Moved from July 10
+  - kind: camera_ready
+    date: 2026-07-22
+    time: "23:59"
+    tz: AoE
+    label: Moved from July 19
+sources:
+- http://midas.portici.enea.it/
+- http://midas.portici.enea.it/midas2025/
+- http://midas.portici.enea.it/midas2024/
+- http://midas.portici.enea.it/midas2023/
+- http://midas.portici.enea.it/midas2021/
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://portal.core.edu.au/conf-ranks/?search=MIDAS&by=all&source=ICORE2026
+unverified:
+- MIDAS 2027 not announced as of 2026-11-07
+- dblp page not checked (dblp returned a bot check)
+- The 2026 site also keeps an older, commented-out date block (June 15 submission, Sept 15 workshop); the dates shown on the page and the ECML PKDD 2026 program (Friday Sept 11 morning) are used here
+last_verified: 2026-11-07

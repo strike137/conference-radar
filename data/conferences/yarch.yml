@@ -1,0 +1,49 @@
+id: yarch
+name: YArch
+full_name: Young Architect Workshop
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (2026 from CMU, EPFL and Tenstorrent); co-located with ASPLOS (2020-2025) or ISCA (2026)
+organizer_country: [usa, europe]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://yarch2026.epfl.ch/
+notes:
+- Computer architecture workshop for junior graduate students (less than 3 years of graduate school) and research-active undergraduates
+- Students present early-stage or ongoing work and get two or more expert reviews plus mentoring by established architects, keynotes and a career panel
+- Not a venue for publication; the call states there are no formal proceedings
+- Submissions up to 2 pages excluding references, double-blind, via HotCRP; an advisor email confirming eligibility is required
+- Organizers aim to fund travel for the presenter of each accepted paper, depending on available funding
+- Co-located with ASPLOS from 2020 to 2025 and with ISCA 2026 in Raleigh (8th edition)
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 8th edition, with ISCA 2026
+  start: 2026-06-28
+  end: 2026-06-28
+  location: Raleigh, NC, USA (with ISCA 2026)
+  url: https://yarch2026.epfl.ch/
+  deadlines:
+  - kind: abstract
+    date: 2026-04-18
+    label: Paper registration
+  - kind: submission
+    date: 2026-04-22
+  - kind: notification
+    date: 2026-05-15
+sources:
+- https://yarch2026.epfl.ch/
+- https://yarch2026.epfl.ch/pastWorkshops.html
+- https://iscaconf.org/isca2026/program/workshops.php
+- https://portal.core.edu.au/conf-ranks/?search=YArch&by=all&source=ICORE2026
+unverified:
+- No 2027 edition or host conference announced yet
+last_verified: 2026-11-07

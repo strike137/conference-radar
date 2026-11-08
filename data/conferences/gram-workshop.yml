@@ -1,0 +1,61 @@
+id: gram-workshop
+name: GRaM
+full_name: Workshop on Geometry-grounded Representation Learning and Generative Modeling
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers per edition (2026 -> Alison Pouplin, Sharvaree Vadgama, Erik Bekkers and others), co-located with ICML or ICLR
+organizer_country: [international]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://gram-workshop.github.io/
+notes:
+- Machine learning workshop on geometric deep learning, group equivariance, non-Euclidean representations and geometry-aware generative models
+- First edition at ICML 2024 (Vienna, an ELLIS workshop); second edition at ICLR 2026 (Rio de Janeiro); not held in 2025
+- Proceedings track papers are published in PMLR (Volume 251 for 2024, Volume 326 for 2026)
+- 2026 had a paper track, a blogpost track and a competition track; 84 accepted papers listed on the official site
+- 2024 also had a non-archival extended abstract track (4 pages) next to the 8-page proceedings track
+- Review on OpenReview
+- Not listed in the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-26
+  end: 2026-04-26
+  location: Rio de Janeiro, Brazil (with ICLR 2026)
+  url: https://gram-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-05
+    tz: AoE
+  - kind: notification
+    date: 2026-03-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-11
+    tz: AoE
+  - kind: other
+    date: 2026-04-15
+    tz: AoE
+    label: Blogpost submission
+  - kind: other
+    date: 2026-04-22
+    tz: AoE
+    label: Competition submission
+sources:
+- https://gram-workshop.github.io/
+- https://gram-workshop.github.io/faq.html
+- https://gram-workshop.github.io/cfp.html
+- https://gram-workshop.github.io/archive.html
+- https://proceedings.mlr.press/v326/
+- https://proceedings.mlr.press/v251/
+- https://portal.core.edu.au/conf-ranks/?search=GRaM&by=all&source=ICORE2026
+unverified:
+- No third edition announced yet
+last_verified: 2026-11-07

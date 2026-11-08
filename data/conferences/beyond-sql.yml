@@ -1,0 +1,50 @@
+id: beyond-sql
+name: Beyond SQL
+full_name: "Beyond SQL Workshop: AI for Complex Data Management"
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+organizer: Beyond SQL workshop organizers (IBM Research, TU Darmstadt, Stanford University); co-located with IEEE ICDE
+organizer_country: [usa, europe]
+proceedings: IEEE ICDE Workshops proceedings (published alongside the ICDE proceedings)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [5]
+links:
+  website: https://beyond-sql.github.io/
+notes:
+- Half-day workshop at IEEE ICDE on AI for data management tasks beyond text-to-SQL (ETL/ELT, SQL remediation, querying graphs and JSON, data products, governance)
+- Held with ICDE 2026 in Montreal on May 4, 2026
+- Workshop site says the proceedings of all workshops are published jointly with the ICDE conference proceedings
+- Full papers up to 8 pages, short papers up to 4 pages, extended abstracts up to 2 pages (plus references), IEEE format
+- Submission via OpenReview, single-anonymous review
+- Small program in 2026 (two keynotes, four papers)
+- Organized by Oktie Hassanzadeh, Kavitha Srinivas and Sola Shirai (IBM Research), Liane Vogel (TU Darmstadt) and Liana Patel (Stanford)
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: With ICDE 2026
+  start: 2026-05-04
+  end: 2026-05-04
+  location: Montreal, Canada
+  url: https://beyond-sql.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-02-16
+  - kind: notification
+    date: 2026-03-02
+  - kind: camera_ready
+    date: 2026-03-09
+sources:
+- https://beyond-sql.github.io/
+- https://icde2026.github.io/workshops.html
+- https://icde2026.github.io/cf-workshop-proposals.html
+- https://portal.core.edu.au/conf-ranks/?search=Beyond%20SQL&by=all&source=ICORE2026
+unverified:
+- The site does not say which edition 2026 was; no earlier edition found
+- Inclusion of the workshop papers in IEEE Xplore not confirmed
+- No 2027 edition announced as of 2026-11-07 (ICDE 2027 workshop list not yet published)
+last_verified: 2026-11-07

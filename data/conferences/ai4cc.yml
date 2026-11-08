@@ -1,0 +1,47 @@
+id: ai4cc
+name: AI4CC
+full_name: AI for Content Creation Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers (Brown University, Adobe, Carnegie Mellon University, Google and others)
+organizer_country: [usa]
+proceedings: Workshop website (non-archival; authors post papers on arXiv)
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://ai-for-content-creation.github.io
+notes:
+- Workshop on generative AI for images, video, 3D and other content, held with CVPR every year since 2020
+- Non-archival; accepted papers are not in the CVPR proceedings and authors are asked to post them on arXiv
+- 8-page papers and 4-page extended abstracts, double blind review in the CVPR template via CMT
+- Also accepts a selection of recently published papers (including CVPR main papers) for posters without new review
+- Best paper awards and travel awards
+- The official site is ai-for-content-creation.github.io; the domain ai4cc.net is not the workshop
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, USA (CVPR 2026, Colorado Convention Center)
+  url: https://ai-for-content-creation.github.io
+  deadlines:
+  - kind: submission
+    date: 2026-03-26
+    tz: AoE
+  - kind: notification
+    date: 2026-04-23
+  - kind: camera_ready
+    date: 2026-04-30
+sources:
+- https://ai-for-content-creation.github.io
+- https://ai-for-content-creation.github.io/2025/
+- https://portal.core.edu.au/conf-ranks/?search=AI4CC&by=all&source=ICORE2026
+unverified:
+- AI4CC 2027 not announced yet
+last_verified: 2026-11-07

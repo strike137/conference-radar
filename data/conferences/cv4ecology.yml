@@ -1,0 +1,67 @@
+id: cv4ecology
+name: CV4Ecology
+full_name: Workshop on Computer Vision for Ecology
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizing committee (MIT, KAUST, Texas A&M, Ohio State and others); co-located with ECCV or ICCV
+organizer_country: [international]
+proceedings: ICCV Workshops proceedings (CVF Open Access) or ECCV Workshops proceedings, archival track only
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://cv4e-workshop.github.io
+notes:
+- Workshop on computer vision for ecological data collection and analysis (remote sensing, bioacoustics, camera traps, citizen science)
+- Held with ECCV 2024 (Milan), ICCV 2025 (Honolulu) and ECCV 2026 (3rd edition, Malmo)
+- Archival track papers (7 or 14 pages, ECCV format) go into the host conference workshop proceedings; non-archival track also accepts recently published work
+- Double-blind review on OpenReview with at least two reviews per paper
+- Runs a competition each year (Fish Species Recognition Challenge in 2026)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Honolulu, Hawaii, USA (with ICCV 2025)
+  url: https://cv4e.netlify.app/
+  deadlines:
+  - kind: submission
+    date: 2025-07-07
+    label: Archival track
+  - kind: other
+    date: 2025-08-22
+    label: Non-archival track
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026, Malmo Arena)
+  url: https://cv4e-workshop.github.io
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    label: Archival track (extended from July 10)
+  - kind: notification
+    date: 2026-07-31
+    label: Archival track
+  - kind: camera_ready
+    date: 2026-08-10
+    label: Archival track
+  - kind: other
+    date: 2026-08-14
+    label: Non-archival track
+sources:
+- https://cv4e-workshop.github.io
+- https://cv4e-workshop.github.io/cfp.html
+- https://cv4e.netlify.app/
+- https://openaccess.thecvf.com/ICCV2025_workshops/CV4E
+- https://portal.core.edu.au/conf-ranks/?search=CV4E&by=all&source=ICORE2026
+unverified:
+- Time and time zone of the deadlines not stated on the official pages
+- Publisher of the ECCV 2026 workshop proceedings not named on the workshop page
+- Next edition (2027) not announced yet
+last_verified: 2026-11-07
