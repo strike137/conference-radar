@@ -140,9 +140,22 @@ pre code { background: none; padding: 0; }
 /* Table */
 .table-wrap {
   background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
-  overflow-x: auto; box-shadow: var(--shadow);
+  overflow: hidden; box-shadow: var(--shadow);
 }
-.conf-table { width: 100%; border-collapse: collapse; }
+/* The table always fits its container: fixed column widths, the name column takes the rest, text wraps
+   inside its cell. Narrower screens merge columns instead of scrolling sideways (see "Merged columns"). */
+.conf-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+.conf-table > tbody > tr > td { overflow-wrap: anywhere; }
+.conf-table th.c-tier { width: 88px; }
+.conf-table th.c-org { width: 106px; }
+.conf-table th.c-areas { width: 128px; }
+.conf-table th.c-core { width: 112px; }
+.conf-table th.c-ccf { width: 60px; }
+.conf-table th.c-proc { width: clamp(120px, 120px + (100vw - 1360px) * .2, 136px); }
+.conf-table th.c-dl { width: 132px; }
+.conf-table th.c-held { width: 136px; }
+.conf-table th.c-loc { width: clamp(150px, 150px + (100vw - 1360px) * .3, 172px); }
+.conf-table .alt { display: none; }  /* copies that only show when columns are merged */
 .conf-table > thead > tr > th, .conf-table > tbody > tr > td { padding: 9px 10px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--border); }
 .conf-table > thead th {
   position: sticky; top: 0; background: var(--surface-2); font-size: 12px; font-weight: 600;
@@ -158,7 +171,6 @@ pre code { background: none; padding: 0; }
 .conf-table tbody tr.row:hover td { background: var(--surface-2); }
 .conf-table tbody tr.row.open td { background: var(--accent-soft); border-bottom-color: transparent; }
 .conf-table > tbody > tr.detail-row > td { background: var(--surface); padding: 0 14px 16px; }
-.name-cell { min-width: 240px; max-width: 420px; }
 .name-btn {
   background: none; border: 0; padding: 0; font: inherit; color: var(--text); cursor: pointer; text-align: left;
   display: flex; gap: 6px; align-items: baseline;
@@ -166,6 +178,9 @@ pre code { background: none; padding: 0; }
 .name-btn .caret { color: var(--muted); font-size: 10px; transition: transform .15s; display: inline-block; width: 10px; }
 .row.open .name-btn .caret { transform: rotate(90deg); }
 .name-btn strong { font-size: 14.5px; }
+.name-btn .badge { vertical-align: 1px; }
+.alt-areas { padding-left: 16px; margin-top: 4px; }
+.alt-loc { margin-top: 3px; font-size: 13px; }
 .full { color: var(--muted); font-size: 12.5px; margin-top: 1px; padding-left: 16px; }
 .local { color: var(--muted); font-size: 12px; padding-left: 16px; }
 .nowrap { white-space: nowrap; }
@@ -183,6 +198,7 @@ pre code { background: none; padding: 0; }
 .type-badge { color: var(--muted); background: var(--surface-2); font-weight: 500; }
 .rank { font-weight: 600; font-variant-numeric: tabular-nums; }
 .rank.none { color: var(--muted); font-weight: 400; }
+.rank.long { font-size: 12.5px; }
 .proc, .org { font-size: 13px; }
 .proc.none { color: var(--muted); }
 .tags { display: flex; flex-wrap: wrap; gap: 4px; }
@@ -205,7 +221,22 @@ pre code { background: none; padding: 0; }
 .editions th, .editions td { text-align: left; padding: 5px 8px; border-bottom: 1px solid var(--border); vertical-align: top; }
 .editions th { color: var(--muted); font-weight: 500; font-size: 12px; }
 .dl-list { margin: 0; padding: 0; list-style: none; }
-.dl-list li { white-space: nowrap; }
+.dl-list li { padding-left: 1em; text-indent: -1em; }
+.dl-list .lbl { overflow-wrap: anywhere; }
+.details { overflow-wrap: break-word; }
+.details > div { container-type: inline-size; min-width: 0; }
+.editions td:first-child { white-space: nowrap; }
+.editions td:first-child .sub { white-space: normal; }
+/* In a narrow panel each edition becomes a block instead of a table row. */
+@container (max-width: 520px) {
+  .editions thead { display: none; }
+  .editions, .editions tbody, .editions tr, .editions td { display: block; }
+  .editions tr { padding: 6px 0; border-bottom: 1px solid var(--border); }
+  .editions td { padding: 1px 0; border: 0; }
+  .editions td:empty { display: none; }
+  .editions td:first-child { font-weight: 600; }
+  .editions td:first-child .sub { display: inline; font-weight: 400; margin-left: 6px; }
+}
 .dl-list li.past { color: var(--muted); text-decoration: line-through; text-decoration-color: color-mix(in srgb, var(--muted) 60%, transparent); }
 .kind { font-size: 11px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-right: 4px; }
 .links { display: flex; flex-wrap: wrap; gap: 8px; }
@@ -302,6 +333,29 @@ dialog h2 { margin: 0 36px 2px 0; font-size: 19px; }
 :root[data-theme="dark"] .cal-day.today .num, :root[data-theme="dark"] .filters-toggle .n { color: #0b1020; }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) .cal-day.today .num, :root:not([data-theme="light"]) .filters-toggle .n { color: #0b1020; }
+}
+
+/* Merged columns: below 1360px the tier moves next to the name, CCF under CORE and the location under the
+   dates; below 1024px the areas move under the name and "Run by" stays in the details. Hidden columns can
+   still be sorted with the Sort menu. Keep these widths in step with COL_QUERIES in app.js. */
+@media (min-width: 761px) and (max-width: 1359px) {
+  .conf-table .c-tier, .conf-table .c-ccf, .conf-table .c-loc { display: none; }
+  .conf-table .alt-inline { display: inline; }
+  .conf-table .alt-block { display: block; }
+  .conf-table th.c-core { width: 118px; }
+  .conf-table th.c-held { width: clamp(170px, 17vw, 215px); }
+  .conf-table th.c-proc { width: clamp(118px, 11vw, 150px); }
+  .conf-table th.c-areas { width: clamp(128px, 12vw, 160px); }
+  .sort-phone { display: flex; }
+}
+@media (min-width: 761px) and (max-width: 1023px) {
+  .conf-table .c-org, .conf-table .c-areas { display: none; }
+  .conf-table .alt-areas { display: flex; }
+  .conf-table th.c-core { width: 112px; }
+  .conf-table th.c-proc { width: 116px; }
+  .conf-table th.c-dl { width: 128px; }
+  .conf-table th.c-held { width: clamp(150px, 19vw, 190px); }
+  .details { grid-template-columns: minmax(0, 1fr); }
 }
 
 /* Phone layout: table rows become cards */

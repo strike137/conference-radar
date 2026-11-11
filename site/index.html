@@ -105,6 +105,7 @@
           <option value="core">CORE rank</option>
           <option value="ccf">CCF rank</option>
           <option value="proc">Proceedings</option>
+          <option value="region">Location</option>
           <option value="" hidden>Custom</option>
         </select>
       </label>
@@ -120,16 +121,16 @@
       <table class="conf-table">
         <thead>
           <tr>
-            <th data-sort="name" scope="col"><button type="button">Conference</button></th>
-            <th data-sort="tier" scope="col"><button type="button">Tier</button></th>
-            <th data-sort="org" scope="col" title="Country of the society or institution that runs the venue (not where it is held)"><button type="button">Run by</button></th>
-            <th scope="col">Areas</th>
-            <th data-sort="core" scope="col" id="th-core"><button type="button">CORE</button></th>
-            <th data-sort="ccf" scope="col" id="th-ccf"><button type="button">CCF</button></th>
-            <th data-sort="proc" scope="col" title="Where the papers are published; 'non-archival' means it does not count as a formal publication"><button type="button">Proceedings</button></th>
-            <th data-sort="deadline" scope="col" aria-sort="ascending"><button type="button">Deadline</button></th>
-            <th data-sort="conf" scope="col"><button type="button">Held</button></th>
-            <th data-sort="region" scope="col"><button type="button">Location</button></th>
+            <th class="c-name" data-sort="name" scope="col"><button type="button">Conference</button></th>
+            <th class="c-tier" data-sort="tier" scope="col"><button type="button">Tier</button></th>
+            <th class="c-org" data-sort="org" scope="col" title="Country of the society or institution that runs the venue (not where it is held)"><button type="button">Run by</button></th>
+            <th class="c-areas" scope="col">Areas</th>
+            <th class="c-core" data-sort="core" scope="col" id="th-core"><button type="button">CORE<span class="alt alt-inline"> / CCF</span></button></th>
+            <th class="c-ccf" data-sort="ccf" scope="col" id="th-ccf"><button type="button">CCF</button></th>
+            <th class="c-proc" data-sort="proc" scope="col" title="Where the papers are published; 'non-archival' means it does not count as a formal publication"><button type="button">Proceedings</button></th>
+            <th class="c-dl" data-sort="deadline" scope="col" aria-sort="ascending"><button type="button">Deadline</button></th>
+            <th class="c-held" data-sort="conf" scope="col"><button type="button">Held<span class="alt alt-inline"> / Location</span></button></th>
+            <th class="c-loc" data-sort="region" scope="col"><button type="button">Location</button></th>
           </tr>
         </thead>
         <tbody id="rows"></tbody>

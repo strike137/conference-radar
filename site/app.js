@@ -105,6 +105,11 @@
     if (pa.y === pb.y) return `${MONTHS[pa.m - 1]} ${pa.d} - ${MONTHS[pb.m - 1]} ${pb.d}, ${pa.y}`;
     return `${fmtDate(a)} - ${fmtDate(b)}`;
   }
+  // A range as HTML: each end stays on one line, and a range across months may wrap between its ends.
+  function rangeHTML(a, b) {
+    const parts = fmtRange(a, b).split(' - ');
+    return parts.length === 2 ? `<span class="nowrap">${parts[0]} -</span> <span class="nowrap">${parts[1]}</span>` : `<span class="nowrap">${parts[0]}</span>`;
+  }
   function fmtMonthOnly(it) { return `~${MONTHS[it.m - 1]} ${it.y}`; }
   function monthsText(ms) { return (ms || []).map((m) => MONTHS[m - 1]).join(', '); }
   function coreOrder(v) {
@@ -413,7 +418,11 @@
     if (p.has === null) return '<span class="rank none" title="not recorded">&middot;</span>';
     return `<span class="proc" title="${esc(p.raw)}">${esc(p.label)}</span>${p.refereed ? '' : '<div class="sub" title="Does not count as a formal publication: no peer review, or only preliminary proceedings">non-archival</div>'}`;
   }
-  function rankCell(v, title) { return v ? `<span class="rank" title="${esc(title)}">${esc(v)}</span>` : `<span class="rank none" title="not listed">&middot;</span>`; }
+  function rankCell(v, title) {
+    if (!v) return '<span class="rank none" title="not listed">&middot;</span>';
+    // Long labels ("National: India", "National/Regional") are set smaller and may break after the slash.
+    return `<span class="rank${String(v).length > 2 ? ' long' : ''}" title="${esc(title)}">${esc(v).replace('/', '/<wbr>')}</span>`;
+  }
   function deadlineHTML(it) {
     if (!it) return '<span class="sub">no date yet</span>';
     if (it.monthOnly) return `<span class="est">${fmtMonthOnly(it)}</span><div class="sub">estimated from usual month</div>`;
@@ -427,7 +436,7 @@
     if (!it) return '<span class="sub">no date yet</span>';
     if (it.monthOnly) return `<span class="est">${fmtMonthOnly(it)}</span>`;
     const running = it.t <= state.now && it.tEnd > state.now;
-    return `<span class="nowrap${it.est ? ' est' : ''}">${it.est ? '~' : ''}${fmtRange(it.date, it.end)}</span>` +
+    return `<span class="${it.est ? 'est' : ''}">${it.est ? '~' : ''}${rangeHTML(it.date, it.end)}</span>` +
       (it.est ? `<div class="sub">estimated from ${it.basedOn}</div>` : running ? '<div class="left urgent">happening now</div>' : it.tentative ? '<div class="sub">tentative</div>' : '');
   }
   // Country (last part of "City, Country") -> region code, to tell when an edition is outside the usual region.
@@ -480,7 +489,7 @@
     const past = t < state.now;
     const when = `${fmtDate(d.date)}${d.time ? ` ${esc(d.time)}` : ''}${d.tz ? ` ${esc(d.tz)}` : ` ${tzUsed}?`}`;
     const local = `Your time: ${fmtLocal.format(t)}${d.tz ? '' : d.time ? ` (no time zone stated, ${tzUsed} assumed)` : ` (no time stated, 23:59 ${tzUsed} assumed)`}`;
-    return `<li class="${past ? 'past' : ''}" title="${esc(local)}"><span class="kind">${esc(KIND[d.kind] || d.kind)}</span>${when}${redundantLabel(d) ? '' : ` \u00b7 ${esc(d.label)}`}</li>`;
+    return `<li class="${past ? 'past' : ''}" title="${esc(local)}"><span class="kind">${esc(KIND[d.kind] || d.kind)}</span><span class="nowrap">${when}</span>${redundantLabel(d) ? '' : `<span class="lbl"> \u00b7 ${esc(d.label)}</span>`}</li>`;
   }
 
   function detailsHTML(c) {
@@ -493,15 +502,15 @@
       for (const g of [...groups.values()].sort((a, b) => b[0].estYear - a[0].estYear)) {
         const conf = g.find((i) => i.kind === 'conf');
         const dls = g.filter((i) => i.kind !== 'conf');
-        edRows += `<tr class="est"><td>~${g[0].estYear}<div class="sub">estimated from ${g[0].basedOn}</div></td>` +
-          `<td>${conf ? `~${fmtRange(conf.date, conf.end)}` : ''}</td><td></td>` +
-          `<td><ul class="dl-list">${dls.map((i) => `<li><span class="kind">${esc(KIND[i.kind])}</span>~${fmtDate(i.date)}${redundantLabel(i) ? '' : ` \u00b7 ${esc(i.label)}`}</li>`).join('')}</ul></td></tr>`;
+        edRows += `<tr class="est"><td><span class="nowrap">~${g[0].estYear}</span><div class="sub">estimated from ${g[0].basedOn}</div></td>` +
+          `<td>${conf ? `~${rangeHTML(conf.date, conf.end)}` : ''}</td><td></td>` +
+          `<td><ul class="dl-list">${dls.map((i) => `<li><span class="kind">${esc(KIND[i.kind])}</span><span class="nowrap">~${fmtDate(i.date)}</span>${redundantLabel(i) ? '' : `<span class="lbl"> \u00b7 ${esc(i.label)}</span>`}</li>`).join('')}</ul></td></tr>`;
       }
     }
     for (const ed of eds) {
       edRows += `<tr><td>${isURL(ed.url) ? `<a href="${esc(ed.url)}" target="_blank" rel="noopener">${esc(ed.year)}</a>` : esc(ed.year)}` +
         `${ed.label ? `<div class="sub">${esc(ed.label)}</div>` : ''}${ed.status === 'tentative' ? '<div class="sub">tentative</div>' : ''}</td>` +
-        `<td>${ed.start ? fmtRange(ed.start, ed.end) : ''}</td><td>${esc(ed.location || '')}</td>` +
+        `<td>${ed.start ? rangeHTML(ed.start, ed.end) : ''}</td><td>${esc(ed.location || '')}</td>` +
         `<td><ul class="dl-list">${(ed.deadlines || []).map((d) => deadlineLi(d, ed, c)).join('')}</ul></td></tr>`;
     }
     const facts = [
@@ -522,7 +531,7 @@
         ${c.notes.length ? `<ul class="notes">${c.notes.map((n) => `<li>${esc(n)}</li>`).join('')}</ul>` : '<p class="sub">No notes yet.</p>'}
         ${(c.unverified || []).length ? `<p class="warn">Not yet confirmed: ${c.unverified.map(esc).join('; ')}</p>` : ''}
         <h4 style="margin-top:14px">Editions and deadlines</h4>
-        ${edRows ? `<div style="overflow-x:auto"><table class="editions"><thead><tr><th>Year</th><th>Dates</th><th>Location</th><th>Deadlines (hover for your local time)</th></tr></thead><tbody>${edRows}</tbody></table></div>` : '<p class="sub">No dates recorded yet.</p>'}
+        ${edRows ? `<div class="editions-wrap"><table class="editions"><thead><tr><th>Year</th><th>Dates</th><th>Location</th><th>Deadlines (hover for your local time)</th></tr></thead><tbody>${edRows}</tbody></table></div>` : '<p class="sub">No dates recorded yet.</p>'}
       </div>
       <div>
         <h4>Facts</h4>
@@ -547,25 +556,37 @@
   }
 
   // ---------------------------------------------------------------- table view
+  // Columns are merged on narrower screens (see style.css), so the details row spans what is shown.
+  const COL_QUERIES = ['(max-width: 1359px)', '(max-width: 1023px)'].map((q) => window.matchMedia(q));
+  function visibleCols() {
+    return [...document.querySelectorAll('.conf-table > thead th')].filter((th) => getComputedStyle(th).display !== 'none').length || 10;
+  }
+  function syncColspan() {
+    const cols = visibleCols();
+    document.querySelectorAll('.conf-table > tbody > tr.detail-row > td').forEach((td) => { td.colSpan = cols; });
+  }
   function renderTable(list) {
     const rows = [];
+    const cols = visibleCols();
     for (const c of list) {
       const open = state.open.has(c.id);
       const dl = shownDeadline(c), cf = shownConf(c);
+      const tags = c.areas.map((a) => `<span class="tag">${esc(AREAS[a] || a)}</span>`).join('');
+      const loc = locationHTML(c, cf);
       rows.push(`<tr class="row${open ? ' open' : ''}" data-id="${esc(c.id)}">
-        <td class="name-cell"><button type="button" class="name-btn" aria-expanded="${open}"><span class="caret" aria-hidden="true">&#9654;</span><strong>${esc(c.name)}</strong>${typeBadge(c)}</button>
-          <div class="full">${esc(c.full_name)}</div>${c.name_local ? `<div class="local">${esc(c.name_local)}</div>` : ''}</td>
-        <td data-label="Tier">${tierBadge(c)}</td>
-        <td data-label="Run by">${orgCell(c)}</td>
-        <td class="areas-cell" data-label="Areas"><div class="tags">${c.areas.map((a) => `<span class="tag">${esc(AREAS[a] || a)}</span>`).join('')}</div></td>
-        <td data-label="CORE">${rankCell(c.rank.core, c.rank.core_source || state.meta.core_edition)}</td>
-        <td data-label="CCF">${rankCell(c.rank.ccf, state.meta.ccf_edition)}</td>
-        <td data-label="Proceedings">${procCell(c)}</td>
-        <td data-label="Deadline">${deadlineHTML(dl)}</td>
-        <td data-label="Conference">${confHTML(cf)}</td>
-        <td data-label="Location">${locationHTML(c, cf)}</td>
+        <td class="name-cell"><button type="button" class="name-btn" aria-expanded="${open}"><span class="caret" aria-hidden="true">&#9654;</span><span class="name-line"><strong>${esc(c.name)}</strong>${typeBadge(c)}<span class="alt alt-inline"> ${tierBadge(c)}</span></span></button>
+          <div class="full">${esc(c.full_name)}</div>${c.name_local ? `<div class="local">${esc(c.name_local)}</div>` : ''}<div class="alt alt-areas tags">${tags}</div></td>
+        <td class="c-tier" data-label="Tier">${tierBadge(c)}</td>
+        <td class="c-org" data-label="Run by">${orgCell(c)}</td>
+        <td class="c-areas areas-cell" data-label="Areas"><div class="tags">${tags}</div></td>
+        <td class="c-core" data-label="CORE">${rankCell(c.rank.core, c.rank.core_source || state.meta.core_edition)}${c.rank.ccf ? `<div class="alt alt-block sub" title="${esc(state.meta.ccf_edition || 'CCF')}">CCF <span class="rank">${esc(c.rank.ccf)}</span></div>` : ''}</td>
+        <td class="c-ccf" data-label="CCF">${rankCell(c.rank.ccf, state.meta.ccf_edition)}</td>
+        <td class="c-proc" data-label="Proceedings">${procCell(c)}</td>
+        <td class="c-dl" data-label="Deadline">${deadlineHTML(dl)}</td>
+        <td class="c-held" data-label="Conference">${confHTML(cf)}<div class="alt alt-block alt-loc">${loc}</div></td>
+        <td class="c-loc" data-label="Location">${loc}</td>
       </tr>`);
-      if (open) rows.push(`<tr class="detail-row" data-for="${esc(c.id)}"><td colspan="10">${detailsHTML(c)}</td></tr>`);
+      if (open) rows.push(`<tr class="detail-row" data-for="${esc(c.id)}"><td colspan="${cols}">${detailsHTML(c)}</td></tr>`);
     }
     $('#rows').innerHTML = rows.join('');
     $('#empty').hidden = list.length > 0;
@@ -990,6 +1011,7 @@
     bind();
     const setHeaderH = () => document.documentElement.style.setProperty('--header-h', `${$('.site-header').offsetHeight}px`);
     setHeaderH(); window.addEventListener('resize', setHeaderH);
+    COL_QUERIES.forEach((mq) => mq.addEventListener('change', syncColspan));
     render();
   }
   boot();
