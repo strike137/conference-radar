@@ -1,0 +1,63 @@
+id: compayl
+name: COMPAYL
+full_name: MICCAI Workshop on Computational Pathology and Multimodal Data
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: COMPAYL workshop organizers (Radboudumc and others, held with MICCAI)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://www.compayl.com/
+notes:
+- MICCAI workshop on computational pathology combined with other modalities (language, omics, radiology, spatial transcriptomics)
+- Successor of the COMPAY workshops (2018, 2019, 2021), renamed COMPAYL in 2024; held every year since 2024
+- 2026 run as COMPAYL++, a one-day event with a challenge (ASDP) and a tutorial (ESDIP) alongside the workshop
+- Proceedings in PMLR for 2024 (volume 254) and 2025 (volume 316); 2026 papers go to the MICCAI satellite events Springer LNCS volume
+- Papers up to 8 pages plus 2 pages of references, MICCAI format, submission via OpenReview
+- Organizers from Radboudumc, TUM, HKUST, A*STAR, NKI and Western University
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://nadykhalily.wixsite.com/compayl25
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://www.compayl.com/workshop
+  deadlines:
+  - kind: submission
+    date: 2026-07-06
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-07-31
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-16
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.compayl.com/
+- https://www.compayl.com/workshop
+- https://nadykhalily.wixsite.com/compayl25
+- https://nadykhalily.wixsite.com/compayl24
+- https://proceedings.mlr.press/v316/
+- https://proceedings.mlr.press/v254/
+- https://portal.core.edu.au/conf-ranks/?search=COMPAYL&by=all&source=ICORE2026
+unverified:
+- 2025 deadlines no longer on the official site
+- PMLR volume 316 front page names Marrakesh as the venue although COMPAYL 2025 was held in Daejeon
+- COMPAYL 2027 not yet announced as of 2026-11-14
+last_verified: 2026-11-14

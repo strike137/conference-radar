@@ -1,0 +1,65 @@
+id: wvaq
+name: WVAQ
+full_name: Workshop on Image/Video/Audio Quality Assessment in Computer Vision, VLM and Diffusion Model
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Applied scientists at Amazon (Yarong Feng, Joe Liu, Qipin Chen)
+organizer_country: [usa]
+proceedings: IEEE Xplore and CVF Open Access (WACV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [10, 12]
+  conference_months: [1, 3]
+links:
+  website: https://wacv2027-image-quality-workshop.github.io/
+notes:
+- Workshop co-located with WACV every year since 2022; the WACV 2027 edition is the 6th
+- Organized by applied scientists at Amazon
+- Accepted papers appear in the WACV Workshops proceedings (IEEE Xplore and CVF Open Access)
+- Single-blind, single-round review via OpenReview; up to 8 pages excluding references in WACV format
+- Topics include image, video and audio quality assessment and enhancement, and evaluating generative AI outputs
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-03-07
+  end: 2026-03-07
+  location: Tucson, USA
+  url: https://wacv2026-image-quality-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-12-15
+    time: "23:59"
+    tz: UTC
+  - kind: notification
+    date: 2026-01-01
+  - kind: camera_ready
+    date: 2026-01-10
+    time: "07:59"
+    tz: UTC
+- year: 2027
+  start: 2027-01-05
+  end: 2027-01-05
+  location: Orlando, USA
+  url: https://wacv2027-image-quality-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-10-17
+  - kind: notification
+    date: 2026-11-07
+  - kind: camera_ready
+    date: 2026-11-25
+sources:
+- https://wacv2027-image-quality-workshop.github.io/
+- https://wacv2026-image-quality-workshop.github.io/
+- https://openaccess.thecvf.com/WACV2026_workshops/WVAQ
+- https://wacv.thecvf.com/Conferences/2027/Workshops
+- https://wacv.thecvf.com/Conferences/2026
+- https://portal.core.edu.au/conf-ranks/?search=WVAQ&by=all&source=ICORE2026
+unverified:
+- WVAQ 2027 date taken from the WACV 2027 workshop list (Tuesday, full day); the workshop site still says TBD
+- Time zone of the WVAQ 2027 deadlines not stated
+last_verified: 2026-11-14

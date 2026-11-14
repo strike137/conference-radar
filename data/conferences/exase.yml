@@ -1,0 +1,51 @@
+id: exase
+name: ExASE
+full_name: International Workshop on Explainable Automated Software Engineering
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+organizer: Ex-ASE organizers (University of Cologne, Politecnico di Milano, University of Connecticut, University of Pittsburgh), co-located with ASE
+organizer_country: [europe, usa]
+proceedings: ASE 2025 workshop proceedings (ACM/IEEE Digital Library)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://exase.github.io/2025/
+notes:
+  - Also written Ex-ASE; subtitle "Exploring Theory, Adaptation, Needs, Challenges, and Ethics"
+  - Workshop on explainability in automated software engineering (testing, program repair, requirements, SE4AI and AI4SE, human-in-the-loop)
+  - 1st edition co-located with IEEE/ACM ASE 2025 in Seoul
+  - Full papers up to 8 pages, short and demo papers up to 4 pages including references, IEEE format, via EasyChair
+  - Single-blind review by at least two PC members
+  - The site states accepted papers are included in the ASE 2025 proceedings in the ACM/IEEE Digital Library
+  - Not in the ASE 2026 workshop list
+  - Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+  - year: 2025
+    start: 2025-11-16
+    end: 2025-11-20
+    location: Seoul, Korea (with ASE 2025)
+    url: https://exase.github.io/2025/
+    deadlines:
+      - kind: submission
+        date: 2025-08-26
+        tz: AoE
+        label: Extended from 2025-08-18
+      - kind: notification
+        date: 2025-09-26
+      - kind: camera_ready
+        date: 2025-10-05
+sources:
+  - https://exase.github.io/2025/
+  - https://conf.researchr.org/home/ase-2025/ex-ase-2025
+  - https://conf.researchr.org/track/ase-2025/ase-2025-workshops
+  - https://conf.researchr.org/track/ase-2026/ase-2026-workshops
+  - https://portal.core.edu.au/conf-ranks/?search=ExASE&by=all&source=ICORE2026
+unverified:
+  - Exact workshop day within ASE 2025 (the site gives only November 16 to 20, 2025)
+  - No 2026 edition found; frequency unknown
+last_verified: 2026-11-14

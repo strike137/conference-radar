@@ -1,0 +1,82 @@
+id: shapemi
+name: ShapeMI
+full_name: Workshop on Shape in Medical Imaging
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ShapeMI workshop organizers (MICCAI satellite workshop)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://shapemi.github.io/
+notes:
+- MICCAI satellite workshop on shape analysis, statistical shape modelling and geometric deep learning in medical imaging
+- Held in 2018 and 2020, then every year since 2023 (2026 was the 6th edition); successor of SAMI 2015 and SeSAMI 2016
+- Proceedings in Springer LNCS (2025 -> LNCS 16171); selected papers may be invited to the MELBA journal
+- Full papers 8 to 15 pages excluding references in LNCS style, single-blind review via OpenReview
+- In-person only; posters come with a short pitch video
+- Organizers from TU Munich, Kitware, University Hospital Essen, University of Utah and Harvard Medical School
+- Location follows MICCAI (Daejeon 2025, Strasbourg 2026)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://shapemi.github.io/shapemi2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-01
+    time: "23:59"
+    tz: PST
+    label: Extended from June 25
+  - kind: notification
+    date: 2025-07-31
+    time: "23:59"
+    tz: PST
+    label: Moved from July 16
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://shapemi.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    time: "23:59"
+    tz: PST
+    label: Extended from July 1
+  - kind: notification
+    date: 2026-08-14
+    time: "17:00"
+    tz: CEST
+    label: Moved from July 31
+  - kind: camera_ready
+    date: 2026-08-24
+    time: "05:30"
+    tz: CEST
+    label: Extended from August 6 and August 20
+sources:
+- https://shapemi.github.io/
+- https://shapemi.github.io/dates/
+- https://shapemi.github.io/submission/
+- https://shapemi.github.io/previousevents/
+- https://shapemi.github.io/shapemi2025/
+- https://shapemi.github.io/shapemi2025/dates.html
+- https://link.springer.com/book/10.1007/978-3-032-06774-6
+- https://conferences.miccai.org/2025/en/workshops.asp
+- https://conferences.miccai.org/2026/en/workshops.asp
+- https://portal.core.edu.au/conf-ranks/?search=ShapeMI&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- ShapeMI 2025 date is September 27 on the workshop site and the MICCAI 2025 list, but the Springer volume title says September 23
+- ShapeMI 2026 submission page says LNCS is planned but an alternative proceedings route might be explored; 2026 volume not yet seen
+- ShapeMI 2025 camera-ready deadline unclear on the dates page
+- ShapeMI 2027 not announced as of 2026-11-14

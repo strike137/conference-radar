@@ -1,0 +1,82 @@
+id: kiit
+name: KIIT Conference
+full_name: Korean Information Technology Society Summer and Fall Conferences
+name_local: 한국정보기술학회 하계·추계종합학술대회
+type: conference
+tier: domestic
+areas: [general, ai]
+region: korea
+language: korean
+frequency: multiple-per-year
+organizer: KIIT (Korean Institute of Information Technology, 한국정보기술학회)
+organizer_country: [korea]
+proceedings: KIIT conference proceedings (논문집, single PDF posted on the conference site; domestic)
+archival: false
+fee: 150,000 KRW offline presenter (general or graduate), 130,000 KRW undergraduate contest (Fall 2026)
+typical:
+  deadline_months: [5, 10]
+  conference_months: [6, 11]
+links:
+  website: https://ki-it.or.kr/
+notes:
+  - Domestic conferences of KIIT, twice a year (summer in June, fall in November), each with an undergraduate paper contest
+  - Covers all ICT fields plus capstone design projects
+  - Both 2026 conferences held at Maison Glad Jeju
+  - Oral, poster and online (video plus Zoom Q&A) presentations; standard or summary paper format
+  - Outstanding papers are awarded and recommended to the KIIT journal (JKIIT) with the review fee waived
+  - Proceedings posted as one combined PDF after the conference
+  - KIIT also runs international conferences (SMART, ADINTECH)
+  - Not listed in CORE ICORE2026
+editions:
+  - year: 2026
+    label: Summer 2026
+    start: 2026-06-04
+    end: 2026-06-06
+    location: Jeju, Korea (Maison Glad Jeju)
+    url: https://ki-it.or.kr/conference/summer26
+    deadlines:
+      - kind: submission
+        date: 2026-05-15
+        time: "23:59"
+        tz: KST
+        label: Extended deadline (midnight)
+      - kind: notification
+        date: 2026-05-18
+        label: Sent in order from this date
+  - year: 2026
+    label: Fall 2026
+    start: 2026-11-26
+    end: 2026-11-28
+    location: Jeju, Korea (Maison Glad Jeju)
+    url: https://ki-it.or.kr/conference/fallconf26
+    deadlines:
+      - kind: submission
+        date: 2026-10-23
+        label: Original deadline
+      - kind: submission
+        date: 2026-10-30
+        time: "23:59"
+        tz: KST
+        label: Extended deadline (midnight)
+      - kind: notification
+        date: 2026-11-02
+        label: Sent in order from this date
+      - kind: other
+        date: 2026-11-10
+        label: Registration payment
+sources:
+  - https://ki-it.or.kr/
+  - https://ki-it.or.kr/conference/summer26
+  - https://ki-it.or.kr/conference/summer26/notice
+  - https://ki-it.or.kr/conference/summer26/notice/article/1041
+  - https://ki-it.or.kr/conference/summer26/notice/article/1077
+  - https://ki-it.or.kr/conference/fallconf26
+  - https://ki-it.or.kr/conference/fallconf26/notice
+  - https://ki-it.or.kr/conference/fallconf26/notice/article/1174
+  - https://ki-it.or.kr/conference/fallconf26/notice/article/1239
+  - https://portal.core.edu.au/conf-ranks/?search=KIIT&by=all&source=ICORE2026
+unverified:
+  - Original Summer 2026 paper deadline (only the extension to 2026-05-15 was checked)
+  - Whether the proceedings are indexed in a Korean database (DBpia etc.); web search budget was exhausted
+  - Venues of editions before 2026 not checked
+last_verified: 2026-11-14

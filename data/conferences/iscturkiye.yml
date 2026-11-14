@@ -1,0 +1,55 @@
+id: iscturkiye
+name: ISCTurkiye
+full_name: International Conference on Information Security and Cryptology (ISC Türkiye)
+type: conference
+tier: minor
+areas: [security, crypto]
+region: middle-east
+frequency: annual
+organizer: Bilgi Güvenliği Derneği (Information Security Association, BGD) with Turkish universities
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://iscturkiye.com/
+notes:
+- Organized by the Turkish Information Security Association (BGD) with METU, Gazi, ITU, TOBB ETU, Ankara University and the National Intelligence Academy; IEEE Turkey Section supports it
+- Held since 2007 (2026 is the 19th edition); recent editions in Ankara, hosted by the ICT Authority (BTK)
+- Peer-reviewed papers of up to 6 pages in the IEEE template, submitted via Microsoft CMT; accepted and presented papers go to IEEE Xplore
+- Large event mixing academic papers with government and industry talks (over 2,000 participants in 2026); attendance is free
+- 'Paper fee: 4,500 TL, 3,250 TL for IEEE members (2026)'
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-22
+  end: 2025-10-23
+  location: Ankara, Türkiye
+  url: https://iscturkiye.com/en/previous-conferences/
+- year: 2026
+  start: 2026-10-20
+  end: 2026-10-21
+  location: Ankara, Türkiye (BTK Conference Hall)
+  url: https://iscturkiye.com/en/
+  deadlines:
+  - kind: submission
+    date: 2026-08-22
+    label: Extended
+  - kind: notification
+    date: 2026-09-11
+  - kind: camera_ready
+    date: 2026-09-18
+sources:
+- https://iscturkiye.com/
+- https://iscturkiye.com/en/papers/
+- https://iscturkiye.com/en/about-us-2026/
+- https://iscturkiye.com/en/previous-conferences/
+- https://www.proceedings.com/content/082/082971webtoc.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ISC&by=all&source=ICORE2026
+unverified:
+- Paper language (English or Turkish) not stated on the CFP
+- 2025 deadlines not recorded
+- ISC Türkiye 2027 not yet announced
+last_verified: 2026-11-14

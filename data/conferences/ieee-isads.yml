@@ -1,0 +1,53 @@
+id: ieee-isads
+name: IEEE ISADS
+full_name: IEEE International Symposium on Autonomous Decentralized Systems
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IEEE, as part of the IEEE CISOSE congress (ISADS Steering Committee)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://conf.researchr.org/track/cisose-2025/cisose-2025-ieee-isads-2025
+notes:
+- Autonomous decentralized systems for large, complex infrastructures (telecom, smart cities, robotics, power, transportation, industry); running since 1993
+- Held every two years in recent cycles (2023 Mexico City, 2025 Tucson); 2025 edition was the 16th per IEEE Xplore
+- 2025 edition co-located with the IEEE CISOSE congress (with SOSE, AITest, BigDataService, JCC, IMC, DAPPS)
+- Proceedings in IEEE Xplore
+- 'Paper length (2025): 6 to 8 pages IEEE double-column; workshop papers 5 to 6 pages'
+- CORE C (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-07-21
+  end: 2025-07-24
+  location: Tucson, Arizona, USA
+  url: https://conf.researchr.org/track/cisose-2025/cisose-2025-ieee-isads-2025
+  deadlines:
+  - kind: submission
+    date: 2025-04-10
+    tz: AoE
+  - kind: notification
+    date: 2025-05-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-18
+    tz: AoE
+sources:
+- https://conf.researchr.org/track/cisose-2025/cisose-2025-ieee-isads-2025
+- https://ieee-cisose-congress.org/
+- https://api.crossref.org/works/10.1109/isads66912.2025
+- https://api.crossref.org/works/10.1109/isads56919.2023
+- https://portal.core.edu.au/conf-ranks/?search=ISADS&by=all&source=ICORE2026
+unverified:
+- Next edition not announced; ISADS is not among the co-located conferences listed for IEEE CISOSE 2027 (checked 2026-11-14)
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-14

@@ -1,0 +1,66 @@
+id: ml-cds
+name: ML-CDS
+full_name: International Workshop on Multimodal Learning for Clinical Decision Support
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: ML-CDS workshop organizers (held with MICCAI)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://sites.google.com/view/ml-cds-miccai-2026/
+notes:
+- MICCAI workshop on multimodal and multiscale learning (imaging, text, omics) for clinical decision support; 14th ML-CDS in 2026
+- Grew out of the MCBR-CDS workshops (2009 to 2012); held with MICCAI most years, no edition in 2023
+- Proceedings in Springer LNCS (own volume in 2025; MICCAI 2026 merged satellite events volume in 2026)
+- Papers up to 12 pages in LNCS format including references; reviewed by at least 2 program committee members and one organizer; submission via OpenReview
+- Organizers from Stanford University, Emory University, Tel Aviv University and UPMC
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://sites.google.com/view/ml-cdsmiccai2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-07
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://sites.google.com/view/ml-cds-miccai-2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-25
+    time: "00:00"
+    tz: UTC
+  - kind: submission
+    date: 2026-06-30
+    time: "00:00"
+    tz: UTC
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-25
+sources:
+- https://sites.google.com/view/ml-cds-miccai-2026/
+- https://sites.google.com/view/ml-cds-miccai-2026/previous-meetings
+- https://sites.google.com/view/ml-cds-miccai-2026/organization
+- https://sites.google.com/view/ml-cdsmiccai2025/
+- https://link.springer.com/conference/ml-cds
+- https://portal.core.edu.au/conf-ranks/?search=ML-CDS&by=all&source=ICORE2026
+unverified:
+- LNCS volume number for ML-CDS 2025 not confirmed
+- 2026 deadlines stated as 12:00AM UTC-0; recorded as 00:00 UTC on the given date
+- ML-CDS 2027 not yet announced as of 2026-11-14
+last_verified: 2026-11-14

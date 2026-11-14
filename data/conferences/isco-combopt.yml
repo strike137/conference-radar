@@ -1,0 +1,76 @@
+id: isco-combopt
+name: ISCO
+full_name: International Symposium on Combinatorial Optimization
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: biennial
+organizer: ISCO Steering Committee, with a local organizing team each edition (Karabuk University and partners in 2026)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+fee: 450 EUR without accommodation, 400 EUR for students (2026, until 18 March); hotel packages 700 to 950 EUR
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://isco2026.com.tr/
+notes:
+- Biennial symposium on combinatorial optimization, held every even year since 2010 (Hammamet 2010)
+- "Two submission types: regular papers (up to 12 pages) published in Springer LNCS before the conference, and
+  extended abstracts (up to 4 pages) posted on the website only"
+- Post-conference special issue of Discrete Applied Mathematics open to extended versions of ISCO papers
+- Each submission reviewed by three anonymous reviewers; an accepted paper needs a paid registration and an in-person
+  talk to appear in LNCS
+- Mostly held around the Mediterranean (Vietri 2016, Marrakesh 2018, Tenerife 2024, Kusadasi 2026); 2020 and 2022
+  were online
+- 2026 edition preceded by a two-day spring school for PhD students
+- Algorithms and optimization theory, close to operations research; ranked C in ICORE2026
+- 2026 proceedings are LNCS volume 16613
+editions:
+- year: 2024
+  label: 8th ISCO
+  start: 2024-05-22
+  end: 2024-05-24
+  location: Tenerife, Spain
+  url: https://eventos.ull.es/111018/detail/isco-2024-tenerife-22-24-may-2024.html
+- year: 2026
+  label: 9th ISCO
+  start: 2026-05-06
+  end: 2026-05-08
+  location: Kusadasi, Turkey
+  url: https://isco2026.com.tr/
+  deadlines:
+  - kind: submission
+    date: 2026-01-15
+    time: "23:59"
+    tz: AoE
+    label: Regular papers (extended from 2025-12-30)
+  - kind: submission
+    date: 2026-02-15
+    tz: AoE
+    label: Extended abstracts (extended from 2026-01-30)
+  - kind: notification
+    date: 2026-02-22
+    label: Extended from 2026-02-15
+  - kind: other
+    date: 2026-03-18
+    label: Early registration (extended from 2026-03-01)
+  - kind: other
+    date: 2026-04-15
+    label: Late registration, required for inclusion in the program (extended from 2026-04-01)
+sources:
+- https://isco2026.com.tr/
+- https://link.springer.com/book/9783032345189
+- https://link.springer.com/conference/isco
+- https://www.sciencedirect.com/special-issue/334293/combinatorial-optimization-isco-2026
+- https://portal.core.edu.au/conf-ranks/?search=ISCO&by=all&source=ICORE2026
+unverified:
+- ISCO 2028 not announced as of 2026-11-14
+- Acceptance rate not published
+- Not checked against the CCF 2026 list directly (ccf.org.cn not checked)
+last_verified: 2026-11-14

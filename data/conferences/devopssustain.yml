@@ -1,0 +1,55 @@
+id: devopssustain
+name: DevOpsSustain
+full_name: International Workshop on DevOps for Sustainability
+type: workshop
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: DevOpsSustain workshop organizers (Polytechnique Montreal, University of L'Aquila, University of Guelph, Munich University of Applied Sciences HM); co-located with ACM FSE
+organizer_country: [canada, europe]
+proceedings: ACM DL (FSE Companion Proceedings)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://devopssustain.github.io/ws2026/
+notes:
+  - Half-day workshop on energy efficiency and sustainability in DevOps, CI/CD, testing, deployment and operations
+  - Co-located with ACM FSE; first edition at FSE 2025 in Trondheim, second at FSE 2026 in Montreal
+  - Long papers (up to 10 pages) and short papers (up to 4 pages) appear in the FSE Companion Proceedings in the ACM DL
+  - Extended abstracts (up to 2 pages, demos and industry talks) are presentation only and not in the ACM DL
+  - Double-anonymous review via HotCRP; in-person presentation required for publication
+  - Linked special issue on sustainable software development and operations in the Automated Software Engineering journal
+  - Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+  - year: 2025
+    start: 2025-06-27
+    end: 2025-06-27
+    location: Trondheim, Norway (co-located with ACM FSE 2025)
+    url: https://devopssustain.github.io/ws2025/
+    deadlines:
+      - kind: submission
+        date: 2025-02-25
+  - year: 2026
+    start: 2026-07-05
+    end: 2026-07-05
+    location: Montreal, Canada (co-located with ACM FSE 2026)
+    url: https://devopssustain.github.io/ws2026/
+    deadlines:
+      - kind: submission
+        date: 2026-02-12
+      - kind: notification
+        date: 2026-03-19
+      - kind: camera_ready
+        date: 2026-04-02
+sources:
+  - https://devopssustain.github.io/ws2026/
+  - https://devopssustain.github.io/ws2025/
+  - https://conf.researchr.org/home/fse-2026/devopssustain-2026
+  - https://portal.core.edu.au/conf-ranks/?search=DevOpsSustain&by=all&source=ICORE2026
+unverified:
+  - 2027 edition not announced
+last_verified: 2026-11-14

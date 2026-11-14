@@ -1,0 +1,60 @@
+id: antem
+name: ANTEM
+full_name: IEEE International Symposium on Antenna Technology and Applied Electromagnetics
+type: conference
+tier: minor
+areas: [communications]
+region: north-america
+language: english
+frequency: biennial
+organizer: IEEE Canada (hosted by a local section; 2027 IEEE Thompson Okanagan Section)
+organizer_country: [canada]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7, 8]
+links:
+  website: http://www.okanagan.ieee.ca/tok-workshops/antem-2027/
+notes:
+- Signature symposium of IEEE Canada, rotating among Canadian cities (Victoria 2014, Montreal 2016, Waterloo 2018,
+  Winnipeg 2021 virtual, St. John's 2025, Kelowna 2027)
+- Usually every two years, though there was no edition between 2021 and 2025; 2025 was the 20th edition
+- Covers antennas, propagation, computational electromagnetics, microwave to THz devices, radar and wireless systems
+- Proceedings in IEEE Xplore
+- Abstract submission precedes the full paper deadline; student paper and WIE best paper competitions
+- Antenna and electromagnetics venue outside the usual CS rankings; not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-07-20
+  end: 2025-07-23
+  location: St. John's, Canada
+  url: https://antem2025.ieee.ca/
+- year: 2027
+  start: 2027-06-13
+  end: 2027-06-16
+  location: Kelowna, Canada (UBC Okanagan)
+  url: http://www.okanagan.ieee.ca/tok-workshops/antem-2027/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-05
+  - kind: submission
+    date: 2027-03-16
+    label: Full papers
+  - kind: notification
+    date: 2027-03-02
+    label: As stated on the host section page (before the full paper date)
+  - kind: camera_ready
+    date: 2027-04-06
+sources:
+- http://www.okanagan.ieee.ca/tok-workshops/antem-2027/
+- https://www.ieee.ca/en/conferences/
+- https://doi.org/10.1109/antem64578.2025.11114307
+- https://portal.core.edu.au/conf-ranks/?search=ANTEM&by=all&source=ICORE2026
+unverified:
+- The IEEE Canada conferences page lists the next ANTEM as 2028 in British Columbia, while the host section page gives
+  June 2027 in Kelowna
+- The 2027 notification date (March 2) is earlier than the full paper date (March 16) on the host section page
+- ANTEM 2025 deadlines not checked; the 2025 site (antem2025.ieee.ca) could not be loaded
+- Deadline times and time zone not stated
+last_verified: 2026-11-14

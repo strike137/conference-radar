@@ -1,0 +1,55 @@
+id: tcv-cvpr
+name: TCV
+full_name: Workshop on Fair, Data-Efficient, and Trusted Computer Vision
+type: workshop
+tier: minor
+areas: [vision, ai, security]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers from University at Buffalo, Adobe Research, United Imaging Intelligence, IIT Jodhpur, MERL and IBM Research; co-located with CVPR
+organizer_country: [usa, india]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://fadetrcv.github.io/2025
+notes:
+- CVPR workshop on fairness, bias, data-efficient learning, explainability, adversarial robustness and privacy in vision systems
+- Held with CVPR every year from 2020 to 2025; 2025 was the 6th edition
+- Accepted technical papers are published in the CVPR workshop proceedings (12 papers on CVF Open Access in 2025)
+- Papers follow the CVPR author guidelines, submitted through Microsoft CMT
+- No edition at CVPR 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-06-11
+  end: 2025-06-11
+  location: Nashville, Tennessee, USA (with CVPR 2025)
+  url: https://fadetrcv.github.io/2025
+  deadlines:
+  - kind: submission
+    date: 2025-03-15
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2025-04-01
+    time: "23:59"
+    tz: PDT
+  - kind: camera_ready
+    date: 2025-04-07
+    time: "23:59"
+    tz: PDT
+sources:
+- https://fadetrcv.github.io/2025
+- https://fadetrcv.github.io/2024
+- https://fadetrcv.github.io/
+- https://openaccess.thecvf.com/CVPR2025_workshops/TCV
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=TCV&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- No TCV workshop appears in the CVPR 2026 workshop proceedings; whether the series continues in 2027 is unknown
+- Deadlines are stated as Pacific Time; PDT assumed for the March 15 deadline

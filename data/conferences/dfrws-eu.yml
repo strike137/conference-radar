@@ -1,0 +1,49 @@
+id: dfrws-eu
+name: DFRWS EU
+full_name: DFRWS EU Digital Forensics Research Conference Europe (DFC Europe from 2027)
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: DFRWS (Digital Forensic Research Workshop, non-profit)
+organizer_country: [usa]
+proceedings: 'Forensic Science International: Digital Investigation (Elsevier)'
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [10]
+  conference_months: [3, 4]
+links:
+  website: https://dfrws.org/conferences/dfceurope2027/
+notes:
+- European edition of DFRWS, a well-known research community for digital forensics (sister events in the USA and Asia-Pacific)
+- Renamed DFC Europe (Digital Forensics Conference Europe) from the 2027 edition
+- 'Full research papers are peer reviewed and appear in a special issue of Forensic Science International: Digital Investigation (Elsevier)'
+- Rotates within Europe (Bonn 2023, Zaragoza 2024, Brno 2025, Linköping 2026, Edinburgh 2027)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-03-24
+  end: 2026-03-27
+  location: Linköping, Sweden
+  url: https://dfrws.org/eu-2026-program/
+- year: 2027
+  start: 2027-03-30
+  end: 2027-04-02
+  location: Edinburgh, UK
+  url: https://dfrws.org/conferences/dfceurope2027/
+sources:
+- https://dfrws.org/conferences/dfceurope2027/
+- https://dfrws.org/call-for-papers-dfc-europe-2027/
+- https://dfrws.org/eu-2026-program/
+- https://github.com/ccfddl/ccf-deadlines/blob/main/conference/SC/dfrws.yml
+- https://portal.core.edu.au/conf-ranks/?search=DFRWS&by=all&source=ICORE2026
+unverified:
+- Official site blocks direct access (HTTP 403); conference dates taken from search snippets of the official pages and matched against ccf-deadlines
+- 2027 paper deadlines not confirmed from the official CFP (ccf-deadlines lists an abstract deadline in early October 2026, later extended)
+- 'CCF C: the 2026 CCF list names ''DFRWS'' (dblp conf/dfrws); ccf-deadlines applies it to DFRWS EU'
+- Registration fees not confirmed
+last_verified: 2026-11-14

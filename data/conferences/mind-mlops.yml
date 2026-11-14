@@ -1,0 +1,66 @@
+id: mind-mlops
+name: MIND
+full_name: International Workshop on Next-Gen Middleware for MLOps in Distributed Systems
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: National Edge AI Hub, School of Computing, Newcastle University (co-located with ACM Middleware)
+organizer_country: [europe]
+proceedings: ACM DL (Middleware proceedings)
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://mindmlops.github.io/
+notes:
+- Workshop on middleware for MLOps across cloud, fog and edge (orchestration, deployment and monitoring of ML pipelines, federated learning, fault tolerance), co-located with ACM Middleware
+- First held on 2025-12-15 at Middleware 2025 in Nashville (hybrid); 2nd edition at Middleware 2026 in Tarragona
+- Organized by the UK National Edge AI Hub at Newcastle University
+- Full papers 6 pages, short papers 4 pages, posters 2 pages, ACM SIGCONF format
+- At least one author must present in person; papers appear in the ACM Digital Library
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-15
+  end: 2025-12-15
+  location: Nashville, TN, USA (ACM Middleware 2025, hybrid)
+  url: https://mindmlops.github.io/MIND2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-10-12
+    label: Extended from 2025-09-24
+  - kind: notification
+    date: 2025-10-30
+  - kind: camera_ready
+    date: 2025-11-09
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-18
+  location: Tarragona, Spain (ACM Middleware 2026)
+  url: https://mindmlops.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-10-01
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-10-12
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-16
+    tz: AoE
+sources:
+- https://mindmlops.github.io/
+- https://mindmlops.github.io/MIND2025.html
+- https://middleware-conf.github.io/2026/workshops/
+- https://middleware-conf.github.io/2025/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=MIND&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within Middleware 2026 not stated yet; dates shown are the host conference dates
+- Original 2026 submission deadline (before extension) not shown on the site
+- Acceptance rate and fee not published
+last_verified: 2026-11-14

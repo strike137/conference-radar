@@ -1,0 +1,60 @@
+id: cdmri
+name: CDMRI
+full_name: International Workshop on Computational Diffusion MRI
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: CDMRI workshop organizers (MICCAI satellite workshop, run from UCL)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: http://cmic.cs.ucl.ac.uk/cdmri/
+notes:
+- MICCAI satellite workshop on diffusion MRI acquisition, reconstruction, microstructure modelling, tractography and connectomics, with growing AI content
+- Long-running series; 2025 was the 16th edition
+- 2025 proceedings in Springer LNCS 16205; earlier editions appeared in the Springer Mathematics and Visualization series
+- Double-blind review via OpenReview; 8 pages recommended, 12 pages maximum including references, LNCS style
+- Top-rated papers get oral slots; organizers in 2026 from UCL, Tianjin University, NYU Langone, Harvard Medical School and University of Sydney
+- Location follows MICCAI (Daejeon 2025, Strasbourg 2026)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  deadlines:
+  - kind: submission
+    date: 2025-06-25
+    label: Extended deadline
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: http://cmic.cs.ucl.ac.uk/cdmri/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    label: Extended deadline
+  - kind: notification
+    date: 2026-08-07
+sources:
+- http://cmic.cs.ucl.ac.uk/cdmri/
+- http://cmic.cs.ucl.ac.uk/cdmri/submission.html
+- http://cmic.cs.ucl.ac.uk/cdmri/organisers.html
+- http://cmic.cs.ucl.ac.uk/cdmri/programme.html
+- https://link.springer.com/book/10.1007/978-3-032-12837-9
+- https://conferences.miccai.org/2025/en/workshops.asp
+- https://conferences.miccai.org/2026/en/workshops.asp
+- https://portal.core.edu.au/conf-ranks/?search=CDMRI&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- The 2026 submission page says papers go to the Springer Mathematics and Visualization series, but the 2025 volume appeared in LNCS; 2026 volume not yet seen
+- CDMRI 2026 camera-ready deadline and original (pre-extension) submission deadline not given
+- CDMRI 2027 not announced as of 2026-11-14

@@ -1,0 +1,48 @@
+id: mlcs
+name: MLCS
+full_name: Workshop on Machine Learning for CyberSecurity
+type: workshop
+tier: minor
+areas: [security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: MLCS organizers (University of Lisbon LASIGE, University of Bari, University of Genoa); co-located workshop of ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (ECML PKDD post-workshop proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://mlcs.lasige.di.fc.ul.pt/
+notes:
+- Half-day workshop on machine learning for security (adversarial learning, intrusion detection, LLMs in cybersecurity, threat detection)
+- Co-located with ECML PKDD every year since 2019 (Vilnius 2024, Porto 2025)
+- Regular papers (12 to 16 pages) and short research statements (up to 6 pages) in Springer LNCS format, via Microsoft CMT
+- Regular papers go into the ECML PKDD post-workshop Springer proceedings; at least one author must register and present in person
+- Not held at ECML PKDD 2026 (not in the 2026 workshop list)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-15
+  end: 2025-09-15
+  location: Porto, Portugal (ECML PKDD 2025)
+  url: https://mlcs.lasige.di.fc.ul.pt/
+  deadlines:
+  - kind: submission
+    date: 2025-06-23
+    label: Extended from 2025-06-14
+  - kind: notification
+    date: 2025-07-14
+  - kind: camera_ready
+    date: 2025-07-25
+sources:
+- https://mlcs.lasige.di.fc.ul.pt/
+- https://mlcs.lasige.di.fc.ul.pt/2024/
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://portal.core.edu.au/conf-ranks/?search=MLCS&by=all&source=ICORE2026
+unverified:
+- No 2026 edition; whether MLCS returns in 2027 is not announced
+- Official site describes the post-proceedings as an LNCS volume; the 2025 ECML PKDD workshop proceedings series (CCIS) not checked on Springer
+last_verified: 2026-11-14

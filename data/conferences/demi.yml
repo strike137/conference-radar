@@ -1,0 +1,62 @@
+id: demi
+name: DEMI
+full_name: MICCAI Workshop on Data Engineering in Medical Imaging
+type: workshop
+tier: minor
+areas: [vision, ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: DEMI workshop organizers (held with MICCAI)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://demi-workshop.github.io/
+notes:
+- Satellite workshop of MICCAI on data engineering for medical imaging (data curation, noisy labels, synthetic data, distributed data), 4th edition in 2026
+- Moves with MICCAI (Daejeon 2025, Strasbourg 2026)
+- Accepted papers published in the joint MICCAI satellite events proceedings in Springer LNCS
+- Up to 8 pages plus 2 pages of references in LNCS format, double-blind review; submission via OpenReview
+- Organizers from the University of Aberdeen, West Virginia University, Oxford, UCL, Liverpool and others
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://demi-workshop.github.io/demi-workshop2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-06-28
+    label: Papers (extended from 2025-06-20)
+  - kind: notification
+    date: 2025-07-19
+  - kind: camera_ready
+    date: 2025-08-06
+- year: 2026
+  start: 2026-10-01
+  end: 2026-10-01
+  location: Strasbourg, France
+  url: https://demi-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-02
+    label: Papers (extended from 2026-06-18)
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-13
+sources:
+- https://demi-workshop.github.io/
+- https://demi-workshop.github.io/demi-workshop2025.github.io/
+- https://conferences.miccai.org/2026/en/workshops.asp
+- https://conferences.miccai.org/2025/en/workshops.asp
+- https://portal.core.edu.au/conf-ranks/?search=DEMI&by=all&source=ICORE2026
+unverified:
+- DEMI 2027 dates and location not yet announced as of 2026-11-14
+- Acceptance rate not published
+last_verified: 2026-11-14

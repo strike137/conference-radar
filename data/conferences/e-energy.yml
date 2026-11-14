@@ -1,0 +1,81 @@
+id: e-energy
+name: ACM e-Energy
+full_name: ACM International Conference on Future and Sustainable Energy Systems
+type: conference
+tier: major
+areas: [systems, ai, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: ACM SIGEnergy
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [9, 1]
+  conference_months: [6]
+links:
+  website: https://energy.acm.org/conferences/eenergy/2026/
+notes:
+- Flagship conference of ACM SIGEnergy on computing and networking for energy systems (smart grids, energy-efficient computing, ML for energy, EV charging)
+- Two submission cycles per edition (fall and winter deadlines on separate HotCRP sites), registration one week before submission
+- Proceedings in the ACM Digital Library; co-located workshops such as ACM EnergySP publish in the same proceedings
+- Recent editions in Rotterdam 2025 and Banff 2026; location rotates worldwide
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  location: Banff, Canada
+  url: https://energy.acm.org/conferences/eenergy/2026/
+  deadlines:
+  - kind: abstract
+    date: 2025-09-12
+    time: "07:59"
+    tz: EDT
+    label: Fall cycle registration
+  - kind: submission
+    date: 2025-09-19
+    time: "07:59"
+    tz: EDT
+    label: Fall cycle
+  - kind: abstract
+    date: 2026-01-23
+    time: "06:59"
+    tz: EST
+    label: Winter cycle registration
+  - kind: submission
+    date: 2026-01-30
+    time: "06:59"
+    tz: EST
+    label: Winter cycle
+- year: 2027
+  url: https://eenergy27fall.hotcrp.com/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-12
+    time: "07:59"
+    tz: EDT
+    label: Fall cycle registration
+  - kind: submission
+    date: 2026-09-19
+    time: "07:59"
+    tz: EDT
+    label: Fall cycle
+  - kind: other
+    date: 2026-11-20
+    time: "00:00"
+    tz: EST
+    label: Fall cycle resubmission
+sources:
+- https://eenergy26fall.hotcrp.com/deadlines
+- https://eenergy26winter.hotcrp.com/deadlines
+- https://eenergy27fall.hotcrp.com/deadlines
+- https://eenergy27winter.hotcrp.com/
+- https://energysp.github.io/
+- https://energysp.github.io/past25.html
+- https://portal.core.edu.au/conf-ranks/?search=e-Energy&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- The official site energy.acm.org blocks automated access, so the 2026 conference dates, notification dates and the 2027 location could not be checked
+- The 2026 HotCRP sites call 2026 the 17th edition and the 2027 sites also say 17th; numbering not confirmed
+- ACM e-Energy 2027 winter cycle deadlines not yet posted
+- Acceptance rate not checked

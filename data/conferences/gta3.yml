@@ -1,0 +1,68 @@
+id: gta3
+name: GTA3
+full_name: Workshop on Graph Techniques for Adversarial Activity Analytics
+type: workshop
+tier: minor
+areas: [security, ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: HRL Laboratories (Center for Computational Network Intelligence), with UIUC, UCLA, PNNL and other co-chairs
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8, 10]
+  conference_months: [10, 11, 12]
+links:
+  website: https://gta3.hrl.com/
+notes:
+- Workshop on graph analytics and graph machine learning for adversarial activities (cybersecurity, illicit finance,
+  disinformation, attacks on graph models); 2026 is the 10th edition
+- Run since 2018 by HRL Laboratories; the host conference changes (mostly IEEE BigData, CIKM 2024 in Boise, IEEE ICDM
+  2025 in Washington DC, back at IEEE BigData 2026 in Phoenix)
+- Papers in the host's workshop proceedings (IEEE BigData workshop proceedings for 2026, ICDM workshop proceedings for 2025)
+- Papers 6 to 10 pages in two-column IEEE format; single-blind review for 2026 (double-blind in 2025)
+- Half-day workshop with keynotes and remote access over Zoom
+- Not ranked by CORE (not in ICORE2026) or CCF
+editions:
+- year: 2025
+  label: 9th GTA3, at IEEE ICDM 2025
+  start: 2025-11-12
+  end: 2025-11-12
+  location: Washington DC, USA
+  url: https://ccni.hrl.com/workshop/archive/111225
+  deadlines:
+  - kind: submission
+    date: 2025-08-29
+  - kind: notification
+    date: 2025-09-19
+  - kind: camera_ready
+    date: 2025-10-05
+- year: 2026
+  label: 10th GTA3, at IEEE BigData 2026
+  start: 2026-12-14
+  end: 2026-12-14
+  location: Phoenix, Arizona, USA
+  url: https://gta3.hrl.com/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-10-15
+  - kind: notification
+    date: 2026-11-06
+  - kind: camera_ready
+    date: 2026-11-14
+sources:
+- https://gta3.hrl.com/
+- https://ccni.hrl.com/workshop/archive
+- https://ccni.hrl.com/workshop/archive/111225
+- https://ccni.hrl.com/workshop/archive/102524
+- https://bigdataieee.org/BigData2026/calls/workshops/
+- https://bigdataieee.org/BigData2026/program/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=GTA3&by=all&source=ICORE2026
+unverified:
+- Workshop date for 2026 is marked tentative on the official page
+- Whether the CIKM 2024 edition papers were published in a formal series
+- Acceptance rate not published
+last_verified: 2026-11-14
