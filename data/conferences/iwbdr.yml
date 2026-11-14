@@ -1,0 +1,69 @@
+id: iwbdr
+name: IWBDR
+full_name: International Workshop on Big Data Reduction
+type: workshop
+tier: minor
+areas: [data, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Steering committee from Argonne National Laboratory and Oregon State University, co-located with IEEE BigData
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [12]
+links:
+  website: https://mercury-hpg.github.io/IWBDR-6/
+notes:
+- Workshop on data reduction for HPC, cloud, edge and IoT (lossy and lossless compression, error-bounded methods,
+  progressive reduction, hardware co-design); 2026 is the 6th edition
+- Held with IEEE BigData in 2020 to 2023 and 2025 (no 2024 edition)
+- Camera-ready papers follow the IEEE Xplore format and go into the IEEE BigData workshop proceedings
+- Full papers up to 10 pages, short papers up to 6 pages (including references), single-blind, at least three reviews
+- Hybrid workshop with one invited keynote from national labs, universities or industry
+- Not ranked by CORE (not in ICORE2026) or CCF
+editions:
+- year: 2025
+  label: IWBDR-5
+  start: 2025-12-08
+  end: 2025-12-08
+  location: Macau SAR, China
+  url: https://apecs-lab.github.io/iwbdr25/
+  deadlines:
+  - kind: submission
+    date: 2025-11-07
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-11-14
+  - kind: camera_ready
+    date: 2025-11-23
+- year: 2026
+  label: IWBDR-6
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Phoenix, Arizona, USA (hybrid)
+  url: https://mercury-hpg.github.io/IWBDR-6/
+  deadlines:
+  - kind: submission
+    date: 2026-11-06
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-11-17
+  - kind: camera_ready
+    date: 2026-11-23
+sources:
+- https://mercury-hpg.github.io/IWBDR-6/
+- https://apecs-lab.github.io/iwbdr25/
+- https://apecs-lab.github.io/iwbdr25/pages/introductions.md
+- https://apecs-lab.github.io/iwbdr25/pages/call-for-contribution.md
+- https://bigdataieee.org/BigData2026/program/workshops/
+- https://bigdataieee.org/BigData2026/calls/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=IWBDR&by=all&source=ICORE2026
+unverified:
+- 2026 workshop dates shown are the full IEEE BigData dates; the specific day is to be announced
+- Acceptance rate not published
+last_verified: 2026-11-14

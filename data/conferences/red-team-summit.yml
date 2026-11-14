@@ -1,0 +1,75 @@
+id: red-team-summit
+name: Red Team Summit
+full_name: Red Team Summit
+type: industry
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Red Team Summit steering committee, with a host organization chosen each edition
+proceedings: None (no recordings)
+archival: false
+typical:
+  deadline_months: [1, 7]
+  conference_months: [3, 9]
+links:
+  website: https://redteamsummit.com/
+notes:
+- Conference by and for internal (corporate) red teams, held since 2017
+- Invitation only with no ticket sales; an organization must submit a bona fide talk to the CFP to be invited
+- Red team and pentest consulting firms are not accepted as submitters
+- Held under the Chatham House Rule; no recordings or photos without permission, and talk titles are published without names or organizations
+- Host organization rotates, chosen by a steering committee vote from a call for hosts
+- US edition each spring (McLean 2026, Cupertino 2027) and an EMEA edition each fall since 2025 (Zurich 2025, Toulouse 2026)
+- 20 and 45 minute talks and panels; 240 attendees from 74 organizations at the 2026 US edition
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: Red Team Summit 2026 (USA)
+  start: 2026-03-10
+  end: 2026-03-11
+  location: McLean, Virginia, USA
+  url: https://cfp.redteamsummit.com/red-team-summit-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-17
+    time: "23:59"
+    tz: UTC
+    label: CFP (talk proposals)
+- year: 2026
+  label: Red Team Summit EMEA 2026
+  start: 2026-09-10
+  end: 2026-09-11
+  location: Toulouse, France
+  url: https://cfp.redteamsummit.com/red-team-summit-emea-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-22
+    time: "23:59"
+    tz: CEST
+    label: CFP (talk proposals)
+- year: 2027
+  label: Red Team Summit USA 2027
+  start: 2027-03-09
+  end: 2027-03-10
+  location: Cupertino, California, USA
+  url: https://cfp.redteamsummit.com/red-team-summit-usa-2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+    time: "23:59"
+    tz: PST
+    label: CFP (talk proposals)
+sources:
+- https://redteamsummit.com/
+- https://cfp.redteamsummit.com/
+- https://cfp.redteamsummit.com/red-team-summit-2026/cfp
+- https://cfp.redteamsummit.com/red-team-summit-emea-2026/cfp
+- https://cfp.redteamsummit.com/red-team-summit-usa-2027/cfp
+- https://portal.core.edu.au/conf-ranks/?search=Red+Team+Summit&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- Country of the steering committee is not stated, so organizer_country is left out
+- CFP notification dates are not stated
+- EMEA 2027 edition not announced as of 2026-11-14

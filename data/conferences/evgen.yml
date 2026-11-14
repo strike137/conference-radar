@@ -1,0 +1,56 @@
+id: evgen
+name: EVGEN
+full_name: Workshop on Event-based Vision in the Era of Generative AI
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Active Perception Group, Arizona State University, with University of Maryland, University of Granada and University of Siena; co-located with WACV
+organizer_country: [usa, europe]
+proceedings: IEEE Xplore and CVF Open Access (WACV Workshops proceedings, full papers)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://eventbasedvision.github.io/EVGEN2026/
+notes:
+  - Workshop on event cameras combined with generative AI, subtitled Transforming Perception and Visual Innovation
+  - 1st edition at WACV 2025 and 2nd at WACV 2026, both in Tucson
+  - Full papers go in the WACV workshop proceedings and IEEE Xplore; short papers and extended abstracts get a light review and are posted on arXiv only
+  - Submissions on OpenReview in 2026 (CMT in 2025)
+  - 5 papers in 2025 and 4 in 2026 in the WACV workshop proceedings on CVF Open Access
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 2nd edition, with WACV 2026
+    start: 2026-03-06
+    end: 2026-03-06
+    location: Tucson, Arizona, USA
+    url: https://eventbasedvision.github.io/EVGEN2026/
+    deadlines:
+      - kind: submission
+        date: 2025-12-14
+        time: "23:59"
+        tz: AoE
+      - kind: notification
+        date: 2025-12-24
+      - kind: camera_ready
+        date: 2026-01-19
+        time: "23:59"
+        tz: AoE
+sources:
+  - https://eventbasedvision.github.io/EVGEN2026/
+  - https://eventbasedvision.github.io/EVGEN2025/
+  - https://eventbasedvision.github.io/
+  - https://wacv.thecvf.com/Conferences/2026/Workshops
+  - https://wacv.thecvf.com/Conferences/2027/Workshops
+  - https://openaccess.thecvf.com/WACV2026_workshops/EVGEN-2026
+  - https://openaccess.thecvf.com/WACV2025_workshops/EVGEN
+  - https://portal.core.edu.au/conf-ranks/?search=EVGEN&by=all&source=ICORE2026
+unverified:
+  - The 2026 site gives the camera-ready period as January 9 to 19 with the year 2025, apparently a typo for 2026
+  - No 2027 edition announced; EVGEN is not in the WACV 2027 workshop list
+last_verified: 2026-11-14

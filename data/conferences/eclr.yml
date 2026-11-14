@@ -1,0 +1,49 @@
+id: eclr
+name: ECLR
+full_name: "Workshop on Efficient Computing under Limited Resources: Visual Computing"
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Beihang University organizing team (Jinyang Guo, Yuqing Ma, Yifu Ding) with The University of Newcastle and The University of Sydney
+organizer_country: [china, australia]
+proceedings: CVF Open Access and IEEE Xplore (ICCV Workshops proceedings)
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://eclr-workshop.github.io/
+notes:
+- Workshop on data-efficient, label-efficient and model-efficient visual computing (compression, few-shot learning, quantization, pruning, efficient architectures)
+- 1st edition as EMCLR (Efficient Multimedia Computing under Limited Resources) at ACM MM 2024; 2nd edition as ECLR at ICCV 2025 in Honolulu
+- Same Beihang organizing team as the GLOW workshop at IJCAI
+- Long papers up to 7 pages and short papers up to 5 pages excluding references, ICCV format, double-blind review on OpenReview with at least two reviews
+- 20 papers in the ICCV 2025 workshop proceedings on CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 2nd edition, with ICCV 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, Hawaii, USA (with ICCV 2025)
+  url: https://eclr-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-06-07
+  - kind: notification
+    date: 2025-06-21
+  - kind: camera_ready
+    date: 2025-06-28
+sources:
+- https://eclr-workshop.github.io/
+- https://eclr-workshop.github.io/index_2024.html
+- https://iccv.thecvf.com/virtual/2025/workshop/2785
+- https://openaccess.thecvf.com/ICCV2025_workshops/ECLR
+- https://portal.core.edu.au/conf-ranks/?search=ECLR&by=all&source=ICORE2026
+unverified:
+- No 3rd edition announced as of 2026-11-14 (none in the CVPR 2026 workshop proceedings or on the WACV 2027 workshop list)
+last_verified: 2026-11-14

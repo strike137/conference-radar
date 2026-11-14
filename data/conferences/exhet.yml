@@ -1,0 +1,53 @@
+id: exhet
+name: ExHET
+full_name: International Workshop on Extreme Heterogeneity Solutions
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Oak Ridge National Laboratory with Sandia National Laboratories (steering committee from ORNL, BSC, TUM, INRIA, University of Delaware and RIKEN)
+organizer_country: [usa]
+proceedings: ACM DL (host conference workshop proceedings)
+archival: true
+typical:
+  deadline_months: [11, 12, 1]
+  conference_months: [1, 2, 3]
+links:
+  website: https://ornl.github.io/events/exhet2026/
+notes:
+- Workshop on software, programming models, runtimes, architectures and co-design for extremely heterogeneous HPC systems
+- Held with ACM PPoPP from 2023 to 2025 (Montreal, Edinburgh, Las Vegas); 5th edition moved to SCA/HPCAsia 2026 in Osaka
+- PPoPP editions published in the ExHET-PPoPP workshops proceedings in the ACM Digital Library; SCA/HPCAsia workshop papers go to ACM-affiliated proceedings
+- 2026 full papers 12 to 18 pages and short papers 8 to 9 pages, ACM single-column format, submitted via Linklings
+- Best full and short paper awards
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  label: 5th ExHET
+  start: 2026-01-26
+  end: 2026-01-26
+  location: Osaka, Japan (with SCA/HPCAsia 2026)
+  url: https://ornl.github.io/events/exhet2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-12
+  - kind: notification
+    date: 2025-11-28
+  - kind: camera_ready
+    date: 2025-12-12
+sources:
+- https://ornl.github.io/events/exhet2026/
+- https://ornl.github.io/events/exhet2025/
+- https://ornl.github.io/events/exhet2024/
+- https://ornl.github.io/events/exhet2023/
+- https://www.sc-asia.org/2026/program.html
+- https://sc-asia.org/
+- https://ppopp27.sigplan.org/
+- https://portal.core.edu.au/conf-ranks/?search=ExHET&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- No 2027 edition announced as of 2026-11-14 (no ExHET 2027 page; host conference for 2027 unknown)
+- The 2026 page gives deadlines without a year; 2025 assumed from the January 2026 workshop date
+- Deadline times and time zones not stated

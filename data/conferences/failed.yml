@@ -1,0 +1,56 @@
+id: failed
+name: FAILED
+full_name: "Workshop on Fairness and Ethics Towards Transparent AI: Facing the Challenge Through Model Debiasing"
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizing committee (Vito Paolo Pastore, Enzo Tartaglione, Irina Voiculescu, Jaegul Choo, Vittorio Murino)
+organizer_country: [international]
+proceedings: ECCV / ICCV Workshops proceedings (CVF Open Access and IEEE Xplore for ICCV 2025)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://3rd-failed-workshop-eccv-2026.github.io/
+notes:
+  - Workshop on bias, fairness, ethics, interpretability and model debiasing in computer vision and AI
+  - 2nd edition with ICCV 2025 (4 papers in the CVF Open Access workshop proceedings), 3rd edition with ECCV 2026
+  - Regular papers up to 14 pages in ECCV format appear in the ECCV Workshop Proceedings; 4-page extended abstracts are non-archival
+  - Double-blind review on OpenReview; accepted papers are presented as posters
+  - Half-day workshop; 5 regular papers and 6 extended abstracts accepted in 2026
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 3rd edition, with ECCV 2026
+    start: 2026-09-08
+    end: 2026-09-08
+    location: Malmo, Sweden (with ECCV 2026)
+    url: https://3rd-failed-workshop-eccv-2026.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-07-05
+        tz: AoE
+        label: Regular papers and extended abstracts (extended from 2026-06-24)
+      - kind: notification
+        date: 2026-08-01
+        time: "23:59"
+        tz: CET
+      - kind: camera_ready
+        date: 2026-08-08
+        time: "23:59"
+        tz: CET
+sources:
+  - https://3rd-failed-workshop-eccv-2026.github.io/
+  - https://3rd-failed-workshop-eccv-2026.github.io/0-call.html
+  - https://3rd-failed-workshop-eccv-2026.github.io/2-committee.html
+  - https://3rd-failed-workshop-eccv-2026.github.io/3-venue_and_schedule.html
+  - https://openaccess.thecvf.com/ICCV2025_workshops/FAILED
+  - https://portal.core.edu.au/conf-ranks/?search=FAILED&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - Venue and date of the 1st edition
+  - No 4th edition announced as of 2026-11-14

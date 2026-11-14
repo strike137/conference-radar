@@ -1,0 +1,52 @@
+id: hpcmall
+name: HPCMALL
+full_name: International Workshop on Malleability Techniques Applications in High-Performance Computing
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: irregular
+organizer: University Carlos III of Madrid (ARCOS group) with TU Munich and Juelich Supercomputing Centre
+organizer_country: [europe]
+proceedings: SCA/HPCAsia 2026 workshop proceedings (ACM format)
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [1]
+links:
+  website: https://coco-arcos.github.io/HPCMALL2026/
+notes:
+- Half-day workshop on malleability and dynamic resource management in HPC (malleable programming models, runtimes, scheduling, I/O and storage, energy)
+- 3rd edition held with SCA/HPCAsia 2026 in Osaka on 2026-01-26
+- Papers published together with the SCA/HPCAsia proceedings; up to 12 pages, ACM single-column manuscript format
+- Double-blind, one-pass review with no rebuttal, submitted via EasyChair
+- Different from DynResHPC, the dynamic resources workshop held with Euro-Par
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  label: 3rd HPCMALL
+  start: 2026-01-26
+  end: 2026-01-26
+  location: Osaka, Japan (with SCA/HPCAsia 2026)
+  url: https://coco-arcos.github.io/HPCMALL2026/
+  deadlines:
+  - kind: submission
+    date: 2025-11-23
+    tz: AoE
+    label: Extended firm deadline (originally November 8)
+  - kind: notification
+    date: 2025-11-30
+  - kind: camera_ready
+    date: 2025-12-15
+sources:
+- https://coco-arcos.github.io/HPCMALL2026/
+- https://coco-arcos.github.io/
+- https://sc-asia.org/
+- https://www.sc-asia.org/2026/program.html
+- https://portal.core.edu.au/conf-ranks/?search=HPCMALL&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- Venues and dates of the 1st and 2nd editions not found on an official page, so region and frequency are uncertain
+- No 2027 edition announced as of 2026-11-14 (no HPCMALL2027 page)
+- The workshop page only says papers are published together with the SCA/HPCAsia proceedings; publication in the ACM DL not confirmed on an official page

@@ -1,0 +1,56 @@
+id: incemic
+name: INCEMIC
+full_name: International Conference on Electromagnetic Interference and Compatibility
+type: conference
+tier: minor
+areas: [communications]
+region: south-asia
+language: english
+frequency: biennial
+organizer: Society of EMC Engineers (India) (SEMCE(I))
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+fee: 18,000 INR + GST general, 17,000 INR + GST SEMCEI/IEEE member, 10,000 INR + GST student (2025, conference only)
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://incemic.org/
+notes:
+- Flagship biennial conference of the Society of EMC Engineers (India), held in Bengaluru
+- Covers electromagnetic compatibility (EMC) in design, PCB, chips, SI/PI, measurement, shielding, lightning, HPEM,
+  automotive, wireless and satellite systems
+- Proceedings in IEEE Xplore (15th INCEMIC 2018, joint APEMC/INCEMIC 2023, 17th INCEMIC 2025)
+- 2023 edition was held jointly with APEMC in Bengaluru (May 2023)
+- Two-day workshop cum tutorials precedes the three-day conference; papers up to 4 pages
+- Not the IEEE EMC+SIPI symposium; not listed in the ICORE2026 CORE portal
+editions:
+- year: 2025
+  label: 17th INCEMIC
+  start: 2025-11-10
+  end: 2025-11-14
+  location: Bengaluru, India (Grand Mercure, Gopalan Mall)
+  url: https://incemic.org/
+  deadlines:
+  - kind: submission
+    date: 2025-08-31
+    label: Complete paper (up to 4 pages)
+  - kind: notification
+    date: 2025-09-30
+  - kind: other
+    date: 2025-10-31
+    label: Special session proposals
+sources:
+- https://incemic.org/
+- https://incemic.org/#/about
+- https://api.crossref.org/works/10.1109/incemic68930.2025.11386446
+- https://api.crossref.org/works/10.1109/apemc57782.2023.10217627
+- https://api.crossref.org/works/10.1109/incemic.2018.8704608
+- https://portal.core.edu.au/conf-ranks/?search=INCEMIC&by=all&source=ICORE2026
+unverified:
+- INCEMIC 2027 not announced as of 2026-11-14
+- 'Workshop days: the 2025 dates above include the workshop (10 to 11 November); the conference itself ran 12 to 14
+  November'
+- Camera-ready deadline and acceptance rate not published on the site
+last_verified: 2026-11-14

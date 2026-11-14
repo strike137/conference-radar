@@ -1,0 +1,41 @@
+id: tengucon
+name: TenguCon
+full_name: TenguCon
+type: industry
+tier: minor
+areas: [security]
+region: japan
+language: english
+frequency: annual
+organizer: TenguSec (Tokyo hacking collective)
+organizer_country: [japan]
+proceedings: None (non-archival)
+archival: false
+fee: 4,500 JPY advance via Meetup, 3,000 JPY at the door, 12,000 JPY with hardware badge (2026)
+typical:
+  conference_months: [11]
+links:
+  website: https://tengucon.org/
+notes:
+  - Yearly gathering of TenguSec, a grassroots international hacker community in Tokyo (founded 2022)
+  - Two days of security research talks, hands-on villages and a scavenger hunt / CTF; talks only, no papers
+  - 2026 edition (TenguCon 3.0) had 13 research talks in English on AI security, hardware, RF and space, OT and defense
+  - Held at Akihabara UDX Conference, Tokyo (2026); registration through Meetup
+  - Optional ESP32 LoRa hardware badge sold separately
+editions:
+  - year: 2026
+    label: TenguCon 3.0
+    start: 2026-11-19
+    end: 2026-11-20
+    location: Akihabara UDX Conference, Tokyo, Japan
+    url: https://tengucon.org/
+sources:
+  - https://tengucon.org/
+  - https://tengucon.org/media/
+  - https://tengusec.tokyo/
+  - https://portal.core.edu.au/conf-ranks/?search=TenguCon&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - Dates and venues of TenguCon 1.0 and 2.0 not found on the official site
+  - No public call for papers or speaker deadline found
+  - Not listed in the CORE ICORE2026 portal

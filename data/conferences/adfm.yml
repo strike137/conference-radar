@@ -1,0 +1,68 @@
+id: adfm
+name: ADFM
+full_name: Workshop on Anomaly Detection with Foundation Models
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Kuan-Chuan Peng of MERL, Ying Zhao of Ricoh Software Research Center Beijing, Abhishek Aich of NEC Labs America); co-located with a major AI or vision conference
+organizer_country: [usa, china]
+proceedings: CVF Open Access (CVPR/ICCV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3, 6]
+  conference_months: [6, 10]
+links:
+  website: https://adfmw.github.io/
+notes:
+- Half-day workshop on anomaly detection with foundation models (vision, multimodal and sector-specific anomaly detection)
+- Co-located with a different host conference each year (IJCAI 2024 in Jeju, ICCV 2025 in Honolulu, CVPR 2026 in Denver)
+- Full papers up to 8 pages in the host conference template, double-blind review on CMT, no dual submissions
+- From 2025 the papers appear in the official CVPR/ICCV workshop proceedings (CVF Open Access); 2024 papers did not appear in the IJCAI proceedings and went to a separate Springer CCIS volume linked from the site
+- Small workshop with a few accepted papers plus invited talks
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Honolulu, Hawaii, USA (with ICCV 2025)
+  url: https://adfmw.github.io/iccv25/
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    time: "23:59"
+    tz: EDT
+    label: Extended
+  - kind: notification
+    date: 2025-07-11
+  - kind: camera_ready
+    date: 2025-08-18
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Colorado Convention Center, Denver, Colorado, USA (with CVPR 2026)
+  url: https://adfmw.github.io/cvpr26/
+  deadlines:
+  - kind: submission
+    date: 2026-03-03
+    time: "23:59"
+    tz: EDT
+    label: Extended
+  - kind: notification
+    date: 2026-03-20
+  - kind: camera_ready
+    date: 2026-04-10
+sources:
+- https://adfmw.github.io/
+- https://adfmw.github.io/cvpr26/
+- https://adfmw.github.io/iccv25/
+- https://adfmw.github.io/ijcai24/
+- https://openaccess.thecvf.com/CVPR2026_workshops/ADFM
+- https://openaccess.thecvf.com/ICCV2025_workshops/ADFM
+- https://portal.core.edu.au/conf-ranks/?search=ADFM&by=all&source=ICORE2026
+unverified:
+- Original 2026 submission deadline was 2026-02-27 before the extension; original 2025 deadline was 2025-06-20
+- Next edition (host conference and dates) not announced yet
+last_verified: 2026-11-14

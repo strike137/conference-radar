@@ -1,0 +1,59 @@
+id: agenticse
+name: AgenticSE
+full_name: Workshop on Autonomous Agents in Software Engineering
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+organizer: AgenticSE organizers (Maliheh Izadi, TU Delft; Michael Pradel, CISPA; Satish Chandra, Meta), co-located with ASE
+organizer_country: [europe, usa]
+proceedings: IEEE Xplore (ASEW 2025, IEEE/ACM ASE Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://agenticse.github.io/
+notes:
+  - Workshop on LLM-based autonomous agents for software engineering (agent architectures, code generation, testing, DevOps, human-agent collaboration, evaluation)
+  - First edition held on November 20, 2025 with IEEE/ACM ASE 2025 in Seoul
+  - Long papers up to 8 pages and short papers up to 4 pages including references (IEEEtran), plus talk-only abstracts without publication
+  - Double-blind review with at least three PC members per paper
+  - The six 2025 papers appear in the 2025 IEEE/ACM ASE Workshops proceedings (ASEW 2025, IEEE CPS)
+  - AgenticDev at ASE 2026 is a separate first-edition workshop with different organizers
+  - 2025 program had six published papers and two talk-only presentations, with keynotes from Google and ByteDance
+  - Not in the ASE 2026 workshop list
+  - Different from the KDD Agentic SE workshop and from Agent ICSE workshops
+  - Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+  - year: 2025
+    start: 2025-11-20
+    end: 2025-11-20
+    location: Seoul, Korea (with ASE 2025)
+    url: https://agenticse.github.io/
+    deadlines:
+      - kind: submission
+        date: 2025-08-26
+        time: "23:59"
+        tz: AoE
+        label: Extended from 2025-08-22
+      - kind: notification
+        date: 2025-09-26
+        time: "23:59"
+        tz: AoE
+      - kind: camera_ready
+        date: 2025-10-05
+        time: "23:59"
+        tz: AoE
+sources:
+  - https://agenticse.github.io/
+  - https://agenticse.github.io/pages/program.html
+  - https://conf.researchr.org/home/ase-2025/agenticse-2025
+  - https://conf.researchr.org/track/ase-2025/ase-2025-workshops
+  - https://conf.researchr.org/track/ase-2026/ase-2026-workshops
+  - https://www.proceedings.com/content/084/084000webtoc.pdf
+  - https://portal.core.edu.au/conf-ranks/?search=AgenticSE&by=all&source=ICORE2026
+unverified:
+  - No 2026 edition found; frequency unknown
+last_verified: 2026-11-14

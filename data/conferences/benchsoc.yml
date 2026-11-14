@@ -1,0 +1,53 @@
+id: benchsoc
+name: BenchSOC
+full_name: International Workshop on Benchmarking in Service-Oriented Computing
+type: workshop
+tier: minor
+areas: [software, systems, data]
+region: worldwide
+language: english
+organizer: BenchSOC chairs (University of Brescia, Italy and University of Stuttgart, Germany), ICSOC workshop
+organizer_country: [europe]
+proceedings: CEUR-WS (CEUR Workshop Proceedings)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://dbwis.gitlab.io/benchsoc/
+notes:
+- New workshop co-located with ICSOC; 1st edition at ICSOC 2026 in Lodz, Poland, on the workshop day (1 December 2026)
+- Chaired by Ada Bagozi and Massimiliano Garda (University of Brescia) and Ilche Georgievski (University of Stuttgart)
+- Scope is datasets, benchmark tasks, evaluation methodology, resource mappings and baseline systems for service-oriented computing
+- Unlike the ICSOC workshops that publish in Springer, BenchSOC proceedings are submitted to CEUR Workshop Proceedings (open access, CC BY 4.0)
+- Single-blind review; CEUR-ART one-column format, up to 12 pages excluding references
+- Submission through the ICSOC 2026 EasyChair; in-person presentation is required for inclusion in the proceedings
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  label: 1st BenchSOC, with ICSOC 2026
+  start: 2026-12-01
+  end: 2026-12-01
+  location: Lodz, Poland
+  url: https://dbwis.gitlab.io/benchsoc/
+  deadlines:
+  - kind: submission
+    date: 2026-10-15
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-10-30
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://dbwis.gitlab.io/benchsoc/
+- https://icsoc2026.it.p.lodz.pl/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=BenchSOC&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- CEUR-WS volume number for 2026 not yet published
+- Whether BenchSOC continues at ICSOC 2027 (not announced)

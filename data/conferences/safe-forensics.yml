@@ -1,0 +1,75 @@
+id: safe-forensics
+name: SAFE
+full_name: Workshop on Synthetic and Adversarial ForEnsics
+type: workshop
+tier: minor
+areas: [security, vision, ai]
+region: north-america
+language: english
+frequency: multiple-per-year
+organizer: Workshop organizers mostly from MIT Lincoln Laboratory, with UT Austin and Tufts University; co-located with a major AI or vision conference
+organizer_country: [usa]
+proceedings: CVF Open Access and IEEE Xplore (host conference workshop proceedings); PMLR planned for AAAI 2027
+archival: true
+typical:
+  deadline_months: [11, 3]
+  conference_months: [2, 3, 6]
+links:
+  website: https://www.safeworkshop.org
+notes:
+- Workshop series on synthetic media detection, deepfakes, watermarking and provenance, adversarial attacks and red teaming of generative models
+- 1st edition at WACV 2026 (Tucson), 2nd at CVPR 2026 (Denver), 3rd at AAAI 2027 (Montreal); a new host conference each edition
+- Full papers of 6 to 8 pages are archival in the host workshop proceedings; short papers and extended abstracts of 2 to 4 pages are non-archival
+- Double-blind review; AAAI 2027 submissions on OpenReview with optional archiving in a PMLR volume (pending confirmation)
+- Small workshop with keynotes; 7 full papers at WACV 2026 and 11 full papers at CVPR 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 2nd edition, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Colorado Convention Center, Denver, Colorado, USA (with CVPR 2026)
+  url: https://www.safeworkshop.org/cvpr-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-13
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-03-25
+  - kind: camera_ready
+    date: 2026-04-09
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  label: 3rd edition, with AAAI 2027
+  start: 2027-02-22
+  end: 2027-02-23
+  location: Palais des Congres de Montreal, Montreal, Canada (with AAAI 2027)
+  url: https://www.safeworkshop.org/aaai-2027/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-11-04
+    time: "23:59"
+    tz: EST
+  - kind: notification
+    date: 2026-12-02
+  - kind: camera_ready
+    date: 2027-01-22
+    time: "23:59"
+    tz: EST
+sources:
+- https://www.safeworkshop.org
+- https://www.safeworkshop.org/aaai-2027/
+- https://www.safeworkshop.org/cvpr-2026/
+- https://www.safeworkshop.org/wacv-2026/
+- https://openaccess.thecvf.com/WACV2026_workshops/SAFE-2026
+- https://openaccess.thecvf.com/CVPR2026_workshops/SAFE
+- https://wacv.thecvf.com/Conferences/2026/Workshops
+- https://portal.core.edu.au/conf-ranks/?search=SAFE&by=all&source=ICORE2026
+unverified:
+- AAAI 2027 workshop is a single full day on February 22 or 23, 2027 (day TBA); recorded as both days
+- AAAI 2027 deadlines are stated as 11:59pm ET (recorded as EST)
+- PMLR publication for the AAAI 2027 edition is pending confirmation
+last_verified: 2026-11-14

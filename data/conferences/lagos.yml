@@ -1,0 +1,61 @@
+id: lagos
+name: LAGOS
+full_name: Latin American Algorithms, Graphs, and Optimization Symposium
+type: conference
+tier: minor
+areas: [general]
+region: latin-america
+language: english
+frequency: biennial
+organizer: LAGOS Steering Committee
+organizer_country: [international]
+proceedings: Procedia Computer Science (Elsevier)
+archival: true
+indexing: [DBLP]
+rank:
+  core: C
+typical:
+  deadline_months: [5]
+  conference_months: [11]
+links:
+  website: https://lagos.mat.br/
+  dblp: https://dblp.org/db/conf/lagos/
+notes:
+- Biennial symposium on algorithms, graph theory, combinatorics and combinatorial optimization, held since 2001
+- Merger of the Brazilian GRACO and the Latin American LACGA conferences
+- Steering committee from universities in Brazil, Argentina, Chile and Mexico
+- Proceedings in Procedia Computer Science (Elsevier); selected full papers go to a Discrete Applied Mathematics special issue
+- Usually held in Latin America (Belo Horizonte 2019, Sao Paulo 2021, Huatulco 2023, Buenos Aires 2025); Marseille, France in 2017
+- Deadlines at 23:59 AoE
+- CORE C (ICORE2026)
+editions:
+- year: 2025
+  label: XIII LAGOS
+  start: 2025-11-10
+  end: 2025-11-14
+  location: Universidad de Buenos Aires, Buenos Aires, Argentina
+  url: https://lagos.mat.br/lagos2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-10
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-07-30
+    time: "23:59"
+    tz: AoE
+    label: Extended
+  - kind: camera_ready
+    date: 2025-08-20
+    time: "23:59"
+    tz: AoE
+    label: Extended
+sources:
+- https://lagos.mat.br/
+- https://lagos.mat.br/lagos2025/
+- https://portal.core.edu.au/conf-ranks/?search=LAGOS&by=all&source=ICORE2026
+unverified:
+- LAGOS 2027 not announced yet
+- Original (pre-extension) 2025 deadlines not shown on the site
+last_verified: 2026-11-14

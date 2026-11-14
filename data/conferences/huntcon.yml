@@ -1,0 +1,49 @@
+id: huntcon
+name: HUNTCON
+full_name: HUNTCON - European Threat Hunting Conference
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: Sebastien Damaye (sponsored by Schneider Electric)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://huntcon.fr/
+notes:
+- Billed as the first in-person European conference dedicated exclusively to threat hunting; 2027 is the first edition
+- Organized by Sebastien Damaye and sponsored by Schneider Electric, held at Schneider Electric headquarters (SENSE) in La Defense, Nanterre near Paris
+- Day 1 talks (30 or 60 minute slots) and an exhibitor booth session; day 2 round tables under the Chatham House Rule
+- Free attendance with mandatory registration, capped at 110 attendees and 3 per organization
+- All talks in English; slides published on the website after the event; no proceedings
+- Organizers intend to hold it every year
+editions:
+- year: 2027
+  start: 2027-03-04
+  end: 2027-03-05
+  location: SENSE (Schneider Electric headquarters), La Defense, Nanterre, France
+  url: https://huntcon.fr/
+  deadlines:
+  - kind: submission
+    date: 2026-11-01
+    time: "23:59"
+    tz: CET
+    label: Call for Papers (closes at midnight CET)
+  - kind: other
+    date: 2026-12-01
+    label: Talk selection completed (submitters notified in early December)
+sources:
+- https://huntcon.fr/
+- https://huntcon.fr/info/
+- https://huntcon.fr/cfp/
+- https://huntcon.fr/faq/
+- https://portal.core.edu.au/conf-ranks/?search=HUNTCON&by=all&source=ICORE2026
+unverified:
+- Annual recurrence is only an intention stated for the first edition
+last_verified: 2026-11-14

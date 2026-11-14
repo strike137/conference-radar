@@ -1,0 +1,63 @@
+id: iraise
+name: iRAISE
+full_name: Workshop on Impactful and Responsible AI Systems for Education
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizers from Google, OpenStax / SafeInsights (Rice University), Duolingo, Carnegie Learning, Adobe Research
+  and Eedi Labs
+organizer_country: [usa, europe]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [6]
+links:
+  website: https://safeinsights.github.io/iraise26/
+notes:
+- Workshop on responsible, theory-driven and classroom-ready AI for learning (continuous evaluation, learning theory,
+  deployment in classrooms)
+- 2025 edition named Innovation and Responsibility in AI-Supported Education, held at AAAI 2025 in Philadelphia
+  (PMLR vol. 273)
+- 2026 edition renamed Impactful and Responsible AI Systems for Education and held at the Festival of Learning 2026
+  in Seoul (PMLR vol. 339)
+- The organizers count the AAAI 2024 AI for Education workshop (PMLR vol. 257) as the first edition; that workshop
+  series continues separately as AI4EDU (ai4ed.cc)
+- Full papers 6 to 8 pages and short papers 2 to 4 pages in PMLR style, double-blind review on OpenReview
+- Accepted papers are invited to submit an extended camera-ready version for the PMLR proceedings
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-03-03
+  end: 2025-03-03
+  location: Philadelphia, USA (co-located with AAAI-25)
+  url: https://iraise-25-aaai.my.canva.site/
+- year: 2026
+  start: 2026-06-28
+  end: 2026-06-28
+  location: Seoul, South Korea (Festival of Learning 2026, COEX)
+  url: https://safeinsights.github.io/iraise26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-06
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-17
+    time: "23:59"
+    tz: AoE
+    label: Updated date
+sources:
+- https://safeinsights.github.io/iraise26/
+- https://proceedings.mlr.press/v339/
+- https://proceedings.mlr.press/v273/
+- https://proceedings.mlr.press/v257/
+- https://portal.core.edu.au/conf-ranks/?search=IRAISE&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- No 2027 edition announced yet (checked 2026-11-14); host event and timing may change again
+- Notification date for 2026 not stated on the site
+- Deadlines of the 2025 AAAI edition not confirmed

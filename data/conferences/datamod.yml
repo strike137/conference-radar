@@ -1,0 +1,74 @@
+id: datamod
+name: DataMod
+full_name: "International Symposium DataMod: From Data to Models and Back"
+type: workshop
+tier: minor
+areas: [data, ai, software]
+region: europe
+language: english
+frequency: annual
+organizer: DataMod Steering Committee (largely University of Pisa), satellite event of SEFM
+organizer_country: [europe]
+proceedings: Springer LNCS (revised selected papers, post-proceedings)
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://datamod-symposium.github.io/
+notes:
+  - Satellite symposium of SEFM on combining computational modelling (automata, Petri nets, process calculi, agents) with data mining and machine learning
+  - Held as MoKMaSD from 2012 to 2015, as DataMod since 2016; 2026 is the 14th edition
+  - Revised papers appear after the symposium in Springer LNCS (DataMod 2025 -> LNCS 16421); informal pre-proceedings at the event
+  - Regular papers up to 16 pages, short papers up to 8 pages, presentation reports up to 4 pages (not published unless later extended)
+  - "Recent hosts: Eindhoven (2023), Aveiro (2024), Toledo (2025), Malta (2026); 2020 and 2021 online, no 2022 edition"
+  - Not listed in CORE ICORE2026; not on the CCF list
+editions:
+  - year: 2025
+    label: 13th DataMod
+    start: 2025-11-10
+    end: 2025-11-11
+    location: Toledo, Spain (SEFM 2025)
+    url: https://datamod-symposium.github.io/DataMod-2025/
+    deadlines:
+      - kind: abstract
+        date: 2025-08-22
+        label: Optional
+      - kind: submission
+        date: 2025-09-10
+        label: Extended from 2025-08-29
+      - kind: notification
+        date: 2025-10-03
+        label: Extended from 2025-09-30
+      - kind: other
+        date: 2025-10-07
+        label: Revised version for pre-proceedings
+  - year: 2026
+    label: 14th DataMod
+    start: 2026-11-23
+    end: 2026-11-24
+    location: Valletta, Malta (SEFM 2026)
+    url: https://datamod-symposium.github.io/DataMod-2026/
+    deadlines:
+      - kind: abstract
+        date: 2026-09-03
+        label: Optional
+      - kind: submission
+        date: 2026-09-28
+      - kind: other
+        date: 2026-10-16
+        label: Presentation report submission
+      - kind: notification
+        date: 2026-10-19
+      - kind: other
+        date: 2026-10-30
+        label: Revised version for pre-proceedings
+sources:
+  - https://datamod-symposium.github.io/
+  - https://datamod-symposium.github.io/DataMod-2026/
+  - https://datamod-symposium.github.io/DataMod-2025/
+  - https://link.springer.com/conference/datamod
+  - https://portal.core.edu.au/conf-ranks/?search=DataMod&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - Exact LNCS camera-ready date after the symposium (stated only as end of year or early January)

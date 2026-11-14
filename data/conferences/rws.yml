@@ -1,0 +1,65 @@
+id: rws
+name: RWS
+full_name: "Workshop on Real-World Surveillance: Applications and Challenges"
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Fraunhofer IOSB and Aalborg University (VAP lab), with UCF, Universitat de Barcelona, University of Bucharest and MBZUAI; co-located with WACV
+organizer_country: [europe]
+proceedings: IEEE Xplore and CVF Open Access (WACV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [1, 3]
+links:
+  website: https://vap.aau.dk/rws/
+notes:
+  - Workshop on computer vision for surveillance in real-world conditions (detection, tracking, action recognition, scene understanding, super-resolution, legal, ethical and privacy issues)
+  - 6th edition at WACV 2026 in Tucson, 7th at WACV 2027 in Orlando
+  - Runs alongside the UPAR challenge on pedestrian attributes, person retrieval and pose estimation
+  - Accepted papers go in the WACV Workshops proceedings published by CVF and IEEE
+  - 10 papers in 2025 and 16 in 2026 in the WACV workshop proceedings on CVF Open Access
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 6th edition, with WACV 2026
+    start: 2026-03-06
+    end: 2026-03-06
+    location: Tucson, Arizona, USA
+    url: https://vap.aau.dk/rws/
+  - year: 2027
+    label: 7th edition, with WACV 2027
+    start: 2027-01-04
+    end: 2027-01-04
+    location: Orlando, Florida, USA
+    url: https://vap.aau.dk/rws/
+    status: tentative
+    deadlines:
+      - kind: submission
+        date: 2026-10-23
+        time: "23:59"
+        tz: AoE
+        label: Papers (extended)
+      - kind: notification
+        date: 2026-11-05
+      - kind: camera_ready
+        date: 2026-11-17
+        time: "23:59"
+        tz: AoE
+sources:
+  - https://vap.aau.dk/rws/
+  - https://vap.aau.dk/rws/call-for-papers/
+  - https://vap.aau.dk/rws/organizers/
+  - https://vap.aau.dk/rws/challenge/
+  - https://wacv.thecvf.com/Conferences/2026/Workshops
+  - https://wacv.thecvf.com/Conferences/2027/Workshops
+  - https://openaccess.thecvf.com/WACV2026_workshops/RWS
+  - https://openaccess.thecvf.com/WACV2025_workshops/RWS
+  - https://portal.core.edu.au/conf-ranks/?search=RWS&by=all&source=ICORE2026
+unverified:
+  - Workshop days (March 6, 2026 and January 4, 2027) are from the WACV workshop lists; the RWS site does not state them
+  - The WACV 2026 edition deadlines are no longer on the workshop site
+last_verified: 2026-11-14

@@ -1,0 +1,53 @@
+id: wdfm-ad
+name: WDFM-AD
+full_name: Workshop on Distillation of Foundation Models for Autonomous Driving
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+organizer: Workshop organizing committee (Burhan Yaman of Uber, Ziran Wang and Yunsheng Ma of Purdue University, Xin Ye of Bosch AI and others); co-located with CVPR or ICCV
+organizer_country: [usa]
+proceedings: CVF Open Access and IEEE Xplore (CVPR/ICCV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [6, 10]
+links:
+  website: https://wdfm-ad.github.io/
+notes:
+  - Workshop on deploying foundation models (VLMs, generative models) in autonomous vehicles through distillation
+  - 1st edition at CVPR 2025 in Nashville, 2nd edition at ICCV 2025 in Honolulu
+  - Papers up to 8 pages in the host conference format, submitted via OpenReview
+  - Papers appear in the CVPR 2025 and ICCV 2025 workshop proceedings on CVF Open Access
+  - Organizers are mostly from US industry and universities (Uber, Bosch, Purdue, Amazon, Toyota)
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2025
+    start: 2025-10-20
+    end: 2025-10-20
+    location: Honolulu, Hawaii, USA (with ICCV 2025)
+    url: https://wdfm-ad.github.io/iccv25/
+    deadlines:
+      - kind: submission
+        date: 2025-06-29
+        time: "23:59"
+        tz: UTC-10
+        label: Extended
+      - kind: notification
+        date: 2025-07-11
+      - kind: camera_ready
+        date: 2025-08-18
+sources:
+  - https://wdfm-ad.github.io/
+  - https://wdfm-ad.github.io/iccv25/
+  - https://wdfm-ad.github.io/call_for_papers/
+  - https://openaccess.thecvf.com/ICCV2025_workshops/WDFM-AD
+  - https://openaccess.thecvf.com/CVPR2025_workshops/WDFM-AD
+  - https://openaccess.thecvf.com/CVPR2026_workshops/menu
+  - https://portal.core.edu.au/conf-ranks/?search=WDFM-AD&by=all&source=ICORE2026
+unverified:
+  - Original ICCV 2025 submission deadline was 2025-06-27 before the extension
+  - CVPR 2025 edition dates and deadlines not given on the site (only June 2025, Nashville)
+  - No 2026 edition announced; CVPR 2026 instead had a separate 1st Workshop on Deployment of Foundation Models for Embodied AI (WDFM-EAI), relation not confirmed
+last_verified: 2026-11-14

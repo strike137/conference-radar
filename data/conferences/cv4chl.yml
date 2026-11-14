@@ -1,0 +1,55 @@
+id: cv4chl
+name: CV4CHL
+full_name: Workshop on Computer Vision for Children
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (University of Illinois Urbana-Champaign and PediaMed AI, with Idiap/EPFL, HKUST (Guangzhou), Shenzhen Children's Hospital and others); co-located with CVPR
+organizer_country: [usa]
+proceedings: CVF Open Access (CVPR Workshops proceedings, proceeding track only)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://pediamedai.com/cv4chl
+notes:
+  - Workshop on computer vision for child development, pediatric healthcare, education, child psychology and ethics
+  - First held as CV4CHL at CVPR 2026 in Denver; preceded by the AI4CHL workshop at ICLR 2025
+  - "Two tracks: proceeding track (6 to 8 pages, CVPR Workshops proceedings) and non-proceeding track (4-page extended abstracts, ongoing or published work)"
+  - Double-blind review by at least three reviewers on OpenReview
+  - Includes a Children Gait Competition on Kaggle with challenge reports
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    start: 2026-06-04
+    end: 2026-06-04
+    location: Denver, Colorado, USA (with CVPR 2026)
+    url: https://pediamedai.com/cv4chl
+    deadlines:
+      - kind: submission
+        date: 2026-03-15
+        tz: AoE
+        label: Proceeding track (extended from Mar 10)
+      - kind: notification
+        date: 2026-03-24
+        tz: AoE
+        label: Proceeding track
+      - kind: camera_ready
+        date: 2026-04-10
+        tz: AoE
+        label: Proceeding track
+      - kind: other
+        date: 2026-04-19
+        tz: AoE
+        label: Non-proceeding papers (extended)
+sources:
+  - https://pediamedai.com/cv4chl
+  - https://openaccess.thecvf.com/CVPR2026_workshops/CV4CHL
+  - https://portal.core.edu.au/conf-ranks/?search=CV4CHL&by=all&source=ICORE2026
+unverified:
+  - CV4CHL 2027 not announced yet; host conference may change
+last_verified: 2026-11-14

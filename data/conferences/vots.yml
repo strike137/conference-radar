@@ -1,0 +1,52 @@
+id: vots
+name: VOTS
+full_name: Visual Object Tracking and Segmentation Challenge Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: VOT Challenge committee (University of Ljubljana, Czech Technical University in Prague, Linkoping University and others)
+organizer_country: [international]
+proceedings: ICCV / ECCV Workshops proceedings (CVF Open Access and IEEE Xplore for ICCV, Springer LNCS for ECCV)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9, 10]
+links:
+  website: https://www.votchallenge.net/
+notes:
+  - Challenge workshop of the long-running Visual Object Tracking (VOT) series, held every year since 2013
+  - Co-located with ICCV or ECCV in alternate years; renamed VOTS (tracking by segmentation) from 2023
+  - Participants submit tracker results to the challenge; the challenge results paper is published in the ICCV or ECCV Workshops proceedings
+  - 2026 edition had four challenges (VOTS, VOTSt transformative tracking, VOTSp point tracking, VOTSr referring tracking)
+  - VOTS2026 workshop at ECCV 2026 had around 70 participants
+  - The VOT series received the PAMI Mark Everingham Prize at ECCV 2026
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: VOTS2026, with ECCV 2026 (afternoon slot)
+    start: 2026-09-09
+    end: 2026-09-09
+    location: Malmo, Sweden (with ECCV 2026)
+    url: https://www.votchallenge.net/vots2026/
+    deadlines:
+      - kind: submission
+        date: 2026-06-28
+        time: "23:59"
+        tz: UTC
+        label: Challenge results submission (extended from 2026-06-22)
+      - kind: notification
+        date: 2026-07-13
+        label: Winners announcement
+sources:
+  - https://www.votchallenge.net/
+  - https://www.votchallenge.net/vots2026/
+  - https://www.votchallenge.net/vots2026/people.html
+  - https://www.votchallenge.net/publications.html
+  - https://openaccess.thecvf.com/ICCV2025_workshops/VOTS2025
+  - https://portal.core.edu.au/conf-ranks/?search=VOTS&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - No 2027 edition announced as of 2026-11-14

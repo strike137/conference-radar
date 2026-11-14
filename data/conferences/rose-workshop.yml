@@ -1,0 +1,59 @@
+id: rose-workshop
+name: RoSE
+full_name: International Workshop on Robotics Software Engineering
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: RoSE steering committee (co-located with ICSE until 2025, with IEEE ICRA from 2026)
+organizer_country: [international]
+proceedings: CEUR-WS (from 2026; ICSE workshop proceedings in ACM/IEEE digital libraries until 2025)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://rose-workshops.github.io/
+notes:
+  - Workshop series on software engineering for robotics (architecture, testing, verification, ROS, model-driven engineering, AI for robotic software)
+  - Held at ICSE from 2018 to 2025 (7th edition RoSE'25 in Ottawa); moved to IEEE ICRA in 2026 (Vienna)
+  - Until 2025 accepted papers appeared in the ICSE workshop proceedings in the ACM or IEEE digital libraries
+  - 2026 six-page work-in-progress papers were peer reviewed and published in CEUR-WS Vol. 4243
+  - 2026 and 2027 also take non-reviewed one-page idea papers and industry reports
+  - RoSE'27 (9th) is proposed as a full-day workshop at ICRA 2027 in Seoul with the theme The Agentic AI Era; research papers up to 6 pages (IEEE RAS format) to be published on the RoSE website
+  - Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+  - year: 2026
+    start: 2026-06-01
+    end: 2026-06-01
+    location: Vienna, Austria (with ICRA 2026)
+    url: https://rose-workshops.github.io/rose2026/
+    deadlines:
+      - kind: submission
+        date: 2026-03-16
+        tz: AoE
+        label: Extended from 2026-03-08
+      - kind: notification
+        date: 2026-04-15
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-04-30
+        tz: AoE
+  - year: 2027
+    location: Seoul, South Korea (proposed, with ICRA 2027)
+    url: https://rose-workshops.github.io/rose2027/
+    status: tentative
+sources:
+  - https://rose-workshops.github.io/workshops
+  - https://rose-workshops.github.io/rose2027/
+  - https://rose-workshops.github.io/rose2026/
+  - https://rose-workshops.github.io/rose2025/
+  - https://rose-workshops.github.io/publications
+  - https://ceur-ws.org/Vol-4243/
+  - https://portal.core.edu.au/conf-ranks/?search=RoSE&by=all&source=ICORE2026
+unverified:
+  - RoSE'27 at ICRA 2027 is a proposal; workshop confirmation, date and deadlines not announced
+  - Proceedings venue for RoSE'27 research papers not announced beyond publication on the RoSE website
+last_verified: 2026-11-14

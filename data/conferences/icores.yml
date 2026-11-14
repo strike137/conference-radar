@@ -1,0 +1,143 @@
+id: icores
+name: ICORES
+full_name: International Conference on Operations Research and Enterprise Systems
+type: conference
+tier: minor
+areas: [general, ai]
+region: europe
+language: english
+frequency: annual
+organizer: INSTICC (Institute for Systems and Technologies of Information, Control and Communication)
+organizer_country: [europe]
+proceedings: SCITEPRESS
+archival: true
+rank:
+  core: C
+fee: 620 EUR non-member, 565 EUR INSTICC member (2027, early speaker rate, lunches included; late 725 / 660 EUR)
+typical:
+  deadline_months: [9, 10, 11]
+  conference_months: [2, 3]
+links:
+  website: https://icores.scitevents.org/
+notes:
+- Organized by INSTICC; all papers presented at the venue go to the SCITEPRESS Digital Library
+- For 2027 the site says the proceedings will be published by Springer in a CCIS series book; in 2026 only a short
+  list of revised and extended papers went to a Springer CCIS book
+- Selected best papers invited to a special issue of the journal INFOR (Information Systems and Operational Research)
+- Operations research venue (methodologies and applications), so only partly in the EECS scope of this list
+- CORE C (ICORE2026, field of research 4602 Artificial intelligence); regarded as a minor venue; not in the CCF list
+- Two submission stages plus late-breaking papers and an abstracts track that is not published; remote presentation
+  allowed only exceptionally
+- Held in European tourist cities (Lisbon 2023, Rome 2024, Porto 2025, Marbella 2026, Valletta 2027) and co-located
+  with other INSTICC conferences (MODELSWARD, ICISSP, ICPRAM and BIOSTEC in 2027), so registration is expensive
+- 2027 is the 16th edition
+editions:
+- year: 2026
+  label: 15th ICORES
+  start: 2026-03-09
+  end: 2026-03-11
+  location: Marbella, Spain
+  url: https://icores.scitevents.org/?y=2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-22
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2025-11-20
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: notification
+    date: 2025-12-04
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: submission
+    date: 2025-12-16
+    tz: AoE
+    label: Late-breaking papers
+  - kind: abstract
+    date: 2025-12-17
+    tz: AoE
+    label: Abstracts track (not published)
+  - kind: camera_ready
+    date: 2025-12-19
+    tz: AoE
+    label: Regular papers (1st stage), with registration
+  - kind: notification
+    date: 2025-12-19
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: camera_ready
+    date: 2026-01-13
+    tz: AoE
+    label: Position/regular papers (2nd stage), with registration
+- year: 2027
+  label: 16th ICORES
+  start: 2027-02-20
+  end: 2027-02-22
+  location: Valletta, Malta
+  url: https://icores.scitevents.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-29
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: other
+    date: 2026-10-02
+    tz: AoE
+    label: Workshop / special session / tutorial / demo / panel proposals
+  - kind: submission
+    date: 2026-10-29
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: notification
+    date: 2026-11-13
+    tz: AoE
+    label: Regular papers (1st stage)
+  - kind: camera_ready
+    date: 2026-11-27
+    tz: AoE
+    label: Regular papers (1st stage), with registration
+  - kind: submission
+    date: 2026-11-29
+    tz: AoE
+    label: Late-breaking papers
+  - kind: abstract
+    date: 2026-12-03
+    tz: AoE
+    label: Abstracts track (not published)
+  - kind: notification
+    date: 2026-12-04
+    tz: AoE
+    label: Position/regular papers (2nd stage)
+  - kind: camera_ready
+    date: 2026-12-18
+    tz: AoE
+    label: Position/regular papers (2nd stage), with registration
+  - kind: notification
+    date: 2026-12-18
+    tz: AoE
+    label: Late-breaking papers
+  - kind: notification
+    date: 2026-12-21
+    tz: AoE
+    label: Abstracts track
+  - kind: camera_ready
+    date: 2027-01-08
+    tz: AoE
+    label: Late-breaking papers and abstracts, with registration
+sources:
+- https://icores.scitevents.org/
+- https://icores.scitevents.org/ImportantDates.aspx
+- https://icores.scitevents.org/RegistrationFees.aspx
+- https://icores.scitevents.org/ConferenceVenue.aspx
+- https://icores.scitevents.org/?y=2026
+- https://icores.scitevents.org/ImportantDates.aspx?y=2026
+- https://icores.scitevents.org/?y=2025
+- https://icores.scitevents.org/?y=2024
+- https://icores.scitevents.org/?y=2023
+- https://portal.core.edu.au/conf-ranks/?search=ICORES&by=all&source=ICORE2026
+unverified:
+- Acceptance rate (INSTICC does not show it on the conference site)
+- Indexing (the site only says the proceedings will be submitted to Web of Science CPCI for evaluation)
+last_verified: 2026-11-14

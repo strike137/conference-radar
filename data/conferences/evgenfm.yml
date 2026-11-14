@@ -1,0 +1,50 @@
+id: evgenfm
+name: EvGENFM
+full_name: Workshop on the Evaluation of Generative Foundation Models
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (Amazon and University of Washington, with Meta and Adobe); co-located with CVPR
+organizer_country: [usa]
+proceedings: CVF Open Access (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://evgenfm2026.github.io/
+notes:
+  - Workshop on metrics, benchmarks, reward models and human evaluation for generative foundation models
+  - 1st edition at CVPR 2024, 2nd at CVPR 2026 in Denver (no 2025 edition)
+  - Accepted papers appear in the CVPR Workshops proceedings on CVF Open Access
+  - Review managed on Microsoft CMT
+  - Half-day workshop with invited talks, blitz talks and a poster session
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    start: 2026-06-04
+    end: 2026-06-04
+    location: Denver, Colorado, USA (with CVPR 2026)
+    url: https://evgenfm2026.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-03-21
+        time: "23:59"
+        tz: PDT
+      - kind: notification
+        date: 2026-03-25
+        time: "23:59"
+        tz: PDT
+sources:
+  - https://evgenfm2026.github.io/
+  - https://raw.githubusercontent.com/evgenfm2026/evgenfm2026.github.io/HEAD/_data/index/submission.yml
+  - https://openaccess.thecvf.com/CVPR2026_workshops/EvaGenFM
+  - https://openaccess.thecvf.com/CVPR2024_workshops/EvGenFM
+  - https://portal.core.edu.au/conf-ranks/?search=EvGENFM&by=all&source=ICORE2026
+unverified:
+  - Deadlines taken from the workshop site's source data (stated as PT); the rendered page no longer shows the call for papers
+  - Next edition not announced; the workshop skipped 2025
+last_verified: 2026-11-14

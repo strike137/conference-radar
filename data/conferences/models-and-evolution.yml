@@ -1,0 +1,65 @@
+id: models-and-evolution
+name: ME
+full_name: International Workshop on Models and Evolution
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: ME steering committee (University of L'Aquila, Nantes Universite, Gran Sasso Science Institute), co-located with MODELS
+organizer_country: [europe]
+proceedings: MODELS Companion proceedings (ACM 2026, IEEE 2025)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://models-and-evolution.github.io/
+notes:
+  - Workshop on (meta-)model evolution, co-evolution, consistency and migration in model-driven engineering
+  - Long-running series; 2026 was the 20th edition, started as MoDSE at CSMR in 2007 and 2008, at MODELS since 2009
+  - Co-located with the MODELS conference, so it moves with MODELS (2025 Grand Rapids, 2026 Malaga)
+  - Accepted papers go into the joint MODELS workshop proceedings (IEEE in 2025, ACM in 2026)
+  - Full papers up to 10 pages, position and tool papers up to 5 pages, ACM format; at least 3 reviewers per paper
+  - Deadlines follow the MODELS workshop schedule
+  - Not listed in the CORE portal (ICORE2026)
+editions:
+  - year: 2025
+    label: 19th edition, with MODELS 2025
+    start: 2025-10-07
+    end: 2025-10-07
+    location: Grand Rapids, MI, USA (co-located with MODELS 2025)
+    url: https://models-and-evolution.github.io/models-and-evolution2025.github.io/
+  - year: 2026
+    label: 20th edition, with MODELS 2026
+    start: 2026-10-04
+    end: 2026-10-04
+    location: Malaga, Spain (co-located with MODELS 2026)
+    url: https://models-and-evolution.github.io/
+    deadlines:
+      - kind: abstract
+        date: 2026-07-10
+        label: Extended from 2026-06-26
+      - kind: submission
+        date: 2026-07-10
+        label: Extended from 2026-07-03
+      - kind: notification
+        date: 2026-07-31
+      - kind: camera_ready
+        date: 2026-08-14
+sources:
+  - https://models-and-evolution.github.io/
+  - https://models-and-evolution.github.io/call-for-paper/
+  - https://models-and-evolution.github.io/sponsors/
+  - https://models-and-evolution.github.io/speakers/
+  - https://models-and-evolution.github.io/orga/
+  - https://models-and-evolution.github.io/past-editions/
+  - https://models-and-evolution.github.io/models-and-evolution2025.github.io/
+  - https://conf.researchr.org/track/models-2026/models-2026-workshops
+  - https://conf.researchr.org/track/models-2025/models-2025-workshops
+  - https://portal.core.edu.au/conf-ranks/?search=Models+and+Evolution&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - ME 2025 deadlines not recorded
+  - No 2027 edition announced yet

@@ -1,0 +1,64 @@
+id: bpod
+name: BPOD
+full_name: IEEE International Workshop on Benchmarking, Performance Tuning and Optimization for Big Data Analytics and Big Models
+type: workshop
+tier: minor
+areas: [data, ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: UMBC Big Data Analytics Lab (University of Maryland, Baltimore County); co-located with IEEE BigData (ICDM in 2025)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://bdal.umbc.edu/bpod/bpod-2026/
+notes:
+- Workshop on performance tuning, optimization and benchmarking for big data analytics and large models (LLM fine-tuning, RAG, HPC and cloud); 2026 is the 9th edition
+- Chaired by researchers from UMBC, UT Dallas and Oak Ridge National Laboratory
+- Usually held with the IEEE International Conference on Big Data; the 2025 edition was held with IEEE ICDM 2025 instead
+- Accepted papers appear in the IEEE BigData proceedings (IEEE Computer Society), or the ICDM workshop proceedings when held with ICDM
+- Full papers up to 10 pages, short papers up to 6 pages (IEEE format); triple-blind review at the ICDM 2025 edition
+- Not ranked by CORE (not in ICORE2026) or CCF
+editions:
+- year: 2025
+  label: 8th BPOD (at ICDM 2025)
+  start: 2025-11-12
+  end: 2025-11-12
+  location: Washington DC, USA
+  url: https://bdal.umbc.edu/bpod/bpod-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-01
+    label: Extended
+  - kind: notification
+    date: 2025-09-18
+  - kind: camera_ready
+    date: 2025-10-05
+- year: 2026
+  label: 9th BPOD (at IEEE BigData 2026)
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Phoenix, Arizona, USA
+  url: https://bdal.umbc.edu/bpod/bpod-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-10-16
+    label: Extended
+  - kind: notification
+    date: 2026-11-11
+  - kind: camera_ready
+    date: 2026-11-25
+sources:
+- https://bdal.umbc.edu/bpod/bpod-2026/
+- https://bdal.umbc.edu/bpod/bpod-2025/
+- https://bdal.umbc.edu/bpod/bpod-2024/
+- https://bigdataieee.org/BigData2026/program/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=BPOD&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- 2026 workshop is one day within Dec 14-17, 2026; the exact day is not given
+- Original 2026 submission deadline (before extension) and deadline time zone not stated

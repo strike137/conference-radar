@@ -1,0 +1,74 @@
+id: swebok-summit
+name: SWEBOK Summit
+full_name: IEEE SWEBOK Summit (Software Engineering Body of Knowledge Summit)
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SWEBOK Summit organizing committee (Waseda University and others), around the IEEE Computer Society SWEBOK Guide; co-located with ICSE
+organizer_country: [international]
+proceedings: IEEE Xplore (ICSE workshop proceedings, 2027)
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [4, 5]
+links:
+  website: https://conf.researchr.org/home/icse-2027/swebok-2027
+notes:
+- Industry- and practice-focused one-day in-person workshop on the IEEE CS SWEBOK Guide, SE skills, competencies, education and certification
+- Held with ICSE every year since 2025 (1st ICSE 2025, 2nd ICSE 2026 in Rio de Janeiro, 3rd ICSE 2027 in Dublin)
+- 2027 papers up to 5 pages in IEEE format go into the Summit proceedings; 1-page talk summaries are not included
+- ICSE 2027 workshop papers are published by IEEE
+- Keynotes, panels and invited tutorials besides selected presentations
+- Authors must register and present in person
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-18
+  end: 2026-04-18
+  location: Rio de Janeiro, Brazil (with ICSE 2026)
+  url: https://conf.researchr.org/home/icse-2026/swebok-2026
+  deadlines:
+  - kind: submission
+    date: 2025-11-03
+    tz: AoE
+    label: Extended abstracts (extended)
+  - kind: notification
+    date: 2025-12-01
+    tz: AoE
+  - kind: other
+    date: 2026-01-05
+    tz: AoE
+    label: Talk summaries
+- year: 2027
+  start: 2027-05-01
+  end: 2027-05-01
+  location: Dublin, Ireland (with ICSE 2027)
+  url: https://conf.researchr.org/home/icse-2027/swebok-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+    label: Papers
+  - kind: notification
+    date: 2026-12-11
+    label: Papers
+  - kind: other
+    date: 2027-01-04
+    label: Talk summaries
+  - kind: notification
+    date: 2027-01-18
+    label: Talk summaries
+  - kind: camera_ready
+    date: 2027-01-29
+sources:
+- https://conf.researchr.org/home/icse-2027/swebok-2027
+- https://conf.researchr.org/home/icse-2026/swebok-2026
+- https://conf.researchr.org/track/icse-2027/icse-2027-workshops
+- https://portal.core.edu.au/conf-ranks/?search=SWEBOK&by=all&source=ICORE2026
+unverified:
+- The 2027 page lists dates under IST (UTC+1) without saying whether deadlines are AoE
+- Publisher of the 2025 and 2026 Summit proceedings not named on the official pages
+- 2025 edition dates not checked
+last_verified: 2026-11-14

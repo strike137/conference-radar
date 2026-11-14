@@ -1,0 +1,48 @@
+id: ml4sps
+name: ML4SPS
+full_name: Workshop on Machine Learning for Sustainable Power Systems
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: Fraunhofer IEE, University of Kassel (Intelligent Embedded Systems) and RTE; co-located with ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (joint ECML PKDD workshop post-proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://sites.google.com/view/ml4sps/ml4sps
+notes:
+- Half-day workshop at ECML PKDD on machine learning for energy systems (forecasting, grid control, asset management, energy markets, EV integration)
+- Held at ECML PKDD 2024 in Vilnius and ECML PKDD 2025 in Porto; not in the ECML PKDD 2026 workshop list
+- Technical papers up to 16 pages and short position papers up to 8 pages, LNCS format, submitted via the ECML PKDD CMT
+- Papers go into the joint ECML PKDD post-workshop proceedings in Springer CCIS (authors can opt out)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-15
+  end: 2025-09-15
+  location: Porto, Portugal (ECML PKDD 2025)
+  url: https://sites.google.com/view/ml4sps/ml4sps/ecml-pkdd-2025-porto
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+    label: Extended from 2025-06-14
+  - kind: notification
+    date: 2025-07-24
+  - kind: camera_ready
+    date: 2025-09-19
+sources:
+- https://sites.google.com/view/ml4sps/ml4sps
+- https://sites.google.com/view/ml4sps/ml4sps/ecml-pkdd-2025-porto
+- https://sites.google.com/view/ml4sps/ml4sps/ecml-pkdd-2024-vilnius
+- https://ecmlpkdd.org/2025/workshops-tutorials/
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://portal.core.edu.au/conf-ranks/?search=ML4SPS&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found; ML4SPS 2027 not announced as of 2026-11-14
+last_verified: 2026-11-14

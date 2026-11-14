@@ -1,0 +1,58 @@
+id: smallext
+name: SmaLLEXT
+full_name: Workshop on Small and Efficient Large Language Models for Knowledge Extraction
+type: workshop
+tier: minor
+areas: [nlp, ai, data]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (Cognism, Universite Paris-Saclay, distil labs, University of Edinburgh); co-located with ACM CIKM
+organizer_country: [europe]
+proceedings: CEUR-WS (Vol-4200)
+archival: true
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11]
+links:
+  website: https://sites.google.com/view/smallext
+notes:
+- Half-day workshop on small and efficient LLMs (compression, distillation, RAG, fine-tuning) for knowledge and information extraction
+- 1st edition co-located with ACM CIKM 2025 in Seoul, Korea, on the CIKM workshop day (14 November 2025)
+- Organized by a mix of industry (Cognism, distil labs, Miniml.AI) and academia (Universite Paris-Saclay, University of Edinburgh)
+- Proceedings published in CEUR-WS Vol-4200 (SmaLLEXT 2025)
+- Long papers up to 8 pages, short and industry papers up to 4 pages (excluding references), ACM template, double-blind review
+- At least one author per accepted paper must attend and present
+- 2025 submission deadline was extended from 29 August to 1 September 2025
+- Not listed among the CIKM 2026 accepted workshops
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-11-14
+  end: 2025-11-14
+  location: Seoul, Korea (co-located with ACM CIKM 2025)
+  url: https://sites.google.com/view/smallext
+  deadlines:
+  - kind: submission
+    date: 2025-09-01
+    time: "23:59"
+    tz: AoE
+    label: Extended from August 29
+  - kind: notification
+    date: 2025-09-26
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-31
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sites.google.com/view/smallext
+- https://ceur-ws.org/Vol-4200/
+- https://cikm2025.org/program/workshops
+- https://cikm2026.diag.uniroma1.it/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=SmaLLEXT&by=all&source=ICORE2026
+unverified:
+- Only one edition so far; no 2026 edition found, so frequency and region follow the 2025 edition and CIKM
+- DBLP page not checked
+last_verified: 2026-11-14

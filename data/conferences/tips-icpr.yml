@@ -1,0 +1,58 @@
+id: tips-icpr
+name: TIPS
+full_name: Workshop on Textual Information Processing & Synthesis in the Wild
+type: workshop
+tier: minor
+areas: [vision, nlp, ai]
+region: europe
+language: english
+frequency: irregular
+organizer: Workshop chairs (Indian Statistical Institute, University at Buffalo, South China University of Technology, INSA Lyon); co-located with ICPR
+organizer_country: [india]
+proceedings: Springer LNCS (ICPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://tips2026.midasoc.org/
+notes:
+- Workshop on understanding and generating text in document images, scene images and videos (text detection and recognition, text editing, font synthesis, document forensics, multimodal document understanding)
+- Chaired by Umapada Pal (ISI Kolkata), Venu Govindaraju (University at Buffalo), Lianwen Jin (SCUT) and Veronique Eglin (INSA Lyon)
+- Held as a workshop of ICPR 2026 in Lyon
+- Single-blind review via Microsoft CMT with a rebuttal phase; papers up to 15 pages in LNCS format
+- Papers shorter than 6 pages are not included in the Springer LNCS proceedings
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: With ICPR 2026
+  start: 2026-08-21
+  end: 2026-08-21
+  location: Lyon, France
+  url: https://tips2026.midasoc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-12
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-06-05
+    time: "23:59"
+    tz: AoE
+    label: Rebuttal
+  - kind: notification
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-20
+    time: "23:59"
+    tz: AoE
+sources:
+- https://tips2026.midasoc.org/
+- https://icpr2026.org/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=TIPS&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- Earlier editions not found on an official page
+- Next edition not announced yet

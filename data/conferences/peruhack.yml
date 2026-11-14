@@ -1,0 +1,49 @@
+id: peruhack
+name: PERÚHACK
+full_name: PERÚHACK Conferencia de Ciberseguridad Ofensiva
+type: industry
+tier: minor
+areas: [security]
+region: latin-america
+frequency: annual
+organizer: PERÚHACK volunteer community
+organizer_country: [other]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [11]
+links:
+  website: https://www.peruhack.org/
+notes:
+- Free, independent offensive security conference in Lima, Peru, run by volunteers since 2013 (14th edition in 2026)
+- One day, single track of offensive security talks (50 min plus 10 min questions), plus a CTF in 2026
+- Talks chosen through a CFP by an independent technical committee; commercial or defensive talks are not accepted
+- Held at UPC in Lima since 2022 (UPC Monterrico, Santiago de Surco in 2025 and 2026); 2020 and 2021 editions were virtual
+- Talks are not recorded or streamed; no proceedings
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  start: 2025-11-15
+  end: 2025-11-15
+  location: UPC Monterrico, Lima, Peru
+  url: https://www.peruhack.org/
+- year: 2026
+  start: 2026-11-21
+  end: 2026-11-21
+  location: UPC Monterrico, Santiago de Surco, Lima, Peru
+  url: https://www.peruhack.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-10
+    time: "23:59"
+    tz: UTC-5
+    label: CFP (talk proposals)
+sources:
+- https://www.peruhack.org/
+- https://www.peruhack.org/cfp.html
+- https://portal.core.edu.au/conf-ranks/?search=PERUHACK&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- CFP notification date not stated
+- "Language field omitted: the event is in Spanish, which the language list does not cover"

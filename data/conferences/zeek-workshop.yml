@@ -1,0 +1,54 @@
+id: zeek-workshop
+name: Zeek Workshop
+full_name: Zeek Workshop (Zeek Network Security Monitor community workshop)
+type: industry
+tier: minor
+areas: [security, networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: The Zeek Project (Corelight as custodian)
+organizer_country: [usa]
+proceedings: None (talks recorded)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [3, 9]
+links:
+  website: https://zeek.org/events/
+notes:
+- Community workshop of the Zeek open source network security monitor (formerly Bro); successor of BroCon and ZeekWeek
+- Two days, talks on deployment and real-world use cases on day one and hands-on training on day two
+- "Recent editions: Munich (Feb 2025), CERN Geneva (Mar 2026), Berkeley (Sep 2026), CERN Geneva (Mar 2027)"
+- Attendance free but space limited; training seats capped (35 at CERN 2027)
+- Zeek is supported by Corelight as custodian; previously headquartered at ICSI in Berkeley
+- Talks only, no proceedings; recordings posted for some editions
+editions:
+- year: 2026
+  start: 2026-09-10
+  end: 2026-09-11
+  location: David Brower Center, Berkeley, CA, USA
+  url: https://zeek.org/zeek-workshop-berkeley-2026/
+  status: confirmed
+- year: 2027
+  start: 2027-03-17
+  end: 2027-03-18
+  location: CERN, Geneva, Switzerland
+  url: https://zeek.org/zeek-workshop-cern-2027/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-01-29
+    label: Call for presentations
+sources:
+- https://zeek.org/events/
+- https://zeek.org/zeek-workshop-cern-2027/
+- https://zeek.org/zeek-workshop-berkeley-2026/
+- https://zeek.org/workshop-cern-2026/
+- https://zeek.org/archives/
+- https://zeek.org/about/
+- https://portal.core.edu.au/conf-ranks/?search=Zeek&by=all&source=ICORE2026
+unverified:
+- Time and time zone of the call for presentations deadline not stated
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-11-14

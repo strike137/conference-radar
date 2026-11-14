@@ -1,0 +1,53 @@
+id: agentarch
+name: AgentArch
+full_name: International Workshop on Architecting Agentic AI Systems
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+organizer: AgentArch organizing committee, co-located with IEEE ICSA
+organizer_country: [australia, europe, china, usa]
+proceedings: IEEE Xplore (ICSA Companion Proceedings)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://agentarch.org/
+notes:
+- Workshop on software architecture for LLM-based agents, multi-agent systems and human-agent collaboration, co-located with IEEE ICSA
+- First edition in 2027 at ICSA 2027 in Sydney
+- Accepted papers are published in the ICSA 2027 Companion Proceedings in IEEE Xplore
+- Research papers up to 8 pages and short papers up to 4 pages in IEEE Computer Society format
+- At least three reviews per paper; best paper award
+- Full-day interactive format with keynote, paper sessions, breakout groups and a panel
+- Organizers from RMIT University (Australia), Gran Sasso Science Institute (Italy), Anglia Ruskin University (UK), Dalian University of Technology (China) and Missouri S&T (USA)
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2027
+  start: 2027-03-08
+  end: 2027-03-12
+  location: Sydney, Australia (with ICSA 2027)
+  url: https://agentarch.org/
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-01-19
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-29
+    time: "23:59"
+    tz: AoE
+sources:
+- https://agentarch.org/
+- https://conf.researchr.org/track/icsa-2027/icsa-2027-workshops
+- https://portal.core.edu.au/conf-ranks/?search=AgentArch&by=all&source=ICORE2026
+unverified:
+- Workshop day not yet announced; start and end are the ICSA 2027 dates
+- First edition, so region follows the ICSA host rotation and frequency is not yet known
+last_verified: 2026-11-14

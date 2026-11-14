@@ -1,0 +1,82 @@
+id: motor
+name: MOTOR
+full_name: International Conference on Mathematical Optimization Theory and Operations Research
+type: conference
+tier: minor
+areas: [general, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Russian optimization institutes (Sobolev Institute of Mathematics, Krasovsky Institute of Mathematics and Mechanics, Matrosov Institute for System Dynamics and Control Theory and others), rotating local host
+organizer_country: [other]
+proceedings: Springer LNCS
+archival: true
+indexing: [Scopus, DBLP]
+fee: 7930 RUB regular in person, 2440 RUB virtual (2026, early, VAT included)
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://conference.icc.ru/event/9/
+notes:
+- Formed in 2019 by merging four Russian optimization conference series (Baikal school seminar, MPA Ekaterinburg, DOOR Novosibirsk, OPTA Omsk)
+- Held in Russia every year, rotating between Irkutsk, Ekaterinburg, Novosibirsk, Omsk and Petrozavodsk
+- Main proceedings in Springer LNCS (MOTOR 2026 is LNCS 16687); 2019 to 2024 also had a Springer CCIS "Recent Trends" volume
+- Other papers can go to Russian journals (Siberian Electronic Mathematical Reports, Proceedings of Krasovskii IMM UB RAS)
+- Abstract-only submissions (1 page) are accepted for oral presentation without a paper
+- Full papers 12 to 15 pages in LNCS format, submitted via Springer Meteor; at most two papers per author
+- Operations research and optimization venue, so only partly in the EECS scope of this list; topics include optimization in machine learning
+- In-person and online participation offered
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-07-07
+  end: 2025-07-11
+  location: Novosibirsk Scientific Center, Novosibirsk, Russia
+  url: http://old.math.nsc.ru/conference/motor/2025/
+  deadlines:
+  - kind: abstract
+    date: 2025-03-09
+  - kind: submission
+    date: 2025-03-09
+  - kind: notification
+    date: 2025-04-15
+  - kind: camera_ready
+    date: 2025-05-01
+    label: LNCS papers
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-11
+  location: Camping hotel Yolochka near Irkutsk and Lake Baikal, Russia
+  url: https://conference.icc.ru/event/9/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-03-15
+    label: Abstracts (extended from 2026-02-01)
+  - kind: submission
+    date: 2026-03-15
+    label: Full papers (extended from 2026-03-01)
+  - kind: notification
+    date: 2026-04-15
+  - kind: camera_ready
+    date: 2026-04-30
+  - kind: other
+    date: 2026-05-15
+    label: Registration
+sources:
+- https://conference.icc.ru/event/9/
+- https://conference.icc.ru/event/9/page/70-key-dates
+- https://conference.icc.ru/event/9/page/72-submission
+- https://conference.icc.ru/event/9/page/73-venue
+- https://conference.icc.ru/event/9/page/74-registration
+- https://conference.icc.ru/event/9/page/67-news
+- https://conference.icc.ru/event/9/page/69-committees
+- http://old.math.nsc.ru/conference/motor/2025/
+- https://link.springer.com/conference/motor
+- https://link.springer.com/book/10.1007/978-3-032-31390-4
+- https://portal.core.edu.au/conf-ranks/?search=MOTOR&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- MOTOR 2027 dates and location not announced as of 2026-11-14
+- Indexing (Scopus, DBLP) inferred from the LNCS series, not stated on the conference site

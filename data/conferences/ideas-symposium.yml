@@ -1,0 +1,57 @@
+id: ideas-symposium
+name: IDEAS
+full_name: International Database Engineered Applications Symposium
+type: conference
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [11]
+  conference_months: [1]
+links:
+  website: https://sites.google.com/view/ideas-2027
+notes:
+- Annual since 1997, held in North America, Europe and Asia; renamed International Database Engineering and Artificial Intelligence Symposium for 2027
+- Proceedings in Springer LNCS since 2024 (earlier editions in ACM ICPS)
+- 'Recent hosts: Budapest (2022), Heraklion (2023), Bayonne (2024), Newcastle upon Tyne (2025), Montreal (2026), Fukuoka (2027)'
+- 2027 edition co-located with IEEE BigComp 2027 in Fukuoka and moves from summer to January
+- 'Paper length (2027): regular 14 LNCS pages, short 10 LNCS pages; single-blind review via CMT'
+- Selected papers invited to journals such as Journal of Supercomputing and Data and Knowledge Engineering
+- CORE C (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-07-14
+  end: 2025-07-16
+  location: Newcastle upon Tyne, UK
+  url: https://doi.org/10.1007/978-3-032-06744-9
+- year: 2027
+  start: 2027-01-25
+  end: 2027-01-28
+  location: Fukuoka International Congress Center, Fukuoka, Japan
+  url: https://sites.google.com/view/ideas-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-15
+    label: Workshop paper submission (as stated on the official page)
+  - kind: notification
+    date: 2026-12-15
+sources:
+- https://sites.google.com/view/ideas-2027
+- https://api.crossref.org/works/10.1007/978-3-032-06744-9
+- https://api.crossref.org/works/10.1007/978-3-031-83472-1
+- https://api.crossref.org/works/10.1145/3589462
+- https://portal.core.edu.au/conf-ranks/?search=IDEAS&by=all&source=ICORE2026
+unverified:
+- IDEAS 2026 (30th, Montreal) not confirmed on an official page (the ACM SIGWEB calendar lists 2026-05-20 to 2026-05-22, hosted by Concordia University); the official site confsys.encs.concordia.ca was unreachable on 2026-11-14
+- 2025 dates taken from the Springer LNCS proceedings front matter, not from the official site
+- IDEAS 2027 page lists only a workshop paper deadline; main paper deadline and time zone not stated
+- Organizing body not stated on the 2027 page
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-14

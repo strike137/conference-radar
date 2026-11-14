@@ -1,0 +1,59 @@
+id: sacs-jaiio
+name: SACS
+full_name: Simposio Argentino de Ciberseguridad y Ciberdefensa (Argentine Symposium on Cybersecurity and Cyberdefense)
+type: workshop
+tier: domestic
+areas: [security]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: SADIO (Sociedad Argentina de Informática), symposium of JAIIO
+organizer_country: [other]
+proceedings: JAIIO Memorias (ISSN 2451-7496, UNLP journals platform)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [8]
+links:
+  website: https://55jaiio.sadio.org.ar/sacs-simposio-argentino-de-ciberseguridad-y-ciberdefensa/
+notes:
+- Cybersecurity and cyberdefense symposium within JAIIO, the annual informatics conference of SADIO, the Argentine computing society
+- Covers security management, digital identity and biometrics, forensics, incident handling, critical infrastructure, AI for cybersecurity, blockchain, cybercrime, disinformation and cyberdefense
+- Aimed at both academics and practitioners; besides papers it has workshops, panels and invited talks
+- Uses the JAIIO rules for paper types, single-blind review and deadlines; Spanish, Portuguese or English
+- Accepted papers must be presented (in person or by an authorized representative) to appear in the proceedings
+- Proceedings published as a SACS issue of the JAIIO Memorias (2025 is Vol. 11 No. 7)
+- Held with JAIIO in Argentina (Buenos Aires 2025, La Plata 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-08-04
+  end: 2025-08-07
+  location: Universidad de Buenos Aires, Buenos Aires, Argentina (54 JAIIO)
+  url: https://54jaiio.sadio.org.ar/sacs-simposio-argentino-de-ciberseguridad-y-ciberdefensa/
+- year: 2026
+  start: 2026-08-10
+  end: 2026-08-13
+  location: UTN Facultad Regional La Plata, La Plata, Argentina (55 JAIIO)
+  url: https://55jaiio.sadio.org.ar/sacs-simposio-argentino-de-ciberseguridad-y-ciberdefensa/
+  deadlines:
+  - kind: submission
+    date: 2026-04-17
+    label: Full paper (extended date)
+  - kind: notification
+    date: 2026-05-29
+  - kind: camera_ready
+    date: 2026-06-29
+sources:
+- https://55jaiio.sadio.org.ar/sacs-simposio-argentino-de-ciberseguridad-y-ciberdefensa/
+- https://55jaiio.sadio.org.ar/fechas
+- https://55jaiio.sadio.org.ar/revision-publicacion-e-indexacion
+- https://54jaiio.sadio.org.ar/sacs-simposio-argentino-de-ciberseguridad-y-ciberdefensa/
+- https://revistas.unlp.edu.ar/JAIIO/issue/view/1216
+- https://portal.core.edu.au/conf-ranks/?search=SACS&by=all&source=ICORE2026
+unverified:
+- Edition dates are those of JAIIO; the exact SACS days were not checked
+- Both the 2025 and 2026 calls say 4th edition, so the edition number is unclear
+- 2025 SACS deadlines not recorded separately (JAIIO 2025 deadlines are in jaiio.yml)
+- 56 JAIIO (2027) dates not yet announced
+last_verified: 2026-11-14

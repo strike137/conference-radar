@@ -1,0 +1,51 @@
+id: mitoti
+name: MITOTI
+full_name: International Workshop on Middleware for IT/OT Integration
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Siemens Foundational Technologies, Vanderbilt University (ISIS) and University of Stuttgart (ISW) organizers, co-located with ACM Middleware
+organizer_country: [usa, europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://chhokrad.github.io/mitoti2025/
+notes:
+- Workshop on middleware bridging IT and operational technology (IIoT, edge-cloud continuum, PLCs and robotics, IT/OT networking and security), co-located with ACM Middleware
+- 2025 edition held on 2025-12-16 at Vanderbilt University, Nashville, with keynotes from West Virginia University and Siemens
+- Regular papers up to 6 pages, short and position papers up to 4 pages, ACM SIGCONF format; each paper reviewed by at least three PC members
+- Proceedings in the ACM Digital Library
+- Strong industry involvement (Siemens, Bosch, Intel, Nvidia on the PC)
+- A MITOTI 2026 entry is listed on the Middleware 2026 workshop page
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-16
+  end: 2025-12-16
+  location: Nashville, TN, USA (ACM Middleware 2025)
+  url: https://chhokrad.github.io/mitoti2025/
+  deadlines:
+  - kind: submission
+    date: 2025-10-13
+    label: Extended from 2025-09-24
+  - kind: notification
+    date: 2025-10-27
+  - kind: camera_ready
+    date: 2025-11-08
+sources:
+- https://chhokrad.github.io/mitoti2025/
+- https://chhokrad.github.io/mitoti2025/program
+- https://middleware-conf.github.io/2025/workshops/
+- https://middleware-conf.github.io/2026/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=MITOTI&by=all&source=ICORE2026
+unverified:
+- MITOTI 2026 is linked from the Middleware 2026 workshop page (Tarragona, 2026-12-14 to 2026-12-18), but its page returns 404 as of 2026-11-14, so no 2026 dates are recorded
+- Whether an edition was held before 2025 not confirmed
+- Acceptance rate and fee not published
+last_verified: 2026-11-14

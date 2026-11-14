@@ -1,0 +1,64 @@
+id: medagi
+name: MedAGI
+full_name: International Workshop on Foundation Models for General Medical AI
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: MedAGI workshop organizers (held with MICCAI)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://medagi2026.github.io/
+notes:
+- MICCAI satellite workshop on foundation models and general-purpose AI for medical imaging, held since MICCAI 2023
+- Moves with MICCAI (Vancouver 2023, Marrakesh 2024, Daejeon 2025, Strasbourg 2026)
+- Full papers published in Springer LNCS (MedAGI 2025 -> LNCS 16112, own volume)
+- "Two tracks: full papers (up to 8 pages plus 2 pages of references, double-blind) and 2-page extended abstracts, which may be previously published work"
+- Organizers from KAIST, Korea University, Shanghai AI Laboratory, University of Cambridge and others
+- Best paper award chosen by an award committee
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://medagi2025.github.io/
+- year: 2026
+  start: 2026-10-01
+  end: 2026-10-01
+  location: Strasbourg, France
+  url: https://medagi2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-08
+    time: "23:59"
+    tz: PDT
+    label: Papers (extended from 2026-07-01)
+  - kind: notification
+    date: 2026-08-07
+    time: "23:59"
+    tz: PDT
+    label: Final notification (moved from 2026-07-31)
+  - kind: camera_ready
+    date: 2026-08-17
+    time: "23:59"
+    tz: PDT
+sources:
+- https://medagi2026.github.io/
+- https://medagi2026.github.io/#/call-for-papers
+- https://medagi2025.github.io/
+- https://link.springer.com/conference/medagi
+- https://link.springer.com/book/10.1007/978-3-032-07845-2
+- https://portal.core.edu.au/conf-ranks/?search=MedAGI&by=all&source=ICORE2026
+unverified:
+- 2026 page gives times as 23:59 Pacific Time; recorded as PDT
+- LNCS volume for MedAGI 2026 not yet published as of 2026-11-14
+- MedAGI 2027 dates and location not yet announced as of 2026-11-14
+last_verified: 2026-11-14

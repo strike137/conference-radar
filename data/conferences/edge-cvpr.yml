@@ -1,0 +1,48 @@
+id: edge-cvpr
+name: EDGE
+full_name: Workshop on Efficient and On-Device Generation
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Felix Juefei-Xu, Tingbo Hou and Yuchen Liu of Google DeepMind, with Meta, Microsoft AI, NVIDIA and others); co-located with CVPR
+organizer_country: [usa]
+proceedings: CVF Open Access and IEEE Xplore (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://cvpr26-edge.github.io/
+notes:
+  - Workshop on efficient generative AI for vision (training, inference and data efficiency, on-device and edge deployment)
+  - Held with CVPR every year since 2024 (1st CVPR 2024, 2nd CVPR 2025, 3rd CVPR 2026 in Denver)
+  - "Two tracks: long papers up to 8 pages (in CVPR Workshops proceedings) and extended abstracts up to 4 pages (not in proceedings)"
+  - Anonymized submissions via OpenReview, CVPR author kit; papers under review at another CVPR workshop are not allowed
+  - Organizers mostly from industry labs (Google DeepMind, Meta, Microsoft AI, NVIDIA)
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    start: 2026-06-03
+    end: 2026-06-03
+    location: Denver, Colorado, USA (with CVPR 2026)
+    url: https://cvpr26-edge.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-03-06
+        tz: AoE
+      - kind: notification
+        date: 2026-03-22
+      - kind: camera_ready
+        date: 2026-04-09
+sources:
+  - https://cvpr26-edge.github.io/
+  - https://openaccess.thecvf.com/CVPR2026_workshops/EDGE
+  - https://openaccess.thecvf.com/CVPR2025_workshops/EDGE
+  - https://openaccess.thecvf.com/CVPR2024_workshops/EDGE
+  - https://portal.core.edu.au/conf-ranks/?search=EDGE&by=all&source=ICORE2026
+unverified:
+  - EDGE 2027 not announced yet
+last_verified: 2026-11-14

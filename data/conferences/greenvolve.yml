@@ -1,0 +1,59 @@
+id: greenvolve
+name: Greenvolve
+full_name: International Workshop on Green Software Evolution
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+organizer: Greenvolve organizers (University of Twente, University of Molise, University of Salerno, University of L'Aquila), co-located with IEEE SANER
+organizer_country: [europe]
+proceedings: IEEE Xplore (SANER companion proceedings, SANER-C)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://greenvolve.github.io/
+notes:
+- Workshop on energy-efficient and sustainable software design, maintenance and evolution, green performance testing, green DevOps and green AI
+- 1st edition held with SANER 2026 in Limassol, Cyprus; 9 accepted papers
+- Papers appear in the SANER 2026 companion proceedings (SANER-C) in IEEE Xplore
+- Full papers up to 8 pages, short papers up to 4, position papers up to 2, double-anonymous review, submitted via the SANER EasyChair
+- Linked special issue on Green Software Evolution in Information and Software Technology (open until 2026-08-28)
+- Sponsored by the Italian PRIN project RECHARGE
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: 1st Greenvolve, with SANER 2026
+  start: 2026-03-17
+  end: 2026-03-17
+  location: Limassol, Cyprus (co-located with SANER 2026)
+  url: https://greenvolve.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-12
+    time: "23:59"
+    tz: AoE
+    label: Not mandatory
+  - kind: submission
+    date: 2025-12-18
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-01-14
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-20
+    time: "23:59"
+    tz: AoE
+sources:
+- https://greenvolve.github.io/
+- https://conf.researchr.org/home/saner-2026
+- https://conf.researchr.org/home/saner-2027
+- https://doi.org/10.1109/saner-c67878.2026.00033
+- https://portal.core.edu.au/conf-ranks/?search=Greenvolve&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- Only one edition so far; whether it recurs (for example at SANER 2027 in Richmond) is not announced

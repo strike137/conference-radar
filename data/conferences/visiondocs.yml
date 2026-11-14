@@ -1,0 +1,97 @@
+id: visiondocs
+name: VisionDocs
+full_name: Workshop on Computer Vision Systems for Document Analysis and Recognition
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: AVML Lab, University of Udine, with University of Modena and Reggio Emilia
+organizer_country: [europe]
+proceedings: IEEE Xplore and CVF Open Access (WACV or ICCV Workshops proceedings, regular papers)
+archival: true
+typical:
+  deadline_months: [10, 12]
+  conference_months: [1, 3]
+links:
+  website: https://sites.google.com/view/avml-lab-visiondocs-wacv2027/
+notes:
+- Workshop on document analysis with computer vision, multimodal and foundation models (layout analysis, handwriting, historical documents, document VQA)
+- Editions at WACV 2025, ICCV 2025, WACV 2026 and WACV 2027
+- Regular papers up to 8 pages go in the workshop proceedings; short papers up to 4 pages appear on the website only
+- Double-blind review on OpenReview; papers must be presented in person
+- 16 papers in the ICCV 2025 and 7 in the WACV 2026 workshop proceedings on CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 3rd edition, with WACV 2026
+  start: 2026-03-06
+  end: 2026-03-06
+  location: Tucson, USA
+  url: https://sites.google.com/view/avml-lab-visiondocs-wacv2026
+  deadlines:
+  - kind: submission
+    date: 2025-12-23
+    time: "23:59"
+    tz: UTC
+    label: Regular papers (extended)
+  - kind: notification
+    date: 2026-01-02
+    time: "23:59"
+    tz: UTC
+    label: Regular papers
+  - kind: camera_ready
+    date: 2026-01-09
+    time: "23:59"
+    tz: UTC
+    label: Regular papers
+  - kind: submission
+    date: 2026-02-01
+    time: "23:59"
+    tz: UTC
+    label: Short papers
+- year: 2027
+  label: 4th edition, with WACV 2027
+  start: 2027-01-04
+  end: 2027-01-04
+  location: Disney Springs, Florida, USA
+  url: https://sites.google.com/view/avml-lab-visiondocs-wacv2027/
+  deadlines:
+  - kind: submission
+    date: 2026-10-18
+    time: "23:59"
+    tz: PDT
+    label: Regular papers
+  - kind: notification
+    date: 2026-11-02
+    time: "23:59"
+    tz: PST
+    label: Regular papers
+  - kind: camera_ready
+    date: 2026-11-25
+    time: "23:59"
+    tz: PST
+    label: Regular papers
+  - kind: submission
+    date: 2026-11-15
+    time: "23:59"
+    tz: PST
+    label: Short papers (non-archival)
+  - kind: notification
+    date: 2026-11-19
+    time: "23:59"
+    tz: PST
+    label: Short papers
+sources:
+- https://sites.google.com/view/avml-lab-visiondocs-wacv2027/
+- https://sites.google.com/view/avml-lab-visiondocs-wacv2027/organizers
+- https://sites.google.com/view/avml-lab-visiondocs-wacv2026
+- https://sites.google.com/view/avml-lab-visiondocs-wacv2026/organizers
+- https://wacv.thecvf.com/Conferences/2027/Workshops
+- https://openaccess.thecvf.com/WACV2026_workshops/VisionDocs
+- https://openaccess.thecvf.com/ICCV2025_workshops/VisionDocs
+- https://portal.core.edu.au/conf-ranks/?search=VisionDocs&by=all&source=ICORE2026
+unverified:
+- The site gives deadlines in Pacific Time; PDT or PST was chosen from the date
+last_verified: 2026-11-14

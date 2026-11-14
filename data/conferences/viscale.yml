@@ -1,0 +1,53 @@
+id: viscale
+name: ViSCALE
+full_name: Workshop on Test-time Scaling for Computer Vision
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Tsinghua University, Yinpeng Dong and Yichi Zhang, with Princeton, UC Santa Cruz, Bosch, Oxford, Sony, CAS and NUS); co-located with CVPR
+organizer_country: [china]
+proceedings: CVF Open Access and IEEE Xplore (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://viscale.github.io/
+notes:
+  - Workshop on test-time (inference-time) scaling for vision, multimodal and generative models
+  - 1st edition at CVPR 2025 in Nashville, 2nd at CVPR 2026 in Denver
+  - "Two tracks: full papers up to 8 pages (archival, CVPR Workshops proceedings and IEEE Xplore) and extended abstracts up to 4 pages (non-archival)"
+  - Double-blind review on OpenReview, CVPR 2026 author kit
+  - Half-day workshop with invited talks and a poster session
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2025
+    start: 2025-06-12
+    end: 2025-06-12
+    location: Nashville, Tennessee, USA (with CVPR 2025)
+    url: https://viscale.github.io/cvpr2025/
+  - year: 2026
+    start: 2026-06-03
+    end: 2026-06-03
+    location: Denver, Colorado, USA (with CVPR 2026)
+    url: https://viscale.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-03-10
+        tz: AoE
+      - kind: notification
+        date: 2026-03-18
+      - kind: camera_ready
+        date: 2026-03-31
+sources:
+  - https://viscale.github.io/
+  - https://viscale.github.io/cvpr2025/
+  - https://openaccess.thecvf.com/CVPR2026_workshops/Viscale
+  - https://openaccess.thecvf.com/CVPR2025_workshops/ViSCALE
+  - https://portal.core.edu.au/conf-ranks/?search=ViSCALE&by=all&source=ICORE2026
+unverified:
+  - ViSCALE 2027 not announced yet
+last_verified: 2026-11-14

@@ -1,0 +1,63 @@
+id: dg-ebf
+name: DG-EBF
+full_name: "Domain Generalization: Evolution, Breakthroughs, and Future Horizons"
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee led by MBZUAI (Muhammad Haris Khan), with IIT Bombay, IIT Hyderabad, RIKEN/University of Tokyo, Tuebingen AI Center and others; co-located with CVPR
+organizer_country: [other]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops), archival track only
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://dg-ebf.github.io/2026/
+notes:
+- CVPR workshop on domain generalization beyond classification and images, multimodal and open-world settings, and calibration
+- 1st edition at CVPR 2025 in Nashville, 2nd at CVPR 2026 in Denver
+- Archival track (up to 8 pages) goes into the CVPR Workshops proceedings; non-archival track for 4-page short papers and CVPR dual submissions
+- Double-blind review via Microsoft CMT in CVPR format
+- 17 papers on CVF Open Access for 2025, 10 for 2026
+- Best paper prize (750 USD in 2025) sponsored by AWL Inc Japan
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 2nd DG-EBF, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Colorado Convention Center, Denver, Colorado, USA
+  url: https://dg-ebf.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-07
+    tz: AoE
+    label: Archival track
+  - kind: notification
+    date: 2026-03-25
+    label: Archival track
+  - kind: camera_ready
+    date: 2026-04-07
+    label: Archival track
+  - kind: submission
+    date: 2026-04-18
+    label: Non-archival track
+  - kind: notification
+    date: 2026-05-01
+    label: Non-archival track
+sources:
+- https://dg-ebf.github.io/2026/
+- https://dg-ebf.github.io/2026/call-for-papers.html
+- https://cvpr.thecvf.com/virtual/2026/workshop/36033
+- https://cvpr25workshop.m-haris-khan.com/
+- https://cvpr25workshop.m-haris-khan.com/call-for-papers/
+- https://cvpr.thecvf.com/Conferences/2025/workshop-list
+- https://openaccess.thecvf.com/CVPR2026_workshops/DG-EBF
+- https://openaccess.thecvf.com/CVPR2025_workshops/DG-EBF
+- https://portal.core.edu.au/conf-ranks/?search=DG-EBF&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- 3rd edition (expected with CVPR 2027) not announced yet

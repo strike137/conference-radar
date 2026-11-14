@@ -1,0 +1,65 @@
+id: eaim
+name: EAIM
+full_name: International Workshop on Emerging AI Technologies for Music
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AMAAI Lab (Singapore University of Technology and Design) and Queen Mary University of London; co-located with AAAI
+organizer_country: [singapore, europe]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1, 2]
+links:
+  website: https://amaai-lab.github.io/EAIM2027/
+notes:
+  - AAAI workshop on AI for music (composition and generation, music foundation models, production, MIR, singing voice synthesis, human-AI co-creativity)
+  - 1st edition at AAAI-26 in Singapore (26 January 2026), 2nd edition at AAAI-27 in Montreal
+  - 2026 papers published in PMLR volume 303; 2027 accepted papers also go to a PMLR volume
+  - Papers 8 to 11 pages excluding references in PMLR format, double-blind review on OpenReview with three reviews per paper
+  - Full-day in-person workshop; at least one author must present in person
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 1st edition, with AAAI-26
+    start: 2026-01-26
+    end: 2026-01-26
+    location: Singapore (with AAAI-26)
+    url: https://amaai-lab.github.io/EAIM2026
+    deadlines:
+      - kind: submission
+        date: 2025-10-29
+        label: Extended from 2025-10-24
+      - kind: notification
+        date: 2025-11-14
+      - kind: camera_ready
+        date: 2025-12-14
+  - year: 2027
+    label: 2nd edition, with AAAI-27; workshop day is 22 or 23 February 2027 (not yet fixed)
+    start: 2027-02-22
+    end: 2027-02-23
+    location: Montreal, Canada (with AAAI-27)
+    url: https://amaai-lab.github.io/EAIM2027/
+    status: tentative
+    deadlines:
+      - kind: submission
+        date: 2026-11-13
+        time: "23:59"
+        tz: AoE
+        label: Extended from 2026-11-06
+      - kind: notification
+        date: 2026-12-02
+sources:
+  - https://amaai-lab.github.io/EAIM2027/
+  - https://amaai-lab.github.io/EAIM2026
+  - https://proceedings.mlr.press/v303/
+  - https://aaai.org/conference/aaai/aaai-27/aaai-27-workshop-program-list/
+  - https://portal.core.edu.au/conf-ranks/?search=EAIM&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - Exact 2027 workshop day (22 or 23 February 2027) not fixed
+  - 2027 camera-ready date (January 2027, exact date TBD)

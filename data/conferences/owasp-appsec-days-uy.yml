@@ -1,0 +1,54 @@
+id: owasp-appsec-days-uy
+name: AppSec Days Uruguay
+full_name: OWASP AppSec Days Uruguay
+type: industry
+tier: minor
+areas: [security, software]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: OWASP Uruguay chapter volunteers (OWASP Foundation)
+organizer_country: [other]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [11, 12]
+links:
+  website: https://owasp.org/www-chapter-uruguay/
+notes:
+- Application security conference run by the OWASP Uruguay chapter (active since 2010) in Montevideo
+- 2025 edition had two trainings on Nov 19 at WTC Free Zone and a talk day on Nov 20 at the Auditorio Mario Benedetti, Torre de las Telecomunicaciones de ANTEL
+- Open call for speakers on Sessionize; talks mostly in Spanish, some in English
+- Annual chapter conference under changing names (AppSec Rio de la Plata 2024, AppSec Days 2025, Meetup+ 2026)
+- No proceedings; the 2026 Meetup+ edition is free with registration
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-19
+  end: 2025-11-20
+  location: Torre de las Telecomunicaciones de ANTEL, Montevideo, Uruguay
+  url: https://sessionize.com/owasp-appsec-days-uruguay-2025
+  deadlines:
+  - kind: submission
+    date: 2025-08-01
+    time: "23:59"
+    tz: UTC-3
+    label: Call for speakers
+- year: 2026
+  start: 2026-11-30
+  end: 2026-11-30
+  location: Auditorio Mario Benedetti, Torre de las Telecomunicaciones de ANTEL, Montevideo, Uruguay
+  url: https://owasp-uruguay.github.io/owasp-meetup-plus-2026/
+  label: OWASP Meetup+ Uruguay 2026
+sources:
+- https://owasp.org/www-chapter-uruguay/
+- https://sessionize.com/owasp-appsec-days-uruguay-2025
+- https://owasp-uruguay.github.io/eventos/
+- https://owasp-uruguay.github.io/eventos/2025-11-19-appsec-days-uruguay/
+- https://owasp-uruguay.github.io/owasp-meetup-plus-2026/
+- https://portal.core.edu.au/conf-ranks/?search=AppSec&by=all&source=ICORE2026
+unverified:
+- No 2026 AppSec Days Uruguay announced; the 2026 chapter conference is branded OWASP Meetup+ Uruguay (free one-day event) and its dates come from the chapter's community event site, which calls itself unofficial
+- 2026 call for speakers dates not stated (closed)
+last_verified: 2026-11-14

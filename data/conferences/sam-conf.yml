@@ -1,0 +1,62 @@
+id: sam-conf
+name: SAM
+full_name: System Analysis and Modelling Conference
+type: conference
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: SDL Forum Society
+organizer_country: [international]
+proceedings: ACM DL (MODELS Companion proceedings)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://sdl-forum.org/events/sam.php
+notes:
+- Run by the SDL Forum Society; successor of the SDL Forum and SAM workshop series
+- Co-located with the ACM/IEEE MODELS conference every year since 2010 (annual since 2018)
+- Covers modeling, specification and analysis of systems with ITU-T languages (SDL-2010, MSC, ASN.1, TTCN-3, URN)
+  and related languages such as UML and SysML
+- 2026 papers published in the MODELS 2026 Companion proceedings by ACM (open access, APC for full papers from
+  institutions outside ACM Open; no APC for extended abstracts)
+- Full papers up to 10 pages and extended abstracts up to 5 pages, including references; single-blind review
+- Best papers invited to extend their work for the Springer journal Innovations in Systems and Software Engineering (ISSE)
+- Small event, usually limited to about 100 people
+- Not listed in the ICORE2026 CORE portal
+editions:
+- year: 2026
+  start: 2026-10-05
+  end: 2026-10-06
+  location: Malaga, Spain
+  url: https://sdl-forum.org/Events/SAM2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-24
+    label: Extended
+  - kind: submission
+    date: 2026-07-01
+    label: Extended
+  - kind: notification
+    date: 2026-07-22
+  - kind: camera_ready
+    date: 2026-08-14
+- year: 2027
+  start: 2027-09-27
+  end: 2027-09-28
+  location: Budapest, Hungary
+  url: https://sdl-forum.org/events/sam.php
+sources:
+- https://sdl-forum.org/events/sam.php
+- https://sdl-forum.org/Events/SAM2026/
+- https://sdl-forum.org/Events/SAM2026/submission.php
+- https://sdl-forum.org/Events/SAM2026/papers.php
+- https://portal.core.edu.au/conf-ranks/?search=SAM&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=System+Analysis+and+Modelling&by=all&source=ICORE2026
+unverified:
+- SAM 2027 call for papers and deadlines not yet announced
+- Acceptance rate and fees not checked
+last_verified: 2026-11-14

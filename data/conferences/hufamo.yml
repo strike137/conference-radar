@@ -1,0 +1,51 @@
+id: hufamo
+name: HuFaMo
+full_name: International Workshop on Human Factors in Modeling / Modeling of Human Factors
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: irregular
+organizer: HuFaMo steering committee, co-located with MODELS
+organizer_country: [europe, australia]
+proceedings: ACM DL (MODELS companion proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://hufamo.github.io/
+notes:
+- Workshop on human factors in model-based engineering (usability and developer experience of modeling languages and tools) and on modeling human factors of end users
+- Established in 2015; every edition co-located with MODELS (2015, 2016, 2018, 2019, 2021, 2022, 2023, 2026)
+- Not held every year; 2026 was the 8th edition after a break in 2024 and 2025
+- Accepted papers published in the MODELS conference companion proceedings by ACM
+- Double-blind review; full papers up to 10 pages and position papers up to 5 pages, ACM format
+- Welcomes study designs without results, so early-stage empirical work can be discussed before running the study
+- Steering committee from Spain, Portugal, Australia (Monash HumaniSE Lab), Sweden and France
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: 8th edition, with MODELS 2026
+  start: 2026-10-05
+  end: 2026-10-05
+  location: Malaga, Spain (co-located with MODELS 2026)
+  url: https://hufamo.github.io/editions/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-14
+sources:
+- https://hufamo.github.io/
+- https://hufamo.github.io/editions/2026/
+- https://conf.researchr.org/track/models-2026/models-2026-workshops
+- https://portal.core.edu.au/conf-ranks/?search=HuFaMo&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- No 2027 edition announced yet

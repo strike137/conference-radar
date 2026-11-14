@@ -1,0 +1,77 @@
+id: plop
+name: PLoP
+full_name: Conference on Pattern Languages of Programs, People, and Practices
+type: conference
+tier: minor
+areas: [software]
+region: north-america
+language: english
+frequency: annual
+organizer: The Hillside Group
+organizer_country: [usa]
+proceedings: ACM DL (Hillside Group proceedings)
+archival: true
+rank:
+  core: C
+fee: About 1525 USD (2026, early, standard registration with lodging and meals); 695 USD student without lodging
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10]
+links:
+  website: https://www.plopcon.org/
+notes:
+- Founded by The Hillside Group about thirty years ago; the original *PLoP conference (EuroPLoP and AsianPLoP are sister venues)
+- Papers on patterns and pattern languages in software, organizations, education and other designed systems
+- Papers are shepherded before the conference and discussed in Writers' Workshops; proceedings version due in January after the conference
+- Proceedings published by the Hillside Group and listed in the ACM Digital Library every year since 2006
+- Held at retreat venues in North America (Allerton Park, Illinois in 2023; Skamania Lodge, Washington in 2024 and 2025; near Ottawa, Canada in 2026)
+- Registration packages include meals and optionally lodging at the venue
+- "CORE rank: C (ICORE2026)"
+editions:
+- year: 2026
+  label: 33rd PLoP
+  start: 2026-10-19
+  end: 2026-10-22
+  location: Strathmere Country Retreat, near Ottawa, Ontario, Canada
+  url: https://www.plopcon.org/plop2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-08
+    tz: AoE
+    label: Papers for Writers' Workshops (extended)
+  - kind: notification
+    date: 2026-07-15
+    tz: AoE
+    label: Acceptance for shepherding
+  - kind: other
+    date: 2026-08-05
+    tz: AoE
+    label: Explorations proposals or papers (extended)
+  - kind: other
+    date: 2026-08-20
+    tz: AoE
+    label: Updated papers
+  - kind: notification
+    date: 2026-08-25
+    tz: AoE
+  - kind: other
+    date: 2026-09-20
+    tz: AoE
+    label: Conference version of paper
+  - kind: camera_ready
+    date: 2027-01-15
+    tz: AoE
+    label: Proceedings version
+sources:
+- https://www.plopcon.org/
+- https://www.plopcon.org/plop2026/
+- https://www.plopcon.org/plop2026/registration/
+- https://www.plopcon.org/plop2025/
+- https://www.plopcon.org/plop2024/
+- https://www.plopcon.org/plop2023/
+- https://www.plopcon.org/plop-proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=PLoP&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- PLoP 2027 dates and location not yet announced as of 2026-11-14
+- Original (pre-extension) paper deadline for 2026 not shown on the official site

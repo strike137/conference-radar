@@ -1,0 +1,48 @@
+id: llmapp
+name: LLMapp
+full_name: International Workshop on LLM App Store Analysis
+type: workshop
+tier: minor
+areas: [software, ai, security]
+region: europe
+language: english
+organizer: LLMapp organizing committee (Huazhong University of Science and Technology, Monash University, The Hong Kong Polytechnic University), co-located with ACM FSE
+organizer_country: [china, australia]
+proceedings: ACM DL (FSE 2025 companion proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://llmappworkshop.github.io/
+notes:
+  - FSE workshop on LLM app stores (GPT Store, Poe, Coze, FlowGPT and others) covering mining, security and privacy, quality and ecosystem analysis
+  - First edition at FSE 2025 in Trondheim, Norway on 26 June 2025
+  - Position papers (1 to 4 pages) and research papers (8 pages), ACM sigconf format, double-anonymous review by at least three PC members
+  - Accepted papers published in the FSE 2025 companion proceedings (ACM)
+  - Not on the FSE 2026 workshop list
+  - Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+  - year: 2025
+    start: 2025-06-26
+    end: 2025-06-26
+    location: Trondheim, Norway (with FSE 2025)
+    url: https://llmappworkshop.github.io/
+    deadlines:
+      - kind: submission
+        date: 2025-03-15
+        tz: AoE
+      - kind: notification
+        date: 2025-03-31
+        tz: AoE
+      - kind: camera_ready
+        date: 2025-04-24
+        tz: AoE
+sources:
+  - https://llmappworkshop.github.io/
+  - https://conf.researchr.org/home/fse-2026
+  - https://portal.core.edu.au/conf-ranks/?search=LLMapp&by=all&source=ICORE2026
+unverified:
+  - Only one edition so far; no 2026 or 2027 edition announced
+  - The submission guidelines also mention a HotCRP deadline of 2025-02-25, while Important Dates say 2025-03-15
+last_verified: 2026-11-14

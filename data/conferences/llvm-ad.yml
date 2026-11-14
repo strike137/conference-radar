@@ -1,0 +1,52 @@
+id: llvm-ad
+name: LLVM-AD
+full_name: Workshop on Large Language and Vision Models for Autonomous Driving
+type: workshop
+tier: minor
+areas: [vision, ai, nlp]
+region: north-america
+language: english
+frequency: multiple-per-year
+organizer: Workshop organizers from Purdue University, Bosch Center for AI, UIUC, University of Virginia, Texas A&M University and UC Riverside
+organizer_country: [usa]
+proceedings: IEEE Xplore and CVF Open Access (WACV Workshops)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://llvm-ad.github.io/
+notes:
+- Workshop on LLMs and vision-language models for autonomous driving (scene understanding, planning, simulation, datasets)
+- Held twice a year so far, with WACV (2024, 2025, 2026) and IEEE ITSC (2024, 2025); WACV 2026 was the 5th edition
+- WACV editions publish papers in the WACV workshop proceedings in IEEE Xplore (10 papers on CVF Open Access in 2026)
+- Papers 6 to 8 pages in the WACV main conference format
+- The ITSC 2025 edition (Gold Coast, Australia) ran the NuPlanQA visual question answering challenge
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-03-07
+  end: 2026-03-07
+  location: Tucson, Arizona, USA (with WACV 2026)
+  url: https://llvm-ad.github.io/WACV_2026/
+  deadlines:
+  - kind: submission
+    date: 2025-12-16
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2026-01-04
+    time: "23:59"
+    tz: PST
+sources:
+- https://llvm-ad.github.io/WACV_2026/
+- https://llvm-ad.github.io/all_workshops/
+- https://llvm-ad.github.io/ITSC_2025/
+- https://ieee-itsc.org/2025/
+- https://openaccess.thecvf.com/WACV2026_workshops/LLVM-AD
+- https://wacv.thecvf.com/Conferences/2026
+- https://portal.core.edu.au/conf-ranks/?search=LLVM-AD&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- Proceedings of the ITSC editions not confirmed from an official page
+- No 6th edition (ITSC 2026 or WACV 2027) announced yet

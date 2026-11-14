@@ -1,0 +1,77 @@
+id: synrdinbas
+name: SynRDinBAS
+full_name: Workshop on Synthetic Realities and Data in Biometric Analysis and Security
+type: workshop
+tier: minor
+areas: [security, vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Fraunhofer IGD, University of Ljubljana, Johns Hopkins University, University of North Texas, Unicamp, Drexel University and others); co-located with WACV
+organizer_country: [europe, usa]
+proceedings: IEEE Xplore and CVF Open Access (WACV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [10, 12]
+  conference_months: [1, 3]
+links:
+  website: https://sites.google.com/view/synrdinbaswacv2027
+notes:
+  - Workshop on the generation, use, evaluation and forensic analysis of synthetic data in biometrics, including deepfakes and face morphs
+  - Held with WACV 2025 and WACV 2026 (Tucson), and with WACV 2027 (Orlando)
+  - The WACV 2026 edition ran together with a synthetic data detection challenge
+  - Papers up to 8 pages in WACV format; accepted papers appear in the WACV Workshops proceedings and IEEE Xplore
+  - Submissions on OpenReview in 2027 (CMT in 2026)
+  - 10 papers in the WACV 2025 and 8 in the WACV 2026 workshop proceedings on CVF Open Access
+  - In-person event; every accepted paper needs an author registration
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With WACV 2026
+    start: 2026-03-06
+    end: 2026-03-06
+    location: Tucson, Arizona, USA
+    url: https://sites.google.com/view/synrdinbaswacv2026/home
+    deadlines:
+      - kind: submission
+        date: 2025-12-16
+        time: "23:59"
+        tz: PST
+        label: Full papers (extended)
+      - kind: notification
+        date: 2026-01-03
+      - kind: camera_ready
+        date: 2026-01-09
+        time: "23:59"
+        tz: PST
+  - year: 2027
+    label: With WACV 2027
+    start: 2027-01-04
+    end: 2027-01-04
+    location: Orlando, Florida, USA
+    url: https://sites.google.com/view/synrdinbaswacv2027
+    deadlines:
+      - kind: submission
+        date: 2026-10-20
+        label: Full papers (extended)
+      - kind: notification
+        date: 2026-11-16
+      - kind: camera_ready
+        date: 2026-11-20
+sources:
+  - https://sites.google.com/view/synrdinbaswacv2027
+  - https://sites.google.com/view/synrdinbaswacv2027/submission
+  - https://sites.google.com/view/synrdinbaswacv2027/organizers
+  - https://sites.google.com/view/synrdinbaswacv2026/home
+  - https://sites.google.com/view/synrdinbaswacv2026/submission
+  - https://sites.google.com/view/synrdinbaswacv2026/organizers
+  - https://wacv.thecvf.com/Conferences/2026/Workshops
+  - https://wacv.thecvf.com/Conferences/2027/Workshops
+  - https://openaccess.thecvf.com/WACV2026_workshops/SynRDinBAS
+  - https://openaccess.thecvf.com/WACV2025_workshops/SynRDinBAS
+  - https://portal.core.edu.au/conf-ranks/?search=SynRDinBAS&by=all&source=ICORE2026
+unverified:
+  - The 2026 site gives deadlines in PT; PST was chosen from the date
+  - The 2027 submission page shows struck-out original dates (October 5 and October 30) next to the current ones; no time zone is stated
+  - The WACV 2026 workshop day (March 6) is from the WACV 2026 workshop list
+last_verified: 2026-11-14

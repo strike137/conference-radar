@@ -1,0 +1,65 @@
+id: ieej-sensor-symposium
+name: Sensor Symposium
+full_name: Symposium on Sensors, Micromachines and Applied Systems
+name_local: 「センサ・マイクロマシンと応用システム」シンポジウム
+type: conference
+tier: domestic
+areas: [communications, systems]
+region: japan
+language: mixed
+frequency: annual
+organizer: IEEJ Sensors and Micromachines Society (E部門)
+organizer_country: [japan]
+proceedings: IEEJ Electronic Library (papers with copyright transferred to IEEJ, as divisional conference papers)
+archival: true
+typical:
+  deadline_months: [6, 8]
+  conference_months: [11]
+links:
+  website: https://sensorsymposium.org/
+notes:
+  - Annual divisional conference of the IEEJ Sensors and Micromachines Society (E部門); the largest domestic sensor and MEMS symposium in Japan
+  - Held jointly with the JSME Micro-Nano Engineering Symposium, the JSAP Integrated MEMS Symposium and a CHEMINAS meeting; one registration covers all of them
+  - Two-page abstracts are reviewed by the paper committee; accepted talks then submit a 2 to 6 page paper in Japanese or English
+  - Late-breaking poster abstracts are accepted about two months before the event
+  - Proceedings are a download for participants (no printed book); papers with copyright transferred to IEEJ go into the IEEJ Electronic Library
+  - Papers can be submitted in parallel to IEEJ Transactions on Sensors and Micromachines (reviewed separately)
+  - Held every autumn in a different Japanese city (Kumamoto 2023, Sendai 2024, Utsunomiya 2025, Matsue 2026)
+editions:
+  - year: 2025
+    start: 2025-11-10
+    end: 2025-11-13
+    location: Light Cube Utsunomiya, Utsunomiya, Japan
+    url: https://sensorsymposium.org/past/
+  - year: 2026
+    start: 2026-11-16
+    end: 2026-11-19
+    location: Kunibiki Messe, Matsue, Japan
+    url: https://sensorsymposium.org/
+    deadlines:
+      - kind: abstract
+        date: 2026-06-17
+        time: "12:00"
+        tz: JST
+        label: Presentation application with 2-page abstract (extended from 2026-06-10)
+      - kind: notification
+        date: 2026-07-24
+      - kind: submission
+        date: 2026-08-28
+        label: Paper (2 to 6 pages)
+      - kind: other
+        date: 2026-09-18
+        label: Late-breaking poster applications
+sources:
+  - https://sensorsymposium.org/
+  - https://sensorsymposium.org/cfp/
+  - https://sensorsymposium.org/cfp-2/
+  - https://sensorsymposium.org/regist/
+  - https://sensorsymposium.org/past/
+  - https://www.iee.jp/blog/e-symp-2026/
+  - https://portal.core.edu.au/conf-ranks/?search=Sensor+Symposium&by=all&source=ICORE2026
+unverified:
+  - Deadlines and venue of the 2025 edition (only the dates and venue are on the past symposia page)
+  - Registration fees (the fee table is not in the page text)
+  - The 2026 technical sessions run 2026-11-16 to 2026-11-18; 2026-11-19 is a technical tour
+last_verified: 2026-11-14

@@ -1,0 +1,48 @@
+id: lfsd
+name: LFSD
+full_name: International Workshop on Learning from Small Data
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: Organizing committee from Bielefeld University of Applied Sciences and Arts (HSBI), Bielefeld University, OWL University of Applied Sciences and Arts, RheinMain University of Applied Sciences and others; co-located with ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (joint ECML PKDD workshop post-proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://sites.google.com/view/lfsd2025/home
+notes:
+- Workshop at ECML PKDD on learning with limited data (few-shot, active, transfer, semi-supervised and physics-informed learning, design of experiments)
+- Held at ECML PKDD 2025 in Porto (full day) and ECML PKDD 2026 in Naples
+- Regular papers 8 to 16 pages or extended abstracts 2 to 4 pages, Springer LNCS style, double-blind review via the ECML PKDD CMT
+- Accepted papers go into the ECML PKDD joint post-workshop proceedings with Springer
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-07
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://sites.google.com/view/lfsd2025/home
+  deadlines:
+  - kind: submission
+    date: 2026-06-13
+  - kind: notification
+    date: 2026-07-03
+  - kind: camera_ready
+    date: 2026-08-31
+sources:
+- https://sites.google.com/view/lfsd2025/home
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://ecmlpkdd.org/2026/submissions-workshop-track/
+- https://ecmlpkdd.org/2025/workshops-tutorials/
+- https://portal.core.edu.au/conf-ranks/?search=LFSD&by=all&source=ICORE2026
+unverified:
+- Workshop page says September 7th or 11th, 2026; the date is taken from the tentative ECML PKDD 2026 schedule (Monday morning)
+- LFSD 2027 not announced as of 2026-11-14
+- Workshop page also mentions a separate LFSD edition in Osaka, Japan on 2026-12-14 with its own call for papers; host event and dates not checked
+last_verified: 2026-11-14

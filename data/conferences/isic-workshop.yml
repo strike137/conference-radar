@@ -1,0 +1,70 @@
+id: isic-workshop
+name: ISIC Workshop
+full_name: ISIC Skin Image Analysis Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: International Skin Imaging Collaboration (ISIC)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://workshop.isic-archive.com/2026/
+notes:
+- Workshop on skin image analysis (dermoscopy, clinical photos, total-body photography, histopathology) hosted by the International Skin Imaging Collaboration
+- 11th edition in 2026; held with ISBI (2016, 2017), MICCAI (2018, since 2023), CVPR (2019 to 2021) and ECCV (2022)
+- Proceedings in Springer LNCS (2025 -> LNCS 16149, joint volume with the CAPI 2025 workshop)
+- Double-blind review, up to 8 pages plus 2 pages of references; submission via OpenReview in 2026
+- Best paper and honorable mention awards
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-23
+  end: 2025-09-23
+  location: Daejeon, Korea
+  url: https://workshop.isic-archive.com/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-09
+    time: "23:59"
+    tz: PDT
+  - kind: notification
+    date: 2025-07-29
+  - kind: camera_ready
+    date: 2025-07-31
+    time: "23:59"
+    tz: PDT
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://workshop.isic-archive.com/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    time: "23:59"
+    tz: PDT
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-08-07
+  - kind: camera_ready
+    date: 2026-08-14
+    time: "23:59"
+    tz: PDT
+sources:
+- https://workshop.isic-archive.com/2026/
+- https://workshop.isic-archive.com/2025/
+- https://link.springer.com/book/10.1007/978-3-032-05825-6
+- https://portal.core.edu.au/conf-ranks/?search=ISIC&by=all&source=ICORE2026
+unverified:
+- Pages give times as 23:59 Pacific Time; recorded as PDT
+- 2026 submission deadline was extended; original date not shown
+- 2026 proceedings series not stated on the 2026 page (2025 papers went to Springer LNCS)
+- 2027 workshop not yet announced as of 2026-11-14
+last_verified: 2026-11-14

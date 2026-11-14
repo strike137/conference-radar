@@ -1,0 +1,59 @@
+id: mustcv
+name: MUSTCV
+full_name: Workshop on Computer Vision for Multimedia Spatial Intelligence through Time
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+organizer: Workshop organizing committee led by Giuseppe Serra and colleagues at the University of Udine, with co-organizers from TU Munich, Max Planck ETH Center, Seoul National University, Korea University and others; co-located with ECCV, ICCV or CVPR
+organizer_country: [europe]
+proceedings: Springer LNCS (ECCV Workshops proceedings); CVF Open Access and IEEE Xplore for CVPR/ICCV editions
+archival: true
+typical:
+  deadline_months: [3, 7]
+  conference_months: [6, 9]
+links:
+  website: https://sites.google.com/view/mustcv-2026/home
+notes:
+  - Renamed in 2026 from CV4Metaverse (Computer Vision for Metaverse Workshop), which started at ECCV 2022
+  - Editions at ECCV 2022 (Tel Aviv), ICCV 2023 (Paris), ECCV 2024 (Milan), CVPR 2025 (Nashville) and ECCV 2026 (Malmo)
+  - Topics are 3D/4D scene understanding and generation for AR/VR, spatial computing and immersive multimedia
+  - Archival track (up to 14 pages in ECCV LNCS style, double-blind, three reviewers) and non-archival extended abstracts (2 to 4 pages)
+  - CVPR 2025 papers appear on CVF Open Access
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    start: 2026-09-09
+    end: 2026-09-09
+    location: Malmo Arena, Malmo, Sweden (with ECCV 2026)
+    url: https://sites.google.com/view/mustcv-2026/home
+    deadlines:
+      - kind: submission
+        date: 2026-07-13
+        time: "23:59"
+        tz: AoE
+        label: Regular papers (extended)
+      - kind: other
+        date: 2026-07-31
+        time: "23:59"
+        tz: AoE
+        label: Extended abstracts (non-archival)
+      - kind: notification
+        date: 2026-08-04
+      - kind: camera_ready
+        date: 2026-08-10
+sources:
+  - https://sites.google.com/view/mustcv-2026/home
+  - https://sites.google.com/view/mustcv-2026/important-dates
+  - https://sites.google.com/view/mustcv-2026/call-for-papers
+  - https://sites.google.com/view/mustcv-2026/previous-editions
+  - https://sites.google.com/view/cv4metaverse-2025
+  - https://sites.google.com/view/cv4metaverse-2025/important-dates
+  - https://openaccess.thecvf.com/CVPR2025_workshops/CV4Metaverse
+  - https://portal.core.edu.au/conf-ranks/?search=MUSTCV&by=all&source=ICORE2026
+  - https://portal.core.edu.au/conf-ranks/?search=CV4Metaverse&by=all&source=ICORE2026
+unverified:
+  - Original 2026 regular paper deadline was 2026-07-06 before the extension
+  - Next edition not announced yet
+last_verified: 2026-11-14

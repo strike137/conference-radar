@@ -1,0 +1,60 @@
+id: mid4cc
+name: Mid4CC
+full_name: International Workshop on Middleware for the Computing Continuum
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Mid4CC chairs (University of Bologna, University of Messina, Arizona State University), co-located with ACM/IFIP Middleware
+organizer_country: [europe, usa]
+proceedings: ACM DL (Middleware companion proceedings)
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://mid4cc.netsons.org/2026/index.html
+notes:
+- Workshop on middleware for the cloud, fog/edge and IoT computing continuum (orchestration, data management, QoS and SLA management, DevOps, security), co-located with ACM/IFIP Middleware
+- Held every year with Middleware since 2023 (Bologna 2023, Hong Kong 2024, Nashville 2025, Tarragona 2026)
+- Papers up to 6 pages in ACM format, single-blind review; published in the Middleware companion proceedings in the ACM DL
+- At least one author per accepted paper needs a full pre-conference registration
+- Best papers invited to extended versions in MDPI journals (Future Internet, Sensors, Mathematics special issue)
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-15
+  end: 2025-12-19
+  location: Nashville, TN, USA (ACM Middleware 2025)
+  url: https://mid4cc.netsons.org/2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-09-30
+  - kind: notification
+    date: 2025-11-01
+- year: 2026
+  start: 2026-12-14
+  end: 2026-12-18
+  location: Tarragona, Spain (ACM Middleware 2026)
+  url: https://mid4cc.netsons.org/2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-10-12
+    label: Extended (firm)
+  - kind: notification
+    date: 2026-11-01
+  - kind: camera_ready
+    date: 2026-11-15
+sources:
+- https://mid4cc.netsons.org/2026/index.html
+- https://mid4cc.netsons.org/2025/index.html
+- https://middleware-conf.github.io/2026/workshops/
+- https://middleware-conf.github.io/2025/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=Mid4CC&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within Middleware 2025 and 2026 not stated; dates shown are the host conference dates
+- Original 2026 submission deadline (before extension) not shown on the site
+- Acceptance rate and fee not published
+last_verified: 2026-11-14

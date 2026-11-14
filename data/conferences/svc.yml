@@ -1,0 +1,46 @@
+id: svc
+name: SVC
+full_name: International Workshop & Challenge on Subtle Visual Computing
+type: workshop
+tier: minor
+areas: [vision, ai, security]
+region: worldwide
+language: english
+organizer: Workshop organizing committee led by Zitong Yu (Great Bay University) with Adam Czajka, Dan Guo, Sergio Escalera, Philip Torr, Xiaochun Cao and others; co-located with ACM MM or CVPR
+organizer_country: [china]
+proceedings: CVF Open Access and IEEE Xplore (CVPR 2026 Workshops); ACM DL (ACM MM 2025 workshop proceedings)
+archival: true
+typical:
+  deadline_months: [3, 7]
+  conference_months: [6, 10]
+links:
+  website: https://sites.google.com/view/svc-cvpr26
+notes:
+  - Workshop and challenge on subtle visual signals (face anti-spoofing, deepfake and manipulation detection, micro-expressions, remote physiological measurement, camouflaged objects, deception detection)
+  - 1st edition at ACM MM 2025 in Dublin, 2nd edition at CVPR 2026 in Denver
+  - Papers up to 8 pages, double-blind review by at least two reviewers on OpenReview
+  - Runs challenges alongside the workshop (Multimodal Deception Detection, Domain Generalized Remote Physiological Measurement in 2026); top-3 challenge teams must submit workshop papers
+  - Best paper recommended for extension in Machine Intelligence Research or Journal of Image and Graphics
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    start: 2026-06-03
+    end: 2026-06-03
+    location: Denver, Colorado, USA (with CVPR 2026)
+    url: https://sites.google.com/view/svc-cvpr26
+    deadlines:
+      - kind: submission
+        date: 2026-03-20
+      - kind: notification
+        date: 2026-04-01
+      - kind: camera_ready
+        date: 2026-04-10
+sources:
+  - https://sites.google.com/view/svc-cvpr26
+  - https://sites.google.com/view/svc-mm25
+  - https://openaccess.thecvf.com/CVPR2026_workshops/SVC
+  - https://openaccess.thecvf.com/CVPR2026_workshops/menu
+  - https://portal.core.edu.au/conf-ranks/?search=SVC&by=all&source=ICORE2026
+unverified:
+  - Next edition not announced yet
+last_verified: 2026-11-14

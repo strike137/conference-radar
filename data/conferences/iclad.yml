@@ -1,0 +1,66 @@
+id: iclad
+name: ICLAD
+full_name: IEEE International Conference on LLM-Aided Design
+type: conference
+tier: minor
+areas: [systems, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Steering committee from academia and the EDA industry (IEEE conference)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://iclad.ai/
+notes:
+- Conference on large language models for chip and hardware design (EDA), also written LAD
+- Started as the IEEE International Workshop on LLM-Aided Design (LAD'24 at IBM Research Almaden) and became a conference
+- 2026 edition at Paul Brest Hall, Stanford University; general chairs from Stanford and Cadence
+- IEEE CEDA logo shown on the LAD'24 page; listed as an in-cooperation conference on the ACM SIGDA conferences page (July)
+- Submission and review on OpenReview with a rebuttal period; includes a Datasets and Benchmarks track
+- Accepted papers are submitted for inclusion in IEEE Xplore
+- Also runs a hackathon, held in person at DAC 2026 in Long Beach
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2024
+  label: LAD'24 (workshop)
+  start: 2024-06-28
+  end: 2024-06-29
+  location: San Jose, USA (IBM Research Almaden)
+  url: https://iclad.ai/lad24-home-page
+- year: 2026
+  label: LAD'26
+  location: Stanford, USA (Paul Brest Hall)
+  url: https://iclad.ai/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-19
+    tz: AoE
+  - kind: submission
+    date: 2026-03-19
+    tz: AoE
+  - kind: notification
+    date: 2026-05-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-03
+    tz: AoE
+sources:
+- https://iclad.ai/
+- https://iclad.ai/call-for-papers
+- https://iclad.ai/directions-for-venue
+- https://iclad.ai/hackathon
+- https://iclad.ai/lad24-home-page
+- https://www.sigda.org/conferences/
+- https://portal.core.edu.au/conf-ranks/?search=ICLAD&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- IEEE sponsoring unit for 2026 not stated in text on the official pages (sponsor logos are images only)
+- Exact dates of the 2026 conference not shown on the official pages (ACM SIGDA lists it for July)
+- Dates and location of LAD'25 not found on the official site
+- The CFP also gives an OpenReview submission date of 2026-03-02, which conflicts with the 2026-03-19 deadline
+- Next edition not announced yet

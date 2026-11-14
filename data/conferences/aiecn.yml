@@ -1,0 +1,75 @@
+id: aiecn
+name: AIECN
+full_name: International Workshop on Artificial Intelligence Empowered Communication and Networking
+type: workshop
+tier: minor
+areas: [ai, networking, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: Co-located with ICCCN; 2026 program chairs from Xi'an Jiaotong-Liverpool University and Guangdong University of Technology
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7, 8]
+links:
+  website: https://xjtlu-cs.github.io/ICCCN_AIECN_2026/
+notes:
+- Workshop held with ICCCN (International Conference on Computer Communications and Networks); 3rd edition in 2026
+- Topics are AI for space-air-ground-sea integrated networks, integrated sensing and communication, RF and antenna design, edge computing and multi-robot systems
+- Workshop papers are limited to 6 pages and go into the ICCCN proceedings; papers not presented onsite can be left out of the digital library
+- One author must register at the full rate and present in person; one workshop registration covers up to two workshop papers
+- Location follows ICCCN (Tokyo 2025, Honolulu 2026, Rome announced for 2027)
+editions:
+- year: 2025
+  start: 2025-08-07
+  end: 2025-08-07
+  location: Tokyo, Japan (ICCCN 2025)
+  url: https://simpsonhu.github.io/ICCCN_AIECN_2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-06
+    time: "23:59"
+    tz: UTC-10
+    label: ICCCN workshop deadline (extended from 2025-03-01)
+  - kind: notification
+    date: 2025-05-10
+  - kind: camera_ready
+    date: 2025-06-02
+    label: ICCCN hard deadline
+- year: 2026
+  start: 2026-07-29
+  end: 2026-07-29
+  location: Honolulu, Hawaii, USA (ICCCN 2026)
+  url: https://xjtlu-cs.github.io/ICCCN_AIECN_2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-05
+    time: "23:59"
+    tz: UTC-10
+    label: Last and firm (extended from 2026-03-01)
+  - kind: notification
+    date: 2026-04-29
+  - kind: camera_ready
+    date: 2026-05-11
+    label: ICCCN hard deadline
+sources:
+- https://xjtlu-cs.github.io/ICCCN_AIECN_2026/
+- https://simpsonhu.github.io/ICCCN_AIECN_2025/
+- http://www.icccn.org/icccn26/workshop/list-of-workshops/index.html
+- http://www.icccn.org/icccn26/call-for-papers/index.html
+- http://www.icccn.org/icccn26/wp-content/uploads/2026/Tech-Prog-n-Overview-ICCCN2026.pdf
+- http://www.icccn.org/ICCCN25/workshop/list-of-workshops/index.html
+- http://www.icccn.org/icccn25/call-for-papers/index.html
+- http://www.icccn.org/icccn25/wp-content/uploads/2025/ICCCN2025-Technical-Program-final.pdf
+- https://portal.core.edu.au/conf-ranks/?search=AIECN&by=all&source=ICORE2026
+unverified:
+- AIECN 2027 not announced yet (ICCCN 2027 workshop list says coming soon)
+- The 2025 workshop page lists only the original March 1 deadline; the extension to April 6 is from the ICCCN 2025 call for papers
+- Workshop days taken from the ICCCN technical programs (August 7, 2025; July 29, 2026); the 2026 workshop page gives July 29 to 30
+- 1st edition not found
+- Not listed on the CORE portal (ICORE2026) or the CCF list
+- Acceptance rate not published
+last_verified: 2026-11-14

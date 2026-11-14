@@ -1,0 +1,59 @@
+id: dfrws-usa
+name: DFRWS USA
+full_name: DFRWS USA Digital Forensics Research Conference
+type: conference
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: DFRWS (Digital Forensic Research Workshop, non-profit)
+organizer_country: [usa]
+proceedings: 'Forensic Science International: Digital Investigation (Elsevier)'
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://dfrws.org/conferences/dfrws-usa-2026/
+notes:
+- Original and longest-running DFRWS conference (2026 is the 26th), with sister events in Europe and Asia-Pacific
+- 'Full research papers are peer reviewed and appear in a special issue of Forensic Science International: Digital Investigation (Elsevier)'
+- Held in the USA every year; 2026 was hybrid at George Mason University, Arlington, Virginia, with workshops from 25 Jul
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-07-27
+  end: 2026-07-30
+  location: Arlington, VA, USA (George Mason University, hybrid)
+  url: https://dfrws.org/conferences/dfrws-usa-2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-06
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2026-02-06
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-04-03
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-12
+    tz: AoE
+sources:
+- https://dfrws.org/conferences/dfrws-usa-2026/
+- https://dfrws.org/call-for-papers-is-open-for-dfrws-usa-2026/
+- https://easychair.org/cfp/dfrwsusa2026
+- https://groups.google.com/a/dfrws.org/g/dfsci/c/aPW_-3Dk8Xs
+- https://portal.core.edu.au/conf-ranks/?search=DFRWS&by=all&source=ICORE2026
+unverified:
+- Official site blocks direct access (HTTP 403); 2026 dates and deadlines taken from the official EasyChair CFP and the DFRWS mailing-list announcement
+- Original 2026 full-paper deadline (before the extension to 2026-02-06) not confirmed
+- DFRWS USA 2027 not yet confirmed
+- 'CCF C: the 2026 CCF list names ''DFRWS'' (dblp conf/dfrws), which covers DFRWS USA'
+- Registration fees not confirmed
+last_verified: 2026-11-14

@@ -1,0 +1,56 @@
+id: slrtp
+name: SLRTP
+full_name: Workshop on Sign Language Recognition, Translation and Production
+type: workshop
+tier: minor
+areas: [vision, ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Organizing committee led by the University of Surrey with UCL, University of Birmingham, Ecole des Ponts ParisTech, Google DeepMind and Meta
+organizer_country: [europe]
+proceedings: CVF Open Access (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://slrtpworkshop.github.io/
+notes:
+- Workshop on vision-based sign language recognition, translation and production, bringing together computer vision researchers and sign language linguists
+- 1st edition with ECCV 2020, 2nd with ECCV 2022, 3rd with CVPR 2025 (Nashville)
+- Papers up to 8 pages excluding references in CVPR style, double-blind review on CMT
+- 4 papers in the CVPR 2025 Workshops proceedings on CVF Open Access
+- Ran the first Sign Language Production challenge in 2025
+- Hybrid event with ASL and International Sign interpretation
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 3rd edition, with CVPR 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Nashville, USA
+  url: https://slrtpworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-03-16
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2025-04-01
+    time: "23:59"
+    tz: PST
+  - kind: camera_ready
+    date: 2025-04-12
+    time: "23:59"
+    tz: PST
+sources:
+- https://slrtpworkshop.github.io/
+- https://slrtpworkshop.github.io/cfp/
+- https://slrtpworkshop.github.io/editions/
+- https://cvpr.thecvf.com/virtual/2025/workshop/32296
+- https://openaccess.thecvf.com/CVPR2025_workshops/SLRTP
+- https://portal.core.edu.au/conf-ranks/?search=SLRTP&by=all&source=ICORE2026
+unverified:
+- No 4th edition announced as of 2026-11-14
+last_verified: 2026-11-14

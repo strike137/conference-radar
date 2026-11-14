@@ -1,0 +1,146 @@
+id: drivex
+name: DriveX
+full_name: Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: DriveX workshop series led by Walter Zimmer, Rui Song and Ross Greer (UCLA, TUM, UC Merced and others)
+organizer_country: [usa, europe]
+proceedings: IEEE Xplore and CVF Open Access (CVPR and ICCV Workshops proceedings, archival track); ECCV 2026 workshop proceedings
+archival: true
+typical:
+  deadline_months: [3, 7]
+  conference_months: [6, 9]
+links:
+  website: https://drivex-workshop.github.io/
+notes:
+- Workshop series on foundation models, V2X cooperative perception, large driving models and safe autonomous driving
+- Runs several editions per year at different hosts (CVPR 2025, ICCV 2025, ITSC 2025, CVPR 2026, IV 2026, ECCV 2026, ITSC 2026, ICRA 2027, CVPR 2027)
+- At CVPR, ICCV and ECCV there is an archival track (full papers in the workshop proceedings) and a non-archival track (extended abstracts or recently published work)
+- The ITSC 2026 and ICRA 2027 editions take non-archival papers only
+- 11 papers in the CVPR 2026 and 10 in the ICCV 2025 workshop proceedings on CVF Open Access
+- "ECCV 2026 edition: 54 submissions, acceptance rate 12.8% oral and 62.9% poster"
+- Also runs the DriveX Grand Challenge with several dataset tracks
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 4th edition, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, USA
+  url: https://drivex-workshop.github.io/cvpr2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-01
+    time: "23:59"
+    tz: PST
+    label: Archival track
+  - kind: notification
+    date: 2026-03-17
+    label: Archival track
+  - kind: camera_ready
+    date: 2026-03-27
+    label: Archival track
+  - kind: submission
+    date: 2026-05-08
+    time: "23:59"
+    tz: PDT
+    label: Non-archival track (extended)
+- year: 2026
+  label: 6th edition, with ECCV 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo, Sweden
+  url: https://drivex-workshop.github.io/eccv2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+    time: "23:59"
+    tz: PST
+    label: Archival track
+  - kind: notification
+    date: 2026-08-01
+    label: Archival track
+  - kind: camera_ready
+    date: 2026-08-15
+    time: "23:59"
+    tz: PST
+    label: Archival track
+  - kind: submission
+    date: 2026-07-31
+    time: "23:59"
+    tz: PST
+    label: Non-archival track
+- year: 2026
+  label: 7th edition, with IEEE ITSC 2026 (non-archival)
+  start: 2026-09-15
+  end: 2026-09-15
+  location: Naples, Italy
+  url: https://drivex-workshop.github.io/itsc2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-01
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-08-22
+- year: 2027
+  label: 8th edition, with IEEE ICRA 2027 (non-archival)
+  location: Seoul, South Korea
+  url: https://drivex-workshop.github.io/icra2027/
+  deadlines:
+  - kind: abstract
+    date: 2027-03-05
+    tz: AoE
+  - kind: submission
+    date: 2027-03-12
+    tz: AoE
+  - kind: notification
+    date: 2027-03-26
+  - kind: camera_ready
+    date: 2027-04-09
+- year: 2027
+  label: 9th edition, with CVPR 2027
+  location: Seattle, USA
+  url: https://drivex-workshop.github.io/cvpr2027/
+  deadlines:
+  - kind: submission
+    date: 2027-03-01
+    tz: AoE
+    label: Archival track
+  - kind: notification
+    date: 2027-03-19
+    label: Archival track
+  - kind: camera_ready
+    date: 2027-04-23
+    tz: AoE
+    label: Archival track
+  - kind: submission
+    date: 2027-04-16
+    tz: AoE
+    label: Non-archival track
+  - kind: notification
+    date: 2027-05-07
+    label: Non-archival track
+sources:
+- https://drivex-workshop.github.io/
+- https://drivex-workshop.github.io/cvpr2026/
+- https://drivex-workshop.github.io/eccv2026/
+- https://drivex-workshop.github.io/itsc2026/
+- https://drivex-workshop.github.io/iv2026/
+- https://drivex-workshop.github.io/icra2027/
+- https://drivex-workshop.github.io/cvpr2027/
+- https://openaccess.thecvf.com/CVPR2026_workshops/DriveX
+- https://openaccess.thecvf.com/ICCV2025_workshops/DriveX
+- https://openaccess.thecvf.com/CVPR2025_workshops/DriveX
+- https://portal.core.edu.au/conf-ranks/?search=DriveX&by=all&source=ICORE2026
+unverified:
+- ICRA 2027 workshop day is given only as May 24 or May 28, 2027
+- CVPR 2027 workshop day is given only as June 20 or June 21, 2027
+- Publisher of the ECCV 2026 workshop proceedings is not named on the workshop site
+last_verified: 2026-11-14

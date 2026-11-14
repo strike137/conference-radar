@@ -1,0 +1,51 @@
+id: wte-sbseg
+name: WTE
+full_name: Workshop on Electoral Technology
+name_local: Workshop de Tecnologia Eleitoral
+type: workshop
+tier: domestic
+areas: [security, crypto]
+region: latin-america
+language: mixed
+frequency: irregular
+organizer: SBC (Sociedade Brasileira de Computação), satellite event of SBSeg
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL), Anais Estendidos do SBSeg
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://sbseg2025.ppgia.pucpr.br/chamadas/wte/
+notes:
+- Satellite workshop of SBSeg, the Brazilian Symposium on Cybersecurity run by the Brazilian Computer Society (SBC); 7th edition in 2025
+- Covers electronic voting (auditing, attacks on existing systems, voter authentication, verifiability, ballot secrecy, cryptographic voting protocols, legal aspects)
+- Extended abstracts up to 4 pages in Portuguese or English, SBC template; double-blind review through JEMS3
+- Accepted papers must be presented by an author to appear in the SBSeg extended proceedings (Anais Estendidos) in SBC OpenLib (SOL)
+- "Not held every year: no WTE section in the SBSeg extended proceedings of 2023, 2024 or 2026; 3 papers in 2025"
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-01
+  end: 2025-09-04
+  location: Foz do Iguaçu, Brazil (SBSeg 2025)
+  url: https://sbseg2025.ppgia.pucpr.br/chamadas/wte/
+  deadlines:
+  - kind: submission
+    date: 2025-06-24
+  - kind: notification
+    date: 2025-07-01
+  - kind: camera_ready
+    date: 2025-07-21
+sources:
+- https://sbseg2025.ppgia.pucpr.br/chamadas/wte/
+- https://sol.sbc.org.br/index.php/sbseg_estendido/issue/view/1211
+- https://sol.sbc.org.br/index.php/sbseg_estendido/issue/view/1351
+- https://sol.sbc.org.br/index.php/sbseg_estendido/issue/view/1557
+- https://sol.sbc.org.br/index.php/sbseg_estendido/issue/view/1730
+- https://www.sbseg2026.uff.br/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=WTE&by=all&source=ICORE2026
+unverified:
+- Exact WTE session day within SBSeg 2025 (edition dates are those of SBSeg)
+- Next WTE edition not announced; WTE was not part of SBSeg 2026
+last_verified: 2026-11-14

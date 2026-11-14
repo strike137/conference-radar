@@ -1,0 +1,47 @@
+id: asqap
+name: ASQAP
+full_name: International Workshop on Autonomous System Quality Assurance and Prediction with Digital Twins
+type: workshop
+tier: minor
+areas: [software, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: ASQAP workshop organizers (Gran Sasso Science Institute, McMaster University, Aarhus University, General Motors Canada)
+organizer_country: [europe, canada]
+proceedings: ACM DL (FSE Companion Proceedings, 2026); EPTCS (2025)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://asqap.github.io/asqap2026/
+notes:
+  - Workshop on verification, testing and runtime assurance of autonomous systems using digital twins
+  - First edition co-located with ETAPS 2025 in Hamilton, Canada (papers in EPTCS); second co-located with ACM FSE 2026 in Montreal
+  - 2026 regular papers (up to 8 pages), short papers (up to 6 pages) and APC-free extended abstracts (up to 5 pages) in ACM format
+  - 2026 papers were published in the FSE 2026 companion proceedings in the ACM DL
+  - Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+  - year: 2026
+    start: 2026-07-05
+    end: 2026-07-06
+    location: Montreal, Canada (co-located with ACM FSE 2026)
+    url: https://asqap.github.io/asqap2026/
+    deadlines:
+      - kind: submission
+        date: 2026-02-26
+      - kind: notification
+        date: 2026-03-19
+      - kind: camera_ready
+        date: 2026-04-02
+sources:
+  - https://asqap.github.io/asqap2026/
+  - https://asqap.github.io/asqap2025/
+  - https://conf.researchr.org/home/fse-2026/asqap-2026
+  - https://doi.org/10.1145/3803437.3807604
+  - https://portal.core.edu.au/conf-ranks/?search=ASQAP&by=all&source=ICORE2026
+unverified:
+  - The 2026 workshop page does not name the proceedings outright; ACM DL inclusion confirmed from a published 2026 workshop paper DOI
+  - Host conference changed between editions (ETAPS 2025, FSE 2026); 2027 edition not announced
+last_verified: 2026-11-14

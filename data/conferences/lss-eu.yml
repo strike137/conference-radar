@@ -1,0 +1,60 @@
+id: lss-eu
+name: LSS-EU
+full_name: Linux Security Summit Europe
+type: industry
+tier: minor
+areas: [security, systems]
+region: europe
+language: english
+frequency: annual
+organizer: The Linux Foundation
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9, 10]
+links:
+  website: https://events.linuxfoundation.org/linux-security-summit-europe/
+notes:
+  - Technical forum on Linux security run by The Linux Foundation, with a program committee selecting refereed talks
+  - Refereed presentations and panels (45 minutes) and short topics; no papers, recordings go to the Linux Foundation YouTube channel
+  - Topics include access control, crypto and key management, integrity, hardware and IoT security, containers, OS hardening and supply chain
+  - Held in a European city that changes between editions (Dublin 2022, Bilbao 2023, Vienna 2024, Amsterdam 2025, Prague 2026)
+  - Speakers must present in person; CFP via Sessionize
+  - Sister event of Linux Security Summit North America (lss-na)
+editions:
+  - year: 2025
+    start: 2025-08-28
+    end: 2025-08-29
+    location: Amsterdam, Netherlands
+    url: https://events.linuxfoundation.org/archive/2025/linux-security-summit-europe/
+  - year: 2026
+    start: 2026-10-08
+    end: 2026-10-08
+    location: Prague, Czechia
+    url: https://events.linuxfoundation.org/linux-security-summit-europe/
+    deadlines:
+      - kind: submission
+        date: 2026-06-28
+        time: "23:59"
+        tz: CEST
+        label: CFP closes
+      - kind: notification
+        date: 2026-07-14
+      - kind: other
+        date: 2026-10-07
+        label: Slides due
+sources:
+  - https://events.linuxfoundation.org/linux-security-summit-europe/
+  - https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp/
+  - https://events.linuxfoundation.org/archive/2025/linux-security-summit-europe/
+  - https://events.linuxfoundation.org/archive/2023/linux-security-summit-europe/
+  - https://events.linuxfoundation.org/archive/2024/linux-security-summit-europe/
+  - https://events.linuxfoundation.org/archive/2022/linux-security-summit-europe/
+  - https://portal.core.edu.au/conf-ranks/?search=Linux+Security+Summit&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - LSS Europe 2027 dates and location not yet announced
+  - Co-location with Open Source Summit Europe not confirmed on the 2026 page
+  - Not listed in the CORE ICORE2026 portal

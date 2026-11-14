@@ -1,0 +1,61 @@
+id: s2ai
+name: S2AI
+full_name: Workshop on Secure and Safe AI Agents for Big Data Infrastructures
+type: workshop
+tier: minor
+areas: [security, ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs from IBM Research, co-located with IEEE BigData
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://s2ai-bigdata.github.io/
+notes:
+- Workshop on security, safety, robustness and explainability of LLM-based AI agents in big data infrastructures; 2026 is the 2nd edition
+- Co-located with the IEEE International Conference on Big Data (IEEE BigData); first held at BigData 2025 in Macau
+- Accepted papers go into the IEEE BigData conference proceedings (IEEE Computer Society Press, IEEE Xplore)
+- Full papers up to 10 pages and short papers up to 6 pages including references, IEEE BigData format, single-blind review
+- Hybrid in 2025; listed as virtual for 2026
+- Separate abstract deadline two weeks before the paper deadline
+- Not ranked by CORE (not in ICORE2026) or CCF
+editions:
+- year: 2025
+  label: 1st S2AI
+  start: 2025-12-08
+  end: 2025-12-11
+  location: Macau SAR, China (hybrid, with IEEE BigData 2025)
+  url: https://conferences.cis.um.edu.mo/ieeebigdata2025/workshops.html
+- year: 2026
+  label: 2nd S2AI
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Online (with IEEE BigData 2026, Phoenix, Arizona, USA)
+  url: https://s2ai-bigdata.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-01
+  - kind: submission
+    date: 2026-10-15
+  - kind: notification
+    date: 2026-11-10
+  - kind: camera_ready
+    date: 2026-11-25
+sources:
+- https://s2ai-bigdata.github.io/
+- https://s2ai-bigdata.github.io/cfp.html
+- https://s2ai-bigdata.github.io/org.html
+- https://bigdataieee.org/BigData2026/program/workshops/
+- https://bigdataieee.org/BigData2026/calls/workshops/
+- https://conferences.cis.um.edu.mo/ieeebigdata2025/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=S2AI&by=all&source=ICORE2026
+unverified:
+- Workshop dates shown are the full IEEE BigData dates; the exact workshop day is not given
+- Deadlines of the 2025 edition are no longer on the workshop site
+- Acceptance rate not published
+last_verified: 2026-11-14

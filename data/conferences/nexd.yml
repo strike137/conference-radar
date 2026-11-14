@@ -1,0 +1,58 @@
+id: nexd
+name: NeXD
+full_name: Workshop on Exploring the Next Generation of Data
+type: workshop
+tier: minor
+areas: [vision, ai, data]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (NVIDIA researchers Nadine Chang, Maying Shen, Jose M. Alvarez and others); co-located with CVPR
+organizer_country: [usa]
+proceedings: CVF Open Access and IEEE Xplore (CVPR Workshops proceedings, optional for authors)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/nexd26/home
+notes:
+- CVPR workshop on data-centric methods (data mixtures, curation, scaling laws, synthetic data, dataset bias)
+- 1st edition at CVPR 2025 in Nashville (full day), 2nd at CVPR 2026 in Denver (half day)
+- Full papers up to 8 pages in CVPR format, double-blind review by at least two reviewers via OpenReview
+- Accepted papers can optionally be published in the CVPR Workshops proceedings
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://sites.google.com/view/nexd26/home
+  deadlines:
+  - kind: submission
+    date: 2026-03-13
+    time: "23:59"
+    tz: PDT
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-03-24
+    time: "23:59"
+    tz: PDT
+  - kind: camera_ready
+    date: 2026-04-10
+    time: "23:59"
+    tz: PDT
+sources:
+- https://sites.google.com/view/nexd26/home
+- https://sites.google.com/view/nexd26/call-for-papers
+- https://sites.google.com/view/nexd26/organizers
+- https://sites.google.com/view/nexd25/home
+- https://cvpr.thecvf.com/virtual/2026/workshop/35983
+- https://openaccess.thecvf.com/CVPR2026_workshops/NeXD
+- https://openaccess.thecvf.com/CVPR2025_workshops/NeXD
+- https://portal.core.edu.au/conf-ranks/?search=NeXD&by=all&source=ICORE2026
+unverified:
+- Deadlines stated as 11:59 PM PT; PDT assumed for March 2026 dates
+- Workshop date taken from the CVPR 2026 schedule (the workshop home page shows June 4 with a typo year)
+- NeXD 2027 not announced yet
+last_verified: 2026-11-14

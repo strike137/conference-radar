@@ -1,0 +1,73 @@
+id: praw
+name: PRAW
+full_name: Physical Retail AI Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Industry and academic organizing committee (Amazon, Standard AI, Universitas Mercatorum, University of Macerata)
+organizer_country: [usa, europe]
+proceedings: IEEE Xplore and CVF Open Access (WACV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [10, 11, 12]
+  conference_months: [1, 2, 3]
+links:
+  website: https://praw-workshop.github.io/
+notes:
+- Half-day workshop on computer vision and AI for physical retail (shopper activity recognition, product detection and recognition, store analytics, foundation models for retail)
+- Held with WACV every year since 2024 (Waikoloa 2024, Tucson 2025 and 2026, Orlando area 2027)
+- Runs a challenge track alongside the paper track (GroceryVision in earlier editions, RetailAction challenge in 2027)
+- Papers follow the WACV format, double-blind review by at least three reviewers on OpenReview
+- 3 papers in the WACV 2026 Workshops proceedings on CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 3rd edition, with WACV 2026
+  start: 2026-03-07
+  end: 2026-03-07
+  location: Tucson, USA
+  url: https://grocery-vision.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-12-26
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-01-02
+  - kind: camera_ready
+    date: 2026-01-09
+  - kind: other
+    date: 2026-01-16
+    label: Challenge submissions
+- year: 2027
+  label: 4th edition, with WACV 2027
+  start: 2027-01-04
+  end: 2027-01-04
+  location: Buena Vista (Orlando), USA
+  url: https://praw-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-10-21
+    tz: UTC+2
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-10-30
+    tz: UTC+2
+  - kind: camera_ready
+    date: 2026-11-20
+    tz: UTC+2
+  - kind: other
+    date: 2026-10-25
+    tz: UTC+2
+    label: Challenge deadline
+sources:
+- https://praw-workshop.github.io/
+- https://grocery-vision.github.io/
+- https://grocery-vision.github.io/past_challenge/wacv2025.html
+- https://physicalstoreworkshop.github.io/index.html
+- https://wacv.thecvf.com/Conferences/2027/Workshops
+- https://openaccess.thecvf.com/WACV2026_workshops/PRAW
+- https://portal.core.edu.au/conf-ranks/?search=PRAW&by=all&source=ICORE2026
+last_verified: 2026-11-14

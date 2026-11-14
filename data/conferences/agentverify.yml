@@ -1,0 +1,50 @@
+id: agentverify
+name: AGENTVERIFY
+full_name: International Workshop on Infrastructure for Trustworthy Software Agents
+type: workshop
+tier: minor
+areas: [software, ai]
+region: europe
+language: english
+organizer: AGENTVERIFY organizing committee (York University, Concordia University, Beihang University, Meta), co-located with ICSE
+organizer_country: [canada, china, usa]
+proceedings: ICSE 2027 workshop proceedings
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [4]
+links:
+  website: https://agentverify2027.github.io/
+notes:
+  - ICSE workshop on testing, debugging, benchmarking, observability, sandboxing and evaluation infrastructure for LLM-based software agents
+  - First edition at ICSE 2027 in Dublin, Ireland
+  - Full papers up to 8 pages, short and demonstration papers up to 4 pages, extended abstracts up to 2 pages (all including references)
+  - IEEE format in line with ICSE 2027, double-blind review via HotCRP
+  - Accepted papers appear in the ICSE 2027 workshop proceedings by default; extended abstracts are included and free of APC charges
+  - Different from AGENT (International Workshop on Agentic Engineering, also at ICSE)
+  - Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+  - year: 2027
+    start: 2027-04-25
+    end: 2027-04-25
+    location: Dublin, Ireland (with ICSE 2027)
+    url: https://agentverify2027.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-11-13
+        tz: AoE
+      - kind: notification
+        date: 2026-12-11
+        tz: AoE
+      - kind: camera_ready
+        date: 2027-01-29
+        tz: AoE
+sources:
+  - https://agentverify2027.github.io/
+  - https://agentverify2027.github.io/cfp.html
+  - https://conf.researchr.org/home/icse-2027/agentverify-2027
+  - https://portal.core.edu.au/conf-ranks/?search=AGENTVERIFY&by=all&source=ICORE2026
+unverified:
+  - First edition; frequency and later editions not announced
+  - Digital library for the ICSE 2027 workshop proceedings not stated on the workshop site
+last_verified: 2026-11-14

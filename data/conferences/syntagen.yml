@@ -1,0 +1,63 @@
+id: syntagen
+name: SyntaGen
+full_name: "SyntaGen: Workshop on Harnessing Generative Models for Synthetic Visual Datasets"
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (Qualcomm AI Research Vietnam, VinAI Research, Trinity College Dublin, VISTEC, Adobe); co-located with CVPR
+organizer_country: [vietnam, europe, thailand, usa]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops), full papers only
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://syntagen25.github.io/
+notes:
+- CVPR workshop on generative models (text-to-image, video, 3D) used to build synthetic visual datasets for training and evaluating vision models
+- 1st edition at CVPR 2024 in Seattle, 2nd at CVPR 2025 in Nashville; not in the CVPR 2026 workshop list
+- Full papers up to 8 pages excluding references with the option to go into the CVPR Workshops proceedings; short papers up to 4 pages are non-archival
+- Submission via OpenReview in CVPR format, anonymized
+- 7 papers on CVF Open Access for 2025, 2 for 2024
+- Best paper and runner-up awards with oral presentations; half-day (morning) workshop
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 2nd SyntaGen, with CVPR 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Nashville, Tennessee, USA
+  url: https://syntagen25.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-03-22
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2025-03-30
+    time: "23:59"
+    tz: PST
+    label: Moved up from 2025-04-03
+  - kind: other
+    date: 2025-03-31
+    time: "23:59"
+    tz: PST
+    label: Metadata for proceedings papers
+  - kind: camera_ready
+    date: 2025-04-14
+    time: "23:59"
+    tz: PST
+sources:
+- https://syntagen25.github.io/
+- https://syntagen.github.io/
+- https://cvpr.thecvf.com/Conferences/2025/workshop-list
+- https://openaccess.thecvf.com/CVPR2025_workshops/SyntaGen
+- https://openaccess.thecvf.com/CVPR2024_workshops/SyntaGen
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=SyntaGen&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- No 2026 edition found (not among CVPR 2026 workshops); next edition not announced

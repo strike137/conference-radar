@@ -1,0 +1,50 @@
+id: afci
+name: AFAA
+full_name: Workshop on Algorithmic Fairness Across Alignment Procedures and Agentic Systems
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AFCI workshop series organizers (researchers from McGill/Mila, Stanford, MIT, IBM Research and Meta)
+organizer_country: [canada, usa]
+proceedings: PMLR (opt-in)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://www.afciworkshop.org/
+notes:
+- Algorithmic fairness workshop series renamed each year (AFCI 2020, AFCR 2021, AFCP 2022, AFT 2023, AFME 2024, AFAA 2026)
+- Held with NeurIPS from 2020 to 2024 and with ICLR in 2026; no 2025 edition
+- Accepted papers can opt in to PMLR workshop proceedings (2026 -> vol. 344, 2024 -> vol. 279)
+- Two tracks, main papers (6 to 9 pages) and tiny/short papers (up to 3 pages), ICLR template, anonymous submission on OpenReview
+- Accepts work under submission elsewhere (FAccT, ICML, SaTML, ...)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: AFAA 2026 (ICLR 2026 workshop)
+  start: 2026-04-26
+  end: 2026-04-26
+  location: Rio de Janeiro, Brazil
+  url: https://www.afciworkshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-02-05
+    tz: AoE
+    label: Full submission (extended)
+  - kind: notification
+    date: 2026-03-01
+    tz: AoE
+sources:
+- https://www.afciworkshop.org/
+- https://www.afciworkshop.org/call-for-papers
+- https://www.afciworkshop.org/past-editions/afme-2024
+- https://proceedings.mlr.press/v344/
+- https://proceedings.mlr.press/v279/
+- https://portal.core.edu.au/conf-ranks/?search=AFAA&by=all&source=ICORE2026
+unverified:
+- Next edition (2027) not announced as of 2026-11-14
+last_verified: 2026-11-14

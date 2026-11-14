@@ -1,0 +1,58 @@
+id: morse
+name: MORSE
+full_name: Workshop on Foundation and Large Vision Models in Remote Sensing
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Organizing committee from University of Houston, INRIA, TU Berlin, IIT Bombay and Southeast University
+organizer_country: [usa, europe, india, china]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops proceedings, regular papers)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/cvpr-morse/
+notes:
+- Workshop on foundation models, vision-language models and large vision models for remote sensing and geospatial image analysis
+- Held with CVPR; 1st edition at CVPR 2025, 2nd at CVPR 2026 in Denver
+- Regular papers up to 8 pages in CVPR format go in the CVPR Workshops proceedings; extended abstracts (2 pages) are presented as posters only
+- Submissions through Microsoft CMT
+- 10 papers in the CVPR 2025 and 9 in the CVPR 2026 workshop proceedings on CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 2nd edition, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, USA
+  url: https://sites.google.com/view/cvpr-morse/
+  deadlines:
+  - kind: submission
+    date: 2026-03-08
+    time: "09:00"
+    tz: PDT
+    label: Regular papers (extended)
+  - kind: notification
+    date: 2026-03-31
+    label: Regular papers
+  - kind: camera_ready
+    date: 2026-04-09
+    label: Regular papers
+  - kind: submission
+    date: 2026-04-05
+    label: Extended abstracts (non-archival)
+  - kind: notification
+    date: 2026-04-10
+    label: Extended abstracts
+sources:
+- https://sites.google.com/view/cvpr-morse/
+- https://openaccess.thecvf.com/CVPR2026_workshops/MORSE
+- https://openaccess.thecvf.com/CVPR2025_workshops/MORSE
+- https://portal.core.edu.au/conf-ranks/?search=MORSE&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of 2026-11-14
+last_verified: 2026-11-14

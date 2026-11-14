@@ -1,0 +1,56 @@
+id: ml-de
+name: ML-DE
+full_name: "ECAI Workshop on Machine Learning Meets Differential Equations: From Theory to Applications"
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: HSU-AI Institute for Artificial Intelligence, Helmut Schmidt University Hamburg, with University of Minho and University of Porto
+organizer_country: [europe]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10]
+links:
+  website: https://mlde-ecai-2025.github.io/
+notes:
+- Workshop co-located with ECAI (1st at ECAI 2024 in Santiago de Compostela, 2nd at ECAI 2025 in Bologna)
+- Full-length papers (up to 8 pages, PMLR template) published in PMLR (2025 -> vol. 277, 2024 -> vol. 255); authors can opt out
+- Also takes 2-page extended abstracts, presentation-only abstracts of published work and a reproducibility track
+- Double-blind review via EasyChair; review transfer option for papers rejected from the ECAI main track
+- Topics include neural ODEs, PINNs, neural operators and hybrid ML-numerical solvers
+- No edition held at IJCAI-ECAI 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-26
+  end: 2025-10-26
+  location: Bologna, Italy
+  url: https://mlde-ecai-2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-07-14
+    time: "23:59"
+    tz: CEST
+    label: Extended (originally 2025-06-15)
+  - kind: other
+    date: 2025-07-20
+    time: "23:59"
+    tz: CEST
+    label: Review transfer option from ECAI main track
+  - kind: notification
+    date: 2025-08-20
+sources:
+- https://mlde-ecai-2025.github.io/
+- https://mlde-ecai-2025.github.io/call-for-papers/
+- https://mlde-ecai-2025.github.io/Chairs/
+- https://mlde-ecai-2024.github.io/
+- https://proceedings.mlr.press/v277/
+- https://2026.ijcai.org/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=ML-DE&by=all&source=ICORE2026
+unverified:
+- No 3rd edition announced as of 2026-11-14 (ECAI 2027 is in Athens, 2027-10-02 to 2027-10-07)
+last_verified: 2026-11-14

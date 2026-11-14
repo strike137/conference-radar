@@ -1,0 +1,51 @@
+id: coool
+name: COOOL
+full_name: Workshop on the Challenge Of Out Of Label Hazards in Autonomous Driving
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizers led by the University of Colorado Colorado Springs (UCCS), with the University of Tennessee Oak Ridge Innovation Institute, Xi'an Jiaotong University and others
+organizer_country: [usa]
+proceedings: CVF Open Access and IEEE Xplore (host conference workshop proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://2coool.net/
+notes:
+- Workshop and Kaggle challenge on detecting and explaining novel, out-of-label road hazards in autonomous driving video
+- 1st edition with WACV 2025 (8 papers in CVF Open Access); 2nd edition (2COOOL) with ICCV 2025 (12 papers)
+- Papers are double-blind, ICCV format, submitted through OpenReview, and appear in the ICCV workshop proceedings
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 2nd edition (2COOOL), with ICCV 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, Hawaii, USA (with ICCV 2025)
+  url: https://2coool.net/
+  deadlines:
+  - kind: submission
+    date: 2025-07-03
+    time: "23:59"
+    tz: EDT
+  - kind: notification
+    date: 2025-07-11
+  - kind: camera_ready
+    date: 2025-08-18
+    time: "23:59"
+    tz: PDT
+sources:
+- https://2coool.net/
+- https://openaccess.thecvf.com/ICCV2025_workshops/2COOOL
+- https://openaccess.thecvf.com/WACV2025_workshops/COOOL
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=COOOL&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- No 3rd edition found (none in the CVPR 2026 or WACV 2026 workshop proceedings, nothing announced on the site as of 2026-11-14)
+- Camera-ready deadline is stated as "11:59 Pacific Time" (recorded as 23:59 PDT)

@@ -1,0 +1,77 @@
+id: map-a
+name: GAPBio
+full_name: Workshop on Generative, Adversarial and Presentation Attacks in Biometrics
+type: workshop
+tier: minor
+areas: [security, vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Kiran Raja and Raghavendra Ramachandra (NTNU), Naser Damer (Fraunhofer IGD), Julian Fierrez (Universidad Autonoma de Madrid); co-located with WACV
+organizer_country: [europe]
+proceedings: IEEE Xplore and CVF Open Access (WACV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [10, 12]
+  conference_months: [1, 3]
+links:
+  website: https://sites.google.com/view/wacv2027-gapbio
+notes:
+  - Formerly MAP-A, Workshop on Manipulation, Adversarial and Presentation Attacks in Biometrics; renamed GAPBio from 2026
+  - Covers presentation attack detection, morphing, deepfakes, adversarial and generative attacks on biometric systems
+  - Earlier editions with BTAS 2018 and WACV 2020 to 2026; the 2027 edition is with WACV 2027
+  - Papers up to 8 pages excluding references, double-blind; accepted regular papers go in the WACV Workshops proceedings and IEEE Xplore
+  - From 2027 also accepts non-archival presentation-only submissions; review moved from CMT to OpenReview
+  - 9 papers in 2024, 6 in 2025 and 4 in 2026 in the WACV workshop proceedings on CVF Open Access
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With WACV 2026
+    start: 2026-03-07
+    end: 2026-03-07
+    location: Tucson, Arizona, USA
+    url: https://sites.google.com/view/wacv2026-map-a/home
+    deadlines:
+      - kind: submission
+        date: 2025-12-15
+        time: "23:59"
+        tz: PST
+        label: Full papers (extended)
+      - kind: notification
+        date: 2025-12-30
+        time: "23:59"
+        tz: PST
+      - kind: camera_ready
+        date: 2026-01-10
+        time: "23:59"
+        tz: PST
+  - year: 2027
+    label: With WACV 2027
+    start: 2027-01-04
+    end: 2027-01-04
+    location: Orlando, Florida, USA
+    url: https://sites.google.com/view/wacv2027-gapbio
+    status: tentative
+    deadlines:
+      - kind: submission
+        date: 2026-10-20
+        tz: AoE
+        label: Full papers
+      - kind: notification
+        date: 2026-11-15
+        tz: AoE
+sources:
+  - https://sites.google.com/view/wacv2027-gapbio
+  - https://sites.google.com/view/wacv2026-map-a/home
+  - https://wacv.thecvf.com/Conferences/2026/Workshops
+  - https://wacv.thecvf.com/Conferences/2027/Workshops
+  - https://openaccess.thecvf.com/WACV2026_workshops/GAPBio
+  - https://openaccess.thecvf.com/WACV2025_workshops/MAPA
+  - https://openaccess.thecvf.com/WACV2024_workshops/MAP-A
+  - https://portal.core.edu.au/conf-ranks/?search=MAP-A&by=all&source=ICORE2026
+  - https://portal.core.edu.au/conf-ranks/?search=GAPBio&by=all&source=ICORE2026
+unverified:
+  - The 2027 site gives the date as 4 or 5 January 2027, to be confirmed; January 4 (Monday afternoon) is from the WACV 2027 workshop list
+  - The 2026 site calls it the seventh edition while the 2027 site calls 2027 the ninth; edition numbers are left out
+  - Camera-ready date for 2027 not yet announced
+last_verified: 2026-11-14

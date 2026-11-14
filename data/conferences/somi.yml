@@ -1,0 +1,49 @@
+id: somi
+name: SOMI
+full_name: "Tutorial and Workshop on Systems Over Models: What Actually Works in Industry"
+type: workshop
+tier: minor
+areas: [ai, software]
+region: europe
+language: english
+organizer: Workshop chairs from Halmstad University (CAISR), Sigma Technology, University of Porto, University of Waikato and Osnabrueck University; co-located with ECML PKDD
+organizer_country: [europe]
+proceedings: Springer CCIS (joint ECML PKDD workshop post-proceedings, regular papers only)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://slawomir-nowaczyk.github.io/SOMI-2026
+notes:
+- Workshop plus hands-on MLOps tutorial at ECML PKDD on deploying reproducible and reliable end-to-end ML pipelines in industry
+- First edition at ECML PKDD 2026 in Naples (listed by ECML PKDD as 'Systems, Not Models')
+- Regular papers up to 14 pages plus references go into the Springer workshop proceedings of ECML PKDD 2026
+- Short papers up to 6 pages (work in progress, position papers, negative results) are presented but not published
+- In-person presentation by at least one author is required
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-07
+  end: 2026-09-07
+  location: Naples, Italy (ECML PKDD 2026)
+  url: https://slawomir-nowaczyk.github.io/SOMI-2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-14
+    tz: AoE
+    label: Extended from 2026-06-05
+  - kind: notification
+    date: 2026-07-13
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-20
+    tz: AoE
+sources:
+- https://slawomir-nowaczyk.github.io/SOMI-2026
+- https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://ecmlpkdd.org/2026/submissions-workshop-track/
+- https://portal.core.edu.au/conf-ranks/?search=SOMI&by=all&source=ICORE2026
+unverified:
+- SOMI 2027 not announced as of 2026-11-14; unclear whether the workshop will recur
+last_verified: 2026-11-14

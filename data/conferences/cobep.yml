@@ -1,0 +1,52 @@
+id: cobep
+name: COBEP
+full_name: Brazilian Power Electronics Conference (Congresso Brasileiro de Eletronica de Potencia)
+type: conference
+tier: minor
+areas: [communications]
+region: latin-america
+frequency: biennial
+organizer: SOBRAEP (Brazilian Power Electronics Society)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [10]
+links:
+  website: https://www.sobraep.org.br/cobep
+notes:
+- Biennial power electronics conference of SOBRAEP, the Brazilian Power Electronics Society, held in odd years since 1991
+- Described by SOBRAEP as the most traditional power electronics event in the Southern Hemisphere
+- Always held in Brazil, at a different host city each edition (2019 Santos, 2021 Joao Pessoa, 2023 Florianopolis, 2025 Vitoria, 2027 Rio de Janeiro)
+- Papers since 2009 are in IEEE Xplore; authors can instead opt for a short paper in the COBEP proceedings only
+- Digest submission, then a final IEEE paper of 4 to 8 pages; accepted papers not presented are removed from IEEE Xplore
+- 2023 edition was held jointly with SPEC (Southern Power Electronics Conference)
+- Future host cities announced by SOBRAEP are Rio de Janeiro (2027), Campina Grande (2029) and Belo Horizonte (2031)
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-10-05
+  end: 2025-10-08
+  location: Vitoria, Espirito Santo, Brazil (Comfort Suites Vitoria)
+  url: https://cobep2025.ufes.br/
+  deadlines:
+  - kind: submission
+    date: 2025-05-30
+    label: Digest submission (new deadline)
+  - kind: notification
+    date: 2025-07-30
+  - kind: camera_ready
+    date: 2025-09-17
+    label: Final version and author registration (extended from 2025-08-31)
+sources:
+- https://www.sobraep.org.br/cobep
+- https://cobep2025.ufes.br/
+- https://cobep2025.ufes.br/submission/
+- https://portal.core.edu.au/conf-ranks/?search=COBEP&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- COBEP 2027 (Rio de Janeiro) dates and website not yet announced
+- Paper language (English and/or Portuguese) not stated on the 2025 site
+- Original 2025 digest deadline before the extension not recorded
+- CCF 2026 list not checked directly on ccf.org.cn

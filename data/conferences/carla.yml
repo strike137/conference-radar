@@ -1,0 +1,80 @@
+id: carla
+name: CARLA
+full_name: Latin American High Performance Computing Conference
+type: conference
+tier: minor
+areas: [systems, ai]
+region: latin-america
+language: english
+frequency: annual
+organizer: SCALAC (Advanced Computing System for Latin America and the Caribbean) with a local host university (UNC Supercomputo, Universidad Nacional de Cordoba in 2026)
+organizer_country: [other]
+proceedings: Springer CCIS
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://carlaconference.org/
+notes:
+- Flagship HPC conference of Latin America, held since 2014 in a different Latin American or Caribbean country each year
+- Accepted papers published in Springer CCIS, one "High Performance Computing" volume per year
+- "2026 tracks: HPC, AI at HPC scale, HPC applications, and HPC education"
+- Papers up to 15 pages in Springer LNCS style, single-blind review; submissions via Springer Meteor
+- Co-located workshops, tutorials, posters, a DevOps school for HPC and a student cluster competition; some workshop papers go to CEUR
+- Recent hosts were Guadalajara 2021, Porto Alegre 2022, Cartagena 2023, Santiago 2024, Kingston (Jamaica) 2025 and Cordoba 2026
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-22
+  end: 2025-09-26
+  location: Jamaica Pegasus Hotel, Kingston, Jamaica
+  url: https://carlaconference.org/previous_editions/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-06
+    label: Papers (extended from 2025-05-23)
+  - kind: notification
+    date: 2025-07-11
+  - kind: other
+    date: 2025-07-18
+    label: Posters
+- year: 2026
+  start: 2026-09-21
+  end: 2026-09-25
+  location: Centro Cultural UNC (CCUNC), Cordoba, Argentina
+  url: https://carlaconference.org/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-05-10
+    tz: UTC
+  - kind: submission
+    date: 2026-05-31
+    tz: UTC
+    label: Papers (extended from 2026-05-24)
+  - kind: notification
+    date: 2026-07-14
+  - kind: camera_ready
+    date: 2026-07-27
+    tz: UTC
+  - kind: other
+    date: 2026-08-02
+    label: Poster abstracts
+sources:
+- https://carlaconference.org/
+- https://carlaconference.org/cfp/
+- https://carlaconference.org/board-committee/
+- https://carlaconference.org/venue-unccc/
+- https://carlaconference.org/special-publications/
+- https://carlaconference.org/previous_editions/2025/
+- https://carlaconference.org/previous_editions/2025/index.html%3Fp=59.html
+- https://carlaconference.org/previous_editions/2025/index.html%3Fp=65.html
+- https://carlaconference.org/previous_editions/2025/index.html%3Fp=67.html
+- https://link.springer.com/conference/carla
+- https://portal.core.edu.au/conf-ranks/?search=CARLA&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- CARLA 2027 dates and location not announced as of 2026-11-14
+- Indexing (Scopus, DBLP) inferred from the CCIS series, not stated on the conference site

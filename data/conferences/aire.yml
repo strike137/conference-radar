@@ -1,0 +1,64 @@
+id: aire
+name: AIRE
+full_name: International Workshop on Artificial Intelligence and Requirements Engineering
+type: workshop
+tier: minor
+areas: [ai, nlp, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: AIRE organizing committee, co-located with the IEEE International Requirements Engineering Conference (RE)
+organizer_country: [international]
+proceedings: IEEE Xplore (RE workshops proceedings, REW)
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8, 9]
+links:
+  website: https://aire-ws.github.io/aire26/
+notes:
+- Workshop on AI for requirements engineering (NLP, ML, LLMs, agents) and RE for AI-based systems
+- Held with IEEE RE every year since 2014; AIRE'26 was the 13th edition (Montreal)
+- Papers appear in the RE workshops proceedings in the IEEE Digital Library
+- Long papers 7-10 pages and short or position papers up to 4 pages, references included, IEEE format
+- Single-blind review; replication packages are expected
+- "Acceptance: 10 of 18 papers (2025)"
+- 2026 organizers from FH SWF (Germany), University of Calgary (Canada) and UPC (Spain)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: 13th edition, with RE 2026
+  start: 2026-08-18
+  end: 2026-08-18
+  location: Montreal, Canada (co-located with RE 2026)
+  url: https://aire-ws.github.io/aire26/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-18
+    time: "23:59"
+    tz: AoE
+    label: Optional
+  - kind: submission
+    date: 2026-05-25
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-22
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-02
+    time: "23:59"
+    tz: AoE
+sources:
+- https://aire-ws.github.io/aire26/
+- https://aire-ws.github.io/aire26/paper.html
+- https://aire-ws.github.io/aire26/program.html
+- https://aire-ws.github.io/aire26/organization.html
+- https://aire-ws.github.io/aire25/
+- https://aire-ws.github.io/aire24/
+- https://conf.researchr.org/track/RE-2026/RE-2026-workshops
+- https://portal.core.edu.au/conf-ranks/?search=AIRE&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- AIRE'27 not announced yet

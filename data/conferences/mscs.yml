@@ -1,0 +1,78 @@
+id: mscs
+name: MSCS
+full_name: SICE Multi-Symposium on Control Systems
+name_local: 計測自動制御学会 制御部門マルチシンポジウム
+type: conference
+tier: domestic
+areas: [general, ai, systems]
+region: japan
+language: mixed
+frequency: annual
+organizer: SICE Control Division
+organizer_country: [japan]
+proceedings: None (participants only)
+archival: false
+fee: 11,000 JPY presentation fee on top of registration (2027)
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://www.sice-ctrl.jp/mscs2027/
+notes:
+  - Annual March meeting of the Control Division of SICE (Society of Instrument and Control Engineers), held since 2014
+  - Merges the Control Theory Symposium, Plant Modeling Symposium, Adaptive and Learning Control Symposium, Guidance and Control Symposium and the System Construction and Control Technology Symposium
+  - Papers are 1 to 8 pages (paper or slide format); the preprint PDF is released to participants on the first day
+  - Includes the English SICE International Symposium on Control Systems (ISCS) with peer-reviewed regular papers submitted to IEEE Xplore and a separate October deadline
+  - Selected talks can go to a special issue of the Transactions of SICE
+  - Student poster session aimed at contact with industry
+  - Held in a different Japanese city each year (Toyama 2026, Tokyo 2027)
+editions:
+  - year: 2026
+    start: 2026-03-03
+    end: 2026-03-06
+    location: Toyama International Conference Center, Toyama, Japan
+    url: https://www.sice-ctrl.jp/mscs2026/
+    deadlines:
+      - kind: other
+        date: 2025-11-28
+        label: Organized session proposals (extended from 2025-11-14)
+      - kind: abstract
+        date: 2025-12-19
+        label: Talk application (extended from 2025-12-05)
+      - kind: submission
+        date: 2026-01-21
+        label: Manuscript (extended from 2026-01-14)
+  - year: 2027
+    start: 2027-03-02
+    end: 2027-03-05
+    location: Meiji University Surugadai Campus, Tokyo, Japan
+    url: https://www.sice-ctrl.jp/mscs2027/
+    deadlines:
+      - kind: submission
+        date: 2026-10-16
+        time: "23:59"
+        tz: PDT
+        label: ISCS 2027 initial paper submission (extended from 2026-10-09)
+      - kind: other
+        date: 2026-11-13
+        label: Organized session proposals
+      - kind: abstract
+        date: 2026-12-04
+        label: Talk application
+      - kind: submission
+        date: 2026-12-25
+        label: Manuscript
+sources:
+  - https://www.sice-ctrl.jp/mscs2027/
+  - https://www.sice-ctrl.jp/mscs2027/cfp
+  - https://www.sice-ctrl.jp/mscs2026/
+  - https://www.sice-ctrl.jp/mscs2026/cfp
+  - https://iscs2027.sice-ctrl.jp/
+  - https://iscs2027.sice-ctrl.jp/submission
+  - https://portal.core.edu.au/conf-ranks/?search=MSCS&by=all&source=ICORE2026
+  - https://portal.core.edu.au/conf-ranks/?search=ISCS&by=all&source=ICORE2026
+unverified:
+  - Registration fees (only the 11,000 JPY presentation fee is stated)
+  - Whether domestic talks get any review (the site does not mention review)
+  - ISCS 2027 notification is late November 2026 and the final submission date is TBA
+last_verified: 2026-11-14

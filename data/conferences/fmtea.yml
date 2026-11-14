@@ -1,0 +1,69 @@
+id: fmtea
+name: FMTea
+full_name: Formal Methods Teaching Workshop
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Formal Methods Europe (FME) Teaching Committee
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [2, 5]
+  conference_months: [5, 9]
+links:
+  website: https://fmtea.github.io/
+notes:
+- Workshop on teaching formal methods, affiliated with the FM symposium and supported by the FME Teaching Committee
+- Proceedings in the Springer LNCS 'Formal Methods Teaching' series; papers up to 15 pages, single-blind, at least three reviews
+- Held with FM, so it follows the FM schedule (2019 Porto, 2021 Beijing, 2024 Milan, 2026 Tokyo)
+- Successor of the Teaching Formal Methods conferences TFM 2004 and TFM 2009
+- One-day event of keynotes and paper talks; registration through FM
+- Not listed in ICORE2026
+editions:
+- year: 2024
+  start: 2024-09-10
+  end: 2024-09-10
+  location: Milan, Italy (with FM 2024)
+  url: https://fmtea.github.io/FMTea24/
+  deadlines:
+  - kind: abstract
+    date: 2024-05-24
+  - kind: submission
+    date: 2024-05-30
+  - kind: notification
+    date: 2024-06-28
+  - kind: camera_ready
+    date: 2024-07-19
+- year: 2026
+  start: 2026-05-19
+  end: 2026-05-19
+  location: Tokyo, Japan (with FM 2026)
+  url: https://fmtea.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-02-22
+    tz: AoE
+    label: Extended from 2026-01-25
+  - kind: submission
+    date: 2026-02-22
+    tz: AoE
+    label: Extended from 2026-02-01
+  - kind: notification
+    date: 2026-03-15
+    label: Extended from 2026-03-01
+  - kind: camera_ready
+    date: 2026-03-29
+sources:
+- https://fmtea.github.io/
+- https://fmtea.github.io/FMTea24/
+- https://link.springer.com/book/9783032267429
+- https://portal.core.edu.au/conf-ranks/?search=FMTea&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- Next FMTea edition not announced yet
+- CCF list not checked on ccf.org.cn directly; FMTea is not known to be on it
+- Acceptance rate not stated on the workshop site

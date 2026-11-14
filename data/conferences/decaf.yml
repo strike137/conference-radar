@@ -1,0 +1,76 @@
+id: decaf
+name: DeCaF
+full_name: MICCAI Workshop on Distributed, Collaborative and Federated Learning
+type: workshop
+tier: minor
+areas: [ai, vision, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: DeCaF workshop organizers (MICCAI satellite workshop)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://workshop-decaf.github.io/decaf-2026/
+notes:
+- MICCAI satellite workshop on federated, distributed and collaborative learning for medical imaging, including privacy-preserving training and attacks on federated learning
+- Started as the DCL workshop in 2020; 2026 was the 7th edition
+- Papers in the MICCAI Satellite Events joint Springer LNCS proceedings (2025 -> LNCS 16135, shared with BRIDGE)
+- Full papers up to 8 pages excluding references in the MICCAI template, double-blind review with 3 reviewers, OpenReview submission (2026)
+- Organizers in 2026 from Ant Group, University of British Columbia, University Hospital Bonn, Indiana University, NVIDIA, MLCommons, Monash University and University of Oxford; NVIDIA sponsors best paper awards
+- Location follows MICCAI (Daejeon 2025, Strasbourg 2026)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://decaf-workshop.github.io/decaf-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-01
+    tz: AoE
+    label: Extended from June 27
+  - kind: notification
+    date: 2025-07-16
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-30
+    time: "23:59"
+    tz: PDT
+- year: 2026
+  start: 2026-10-01
+  end: 2026-10-01
+  location: Strasbourg, France
+  url: https://workshop-decaf.github.io/decaf-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-24
+    time: "23:59"
+    tz: PDT
+    label: Extended from July 1
+  - kind: notification
+    date: 2026-08-12
+    time: "23:59"
+    tz: PDT
+    label: Moved from July 31
+  - kind: camera_ready
+    date: 2026-08-18
+    time: "23:59"
+    tz: PDT
+sources:
+- https://workshop-decaf.github.io/decaf-2026/
+- https://decaf-workshop.github.io/decaf-2025/
+- https://link.springer.com/book/10.1007/978-3-032-05663-4
+- https://conferences.miccai.org/2025/en/workshops.asp
+- https://conferences.miccai.org/2026/en/workshops.asp
+- https://portal.core.edu.au/conf-ranks/?search=DeCaF&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- Deadlines are stated as 23:59 Pacific Time; PDT assumed for the summer dates
+- DeCaF 2025 workshop date taken from the MICCAI 2025 workshop list and the Springer volume title, not the workshop site
+- DeCaF 2027 not announced as of 2026-11-14 (MICCAI 2027 is in Auckland)

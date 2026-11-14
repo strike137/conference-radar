@@ -1,0 +1,68 @@
+id: kgswc
+name: KGSWC
+full_name: International Knowledge Graph and Semantic Web Conference
+type: conference
+tier: minor
+areas: [data, ai]
+region: europe
+language: english
+frequency: annual
+organizer: KGSWC general chairs (Universidad Autonoma de Tamaulipas, Mexico; Sharda University, India and TIB Hannover), with ShodhGuru Research Labs (India) as technical sponsor
+organizer_country: [india, other]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://kgsw.org/
+notes:
+  - Conference series on knowledge graphs and semantic web research; 2026 is the 8th edition, held in hybrid mode
+  - Proceedings in Springer LNCS under the title Knowledge Graphs and Semantic Web (about 20 to 25 papers per volume)
+  - Started in 2019 as an Ibero-American conference (Villa Clara, Cuba), later Mexico (2020) and Kingsville, TX, USA (2021)
+  - "Recent hosts: Madrid (2022), Zaragoza (2023), Paris (2024), Leipzig (2025), Belgrade (2026)"
+  - Full papers 12 to 15 pages, short papers 6 to 8 pages, double-blind review with at least three reviewers, EasyChair
+  - Not listed in CORE ICORE2026; not on the CCF list
+editions:
+  - year: 2025
+    label: 7th KGSWC
+    start: 2025-11-26
+    end: 2025-11-28
+    location: HTWK Leipzig, Germany
+    url: https://kgsw.org/kgsw_2025/index.php
+    deadlines:
+      - kind: submission
+        date: 2025-08-25
+      - kind: notification
+        date: 2025-09-25
+      - kind: camera_ready
+        date: 2025-09-30
+  - year: 2026
+    label: 8th KGSWC
+    start: 2026-11-16
+    end: 2026-11-18
+    location: Mihajlo Pupin Institute, University of Belgrade, Serbia (hybrid)
+    url: https://kgsw.org/index.php
+    deadlines:
+      - kind: submission
+        date: 2026-08-20
+      - kind: notification
+        date: 2026-09-20
+      - kind: camera_ready
+        date: 2026-09-30
+sources:
+  - https://kgsw.org/index.php
+  - https://kgsw.org/important_date.php
+  - https://kgsw.org/call_for_paper.php
+  - https://kgsw.org/about.php
+  - https://kgsw.org/committee.php
+  - https://kgsw.org/kgsw_2025/index.php
+  - https://kgsw.org/kgsw_2025/important_date.php
+  - https://link.springer.com/conference/kgswc
+  - https://link.springer.com/book/10.1007/978-3-032-13109-6
+  - https://portal.core.edu.au/conf-ranks/?search=KGSWC&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - No permanent steering body is named on the site; organizer_country inferred from the general chairs and the ShodhGuru Research Labs sponsor
+  - LNCS publication for 2026 is stated as planned
+  - KGSWC 2027 not announced yet

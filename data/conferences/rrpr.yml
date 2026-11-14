@@ -1,0 +1,80 @@
+id: rrpr
+name: RRPR
+full_name: Workshop on Reproducible Research in Pattern Recognition
+type: workshop
+tier: minor
+areas: [vision, ai, software]
+region: worldwide
+language: english
+frequency: biennial
+organizer: ICPR satellite workshop supported by IAPR TC22; 2026 chairs Federico Bolelli, Miguel Colom, Daniel Lopresti
+  and Bertrand Kerautret
+organizer_country: [europe]
+proceedings: Springer LNCS (own post-proceedings, separate from the ICPR workshop volumes)
+archival: true
+typical:
+  deadline_months: [5, 9]
+  conference_months: [8, 12]
+links:
+  website: https://tc22-team.github.io/rrpr2026/
+notes:
+- Satellite workshop of ICPR every two years; 6th edition in 2026 (Lyon), earlier ones in Kolkata 2024, Montreal 2022,
+  Milan (virtual) 2020, Beijing 2018 and Cancun 2016
+- Publishes its own post-proceedings in Springer LNCS, distinct from the ICPR workshop proceedings, so revised papers
+  can be submitted after the event
+- Track 1 on reproducible research frameworks and platforms; Track 2 on companion papers describing the
+  reproducibility of results, for example of an accepted ICPR paper
+- LNCS format, 6 to 15 pages, blind review by at least 2 referees who also check that the source code matches the paper
+- Companion papers tied to an ICPR paper can earn the ICPR Reproducible Badge
+- Not listed in ICORE2026
+editions:
+- year: 2024
+  start: 2024-12-01
+  end: 2024-12-01
+  location: Kolkata, India
+  url: https://rrpr2024.sciencesconf.org/
+  deadlines:
+  - kind: submission
+    date: 2024-09-05
+  - kind: notification
+    date: 2024-10-12
+    label: Delayed from 2024-10-05
+  - kind: other
+    date: 2024-10-12
+    label: ICPR companion papers (extended from 2024-10-05)
+- year: 2026
+  start: 2026-08-21
+  end: 2026-08-21
+  location: Lyon, France
+  url: https://tc22-team.github.io/rrpr2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-30
+    label: Extended from 2026-04-30, rolling notifications
+  - kind: notification
+    date: 2026-06-15
+    label: Rolling, at the latest
+  - kind: other
+    date: 2026-06-27
+    label: Draft papers for the workshop
+  - kind: other
+    date: 2026-07-06
+    label: ICPR companion papers (Track 2)
+  - kind: other
+    date: 2026-07-20
+    label: Companion paper notification
+sources:
+- https://tc22-team.github.io/rrpr2026/
+- https://tc22-team.github.io/rrpr2026/callForPapers.html
+- https://tc22-team.github.io/rrpr2026/committees.html
+- https://tc22-team.github.io/rrpr2026/submission.html
+- https://tc22-team.github.io/rrpr2026/proceedings.html
+- https://tc22-team.github.io/rrpr2026/previousEditions.html
+- https://rrpr2024.sciencesconf.org/
+- https://icpr2026.org/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=RRPR&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- RRPR 2026 post-proceedings volume not yet published as of November 2026
+- RRPR 2028 (expected with ICPR 2028) not announced yet
+- Acceptance rate not published

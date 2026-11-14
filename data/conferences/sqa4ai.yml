@@ -1,0 +1,55 @@
+id: sqa4ai
+name: SQA4AI
+full_name: Workshop on Software Quality Assurance for AI
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: SQA4AI organizers (University of Salerno, University of Hawaii, University of Southern Denmark and University of Oulu), co-located with IEEE SANER
+organizer_country: [europe, usa]
+proceedings: IEEE Xplore (SANER companion proceedings, SANER-C)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://sqa4ai-ws.github.io/
+notes:
+- Workshop on quality assurance, testing, technical debt and MLOps for AI-enabled systems, including LLMs
+- Held with SANER; 1st edition 2022 (Honolulu), 2nd 2025 (Montreal), 3rd 2026 (Limassol)
+- 2026 papers appear in the SANER companion proceedings (SANER-C) in IEEE Xplore; 7 accepted papers
+- Full papers up to 8 pages, short papers up to 4, position papers 2 pages, double-anonymous review by at least three PC members, submitted via the SANER EasyChair
+- The 2026 edition was run hybrid over Zoom because of the situation in Cyprus
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: 3rd SQA4AI, with SANER 2026
+  start: 2026-03-17
+  end: 2026-03-17
+  location: Limassol, Cyprus (co-located with SANER 2026, held hybrid)
+  url: https://sqa4ai-ws.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-18
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2025-12-18
+    tz: AoE
+  - kind: notification
+    date: 2026-01-14
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-01-20
+    tz: AoE
+sources:
+- https://sqa4ai-ws.github.io/
+- https://conf.researchr.org/home/saner-2026
+- https://conf.researchr.org/home/saner-2027
+- https://doi.org/10.1109/saner-c67878.2026.00043
+- https://portal.core.edu.au/conf-ranks/?search=SQA4AI&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- No 2027 edition announced (not listed for SANER 2027 as of 2026-11-14)

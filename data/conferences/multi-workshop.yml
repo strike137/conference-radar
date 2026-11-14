@@ -1,0 +1,66 @@
+id: multi-workshop
+name: MULTI
+full_name: International Workshop on Multi-Level Modeling
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: MULTI steering committee (University of Mannheim, Victoria University of Wellington, Universidad Autonoma de Madrid), co-located with MODELS
+organizer_country: [europe, new-zealand]
+proceedings: MODELS Companion proceedings (ACM 2026, IEEE 2025)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://multi-workshop.github.io/
+notes:
+  - Workshop on multi-level modeling (more than two classification levels, deep characterization, clabjects) for conceptual modeling and software engineering
+  - Held every year since 2014, always co-located with MODELS (2025 Grand Rapids, 2026 Malaga)
+  - Papers in the MODELS Companion proceedings since 2019 (IEEE in 2025, ACM in 2026); CEUR-WS volumes for 2014 to 2018
+  - Regular papers up to 10 pages, position papers up to 5 pages, plus challenge posters, challenge papers and 2-page industrial abstracts (website only)
+  - "MULTI 2026: 20 submissions, 11 papers accepted (series homepage), plus position papers and posters"
+  - Not listed in the CORE portal (ICORE2026)
+editions:
+  - year: 2025
+    label: 12th edition, with MODELS 2025
+    start: 2025-10-07
+    end: 2025-10-07
+    location: Grand Rapids, MI, USA (co-located with MODELS 2025)
+    url: https://multi-workshop.github.io/2025/index.html
+    deadlines:
+      - kind: submission
+        date: 2025-07-10
+        tz: AoE
+        label: Extended from 2025-07-03
+      - kind: notification
+        date: 2025-07-31
+      - kind: camera_ready
+        date: 2025-08-07
+  - year: 2026
+    label: 13th edition, with MODELS 2026
+    start: 2026-10-04
+    end: 2026-10-05
+    location: Malaga, Spain (co-located with MODELS 2026)
+    url: https://multi-workshop.github.io/2026/index.html
+    deadlines:
+      - kind: submission
+        date: 2026-07-12
+        label: Papers and posters, extended from 2026-07-03
+      - kind: notification
+        date: 2026-07-31
+      - kind: camera_ready
+        date: 2026-08-14
+sources:
+  - https://multi-workshop.github.io/
+  - https://multi-workshop.github.io/2026/index.html
+  - https://multi-workshop.github.io/2026/cfp.html
+  - https://multi-workshop.github.io/2026/committees.html
+  - https://multi-workshop.github.io/2025/index.html
+  - https://conf.researchr.org/track/models-2026/models-2026-workshops
+  - https://portal.core.edu.au/conf-ranks/?search=Multi-Level+Modeling&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - No 2027 edition announced yet

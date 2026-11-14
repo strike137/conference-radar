@@ -1,0 +1,63 @@
+id: bsd-bigdata
+name: BSD
+full_name: IEEE International Workshop on Big Spatial Data
+type: workshop
+tier: minor
+areas: [data, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs from Esri, the University of Rhode Island and the University of Colorado Denver, co-located with IEEE BigData
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [12]
+links:
+  website: https://ckoh04.github.io/BSD-website/
+notes:
+- Workshop on management, mining and AI for large-scale spatial and spatio-temporal data (raster, vector, road networks, geosensing); 2026 is the 9th edition
+- Held with the IEEE International Conference on Big Data (BSD 2024 in Washington DC, BSD 2026 in Phoenix)
+- All accepted workshop papers go into the IEEE BigData workshop proceedings (IEEE Computer Society Press, IEEE Xplore)
+- Full papers up to 10 pages; short, demo and vision papers up to 4 pages
+- Hybrid workshop; organizers plan a keynote and a panel as in previous years
+- Deadline extended twice in 2026 (Oct 15 -> Oct 28 -> Nov 1)
+- Not ranked by CORE (not in ICORE2026) or CCF
+editions:
+- year: 2024
+  label: BSD 2024
+  start: 2024-12-15
+  end: 2024-12-18
+  location: Washington DC, USA
+  url: https://www3.cs.stonybrook.edu/~ieeebigdata2024/Workshops.html
+- year: 2026
+  label: BSD 2026 (9th)
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Phoenix, Arizona, USA (hybrid)
+  url: https://ckoh04.github.io/BSD-website/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-11-01
+    tz: AoE
+  - kind: notification
+    date: 2026-11-19
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-26
+    tz: AoE
+sources:
+- https://ckoh04.github.io/BSD-website/
+- https://bigdataieee.org/BigData2026/program/workshops/
+- https://bigdataieee.org/BigData2026/calls/workshops/
+- https://www3.cs.stonybrook.edu/~ieeebigdata2024/Workshops.html
+- https://www3.cs.stonybrook.edu/~ieeebigdata2024/
+- https://portal.core.edu.au/conf-ranks/?search=BSD&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- 2026 dates are marked tentative on the workshop site
+- Whether there was a 2025 edition (not listed among IEEE BigData 2025 workshops)
+- BSD 2024 deadlines not recorded; dates shown are the full IEEE BigData 2024 dates
+- Workshop dates shown are the full IEEE BigData dates; the exact workshop day is not given

@@ -1,0 +1,67 @@
+id: aist-icst
+name: AIST
+full_name: International Workshop on Artificial Intelligence in Software Testing
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AIST workshop chairs and steering committee, co-located with IEEE ICST
+organizer_country: [korea, new-zealand, europe]
+proceedings: IEEE Xplore (ICST workshop proceedings)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5]
+links:
+  website: https://conf.researchr.org/series/aist
+notes:
+- Workshop on AI for software testing (test generation, prioritization, performance testing, explainable AI for testing) and on testing of AI systems
+- Co-located with IEEE ICST every year since 2021; the 2026 edition was the 6th
+- Full papers up to 8 pages, short and tool papers up to 4 pages, plus position papers (two-column IEEE format)
+- Single-blind review by three reviewers; accepted papers appear in the ICST proceedings
+- 2026 edition held on May 22, 2026 in Daejeon with four accepted papers, a keynote and a panel
+- 2027 chairs are Jeongju Sohn (Kyungpook National University) and Valerio Terragni (University of Auckland)
+- Different from the AIST conference on Analysis of Images, Social Networks and Texts (id aist)
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-22
+  end: 2026-05-22
+  location: Daejeon, South Korea (IEEE ICST 2026)
+  url: https://conf.researchr.org/home/icst-2026/aist-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-06
+    tz: AoE
+    label: Extended from 2026-02-27
+  - kind: notification
+    date: 2026-03-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-10
+    tz: AoE
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-21
+  location: San Sebastian, Spain (IEEE ICST 2027)
+  url: https://conf.researchr.org/home/icst-2027/aist-2027
+  deadlines:
+  - kind: submission
+    date: 2027-02-04
+  - kind: notification
+    date: 2027-03-04
+  - kind: camera_ready
+    date: 2027-03-18
+sources:
+- https://conf.researchr.org/home/icst-2026/aist-2026
+- https://conf.researchr.org/home/icst-2027/aist-2027
+- https://conf.researchr.org/series/aist
+- https://portal.core.edu.au/conf-ranks/?search=AIST&by=all&source=ICORE2026
+unverified:
+- 2026 camera-ready date was marked TBC on the workshop page
+- Exact AIST day within ICST 2027 not announced; dates shown are the host conference dates
+- Time zone of the 2027 deadlines not stated
+- Acceptance rate and fee not published
+last_verified: 2026-11-14

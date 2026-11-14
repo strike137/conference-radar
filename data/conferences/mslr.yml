@@ -1,0 +1,53 @@
+id: mslr
+name: MSLR
+full_name: Workshop on Multimodal Sign Language Recognition
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (University of Catania and King Fahd University of Petroleum and Minerals); co-located with ICCV or CVPR
+organizer_country: [europe, other]
+proceedings: CVF Open Access and IEEE Xplore (CVPR/ICCV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://m-slrt.github.io/MSLR2026/
+notes:
+- Workshop on multimodal sign language recognition and translation, including radar and other privacy-preserving sensing
+- 1st edition at ICCV 2025, 2nd at CVPR 2026 in Denver
+- Runs the SignEval challenge alongside the paper track (isolated LIS and continuous sign language recognition)
+- Double-blind review, CVPR format, accepted papers in the CVPR Workshops proceedings
+- Distinct from SLRTP (Sign Language Recognition, Translation and Production workshop)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://m-slrt.github.io/MSLR2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-14
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-01
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-11
+    time: "23:59"
+    tz: AoE
+sources:
+- https://m-slrt.github.io/MSLR2026/
+- https://cvpr.thecvf.com/virtual/2026/workshop/36106
+- https://openaccess.thecvf.com/CVPR2026_workshops/MSLR
+- https://openaccess.thecvf.com/ICCV2025_workshops/MSLR
+- https://portal.core.edu.au/conf-ranks/?search=MSLR&by=all&source=ICORE2026
+unverified:
+- Next edition not announced yet; host conference (CVPR or ICCV/ECCV) varies
+last_verified: 2026-11-14

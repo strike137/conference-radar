@@ -1,0 +1,68 @@
+id: mmai-bigdata
+name: MMAI
+full_name: IEEE Big Data Workshop on Multimodal AI
+type: workshop
+tier: minor
+areas: [ai, vision, nlp, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: MMAI workshop chairs (George Mason University and others); co-located with IEEE BigData
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://sites.google.com/view/mmai2025/home
+notes:
+- Workshop on multimodal learning, multimodal LLMs, cross-modal retrieval, data fusion and multimodal applications; held as MMBD in 2021 and 2022 and as MMAI since 2023
+- Chaired by Lindi Liao (George Mason University) with co-chairs from Baptist Health South Florida and South Dakota State University
+- Held with the IEEE International Conference on Big Data; the 2025 edition was an online workshop
+- Accepted papers published in the IEEE Big Data proceedings; double-blind review
+- Full papers 8-10 pages, short papers 5-7 pages, posters 3-4 pages; conditionally accepted papers go through a second review round
+- "Acceptance rate: 24.4% full papers, 30.3% short papers, 50% posters (2025)"
+- Separate from the MMAI workshop at IEEE ICDM run by the same organizers
+- Not ranked by CORE (not in ICORE2026) or CCF
+acceptance_rate: 24.4% full papers, 30.3% short papers (2025)
+editions:
+- year: 2025
+  label: 5th MMAI (WS06)
+  start: 2025-12-10
+  end: 2025-12-10
+  location: Online (IEEE BigData 2025, Macau SAR, China)
+  url: https://sites.google.com/view/mmai2025/home
+  deadlines:
+  - kind: submission
+    date: 2025-10-06
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2025-10-13
+    tz: AoE
+    label: Short papers
+  - kind: submission
+    date: 2025-10-27
+    tz: AoE
+    label: Poster papers
+  - kind: notification
+    date: 2025-10-27
+    tz: AoE
+    label: Full and short papers
+  - kind: camera_ready
+    date: 2025-11-22
+- year: 2026
+  label: 6th MMAI
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Phoenix, Arizona, USA
+  url: https://bigdataieee.org/BigData2026/program/workshops/
+sources:
+- https://sites.google.com/view/mmai2025/home
+- https://conferences.cis.um.edu.mo/ieeebigdata2025/workshops.html
+- https://bigdataieee.org/BigData2026/program/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=MMAI&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- MMAI 2026 workshop site and deadlines not found; dates shown are the full IEEE BigData 2026 dates

@@ -1,0 +1,77 @@
+id: aces-symposium
+name: ACES
+full_name: International Applied Computational Electromagnetics Society (ACES) Symposium
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: Applied Computational Electromagnetics Society (ACES)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [5]
+links:
+  website: https://aces-society.org/conference/
+notes:
+- Annual symposium of the Applied Computational Electromagnetics Society, for developers and users of computational EM techniques
+- Topics cover numerical methods, antennas, EMC, microwave devices, metamaterials, remote sensing, radar and ML for EM design
+- Two-page papers in IEEE conference format; reviewed with an initial review and a revised-paper round before final acceptance
+- Accepted papers are archived in IEEE Xplore if presented at the symposium; authors can submit extended versions to the ACES Journal
+- Usually held in the USA (Monterey 2023, Orlando 2024 and 2025, Monterey 2027); 2026 edition in Thessaloniki, Greece
+- The conference archive also lists editions held in China (2017 to 2022)
+- In-person only for 2027; remote presentation not offered
+- Includes short courses, software tutorials and vendor exhibits
+- Electromagnetics venue outside the usual CS rankings; not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-24
+  end: 2026-05-27
+  location: Thessaloniki, Greece
+  url: https://aces-society.org/conference/Greece_2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-20
+  - kind: notification
+    date: 2026-02-25
+    label: Initial review (Feb 15 to 25)
+  - kind: other
+    date: 2026-03-05
+    label: Revised paper
+  - kind: notification
+    date: 2026-03-15
+    label: Final acceptance (Mar 10 to 15)
+- year: 2027
+  start: 2027-05-23
+  end: 2027-05-26
+  location: Monterey, California, USA
+  url: https://aces-society.org/conference/Monterey_2027/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-12-22
+  - kind: notification
+    date: 2027-02-25
+    label: Initial review (Feb 15 to 25)
+  - kind: other
+    date: 2027-03-05
+    label: Revised paper
+  - kind: notification
+    date: 2027-03-15
+    label: Final acceptance (Mar 10 to 15)
+sources:
+- https://aces-society.org/conference/
+- https://aces-society.org/conference/Monterey_2027/
+- https://aces-society.org/conference/Monterey_2027/conf_papers.php
+- https://aces-society.org/conference/Greece_2026/
+- https://aces-society.org/conference/Greece_2026/conf_papers.php
+- https://portal.core.edu.au/conf-ranks/?search=ACES&by=all&source=ICORE2026
+unverified:
+- The paper requirements pages carry text from older editions (2023 header, 2024 deadline); the IEEE Xplore statement is taken from them
+- Exact cities and dates of the 2023 to 2025 editions only taken from the archive menu
+- Deadline time and time zone not stated
+- Acceptance rate and fees not checked
+last_verified: 2026-11-14

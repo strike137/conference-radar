@@ -1,0 +1,69 @@
+id: csr-hacs
+name: HACS
+full_name: IEEE CSR Workshop on Hardware Cybersecurity Systems
+type: workshop
+tier: minor
+areas: [security, crypto, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop chairs from University of Patras, BTU Cottbus-Senftenberg and Georgia Tech (co-located workshop of IEEE CSR)
+organizer_country: [europe, usa]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8]
+links:
+  website: https://www.ieee-csr.org/csr-hacs/
+notes:
+- Workshop of the IEEE International Conference on Cyber Security and Resilience (IEEE CSR); not the High Assurance Crypto Software workshop (hacs)
+- Held with IEEE CSR every year since at least 2023 (Venice 2023, London 2024, Chania 2025, Lisbon 2026)
+- Topics are hardware security, side channels, hardware Trojans, lightweight crypto hardware and secure firmware
+- Papers go into the IEEE CSR proceedings in IEEE Xplore; 6 pages plus up to 2 extra pages with overlength charges
+- In person only in 2025 and 2026 (hybrid in 2023); two sessions on Wednesday 5 Aug in 2026
+- Deadlines were extended by about three to four weeks in 2025 and 2026
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-08-06
+  end: 2025-08-06
+  location: Chania, Crete, Greece
+  url: https://www.ieee-csr.org/archive/2025/hacs/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-05-05
+    label: Papers (extended from Apr 14)
+  - kind: notification
+    date: 2025-05-26
+    label: Author notification (extended from May 5)
+  - kind: camera_ready
+    date: 2025-06-16
+    label: Camera-ready and author registration (extended from May 26)
+- year: 2026
+  start: 2026-08-05
+  end: 2026-08-05
+  location: Lisbon, Portugal
+  url: https://www.ieee-csr.org/csr-hacs/
+  deadlines:
+  - kind: submission
+    date: 2026-05-13
+    label: Papers (extended from Apr 13)
+  - kind: notification
+    date: 2026-06-04
+    label: Author notification (extended from May 4)
+  - kind: camera_ready
+    date: 2026-06-25
+    label: Camera-ready and author registration (extended from May 25)
+sources:
+- https://www.ieee-csr.org/csr-hacs/
+- https://www.ieee-csr.org/archive/2025/hacs/index.html
+- https://www.ieee-csr.org/archive/2024/hacs/index.html
+- https://www.ieee-csr.org/archive/2023/hacs/index.html
+- https://portal.core.edu.au/conf-ranks/?search=HACS&by=all&source=ICORE2026
+unverified:
+- Deadline time and time zone not stated for 2025 and 2026 (2023 and 2024 used AoE)
+- HACS 2027 not announced yet
+last_verified: 2026-11-14

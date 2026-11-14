@@ -1,0 +1,52 @@
+id: sauafg
+name: SAUAFG
+full_name: Workshop on AI-driven Skilled Activity Understanding, Assessment & Feedback Generation
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Paritosh Parmar, Angela Yao, Basura Fernando, Brendan Morris); co-located with ICCV or CVPR
+organizer_country: [singapore, usa]
+proceedings: CVF Open Access and IEEE Xplore (CVPR/ICCV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://sauafg-workshop.github.io/
+notes:
+- Workshop on action quality assessment, skill assessment, mistake detection and feedback generation from video
+- 1st edition at ICCV 2025 in Honolulu (Oct 19), 2nd at CVPR 2026 in Denver
+- "Two tracks: proceedings track (up to 8 pages, CVF workshop proceedings) and non-proceedings track (work in progress or previously published work)"
+- Single-stage review via OpenReview, no rebuttal
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://sauafg-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-21
+    label: Proceedings track (tentative)
+  - kind: notification
+    date: 2026-03-31
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-09
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sauafg-workshop.github.io/
+- https://sauafg-workshop.github.io/edition_iccv_2025.html
+- https://openaccess.thecvf.com/CVPR2026_workshops/SAUAFG
+- https://openaccess.thecvf.com/ICCV2025_workshops/SAUAFG
+- https://portal.core.edu.au/conf-ranks/?search=SAUAFG&by=all&source=ICORE2026
+unverified:
+- 2026 submission deadline only given as tentative (March 21) on the official page
+- Next edition not announced yet; host conference (CVPR or ICCV/ECCV) varies
+last_verified: 2026-11-14

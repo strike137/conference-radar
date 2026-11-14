@@ -1,0 +1,76 @@
+id: iavvc
+name: IEEE IAVVC
+full_name: IEEE International Automated Vehicle Validation Conference
+type: conference
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: irregular
+organizer: IEEE Instrumentation and Measurement Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [4, 10]
+links:
+  website: https://iavvc.org/2027
+notes:
+- Financially sponsored by the IEEE Instrumentation and Measurement Society (IMS)
+- Editions 2023 Austin, 2024 Pittsburgh, 2025 Baden-Baden, 2027 London; the history page lists ICCVE 2022 before it
+- Two-stage submission, a 200 to 500 word abstract first and then a full paper of up to 6 pages (+2 paid)
+- Accepted and presented papers go to IEEE Xplore; extended versions can go to an IEEE TIM / OJIM special section
+- Mixes academic papers with industry workshops, panels and demonstrations on automated and connected vehicle testing
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-30
+  end: 2025-10-02
+  location: Baden-Baden, Germany
+  url: https://2025.iavvc.org/
+  deadlines:
+  - kind: abstract
+    date: 2025-02-16
+  - kind: submission
+    date: 2025-03-30
+  - kind: notification
+    date: 2025-06-29
+  - kind: camera_ready
+    date: 2025-07-27
+    label: Final paper and author registration
+- year: 2027
+  start: 2027-04-13
+  end: 2027-04-15
+  location: London, United Kingdom
+  url: https://iavvc.org/2027
+  deadlines:
+  - kind: abstract
+    date: 2026-11-15
+    label: Full and workshop paper abstract (extended)
+  - kind: notification
+    date: 2026-11-29
+    label: Abstract notification
+  - kind: submission
+    date: 2026-12-15
+    label: Full paper
+  - kind: notification
+    date: 2027-01-15
+  - kind: camera_ready
+    date: 2027-02-15
+    label: Final paper and author registration
+sources:
+- https://iavvc.org/2027
+- https://iavvc.org/2027/authors/call-for-papers
+- https://confcats-siteplex.s3.amazonaws.com/iavvc/files/iavvc27-cfp_web-05.pdf
+- https://iavvc.org/2027/authors/initial-author-instructions
+- https://iavvc.org/2027/about/history
+- https://iavvc.org/2027/registration/registration-information
+- https://2025.iavvc.org/
+- https://forge.ieee-ims.org/sites/ieeeims/files/documents/call-docs/iavvc25_cfp_web_09_970bbe4e83.pdf
+- https://ieee-ims.org/event/conference/2025-ieee-international-automated-vehicle-validation-conference
+- https://portal.core.edu.au/conf-ranks/?search=IAVVC&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- No 2026 edition; unclear whether the series will be annual or biennial from 2027
+- Acceptance rate not published

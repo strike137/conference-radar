@@ -1,0 +1,58 @@
+id: swiss-ai-days
+name: Swiss AI Days
+full_name: Swiss AI Center & HES-SO AI Days
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: mixed
+frequency: annual
+organizer: Swiss AI Center for SMEs (CSIA-PME), funded by the Engineering and Architecture domain of HES-SO
+organizer_country: [europe]
+proceedings: PMLR
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [2, 3]
+links:
+  website: https://ai-days.swiss-ai-center.ch/
+notes:
+- Applied AI conference of HES-SO (University of Applied Sciences and Arts Western Switzerland) and the Swiss AI Center
+- Aimed mainly at SME leaders in French-speaking Switzerland, with an academic track for researchers and students
+- Scientific papers of 4 to 8 pages are peer-reviewed and published in the proceedings; 2026 proceedings in PMLR vol. 309
+- Also has industry talks, workshops, posters and demos (not in the proceedings)
+- 2027 edition (5th) spread over three cities, Geneva, Yverdon-les-Bains and Fribourg, one day each
+- Rebuttal phase with reviewers before notification
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-25
+  location: Fribourg, Switzerland (HEIA-FR)
+  url: https://proceedings.mlr.press/v309/
+- year: 2027
+  start: 2027-02-17
+  end: 2027-02-19
+  location: Geneva, Yverdon-les-Bains and Fribourg, Switzerland
+  url: https://ai-days.swiss-ai-center.ch/en/call-for-papers
+  deadlines:
+  - kind: submission
+    date: 2026-11-25
+  - kind: other
+    date: 2027-01-11
+    label: Rebuttal and interaction with reviewers (Jan 11 to 13)
+  - kind: notification
+    date: 2027-01-18
+  - kind: camera_ready
+    date: 2027-01-20
+sources:
+- https://ai-days.swiss-ai-center.ch/
+- https://ai-days.swiss-ai-center.ch/en/call-for-papers
+- https://ai-days.swiss-ai-center.ch/en/organization
+- https://proceedings.mlr.press/v309/
+- https://portal.core.edu.au/conf-ranks/?search=AI%20Days&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- Deadlines and locations of the 2026 and earlier editions not found on the current site
+- Whether the 2027 proceedings will again be in PMLR
+- Language of papers and talks (event serves French-speaking Switzerland)

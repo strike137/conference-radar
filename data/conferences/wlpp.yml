@@ -1,0 +1,58 @@
+id: wlpp
+name: WLPP
+full_name: Workshop on Language-Based Parallel Programming Models
+type: workshop
+tier: minor
+areas: [systems, software]
+region: europe
+language: english
+frequency: biennial
+organizer: PPAM (Czestochowa University of Technology); workshop chair Ami Marowka (Parallel Research Lab, Israel)
+organizer_country: [europe, other]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://sites.google.com/view/wlpp2026/home
+notes:
+- Full-day workshop of PPAM (International Conference on Parallel Processing and Applied Mathematics), held every two years with PPAM
+- 11th edition in 2026 (Poznan, Poland); 10th at PPAM 2024 in Ostrava, Czech Republic
+- Covers high-level parallel programming models such as OpenMP, PGAS languages, CUDA, OpenCL, SYCL, Kokkos and OpenACC
+- Papers go through the PPAM submission system in PPAM format; presented papers appear in the PPAM post-proceedings in Springer LNCS
+- Best papers invited to a special issue of the International Journal of Parallel Programming (Springer)
+- Final versions are due after the workshop; not listed in the CORE portal (PPAM itself is National Poland)
+editions:
+- year: 2024
+  start: 2024-09-08
+  end: 2024-09-11
+  location: Ostrava, Czech Republic
+  url: https://ppam.edu.pl/prev/ppam2024
+- year: 2026
+  start: 2026-08-30
+  end: 2026-09-02
+  location: Poznan, Poland
+  url: https://sites.google.com/view/wlpp2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-05-11
+  - kind: notification
+    date: 2026-06-15
+  - kind: camera_ready
+    date: 2026-10-16
+    label: Moved by PPAM from 2026-11-02 (the WLPP page still lists 2026-11-02)
+sources:
+- https://sites.google.com/view/wlpp2026/home
+- https://ppam.edu.pl/
+- https://ppam.edu.pl/call
+- https://ppam.edu.pl/prev/ppam2024
+- https://ppam.edu.pl/prev/ppam2024/workshops
+- https://portal.core.edu.au/conf-ranks/?search=WLPP&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within PPAM 2026 (dates shown are the whole PPAM 2026 conference)
+- WLPP 2024 deadlines not recorded
+- 2028 edition not yet announced (PPAM 2028 not announced)
+last_verified: 2026-11-14

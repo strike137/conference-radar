@@ -1,0 +1,54 @@
+id: beyond-euclidean
+name: Beyond Euclidean
+full_name: "Beyond Euclidean: Workshop on Hyperbolic and Hyperspherical Learning for Computer Vision"
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizing committee (UiT The Arctic University of Norway, University of Amsterdam, Sapienza University of Rome, University of Oslo, University of East Anglia, Qualcomm AI Research, University of Michigan)
+organizer_country: [international]
+proceedings: ECCV / ICCV Workshops proceedings (CVF Open Access and IEEE Xplore for ICCV 2025)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://sites.google.com/view/beyondeuclidean/home
+notes:
+  - Workshop on hyperbolic, hyperspherical and other non-Euclidean representation learning for computer vision
+  - Editions with ECCV 2024 (Milan), ICCV 2025 (Honolulu) and ECCV 2026 (Malmo)
+  - Proceedings track papers (up to 14 pages, ECCV format) appear in the official workshop proceedings; a non-archival track takes 4-page extended abstracts and published work
+  - Submissions on OpenReview; 6 proceedings track papers in the ICCV 2025 CVF Open Access workshop proceedings
+  - 2026 edition is a morning half-day workshop titled "Beyond Euclidean, Hyperbolic Deep Learning for Computer Vision"
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 3rd edition, with ECCV 2026 (morning)
+    start: 2026-09-08
+    end: 2026-09-08
+    location: Malmo, Sweden (with ECCV 2026)
+    url: https://sites.google.com/view/beyondeuclidean/home
+    deadlines:
+      - kind: submission
+        date: 2026-07-01
+        tz: AoE
+        label: Extended from 2026-06-24
+      - kind: notification
+        date: 2026-08-06
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-08-12
+        tz: AoE
+        label: Proceedings track
+sources:
+  - https://sites.google.com/view/beyondeuclidean/home
+  - https://sites.google.com/view/beyondeuclidean/call-for-papers
+  - https://sites.google.com/view/beyondeuclidean/past-editions/eccv-2024
+  - https://sites.google.com/view/beyondeuclidean/past-editions/iccv-2025
+  - https://openaccess.thecvf.com/ICCV2025_workshops/BEW
+  - https://portal.core.edu.au/conf-ranks/?search=BEW&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - No 4th edition announced as of 2026-11-14

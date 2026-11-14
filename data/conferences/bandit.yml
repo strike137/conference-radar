@@ -1,0 +1,90 @@
+id: bandit
+name: BANDIT
+full_name: Workshop on Big Data Analysis and Illicit Trends
+type: workshop
+tier: minor
+areas: [security, data, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop chairs from Tilburg University, TU Eindhoven and the University of Thessaly (JADE lab), co-located with IEEE BigData
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [12]
+links:
+  website: https://jade-lab.github.io/bandit/
+notes:
+- Workshop on big data analytics against cybercrime and illicit activity (cyber threat intelligence, OSINT, dark web
+  marketplaces, illicit finance, misinformation); 2026 is the 3rd edition
+- Held with IEEE BigData in 2023 (Sorrento), 2025 (Macau) and 2026 (Phoenix); no 2024 edition
+- Accepted papers go into the IEEE BigData workshop proceedings (IEEE Computer Society Press, IEEE Xplore)
+- Full papers 8 to 10 pages, short papers 4 to 6 pages, IEEE two-column format, at least three reviews per paper
+- Hybrid event (in-person and remote presentation)
+- 2025 had two submission cycles (September and October)
+- Not ranked by CORE (not in ICORE2026) or CCF
+editions:
+- year: 2025
+  label: 2nd BANDIT
+  start: 2025-12-08
+  end: 2025-12-11
+  location: Macau SAR, China
+  url: https://jade-lab.github.io/bandit/editions/2025/
+  deadlines:
+  - kind: submission
+    label: Cycle 1
+    date: 2025-09-28
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    label: Cycle 1
+    date: 2025-10-12
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    label: Cycle 2
+    date: 2025-11-02
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    label: Cycle 2
+    date: 2025-11-16
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-11-23
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  label: 3rd BANDIT
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Phoenix, Arizona, USA (hybrid)
+  url: https://jade-lab.github.io/bandit/
+  deadlines:
+  - kind: submission
+    date: 2026-11-06
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-11-15
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-22
+    time: "23:59"
+    tz: AoE
+sources:
+- https://jade-lab.github.io/bandit/
+- https://jade-lab.github.io/bandit/cfp/
+- https://jade-lab.github.io/bandit/editions/
+- https://jade-lab.github.io/bandit/editions/2025/
+- https://bigdataieee.org/BigData2026/program/workshops/
+- https://bigdataieee.org/BigData2026/calls/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=BANDIT&by=all&source=ICORE2026
+unverified:
+- Workshop dates shown are the full IEEE BigData dates; the exact workshop day is not given
+- Acceptance rate not published
+last_verified: 2026-11-14

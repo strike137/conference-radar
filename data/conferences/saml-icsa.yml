@@ -1,0 +1,77 @@
+id: saml-icsa
+name: SAML
+full_name: International Workshop on Software Architecture and Machine Learning
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: SAML organizing committee, co-located with IEEE ICSA
+organizer_country: [europe, australia]
+proceedings: IEEE Xplore (ICSA Companion Proceedings)
+archival: true
+typical:
+  deadline_months: [12, 2]
+  conference_months: [3, 6]
+links:
+  website: https://saml-workshop.github.io/saml2027/
+notes:
+- Workshop on software architecture for machine learning (SA4ML) and machine learning for software architecture (ML4SA), co-located with IEEE ICSA
+- Accepted papers are published in the ICSA Companion Proceedings in IEEE Xplore
+- Does not take full research papers; short papers (5 pages plus 1 page of references) and registered reports (6 plus 2 pages) with a path to a full paper in ACM TOSEM
+- Single-anonymous review with at least three reviews; abstract submission is mandatory
+- At least one author must register and present in person; papers not presented are excluded from the proceedings
+- "2027 theme: Software Architecture Meets Agentic AI; 2026 theme: LLM Agents and Software Architecture"
+- 2027 co-chairs from Vrije Universiteit Amsterdam, ABB Corporate Research (Germany), CSIRO and Adelaide University (Australia)
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-23
+  end: 2026-06-23
+  location: Amsterdam, Netherlands (with ICSA 2026)
+  url: https://saml-workshop.github.io/saml2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-20
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-02-13
+  - kind: notification
+    date: 2026-03-13
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-27
+    tz: AoE
+- year: 2027
+  start: 2027-03-08
+  end: 2027-03-12
+  location: Sydney, Australia (with ICSA 2027)
+  url: https://saml-workshop.github.io/saml2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-16
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-12-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-01-19
+  - kind: camera_ready
+    date: 2027-01-29
+sources:
+- https://saml-workshop.github.io/saml2027/
+- https://saml-workshop.github.io/saml2027/calls/submissions
+- https://saml-workshop.github.io/saml2027/organization/
+- https://saml-workshop.github.io/saml2026/
+- https://saml-workshop.github.io/saml2026/calls/submissions
+- https://saml-workshop.github.io/saml2026/program
+- https://conf.researchr.org/track/icsa-2027/icsa-2027-workshops
+- https://portal.core.edu.au/conf-ranks/?search=SAML&by=all&source=ICORE2026
+unverified:
+- SAML 2027 workshop day is 8 or 9 March 2027, not yet fixed; start and end are the ICSA 2027 dates
+- Dates and hosts of the 1st to 4th editions not found on the current official site, so the region is judged from 2026 and 2027 only
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-14

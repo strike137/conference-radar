@@ -1,0 +1,69 @@
+id: comia
+name: COMIA
+full_name: Mexican Congress on Artificial Intelligence
+name_local: Congreso Mexicano de Inteligencia Artificial
+type: conference
+tier: minor
+areas: [ai]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: Mexican Society for Artificial Intelligence (SMIA)
+organizer_country: [other]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [1, 4]
+  conference_months: [4, 5]
+links:
+  website: https://comia.com.mx/
+notes:
+- National AI congress of the Mexican Society for Artificial Intelligence (SMIA); 2027 is the 19th edition
+- Best English papers published in Springer CCIS "Artificial Intelligence - COMIA" (three volumes for 2026)
+- Papers in Spanish are published in a special issue of the journal Research in Computing Science
+- Double-blind review, papers up to 12 pages in Springer format, submitted through Microsoft CMT
+- Held at a different Mexican university each year (Mexico City 2025, Cuernavaca 2026, Guadalajara 2027)
+- Includes tutorials, workshops and an industry applications workshop
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-29
+  location: UAEM, Cuernavaca, Morelos, Mexico
+  url: https://comia.com.mx/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-12
+  - kind: notification
+    date: 2026-04-30
+  - kind: camera_ready
+    date: 2026-05-08
+  - kind: other
+    date: 2026-05-15
+    label: Author registration and payment
+- year: 2027
+  start: 2027-04-19
+  end: 2027-04-23
+  location: CUCEI, Universidad de Guadalajara, Guadalajara, Jalisco, Mexico
+  url: https://comia.com.mx/2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-17
+  - kind: notification
+    date: 2027-02-28
+  - kind: camera_ready
+    date: 2027-03-14
+  - kind: other
+    date: 2027-04-09
+    label: Author registration and payment
+sources:
+- https://comia.com.mx/
+- https://comia.com.mx/2027/autores/
+- https://comia.com.mx/2026/
+- https://comia.com.mx/2025/
+- https://doi.org/10.1007/978-3-032-37438-7
+- https://doi.org/10.1007/978-3-031-97907-1
+- https://portal.core.edu.au/conf-ranks/?search=COMIA&by=all&source=ICORE2026
+unverified:
+- Indexing of the CCIS volumes not stated on the official site
+last_verified: 2026-11-14

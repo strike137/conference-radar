@@ -1,0 +1,58 @@
+id: fois
+name: FOIS
+full_name: International Conference on Formal Ontology in Information Systems
+type: conference
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: IAOA (International Association for Ontology and its Applications)
+organizer_country: [international]
+proceedings: IOS Press (open access)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [3]
+  conference_months: [9]
+links:
+  website: https://www.foisconference.org/
+  dblp: https://dblp.org/db/conf/fois/
+notes:
+- Flagship conference of the IAOA, running since 1998 (16th edition in 2026); biennial until 2018, annual since 2023
+- Proceedings published open access by IOS Press (Sage)
+- Tracks for foundational issues, applications and methods, and domain ontologies; double-blind review, papers up to 13 pages excluding references
+- Mandatory abstract a week before the paper deadline, with a rebuttal period
+- Co-located with JOWO (Joint Ontology Workshops); workshop deadlines fall after the main track notification
+- 'Recent hosts: Sherbrooke (2023), Enschede (2024), Catania (2025), Vitoria, Brazil (2026), Bratislava (2027)'
+- In 2026 a separate online day (9 September) preceded the in-person conference
+- CORE C (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-21
+  end: 2026-09-25
+  location: Vitoria, ES, Brazil
+  url: https://www.foisconference.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-16
+  - kind: submission
+    date: 2026-03-23
+  - kind: notification
+    date: 2026-05-27
+  - kind: camera_ready
+    date: 2026-06-17
+- year: 2027
+  location: Bratislava, Slovakia
+sources:
+- https://www.foisconference.org/
+- https://www.foisconference.org/cfp/
+- https://www.foisconference.org/organization/
+- https://iaoa.org/index.php/fois/fois-history/
+- https://portal.core.edu.au/conf-ranks/?search=FOIS&by=all&source=ICORE2026
+unverified:
+- FOIS 2026 deadline time zone not stated on the call for papers
+- FOIS 2027 dates and deadlines not announced yet (IAOA lists only Bratislava, Slovakia, as of 2026-11-14)
+- Acceptance rate not stated on the official site
+last_verified: 2026-11-14

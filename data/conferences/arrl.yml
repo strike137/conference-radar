@@ -1,0 +1,72 @@
+id: arrl
+name: ARRL
+full_name: International Workshop on Adaptable, Reliable, and Responsible Learning
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: ARRL workshop chairs led by Chen Zhao (Baylor University); co-located workshop of IEEE ICDM
+organizer_country: [usa]
+proceedings: IEEE Xplore (ICDM workshop proceedings)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://arrl-icdm.github.io/arrl2026/
+notes:
+- Workshop on adaptable, reliable and responsible machine learning (continual learning, domain adaptation, robustness, fairness, explainability, privacy)
+- Held with IEEE ICDM since 2023 (Shanghai 2023, Abu Dhabi 2024, Washington DC 2025, Shenyang 2026); location rotates with ICDM
+- Contact chair Chen Zhao (Baylor University); several workshop chairs and a large program committee
+- Accepted papers included in the ICDM workshop proceedings (ICDMW) by the IEEE Computer Society Press (IEEE Xplore)
+- Up to 8 pages in IEEE ICDM format; at least one full (non-student) registration per paper
+- Not ranked by CORE (not in ICORE2026) or CCF
+editions:
+- year: 2025
+  label: 3rd ARRL
+  start: 2025-11-12
+  end: 2025-11-12
+  location: Washington DC, USA
+  url: https://arrl-icdm.github.io/arrl2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-29
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-09-15
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-25
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  label: 4th ARRL
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Shenyang, China
+  url: https://arrl-icdm.github.io/arrl2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-18
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-05
+    time: "23:59"
+    tz: AoE
+sources:
+- https://arrl-icdm.github.io/arrl2026/
+- https://arrl-icdm.github.io/arrl2025/
+- http://icdm2026.neu.edu.cn/Workshops/list.htm
+- https://portal.core.edu.au/conf-ranks/?search=ARRL&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- 4th edition numbering inferred from the list of past events (2023, 2024, 2025)

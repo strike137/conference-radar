@@ -1,0 +1,80 @@
+id: vst
+name: VST
+full_name: International Workshop on Validation, Analysis and Evolution of Software Tests
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: VST chairs (Software Competence Center Hagenberg, University of Klagenfurt), co-located with SANER
+organizer_country: [europe]
+proceedings: SANER companion proceedings (IEEE)
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [3]
+links:
+  website: https://vstworkshop.github.io/
+notes:
+  - Workshop on test code analysis, test maintenance and repair, test generation, prioritization and LLMs in testing
+  - Co-located with IEEE SANER, so it moves with SANER (Montreal 2025, Limassol 2026, Richmond 2027)
+  - Accepted papers go into a separate section of the SANER conference proceedings (companion proceedings)
+  - Full papers up to 8 pages, position and tool demo papers 2 to 4 pages, IEEE format, double-blind review
+  - At least three PC members review each paper; submissions go through the SANER EasyChair
+  - Chaired by Rudolf Ramler (SCCH, Austria), Christian Macho and Martin Pinzger (University of Klagenfurt)
+  - Editions since 2016; the 10th edition is in 2027
+  - Not listed in the CORE portal (ICORE2026)
+editions:
+  - year: 2026
+    label: 9th edition, with SANER 2026
+    start: 2026-03-17
+    end: 2026-03-17
+    location: Limassol, Cyprus (co-located with SANER 2026, hybrid)
+    url: https://vstworkshop.github.io/vst2026/
+    deadlines:
+      - kind: abstract
+        date: 2025-12-05
+        tz: AoE
+      - kind: submission
+        date: 2025-12-18
+        tz: AoE
+        label: Extended
+      - kind: notification
+        date: 2026-01-14
+      - kind: camera_ready
+        date: 2026-01-20
+  - year: 2027
+    label: 10th edition, with SANER 2027
+    start: 2027-03-09
+    end: 2027-03-09
+    location: Richmond, VA, USA (co-located with SANER 2027)
+    url: https://vstworkshop.github.io/vst2027/
+    deadlines:
+      - kind: abstract
+        date: 2026-10-19
+        tz: AoE
+        label: Mandatory abstract
+      - kind: submission
+        date: 2026-11-06
+        tz: AoE
+        label: Extended
+      - kind: notification
+        date: 2026-12-08
+        tz: AoE
+      - kind: camera_ready
+        date: 2027-01-08
+        tz: AoE
+sources:
+  - https://vstworkshop.github.io/vst2026/
+  - https://vstworkshop.github.io/vst2027/
+  - https://vstworkshop.github.io/vst2025/
+  - https://vstworkshop.github.io/vst2024/
+  - https://vstworkshop.github.io/vst2023/
+  - https://vstworkshop.github.io/vst2022/
+  - https://vstworkshop.github.io/vst2021/
+  - https://portal.core.edu.au/conf-ranks/?search=VST&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - VST 2027 page banner says the deadline was extended to 2026-11-08 while its dates list gives 2026-11-06 AoE
+  - Publisher of the SANER companion proceedings not named on the VST page

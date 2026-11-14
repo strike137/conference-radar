@@ -1,0 +1,55 @@
+id: regenai
+name: ReGenAI
+full_name: Workshop on Responsible Generative AI
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (Meta FAIR, Google, Princeton, Northeastern, Virginia Tech and others); co-located with CVPR
+organizer_country: [usa]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops), opt-in for new research papers
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/cvpr-responsible-genai
+notes:
+- CVPR workshop on fairness, bias, privacy, copyright, hallucination and other responsible AI issues of visually grounded generative models
+- 1st edition at CVPR 2024 in Seattle, 2nd at CVPR 2025 in Nashville; not in the CVPR 2026 workshop list
+- Short papers of 4 pages excluding references in CVPR format, double-blind review via Microsoft CMT
+- Authors can opt into the CVPR Workshops proceedings (new research only); other papers are linked on the workshop page
+- 3 papers on CVF Open Access for 2025, 8 for 2024
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 2nd ReGenAI, with CVPR 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Music City Center, Nashville, Tennessee, USA
+  url: https://sites.google.com/view/cvpr-responsible-genai
+  deadlines:
+  - kind: submission
+    date: 2025-03-14
+    time: "23:59"
+    tz: PST
+    label: Extended from 2025-03-10
+  - kind: notification
+    date: 2025-04-01
+  - kind: camera_ready
+    date: 2025-04-14
+    time: "23:59"
+    tz: PST
+sources:
+- https://sites.google.com/view/cvpr-responsible-genai
+- https://sites.google.com/view/cvpr-responsible-genai/call-for-papers
+- https://cvpr.thecvf.com/Conferences/2025/workshop-list
+- https://openaccess.thecvf.com/CVPR2025_workshops/ReGenAI
+- https://openaccess.thecvf.com/CVPR2024_workshops/ReGenAI
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=ReGenAI&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- No 2026 edition found (not among CVPR 2026 workshops); next edition not announced

@@ -1,0 +1,56 @@
+id: iwtc
+name: IWTC
+full_name: International Workshop on Technical Credit
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+organizer: IWTC organizing committee (Malardalen University, Northeastern University, Gran Sasso Science Institute), co-located with IEEE ICSA
+organizer_country: [europe, usa]
+proceedings: IEEE Xplore (ICSA Companion Proceedings)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://technical.credit/iwtc-2027.html
+notes:
+- Workshop on Technical Credit, the long-term engineering value of deliberate architectural decisions (the counterpart of technical debt)
+- First edition in 2027 at ICSA 2027 in Sydney
+- Takes position papers of up to 4 pages in IEEE conference format, single-anonymous, two reviews each, submitted through the ICSA EasyChair
+- ICSA 2027 states that workshop proceedings are published in the ICSA 2027 Companion proceedings in IEEE Xplore
+- Accepted authors give a two-minute lightning talk, followed by breakout groups and plenary discussion toward a community roadmap
+- Plans for about 10 to 15 position papers
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2027
+  start: 2027-03-08
+  end: 2027-03-12
+  location: Sydney, Australia (with ICSA 2027)
+  url: https://technical.credit/iwtc-2027.html
+  deadlines:
+  - kind: abstract
+    date: 2026-12-16
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-12-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-01-19
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-29
+    time: "23:59"
+    tz: AoE
+sources:
+- https://technical.credit/iwtc-2027.html
+- https://conf.researchr.org/track/icsa-2027/icsa-2027-workshops
+- https://portal.core.edu.au/conf-ranks/?search=IWTC&by=all&source=ICORE2026
+unverified:
+- The IWTC page itself does not mention proceedings; archival status rests on the ICSA 2027 workshops page
+- Workshop day not yet announced; start and end are the ICSA 2027 dates
+last_verified: 2026-11-14

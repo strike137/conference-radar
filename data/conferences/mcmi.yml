@@ -1,0 +1,73 @@
+id: mcmi
+name: MCMI
+full_name: International Workshop on Multi- and Cross-Modal Information for Enhanced Pattern Recognition
+type: workshop
+tier: minor
+areas: [ai, vision, nlp]
+region: worldwide
+language: english
+frequency: biennial
+organizer: Workshop organizers (Kore University of Enna); IAPR-endorsed, co-located with ICPR
+organizer_country: [europe]
+proceedings: Springer LNCS (ICPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [5, 8]
+  conference_months: [8, 12]
+links:
+  website: https://mcmi-workshop.github.io/
+notes:
+- IAPR-endorsed ICPR workshop on multimodal fusion and cross-modal representation across vision, audio and language, including healthcare applications
+- Run from Kore University of Enna, Italy (contact mcmi@unikore.it)
+- 1st edition at ICPR 2024 (Kolkata), 2nd at ICPR 2026 (Lyon)
+- Double-blind review by at least three program committee members through Microsoft CMT
+- Only full papers longer than 6 pages appear in the Springer LNCS proceedings; shorter papers may be presented only
+- Deadlines are 23:59 AoE
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2024
+  label: 1st edition, with ICPR 2024
+  start: 2024-12-01
+  end: 2024-12-01
+  location: Kolkata, India
+  url: https://mcmi-workshop.github.io/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-08-30
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2024-09-15
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-09-27
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  label: 2nd edition, with ICPR 2026
+  start: 2026-08-21
+  end: 2026-08-21
+  location: Lyon, France
+  url: https://mcmi-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-05
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-06-02
+    time: "23:59"
+    tz: AoE
+sources:
+- https://mcmi-workshop.github.io/
+- https://mcmi-workshop.github.io/2026/
+- https://mcmi-workshop.github.io/2026/submit.html
+- https://mcmi-workshop.github.io/2024/
+- https://icpr2026.org/workshops.html
+- https://icpr2024.org/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=MCMI&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- Next edition (presumably with ICPR 2028) not announced yet

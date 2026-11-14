@@ -1,0 +1,52 @@
+id: exase
+name: ExASE
+full_name: International Workshop on Explainable Automated Software Engineering
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+organizer: Ex-ASE organizers (University of Cologne, Politecnico di Milano, University of Connecticut, University of Pittsburgh), co-located with ASE
+organizer_country: [europe, usa]
+proceedings: IEEE Xplore (ASEW 2025, IEEE/ACM ASE Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://exase.github.io/2025/
+notes:
+  - Also written Ex-ASE; subtitle "Exploring Theory, Adaptation, Needs, Challenges, and Ethics"
+  - Workshop on explainability in automated software engineering (testing, program repair, requirements, SE4AI and AI4SE, human-in-the-loop)
+  - 1st edition co-located with IEEE/ACM ASE 2025 in Seoul
+  - Full papers up to 8 pages, short and demo papers up to 4 pages including references, IEEE format, via EasyChair
+  - Single-blind review by at least two PC members
+  - Six papers in 2025, published in the 2025 IEEE/ACM ASE Workshops proceedings (ASEW 2025, IEEE CPS)
+  - Not in the ASE 2026 workshop list
+  - Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+  - year: 2025
+    start: 2025-11-20
+    end: 2025-11-20
+    location: Seoul, Korea (with ASE 2025)
+    url: https://exase.github.io/2025/
+    deadlines:
+      - kind: submission
+        date: 2025-08-26
+        tz: AoE
+        label: Extended from 2025-08-18
+      - kind: notification
+        date: 2025-09-26
+      - kind: camera_ready
+        date: 2025-10-05
+sources:
+  - https://exase.github.io/2025/
+  - https://conf.researchr.org/home/ase-2025/ex-ase-2025
+  - https://conf.researchr.org/track/ase-2025/ase-2025-workshops
+  - https://conf.researchr.org/track/ase-2026/ase-2026-workshops
+  - https://conf.researchr.org/program/ase-2025/program-ase-2025/?date=Thu%2020%20Nov%202025&track=Ex-ASE
+  - https://www.proceedings.com/content/084/084000webtoc.pdf
+  - https://portal.core.edu.au/conf-ranks/?search=ExASE&by=all&source=ICORE2026
+unverified:
+  - No 2026 edition found; frequency unknown
+last_verified: 2026-11-14

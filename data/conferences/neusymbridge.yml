@@ -1,0 +1,71 @@
+id: neusymbridge
+name: NeusymBridge
+full_name: Workshop on Bridging Neurons and Symbols for Reasoning over LLMs and Knowledge Graphs
+type: workshop
+tier: minor
+areas: [ai, nlp, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Tiansi Dong of the Alan Turing Institute and University of Cambridge, with Salesforce, Queen Mary University of London, Dalian University of Technology and the Chinese Academy of Sciences)
+organizer_country: [europe, china]
+proceedings: ACL Anthology (2024, 2025); selected revised papers in Springer LNAI
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [1, 2]
+links:
+  website: https://neusymbridge.github.io/
+notes:
+  - Workshop on neural-symbolic reasoning with LLMs and knowledge graphs
+  - Held with LREC-COLING 2024 (Turin), COLING 2025 (Abu Dhabi), AAAI 2026 (Singapore) and AAAI 2027 (Montreal)
+  - Earlier titled Bridging Neurons and Symbols for Natural Language Processing and Knowledge Graph Reasoning
+  - Proceedings of the 2024 and 2025 editions are in the ACL Anthology
+  - Selected papers from the 2024 to 2026 editions, after revision, are to be published in the Springer LNAI series
+  - Double-blind review with at least three reviews per paper; submissions via OpenReview in the AAAI template
+  - Two best paper awards each year
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With AAAI 2026
+    start: 2026-01-26
+    end: 2026-01-26
+    location: Singapore (with AAAI 2026)
+    url: https://neusymbridge.github.io/2026_index.html
+    deadlines:
+      - kind: camera_ready
+        date: 2026-01-20
+  - year: 2027
+    label: With AAAI 2027 (workshop on February 22 or 23)
+    location: Montreal, Canada (with AAAI 2027)
+    url: https://neusymbridge.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-12-27
+        time: "23:59"
+        tz: AoE
+      - kind: notification
+        date: 2027-01-15
+        time: "23:59"
+        tz: AoE
+      - kind: camera_ready
+        date: 2027-02-12
+        time: "23:59"
+        tz: AoE
+sources:
+  - https://neusymbridge.github.io/
+  - https://neusymbridge.github.io/call-for-papers.html
+  - https://neusymbridge.github.io/2026_index.html
+  - https://neusymbridge.github.io/2026_accepted_papers.html
+  - https://neusymbridge.github.io/2025_index.html
+  - https://aaai.org/conference/aaai/aaai-27/
+  - https://aaai.org/conference/aaai/aaai-26/
+  - https://aclanthology.org/venues/neusymbridge/
+  - https://aclanthology.org/volumes/2025.neusymbridge-1/
+  - https://portal.core.edu.au/conf-ranks/?search=NeusymBridge&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - Exact 2027 workshop day (February 22 or 23, 2027, not yet fixed)
+  - Whether the AAAI 2026 and 2027 papers get proceedings beyond the planned Springer LNAI selection; no ACL Anthology volume for 2026
+  - The Springer LNAI volume had not appeared as of 2026-11-14
+  - Submission deadline of the 2026 edition not shown on the current site

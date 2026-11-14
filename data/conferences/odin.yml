@@ -1,0 +1,92 @@
+id: odin
+name: ODIN
+full_name: Oral and Dental Image Analysis Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ODIN workshop organizers (MICCAI satellite workshop, led by University of Modena and Reggio Emilia)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+indexing: [Scopus, DBLP]
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://odin-workshops.org/
+notes:
+- MICCAI satellite workshop on oral, dental and maxillofacial image analysis (CBCT, intra-oral scans, dental radiographs)
+- First held in 2025; 2026 was the 2nd edition
+- Workshop and challenge papers published together in Springer LNCS (2025 -> LNCS 16473, with the ToothFairy and STSR challenges)
+- Papers up to 8 pages plus 2 pages of references in LNCS format, OpenReview submission
+- Hosts dental challenges (ToothFairy3 and STSR in 2025; ToothFairy4, Bite2Text and STS in 2026) with a separate, later challenge paper deadline
+- Organizers from University of Modena and Reggio Emilia, Digital Research Center of Sfax, Hangzhou Dianzi University and University Grenoble Alpes
+- Location follows MICCAI (Daejeon 2025, Strasbourg 2026)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-27
+  end: 2025-09-27
+  location: Daejeon, Korea
+  url: https://odin-workshops.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-17
+    time: "23:59"
+    tz: AoE
+    label: Workshop papers, extended from June 25
+  - kind: notification
+    date: 2025-07-30
+    time: "23:59"
+    tz: AoE
+    label: Workshop papers
+  - kind: other
+    date: 2025-09-30
+    time: "23:59"
+    tz: AoE
+    label: Challenge papers, extended from September 16
+- year: 2026
+  start: 2026-09-27
+  end: 2026-09-27
+  location: Strasbourg, France
+  url: https://odin-workshops.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-13
+    time: "23:59"
+    tz: AoE
+    label: Workshop papers, extended from June 30
+  - kind: notification
+    date: 2026-08-06
+    time: "23:59"
+    tz: AoE
+    label: Workshop paper reviews released
+  - kind: camera_ready
+    date: 2026-08-17
+    time: "23:59"
+    tz: AoE
+    label: Workshop papers
+  - kind: other
+    date: 2026-08-07
+    time: "23:59"
+    tz: AoE
+    label: Challenge papers, extended from August 5
+sources:
+- https://odin-workshops.org/2026/
+- https://odin-workshops.org/2026/dates
+- https://odin-workshops.org/2026/submission
+- https://odin-workshops.org/2026/organizers
+- https://odin-workshops.org/2026/news
+- https://odin-workshops.org/2025/
+- https://odin-workshops.org/2025/dates.html
+- https://odin-workshops.org/2025/submission.html
+- https://link.springer.com/book/10.1007/978-3-032-20711-1
+- https://conferences.miccai.org/2026/en/workshops.asp
+- https://portal.core.edu.au/conf-ranks/?search=ODIN&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- ODIN 2027 not announced as of 2026-11-14
+- Acceptance rate not published

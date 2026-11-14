@@ -1,0 +1,68 @@
+id: spaiml
+name: SPAIML
+full_name: International Workshop on Security and Privacy-Preserving AI/ML
+type: workshop
+tier: minor
+areas: [security, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: SPAIML organizers (University of Duisburg-Essen and University of Salzburg)
+organizer_country: [europe]
+proceedings: CEUR-WS (2025); ACM TRUST 2027 proceedings planned for 2027
+archival: true
+typical:
+  deadline_months: [6, 12]
+  conference_months: [3, 10]
+links:
+  website: https://spaiml.github.io/2027/
+notes:
+- Workshop on using AI/ML for security and privacy (intrusion detection, threat analysis, anomaly detection, access control, AI Act and GDPR compliance); negative results are explicitly welcome
+- Organized by Jens Leicht (now University of Salzburg) and Malte Josten (University of Duisburg-Essen distributed systems group); follows the PerFail workshop on failed research
+- 1st edition co-located with ECAI 2025 in Bologna; 2nd edition co-located with ACM TRUST 2027 in Washington DC
+- 2025 papers in CEUR-WS Vol-4154; 7 of 10 submissions accepted
+- For 2027, accepted papers will be considered for the TRUST 2027 conference proceedings, possibly after an additional light review
+- Double-blind review, 6 pages maximum including references; at least one author must register through the host conference
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-26
+  end: 2025-10-26
+  location: Bologna, Italy (co-located with ECAI 2025)
+  url: https://spaiml.com/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-20
+    tz: AoE
+  - kind: notification
+    date: 2025-07-11
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-25
+    tz: AoE
+- year: 2027
+  start: 2027-03-07
+  end: 2027-03-09
+  location: Washington DC, USA (co-located with ACM TRUST 2027)
+  url: https://spaiml.github.io/2027/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-12-13
+    tz: AoE
+  - kind: notification
+    date: 2027-01-18
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-31
+    tz: AoE
+sources:
+- https://spaiml.com/2025/
+- https://spaiml.github.io/2027/
+- https://ceur-ws.org/Vol-4154/
+- https://portal.core.edu.au/conf-ranks/?search=SPAIML&by=all&source=ICORE2026
+unverified:
+- The exact 2027 workshop day is not fixed yet (March 7, 8 or 9, 2027)
+- Whether the 2027 papers will appear in the ACM TRUST proceedings is not confirmed
+- The 2025 camera-ready date appears as both July 23 and July 25 on the archived site
+last_verified: 2026-11-14

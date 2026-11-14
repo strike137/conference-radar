@@ -1,0 +1,55 @@
+id: isacc
+name: ISACC
+full_name: International Conference on Intelligent Systems, Advanced Computing and Communication
+type: conference
+tier: minor
+areas: [ai, general, communications]
+region: south-asia
+language: english
+frequency: biennial
+organizer: Department of CSE, Triguna Sen School of Technology, Assam University, Silchar
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://www.isacc.in
+notes:
+- Run by the Department of Computer Science and Engineering, Assam University, Silchar, where it is held
+- Editions in 2015, 2023, 2025 and 2027; biennial since 2023
+- All previous proceedings in IEEE Xplore; 2027 technical co-sponsorship by IEEE Kolkata Section and Silchar Subsection pending
+- 6 to 8 pages in IEEE two-column format, double-blind review via Microsoft CMT, similarity index below 20%
+- 2027 edition is hybrid
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-02-27
+  end: 2025-02-28
+  url: https://ieeexplore.ieee.org/xpl/conhome/10969142/proceeding
+- year: 2027
+  start: 2027-02-25
+  end: 2027-02-26
+  location: Assam University, Silchar, India (hybrid)
+  url: https://www.isacc.in
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    label: Papers (extended)
+  - kind: notification
+    date: 2027-01-15
+  - kind: camera_ready
+    date: 2027-01-25
+  - kind: other
+    date: 2027-02-05
+    label: Registration
+sources:
+- https://www.isacc.in
+- https://www.isacc.in/public/script.js
+- https://portal.core.edu.au/conf-ranks/?search=ISACC&by=all&source=ICORE2026
+unverified:
+- IEEE technical co-sponsorship for 2027 still pending approval
+- Original (pre-extension) 2027 submission deadline not shown
+- Venue of the 2025 edition not stated on the official site
+last_verified: 2026-11-14

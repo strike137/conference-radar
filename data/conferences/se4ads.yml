@@ -1,0 +1,50 @@
+id: se4ads
+name: SE4ADS
+full_name: International Workshop on Software Engineering for Autonomous Driving Systems
+type: workshop
+tier: minor
+areas: [software, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: SE4ADS organizers (University of California, Irvine), co-located with ICSE (2025) and FSE (2026)
+organizer_country: [usa]
+proceedings: ACM DL (FSE 2026 Companion)
+archival: true
+typical:
+  deadline_months: [11, 3]
+  conference_months: [4, 7]
+links:
+  website: https://sora.ics.uci.edu/se4ads_26/
+notes:
+- Workshop on community infrastructure for software engineering research on autonomous driving systems (tools, benchmarks, datasets, reproducibility)
+- Organized by Joshua Garcia and Qi Alfred Chen (UC Irvine)
+- 1st edition at ICSE 2025 in Ottawa (ICSE 2025 companion, IEEE format), 2nd at FSE 2026 in Montreal (FSE Companion, ACM)
+- Position papers up to 4 pages, other papers (industrial, experience, education, artifact) up to 7 pages
+- 2026 submission deadline was extended to 2026-03-05
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-04
+  end: 2026-07-04
+  location: Montreal, Canada (with FSE 2026)
+  url: https://sora.ics.uci.edu/se4ads_26/
+  deadlines:
+  - kind: submission
+    date: 2026-03-05
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-03-19
+  - kind: camera_ready
+    date: 2026-04-02
+sources:
+- https://sora.ics.uci.edu/se4ads_26/
+- https://conf.researchr.org/track/fse-2026/fse-2026-workshops
+- https://conf.researchr.org/home/icse-2025/se4ads-2025
+- https://conf.researchr.org/series/se4ads
+- https://conf.researchr.org/track/icse-2027/icse-2027-workshops
+- https://portal.core.edu.au/conf-ranks/?search=SE4ADS&by=all&source=ICORE2026
+unverified:
+- 2027 edition not announced (not in the ICSE 2027 workshop list)
+- Time zone of 2026 deadlines not stated on the workshop site
+last_verified: 2026-11-14

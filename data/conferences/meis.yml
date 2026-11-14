@@ -1,0 +1,66 @@
+id: meis
+name: MEIS
+full_name: Workshop on Multi-Agent Embodied Intelligent Systems Meet Generative-AI Era
+type: workshop
+tier: minor
+areas: [ai, vision, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizing team led by Texas A&M University and KAIST with University of Michigan, Purdue, UCLA and others
+organizer_country: [international]
+proceedings: CVF Open Access (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://coop-intelligence.github.io/
+notes:
+- Workshop on cooperative intelligence in multi-agent embodied systems (V2X cooperative driving, multi-robot and
+  drone swarms, cooperative perception, agentic AI)
+- Series started at ECCV 2024 as the Workshop on Cooperative Intelligence for Embodied AI, then CVPR 2025
+  (Nashville) and CVPR 2026 (Denver)
+- Archival track (up to 8 pages, CVPR template, double-blind) goes into the CVPR workshop proceedings;
+  separate non-archival track with a later deadline
+- Runs challenges alongside the paper track, with best paper and best demo awards
+- 7 papers on CVF Open Access for CVPR 2026 and 7 for CVPR 2025
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: MEIS at CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA
+  url: https://coop-intelligence.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-10
+    time: "23:59"
+    tz: AoE
+    label: Archival track
+  - kind: notification
+    date: 2026-03-15
+    label: Archival track
+  - kind: camera_ready
+    date: 2026-03-20
+  - kind: submission
+    date: 2026-04-15
+    time: "23:59"
+    tz: AoE
+    label: Non-archival track
+  - kind: notification
+    date: 2026-05-13
+    label: Non-archival track
+sources:
+- https://coop-intelligence.github.io/
+- https://coop-intelligence.github.io/cvpr2026/
+- https://coop-intelligence.github.io/cvpr2025/
+- https://coop-intelligence.github.io/eccv2024/
+- https://openaccess.thecvf.com/CVPR2026_workshops/MEIS
+- https://openaccess.thecvf.com/CVPR2025_workshops/MEIS
+- https://portal.core.edu.au/conf-ranks/?search=MEIS&by=all&source=ICORE2026
+unverified:
+- The cvpr2026 subpage gives June 3, 2026 and older deadlines; the main site gives Thursday June 4, 2026 (used here)
+- No 2027 edition announced as of 2026-11-14
+last_verified: 2026-11-14

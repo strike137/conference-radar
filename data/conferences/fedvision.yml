@@ -1,0 +1,57 @@
+id: fedvision
+name: FedVision
+full_name: Workshop on Federated Learning for Computer Vision
+type: workshop
+tier: minor
+areas: [vision, ai, security]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers from University of Central Florida, IBM Research, Axon, University of Cambridge and others; co-located with CVPR
+organizer_country: [usa]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://fedvision.github.io/fedvision2026
+notes:
+- CVPR workshop on federated and privacy-preserving distributed learning for vision tasks, held with CVPR every year since 2022
+- 2026 was the 5th edition, a half-day workshop at CVPR 2026 in Denver
+- Accepted papers are published in the CVPR workshop proceedings (9 papers on CVF Open Access in 2026, 8 in 2025)
+- Papers follow the CVPR paper format and length limits, submitted through Microsoft CMT
+- Best paper award sponsored by Axon in 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://fedvision.github.io/fedvision2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-12
+    time: "23:59"
+    tz: PST
+    label: Extended
+  - kind: notification
+    date: 2026-03-26
+    time: "23:59"
+    tz: PST
+  - kind: camera_ready
+    date: 2026-04-05
+    time: "23:59"
+    tz: PST
+sources:
+- https://fedvision.github.io/fedvision2026
+- https://fedvision.github.io/fedvision2026/organizer.html
+- https://fedvision.github.io/fedvision2025
+- https://fedvision.github.io/fedvision-workshop/index.html
+- https://openaccess.thecvf.com/CVPR2026_workshops/FedVision
+- https://openaccess.thecvf.com/CVPR2025_workshops/FedVision
+- https://portal.core.edu.au/conf-ranks/?search=FedVision&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- Original 2026 submission deadline was 2026-03-07 before the extension
+- FedVision 2027 not announced yet

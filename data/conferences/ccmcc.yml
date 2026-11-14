@@ -1,0 +1,65 @@
+id: ccmcc
+name: CCMCC
+full_name: IEEE Cross-disciplinary Conference on Memory-Centric Computing
+type: conference
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: EclectX research group (Nima TaheriNejad, Heidelberg University) with IEEE technical sponsorship (IEEE CAS, IEEE CEDA)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://ccmcc.eclectx.org/
+notes:
+- Conference on memory-centric computing (processing in memory and near memory) across the whole stack, from devices and circuits to architecture, systems software and applications
+- Run by the EclectX group, with IEEE, IEEE CAS and IEEE CEDA among the listed technical sponsors
+- First edition in Dresden in 2025 (117 participants from 15 countries); second edition in Lyon in 2026
+- Long papers 10 to 12 pages and short papers 4 to 6 pages in IEEE format; authors choose single-blind or double-blind
+- Accepted full papers that are presented are submitted to IEEE Xplore; 1-page extended abstracts are presentation only and not in the proceedings
+- Also has tutorial and workshop proposals and a journal track
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-10-08
+  end: 2025-10-10
+  location: Dresden, Germany
+  url: https://ccmcc.eclectx.org/2025/index.html
+- year: 2026
+  start: 2026-10-28
+  end: 2026-10-30
+  location: Lyon, France
+  url: https://ccmcc.eclectx.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-06-24
+    label: Full papers (extended)
+  - kind: submission
+    date: 2026-06-24
+    label: Full papers (extended)
+  - kind: other
+    date: 2026-06-30
+    label: Tutorial and workshop proposals
+  - kind: notification
+    date: 2026-07-28
+  - kind: other
+    date: 2026-08-07
+    label: Extended abstracts (extended)
+  - kind: camera_ready
+    date: 2026-08-28
+sources:
+- https://ccmcc.eclectx.org/
+- https://ccmcc.eclectx.org/cfp.html
+- https://ccmcc.eclectx.org/about.html
+- https://ccmcc.eclectx.org/2025/index.html
+- https://ccmcc.eclectx.org/venue.html
+- https://portal.core.edu.au/conf-ranks/?search=CCMCC&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- Next edition (2027) not announced yet
+- Deadlines of the 2025 edition not checked

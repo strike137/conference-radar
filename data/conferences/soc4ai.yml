@@ -1,0 +1,65 @@
+id: soc4ai
+name: SOC4AI
+full_name: Workshop on Service-Oriented Computing for AI Applications
+type: workshop
+tier: minor
+areas: [software, ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: SOC4AI chairs (SCORE Lab, Universidad de Sevilla, with Universitat Pompeu Fabra and TU Wien), ICSOC workshop
+organizer_country: [europe]
+proceedings: Springer LNCS (ICSOC Workshops post-proceedings)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://soc4ai-at-icsoc-github-io.onrender.com/
+notes:
+- Workshop co-located with ICSOC every year since 2024 (Tunis 2024, Shenzhen 2025, Lodz 2026); the 2026 edition is the 3rd
+- Run by members of the Spanish AI4Software research network, led by the SCORE Lab at Universidad de Sevilla
+- Covers both SOC for AI applications (AI services, orchestration, deployment) and AI for SOC (LLM agents, service discovery, autonomous management)
+- Accepted papers go into the ICSOC workshop post-proceedings in Springer LNCS
+- Small workshop; 4 of 8 papers accepted in 2024 and 5 of 10 in 2025
+- Papers 8 to 12 pages in LNCS format, at least three reviews each; in-person presentation required
+- Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
+acceptance_rate: 50% (2025, 5/10)
+editions:
+- year: 2025
+  label: 2nd SOC4AI, with ICSOC 2025
+  start: 2025-12-01
+  end: 2025-12-01
+  location: Shenzhen, China
+  url: https://soc4ai-at-icsoc-github-io.onrender.com/previous-editions
+- year: 2026
+  label: 3rd SOC4AI, with ICSOC 2026
+  start: 2026-12-01
+  end: 2026-12-01
+  location: Lodz, Poland
+  url: https://soc4ai-at-icsoc-github-io.onrender.com/
+  deadlines:
+  - kind: submission
+    date: 2026-10-15
+    time: "23:59"
+    tz: AoE
+    label: Extended, final deadline
+  - kind: notification
+    date: 2026-10-24
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-07
+    tz: AoE
+sources:
+- https://soc4ai-at-icsoc-github-io.onrender.com/
+- https://soc4ai-at-icsoc-github-io.onrender.com/call-for-papers/
+- https://soc4ai-at-icsoc-github-io.onrender.com/submission/
+- https://soc4ai-at-icsoc-github-io.onrender.com/important-dates/
+- https://soc4ai-at-icsoc-github-io.onrender.com/previous-editions
+- https://icsoc2026.it.p.lodz.pl/workshops.html
+- https://icsoc2026.it.p.lodz.pl/proceedings.html
+- https://portal.core.edu.au/conf-ranks/?search=SOC4AI&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- 2025 deadlines (the previous editions page gives only the workshop date and acceptance numbers)
+- 2027 edition not yet announced

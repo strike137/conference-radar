@@ -1,0 +1,66 @@
+id: higen
+name: HiGen
+full_name: Workshop on Human-Interactive Generation and Editing
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (HKU, Adobe, Johns Hopkins University, Tongyi Lab, University of Wurzburg); co-located with CVPR or ICCV
+organizer_country: [china, usa]
+proceedings: CVF Open Access and IEEE Xplore (CVPR/ICCV Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://higen-2025.github.io/
+notes:
+- Workshop on interactive and controllable image, video and 3D/4D generation and editing
+- 1st edition at ICCV 2025 in Honolulu (Oct 19), 2nd at CVPR 2026 in Denver
+- "Two tracks: proceedings track (more than 4 and up to 8 pages, CVF workshop proceedings) and non-archival track (short papers or previously published work)"
+- Double-blind review via OpenReview using the CVPR template
+- Best Paper Award (700 USD) and Runner-up Award (300 USD)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://higen-2025.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-16
+    time: "23:59"
+    tz: AoE
+    label: Proceedings track (extended)
+  - kind: notification
+    date: 2026-03-26
+    time: "23:59"
+    tz: AoE
+    label: Proceedings track
+  - kind: camera_ready
+    date: 2026-04-10
+    time: "23:59"
+    tz: AoE
+    label: Proceedings track
+  - kind: submission
+    date: 2026-04-26
+    time: "23:59"
+    tz: AoE
+    label: Non-proceedings track
+  - kind: notification
+    date: 2026-05-03
+    time: "23:59"
+    tz: AoE
+    label: Non-proceedings track
+sources:
+- https://higen-2025.github.io/
+- https://higen-2025.github.io/iccv2025.html
+- https://openaccess.thecvf.com/CVPR2026_workshops/HiGen
+- https://openaccess.thecvf.com/ICCV2025_workshops/HiGen
+- https://portal.core.edu.au/conf-ranks/?search=HiGen&by=all&source=ICORE2026
+unverified:
+- Next edition not announced yet; host conference (CVPR or ICCV/ECCV) varies
+last_verified: 2026-11-14

@@ -1,0 +1,67 @@
+id: sage-iot
+name: SAGE
+full_name: International Workshop on Scalable Agentic and Generative Edge Intelligence for IoT
+type: workshop
+tier: minor
+areas: [ai, networking, systems, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs from the University of Washington and Oak Ridge National Laboratory, co-located with IEEE BigData
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [12]
+links:
+  website: https://sites.google.com/view/sageforum
+notes:
+- Workshop on agentic AI, small language and foundation models, federated learning and edge data engineering for IoT; 2026 is the 7th edition
+- Same series as IoTDA (Internet of Things Data Analytics, 2018 to 2022) and AIDE4IoT (Artificial Intelligence and Data Engineering for IoT, 2025); not held in 2023 and 2024
+- Co-located with the IEEE International Conference on Big Data (IEEE BigData) and follows it around the world
+- Accepted papers go into the IEEE BigData conference proceedings (IEEE Computer Society Press, IEEE Xplore)
+- Long papers 8 to 10 pages, short or work-in-progress papers 4 to 6 pages, IEEE format
+- Half-day online workshop in 2025; full IEEE BigData registration required for one author
+- Late deadline (late October or early November), useful for a quick end-of-year submission
+- Not ranked by CORE (not in ICORE2026) or CCF
+editions:
+- year: 2025
+  label: AIDE4IoT 2025
+  start: 2025-12-08
+  end: 2025-12-08
+  location: Online (with IEEE BigData 2025, Macau SAR, China)
+  url: https://sites.google.com/view/aide4iot
+  deadlines:
+  - kind: submission
+    date: 2025-11-07
+    time: "19:00"
+    tz: AoE
+  - kind: notification
+    date: 2025-11-16
+  - kind: camera_ready
+    date: 2025-11-23
+- year: 2026
+  label: SAGE 2026
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Phoenix, Arizona, USA (with IEEE BigData 2026)
+  url: https://sites.google.com/view/sageforum
+  deadlines:
+  - kind: submission
+    date: 2026-10-25
+  - kind: notification
+    date: 2026-11-06
+  - kind: camera_ready
+    date: 2026-11-14
+sources:
+- https://sites.google.com/view/sageforum
+- https://sites.google.com/view/aide4iot
+- https://sites.google.com/view/iotda
+- https://bigdataieee.org/BigData2026/program/workshops/
+- https://conferences.cis.um.edu.mo/ieeebigdata2025/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=SAGE&by=all&source=ICORE2026
+unverified:
+- Workshop dates shown for 2026 are the full IEEE BigData dates; the workshop day and whether it is online are not yet announced
+- Acceptance rate not published
+last_verified: 2026-11-14

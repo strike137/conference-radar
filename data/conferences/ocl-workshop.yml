@@ -1,0 +1,71 @@
+id: ocl-workshop
+name: OCL
+full_name: International Workshop on OCL and Textual Modeling
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: OCL workshop organizers (Universitat Oberta de Catalunya, University of Bremen, Hamburg University of Applied Sciences), co-located with MODELS or STAF
+organizer_country: [europe]
+proceedings: ACM DL (MODELS joint workshop proceedings, 2026); CEUR-WS (2025, with STAF)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://oclworkshop.github.io/2026/
+notes:
+- Long-running workshop on OCL (Object Constraint Language) and other textual modeling languages such as textual MOF, Epsilon and Alloy, running since 2000
+- Co-located with MODELS in most years (2022 Montreal, 2023 Vasteras, 2026 Malaga) and with STAF in some (2021 virtual, 2025 Koblenz)
+- No edition in 2024; the 2020 edition was canceled due to COVID-19
+- Accepted papers of the 2026 edition go into the joint MODELS workshop proceedings published by ACM; the 2025 edition at STAF published in CEUR-WS
+- Full papers 7 to 10 pages, extended abstracts 5 pages, plus presentation-only 1-page abstracts that are not included in the proceedings; ACM format in 2026
+- Minimum 2 reviews per paper, usually 3
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  label: OCL 2025, with STAF 2025
+  start: 2025-06-10
+  end: 2025-06-10
+  location: Koblenz, Germany (co-located with STAF 2025)
+  url: https://conf.researchr.org/home/staf-2025/ocl-2025
+  deadlines:
+  - kind: abstract
+    date: 2025-03-28
+  - kind: submission
+    date: 2025-04-04
+  - kind: notification
+    date: 2025-05-05
+  - kind: camera_ready
+    date: 2025-05-19
+- year: 2026
+  label: 24th edition, with MODELS 2026
+  start: 2026-10-04
+  end: 2026-10-04
+  location: Malaga, Spain (co-located with MODELS 2026)
+  url: https://oclworkshop.github.io/2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    tz: AoE
+    label: Extended from 2026-07-03
+  - kind: notification
+    date: 2026-07-31
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-14
+    tz: AoE
+sources:
+- https://oclworkshop.github.io/2026/cfp.html
+- https://oclworkshop.github.io/2026/committee.html
+- https://oclworkshop.github.io/2026/program.html
+- https://oclworkshop.github.io/2026/pasteditions.html
+- https://conf.researchr.org/home/staf-2025/ocl-2025
+- https://conf.researchr.org/track/models-2026/models-2026-workshops
+- https://portal.core.edu.au/conf-ranks/?search=OCL&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+- No 2027 edition announced yet; host conference (MODELS or STAF) varies by year

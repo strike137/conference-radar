@@ -1,0 +1,66 @@
+id: sunrise
+name: SUNRISE
+full_name: International Workshop on SecUre aNd Resilient digItal tranSformation of healthcarE
+type: workshop
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: Norwegian Computing Center (NR) and NTNU, supported by the CybAlliance, NORCICS and NESIOT projects
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [11]
+links:
+  website: https://cyballiance.nr.no/sunrise-2026/
+notes:
+  - One-day workshop on cybersecurity, privacy and resilience in digital healthcare, co-located with the Norwegian ICT Conference for Research and Education (NIKT)
+  - Proceedings in Springer CCIS (6 to 7 papers per volume)
+  - "Held in Norway every year: Stavanger (2023), Bergen (2024), Halden (2025), Levanger (2026)"
+  - Full papers 12 to 15 pages, short papers 6 to 11 pages, CCIS style
+  - Deadlines are usually extended
+  - Not listed in CORE ICORE2026; not on the CCF list
+editions:
+  - year: 2025
+    label: 3rd SUNRISE
+    start: 2025-11-24
+    end: 2025-11-24
+    location: Halden, Norway (NIKT 2025)
+    url: https://cyballiance.nr.no/sunrise-2025/
+    deadlines:
+      - kind: submission
+        date: 2025-10-25
+        label: Extended from 2025-09-25 and 2025-10-10
+      - kind: notification
+        date: 2025-11-10
+        label: Extended from 2025-10-18 and 2025-10-24
+      - kind: camera_ready
+        date: 2025-11-17
+        label: Extended from 2025-10-26
+  - year: 2026
+    label: 4th SUNRISE
+    start: 2026-11-25
+    end: 2026-11-25
+    location: Levanger, Norway (NIKT 2026)
+    url: https://cyballiance.nr.no/sunrise-2026/
+    deadlines:
+      - kind: submission
+        date: 2026-11-05
+        label: Extended from 2026-10-25
+      - kind: notification
+        date: 2026-11-15
+        label: Extended from 2026-11-10
+      - kind: camera_ready
+        date: 2026-11-20
+sources:
+  - https://cyballiance.nr.no/sunrise-2026/
+  - https://cyballiance.nr.no/sunrise-2025/
+  - https://link.springer.com/conference/sunrise
+  - https://link.springer.com/book/10.1007/978-3-032-22242-8
+  - https://portal.core.edu.au/conf-ranks/?search=SUNRISE&by=all&source=ICORE2026
+last_verified: 2026-11-14
+unverified:
+  - SUNRISE 2027 not announced yet

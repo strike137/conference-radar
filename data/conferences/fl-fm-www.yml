@@ -1,0 +1,89 @@
+id: fl-fm-www
+name: FL@FM-TheWebConf
+full_name: International Workshop on Federated Foundation Models for the Web
+type: workshop
+tier: minor
+areas: [ai, data, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (CUHK, UTS, Fudan University, NTU, Tianjin University, TrustFUL), co-located with The Web Conference
+organizer_country: [china, australia, singapore]
+proceedings: ACM DL (The Web Conference Companion Proceedings, opt-in)
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [4, 6]
+links:
+  website: https://federated-learning.org/fl@fm-www-2026/
+notes:
+- Half-day workshop at The Web Conference on federated learning for foundation models (privacy, efficiency, fairness, data interoperability)
+- Part of the FL@FM workshop series run by federated-learning.org (also at IJCAI, NeurIPS, AJCAI); The Web Conference editions in 2024 (Singapore), 2025 (Sydney) and 2026 (Dubai)
+- Authors choose whether their paper goes into the WWW Companion proceedings (ACM DL, archival); papers left out may be submitted elsewhere
+- Main paper 4 to 8 pages plus up to 2 pages of references and appendix, ACM double-column template; submissions are not anonymous
+- Late-breaking track for papers rejected by the WWW main conference, decided by the organizers without another review round
+- Organizers include Irwin King (CUHK), Guodong Long (UTS), Zenglin Xu (Fudan) and Han Yu (NTU)
+- Not listed in the CORE ICORE2026 portal or on the CCF list
+editions:
+- year: 2025
+  start: 2025-04-29
+  end: 2025-04-29
+  location: ICC Sydney, Sydney, Australia (with The Web Conference 2025)
+  url: https://federated-learning.org/fl@fm-www-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-01-01
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2025-01-22
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking papers (rejected WWW'25 papers)
+  - kind: notification
+    date: 2025-01-27
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-02-19
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-06-30
+  end: 2026-06-30
+  location: Dubai, United Arab Emirates (with The Web Conference 2026)
+  url: https://federated-learning.org/fl@fm-www-2026/
+  deadlines:
+  - kind: submission
+    date: 2025-12-24
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-01-13
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-01-20
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking papers (rejected WWW'26 papers)
+  - kind: notification
+    date: 2026-01-25
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking papers
+  - kind: camera_ready
+    date: 2026-02-02
+    time: "23:59"
+    tz: AoE
+sources:
+- https://federated-learning.org/fl@fm-www-2026/
+- https://federated-learning.org/fl@fm-www-2025/
+- https://federated-learning.org/
+- https://www2026.thewebconf.org/accepted/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=FL%40FM&by=all&source=ICORE2026
+unverified:
+- 2026 workshop date taken from the workshop page script (2026-06-30); the page text itself shows no date and lists the venue as Hall 10 and a virtual platform
+- 2025 late-breaking deadline given as both January 21 and January 22 on the workshop page
+- No 2027 edition announced yet
+last_verified: 2026-11-14
