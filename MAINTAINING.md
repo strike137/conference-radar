@@ -1,6 +1,6 @@
 # Maintaining the data
 
-How the data is kept current. A scheduled Claude agent runs this procedure every Sunday and
+How the data is kept current. A Claude agent runs this procedure every week on Friday or Saturday and
 publishes the result without manual review, so every rule below matters. Anyone doing a bulk update by hand
 should follow it too. Field definitions are in [CONTRIBUTING.md](CONTRIBUTING.md).
 
