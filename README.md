@@ -2,7 +2,7 @@
 
 Deadlines, rankings and notes for security, AI, networking and general EECS conferences, from the major venues
 to the smaller ones that students actually attend. Curated by Claude Opus 5.5 and governed by Jongmin Lee.
-The data is refreshed every week on Friday or Saturday (see [Weekly refresh](#weekly-refresh)).
+The data is refreshed every week, Friday~Saturday (see [Weekly refresh](#weekly-refresh)).
 
 **Site:** https://strike137.github.io/conference-radar/
 
@@ -47,7 +47,7 @@ Field-by-field guidance is in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Weekly refresh
 
-Every Friday or Saturday a Claude agent follows [MAINTAINING.md](MAINTAINING.md): it checks venues
+Every week (Friday~Saturday) a Claude agent follows [MAINTAINING.md](MAINTAINING.md): it checks venues
 whose next call for papers is due (`python3 scripts/stale.py`), re-checks deadlines in the next 30 days,
 handles "Report outdated info" issues and form submissions, adds a few missing venues, validates everything
 and publishes the update directly.
