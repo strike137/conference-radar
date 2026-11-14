@@ -29,7 +29,7 @@ notes:
 - Also runs a 4-hour LLM for Security student competition (hardware Trojan and software bug tracks) with community-submitted
   challenges
 - First edition in 2026 (not in the NDSS 2025 co-located list); 10 of 22 submissions accepted. NDSS 2027 moves to
-  Seoul, Korea (March 22 to 26, 2027); a LAST-X 2027 edition there is not announced yet
+  Seoul, Korea (March 22 to 26, 2027); the LAST-X 2027 call says it is held with NDSS 2027
 editions:
 - year: 2026
   start: 2026-02-27
@@ -47,7 +47,21 @@ editions:
   - kind: camera_ready
     date: 2026-01-30
     tz: AoE
+- year: 2027
+  location: Seoul, Korea (co-located with NDSS 2027, 22 to 26 March 2027)
+  url: https://last-x-workshop.github.io/callforpapers.html
+  deadlines:
+  - kind: submission
+    date: 2026-12-15
+    tz: AoE
+  - kind: notification
+    date: 2027-01-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-30
+    tz: AoE
 sources:
+- https://last-x-workshop.github.io/callforpapers.html
 - https://www.ndss-symposium.org/ndss2026/co-located-events/last-x/
 - https://www.ndss-symposium.org/ndss2026/submissions/cfp-last-x/
 - https://www.ndss-symposium.org/ndss-program/last-x-2026/
@@ -61,6 +75,6 @@ sources:
 - https://www.ndss-symposium.org/ndss2027/submissions/
 unverified:
 - Whether an earlier LAST-X edition existed outside NDSS
-- LAST-X 2027 not announced as of 2026-11-07 (NDSS 2027 in Seoul has not published its co-located events; the workshop site still describes 2026)
+- LAST-X 2027 workshop day not announced as of 2026-11-14 (NDSS 2027 has not published its co-located events; submission site lastx2027.hotcrp.com opening soon)
 - Registration fee not found
-last_verified: 2026-11-07
+last_verified: 2026-11-14

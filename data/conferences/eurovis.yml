@@ -142,6 +142,31 @@ editions:
     time: "23:59"
     tz: AoE
     label: Full papers
+  - kind: submission
+    date: 2027-02-17
+    time: "23:59"
+    tz: AoE
+    label: Short papers
+  - kind: notification
+    date: 2027-04-01
+    time: "23:59"
+    tz: AoE
+    label: Short papers
+  - kind: camera_ready
+    date: 2027-04-21
+    time: "23:59"
+    tz: AoE
+    label: Short papers (accepted; also revision deadline for conditionally accepted papers)
+  - kind: notification
+    date: 2027-04-23
+    time: "23:59"
+    tz: AoE
+    label: Short papers, conditionally accepted
+  - kind: camera_ready
+    date: 2027-04-29
+    time: "23:59"
+    tz: AoE
+    label: Short papers, conditionally accepted
 sources:
 - https://eurovis27.github.io/web/
 - https://eurovis27.github.io/web/submissions/all-deadlines/
@@ -150,6 +175,6 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=EuroVis&by=all&source=ICORE2026
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
 unverified:
-- EuroVis 2027 short paper, poster, demo, panel and tutorial deadlines not listed on the Important Dates page as of 2026-11-07
+- EuroVis 2027 poster, demo, panel and tutorial deadlines not listed on the Important Dates page as of 2026-11-14
 - CCF rank checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
-last_verified: 2026-11-07
+last_verified: 2026-11-14

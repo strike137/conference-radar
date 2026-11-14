@@ -16,7 +16,7 @@ links:
 notes:
 - Workshop on machine translation and supporting NLP tools (tokenizers, segmenters, morphology, corpora) for low-resource languages
 - Held every year since 2018, each time with a different host conference (AMTA 2018, MT Summit 2019, AACL-IJCNLP 2020, AMTA 2021, COLING 2022, EACL 2023, ACL 2024, NAACL 2025, EACL 2026)
-- Ninth edition held at EACL 2026 in Rabat, Morocco, on March 28, 2026
+- Ninth edition held at EACL 2026 in Rabat, Morocco, on March 28, 2026; tenth edition confirmed at COLING 2027 in Macau (May 9-14, 2027)
 - Proceedings in the ACL Anthology (24 papers in 2026, 17 in 2025, 20 in 2024, not counting front matter)
 - Research, review and position papers of 4 to 8 pages and system demonstration papers up to 4 pages; double-blind review via OpenReview; ARR commitment also accepted
 - 2026 ran a Turkic languages translation shared task
@@ -40,12 +40,29 @@ editions:
     date: 2026-02-10
     time: "23:59"
     tz: CET
+- year: 2027
+  location: Macau, China (with COLING 2027)
+  url: https://www.loresmt.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-10
+    tz: AoE
+  - kind: other
+    date: 2027-02-15
+    label: Pre-reviewed (ARR) submission
+  - kind: notification
+    date: 2027-02-28
+  - kind: camera_ready
+    date: 2027-03-10
+  - kind: other
+    date: 2027-03-24
+    label: Pre-recorded video due (hard deadline)
 sources:
 - https://www.loresmt.org/
 - https://www.loresmt.org/proceedings
 - https://aclanthology.org/venues/loresmt/
 - https://portal.core.edu.au/conf-ranks/?search=LoResMT&by=all&source=ICORE2026&sort=atitle&page=1
-last_verified: 2026-10-17
+last_verified: 2026-11-14
 unverified:
-- No 2027 edition or host conference announced as of 2026-10-17
+- Exact 2027 workshop day not announced yet (to be confirmed with COLING 2027, main conference May 9-14, 2027)
 - Acceptance rate not published

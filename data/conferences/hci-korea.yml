@@ -40,16 +40,34 @@ editions:
   start: 2027-01-27
   end: 2027-01-29
   location: Sono Belle Vivaldi Park Convention Center, Hongcheon, Korea
-  url: https://hcikorea.org/board/maininfo/article/284491
+  url: https://conference.hcikorea.org/hcik2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-23
+    time: "23:59"
+    tz: KST
+    label: Papers; case studies, panels, workshops and tutorials
+  - kind: notification
+    date: 2026-12-23
+  - kind: camera_ready
+    date: 2026-12-31
+    label: Final papers
+  - kind: other
+    date: 2026-12-26
+    label: Creative Award and doctoral consortium
+  - kind: other
+    date: 2027-01-20
+    label: Early registration
 sources:
 - https://conference.hcikorea.org/
 - https://conference.hcikorea.org/hcik2026/main/main.asp
 - https://conference.hcikorea.org/hcik2026/summary/location.asp
 - https://www.hcikorea.org/
 - https://hcikorea.org/board/maininfo/article/284491
+- https://hcikorea.org/board/maininfo/article/288095
 - https://hcikorea.org/board/maininfo/article/271911
 - https://portal.core.edu.au/conf-ranks/?search=HCI+Korea&by=all&source=ICORE2026
 unverified:
 - Archival status and acceptance rate (the 2026 site mentions paper review results but not how the proceedings count)
-- HCI KOREA 2027 submission deadlines not yet announced on 2026-11-07 (the society notice gives only dates and venue; the conference site still shows 2026)
-last_verified: 2026-11-07
+- HCI KOREA 2027 deadlines are from the society notice of 2026-11-10 (paper deadline "midnight" on 2026-11-23); conference.hcikorea.org could not be loaded on 2026-11-14
+last_verified: 2026-11-14

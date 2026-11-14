@@ -10,10 +10,10 @@ language: english
 frequency: annual
 organizer: Oriental COCOSDA
 organizer_country: [international]
-proceedings: IEEE Xplore
+proceedings: ISCA Archive (from 2026; IEEE Xplore up to 2025)
 indexing: [IEEE Xplore]
-fee: IDR 3,500,000 (USD 205) IEEE member author, IDR 4,000,000 (USD 235) non-member author, IDR 2,750,000 (USD 161)
-  IEEE student author (2025, early bird)
+fee: PHP 17,500 (USD 290) ISCA member, PHP 19,500 (USD 320) non-member, PHP 9,000 (USD 150) ISCA student member
+  (2026, early bird by September 28)
 typical:
   deadline_months: [7, 8]
   conference_months: [10, 11, 12]
@@ -23,8 +23,10 @@ notes:
 - Annual flagship conference of Oriental COCOSDA, an independent Asian body for speech corpora and speech technology
   assessment for Oriental languages, independent since 1997
 - 2025 edition hosted by Universitas Kristen Duta Wacana (UKDW) in Yogyakarta with KORIKA and BRIN
-- Rotates around Asia (2020 Yangon, 2021 Singapore, 2022 Hanoi, 2023 Delhi, 2024 Hsinchu, 2025 Yogyakarta)
-- Proceedings in IEEE Xplore; papers up to 6 pages in IEEE SPS double-column format including references
+- Rotates around Asia (2020 Yangon, 2021 Singapore, 2022 Hanoi, 2023 Delhi, 2024 Hsinchu, 2025 Yogyakarta, 2026 Cebu)
+- Proceedings in IEEE Xplore up to 2025; 2026 is ISCA-supported and its proceedings will be submitted to the ISCA Archive
+- 2026 papers up to 8 pages plus 2 pages for references in the Interspeech 2026 template, double-blind review via EasyChair
+  (2025 used up to 6 pages in IEEE SPS format)
 - Topics include speech databases and text corpora, assessment of speech I/O, prosody, segmentation and labeling,
   multilingual corpora and standardization
 - In-person conference; papers not presented on site are left out of the proceedings and IEEE Xplore
@@ -54,6 +56,25 @@ editions:
   - kind: other
     date: 2025-10-06
     label: Early registration ends
+- year: 2026
+  label: 29th O-COCOSDA
+  start: 2026-11-25
+  end: 2026-11-27
+  location: Plantation Bay Resort and Spa, Mactan Island, Cebu, Philippines
+  url: https://www.ococosda2026.com.ph/
+  deadlines:
+  - kind: submission
+    date: 2026-08-17
+    label: Full papers
+  - kind: notification
+    date: 2026-09-14
+    label: Updated on the official site (June call for papers said 2026-09-07)
+  - kind: camera_ready
+    date: 2026-10-05
+    label: Updated on the official site (June call for papers said 2026-09-28)
+  - kind: other
+    date: 2026-09-28
+    label: Early registration ends
 sources:
 - https://oriental-cocosda.org
 - https://oriental-cocosda.org/about/
@@ -66,10 +87,14 @@ sources:
 - https://ococosda2025.id/registration/index_submission_guide.html
 - https://ieeexplore.ieee.org/xpl/conhome/11383559/proceeding
 - https://oriental-cocosda.org/archive/2024/
+- https://www.ococosda2026.com.ph/
+- https://www.ococosda2026.com.ph/pages/paper-submission.html
+- https://www.ococosda2026.com.ph/pages/registration.html
+- https://adric.dlsu.edu.ph/?p=580
 - https://portal.core.edu.au/conf-ranks/?search=COCOSDA&by=all&source=ICORE2026&sort=atitle&page=1
-last_verified: 2026-11-07
+last_verified: 2026-11-14
 unverified:
-- 2026 edition is listed for the Philippines on the official conference list, but no dates, website or call for papers
-  were found (rechecked 2026-11-07)
+- 2026 deadline times and time zone not stated on the official site
+- No 2027 edition announced as of 2026-11-14
 - Original 2025 submission and notification deadlines before the extensions
 - DBLP coverage (DBLP page not reachable during the check)

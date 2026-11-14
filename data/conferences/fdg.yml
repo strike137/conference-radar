@@ -7,23 +7,24 @@ areas: [ai]
 region: worldwide
 language: english
 frequency: annual
-organizer: SASDG (Society for the Advancement of the Science of Digital Games); 2026 hosted by the Royal Danish Academy
+organizer: SASDG (Society for the Advancement of the Science of Digital Games); 2026 hosted by the Royal Danish Academy, 2027 by the University of Melbourne
 organizer_country: [international]
 proceedings: ACM DL (Proceedings of the International Conference on the Foundations of Digital Games)
 archival: true
 rank:
   core: C
 typical:
-  deadline_months: [12]
-  conference_months: [8]
+  deadline_months: [12, 1]
+  conference_months: [6, 8]
 links:
-  website: https://fdg2026.org/
+  website: http://fdg2027.org/
 notes:
 - Run by SASDG, a California nonprofit founded in 2008 as the organizational home of FDG; host chosen by its steering committee
 - Interdisciplinary games research conference (computer science, engineering, humanities, social sciences, design) with a Game AI track
-- Full papers up to ten pages in ACM SIGCONF format; double-anonymised review with three reviews, a meta-review and an author response
+- Full papers up to ten pages in ACM SIGCONF format in 2026; 2027 switches to the single-column ACM Primary Article template, generally up to 16 pages excluding references (desk reject above 24)
+- Double-anonymised review (2026 had three reviews, a meta-review and an author response)
 - Proceedings in the ACM Digital Library; abstract-only submissions are presented but not published
-- Abstract registration about ten days before the full paper deadline; separate later deadline for late-breaking short papers, games/demos and doctoral consortium
+- Abstract (metadata) registration one to ten days before the full paper deadline; separate later deadline for late-breaking short papers, games/demos and doctoral consortium
 - Hybrid sessions allow remote presentations (2026)
 - CORE ICORE2026 rank C; not on the CCF list
 editions:
@@ -55,7 +56,46 @@ editions:
     time: "23:59"
     tz: AoE
     label: Late-breaking short papers, games/demos and doctoral consortium
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-24
+  location: The University of Melbourne, Parkville, Melbourne, Australia
+  url: http://fdg2027.org/
+  deadlines:
+  - kind: other
+    date: 2026-11-16
+    time: "23:59"
+    tz: AoE
+    label: Workshop and panel proposals
+  - kind: other
+    date: 2026-12-01
+    label: Workshop and panel proposal notification
+  - kind: abstract
+    date: 2027-01-04
+    time: "23:59"
+    tz: AoE
+    label: Metadata for full papers and abstract-only submissions
+  - kind: submission
+    date: 2027-01-11
+    time: "23:59"
+    tz: AoE
+    label: Full papers and abstract-only submissions
+  - kind: notification
+    date: 2027-03-01
+    label: Full papers and abstract-only submissions
+  - kind: other
+    date: 2027-03-08
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking work, games and demos, doctoral consortium
+  - kind: other
+    date: 2027-04-12
+    label: Late-breaking work, games and demos, doctoral consortium notification
 sources:
+- http://fdg2027.org/
+- http://fdg2027.org/authorinformation.html
+- http://fdg2027.org/submissionguidelines.html
+- http://fdg2027.org/venue.html
 - https://fdg2026.org/
 - https://fdg2026.org/call-for-papers/
 - https://fdg2026.org/organizing-committee/
@@ -64,10 +104,10 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=FDG&by=all&source=ICORE2026
 - http://www.sasdg.org/
 - http://www.sasdg.org/fdg-call-for-proposals.html
-last_verified: 2026-11-07
+last_verified: 2026-11-14
 unverified:
-- FDG 2027 host and dates not yet found (SASDG called for 2027-2029 hosting proposals)
 - Worldwide rotation (region) is judged from past host cities, not from an official statement
 - The call for papers page says August 10-14 while the home page and schedule say August 10-13
-- Typical months are taken from the 2026 edition only; earlier editions were held at other times of year
+- Typical months are taken from the 2026 and 2027 editions only; earlier editions were held at other times of year
+- FDG 2027 site says it is pursuing ACM ICPS publication in the ACM DL, not yet confirmed
 - Indexing not stated

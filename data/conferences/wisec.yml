@@ -16,19 +16,51 @@ rank:
   core: B
   ccf: C
 typical:
-  deadline_months: [3, 11]
+  deadline_months: [2, 3, 11]
   conference_months: [5, 6, 7]
 links:
   website: https://www.sigsac.org/wisec/
   dblp: https://dblp.org/db/conf/wisec/index.html
 notes:
 - Sponsored by ACM SIGSAC; dedicated to wireless, mobile, IoT and cellular security (physical layer up to apps)
-- Two submission cycles (November and March) with firm deadlines; double-blind review
+- Two submission cycles (November and February or March) with firm deadlines; double-blind review
+- The 2027 call says all deadlines are firm and no extensions will be given
 - Full papers up to 10 pages (12 total), short papers up to 6 pages, SoK papers up to 15 pages total; proceedings
   in ACM DL
-- Held in Seoul, Korea (KAIST) in 2024; otherwise mostly USA and Europe
+- Held in Seoul, Korea (KAIST) in 2024 and Singapore in 2027; otherwise mostly USA and Europe
 - Regarded as competitive; acceptance rate around 20%
 editions:
+- year: 2027
+  label: 20th WiSec
+  start: 2027-06-29
+  end: 2027-07-02
+  location: Singapore
+  url: https://ntu-dtc.github.io/wisec2027/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    tz: AoE
+    label: Cycle 1
+  - kind: notification
+    date: 2027-01-11
+    label: Cycle 1
+  - kind: camera_ready
+    date: 2027-02-01
+    label: Cycle 1
+  - kind: submission
+    date: 2027-02-15
+    tz: AoE
+    label: Cycle 2
+  - kind: other
+    date: 2027-04-05
+    tz: AoE
+    label: Posters and demos submission
+  - kind: notification
+    date: 2027-04-12
+    label: Cycle 2
+  - kind: camera_ready
+    date: 2027-05-03
+    label: Cycle 2
 - year: 2026
   start: 2026-06-30
   end: 2026-07-03
@@ -60,6 +92,8 @@ editions:
     date: 2026-05-05
     label: Cycle 2
 sources:
+- https://ntu-dtc.github.io/wisec2027/
+- https://ntu-dtc.github.io/wisec2027/call-for-papers/
 - https://wisec26.events.cispa.de/
 - https://wisec26.events.cispa.de/call-for-papers/
 - https://www.sigsac.org/wisec/
@@ -67,8 +101,7 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=WiSec&by=all&source=ICORE2026&sort=atitle&page=1
 - https://github.com/ccfddl/ccf-deadlines
 unverified:
-- WiSec 2027 dates, location and deadlines not yet announced (SIGSAC WiSec page lists up to WiSec '26; no 2027 site
-  found as of 2026-11-07)
+- WiSec 2027 venue within Singapore not yet announced (as of 2026-11-14)
 - 'Exact acceptance rate: 2026 figures conflict (23/121 vs 31/145 in different sources); 2025 reported as 28/123
   in the ccf-deadlines compilation, not independently checked'
-last_verified: 2026-11-07
+last_verified: 2026-11-14

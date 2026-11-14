@@ -50,8 +50,32 @@ editions:
 - year: 2026
   start: 2026-05-04
   end: 2026-05-08
-  location: Gothenburg, Sweden
-  url: https://sites.google.com/view/thetypesconferences/earlier-meetings
+  location: Gothenburg, Sweden (Lindholmen Conference Center)
+  url: https://types2026.cse.chalmers.se/
+  deadlines:
+  - kind: submission
+    date: 2026-01-20
+    tz: AoE
+    label: 2-page abstract (extended)
+  - kind: notification
+    date: 2026-02-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-03
+    tz: AoE
+    label: Abstract camera-ready, extended from 2026-03-31
+  - kind: other
+    date: 2026-11-16
+    tz: AoE
+    label: Post-proceedings title and abstract
+  - kind: other
+    date: 2026-11-30
+    tz: AoE
+    label: Post-proceedings full paper
+  - kind: other
+    date: 2027-03-31
+    tz: AoE
+    label: Post-proceedings notification
 - year: 2027
   start: 2027-06-07
   end: 2027-06-11
@@ -68,11 +92,13 @@ sources:
 - https://sites.google.com/view/thetypesconferences/next-types-meeting
 - https://sites.google.com/view/thetypesconferences/earlier-meetings
 - https://msp.cis.strath.ac.uk/types2025/index.html
+- https://types2026.cse.chalmers.se/
+- https://types2026.cse.chalmers.se/call-for-contributions.html
+- https://types2026.cse.chalmers.se/postproceedings.html
 - https://msp.cis.strath.ac.uk/types2025/cfp.html
 - https://msp.cis.strath.ac.uk/types2025/postproceedings.html
 - https://portal.core.edu.au/conf-ranks/?search=TYPES&by=all&source=ICORE2026
 unverified:
-- TYPES 2026 (Gothenburg) website and deadlines not found; dates taken from the series page
-- TYPES 2027 call for contributions and deadlines not yet published on an official page found as of 2026-11-07
+- TYPES 2027 call for contributions and deadlines not yet published on an official page found as of 2026-11-14
 - CCF list checked in a mirrored copy of the CCF 2026 list (ccf.org.cn not reachable)
-last_verified: 2026-11-07
+last_verified: 2026-11-14

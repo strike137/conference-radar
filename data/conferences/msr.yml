@@ -90,6 +90,10 @@ editions:
     date: 2026-11-20
     tz: AoE
     label: Registered Reports (initial report)
+  - kind: notification
+    date: 2027-02-04
+    tz: AoE
+    label: Registered Reports (Stage 1)
   - kind: other
     date: 2026-12-03
     label: Technical papers early reject notification; author response Dec 4 to 8
@@ -112,6 +116,7 @@ editions:
     date: 2027-01-26
     label: Technical papers
 sources:
+- https://2027.msrconf.org/track/msr-2027-registered-reports
 - https://2027.msrconf.org/track/msr-2027-technical-papers
 - https://2027.msrconf.org/track/msr-2027-data-and-tool-showcase-track
 - https://conf.researchr.org/dates/icse-2027
@@ -123,4 +128,4 @@ sources:
 unverified:
 - Recent acceptance rate not found in an official source
 - No extension of the Data and Tool Showcase deadlines announced as of 2026-10-31
-last_verified: 2026-11-07
+last_verified: 2026-11-14

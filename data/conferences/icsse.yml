@@ -16,9 +16,9 @@ typical:
   deadline_months: [4, 5]
   conference_months: [5, 6, 7, 8]
 links:
-  website: https://icsse2025.rmutl.ac.th/
+  website: https://ele.mcu.edu.tw/icsse2026/
 notes:
-- Run by the Taiwan Association for System Science and Engineering with a local host university
+- Run by the Taiwan Association for System Science and Engineering with a local host university (National Ilan University in 2026)
 - Rotates within Asia (Ho Chi Minh City 2021 and 2023, Taichung 2022, Hsinchu 2024, Chiang Mai 2025, Aomori 2026)
 - Very broad EE and CS scope (AI, control, robotics, communications, power, security, software)
 - Regular papers of 6 pages (up to 8 with extra page fees) go to IEEE Xplore; one-page presentation-only position
@@ -42,7 +42,21 @@ editions:
   - kind: other
     date: 2025-07-31
     label: Author registration (early bird until 2025-07-20)
+- year: 2026
+  start: 2026-08-09
+  end: 2026-08-12
+  location: Aomori, Japan (Link Station Hall Aomori)
+  url: https://ele.mcu.edu.tw/icsse2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    label: Final extension
+  - kind: other
+    date: 2026-06-30
+    label: Author registration
 sources:
+- https://ele.mcu.edu.tw/icsse2026/
+- https://ele.mcu.edu.tw/icsse2026/wp-content/uploads/sites/130/2026/04/ICSSE2026_CFP.pdf
 - https://icsse2025.rmutl.ac.th/
 - https://icsse2025.rmutl.ac.th/submission/
 - https://icsse2025.rmutl.ac.th/registration/
@@ -50,10 +64,10 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=ICSSE&by=all&source=ICORE2026
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
 unverified:
-- ICSSE 2026 (Aomori, Japan, August 9 to 12, 2026 per IEEE DOI metadata) official site not found, so its dates and
-  deadlines are not recorded
-- ICSSE 2027 host and dates not announced or not found as of 2026-11-07
+- ICSSE 2026 notification date not recorded; the official site lists notification of acceptance as May 31, 2026, the
+  same day as the final submission deadline, and the original submission deadline is not shown
+- ICSSE 2027 host and dates not announced or not found as of 2026-11-14
 - Locations of editions before 2025 taken from IEEE DOI metadata (Crossref), not from the conference sites
 - Acceptance rate not published
 - CCF rank checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
-last_verified: 2026-11-07
+last_verified: 2026-11-14

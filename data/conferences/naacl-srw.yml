@@ -19,7 +19,8 @@ links:
 notes:
 - Student workshop held as part of NAACL; topics are the same as the main NAACL conference
 - Only held in years with a NAACL conference (2024 Mexico City, 2025 Albuquerque; no NAACL in 2026; NAACL 2027 in San Francisco)
-- Research papers (first author must be a student) and thesis proposals, up to 5 pages plus references, submitted on OpenReview
+- Research papers (first author must be a student) and thesis proposals, submitted on OpenReview; 2025 allowed up to 5 pages plus references
+- 2027 allows long papers up to 8 pages, short papers up to 4 pages and thesis proposals up to 8 pages (plus one page on acceptance), double-blind review, no ARR commitment track
 - Authors choose archival or non-archival; archival papers appear as the Student Research Workshop volume of the NAACL proceedings in the ACL Anthology
 - Optional pre-submission mentorship about two months before the deadline; travel grants for students
 - Accepted papers are presented in the main conference poster session
@@ -49,13 +50,38 @@ editions:
     date: 2025-03-25
     time: "23:59"
     tz: AoE
+- year: 2027
+  start: 2027-06-01
+  end: 2027-06-05
+  location: San Francisco, California, USA (with NAACL 2027)
+  url: https://2027.naacl.org/calls/srw/
+  deadlines:
+  - kind: other
+    date: 2026-11-16
+    time: "23:59"
+    tz: AoE
+    label: Pre-submission mentorship request
+  - kind: submission
+    date: 2027-01-11
+    time: "23:59"
+    tz: AoE
+    label: Paper and student-status proof
+  - kind: notification
+    date: 2027-03-08
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-03-15
+    time: "23:59"
+    tz: AoE
 sources:
 - https://naacl2025-srw.github.io/
 - https://naacl2025-srw.github.io/cfp
 - https://aclanthology.org/volumes/2025.naacl-srw/
 - https://naacl2024-srw.github.io/
 - https://2027.naacl.org/
+- https://2027.naacl.org/calls/srw/
 - https://portal.core.edu.au/conf-ranks/?search=Student+Research&by=all&source=ICORE2026
 unverified:
-- NAACL 2027 SRW call not announced yet (NAACL 2027 is June 1 to 5, 2027 in San Francisco)
-last_verified: 2026-11-07
+- Exact SRW day within NAACL 2027 (June 1 to 5, 2027) not announced yet; the 2027 edition uses the main conference dates
+last_verified: 2026-11-14

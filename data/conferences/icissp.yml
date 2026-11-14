@@ -88,13 +88,13 @@ editions:
     tz: AoE
     label: Position/regular papers (2nd stage, extended from 2026-10-22)
   - kind: notification
-    date: 2026-11-13
+    date: 2026-11-18
     tz: AoE
-    label: Regular papers (1st stage)
+    label: Regular papers (1st stage, moved from 2026-11-13)
   - kind: camera_ready
-    date: 2026-11-27
+    date: 2026-12-02
     tz: AoE
-    label: Regular papers (1st stage), with registration
+    label: Regular papers (1st stage), with registration (moved from 2026-11-27)
   - kind: submission
     date: 2026-11-29
     tz: AoE
@@ -103,6 +103,10 @@ editions:
     date: 2026-12-03
     tz: AoE
     label: Abstracts track (not published)
+  - kind: submission
+    date: 2026-12-03
+    tz: AoE
+    label: Workshop papers
   - kind: notification
     date: 2026-12-04
     tz: AoE
@@ -119,6 +123,10 @@ editions:
     date: 2026-12-21
     tz: AoE
     label: Abstracts track
+  - kind: notification
+    date: 2026-12-21
+    tz: AoE
+    label: Workshop papers
   - kind: camera_ready
     date: 2027-01-08
     tz: AoE
@@ -127,6 +135,10 @@ editions:
     date: 2027-01-08
     tz: AoE
     label: Late-breaking papers, with registration
+  - kind: camera_ready
+    date: 2027-01-08
+    tz: AoE
+    label: Workshop papers, with registration
 sources:
 - https://icissp.scitevents.org/
 - https://icissp.scitevents.org/ImportantDates.aspx
@@ -143,4 +155,4 @@ unverified:
 - Official acceptance rate (INSTICC does not show it on the conference site; only the 151-submission count for 2025
   was found)
 - Venue type of ICISSP 2025 in Porto (hotel or congress centre)
-last_verified: 2026-11-07
+last_verified: 2026-11-14

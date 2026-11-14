@@ -9,7 +9,7 @@ language: mixed
 frequency: annual
 organizer: CAAI
 organizer_country: [china]
-proceedings: Springer (selected English papers)
+proceedings: Springer CCIS
 archival: true
 typical:
   deadline_months: [3]
@@ -22,6 +22,8 @@ notes:
 - Double-blind review; papers in Chinese or English
 - Outstanding English papers are published by Springer; good Chinese papers are recommended to Chinese journals
 - All accepted papers are presented as posters
+- 2026 edition (11th) held in Chongqing, co-hosted by the CAAI Technical Committee on Social Computing and Social Intelligence and Chongqing University
+- English papers at least 12 pages (2026)
 editions:
 - year: 2025
   start: 2025-08-15
@@ -31,12 +33,30 @@ editions:
   deadlines:
   - kind: submission
     date: 2025-03-10
+- year: 2026
+  start: 2026-07-24
+  end: 2026-07-26
+  location: Chongqing, China
+  url: https://easychair.org/cfp/bdsc2026
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-05-15
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-25
+    time: "23:59"
+    tz: AoE
 sources:
 - https://easychair.org/cfp/BDSC2025
+- https://easychair.org/cfp/bdsc2026
 - https://portal.core.edu.au/conf-ranks/?search=BDSC&by=all&source=ICORE2026
 unverified:
 - No standalone official website found; only the EasyChair call for papers
-- Springer series name (reported as CCIS) not stated on the call for papers
-- BDSC 2026 not found as of 2026-11-07
+- BDSC 2027 not announced as of 2026-11-14
 - Not listed in ICORE2026 and not in the CCF 2026 list
-last_verified: 2026-11-07
+last_verified: 2026-11-14

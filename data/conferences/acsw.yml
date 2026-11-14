@@ -77,16 +77,16 @@ editions:
     date: 2026-11-15
     tz: AoE
     label: AISC 2027 round 2
-  - kind: submission
-    date: 2026-11-15
-    tz: AEST
-    label: ITCSREC 2027 papers
   - kind: abstract
     date: 2026-11-20
     label: ALIS 2027
   - kind: submission
     date: 2026-11-27
     label: ALIS 2027
+  - kind: submission
+    date: 2026-11-27
+    tz: AEST
+    label: ITCSREC 2027 papers (extended from 2026-11-15)
   - kind: notification
     date: 2026-12-10
     tz: AoE
@@ -136,4 +136,4 @@ unverified:
 - Registration fees
 - Acceptance rates of the co-located conferences
 - ACE 2027 camera-ready date
-last_verified: 2026-11-07
+last_verified: 2026-11-14

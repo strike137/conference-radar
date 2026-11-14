@@ -128,13 +128,19 @@ editions:
   - kind: notification
     date: 2027-01-13
     label: Late-breaking reports
+  - kind: camera_ready
+    date: 2027-01-25
+    time: "23:59"
+    tz: AoE
+    label: Late-breaking reports
 sources:
 - https://humanrobotinteraction.org/2026/
 - https://humanrobotinteraction.org/2026/full-papers/
 - https://humanrobotinteraction.org/2027/
 - https://humanrobotinteraction.org/2027/full-papers/
+- https://humanrobotinteraction.org/2027/late-breaking-reports/
 - https://portal.core.edu.au/conf-ranks/?search=HRI&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
 - Acceptance rate and registration fee
 - Whether HRI proceedings also appear in IEEE Xplore (the CFP names only the ACM Digital Library)
-last_verified: 2026-10-11
+last_verified: 2026-11-14

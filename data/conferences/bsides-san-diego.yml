@@ -13,7 +13,7 @@ proceedings: None (non-archival)
 archival: false
 typical:
   deadline_months: [12]
-  conference_months: [4]
+  conference_months: [3, 4]
 links:
   website: https://www.bsidessd.org/
 notes:
@@ -36,6 +36,18 @@ editions:
   - kind: notification
     date: 2026-01-14
     label: First round notification
+- year: 2027
+  start: 2027-03-27
+  end: 2027-03-27
+  location: 6075 Aztec Circle Dr, San Diego, California, USA
+  url: https://www.bsidessd.org/
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+    label: Call for Papers
+  - kind: notification
+    date: 2027-01-17
+    label: First round notification
 sources:
 - https://www.bsidessd.org/
 - https://www.bsidessd.org/cfp
@@ -43,7 +55,7 @@ sources:
 - https://www.bsidessd.org/about
 - https://www.bsidessd.org/past-events
 - https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
-last_verified: 2026-11-07
+last_verified: 2026-11-14
 unverified:
-- 2027 dates and call for papers not announced as of 2026-11-07 (site says "See you all next year!"; CFP page still shows the closed 2026 call)
+- Time and time zone of the 2027 CFP deadline not stated
 - Dates of editions before 2026 not stated on the official site
